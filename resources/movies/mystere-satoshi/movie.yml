@@ -1,0 +1,18 @@
+id: 387b5d46-e690-4fb0-8bd8-3832b3df5349
+title: Le mystère Satoshi, enquête sur l'inventeur du bitcoin
+author: Rémy Forte
+publication_year: 2021
+duration: 68
+language: fr
+links:
+  platform: https://www.youtube.com/watch?v=qkNhjVJZ4N0 
+  trailer: https://www.youtube.com/embed/qkNhjVJZ4N0?si=RbBR2pBT8L3Vh8lo&amp;clip=UgkxxA5gol7UsE-M-DgQycPGgesCdyyjbw6T&amp;clipt=EAAY4NQD
+description: |
+  À l’ère d’Internet, un groupe d’informaticiens, les Cypherpunks, cherche à coder une monnaie électronique anonyme et autonome, libre, directe, sans intermédiaire. Tous échouent, à l’exception d’un certain Satoshi Nakamoto qui publie, en pleine crise des subprimes... le code du bitcoin.
+  Le 3 janvier 2009, un certain Satoshi Nakamoto lance le bitcoin, la toute première cryptomonnaie décentralisée et fiable. En 2011, il disparaît de la circulation. Le mystère Satoshi est une web-série documentaire qui décrypte les rouages de la révolution Bitcoin tout en enquêtant sur l’identité de son créateur énigmatique, resté anonyme jusqu’à présent.
+tags:
+  - historical
+  - protocols
+  - privacy
+contributors:
+  - another-satoshi
