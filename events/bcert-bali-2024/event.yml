@@ -1,9 +1,10 @@
-- start_date: 2025-01-21 10:00:00
-  end_date: 2025-01-21 11:00:00
+- start_date: 2025-01-21 11:00:00
+  end_date: 2025-01-21 12:00:00
+  timezone: Europe/Belgrade
   address_line_1: Kabupaten Badung, Bali 80351, Indonesia
   address_line_2: Jalan Kayu Manis, Canggu, Kec. Kuta Utara
   address_line_3:
-  name: B-Cert Exam at EDO
+  name: B-Cert Exam at Bitcoin House Bali
   builder: Bitcoin House Bali
   type: exam
   book_online: false
