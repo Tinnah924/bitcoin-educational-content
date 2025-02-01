@@ -4,10 +4,11 @@ links:
   website: https://tether.to/
   twitter: https://x.com/Tether_to/
 affiliations:
-- Tether
+  - Tether
 tags:
-- guides
-- DIY
+  - finance
+  - market-trends
+  - scalability
 tips:
   lightning_address:
 company: Tether

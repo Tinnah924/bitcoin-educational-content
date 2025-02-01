@@ -6,11 +6,9 @@ level: advanced
 category: mobile
 
 tags:
-  - muli-sig
-  - self-custodial
-
-
-# Proofreading metadata
+  - guides
+  - wallets
+  - user-friendly
 original_language: en
 proofreading:
   - language: cs

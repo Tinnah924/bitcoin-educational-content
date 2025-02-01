@@ -4,9 +4,10 @@ language: en
 links:
   podcast: https://open.spotify.com/show/6jEPeE4yhsoZJrDRcs9dLN
 description: |
- We explore the impact that Bitcoin will have in all aspects of society. 
+  We explore the impact that Bitcoin will have in all aspects of society. 
 tags:
-  - bitcoin
-  - technology
+  - adoption
+  - future-outlook
+  - market-trends
 contributors:
   - rabbit-hole

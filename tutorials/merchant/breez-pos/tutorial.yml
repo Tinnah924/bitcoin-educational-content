@@ -6,12 +6,9 @@ level: intermediate
 category: merchant
 
 tags:
-  - wallet
+  - guides
+  - wallets
   - lightning
-  - infrasctructure
-  - POS
-
-# Proofreading metadata
 original_language: en
 proofreading:
   - language: cs

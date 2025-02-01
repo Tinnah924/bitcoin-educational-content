@@ -3,9 +3,8 @@ builder: Sparrow
 
 tags:
   - privacy
-  - coinjoin
-  - mix
-
+  - guides
+  - wallets
 category: on-chain
 
 level: intermediate

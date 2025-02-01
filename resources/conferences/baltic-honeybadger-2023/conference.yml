@@ -7,11 +7,9 @@ language:
 links:
   website: https://baltichoneybadger.com/
 tags:
-  - Bitcoiner
-  - General
-  - lightning network
-
-# Proofreading metadata
+  - historical
+  - cypherpunk
+  - self-sovereignty
 original_language: en
 proofreading:
   - language: en

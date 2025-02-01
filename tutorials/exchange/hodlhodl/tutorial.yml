@@ -6,11 +6,9 @@ level: intermediate
 category: peer-to-peer
 
 tags:
-  - multi-coin
-  - peer-to-peer
-  - light-KYC
-
-# Proofreading metadata
+  - guides
+  - software
+  - user-friendly
 original_language: en
 proofreading:
   - language: cs

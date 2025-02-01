@@ -6,10 +6,9 @@ credits:
   link: https://grunch.dev/blog/
 
 tags:
-  - node
-  - privacy
-  - infrastructure
-
+  - protocols
+  - high-level
+  - smart-contracts
 category: rgb
 
 level: advanced

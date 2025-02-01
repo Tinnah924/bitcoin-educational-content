@@ -6,10 +6,9 @@ links:
   github: https://github.com/sparrowwallet/sparrow
 
 tags:
-  - wallet
-  - open-source
-  - bitcoin-only
-
+  - wallets
+  - user-friendly
+  - keys
 category: wallet
 
 # Proofreading metadata

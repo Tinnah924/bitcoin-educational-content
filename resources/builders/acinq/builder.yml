@@ -8,11 +8,9 @@ links:
 category: infrastructure
 
 tags:
-  - lightning-network
-  - wallet
-  - infrastructure
-
-# Proofreading metadata
+  - lightning
+  - software
+  - business
 original_language: en
 proofreading:
   - language: cs

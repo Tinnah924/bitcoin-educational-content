@@ -6,11 +6,9 @@ level: intermediate
 category: mobile
 
 tags:
-  - open-source
-  - Privacy
-  - self-custodial
-
-# Proofreading metadata
+  - wallets
+  - privacy
+  - user-friendly
 original_language: en
 proofreading:
   - language: cs

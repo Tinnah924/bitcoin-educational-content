@@ -1,10 +1,9 @@
 author: Andreas & rené
 level: intermediate
 tags:
-  - bitcoin
-  - technology;
-
-# Proofreading metadata
+  - lightning
+  - layers
+  - deep-dive
 original_language: en
 proofreading:
   - language: cs

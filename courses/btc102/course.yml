@@ -88,3 +88,7 @@ proofreading:
     contributors_id:
       - MilankovicProtocol
     reward: 20575
+tags:
+  - keys
+  - wallets
+  - good-practice

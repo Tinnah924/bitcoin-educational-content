@@ -1,10 +1,9 @@
 author: Eric S. Raymond
 level: intermediate
 tags:
-  - computer science
-  - programming
-
-# Proofreading metadata
+  - good-practice
+  - development
+  - protocols
 original_language: en
 proofreading:
   - language: cs

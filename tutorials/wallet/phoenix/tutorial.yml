@@ -6,11 +6,9 @@ level: intermediate
 category: mobile
 
 tags:
-  - open-source
-  - lightning-network
-  - self-custodial
-
-# Proofreading metadata
+  - wallets
+  - guides
+  - user-friendly
 original_language: en
 proofreading:
   - language: cs

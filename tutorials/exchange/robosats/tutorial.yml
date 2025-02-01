@@ -4,10 +4,9 @@ builder: RoboSats
 level: intermediate
 
 tags:
-  - open-source
-  - peer-to-peer
-  - bitcoin-only
-
+  - guides
+  - software
+  - privacy
 category: peer-to-peer
 
 credits:

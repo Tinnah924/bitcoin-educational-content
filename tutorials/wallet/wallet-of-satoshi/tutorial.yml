@@ -6,11 +6,9 @@ level: beginner
 category: mobile
 
 tags:
-  - wallet
-  - lightning-network
-  - custodial
-
-# Proofreading metadata
+  - wallets
+  - lightning
+  - user-friendly
 original_language: en
 proofreading:
   - language: cs

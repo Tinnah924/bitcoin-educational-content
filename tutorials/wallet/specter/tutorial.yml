@@ -6,11 +6,9 @@ level: advanced
 category: desktop
 
 tags:
-  - self-custodial
-  - multi-sig
-  - open-source
-
-# Proofreading metadata
+  - guides
+  - wallets
+  - DIY
 original_language: en
 proofreading:
   - language: cs

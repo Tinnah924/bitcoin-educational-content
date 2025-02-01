@@ -6,11 +6,9 @@ level: advanced
 category: peer-to-peer
 
 tags:
-  - peer-to-peer
-  - open-source
-  - bitcoin-only
-
-# Proofreading metadata
+  - software
+  - guides
+  - good-practice
 original_language: en
 proofreading:
   - language: cs

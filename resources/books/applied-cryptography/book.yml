@@ -1,11 +1,9 @@
 author: Bruce Schneier
 level: advanced
 tags:
-  - security
-  - technology
-  - cryptography
-
-# Proofreading metadata
+  - cypherpunk
+  - deep-dive
+  - technical-analysis
 original_language: en
 proofreading:
   - language: cs

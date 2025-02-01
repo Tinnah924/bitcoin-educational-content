@@ -6,11 +6,9 @@ level: beginner
 category: mobile
 
 tags:
-  - custodial
-  - lightning
-  - open-source
-
-# Proofreading metadata
+  - wallets
+  - guides
+  - user-friendly
 original_language: en
 proofreading:
   - language: cs

@@ -6,10 +6,9 @@ level: advanced
 category: hardware
 
 tags:
-  - self-custodial
-  - Open-source
-
-# Proofreading metadata
+  - guides
+  - hardware
+  - DIY
 original_language: en
 proofreading:
   - language: cs

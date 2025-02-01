@@ -6,12 +6,9 @@ level: beginner
 category: merchant
 
 tags:
-  - wallet
-  - point of sales
-  - merchant
-  - custodial
-
-# Proofreading metadata
+  - business
+  - software
+  - guides
 original_language: en
 proofreading:
   - language: cs

@@ -12,10 +12,9 @@ tips:
   silent_payment: sp1qblabla2
 
 tags:
-  - privacy
-  - lightning-network
-  - cryptography
-
+  - consensus
+  - network-security
+  - node
 affiliations:
   - DécouvreBitcoin
   - LN Markets

@@ -6,10 +6,9 @@ links:
   github: https://github.com/cryptoadvance
 
 tags:
-  - wallet
-  - open-source
-  - bitcoin-only
-
+  - wallets
+  - DIY
+  - node
 category: wallet
 
 # Proofreading metadata

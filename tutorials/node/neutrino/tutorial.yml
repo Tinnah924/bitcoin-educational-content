@@ -10,12 +10,9 @@ level: advanced
 category: lightning-network
 
 tags:
-  - open-source
-  - self-custodial
+  - node
+  - guides
   - lightning
-  - LND
-
-# Proofreading metadata
 original_language: en
 proofreading:
   - language: cs

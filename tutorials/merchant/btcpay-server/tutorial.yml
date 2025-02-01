@@ -5,11 +5,9 @@ level: advanced
 
 category: merchant
 tags:
-  - point of sales
-  - non-KYC
-  - open-source
-
-# Proofreading metadata
+  - guides
+  - node
+  - self-sovereignty
 original_language: en
 proofreading:
   - language: cs

@@ -6,10 +6,9 @@ links:
   github: https://github.com/LedgerHQ
 
 tags:
-  - wallet
-  - security-solution
-  - infrastructure
-
+  - hardware
+  - wallets
+  - keys
 category: wallet
 
 # Proofreading metadata

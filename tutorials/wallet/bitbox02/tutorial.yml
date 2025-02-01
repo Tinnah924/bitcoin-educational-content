@@ -6,9 +6,9 @@ level: intermediate
 category: hardware
 
 tags:
-  - self-custodial
-  - Open-source
-
+  - wallets
+  - guides
+  - keys
 credits:
   professor: rebuild-kiss
   link: https://armantheparman.com/bitbox02/

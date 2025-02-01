@@ -1,10 +1,9 @@
 author: Charles Petzold
 level: advanced
 tags:
-  - technology
-  - programming;
-
-# Proofreading metadata
+  - deep-dive
+  - technical-analysis
+  - easy-explain
 original_language: en
 proofreading:
   - language: cs

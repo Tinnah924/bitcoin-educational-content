@@ -4,9 +4,9 @@ builder: DecouvreBitcoin
 category: hardware
 
 tags:
-  - mining
   - DIY
-
+  - hardware
+  - mining
 level: advanced
 
 credits:

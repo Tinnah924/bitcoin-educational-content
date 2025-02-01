@@ -2,10 +2,9 @@ id: e566803d-ab3f-4d98-9136-5462009262ef
 builder: Samourai
 
 tags:
+  - wallets
   - privacy
-  - coinjoin
-  - mix
-
+  - guides
 category: on-chain
 
 level: intermediate

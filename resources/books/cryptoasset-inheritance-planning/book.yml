@@ -1,11 +1,9 @@
 author: Pamela Morgan
 level: intermediate
 tags:
-  - bitcoin
-  - security
-
-
-# Proofreading metadata
+  - keys
+  - good-practice
+  - backup
 original_language: en
 proofreading:
   - language: cs

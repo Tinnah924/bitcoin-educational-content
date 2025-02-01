@@ -6,11 +6,9 @@ level: beginner
 category: hardware
 
 tags:
-  - self-custodial
-  - Open source
-  - multi-coin
-
-# Proofreading metadata
+  - wallets
+  - hardware
+  - guides
 original_language: en
 proofreading:
   - language: cs

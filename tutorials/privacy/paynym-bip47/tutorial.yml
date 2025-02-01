@@ -2,16 +2,17 @@ id: a492a70b-50eb-4f95-a766-bae2c5535093
 builder: Samourai
 
 tags:
+  - protocols
   - privacy
-  - BIP
-
+  - wallets
 category: on-chain
 
 level: advanced
 
 credits:
   professor: pretty-private
-  link: https://www.pandul.fr/post/bip47-paynym-et-code-de-paiement-r%C3%A9utilisable#viewer-1cdv8
+  link: 
+    https://www.pandul.fr/post/bip47-paynym-et-code-de-paiement-r%C3%A9utilisable#viewer-1cdv8
 
 # Proofreading metadata
 original_language: fr

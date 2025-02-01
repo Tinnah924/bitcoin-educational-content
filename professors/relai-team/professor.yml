@@ -4,10 +4,11 @@ links:
   website: https://relai.app/
   twitter: https://x.com/Relai_app
 affiliations:
-- Relai
+  - Relai
 tags:
-- investment
-- guides
+  - investment
+  - wallets
+  - user-friendly
 tips:
-  lightning_address: 
+  lightning_address:
 company: Relai

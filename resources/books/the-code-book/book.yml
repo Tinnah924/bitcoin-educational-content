@@ -1,11 +1,9 @@
 author: Simon Singh
 level: advanced
 tags:
-  - cryptography
-  - mathematique
-  - history
-
-# Proofreading metadata
+  - historical
+  - deep-dive
+  - cypherpunk
 original_language: en
 proofreading:
   - language: cs
