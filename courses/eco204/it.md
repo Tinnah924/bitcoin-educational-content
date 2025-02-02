@@ -488,7 +488,6 @@ Quando la valuta perde rapidamente valore, anche le transazioni più semplici po
 
 > Zimbabwe: "Ai responsabili dei negozi era anche consentito assumere un lavoratore occasionale per sostituire il membro del personale che contava denaro tutto il giorno. Naturalmente, contare il denaro in negozio per l'amministrazione e il deposito in banca era una cosa, ma l'intero processo doveva essere ripetuto in banca al momento del deposito."
 
-![video](https://www.youtube.com/watch?v=OMwkb5rpm_w&t=20s)
 
 Tecnica di conteggio del denaro dall'Uzbekistan
 

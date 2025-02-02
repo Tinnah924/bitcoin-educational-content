@@ -498,7 +498,6 @@ Kun valuutta menettää nopeasti arvoaan, jopa yksinkertaisimmat transaktiot voi
 
 > Zimbabwe: "Kaupanhoitajat saivat myös palkata tilapäisen työntekijän korvaamaan henkilökunnan jäsentä, joka laski rahaa koko päivän. Tietenkin rahan laskeminen kaupassa hallinnointia ja pankkitalletusta varten oli yksi asia, mutta koko prosessi piti toistaa pankissa talletuksen yhteydessä."
 
-![video](https://www.youtube.com/watch?v=OMwkb5rpm_w&t=20s)
 
 Rahojen laskentatekniikka Uzbekistanista
 

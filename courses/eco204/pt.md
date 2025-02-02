@@ -526,7 +526,6 @@ Quando a moeda perde rapidamente seu valor, até mesmo as transações mais simp
 
 > Zimbábue: "Os funcionários da loja também eram autorizados a contratar um trabalhador temporário para substituir o membro da equipe que ficava contando dinheiro o dia todo. Claro, contar o dinheiro na loja para fins administrativos e para depósito no banco era uma coisa, mas todo o processo precisava ser repetido no banco durante o depósito."
 
-![vídeo](https://www.youtube.com/watch?v=OMwkb5rpm_w&t=20s)
 
 Técnica de contagem de dinheiro do Uzbequistão
 

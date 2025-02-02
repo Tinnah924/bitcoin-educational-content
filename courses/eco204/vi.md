@@ -501,7 +501,6 @@ Weimar: "Việc mua sắm bình thường nhất tại cửa hàng cũng đòi h
 
 Zimbabwe: "Các quản lý cửa hàng cũng được phép thuê một nhân viên tạm thời để thay thế người nhân viên phải đếm tiền suốt cả ngày. Tất nhiên, việc đếm tiền trong cửa hàng để quản lý và việc đếm để gửi vào ngân hàng là một, nhưng toàn bộ quy trình phải được lặp lại tại ngân hàng khi gửi tiền."
 
-![video](https://www.youtube.com/watch?v=OMwkb5rpm_w&t=20s)
 
 Kỹ thuật đếm tiền từ Uzbekistan
 
