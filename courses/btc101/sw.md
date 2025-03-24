@@ -1,13 +1,13 @@
 ---
 name: Safari ya Bitcoin
 goal: Gundua misingi ya Bitcoin, ikijumuisha pendekezo lake la thamani ya fedha, wachimbaji, miamala na pochi.
-objectives: 
+malengo: 
 
   - Pata ufahamu wa jumla wa teknolojia ya Bitcoin
-  - Kuelewa jinsi ya kununua na salama bitcoins
+  - Kuelewa jinsi ya kununua na usalama wa bitcoins
   - Kuwa na ufahamu wa jumla wa teknolojia ya Blockchain
   - Fahamu dhana ya Lightning Network
-  - Tambua athari za kijiografia na kijamii za Bitcoin
+  - Tambua athari za kijiografia na kijamii kwa Bitcoin
 
 ---
 # Matukio Yako ya Kwanza ya Bitcoin
