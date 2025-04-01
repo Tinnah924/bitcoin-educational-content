@@ -1,7 +1,7 @@
 ---
-dcvvcdhjx: Bitcoin kwa Biashara
-goal: Jifunze malipo na misingi ya hazina ili uingie kwenye kampuni yako kwenye Bitcoin
-objectives: 
+jina: Bitcoin kwa Biashara
+lengo: Jifunze malipo na misingi ya hazina ili uingie kwenye kampuni yako kwenye Bitcoin
+Nalengo: 
 
   - Bitcoin kama sarafu inayoibuka na zana ya biashara
   - Elewa kwa nini na jinsi biashara inaweza kushikilia Bitcoin katika hazina au kuitumia kwa malipo
@@ -15,7 +15,7 @@ Gundua uwezo wa kiutendaji wa Bitcoin na Lightning Network, na uchunguze jinsi, 
 
 Katika mwongozo huu wote, utajifunza jinsi ya kuelewa Bitcoin kama mtandao wa fedha wa kimataifa, wa kimataifa na wa asili wa mtandao. Kwa sifa zake za kipekee za kimsingi, **Bitcoin hutoa maboresho makubwa dhidi ya mitandao ya kawaida ya sarafu**. Utagundua ni kwa nini na jinsi ya kutumia Bitcoin kwa matumizi ya kawaida ya kifedha kama vile uhifadhi wa mtaji na mifumo ya malipo. Zaidi ya hayo, mwongozo huu utashughulikia kupata na kushikilia Bitcoin, ikijumuisha mahitaji yanayohusiana ya uhasibu na fedha, pamoja na kutekeleza masuluhisho rahisi au makubwa ya malipo ya Bitcoin.
 
-Iwe wewe ni **biashara ndogo au shirika kubwa**, kuunganisha Bitcoin katika shughuli zako za kila siku kunaweza kuifanya kampuni yako **istahimilivu, tija na shindani** zaidi. Kila kampuni inayotumia mtandao itakuwa kampuni inayolenga Bitcoin, na kozi hii inahakikisha kuwa umejitayarisha. Sehemu za mwanzo zinarejelea misingi ya uendeshaji wa Bitcoin, kwa hivyo hata kama wewe ni mwanzilishi, utapata ujuzi wa kimsingi unaohitajika ili kuendelea. Kujifunza misingi ya uvumbuzi wa Satoshi daima ni wazo zuri, iwe kabla au baada ya kupiga mbizi kwenye BIZ101.
+Iwe wewe ni **biashara ndogo au shirika kubwa**, kuunganisha Bitcoin katika shughuli zako za kila siku kunaweza kuifanya kampuni yako **istahimilivu,yenye tija na ushindani** zaidi. Kila kampuni inayotumia mtandao itakuwa kampuni inayolenga Bitcoin, na kozi hii inahakikisha kuwa umejitayarisha. Sehemu za mwanzo zinarejelea misingi ya uendeshaji wa Bitcoin, kwa hivyo hata kama wewe ni mwanzilishi, utapata ujuzi wa kimsingi unaohitajika ili kuendelea. Kujifunza misingi ya uvumbuzi wa Satoshi daima ni wazo zuri, iwe kabla au baada ya kupiga mbizi kwenye BIZ101.
 
 +++
 # Utangulizi
@@ -26,7 +26,7 @@ Iwe wewe ni **biashara ndogo au shirika kubwa**, kuunganisha Bitcoin katika shug
 
 <chapterId>1be42be9-4080-49f5-b5b2-6b531dd55f5f</chapterId>
 
-Anzisha safari ya kampuni yako kwenye mtandao wa Bitcoin kwa kozi hii ya kina ya mafunzo - lango la kuelewa jinsi Bitcoin na Lightning Network zinavyoweza kuleta mageuzi katika shughuli za kitamaduni za biashara. Kozi hii imeundwa kwa ajili ya wauzaji reja reja, wajasiriamali, wasimamizi, na wafanya maamuzi wa shirika ambao wangependa kuchunguza uwezo wa vitendo wa Bitcoin kama mtandao wa fedha wa kimataifa, wa asili wa mtandao na njia thabiti za thamani ya Exchange.
+Anzisha safari ya kampuni yako kwenye mtandao wa Bitcoin kwa kozi hii ya kina ya mafunzo - lango la kuelewa jinsi Bitcoin na Lightning Network zinavyoweza kuleta mageuzi katika shughuli za kitamaduni za biashara. Kozi hii imeundwa kwa ajili ya wauzaji reja reja, wajasiriamali, wasimamizi, na wafanya maamuzi wa shirika ambao wangependa kuchunguza uwezo wa vitendo wa Bitcoin kama mtandao wa fedha wa kimataifa, wa asili wa mtandao na njia thabiti za kubadilisha thamani.
 
 Katika kipindi chote, utafahamishwa kwa kanuni za msingi zinazofanya Bitcoin na Lightning Network kuwa mageuzi dhahiri. Utajifunza jinsi teknolojia hizi zinavyotoa anuwai ya kesi za utumiaji, kutoka kwa uhifadhi wa mtaji wa kidijitali hadi malipo ya haraka, ya kiuchumi na yanayoweza kupunguzwa, na jinsi zinavyotoa maboresho muhimu juu ya sarafu za jadi na mifumo ya malipo. Kozi ya BIZ101 huunganisha nadharia ya kiuchumi na matumizi ya ulimwengu halisi, ikifafanua jinsi ugatuaji unavyoweza kupunguza utegemezi wa wasuluhishi na kushinda vikwazo vilivyomo katika mifumo ya urithi.
 
