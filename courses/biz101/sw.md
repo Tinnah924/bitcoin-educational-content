@@ -1,7 +1,7 @@
 ---
 Jina: Bitcoin kwa Biashara
-goal: Jifunze malipo na misingi ya hazina ili uingie kwenye kampuni yako kwenye Bitcoin
-objectives: 
+Lengo: Jifunze malipo na misingi ya hazina ili uingie kwenye kampuni yako kwenye Bitcoin
+Malengo: 
 
   - Bitcoin kama sarafu inayoibuka na zana ya biashara
   - Elewa kwa nini na jinsi biashara inaweza kushikilia Bitcoin katika hazina au kuitumia kwa malipo
