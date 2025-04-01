@@ -1,6 +1,6 @@
 ---
-name: Bitcoin kwa Biashara
-goal: Jifunze malipo na misingi ya hazina ili uingie kwenye kampuni yako kwenye Bitcoin
+Jina: Bitcoin kwa Biashara
+Lengo: Jifunze malipo na misingi ya hazina ili uingie kwenye kampuni yako kwenye Bitcoin
 objectives: 
 
   - Bitcoin kama sarafu inayoibuka na zana ya biashara
