@@ -158,7 +158,7 @@ Kwa ujumla, mchakato huu ni ngumu, unatumia wakati, na ni wa gharama kubwa kwa k
 
 ### Njia za Kulinganisha za Malipo
 
-| Njia ya Malipo                | Inahitaji Idhini?               | Muda wa Kupitishwa kwa Muamala (Mtazamo wa Muuzaji) | Kasi ya Malipo (Fedha Zimekamilika)            | Ukamilifu (Urahisi wa Kubatilisha)       | Idadi ya Wanaohusika          | Ada za Kawaida (kwa Mpokeaji)     |
+| Njia ya Malipo                | Inahitaji Idhini?               | Muda wa Kupitishwa kwa Muamala (Mtazamo wa Muuzaji) | Kasi ya Malipo (Fedha Zimekamilika)            | Ukamilifu(Urahisi wa Kubatilisha)       | Idadi ya Wanaohusika          | Ada za Kawaida (kwa Mpokeaji)     |
 | ----------------------------- | ------------------------------- | -------------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ----------------------------- | --------------------------------- |
 | **Fedha Taslimu**            | Hapana                          | Mara Moja (Kubadilishana Kimwili)                  | Mara Moja (Hakuna Ucheleweshaji)               | Juu (Haiwezi Kurudishwa Baada ya Kulipa) | Hakuna                        | Hakuna                            |
 | **Hundi**                    | Ndiyo (Benki Kuthibitisha)      | Kukubaliwa Wakati wa Kuweka (Sio Hakikisho)        | Siku Kadhaa (Mchakato wa Kuthibitisha Hundi)   | Wastani (Inaweza Kukataliwa Kabla)       | Benki                         | **Chini hadi Wastani** (Ada za Benki) |
@@ -202,7 +202,7 @@ Kwa pamoja wanafanya ya Bitcoin kuwa **rasilimali inayomilikiwa** na sarafu ya k
 
 ![BIZ101](assets/en/11.webp)
 
-Bitcoin ina sera ya fedha ya kudumu, na **kikomo cha bitcoins milioni 21 **, ambayo ~ milioni 19.8 tayari imesambazwa. Hii huifanya **kupungua bei**, huku thamani yake ikiongezeka kadiri watumiaji wanavyohifadhi akiba na faida za tija ndani yake.
+Bitcoin ina sera ya fedha ya kudumu, na **kikomo cha bitcoins milioni 21**, ambayo ~ milioni 19.8 tayari imesambazwa. Hii huifanya **kupungua bei**, huku thamani yake ikiongezeka kadiri watumiaji wanavyohifadhi akiba na faida za tija ndani yake.
 
 Vipengele vyake vya kiufundi vinapita zile za dhahabu na dola kwa pamoja, na kuifanya kuwa mali ngumu zaidi ya kifedha kuwahi kuundwa. Bitcoin ni duka la thamani na kati ya Exchange, sarafu inayotengenezwa. Hebu fikiria kuhamisha thamani kutoka hazina ya kampuni moja hadi nyingine kwa haraka, bila wapatanishi, kwa gharama ndogo, bila ulaghai, 24/7, na bila wahusika wengine wanaohusika.
 
