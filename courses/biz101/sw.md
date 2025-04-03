@@ -185,7 +185,7 @@ Sekta ya malipo ya jadi inawakilisha uchumi wa kila mwaka wa takriban dola bilio
 
 Kama vile tulivyohama kutoka kwa kulipa kwa dakika kwa simu za sauti hadi kutumia karibu mawasiliano yasiyolipishwa ya msingi wa IP, kuibuka kwa mitandao iliyo wazi na bora kunaweza kufafanua upya malipo, kupunguza gharama na waamuzi, na kukuza miundo mipya ya biashara.
 
-## Bitcoin for Business : sarafu inayoibuka
+## Bitcoin kwenye biashara : sarafu inayoibuka
 
 <chapterId>4488fe33-663f-41a3-a668-e9ca2fb7122e</chapterId>
 
@@ -208,13 +208,13 @@ Vipengele vyake vya kiufundi vinapita zile za dhahabu na dola kwa pamoja, na kui
 
 ![BIZ101](assets/en/03.webp)
 
-Bitcoin huhifadhi thamani kwa ufanisi kwa sababu Ledger yake haiwezi kuguswa. Thamani yake huongezeka kutokana na Supply adimu na pungufu pamoja na kuongezeka kwa idadi ya fursa za Exchange, kutokana na kuongezeka kwa idadi ya watumiaji.
+Bitcoin huhifadhi thamani kwa ufanisi kwa sababu Leja yake haiwezi kuguswa. Thamani yake huongezeka kutokana na usambazaji adimu na pungufu pamoja na kuongezeka kwa idadi ya fursa za Exchange, kutokana na kuongezeka kwa idadi ya watumiaji.
 
 Bitcoin inasumbua kwa sababu inatuhimiza kujifunza dhana katika hisabati, fiche, uchumi na historia ambayo hatukufundishwa kamwe. Ingawa mara nyingi huchukuliwa kuwa changamano, kwa kweli ni uvumbuzi unaopatikana kupitia mazoezi na majaribio.
 
 Bitcoin inatupa changamoto ya kufikiria upya asili ya pesa yenyewe. Unaweza kueleza pesa ni nini hasa? Mfanyakazi anayelipwa au mjasiriamali anaweza kutumia saa 50,000 hadi 100,000 za maisha yake kupata pesa, ilhali ni **ngapi hutenga hata saa 100 ili kuielewa vyema** na kuihifadhi? Bitcoin inatuhimiza kuhoji sababu za kimsingi nyuma ya hitaji letu la pesa na mtazamo wetu wa muda. Je, fedha ni kwa ajili ya anasa ya haraka au ustahimilivu wa muda mrefu? Ikiwa tungekuwa na kipengee cha thamani kinachoturuhusu kuchelewesha ununuzi, tungefanya maamuzi gani? Je, ni mazungumzo gani tungependa kuwa nayo na sisi wenyewe miaka 20 au 30 kutoka sasa?
 
-**KITAMBULISHO CHA Bitcoin**
+**KITAMBULISHO CHA BITCOIN**
 
 - **Umri:** Miaka 15 (Januari 3, 2009)
 - **Thamani ya kila siku ya Exchange:** $10 bilioni (> CAC40)
@@ -277,9 +277,9 @@ Miundombinu ya Lightning hupita mifumo ya kawaida ya malipo katika suala la kasi
 
 Maombi ya Lightning yanaenea zaidi ya ada na kasi ya chini. Kwa kutoa reli ya malipo ya bure na ya papo hapo, inafungua fursa nyingi katika uchumi wote.
 
-**Kukuza Uwezo wa Bitcoin wa Exchange:**
+**kuwezesha ubadilishaji wa bitcoin:**
 
-Lightning huongeza jukumu la Bitcoin kama "kati ya Exchange." Kwa kuongeza mzunguko na uhuru wa shughuli, inaimarisha kazi ya msingi ya fedha: kuwezesha ubadilishanaji wa kiuchumi na uundaji wa thamani kwa washiriki wote.
+Lightning huongeza jukumu la Bitcoin kama "kati ya ubadilishaji." Kwa kuongeza mzunguko na uhuru wa shughuli, inaimarisha kazi ya msingi ya fedha: kuwezesha ubadilishanaji wa kiuchumi na uundaji wa thamani kwa washiriki wote.
 
 Kuinuka kwa siku zijazo kwa "uchumi wa mashine mahiri" kutahitaji mfumo wa malipo wa haraka sana, wa masafa ya juu, kiwango cha kiufundi kinachoweza kufikiwa na Lightning pekee. Hii itawezesha uundaji wa bidhaa na huduma zaidi. Kadiri usambazaji wa Bitcoin unavyosalia kuwa ndogo, uwezo wa kununua wa kila kitengo utaongezeka. Bitcoin na Lightning huimarika pamoja huku mitandao yao ikipanuka.
 
@@ -337,7 +337,7 @@ Ishara za soko kama vile bei na ushindani huongoza biashara katika kufanya maamu
 
 Hatimaye, kudumisha biashara yenye afya kunamaanisha kubaki kubadilika, kufanya maamuzi ya busara ya kifedha, na daima kuweka jicho kwenye siku zijazo. **Kwa kuzingatia faida, kuhifadhi mtaji, na kuitikia ishara za soko, biashara—kubwa au ndogo—zinaweza kustawi hata katika hali ya kutokuwa na uhakika**.
 
-### Je Capital ina fadhila?
+### Je mtaji una fadhila?
 
 **Jinsi mtaji unavyosawiriwa kwa ujumla**
 
@@ -387,8 +387,8 @@ Kwa mtazamo wa Austria, mtaji umeunganishwa kwa kina na wazo la kuahirisha matum
 
 
 - Mapendeleo ya Wakati na Matumizi Yanayoahirishwa**: Kwa kawaida watu binafsi hupendelea kutumia sasa badala ya baadaye, lakini wanaweza kuchagua kuahirisha matumizi ikiwa wanatarajia malipo makubwa zaidi katika siku zijazo. Kwa kuokoa leo, rasilimali zinaweza kuwekezwa katika bidhaa za mtaji (zana, mashine, miundombinu) ambazo huboresha tija kwa wakati. Jamii au watu binafsi wanaopendelea muda wa chini huokoa zaidi na kuwekeza katika miradi ya muda mrefu, na hivyo kukuza ukuaji endelevu.
-- Capital as a Driver of Future Production**: Bidhaa za mtaji huonekana kama zana za kati zinazotumiwa kuzalisha bidhaa za mwisho za watumiaji. Kwa kukusanya mtaji, wajasiriamali wanaweza kuongeza tija na kutengeneza utajiri zaidi katika siku zijazo. Kwa mfano, badala ya kuzalisha bidhaa za matumizi mara moja, rasilimali zinaweza kutumika kujenga viwanda au mashine. Ingawa hii inapunguza matumizi ya muda mfupi, ufanisi unaopatikana unaruhusu uzalishaji zaidi na ustawi baadaye.
-- Uzalishaji na Ufanisi Usio wa Moja kwa Moja**: Wanauchumi wa Austria, kama vile Eugen Böhm-Bawerk, waliangazia wazo la uzalishaji usio wa moja kwa moja—michakato mirefu na ngumu zaidi ya uzalishaji inayohusisha hatua nyingi. Ingawa michakato hii huchukua muda, hatimaye hutoa matokeo bora zaidi na yenye tija, kama vile kujenga kinu cha kusindika mbao badala ya kukusanya magogo kwa mkono.
+-**Mtaji kama Dereva wa Uzalishaji wa Baadaye: Bidhaa za mtaji huonekana kama zana za kati zinazotumiwa kuzalisha bidhaa za mwisho za watumiaji. Kwa kukusanya mtaji, wajasiriamali wanaweza kuongeza tija na kutengeneza utajiri zaidi katika siku zijazo. Kwa mfano, badala ya kuzalisha bidhaa za matumizi mara moja, rasilimali zinaweza kutumika kujenga viwanda au mashine. Ingawa hii inapunguza matumizi ya muda mfupi, ufanisi unaopatikana unaruhusu uzalishaji zaidi na ustawi baadaye.
+- **Uzalishaji na Ufanisi Usio wa Moja kwa Moja**: Wanauchumi wa Austria, kama vile Eugen Böhm-Bawerk, waliangazia wazo la uzalishaji usio wa moja kwa moja—michakato mirefu na ngumu zaidi ya uzalishaji inayohusisha hatua nyingi. Ingawa michakato hii huchukua muda, hatimaye hutoa matokeo bora zaidi na yenye tija, kama vile kujenga kinu cha kusindika mbao badala ya kukusanya magogo kwa mkono.
 - Viwango vya Riba kama Ishara**: Viwango vya riba, kwa maoni ya Waaustria, kwa kawaida huakisi mapendeleo ya wakati wa watu binafsi. Viwango vya juu vinaonyesha upendeleo kwa matumizi ya haraka, wakati viwango vya chini vinahimiza kuokoa na uwekezaji wa muda mrefu. Wakati benki kuu zinapotosha viwango vya riba, hupotosha ishara hizi za asili, na kusababisha rasilimali kutengwa na uwekezaji usio endelevu (malinvestment).
 
 **Aina Mbili za Mtaji katika Uchumi wa Kisasa**
@@ -403,7 +403,7 @@ Aina hizi mbili za mtaji hazipaswi kamwe kuunganishwa, lakini ndani ya mfumo una
 
 Sera za Keynesi, zinazokubaliwa sana na wasomi wa kimataifa, hudhibiti viwango vya riba na kuchochea mahitaji kupitia deni. Hii inahimiza rasilimali kutiririka kuelekea miradi ya muda mfupi, isiyo endelevu, kukuza mizunguko ya kiuchumi na kuchelewesha ukuaji wa kweli unaotokana na akiba nzuri na uwekezaji wenye tija. Viongozi wa biashara huzingatia sera hii hatari moja kwa moja huku makampuni yenye afya yanasukumwa katika ununuzi wa thamani kupita kiasi katika kutafuta mapato yaliyoongezeka, kudhoofisha ukuaji wa kikaboni na endelevu.
 
-Katika mazingira kama haya, mtaji "wenye afya" - unaookolewa kwa uangalifu na wajasiriamali - unawezaje kushindana na mtaji "usio na afya" iliyoundwa kwa njia bandia? Zaidi ya hayo, upanuzi wa upande mmoja wa pesa Supply unamomonyoa uwezo wa ununuzi wa mtaji mzuri, na hivyo kuzidisha hali ya kuzorota kiuchumi na kutoridhika kwa jamii.
+Katika mazingira kama haya, mtaji "wenye afya" - unaookolewa kwa uangalifu na wajasiriamali - unawezaje kushindana na mtaji "usio na afya" iliyoundwa kwa njia bandia? Zaidi ya hayo, upanuzi wa upande mmoja wa usambazaji wa pesa unamomonyoa uwezo wa ununuzi wa mtaji mzuri, na hivyo kuzidisha hali ya kuzorota kiuchumi na kutoridhika kwa jamii.
 
 **Nuru ya Matumaini: Bitcoin**
 
