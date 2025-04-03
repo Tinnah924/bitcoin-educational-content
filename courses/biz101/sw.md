@@ -460,7 +460,7 @@ Wacha tupitie haraka mazingira ambayo biashara zinafanya kazi.
 
 **Mfumuko halisi wa bei**: Jambo la kusikitisha sana kwa mamlaka yao, benki kuu zinalenga mfumuko wa bei wa 2% wa kila mwaka, kumaanisha hasara ya 40% katika thamani ya sarafu katika kipindi cha miaka 20. Kuongezea katika nyakati za mfumuko wa bei unaojulikana zaidi, inakuwa wazi kuwa makampuni hayawezi kutumia sarafu pekee kuhifadhi matunda ya kazi zao. Lazima watekeleze mikakati changamano ya kifedha, ambayo lazima iambatane na aina mbalimbali za hatari. Mikakati hii ni dhahiri **haiwezi kufikiwa na biashara ndogo sana**, ambazo tayari zimeshughulikiwa sana na shughuli zao kuu.
 
-**Mfumuko wa bei uliofichwa**: Katika mfumo wa fedha unaotegemea deni, uhifadhi wa sehemu unaoungwa mkono na benki kuu, **fedha zote za Supply hukua kwa takriban 7% kwa mwaka kwa wastani** (k.m., M1 katika Ukanda wa Euro au Marekani). Hii ina maana kwamba "sehemu yako ya pai" itakatwa kwa nusu ndani ya miaka michache tu-isipokuwa una fursa ya upendeleo kwa spigot ya kifedha na unaweza kuendelea kukua kwa kutumia na kununua mali haraka kwa "bei za zamani" kabla ya fedha iliyoundwa upya kuziendesha. Haya ni matokeo ya Cantillon, ambayo kwa kiasi fulani yanaelezea uhamishaji wa mali kwa watu walio na uwezo zaidi, wakati "mtaji" unalaumiwa kimakosa kama mhalifu (tazama utangulizi wetu juu ya mtaji hapo juu).
+**Mfumuko wa bei uliofichwa**: Katika mfumo wa fedha unaotegemea deni, uhifadhi wa sehemu unaoungwa mkono na benki kuu, **fedha zote za usambazaji hukua kwa takriban 7% kwa mwaka kwa wastani** (k.m., M1 katika Ukanda wa Euro au Marekani). Hii ina maana kwamba "sehemu yako ya pai" itakatwa kwa nusu ndani ya miaka michache tu-isipokuwa una fursa ya upendeleo kwa spigot ya kifedha na unaweza kuendelea kukua kwa kutumia na kununua mali haraka kwa "bei za zamani" kabla ya fedha iliyoundwa upya kuziendesha. Haya ni matokeo ya Cantillon, ambayo kwa kiasi fulani yanaelezea uhamishaji wa mali kwa watu walio na uwezo zaidi, wakati "mtaji" unalaumiwa kimakosa kama mhalifu (tazama utangulizi wetu juu ya mtaji hapo juu).
 
 **Hatari za vyama pinzani**: Mfumo wa sasa wa kifedha ni hatari, na huenda usiwe na ufikiaji wa "fedha zako kila wakati." Bila kutaja sura ya nyumba ya kadi, ni lazima ikubalike kwamba taasisi za fedha hubinafsisha faida na kuhusisha hasara katika mgogoro mdogo. Katika mfumo wa pesa za "kimaandiko" (fedha zilizorekodiwa katika Ledger), pesa katika benki ni "dai" tu; haumiliki kabisa, na benki zenyewe "hazina" (hifadhi za sehemu). Pesa hizi, kwa njia fulani, ni za kichawi kweli. Baadhi ya benki za kifahari ambazo hapo awali zilidhihaki Bitcoin hazipo tena leo, kama vile Credit Suisse.
 
@@ -484,9 +484,9 @@ Pili, Bitcoin hadi sasa ina uzoefu wa **mizunguko ya miaka 4**, kumaanisha kuwa 
 
 *MICHAEL SAYLOR: "Mawimbi bora ya bei ya Bitcoin ni wastani wa miaka 4 wa kusonga mbele."* Tazama chati iliyo hapo juu.
 
-Zaidi ya hayo, ni vyema kuweka mfiduo wa mtu kwa Bitcoin ** sawia** na kiwango cha ufahamu wa mtu. Ni muhimu pia kutokuwa na haraka au kujaribu kupanga wakati wa soko kikamilifu.
+Zaidi ya hayo, ni vyema kuweka mfiduo wa mtu kwa Bitcoin **sawia** na kiwango cha ufahamu wa mtu. Ni muhimu pia kutokuwa na haraka au kujaribu kupanga wakati wa soko kikamilifu.
 
-Hatimaye, Bitcoin inachukuliwa kuwa ** tete **. Kwa usahihi, bei yake kama inavyoonyeshwa katika vitengo vya pesa ya fiat ni. Sehemu ya tete hii ni ya asili kwa mali bado changa, lakini pia inakuzwa na uwepo wa walanguzi ambao hawaitumii kama ghala la muda mrefu la thamani, badala yake kutafuta faida ya haraka. Zaidi ya hayo, biashara ya faida (kwa kutumia fedha zilizokopwa ili kuongeza nafasi za biashara) husisitiza harakati za bei ya kupanda na kushuka, kuzuia Bitcoin kufuata njia iliyonyooka ya juu. Hii husababisha kushuka kwa thamani zaidi, lakini baada ya muda, msingi wa watumiaji wanaojitolea kukua, tete hii inaonekana kuwa ya utulivu. Kwa muhtasari, **haiwezekani kuwa na kipengee chenye utendakazi wa hali ya juu kama Bitcoin bila tete**, lakini bila shaka unaweza kuwa na vipengee vya utendaji pungufu na vilivyo na tete kidogo.
+Hatimaye, Bitcoin inachukuliwa kuwa **tete**. Kwa usahihi, bei yake kama inavyoonyeshwa katika vitengo vya pesa ya fiat ni. Sehemu ya tete hii ni ya asili kwa mali bado changa, lakini pia inakuzwa na uwepo wa walanguzi ambao hawaitumii kama ghala la muda mrefu la thamani, badala yake kutafuta faida ya haraka. Zaidi ya hayo, biashara ya faida (kwa kutumia fedha zilizokopwa ili kuongeza nafasi za biashara) husisitiza harakati za bei ya kupanda na kushuka, kuzuia Bitcoin kufuata njia iliyonyooka ya juu. Hii husababisha kushuka kwa thamani zaidi, lakini baada ya muda, msingi wa watumiaji wanaojitolea kukua, tete hii inaonekana kuwa ya utulivu. Kwa muhtasari, **haiwezekani kuwa na kipengee chenye utendakazi wa hali ya juu kama Bitcoin bila tete**, lakini bila shaka unaweza kuwa na vipengee vya utendaji pungufu na vilivyo na tete kidogo.
 
 ### Bitcoin iliyopitishwa na Wall Street
 
@@ -658,7 +658,7 @@ Zaidi ya hayo, fomu ambayo unashikilia Bitcoin inaathiri kwa kiasi kikubwa hatua
 
 ### Nani wa Kununua?
 
-Ukichagua "karatasi Bitcoin," utageukia taasisi za fedha kama vile benki au masoko ya hisa ya mtandaoni.
+Ukichagua "Bitcoin paper," utageukia taasisi za fedha kama vile benki au masoko ya hisa ya mtandaoni.
 
 Ukichagua kununua Bitcoin halisi kupitia soko (Exchange) au wakala, una aina kadhaa kuu:
 
