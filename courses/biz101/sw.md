@@ -720,7 +720,7 @@ Kwa kuorodhesha biashara yako kwenye majukwaa kama vile BTCmap.org, kwa mfano. N
 
 - **Ada za Chini:**
 
-Malipo ya papo hapo ya Bitcoin hufanyika kupitia Lightning Network. ** Ada ni ndogo na hulipwa na mnunuzi **. Hakuna ada za mwisho za malipo, hakuna hitilafu za uidhinishaji wa malipo, na hakuna ulaghai. Kwa kulinganisha, sekta ya malipo (kadi, vituo, uhamisho, PSPs, n.k.) hugharimu takriban $2.2 trilioni kwa mwaka duniani kote. Ongeza kwenye malipo hayo na ulaghai, na kwa jumla, karibu moja ya kumi ya Pato la Taifa la Marekani "hupunguzwa" kutoka kwa biashara zenye tija duniani kote ili tu kuhamisha thamani. Bila kujali biashara yako, ada za kifedha ni mzigo ambao unapaswa kuboreshwa, na wakati mwingine, ada za juu zinaweza kukandamiza aina fulani za biashara.
+Malipo ya papo hapo ya Bitcoin hufanyika kupitia Lightning Network. Ada ni ndogo na hulipwa na mnunuzi. Hakuna ada za mwisho za malipo, hakuna hitilafu za uidhinishaji wa malipo, na hakuna ulaghai. Kwa kulinganisha, sekta ya malipo (kadi, vituo, uhamisho, PSPs, n.k.) hugharimu takriban $2.2 trilioni kwa mwaka duniani kote. Ongeza kwenye malipo hayo na ulaghai, na kwa jumla, karibu moja ya kumi ya Pato la Taifa la Marekani "hupunguzwa" kutoka kwa biashara zenye tija duniani kote ili tu kuhamisha thamani. Bila kujali biashara yako, ada za kifedha ni mzigo ambao unapaswa kuboreshwa, na wakati mwingine, ada za juu zinaweza kukandamiza aina fulani za biashara.
 
 - **Uhuru na Kutokuwa na Ruhusa, 24/7:**
 
@@ -748,9 +748,9 @@ Ili kurahisisha mchakato wa kufanya maamuzi, tumefafanua wasifu nne tofauti za b
 
 | Sifa                            | Mwanzo                                                                                                                                       |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hali ya Akili**              | "kujaribu malipo yangu ya kwanza ya kimwili", "kupokea tip kwa maudhui yangu ya mtandaoni", "lengo la mapato madogo sana"                   |
+| **Hali ya Akili**          b    | "kujaribu malipo yangu ya kwanza ya kimwili", "kupokea kidokezo kwa maudhui yangu ya mtandaoni", "lengo la mapato madogo sana"                   |
 | **Mzunguko wa Miamala**        | "muamala wa kwanza ili kujifunza", "kupokea malipo mara moja kwa muda"                                                                      |
-| **Mifano ya Aina ya Biashara** | Uchumi wa ubunifu (waundaji wa maudhui, blogu, makala, n.k.), tip za mara kwa mara, mauzo ya mara moja ya bidhaa ana kwa ana, vyama, matukio ya mara moja |
+| **Mifano ya Aina ya Biashara** | Uchumi wa ubunifu (waundaji wa maudhui, blogu, makala, n.k.), vidokezo vya mara kwa mara, mauzo ya mara moja ya bidhaa ana kwa ana, vyama, matukio ya mara moja |
 | **Aina ya Malipo**             | Kwa kawaida senti chache hadi euro/dola chache; chini ya ~euro/dola 300 kwa bidhaa                                                          |
 | **Ugumu wa Mipangilio**        | Hakuna                                                                                                                                       |
 | **Mfano wa Suluhisho Linalofaa** | Pochi ya Lightning ya uhifadhi kama Wallet of Satoshi au pochi isiyo na uhifadhi kama Phoenix                                                |
@@ -826,12 +826,13 @@ Wasifu wa Starter umeundwa kwa ajili ya biashara, watayarishi na watu binafsi am
 ![BIZ101-profiles](assets/en/18.webp)
 
 Mojawapo ya vipengele muhimu vya wasifu huu ni kuzingatia malipo ya kiwango cha chini ambacho mara chache huzidi euro mia chache au dola kwa mwezi. Kiwango hiki cha kawaida kinaifanya kuwa chaguo bora kwa mtu yeyote anayetaka kujaribu soko na Bitcoin, bila ugumu uliopo katika usambazaji wa kiwango cha juu. Zaidi ya hayo, inaruhusu kujifunza kwa vitendo mara moja; kwa kuwa kuna shinikizo chache za uendeshaji na vigingi vidogo vya fedha, makosa yanaweza kuzuiwa, na masomo hujifunza haraka. Kuanzia wasanii ambao huuza ufundi uliotengenezwa kwa mikono katika maonyesho ya wikendi hadi vikundi visivyo vya faida ambavyo vinakubali michango ya mara moja, watumiaji katika kitengo hiki mara nyingi husisitiza ufikivu na urahisi wa kutumia juu ya utendakazi wa hali ya juu.
-# Défini par Alice, validé ou accepté par Bob
+# iliyofafanuliwa na Alice,iliyokubaliwa na bob seal
 seal <- Define()
-# Fermeture du sceau par Alice avec le message
+#Alice anafunga mpango huo na ujumbe
 witness <- Close(seal, message)
-# Vérification par Bob
-bool <- Verify(seal, witness, message)
+# Uthibitishaji na Bob
+bool <- Thibitisha 
+bool <- Verify(cseal, witness, message)
 Mipangilio miwili ya kawaida ya Wallet kwa wasifu wa Starter inahusisha kuamua kati ya suluhu za ulezi na zisizo za ulezi. Wallet ya ulinzi (kama vile Wallet ya Satoshi au Blink) huruhusu huduma ya watu wengine kudhibiti funguo za faragha na uendeshaji wa nyuma, na hivyo kupunguza majukumu ya kiufundi kwa mtumiaji. Mpangilio huu unawavutia sana wale wanaothamini urahisi zaidi na wanaotaka kuabiri kwa urahisi iwezekanavyo. Kwa upande mwingine, pochi za umeme zisizo na kizuizi (kama vile Phoenix au Breez) huweka funguo za faragha na udhibiti kamili mikononi mwa mmiliki wa biashara, hivyo kutoa uhuru na faragha zaidi katika Exchange kwa juhudi zaidi za awali. Vyovyote vile, violesura vya kisasa kwa kawaida vinafaa mtumiaji hivi kwamba mtu yeyote anaweza kushughulikia kazi muhimu (kutengeneza msimbo wa QR, kuweka kiasi cha malipo, na kuthibitisha miamala) ndani ya dakika chache.
 
 ![BIZ101-profiles](assets/en/19.webp)
@@ -844,7 +845,7 @@ Uhasibu na kuripoti, ingawa ni rahisi kwa kiasi chini ya wasifu wa Starter, bado
 
 Kwa biashara zinazotaka kuongeza malipo yao ya kibinafsi au ya ana kwa ana kwa michango au vidokezo vya mtandaoni, sasa ni rahisi kujumuisha kitufe cha kidokezo cha umeme au wijeti ya mchango kwenye tovuti au blogu. Mifumo kama vile Seva ya BTCPay hutoa vitufe vya malipo vilivyo rahisi kusanidi, ilhali baadhi ya mitandao ya kijamii na huduma za mtiririko wa moja kwa moja tayari zinaauni vidokezo vya Umeme na anwani. Kwa hivyo, hata kampuni ya Starter inaweza kuunda mtandao wa kawaida lakini wa kimataifa wa walinzi. Wakati huo huo, wale ambao hawapendi kushikilia Bitcoin kwa muda mrefu wanaweza kuchunguza ubadilishaji wa sehemu au otomatiki kuwa sarafu ya fiat kwa kutumia pochi fulani za uhifadhi au huduma za watu wengine. Ingawa chaguo hili linahusisha ada za ziada na majukumu yanayowezekana ya KYC, husaidia biashara kuepuka tete la viwango vya Exchange na kudumisha utendakazi wao wa kifedha uliopo bila usumbufu mdogo.
 
-Kesi rahisi ya utumiaji inaonyesha jinsi Elements hizi zote zinavyoungana. Hebu wazia fundi wa ndani ambaye anauza jamu za kujitengenezea nyumbani kwenye soko la wakulima Jumamosi. Wakiwa na simu inayoendesha Lightning Wallet, waliweka bei ya kila jar kwa euro; mteja anapouliza kulipa katika Bitcoin, mfanyabiashara huingiza haraka kiasi kinacholingana cha fiat, na programu huhesabu kiotomatiki malipo ya Sats. Msimbo wa QR unaotokana huchanganuliwa na Wallet ya mteja, malipo yanatatuliwa kwa sekunde, na fundi anajua mara moja kwamba muamala umefaulu. Mwishoni mwa siku, maelezo yoyote ya muamala yanaweza kusafirishwa kwa uhifadhi wa kumbukumbu, na salio la siku linaweza kutumwa kabisa au sehemu kwenye jukwaa la Exchange ili kubadilishwa kuwa sarafu ya fiat.
+Kesi rahisi ya utumiaji inaonyesha jinsi vipengele vinaungana hivi vyote vinavyoungana. Hebu wazia fundi wa ndani ambaye anauza jamu za kujitengenezea nyumbani kwenye soko la wakulima Jumamosi. Wakiwa na simu inayoendesha Lightning Wallet, waliweka bei ya kila jar kwa euro; mteja anapouliza kulipa katika Bitcoin, mfanyabiashara huingiza haraka kiasi kinacholingana cha fiat, na programu huhesabu kiotomatiki malipo ya Sats. Msimbo wa QR unaotokana huchanganuliwa na Wallet ya mteja, malipo yanatatuliwa kwa sekunde, na fundi anajua mara moja kwamba muamala umefaulu. Mwishoni mwa siku, maelezo yoyote ya muamala yanaweza kusafirishwa kwa uhifadhi wa kumbukumbu, na salio la siku linaweza kutumwa kabisa au sehemu kwenye jukwaa la Exchange ili kubadilishwa kuwa sarafu ya fiat.
 
 Kwa kusawazisha zana zinazofaa mtumiaji, mahitaji madogo ya maunzi, na uhifadhi wa kumbukumbu moja kwa moja, Suluhu za Starter hutoa mambo muhimu bila biashara nyingi za wageni. Iwapo idadi ya miamala itaongezeka na mahitaji ya uendeshaji wa biashara yanabadilika, kupata toleo jipya la kategoria za hali ya juu zaidi zilizofafanuliwa katika sura ijayo huwa ni maendeleo ya kawaida.
 
@@ -992,14 +993,14 @@ Miundombinu mipya hufaulu kwa sababu ni bora zaidi, na watumiaji wa mapema hujiu
 - **Uzoefu Ulioboreshwa wa Mtumiaji:** Programu za rununu kwa watumiaji binafsi zimeboreshwa kwa kiasi kikubwa. Vipengele kama vile kuunganisha, ankara tuli za Bolt12, na malipo ya uthibitishaji sifuri (0-conf) vinapatikana kwa wingi, hivyo basi kufanya mwingiliano kuwa suluhu. Masuala ya mwingiliano (k.m., kufunga kwa nguvu) sio jambo kuu tena.
 - **Nodi Iliyoimarishwa na Usimamizi wa Idhaa:** Suluhu za kibinafsi na za kitaalamu zimeendelea. Kwa mfano, Seva ya Malipo ya BTC sasa inaauni programu-jalizi nyingi za kuunganishwa na watoa huduma wengine (PSP, njia panda za kuwasha/kuzima, n.k.). Watoa huduma wapya wa miundombinu, kama vile LightSpark na Alby Hub, pia wanaingia katika uzalishaji.
 
-- Ukuaji wa Kuasili kwa Wafanyabiashara:** Wauzaji kama BitRefill wanaripoti ongezeko la malipo ya Bitcoin kati ya watumiaji wao wanaofanya kazi, na mabadiliko ya wazi kuelekea Bitcoin juu ya Umeme. Zaidi ya hayo, ada za chini kabisa za Umeme hufanya iwe chaguo linalopendelewa kwa malipo madogo (wastani wa €32 kwa kila ununuzi).
+- **Ukuaji wa Kuasili kwa Wafanyabiashara:** Wauzaji kama BitRefill wanaripoti ongezeko la malipo ya Bitcoin kati ya watumiaji wao wanaofanya kazi, na mabadiliko ya wazi kuelekea Bitcoin juu ya Umeme. Zaidi ya hayo, ada za chini kabisa za Umeme hufanya iwe chaguo linalopendelewa kwa malipo madogo (wastani wa €32 kwa kila ununuzi).
 
 ![BIZ101-profiles](assets/en/30.webp)
 
 *[Chanzo: Ramani ya BTC](https://btcmap.org/)*
 
 
-- Vipimo vya Mtandao:** Jumla ya idadi ya chaneli na Bitcoin zilizofungwa kwenye Umeme bado ni thabiti, zikiwa na takriban nodi 20,000, 5,200 BTC, na chaneli 60,000. Hata hivyo, hii inaonyesha sehemu tu ya mtandao na inaonyesha mzunguko kati ya washiriki, na watu wachache na wataalamu zaidi wanashiriki.
+- **Vipimo vya Mtandao:** Jumla ya idadi ya chaneli na Bitcoin zilizofungwa kwenye Umeme bado ni thabiti, zikiwa na takriban nodi 20,000, 5,200 BTC, na chaneli 60,000. Hata hivyo, hii inaonyesha sehemu tu ya mtandao na inaonyesha mzunguko kati ya washiriki, na watu wachache na wataalamu zaidi wanashiriki.
 
 - **Umeme kama Daraja Kati ya Mitandao:** Ufanisi na upatikanaji wa Lightning Network tayari umeiweka kama daraja la mitandao mingine iliyounganishwa (k.m., FediMint, Liquid, n.k.).
 
@@ -1150,7 +1151,7 @@ Wauzaji wa reja reja lazima warekodi kwa kila muamala kiwango cha Bitcoin-to-fia
 Biashara lazima zihakikishe kuwa zana zozote za **Malipo** wanazotumia zinatoa uwezo wa:
 
 
-- generate Invoice yenye kiasi cha ndani cha fiat (euro, dola, pauni), VAT hiyo au kodi nyingine za ndani, Bitcoin inayolingana na viwango, tarehe na saa, kiwango cha Bitcoin Exchange na chanzo cha Exchange n.k.
+- kuzalisha ankara yenye kiasi cha ndani cha fiat (euro, dola, pauni), VAT hiyo au kodi nyingine za ndani, Bitcoin inayolingana na viwango, tarehe na saa, kiwango cha Bitcoin Exchange na chanzo cha Exchange n.k.
 - hamisha stakabadhi zote za malipo, kwa uchache katika umbizo la .csv, pamoja na maelezo yote hapo juu, ili kwamba mhasibu aweze kuyachakata kwa urahisi.
 - kwa hakika kuwa na kumbukumbu ya thamani iliyosasishwa ya msingi wa gharama ya Bitcoin ya sasa inayoshikiliwa na hazina.
 
