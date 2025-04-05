@@ -6,7 +6,7 @@ objectives:
   - Kuelewa dhana za kimsingi za itifaki ya RGB
   - Bidii kanuni za ahadi za Client-side Validation na Bitcoin
   - Jifunze jinsi ya kuunda, kudhibiti na kuhamisha mikataba ya RGB
-  - Jinsi ya kuendesha nodi ya Umeme inayoendana na RGB
+  - Jinsi ya kuendesha nodi ya lightening inayoendana na RGB
 
 ---
 # Kugundua itifaki ya RGB
