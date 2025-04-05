@@ -34,11 +34,11 @@ Hamjambo nyote, na karibu kwenye kozi hii ya mafunzo inayotolewa kwa RGB, mfumo 
 
 Sehemu ya kwanza imejitolea kwa dhana za kinadharia zinazohitajika ili kuelewa misingi ya Client-side Validation na RGB. Kama utakavyogundua katika kozi hii, RGB inatanguliza dhana nyingi za kiufundi ambazo hazionekani kwa kawaida katika Bitcoin. Katika sehemu hii, utapata pia faharasa inayotoa ufafanuzi wa maneno yote mahususi kwa itifaki ya RGB.
 
-**Sehemu ya 2: Fanya mazoezi
+**Sehemu ya 2: Fanya mazoezi**
 
 Sehemu ya pili itazingatia matumizi ya dhana za kinadharia zinazoonekana katika sehemu ya 1. Tutajifunza jinsi ya kuunda na kuendesha kandarasi za RGB. Pia tutaona jinsi ya kupanga na zana hizi. Sehemu hizi mbili za kwanza zinawasilishwa na Maxim Orlovsky.
 
-**Sehemu ya 3: Maombi
+**Sehemu ya 3: Maombi**
 
 Sehemu ya mwisho inaongozwa na wazungumzaji wengine wanaowasilisha maombi madhubuti yenye msingi wa RGB, ili kuangazia matukio ya matumizi halisi.
 
@@ -106,31 +106,31 @@ Katika muktadha wa Bitcoin, bila shaka unafahamu kanuni za Mining, ugatuaji na u
 
 ![RGB-Bitcoin](assets/fr/003.webp)
 
-Baadaye, pia tutaanzisha neno muhimu: dhana ya "**Stash**", ambayo inarejelea seti ya data ya upande wa mteja inayohitajika ili kuhifadhi hali ya Contract, kwa kuwa data hii haiigizwi kimataifa kote kwenye mtandao. Hatimaye, tutaangalia mantiki nyuma ya RGB, itifaki ambayo inachukua faida ya Client-side Validation, na kwa nini inakamilisha mbinu zilizopo (Blockchain na njia za serikali).
+Baadaye, pia tutaanzisha neno muhimu: dhana ya "**Stash**", ambayo inarejelea seti ya data ya upande wa mteja inayohitajika ili kuhifadhi hali ya mkataba, kwa kuwa data hii haiigizwi kimataifa kote kwenye mtandao. Hatimaye, tutaangalia mantiki nyuma ya RGB, itifaki ambayo inachukua faida ya Client-side Validation, na kwa nini inakamilisha mbinu zilizopo (Blockchain na njia za serikali).
 
 ### Trilemmas katika kompyuta iliyosambazwa
 
-Ili kuelewa jinsi matatizo ya Client-side Validation na RGB Address hayajatatuliwa na Blockchain na Umeme, hebu tugundue "trilemmas" 3 kuu katika kompyuta iliyosambazwa:
+Ili kuelewa jinsi matatizo ya Client-side Validation na RGB Address hayajatatuliwa na Blockchain na Lightning, hebu tugundue "trilemmas" 3 kuu katika kompyuta iliyosambazwa:
 
 
-- Scalability, Ugatuaji, Faragha** ;
+- Uwezo wa kukua, Ugatuaji, Faragha** ;
 - CAP** Nadharia (Uthabiti, Upatikanaji, Uvumilivu wa Sehemu);
 - CIA** trilemma (Usiri, Uadilifu, Upatikanaji).
 
-#### 1. Scalability, ugatuaji na usiri
+#### 1. Uwezo wakukua, ugatuaji na usiri
 
 
-- Blockchain (Bitcoin)**
+- **Blockchain (Bitcoin)**
 
 Blockchain ina ugatuzi wa hali ya juu, lakini sio hatari sana. Zaidi ya hayo, kwa kuwa kila kitu kiko katika rejista ya kimataifa, ya umma, usiri ni mdogo. Tunaweza kujaribu kuboresha usiri kwa kutumia teknolojia zisizo na maarifa (Confidential Transactions, mifumo ya mimblewimble, n.k.), lakini msururu wa umma hauwezi kuficha grafu ya muamala.
 
 
-- Njia za umeme/Jimbo**
+- **Lightning/Jimbo**
 
-Njia za serikali (kama ilivyo kwa Lightning Network) ni hatari zaidi na ni za faragha zaidi kuliko Blockchain, kwani shughuli zinafanyika off-chain. Hata hivyo, wajibu wa kutangaza hadharani baadhi ya Elements (miamala ya ufadhili, topolojia ya mtandao) na ufuatiliaji wa trafiki ya mtandao inaweza kwa kiasi fulani kuhatarisha usiri. Ugatuaji pia unateseka: uelekezaji unatumia pesa nyingi, na nodi kuu zinaweza kuwa sehemu kuu za uwekaji. Hili ndilo jambo ambalo tunaanza kuona kwenye Umeme.
+Njia za serikali (kama ilivyo kwa Lightning Network) ni hatari zaidi na ni za faragha zaidi kuliko Blockchain, kwani shughuli zinafanyika off-chain. Hata hivyo, wajibu wa kutangaza hadharani baadhi ya Elements (miamala ya ufadhili, topolojia ya mtandao) na ufuatiliaji wa trafiki ya mtandao inaweza kwa kiasi fulani kuhatarisha usiri. Ugatuaji pia unateseka: uelekezaji unatumia pesa nyingi, na nodi kuu zinaweza kuwa sehemu kuu za uwekaji. Hili ndilo jambo ambalo tunaanza kuona kwenye Lightning.
 
 
-- Client-side Validation (RGB)**
+- **Client-side Validation (RGB)**
 
 Mtazamo huu mpya ni hatari zaidi na wa siri zaidi, kwa sababu sio tu kwamba tunaweza kuunganisha mbinu za uthibitisho wa maarifa bila ufichuzi, lakini hakuna grafu ya kimataifa ya miamala, kwa kuwa hakuna mtu anayeshikilia rejista nzima. Kwa upande mwingine, pia inamaanisha maelewano fulani juu ya ugatuaji wa madaraka: mtoaji wa Smart contract anaweza kuwa na jukumu kuu (kama "msambazaji wa Contract" huko Ethereum). Hata hivyo, tofauti na Blockchain, iliyo na Client-side Validation, unahifadhi na kuthibitisha kandarasi ambazo unazipenda pekee, jambo ambalo huboresha uwezo wako kwa kuepuka hitaji la kupakua na kuthibitisha majimbo yote yaliyopo.
 
@@ -141,17 +141,17 @@ Mtazamo huu mpya ni hatari zaidi na wa siri zaidi, kwa sababu sio tu kwamba tuna
 Nadharia ya CAP inasisitiza kuwa haiwezekani kwa mfumo uliosambazwa kukidhi uthabiti kwa wakati mmoja (*Uthabiti*), upatikanaji (*Upatikanaji*) na ustahimilivu wa kizigeu (*Uvumilivu wa kizigeu*).
 
 
-- Blockchain**
+- **Blockchain**
 
 Blockchain inapendelea uthabiti na upatikanaji, lakini haifanyi vizuri na ugawaji wa mtandao: ikiwa huwezi kuona kizuizi, huwezi kuchukua hatua na kuwa na mtazamo sawa na mtandao mzima.
 
 
-- Umeme** (kwa Kifaransa)
+- **Lightning** (kwa Kifaransa)
 
 Mfumo wa chaneli za serikali una upatikanaji na uvumilivu wa kugawa (kwa kuwa nodi mbili zinaweza kubaki zimeunganishwa kwa kila mmoja hata ikiwa mtandao umegawanyika), lakini uthabiti wa jumla unategemea ufunguzi na kufungwa kwa njia kwenye Blockchain.
 
 
-- Client-side Validation (RGB)**
+- **Client-side Validation (RGB)**
 
 Mfumo kama vile RGB unatoa uthabiti (kila mshiriki anathibitisha data yake ndani ya nchi, bila utata) na ustahimilivu wa kugawa (unaweka data yako kivyake), lakini haihakikishii upatikanaji wa kimataifa (kila mtu anapaswa kuhakikisha kuwa ana sehemu zinazofaa za historia, na baadhi ya washiriki wanaweza wasichapishe chochote au kuacha kushiriki taarifa fulani).
 
@@ -159,13 +159,13 @@ Mfumo kama vile RGB unatoa uthabiti (kila mshiriki anathibitisha data yake ndani
 
 #### 3. CIA trilemma (Usiri, Uadilifu, Upatikanaji)
 
-Utatu huu unatukumbusha kuwa usiri, uadilifu na upatikanaji haviwezi kuboreshwa vyote kwa wakati mmoja. Blockchain, Umeme na Client-side Validation huanguka tofauti katika usawa huu. Wazo ni kwamba hakuna mfumo mmoja unaweza kutoa kila kitu; ni muhimu kuchanganya mbinu kadhaa (Blockchain's-muhuri, mbinu ya upatanishi ya Umeme, na uthibitishaji wa ndani na RGB) ili kupata kifurushi madhubuti kinachotoa dhamana nzuri katika kila mwelekeo.
+Utatu huu unatukumbusha kuwa usiri, uadilifu na upatikanaji haviwezi kuboreshwa vyote kwa wakati mmoja. Blockchain, Lightning na Client-side Validation huanguka tofauti katika usawa huu. Wazo ni kwamba hakuna mfumo mmoja unaweza kutoa kila kitu; ni muhimu kuchanganya mbinu kadhaa (Blockchain's-muhuri, mbinu ya upatanishi ya Umeme, na uthibitishaji wa ndani na RGB) ili kupata kifurushi madhubuti kinachotoa dhamana nzuri katika kila mwelekeo.
 
 ![RGB-Bitcoin](assets/fr/006.webp)
 
 ### Jukumu la Blockchain na wazo la kugawanyika
 
-Blockchain (katika kesi hii, Bitcoin) hutumika kama utaratibu wa _wakati wa kuweka muhuri_ na ulinzi dhidi ya matumizi maradufu. Badala ya kuingiza data kamili ya Smart contract au mfumo uliogatuliwa, tunajumuisha tu **ahadi za kriptografia** (_commitments_) kwa miamala (kwa maana ya Client-side Validation, ambayo tutaita "mipito ya serikali"). Hivyo:
+Blockchain (katika kesi hii, Bitcoin) hutumika kama utaratibu wa _wakati wa kuweka muhuri_ na ulinzi dhidi ya matumizi maradufu. Badala ya kuingiza data kamili ya Smart contract au mfumo uliogatuliwa, tunajumuisha tu **cryptographic commitments** (_commitments_) kwa miamala (kwa maana ya Client-side Validation, ambayo tutaita "mipito ya serikali"). Hivyo:
 
 
 - Tunatoa Blockchain kutoka kwa kiasi kikubwa cha data na mantiki;
@@ -173,14 +173,14 @@ Blockchain (katika kesi hii, Bitcoin) hutumika kama utaratibu wa _wakati wa kuwe
 
 Sharding ni dhana iliyotokana na hifadhidata zilizosambazwa (k.m. MySQL kwa mitandao ya kijamii kama vile Facebook au Twitter). Ili kutatua tatizo la kiasi cha data na ucheleweshaji wa maingiliano, hifadhidata imegawanywa katika _shards_ (Marekani, Ulaya, Asia, n.k.). Kila sehemu inalingana ndani ya nchi na imesawazishwa kwa sehemu na zingine.
 
-Kwa mikataba mahiri ya aina ya RGB, sisi Shard kulingana na mikataba yenyewe. Kila Contract ni _shard_ inayojitegemea. Kwa mfano, ikiwa una tokeni za USDT pekee, huhitaji kuhifadhi au kuthibitisha historia nzima ya tokeni nyingine kama USDC. Kwenye Bitcoin, Blockchain haifanyi _sharding_: una seti ya kimataifa ya UTXO. Kwa Client-side Validation, kila mshiriki anahifadhi tu data ya Contract ambayo inashikilia au kutumia.
+Kwa mikataba mahiri ya aina ya RGB, tunagawanya kulingana na mikataba. Kila mktaba ni _shard_ inayojitegemea. Kwa mfano, ikiwa una tokeni za USDT pekee, huhitaji kuhifadhi au kuthibitisha historia nzima ya tokeni nyingine kama USDC. Kwenye Bitcoin, Blockchain haifanyi _sharding_: una seti ya kimataifa ya UTXO. Kwa Client-side Validation, kila mshiriki anahifadhi tu data ya Contract ambayo inashikilia au kutumia.
 
 Kwa hivyo tunaweza kufikiria mfumo ikolojia kama ifuatavyo:
 
 
-- Blockchain (Bitcoin)** kama msingi unaohakikisha urudufu kamili wa rejista ndogo na hutumika kama muhuri wa muda wa Layer;
-- Lightning Network** kwa haraka, Confidential Transactions, bado kulingana na usalama na makazi ya mwisho ya Bitcoin Blockchain;
-- RGB na Client-side Validation** ili kuongeza mantiki changamano zaidi ya Smart contract, bila kuunganisha Blockchain au kupoteza usiri.
+- **Blockchain (Bitcoin)** kama msingi unaohakikisha urudufu kamili wa rejista ndogo na hutumika kama muhuri wa muda wa Layer;
+- **Lightning Network** kwa haraka, Confidential Transactions, bado kulingana na usalama na makazi ya mwisho ya Bitcoin Blockchain;
+- **RGB na Client-side Validation** ili kuongeza mantiki changamano zaidi ya Smart contract, bila kuunganisha Blockchain au kupoteza usiri.
 
 ![RGB-Bitcoin](assets/fr/007.webp)
 
