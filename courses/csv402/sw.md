@@ -30,7 +30,7 @@ Kozi hiyo inatokana na semina ya moja kwa moja iliyoandaliwa na Fulgur'Ventures 
 
 Hamjambo nyote, na karibu kwenye kozi hii ya mafunzo inayotolewa kwa RGB, mfumo wa Smart contract ulioidhinishwa kwa upande wa mteja unaotumia Bitcoin na Lightning Network. Muundo wa kozi hii umeundwa ili kuwezesha uchunguzi wa kina wa somo hili changamano. Hivi ndivyo kozi inavyopangwa:
 
-**Sehemu ya 1: Nadharia
+**Sehemu ya 1: Nadharia**
 
 Sehemu ya kwanza imejitolea kwa dhana za kinadharia zinazohitajika ili kuelewa misingi ya Client-side Validation na RGB. Kama utakavyogundua katika kozi hii, RGB inatanguliza dhana nyingi za kiufundi ambazo hazionekani kwa kawaida katika Bitcoin. Katika sehemu hii, utapata pia faharasa inayotoa ufafanuzi wa maneno yote mahususi kwa itifaki ya RGB.
 
