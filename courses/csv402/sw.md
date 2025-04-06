@@ -429,7 +429,7 @@ Katika sura hii, tutaangalia utekelezaji wa Client-side Validation na Mihuri ya 
 
 
 - Ahadi za _deterministic Bitcoin_;
-- Ahadi za itifaki nyingi.
+- Multi-protocol commitments.
 
 Ni mchanganyiko wa dhana hizi unaotuwezesha kutawala mifumo au mikataba kadhaa juu ya UTXO moja na kwa hiyo Blockchain moja.
 
@@ -444,17 +444,17 @@ Ili kuelewa mantiki, hebu tukumbuke kanuni ya msingi: kufunga _muhuri wa matumiz
 
 - **Tumia ufunguo wa umma au Address**
 
-Tunaweza kuamua kuwa ufunguo mahususi wa umma au Address ndio _muhuri wa matumizi moja_. Mara tu ufunguo huu au Address inaonekana On-Chain katika shughuli, ina maana kwamba Seal imefungwa na ujumbe fulani.
+Tunaweza kuamua kuwa ufunguo mahususi wa umma au Address ndio single-use seal_. Mara tu ufunguo huu au Address inaonekana On-Chain katika shughuli, ina maana kwamba Seal imefungwa na ujumbe fulani.
 
 
 - **Tumia pato la muamala la Bitcoin**
 
-Hii ina maana kwamba _seal-matumizi moja_ inafafanuliwa kama _outpoint_ sahihi (jozi ya nambari ya pato ya txid +). Mara tu _outpoint_ hii inapotumika, Seal inafungwa.
+Hii ina maana kwambasingle-use seal_ inafafanuliwa kama _outpoint_ sahihi (jozi ya nambari ya pato ya txid +). Mara tu _outpoint_ hii inapotumika, Seal inafungwa.
 
-Wakati tukifanyia kazi RGB, tulitambua angalau njia 4 tofauti za kutekeleza mihuri hii kwenye Bitcoin:
+Wakati tukifanyia kazi RGB, tulitambua angalau njia nne tofauti za kutekeleza mihuri hii kwenye Bitcoin:
 
 
-- Bainisha Seal kupitia ufunguo wa umma, na uifunge kwa _output_ ;
+- Bainisha seal kupitia ufunguo wa umma, na uifunge kwa _output_ ;
 - Bainisha Seal kwa _outpoint_ na uifunge kwa _output_ ;
 - Bainisha Seal kupitia thamani ya ufunguo wa umma, na uifunge kwa _input_ ;
 - Bainisha Seal kupitia _outpoint_, na uifunge kwa _input_.
@@ -474,7 +474,7 @@ Wakati tukifanyia kazi RGB, tulitambua angalau njia 4 tofauti za kutekeleza mihu
 Hatutaeleza kwa kina kuhusu kila mojawapo ya usanidi huu, kwani katika RGB tumechagua kutumia **an _outpoint_ kama ufafanuzi wa Seal**, na kuweka _commitment_ katika matokeo ya shughuli ya kutumia _outpoint_ hii. Kwa hivyo tunaweza kuanzisha dhana zifuatazo kwa mwendelezo:
 
 
-- "Seal Definition "** : _outpoint_ iliyotolewa (iliyotambuliwa na txid + towe no.) ;
+- "Ufafanuzi wa Seal "** : _outpoint_ iliyotolewa (iliyotambuliwa na txid + towe no.) ;
 - "Seal kufunga "**: Muamala unaotumia _outpoint_ hii, ambapo _ahadi_ huongezwa kwa ujumbe.
 
 Mpango huu umechaguliwa kwa utangamano wake na usanifu wa RGB, lakini usanidi mwingine unaweza kuwa muhimu kwa matumizi tofauti.
@@ -526,22 +526,22 @@ Wahusika wengine hawana habari hii. Wanaona tu kwamba UTXO imetumika. Kwa hivyo 
 Ili kufafanua muundo, hebu tufanye muhtasari wa mchakato katika shughuli mbili:
 
 
-- Muamala wa 1**: Hii ina _muhuri ufafanuzi_, yaani _outpoint_ ambayo itatumika kama Seal.
+- **Muamala wa 1**: Hii ina _seal definition_ yaani _outpoint_ ambayo itatumika kama Seal.
 
 ![RGB-Bitcoin](assets/fr/031.webp)
 
 
-- Muamala 2**: Hutumia _outpoint_ hii. Hii inafunga Seal na, katika shughuli hiyo hiyo, inaingiza _commitment_ kwenye ujumbe.
+- **Muamala 2**: Hutumia _outpoint_ hii. Hii inafunga Seal na, katika shughuli hiyo hiyo, inaingiza _commitment_ kwenye ujumbe.
 
 ![RGB-Bitcoin](assets/fr/033.webp)
 
-Kwa hiyo tunaita muamala wa pili "_shahidi muamala_".
+Kwa hiyo tunaita muamala wa pili _witness transaction_".
 
 Ili kuonyesha hili kutoka kwa pembe nyingine, tunaweza kuwakilisha tabaka mbili:
 
 
-- Layer ya juu (Blockchain, public)**: kila mtu anaona muamala na anajua kuwa _outpoint_ imetumika;
-- Layer ya chini (upande wa mteja, faragha)** : Alice pekee (au mtu husika) anajua kwamba gharama hii inalingana na ujumbe kama huo, kupitia uthibitisho wa siri na ujumbe anaohifadhi ndani.
+- **Layer ya juu (Blockchain, public)**: kila mtu anaona muamala na anajua kuwa _outpoint_ imetumika;
+- **Layer ya chini (upande wa mteja, faragha)** : Alice pekee (au mtu husika) anajua kwamba gharama hii inalingana na ujumbe kama huo, kupitia uthibitisho wa siri na ujumbe anaohifadhi ndani.
 
 ![RGB-Bitcoin](assets/fr/034.webp)
 
@@ -558,13 +558,13 @@ Shughuli ya _shahidi_ hutumia UTXO maarufu (au _seal definition_) na matumizi ha
 Njia yoyote (PkO, TxO2, n.k.), _commitment_ inaweza kuingizwa :
 
 
-- Katika Ingizo** kupitia:
+- **Katika Ingizo** kupitia:
     - Sigtweak** (hurekebisha kipengele cha `r` cha sahihi ya ECDSA, sawa na kanuni ya "Sign-to-Contract") ;
-    - Witweak** (data ya _shahidi_ aliyetengwa_ imerekebishwa).
-- Katika Pato** kupitia :
-    - Keytweak** (ufunguo wa umma wa mpokeaji "umebadilishwa" na ujumbe);
-    - Opret** (ujumbe umewekwa katika pato lisiloweza spendable `OP_RETURN`);
-    - Tapret** (au _Taptweak_), ambayo inategemea Taproot kuingiza Commitment kwenye sehemu ya hati ya ufunguo wa Taproot, hivyo basi kurekebisha ufunguo wa umma kwa uthabiti.
+    - **Witweak** (data ya _shahidi_ aliyetengwa_ imerekebishwa).
+- **Katika Pato** kupitia :
+    - **Keytweak** (ufunguo wa umma wa mpokeaji "umebadilishwa" na ujumbe);
+    - **Opret** (ujumbe umewekwa katika pato lisiloweza spendable `OP_RETURN`);
+    - **Tapret** (au _Taptweak_), ambayo inategemea Taproot kuingiza Commitment kwenye sehemu ya hati ya ufunguo wa Taproot, hivyo basi kurekebisha ufunguo wa umma kwa uthabiti.
 
 ![RGB-Bitcoin](assets/fr/035.webp)
 
@@ -583,7 +583,7 @@ Mpango wa awali ulihusisha kutumia sehemu nasibu ya sahihi (ECDSA au Schnorr) il
 Walakini, shida kuu 2 zimeibuka:
 
 
-- Multisig kabla ya Taproot: unapokuwa na watia saini kadhaa, unahitaji kuamua ni saini ipi itakayobeba _ahadi_. Saini zinaweza kuagizwa kwa njia tofauti, na ikiwa mtu aliyetia saini anakataa, unapoteza udhibiti wa matokeo ya _ahadi_;
+- Multisig kabla ya Taproot: unapokuwa na watia saini kadhaa, unahitaji kuamua ni saini ipi itakayobeba _commitment_ Saini zinaweza kuagizwa kwa njia tofauti, na ikiwa mtu aliyetia saini anakataa, unapoteza udhibiti wa matokeo ya _commitment_;
 - MuSig na Nonce iliyoshirikiwa: pamoja na Schnorr Multisig (*MuSig*), kizazi cha Nonce ni algoriti ya vyama vingi, na inakuwa vigumu kabisa kurekebisha Nonce kibinafsi.
 
 Kwa mazoezi, **sig tweak** pia haiendani sana na maunzi yaliyopo (pochi za vifaa) na umbizo (Umeme, nk.). Kwa hivyo wazo hili kubwa ni Hard kuweka katika vitendo.
@@ -593,7 +593,7 @@ Kwa mazoezi, **sig tweak** pia haiendani sana na maunzi yaliyopo (pochi za vifaa
 **muhimu wa kurekebisha** unachukua dhana ya kihistoria ya _lipa-kwa-mkataba_. Tunachukua ufunguo wa umma `X` na kuurekebisha kwa kuongeza thamani `H(ujumbe)`. Hasa, ikiwa `X = x * G` na `h = H(ujumbe)`, basi ufunguo mpya utakuwa `X' = X + h * G`. Ufunguo huu uliobadilishwa huficha Commitment kwa `ujumbe`. Mmiliki wa ufunguo asilia wa faragha anaweza, kwa kuongeza `h` kwenye ufunguo wake wa faragha `x`, kuthibitisha kwamba ana ufunguo wa kutumia pato. Kwa nadharia, hii ni ya kifahari, kwa sababu:
 
 
-- _ahadi_ imeingizwa bila kuongeza sehemu zozote za ziada;
+ _commitment_ imeingizwa bila kuongeza sehemu zozote za ziada;
 - Huhifadhi data yoyote ya ziada ya On-Chain.
 
 Katika mazoezi, hata hivyo, tunakabiliana na shida zifuatazo:
@@ -629,7 +629,7 @@ OP_RETURN   OP_PUSHBYTE_32   <mpc::Commitment>
 
 ### Tapret
 
-Chaguo la mwisho ni matumizi ya **Taproot** (iliyoletwa na BIP341) na mpango wa *Tapret*. *Tapret* ni aina changamano zaidi ya Commitment ya kubainisha, ambayo huleta maboresho katika suala la alama ya Blockchain na usiri wa shughuli za Contract. Wazo kuu ni kuficha Commitment katika sehemu ya `Njia ya Hati Tumia` ya [muamala wa Taproot](https://github.com/Bitcoin/bips/blob/master/bip-0341.mediawiki).
+Chaguo la mwisho ni matumizi ya **Taproot** (iliyoletwa na BIP341) na mpango wa *Tapret*. *Tapret* ni aina changamano zaidi ya Commitment ya kubainisha, ambayo huleta maboresho katika suala la alama ya Blockchain na usiri wa shughuli za Contract mkataba. Wazo kuu ni kuficha Commitment katika sehemu ya `Njia ya Hati Tumia` ya [muamala wa Taproot](https://github.com/Bitcoin/bips/blob/master/bip-0341.mediawiki).
 
 ![RGB-Bitcoin](assets/fr/036.webp)
 
