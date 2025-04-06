@@ -1122,9 +1122,9 @@ Topolojia hii ya DAG (badala ya msururu rahisi wa mstari) inaonyesha uwezekano k
 Mikataba mahiri katika RGB inatanguliza muundo wa zana zinazobeba dijitali, zilizogatuliwa lakini zilizowekwa katika Bitcoin kwa kuweka muhuri wa wakati na kuhakikisha mpangilio wa miamala. Utekelezaji wa kiotomatiki wa mikataba hii inategemea:
 
 
-- A **Contract State*, inayoonyesha usanidi wa sasa wa Contract (haki, mizani, vigezo, nk);
-- A **Business Logic** (*Schema*), ikifafanua ni mabadiliko gani yanaruhusiwa na jinsi yanapaswa kuthibitishwa;
-- Contract Operations**, ambayo husasisha jimbo hili hatua kwa hatua, kutokana na ahadi zilizowekwa katika miamala ya Bitcoin.
+- A **hali ya muktaba**, inayoonyesha usanidi wa sasa wa Contract (haki, mizani, vigezo, nk);
+- A **Mantiki ya Biashara** (*Schema*), ikifafanua ni mabadiliko gani yanaruhusiwa na jinsi yanapaswa kuthibitishwa;
+- **Uendeshaji wa Mkataba**, ambayo husasisha jimbo hili hatua kwa hatua, kutokana na ahadi zilizowekwa katika miamala ya Bitcoin.
 
 Katika sura inayofuata, tutaingia kwa undani zaidi kuhusu uwakilishi halisi wa hizi ***states*** na ***mabadiliko ya serikali*** katika kiwango cha off-chain, na jinsi zinavyohusiana na UTXO na Mihuri ya Matumizi Moja iliyopachikwa kwenye Bitcoin. Hii itakuwa fursa ya kuona jinsi mitambo ya ndani ya RGB, kulingana na Client-side Validation, inavyoweza kudumisha uthabiti wa mikataba mahiri huku ikihifadhi usiri wa data.
 
@@ -1178,7 +1178,7 @@ Ikiwa Bob ameridhika, anaweza kutoa kibali chake (kwa mfano, kwa kusaini *Consig
 
 ![RGB-Bitcoin](assets/fr/061.webp)
 
-Jimbo hilo jipya sasa linarejelea UTXO ya Bob, ikimpa Bob Ownership iliyokuwa ikishikiliwa na Alice. Pato la Bitcoin ambapo data ya RGB imetiwa nanga inakuwa dhibitisho lisiloweza kubatilishwa la uhamisho wa Ownership.
+Jimbo hilo jipya sasa linarejelea UTXO ya Bob, ikimpa Bob Ownership iliyokuwa ikishikiliwa na Alice. Pato la Bitcoin ambapo data ya RGB imetiwa nanga inakuwa dhibitisho lisiloweza kubatilishwa la uhamisho wa Umiliki.
 
 Mfano wa DAG ndogo (*Directed Acyclic Graph*) inayojumuisha oparesheni mbili za Contract (**Genesis** kisha ***State Transition***) inaweza kuonyesha jinsi hali ya RGB (*upande wa mteja* Layer, kwa rangi nyekundu) inavyounganishwa na Commitment5-7335 GW7*735 GW, 733 GW-7, GW-7 machungwa).
 
@@ -1194,7 +1194,7 @@ Katika muktadha huu, hapa kuna vikumbusho vichache vya istilahi:
     - Mataifa Yanayomilikiwa**, yaani, data iliyounganishwa na Ownership (kwa mfano, idadi ya tokeni zilizohamishwa).
 - **Global State** huleta pamoja sifa za jumla za Contract, zinazoonekana kwa wote, na kuhakikisha uwiano wa kimataifa wa mageuzi.
 
-Mpito wa Jimbo**, ulioelezewa katika sura iliyopita, ni aina kuu ya Contract Operation. Wanarejelea jimbo moja au zaidi zilizopita (kutoka Genesis au State Transition nyingine) na wanasasisha hadi hali mpya.
+**Mpito wa Jimbo**, ulioelezewa katika sura iliyopita, ni aina kuu ya Contract Operation. Wanarejelea jimbo moja au zaidi zilizopita (kutoka Genesis au State Transition nyingine) na wanasasisha hadi hali mpya.
 
 ![RGB-Bitcoin](assets/fr/063.webp)
 
