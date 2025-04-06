@@ -1170,7 +1170,7 @@ Kabla ya kutangaza muamala, Alice humtumia Bob ***Consignment*** iliyo na data y
 
 
 - Inathibitisha data yote ya RGB iliyo katika *Consignment*, ikijumuisha hali mpya inayoipatia Ownership ya mali;
-- Kwa kutegemea *Nanga* zilizojumuishwa katika *Consignment*, inathibitisha mpangilio wa shughuli za mashahidi (kutoka Genesis hadi mpito wa hivi majuzi) na kuthibitisha ahadi zinazolingana katika Blockchain.
+- Kwa kutegemea *Anchor* zilizojumuishwa katika *Consignment*, inathibitisha mpangilio wa shughuli za mashahidi (kutoka Genesis hadi mpito wa hivi majuzi) na kuthibitisha ahadi zinazolingana katika Blockchain.
 
 **Kukamilika kwa Mpito:**
 
@@ -1200,7 +1200,7 @@ Katika muktadha huu, hapa kuna vikumbusho vichache vya istilahi:
 
 Mchoro huu unaonyesha jinsi, katika *Jimbo Transition Bundle*, mihuri kadhaa inaweza kufungwa katika shughuli ya sampuli moja, wakati huo huo kufungua mihuri mpya. Kwa hakika, kipengele cha kuvutia cha itifaki ya RGB ni uwezo wake wa kupima: mabadiliko kadhaa yanaweza kuunganishwa kuwa Transition Bundle, kila mkusanyiko ukihusishwa na jani tofauti la *mti wa MPC* (kitambulisho cha kipekee cha kifungu). Shukrani kwa utaratibu wa *Deterministic Bitcoin Commitment* (DBC), ujumbe wote unaingizwa kwenye towe la `Tapret` au `Opret`, huku ukifunga mihuri iliyotangulia na ikiwezekana kubainisha mipya. `Anchor* hutumika kama kiungo cha moja kwa moja kati ya Commitment iliyohifadhiwa katika Blockchain na muundo wa Client-side Validation (*upande wa mteja*).
 
-Katika sura zifuatazo, tutaangalia vipengele na taratibu zote zinazohusika katika kujenga na kuhalalisha State Transition. Nyingi za hizi Elements ni sehemu ya makubaliano ya RGB, yanayotekelezwa katika **RGB Core Library**.
+Katika sura zifuatazo, tutaangalia vipengele na taratibu zote zinazohusika katika kujenga na kuhalalisha State Transition. Vipengele vingi kati ya hivi ni sehemu ya RGB consensus, ambavyo vimetekelezwa ndani ya **RGB Core Library**.
 
 ### Transition Bundle
 
@@ -1340,33 +1340,33 @@ Ningependa sasa kuangalia kwa kina kila mojawapo ya sehemu za Elements za **Cont
 +---------------------------------------------------------------------------------------------------------------------+
 ```
 
-Tukiangalia mchoro hapo juu, tunaweza kuona kwamba Contract Operation inajumuisha Elements inayorejelea **Jimbo Jipya** na zingine zikirejelea **Jimbo la Kale** lililosasishwa.
+Tukiangalia mchoro hapo juu, tunaweza kuona kwamba Contract Operation inajumuisha Elements inayorejelea **New State** na zingine zikirejelea **old state** lililosasishwa.
 
-Elements ya **Jimbo Jipya** ni:
+Elements ya **New State** ni:
 
 
-- Kazi**, ambazo zimefafanuliwa:
+- **Kazi**, ambazo zimefafanuliwa:
  - **Seal Definition**;
  - **Owned State**.
 - **Global State**, ambayo inaweza kurekebishwa au kuimarishwa;
-- Valencies**, ikiwezekana kufafanuliwa katika State Transition au Genesis.
+- **Valencies**, ikiwezekana kufafanuliwa katika State Transition au Genesis.
 
-**Jimbo la Kale** linarejelewa kupitia:
+**old state** linarejelewa kupitia:
 
 
-- Ingizo**, zinazoelekeza kwenye *Kazi* za mabadiliko ya awali ya hali (hazipo katika Genesis);
-- Hukomboa**, ambayo inarejelea Uhalali uliobainishwa awali (katika Viendelezi vya Jimbo pekee).
+- **Ingizo**, zinazoelekeza kwenye *Kazi* za mabadiliko ya awali ya hali (hazipo katika Genesis);
+- **Hukomboa**, ambayo inarejelea Uhalali uliobainishwa awali (katika Viendelezi vya Jimbo pekee).
 
 Kwa kuongezea, Contract Operation inajumuisha nyanja za jumla zaidi maalum kwa operesheni:
 
 
 - ffv` (*Toleo la kusonga mbele kwa haraka*): nambari kamili ya baiti 2 inayoonyesha toleo la Contract;
 - transitionType` au ExtensionType`: nambari kamili ya biti 16 inayobainisha aina ya Mpito au Kiendelezi, kulingana na Business Logic;
-- `Id ya Mkataba`: nambari ya baiti 32 inayorejelea *OpId* ya Contract Genesis. Imejumuishwa katika Mpito na Viendelezi, lakini si katika Genesis;
+- `Id ya Mkataba`: nambari ya bytes 32 inayorejelea *OpId* ya Contract Genesis. Imejumuishwa katika Mpito na Viendelezi, lakini si katika Genesis;
 - schemaId: iliyopo tu katika Genesis, hii ni Hash ya 32-byte inayowakilisha muundo (*Schema*) wa Contract;
 - Testnet`: Boolean ikionyesha kama uko kwenye mtandao wa Testnet au Mainnet. Genesis pekee;
 - altlayers1`: kigezo kinachobainisha Layer mbadala (Sidechain au nyingine) inayotumika kwa data ya Anchor pamoja na Bitcoin. Ipo tu katika Genesis;
-- metadata": sehemu inayoweza kuhifadhi maelezo ya muda, muhimu kwa kuthibitisha changamano ya Contract, lakini ambayo haipaswi kurekodiwa katika historia ya hali ya mwisho.
+- "metadata": sehemu inayoweza kuhifadhi maelezo ya muda, muhimu kwa kuthibitisha changamano ya Contract, lakini ambayo haipaswi kurekodiwa katika historia ya hali ya mwisho.
 
 Hatimaye, sehemu hizi zote zimefupishwa kwa mchakato wa kurudisha nyuma uliogeuzwa kukufaa, ili kutoa alama ya kidole ya kipekee, `OpId`. `OpId` hii basi inaunganishwa kwenye Transition Bundle, na kuiwezesha kuthibitishwa na kuthibitishwa ndani ya itifaki.
 
@@ -1379,8 +1379,8 @@ RGB Contract basi hutambuliwa kwa `ContractId`, inayotokana na Genesis `OpId` (k
 **Contract State** inawakilisha seti ya maelezo ambayo itifaki ya RGB lazima ifuatilie kwa Contract fulani. Inaundwa na:
 
 
-- Global State** moja: hii ni sehemu ya umma, ya kimataifa ya Contract, inayoonekana kwa wote;
-- Nchi Moja au zaidi Zinazomilikiwa**: kila Owned State inahusishwa na Seal ya kipekee (na kwa hivyo UTXO kwenye Bitcoin). Tofauti inafanywa kati ya:
+- **Global State** moja: hii ni sehemu ya umma, ya kimataifa ya Contract, inayoonekana kwa wote;
+- **Nchi Moja au zaidi Zinazomilikiwa**: kila Owned State inahusishwa na Seal ya kipekee (na kwa hivyo UTXO kwenye Bitcoin). Tofauti inafanywa kati ya:
     - **Nchi zinazomilikiwa na umma**,
     - **Nchi zinazomilikiwa** za Kibinafsi.
 
@@ -1391,8 +1391,8 @@ RGB Contract basi hutambuliwa kwa `ContractId`, inayotokana na Genesis `OpId` (k
 Kipengele kikuu cha RGB ni njia ambayo Global State na Mataifa Yanayomilikiwa yanarekebishwa. Kwa ujumla kuna aina mbili za tabia:
 
 
-- Inaweza kubadilika**: kipengele cha hali kinapofafanuliwa kuwa kinaweza kubadilika, kila operesheni mpya inachukua nafasi ya hali ya awali na hali mpya. Data ya zamani basi inachukuliwa kuwa ya kizamani;
-- Kukusanya**: kipengele cha hali kinapofafanuliwa kuwa ni mkusanyiko, kila operesheni mpya huongeza taarifa mpya kwa hali ya awali, bila kuibadilisha. Matokeo yake ni aina ya historia iliyokusanywa.
+- **Inaweza kubadilika**: kipengele cha hali kinapofafanuliwa kuwa kinaweza kubadilika, kila operesheni mpya inachukua nafasi ya hali ya awali na hali mpya. Data ya zamani basi inachukuliwa kuwa ya kizamani;
+- **Kukusanya**: kipengele cha hali kinapofafanuliwa kuwa ni mkusanyiko, kila operesheni mpya huongeza taarifa mpya kwa hali ya awali, bila kuibadilisha. Matokeo yake ni aina ya historia iliyokusanywa.
 
 Ikiwa, katika Contract, kipengele cha hali hakijafafanuliwa kuwa kinachoweza kubadilika au limbikizi, kipengele hiki kitasalia tupu kwa shughuli zinazofuata (kwa maneno mengine, hakuna matoleo mapya ya uga huu). Ni Contract Schema (yaani Business Logic) yenye msimbo ambayo huamua ikiwa jimbo (Jumla au Linalomilikiwa) linaweza kubadilika, kujumlisha au kudumu. Mara tu Genesis imefafanuliwa, mali hizi zinaweza kubadilishwa tu ikiwa Contract yenyewe inaruhusu, kwa mfano kupitia State Extension maalum.
 
@@ -1461,14 +1461,14 @@ Mojawapo ya uwezo mkubwa wa RGB upo katika uwezo wa kufichua (*fichua*) au kufic
 *Seal Definition*, katika umbo lake lililofichuliwa, ina sehemu nne za msingi: `txptr`, `vout`, `blinding` na `mbinu` :
 
 
-- txptr**: hii ni rejeleo la UTXO kwenye Bitcoin :
+- **txptr**: hii ni rejeleo la UTXO kwenye Bitcoin :
     - Katika kesi ya **Genesis Seal **, inaelekeza moja kwa moja kwa UTXO iliyopo (ile inayohusishwa na Genesis);
     - Kwa upande wa **Grafu Seal**, tunaweza kuwa na :
         - `txid` rahisi, ikiwa inaashiria UTXO mahususi,
         - Au `WitnessTx`, ambayo hutaja rejeleo la kibinafsi: Seal inaelekeza kwenye shughuli yenyewe. Hii ni muhimu hasa wakati hakuna UTXO ya nje inayopatikana, kwa mfano katika miamala ya kufungua kituo cha Umeme, au ikiwa mpokeaji hana UTXO.
-- vout** : nambari ya matokeo ya shughuli iliyoonyeshwa na `txptr`. Wasilisha pekee kwa Grafu ya kawaida ya Seal (si kwa `WitnessTx`);
-- kupofusha**: idadi nasibu ya ka 8, ili kuimarisha usiri na kuzuia majaribio ya nguvu ya kikatili kwenye utambulisho wa UTXO;
-- method** : inaonyesha njia ya kutia nanga iliyotumika (`Tapret` au `Opret`).
+- **vout** : nambari ya matokeo ya shughuli iliyoonyeshwa na `txptr`. Wasilisha pekee kwa Grafu ya kawaida ya Seal (si kwa `WitnessTx`);
+-**kupofusha**: idadi nasibu ya ka 8, ili kuimarisha usiri na kuzuia majaribio ya nguvu ya kikatili kwenye utambulisho wa UTXO;
+- **method** : inaonyesha njia ya kutia nanga iliyotumika (`Tapret` au `Opret`).
 
 Fomu ya *iliyofichwa* ya Seal Definition ni SHA256 Hash (iliyotambulishwa) ya muunganisho wa sehemu hizi 4, ikiwa na lebo maalum kwa RGB.
 
