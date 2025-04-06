@@ -645,10 +645,10 @@ TAPRET_SCRIPT_COMMITMENT_PREFIX = 31 bytes                    MPC commitment + N
 ```
 
 
-- Baiti 29 `OP_RESERVED`, ikifuatiwa na `OP_RETURN`, kisha `OP_PUSHBYTE_33`, huunda sehemu ya _kiambishi_ cha baiti 31;
-- Inayofuata inakuja _commitment_ ya baiti 32 (kawaida Merkle Root kutoka **MPC**), ambayo tunaongeza baiti 1 ya **Nonce** (jumla ya baiti 33 kwa sehemu hii ya pili).
+- Baiti 29 `OP_RESERVED`, ikifuatiwa na `OP_RETURN`, kisha `OP_PUSHBYTE_33`, huunda sehemu ya _kiambishi_ cha  bytes 31;
+- Inayofuata inakuja _commitment_ ya  bytes 32 (kawaida Merkle Root kutoka **MPC**), ambayo tunaongeza  byte 1 ya **Nonce** (jumla ya baiti 33 kwa sehemu hii ya pili).
 
-Kwa hivyo mbinu ya `Tapret` ya baiti 64 inaonekana kama `Opret` ambayo tumeweka awali baiti 29 za `OP_RESERVED` na kuongeza baiti ya ziada kama Nonce.
+Kwa hivyo mbinu ya `Tapret` ya baiti 64 inaonekana kama `Opret` ambayo tumeweka awali bayte 29 za `OP_RESERVED` na kuongeza baiti ya ziada kama Nonce.
 
 Ili kudumisha kubadilika katika suala la utekelezaji, usiri na kuongeza, mpango wa Tapret huzingatia hali mbalimbali za utumiaji, kulingana na mahitaji:
 
@@ -665,21 +665,21 @@ Katika kesi hii ya kwanza, tunaanza kutoka kwa kitufe cha pato cha Taproot (*Tap
 ![RGB-Bitcoin](assets/fr/047.webp)
 
 
-- `P`: ufunguo wa ndani wa umma wa _Njia ya Ufunguo Tumia_.
+- `P`: ufunguo wa ndani wa umma wa-Key Path Spend-
 - `G`: sehemu inayozalisha ya mkunjo wa duaradufu [secp256k1](https://en.Bitcoin.it/wiki/Secp256k1).
 - t = tH_TWEAK(P)` ni kigezo cha tweak, kinachokokotolewa kupitia _tagged hash_ (k.m. `SHA-256(SHA-256(TapTweak) || P)`), kwa mujibu wa [BIP86](https://github.com/Bitcoin/bips/blob/master/bip-0086.mediawiki#Address-derivation). Hii inathibitisha kuwa hakuna hati iliyofichwa.
 
-Ili kujumuisha **Tapret** Commitment, ongeza **Njia ya Hati Tumia ** iliyo na **hati ya kipekee**, kama ifuatavyo:
+Ili kujumuisha **Tapret** Commitment, ongeza **Script Path Spend** iliyo na **single-use seal**, kama ifuatavyo:
 
 ![RGB-Bitcoin](assets/fr/048.webp)
 
 
 - t = tH_TWEAK(P || Script_root)` kisha inakuwa kigezo kipya cha kurekebisha, ikijumuisha **Script_root**.
-- `Script_root = tH_BRANCH(64-byte_Tapret_Commitment)` inawakilisha mzizi wa **hati** hii, ambayo ni Hash ya aina ya `SHA-256(SHA-256(TapBranch) || 64-byte_Tapret_Commitment)`.
+- `Script_root = tH_BRANCH(64-byte_Tapret_Commitment)` inawakilisha mzizi wa **seal** hii, ambayo ni Hash ya aina ya `SHA-256(SHA-256(TapBranch) || 64-byte_Tapret_Commitment)`.
 
-Uthibitisho wa kujumuishwa na wa kipekee katika mti wa Taproot hapa unatokana na ufunguo mmoja wa ndani wa umma `P`.
+Uthibitisho wa kujumuishwa na wa kipekee katika mti wa Taproot hapa unatokana na ufunguo mmoja wa internal public key P `P`.
 
-#### Gusa muunganisho kwenye Njia ya Hati iliyokuwepo awali
+#### Uunganisho wa Taproot katika Njia ya Script Iliyo Kuwepo
 
 Hali ya pili inahusu matokeo changamano zaidi ya `Q` Taproot**, ambayo tayari ina hati kadhaa. Kwa mfano, tunayo mti wa maandishi 3:
 
@@ -687,9 +687,8 @@ Hali ya pili inahusu matokeo changamano zaidi ya `Q` Taproot**, ambayo tayari in
 
 
 - tH_LEAF(x)` hubainisha chaguo za kukokotoa za Hash zilizowekwa tagi za kawaida za hati ya jani.
-- a, B, C` inawakilisha hati ambazo tayari zimejumuishwa katika muundo wa Taproot.
-
-Ili kuongeza Tapret Commitment, tunahitaji kuingiza *hati isiyoweza kutumika* katika ngazi ya kwanza ya mti, tukihamisha hati zilizopo ngazi moja chini. Kwa kuibua, mti unakuwa:
+- a, B, C` inawakilisha hati ambazo tayari zimejumuishwa katika muundo wa
+- Ili kuongeza ahadi ya Taproot, tunahitaji kuingiza script isiyoweza kutumika katika ngazi ya kwanza ya mti, tukihamisha hati zilizopo ngazi moja chini. Kwa kuibua, mti unakuwa:
 
 ![RGB-Bitcoin](assets/fr/050.webp)
 
@@ -713,13 +712,13 @@ Mfano kwa kesi ya pili (`thHABC > tHT`):
 
 #### Uboreshaji na Nonce
 
-Ili kuboresha usiri, tunaweza "mgodi" (neno sahihi zaidi litakuwa "kulazimisha ukatili") thamani ya `<Nonce>` (baiti ya mwisho ya `Tapret` ya baiti 64) katika jaribio la kupata Hash `tHT` kiasi kwamba `tHABC < tHT`. Katika hali hii, Commitment imewekwa upande wa kulia, ili kuokoa mtumiaji kutokana na kufichua yaliyomo yote ya hati zilizopo ili kuthibitisha upekee wa Tapret.
+Ili kuboresha usiri, tunaweza "mine" (neno sahihi zaidi litakuwa "kulazimisha ukatili") thamani ya `<Nonce>` (byte ya mwisho ya `Tapret` ya bytes 64) katika jaribio la kupata Hash `tHT` kiasi kwamba `tHABC < tHT`. Katika hali hii, Commitment imewekwa upande wa kulia, ili kuokoa mtumiaji kutokana na kufichua yaliyomo yote ya hati zilizopo ili kuthibitisha upekee wa Tapret.
 
 Kwa muhtasari, `Tapret` inatoa njia dhahiri na bainifu ya kujumuisha Commitment katika shughuli ya Taproot, huku ikiheshimu hitaji la upekee na kutokuwa na utata muhimu kwa mantiki ya RGB ya Client-side Validation na Single-Use Seal.
 
 #### Njia halali za kutoka
 
-Kwa miamala ya RGB Commitment, hitaji kuu la mpango halali wa Bitcoin Commitment ni kama ifuatavyo: Muamala (*Witness Transaction*) lazima uwe na Commitment moja. Sharti hili hufanya isiwezekane kuunda historia mbadala kwa data iliyothibitishwa ya upande wa mteja ndani ya shughuli hiyo hiyo. Hii ina maana kwamba ujumbe ambao _seal-matumizi moja_ hufunga ni wa kipekee.
+Kwa miamala ya RGB Commitment, hitaji kuu la mpango halali wa Bitcoin Commitment ni kama ifuatavyo: Muamala (*Witness Transaction*) lazima uwe na Commitment moja. Sharti hili hufanya isiwezekane kuunda historia mbadala kwa data iliyothibitishwa ya upande wa mteja ndani ya shughuli hiyo hiyo. Hii ina maana kwamba ujumbe ambao single-use seal hufunga ni wa kipekee.
 
 Ili kukidhi kanuni hii, na bila kujali idadi ya matokeo katika muamala, tunahitaji kwamba **toleo moja na moja pekee** linaweza kuwa na Commitment (*Commitment*). Kwa kila moja ya miundo inayotumika (*Opret* au *Tapret*), matokeo halali pekee ambayo yanaweza kuwa na RGB _commitment_ ni :
 
@@ -731,15 +730,15 @@ Kumbuka kuwa inawezekana kabisa kwa muamala kuwa na `Opret` Commitment moja na `
 
 ### Uchambuzi na chaguzi za vitendo katika RGB
 
-Tulipoanzisha RGB, tulikagua mbinu hizi zote ili kubaini ni wapi na jinsi ya kuweka _ahadi_ katika muamala kwa njia ya kubainisha. Tulifafanua baadhi ya vigezo:
+Tulipoanzisha RGB, tulikagua mbinu hizi zote ili kubaini ni wapi na jinsi ya kuweka _commitment_ katika muamala kwa njia ya kubainisha. Tulifafanua baadhi ya vigezo:
 
 
-- Utangamano na matukio tofauti (k.m. Multisig, Umeme, pochi za vifaa, nk);
+- Utangamano na matukio tofauti (k.m. Multisig, Lightning, pochi za vifaa, nk);
 - Athari kwenye nafasi ya On-Chain;
 - Ugumu wa utekelezaji na matengenezo;
 - Usiri na upinzani dhidi ya udhibiti.
 
-| Mbinu | On-Chain alama & saizi | Saizi ya upande wa mteja | Ushirikiano wa Wallet | Utangamano wa Vifaa | Utangamano wa Umeme | Utangamano wa Taproot |
+| Mbinu | On-Chain alama & saizi | Saizi ya upande wa mteja | Ushirikiano wa Wallet | Utangamano wa Vifaa | Utangamano wa Lightning | Utangamano wa Taproot |
 
 | ------------------------------------------------ | --------------------- | ---------------- | ------------------ | ---------------------- | ---------------------- | --------------------- |
 
@@ -757,17 +756,17 @@ Tulipoanzisha RGB, tulikagua mbinu hizi zote ili kubaini ni wapi na jinsi ya kuw
 
 | --------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------... --------------------------------------------------------------------------------------------- |
 
-| Keytweak (P2C ya Kuamua) | LNPBP-1, 2 | baiti 0 | 33 byte (ufunguo usio na tweaked) |
+| Keytweak (P2C ya Kuamua) | LNPBP-1, 2 | byte 0 | 33 byte (ufunguo usio na tweaked) |
 
-| Sigtweak (Deterministic S2C) | WIP (LNPBP-39) | baiti 0 | baiti 0 |
+| Sigtweak (Deterministic S2C) | WIP (LNPBP-39) | baiti 0 | byte 0 |
 
-| Opret (OP_RETURN) | - | 36 (v)baiti (TxOut ya ziada) | baiti 0 |
+| Opret (OP_RETURN) | - | 36 (v)byte (TxOut ya ziada) | byte 0 |
 
-| Tapret Algorithm: nodi ya juu-kushoto | LNPBP-6 | Baiti 32 katika shahidi (8 vbytes) kwa n-of-m Multisig yoyote na matumizi kupitia njia ya hati | Baiti 0 kwenye hati zisizo na hati Taproot ~ 270 byte katika kesi moja ya hati, ~ byte 128 ikiwa hati nyingi |
+| Tapret Algorithm: nodi ya juu-kushoto | LNPBP-6 | Byte 32 katika shahidi (8 vbytes) kwa n-of-m Multisig yoyote na matumizi kupitia njia ya hati | Byte 0 kwenye hati zisizo na hati Taproot ~ 270 byte katika kesi moja ya hati, ~ byte 128 ikiwa hati nyingi |
 
-| Tapret Algorithm #4: nodi yoyote + uthibitisho wa kipekee | LNPBP-6 | Baiti 32 katika shahidi (vibaiti 8) kwa kesi za hati moja, baiti 0 katika shahidi katika kesi zingine nyingi | 0 baiti kwenye hati zisizo na hati Taproot, baiti 65 hadi Taptree iwe na hati kadhaa |
+| Tapret Algorithm #4: nodi yoyote + uthibitisho wa kipekee | LNPBP-6 | Bytes 32 katika shahidi (vbytes  8) kwa kesi za hati moja, byte 0 katika shahidi katika kesi zingine nyingi | 0 byte kwenye hati zisizo na hati Taproot, byte 65 hadi Taptree iwe na hati kadhaa |
 
-| Layer | Gharama ya On-Chain (Baiti/vbytes) | Gharama ya On-Chain (Baiti/vbytes) | Gharama ya On-Chain (Baiti/vbytes) | Gharama ya On-Chain (Baiti/vbytes) | Gharama ya On-Chain (Baiti/vbytes) | Gharama ya Upande wa Mteja (Baiti) | Gharama ya Upande wa Mteja (Baiti) | Gharama ya Upande wa Mteja (Baiti) | Gharama ya Upande wa Mteja (Baiti) | Gharama ya Upande wa Mteja (Baiti) |
+| Layer | Gharama ya On-Chain (Baiti/vbytes) | Gharama ya On-Chain (Bytes/vbytes) | Gharama ya On-Chain (Bytes/vbytes) | Gharama ya On-Chain (Bytes/vbytes) | Gharama ya On-Chain (Bytes/vbytes) | Gharama ya Upande wa Mteja (Byte) | Gharama ya Upande wa Mteja (Byte) | Gharama ya Upande wa Mteja (Byte) | Gharama ya Upande wa Mteja (Bytes) | Gharama ya Upande wa Mteja (Bytes) |
 
 | ------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
 
@@ -783,7 +782,7 @@ Tulipoanzisha RGB, tulikagua mbinu hizi zote ili kubaini ni wapi na jinsi ya kuw
 
 | multi-sig 2-ya-3 na muda umeisha | 32/8 | 0 | 0 | n/a | 32 | 64 | 65 | 32 | n/a | 0 |
 
-| Layer | On-Chain Gharama (vbytes) | On-Chain Gharama (vbytes) | On-Chain Gharama (vbytes) | Gharama ya Upande wa Mteja (baiti) | Gharama ya Upande wa Mteja (baiti) |
+| Layer | On-Chain Gharama (vbytes) | On-Chain Gharama (vbytes) | On-Chain Gharama (vbytes) | Gharama ya Upande wa Mteja (bytes) | Gharama ya Upande wa Mteja (bytes) |
 
 | ------------------------------- | ---------------------- | ---------------------- | ---------------------- | ------------------------ | ------------------------ |
 
