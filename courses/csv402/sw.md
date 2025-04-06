@@ -849,8 +849,8 @@ wapi:
 
 
 - `mpc_tag` ni lebo: `urn:ubideco:mpc:Commitment#2024-01-31`, iliyochaguliwa kulingana na [kanuni za kuweka lebo za RGB](https://github.com/RGB-WG/RGB-core/blob/master/doc/Commitments);
-- `kina` (baiti 1) huonyesha kina cha *Mti wa MPC* ;
-- cofactor` (biti 16, katika Endian Kidogo) ni kigezo kinachotumiwa kukuza upekee wa nafasi zilizopewa kila Contract kwenye mti;
+- `kina` (byte 1) huonyesha kina cha *Mti wa MPC* ;
+- cofactor` (bytes 16, katika Endian Kidogo) ni kigezo kinachotumiwa kukuza upekee wa nafasi zilizopewa kila Contract kwenye mti;
 - `mpc::Root` ni mzizi wa *MPC Tree*, unaokokotolewa kulingana na mchakato ulioelezwa katika sehemu inayofuata.
 
 ![RGB-Bitcoin](assets/fr/044.webp)
@@ -1086,16 +1086,16 @@ Wakati huo huo, **Contract State** mara nyingi hugawanyika katika vipengele viwi
 
 
 - A **Global State**: sehemu ya umma, ambayo inaweza kuonekana na wote (kulingana na usanidi);
-- Nchi Zinazomilikiwa**: sehemu za siri, zilizotengwa mahususi kwa wamiliki kupitia UTXO zilizorejelewa katika mantiki ya Contract.
+- **Nchi Zinazomilikiwa**: sehemu za siri, zilizotengwa mahususi kwa wamiliki kupitia UTXO zilizorejelewa katika mantiki ya Contract.
 
-Kama tutakavyoona katika sura zifuatazo, sasisho lolote la hali (*Contract Operation*) lazima liambatishwe kwenye Bitcoin _ahadi_ (kupitia `Opret` au `Tapret`) na litii hati za *Business Logic* ili kuchukuliwa kuwa halali.
+Kama tutakavyoona katika sura zifuatazo, sasisho lolote la hali (*Contract Operation*) lazima liambatishwe kwenye Bitcoin _ahadi_ (kupitia `Opret` au `Tapret`) na litii hati za *Hekta za Biashara* ili kuchukuliwa kuwa halali.
 
 ### Uendeshaji wa Contract: uundaji na mageuzi ya Serikali
 
 Katika ulimwengu wa RGB, ***Contract Operation*** ni tukio lolote linalobadilisha Contract kutoka **hali ya zamani** hadi **hali mpya**. Operesheni hizi hufuata mantiki ifuatayo:
 
 
-- Tunazingatia hali ya sasa ya Contract;
+- Tunazingatia hali ya sasa ya muktaba;
 - Tunatumia sheria au uendeshaji (**State Transition***, ***Genesis*** ikiwa ni hali ya kwanza kabisa, au ***State Extension*** ikiwa kuna *Valency* ya umma ya kuwasha tena);
 - Sisi Anchor marekebisho kupitia _ahadi_ mpya kwenye Blockchain, kufunga _seal-matumizi moja_ na kuunda nyingine;
 - Wamiliki wa haki wanaohusika wanathibitisha ndani ya nchi (*upande wa mteja*) kwamba mageuzi yanafuata *Schema* na kwamba muamala husika wa Bitcoin umesajiliwa On-Chain.
