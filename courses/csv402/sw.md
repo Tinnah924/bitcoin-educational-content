@@ -1573,7 +1573,7 @@ Sehemu ya **Metadata** inaweza kuwa hadi 64 KiB na inatumika kujumuisha data ya 
 
 ### Valencies
 
-Valencies** ni utaratibu halisi wa itifaki wa RGB. Wanaweza kupatikana katika Genesis, Mpito wa Jimbo au Viendelezi vya Jimbo. Zinawakilisha haki za nambari zinazoweza kuamilishwa na State Extension (kupitia *Redeems*), kisha kukamilishwa na Mpito unaofuata. Kila Valency inatambuliwa na `ValencyType` (biti 16). Semantiki zake (kutoa tena kulia, kubadilishana ishara, kuchoma kulia, nk) zimefafanuliwa katika Schema.
+**Valencies** ni utaratibu halisi wa itifaki wa RGB. Wanaweza kupatikana katika Genesis, Mpito wa Jimbo au Viendelezi vya Jimbo. Zinawakilisha haki za nambari zinazoweza kuamilishwa na State Extension (kupitia *Redeems*), kisha kukamilishwa na Mpito unaofuata. Kila Valency inatambuliwa na `ValencyType` (biti 16). Semantiki zake (kutoa tena kulia, kubadilishana ishara, kuchoma kulia, nk) zimefafanuliwa katika Schema.
 
 Kwa maneno madhubuti, tunaweza kufikiria Genesis ikifafanua "haki ya kutoa tena" Valency. State Extension itaitumia (*Redeem*) ikiwa hali fulani zinakabiliwa, ili kuanzisha kiasi kipya cha ishara. Kisha, State Transition inayotoka kwa mmiliki wa Seal iliyoundwa hivyo inaweza kuhamisha ishara hizi mpya.
 
@@ -1593,7 +1593,7 @@ Sasa tutaangalia sifa kadhaa za kimsingi za hali katika RGB. Hasa, tutazingatia:
 
 
 - **Mfumo wa Aina Mkali**, ambao unaweka shirika sahihi na lililoandikwa la data;
-- Umuhimu wa kutenganisha **uthibitishaji** kutoka **Ownership** ;
+- Umuhimu wa kutenganisha **uthibitishaji** kutoka **Ownership**  ;
 - **Mfumo wa mageuzi ya makubaliano** katika RGB, unaojumuisha dhana za *kusonga mbele kwa haraka* na *sukuma nyuma*.
 
 Kama kawaida, kumbuka kuwa kila kitu kinachohusiana na hali ya Contract kinathibitishwa kwa upande wa mteja kulingana na sheria za makubaliano zilizowekwa katika itifaki, na ambao marejeleo yake ya mwisho ya kriptografia yameainishwa katika miamala ya Bitcoin.
@@ -1605,11 +1605,11 @@ RGB hutumia *Mfumo wa Aina Madhubuti* na hali ya kubainisha ya ufuataji (*Usimba
 Katika mazingira mengi ya programu (JSON, YAML...), muundo wa data unaweza kunyumbulika, hata kuruhusu sana. Katika RGB, kwa upande mwingine, Muundo na Aina za kila uwanja hufafanuliwa kwa vikwazo vya wazi. Kwa mfano:
 
 
-- Kila kigezo kina aina mahususi (kwa mfano, nambari kamili ya 8-bit isiyotiwa saini `u8`, au nambari kamili iliyotiwa saini ya biti 16, n.k.);
+- Kila kigezo kina aina mahususi (kwa mfano, nambari kamili ya 8-bit isiyotiwa saini `u8`, au nambari kamili iliyotiwa saini ya bit 16, n.k.);
 - Aina zinaweza kutengenezwa (aina zilizowekwa kiota). Hii inamaanisha kuwa unaweza kufafanua aina kulingana na aina zingine (k.m. aina ya jumla iliyo na sehemu ya `u8`, sehemu ya `bool`, n.k.);
 - Mikusanyiko pia inaweza kubainishwa: orodha (*orodha*), seti (*weka*) au kamusi (*ramani*), zenye mpangilio maalum wa kuendelea;
 - Kila uwanja umefungwa (*upande wa chini* / *upper bound*). Pia tunaweka mipaka kwa idadi ya Elements katika makusanyo (containment);
-- Data imepangiliwa kwa baiti na usakinishaji unafafanuliwa kwa uwazi na usio na utata.
+- Data imepangiliwa kwa bytes na usakinishaji unafafanuliwa kwa uwazi na usio na utata.
 
 Shukrani kwa itifaki hii kali ya usimbuaji:
 
@@ -1619,7 +1619,7 @@ Shukrani kwa itifaki hii kali ya usimbuaji:
 - Mipaka huzuia ukuaji usiodhibitiwa wa saizi ya data (k.m. sehemu nyingi sana);
 - Njia hii ya usimbaji hurahisisha uthibitishaji wa kriptografia, kwani kila mshiriki anajua haswa jinsi ya kusasisha na Hash data.
 
-Kwa mazoezi, muundo (*Schema*) na msimbo unaosababisha (*Interface* na mantiki inayohusishwa) hukusanywa. Lugha ya maelezo hutumika kufafanua Contract (aina, nyanja, sheria) na generate umbizo kali la binary. Inapokusanywa, matokeo yake ni:
+Kwa mazoezi, muundo (*Schema*) na msimbo unaosababisha (*Interface* na mantiki inayohusishwa) hukusanywa. Lugha ya maelezo hutumika kufafanua Contract (aina, nyanja, sheria) na kutengeneza umbizo makini la binary kwa ajili ya kutumika wakati wa ukusanyaji:
 
 
 - *Mpangilio wa Kumbukumbu* kwa kila sehemu;
@@ -1635,7 +1635,7 @@ BEiLYE-am9WhTW1-oK8cpvw4-FEMtzMrf-mKocuGZn-qWK6YF#ginger-parking-nirvana
 
 Hii inafanya uwezekano wa kudhibiti makubaliano au masasisho ya utekelezaji, huku ikihakikisha ufuatiliaji wa kina wa matoleo yanayotumika kwenye mtandao.
 
-Ili kuzuia hali ya RGB Contract kuwa ngumu sana kuthibitishwa kwa upande wa mteja, sheria ya makubaliano inaweka ukubwa wa juu wa baiti `2^16` (64 Kio) kwa data yoyote inayohusika katika hesabu za uthibitishaji. Hii inatumika kwa kila kigezo au muundo: si zaidi ya baiti 65536, au nambari inayolingana (32768 16-bit integers, nk.). Hii inatumika pia kwa mikusanyiko (orodha, seti, ramani), ambayo inaweza isizidi `2^16` Elements.
+Ili kuzuia hali ya RGB Contract kuwa ngumu sana kuthibitishwa kwa upande wa mteja, sheria ya makubaliano inaweka ukubwa wa juu wa baiti `2^16` (64 Kio) kwa data yoyote inayohusika katika hesabu za uthibitishaji. Hii inatumika kwa kila kigezo au muundo: si zaidi ya bytes 65536, au nambari inayolingana (32768 16-bit integers, nk.). Hii inatumika pia kwa mikusanyiko (orodha, seti, ramani), ambayo inaweza isizidi `2^16` Elements.
 
 Kikomo hiki kinahakikisha:
 
@@ -1645,29 +1645,30 @@ Kikomo hiki kinahakikisha:
 
 #### Uthibitishaji != Ownership dhana
 
+
 Mojawapo ya uvumbuzi mkuu wa RGB ni utengano mkali kati ya dhana mbili:
 
 
-- Uthibitishaji**: kuangalia kwamba State Transition inaheshimu sheria za Contract (Business Logic, historia, nk);
+-**Uthibitishaji**: Kuangalia kwamba State Transition inaheshimu sheria za Contract (mantiki ya biashara, historia nk)
 - **Ownership** (Ownership, au udhibiti): ukweli wa kumiliki Bitcoin UTXO ambayo inaruhusu Single-Use Seal kutumika (au kufungwa), na hivyo State Transition kufanyika.
 
-Uthibitishaji** unafanyika katika kiwango cha programu ya RGB (maktaba, itifaki ya *ahadi*, n.k.). Jukumu lake ni kuhakikisha kwamba sheria za ndani za Contract (kiasi, ruhusa, nk) zinaheshimiwa. Waangalizi au washiriki wengine wanaweza pia kuthibitisha historia ya data.
+**Uthibitishaji** unafanyika katika kiwango cha programu ya RGB (maktaba, itifaki ya *ahadi*, n.k.). Jukumu lake ni kuhakikisha kwamba sheria za ndani za Contract (kiasi, ruhusa, nk) zinaheshimiwa. Waangalizi au washiriki wengine wanaweza pia kuthibitisha historia ya data.
 
-Ownership**, kwa upande mwingine, inategemea kabisa usalama wa Bitcoin. Kumiliki ufunguo wa faragha wa UTXO kunamaanisha kudhibiti uwezo wa kuzindua mpito mpya (kufunga Single-Use Seal). Kwa hivyo, hata kama mtu anaweza kuona au kuthibitisha data, hawezi kubadilisha hali ikiwa hamiliki UTXO inayohusika.
+**Ownership**, kwa upande mwingine, inategemea kabisa usalama wa Bitcoin. Kumiliki ufunguo wa faragha wa UTXO kunamaanisha kudhibiti uwezo wa kuzindua mpito mpya (kufunga Single-Use Seal). Kwa hivyo, hata kama mtu anaweza kuona au kuthibitisha data, hawezi kubadilisha hali ikiwa hamiliki UTXO inayohusika.
 
 ![RGB-Bitcoin](assets/fr/069.webp)
 
 Mbinu hii inapunguza udhaifu wa kawaida unaopatikana katika minyororo changamano zaidi (ambapo msimbo wote wa Smart contract ni wa umma na unaweza kubadilishwa na mtu yeyote, ambayo wakati mwingine imesababisha udukuzi). Kwenye RGB, mshambuliaji hawezi tu kuingiliana na hali ya On-Chain, kwani haki ya kuchukua hatua kwa serikali (*Ownership*) inalindwa na Bitcoin Layer.
 
-Zaidi ya hayo, utengano huu unaruhusu RGB kuunganishwa kwa kawaida na Lightning Network. Njia za umeme zinaweza kutumika kuhusisha na kuhamisha vipengee vya RGB bila kushirikisha On-Chain *ahadi* kila wakati. Tutaangalia kwa karibu muunganisho huu wa RGB kwenye Umeme katika sura za baadaye za kozi.
+Zaidi ya hayo, utengano huu unaruhusu RGB kuunganishwa kwa kawaida na Lightning Network. Njia za lightening zinaweza kutumika kuhusisha na kuhamisha vipengee vya RGB bila kushirikisha On-Chain *ahadi* kila wakati. Tutaangalia kwa karibu muunganisho huu wa RGB kwenye Umeme katika sura za baadaye za kozi.
 
 #### Maendeleo ya Makubaliano katika RGB
 
 Kando na toleo la msimbo wa kisemantiki, RGB inajumuisha mfumo wa kutoa au kusasisha sheria za makubaliano za Contract kwa wakati. Kuna aina mbili kuu za mageuzi:
 
 
-- Songa mbele kwa kasi**
-- Sukuma nyuma** (kwa Kifaransa)
+- **Songa mbele kwa kasi**
+- **Sukuma nyuma** (kwa Kifaransa)
 
 Usambazaji mbele kwa haraka hutokea wakati sheria ambayo hapo awali ilikuwa batili inakuwa halali. Kwa mfano, ikiwa Contract itabadilika ili kuruhusu aina mpya ya `AssignmentType` au sehemu mpya :
 
@@ -1712,8 +1713,7 @@ Kwa hivyo Anchor hutumika kuanzisha kiungo kinachoweza kuthibitishwa kati ya shu
 
 #### Assignment
 
-Katika mantiki ya RGB, Assignment ni sawa na matokeo ya muamala ambayo hurekebisha, kusasisha au kuunda sifa fulani ndani ya hali ya Contract. Assignment inajumuisha Elements mbili:
-
+Katika mantiki ya RGB, Assignment ni sawa na matokeo ya muamala ambayo hurekebisha, kusasisha au kuunda sifa fulani ndani ya hali ya Contract.Assignment inajumuisha vipengele viwil.
 
 - A **Seal Definition** (rejea UTXO maalum);
 - **Owned State** (data inayoelezea hali inayohusishwa na mmiliki huyu mpya).
@@ -1722,7 +1722,7 @@ Kwa hivyo Assignment inaonyesha kuwa sehemu ya serikali (kwa mfano, mali) sasa i
 
 #### Business Logic
 
-Vikundi vya Business Logic pamoja na sheria zote na uendeshaji wa ndani wa Contract, iliyoelezwa na **Schema** yake (yaani muundo wa Contract yenyewe). Inaamuru jinsi hali ya Contract inaweza kubadilika, na chini ya hali gani.
+Vikundi vya mantiki ya biashara pamoja na sheria zote na uendeshaji wa ndani wa mkataba, iliyoelezwa na **Schema** yake (yaani muundo wa Contract yenyewe). Inaamuru jinsi hali ya Contract inaweza kubadilika, na chini ya hali gani.
 
 #### Client-side Validation
 
