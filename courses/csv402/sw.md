@@ -1479,15 +1479,15 @@ Fomu ya *iliyofichwa* ya Seal Definition ni SHA256 Hash (iliyotambulishwa) ya mu
 Sehemu ya pili ya *Assignment* ni Owned State. Tofauti na Global State, inaweza kuwepo katika hali ya umma au ya kibinafsi:
 
 
-- Owned State ya Umma**: kila mtu anajua data inayohusiana na Seal. Kwa mfano, picha ya umma;
-- Owned State** ya kibinafsi: data imefichwa, inayojulikana na mmiliki pekee (na uwezekano wa kiidhinishaji ikiwa ni lazima). Kwa mfano, idadi ya ishara zilizofanyika.
+- **Owned State ya Umma**: kila mtu anajua data inayohusiana na Seal. Kwa mfano, picha ya umma;
+- **Owned State** ya kibinafsi: data imefichwa, inayojulikana na mmiliki pekee (na uwezekano wa kiidhinishaji ikiwa ni lazima). Kwa mfano, idadi ya ishara zilizofanyika.
 
 RGB inafafanua aina nne za hali zinazowezekana (*StateTypes*) kwa Owned State:
 
 
-- Tamko**: haina data ya nambari, ni haki ya kutangaza tu (k.m. haki ya kupiga kura). Fomu zilizofichwa na zilizofunuliwa zinafanana;
-- Fungible**: inawakilisha wingi unaoweza kuvutwa (kama ishara). Katika umbo lililofichuliwa, tuna `kiasi` na `kupofusha`. Katika fomu iliyofichwa, tunayo *Pedersen commitment * moja ambayo inaficha kiasi na upofu;
-- Muundo**: huhifadhi data iliyopangwa (hadi kB 64). Katika fomu iliyofichuliwa, ni sehemu ya data. Katika hali iliyofichwa, ni alama ya Hash ya blob hii:
+- **Tamko**: haina data ya nambari, ni haki ya kutangaza tu (k.m. haki ya kupiga kura). Fomu zilizofichwa na zilizofunuliwa zinafanana;
+- **Fungible**: inawakilisha wingi unaoweza kuvutwa (kama ishara). Katika umbo lililofichuliwa, tuna `kiasi` na `kupofusha`. Katika fomu iliyofichwa, tunayo *Pedersen commitment * moja ambayo inaficha kiasi na upofu;
+- **Muundo**: huhifadhi data iliyopangwa (hadi kB 64). Katika fomu iliyofichuliwa, ni sehemu ya data. Katika hali iliyofichwa, ni alama ya Hash ya blob hii:
 
 ```txt
 SHA-256(SHA-256(tag_data) || SHA-256(tag_data) || blob)
@@ -1500,7 +1500,7 @@ tag_data = urn:lnp-bp:rgb:state-data#2024-02-12
 ```
 
 
-- Viambatisho**: huunganisha faili (sauti, picha, mfumo wa jozi, n.k.) kwa Owned State, ikihifadhi faili Hash `file_hash`, aina ya MIME `aina ya midia` na chumvi fiche `chumvi`. Faili yenyewe inapangishwa mahali pengine. Katika hali iliyofichwa, ni Hash iliyotambulishwa na vipengee vitatu vya data vilivyotangulia:
+- **Viambatisho**: huunganisha faili (sauti, picha, mfumo wa jozi, n.k.) kwa Owned State, ikihifadhi faili Hash `file_hash`, aina ya MIME `aina ya midia` na chumvi fiche `chumvi`. Faili yenyewe inapangishwa mahali pengine. Katika hali iliyofichwa, ni Hash iliyotambulishwa na vipengee vitatu vya data vilivyotangulia:
 
 ```txt
 SHA-256(SHA-256(tag_attachment) || SHA-256(tag_attachment) || file_hash || media_type || salt)
@@ -1525,7 +1525,7 @@ Declarative        |                              < void >                      
 +---------------------------------------------------------------------------------------------------------
 +--------------------------+             +---------------------------------------+
 | +----------------------+ |             |         +--------+ +----------+       |
-Fungible           | | Pedersen Commitement | | <========== |         | Amount | | Blinding |       |
+Fungible           | | Pedersen Commitement | | <========== |         | kiasi | | BlindiBlindingng |       |
 | +----------------------+ |             |         +--------+ +----------+       |
 +--------------------------+             +---------------------------------------+
 +---------------------------------------------------------------------------------------------------------
