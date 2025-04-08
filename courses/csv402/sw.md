@@ -1912,7 +1912,7 @@ Schema katika RGB ni kipande cha msimbo tangazo kinachoelezea seti ya vigezo, sh
 
 #### Seal Definition
 
-Seal Definition ni sehemu ya Assignment inayohusisha _ahadi_ na UTXO inayomilikiwa na mmiliki mpya. Kwa maneno mengine, inaonyesha mahali ambapo hali iko (ambayo UTXO), na huanzisha Ownership ya mali au haki.
+Seal Definition ni sehemu ya Assignment inayohusisha _commitment_ na UTXO inayomilikiwa na mmiliki mpya. Kwa maneno mengine, inaonyesha mahali ambapo hali iko (ambayo UTXO), na huanzisha Ownership ya mali au haki.
 
 #### Shard
 
