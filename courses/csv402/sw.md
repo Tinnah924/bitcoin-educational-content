@@ -227,7 +227,7 @@ Wakati huo huo, ili mtandao uliobaki (au kwa usahihi zaidi, Layer ya msingi, kam
 
 *Commitment* *ni maandishi ya kriptografia yaliyoelekezwa ya acycliment, kwa kawaida _hash_ (SHA-256 kwa mfano) huingizwa katika shughuli ya Bitcoin, katika shughuli ya Bitcoin, ambayo inathibitisha kuwa data ya faragha imejumuishwa, bila kufichua data hii.
 
-Shukrani kwa _ahadi_ hizi, tunaweza kuthibitisha:
+Shukrani kwa _commitment_ hizi, tunaweza kuthibitisha:
 
 
 - Uwepo wa habari (kwani imejitolea kwa Hash);
@@ -1739,13 +1739,13 @@ $$
 Utaratibu huu unajumuisha shughuli kuu mbili:
 
 
-- Ahadi**: kazi ya kriptografia inatumika kwa ujumbe `m` na nambari nasibu `r` kutoa `C` ;
-- Thibitisha**: tunatumia `C`, ujumbe `m` na thamani `r` ili kuangalia kama Commitment hii ni sahihi. Chaguo za kukokotoa hurejesha `Kweli` au `Sivyo`.
+- **Ahadi**: kazi ya kriptografia inatumika kwa ujumbe `m` na nambari nasibu `r` kutoa `C` ;
+- **Thibitisha**: tunatumia `C`, ujumbe `m` na thamani `r` ili kuangalia kama Commitment hii ni sahihi. Chaguo za kukokotoa hurejesha `Kweli` au `Sivyo`.
 
 Commitment lazima iheshimu sifa mbili:
 
 
-- Kufunga**: lazima isiwezekane kupata jumbe mbili tofauti zinazotoa `C` :
+- **Kufunga**: lazima isiwezekane kupata jumbe mbili tofauti zinazotoa `C` :
 
 $$
 m' : \, | \, : m' \neq m \quad \text{and} \quad r' : \, | \, : r' \neq r \quad
@@ -1758,7 +1758,7 @@ $$
 $$
 
 
-- Kuficha**: maarifa ya `C` lazima yasionyeshe yaliyomo katika `m`.
+- **Kuficha**: maarifa ya `C` lazima yasionyeshe yaliyomo katika `m`.
 
 Katika itifaki ya RGB, Commitment imejumuishwa katika shughuli ya Bitcoin ili kuthibitisha kuwepo kwa kipande fulani cha habari kwa wakati fulani, bila kufunua habari yenyewe.
 
@@ -1767,8 +1767,8 @@ Katika itifaki ya RGB, Commitment imejumuishwa katika shughuli ya Bitcoin ili ku
 A **Consignment** hukusanya pamoja data iliyobadilishwa kati ya wahusika, kulingana na Client-side Validation katika RGB. Kuna aina mbili kuu za Consignment:
 
 
-- Contract Consignment**: inayotolewa na *mtoaji* (mtoaji wa Contract), inajumuisha maelezo ya uanzishaji kama vile Schema, Genesis, Interface na Interface Implementation.
-- Uhamisho wa Consignment**: hutolewa na mhusika anayelipa (*mlipaji*). Ina historia nzima ya mabadiliko ya serikali kuelekea Terminal Consignment (yaani hali ya mwisho iliyopokelewa na mlipaji).
+- **Contract Consignment**: inayotolewa na *mtoaji* (mtoaji wa Contract), inajumuisha maelezo ya uanzishaji kama vile Schema, Genesis, Interface na Interface Implementation.
+- **Uhamisho wa Consignment**: hutolewa na mhusika anayelipa (*mlipaji*). Ina historia nzima ya mabadiliko ya serikali kuelekea Terminal Consignment (yaani hali ya mwisho iliyopokelewa na mlipaji).
 
 Mizigo hii haijarekodiwa hadharani kwenye Blockchain; zinabadilishwa moja kwa moja kati ya pande zinazohusika kupitia njia ya mawasiliano wanayochagua.
 
@@ -1781,9 +1781,9 @@ Contract ni seti ya haki zinazotekelezwa kidijitali kati ya watendaji kadhaa kup
 Contract Operation ni sasisho la hali ya Contract linalofanywa kulingana na sheria za Schema. Operesheni zifuatazo zipo katika RGB:
 
 
-- State Transition** ;
-- Genesis** ;
-- State Extension**.
+-**State Transition** ;
+- **Genesis** ;
+- **State Extension**.
 
 Kila operesheni hurekebisha hali kwa kuongeza au kubadilisha data fulani (Global State, Owned State...).
 
@@ -1801,9 +1801,9 @@ Contract Participant ni mwigizaji anayeshiriki katika shughuli zinazohusiana na 
 Contract Rights inarejelea haki mbalimbali zinazoweza kutumiwa na wale wanaohusika katika RGB Contract. Wanaanguka katika vikundi kadhaa:
 
 
-- Haki za Ownership**, zinazohusishwa na Ownership ya UTXO fulani (kupitia _Seal Definition_);
-- Haki za utendaji**, yaani uwezo wa kujenga mpito mmoja au zaidi (Mipito ya Jimbo) kwa mujibu wa Schema;
-- Haki za umma**, Schema inapoidhinisha matumizi fulani ya umma, kwa mfano kuunda State Extension kupitia ukombozi wa Valency.
+- **Haki za Ownership**, zinazohusishwa na Ownership ya UTXO fulani (kupitia _Seal Definition_);
+- **Haki za utendaji**, yaani uwezo wa kujenga mpito mmoja au zaidi (Mipito ya Jimbo) kwa mujibu wa Schema;
+- **Haki za umma**, Schema inapoidhinisha matumizi fulani ya umma, kwa mfano kuunda State Extension kupitia ukombozi wa Valency.
 
 #### Contract State
 
@@ -1811,17 +1811,17 @@ Contract State inalingana na hali ya sasa ya Contract kwa wakati fulani. Inaweza
 
 
 - **Global State**, ambayo inajumuisha mali ya umma ya Contract (imewekwa katika Genesis au kuongezwa kupitia masasisho yaliyoidhinishwa);
-- Nchi Zinazomilikiwa**, ambazo ni za wamiliki mahususi, zinazotambuliwa na UTXOs zao.
+- **Nchi Zinazomilikiwa**, ambazo ni za wamiliki mahususi, zinazotambuliwa na UTXOs zao.
 
 #### Deterministic Bitcoin Commitment - DBC
 
 Deterministic Bitcoin Commitment (DBC) ni seti ya sheria zinazotumiwa kusajili _ahadi_ katika shughuli ya Bitcoin kwa njia ya kipekee na ya kipekee. Katika itifaki ya RGB, kuna aina mbili kuu za DBC:
 
 
-- Opt**
-- Gonga **
+- **Opt**
+- **Gonga**
 
-Mbinu hizi hufafanua kwa usahihi jinsi _ahadi_ inavyosimbwa katika utoaji au muundo wa muamala wa Bitcoin, ili kuhakikisha kuwa Commitment hii inaweza kufuatiliwa na kuthibitishwa.
+Mbinu hizi hufafanua kwa usahihi jinsi _commitmeny_ inavyosimbwa katika utoaji au muundo wa muamala wa Bitcoin, ili kuhakikisha kuwa Commitment hii inaweza kufuatiliwa na kuthibitishwa.
 
 #### Directed Acyclic Graph - DAG
 
