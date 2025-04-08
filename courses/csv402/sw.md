@@ -11,7 +11,7 @@ objectives:
 ---
 # Kugundua itifaki ya RGB
 
-Ingia katika ulimwengu wa RGB, itifaki iliyoundwa kutekeleza na kutekeleza haki za kidijitali, katika mfumo wa mikataba na mali, kwa kuzingatia sheria za makubaliano na uendeshaji wa Bitcoin Blockchain. Kozi hii ya kina ya mafunzo hukuongoza kupitia misingi ya kiufundi na kiutendaji ya RGB, kuanzia dhana za "Client-side Validation" na "Mihuri ya Matumizi Moja", hadi utekelezaji wa mikataba mahiri ya hali ya juu.
+Ingia katika ulimwengu wa RGB, itifaki iliyoundwa kutekeleza na kutekeleza haki za kidijitali, katika mfumo wa mikataba na mali, kwa kuzingatia sheria za makubaliano na uendeshaji wa Bitcoin Blockchain. Kozi hii ya kina ya mafunzo hukuongoza kupitia misingi ya kiufundi na kiutendaji ya RGB, kuanzia dhana za "Client-side Validation" na "single use seal", hadi utekelezaji wa mikataba mahiri ya hali ya juu.
 
 Kupitia mpango ulioundwa, hatua kwa hatua, utagundua mbinu za Client-side Validation, ahadi bainifu kwenye Bitcoin na mifumo ya mwingiliano kati ya watumiaji. Jifunze jinsi ya kuunda, kudhibiti na kuhamisha tokeni za RGB kwenye Bitcoin au Lightning Network.
 
