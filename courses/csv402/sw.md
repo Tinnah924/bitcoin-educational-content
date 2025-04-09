@@ -2172,12 +2172,12 @@ EntryPoint::ValidateTransition(TS_TRANSFER) => LibSite::with(FN_TRANSFER_OFFSET,
 ```
 
 
-- (1) - Kichwa cha kazi na SubSchema**
+- **(1) - Kichwa cha kazi na SubSchema**
 
 Chaguo za kukokotoa za `nia_schema()` hurejesha `SubSchema`, ikionyesha kuwa Schema hii inaweza kurithi nusu kutoka kwa Schema ya kawaida zaidi. Katika mfumo ikolojia wa RGB, unyumbufu huu unawezesha kutumia tena kiwango fulani cha Elements cha Schema kuu, na kisha kufafanua sheria mahususi kwa Contract inayohusika. Hapa, tunachagua kutowasha urithi, kwa kuwa `sehemu ndogo_ya` itakuwa `Hakuna`.
 
 
-- (2) - Sifa za jumla: ffv, subset_of, type_system**
+- (2) -**Sifa za jumla: ffv, subset_of, type_system**
 
 Sifa ya `ffv` inalingana na toleo la *songa mbele kwa haraka* la Contract. Thamani ya `sifuri!()` hapa inaonyesha kuwa tuko kwenye toleo la 0 au toleo la awali la Schema hii. Ikiwa ungependa kuongeza utendakazi mpya baadaye (aina mpya ya utendakazi, n.k.), unaweza kuongeza toleo hili ili kuonyesha mabadiliko ya makubaliano.
 
@@ -2202,7 +2202,7 @@ Neno kuu `mara moja(...)` linamaanisha kuwa kila moja ya sehemu hizi inaweza kuo
 Katika `aina_zinazomilikiwa`, tunatangaza `OS_ASSET`, ambayo inaelezea hali ya kutambulika. Tunatumia `Mtindo wa Jimbo::Fungible(FungibleType::Unsigned64Bit)`, ikionyesha kwamba idadi ya mali (tokeni) imehifadhiwa kama nambari kamili ya biti 64 isiyotiwa saini. Kwa hivyo, shughuli yoyote itatuma kiasi fulani cha vitengo vya ishara hii, ambayo itathibitishwa kulingana na muundo huu wa nambari uliochapwa madhubuti.
 
 
-- (5) - Wasifu**
+- (5) - **Wasifu**
 
 Tunaonyesha `aina_za_upendavyo: hakuna!()`, ambayo ina maana kwamba hakuna Valencies katika Schema hii, kwa maneno mengine hakuna haki maalum au za ziada (kama vile kutoa upya, kuchoma kwa masharti, n.k.). Ikiwa Schema itajumuisha yoyote, itatangazwa katika sehemu hii.
 
@@ -2222,7 +2222,7 @@ Hivi ndivyo tunavyowekea kikomo ufafanuzi wa suala la tokeni la awali: ni lazima
 
 - (7) - Viendelezi
 
-Sehemu ya `viendelezi: hakuna!()` inaonyesha kuwa hakuna State Extension inayotarajiwa katika Contract hii. Hii ina maana kwamba hakuna operesheni kwa Redeem haki ya dijiti (Valency) au kutekeleza State Extension kabla ya Mpito. Kila kitu kinafanywa kupitia Genesis au Mpito wa Jimbo.
+Sehemu ya `viendelezi: hakuna!()` inaonyesha kuwa hakuna ugani wa State inayotarajiwa katika Contract hii. Hii ina maana kwamba hakuna operesheni kwa Redeem haki ya dijiti (Valency) au kutekeleza State Extension kabla ya Mpito. Kila kitu kinafanywa kupitia Genesis au Mpito wa Jimbo.
 
 
 - (8) - Mpito: TS_TRANSFER
@@ -2239,7 +2239,7 @@ Katika `mipito`, tunafafanua `TS_TRANSFER` aina ya operesheni. Tunaeleza kwamba:
 Huu ni mfano wa tabia ya uhamishaji wa kimsingi, ambao hutumia tokeni kwenye UTXO, kisha huunda Nchi mpya zinazomilikiwa kwa niaba ya wapokeaji, na hivyo kuhifadhi usawa wa jumla ya kiasi kati ya pembejeo na matokeo.
 
 
-- (9) - Hati ya AluVM na Pointi za Kuingia** (kwa Kifaransa)
+- (9) - **Hati ya AluVM na Pointi za Kuingia** (kwa Kifaransa)
 
 Hatimaye, tunatangaza hati ya AluVM (`Hati::AluVM(AluScript { ... })`). Hati hii ina:
 
@@ -2277,17 +2277,17 @@ Shukrani kwa Interface, unaweza, kwa mfano, kuandika msimbo katika Wallet ambayo
 Mbinu hii ina faida nyingi:
 
 
-- Usanifu:**
+- **Usanifu:**
 
 Aina sawa ya Contract inaweza kuungwa mkono na kiwango cha Interface, kilichoshirikiwa kati ya utekelezaji kadhaa wa Wallet. Hii hurahisisha utangamano na utumiaji wa msimbo tena.
 
 
-- Utengano wazi kati ya Schema na Interface:**
+- **Utengano wazi kati ya Schema na Interface:**
 
 Katika muundo wa RGB, Schema (Business Logic) na Interface (uwasilishaji na udanganyifu) ni vyombo viwili vya kujitegemea. Waendelezaji wanaoandika mantiki ya Contract wanaweza kuzingatia Schema, bila kuwa na wasiwasi kuhusu ergonomics au uwakilishi wa data, wakati timu nyingine (au timu sawa, lakini kwa muda tofauti) inaweza kuendeleza Interface.
 
 
-- Mageuzi yanayobadilika:**
+- **Mageuzi yanayobadilika:**
 
 Interface inaweza kurekebishwa au kuongezwa baada ya mali kutolewa, bila kubadilisha Contract yenyewe. Hii ni tofauti kubwa kutoka kwa baadhi ya mifumo ya On-Chain Smart contract, ambapo Interface (mara nyingi huchanganywa na msimbo wa utekelezaji) imegandishwa katika Blockchain.
 
@@ -2306,7 +2306,7 @@ Kiutendaji, Wallet inaporejesha RGB Contract (kupitia faili ya `.RGB` au `.rgba`
 
 #### Tofauti na Ethereum na mifumo mingine
 
-Kwenye Ethereum, Interface (iliyofafanuliwa kupitia ABI, *Application Binary Interface*) kwa ujumla inatokana na msimbo uliohifadhiwa wa On-Chain (Smart contract). Inaweza kuwa ya gharama kubwa au ngumu kurekebisha sehemu maalum ya Interface bila kugusa Contract yenyewe. Hata hivyo, RGB inategemea mantiki ya off-chain kabisa, ikiwa na data iliyounga mkono *ahadi* kwenye Bitcoin. Muundo huu unawezesha kurekebisha Interface (au utekelezaji wake) bila kuathiri usalama wa kimsingi wa Contract, kwani uthibitishaji wa sheria za biashara unasalia katika Schema na msimbo unaorejelewa wa AluVM.
+Kwenye Ethereum, Interface (iliyofafanuliwa kupitia ABI, *Application Binary Interface*) kwa ujumla inatokana na msimbo uliohifadhiwa wa On-Chain (Smart contract). Inaweza kuwa ya gharama kubwa au ngumu kurekebisha sehemu maalum ya Interface bila kugusa Contract yenyewe. Hata hivyo, RGB inategemea mantiki ya off-chain kabisa, ikiwa na data iliyounga mkono *Commitment* kwenye Bitcoin. Muundo huu unawezesha kurekebisha Interface (au utekelezaji wake) bila kuathiri usalama wa kimsingi wa Contract, kwani uthibitishaji wa sheria za biashara unasalia katika Schema na msimbo unaorejelewa wa AluVM.
 
 #### Mkusanyiko wa Interface
 
@@ -2321,7 +2321,7 @@ Mara tu Interface imeagizwa, Wallet inaweza kuonyesha kwa usahihi Contract na ku
 
 ### Violesura vilivyosanifishwa na chama cha LNP/BP
 
-Katika mfumo ikolojia wa RGB, Interface inatumika kutoa maana inayoweza kusomeka na inayoweza kubadilika kwa data na uendeshaji wa Contract. Kwa hivyo Interface inakamilisha Schema, ambayo inaelezea Business Logic ndani (aina kali, hati za uthibitishaji, nk). Katika sehemu hii, tutaangalia Violesura vya kawaida vilivyotengenezwa na chama cha LNP/BP kwa aina za kawaida za Contract (tokeni zinazoweza kuvurugika, NFT, n.k.).
+Katika mfumo ikolojia wa RGB, Interface inatumika kutoa maana inayoweza kusomeka na inayoweza kubadilika kwa data na uendeshaji wa Contract. Kwa hivyo Interface inakamilisha Schema, ambayo inaelezea mantiki ya biashara ndani (aina kali, hati za uthibitishaji, nk). Katika sehemu hii, tutaangalia Violesura vya kawaida vilivyotengenezwa na chama cha LNP/BP kwa aina za kawaida za Contract (tokeni zinazoweza kuvurugika, NFT, n.k.).
 
 Kama ukumbusho, wazo ni kwamba kila Interface inaeleza jinsi ya kuonyesha na kuendesha Contract kwenye upande wa Wallet, ikizitaja nyuga kwa uwazi (kama vile `spec`, `tika`, `Ugavi uliotolewa`...) na kufafanua shughuli zinazowezekana (kama vile `Transfer,``, `Burnan`). Violesura kadhaa tayari vinafanya kazi, lakini kutakuwa na zaidi na zaidi katika siku zijazo.
 
@@ -2348,11 +2348,11 @@ Kwa mfano, RGB20 Interface inaweza kuunganishwa kwa **mpango wa Mali Isiyoweza K
 Violesura vingine vimepangwa kwa matumizi maalum zaidi, lakini bado havijapatikana:
 
 
-- RGB22**, iliyojitolea kwa vitambulisho vya kidijitali, kudhibiti vitambulisho na wasifu wa On-Chain katika mfumo ikolojia wa RGB;
-- RGB23**, kwa upigaji chapa wa muda wa juu, kwa kutumia baadhi ya mawazo ya *Opentimestamps*, lakini yenye vipengele vya ufuatiliaji;
-- RGB24**, ambayo inalenga sawa na mfumo wa jina la kikoa uliogatuliwa (DNS) sawa na *Huduma ya Jina la Ethereum* ;
-- RGB26**, iliyoundwa ili kudhibiti DAO (*Shirika Linalojiendesha Lililogatuliwa*) katika muundo changamano zaidi (utawala, upigaji kura, n.k.);
-- RGB30**, sawa na RGB20 lakini kwa umaalum wa kuzingatia utoaji wa awali uliogatuliwa na kutumia Viendelezi vya Jimbo. Hii itatumika kwa mali ambazo utoaji upya unadhibitiwa na vyombo kadhaa, au chini ya masharti bora zaidi.
+- **RGB22**, iliyojitolea kwa vitambulisho vya kidijitali, kudhibiti vitambulisho na wasifu wa On-Chain katika mfumo ikolojia wa RGB;
+- **RGB23**, kwa upigaji chapa wa muda wa juu, kwa kutumia baadhi ya mawazo ya *Opentimestamps*, lakini yenye vipengele vya ufuatiliaji;
+- **RGB24**, ambayo inalenga sawa na mfumo wa jina la kikoa uliogatuliwa (DNS) sawa na *Huduma ya Jina la Ethereum* ;
+- **RGB26**, iliyoundwa ili kudhibiti DAO (*Shirika Linalojiendesha Lililogatuliwa*) katika muundo changamano zaidi (utawala, upigaji kura, n.k.);
+- **RGB30**, sawa na RGB20 lakini kwa umaalum wa kuzingatia utoaji wa awali uliogatuliwa na kutumia Viendelezi vya Jimbo. Hii itatumika kwa mali ambazo utoaji upya unadhibitiwa na vyombo kadhaa, au chini ya masharti bora zaidi.
 
 Bila shaka, kulingana na tarehe ambayo unashauriana na kozi hii, miingiliano hii inaweza kuwa tayari kufanya kazi na kufikiwa.
 
@@ -2544,7 +2544,7 @@ Katika sehemu ya `kazi`, tunafafanua majukumu au haki mbalimbali. Kwa mfano:
 
 - `Mmiliki wa mali` inalingana na ushikiliaji wa tokeni (inaweza kuvuliwa *Owned State*) ;
 - `burnRight` inalingana na uwezo wa kuchoma tokeni;
-- updateRight` inalingana na haki ya kubadilisha jina la mali.
+- `updateRight` inalingana na haki ya kubadilisha jina la mali.
 
 Neno kuu la `umma` au `la faragha` (k.m. `AssignIface::public(...)`) linaonyesha kama majimbo haya yanaonekana (`umma`) au ya siri (`binafsi`). Kuhusu `Req::NoneAuMore`, `Req::Hiari`, zinaonyesha tukio linalotarajiwa.
 
@@ -2594,7 +2594,8 @@ Lakini mara tu unapotangaza Interface, unahitaji kuiunganisha na Schema inayolin
 
 Katika usanifu wa RGB, tumeona kwamba kila sehemu (Schema, Interface, nk) inaweza kuendelezwa na kukusanywa kwa kujitegemea. Hata hivyo, bado kuna kipengele kimoja cha lazima ambacho huunganisha vitalu hivi tofauti vya ujenzi pamoja: ***Interface Implementation***. Hiki ndicho kinachoonyesha kwa uwazi vitambulishi au sehemu zilizobainishwa katika Schema (upande wa Business Logic) hadi kwa majina yaliyotangazwa katika Interface (upande wa uwasilishaji na mwingiliano wa watumiaji). Kwa hiyo wakati Wallet inapakia Contract, inaweza kuelewa hasa ni shamba gani linalingana na nini, na jinsi operesheni inayoitwa katika Interface inahusiana na mantiki ya Schema.
 
-Jambo muhimu ni kwamba Interface Implementation haikusudiwi kufichua utendakazi wote wa Schema, wala sehemu zote za Interface: inaweza kuzuiwa kwa kitengo kidogo. Kwa mazoezi, hii inafanya uwezekano wa kuzuia au kuchuja vipengele fulani vya Schema. Kwa mfano, unaweza kuwa na Schema yenye aina nne za uendeshaji, lakini Utekelezaji Interface ambayo inaweka ramani mbili tu kati yao katika muktadha fulani. Kinyume chake, ikiwa Interface inapendekeza vidokezo vya ziada, tunaweza kuchagua kutovitekeleza hapa.
+Jambo muhimu ni kwamba Utekelezaji wa Kiolesura
+haikusudiwi kufichua utendakazi wote wa Schema, wala sehemu zote za Interface: inaweza kuzuiwa kwa kitengo kidogo. Kwa mazoezi, hii inafanya uwezekano wa kuzuia au kuchuja vipengele fulani vya Schema. Kwa mfano, unaweza kuwa na Schema yenye aina nne za uendeshaji, lakini Utekelezaji wa Interface ambayo inaweka ramani mbili tu kati yao katika muktadha fulani. Kinyume chake, ikiwa Interface inapendekeza vidokezo vya ziada, tunaweza kuchagua kutovitekeleza hapa.
 
 Huu hapa ni mfano wa kawaida wa Interface Implementation, ambapo tunahusisha *Mali Isiyoweza Kuingiliwa Kiasi* (NIA) Schema na RGB20 Interface:
 
