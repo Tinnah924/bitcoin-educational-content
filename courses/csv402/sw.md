@@ -2584,7 +2584,7 @@ Kisha, kwa kila Mpito (`Uhamisho`, `Toleo`, `Kuchoma`...), Interface inafafanua 
 
 Kwa hivyo, kila operesheni inaelezewa kwa njia ambayo inaweza kusomeka kwa Wallet. Hii inafanya uwezekano wa kuonyesha mchoro wa Interface ambapo mtumiaji anaweza kuona kwa uwazi: "Una haki ya kuchoma. Je, ungependa kuchoma kiasi fulani? Msimbo unajua kujaza sehemu ya `burnedSupply` na kuangalia kwamba `burnRight` ni halali.
 
-Kwa muhtasari, ni muhimu kuzingatia kwamba Interface, hata hivyo kamili, haifafanui yenyewe mantiki ya ndani ya Contract. Moyo wa kazi unafanywa na **Schema **, ambayo inajumuisha aina kali, muundo wa Genesis, mabadiliko na kadhalika. Interface inafichua hizi Elements kwa njia angavu zaidi na iliyopewa jina, kwa matumizi katika programu.
+Kwa muhtasari, ni muhimu kuzingatia kwamba Interface, hata iwe kamili, haifafanui yenyewe mantiki ya ndani ya Contract. Moyo wa kazi unafanywa na **Schema **, ambayo inajumuisha aina kali, muundo wa Genesis, mabadiliko na kadhalika. Interface inafichua hizi Elements kwa njia angavu zaidi na iliyopewa jina, kwa matumizi katika programu.
 
 Shukrani kwa urekebishaji wa RGB, Interface inaweza kuboreshwa (kwa mfano, kwa kuongeza mpito wa `Rename`, kusahihisha onyesho la uga, n.k.) bila kulazimika kuandika upya Contract nzima. Watumiaji wa Interface hii wanaweza kufaidika mara moja kutokana na maboresho haya, mara tu wanaposasisha faili ya `.RGB` au `.rgba`.
 
@@ -2597,7 +2597,7 @@ Katika usanifu wa RGB, tumeona kwamba kila sehemu (Schema, Interface, nk) inawez
 Jambo muhimu ni kwamba Utekelezaji wa Kiolesura
 haikusudiwi kufichua utendakazi wote wa Schema, wala sehemu zote za Interface: inaweza kuzuiwa kwa kitengo kidogo. Kwa mazoezi, hii inafanya uwezekano wa kuzuia au kuchuja vipengele fulani vya Schema. Kwa mfano, unaweza kuwa na Schema yenye aina nne za uendeshaji, lakini Utekelezaji wa Interface ambayo inaweka ramani mbili tu kati yao katika muktadha fulani. Kinyume chake, ikiwa Interface inapendekeza vidokezo vya ziada, tunaweza kuchagua kutovitekeleza hapa.
 
-Huu hapa ni mfano wa kawaida wa Interface Implementation, ambapo tunahusisha *Mali Isiyoweza Kuingiliwa Kiasi* (NIA) Schema na RGB20 Interface:
+Huu hapa ni mfano wa kawaida wa Interface Implementation, ambapo tunahusisha  *Non-Inflatable Asset* (NIA)*Mali Isiyoweza Kuingiliwa Kiasi* Schema na RGB20 Interface:
 
 ```rust
 fn nia_rgb20() -> IfaceImpl {
@@ -2631,7 +2631,7 @@ Katika Utekelezaji huu Interface :
 
 - Tunarejelea kwa uwazi Schema, kupitia `nia_schema()`, na Interface, kupitia `Rgb20::iface()`. Simu `Schema.schema_id()` na `iface.iface_id()` hutumiwa kwa Anchor Interface Implementation kwenye upande wa mkusanyiko (hii inahusisha vitambulishi vya kriptografia vya vijenzi hivi viwili);
 - Uchoraji wa ramani umeanzishwa kati ya Schema Elements na Interface Elements. Kwa mfano, sehemu ya `GS_NOMINAL` katika Schema imeunganishwa kwa mfuatano `"spec"` kwenye upande wa Interface (`NamedField::with(GS_NOMINAL, fname!("spec"))`). Tunafanya vivyo hivyo kwa shughuli, kama vile `TS_TRANSFER`, ambayo tunaunganisha kwa `"Hamisha"` katika Interface... ;
-- Tunaweza kuona kwamba hakuna valencies (`valencies: none!()`) au viendelezi (`viendelezi: hakuna!()`), kuonyesha ukweli kwamba NIA hii Contract haitumii vipengele hivi.
+- Tunaweza kuona kwamba hakuna valencies (`valencies: none!()`) au viendelezi (`extensions: none!()`), kuonyesha ukweli kwamba NIA hii Contract haitumii vipengele hivi.
 
 Matokeo baada ya kukusanywa ni faili tofauti ya `.RGB` au `.rgba`, itakayoletwa kwenye Wallet pamoja na Schema na Interface. Kwa hivyo, programu inajua jinsi ya kuunganisha kwa uhakika NIA Contract hii (ambayo mantiki yake inaelezewa na Schema) kwa "RGB20" Interface (ambayo hutoa majina ya kibinadamu na hali ya mwingiliano wa ishara zinazoweza kuvutwa), ikitumia Interface Implementation hii kama lango kati ya hizo mbili.
 
@@ -2673,7 +2673,7 @@ Kwanza kabisa, Bob anahitaji kusakinisha RGB Wallet, yaani programu inayoendana 
 
 
 - Bitcoin Wallet ya kusimamia UTXO zako;
-- Muunganisho kwa nodi ya Bitcoin (au kwa seva ya Electrum), ili uweze kutambua UTXO zako na kueneza miamala yako kwenye mtandao.
+- Muunganisho kwa node ya Bitcoin (au kwa seva ya Electrum), ili uweze kutambua UTXO zako na kueneza miamala yako kwenye mtandao.
 
 Kama ukumbusho, **Nchi Zinazomilikiwa** katika RGB rejea Bitcoin UTXOs. Kwa hivyo ni lazima tuweze kudhibiti na kutumia UTXO kila wakati katika muamala wa Bitcoin unaojumuisha ahadi za kriptografia (`Tapret` au `Opret`) inayoelekeza kwenye data ya RGB.
 
@@ -2691,13 +2691,13 @@ Bob basi anahitaji kuepua data ya Contract ambayo anavutiwa nayo. Data hii inawe
 
 Ukubwa wa jumla mara nyingi ni wa mpangilio wa kilobaiti chache, kwani kila kijenzi kwa ujumla kina uzani wa chini ya baiti 200. Pia inaweza kuwezekana kutangaza Consignment hii katika Base58, kupitia chaneli zinazokinza udhibiti (kama vile Nostr au kupitia Lightning Network, kwa mfano), au kama msimbo wa QR.
 
-#### 3) Contract kuagiza na uthibitisho
+#### 3) Kuagiza Contract  na uthibitisho
 
 Mara baada ya Bob kupokea Consignment, anaiingiza kwenye RGB Wallet yake. Hii basi:
 
 
 - Angalia kwamba Genesis na Schema ni halali;
-- Mzigo Interface na Interface Implementation;
+- Pakia Interface na Interface Implementation;
 - Sasisha data yako ya upande wa mteja Stash.
 
 Bob sasa anaweza kuona mali katika Wallet yake (hata kama bado haimiliki) na kuelewa ni nyanja gani zinapatikana, ni shughuli gani zinazowezekana... Kisha anahitaji kuwasiliana na mtu ambaye anamiliki mali hiyo ili kuhamishwa. Katika mfano wetu, huyu ni Alice.
@@ -2748,7 +2748,7 @@ alice$ rgb transfer tx.psbt <invoice> consignment.rgb
 Faili hii mpya ya `Consignment.RGB` ina :
 
 
-- Historia kamili ya Mpito wa Jimbo inayohitajika ili kuhalalisha mali hadi sasa (tangu Genesis);
+- Historia kamili ya Mpito wa state inayohitajika ili kuhalalisha mali hadi sasa (tangu Genesis);
 - State Transition mpya inayohamisha mali kutoka kwa Alice hadi kwa Bob, kulingana na Invoice Bob imetoa;
 - Muamala ambao haujakamilika wa Bitcoin (*Witness Transaction*) (`tx.PSBT`), unaotumia Single-Use Seal ya Alice, iliyorekebishwa ili kujumuisha kriptografia Commitment hadi Bob.
 
@@ -2756,12 +2756,12 @@ Katika hatua hii, shughuli bado haijatangazwa kwenye mtandao wa Bitcoin. Consign
 
 #### 8) Bob huangalia na kukubali Consignment
 
-Alice anasambaza hii **Terminal Consignment** kwa Bob. Bob basi:
+Alice anasambaza hii **Terminal Consignment** kwa Bob. Bob basi atafanya;
 
 
-- Angalia uhalali wa State Transition (hakikisha kwamba historia ni sawa, kwamba sheria za Contract zinaheshimiwa, nk);
+- Kungalia uhalali wa State Transition (hakikisha kwamba historia ni sawa, kwamba sheria za Contract zinaheshimiwa, nk);
 - Iongeze kwa Stash yako ya karibu;
-- Huenda generate saini (`sig:...`) kwenye Consignment, ili kuthibitisha kwamba imekaguliwa na kuidhinishwa (wakati mwingine huitwa "*payslip*").
+- Huenda akazalisha saini (`sig:...`) kwenye Consignment, ili kuthibitisha kwamba imekaguliwa na kuidhinishwa (wakati mwingine huitwa "*payslip*").
 
 ```bash
 bob$ rgb accept consignment.rgb
@@ -2805,17 +2805,17 @@ Kwa muhtasari, hapa kuna mchakato kamili wa uhamishaji:
 ### Faida za uhamisho wa RGB
 
 
-- Usiri** :
+- **Usiri** :
 
 Alice na Bob pekee ndio wanaoweza kufikia data yote ya State Transition. Wao Exchange habari hii nje ya Blockchain, kupitia mizigo. Ahadi za kriptografia katika shughuli ya Bitcoin hazifichui aina ya mali au kiasi, ambacho kinahakikisha usiri mkubwa zaidi kuliko mifumo mingine ya tokeni ya On-Chain.
 
 
-- Uthibitishaji wa upande wa mteja** :
+- **Uthibitishaji wa upande wa mteja** :
 
 Bob anaweza kuangalia uthabiti wa uhamisho kwa kulinganisha *Consignment* na *nanga* katika Bitcoin Blockchain. Yeye haitaji uthibitisho wa mtu wa tatu. Si lazima Alice achapishe historia kamili kwenye Blockchain, ambayo hupunguza mzigo kwenye itifaki ya msingi na kuboresha usiri.
 
 
-- Atomiki iliyorahisishwa** :
+- **Atomiki iliyorahisishwa** :
 
 Ubadilishanaji tata (mabadilishano ya atomiki kati ya BTC na mali ya RGB, kwa mfano) yanaweza kufanywa ndani ya shughuli moja, kuepuka hitaji la hati za HTLC au PTLC. Ikiwa makubaliano hayatatangazwa, kila mtu anaweza kutumia tena UTXO zao kwa njia zingine.
 
@@ -2835,7 +2835,7 @@ Kabla ya kuangalia ankara kwa undani zaidi, hapa kuna mchoro wa muhtasari wa mti
 
 Uhamisho unaonyesha uwezo na unyumbulifu wote wa itifaki ya RGB: Exchange ya kibinafsi, iliyoidhinishwa kwa upande wa mteja, iliyotiwa nanga kidogo na kwa busara kwenye Bitcoin Blockchain, na kubakiza usalama bora zaidi wa itifaki (hakuna hatari ya Double-spending). Hii inafanya RGB kuwa mfumo ikolojia wa kuahidi kwa uhamishaji wa thamani ambao ni wa siri zaidi na unaoweza kuenea kuliko minyororo ya On-Chain inayoweza kuratibiwa.
 
-### ankara za RGB
+### Invoice za RGB
 
 Katika sehemu hii, tutaeleza kwa kina jinsi ** ankara** zinavyofanya kazi katika mfumo ikolojia wa RGB na jinsi zinavyowezesha shughuli (haswa uhamishaji) kutekelezwa na Contract. Kwanza, tutaangalia vitambulishi vinavyotumiwa, kisha jinsi ambavyo vimesimbwa, na hatimaye katika muundo wa Invoice ulioonyeshwa kama URL (umbizo ambalo ni rahisi kutosha kutumika katika pochi).
 
@@ -2877,7 +2877,7 @@ Kwa mfano, `ContractId` katika base58 iliyosimbwa na kugawanywa inaweza kuwa:
 
 Kila moja ya dashi huvunja kamba katika sehemu. Hii haiathiri semantiki ya msimbo, uwasilishaji wake tu.
 
-#### Kutumia URLs kwa ankara
+#### Kutumia URLs kwa Invoice 
 
 RGB Invoice imewasilishwa kama URL. Hii ina maana kwamba inaweza kubofya au kuchanganuliwa (kama msimbo wa QR), na Wallet inaweza kuifasiri moja kwa moja ili kutekeleza muamala. Urahisi huu wa mwingiliano hutofautiana na mifumo mingine ambapo unapaswa kunakili na kubandika vipande mbalimbali vya data katika nyanja tofauti za programu.
 
@@ -2890,10 +2890,10 @@ rgb:2WBcas9-yjzEvGufY-9GEgnyMj7-beMNMWA8r-sPHtV1nPU-TMsGMQX/RGB20/100+utxob:egXs
 Hebu tuchambue URL hii:
 
 
-- `RGB:`** (kiambishi awali): inaonyesha kiungo kinachotumia itifaki ya RGB (sawa na `http:` au `Bitcoin:` katika miktadha mingine);
+- **`RGB:`** (kiambishi awali): inaonyesha kiungo kinachotumia itifaki ya RGB (sawa na `http:` au `Bitcoin:` katika miktadha mingine);
 - `2WBcas9-yjzEvGufY-9GEgnyMj7-beMNMWA8r-sPHtV1nPU-TMsGMQX`**: inawakilisha `Kitambulisho cha Mkataba` cha ishara unayotaka kuchezea;
-- `/RGB20/100`**: inaonyesha kuwa `RGB20` Interface inatumika na kwamba vitengo 100 vya mali vimeombwa. Sintaksia ni: `/Interface/amount` ;
-- `+utxob:`**: inabainisha kwamba taarifa kuhusu mpokeaji UTXO (au, kwa usahihi zaidi, ufafanuzi wa Single-Use Seal) huongezwa;
+- **`/RGB20/100`**: inaonyesha kuwa `RGB20` Interface inatumika na kwamba vitengo 100 vya mali vimeombwa. Sintaksia ni: `/Interface/amount` ;
+- **`+utxob:`**: inabainisha kwamba taarifa kuhusu mpokeaji UTXO (au, kwa usahihi zaidi, ufafanuzi wa Single-Use Seal) huongezwa;
 - `egXsFnw-5Eud7WKYn-7DVQvcPbc-rR69YmgmG-veacwmUFo-uMFKFb`**: hii ni *blinded* UTXO (au Seal Definition). Kwa maneno mengine, Bob ameficha UTXO yake halisi, kwa hivyo mtumaji (Alice) hajui Address ni nini. Anajua tu kwamba kuna Seal halali inayorejelea UTXO inayodhibitiwa na Bob.
 
 Ukweli kwamba kila kitu kinafaa katika URL moja hurahisisha maisha kwa mtumiaji: kubofya au kuchanganua rahisi katika Wallet, na operesheni iko tayari kutekelezwa.
@@ -2921,11 +2921,11 @@ rgb:7BKsac8-beMNMWA8r-3GEprtFh7-bjzEvGufY-aNLuU4nSN-MRsLOIK/RGB21/DbwzvSu-4BZU81
 Hapa tunaona:
 
 
-- `RGB:`**: kiambishi awali cha URL ;
+- **`RGB:`**: kiambishi awali cha URL ;
 - `7BKsac8-beMNMWA8r-3GEprtFh7-bjzEvGufY-aNLuU4nSN-MRsLOIK`**: Contract ID (NFT) ;
-- rGB21**: Interface kwa mali zisizoweza kuvu (NFT) ;
+- **rGB21**: Interface kwa mali zisizoweza kuvu (NFT) ;
 - `DbwzvSu-4BZU81jEp-...`**: rejeleo dhahiri la sehemu ya kipekee ya NFT, kwa mfano Hash ya blob ya data (media, metadata...) ;
-- `+utxob:egXsFnw-...`**: the Seal Definition.
+- **`+utxob:egXsFnw-...`**: the Seal Definition.
 
 Wazo ni lile lile: sambaza kiungo cha kipekee ambacho Wallet inaweza kutafsiri, ikibainisha kwa uwazi mali ya kipekee itakayohamishwa.
 
