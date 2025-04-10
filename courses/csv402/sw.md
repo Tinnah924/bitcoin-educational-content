@@ -3057,7 +3057,7 @@ rgb schemata
 Kuna njia mbili za kuunda mali mpya:
 
 
-- Tunaweza kutumia hati au msimbo katika Rust ambayo huunda Contract kwa kujaza sehemu za Schema (Global State, Nchi Zinazomilikiwa, n.k.) na kutoa faili ya `.RGB` au `.rgba`;
+- Tunaweza kutumia hati au msimbo katika Rust ambayo huunda Contract kwa kujaza sehemu za Schema (Global State, OwnedState, n.k.) na kutoa faili ya `.RGB` au `.rgba`;
 - Au tumia amri ndogo ya `suala` moja kwa moja, ukiwa na faili ya YAML (au TOML) inayoelezea sifa za tokeni.
 
 Unaweza kupata mifano katika Rust kwenye folda ya `mifano`, inayoonyesha jinsi unavyounda `ContractBuilder`, jaza `Global State` (jina la kipengee, tiki, Supply, tarehe, n.k.), fafanua Owned State (ambayo UTXO inakusanya *19W-1 yote), Consignment* ambayo unaweza kuuza nje, kuhalalisha na kuagiza katika Stash.
@@ -3147,13 +3147,13 @@ rgb import myContractPBN.rgb
 
 Inapoingizwa, ikiwa ni *Contract Consignment* rahisi*, tutapata ujumbe wa "`Inaagiza Consignment RGB`". Ikiwa ni *State Transition Consignment* kubwa zaidi, amri itakuwa tofauti (`RGB kubali`).
 
-Ili kuhakikisha uhalali, unaweza pia kutumia kitendakazi cha uthibitishaji wa ndani. Kwa mfano, unaweza kukimbia:
+Ili kuhakikisha uhalali, unaweza pia kutumia kitendakazi cha uthibitishaji wa ndani. Kwa mfano, unaweza kuendesha:
 
 ```bash
 rgb validate myContract.rgb
 ```
 
-#### Stash matumizi, uthibitishaji na maonyesho
+#### Matumizi ya Stash, uthibitishaji na maonyesho
 
 Kama ukumbusho, Stash ni orodha ya ndani ya schemas, miingiliano, utekelezaji na mikataba (Genesis + mabadiliko). Kila wakati unapoendesha "kuagiza", unaongeza kipengee kwenye Stash. Stash hii inaweza kutazamwa kwa undani na amri:
 
@@ -3169,13 +3169,13 @@ Hii itakuwa generate folda yenye maelezo ya Stash nzima.
 
 Ili kutekeleza uhamisho, utahitaji kudanganya Bitcoin Wallet ya ndani ili kudhibiti ahadi za `Tapret` au `Opret`.
 
-#### generate na Invoice
+#### kuzalisha Invoice
 
 Mara nyingi, mwingiliano kati ya washiriki katika Contract (k.m. Alice na Bob) hufanyika kupitia kizazi cha Invoice. Ikiwa Alice anataka Bob atekeleze jambo fulani (uhamisho wa ishara, utoaji upya, kitendo katika DAO, n.k.), Alice anaunda Invoice inayoelezea maagizo yake kwa Bob. Kwa hivyo tunayo:
 
 
-- Alice** (mtoaji wa Invoice) ;
-- Bob** (ambaye anapokea na kutekeleza Invoice).
+- **Alice** (mtoaji wa Invoice) ;
+- **Bob** (ambaye anapokea na kutekeleza Invoice).
 
 Tofauti na mifumo ikolojia mingine, RGB Invoice haizuiliwi na wazo la malipo. Inaweza kupachika ombi lolote lililounganishwa na Contract: kubatilisha ufunguo, kupiga kura, kuunda mchongo (*engraving*) kwenye NFT, nk. Operesheni inayolingana inaweza kuelezewa katika Contract Interface. Operesheni inayolingana inaweza kuelezewa katika Contract Interface.
 
@@ -3202,7 +3202,7 @@ alice$ MY_UTXO=4960acc21c175c551af84114541eace09c14d3a1bb184809f7b80916f57f9ef8:
 alice$ rgb invoice $CONTRACT -i RGB20 --amount 100 $MY_UTXO
 ```
 
-CLI itakuwa generate na Invoice kama:
+CLI itatoa Invoice kama:
 
 ```bash
 rgb:iZgIN9EL-2H21UgQ-x!A3uJc-WwXhCSm-$9Lwcc1-v!mUkKY/RGB20/100+utxob:zlVS28Rb-...
@@ -3256,11 +3256,11 @@ Katika sura inayofuata, tutaangalia kwa karibu kuunganisha RGB kwenye Lightning 
 
 Katika sura hii, ninapendekeza kuchunguza jinsi RGB inaweza kutumika ndani ya Lightning Network, kuunganisha na kuhamisha mali za RGB (tokeni, NFTs, nk) kupitia njia za malipo za off-chain.
 
-Wazo la msingi ni kwamba RGB State Transition (*State Transition*) inaweza kujitolea kwa shughuli ya Bitcoin ambayo, kwa upande wake, inaweza kubaki off-chain hadi chaneli ya Umeme imefungwa. Kwa hivyo, kila wakati kituo kinasasishwa, RGB State Transition mpya inaweza kuingizwa katika shughuli mpya ya kufanya, ambayo inabatilisha mpito wa zamani. Kwa njia hii, njia za Umeme zinaweza kutumika kuhamisha mali za RGB, na zinaweza kupitishwa kwa njia sawa na malipo ya kawaida ya Umeme.
+Wazo la msingi ni kwamba RGB State Transition (*State Transition*) inaweza kujitolea kwa shughuli ya Bitcoin ambayo, kwa upande wake, inaweza kubaki off-chain hadi chaneli ya Lightning imefungwa. Kwa hivyo, kila wakati kituo kinasasishwa, RGB State Transition mpya inaweza kuingizwa katika shughuli mpya ya kufanya, ambayo inabatilisha mpito wa zamani. Kwa njia hii, njia za Lightning zinaweza kutumika kuhamisha mali za RGB, na zinaweza kupitishwa kwa njia sawa na malipo ya kawaida ya Umeme.
 
 ### Uundaji wa kituo na ufadhili
 
-Ili kuunda chaneli ya Umeme inayobeba mali ya RGB, tunahitaji Elements mbili:
+Ili kuunda chaneli ya Lightning inayobeba mali ya RGB, tunahitaji Elements mbili:
 
 
 - Ufadhili wa Bitcoin ili kuunda 2/2 Multisig ya kituo (UTXO ya msingi kwa kituo);
