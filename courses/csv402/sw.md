@@ -3237,7 +3237,7 @@ alice$ rgb accept consignment.rgb
 
 - CLI hukagua uhalali wa mpito na kuiongeza kwenye Stash ya Alice. Ikiwa si sahihi, amri itashindwa na ujumbe wa makosa ya kina. Vinginevyo, inafanikiwa, na inaripoti kwamba shughuli ya sampuli bado haijatangazwa kwenye mtandao wa Bitcoin (Bob anasubiri mwanga wa Green wa Alice);
 - Kwa njia ya uthibitisho, amri ya `kukubali` inarejesha saini (*karatasi ya malipo*) ambayo Alice anaweza kutuma kwa Bob ili kumuonyesha kwamba ameidhinisha *Consignment* ;
-- Kisha Bob anaweza kusaini na kuchapisha (`--publish`) muamala wake wa Bitcoin:
+- Kisha Bob anaweza kusaqini na kuchapisha (`--publish`) muamala wake wa Bitcoin:
 
 ```bash
 bob$ rgb check <sig> && wallet sign --publish tx.psbt
@@ -3302,7 +3302,7 @@ Kwa uhalisia, Lightning Network huwezesha malipo kuelekezwa kupitia chaneli nyin
 
 ![RGB-Bitcoin](assets/fr/096.webp)
 
-Uendeshaji wa RGB kwenye Umeme kwa hiyo lazima uzingatiwe sambamba na ule wa Lightning Network yenyewe. Ikiwa ungependa kuzama zaidi katika somo hili, ninapendekeza sana uangalie kozi hii nyingine ya kina ya mafunzo:
+Uendeshaji wa RGB kwenye lightening kwa hiyo lazima uzingatiwe sambamba na ule wa Lightning Network yenyewe. Ikiwa ungependa kuzama zaidi katika somo hili, ninapendekeza sana uangalie kozi hii nyingine ya kina ya mafunzo:
 
 https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ### RGB ramani ya kanuni
@@ -3314,87 +3314,87 @@ Hatimaye, kabla ya kuendelea hadi sehemu inayofuata, ningependa kukupa muhtasari
 #### Client-side Validation
 
 
-- Hazina**: [client_side_validation](https://github.com/LNP-BP/client_side_validation)
-- Kreti** : [client_side_validation](https://crates.io/crates/client_side_validation), [single_use_seals](https://crates.io/crates/single_use_seals)
+- **Hazina**: [client_side_validation](https://github.com/LNP-BP/client_side_validation)
+- **Kreti** : [client_side_validation](https://crates.io/crates/client_side_validation), [single_use_seals](https://crates.io/crates/single_use_seals)
 
 Usimamizi wa uthibitishaji wa off-chain na mantiki ya Matumizi Moja ya Mihuri.
 
 #### Ahadi za Dhahiri za Bitcoin (DBC)
 
 
-- Hazina**: [bp-core](https://github.com/BP-WG/bp-core)
-- Crate**: [bp-dbc](https://crates.io/crates/bp-dbc)
+- **Hazina**: [bp-core](https://github.com/BP-WG/bp-core)
+- **Crate**: [bp-dbc](https://crates.io/crates/bp-dbc)
 
 Usimamizi wa uwekaji nanga wa kuamua katika shughuli za Bitcoin (Tapret, OP_RETURN, nk).
 
 #### Multi Protocol Commitment (MPC)
 
 
-- Hazina**: [client_side_validation](https://github.com/LNP-BP/client_side_validation)
-- Crate** : [commit_verify](https://crates.io/crates/commit_verify)
+- **Hazina**: [client_side_validation](https://github.com/LNP-BP/client_side_validation)
+- **Crate** : [commit_verify](https://crates.io/crates/commit_verify)
 
 Michanganyiko mingi ya ushiriki na ujumuishaji na itifaki tofauti.
 
 #### Aina Kali & Usimbaji Mkali
 
 
-- Maelezo**: [tovuti strict-types.org](https://www.strict-types.org/)
-- Hazina**: [strict-types](https://github.com/strict-types/strict-types), [strict-encoding](https://github.com/strict-types/strict-encoding)
-- Kreti** : [strict_types](https://crates.io/crates/strict_types), [strict_encoding](https://crates.io/crates/strict_encoding)
+- **Maelezo**: [tovuti strict-types.org](https://www.strict-types.org/)
+- **Hazina**: [strict-types](https://github.com/strict-types/strict-types), [strict-encoding](https://github.com/strict-types/strict-encoding)
+- **Kreti** : [strict_types](https://crates.io/crates/strict_types), [strict_encoding](https://crates.io/crates/strict_encoding)
 
 Mfumo madhubuti wa uandishi na ufuataji bainifu unaotumika kwa Client-side Validation.
 
 #### Msingi wa RGB
 
 
-- Hazina**: [RGB-core](https://github.com/RGB-WG/RGB-core)
-- Crate**: [RGB-core](https://crates.io/crates/RGB-core)
+- **Hazina**: [RGB-core](https://github.com/RGB-WG/RGB-core)
+- **Crate**: [RGB-core](https://crates.io/crates/RGB-core)
 
 Msingi wa itifaki, ambayo inajumuisha mantiki kuu ya uthibitishaji wa RGB.
 
 #### Maktaba ya Kawaida ya RGB & Wallet
 
 
-- Hazina**: [RGB-std](https://github.com/RGB-WG/RGB-std)
-- Crate** : [RGB-std](https://crates.io/crates/RGB-std)
+- **Hazina**: [RGB-std](https://github.com/RGB-WG/RGB-std)
+- **Crate** : [RGB-std](https://crates.io/crates/RGB-std)
 
 Utekelezaji wa kawaida, usimamizi wa Stash na Wallet.
 
 #### RGB CLI
 
 
-- Hazina**: [RGB](https://github.com/RGB-WG/RGB)
-- Kreti**: [RGB-CLI](https://crates.io/crates/RGB-CLI), [RGB-Wallet](https://crates.io/crates/RGB-Wallet)
+- **Hazina**: [RGB](https://github.com/RGB-WG/RGB)
+- **Kreti**: [RGB-CLI](https://crates.io/crates/RGB-CLI), [RGB-Wallet](https://crates.io/crates/RGB-Wallet)
 
 `RGB` CLI na kreti Wallet, kwa ajili ya uendeshaji wa kandarasi kwa njia ya amri.
 
 #### RGB Schema
 
 
-- Hazina**: [RGB-schemata](https://github.com/RGB-WG/RGB-schemata/)
+- **Hazina**: [RGB-schemata](https://github.com/RGB-WG/RGB-schemata/)
 
 Ina mifano ya michoro (NIA, UDA, n.k.) na utekelezaji wake.
 
 #### AluVM
 
 
-- Maelezo** : [AluVM.org](https://www.AluVM.org/)
-- Hazina**: [AluVM-spec](https://github.com/AluVM/AluVM-spec), [alure](https://github.com/AluVM/alure)
-- Kreti**: [AluVM](https://crates.io/crates/AluVM), [aluasm](https://crates.io/crates/aluasm)
+-** Maelezo** : [AluVM.org](https://www.AluVM.org/)
+- **Hazina**: [AluVM-spec](https://github.com/AluVM/AluVM-spec), [alure](https://github.com/AluVM/alure)
+- **Kreti**: [AluVM](https://crates.io/crates/AluVM), [aluasm](https://crates.io/crates/aluasm)
 
 Mashine pepe ya msingi ya Usajili inayotumika kuendesha hati za uthibitishaji.
 
 #### Itifaki ya Bitcoin - BP
 
 
-- Hazina** : [bp-core](https://github.com/BP-WG/bp-core), [bp-std](https://github.com/BP-WG/bp-std), [bp-Wallet](https://github.com/BP-WG/bp-Wallet)
+- **Hazina** : [bp-core](https://github.com/BP-WG/bp-core), [bp-std](https://github.com/BP-WG/bp-std), [bp-Wallet](https://github.com/BP-WG/bp-Wallet)
 
 Viongezi vya kusaidia itifaki ya Bitcoin (shughuli, njia za kupita, nk).
 
 #### Ubiquitous Deterministic Computing - UBIDECO
 
 
-- Hazina**: [UBIDECO](https://github.com/UBIDECO)
+- **Hazina**: [UBIDECO](https://github.com/UBIDECO)
 
 Mfumo ikolojia unaohusishwa na maendeleo ya ubainishaji wa chanzo huria.
 
