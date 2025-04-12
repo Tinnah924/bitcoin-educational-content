@@ -59,8 +59,8 @@ Katika kozi hii, tunazingatia wiki ya pili ya bootcamp, ambayo inalenga RGB.
 Shukrani nyingi kwa waandaaji wa kozi hizi za moja kwa moja na kwa walimu 3 walioshiriki:
 
 
-- Maxim Orlovsky: *Ex Tenebrae sententia sapiens dominabitur astris. Cypher, AI, robotiki, transhumanism. Waundaji wa RGB, Prime, Radiant na lnp_bp, mycitadel_io & cyphernet_io* ;
-- Hunter Trujilo: *Developer, Rust, Bitcoin, Lightning, RGB* ;
+- Maxim Orlovsky: *Kutoka gizani, kwa hekima. Cypher, AI, robotiki, transhumanism. Waundaji wa RGB, Prime, Radiant na lnp_bp, mycitadel_io & cyphernet_io* ;
+- Hunter Trujilo: *Mendelezaji, Rust, Bitcoin, Lightning, RGB* ;
 - Federico Tenga: *Ninafanya bidii yangu kugeuza ulimwengu kuwa ugonjwa wa Cypherpunk. Hivi sasa inafanya kazi kwenye RGB huko Bitfinex*.
 
 Toleo lililoandikwa la kozi hii ya mafunzo liliandaliwa kwa kutumia nyenzo kuu 2:
@@ -79,7 +79,7 @@ Toleo lililoandikwa la kozi hii ya mafunzo liliandaliwa kwa kutumia nyenzo kuu 2
 
 ![video](https://youtu.be/AF2XbifPGXM)
 
-RGB ni itifaki iliyoundwa ili kutumia na kutekeleza haki za kidijitali (katika mfumo wa mikataba na mali) kwa njia ya hatari na ya siri, kwa kuzingatia sheria za makubaliano na uendeshaji wa Bitcoin Blockchain. Lengo la sura hii ya kwanza ni kuwasilisha dhana za kimsingi na istilahi zinazozunguka itifaki ya RGB, ikiangazia hasa viungo vyake vya karibu na dhana za msingi za kompyuta zilizosambazwa kama vile Client-side Validation na Mihuri ya Matumizi Moja.
+RGB ni itifaki iliyoundwa ili kutumia na kutekeleza haki za kidijitali (katika mfumo wa mikataba na mali) kwa njia ya hatari na ya siri, kwa kuzingatia sheria za makubaliano na uendeshaji wa Bitcoin Blockchain. Lengo la sura hii ya kwanza ni kuwasilisha dhana za kimsingi na istilahi zinazozunguka itifaki ya RGB, ikiangazia hasa viungo vyake vya karibu na dhana za msingi za kompyuta zilizosambazwa kama vile Client-side Validation na single use seal
 
 Katika sura hii, tunachunguza misingi ya **mifumo ya makubaliano iliyosambazwa** na kuona jinsi RGB inavyofaa katika familia hii ya teknolojia. Pia tutakuletea kanuni kuu zinazotusaidia kuelewa ni kwa nini RGB inalenga kupanuka na kutotegemea utaratibu wa maafikiano wa Bitcoin, huku tukiitegemea inapohitajika.
 
@@ -89,13 +89,13 @@ Kompyuta iliyosambazwa, tawi maalum la sayansi ya kompyuta, husoma itifaki zinaz
 
 
 - **uwezo wa uthibitishaji huru na uthibitishaji** wa data fulani kwa kila nodi;
-- Uwezekano wa nodes kujenga (kulingana na itifaki) mtazamo kamili au sehemu ya habari. Maoni haya ni **majimbo** ya mfumo uliosambazwa;
+- **Uwezekano wa nodes kujenga (kulingana na itifaki) mtazamo kamili au sehemu ya habari**. Maoni haya ni **majimbo** ya mfumo uliosambazwa;
 - **Mpangilio wa matukio** wa utendakazi, ili data iwekwe muhuri wa wakati kwa uhakika na kuwe na makubaliano juu ya mlolongo wa matukio (mfuatano wa majimbo).
 
 Hasa, dhana ya **makubaliano** katika mfumo uliosambazwa inashughulikia vipengele viwili:
 
 
-- Utambuzi wa uhalali ** wa mabadiliko ya hali (kulingana na sheria za itifaki);
+- **Utambuzi wa uhalali** wa mabadiliko ya hali (kulingana na sheria za itifaki);
 - **makubaliano juu ya mpangilio** wa mabadiliko haya ya hali, ambayo hufanya kuwa haiwezekani kuandika upya au kutengua shughuli zilizothibitishwa nyuma (hii pia inajulikana katika Bitcoin kama "ulinzi wa matumizi mara mbili").
 
 Utekelezaji wa kwanza unaofanya kazi, usio na ruhusa wa utaratibu wa makubaliano uliosambazwa ulianzishwa na Satoshi Nakamoto na Bitcoin, kutokana na matumizi ya pamoja ya muundo wa data wa Blockchain na algoriti ya Proof-of-Work (PoW). Katika mfumo huu, uaminifu wa historia ya kuzuia inategemea nguvu ya kompyuta iliyotolewa na nodes (wachimbaji). Kwa hivyo Bitcoin ni mfano mkuu na wa kihistoria wa mfumo wa makubaliano uliosambazwa wazi kwa wote (*bila ruhusa*).
@@ -113,9 +113,9 @@ Baadaye, pia tutaanzisha neno muhimu: dhana ya "**Stash**", ambayo inarejelea se
 Ili kuelewa jinsi matatizo ya Client-side Validation na RGB Address hayajatatuliwa na Blockchain na Lightning, hebu tugundue "trilemmas" 3 kuu katika kompyuta iliyosambazwa:
 
 
-- Uwezo wa kukua, Ugatuaji, Faragha** ;
-- CAP** Nadharia (Uthabiti, Upatikanaji, Uvumilivu wa Sehemu);
-- CIA** trilemma (Usiri, Uadilifu, Upatikanaji).
+- **Uwezo wa kukua, Ugatuaji, Faragha** ;
+- **CAP** Nadharia (Uthabiti, Upatikanaji, Uvumilivu wa Sehemu);
+- **CIA** trilemma (Usiri, Uadilifu, Upatikanaji).
 
 #### 1. Uwezo wakukua, ugatuaji na usiri
 
@@ -125,7 +125,7 @@ Ili kuelewa jinsi matatizo ya Client-side Validation na RGB Address hayajatatuli
 Blockchain ina ugatuzi wa hali ya juu, lakini sio hatari sana. Zaidi ya hayo, kwa kuwa kila kitu kiko katika rejista ya kimataifa, ya umma, usiri ni mdogo. Tunaweza kujaribu kuboresha usiri kwa kutumia teknolojia zisizo na maarifa (Confidential Transactions, mifumo ya mimblewimble, n.k.), lakini msururu wa umma hauwezi kuficha grafu ya muamala.
 
 
-- **Lightning/Jimbo**
+- **Lightning/state**
 
 Njia za serikali (kama ilivyo kwa Lightning Network) ni hatari zaidi na ni za faragha zaidi kuliko Blockchain, kwani shughuli zinafanyika off-chain. Hata hivyo, wajibu wa kutangaza hadharani baadhi ya Elements (miamala ya ufadhili, topolojia ya mtandao) na ufuatiliaji wa trafiki ya mtandao inaweza kwa kiasi fulani kuhatarisha usiri. Ugatuaji pia unateseka: uelekezaji unatumia pesa nyingi, na nodi kuu zinaweza kuwa sehemu kuu za uwekaji. Hili ndilo jambo ambalo tunaanza kuona kwenye Lightning.
 
@@ -281,15 +281,15 @@ Kama tulivyoona hapo awali, ufunuo wa mtumaji wa historia ya mabadiliko ya serik
 
 Ili kuzuia matumizi ya mara mbili ya tokeni za RGB, tunatumia mbinu inayoitwa "**Single-Use Seal**". Mfumo huu unahakikisha kwamba kila ishara, mara tu inapotumiwa, haiwezi kutumika tena kwa ulaghai mara ya pili.
 
-Mihuri ya matumizi moja ni maandishi ya awali ya kriptografia, yaliyopendekezwa mwaka wa 2016 na Peter Todd, sawa na dhana ya mihuri halisi: mara tu muhuri umewekwa kwenye chombo, inakuwa vigumu kuifungua au kuirekebisha bila muhuri bila kutenduliwa.
+Single-Use Seal ni maandishi ya awali ya kriptografia, yaliyopendekezwa mwaka wa 2016 na Peter Todd, sawa na dhana ya mihuri halisi: mara tu muhuri umewekwa kwenye chombo, inakuwa vigumu kuifungua au kuirekebisha bila muhuri bila kutenduliwa.
 
 ![RGB-Bitcoin](assets/fr/018.webp)
 
-Njia hii, iliyopitishwa kwa ulimwengu wa kidijitali, inafanya uwezekano wa kudhibitisha kuwa mlolongo wa matukio umefanyika kweli, na kwamba hauwezi tena kubadilishwa nyuma. Mihuri ya matumizi moja kwa hivyo huenda zaidi ya mantiki rahisi ya `Hash + Timestamp`, na kuongeza dhana ya muhuri ambayo inaweza kufungwa **mara moja tu**.
+Njia hii, iliyopitishwa kwa ulimwengu wa kidijitali, inafanya uwezekano wa kudhibitisha kuwa mlolongo wa matukio umefanyika kweli, na kwamba hauwezi tena kubadilishwa nyuma. Single-Use Seal kwa hivyo huenda zaidi ya mantiki rahisi ya `Hash + Timestamp`, na kuongeza dhana ya  Seal ambayo inaweza kufungwa **mara moja tu**.
 
 ![RGB-Bitcoin](assets/fr/017.webp)
 
-Ili Mihuri ya Matumizi Moja ifanye kazi, unahitaji nyenzo ya uthibitisho wa uchapishaji inayoweza kuthibitisha kuwepo au kutokuwepo kwa uchapishaji, na vigumu (ikiwa haiwezekani) kughushi mara tu taarifa inaposambazwa. **Blockchain** (kama Bitcoin) inaweza kujaza jukumu hili, kama vile gazeti la karatasi lenye mzunguko wa umma, kwa mfano. Wazo ni kama ifuatavyo:
+Ili Single-Use Seal ifanye kazi, unahitaji nyenzo ya uthibitisho wa uchapishaji inayoweza kuthibitisha kuwepo au kutokuwepo kwa uchapishaji, na vigumu (ikiwa haiwezekani) kughushi mara tu taarifa inaposambazwa. **Blockchain** (kama Bitcoin) inaweza kujaza jukumu hili, kama vile gazeti la karatasi lenye mzunguko wa umma, kwa mfano. Wazo ni kama ifuatavyo:
 
 
 - Tunataka kuthibitisha kuwa Commitment fulani kwenye ujumbe `h(m)` imechapishwa kwa hadhira bila kufichua maudhui ya ujumbe `m` ;
@@ -300,13 +300,13 @@ Blockchain inajitolea kwa jukumu hili: punde tu shughuli inapojumuishwa kwenye k
 
 Kwa hivyo Single-Use Seal inaweza kuonekana kama ahadi rasmi ya kuchapisha ujumbe (bado haujulikani kwa hatua hii) mara moja na mara moja tu, kwa njia ambayo inaweza kuthibitishwa na wahusika wote wanaovutiwa.
 
-Tofauti na _ahadi_ rahisi (Hash) au mihuri ya muda, ambayo inathibitisha tarehe ya kuwepo, Single-Use Seal inatoa hakikisho la ziada kwamba **hakuna Commitment** mbadala inayoweza kuwepo pamoja: huwezi kufunga Seal sawa mara mbili, au kujaribu kubadilisha ujumbe uliotiwa muhuri.
+Tofauti na _commitment_ rahisi (Hash) au temporary seals, ambayo inathibitisha tarehe ya kuwepo, Single-Use Seal inatoa hakikisho la ziada kwamba **hakuna Commitment** mbadala inayoweza kuwepo pamoja: huwezi kufunga Seal sawa mara mbili, au kujaribu kubadilisha ujumbe uliotiwa muhuri.
 
 Ulinganisho ufuatao husaidia kuelewa kanuni hii:
 
 
 - **Cryptographic Commitment (Hash)**: Ukiwa na chaguo za kukokotoa za Hash, unaweza kujitolea kwa kipande cha data (nambari) kwa kuchapisha Hash yake. Data inabakia kuwa siri hadi udhihirishe picha ya awali, lakini unaweza kuthibitisha kwamba uliijua mapema;
-- **Muhuri wa saa (Blockchain)**: Kwa kuingiza Hash hii katika Blockchain, tunathibitisha pia kwamba tuliijua kwa wakati mahususi (ile ya kujumuishwa kwenye kizuizi);
+- **temporary seals (Blockchain)**: Kwa kuingiza Hash hii katika Blockchain, tunathibitisha pia kwamba tuliijua kwa wakati mahususi (ile ya kujumuishwa kwenye kizuizi);
 - **Single-Use Seal**: Kwa mihuri ya matumizi moja, tunaenda hatua moja zaidi kwa kuifanya Commitment kuwa ya kipekee. Ukiwa na Hash moja, unaweza kuunda ahadi kadhaa zinazopingana sambamba (tatizo la daktari ambaye anatangaza "*Ni mvulana*" kwa familia na "*Ni msichana*" katika shajara yake ya kibinafsi). Single-Use Seal inaondoa uwezekano huu kwa kuunganisha Commitment kwa njia ya uthibitisho wa uchapishaji, kama vile Bitcoin Blockchain, ili matumizi ya UTXO yaweke Commitment kwa uhakika. Mara baada ya kutumiwa, UTXO hiyo hiyo haiwezi kutumika tena kuchukua nafasi ya Commitment.
 
 |                                                                                  | Rahisi Commitment (digest/Hash) | Muhuri wa nyakati | Mihuri ya matumizi moja |
@@ -321,7 +321,7 @@ Ulinganisho ufuatao husaidia kuelewa kanuni hii:
 
 Mihuri ya matumizi moja hufanya kazi katika hatua kuu tatu:
 
-**Ufafanuzi wa Muhuri**
+**Ufafanuzi wa seal**
 
 
 - Alice anafafanua mapema sheria za uchapishaji wa muhuri (wakati, wapi na jinsi ujumbe utachapishwa);
@@ -329,19 +329,19 @@ Mihuri ya matumizi moja hufanya kazi katika hatua kuu tatu:
 
 ![RGB-Bitcoin](assets/fr/021.webp)
 
-**muhuri Inafungwa:**
+**Seal Inafungwa:**
 
 
-- Wakati wa utekelezaji, Alice hufunga muhuri kwa kuchapisha ujumbe halisi (kwa kawaida katika mfumo wa _commitment_, k.m. Hash);
-- Pia hutoa **shahidi** (ushahidi wa siri) unaothibitisha kuwa muhuri umefungwa na hauwezi kubatilishwa.
+- Wakati wa utekelezaji, Alice hufunga seal kwa kuchapisha ujumbe halisi (kwa kawaida katika mfumo wa _commitment_, k.m. Hash);
+- Pia hutoa **shahidi** (ushahidi wa siri) unaothibitisha kuwa seal imefungwa na haiwezi kubatilishwa.
 
 ![RGB-Bitcoin](assets/fr/019.webp)
 
-**Uthibitishaji wa muhuri :**
+**Uthibitishaji wa seal :**
 
 
-- Mara tu muhuri umefungwa, Bob hawezi tena kuifungua: anaweza kuangalia tu kwamba imefungwa;
-- Bob hukusanya muhuri, **shahidi** na ujumbe (au Commitment yake) ili kuhakikisha kuwa kila kitu kinalingana na kwamba hakuna mihuri inayoshindana au matoleo tofauti.
+- Mara tu seal imefungwa, Bob hawezi tena kuifungua: anaweza kuangalia tu kwamba imefungwa;
+- Bob hukusanya seal, **shahidi** na ujumbe (au Commitment yake) ili kuhakikisha kuwa kila kitu kinalingana na kwamba hakuna seal inayoshindana au matoleo tofauti.
 
 Mchakato unaweza kufupishwa kama ifuatavyo:
 
