@@ -1246,9 +1246,9 @@ Kwa kurejelea kila ingizo mara moja tu na kwa utaratibu, tunazuia Seal ile ile i
 Kwa hivyo Mpito wa Jimbo unaweza kutumika kuhamisha Ownership ya mali kutoka kwa mtu mmoja hadi kwa mwingine. Walakini, sio shughuli pekee zinazowezekana katika itifaki ya RGB. Itifaki inafafanua tatu **Uendeshaji wa Contract** :
 
 
-- State Transition** ;
-- Genesis** ;
-- State Extension**.
+- **State Transition** ;
+- **Genesis** ;
+- **State Extension**.
 
 Kati ya hizi, **Genesis** na **State Extension** wakati mwingine huitwa "*Shughuli za Kizazi cha Jimbo*", kwa sababu huunda majimbo mapya bila kufunga yoyote mara moja. Hili ni jambo muhimu sana: **Genesis** na **State Extension** hazihusishi kufunga Seal. Badala yake, wanafafanua Seal mpya, ambayo lazima itumike na **State Transition** inayofuata ili kuthibitishwa kweli katika historia ya Blockchain.
 
@@ -1988,10 +1988,10 @@ Utaratibu huu ni kipengele cha kuvutia cha RGB, kwani huruhusu vikundi tofauti v
 Kwa muhtasari, kila Contract ina:
 
 
-- Genesis**, ambayo ni hali ya awali ya Contract (na inaweza kulinganishwa na shughuli maalum inayofafanua Ownership ya kwanza ya mali, haki, au data nyingine yoyote ya parameterizable);
-- Schema**, ambayo inaelezea Contract ya Business Logic (aina za data, sheria za uthibitishaji, nk);
-- Interface**, ambayo hutoa Layer ya semantic kwa pochi na watumiaji wa kibinadamu, kufafanua usomaji na utekelezaji wa shughuli;
-- Utekelezaji** Interface, ambayo huziba pengo kati ya Business Logic na uwasilishaji, ili kuhakikisha kuwa ufafanuzi wa Contract unalingana na matumizi ya mtumiaji.
+- **Genesis**, ambayo ni hali ya awali ya Contract (na inaweza kulinganishwa na shughuli maalum inayofafanua Ownership ya kwanza ya mali, haki, au data nyingine yoyote ya parameterizable);
+- **Schema**, ambayo inaelezea Contract ya Business Logic (aina za data, sheria za uthibitishaji, nk);
+- **Interface**, ambayo hutoa Layer ya semantic kwa pochi na watumiaji wa kibinadamu, kufafanua usomaji na utekelezaji wa shughuli;
+- **Utekelezaji** Interface, ambayo huziba pengo kati ya Business Logic na uwasilishaji, ili kuhakikisha kuwa ufafanuzi wa Contract unalingana na matumizi ya mtumiaji.
 
 ![RGB-Bitcoin](assets/fr/070.webp)
 
