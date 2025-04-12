@@ -3381,7 +3381,7 @@ Ina mifano ya michoro (NIA, UDA, n.k.) na utekelezaji wake.
 #### AluVM
 
 
--** Maelezo** : [AluVM.org](https://www.AluVM.org/)
+-**Maelezo** : [AluVM.org](https://www.AluVM.org/)
 - **Hazina**: [AluVM-spec](https://github.com/AluVM/AluVM-spec), [alure](https://github.com/AluVM/alure)
 - **Kreti**: [AluVM](https://crates.io/crates/AluVM), [aluasm](https://crates.io/crates/aluasm)
 
@@ -3548,34 +3548,34 @@ Kwa njia hii, Wallet hufanya karibu kama Wallet ya kawaida. Mtumiaji hajui hatua
 
 ### Ushirikiano wa RGB kwenye Lightning Network
 
-Lengo lingine muhimu la kazi ya timu ya Bitfinex ni kufanya Lightning Network iendane na mali ya RGB. Lengo ni kuwasha chaneli za umeme katika USDT (au tokeni nyingine yoyote), na kufaidika kutokana na manufaa sawa na ya Bitcoin kwenye Umeme (miamala ya karibu, uelekezaji, n.k.). Kwa maneno madhubuti, hii inajumuisha kuunda nodi ya Umeme iliyorekebishwa kuwa:
+Lengo lingine muhimu la kazi ya timu ya Bitfinex ni kufanya Lightning Network iendane na mali ya RGB. Lengo ni kuwasha chaneli za lighting katika USDT (au tokeni nyingine yoyote), na kufaidika kutokana na manufaa sawa na ya Bitcoin kwenye Lightning (miamala ya karibu, uelekezaji, n.k.). Kwa maneno madhubuti, hii inajumuisha kuunda nodi ya Umeme iliyorekebishwa kuwa:
 
 
 - Fungua chaneli kwa kuweka sio satoshi tu, bali pia mali moja au zaidi ya RGB katika ufadhili wa UTXO Multisig;
 - Shughuli za generate Lightning Commitment (upande wa Bitcoin) zikiambatana na mabadiliko ya hali ya RGB yanayolingana. Kila wakati kituo kinasasishwa, mpito wa RGB hufafanua upya usambazaji wa mali katika matokeo ya Umeme;
 - Washa kufungwa kwa upande mmoja, ambapo kipengee kinarejeshwa katika UTXO ya kipekee, kwa kutii sheria za Lightning Network (HTLC, kufunga saa, adhabu, n.k.).
 
-Suluhisho hili, linaloitwa "**RGB Nudi ya Umeme**", hutumia LDK (*Lightning Dev Kit*) kama msingi, na huongeza mbinu zinazohitajika kuingiza tokeni za RGB kwenye chaneli. Ahadi za umeme huhifadhi muundo wa kawaida (matokeo yanayoweza kuangaziwa, muda wa saa...), na kwa kuongeza Anchor RGB State Transition (kupitia `Opret` au `Tapret`). Kwa mtumiaji, hii hufungua njia ya chaneli za Umeme katika sarafu za sarafu au katika mali nyingine yoyote iliyotolewa kupitia RGB.
+Suluhisho hili, linaloitwa "**RGB Nudi ya Lightning**", hutumia LDK (*Lightning Dev Kit*) kama msingi, na huongeza mbinu zinazohitajika kuingiza tokeni za RGB kwenye chaneli. Ahadi za umeme huhifadhi muundo wa kawaida (matokeo yanayoweza kuangaziwa, muda wa saa...), na kwa kuongeza Anchor RGB State Transition (kupitia `Opret` au `Tapret`). Kwa mtumiaji, hii hufungua njia ya chaneli za Umeme katika sarafu za sarafu au katika mali nyingine yoyote iliyotolewa kupitia RGB.
 
 ### Uwezo wa DEX na athari kwenye Bitcoin
 
 Mara tu mali kadhaa zinapodhibitiwa kupitia Umeme, inakuwa rahisi kufikiria **atomiki Exchange** kwenye njia moja ya Umeme, kwa kutumia mantiki sawa ya siri na vifunga saa. Kwa mfano, mtumiaji A anashikilia Bitcoin kwenye chaneli moja ya Umeme, na mtumiaji B anashikilia USDT RGB kwenye chaneli nyingine ya Umeme. Wanaweza kuunda njia inayounganisha chaneli zao mbili na kwa wakati mmoja Exchange BTC kwa USDT, bila hitaji la uaminifu. Hili si lolote zaidi ya **mabadilishano ya atomiki** yanayofanyika katika humle kadhaa, na kuwafanya washiriki wa nje kukaribia kutozingatia ukweli kwamba wanafanya biashara, si uelekezaji tu. Mbinu hii inatoa:
 
 
-- Muda wa kusubiri wa chini sana, kwani kila kitu kinasalia kuwa off-chain kwenye Umeme.
+- Muda wa kusubiri wa chini sana, kwani kila kitu kinasalia kuwa off-chain kwenye Lightning.
 - **faragha** bora zaidi: hakuna anayejua ni biashara, na si njia ya kawaida;
 - Kuepuka utangulizi, tatizo la mara kwa mara kwa On-Chain DEX ;
-- Gharama zilizopunguzwa (hulipi nafasi ya kizuizi, ada za uelekezaji wa Umeme tu).
+- Gharama zilizopunguzwa (hulipi nafasi ya kizuizi, ada za uelekezaji wa Lightning tu).
 
-Kisha tunaweza kufikiria mfumo ikolojia ambapo nodi za Umeme hutoa bei za kubadilishana (kwa kutoa ukwasi). Kila nodi, ikitaka, inaweza kuchukua nafasi ya _market maker_, kununua na kuuza mali mbalimbali kwenye Umeme. Matarajio haya ya _layer-2_ DEX yanaimarisha wazo kwamba si lazima kwa Fork au kutumia minyororo ya watu wengine kupata ubadilishanaji wa mali uliogatuliwa.
+Kisha tunaweza kufikiria mfumo ikolojia ambapo nodi za Lightning hutoa bei za kubadilishana (kwa kutoa ukwasi). Kila nodi, ikitaka, inaweza kuchukua nafasi ya _market maker_, kununua na kuuza mali mbalimbali kwenye Umeme. Matarajio haya ya _layer-2_ DEX yanaimarisha wazo kwamba si lazima kwa Fork au kutumia minyororo ya watu wengine kupata ubadilishanaji wa mali uliogatuliwa.
 
 Athari kwa Bitcoin inaweza kuwa chanya: Miundombinu ya Umeme (nodi, chaneli na huduma) itatumika kikamilifu zaidi kutokana na kiasi kinachotolewa na hizi *sarafu za sarafu*, derivatives na tokeni nyinginezo. Wauzaji wanaovutiwa na malipo ya USDT kwenye Umeme wangegundua malipo ya BTC kwenye Umeme (yanadhibitiwa kwa rafu sawa). Matengenezo na ufadhili wa miundombinu ya Lightning Network pia yanaweza kufaidika kutokana na kuzidisha mitiririko hii isiyo ya BTC, ambayo ingefaidi kwa njia isiyo ya moja kwa moja watumiaji wa Bitcoin.
 
 ### Hitimisho na rasilimali
 
-Timu ya Bitfinex iliyojitolea kwa RGB inaonyesha, kupitia kazi yake, utofauti wa kile kinachoweza kufanywa juu ya itifaki. Kwa upande mmoja, kuna RGBlib, maktaba ambayo huwezesha muundo wa pochi na programu. Kwa upande mwingine, tuna Iris Wallet, onyesho la vitendo kwenye Android la mtumiaji nadhifu wa mwisho Interface. Hatimaye, ushirikiano wa RGB na Umeme unaonyesha kuwa njia za stablecoin zinawezekana, na kufungua njia ya uwezekano wa DEX ya ugatuzi kwenye Umeme.
+Timu ya Bitfinex iliyojitolea kwa RGB inaonyesha, kupitia kazi yake, utofauti wa kile kinachoweza kufanywa juu ya itifaki. Kwa upande mmoja, kuna RGBlib, maktaba ambayo huwezesha muundo wa pochi na programu. Kwa upande mwingine, tuna Iris Wallet, onyesho la vitendo kwenye Android la mtumiaji nadhifu wa mwisho Interface. Hatimaye, ushirikiano wa RGB na Umeme unaonyesha kuwa njia za stablecoin zinawezekana, na kufungua njia ya uwezekano wa DEX ya ugatuzi kwenye Lightning.
 
-Mbinu hii inasalia kuwa ya majaribio na inaendelea kubadilika: maktaba ya RGBlib inaboreshwa tunapoendelea, Iris Wallet inapokea nyongeza za mara kwa mara, na nodi maalum ya Umeme bado si mteja mkuu wa Umeme.
+Mbinu hii inasalia kuwa ya majaribio na inaendelea kubadilika: maktaba ya RGBlib inaboreshwa tunapoendelea, Iris Wallet inapokea nyongeza za mara kwa mara, na nodi maalum ya Lightning bado si mteja mkuu wa Lightning.
 
 Kwa wale wanaotaka kujifunza zaidi au kuchangia, nyenzo kadhaa zinapatikana, zikiwemo:
 
@@ -3583,37 +3583,37 @@ Kwa wale wanaotaka kujifunza zaidi au kuchangia, nyenzo kadhaa zinapatikana, zik
 - [Hazina za Zana za GitHub RGB](https://github.com/RGB-Tools);
 - [Tovuti ya maelezo iliyoundwa kwa Iris Wallet](https://iriswallet.com/) ili kujaribu Wallet kwenye Android.
 
-Katika sura inayofuata, tutaangalia kwa undani jinsi ya kuzindua nodi ya Umeme ya RGB.
+Katika sura inayofuata, tutaangalia kwa undani jinsi ya kuzindua nodi ya lightening ya RGB.
 
-## RLN - RGB Njia ya Umeme
+## RLN - RGB Njia ya Lightning 
 
 <chapterId>ecaabe32-20ba-5f8c-8ca1-a3f095792958</chapterId>
 
 ![vidéo](https://youtu.be/piQQH4Q2nr0)
 
-Katika sura hii ya mwisho, Frederico Tenga anakuchukua hatua kwa hatua kusanidi nodi ya Umeme ya RGB kwenye mazingira ya Regtest, na kukuonyesha jinsi ya kuunda tokeni za RGB juu yake. Kwa kuzindua nodi mbili tofauti, utagundua pia jinsi ya kufungua chaneli ya Umeme kati yao na vipengee vya Exchange RGB.
+Katika sura hii ya mwisho, Frederico Tenga anakuchukua hatua kwa hatua kusanidi nodi ya lightening ya RGB kwenye mazingira ya Regtest, na kukuonyesha jinsi ya kuunda tokeni za RGB juu yake. Kwa kuzindua nodi mbili tofauti, utagundua pia jinsi ya kufungua chaneli ya Lightning kati yao na vipengee vya Exchange RGB.
 
-Video hii inatumika kama mafunzo, sawa na yale tuliyoshughulikia katika sura iliyotangulia, lakini ililenga hasa Umeme wakati huu!
+Video hii inatumika kama mafunzo, sawa na yale tuliyoshughulikia katika sura iliyotangulia, lakini ililenga hasa lightening wakati huu!
 
 Nyenzo kuu ya video hii ni hazina ya Github [RGB Lightning Node](https://github.com/RGB-Tools/RGB-lightning-node), ambayo hukurahisishia kuzindua usanidi huu katika Regtest.
 
-### Inapeleka nodi ya Umeme inayolingana na RGB
+### Inapeleka nodi ya lightening inayolingana na RGB
 
 Mchakato unachukua na kutekeleza dhana zote zilizoangaziwa katika sura zilizopita:
 
 
 - Wazo kwamba **UTXO** imefungwa kwenye 2/2 Multisig ya kituo cha Umeme inaweza kupokea sio tu bitcoins, lakini pia kuwa Single-Use Seal ya mali ya RGB (fungible au la) ;
-- Nyongeza, katika kila shughuli ya ushiriki wa Umeme, ya pato (`Tapret` au `Opret`) inayotolewa kwa kutia nanga RGB State Transition;
+- Nyongeza, katika kila shughuli ya ushiriki wa lightening, ya pato (`Tapret` au `Opret`) inayotolewa kwa kutia nanga RGB State Transition;
 - Miundombinu inayohusiana (bitcoind/indexer/proksi) ili kuthibitisha miamala ya Bitcoin na data ya Exchange *upande wa mteja*.
 
 ### Tunakuletea RGB-nodi ya umeme
 
-Mradi wa **`RGB-nodi-umeme`** ni Rust daemon kulingana na `Rust-umeme` (LDK) Fork iliyorekebishwa ili kuzingatia kuwepo kwa mali ya RGB katika chaneli. Wakati kituo kinafunguliwa, uwepo wa mali unaweza kutajwa, na kila wakati hali ya kituo inasasishwa, mpito wa RGB huundwa, unaoonyesha usambazaji wa mali katika matokeo ya Umeme. Hii inawezesha:
+Mradi wa **`RGB-nodi-lightening`** ni Rust daemon kulingana na `Rust-lightning` (LDK) Fork iliyorekebishwa ili kuzingatia kuwepo kwa mali ya RGB katika chaneli. Wakati kituo kinafunguliwa, uwepo wa mali unaweza kutajwa, na kila wakati hali ya kituo inasasishwa, mpito wa RGB huundwa, unaoonyesha usambazaji wa mali katika matokeo ya lightening. Hii inawezesha:
 
 
-- Fungua njia za umeme katika USDT, kwa mfano;
+- Fungua njia za lightening katika USDT, kwa mfano;
 - Elekeza tokeni hizi kupitia mtandao, mradi tu njia za uelekezaji ziwe na ukwasi wa kutosha;
-- Tumia adhabu ya Umeme na mantiki ya kufunga saa bila marekebisho: kwa urahisi Anchor mpito wa RGB katika pato la ziada la Commitment Transaction.
+- Tumia adhabu ya lightening na mantiki ya kufunga saa bila marekebisho: kwa urahisi Anchor mpito wa RGB katika pato la ziada la Commitment Transaction.
 
 Nambari bado iko katika hatua ya alpha: tunapendekeza uitumie katika **regtest** au kwenye **Testnet** pekee.
 
