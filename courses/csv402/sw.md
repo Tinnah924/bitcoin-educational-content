@@ -346,12 +346,15 @@ Mihuri ya matumizi moja hufanya kazi katika hatua kuu tatu:
 Mchakato unaweza kufupishwa kama ifuatavyo:
 
 ```txt
-# Défini par Alice, validé ou accepté par Bob
-seal <- Define()
-# Fermeture du sceau par Alice avec le message
-witness <- Close(seal, message)
-# Vérification par Bob
-bool <- Verify(seal, witness, message)
+# Imezainiwa na Alice, imethibitishwa au kukubaliwa na Bob
+seal <- Tambua()
+
+# Kufungwa kwa muhuri na Alice pamoja na ujumbe
+witness <- Funga(seal, ujumbe)
+
+# Uhakiki na Bob
+hakika <- Hakiki(seal, witness, ujumbe)
+
 ```
 
 Client-side Validation, hata hivyo, huenda hatua moja zaidi: ikiwa ufafanuzi wa Seal yenyewe unabaki nje ya Blockchain, inawezekana (kwa nadharia) kwa mtu kupinga kuwepo au uhalali wa muhuri katika swali. Ili kuondokana na tatizo hili, mlolongo wa kuunganisha Mihuri ya Matumizi Moja hutumiwa:
@@ -364,7 +367,7 @@ Client-side Validation, hata hivyo, huenda hatua moja zaidi: ikiwa ufafanuzi wa 
 Hivi ndivyo mfumo wa RGB hufanya:
 
 
-- Ujumbe uliochapishwa ni _ahadi_ kwa data iliyothibitishwa ya upande wa mteja;
+- Ujumbe uliochapishwa ni _commitment-kwa data iliyothibitishwa ya upande wa mteja;
 - Seal Definition inahusishwa na Bitcoin UTXO;
 - Seal hufunga wakati UTXO hii inatumiwa au wakati pato jipya linawekwa kwenye Commitment sawa;
 - Msururu wa muamala unaotumia UTXO hizi unalingana na uthibitisho wa uchapishaji: kila mpito au mabadiliko ya hali kwenye RGB kwa hivyo yamewekwa kwenye Bitcoin.
@@ -372,7 +375,7 @@ Hivi ndivyo mfumo wa RGB hufanya:
 Kwa muhtasari:
 
 
-- Ufafanuzi wa _muhuri_ ni UTXO unayokusudia Seal Commitment ya baadaye;
+- Ufafanuzi wa _seal_ ni UTXO unayokusudia Seal Commitment ya baadaye;
 - _seal closing_ hutokea unapotumia UTXO hii, kutengeneza muamala ambao una Commitment;
 - _shahidi_ ni shughuli yenyewe, ambayo inathibitisha kwamba umefunga Seal na maudhui haya;
 - Huwezi kuthibitisha kwamba Seal haijafungwa (huwezi kuwa na uhakika kabisa kwamba UTXO haijatumiwa tayari au haitatumika katika kizuizi ambacho haujaona bado), lakini unaweza kuthibitisha kwamba kweli imefungwa.
@@ -439,7 +442,7 @@ Ikumbukwe kwamba shughuli za kriptografia zilizoelezewa zinaweza kutumika, kwa m
 
 Kama tulivyoona katika sura ya kwanza ya kozi, Mihuri ya Matumizi Moja ni dhana ya jumla: tunatoa ahadi ya kujumuisha Commitment (_commitment_) katika eneo mahususi la muamala, na eneo hili hufanya kama Seal ambayo tunafunga kwenye ujumbe. Walakini, kwenye Bitcoin Blockchain, kuna chaguzi kadhaa za kuchagua mahali pa kuweka _commitment_ hii.
 
-Ili kuelewa mantiki, hebu tukumbuke kanuni ya msingi: kufunga _muhuri wa matumizi moja_, tunatumia eneo lililofungwa kwa kuingiza _ahadi_ kwenye ujumbe fulani. Katika Bitcoin, hii inaweza kufanywa kwa njia kadhaa:
+Ili kuelewa mantiki, hebu tukumbuke kanuni ya msingi: kufunga _Single-Use Seal_, tunatumia eneo lililofungwa kwa kuingiza _commitment-kwenye ujumbe fulani. Katika Bitcoin, hii inaweza kufanywa kwa njia kadhaa:
 
 
 - **Tumia ufunguo wa umma au Address**
@@ -551,7 +554,7 @@ Katika sehemu iliyopita, tulitaja kwa ufupi jinsi mfano wa Client-side Validatio
 
 ### Maeneo ya Commitment katika muamala
 
-Unapompa mtu uthibitisho kwamba ujumbe fulani umepachikwa katika muamala, unahitaji kuwa na uwezo wa kuhakikisha kuwa hakuna aina nyingine ya Commitment (sekunde, ujumbe uliofichwa) katika muamala ule ule ambao haujafichuliwa kwako. Ili Client-side Validation iendelee kuwa thabiti, unahitaji utaratibu wa **ubainishaji** wa kuweka _ahadi_ moja katika muamala unaofunga _muhuri wa matumizi moja_.
+Unapompa mtu uthibitisho kwamba ujumbe fulani umepachikwa katika muamala, unahitaji kuwa na uwezo wa kuhakikisha kuwa hakuna aina nyingine ya Commitment (sekunde, ujumbe uliofichwa) katika muamala ule ule ambao haujafichuliwa kwako. Ili Client-side Validation iendelee kuwa thabiti, unahitaji utaratibu wa **ubainishaji** wa kuweka _commitment_ moja katika muamala unaofunga _Single-Use Seal-.
 
 Shughuli ya _shahidi_ hutumia UTXO maarufu (au _seal definition_) na matumizi haya yanalingana na kufungwa kwa Seal. Kitaalamu, tunajua kwamba kila muhtasari unaweza kutumika mara moja tu. Hili ndilo hasa linalosisitiza upinzani wa Bitcoin kwa matumizi maradufu. Lakini shughuli ya matumizi inaweza kuwa na _pembejeo_ kadhaa, _matokeo_ kadhaa, au ikatungwa kwa njia changamano (sainjoins, njia za umeme, n.k.). Kwa hivyo tunahitaji kufafanua wazi mahali pa kuingiza _commitment_ katika muundo huu, bila utata na kwa usawa.
 
@@ -559,7 +562,7 @@ Njia yoyote (PkO, TxO2, n.k.), _commitment_ inaweza kuingizwa :
 
 
 - **Katika Ingizo** kupitia:
-    - Sigtweak** (hurekebisha kipengele cha `r` cha sahihi ya ECDSA, sawa na kanuni ya "Sign-to-Contract") ;
+    - **Sigtweak** (hurekebisha kipengele cha `r` cha sahihi ya ECDSA, sawa na kanuni ya "Sign-to-Contract") ;
     - **Witweak** (data ya _shahidi_ aliyetengwa_ imerekebishwa).
 - **Katika Pato** kupitia :
     - **Keytweak** (ufunguo wa umma wa mpokeaji "umebadilishwa" na ujumbe);
@@ -588,7 +591,7 @@ Walakini, shida kuu 2 zimeibuka:
 
 Kwa mazoezi, **sig tweak** pia haiendani sana na maunzi yaliyopo (pochi za vifaa) na umbizo (Umeme, nk.). Kwa hivyo wazo hili kubwa ni Hard kuweka katika vitendo.
 
-*** Marekebisho muhimu (lipa-kwa-Contract) :***
+*** Marekebisho muhimu (lipa-kwa-Contract):***
 
 **muhimu wa kurekebisha** unachukua dhana ya kihistoria ya _lipa-kwa-mkataba_. Tunachukua ufunguo wa umma `X` na kuurekebisha kwa kuongeza thamani `H(ujumbe)`. Hasa, ikiwa `X = x * G` na `h = H(ujumbe)`, basi ufunguo mpya utakuwa `X' = X + h * G`. Ufunguo huu uliobadilishwa huficha Commitment kwa `ujumbe`. Mmiliki wa ufunguo asilia wa faragha anaweza, kwa kuongeza `h` kwenye ufunguo wake wa faragha `x`, kuthibitisha kwamba ana ufunguo wa kutumia pato. Kwa nadharia, hii ni ya kifahari, kwa sababu:
 
