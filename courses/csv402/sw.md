@@ -648,10 +648,10 @@ TAPRET_SCRIPT_COMMITMENT_PREFIX = 31 bytes                    MPC commitment + N
 ```
 
 
-- Baiti 29 `OP_RESERVED`, ikifuatiwa na `OP_RETURN`, kisha `OP_PUSHBYTE_33`, huunda sehemu ya _kiambishi_ cha  bytes 31;
+- Bytes 29 `OP_RESERVED`, ikifuatiwa na `OP_RETURN`, kisha `OP_PUSHBYTE_33`, huunda sehemu ya _kiambishi_ cha  bytes 31;
 - Inayofuata inakuja _commitment_ ya  bytes 32 (kawaida Merkle Root kutoka **MPC**), ambayo tunaongeza  byte 1 ya **Nonce** (jumla ya baiti 33 kwa sehemu hii ya pili).
 
-Kwa hivyo mbinu ya `Tapret` ya baiti 64 inaonekana kama `Opret` ambayo tumeweka awali bayte 29 za `OP_RESERVED` na kuongeza baiti ya ziada kama Nonce.
+Kwa hivyo mbinu ya `Tapret` ya bytes 64 inaonekana kama `Opret` ambayo tumeweka awali bytes 29 za `OP_RESERVED` na kuongeza byte ya ziada kama Nonce.
 
 Ili kudumisha kubadilika katika suala la utekelezaji, usiri na kuongeza, mpango wa Tapret huzingatia hali mbalimbali za utumiaji, kulingana na mahitaji:
 
@@ -992,7 +992,7 @@ Sehemu ya pili, `Uthibitisho wa MPC`, inarejelea uthibitisho kwamba Contract hii
 
 
 - `pos_i`, nafasi ya Contract hii katika mti wa MPC;
-- cofactor`, thamani iliyobainishwa ili kutatua migongano ya nafasi;
+- `cofactor`, thamani iliyobainishwa ili kutatua migongano ya nafasi;
 - `Uthibitisho wa Merkle`, yaani seti ya vifundo na heshi zilizotumiwa kuunda upya mzizi wa MPC na kuthibitisha kuwa kitambulishi cha Contract na `Transition Bundle` yake zimekabidhiwa kwenye mzizi.
 
 Utaratibu huu ulielezewa katika sehemu iliyotangulia ya kujenga *Mti wa MPC*, ambapo kila Contract inapata jani la kipekee kutokana na:
@@ -1020,7 +1020,7 @@ Uthibitisho huu wa ziada ni muhimu kwa sababu, tofauti na `Opret`, `Tapret` Comm
 
 ![RGB-Bitcoin](assets/fr/045.webp)
 
-**Nanga** kwa hivyo hujumuisha taarifa zote zinazohitajika ili kuthibitisha Bitcoin Commitment katika muktadha wa RGB. Zinaonyesha muamala husika (`txid`) na uthibitisho wa nafasi ya Contract (`Uthibitisho wa MPC`), huku zikidhibiti uthibitisho wa ziada (`ETP`) katika kesi ya `Tapret`. Kwa njia hii, Anchor inalinda uadilifu na upekee wa hali ya off-chain kwa kuhakikisha kuwa shughuli hiyo hiyo haiwezi kufasiriwa upya kwa data nyingine za mkataba.
+**Anchor** kwa hivyo hujumuisha taarifa zote zinazohitajika ili kuthibitisha Bitcoin Commitment katika muktadha wa RGB. Zinaonyesha muamala husika (`txid`) na uthibitisho wa nafasi ya Contract (`Uthibitisho wa MPC`), huku zikidhibiti uthibitisho wa ziada (`ETP`) katika kesi ya `Tapret`. Kwa njia hii, Anchor inalinda uadilifu na upekee wa hali ya off-chain kwa kuhakikisha kuwa shughuli hiyo hiyo haiwezi kufasiriwa upya kwa data nyingine za mkataba.
 
 ### Hitimisho
 
@@ -1028,9 +1028,9 @@ Katika sura hii, tunashughulikia:
 
 
 - Jinsi ya kutumia dhana ya Mihuri ya matumizi Moja katika Bitcoin (haswa kupitia _outpoint_);
-- Mbinu mbalimbali za kubainisha _ahadi_ katika muamala (Sig tweak, Key tweak, tweak ya mashahidi, OP_RETURN, Taproot/Tapret);
+- Mbinu mbalimbali za kubainisha _commitment_ katika muamala (Sig tweak, Key tweak, tweak ya mashahidi, OP_RETURN, Taproot/Tapret);
 - Sababu kwa nini RGB inazingatia ahadi za Tapret;
-- Usimamizi wa Contract nyingi kupitia _ahadi za itifaki nyingi_, ni muhimu ikiwa hutaki kufichua jimbo zima au mikataba mingine unapotaka kuthibitisha hoja mahususi;
+- Usimamizi wa Contract nyingi kupitia _commitment _za itifaki nyingi_, ni muhimu ikiwa hutaki kufichua jimbo zima au mikataba mingine unapotaka kuthibitisha hoja mahususi;
 - Tumeona pia jukumu la _Anchors_, ambayo huleta kila kitu pamoja (muamala txid, uthibitisho wa Merkle Tree na uthibitisho wa Taproot) katika kifurushi kimoja.
 
 Katika mazoezi, utekelezaji wa kiufundi umegawanywa kati ya Rust _crates_ kadhaa maalum (katika _client_side_validation_, _commit-verify_, _bp_core_, nk.). Mawazo ya kimsingi yapo:
@@ -1062,7 +1062,7 @@ RGB inatumia dhana hii kwa ulimwengu wa kidijitali: haki (na wajibu) zimejumuish
 Smart contract katika RGB inaweza kuonekana kama mashine ya serikali, iliyofafanuliwa na:
 
 
-- A **Jimbo**, yaani seti ya taarifa inayoonyesha usanidi wa sasa wa Contract;
+- A **State**, yaani seti ya taarifa inayoonyesha usanidi wa sasa wa Contract;
 - A **Business Logic** (seti ya sheria), ambayo inaelezea chini ya hali gani na nani serikali inaweza kurekebishwa.
 
 ![RGB-Bitcoin](assets/fr/056.webp)
@@ -1070,9 +1070,9 @@ Smart contract katika RGB inaweza kuonekana kama mashine ya serikali, iliyofafan
 Ni muhimu kuelewa kwamba mikataba hii sio mdogo kwa uhamisho rahisi wa ishara. Zinaweza kujumuisha aina mbalimbali za matumizi: kutoka kwa mali ya kitamaduni (ishara, hisa, bondi) hadi ufundi changamano zaidi (haki za matumizi, masharti ya kibiashara, n.k.). Tofauti na minyororo mingine ya kuzuia, ambapo msimbo wa Contract unapatikana na kutekelezwa na wote, mbinu ya RGB inagawanya upatikanaji na ujuzi wa Contract kwa washiriki ("***Contract washiriki***"). Kuna majukumu kadhaa:
 
 
-- Mtoaji** au muundaji wa Contract, ambaye anafafanua Genesis ya Contract na vigezo vyake vya awali;
-- Vyama vilivyo na haki** (*Ownership*) au uwezo mwingine wa kutekeleza ;
-- Waangalizi**, wana uwezekano mdogo wa kuona taarifa fulani, lakini ambao hawawezi kuanzisha marekebisho.
+- **Mtoaji** au muundaji wa Contract, ambaye anafafanua Genesis ya Contract na vigezo vyake vya awali;
+- **Vyama vilivyo na haki** (*Ownership*) au uwezo mwingine wa kutekeleza ;
+- **Waangalizi**, wana uwezekano mdogo wa kuona taarifa fulani, lakini ambao hawawezi kuanzisha marekebisho.
 
 Mgawanyo huu wa majukumu huchangia upinzani wa udhibiti, kwa kuhakikisha kuwa watu walioidhinishwa pekee ndio wanaoweza kuingiliana na hali ya kimkataba. Pia huipa RGB uwezo wa kuongeza mlalo: uthibitishaji mwingi hufanyika nje ya Blockchain, na ni nanga za kriptografia pekee (*ahadi*) zimeandikwa kwenye Bitcoin.
 
