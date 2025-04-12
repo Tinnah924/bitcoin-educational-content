@@ -136,7 +136,7 @@ Baada ya kusimbua, ujumbe wa pili unatoa maelezo ya kina ya hazina hiyo (dhahabu
 
 Hadithi za kupendeza kama vile misimbo ya Beale ndizo ambazo wengi wetu tunahusisha na kriptografia. Hata hivyo, kriptografia ya kisasa inatofautiana kwa angalau njia nne muhimu kutoka kwa aina hizi za mifano ya kihistoria.
 
-Kwanza, usimbaji fiche wa kihistoria umehusika tu na **usiri** (au usiri). [3] Maandishi ya siri yangeundwa ili kuhakikisha kuwa wahusika fulani pekee ndio wangeweza kujua habari iliyo katika maandishi ya wazi, kama ilivyokuwa kwa maandishi ya Beale. Ili mpango wa usimbaji fiche utekeleze madhumuni haya vyema, usimbaji fiche wa maandishi ya siri lazima ufanyike ikiwa una ufunguo.
+Kwanza, usimbaji fiche wa kihistoria umehusika tu na **privacy** (au usiri). [3] Maandishi ya siri yangeundwa ili kuhakikisha kuwa wahusika fulani pekee ndio wangeweza kujua habari iliyo katika maandishi ya wazi, kama ilivyokuwa kwa maandishi ya Beale. Ili mpango wa usimbaji fiche utekeleze madhumuni haya vyema, usimbaji fiche wa maandishi ya siri lazima ufanyike ikiwa una ufunguo.
 
 Fiche za kisasa zinahusika na anuwai ya mada kuliko usiri tu. Mandhari haya yanajumuisha kimsingi (1) **uadilifu wa ujumbe**—yaani, kuhakikisha kwamba ujumbe haujabadilishwa; (2) **uhalisi wa ujumbe**—yaani, kuhakikishia kwamba ujumbe umetoka kwa mtumaji fulani; na (3) **kutokataa**—yaani, kuhakikisha kwamba mtumaji hawezi kukataa kwa uwongo baadaye kwamba alituma ujumbe. [4]
 
