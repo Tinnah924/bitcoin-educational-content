@@ -3559,7 +3559,7 @@ Suluhisho hili, linaloitwa "**RGB Nudi ya Lightning**", hutumia LDK (*Lightning 
 
 ### Uwezo wa DEX na athari kwenye Bitcoin
 
-Mara tu mali kadhaa zinapodhibitiwa kupitia Umeme, inakuwa rahisi kufikiria **atomiki Exchange** kwenye njia moja ya Umeme, kwa kutumia mantiki sawa ya siri na vifunga saa. Kwa mfano, mtumiaji A anashikilia Bitcoin kwenye chaneli moja ya Umeme, na mtumiaji B anashikilia USDT RGB kwenye chaneli nyingine ya Umeme. Wanaweza kuunda njia inayounganisha chaneli zao mbili na kwa wakati mmoja Exchange BTC kwa USDT, bila hitaji la uaminifu. Hili si lolote zaidi ya **mabadilishano ya atomiki** yanayofanyika katika humle kadhaa, na kuwafanya washiriki wa nje kukaribia kutozingatia ukweli kwamba wanafanya biashara, si uelekezaji tu. Mbinu hii inatoa:
+Mara tu mali kadhaa zinapodhibitiwa kupitia Umeme, inakuwa rahisi kufikiria **atomiki Exchange** kwenye njia moja ya lightening, kwa kutumia mantiki sawa ya siri na vifunga saa. Kwa mfano, mtumiaji A anashikilia Bitcoin kwenye chaneli moja ya lightening, na mtumiaji B anashikilia USDT RGB kwenye chaneli nyingine ya Umeme. Wanaweza kuunda njia inayounganisha chaneli zao mbili na kwa wakati mmoja Exchange BTC kwa USDT, bila hitaji la uaminifu. Hili si lolote zaidi ya **mabadilishano ya atomiki** yanayofanyika katika humle kadhaa, na kuwafanya washiriki wa nje kukaribia kutozingatia ukweli kwamba wanafanya biashara, si uelekezaji tu. Mbinu hii inatoa:
 
 
 - Muda wa kusubiri wa chini sana, kwani kila kitu kinasalia kuwa off-chain kwenye Lightning.
@@ -3569,11 +3569,11 @@ Mara tu mali kadhaa zinapodhibitiwa kupitia Umeme, inakuwa rahisi kufikiria **at
 
 Kisha tunaweza kufikiria mfumo ikolojia ambapo nodi za Lightning hutoa bei za kubadilishana (kwa kutoa ukwasi). Kila nodi, ikitaka, inaweza kuchukua nafasi ya _market maker_, kununua na kuuza mali mbalimbali kwenye Umeme. Matarajio haya ya _layer-2_ DEX yanaimarisha wazo kwamba si lazima kwa Fork au kutumia minyororo ya watu wengine kupata ubadilishanaji wa mali uliogatuliwa.
 
-Athari kwa Bitcoin inaweza kuwa chanya: Miundombinu ya Umeme (nodi, chaneli na huduma) itatumika kikamilifu zaidi kutokana na kiasi kinachotolewa na hizi *sarafu za sarafu*, derivatives na tokeni nyinginezo. Wauzaji wanaovutiwa na malipo ya USDT kwenye Umeme wangegundua malipo ya BTC kwenye Umeme (yanadhibitiwa kwa rafu sawa). Matengenezo na ufadhili wa miundombinu ya Lightning Network pia yanaweza kufaidika kutokana na kuzidisha mitiririko hii isiyo ya BTC, ambayo ingefaidi kwa njia isiyo ya moja kwa moja watumiaji wa Bitcoin.
+Athari kwa Bitcoin inaweza kuwa chanya: Miundombinu ya lightening (nodi, chaneli na huduma) itatumika kikamilifu zaidi kutokana na kiasi kinachotolewa na hizi *sarafu za sarafu*, derivatives na tokeni nyinginezo. Wauzaji wanaovutiwa na malipo ya USDT kwenye lightening wangegundua malipo ya BTC kwenye Umeme (yanadhibitiwa kwa rafu sawa). Matengenezo na ufadhili wa miundombinu ya Lightning Network pia yanaweza kufaidika kutokana na kuzidisha mitiririko hii isiyo ya BTC, ambayo ingefaidi kwa njia isiyo ya moja kwa moja watumiaji wa Bitcoin.
 
 ### Hitimisho na rasilimali
 
-Timu ya Bitfinex iliyojitolea kwa RGB inaonyesha, kupitia kazi yake, utofauti wa kile kinachoweza kufanywa juu ya itifaki. Kwa upande mmoja, kuna RGBlib, maktaba ambayo huwezesha muundo wa pochi na programu. Kwa upande mwingine, tuna Iris Wallet, onyesho la vitendo kwenye Android la mtumiaji nadhifu wa mwisho Interface. Hatimaye, ushirikiano wa RGB na Umeme unaonyesha kuwa njia za stablecoin zinawezekana, na kufungua njia ya uwezekano wa DEX ya ugatuzi kwenye Lightning.
+Timu ya Bitfinex iliyojitolea kwa RGB inaonyesha, kupitia kazi yake, utofauti wa kile kinachoweza kufanywa juu ya itifaki. Kwa upande mmoja, kuna RGBlib, maktaba ambayo huwezesha muundo wa pochi na programu. Kwa upande mwingine, tuna Iris Wallet, onyesho la vitendo kwenye Android la mtumiaji nadhifu wa mwisho Interface. Hatimaye, ushirikiano wa RGB na lightning unaonyesha kuwa njia za stablecoin zinawezekana, na kufungua njia ya uwezekano wa DEX ya ugatuzi kwenye Lightning.
 
 Mbinu hii inasalia kuwa ya majaribio na inaendelea kubadilika: maktaba ya RGBlib inaboreshwa tunapoendelea, Iris Wallet inapokea nyongeza za mara kwa mara, na nodi maalum ya Lightning bado si mteja mkuu wa Lightning.
 
@@ -3651,17 +3651,17 @@ Mwishoni mwa amri hii, `RGB-nodi-umeme` inayoweza kutekelezeka itapatikana katik
 Ili kufanya kazi, nodi ya `RGB-umeme` daemon inahitaji uwepo na usanidi wa :
 
 
-- Nodi ya `bitcoind`**
+- **Nodi ya `bitcoind`**
 
 Kila mfano wa RLN utahitaji kuwasiliana na `bitcoind` ili kutangaza na kufuatilia miamala yake ya On-Chain. Uthibitishaji (kuingia/nenosiri) na URL (mwenyeji/mlango) utahitaji kutolewa kwa daemon.
 
 
-- Kielezo** (Electrum au Esplora)
+- **Kielezo** (Electrum au Esplora)
 
 daemon lazima iweze kuorodhesha na kuchunguza miamala ya On-Chain, hasa kupata UTXO ambayo mali imewekewa nanga. Utahitaji kubainisha URL ya seva yako ya Electrum au Esplora.
 
 
-- Seva mbadala ya RGB**
+- **Seva mbadala ya RGB**
 
 Kama inavyoonekana katika sura zilizopita, **seva mbadala** ni sehemu (ya hiari, lakini inapendekezwa sana) ili kurahisisha Exchange ya *shehena* kati ya programu zingine za Lightning. Kwa mara nyingine tena, ni lazima URL ibainishwe.
 
@@ -3887,7 +3887,7 @@ Ili kudhibitisha shughuli hiyo, vitalu 6 vinachimbwa:
 
 ![RGB-Bitcoin](assets/fr/112.webp)
 
-Kituo cha Umeme sasa kimefunguliwa na pia kina tokeni 500 za `PBN` kwenye upande wa nodi n°1. Ikiwa nodi n°2 inataka kupokea tokeni za `PBN`, ni lazima generate iwe Invoice. Hapa ni jinsi ya kufanya hivyo:
+Kituo cha lightening sasa kimefunguliwa na pia kina tokeni 500 za `PBN` kwenye upande wa nodi n°1. Ikiwa nodi n°2 inataka kupokea tokeni za `PBN`, ni lazima generate iwe Invoice. Hapa ni jinsi ya kufanya hivyo:
 
 ```bash
 curl -X POST -H "Content-Type: application/json" \
@@ -3938,23 +3938,23 @@ curl -X 'GET' \
 
 ![RGB-Bitcoin](assets/fr/115.webp)
 
-Hivi ndivyo jinsi ya kupeleka nodi ya Umeme iliyorekebishwa ili kubeba vipengee vya RGB. Maonyesho haya yanatokana na:
+Hivi ndivyo jinsi ya kupeleka nodi ya lightening iliyorekebishwa ili kubeba vipengee vya RGB. Maonyesho haya yanatokana na:
 
 
 - Mazingira ya regtest (kupitia `./regtest.sh`) au Testnet ;
-- Nodi ya umeme (`RGB-nodi-umeme`) kulingana na `bitcoind`, faharasa na `RGB-proxy-server` ;
-- Msururu wa API za JSON REST za kufungua/kufunga chaneli, kutoa tokeni, kuhamisha mali kupitia Umeme, n.k.
+- Nodi ya lightening (`RGB-nodi-umeme`) kulingana na `bitcoind`, faharasa na `RGB-proxy-server` ;
+- Msururu wa API za JSON REST za kufungua/kufunga chaneli, kutoa tokeni, kuhamisha mali kupitia Lightning, n.k.
 
 Shukrani kwa mchakato huu:
 
 
-- Shughuli za ushiriki wa umeme ni pamoja na pato la ziada (OP_RETURN au Taproot) na uwekaji wa mpito wa RGB;
-- Uhamisho unafanywa kwa njia sawa kabisa na malipo ya jadi ya Umeme, lakini kwa kuongeza ishara ya RGB;
+- Shughuli za ushiriki wa lightning ni pamoja na pato la ziada (OP_RETURN au Taproot) na uwekaji wa mpito wa RGB;
+- Uhamisho unafanywa kwa njia sawa kabisa na malipo ya jadi ya Lightning, lakini kwa kuongeza ishara ya RGB;
 - Nodi nyingi za RLN zinaweza kuunganishwa kwenye njia na majaribio ya malipo kwenye nodi nyingi, mradi tu kuna ukwasi wa kutosha katika bitcoins na mali ya RGB kwenye njia.
 
 Mradi unabaki katika hatua ya alpha. Kwa hivyo inashauriwa sana ujiwekee kikomo kwa mazingira ya majaribio (regtest, Testnet).
 
-Fursa zilizofunguliwa na utangamano huu wa LN-RGB ni kubwa: stablecoins kwenye Umeme, DEX Layer-2, uhamisho wa ishara za fungible au NFTs kwa gharama ya chini sana ... Sura za awali zimeelezea usanifu wa dhana na mantiki ya uthibitishaji. Sasa una mtazamo wa vitendo wa jinsi ya kupata nodi kama hiyo, kwa maendeleo yako ya baadaye au majaribio.
+Fursa zilizofunguliwa na utangamano huu wa LN-RGB ni kubwa: stablecoins kwenye Lightning, DEX Layer-2, uhamisho wa ishara za fungible au NFTs kwa gharama ya chini sana ... Sura za awali zimeelezea usanifu wa dhana na mantiki ya uthibitishaji. Sasa una mtazamo wa vitendo wa jinsi ya kupata nodi kama hiyo, kwa maendeleo yako ya baadaye au majaribio.
 
 # Hitimisho
 
