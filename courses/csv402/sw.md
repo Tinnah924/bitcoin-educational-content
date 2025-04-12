@@ -309,7 +309,7 @@ Ulinganisho ufuatao husaidia kuelewa kanuni hii:
 - **temporary seals (Blockchain)**: Kwa kuingiza Hash hii katika Blockchain, tunathibitisha pia kwamba tuliijua kwa wakati mahususi (ile ya kujumuishwa kwenye kizuizi);
 - **Single-Use Seal**: Kwa mihuri ya matumizi moja, tunaenda hatua moja zaidi kwa kuifanya Commitment kuwa ya kipekee. Ukiwa na Hash moja, unaweza kuunda ahadi kadhaa zinazopingana sambamba (tatizo la daktari ambaye anatangaza "*Ni mvulana*" kwa familia na "*Ni msichana*" katika shajara yake ya kibinafsi). Single-Use Seal inaondoa uwezekano huu kwa kuunganisha Commitment kwa njia ya uthibitisho wa uchapishaji, kama vile Bitcoin Blockchain, ili matumizi ya UTXO yaweke Commitment kwa uhakika. Mara baada ya kutumiwa, UTXO hiyo hiyo haiwezi kutumika tena kuchukua nafasi ya Commitment.
 
-|                                                                                  | Rahisi Commitment (digest/Hash) | Muhuri wa nyakati | Mihuri ya matumizi moja |
+|                                                                                  | Rahisi Commitment (digest/Hash) | Muhuri wa nyakati | single-use-seal |
 
 | -------------------------------------------------------------------------- | ------------------------------- | ---------- | ---------------- |
 
