@@ -556,7 +556,7 @@ Tunaweza pia kuzungumza juu ya mifuatano nasibu bila kumaanisha mahususi mifuata
 
 Kwa kawaida usemi "kamba nasibu", bila sifa, hurejelea mfuatano uliochaguliwa nasibu kutoka kwa seti ya mifuatano yote yenye urefu sawa. Hivi ndivyo nilivyoeleza hapo juu. Mfuatano wa urefu $n$ unaweza, bila shaka, pia kuchaguliwa bila mpangilio kutoka kwa seti tofauti. Moja, kwa mfano, ambayo inajumuisha tu sehemu ndogo ya mifuatano yote ya urefu $n$, au labda seti inayojumuisha mifuatano ya urefu tofauti. Katika hali hizo, hata hivyo, hatungeirejelea kama "kamba nasibu", bali "kamba ambayo imechaguliwa nasibu kutoka kwa baadhi ya seti **S**".
 
-Dhana kuu ndani ya cryptography ni ile ya pseudorandomness. **Mfuatano wa uwongo** wa urefu wa $n$ unaonekana *kana kwamba* ni tokeo la sampuli ya kigezo kimoja $S$ ambacho kinatoa kila mfuatano katika **$S_n$** uwezekano sawa wa uteuzi. Kwa kweli, hata hivyo, mfuatano huo ni matokeo ya kuchukua sampuli ya kigezo kimoja cha $S'$ ambacho hufafanua tu usambazaji wa uwezekano—sio lazima uwe na uwezekano sawa wa matokeo yote yanayowezekana—kwenye kikundi kidogo cha **$S_n$**. Jambo muhimu hapa ni kwamba hakuna mtu anayeweza kutofautisha kati ya sampuli kutoka $S$ na $S'$, hata ukichukua nyingi kati yao.
+ "Dhana kuu katika usimbaji fiche ni ile ya nasibu-bandia (pseudorandomness). **Mfuatano wa nasibu-bandia** wa urefu wa $n$ unaonekana *kana kwamba* ni tokeo la sampuli ya kigezo kimoja $S$ ambacho kinatoa kila mfuatano katika **$S_n$** uwezekano sawa wa uteuzi. Kwa kweli, hata hivyo, mfuatano huo ni matokeo ya kuchukua sampuli ya kigezo kimoja cha $S'$ ambacho hufafanua tu usambazaji wa uwezekano—sio lazima uwe na uwezekano sawa wa matokeo yote yanayowezekana—kwenye kikundi kidogo cha **$S_n$**. Jambo muhimu hapa ni kwamba hakuna mtu anayeweza kutofautisha kati ya sampuli kutoka $S$ na $S'$, hata ukichukua nyingi kati yao.
 
 Tuseme, kwa mfano, tofauti ya nasibu $S$. Seti yake ya matokeo ni **$S_{256}$**, hii ni seti ya nyuzi jozi zote za urefu wa 256. Seti hii ina $2^{256}$ Elements. Kila kipengele kina uwezekano sawa wa uteuzi, $1/2^{256}$, baada ya sampuli.
 
@@ -564,13 +564,13 @@ Kwa kuongeza, tuseme kigezo cha nasibu $S'$. Seti yake ya matokeo inajumuisha tu
 
 Tuseme kwamba sasa nilichukua 1000 za sampuli kutoka $S$ na 1000 za sampuli kutoka $S'$ na kukupa seti mbili za matokeo. Ninakuambia ni seti gani ya matokeo inahusishwa na kutofautisha bila mpangilio. Ifuatayo, mimi huchukua sampuli kutoka kwa moja ya anuwai mbili za nasibu. Lakini wakati huu sikuambii ni sampuli gani isiyo ya kawaida. Ikiwa $S'$ zilikuwa pseudorandom, basi wazo ni kwamba uwezekano wako wa kufanya nadhani sahihi ya ni kigezo kipi nilichotoa sampuli sio bora kuliko $1/2$.
 
-Kwa kawaida, mfuatano wa uwongo wa urefu wa $n$ unatolewa kwa kuchagua bila mpangilio mfuatano wa ukubwa $n - x$, ambapo $x$ ni nambari kamili chanya, na kuitumia kama kiingizio cha algoriti ya upanuzi. Mfuatano huu wa nasibu wa ukubwa $n – x$ unajulikana kama **seed**.
+Kwa kawaida, Mfuatano wa nasibu-bandia wa urefu wa $n$ unatolewa kwa kuchagua bila mpangilio mfuatano wa ukubwa $n - x$, ambapo $x$ ni nambari kamili chanya, na kuitumia kama kiingizio cha algoriti ya upanuzi. Mfuatano huu wa nasibu wa ukubwa $n – x$ unajulikana kama **seed**.
 
-Kamba za uwongo ni dhana kuu ya kufanya usimbaji fiche kuwa wa vitendo. Fikiria, kwa mfano, misimbo ya mtiririko. Kwa msimbo wa mtiririko, ufunguo uliochaguliwa kwa nasibu huchomekwa kwenye algoriti ya upanuzi ili kutoa mfuatano mkubwa zaidi wa uwongo. Mfuatano huu wa uwongo kisha unaunganishwa na maandishi wazi kupitia utendakazi wa XOR ili kutoa maandishi ya siri.
+Mfuatano wa nasibu-bandia ni dhana kuu ya kufanya  fiche kuwa wa vitendo. Fikiria, kwa mfano, misimbo ya mtiririko. Kwa msimbo wa mtiririko, ufunguo uliochaguliwa kwa nasibu huchomekwa kwenye algoriti ya upanuzi ili kutoa mfuatano mkubwa zaidi wa uwongo. Mfuatano huu wa uwongo kisha unaunganishwa na maandishi wazi kupitia utendakazi wa XOR ili kutoa maandishi ya siri.
 
-Iwapo hatukuweza kutoa aina hii ya mfuatano wa uwongo kwa msimbo wa mtiririko, basi tungehitaji ufunguo ambao ni mrefu kama ujumbe kwa usalama wake. Hii sio chaguo la vitendo sana katika hali nyingi.
+Iwapo hatukuweza kutoa aina hii ya Mfuatano wa nasibu-bandia kwa msimbo wa mtiririko, basi tungehitaji ufunguo ambao ni mrefu kama ujumbe kwa usalama wake. Hii sio chaguo la vitendo sana katika hali nyingi.
 
-Dhana ya uwongo iliyojadiliwa katika sehemu hii inaweza kufafanuliwa rasmi zaidi. Pia inaenea kwa miktadha mingine. Lakini hatuhitaji kuingia kwenye mjadala huo hapa. Unachohitaji kuelewa kwa angavu kwa sehemu kubwa ya kriptografia ni tofauti kati ya kamba ya nasibu na pseudorandom. [2]
+Dhana ya nasibu-bandia inayojadiliwa katika sehemu hii inaweza kufafanuliwa kwa njia rasmi zaidi. Pia inaenea kwa miktadha mingine. Lakini hatuhitaji kuingia kwenye mjadala huo hapa. Unachohitaji kuelewa kwa angavu kwa sehemu kubwa ya kriptografia ni tofauti kati ya kamba ya nasibu na pseudorandom. [2]
 
 Sababu ya kuacha tofauti kati ya "nasibu" na "sare" katika mjadala wetu inapaswa pia kuwa wazi. Kwa mazoezi, kila mtu hutumia neno pseudorandom kuashiria mfuatano unaoonekana **kana kwamba** ni matokeo ya kuchukua sampuli ya kigezo kimoja $S$. Kwa kusema kweli, tunapaswa kuita mfuatano kama huo "sare ya uwongo," tukitumia lugha yetu kutoka hapo awali. Kwa vile neno "pseudo-uniform" ni fujo na halitumiwi na mtu yeyote, hatutalitambulisha hapa kwa uwazi. Badala yake, tunaacha tu tofauti kati ya "nasibu" na "sare" katika muktadha wa sasa.
 
@@ -594,7 +594,7 @@ ___
 
 Unaweza kubainisha **nadharia ya nambari** kama somo la sifa za nambari kamili na utendaji wa hisabati unaofanya kazi na nambari kamili.
 
-Fikiria, kwa mfano, kwamba nambari zozote mbili $a$ na $N$ ni **coprimes** (au **primes**) ikiwa kigawanyo chao kikubwa zaidi ni sawa na 1. Tuseme sasa nambari kamili $N$. Je, ni tarakimu ngapi ndogo zaidi ya $N$ ambazo ni nakala zilizo na $N$? Je, tunaweza kutoa kauli za jumla kuhusu majibu ya swali hili? Hizi ni aina za kawaida za maswali ambayo nadharia ya nambari hutafuta kujibu.
+Fikiria, kwa mfano, kwamba nambari zozote mbili $a$ na $N$ ni **coprimes** (au **relative primes**) ikiwa kigawanyo chao kikubwa zaidi ni sawa na 1. Tuseme sasa nambari kamili $N$. Je, ni tarakimu ngapi ndogo zaidi ya $N$ ambazo ni nakala zilizo na $N$? Je, tunaweza kutoa kauli za jumla kuhusu majibu ya swali hili? Hizi ni aina za kawaida za maswali ambayo nadharia ya nambari hutafuta kujibu.
 
 Nadharia ya kisasa ya nambari inategemea zana za algebra ya kufikirika. Sehemu ya **aljebra abstract** ni taaluma ndogo ya hisabati ambapo vitu vikuu vya uchanganuzi ni vitu dhahania vinavyojulikana kama miundo ya aljebra. **muundo wa aljebra** ni seti ya Elements iliyounganishwa na operesheni moja au zaidi, ambayo hukutana na axioms fulani. Kupitia miundo ya aljebra, wanahisabati wanaweza kupata maarifa kuhusu matatizo mahususi ya hisabati, kwa kujiondoa kutoka kwa maelezo yao.
 
@@ -614,7 +614,7 @@ Mfano mwingine wa seti ni $\mathbb{Z} \mod 11$, au seti ya nambari zote modulo 1
 
 Kosa la kawaida ni kufikiria kuwa seti ya $\mathbb{Z} \mod 11$ ni $\{-10, -9, \ldets, 0, \ldets, 9, 10\}$. Lakini hii sivyo, kwa kuzingatia jinsi tulivyofafanua operesheni ya modulo hapo awali. Nambari kamili hasi zilizopunguzwa na modulo ya 11 kwenye $\{0, 1, \ldets, 9, 10\}$. Kwa mfano, usemi $-2 \mod 11$ unakaribia kufikia $9$, huku usemi $-27 \mod 11$ ukikaribia $5$.
 
-Dhana nyingine ya msingi katika hisabati ni ile ya operesheni ya binary. Hii ni operesheni yoyote ambayo inachukua mbili Elements kutoa ya tatu. Kwa mfano, kutoka kwa hesabu za kimsingi na aljebra, ungefahamu shughuli nne za kimsingi za mfumo wa jozi: kujumlisha, kutoa, kuzidisha na kugawanya.
+Dhana nyingine ya msingi katika hisabati ni ile ya operesheni ya binary. Hii ni operesheni yoyote ambayo inachukua  Elements mbili kutoa ya tatu. Kwa mfano, kutoka kwa hesabu za kimsingi na aljebra, ungefahamu shughuli nne za kimsingi za mfumo wa jozi: kujumlisha, kutoa, kuzidisha na kugawanya.
 
 Dhana hizi mbili za msingi za hisabati, seti na uendeshaji wa mfumo wa jozi, hutumiwa kufafanua dhana ya kikundi, muundo muhimu zaidi katika aljebra ya kufikirika.
 
