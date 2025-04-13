@@ -82,7 +82,7 @@ Maneno na misemo husisitizwa kupitia italiki. Kwa mfano, neno "Kumbuka nenosiri 
 Nukuu rasmi inahusu vigeu, vigeu vya nasibu, na seti.
 
 
-- Vigeu: Kawaida hivi huonyeshwa kwa herufi ndogo (k.m., "x" au "y"). Wakati mwingine huwa na herufi kubwa kwa uwazi (k.m., "M" au "K").
+* Vigeu: Kawaida hivi huonyeshwa kwa herufi ndogo (k.m., "x" au "y"). Wakati mwingine huwa na herufi kubwa kwa uwazi (k.m., "M" au "K").
 - Vigezo vya nasibu: Hizi huonyeshwa kila mara kwa herufi kubwa (k.m., "X" au "Y").
 - Seti: Hizi huonyeshwa kila mara kwa herufi kubwa, kubwa (k.m., **S**)
 
@@ -144,25 +144,25 @@ Tofauti muhimu ya kukumbuka ni, kwa hivyo, kati ya **mpango wa usimbaji fiche** 
 
 Mandhari ya uadilifu na uhalisi ni muhimu kama usiri. Mifumo yetu ya kisasa ya mawasiliano isingeweza kufanya kazi bila hakikisho kuhusu uadilifu na uhalisi wa mawasiliano. Kutokataa pia ni jambo muhimu sana, kama vile mikataba ya kidijitali, lakini haihitajiki sana katika utumizi wa kriptografia kuliko usiri, uadilifu na uhalisi.
 
-Pili, mifumo ya usimbaji fiche ya kitambo kama vile misimbo ya Beale kila mara inahusisha ufunguo mmoja ambao ulishirikiwa kati ya wahusika wote husika. Hata hivyo, mipango mingi ya kisasa ya kriptografia inahusisha si moja tu, lakini funguo mbili: ** faragha ** na ** ufunguo wa umma **. Ingawa ya kwanza inapaswa kubaki ya faragha katika maombi yoyote, ya pili kwa kawaida ni maarifa ya umma (kwa hivyo, majina yao husika). Katika nyanja ya usimbaji fiche, ufunguo wa umma unaweza kutumika kusimba ujumbe, huku ufunguo wa faragha unaweza kutumika kusimbua.
+Pili, mifumo ya usimbaji fiche ya kitambo kama vile misimbo ya Beale kila mara inahusisha ufunguo mmoja ambao ulishirikiwa kati ya wahusika wote husika. Hata hivyo, mipango mingi ya kisasa ya kriptografia inahusisha si moja tu, lakini funguo mbili: **Funguo ya faragha** na **Funguo ya hadharani**. Ingawa ya kwanza inapaswa kubaki ya faragha katika maombi yoyote, ya pili kwa kawaida ni maarifa ya umma (kwa hivyo, majina yao husika). Katika nyanja ya usimbaji fiche, ufunguo wa umma unaweza kutumika kusimba ujumbe, huku ufunguo wa faragha unaweza kutumika kusimbua.
 
-Tawi la kriptografia linaloshughulika na mipango ambapo wahusika wote hushiriki ufunguo mmoja hujulikana kama **simetriki kriptografia**. Kitufe kimoja katika mpango kama huo kawaida huitwa **ufunguo wa faragha** (au ufunguo wa siri). Tawi la kriptografia ambalo linashughulika na mipango inayohitaji jozi ya ufunguo wa faragha-umma inajulikana kama **usimeta wa ulinganifu**. Matawi haya wakati mwingine pia hujulikana kama **ufunguo wa siri wa ufunguo wa kibinafsi** na **usimbuaji wa ufunguo wa umma**, mtawalia (ingawa hii inaweza kuibua mkanganyiko, kwani mifumo ya ufunguo wa siri ya ufunguo wa umma pia ina funguo za faragha).
+Tawi la kriptografia linaloshughulika na mipango ambapo wahusika wote hushiriki ufunguo mmoja hujulikana kama **symmetric cryptography**. Kitufe kimoja katika mpango kama huo kawaida huitwa **private key** (au ufunguo wa siri). Tawi la kriptografia ambalo linashughulika na mipango inayohitaji jozi ya ufunguo wa faragha-umma inajulikana kama **asymmetric cryptography**. Matawi haya wakati mwingine pia hujulikana kama **Kriptografia ya funguo ya faragha** na **usimbuaji wa ufunguo wa umma**, mtawalia (ingawa hii inaweza kuibua mkanganyiko, kwani mifumo ya ufunguo wa siri ya ufunguo wa umma pia ina funguo za faragha).
 
 Ujio wa cryptography asymmetric mwishoni mwa miaka ya 1970 imekuwa moja ya matukio muhimu zaidi katika historia ya cryptography. Bila hivyo, mifumo yetu mingi ya kisasa ya mawasiliano, ikijumuisha Bitcoin, isingewezekana, au angalau isingewezekana sana.
 
-Muhimu zaidi, usimbaji fiche wa kisasa si somo la kipekee la miundo ya kriptografia ya ulinganifu na assymetric (ingawa hiyo inashughulikia sehemu kubwa). Kwa mfano, usimbaji fiche pia unahusika na chaguo za kukokotoa za Hash na jenereta za nambari za uwongo, na unaweza kuunda programu kwenye viasili hivi ambavyo havihusiani na ulinganifu wa ufunguo wa assymetric.
+Muhimu zaidi, usimbaji fiche wa kisasa si somo la kipekee la miundo ya kriptografia ya ulinganifu na assymetric (ingawa hiyo inashughulikia sehemu kubwa). Kriptografia pia inahusiana na kazi za hash (hash functions) na vizalishaji vya namba zisizotabirika, na unaweza kuunda programu kwenye viasili hivi ambavyo havihusiani na ulinganifu wa ufunguo wa assymetric.
 
-Tatu, mbinu za usimbaji fiche za kitambo, kama zile zinazotumiwa katika maandishi ya Beale, zilikuwa za sanaa zaidi kuliko sayansi. Usalama wao unaotambulika uliegemezwa sana na mawazo kuhusu ugumu wao. Kwa kawaida wangetiwa viraka wakati shambulio jipya kwao lilipojulikana, au kuachwa kabisa ikiwa shambulio hilo lilikuwa kali sana. Fiche za kisasa, hata hivyo, ni sayansi kali yenye mbinu rasmi, ya kihisabati ya kuendeleza na kuchambua mifumo ya kriptografia. [5]
+Tatu, mbinu za usimbaji fiche za kitambo, kama zile zinazotumiwa katika maandishi ya Beale, zilikuwa za sanaa zaidi kuliko sayansi. Usalama wao unaotambulika uliegemezwa sana na mawazo kuhusu ugumu wao. Kwa kawaida wangetiwa viraka wakati shambulio jipya kwao lilipojulikana, au kuachwa kabisa ikiwa shambulio hilo lilikuwa kali sana. Hata hivyo, kriptografia ya kisasa ni sayansi makini inayotumia mbinu rasmi za kihisabati katika kubuni na kuchambua mbinu za usimbaji fiche
 
 Hasa, vituo vya kisasa vya usimbaji fiche huzingatia **uthibitisho rasmi wa usalama**. Uthibitisho wowote wa usalama wa mpango wa kriptografia unaendelea katika hatua tatu:
 
-1. Taarifa ya **ufafanuzi wa siri wa usalama**, yaani, malengo ya usalama na tishio linaloletwa na mshambuliaji.
+1. Kwa namna ya kipekee, kriptografia ya kisasa hujikita katika **ushahidi rasmi wa usalama**. Kila ushahidi wa usalama wa mbinu ya usimbaji fiche hufuata hatua tatu:
 
 2. Taarifa ya mawazo yoyote ya hisabati kuhusiana na utata wa kimahesabu wa mpango. Kwa mfano, mpango wa kriptografia unaweza kuwa na jenereta ya nambari ya uwongo. Ingawa hatuwezi kuthibitisha haya yapo, tunaweza kudhani kuwa yapo.
 
 3. Ufafanuzi wa kihisabati **uthibitisho wa usalama** wa mpango kwa misingi ya dhana rasmi ya usalama na mawazo yoyote ya kihisabati.
 
-Nne, ilhali usimbaji fiche wa kihistoria ulitumiwa kimsingi katika mazingira ya kijeshi, umekuja kupenyeza shughuli zetu za kila siku katika enzi ya kidijitali. Iwe unafanya benki mtandaoni, unachapisha kwenye mitandao ya kijamii, unanunua bidhaa kutoka Amazon ukitumia kadi yako ya mkopo, au unamdokezea rafiki Bitcoin, cryptography ni sine qua non ya enzi yetu ya kidijitali.
+Jambo la nne, ingawa awali kriptografia ilitumiwa hasa katika mazingira ya kijeshi, sasa imejikita katika shughuli zetu za kila siku katika zama za kidijitali. Iwe unafanya benki mtandaoni, unapochapisha kwenye mitandao ya kijamii, kununua bidhaa kutoka Amazon kwa kadi yako ya mkopo, au kumlipa rafiki yako kwa bitcoin, kriptografia ni kipengele muhimu katika zama zetu za kidijitali..
 
 Kwa kuzingatia vipengele hivi vinne vya usimbaji fiche wa kisasa, tunaweza kubainisha **cryptography** ya kisasa kama sayansi inayohusika na ukuzaji na uchanganuzi rasmi wa mifumo ya kriptografia ili kupata taarifa za kidijitali dhidi ya mashambulizi ya wapinzani. [6] Usalama hapa unapaswa kueleweka kwa mapana kama kuzuia mashambulizi ambayo yanaharibu usiri, uadilifu, uthibitishaji, na/au kutokataliwa katika mawasiliano.
 
@@ -220,9 +220,9 @@ Sehemu inayofuata inahusika na nadharia ya nambari, ambayo ni ngumu zaidi.
 
 Tofauti nasibu kawaida huonyeshwa kwa herufi kubwa isiyokolea. Kwa hivyo, kwa mfano, tunaweza kuzungumza kuhusu kigezo cha nasibu $X$, kigezo cha nasibu $Y$, au kigezo cha nasibu $Z$. Hii ndio nukuu nitakayotumia pia kutoka hapa kuendelea.
 
-** Tofauti nasibu** inaweza kuchukua thamani mbili au zaidi zinazowezekana, kila moja ikiwa na uwezekano fulani chanya. Thamani zinazowezekana zimeorodheshwa katika **seti ya matokeo**.
+**Tofauti nasibu** inaweza kuchukua thamani mbili au zaidi zinazowezekana, kila moja ikiwa na uwezekano fulani chanya. Thamani zinazowezekana zimeorodheshwa katika **seti ya matokeo**.
 
-Kila wakati ** sampuli ** ya kutofautisha bila mpangilio, unachora thamani fulani kutoka kwa matokeo yake yaliyowekwa kulingana na uwezekano uliobainishwa.
+Kila wakati **sampuli** ya kutofautisha bila mpangilio, unachora thamani fulani kutoka kwa matokeo yake yaliyowekwa kulingana na uwezekano uliobainishwa.
 
 Wacha tugeuke kwa mfano rahisi. Tuseme mabadiliko ya X ambayo yanafafanuliwa kama ifuatavyo:
 
@@ -273,13 +273,13 @@ Vigezo vya nasibu vinaweza kuwa na ugawaji wa uwezekano wa kipekee au unaoendele
 
 **Vigeu vinavyoendelea bila mpangilio** vinaweza kuchukua thamani katika kipindi kimoja au zaidi. Unaweza kusema, kwa mfano, kwamba mabadiliko ya nasibu, baada ya sampuli, itachukua thamani yoyote halisi kati ya 0 na 1, na kwamba kila nambari halisi katika muda huu ina uwezekano sawa. Ndani ya muda huu, kuna maadili yanayowezekana kabisa.
 
-Kwa mijadala ya kriptografia, utahitaji tu kuelewa tofauti tofauti za nasibu. Majadiliano yoyote ya vigeu vya nasibu kutoka hapa kuendelea, kwa hivyo, yanapaswa kueleweka kama yanarejelea viwezo tofauti vya nasibu, isipokuwa kama ilivyoelezwa vinginevyo.
+Kwa mijadala ya kriptografia, utahitaji tu kuelewa tofauti za nasibu. Majadiliano yoyote ya vigeu vya nasibu kutoka hapa kuendelea, kwa hivyo, yanapaswa kueleweka kama yanarejelea viwezo tofauti vya nasibu, isipokuwa kama ilivyoelezwa vinginevyo.
 
 ### Kuchora vigeu vya nasibu
 
 Thamani zinazowezekana na uwezekano unaohusishwa wa utofautishaji nasibu unaweza kuonyeshwa kwa urahisi kupitia grafu. Kwa mfano, zingatia utofauti wa nasibu $X$ kutoka sehemu iliyotangulia na seti ya matokeo ya $\{1, 2\}$, na $Pr [X = 1] = 0.5$ na $Pr [X = 2] = 0.5$. Kwa kawaida tungeonyesha tofauti nasibu katika umbo la grafu ya upau kama ilivyo katika *Mchoro 1*.
 
-*Kielelezo cha 1: Tofauti isiyo ya kawaida X*
+*Kielelezo cha 1:*Kigezo cha bahati nasibu*
 
 ![Figure 1: Random variable X.](assets/Figure2-1.webp)
 
