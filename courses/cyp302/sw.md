@@ -830,7 +830,8 @@ Katika cryptography, tunavutiwa pia na sehemu za upanuzi, haswa sehemu zozote zi
 
 Kuanza, ni kweli kwamba seti yoyote ya nambari kamili iliyo na $2^m$ Elements inaweza kupewa waendeshaji wawili ambao wangefanya mchanganyiko wao kuwa sehemu (ilimradi $m$ ni nambari kamili chanya). Walakini, kwa sababu uwanja upo haimaanishi kuwa ni rahisi kugundua au ni rahisi sana kwa matumizi fulani.
 
-Inavyobainika, sehemu za kiendelezi zinazotumika za $2^m$ katika usimbaji fiche ni zile zinazofafanuliwa juu ya seti fulani za semi za aina nyingi, badala ya seti fulani ya nambari kamili.
+
+Inavyodhihirika, viwanja vilivyopanuliwa vya $2^m$ vinavyotumika zaidi katika usimbaji fiche ni vile vinavyofafanuliwa juu ya seti maalum za misemo ya polinomiali, badala ya seti fulani ya nambari kamili
 
 Kwa mfano, tuseme kwamba tulitaka sehemu ya kiendelezi yenye $2^3$ (yaani, 8) Elements katika seti. Ingawa kunaweza kuwa na seti nyingi tofauti zinazoweza kutumika kwa sehemu za ukubwa huo, seti moja kama hiyo inajumuisha polynomia zote za kipekee za fomu $a_2x^2 + a_1x + a_0$, ambapo kila mgawo $a_i$ ni 0 au 1. Kwa hivyo, seti hii **S** inajumuisha Elements ifuatayo:
 
@@ -859,7 +860,7 @@ Operesheni ya kwanza kwenye seti **S** ($\circ$) inaweza kufafanuliwa kama modul
 - $[(x^2 + x) + (x)] \mod 2 = [x^2 + 2x] \mod 2 = x^2$
 - $[(x + 1) + (x^2 + x + 1)] \mod 2 = [x^2 + 2x + 2] \mod 2 = x^2 + 1$
 
-Operesheni ya pili kwenye seti **S** ($\diamond$) ambayo inahitajika kwa kuunda shamba ni ngumu zaidi. Ni aina ya kuzidisha, lakini sio kuzidisha kawaida kutoka kwa hesabu. Badala yake, lazima uone kila kipengele kama vekta na uelewe operesheni kama kuzidisha kwa vekta hizo mbili modulo polynomial isiyoweza kurekebishwa.
+Operesheni ya pili kwenye seti S inayowakilishwa na ⋄, ambayo inahitajika ili kuunda uga (field), ni tata zaidi Ni aina ya kuzidisha, lakini sio kuzidisha kawaida kutoka kwa hesabu. Badala yake, lazima uone kila kipengele kama vekta na uelewe operesheni kama kuzidisha kwa vekta hizo mbili modulo polynomial isiyoweza kurekebishwa.
 
 Hebu kwanza tugeuke kwenye wazo la polynomial isiyoweza kupunguzwa. **polynomia isiyoweza kupunguzwa** ni ile ambayo haiwezi kuhesabiwa (kama vile nambari kuu haiwezi kujumuishwa katika vijenzi vingine zaidi ya 1 na nambari kuu yenyewe). Kwa madhumuni yetu, tunavutiwa na polynomials ambazo haziwezi kupunguzwa kwa heshima na seti ya nambari zote. (Kumbuka kwamba unaweza kuangazia polima fulani kwa, kwa mfano, nambari halisi au changamano, hata kama huwezi kuzihesabu kwa kutumia nambari kamili.)
 
@@ -873,7 +874,7 @@ Hata hivyo, sasa zingatia usemi $x^4 + x + 1 \mod x^5 + x^2$. Hii haipunguzi zai
 
 Kwa msingi wa maelezo haya, sasa tuko tayari kupata operesheni yetu ya pili ya seti $\{0, 1, x, x + 1, x^2, x^2 + 1, x^2 + x, x^2 + x + 1\}$.
 
-Tayari nimesema kwamba operesheni ya pili inapaswa kueleweka kama modulo ya kuzidisha vekta baadhi ya polynomial irreducible. Polynomia hii isiyoweza kupunguzwa inapaswa kuhakikisha kuwa operesheni ya pili inafafanua kikundi cha Abelian juu ya **S** na inaambatana na hali ya usambazaji. Kwa hivyo hiyo polynomial irreducible inapaswa kuwa nini?
+Tayari nimesema kwamba operesheni ya pili inapaswa kueleweka kama modulo ya kuzidisha vekta baadhi ya polynomial isiyoweza kupunguzwa. Polynomia hii isiyoweza kupunguzwa inapaswa kuhakikisha kuwa operesheni ya pili inafafanua kikundi cha Abelian juu ya **S** na inaambatana na hali ya usambazaji. Kwa hivyo hiyo polynomial irreducible inapaswa kuwa nini?
 
 Kwa vile vekta zote katika seti ni za digrii 2 au chini, polimanomia isiyoweza kurekebishwa inapaswa kuwa ya shahada ya 3. Ikiwa kuzidisha yoyote kwa vekta mbili katika seti kutatoa polimanomia ya digrii 3 au zaidi, tunajua kwamba modulo ya upolinomia ya shahada ya 3 daima hutoa polynomial ya digrii 2 au chini zaidi. Hii ndivyo hali ilivyo kwa sababu polimanomia yoyote ya shahada ya 3 au zaidi daima inaweza kugawanywa na aina nyingi za shahada ya 3. Kwa kuongezea, ile polynomia inayofanya kazi kama kigawanyiko lazima isiweze kupunguzwa.
 
@@ -899,7 +900,7 @@ Kuanza, unaweza kuona kwamba usemi $x^3 + x + 1$ huenda katika $x^4 + x^3 + x^2 
 
 Kwa hivyo baada ya kugawanya $x^4 + x^3 + x^2 + x$ kwa $x^3 + x + 1$ jumla ya mara $x$, tuna salio la $x^3$. Je, hii inaweza kugawanywa zaidi kwa $x^3 + x + 1$?
 
-Intuitively, inaweza kuvutia kusema kwamba $x^3$ haiwezi tena kugawanywa kwa $x^3 + x + 1$, kwa sababu neno la mwisho linaonekana kuwa kubwa. Walakini, kumbuka mjadala wetu juu ya mgawanyiko wa vekta hapo awali. Ilimradi mgao una digrii kubwa zaidi au sawa na kigawanyaji, usemi unaweza kupunguzwa zaidi. Hasa, usemi $x^3 + x + 1$ unaweza kuingia katika $x^3$ mara 1 haswa. Salio imehesabiwa kama ifuatavyo:
+Kwa intuisia, inaweza kuvutia kusema kwamba $x^3$ haiwezi tena kugawanyika kwa $x^3 + x + 1$, kwa sababu neno la pili linaonekana kuwa kubwa zaidi. Hata hivyo, kumbuka mjadala wetu wa awali kuhusu mgawanyo wa vector. Mradi tu kiwango cha dividend ni kikubwa au sawa na cha divisor, usemi huo unaweza kupunguzwa zaidi. Haswa, usemi $x^3 + x + 1$ unaweza kugawanyika kwenye $x^3$ mara moja kamili. Baki (remainder) huhesabiwa kama ifuatavyo:
 
 $$
 [(x^3) - (x^3 + x + 1)] \mod x^3 + x + 1 = [x + 1] \mod x^3 + x + 1 = x + 1
