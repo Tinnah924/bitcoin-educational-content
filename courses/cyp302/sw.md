@@ -986,13 +986,13 @@ Tunaweza kufafanua kwa urahisi **mpango wa usimbaji linganifu** kama mpango wowo
 
 1. **algorithm ya kutengeneza ufunguo**, ambayo hutoa ufunguo wa faragha.
 
-2. ** algoriti ya usimbaji fiche**, ambayo huchukua ufunguo wa faragha na maandishi wazi kama ingizo na kutoa maandishi ya siri.
+2. **algoriti ya usimbaji fiche**, ambayo huchukua ufunguo wa faragha na maandishi wazi kama ingizo na kutoa maandishi ya siri.
 
 3. **algorithm ya kusimbua**, ambayo huchukua ufunguo wa faragha na maandishi ya siri kama pembejeo na kutoa maandishi asilia.
 
 Kwa kawaida mpango wa usimbaji fiche—iwe ulinganifu au ulinganifu—hutoa kiolezo cha usimbaji fiche kulingana na kanuni msingi, badala ya vipimo kamili.
 
-Kwa mfano, fikiria Salsa20, mpango wa usimbaji fiche linganifu. Inaweza kutumika kwa urefu wa vitufe vya 128- na 256-bit. Chaguo kuhusu urefu wa ufunguo huathiri baadhi ya maelezo madogo ya algoriti (idadi ya miduara katika algoriti iwe kamili).
+Kwa mfano, fikiria Salsa20, mpango wa usimbaji fiche linganifu. Inaweza kutumika kwa urefu wa vitufe vya 128-bit na 256-bit. Chaguo kuhusu urefu wa ufunguo huathiri baadhi ya maelezo madogo ya algoriti (idadi ya miduara katika algoriti iwe kamili).
 
 Lakini mtu hawezi kusema kwamba kutumia Salsa20 na ufunguo wa 128-bit ni mpango tofauti wa usimbuaji kuliko Salsa20 na ufunguo wa 256-bit. Algorithm ya msingi inakaa sawa. Ni wakati tu kanuni ya msingi inabadilika ndipo tunaweza kusema kuhusu mifumo miwili tofauti ya usimbaji fiche.
 
@@ -1006,11 +1006,11 @@ Unaweza kuona taswira ya hali (2) katika *Mchoro 2* hapa chini. Bob anataka kuwa
 
 Bob husimba ujumbe kwa njia fiche $M$ kwa wakati mmoja $T_0$ kwa ufunguo $K$ ili kutoa maandishi ya siri $C$. Kwa wakati $T_1$ anahitaji ujumbe tena, na anaondoa maandishi ya siri $C$ kwa ufunguo $K$. Mshambulizi yeyote ambaye huenda alipata maandishi ya siri $C$ wakati huo huo hakupaswa kupata chochote muhimu kuhusu $M$ kutoka kwayo.
 
-*Kielelezo 1: Usiri katika nafasi*
+**Kielelezo 1: Usiri katika nafasi**
 
 ![Figure 1: Secrecy across space](assets/Figure4-1.webp "Figure 1: Secrecy across space")
 
-*Kielelezo 2: Usiri kwa wakati wote*
+**Kielelezo 2: Usiri kwa wakati wote**
 
 ![Figure 2: Secrecy across time](assets/Figure4-2.webp "Figure 2: Secrecy across time")
 
@@ -1044,7 +1044,7 @@ Hadi miaka ya 1700, utumizi mwingi wa usimbaji fiche uliegemea pakubwa sipheri m
 
 Kumbuka kuwa utakutana na neno **cipher** sana katika usimbaji fiche. Fahamu kuwa neno hili lina maana mbalimbali. Kwa kweli, ninajua angalau maana tano tofauti za neno hilo ndani ya cryptography.
 
-Katika baadhi ya matukio inarejelea mpango wa usimbaji fiche, kama inavyofanya katika Shift cipher na monoalfabeti badala ya cipher. Hata hivyo, neno hili pia linaweza kurejelea mahususi algoriti ya usimbaji, ufunguo wa faragha, au maandishi ya siri ya mpango wowote kama huo wa usimbaji.
+Katika baadhi ya matukio inarejelea mpango wa usimbaji fiche, kama inavyofanya bitcipher na monoalfabeti badala ya cipher. Hata hivyo, neno hili pia linaweza kurejelea mahususi algoriti ya usimbaji, ufunguo wa faragha, au maandishi ya siri ya mpango wowote kama huo wa usimbaji.
 
 Mwishowe, neno cipher pia linaweza kurejelea algoriti ya msingi ambayo unaweza kuunda mifumo ya kriptografia. Hizi zinaweza kujumuisha algoriti mbalimbali za usimbaji fiche, lakini pia aina nyingine za mifumo ya kriptografia. Maana hii ya neno inakuwa muhimu katika muktadha wa herufi za kuzuia (ona sehemu ya “Block Ciphers” hapa chini).
 
