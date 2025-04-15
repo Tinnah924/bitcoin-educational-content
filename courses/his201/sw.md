@@ -109,7 +109,7 @@ Kwa karne nyingi, mbinu pekee ya kuficha maudhui ya ujumbe ilihusisha aina ya us
 
 Ili kutatua tatizo hili, kriptografia ya *asymmetric*, inayojulikana pia kama kriptografia ya ufunguo wa umma, iliundwa. Inategemea funguo mbili tofauti: ufunguo wa faragha, ambao unapaswa kubaki siri, na ufunguo wa umma, unaotokana na ufunguo wa faragha. Kinadharia, ufunguo wa faragha hauwezi kupatikana kwa urahisi kutoka kwa ufunguo wa umma, ambayo ina maana ya mwisho inaweza kushirikiwa na kila mtu bila wasiwasi.
 
-Aina hii ya kriptografia inaruhusu utekelezaji wa algoriti zote mbili za usimbaji fiche na michakato ya saini. Usimbaji fiche usiolinganishwa unahusisha kutumia ufunguo wa umma kama ufunguo wa usimbaji fiche na ufunguo wa faragha kama ufunguo wa kusimbua. Mtumiaji hutengeneza jozi ya funguo, huweka ufunguo wa faragha, na kushiriki ufunguo wa umma na waandishi wao ili waweze kutuma ujumbe. Aina hii ya usimbaji fiche ni sawa na kisanduku cha barua ambacho mpokeaji hutumia kupokea barua na ambaye yeye pekee ndiye ana ufunguo.
+Aina hii ya cryptography inaruhusu utekelezaji wa algoriti zote mbili za usimbaji fiche na michakato ya saini. Usimbaji fiche usiolinganishwa unahusisha kutumia ufunguo wa umma kama ufunguo wa usimbaji fiche na ufunguo wa faragha kama ufunguo wa kusimbua. Mtumiaji hutengeneza jozi ya funguo, huweka ufunguo wa faragha, na kushiriki ufunguo wa umma na waandishi wao ili waweze kutuma ujumbe. Aina hii ya usimbaji fiche ni sawa na kisanduku cha barua ambacho mpokeaji hutumia kupokea barua na ambaye yeye pekee ndiye ana ufunguo.
 
 ![Asymmetric encryption](assets/en/01.webp)
 
