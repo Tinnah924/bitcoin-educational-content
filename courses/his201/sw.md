@@ -99,7 +99,7 @@ Wacha tuanze na wazo la kwanza, eCash. eCash inatokana na kazi ya David Chaum, m
 
 Kitendo cha David Chaum kilifuata mapinduzi ya dhana: kufunuliwa kwa kriptografia isiyolinganishwa mnamo 1976 na Whitfield Diffie na Martin Hellman. Wazo la sarafu ya kidijitali pia liliibuka kutokana na ugunduzi huu wa mwisho. Kando na kuficha habari iliyo katika ujumbe, usimbaji fiche usiolinganishwa uliruhusu kuanzishwa kwa michakato ya sahihi. Kwa hivyo iliwezekana kwa mtu kudhibitisha kihesabu kuwa alikuwa mmiliki wa kiasi fulani cha vitengo vya akaunti ya dijiti.
 
-Katika sura hii, tutasoma ni nini kriptografia isiyolinganishwa imechangia, jinsi David Chaum alivyoitumia kubuni eCash, na jinsi wazo lake lilivyotekelezwa baadaye.
+Katika sura hii, tutasoma ni cryptography isiyolinganishwa imechangia, jinsi David Chaum alivyoitumia kubuni eCash, na jinsi wazo lake lilivyotekelezwa baadaye.
 
 ### Kuibuka kwa Siri za Kisasa
 
