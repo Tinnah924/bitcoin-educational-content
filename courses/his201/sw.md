@@ -1,4 +1,4 @@
-gfgfbbf---
+---
 name: Historia ya Uumbaji wa Bitcoin
 goal: Gundua historia ya asili, uzinduzi na maendeleo ya mapema ya Bitcoin.
 objectives: 
