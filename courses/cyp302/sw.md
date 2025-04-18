@@ -1,8 +1,7 @@
-Christine 
+--- 
 name: Utangulizi wa Cryptography rasmi
 goal: Utangulizi wa kina wa sayansi na mazoezi ya kriptografia.
 objectives: 
-
   - Gundua misimbo ya Beale na mbinu za kisasa za kriptografia ili kuelewa dhana za kimsingi na za kihistoria za usimbaji fiche.
   - Chunguza katika nadharia ya nambari, vikundi, na nyuga ili kufahamu dhana muhimu za hisabati msingi wa kriptografia.
   - Soma msimbo wa mtiririko wa RC4 na AES kwa ufunguo wa 128-bit ili kupata maelezo kuhusu algoriti za kriptografia linganifu.
@@ -26,9 +25,8 @@ Utangulizi huu wa kriptografia unatafuta kunasa hali ya kati. Ingawa inapaswa ku
 
 <chapterId>bb8a8b73-7fb2-50da-bf4e-98996d79887b</chapterId>
 
-Kitabu hiki kinatoa utangulizi wa kina wa sayansi na mazoezi ya usimbaji fiche. Inapowezekana inazingatia dhana, badala ya ufafanuzi rasmi wa nyenzo.
+Kitabu hiki kinatoa utangulizi wa kina wa sayansi na mazoezi ya usimbaji fiche. Inapowezekana inazingatia dhana, badala ya ufafanuzi rasmi wa nyenzo. Kozi hii inatokana na [repo la JWBurgers](https://github.com/JWBurgers/An_Introduction_to_Cryptography). Sawa kwake. 
 
-> Kozi hii inatokana na [repo la JWBurgers](https://github.com/JWBurgers/An_Introduction_to_Cryptography). Sawa kwake. Yaliyomo bado hayajakamilika na ni hapa tu kuonyesha jinsi tunavyoweza kuiunganisha ikiwa JWburger itakubali.
 ### Motisha na malengo
 
 Ni vigumu kupata nyenzo nyingi ambazo hutoa msingi mzuri wa kati katika elimu ya cryptography.
@@ -82,7 +80,7 @@ Maneno na misemo husisitizwa kupitia italiki. Kwa mfano, neno "Kumbuka nenosiri 
 Nukuu rasmi inahusu vigeu, vigeu vya nasibu, na seti.
 
 
-* Vigeu: Kawaida hivi huonyeshwa kwa herufi ndogo (k.m., "x" au "y"). Wakati mwingine huwa na herufi kubwa kwa uwazi (k.m., "M" au "K").
+- Vigeu: Kawaida hivi huonyeshwa kwa herufi ndogo (k.m., "x" au "y"). Wakati mwingine huwa na herufi kubwa kwa uwazi (k.m., "M" au "K").
 - Vigezo vya nasibu: Hizi huonyeshwa kila mara kwa herufi kubwa (k.m., "X" au "Y").
 - Seti: Hizi huonyeshwa kila mara kwa herufi kubwa, kubwa (k.m., **S**)
 
