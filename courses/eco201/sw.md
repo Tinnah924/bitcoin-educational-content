@@ -16,7 +16,7 @@ Karibu kwenye kozi ya Théo Mogenet! Akiwa na shauku ya uchumi, historia, fasihi
 Mwelekeo huu wa kifikra tayari una karne kadhaa nyuma yake na una mandhari pana ya waandishi mbalimbali, mawazo, na wachumi nyuma yake. Majina makuu katika uchumi kama vile Hayek, Rothbard, Mises, Bastiat, au Menger wametetea harakati hii kwa muda mrefu. Kinyume na Ukenesia uliopo kila mahali wa siku zetu, shule ya Austria inamweka mtu nyuma katikati ya mlingano kwa njia ya huria zaidi, ya ubepari,Mtazamo wa uanarkia.
 
 +++
-# Utangulizi wa ECON
+# Utangulizi
 
 <partId>265aa8b0-dd89-5456-b72a-656e988013d5</partId>
 
