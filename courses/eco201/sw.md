@@ -30,18 +30,25 @@ Katika kozi hii inayotolewa na Théo Mogenet, utagundua tawi hili la uchumi amba
 
 Kwa zaidi ya miaka 200 ya utafiti na maendeleo, tafakari za kifalsafa, na maandishi ya waandishi mashuhuri, mbinu hii inasisitiza maono ya kina zaidi ya ukuaji na busara ya kibinadamu katika uchumi wetu.
 
-Kwa kweli, uchumi ni uwanja wa kijamii na ngumu sana, unaojumuisha maelfu ya watendaji wadogo waliounganishwa ambao kwa pamoja wanachangia kuunda umoja kamili. Badala ya kukaribia taaluma hii kupitia milinganyo ya hisabati, lazima tuielewe kutoka kwa mtazamo wa mantiki ya binadamu na sosholojia. 
-Katika kozi hii, tutachunguza dhana za kimsingi za uchumi wa Austria. Mwalimu wako, Théo Mogenet, ni profesa mwenye shauku na stadi wa uchumi wa Austria.
+Kwa kweli, uchumi ni uwanja wa kijamii na ngumu sana, unaojumuisha maelfu ya watendaji wadogo waliounganishwa ambao kwa pamoja wanachangia kuunda umoja kamili. Badala ya kukaribia taaluma hii kupitia milinganyo ya hisabati, lazima tuielewe kutoka kwa mtazamo wa mantiki ya binadamu na sosholojia.na utafiti wa michakato ya soko, badala ya muktadha madhubuti wa hesabu za kimaandishi
 
-Kuanza, tunakupa video ya bonasi ambayo itaeleza jinsi mfumo wetu wa sasa wa kifedha unavyofanya kazi. Utagundua jinsi benki za biashara na benki kuu zinavyoingiliana na kuendesha uchumi. Tutashiriki Address wahusika wakuu katika ulimwengu wetu wa kifedha na jinsi ujumuishaji huu wa mamlaka kati ya taasisi fulani za kiuchumi unaweza kusababisha matumizi mabaya na migogoro ya kifedha.
+Katika kozi hii, tutachunguza dhana za kimsingi za uchumi wa Austria. Mwalimu wako, Théo Mogenet, ni profesa mwenye shauku na stadi wa uchumi wa Austria ,
+Kuonyesha jinsi mawazo haya yanavyohusiana hasa na dunia ya Bitcoin
+**Sehemu ya 1: Utangulizi wa Uchumi wa Kiasheria wa Austria (ECON)**
+Tutaanza na utangulizi wa jumla kuhusu Uchumi wa Kiasheria wa Austria, tukichunguza asili yake ya kihistoria na misingi ya fikra zake. Sehemu hii pia inashughulikia dhana muhimu kama vile pesa, mikopo, benki, na benki kuu. Utapata kuelewa ni kwa nini taasisi hizi zinacheza jukumu kuu katika fikra za Kiasheria za Austria, hasa katika ukosoaji wao wa uingiliaji wa kifedha
 
-Katika sehemu ya pili ya kozi hii, tutachunguza tofauti kati ya Ukenesia na uchumi wa Austria, tukichunguza shule zao za fikra, mbinu za kutafakari, na zana wanazotumia kubainisha ukweli wa kiuchumi. Pia tutajifunza malezi ya migogoro ya kiuchumi. Je, ni kwa sababu ya kutokuwa na uwezo wa kibinadamu, ghiliba za soko, au furaha ya pamoja ya watu? Tutachunguza jinsi mizunguko yetu ya ukuaji, kushuka, kushuka kwa uchumi na enzi ya dhahabu inavyoundwa na hisia za wanadamu.
+**Sehemu ya 2: Misingi ya Kimaadhara**  
+Sehemu hii itachunguza dhana za kimsingi za Uchumi wa Austria, kama vile nadharia ya thamani ya kipekee, ambayo inaelezea kwa nini thamani ya bidhaa si ya kipekee bali inategemea manufaa yanayoonekana na kila mtu binafsi. Pia utaweza kugundua jinsi pesa zinavyojitokeza kwa asili kama tukio la kijamii, pamoja na dhana za upendeleo wa muda, riba, na mtaji ambazo ziko katikati ya nadharia ya soko huria ya Austria.
 
-Kozi hii itakuwa mchanganyiko wa uchumi na falsafa, na majadiliano ya wazi kati ya Théo na mimi. Ikiwa una maswali yoyote wakati wa kozi hii, usisite kuwauliza katika Discord yetu, ambayo utapata kiunga chake katika maelezo.
+**Sehemu ya 3: Mawaidha ya Uchumi ya Austria**  
+Hapa, tutachunguza matumizi ya vitendo ya nadharia ya Austria. Utaweza kujifunza kwa undani kuhusu Nadharia ya Mzunguko wa Biashara ya Austria, ambayo inaelezea jinsi manipulishe za kifedha zinavyosababisha ongezeko la uchumi bandia linalofuatiwa na kushuka kwa uchumi. Pia tutaona kwa nini hesabu za kiuchumi haiwezekani chini ya mfumo wa kijamaa na jinsi mbinu ya Austria, inayotokana na praksiolojia (ujenzi wa vitendo vya binadamu), inavyotoa njia ya kipekee na inayolingana ya kuelewa matukio ya kiuchumi.
+
+Kozi hii ni mchanganyiko wa uchumi na falsafa, inayoongozwa na majadiliano ya wazi kati ya Théo na mimi (Rogzy). Ningependa kumshukuru kwa dhati Théo Mogenet kwa kuunda kozi hii. Tulifurahi sana kukuza maudhui haya, ambayo yameundwa kuwa rahisi kwa kila mtu kuelewa. Kozi hii inatoa utangulizi muhimu na itatoa msingi wa moduli zetu zijazo za uchumi zinazohitaji ufanisi zaidi..
 
 Ninamshukuru Théo kwa uchangamfu kwa kuandaa kozi hii, na ninatumai atakuwa mwalimu bora kwako. Tulikuwa na furaha nyingi kuunda maudhui haya. Kozi hii inapatikana kwa kila mtu na, nadhani, itakuwa muhimu kufuata kozi zetu za kina zaidi za uchumi. Kozi hii itaweka misingi muhimu ya kuchunguza nadharia fulani za kiuchumi kwa undani zaidi ambazo tutazigusia kwa ufupi tu hapa.
 
-Ikiwa uko tayari kuanza tukio hili, ninakualika ubofye video ifuatayo na uanze na video ya bonasi kwenye mfumo wetu wa sasa wa kifedha. Sasa ninampa nafasi Théo. Asante kwake kwa kushirikiana na Descoupes Bitcoin kwa utambuzi wa video hii. Nitakuona hivi karibuni. Kwaheri!
+Na je, ikiwa ufunguo wa kuelewa uchumi wa leo upo katika nadharia ya karne kadhaa zilizopita? Hebu tuipeleleze pamoja!
+
 
 ## Pesa, Mikopo, Benki na Benki Kuu
 
@@ -51,9 +58,11 @@ Ikiwa uko tayari kuanza tukio hili, ninakualika ubofye video ifuatayo na uanze n
 >
 
 > Satoshi Nakamoto, mvumbuzi asiyejulikana wa Bitcoin
+
+
 ### Jinsi Pesa Inaundwa
 
-Katika mfumo wetu wa fedha wa siku hizi, pesa kimsingi huundwa kupitia utaratibu wa benki unaojulikana kama "fedha ya akiba ya sehemu." Neno hili kimsingi linamaanisha kuwa benki hazitakiwi kushikilia akiba nyingi kadri zinavyopokea katika amana. Kwa hivyo, wanaweza kuunda nguvu mpya ya ununuzi wakati wa kutoa mikopo na, kinyume chake, kupunguza uwezo wa kununua wateja wanapolipa mikopo yao.
+Katika mfumo wetu wa fedha wa siku hizi, pesa kimsingi huundwa kupitia utaratibu wa benki unaojulikana kama "Benki ya Hifadhi ya Sehemu." Neno hili kimsingi linamaanisha kuwa benki hazitakiwi kushikilia akiba nyingi kadri zinavyopokea katika amana. Kwa hivyo, wanaweza kuunda nguvu mpya ya ununuzi wakati wa kutoa mikopo na, kinyume chake, kupunguza uwezo wa kununua wateja wanapolipa mikopo yao.
 
 Kwa mfano, ikiwa ungewasiliana na benki ya eneo lako ili kupata rehani kwa ununuzi wa nyumba, pesa ulizokopeshwa na benki zingepatikana kama kiingilio cha uwekaji hesabu. Katika uhasibu, kwa kawaida tunawakilisha utajiri wa jumla wa mtu binafsi kwa kutumia mizania, ambayo ina pande mbili: upande wa mali, ikijumuisha mali yoyote, mikataba ya kifedha, orodha au aina nyinginezo za mali zinazomilikiwa, na upande wa dhima, unaoonyesha chanzo cha fedha kilichotumika kuunda mtaji ulioorodheshwa kwenye upande wa mali. Tofauti kati ya mali na dhima inarejelewa kama "sawa" na inaweza kuzingatiwa kama utajiri kamili wa huluki.
 
@@ -69,13 +78,15 @@ Kielelezo cha 1: Uundaji wa Pesa kama Maingizo ya Uwekaji hesabu
 >
 
 > Henry Ford
+
+
 Utaratibu huu huruhusu benki kurekodi miamala yote, ikijumuisha uhamishaji wa fedha kupitia kielektroniki, ununuzi wa kadi ya mkopo na hundi, katika kipindi maalum (kwa kawaida wiki au mwezi). Kisha wanatatua miamala hii kwa kutumia akiba ya benki, ambayo ni aina nyingine ya sarafu ya fiat ambayo haijawahi kutumiwa na umma. Akiba ya benki hufanyika katika benki kuu katika akaunti maalum inayopatikana tu kwa benki zilizo na leseni na taasisi za kifedha.
 
-### Kukosekana kwa utulivu wa Benki ya Akiba ya Sehemu na Mkopeshaji wa Hoteli ya Mwisho
+### Udhuru wa Mfumo wa Benki ya Hifadhi ya Sehemu na Mkopeshi wa Mwisho wa Rasilimali
 
-Suala kuu la mfumo huu wa hifadhi ya sehemu ni kwamba uondoaji mkubwa kutoka kwa benki fulani unaweza kusababisha kufilisika kwake. Kwa kuwa benki lazima zitimize matakwa ya wateja kwa pesa taslimu huku zikiwa na akiba ndogo tu ya akiba ya benki, kukimbilia kwa wateja wengi kutoa pesa kwa wakati mmoja kunaweza kuifanya benki kushindwa kukidhi matakwa haya, na kusababisha kufilisika. Ikizingatiwa kuwa watu wengi, makampuni, na taasisi fedha zao zimehifadhiwa katika benki, kuruhusu benki kushindwa kunaweza kuwa na madhara makubwa ya kiuchumi, kama vile mdororo wa kiuchumi au hata mfadhaiko.
+Suala kuu la mfumo huu wa hifadhi ya sehemu ni kwamba uondoaji mkubwa kutoka kwa benki fulani unaweza kusababisha kufilisika kwake. Kwa kuwa benki lazima zitimize matakwa ya wateja kwa pesa taslimu huku zikiwa na akiba ndogo tu ya akiba ya benki, kukimbilia kwa wateja wengi kutoa pesa kwa wakati mmoja kunaweza kuifanya benki kushindwa kukidhi matakwa haya, na kusababisha kufilisika. Ikizingatiwa kuwa watu wengi, makampuni, na taasisi fedha zao zimehifadhiwa katika benki, kuruhusu benki kushindwa kunaweza kuwa na madhara makubwa ya kiuchumi,kama vile mizunguko ya uchumi au hata mdororo wa uchumi..
 
-Kitendawili hiki kilizua benki kuu za kisasa. Katika karne ya 19 huko Uingereza, uendeshaji wa benki mara kwa mara ulihatarisha uthabiti wa kifedha, na kusababisha kuanzishwa kwa Benki ya Uingereza kama "mkopeshaji wa suluhisho la mwisho." Benki ya Uingereza ilipewa jukumu la kukopesha fedha benki zilizokuwa na shida wakati wa mizozo ili kuzuia athari ya domino ambayo inaweza kulemaza mfumo mzima wa kifedha. Dhana hii ya benki kuu kama wakopeshaji wa njia ya mwisho imeenea ulimwenguni kote na kuwa kawaida.
+Kitendawili hiki kilizua benki kuu za kisasa. Katika karne ya 19 huko Uingereza, uendeshaji wa benki mara kwa mara ulihatarisha uthabiti wa kifedha,inayopelekea kuanzishwa kwa Benki ya England kama "mkopeshi wa mwisho wa rasilimali." Benki ya Uingereza ilipewa jukumu la kukopesha fedha benki zilizokuwa na shida wakati wa mizozo ili kuzuia athari ya domino ambayo inaweza kulemaza mfumo mzima wa kifedha. Dhana hii ya benki kuu kama wakopeshaji wa njia ya mwisho imeenea ulimwenguni kote na kuwa kawaida.
 
 Mbali na kudumisha utulivu wa kifedha, benki kuu zina jukumu la kuweka viwango muhimu vya sera. Viwango hivi huamua gharama ambayo benki zilizo na leseni zinaweza kukopa fedha kutoka kwa benki kuu, hasa kufafanua gharama ya ukwasi kwa taasisi za fedha ambazo zina jukumu muhimu katika kukopesha katika uchumi wetu. Kwa hivyo, viwango hivi vinatumika kama kipimo cha mfumo mzima wa kifedha. Kama mtu binafsi, viwango vya riba unavyolipa kwenye rehani yako vinaweza kugawanywa katika kiwango cha sera na ukingo wa benki.
 
@@ -123,11 +134,16 @@ Huku mfumuko wa bei ukiongezeka kutokana na uundaji mkubwa wa pesa katika kukabi
 
 ### Hitimisho
 
-> "Kwa njia hii (kitengo cha akiba ya benki), serikali zinaweza kunyang'anya mali ya watu kwa siri na bila kuangaliwa, na sio mtu katika milioni angeweza kugundua wizi huo"
->
+>> "Kwa njia hii (benki ya hifadhi ya sehemu), serikali zinaweza kwa siri na bila kugunduliwa, kuchukua mali za watu, na hakuna mtu mmoja kati ya milioni atakayegundua wizi huo."  
+>  
+> John Maynard Keynes"
+
+
 
 > John Maynard Keynes
-Kwa hakika, mfumo wetu unakabiliwa na changamoto kubwa, na Bitcoin inaibuka kama njia mbadala inayoaminika. Hata hivyo, Bitcoin pekee haiwezi Address masuala ndani ya mfumo wetu wa fedha. Zaidi ya yote, tunahitaji watu binafsi wanaoelewa kanuni za msingi za kiuchumi miongoni mwa wapenda Bitcoin, kuwezesha uelewa mpana zaidi na akili ya kawaida ya kiuchumi ili kutuongoza mbali na kujenga msingi mwingine dhaifu wa kifedha kwa ajili ya ustaarabu wetu. Lengo kuu la kozi hii ni kuelimisha wapenda Bitcoin wapya katika kanuni bora za kiuchumi.
+
+
+Kwa hakika, mfumo wetu unakabiliwa na changamoto kubwa, na Bitcoin inaibuka kama njia mbadala inayoaminika. Hata hivyo, Bitcoin pekee haiwezi  kushughulikia masuala ndani ya mfumo wetu wa fedha. Zaidi ya yote, tunahitaji watu binafsi wanaoelewa kanuni za msingi za kiuchumi miongoni mwa wapenda Bitcoin, kuwezesha uelewa mpana zaidi na akili ya kawaida ya kiuchumi ili kutuongoza mbali na kujenga msingi mwingine dhaifu wa kifedha kwa ajili ya ustaarabu wetu. Lengo kuu la kozi hii ni kuelimisha wapenda Bitcoin wapya katika kanuni bora za kiuchumi.
 
 Ili kufikia lengo hili, tutaeleza kanuni za kimsingi za "Uchumi wa Austria," shule ya mawazo ya kiuchumi yenye mila ya mbinu iliyoanzia karne ya 16, ikitoa maarifa kuhusu hatua za binadamu chini ya vikwazo vya kiuchumi. Kwa utangulizi huu, sasa unafahamu mambo muhimu ya kuunda pesa na hali ya sasa ya mfumo wetu wa kifedha na kifedha.
 
@@ -147,7 +163,7 @@ Katika sura inayokuja, tutazama katika msingi wa shule yoyote ya kiuchumi ya maw
 > Carl Menger, Kanuni za Uchumi wa Kisiasa
 ### Mapinduzi ya Pembezoni
 
-Katika mzizi wa hoja za kiuchumi kuna swali la thamani. Je, tunatambuaje thamani ya kitu? Je, thamani ni mali asili ya vitu? Au ni, kinyume chake, jambo la kibinafsi? Je, tunalinganishaje thamani ya vitu viwili? Thamani inatoka wapi?
+Katika mzizi wa hoja za kiuchumi kuna swali la thamani. Je, tunajua aje  thamani ya kitu? Je, thamani ni mali asili ya vitu? Au ni, kinyume chake, jambo la kibinafsi? Je, tunalinganishaje thamani ya vitu viwili? Thamani inatoka wapi?
 
 Maswali kama haya yamechukua wachumi na wanafalsafa kwa karne nyingi na yamepata majibu mengi tofauti. Kwa njia nyingi, mageuzi ya epistemological ya uchumi yameangaziwa na mageuzi ya nadharia za thamani.
 
@@ -175,9 +191,9 @@ Kwa muhtasari, Menger aligundua kuwa thamani ya faida ya kiuchumi si chochote za
 
 ### Exchange ya Hiari: Mchezo Bora wa Jumla
 
-Kutokana na hatua hii, Menger anakisia kuwa Exchange ya hiari kati ya watu wawili hufanyika kwa sababu kila mhusika anaamini kuwa itaongeza matumizi yao binafsi. Kwake, Exchange haipendekezi usawa wowote wa thamani, kinyume na kile wanauchumi wa zamani waliamini. Kulingana na mwanafikra huyo wa Austria, ikiwa kungekuwa na usawa wa matumizi kati ya bidhaa zilizobadilishwa, hakutakuwa na sababu kwa wahusika kuhangaika kubadilishana kwanza. Iwapo kuna Exchange, ni kwa sababu kila mhusika anaipata kwa maslahi yao (ya mada), na hivyo basi, kila Exchange ya hiari hutoa manufaa ya kijamii.
+Kutokana na hatua hii, Menger anakisia kuwa Mabadilishano ya  hiari kati ya watu wawili hufanyika kwa sababu kila mhusika anaamini kuwa itaongeza matumizi yao binafsi. Kwake, Kubadilishana hakuhitaji kuwa na usawa wa thamanic, kinyume na kile wanauchumi wa zamani waliamini. Kulingana na mwanafikra huyo wa Austria, ikiwa kungekuwa na usawa wa matumizi kati ya bidhaa zilizobadilishwa, hakutakuwa na sababu kwa wahusika kuhangaika kubadilishana kwanza. Iwapo kuna Exchange, ni kwa sababu kila mhusika anaipata kwa maslahi yao (ya mada), na hivyo basi, kila Exchange ya hiari hutoa manufaa ya kijamii.
 
-### Uthamini kama Jambo la Kuagiza Matamanio ya Kibinadamu
+### Thamani kama kioo cha kuorodhesha matamanio ya binadamu
 
 Walakini, faida kama hiyo ya kijamii, au dhamana ya kibinafsi inayohusishwa na nzuri, haiwezi kupimwa. Kwa Menger, thamani ni hali ya utambuzi ya kulinganisha (ya kawaida) badala ya kipimo (kadinali). Sio, kama wachumi wa mamboleo walivyofikiri tangu Walras na Jevons, Assignment na mtu binafsi mwenye thamani ya nambari inayoonyesha manufaa wanayopata kutoka kwayo, bali ni kitendo cha kuagiza tamaa za kibinadamu ambazo mtu huonyesha kwamba anatamani kiasi cha nzuri A zaidi kuliko wingi wa B nzuri.
 
@@ -185,11 +201,11 @@ Wakala yeyote anaweza kusema kama anapendelea ndizi 2 kwa kozi ya uchumi, lakini
 
 Dhana hii ya thamani, inayoeleweka kama uhusiano wa kisaikolojia ambayo mtu huburudisha na malengo yake na njia zinazofaa kuyafanikisha, pia inaruhusu wanauchumi wa Austria kuelezea jambo la mgawanyiko wa wafanyikazi.
 
-### Idara ya Kazi
+### Mgawanyo wa Kazi
 
 ![image](assets/en/09.webp)
 
-Kutembelea Kiwanda cha Kucha, Léonard Defrance (karne ya 18)
+Kutembelea Kiwanda cha Misumari, Léonard Defrance (karne ya 18)
 
 Kila mtu ni wa kipekee na ana hali fulani ya kibinafsi. Kwa hivyo, kila mtu ana uwezo wa juu wa kufanya kazi fulani kuliko wenzake (faida kamili) au uwezo wa juu wa kufanya kazi fulani kuliko zingine (faida ya kulinganisha). Haiwezi kuwa vinginevyo; kukataa ukweli huu wa kimsingi itakuwa kudai kwamba wanadamu wote ni sawa katika nyanja zote.
 
@@ -254,7 +270,7 @@ Katika mchezo huu, hakuna fursa ya uratibu (mawasiliano haiwezekani) kufikia mat
 
 Mchezo huu unaonyesha tatizo linalojitokeza mara kwa mara katika maisha halisi: kwa kukosekana kwa mbinu za uratibu, watu huwa na mwelekeo wa kuchagua mikakati ambayo huongeza manufaa yao binafsi, bila kujali mikakati iliyochaguliwa na wengine (wizi, udanganyifu, usaliti, vurugu, n.k.), hata wakati usawa unaohitajika zaidi kupitia uratibu/ushirikiano unawezekana.
 
-### Pesa za Kutatua Matatizo ya Uratibu
+### Pesa Kutatua Matatizo ya Uratibu
 
 ![image](assets/en/10.webp)
 
@@ -270,9 +286,9 @@ Hata kama ingewezekana kuanzisha kiwango cha kuridhisha cha Exchange kwa kila jo
 
 Zaidi ya hayo, kwa kuwa mabadilishano haya hayafanyiki papo hapo lakini yanapangwa kwa muda, kutathmini michango baada ya muda kunatatiza zaidi tathmini ya kiasi cha michango. Mbali na kutathmini uwiano wa Exchange kati ya bidhaa mbili za sasa, inakuwa muhimu kutathmini thamani ya mchango wa zamani kuhusiana na mwenza wa siku zijazo.
 
-Leo, licha ya kutowezekana kwa mfumo kama huo, tunaweza kutumia uandishi au uhifadhi wa data dijitali kukumbuka maelezo haya yote na kuanzisha mfumo wa mikopo (kufuatilia michango ya zamani, ikijumuisha kiwango cha Exchange cha michango hiyo, kimsingi ni kuanzisha mfumo wa mikopo).
+Leo, licha ya kutowezekana kwa mfumo kama huo, tunaweza kutumia uandishi au uhifadhi wa data dijitali kukumbuka maelezo haya yote na kuanzisha mfumo wa mikopo (kufuatilia michango ya zamani, Ikiwemo kiwango cha kubadilishana cha michango hiyo, kimsingi ni kuanzisha mfumo wa mikopo
 
-Katika nyakati za kabla ya ustaarabu, teknolojia hizi hazikuwepo. Kwa hivyo, babu zetu walilazimika kutafuta suluhisho zingine ili kufurahiya faida za mgawanyiko wa kazi bila kujiweka wazi kwa matokeo mabaya ya shida ya mfungwa. Suluhisho la tatizo hili la Exchange moja kwa moja lilikuwa Exchange isiyo ya moja kwa moja iliyowezeshwa na pesa.
+Katika nyakati za kabla ya ustaarabu, teknolojia hizi hazikuwepo. Kwa hivyo, babu zetu walilazimika kutafuta suluhisho zingine ili kufurahiya faida za mgawanyiko wa kazi bila kujiweka wazi kwa matokeo mabaya ya shida ya mfungwa. Suluhisho la tatizo hili la kubadilishana moja kwa moja lilikuwa kubadilishana kwa njia isiyo ya moja kwa moja inayorahisishwa na pesa.
 
 ### Sadfa Maradufu ya Mahitaji na Usawa
 
@@ -280,7 +296,7 @@ Katika nyakati za kabla ya ustaarabu, teknolojia hizi hazikuwepo. Kwa hivyo, bab
 
 Pesa inaweza kuonekana kama suluhu iliyogunduliwa na mababu zetu kwa Address ambayo wanauchumi wanaita tatizo la "double coincidence of wants". Tatizo hili lina pande tatu: anga, muda, na baina ya watu.
 
-Katika Exchange ya moja kwa moja (kubadilishana) kati ya Alice na Bob, wote wawili wanahitaji kumiliki kitu ambacho matamanio mengine kwa wakati mmoja na mahali. Kwa kutumia Exchange isiyo ya moja kwa moja, yaani, kupitia pesa, Alice anaweza kununua kutoka kwa Bob, na Bob anaweza kutumia kitengo hicho cha fedha mahali pengine, wakati mwingine, na kwa mtu mwingine (mradi tu mtu mwingine anakubali aina hiyo ya pesa).
+Katika kubadilishana moja kwa moja (mabadilishano) kati ya Alice na Bob, wote wanahitaji kuwa na kitu ambacho mwenzake anakitaka kwa wakati na mahali pamoja wote wawili wanahitaji kumiliki kitu ambacho matamanio mengine kwa wakati mmoja na mahali. Kwa kutumia kubadilishana kwa njia isiyo ya moja kwa moja, yaani, kupitia pesa, yaani, kupitia pesa, Alice anaweza kununua kutoka kwa Bob, na Bob anaweza kutumia kitengo hicho cha fedha mahali pengine, wakati mwingine, na kwa mtu mwingine (mradi tu mtu mwingine anakubali aina hiyo ya pesa).
 
 Ili kitu kizuri kiwe pesa, ni lazima kiwe na mishahara ya juu, kumaanisha kwamba kinapaswa kutamaniwa na watu wengi iwezekanavyo, mara nyingi. Kwa kutumia bidhaa inayoweza kuuzwa sana, tatizo la kutaka kwa bahati mbaya maradufu hutatuliwa kwa suala la anga na vipimo vya mtu binafsi: ikiwa nzuri ninayotumia kama pesa inatamaniwa kila mahali na kwa watu wengi, naweza kutenganisha kwa urahisi kitendo cha kuuza na kitendo cha kununua katika suala la eneo na mwingiliano wa kijamii.
 
@@ -298,7 +314,7 @@ Kwa maana hii, uzalishaji wa bidhaa za fedha, kwa kukuza upanuzi wa mgawanyiko w
 
 ### Kutokuwa na uhakika
 
-Ili kuhitimisha uchanganuzi wetu wa taasisi ya fedha, tunahitaji Address suala la hatua za kiuchumi katika muktadha wa kutokuwa na uhakika kuepukika kuhusu siku zijazo.
+Ili kuhitimisha uchanganuzi wetu wa taasisi ya fedha, tunahitaji tunapaswa kushughulikia suala la hatua za kiuchumi katika muktadha wa kutokuwa na uhakika kuepukika kuhusu siku zijazo.
 
 Kama wanauchumi wa Austria walivyoeleza, hatua za binadamu zinaendana na wakati na daima huelekezwa kuelekea siku zijazo. Mtu anapotenda, anabadilisha hali yake ya sasa kwa matumaini ya kupata kuridhika siku zijazo. Makadirio haya ya kiakili yanaweza kuelekezwa kuelekea siku za usoni zilizo karibu au za mbali, lakini ili mtu ajiwekee malengo ya muda mrefu, lazima kwanza apate riziki yake ya muda mfupi kwa sababu hali yao katika siku za usoni huathiri moja kwa moja hali yao katika siku zijazo za mbali.
 
@@ -316,7 +332,7 @@ Katika sura inayofuata tutaangazia dhana ya upendeleo wa wakati na kueleza mtaza
 
 Tulihitimisha sura ya mwisho kwa kueleza jinsi mawakala wa kiuchumi wanavyotumia bidhaa inayouzwa zaidi, yaani, pesa ili kuzuia kutokuwa na uhakika siku zijazo. Tulieleza pia kwamba asili ya mfuatano wa matukio ya muda hutuongoza kupambana na kutokuwa na uhakika hatua kwa hatua: pale tu tunapojua kwamba riziki yetu itahakikishiwa kwa wiki ijayo ndipo tunaweza kuelekeza nguvu kwenye malengo ya mbele zaidi katika siku zijazo.
 
-Au, kusema tofauti: kama wanadamu tunapunguza thamani ya bidhaa za siku zijazo.
+Au, kusema kwa namna nyingine: kama binadamu tunapunguza thamani ya bidhaa za baadaye.
 
 Tathmini hii ya kibinafsi ya thamani ya bidhaa za siku zijazo ikilinganishwa na bidhaa za sasa inarejelewa kama upendeleo wa wakati. Mengine yote yakiwa sawa, bidhaa za sasa zinapendelewa kiasili kuliko bidhaa za siku zijazo. Kwa kuwa sisi ni watu wa kufa, na wakati ujao daima hauna uhakika, kwa kawaida tunapendelea kupata mema sasa badala ya baadaye. Ingawa upendeleo wa wakati unaweza kutofautiana kati ya watu binafsi, kutokana na maelfu ya mambo kama vile tamaduni, mali, elimu, fiziolojia, n.k., mapendeleo ya wakati huwa chanya kila wakati, kumaanisha kuwa vitu vyote ni sawa, kila wakati tunathamini bidhaa za sasa kuliko bidhaa za baadaye.
 
@@ -324,11 +340,11 @@ Dhana hii ya uthamini wa jamaa wa bidhaa za siku zijazo juu ya bidhaa za sasa nd
 
 ![image](assets/en/12.webp)
 
-Katika uchumi ambapo viwango vya riba havitumiwi na benki kuu, huwa tunazingatia mteremko wa mavuno unaopanda juu: kadri deni linavyozidi kukomaa, ndivyo kiwango cha riba kinavyoongezeka. Hali iliyo kinyume haiwezi kutokea kwa sababu itahusisha kwamba siku zijazo ni hakika zaidi kuliko sasa, jambo ambalo ni jambo lisilowezekana kimantiki.
+Katika uchumi ambapo benki kuu haitumii viwango vya riba, huwa tunazingatia mteremko wa mavuno unaopanda juu: kadri deni linavyozidi kukomaa, ndivyo kiwango cha riba kinavyoongezeka. Hali iliyo kinyume haiwezi kutokea kwa sababu itahusisha kwamba siku zijazo ni hakika zaidi kuliko sasa, jambo ambalo ni jambo lisilowezekana kimantiki.
 
 Wazo la upendeleo wa wakati na jinsi tunavyoelezea upendeleo wetu wa wakati kwa kitendo cha matumizi na akiba ni msingi kwa michakato ya ugawaji wa mtaji na uzalishaji. Hebu tumgeukie mwanafunzi wa Menger, Eugen von Böhm-Bawerk, na nadharia yake ya mtaji ili kuelewa hasa jinsi upendeleo wa wakati unavyoathiri shirika la uzalishaji.
 
-### Nadharia ya Capital
+### Nadharia ya mtaji 
 
 ![image](assets/en/13.webp)
 
