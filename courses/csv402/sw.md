@@ -1,4 +1,4 @@
----
+Christine , 
 name: Itifaki ya RGB, kutoka kwa nadharia hadi mazoezi
 goal: Pata ujuzi unaohitajika kuelewa na kutumia RGB
 objectives: 
