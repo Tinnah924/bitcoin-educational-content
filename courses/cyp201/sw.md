@@ -287,18 +287,18 @@ $$
 
 ### Mgawanyiko wa Pembejeo
 
-Sasa kwa kuwa tuna pembejeo iliyosawazishwa, sasa tutaendelea hadi awamu kuu ya usindikaji ya algorithm ya SHA256: kazi ya kukandamiza. Hatua hii ni muhimu sana, kwani ndiyo hasa inayoipa kazi ya Hash sifa zake za kriptografia ambazo tulijifunza katika sura iliyopita.
+Sasa kwa kuwa tuna pembejeo iliyosawazishwa, sasa tutaendelea hadi awamu kuu ya usindikaji ya algorithi ya SHA256: kazi ya kukandamiza. Hatua hii ni muhimu sana, kwani ndiyo hasa inayoipa kazi ya Hash sifa zake za kriptografia ambazo tulijifunza katika sura iliyopita.
 
-Kwanza, tunaanza kwa kugawanya ujumbe wetu uliosawazishwa (matokeo ya hatua za uchakataji) katika vizuizi kadhaa vya $P$ vya biti 512 kila kimoja. Ikiwa ujumbe wetu uliosawazishwa una ukubwa wa jumla wa biti $n \mara 512$, kwa hivyo tutakuwa na vizuizi $n$, kila moja ya biti 512. Kila kizuizi cha 512-bit kitachakatwa kibinafsi na kazi ya ukandamizaji, ambayo inajumuisha raundi 64 za shughuli zinazofuatana. Hebu tutaje vitalu hivi $P_1$, $P_2$, $P_3$...
+Kwanza, tunaanza kwa kugawanya ujumbe wetu uliosawazishwa (matokeo ya hatua za uchakataji) katika vitalu kadhaa vya $P$ vya biti 512 kila kimoja. Ikiwa ujumbe wetu uliosawazishwa una ukubwa wa jumla wa bits $n \mara 512$, kwa hivyo tutakuwa na vizuizi $n$, kila moja ya bits 512. Kila kitalu cha 512-bit kitachakatwa kibinafsi na kazi ya ukandamizaji, ambayo inajumuisha raundi 64 za shughuli zinazofuatana. Hebu tutaje vitalu hivi $P_1$, $P_2$, $P_3$...
 
 ### Uendeshaji wa Kimantiki
 
 Kabla ya kuchunguza kazi ya ukandamizaji kwa undani, ni muhimu kuelewa shughuli za msingi za mantiki zinazotumiwa ndani yake. Operesheni hizi, kulingana na algebra ya Boolean, hufanya kazi katika kiwango kidogo. Shughuli za msingi za kimantiki zinazotumiwa ni:
 
 
-- Kiunganishi (NA)**: iliyoashiria $\land$, inalingana na "AND" ya kimantiki.
-- Kitenganisho (AU)**: iliyoashiria $\lor$, inalingana na "OR" ya kimantiki.
-- Kukanusha (SIO)**: iliyoashiria $\lnot$, inalingana na "NOT" ya kimantiki.
+- **Kiunganishi (NA)**: iliyoashiria $\land$, inalingana na "AND" ya kimantiki.
+- **Kitenganisho (AU)**: iliyoashiria $\lor$, inalingana na "OR" ya kimantiki.
+- **Kukanusha (SIO)**: iliyoashiria $\lnot$, inalingana na "NOT" ya kimantiki.
 
 Kutoka kwa shughuli hizi za kimsingi, tunaweza kufafanua utendakazi changamano zaidi, kama vile "Exclusive AU" (XOR) inayoashiria $\oplus$, ambayo hutumiwa sana katika cryptography.
 
@@ -374,9 +374,9 @@ Kwa kutumia XOR kidogo kidogo:
 
 Matokeo yake ni $100100$.
 
-Mbali na utendakazi wa kimantiki, kazi ya ukandamizaji hutumia shughuli za kubadilisha kidogo, ambazo zitachukua jukumu muhimu katika uenezaji wa biti kwenye algorithm.
+Mbali na utendakazi wa kimantiki, kazi ya ukandamizaji hutumia shughuli za kubadilisha kidogo, ambazo zitachukua jukumu muhimu katika uenezaji wa bits kwenye algorith.
 
-Kwanza, kuna operesheni ya kimantiki ya zamu ya kulia, inayoashiria $ShR_n(x)$, ambayo huhamisha biti zote za $x$ kulia kwa nafasi $n$, na kujaza biti zilizo wazi upande wa kushoto na sufuri.
+Kwanza, kuna operesheni ya kimantiki ya zamu ya kulia, inayoashiria $ShR_n(x)$, ambayo huhamisha bits zote za $x$ kulia kwa nafasi $n$, na kujaza bits zilizo wazi upande wa kushoto na sufuri.
 
 Kwa mfano, kwa $x = 101100001$ (kwenye biti 9) na $n = 4$:
 
@@ -388,7 +388,7 @@ Kwa utaratibu, operesheni sahihi ya mabadiliko inaweza kuonekana kama hii:
 
 ![CYP201](assets/fr/007.webp)
 
-Operesheni nyingine inayotumika katika SHA256 kwa upotoshaji kidogo ni mzunguko wa kulia wa duara, unaoashiria $RotR_n(x)$, ambao huhamisha biti za $x$ kwenda kulia kwa nafasi $n$, na kuingiza tena biti zilizohamishwa mwanzoni mwa mfuatano.
+Operesheni nyingine inayotumika katika SHA256 kwa upotoshaji kidogo ni mzunguko wa kulia wa duara, unaoashiria $RotR_n(x)$, ambao huhamisha bits za $x$ kwenda kulia kwa nafasi $n$, na kuingiza tena biti zilizohamishwa mwanzoni mwa mfuatano.
 
 Kwa mfano, kwa $x = 101100001$ (zaidi ya biti 9) na $n = 4$:
 
@@ -407,11 +407,11 @@ Sasa kwa kuwa tumeelewa shughuli za kimsingi, hebu tuchunguze kazi ya ukandamiza
 Katika hatua ya awali, tuligawanya pembejeo yetu katika vipande kadhaa vya 512-bit $P $. Kwa kila block ya 512-bit $P$, tuna:
 
 
-- Maneno ya ujumbe $W_i$**: kwa $i$ kutoka 0 hadi 63.
-- Viunga $K_i$**: kwa $i$ kutoka 0 hadi 63, vilivyofafanuliwa katika hatua ya awali.
-- Vigezo vya hali $A, B, C, D, E, F, G, H$**: vilivyoanzishwa kwa thamani kutoka kwa hatua ya awali.
+- **Maneno ya ujumbe $W_i$**: kwa $i$ kutoka 0 hadi 63.
+- **Viunga $K_i$**: kwa $i$ kutoka 0 hadi 63, vilivyofafanuliwa katika hatua ya awali.
+- **Vigezo vya hali $A, B, C, D, E, F, G, H$**: vilivyoanzishwa kwa thamani kutoka kwa hatua ya awali.
 
-Maneno 16 ya kwanza, $W_0$ hadi $W_{15}$, yametolewa moja kwa moja kutoka kwa kizuizi cha biti 512 $P$ kilichochakatwa. Kila neno $W_i$ linajumuisha biti 32 mfululizo kutoka kwenye kizuizi. Kwa hivyo, kwa mfano, tunachukua sehemu yetu ya kwanza ya ingizo $P_1$, na tunaigawanya zaidi katika vipande vidogo-32 ambavyo tunaviita maneno.
+Maneno 16 ya kwanza, $W_0$ hadi $W_{15}$, yametolewa moja kwa moja kutoka kwa kitalu cha bitd 512 $P$ kilichochakatwa. Kila neno $W_i$ linajumuisha biti 32 mfululizo kutoka kwenye kitalu. Kwa hivyo, kwa mfano, tunachukua sehemu yetu ya kwanza ya ingizo $P_1$, na tunaigawanya zaidi katika vipande vidogo-32 ambavyo tunaviita maneno.
 
 Maneno 48 yanayofuata ($W_{16}$ hadi $W_{63}$) yanatolewa kwa kutumia fomula ifuatayo:
 
@@ -436,14 +436,14 @@ Kwa kila mzunguko $i$ kutoka 0 hadi 63, tuna aina tatu tofauti za pembejeo. Kwan
 Kisha tunafanya shughuli zifuatazo kwenye pembejeo zetu:
 
 
-- Kazi $\Sigma_0$:**
+- **Kazi $\Sigma_0$:**
 
 $$
 \Sigma_0(A) = RotR_2(A) \oplus RotR_{13}(A) \oplus RotR_{22}(A)
 $$
 
 
-- Kazi $\Sigma_1$:**
+- **Kazi $\Sigma_1$:**
 
 $$
 \Sigma_1(E) = RotR_6(E) \oplus RotR_{11}(E) \oplus RotR_{25}(E)
@@ -479,7 +479,7 @@ $$
 temp2 = \Sigma_0(A) + Maj(A, B, C) \mod 2^{32}
 $$
 
-Ifuatayo, tunasasisha anuwai za serikali kama ifuatavyo:
+Ifuatayo, tunasasisha anuwai za state kama ifuatavyo:
 
 $$
 \begin{cases}
@@ -505,7 +505,7 @@ Mchoro ufuatao unawakilisha duru ya kazi ya ukandamizaji ya SHA256 kama tulivyoe
 
 Tayari tunaweza kuona kwamba raundi hii inatoa hali mpya za hali $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$. Vigezo hivi vipya vitatumika kama ingizo la raundi inayofuata, ambayo nayo itazalisha vigeu vipya $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$, zitakazotumika kwa raundi ifuatayo. Mchakato huu unaendelea hadi raundi ya 64.
 
-Baada ya raundi 64, tunasasisha maadili ya awali ya vigezo vya serikali kwa kuziongeza kwa maadili ya mwisho mwishoni mwa raundi ya 64:
+Baada ya raundi 64, tunasasisha maadili ya awali ya vigezo vya state kwa kuziongeza kwa maadili ya mwisho mwishoni mwa raundi ya 64:
 
 $$
 \begin{cases}
@@ -520,7 +520,7 @@ H = H_{\text{initial}} + H \mod 2^{32}
 \end{cases}
 $$
 
-Nambari hizi mpya za $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$ zitatumika kama nambari za mwanzo za block inayofuata, $P_2$. Kwa kizuizi hiki $P_2$, tunaiga mchakato sawa wa mbano kwa miduara 64, kisha tunasasisha vigeu vya kuzuia $P_3$, na kadhalika hadi kizuizi cha mwisho cha ingizo letu lililosawazishwa.
+Nambari hizi mpya za $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$ zitatumika kama nambari za mwanzo za block inayofuata, $P_2$. Kwa kitalu hiki $P_2$, tunaiga mchakato sawa wa mbano kwa miduara 64, kisha tunasasisha vigeu vya kitalu $P_3$, na kadhalika hadi kitalu cha mwisho cha ingizo letu lililosawazishwa.
 
 Baada ya kuchakata vizuizi vyote vya ujumbe, tunaambatanisha thamani za mwisho za vibadala $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$ ili kuunda mwisho wa 256-bit Hash ya utendaji wetu wa hashing:
 
@@ -581,9 +581,9 @@ Sasa kwa kuwa tumeangalia kwa kina utendakazi wa vitendaji vya Hash, hasa SHA256
 
 <chapterId>cc668121-7789-5e99-bf5e-1ba085f4f5f2</chapterId>
 
-Katika Bitcoin katika kiwango cha maombi, pamoja na kazi za Hash, algorithms ya derivation ya kriptografia hutumiwa kwa data salama ya generate kutoka kwa pembejeo za awali. Ingawa algoriti hizi hutegemea utendakazi wa Hash, hutumikia malengo tofauti, haswa katika suala la uthibitishaji na utengenezaji muhimu. Kanuni hizi huhifadhi baadhi ya sifa za chaguo za kukokotoa za Hash, kama vile kutoweza kutenduliwa, upinzani wa kubadilika na kuhimili mgongano.
+Katika Bitcoin katika kiwango cha maombi, pamoja na kazi za Hash, algorithi ya derivation ya kriptografia hutumiwa kwa data salama ya generate kutoka kwa pembejeo za awali. Ingawa algoriti hizi hutegemea utendakazi wa Hash, hutumikia malengo tofauti, haswa katika suala la uthibitishaji na utengenezaji muhimu. Kanuni hizi huhifadhi baadhi ya sifa za chaguo za kukokotoa za Hash, kama vile kutoweza kutenduliwa, upinzani wa kubadilika na kuhimili mgongano.
 
-Kwenye pochi za Bitcoin, algorithms 2 za derivation hutumiwa:
+Kwenye wallets za Bitcoin, algorithms 2 za derivation hutumiwa:
 
 
 - HMAC (Msimbo wa Uthibitishaji wa Ujumbe_msingi wa Hash_)**
@@ -611,7 +611,7 @@ Wacha tujifunze kwa undani zaidi kile kinachotokea katika kisanduku hiki cheusi 
 - $\text{opad}$: mara kwa mara inajumuisha byte $0x5c$ iliyorudiwa mara 128
 - $\text{ipad}$: mara kwa mara inajumuisha byte $0x36$ iliyorudiwa mara 128
 
-Kabla ya kuhesabu HMAC, ni muhimu kusawazisha ufunguo na mara kwa mara kulingana na ukubwa wa kuzuia $ B $. Kwa mfano, ikiwa ufunguo $K$ ni mfupi kuliko baiti 128, huwekwa sufuri kufikia ukubwa wa $B$. Ikiwa $K$ ni ndefu zaidi ya baiti 128, inabanwa kwa kutumia SHA512, kisha sufuri huongezwa hadi ifikie baiti 128. Kwa njia hii, ufunguo uliosawazishwa unaoitwa $K'$ unapatikana.
+Kabla ya kuhesabu HMAC, ni muhimu kusawazisha ufunguo na mara kwa mara kulingana na ukubwa wa kitalu $ B $. Kwa mfano, ikiwa ufunguo $K$ ni mfupi kuliko baiti 128, huwekwa sufuri kufikia ukubwa wa $B$. Ikiwa $K$ ni ndefu zaidi ya bits 128, inabanwa kwa kutumia SHA512, kisha sufuri huongezwa hadi ifikie baiti 128. Kwa njia hii, ufunguo uliosawazishwa unaoitwa $K'$ unapatikana.
 
 Thamani za $\text{opad}$ na $\text{ipad}$ zinapatikana kwa kurudia base byte ($0x5c$ kwa $\text{opad}$, $0x36$ kwa $\text{ipad}$) hadi ukubwa wa $B$ ufikiwe. Kwa hivyo, na $B = 128$ byte, tunayo:
 
@@ -645,13 +645,13 @@ HMAC inatumika katika Bitcoin haswa kwa utokezi muhimu katika pochi za HD (Hiera
 
 PBKDF2 (_Kazi 2_ ya Upataji Muhimu kwa Msingi wa Nenosiri) ni kanuni kuu ya utohozi iliyoundwa ili kuimarisha usalama wa manenosiri. Algorithm inatumika kazi ya pseudo-random (hapa HMAC-SHA512) kwenye nenosiri na chumvi ya siri, na kisha kurudia operesheni hii mara kadhaa ili kuzalisha ufunguo wa pato.
 
-Katika Bitcoin, PBKDF2 inatumika kwa generate seed ya HD Wallet kutoka kwa maneno ya Mnemonic na passphrase (lakini tutazungumzia kuhusu hili kwa undani zaidi katika sura zijazo).
+Katika Bitcoin, PBKDF2 inatumika kwa kuzalisha seed ya HD Wallet kutoka kwa maneno ya Mnemonic na passphrase (lakini tutazungumzia kuhusu hili kwa undani zaidi katika sura zijazo).
 
 Mchakato wa PBKDF2 ni kama ifuatavyo, na:
 
 
-- $m$: maneno ya mtumiaji Mnemonic;
-- $s$: passphrase ya hiari ili kuongeza usalama (uga tupu ikiwa hakuna passphrase);
+- $m$: Kifungu cha kumbukumbu Mnemonic;
+- $s$: passphrase (Funguo la siri) ya hiari ili kuongeza usalama (uga tupu ikiwa hakuna passphrase);
 - $n$: idadi ya marudio ya chaguo la kukokotoa, kwa upande wetu, ni 2048.
 
 Chaguo za kukokotoa za PBKDF2 hufafanuliwa mara kwa mara. Kila marudio huchukua matokeo ya ya awali, huipitisha kupitia HMAC-SHA512, na kuchanganya matokeo yanayofuatana ili kutoa ufunguo wa mwisho:
