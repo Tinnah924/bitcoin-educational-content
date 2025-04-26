@@ -52,8 +52,8 @@
     {
       "code": "hi",
       "name": "Hindi",
-      "translator": "deepseek",
-      "code_translator": "Colloquial Hindi"
+      "translator": "google",
+      "code_translator": "HI"
     },
     {
       "code": "id",
@@ -108,6 +108,12 @@
       "name": "Sinhala",
       "translator": "openai",
       "code_translator": "si"
+    },
+    {
+      "code": "sr-Latn",
+      "name": "Serbian",
+      "translator": "openai",
+      "code_translator": "SR-LATN"
     },
     {
       "code": "sv",
