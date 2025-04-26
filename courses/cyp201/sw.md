@@ -1413,7 +1413,7 @@ Kiwango cha BIP39 kinafafanua seed kama mlolongo wa 512-bit, ambayo hutumika kam
 - $\text{PBKDF2}$ : chaguo la kukokotoa lenye $\text{HMAC-SHA512}$ na marudio ya $2048$;
 - $s$: 512-bit Wallet seed.
 
-Bila kujali urefu wa maneno ya Mnemonic uliochaguliwa (biti 132 au biti 264), kazi ya PBKDF2 itazalisha pato la 512-bit daima, na seed kwa hiyo itakuwa ya ukubwa huu daima.
+Bila kujali urefu wa maneno ya Mnemonic uliochaguliwa (bits 132 au bits 264), kazi ya PBKDF2 itazalisha pato la 512-bit daima, na seed kwa hiyo itakuwa ya ukubwa huu daima.
 
 ### seed Derivation Scheme na PBKDF2
 
@@ -1427,7 +1427,7 @@ $$
 
 Thamani ya seed inaathiriwa na thamani ya maneno ya Mnemonic na passphrase. Kwa kubadilisha passphrase, seed tofauti inapatikana. Hata hivyo, kwa maneno sawa ya Mnemonic na passphrase, seed sawa daima huzalishwa, kwani PBKDF2 ni kazi ya kuamua. Hii inahakikisha kwamba jozi sawa za funguo zinaweza kurejeshwa kupitia nakala zetu.
 
-**Kumbuka:** Katika lugha ya kawaida, neno "seed" mara nyingi hurejelea, kwa matumizi mabaya ya lugha, kwa maneno ya Mnemonic. Hakika, kwa kukosekana kwa passphrase, moja ni encoding ya nyingine. Walakini, kama tulivyoona, katika ukweli wa kiufundi wa pochi, seed na kifungu cha Mnemonic kwa kweli ni Elements mbili tofauti.
+**Kumbuka:** Katika lugha ya kawaida, neno "seed" mara nyingi hurejelea, kwa matumizi mabaya ya lugha, kwa maneno ya Mnemonic. Hakika, kwa kukosekana kwa passphrase, moja ni encoding ya nyingine. Walakini, kama tulivyoona, katika ukweli wa kiufundi wa Wallet, seed na kifungu cha Mnemonic kwa kweli ni Elements mbili tofauti.
 
 Kwa kuwa sasa tuna seed yetu, tunaweza kuendelea na utengenezaji wa Bitcoin Wallet yetu.
 
@@ -1513,15 +1513,15 @@ Kwa yafuatayo, tutapitisha nukuu ifuatayo:
 Ufunguo uliopanuliwa umeundwa kama ifuatavyo:
 
 
-- Toleo**: Msimbo wa toleo ili kutambua asili ya ufunguo (`xprv`, `xpub`, `yprv`, `ypub`...). Tutaona mwishoni mwa sura hii herufi `x`, `y`, na `z` zinahusiana nini.
-- Kina**: Kiwango cha daraja katika HD Wallet kuhusiana na ufunguo mkuu (0 kwa ufunguo mkuu).
-- Alama ya Kidole ya Mzazi**: Baiti 4 za kwanza za HASH160 Hash za ufunguo kuu wa umma zilizotumiwa kupata ufunguo uliopo kwenye mzigo.
-- Nambari ya Fahirisi**: Kitambulisho cha mtoto kati ya funguo za ndugu, yaani, kati ya funguo zote zilizo katika kiwango sawa cha utokaji ambazo zina funguo za mzazi sawa.
-- Msimbo wa Chain**: Msimbo wa kipekee wa baiti 32 wa kupata funguo za watoto.
-- Ufunguo**: Kitufe cha faragha (kilichoamrishwa na baiti 1 kwa saizi) au kitufe cha umma.
-- Checksum**: Thamani ya hundi inayokokotolewa na chaguo za kukokotoa za HASH256 (SHA256 mbili) pia huongezwa, ambayo inaruhusu uthibitishaji wa uadilifu wa ufunguo uliopanuliwa wakati wa uwasilishaji au uhifadhi wake.
+- **Toleo**: Msimbo wa toleo ili kutambua asili ya ufunguo (`xprv`, `xpub`, `yprv`, `ypub`...). Tutaona mwishoni mwa sura hii herufi `x`, `y`, na `z` zinahusiana nini.
+- **Kina**: Kiwango cha daraja katika HD Wallet kuhusiana na ufunguo mkuu (0 kwa ufunguo mkuu).
+- **Alama ya Kidole ya Mzazi**: Baiti 4 za kwanza za HASH160 Hash za ufunguo kuu wa umma zilizotumiwa kupata ufunguo uliopo kwenye mzigo.
+- **Nambari ya Fahirisi**: Kitambulisho cha mtoto kati ya funguo za ndugu, yaani, kati ya funguo zote zilizo katika kiwango sawa cha utokaji ambazo zina funguo za mzazi sawa.
+- **Msimbo wa Chain**: Msimbo wa kipekee wa baiti 32 wa kupata funguo za watoto.
+- **Ufunguo**: Kitufe cha faragha (kilichoamrishwa na baiti 1 kwa saizi) au kitufe cha umma.
+- **Checksum**: Thamani ya hundi inayokokotolewa na chaguo za kukokotoa za HASH256 (SHA256 mbili) pia huongezwa, ambayo inaruhusu uthibitishaji wa uadilifu wa ufunguo uliopanuliwa wakati wa uwasilishaji au uhifadhi wake.
 
-Umbizo kamili la ufunguo uliopanuliwa kwa hivyo ni baiti 78 bila cheki, na baiti 82 zilizo na hundi. Kisha inabadilishwa kuwa Base58 ili kutoa uwakilishi ambao unaweza kusomeka kwa urahisi na watumiaji. Umbizo la Base58 ni sawa na lile linalotumika kwa anwani za kupokea *Legacy* (kabla ya *SegWit*).
+Umbizo kamili la ufunguo uliopanuliwa kwa hivyo ni bytes 78 bila cheki, na bytes 82 zilizo na hundi. Kisha inabadilishwa kuwa Base58 ili kutoa uwakilishi ambao unaweza kusomeka kwa urahisi na watumiaji. Umbizo la Base58 ni sawa na lile linalotumika kwa anwani za kupokea *Legacy* (kabla ya *SegWit*).
 
 | Kipengele | Maelezo | Ukubwa |
 
@@ -1531,9 +1531,9 @@ Umbizo kamili la ufunguo uliopanuliwa kwa hivyo ni baiti 78 bila cheki, na baiti
 
 | Kina | Kiwango katika daraja kuhusiana na ufunguo mkuu | Baiti 1 |
 
-| Alama ya Kidole ya Mzazi| Baiti 4 za kwanza za HASH160 za ufunguo mzazi wa umma | Baiti 4 |
+| Alama ya Kidole ya Mzazi| Bytes 4 za kwanza za HASH160 za ufunguo mzazi wa umma | Baiti 4 |
 
-| Nambari ya Kielezo | Nafasi ya ufunguo katika mpangilio wa watoto | Baiti 4 |
+| Nambari ya Kielezo | Nafasi ya ufunguo katika mpangilio wa watoto | Bytes 4 |
 
 | Msimbo wa Chain | Inatumika kupata funguo za watoto | Baiti 32 |
 
@@ -1541,7 +1541,7 @@ Umbizo kamili la ufunguo uliopanuliwa kwa hivyo ni baiti 78 bila cheki, na baiti
 
 | Cheki | Checksum ili kuthibitisha uadilifu | Baiti 4 |
 
-Ikiwa baiti moja itaongezwa kwa ufunguo wa faragha pekee, ni kwa sababu ufunguo wa umma uliobanwa ni mrefu kuliko ufunguo wa faragha kwa baiti moja. Baiti hii ya ziada, iliyoongezwa mwanzoni mwa ufunguo wa faragha kama `0x00`, inasawazisha ukubwa wao, na kuhakikisha kwamba upakiaji wa ufunguo uliopanuliwa ni wa urefu sawa, iwe ni ufunguo wa umma au wa faragha.
+Ikiwa byte moja itaongezwa kwa ufunguo wa faragha pekee, ni kwa sababu ufunguo wa umma uliobanwa ni mrefu kuliko ufunguo wa faragha kwa byte moja. Byte hii ya ziada, iliyoongezwa mwanzoni mwa ufunguo wa faragha kama `0x00`, inasawazisha ukubwa wao, na kuhakikisha kwamba upakiaji wa ufunguo uliopanuliwa ni wa urefu sawa, iwe ni ufunguo wa umma au wa faragha.
 
 ### Viambishi Muhimu Vilivyopanuliwa
 
@@ -1551,7 +1551,7 @@ Huu hapa ni muhtasari wa viambishi awali vilivyotumika na maana zake:
 
 | Kiambishi awali cha Msingi 58 | Kiambishi awali cha Msingi 16 | Mtandao | Kusudi | Hati Zinazohusishwa | Utoaji | Aina ya Ufunguo |
 
-| --------------- | --------------- | ------- | ------------------- | ------------------- | --------------------- | ------------ |
+| --------------- | ---n ------------ | ------- | ------------------- | ------------------- | --------------------- | ------------ |
 
 | `xpub` | `0488b21e` | Mainnet | Urithi na SegWit V1 | P2PK / P2PKH / P2TR | `m/44'/0'`, `m/86'/0'` | umma |
 
@@ -1599,7 +1599,7 @@ Ufunguo huu uliopanuliwa hugawanywa katika Elements kadhaa tofauti:
 
 1.**Toleo**: `0488B21E`
 
-Baiti 4 za kwanza ni toleo. Hapa, inalingana na ufunguo uliopanuliwa wa umma kwenye Mainnet wenye madhumuni ya kupata *Legacy* au *SegWit v1*.
+Bytes 4 za kwanza ni toleo. Hapa, inalingana na ufunguo uliopanuliwa wa umma kwenye Mainnet wenye madhumuni ya kupata *Legacy* au *SegWit v1*.
 
 2.**Kina**: `03`
 
@@ -1607,7 +1607,7 @@ Sehemu hii inaonyesha kiwango cha daraja la ufunguo ndani ya HD Wallet. Katika k
 
 3.**Alama ya vidole ya mzazi**: `6D5601AD`
 
-Hizi ndizo baiti 4 za kwanza za HASH160 Hash za ufunguo kuu wa umma ambazo zilitumika kutengeneza `xpub` hii.
+Hizi ndizo bytes 4 za kwanza za HASH160 Hash za ufunguo kuu wa umma ambazo zilitumika kutengeneza `xpub` hii.
 
 4.**Nambari ya faharasa**: `80000000`
 
@@ -1640,8 +1640,8 @@ Wacha tuchunguze jinsi uvumbuzi huu wa kiakili unavyofanya kazi.
 Kama tulivyogusia kwa ufupi katika sura iliyopita: funguo za watoto zimegawanywa katika aina kuu mbili:
 
 
-- Vifunguo vya watoto vya kawaida** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Hizi zimetolewa kutoka kwa ufunguo uliopanuliwa wa umma ($K_{\text{PAR}}$), au ufunguo wa faragha uliopanuliwa ($k_{\text{PAR}}$), kwa kupata ufunguo wa umma kwanza.
-- Vifunguo ngumu vya watoto** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Hizi zinaweza tu kutolewa kutoka kwa ufunguo wa faragha uliopanuliwa ($k_{\text{PAR}}}$) na kwa hivyo hazionekani kwa watazamaji ambao wana ufunguo uliopanuliwa wa umma pekee.
+- **Vifunguo vya watoto vya kawaida** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Hizi zimetolewa kutoka kwa ufunguo uliopanuliwa wa umma ($K_{\text{PAR}}$), au ufunguo wa faragha uliopanuliwa ($k_{\text{PAR}}$), kwa kupata ufunguo wa umma kwanza.
+- **Vifunguo ngumu vya watoto** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Hizi zinaweza tu kutolewa kutoka kwa ufunguo wa faragha uliopanuliwa ($k_{\text{PAR}}}$) na kwa hivyo hazionekani kwa watazamaji ambao wana ufunguo uliopanuliwa wa umma pekee.
 
 Kila jozi ya vitufe vya mtoto hutambuliwa kwa **faharasa** ya biti 32 (inayoitwa $i$ katika hesabu zetu). Faharasa za vitufe vya kawaida huanzia $0$ hadi $2^{31}-1$, ilhali zile za funguo ngumu huanzia $2^{31}$ hadi $2^{32}-1$. Nambari hizi hutumika kutofautisha jozi muhimu za ndugu wakati wa utokaji. Hakika, kila jozi ya ufunguo wa mzazi lazima iwe na uwezo wa kupata jozi nyingi za funguo za watoto. Ikiwa tungetumia hesabu sawa kwa utaratibu kutoka kwa funguo kuu, funguo zote za ndugu zilizopatikana zingekuwa sawa, ambayo haipendekewi. Kwa hivyo faharasa huleta kigezo ambacho hurekebisha hesabu ya uasilia, kuruhusu kila jozi ya ndugu kutofautishwa. Isipokuwa kwa matumizi mahususi katika baadhi ya itifaki na viwango vya utokaji, kwa ujumla tunaanza kwa kupata ufunguo wa mtoto wa kwanza kwa faharasa `0`, ya pili na faharasa `1`, na kadhalika.
 
@@ -1650,8 +1650,8 @@ Kila jozi ya vitufe vya mtoto hutambuliwa kwa **faharasa** ya biti 32 (inayoitwa
 Utoaji wa kila ufunguo wa mtoto unatokana na chaguo za kukokotoa za HMAC-SHA512, ambazo tulijadili katika Sehemu ya 2 kuhusu chaguo za kukokotoa za Hash. Inahitaji ingizo mbili: msimbo wa mnyororo wa mzazi $C_{\text{PAR}}$ na muunganisho wa ufunguo wa mzazi (ama ufunguo wa umma $K_{\text{PAR}}$ au ufunguo wa faragha $k_{\text{PAR}}$, kulingana na aina ya ufunguo wa mtoto unaotaka) na faharasa. Matokeo ya HMAC-SHA512 ni mlolongo wa 512-bit, umegawanywa katika sehemu mbili:
 
 
-- Baiti 32 za kwanza** (au $h_1$) hutumika kukokotoa jozi mpya ya watoto.
-- Baiti 32 za mwisho** (au $h_2$) hutumika kama msimbo mpya wa $C_{\text{CHD}}$ kwa jozi ya watoto.
+- **Bytes 32 za kwanza** (au $h_1$) hutumika kukokotoa jozi mpya ya watoto.
+- **Bytes 32 za mwisho** (au $h_2$) hutumika kama msimbo mpya wa $C_{\text{CHD}}$ kwa jozi ya watoto.
 
 Katika mahesabu yetu yote, nitaashiria $\text{Hash}$ pato la kazi ya HMAC-SHA512.
 
@@ -1669,7 +1669,7 @@ $$
 
 Katika hesabu hii, tunaona kwamba utendaji wetu wa HMAC huchukua pembejeo mbili: kwanza, msimbo wa mnyororo wa wazazi, na kisha uunganishaji wa faharasa na ufunguo wa umma unaohusishwa na ufunguo wa kibinafsi wa mzazi. Ufunguo wa umma wa mzazi unatumika hapa kwa sababu tunatazamia kupata ufunguo wa kawaida wa mtoto, sio ugumu.
 
-Sasa tunayo $\text{Hash}$ ya baiti 64 ambayo tutagawanya katika sehemu 2 za baiti 32 kila moja: $h_1$ na $h_2$:
+Sasa tunayo $\text{Hash}$ ya bytes 64 ambayo tutagawanya katika sehemu 2 za baiti 32 kila moja: $h_1$ na $h_2$:
 
 $$
 \text{hash} = h_1 \Vert h_2
@@ -1685,7 +1685,7 @@ $$
 k_{\text{CHD}}^n = \text{parse256}(h_1) + k_{\text{PAR}} \mod n
 $$
 
-Katika hesabu hii, operesheni $\text{parse256}(h_1)$ inajumuisha kutafsiri baiti 32 za kwanza za $\text{Hash}$ kama nambari kamili ya biti 256. Kisha nambari hii huongezwa kwa ufunguo wa faragha wa mzazi, yote huchukuliwa modulo $n$ ili kukaa ndani ya mpangilio wa mkunjo wa duaradufu, kama tulivyoona katika sehemu ya 3 ya sahihi za dijitali. Kwa hivyo, ili kupata ufunguo wa kibinafsi wa kawaida wa mtoto, ingawa ufunguo wa umma wa mzazi hutumiwa kama msingi wa kuhesabu katika pembejeo za chaguo za kukokotoa za HMAC-SHA512, daima ni muhimu kuwa na ufunguo wa faragha wa mzazi ili kukamilisha hesabu.
+Katika hesabu hii, operesheni $\text{parse256}(h_1)$ inajumuisha kutafsiri baiti 32 za kwanza za $\text{Hash}$ kama nambari kamili ya bytes 256. Kisha nambari hii huongezwa kwa ufunguo wa faragha wa mzazi, yote huchukuliwa modulo $n$ ili kukaa ndani ya mpangilio wa mkunjo wa duaradufu, kama tulivyoona katika sehemu ya 3 ya sahihi za dijitali. Kwa hivyo, ili kupata ufunguo wa kibinafsi wa kawaida wa mtoto, ingawa ufunguo wa umma wa mzazi hutumiwa kama msingi wa kuhesabu katika pembejeo za chaguo za kukokotoa za HMAC-SHA512, daima ni muhimu kuwa na ufunguo wa faragha wa mzazi ili kukamilisha hesabu.
 
 Kutoka kwa ufunguo huu wa faragha wa mtoto, inawezekana kupata ufunguo unaolingana wa umma kwa kutumia ECDSA au Schnorr. Kwa njia hii, tunapata jozi kamili ya funguo.
 
@@ -1747,7 +1747,7 @@ $$
 
 Katika hesabu hii, tunaona kwamba utendaji wetu wa HMAC huchukua pembejeo mbili: kwanza msimbo wa mnyororo wa wazazi, kisha uunganishaji wa faharasa na ufunguo wa umma wa mzazi.
 
-Kwa hivyo, sasa tuna $Hash$ ya baiti 64 ambazo tutagawanya katika sehemu 2 za baiti 32 kila moja: $h_1$ na $h_2$:
+Kwa hivyo, sasa tuna $Hash$ ya bytes 64 ambazo tutagawanya katika sehemu 2 za bytes 32 kila moja: $h_1$ na $h_2$:
 
 $$
 \text{hash} = h_1 \Vert h_2
@@ -1765,7 +1765,7 @@ $$
 
 Ikiwa $\text{parse256}(h_1) \geq n$ (mpangilio wa mkunjo wa duaradufu) au ikiwa $K_{\text{CHD}}^n$ ndio sehemu ya infinity, unyambulishaji si sahihi, na ni lazima uchaguliwe faharasa nyingine.
 
-Katika hesabu hii, operesheni $\text{parse256}(h_1)$ inahusisha kutafsiri baiti 32 za kwanza za $\text{Hash}$ kama nambari kamili ya biti 256. Nambari hii inatumika kukokotoa ncha kwenye mduara wa duaradufu kupitia kujumlisha na kuzidisha mara mbili kutoka kwa uhakika wa jenereta $G$. Hatua hii inaongezwa kwa ufunguo wa umma wa mzazi ili kupata ufunguo wa kawaida wa umma wa mtoto. Kwa hivyo, ili kupata ufunguo wa umma wa kawaida wa mtoto, ufunguo wa umma tu wa mzazi na msimbo wa mnyororo wa mzazi ni muhimu; ufunguo wa faragha wa mzazi hauji katika mchakato huu, tofauti na hesabu ya ufunguo wa faragha wa mtoto tulioona hapo awali.
+Katika hesabu hii, operesheni $\text{parse256}(h_1)$ inahusisha kutafsiri bytes 32 za kwanza za $\text{Hash}$ kama nambari kamili ya bits 256. Nambari hii inatumika kukokotoa ncha kwenye mduara wa duaradufu kupitia kujumlisha na kuzidisha mara mbili kutoka kwa uhakika wa jenereta $G$. Hatua hii inaongezwa kwa ufunguo wa umma wa mzazi ili kupata ufunguo wa kawaida wa umma wa mtoto. Kwa hivyo, ili kupata ufunguo wa umma wa kawaida wa mtoto, ufunguo wa umma tu wa mzazi na msimbo wa mnyororo wa mzazi ni muhimu; ufunguo wa faragha wa mzazi hauji katika mchakato huu, tofauti na hesabu ya ufunguo wa faragha wa mtoto tulioona hapo awali.
 
 Ifuatayo, nambari ya mnyororo wa watoto ni rahisi:
 
@@ -1782,8 +1782,8 @@ Hapa kuna uwakilishi wa kimkakati wa derivation ya jumla:
 Swali linaloweza kujitokeza ni jinsi ufunguo wa umma wa kawaida wa mtoto unaotokana na ufunguo wa umma wa mzazi unavyoweza kuwiana na ufunguo wa faragha wa kawaida wa mtoto unaotokana na ufunguo wa faragha wa mzazi unaolingana. Kiungo hiki kinahakikishwa kwa usahihi na mali ya curves ya mviringo. Hakika, kupata ufunguo wa kawaida wa umma wa mtoto, HMAC-SHA512 inatumika kwa njia ile ile, lakini matokeo yake hutumiwa tofauti:
 
 
-   - Ufunguo wa faragha wa kawaida wa mtoto**: $k_{\text{CHD}}^n = \text{parse256}(h_1) + k_{\text{PAR}} \mod n$
-   - Ufunguo wa kawaida wa umma wa mtoto**: $K_{\text{CHD}}^n = G \cdot \text{parse256}(h_1) + K_{\text{PAR}}$
+   - **Ufunguo wa faragha wa kawaida wa mtoto**: $k_{\text{CHD}}^n = \text{parse256}(h_1) + k_{\text{PAR}} \mod n$
+   - **Ufunguo wa kawaida wa umma wa mtoto**: $K_{\text{CHD}}^n = G \cdot \text{parse256}(h_1) + K_{\text{PAR}}$
 
 Shukrani kwa uongezaji na utendakazi maradufu kwenye curve ya duaradufu, mbinu zote mbili hutoa matokeo thabiti: ufunguo wa umma unaotokana na ufunguo wa faragha wa mtoto unafanana na ufunguo wa umma wa mtoto unaotolewa moja kwa moja kutoka kwa ufunguo wa umma wa mzazi.
 
@@ -1816,7 +1816,7 @@ Baada ya muda, BIP tofauti zimeanzisha viwango vya njia hizi za utokaji, zikilen
 
 ### Undani wa Utoaji wa HD Wallet
 
-Njia za utokaji zimepangwa katika tabaka za kina, kuanzia kina 0, ambacho kinawakilisha ufunguo mkuu na msimbo mkuu wa mnyororo, hadi tabaka za viwango vidogo vya kupata anwani zinazotumiwa kufunga UTXO. BIPs (*Mapendekezo ya Uboreshaji ya Bitcoin*) hufafanua viwango kwa kila Layer, ambayo husaidia kuoanisha mazoea katika programu mbalimbali za usimamizi wa Wallet.
+Njia za utokaji zimepangwa katika tabaka za kina, kuanzia kina 0, ambacho kinawakilisha ufunguo mkuu na msimbo mkuu wa chain, hadi tabaka za viwango vidogo vya kupata anwani zinazotumiwa kufunga UTXO. BIPs (*Mapendekezo ya Uboreshaji ya Bitcoin*) hufafanua viwango kwa kila Layer, ambayo husaidia kuoanisha mazoea katika programu mbalimbali za usimamizi wa Wallet.
 
 Kwa hivyo, njia ya utokaji inarejelea mlolongo wa fahirisi zinazotumiwa kupata funguo za watoto kutoka kwa ufunguo mkuu.
 
@@ -1854,8 +1854,8 @@ Mgawanyo huu katika akaunti tofauti ni wa hiari. Inalenga kurahisisha shirika la
 Kila akaunti iliyofafanuliwa kwa kina 3 basi imeundwa katika minyororo miwili:
 
 
-- Msururu wa nje**: Katika msururu huu, zile zinazojulikana kama anwani za "umma" zimetolewa. Anwani hizi za kupokea zimekusudiwa kufunga UTXO zinazotoka kwa miamala ya nje (yaani, inayotokana na utumiaji wa UTXO ambazo si zako). Ili kuiweka kwa urahisi, mlolongo huu wa nje hutumiwa wakati wowote mtu anataka kupokea bitcoins. Unapobofya "*pokea*" katika programu yako ya Wallet, daima ni Address kutoka kwa msururu wa nje unaotolewa kwako. Mlolongo huu unawakilishwa na jozi ya vitufe vinavyotokana na faharasa $/0/$.
-- Msururu wa ndani (mabadiliko)**: Msururu huu umehifadhiwa kwa ajili ya kupokea anwani zinazofunga bitcoins zinazotoka kwa matumizi ya UTXO ambazo ni zako, kwa maneno mengine, kubadilisha anwani. Inatambuliwa na faharasa $/1/$.
+- **Msururu wa nje**: Katika msururu huu, zile zinazojulikana kama anwani za "umma" zimetolewa. Anwani hizi za kupokea zimekusudiwa kufunga UTXO zinazotoka kwa miamala ya nje (yaani, inayotokana na utumiaji wa UTXO ambazo si zako). Ili kuiweka kwa urahisi, mlolongo huu wa nje hutumiwa wakati wowote mtu anataka kupokea bitcoins. Unapobofya "*pokea*" katika programu yako ya Wallet, daima ni Address kutoka kwa msururu wa nje unaotolewa kwako. Mlolongo huu unawakilishwa na jozi ya vitufe vinavyotokana na faharasa $/0/$.
+- **Msururu wa ndani (mabadiliko)**: Msururu huu umehifadhiwa kwa ajili ya kupokea anwani zinazofunga bitcoins zinazotoka kwa matumizi ya UTXO ambazo ni zako, kwa maneno mengine, kubadilisha anwani. Inatambuliwa na faharasa $/1/$.
 
 **Kina 5: Kielezo cha Address (BIP32)**
 
