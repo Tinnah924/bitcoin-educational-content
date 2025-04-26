@@ -1169,9 +1169,9 @@ Bendera hizi mbili za sighash zinaweza kutoa uwezekano wa ziada kwenye Bitcoin: 
 
 ![CYP201](assets/fr/032.webp)
 
-Wazo hili lilitayarishwa awali na Joseph Poon na Thaddeus Dryja katika Karatasi Nyeupe ya Umeme. Kabla ya kubadilishwa jina, bendera hii ya sighash iliitwa `SIGHASH_NOINPUT`.
+Wazo hili lilitayarishwa awali na Joseph Poon na Thaddeus Dryja katika Karatasi Nyeupe ya Lightning. Kabla ya kubadilishwa jina, bendera hii ya sighash iliitwa `SIGHASH_NOINPUT`.
 
-Ikiwa bendera hii ya sighash itaunganishwa katika Bitcoin, itawezesha matumizi ya maagano, lakini pia ni sharti la lazima la kutekeleza Eltoo, itifaki ya jumla ya tabaka za pili ambayo inafafanua jinsi ya kusimamia kwa pamoja Ownership ya UTXO. Eltoo iliundwa mahsusi kutatua shida zinazohusiana na mifumo ya kujadili hali ya njia za Umeme, ambayo ni, kati ya kufungua na kufunga.
+Ikiwa bendera hii ya sighash itaunganishwa katika Bitcoin, itawezesha matumizi ya maagano, lakini pia ni sharti la lazima la kutekeleza Eltoo, itifaki ya jumla ya tabaka za pili ambayo inafafanua jinsi ya kusimamia kwa pamoja Umiliki wa UTXO. Eltoo iliundwa  kutatua shida zinazohusiana na mifumo ya kujadili hali ya njia za Lightning, ambayo ni, kati ya kufungua na kufunga.
 
 Ili kuongeza ujuzi wako wa Lightning Network, baada ya kozi ya CYP201, ninapendekeza sana kozi ya LNP201 na Fanis Michalakis, ambayo inashughulikia mada kwa undani:
 
@@ -1182,11 +1182,11 @@ Katika sehemu inayofuata, ninapendekeza kugundua jinsi maneno ya Mnemonic kwenye
 
 <partId>4070af16-c8a2-58b5-9871-a22c86c07458</partId>
 
-## Mageuzi ya pochi za Bitcoin
+## Mageuzi ya Wallet za Bitcoin
 
 <chapterId>9d9acd5d-a0e5-5dfd-b544-f043fae8840f</chapterId>
 
-Kwa kuwa sasa tumechunguza utendakazi wa kazi za Hash na sahihi za dijitali, tunaweza kusoma jinsi pochi za Bitcoin zinavyofanya kazi. Lengo litakuwa kufikiria jinsi Wallet kwenye Bitcoin inavyoundwa, jinsi inavyotengana, na vipande tofauti vya habari vinavyoiunda vinatumika kwa matumizi gani. Uelewa huu wa taratibu za Wallet utakuruhusu kuboresha matumizi yako ya Bitcoin katika masuala ya usalama na faragha.
+Kwa kuwa sasa tumechunguza utendakazi wa kazi za Hash na sahihi za dijitali, tunaweza kusoma jinsi wallet za Bitcoin zinavyofanya kazi. Lengo litakuwa kufikiria jinsi Wallet kwenye Bitcoin inavyoundwa, jinsi inavyotengana, na vipande tofauti vya habari vinavyoiunda vinatumika kwa matumizi gani. Uelewa huu wa taratibu za Wallet utakuruhusu kuboresha matumizi yako ya Bitcoin katika masuala ya usalama na faragha.
 
 Kabla ya kuingia katika maelezo ya kiufundi, ni muhimu kufafanua nini maana ya "Bitcoin Wallet" na kuelewa matumizi yake.
 
@@ -1198,7 +1198,7 @@ UTXO kwa hivyo huwakilisha vipande vya bitcoins, vya ukubwa tofauti, ambavyo vin
 
 Jukumu la Bitcoin Wallet ni kudhibiti funguo hizi za faragha kwa usalama. Kwa kweli, jukumu lake ni sawa na lile la keychain kuliko Wallet kwa maana ya jadi.
 
-### Pochi za JBOK (_Funguo nyingi tu_)
+### Wallet za JBOK (_Funguo nyingi tu_)
 
 Pochi za kwanza zilizotumika kwenye Bitcoin zilikuwa pochi za JBOK (_Just a Bunch Of Keys_), ambazo ziliweka pamoja funguo zilizoundwa kwa faragha kwa kujitegemea na bila kiungo chochote kati yao. Pochi hizi zilifanya kazi kwa muundo rahisi ambapo kila ufunguo wa faragha ungeweza kufungua Bitcoin ya kipekee inayopokea Address.
 
@@ -1211,7 +1211,7 @@ Kizuizi hiki kinatokana na mtindo wa faragha wa Bitcoin. Kwa kutumia tena Addres
 Ili kupata maelezo zaidi kuhusu muundo wa faragha wa Bitcoin na kugundua mbinu za kulinda faragha yako, ninapendekeza pia kufuata kozi yangu ya BTC204 kwenye Plan ₿ Network:
 
 https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
-### Pochi za HD (_Hierarchical Deterministic_)
+### wallet za HD (_Hierarchical Deterministic_)
 
 Kwa Address kizuizi cha pochi za JBOK, muundo mpya wa Wallet ulitumiwa baadaye. Mnamo mwaka wa 2012, Pieter Wuille alianzisha uboreshaji na BIP32, ambayo inaleta pochi za uamuzi wa hierarkia. Kanuni ya HD Wallet ni kupata funguo zote za kibinafsi kutoka kwa chanzo kimoja cha habari, kinachoitwa seed, kwa njia ya kuamua na ya hierarchical. seed hii inatolewa kwa nasibu wakati Wallet inapoundwa na kuunda hifadhi rudufu ya kipekee inayoruhusu uundaji wa funguo zote za faragha za Wallet. Kwa hivyo, mtumiaji anaweza generate idadi kubwa sana ya funguo za faragha ili kuepuka kutumia tena Address na kuhifadhi faragha yao, huku akihitaji tu kufanya nakala moja ya Wallet yao kupitia seed.
 
@@ -1237,21 +1237,21 @@ Mikoba ya kisasa ya HD (ya kuamua na ya daraja) hutegemea taarifa moja ya awali 
 
 Entropy, katika muktadha wa fiche na maelezo, ni kipimo cha kiasi cha kutokuwa na uhakika au kutotabirika kuhusishwa na chanzo cha data au mchakato wa nasibu. Inachukua jukumu muhimu katika usalama wa mifumo ya kriptografia, haswa katika utengenezaji wa funguo na nambari za nasibu. Kiwango cha juu cha entropy huhakikisha kuwa funguo zinazozalishwa hazitabiriki vya kutosha na hustahimili mashambulizi ya nguvu, ambapo mshambuliaji hujaribu michanganyiko yote inayowezekana ili kubashiri ufunguo.
 
-Katika muktadha wa Bitcoin, entropy inatumika kwa generate seed. Wakati wa kuunda Wallet ya kuamua na ya hierarchical, ujenzi wa maneno ya Mnemonic unafanywa kutoka kwa nambari ya random, yenyewe inayotokana na chanzo cha entropy. Kisha maneno hutumika kwa generate funguo nyingi za faragha, kwa njia ya kuamua na ya uongozi, kuunda hali ya matumizi kwenye UTXO.
+Katika muktadha wa Bitcoin, entropy inatumika kwa kuzalisha seed. Wakati wa kuunda Wallet ya kuamua na ya hierarchical, ujenzi wa maneno ya Mnemonic unafanywa kutoka kwa nambari ya random, yenyewe inayotokana na chanzo cha entropy. Kisha maneno hutumika kwa kuzalisha funguo nyingi za faragha, kwa njia ya kuamua na ya uongozi, kuunda hali ya matumizi kwenye UTXO.
 
 ### Njia za Kuzalisha Entropy
 
 Entropy ya awali inayotumika kwa HD Wallet kwa ujumla ni biti 128 au biti 256, ambapo:
 
 
-- Biti 128 za entropy** zinalingana na kifungu cha Mnemonic cha **maneno 12**;
-- Biti 256 za entropy** zinalingana na kifungu cha maneno cha Mnemonic cha **maneno 24**.
+- **Bits 128 za entropy** zinalingana na kifungu cha Mnemonic cha **maneno 12**;
+- **Bits 256 za entropy** zinalingana na kifungu cha maneno cha Mnemonic cha **maneno 24**.
 
-Mara nyingi, nambari hii ya nasibu huzalishwa kiotomatiki na programu ya Wallet kwa kutumia PRNG (_Pseudo-Random Number Generator_). PRNG ni kategoria ya algoriti zinazotumiwa kwa mfuatano wa generate wa nambari kutoka hali ya awali, ambayo ina sifa zinazokaribia ile ya nambari nasibu, bila kuwa moja. PRNG nzuri lazima iwe na sifa kama vile usawa wa matokeo, kutotabirika, na upinzani dhidi ya mashambulizi ya kutabiri. Tofauti na jenereta za kweli za nambari nasibu (TRNG), PRNG zinaweza kubainishwa na zinaweza kuzaliana tena.
+Mara nyingi, nambari hii ya nasibu huzalishwa kiotomatiki na programu ya Wallet kwa kutumia PRNG (_Pseudo-Random Number Generator_). PRNG ni kategoria ya algoriti zinazotumiwa kwa mfuatano wa kuzalishwa wa nambari kutoka hali ya awali, ambayo ina sifa zinazokaribia ile ya nambari nasibu, bila kuwa moja. PRNG nzuri lazima iwe na sifa kama vile usawa wa matokeo, kutotabirika, na upinzani dhidi ya mashambulizi ya kutabiri. Tofauti na jenereta za kweli za nambari nasibu (TRNG), PRNG zinaweza kubainishwa na zinaweza kuzaliana tena.
 
 ![CYP201](assets/fr/035.webp)
 
-Njia mbadala ni generate entropy mwenyewe, ambayo inatoa udhibiti bora lakini pia ni hatari zaidi. Ninashauri sana dhidi ya kutengeneza entropy ya HD yako Wallet wewe mwenyewe.
+Njia mbadala ni kuzalisha entropy mwenyewe, ambayo inatoa udhibiti bora lakini pia ni hatari zaidi. Ninashauri sana dhidi ya kutengeneza entropy ya HD yako Wallet wewe mwenyewe.
 
 Katika sura inayofuata, tutaona jinsi tunavyotoka kwa nambari isiyo ya kawaida hadi kifungu cha Mnemonic cha maneno 12 au 24.
 
@@ -1312,11 +1312,11 @@ Kwa mfano, kwa entropy ya 256-bit, matokeo $\text{ENT} \Vert \text{CS}$ ni biti 
 
 ### Ubadilishaji wa Mfuatano wa Nambari kuwa Neno la Mnemonic
 
-Mfuatano wa biti $\text{ENT} \Vert \text{CS}$ kisha umegawanywa katika sehemu za biti 11. Kila sehemu ya biti 11, ikibadilishwa kuwa desimali, inalingana na nambari kati ya 0 na 2047, ambayo huashiria nafasi ya neno [katika orodha ya maneno 2048 yaliyosanifiwa na BIP39](https://github.com/Planb-Network/Bitcoin-educational-content/blob/dev/resources/bet/bip39-wordlist/assets/BIP39-WORDLIST.pdf).
+Mfuatano wa bits $\text{ENT} \Vert \text{CS}$ kisha umegawanywa katika sehemu za biti 11. Kila sehemu ya biti 11, ikibadilishwa kuwa desimali, inalingana na nambari kati ya 0 na 2047, ambayo huashiria nafasi ya neno [katika orodha ya maneno 2048 yaliyosanifiwa na BIP39](https://github.com/Planb-Network/Bitcoin-educational-content/blob/dev/resources/bet/bip39-wordlist/assets/BIP39-WORDLIST.pdf).
 
 ![CYP201](assets/fr/037.webp)
 
-Kwa mfano, kwa entropy ya 128-bit, checksum ni bits 4, na hivyo mlolongo wa jumla hupima bits 132. Imegawanywa katika sehemu 12 za biti 11 (biti za machungwa hutaja cheki):
+Kwa mfano, kwa entropy ya 128-bits, checksum ni bits 4, na hivyo mlolongo wa jumla hupima bits 132. Imegawanywa katika sehemu 12 za bits 11 (biti za machungwa hutaja cheki):
 
 ![CYP201](assets/fr/038.webp)
 
@@ -1348,9 +1348,9 @@ $$
 
 Kwa hiyo, inachukuliwa kuwa ufunguo wa kibinafsi unaotumiwa kwenye Bitcoin hutoa bits 128 za usalama.
 
-Kwa hivyo, kuchagua kifungu cha maneno 24 hakutoi ulinzi wa ziada kwa Wallet, kwani biti 256 za usalama kwenye kifungu hazina maana ikiwa vitufe vilivyotolewa vinatoa tu biti 128 za usalama. Ili kuonyesha kanuni hii, ni kama kuwa na nyumba yenye milango miwili: mlango wa zamani wa mbao na mlango ulioimarishwa. Katika tukio la wizi, mlango ulioimarishwa hautakuwa na manufaa, kwa kuwa mshambulizi angepitia mlango wa mbao. Hii ni hali inayofanana hapa.
+Kwa hivyo, kuchagua kifungu cha maneno 24 hakutoi ulinzi wa ziada kwa Wallet, kwani bits 256 za usalama kwenye kifungu hazina maana ikiwa vitufe vilivyotolewa vinatoa tu biti 128 za usalama. Ili kuonyesha kanuni hii, ni kama kuwa na nyumba yenye milango miwili: mlango wa zamani wa mbao na mlango ulioimarishwa. Katika tukio la wizi, mlango ulioimarishwa hautakuwa na manufaa, kwa kuwa mshambulizi angepitia mlango wa mbao. Hii ni hali inayofanana hapa.
 
-Kifungu cha maneno 12, ambacho pia hutoa biti 128 za usalama, kwa hivyo kwa sasa kinatosha kulinda bitcoins zako dhidi ya jaribio lolote la wizi. Maadamu algoriti ya sahihi ya dijiti haibadiliki ili kutumia vitufe vikubwa zaidi au kutegemea tatizo la hisabati kando na ECDLP, kishazi cha maneno 24 kinasalia kuwa cha juu zaidi. Zaidi ya hayo, maneno marefu huongeza hatari ya hasara wakati wa kuhifadhi: chelezo ambayo ni fupi mara mbili huwa rahisi kudhibiti kila wakati.
+Kifungu cha maneno 12, ambacho pia hutoa bits 128 za usalama, kwa hivyo kwa sasa kinatosha kulinda bitcoins zako dhidi ya jaribio lolote la wizi. Maadamu algoriti ya sahihi ya dijiti haibadiliki ili kutumia vitufe vikubwa zaidi au kutegemea tatizo la hisabati kando na ECDLP, kishazi cha maneno 24 kinasalia kuwa cha juu zaidi. Zaidi ya hayo, maneno marefu huongeza hatari ya hasara wakati wa kuhifadhi: chelezo ambayo ni fupi mara mbili huwa rahisi kudhibiti kila wakati.
 
 Ili kwenda mbali zaidi na kujifunza kwa uwazi jinsi ya kutengeneza maneno ya generate ya jaribio la Mnemonic, nakushauri ugundue somo hili:
 
@@ -1361,7 +1361,7 @@ Kabla ya kuendelea na upataji wa Wallet kutoka kwa kifungu hiki cha Mnemonic, ni
 
 <chapterId>6a51b397-f3b5-5084-b151-cef94bc9b93f</chapterId>
 
-Kama tulivyoona hivi punde, pochi za HD hutengenezwa kutoka kwa maneno ya Mnemonic ambayo kwa kawaida huwa na maneno 12 au 24. Maneno haya ni muhimu sana kwa sababu inaruhusu kurejeshwa kwa funguo zote za Wallet ikiwa kifaa chake cha kimwili (kama Hardware Wallet, kwa mfano) kinapotea. Hata hivyo, ni hatua moja ya kushindwa, kwa sababu ikiwa imeathiriwa, mshambuliaji anaweza kuiba bitcoins zote. Hapa ndipo BIP39 passphrase inapotumika.
+Kama tulivyoona hivi punde wallet za HD hutengenezwa kutoka kwa maneno ya Mnemonic ambayo kwa kawaida huwa na maneno 12 au 24. Maneno haya ni muhimu sana kwa sababu inaruhusu kurejeshwa kwa funguo zote za Wallet ikiwa kifaa chake cha kimwili (kama Hardware Wallet, kwa mfano) kinapotea. Hata hivyo, ni hatua moja ya kushindwa, kwa sababu ikiwa imeathiriwa, mshambuliaji anaweza kuiba bitcoins zote. Hapa ndipo BIP39 passphrase inapotumika.
 
 ### BIP39 passphrase ni nini?
 
@@ -1385,7 +1385,7 @@ Hatimaye, matumizi ya passphrase ni ya kuvutia wakati mtu anataka kudhibiti rand
 
 Ili passphrase iwe na ufanisi, lazima iwe ndefu na isiyo ya kawaida vya kutosha. Kama ilivyo kwa nenosiri dhabiti, ninapendekeza kuchagua passphrase ambayo ni ndefu na isiyo na mpangilio iwezekanavyo, yenye herufi, nambari na alama tofauti ili kufanya shambulio lolote la kikatili lisiwezekane.
 
-Pia ni muhimu kuokoa vizuri passphrase hii, kwa njia sawa na maneno ya Mnemonic. **Kuipoteza kunamaanisha kupoteza ufikiaji wa bitcoins zako **. Ninashauri sana dhidi ya kukumbuka kwa moyo tu, kwani hii inaongeza hatari ya kupoteza bila sababu. Bora ni kuiandika kwenye nyenzo ya kimwili (karatasi au chuma) tofauti na maneno ya Mnemonic. Nakala hii lazima ihifadhiwe mahali tofauti na ambapo maneno yako ya Mnemonic yamehifadhiwa ili kuzuia zote mbili zisiathiriwe kwa wakati mmoja.
+Pia ni muhimu kuokoa vizuri passphrase hii, kwa njia sawa na maneno ya Mnemonic. **Kuipoteza kunamaanisha kupoteza ufikiaji wa bitcoins zako**. Ninashauri sana dhidi ya kukumbuka kwa moyo tu, kwani hii inaongeza hatari ya kupoteza bila sababu. Bora ni kuiandika kwenye nyenzo ya kimwili (karatasi au chuma) tofauti na maneno ya Mnemonic. Nakala hii lazima ihifadhiwe mahali tofauti na ambapo maneno yako ya Mnemonic yamehifadhiwa ili kuzuia zote mbili zisiathiriwe kwa wakati mmoja.
 
 ![CYP201](assets/fr/042.webp)
 
@@ -1449,8 +1449,8 @@ $$
 Matokeo ya chaguo hili la kukokotoa ni biti 512. Kisha imegawanywa katika sehemu 2:
 
 
-- Biti 256 za kushoto huunda **ufunguo mkuu wa faragha**;
-- Biti 256 za kulia huunda **msimbo mkuu wa mnyororo**.
+- Bits 256 za kushoto huunda **ufunguo mkuu wa faragha**;
+- Bits 256 za kulia huunda **msimbo mkuu wa mnyororo**.
 
 Kihesabu, maadili haya mawili yanaweza kutambuliwa kama ifuatavyo na $k_M$ kuwa ufunguo mkuu wa faragha na $C_M$ msimbo mkuu wa mnyororo:
 
