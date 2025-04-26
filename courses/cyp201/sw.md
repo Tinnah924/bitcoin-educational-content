@@ -810,7 +810,7 @@ Tabia kuu ya operesheni hii ni kwamba ni kazi ya njia moja. Ni rahisi kukokotoa 
 
 ![CYP201](assets/fr/018.webp)
 
-### Kuongeza na Kuongezeka maradufu kwa Pointi kwenye Mikondo ya Mviringo
+### Kuongeza na kuzidisha maradufu kwa Pointi kwenye Mikondo ya elliptic 
 
 Dhana ya kuongeza kwenye curves ya mviringo inaelezwa kijiometri. Ikiwa tuna pointi mbili $P$ na $Q$ kwenye mkunjo, operesheni $P + Q$ inakokotolewa kwa kuchora mstari unaopita $P$ na $Q$. Laini hii itakatiza mkunjo katika sehemu ya tatu $R'$. Kisha tunachukua picha ya kioo ya hatua hii kwa heshima na mhimili wa x kupata uhakika $R$, ambayo ni matokeo ya nyongeza:
 
@@ -886,9 +886,9 @@ Kwa kweli, katika mfano huu uliorahisishwa na $k = 4$, itawezekana kupata $k$ ku
 
 Sasa kwa kuwa unajua jinsi ya kupata ufunguo wa umma kutoka kwa ufunguo wa kibinafsi, unaweza tayari kupokea bitcoins kwa kutumia jozi ya funguo kama hali ya matumizi. Lakini jinsi ya kuzitumia? Ili kutumia bitcoins, utahitaji kufungua _scriptPubKey_ iliyoambatishwa kwenye UTXO yako ili kuthibitisha kuwa wewe ni mmiliki wake halali. Ili kufanya hivyo, ni lazima utoe sahihi $s$ inayolingana na ufunguo wa umma $K$ uliopo kwenye _scriptPubKey_ ukitumia ufunguo wa faragha $k$ ambao ulitumika awali kukokotoa $K$. Kwa hivyo, sahihi ya dijiti ni uthibitisho usioweza kukanushwa kuwa una ufunguo wa faragha unaohusishwa na ufunguo wa umma unaodai.
 
-### Vigezo vya mviringo vya mviringo
+### Vigezo vya mviringo vya elliptic
 
-Ili kutekeleza saini ya dijiti, washiriki wote lazima kwanza wakubaliane juu ya vigezo vya curve ya mviringo iliyotumiwa. Kwa upande wa Bitcoin, vigezo vya **secp256k1** ni kama ifuatavyo:
+Ili kutekeleza saini ya dijiti, washiriki wote lazima kwanza wakubaliane juu ya vigezo vya curve ya mkunjo iliyotumiwa. Kwa upande wa Bitcoin, vigezo vya **secp256k1** ni kama ifuatavyo:
 
 Sehemu ya mwisho $\mathbb{Z}_p$ imefafanuliwa na:
 
@@ -932,11 +932,11 @@ $h$ ni cofactor au idadi ya vikundi vidogo. Sitafafanua nini hii inawakilisha ha
 
 Taarifa hizi zote ni za umma na zinajulikana kwa washiriki wote. Shukrani kwao, watumiaji wanaweza kutengeneza saini ya dijiti na kuithibitisha.
 
-### Sahihi na ECDSA
+### Kutia Saini kwa kutumia ECDSA
 
 Kanuni za ECDSA humruhusu mtumiaji kutia sahihi ujumbe kwa kutumia ufunguo wake wa faragha, kwa njia ambayo mtu yeyote anayejua ufunguo unaolingana wa umma anaweza kuthibitisha uhalali wa sahihi, bila ufunguo wa faragha kufichuliwa. Katika muktadha wa Bitcoin, ujumbe utakaotiwa saini unategemea _sighash_ iliyochaguliwa na mtumiaji. Ni _sighash_ hii ambayo itaamua ni sehemu gani za muamala zimefunikwa na sahihi. Nitazungumza zaidi juu ya hili katika sura inayofuata.
 
-Hapa kuna hatua za generate sahihi ya ECDSA:
+Hapa kuna hatua za kutengeneza sahihi ya ECDSA:
 
 Kwanza, tunakokotoa Hash ($e$) ya ujumbe unaohitaji kusainiwa. Ujumbe $m$ kwa hivyo hupitishwa kupitia kazi ya kriptografia ya Hash, kwa ujumla SHA256 au SHA256 mara mbili katika kesi ya Bitcoin:
 
@@ -1007,7 +1007,7 @@ $$
 
 Sahihi ni halali ikiwa tu $x_V \equiv x_R \mod n$, ambapo $x_V$ ni $x$ kiratibu cha uhakika $V$. Hakika, kwa kuchanganya $u_1 \cdot G$ na $u_2 \cdot K$, mtu hupata pointi $V$ ambayo, ikiwa saini ni halali, lazima ilingane na uhakika $R$ uliotumiwa wakati wa kusaini (modulo $n$).
 
-### Sahihi na Itifaki ya Schnorr
+### Sahihi kwa kutumia Itifaki ya Schnorr
 
 Mpango wa sahihi wa Schnorr ni mbadala wa ECDSA ambao hutoa faida nyingi. Imewezekana kuitumia kwenye Bitcoin tangu 2021 na kuanzishwa kwa Taproot, na mifumo ya hati ya P2TR. Kama ECDSA, mpango wa Schnorr unaruhusu kusaini ujumbe kwa kutumia ufunguo wa faragha, kwa njia ambayo saini inaweza kuthibitishwa na mtu yeyote anayejua ufunguo wa umma unaolingana.
 
@@ -1019,7 +1019,7 @@ $$
 \text{pk} = K_x
 $$
 
-Hatua ya kwanza kwa generate saini ni Hash ujumbe. Lakini tofauti na ECDSA, inafanywa na maadili mengine na kitendakazi kilicho na lebo ya Hash kinatumika ili kuzuia migongano katika miktadha tofauti. Chaguo za kukokotoa zilizo na lebo ya Hash huhusisha tu kuongeza lebo kiholela kwa ingizo za chaguo za kukokotoa za Hash pamoja na data ya ujumbe.
+Hatua ya kwanza kwa kutengeneza saini ni Hash ujumbe. Lakini tofauti na ECDSA, inafanywa na maadili mengine na kitendakazi kilicho na lebo ya Hash kinatumika ili kuzuia migongano katika miktadha tofauti. Chaguo za kukokotoa zilizo na lebo ya Hash huhusisha tu kuongeza lebo kiholela kwa ingizo za chaguo za kukokotoa za Hash pamoja na data ya ujumbe.
 
 ![CYP201](assets/fr/023.webp)
 
