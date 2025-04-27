@@ -1,6 +1,6 @@
 ---
 name: Kuanzisha BitAxe
-Maelezo: Jinsi ya kusanidi BitAxe?
+description: Jinsi ya kusanidi BitAxe?
 
 ---
 
