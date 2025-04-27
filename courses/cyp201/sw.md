@@ -812,7 +812,7 @@ Tabia kuu ya operesheni hii ni kwamba ni kazi ya njia moja. Ni rahisi kukokotoa 
 
 ### Kuongeza na kuzidisha maradufu kwa Pointi kwenye Mikondo ya elliptic 
 
-Dhana ya kuongeza kwenye curves ya mviringo inaelezwa kijiometri. Ikiwa tuna pointi mbili $P$ na $Q$ kwenye mkunjo, operesheni $P + Q$ inakokotolewa kwa kuchora mstari unaopita $P$ na $Q$. Laini hii itakatiza mkunjo katika sehemu ya tatu $R'$. Kisha tunachukua picha ya kioo ya hatua hii kwa heshima na mhimili wa x kupata uhakika $R$, ambayo ni matokeo ya nyongeza:
+Dhana ya kuongeza kwenye curves ya mviringo inaelezwa kijiometri. Ikiwa tuna pointi mbili $P$ na $Q$ kwenye curve, operesheni $P + Q$ inakokotolewa kwa kuchora mstari unaopita $P$ na $Q$. Laini hii itakatiza curve katika sehemu ya tatu $R'$. Kisha tunachukua picha ya kioo ya hatua hii kwa heshima na mhimili wa x kupata uhakika $R$, ambayo ni matokeo ya nyongeza:
 
 $$
 P + Q = R
@@ -1011,7 +1011,7 @@ Sahihi ni halali ikiwa tu $x_V \equiv x_R \mod n$, ambapo $x_V$ ni $x$ kiratibu 
 
 Mpango wa sahihi wa Schnorr ni mbadala wa ECDSA ambao hutoa faida nyingi. Imewezekana kuitumia kwenye Bitcoin tangu 2021 na kuanzishwa kwa Taproot, na mifumo ya hati ya P2TR. Kama ECDSA, mpango wa Schnorr unaruhusu kusaini ujumbe kwa kutumia ufunguo wa faragha, kwa njia ambayo saini inaweza kuthibitishwa na mtu yeyote anayejua ufunguo wa umma unaolingana.
 
-Kwa upande wa Schnorr, curve sawa kabisa na ECDSA inatumiwa na vigezo sawa. Hata hivyo, funguo za umma zinawakilishwa tofauti kidogo ikilinganishwa na ECDSA. Hakika, zimeteuliwa tu na uratibu wa $x$ wa uhakika kwenye curve ya duaradufu. Tofauti na ECDSA, ambapo funguo za umma zilizobanwa zinawakilishwa na baiti 33 (pamoja na kiambishi awali cha baiti inayoonyesha usawa wa $y$), Schnorr hutumia funguo za umma za baiti 32, zinazolingana tu na kiratibu cha $x$ cha uhakika $K$, na inachukuliwa kuwa $y$ ni hata kwa chaguo-msingi. Uwakilishi huu uliorahisishwa hupunguza ukubwa wa saini na kuwezesha uboreshaji fulani katika kanuni za uthibitishaji.
+Kwa upande wa Schnorr, curve sawa kabisa na ECDSA inatumiwa na vigezo sawa. Hata hivyo, funguo za umma zinawakilishwa tofauti kidogo ikilinganishwa na ECDSA. Hakika, zimeteuliwa tu na uratibu wa $x$ wa uhakika kwenye curve ya duaradufu. Tofauti na ECDSA, ambapo funguo za umma zilizobanwa zinawakilishwa na baiti 33 (pamoja na kiambishi awali cha baiti inayoonyesha usawa wa $y$), Schnorr hutumia funguo za umma za bytes 32, zinazolingana tu na kiratibu cha $x$ cha uhakika $K$, na inachukuliwa kuwa $y$ ni hata kwa chaguo-msingi. Uwakilishi huu uliorahisishwa hupunguza ukubwa wa saini na kuwezesha uboreshaji fulani katika kanuni za uthibitishaji.
 
 Kitufe cha umma basi ni kiratibu cha $x$ cha uhakika $K$:
 
@@ -1087,7 +1087,7 @@ $$
 
 ### Faida za saini za Schnorr
 
-Mpango wa sahihi wa Schnorr unatoa faida kadhaa kwa Bitcoin juu ya algoriti asilia ya ECDSA. Kwanza, Schnorr inaruhusu ujumlisho wa funguo na saini. Hii inamaanisha kuwa funguo nyingi za umma zinaweza kuunganishwa kuwa ufunguo mmoja.
+Mpango wa saini wa Schnorr unatoa faida kadhaa kwa Bitcoin juu ya algoriti asilia ya ECDSA. Kwanza, Schnorr inaruhusu ujumlisho wa funguo na saini. Hii inamaanisha kuwa funguo nyingi za umma zinaweza kuunganishwa kuwa ufunguo mmoja.
 
 ![CYP201](assets/fr/024.webp)
 
@@ -1095,7 +1095,7 @@ Na vile vile, sahihi nyingi zinaweza kujumlishwa kuwa sahihi moja halali. Kwa hi
 
 ![CYP201](assets/fr/025.webp)
 
-Zaidi ya hayo, ujumlishaji wa saini huboresha faragha. Kwa Schnorr, inakuwa vigumu kutofautisha muamala wa saini nyingi kutoka kwa muamala wa kawaida wa sahihi moja. Homogeneity hii inafanya uchambuzi wa mnyororo kuwa mgumu zaidi, kwani inapunguza uwezo wa kutambua alama za vidole za Wallet.
+Zaidi ya hayo, ujumlishaji wa saini huboresha faragha. Kwa Schnorr, inakuwa vigumu kutofautisha muamala wa saini nyingi kutoka kwa muamala wa kawaida wa sahihi moja. Ufanano huu unafanya uchambuzi wa chain kuwa mgumu zaidi, kwani inapunguza uwezo wa kutambua alama za vidole za Wallet.
 
 Hatimaye, Schnorr pia inatoa uwezekano wa uthibitishaji wa kundi. Kwa kuthibitisha saini nyingi kwa wakati mmoja, nodi zinaweza kupata ufanisi, hasa kwa vitalu vilivyo na miamala mingi. Uboreshaji huu hupunguza muda na rasilimali zinazohitajika ili kuthibitisha kizuizi.
 
@@ -1914,19 +1914,19 @@ Katika sura inayofuata, tutagundua "*vielezi vya hati ya pato*" ni nini, uvumbuz
 
 <chapterId>e4f1c2d3-9b8a-4d3e-8f2a-7b6c5d4e3f2a</chapterId>
 
-Mara nyingi huambiwa kwamba maneno ya Mnemonic pekee yanatosha kurejesha upatikanaji wa Wallet. Kwa kweli, mambo ni magumu zaidi. Katika sura iliyopita, tuliangalia muundo wa derivation wa HD Wallet, na unaweza kuwa umeona kuwa mchakato huu ni ngumu sana. Njia za utokaji huambia programu mwelekeo wa kufuata ili kupata funguo za mtumiaji. Hata hivyo, wakati wa kurejesha Bitcoin Wallet, ikiwa mtu hajui njia hizi, maneno ya Mnemonic pekee haitoshi. Inaruhusu kupata ufunguo mkuu na msimbo mkuu wa mnyororo, lakini ni muhimu kujua faharasa zinazotumiwa kufikia funguo za mtoto.
+Mara nyingi huambiwa kwamba maneno ya Mnemonic pekee yanatosha kurejesha upatikanaji wa Wallet. Kwa kweli, mambo ni magumu zaidi. Katika sura iliyopita, tuliangalia muundo wa derivation wa HD Wallet, na unaweza kuwa umeona kuwa mchakato huu ni ngumu sana. Njia za utokaji huambia programu mwelekeo wa kufuata ili kupata funguo za mtumiaji. Hata hivyo, wakati wa kurejesha Bitcoin Wallet, ikiwa mtu hajui njia hizi, maneno ya Mnemonic pekee haitoshi. Inaruhusu kupata ufunguo mkuu na msimbo mkuu wa chain, lakini ni muhimu kujua faharasa zinazotumiwa kufikia funguo za mtoto.
 
 Kinadharia, itakuwa muhimu kuokoa sio tu maneno ya Mnemonic ya Wallet yetu lakini pia njia za akaunti tunazotumia. Katika mazoezi, mara nyingi inawezekana kurejesha upatikanaji wa funguo za mtoto bila habari hii, ikiwa ni pamoja na kwamba viwango vimefuatwa. Kwa kupima kila kiwango moja baada ya nyingine, kwa ujumla inawezekana kupata tena upatikanaji wa bitcoins. Walakini, hii haijahakikishwa na ni ngumu sana kwa Kompyuta. Pia, pamoja na mseto wa aina za hati na kuibuka kwa usanidi changamano zaidi, maelezo haya yanaweza kuwa magumu kueleza, hivyo basi kubadilisha data hii kuwa taarifa ya faragha na vigumu kurejesha kwa nguvu ya kikatili. Hii ndiyo sababu uvumbuzi umeanzishwa hivi majuzi na unaanza kuunganishwa kwenye programu yako uipendayo ya Wallet: *vielezi vya hati ya pato*.
 
 ### "Descriptor" ni nini?
 
-"*vifafanuzi vya hati ya pato*", au kwa urahisi "*vielezi*", ni semi zilizoundwa ambazo zinafafanua kikamilifu hati ya pato (*scriptPubKey*) na kutoa taarifa zote zinazohitajika ili kufuata miamala inayohusishwa na hati fulani. Huwezesha usimamizi wa funguo katika pochi za HD kwa kutoa maelezo sanifu na kamili ya muundo wa Wallet na aina za anwani zinazotumiwa.
+"*vifafanuzi vya hati ya pato*"("*output script descriptors*"), au kwa urahisi "*Descriptor*", ni semi zilizoundwa ambazo zinafafanua kikamilifu hati ya pato (*scriptPubKey*) na kutoa taarifa zote zinazohitajika ili kufuata miamala inayohusishwa na hati fulani. Huwezesha usimamizi wa funguo katika pochi za HD kwa kutoa maelezo sanifu na kamili ya muundo wa Wallet na aina za anwani zinazotumiwa.
 
-Faida kuu ya vifafanuzi iko katika uwezo wao wa kuingiza taarifa zote muhimu ili kurejesha Wallet katika kamba moja (pamoja na maneno ya kurejesha). Kwa kuhifadhi kifafanuzi na vifungu vinavyohusiana vya Mnemonic, inakuwa rahisi kurejesha funguo za faragha kwa kujua kwa usahihi nafasi yao katika uongozi. Kwa pochi za Multisig, ambazo nakala yake awali ilikuwa ngumu zaidi, kifafanuzi kinajumuisha `xpub` ya kila kipengele, hivyo basi kuhakikisha uwezekano wa kuunda upya anwani iwapo kutatokea tatizo.
+Faida kuu ya Descriptor iko katika uwezo wao wa kuingiza taarifa zote muhimu ili kurejesha Wallet katika kamba moja (pamoja na maneno ya kurejesha). Kwa kuhifadhi descriptors na vifungu vinavyohusiana vya Mnemonic, inakuwa rahisi kurejesha funguo za faragha kwa kujua kwa usahihi nafasi yao katika uongozi. Kwa wallet za Multisig, ambazo nakala yake awali ilikuwa ngumu zaidi, descriptor inajumuisha `xpub` ya kila kipengele, hivyo basi kuhakikisha uwezekano wa kuunda upya anwani iwapo kutatokea tatizo.
 
 ### Ujenzi wa kielezi
 
-Kifafanuzi kina Elements kadhaa:
+Descriptor ina Elements kadhaa:
 
 
 - Hati za kufanya kazi kama vile `pk` (*Pay-to-PubKey*), `pkh` (*Pay-to-PubKey-Hash*), `wpkh` (*Pay-to-Witness-PubKey-Hash*), `sh` (*Pay-to-Script-Hash*), `wsh`-GW-GW-8`, `wsh`-GW-8, `Wsh-Pay-8' (*-Wness-8) (*Pay-to-Taproot*), `multi` (*Sahihi nyingi*), na `sortedmulti` (*Sahihi nyingi zenye vitufe vilivyopangwa*);
@@ -1934,13 +1934,13 @@ Kifafanuzi kina Elements kadhaa:
 - Vifunguo katika miundo mbalimbali kama vile vitufe vya umma vya heksadesimali au vitufe vilivyopanuliwa vya umma (`xpub`);
 - Cheki, ikitanguliwa na ishara ya Hash, ili kuthibitisha uadilifu wa kifafanuzi.
 
-Kwa mfano, kifafanuzi cha P2WPKH (SegWit v0) Wallet kinaweza kuonekana kama:
+Kwa mfano, descriptor ya P2WPKH (SegWit v0) Wallet inaweza kuonekana kama:
 
 ```text
 wpkh([cdeab12f/84h/0h/0h]xpub6CUGRUonZSQ4TWtTMmzXdrXDtyPWKiKbERr4d5qkSmh5h17C1TjvMt7DJ9Qve4dRxm91CDv6cNfKsq2mK1rMsJKhtRUPZz7MQtp3y6atC1U/<0;1>/*)#jy0l7nr4
 ```
 
-Katika kifafanuzi hiki, chaguo la kukokotoa `wpkh` linaonyesha aina ya hati *Pay-to-Witness-Public-Key-Hash*. Inafuatwa na njia ya kupatikana ambayo ina:
+katika dedescriptor hii, chaguo la kukokotoa `wpkh` linaonyesha aina ya hati *Pay-to-Witness-Public-Key-Hash*. Inafuatwa na njia ya kupatikana ambayo ina:
 
 
 - `cdeab12f`: alama ya vidole ya ufunguo mkuu;
@@ -1948,15 +1948,15 @@ Katika kifafanuzi hiki, chaguo la kukokotoa `wpkh` linaonyesha aina ya hati *Pay
 - `0h`: ambayo inaonyesha kuwa ni sarafu ya BTC kwenye Mainnet;
 - `0h`: ambayo inarejelea nambari mahususi ya akaunti iliyotumika katika Wallet.
 
-Kifafanuzi pia kinajumuisha ufunguo uliopanuliwa wa umma unaotumika katika Wallet hii:
+Descriptor pia kinajumuisha ufunguo uliopanuliwa wa umma unaotumika katika Wallet hii:
 
 ```text
 xpub6CUGRUonZSQ4TWtTMmzXdrXDtyPWKiKbERr4d5qkSmh5h17C1TjvMt7DJ9Qve4dRxm91CDv6cNfKsq2mK1rMsJKhtRUPZz7MQtp3y6atC1U
 ```
 
-Ifuatayo, nukuu `/<0;1>/*` hubainisha kuwa kifafanuzi kinaweza anwani za generate kutoka kwa msururu wa nje (`0`) na mnyororo wa ndani (`1`), na kadi-mwitu (`*`) ikiruhusu utokezi mfuatano wa anwani nyingi kwa njia inayoweza kusanidiwa, sawa na kudhibiti "kikomo cha pengo" kwenye programu ya jadi ya GW-6.
+Ifuatayo, nukuu `/<0;1>/*` hubainisha kuwa Descriptor hutengeneza anwani kutoka kwenye  chain ya nje(`0`) na chain ya ndani (`1`), na kadi-mwitu (`*`) ikiruhusu utokezi mfuatano wa anwani nyingi kwa njia inayoweza kusanidiwa, sawa na kudhibiti "kikomo cha pengo" kwenye programu ya jadi ya GW-6.
 
-Hatimaye, `#jy0l7nr4` inawakilisha checksum ili kuthibitisha uadilifu wa kifafanuzi.
+Hatimaye, `#jy0l7nr4` inawakilisha checksum ili kuthibitisha uadilifu wa descriptor.
 
 Sasa unajua kila kitu kuhusu uendeshaji wa HD Wallet kwenye Bitcoin na mchakato wa kupata jozi muhimu. Hata hivyo, katika sura za mwisho, tulijiwekea mipaka kwa kizazi cha funguo za kibinafsi na za umma, bila kushughulikia ujenzi wa kupokea anwani. Hili litakuwa somo la sura inayofuata!
 
@@ -1968,7 +1968,7 @@ Anwani za kupokea ni vipande vya maelezo yaliyopachikwa katika *scriptPubKey* il
 
 ### Jukumu la Anwani za Bitcoin katika Hati
 
-Kama ilivyoelezwa hapo awali, jukumu la shughuli ni kuhamisha Ownership ya bitcoins kutoka kwa pembejeo hadi kwenye matokeo. Utaratibu huu unahusisha kutumia UTXO kama pembejeo huku ukiunda UTXO mpya kama matokeo. UTXO hizi zimehifadhiwa na maandiko, ambayo hufafanua hali muhimu za kufungua fedha.
+Kama ilivyoelezwa hapo awali, jukumu la shughuli ni kuhamisha Umiliki wa bitcoins kutoka kwa pembejeo hadi kwenye matokeo. Utaratibu huu unahusisha kutumia UTXO kama pembejeo huku ukiunda UTXO mpya kama matokeo. UTXO hizi zimehifadhiwa na maandiko, ambayo hufafanua hali muhimu za kufungua fedha.
 
 Mtumiaji anapopokea bitcoins, mtumaji huunda toleo la UTXO na kuifunga kwa *scriptPubKey*. Hati hii ina sheria zinazobainisha saini na funguo za umma zinazohitajika ili kufungua UTXO hii. Ili kutumia UTXO hii katika muamala mpya, ni lazima mtumiaji atoe maelezo yaliyoombwa kupitia *scriptSig*. Utekelezaji wa *scriptSig* pamoja na *scriptPubKey* lazima urejeshe "kweli" au `1`. Ikiwa hali hii itafikiwa, UTXO inaweza kutumika kuunda UTXO mpya, yenyewe imefungwa na *scriptPubKey* mpya, na kadhalika.
 
@@ -2083,7 +2083,7 @@ Anwani za P2WPKH hutumia usimbaji wa *bech32* na kila mara huanza na `bc1q`. Ain
 
 Mfano wa P2WSH pia ulianzishwa na sasisho la SegWit mnamo Agosti 2017. Sawa na mfano wa P2SH, hufunga bitcoins kwa kutumia Hash ya script. Tofauti kuu iko katika jinsi saini na hati zinavyojumuishwa katika shughuli. Ili kutumia bitcoins zilizofungwa kwa aina hii ya hati, mpokeaji lazima atoe hati asili, inayoitwa *witnessScript* (sawa na *redeemscript* katika P2SH), pamoja na data muhimu ili kuthibitisha *shahidiScript* hii. Utaratibu huu unaruhusu utekelezaji wa masharti magumu zaidi ya matumizi, kama vile multisigs.
 
-Anwani za P2WSH hutumia usimbaji wa *bech32* na kila mara huanza na `bc1q`. Hati hii pia inalingana na toleo la 0 SegWit matokeo.
+Address za P2WSH hutumia usimbaji wa *bech32* na kila mara huanza na `bc1q`. Hati hii pia inalingana na toleo la 0 SegWit matokeo.
 
 **P2TR (*Pay-to-Taproot*)**:
 
