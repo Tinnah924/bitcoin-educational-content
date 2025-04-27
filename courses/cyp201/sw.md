@@ -688,17 +688,17 @@ Hii ni operesheni ya msingi ya Bitcoin, lakini baada ya muda, operesheni hii ime
 
 Kwa hivyo, mtumiaji anayetaka kufanya muamala wa Bitcoin lazima aunde sahihi ya dijiti kwa kutumia ufunguo wake wa faragha kwenye shughuli inayohusika. Sahihi inaweza kuthibitishwa na washiriki wengine wa mtandao. Ikiwa ni halali, hii inamaanisha kuwa mtumiaji anayeanzisha muamala ndiye mmiliki wa ufunguo wa kibinafsi, na kwa hivyo mmiliki wa bitcoins wanazotaka kutumia. Watumiaji wengine wanaweza kukubali na kueneza muamala.
 
-Kwa hivyo, mtumiaji ambaye anamiliki bitcoins zilizofungwa kwa ufunguo wa umma lazima atafute njia ya kuhifadhi kwa usalama kile kinachoruhusu kufungua fedha zao: ufunguo wa kibinafsi. Bitcoin Wallet ni kifaa haswa ambacho kitakuruhusu kuweka funguo zako zote kwa urahisi bila watu wengine kuzifikia. Kwa hivyo ni kama mnyororo wa vitufe kuliko Wallet.
+Kwa hivyo, mtumiaji ambaye anamiliki bitcoins zilizofungwa kwa ufunguo wa umma lazima atafute njia ya kuhifadhi kwa usalama kile kinachoruhusu kufungua fedha zao: ufunguo wa kibinafsi. Bitcoin Wallet ni kifaa haswa ambacho kitakuruhusu kuweka funguo zako zote kwa urahisi bila watu wengine kuzifikia. Kwa hivyo ni kama chain ya vitufe kuliko Wallet.
 
 Kiungo cha hisabati kati ya ufunguo wa umma na ufunguo wa faragha, pamoja na uwezo wa kutia sahihi ili kuthibitisha umiliki wa ufunguo wa faragha bila kuufunua, huwezeshwa na algoriti ya sahihi ya dijiti. Katika itifaki ya Bitcoin, algoriti 2 za sahihi zinatumika: **ECDSA** (_Elliptic Curve Digital Signature Algorithm_) na **Mpango wa sahihi wa Schnorr**. ECDSA ni itifaki ya sahihi ya dijiti iliyotumiwa katika Bitcoin tangu mwanzo. Schnorr ni ya hivi majuzi zaidi katika Bitcoin, kama ilianzishwa mnamo Novemba 2021 na sasisho la Taproot.
 
-Algorithms hizi mbili zinafanana kabisa katika mifumo yao. Zote mbili zinatokana na kriptografia ya curve ya mviringo. Tofauti kuu kati ya itifaki hizi mbili iko katika muundo wa saini na baadhi ya sifa maalum za hisabati. Kwa hivyo tutasoma utendakazi wa kanuni hizi, tukianza na za zamani zaidi: ECDSA.
+Algorithms hizi mbili zinafanana kabisa katika mifumo yao. Zote mbili zinatokana na kriptografia ya curve ya elliptical. Tofauti kuu kati ya itifaki hizi mbili iko katika muundo wa saini na baadhi ya sifa maalum za hisabati. Kwa hivyo tutasoma utendakazi wa kanuni hizi, tukianza na za zamani zaidi: ECDSA.
 
 ### Mviringo Curve Cryptography
 
 Elliptic Curve Cryptography (ECC) ni seti ya algoriti zinazotumia mkunjo wa duaradufu kwa sifa zake mbalimbali za hisabati na kijiometri kwa madhumuni ya kriptografia. Usalama wa algoriti hizi unategemea ugumu wa tatizo la logarithmu tofauti kwenye mikunjo ya duaradufu. Miindo ya duaradufu hutumiwa haswa kwa ubadilishanaji muhimu, usimbaji fiche usiolinganishwa, au kuunda sahihi za dijitali.
 
-Sifa muhimu ya mikunjo hii ni kwamba zina ulinganifu kwa heshima na mhimili wa x. Kwa hivyo, mstari wowote usio wima unaokata mkunjo katika sehemu mbili tofauti daima utakatiza mkunjo katika hatua ya tatu. Zaidi ya hayo, tanjiti yoyote kwa mkunjo kwenye sehemu isiyo ya umoja itakatiza mkunjo katika hatua nyingine. Tabia hizi zitakuwa muhimu kwa kufafanua shughuli kwenye curve.
+Sifa muhimu ya mikunjo hii ni kwamba zina ulinganifu kwa heshima na mhimili wa x. Kwa hivyo, mstari wowote usio wima unaokata curve katika sehemu mbili tofauti daima utakatiza mkunjo katika hatua ya tatu. Zaidi ya hayo, tanjiti yoyote kwa mkunjo kwenye sehemu isiyo ya umoja itakatiza mkunjo katika hatua nyingine. Tabia hizi zitakuwa muhimu kwa kufafanua shughuli kwenye curve.
 
 Hapa kuna uwakilishi wa curve ya duaradufu juu ya uwanja wa nambari halisi:
 
@@ -712,7 +712,7 @@ $$
 
 ### sehemu ya 256k1
 
-Ili kutumia ECDSA au Schnorr, ni lazima mtu achague vigezo vya mkunjo wa duaradufu, yaani, thamani za $a$ na $b$ katika mlingano wa curve. Kuna viwango tofauti vya mikunjo ya duaradufu ambayo inasifika kuwa salama kwa njia fiche. Inayojulikana zaidi ni _secp256r1_ curve, iliyofafanuliwa na kupendekezwa na NIST (_Taasisi ya Kitaifa ya Viwango na Teknolojia_).
+Ili kutumia ECDSA au Schnorr, ni lazima mtu achague vigezo vya curve ya duaradufu, yaani, thamani za $a$ na $b$ katika mlingano wa curve. Kuna viwango tofauti vya mikunjo ya duaradufu ambayo inasifika kuwa salama kwa njia fiche. Inayojulikana zaidi ni _secp256r1_ curve, iliyofafanuliwa na kupendekezwa na NIST (_Taasisi ya Kitaifa ya Viwango na Teknolojia_).
 
 Licha ya hayo, Satoshi Nakamoto, mvumbuzi wa Bitcoin, alichagua kutotumia curve hii. Sababu ya chaguo hili haijulikani, lakini wengine wanaamini alipendelea kutafuta njia mbadala kwa sababu vigezo vya curve hii vinaweza kuwa na mlango wa nyuma. Badala yake, itifaki ya Bitcoin hutumia mkunjo wa kawaida wa **_secp256k1_**. Curve hii inafafanuliwa na vigezo $a = 0$ na $b = 7$. Kwa hivyo equation yake ni:
 
@@ -765,7 +765,7 @@ https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 <chapterId>fcb2bd58-5dda-5ecf-bb8f-ad1a0561ab4a</chapterId>
 
-Kama inavyoonekana hapo awali, algoriti za sahihi za dijiti kwenye Bitcoin zinatokana na jozi ya funguo za kibinafsi na za umma ambazo zimeunganishwa kihisabati. Hebu tuchunguze pamoja kiungo hiki cha hisabati ni nini na jinsi vinavyozalishwa.
+Kama inavyoonekana hapo awali, algorithm za sahihi za dijiti kwenye Bitcoin zinatokana na jozi ya funguo za kibinafsi na za umma ambazo zimeunganishwa kihisabati. Hebu tuchunguze pamoja kiungo hiki cha hisabati ni nini na jinsi vinavyozalishwa.
 
 ### Ufunguo wa Kibinafsi
 
@@ -2238,11 +2238,11 @@ HRP lazima ipanuliwe kwa kutenganisha kila herufi katika sehemu mbili:
 - Kuchukua wahusika wa HRP katika ASCII:
  - `b`: `01100010`
  - `c`: `01100011`
-- Kuchimbua biti 3 muhimu zaidi na biti 5 muhimu zaidi:
-  - Biti 3 muhimu zaidi: `011` (3 katika desimali)
-  - Biti 3 muhimu zaidi: `011` (3 katika desimali)
-  - Biti 5 zisizo muhimu zaidi: `00010` (2 katika desimali)
-  - Biti 5 zisizo muhimu zaidi: `00011` (3 katika desimali)
+- Kuchimbua bits 3 muhimu zaidi na bits 5 muhimu zaidi:
+  - Bits 3 muhimu zaidi: `011` (3 katika desimali)
+  - Bits 3 muhimu zaidi: `011` (3 katika desimali)
+  - Bits 5 zisizo muhimu zaidi: `00010` (2 katika desimali)
+  - Bits 5 zisizo muhimu zaidi: `00011` (3 katika desimali)
 
 Kwa kitenganishi `0` kati ya herufi mbili, kiendelezi cha HRP kwa hivyo ni:
 
@@ -2251,9 +2251,9 @@ Kwa kitenganishi `0` kati ya herufi mbili, kiendelezi cha HRP kwa hivyo ni:
 ```
 
 
-- Toleo la shahidi**: Kwa toleo la 0 la SegWit, ni `00`;
-- Mzigo wa malipo**: Thamani za desimali za ufunguo wa umma Hash;
-- Uwekaji nafasi kwa cheki**: Tunaongeza sufuri 6 `[0, 0, 0, 0, 0, 0]` mwishoni mwa mlolongo.
+- **Toleo la shahidi**: Kwa toleo la 0 la SegWit, ni `00`;
+- **Mzigo wa malipo**: Thamani za desimali za ufunguo wa umma Hash;
+- **Uwekaji nafasi kwa cheki**: Tunaongeza sufuri 6 `[0, 0, 0, 0, 0, 0]` mwishoni mwa mlolongo.
 
 Data yote iliyojumuishwa ili kuingiza kwenye programu ili kukokotoa hundi ni kama ifuatavyo:
 
@@ -2274,9 +2274,9 @@ Hesabu ya checksum ni ngumu sana. Inahusisha hesabu ya uga yenye ukomo wa polyno
 Sasa tunaweza kuunda Address inayopokea kwa kubatanisha kwa mpangilio ufuatao wa Elements:
 
 
-- Toleo la SegWit**: `00`
-- Mzigo wa malipo**: Ufunguo wa umma Hash
-- Nambari ya hundi**: Thamani zilizopatikana katika hatua ya awali (`10 16 11 04 13 18`)
+- **Toleo la SegWit**: `00`
+- **Mzigo wa malipo**: Ufunguo wa umma Hash
+- **Nambari ya hundi**: Thamani zilizopatikana katika hatua ya awali (`10 16 11 04 13 18`)
 
 Hii inatupa katika decimal:
 
@@ -2369,9 +2369,9 @@ Kuanza, tunatoa kiratibu cha $x$ cha uhakika $Q$ ili kupata ufunguo wa umma ulio
 Taproot Address inatolewa kwa kusimba kiratibu cha $x$ cha $Q$ katika umbizo la _bech32m_, kwa kutumia Elements ifuatayo:
 
 
-- HRP (_Sehemu Inayosomeka kwa Binadamu_)**: `bc`, ili kuonyesha mtandao mkuu wa Bitcoin;
-- Toleo**: `1` kuashiria Taproot / SegWit v1;
-- Cheki**.
+- **HRP (_Sehemu Inayosomeka kwa Binadamu_)**: `bc`, ili kuonyesha mtandao mkuu wa Bitcoin;
+- **Toleo**: `1` kuashiria Taproot / SegWit v1;
+- **Cheki**.
 
 Address ya mwisho kwa hivyo itakuwa na umbizo:
 
