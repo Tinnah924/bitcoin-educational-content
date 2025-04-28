@@ -1,4 +1,4 @@
-f---
+---
 name: Utambulisho wa Uchumi wa Austria
 goal: Gundua shule ya Austria ya mawazo ya kiuchumi. Jifunze maoni yao juu ya jamii na hali halisi za uchumi mkuu/kiuchumi.
 objectives: 
