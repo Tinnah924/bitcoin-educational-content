@@ -1,4 +1,4 @@
-cyp201---
+---
 name: Utendaji wa Ndani wa Pochi za Bitcoin
 goal: Ingia kwenye kanuni za kriptografia zinazotumia pochi za Bitcoin.
 objectives: 
