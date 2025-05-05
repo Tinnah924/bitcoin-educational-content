@@ -1,6 +1,6 @@
 ---
 name: GitHub račun
-description: GitHub račun ustvarite tako:
+description: GitHub račun ustvarite tako
 ---
 
 ![cover](assets/cover.webp)

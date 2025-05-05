@@ -1,6 +1,7 @@
 ---
 name: Ubuntu
-description: Ubuntu kot alternativo za Windows namestiti in uporabljati: popoln vodnik
+description: Ubuntu kot alternativo za Windows namestiti in uporabljati popoln vodnik
+
 ---
 ![cover](assets/cover.webp)
 
