@@ -1,2441 +1,576 @@
 ---
-name: Utendaji wa Ndani wa Pochi za Bitcoin
-goal: Ingia kwenye kanuni za kriptografia zinazotumia pochi za Bitcoin.
+name: Utambulisho wa Uchumi wa Austria
+goal: Gundua shule ya Austria ya mawazo ya kiuchumi. Jifunze maoni yao juu ya jamii na hali halisi za uchumi mkuu/kiuchumi.
 objectives: 
 
-  - Bainisha dhana za kinadharia zinazohitajika ili kuelewa algoriti za kriptografia zinazotumika katika Bitcoin.
-  - Kuelewa kikamilifu ujenzi wa Wallet ya kuamua na ya daraja.
-  - Jua jinsi ya kutambua na kupunguza hatari zinazohusiana na kusimamia Wallet.
-  - Elewa kanuni za utendaji wa Hash, funguo za kriptografia na sahihi za dijitali.
+  - Njia mbadala ya Ukeynesia
+  - Umuhimu wa Sarafu imara
+  - Kwa nini na vipi mizunguko yetu ya kiuchumi inaundwa?
+  - Kwa nini benki kuu zimekasirika?
 
 ---
-# Safari ndani ya Moyo wa Pochi za Bitcoin
+# Safari ya kuingia katika Uchumi
 
-Gundua siri za pochi za Bitcoin za kuamua na za hali ya juu kwa kozi yetu ya CYP201! Iwe wewe ni mtumiaji wa kawaida au mpenda shauku unayetafuta kuongeza maarifa yako, kozi hii inakupa mkazo kamili katika utendakazi wa zana hizi ambazo sisi sote hutumia kila siku.
+Karibu kwenye kozi ya Théo Mogenet! Akiwa na shauku ya uchumi, historia, fasihi, sayansi ya siasa na teknolojia, ameamua kushiriki nawe ujuzi wake wa uchumi wa Austria. Tawi hili, ambalo halijulikani sana katika uchumi, linategemea busara ya kibinadamu na tabia huru ya mwigizaji. Chini ya makali katika hisabati, ni swali la mantiki na utafiti wa kijamii juu ya yote.
 
-Jifunze kuhusu mbinu za utendakazi wa Hash, sahihi za dijitali (ECDSA na Schnorr), misemo ya Mnemonic, funguo za kriptografia, na uundaji wa anwani za kupokea, yote huku ukigundua mikakati ya hali ya juu ya usalama.
-
-Mafunzo haya sio tu yatakupa maarifa ya kuelewa muundo wa Bitcoin Wallet lakini pia yatakutayarisha kuzama zaidi katika ulimwengu wa kusisimua wa kriptografia.
-
-Kwa ufundishaji wazi, zaidi ya michoro 60 za ufafanuzi, na mifano halisi, CYP201 itakuwezesha kuelewa kutoka A hadi Z jinsi Wallet yako inavyofanya kazi, ili uweze kuabiri ulimwengu wa Bitcoin kwa ujasiri. Chukua udhibiti wa UTXO zako leo kwa kuelewa jinsi pochi za HD zinavyofanya kazi!
+Mwelekeo huu wa kifikra tayari una karne kadhaa nyuma yake na una mandhari pana ya waandishi mbalimbali, mawazo, na wachumi nyuma yake. Majina makuu katika uchumi kama vile Hayek, Rothbard, Mises, Bastiat, au Menger wametetea harakati hii kwa muda mrefu. Kinyume na Ukenesia uliopo kila mahali wa siku zetu, shule ya Austria inamweka mtu nyuma katikati ya mlingano kwa njia ya huria zaidi, ya ubepari,Mtazamo wa uanarkia.
 
 +++
-# Utangulizi
+# Utangulizi wa ECON
 
-<partId>32960669-d13a-592f-a053-37f70b997cbf</partId>
+<partId>265aa8b0-dd89-5456-b72a-656e988013d5</partId>
 
-## Utangulizi wa Kozi
+## Muhtasari wa Kozi
 
-<chapterId>fb4e8857-ea35-5a8a-ae8a-5300234e0104</chapterId>
+<chapterId>eae3de7b-cce6-516d-83d9-28fbd582c0ca</chapterId>
 
-Karibu kwenye kozi ya CYP201, ambapo tutachunguza kwa kina utendakazi wa pochi za HD Bitcoin. Kozi hii imeundwa kwa ajili ya mtu yeyote ambaye anataka kuelewa misingi ya kiufundi ya kutumia Bitcoin, iwe ni watumiaji wa kawaida, wapenzi walioelimika, au wataalam wa siku zijazo.
+Karibu kwenye kozi ya ECO201!.
 
-Lengo la mafunzo haya ni kukupa funguo za kufahamu zana unazotumia kila siku. Pochi za HD Bitcoin, ambazo ndizo msingi wa uzoefu wako wa mtumiaji, zinatokana na dhana changamano wakati fulani, ambazo tutajaribu kuzifanya zipatikane. Kwa pamoja, tutawaondoa!
+Katika kozi hii inayotolewa na Théo Mogenet, utagundua tawi hili la uchumi ambalo ni tofauti sana na fundisho la Keynesi. Hadi sasa, unaweza kuwa umejifunza kwamba uzalishaji na usimamizi wa fedha ulikuwa wajibu wa benki kuu, kwa wazo kwamba uchapishaji wa fedha na matumizi hukuza ukuaji. Walakini, kuna shule nyingine ya mawazo ya kiuchumi:**Austrian Economics**
 
-Kabla ya kupiga mbizi katika maelezo ya ujenzi na uendeshaji wa pochi za Bitcoin, tutaanza na sura chache juu ya primitives ya cryptographic kujua nini kinafuata.
+Kwa zaidi ya miaka 200 ya utafiti na maendeleo, tafakari za kifalsafa, na maandishi ya waandishi mashuhuri, mbinu hii inasisitiza maono ya kina zaidi ya ukuaji na busara ya kibinadamu katika uchumi wetu.
 
-Tutaanza na kazi za kriptografia za Hash, za msingi kwa pochi zote mbili na itifaki ya Bitcoin yenyewe. Utagundua sifa zao kuu, kazi maalum zinazotumiwa katika Bitcoin, na katika sura ya kiufundi zaidi, utajifunza kwa undani kuhusu kazi za malkia wa kazi za Hash: SHA256.
+Kwa kweli, uchumi ni uwanja wa kijamii na ngumu sana, unaojumuisha maelfu ya watendaji wadogo waliounganishwa ambao kwa pamoja wanachangia kuunda umoja kamili. Badala ya kukaribia taaluma hii kupitia milinganyo ya hisabati, lazima tuielewe kutoka kwa mtazamo wa mantiki ya binadamu na sosholojia. 
+Katika kozi hii, tutachunguza dhana za kimsingi za uchumi wa Austria. Mwalimu wako, Théo Mogenet, ni profesa mwenye shauku na stadi wa uchumi wa Austria.
 
-![CYP201](assets/fr/010.webp)
+Kuanza, tunakupa video ya bonasi ambayo itaeleza jinsi mfumo wetu wa sasa wa kifedha unavyofanya kazi. Utagundua jinsi benki za biashara na benki kuu zinavyoingiliana na kuendesha uchumi. Tutashiriki Address wahusika wakuu katika ulimwengu wetu wa kifedha na jinsi ujumuishaji huu wa mamlaka kati ya taasisi fulani za kiuchumi unaweza kusababisha matumizi mabaya na migogoro ya kifedha.
 
-Kisha, tutajadili utendakazi wa kanuni za sahihi za kidijitali unazotumia kila siku kulinda UTXO zako. Bitcoin inatumia mbili: ECDSA na itifaki ya Schnorr. Utajifunza ni kanuni zipi za hisabati zinazozingatia kanuni hizi na jinsi zinavyohakikisha usalama wa miamala.
+Katika sehemu ya pili ya kozi hii, tutachunguza tofauti kati ya Ukenesia na uchumi wa Austria, tukichunguza shule zao za fikra, mbinu za kutafakari, na zana wanazotumia kubainisha ukweli wa kiuchumi. Pia tutajifunza malezi ya migogoro ya kiuchumi. Je, ni kwa sababu ya kutokuwa na uwezo wa kibinadamu, ghiliba za soko, au furaha ya pamoja ya watu? Tutachunguza jinsi mizunguko yetu ya ukuaji, kushuka, kushuka kwa uchumi na enzi ya dhahabu inavyoundwa na hisia za wanadamu.
 
-![CYP201](assets/fr/021.webp)
+Kozi hii itakuwa mchanganyiko wa uchumi na falsafa, na majadiliano ya wazi kati ya Théo na mimi. Ikiwa una maswali yoyote wakati wa kozi hii, usisite kuwauliza katika Discord yetu, ambayo utapata kiunga chake katika maelezo.
 
-Mara tu tunapokuwa na ufahamu mzuri wa Elements hizi za kriptografia, hatimaye tutaendelea hadi kiini cha mafunzo: pochi za kuamua na za hierarchical! Kwanza, kuna sehemu iliyowekwa kwa misemo ya Mnemonic, mlolongo huu wa maneno 12 au 24 ambayo inakuwezesha kuunda na kurejesha pochi zako. Utagundua jinsi maneno haya yanatolewa kutoka kwa chanzo cha entropy na jinsi yanavyowezesha matumizi ya Bitcoin.
+Ninamshukuru Théo kwa uchangamfu kwa kuandaa kozi hii, na ninatumai atakuwa mwalimu bora kwako. Tulikuwa na furaha nyingi kuunda maudhui haya. Kozi hii inapatikana kwa kila mtu na, nadhani, itakuwa muhimu kufuata kozi zetu za kina zaidi za uchumi. Kozi hii itaweka misingi muhimu ya kuchunguza nadharia fulani za kiuchumi kwa undani zaidi ambazo tutazigusia kwa ufupi tu hapa.
 
-![CYP201](assets/fr/040.webp)
+Ikiwa uko tayari kuanza tukio hili, ninakualika ubofye video ifuatayo na uanze na video ya bonasi kwenye mfumo wetu wa sasa wa kifedha. Sasa ninampa nafasi Théo. Asante kwake kwa kushirikiana na Descoupes Bitcoin kwa utambuzi wa video hii. Nitakuona hivi karibuni. Kwaheri!
 
-Mafunzo yataendelea na utafiti wa BIP39 passphrase, seed (bila kuchanganyikiwa na maneno ya Mnemonic), msimbo wa mnyororo mkuu, na ufunguo mkuu. Tutaona kwa undani Elements hizi ni nini, majukumu yao husika, na jinsi zinavyohesabiwa.
+## Pesa, Mikopo, Benki na Benki Kuu
 
-![CYP201](assets/fr/045.webp)
+<chapterId>29faebd9-9326-52de-8161-e4bb33033cd6</chapterId>
 
-Hatimaye, kutoka kwa ufunguo mkuu, tutagundua jinsi jozi za funguo za kriptografia zinavyotolewa kwa njia ya kubainisha na ya kidaraja hadi anwani zinazopokea.
+> "Tatizo kuu la sarafu ya kawaida ni uaminifu wote unaohitajika ili kuifanya ifanye kazi. Benki kuu lazima iaminike kutodunisha sarafu, lakini historia ya sarafu ya fiat imejaa ukiukaji wa uaminifu huo. Benki lazima ziaminike kushikilia pesa zetu na kuzihamisha kwa njia ya kielektroniki, lakini wanazikopesha kwa wimbi la mapovu ya mkopo kwa sehemu ndogo, na sio kuwapa dhamana na si kuwapa dhamana yetu. kuondoa hesabu zetu."
+>
 
-![CYP201](assets/fr/056.webp)
+> Satoshi Nakamoto, mvumbuzi asiyejulikana wa Bitcoin
+### Jinsi Pesa Inaundwa
 
-Mafunzo haya yatakuwezesha kutumia programu yako ya Wallet kwa kujiamini, huku ukiboresha ujuzi wako wa kutambua na kupunguza hatari. Jitayarishe kuwa mtaalam wa kweli katika pochi za Bitcoin!
+Katika mfumo wetu wa fedha wa siku hizi, pesa kimsingi huundwa kupitia utaratibu wa benki unaojulikana kama "fedha ya akiba ya sehemu." Neno hili kimsingi linamaanisha kuwa benki hazitakiwi kushikilia akiba nyingi kadri zinavyopokea katika amana. Kwa hivyo, wanaweza kuunda nguvu mpya ya ununuzi wakati wa kutoa mikopo na, kinyume chake, kupunguza uwezo wa kununua wateja wanapolipa mikopo yao.
 
-# Kazi za Hash
+Kwa mfano, ikiwa ungewasiliana na benki ya eneo lako ili kupata rehani kwa ununuzi wa nyumba, pesa ulizokopeshwa na benki zingepatikana kama kiingilio cha uwekaji hesabu. Katika uhasibu, kwa kawaida tunawakilisha utajiri wa jumla wa mtu binafsi kwa kutumia mizania, ambayo ina pande mbili: upande wa mali, ikijumuisha mali yoyote, mikataba ya kifedha, orodha au aina nyinginezo za mali zinazomilikiwa, na upande wa dhima, unaoonyesha chanzo cha fedha kilichotumika kuunda mtaji ulioorodheshwa kwenye upande wa mali. Tofauti kati ya mali na dhima inarejelewa kama "sawa" na inaweza kuzingatiwa kama utajiri kamili wa huluki.
 
-<partId>3713fee1-2ec2-512e-9e97-b6da9e4d2f17</partId>
+Wakati taasisi ya fedha ina leseni ya benki, ina maana kwamba madeni yaliyorekodiwa kama "amana za mteja" huchukuliwa kuwa pesa rasmi ndani ya nchi au eneo mahususi la fedha. Kwa hivyo, unapotafuta mkopo wa kununua nyumba kutoka kwa benki, benki haikopeshi pesa zilizowekwa na mteja mwingine. Badala yake, benki huweka mkopo kwenye akaunti yako na kurekodi mkopo wako Contract kama mali ya benki. Unapolipa mkopo wako, pesa huzimwa kwa ufanisi, na thamani ya mkopo unaolingana wa Contract hupungua, na benki ikibakiza tu riba ya mkopo.
 
-## Utangulizi wa Kazi za Hash
+Baada ya kununua nyumba, unamwagiza benki yako kuhamisha pesa kwa akaunti ya muuzaji. Ikiwa akaunti ya muuzaji iko kwenye benki tofauti, benki yako humwarifu benki husika katika taasisi nyingine ili kuhakikisha kuwa akaunti ya muuzaji inawekwa ipasavyo, huku akitoza akaunti yako kwa kiasi kinacholingana.
 
-<chapterId>dba011f5-1805-5a48-ac2b-4bd637c93703</chapterId>
+![image](assets/en/01.webp)
 
-Aina ya kwanza ya algorithms ya kriptografia inayotumiwa kwenye Bitcoin inajumuisha kazi za Hash. Wanachukua jukumu muhimu katika viwango tofauti vya itifaki, lakini pia ndani ya pochi za Bitcoin. Hebu tugundue pamoja kazi ya Hash ni nini na inatumika kwa nini katika Bitcoin.
+Kielelezo cha 1: Uundaji wa Pesa kama Maingizo ya Uwekaji hesabu
 
-### Ufafanuzi na Kanuni ya Hashing
+> "Inatosha kwamba watu wa taifa letu hawaelewi mfumo wetu wa benki na fedha, kwani kama wangeelewa, naamini kungekuwa na mapinduzi kabla ya kesho asubuhi."
+>
 
-Hashing ni mchakato ambao hubadilisha maelezo ya urefu wa kiholela hadi sehemu nyingine ya habari ya urefu usiobadilika kupitia kitendakazi cha kriptografia Hash. Kwa maneno mengine, kitendakazi cha Hash kinachukua pembejeo ya saizi yoyote na kuibadilisha kuwa alama ya vidole ya saizi isiyobadilika, inayoitwa "Hash".
+> Henry Ford
+Utaratibu huu huruhusu benki kurekodi miamala yote, ikijumuisha uhamishaji wa fedha kupitia kielektroniki, ununuzi wa kadi ya mkopo na hundi, katika kipindi maalum (kwa kawaida wiki au mwezi). Kisha wanatatua miamala hii kwa kutumia akiba ya benki, ambayo ni aina nyingine ya sarafu ya fiat ambayo haijawahi kutumiwa na umma. Akiba ya benki hufanyika katika benki kuu katika akaunti maalum inayopatikana tu kwa benki zilizo na leseni na taasisi za kifedha.
 
-Hash pia wakati mwingine inaweza kujulikana kama "digest", "condensate", "condensed", au "hashed".
+### Kukosekana kwa utulivu wa Benki ya Akiba ya Sehemu na Mkopeshaji wa Hoteli ya Mwisho
 
-Kwa mfano, kazi ya SHA256 Hash inazalisha Hash ya urefu uliowekwa wa bits 256. Kwa hivyo, ikiwa tutatumia ingizo "_PlanB_", ujumbe wa urefu wa kiholela, Hash inayozalishwa itakuwa alama ya vidole 256-bit:
+Suala kuu la mfumo huu wa hifadhi ya sehemu ni kwamba uondoaji mkubwa kutoka kwa benki fulani unaweza kusababisha kufilisika kwake. Kwa kuwa benki lazima zitimize matakwa ya wateja kwa pesa taslimu huku zikiwa na akiba ndogo tu ya akiba ya benki, kukimbilia kwa wateja wengi kutoa pesa kwa wakati mmoja kunaweza kuifanya benki kushindwa kukidhi matakwa haya, na kusababisha kufilisika. Ikizingatiwa kuwa watu wengi, makampuni, na taasisi fedha zao zimehifadhiwa katika benki, kuruhusu benki kushindwa kunaweza kuwa na madhara makubwa ya kiuchumi, kama vile mdororo wa kiuchumi au hata mfadhaiko.
 
-```text
-24f1b93b68026bfc24f5c8265f287b4c940fb1664b0d75053589d7a4f821b688
-```
+Kitendawili hiki kilizua benki kuu za kisasa. Katika karne ya 19 huko Uingereza, uendeshaji wa benki mara kwa mara ulihatarisha uthabiti wa kifedha, na kusababisha kuanzishwa kwa Benki ya Uingereza kama "mkopeshaji wa suluhisho la mwisho." Benki ya Uingereza ilipewa jukumu la kukopesha fedha benki zilizokuwa na shida wakati wa mizozo ili kuzuia athari ya domino ambayo inaweza kulemaza mfumo mzima wa kifedha. Dhana hii ya benki kuu kama wakopeshaji wa njia ya mwisho imeenea ulimwenguni kote na kuwa kawaida.
 
-![CYP201](assets/fr/001.webp)
+Mbali na kudumisha utulivu wa kifedha, benki kuu zina jukumu la kuweka viwango muhimu vya sera. Viwango hivi huamua gharama ambayo benki zilizo na leseni zinaweza kukopa fedha kutoka kwa benki kuu, hasa kufafanua gharama ya ukwasi kwa taasisi za fedha ambazo zina jukumu muhimu katika kukopesha katika uchumi wetu. Kwa hivyo, viwango hivi vinatumika kama kipimo cha mfumo mzima wa kifedha. Kama mtu binafsi, viwango vya riba unavyolipa kwenye rehani yako vinaweza kugawanywa katika kiwango cha sera na ukingo wa benki.
 
-### Tabia za Kazi za Hash
+![image](assets/en/02.webp)
 
-Vitendaji hivi vya kriptografia vya Hash vina sifa kadhaa muhimu zinazozifanya kuwa muhimu hasa katika muktadha wa Bitcoin na mifumo mingine ya kompyuta:
+Kielelezo 2: Kufilisika kwa Lehman Brothers (15/09/2008)
 
+Wakati wa msukosuko mkubwa wa kifedha wa 2008, Lehman Brothers, benki kubwa ya uwekezaji, ilitangaza kufilisika baada ya kupata hasara kubwa kwenye dhamana zake za rehani na kupata uondoaji mkubwa kutoka kwa wateja wanaohusika. Katika kukabiliana na msukosuko huu wa kifedha ambao haujawahi kushuhudiwa, mabenki kuu duniani kote waliingiza kiasi kikubwa cha ukwasi katika masoko ya fedha, waliunganisha benki za uwekezaji zinazotatizika na benki za biashara, na kushusha viwango vya sera hadi karibu sifuri katika jitihada za kuzuia kuporomoka kwa utaratibu.
 
-- Kutoweza kutenduliwa (au upinzani wa picha)
-- Upinzani wa tamper (athari ya avalanche)
-- Upinzani wa mgongano
-- Upinzani wa pili wa picha
+Ingawa hatua hizi zilizuia wimbi kubwa la kufilisika, zilifanya kidogo kupunguza mdororo wa uchumi uliofuata. Mamilioni ya watu walipoteza kazi na nyumba zao, matumizi ya wateja yalishuka sana, biashara zikashuka, na benki zilipata hasara kubwa. Licha ya viwango vya chini vya riba kihistoria, wachache walikuwa tayari kukopa, na kusababisha mzunguko mbaya ambapo upungufu wa awali wa matumizi na uwekezaji ulijiimarisha. Kwa hiyo, benki kuu zilichukua hatua zaidi kwa kutekeleza programu za Urahisishaji Kiasi (QE). Programu hizi zilihusisha benki kuu kununua dhamana za serikali na dhamana zinazoungwa mkono na rehani kutoka kwa benki za biashara zilizo na akiba ya benki kuu.
 
-#### 1. Kutoweza kutenduliwa (upinzani wa picha):
+![image](assets/en/03.webp)
 
-Kutoweza kutenduliwa kunamaanisha kuwa ni rahisi kuhesabu Hash kutoka kwa taarifa ya pembejeo, lakini hesabu ya kinyume, yaani, kupata pembejeo kutoka kwa Hash, haiwezekani. Sifa hii hufanya kazi za Hash kuwa bora zaidi kwa kuunda alama za vidole za dijiti za kipekee bila kuathiri maelezo asili.
+Kielelezo 3 : Viwango vya Riba Katika Uchumi Mkuu / Chanzo: ECB
 
-Katika mfano uliotolewa, kupata Hash `24f1b9…` kwa kujua ingizo "_PlanB_" ni rahisi na haraka. Hata hivyo, kupata ujumbe "_PlanB_" kwa kujua tu `24f1b9…` haiwezekani.
+Kinyume na matarajio mengi, programu za QE hazikufufua ukuaji wa uchumi kwa kiasi kikubwa lakini ziliongeza mali ya kifedha kwa viwango vya kihistoria. Hii kimsingi ilinufaisha taasisi tajiri na za kifedha, kwani tayari zilikuwa na idadi kubwa ya mali kama hizo, na hivyo kupanua tofauti za mali. Kwa kuzingatia muundo wa mfumo wa benki ulioelezewa hapo awali, matokeo haya hayapaswi kushangaza. Kwa kuwa akiba ya benki haiwezi kuingia kwa urahisi katika uchumi halisi, programu za QE ziliongeza bei ya mali bila kuboresha hali ya kifedha ya watu wa kawaida.
 
-![CYP201](assets/fr/002.webp)
+### Athari ya Cantillon
 
-Kwa hivyo, haiwezekani kupata taswira ya awali $m$ kwa Hash $h$ kiasi kwamba $h = \text{Hash}(m)$, ambapo $\text{Hash}$ ni kazi ya kriptografia ya Hash.
+Walakini, kanuni muhimu ya kiuchumi inaweza kutolewa kutoka kwa kipindi hiki: pesa mpya zinapoundwa, hapo awali huwanufaisha walio karibu na chanzo cha pesa, kwa gharama ya wale walio mbali zaidi. Maarifa haya ya kiuchumi yalianza karne ya 18 wakati Richard Cantillon alipoeleza katika "Insha kuhusu Hali ya Biashara kwa Ujumla." Sasa inajulikana kama "Athari ya Cantillon".
 
-#### 2. Upinzani wa tamper (athari ya Banguko)
+![image](assets/en/04.webp)
 
-Sifa ya pili ni ukinzani wa tamper, pia inajulikana kama **athari ya maporomoko ya theluji**. Tabia hii inazingatiwa katika kazi ya Hash ikiwa mabadiliko madogo katika ujumbe wa uingizaji husababisha mabadiliko makubwa katika pato la Hash.
+Kielelezo cha 4: Athari ya Cantillon kwa Kifupi / Chanzo: Kifedha cha Mto
 
-Ikiwa tunarudi kwenye mfano wetu na ingizo "_PlanB_" na chaguo la kukokotoa la SHA256, tumeona kwamba Hash iliyotolewa ni kama ifuatavyo:
+Katika tukio hili, mabenki, wasimamizi wa benki, wamiliki wa hisa na dhamana, watengenezaji wa mali isiyohamishika, wakopeshaji wa mali isiyohamishika, na mtu yeyote aliye na mali ya kifedha au mali isiyohamishika alipata shida ya kifedha, huku mzigo ukiwa juu ya kila mtu. Hali hii iliendelea kwa miaka mingi na inaelezea kwa kiasi kikubwa kuongezeka kwa ukosefu wa usawa wa utajiri, hisia za kunyimwa haki miongoni mwa watu binafsi wanaofanya kazi kwa bidii, na kuongezeka kwa bei ya mali iliyoonekana kutozuilika licha ya ukuaji duni wa Pato la Taifa.
 
-```text
-24f1b93b68026bfc24f5c8265f287b4c940fb1664b0d75053589d7a4f821b688
-```
+Kwa asili, mfumo umepotoshwa. Benki kwa asili hazina msimamo, lakini kushindwa kwao kunaweza kuhatarisha uchumi mzima. Hatari hii ya kimaadili inawapa motisha watendaji wa benki kuchukua hatari nyingi ili kuongeza mapato ya benki zao, wakijua kwamba benki kuu hatimaye itawaokoa, na kuhamisha gharama kwa walipa kodi. Katika hali kama hizi, mabenki kuu huunda masharti ya uhamisho mkubwa wa uwezo wa ununuzi kutoka kwa watu binafsi wanaofanya kazi kwa bidii na waokoaji kwenda kwa wamiliki wa mali na wale waliounganishwa na mfumo wa kifedha, na hivyo kukataza mchakato wa kuunda utajiri kutoka kwa ulimbikizaji wa mali.
 
-Ikiwa tutafanya mabadiliko kidogo sana kwa ingizo kwa kutumia "_Planb_" wakati huu, kisha kubadilisha kutoka kwa herufi kubwa "B" hadi herufi ndogo "b" hubadilisha kabisa pato la SHA256 Hash:
+![image](assets/en/05.webp)
 
-```text
-bb038b4503ac5d90e1205788b00f8f314583c5e22f72bec84b8735ba5a36df3f
-```
+Kielelezo cha 5: Usambazaji wa Utajiri nchini Uchina + Ulaya + Marekani / Chanzo: OECD
 
-![CYP201](assets/fr/003.webp)
+### Madhara ya Sera za Viwango Sifuri vya Riba
 
-Mali hii inahakikisha kwamba hata mabadiliko madogo ya ujumbe wa awali yanaonekana mara moja, kwani haibadilishi tu sehemu ndogo ya Hash, lakini Hash nzima. Hii inaweza kuwa ya manufaa katika nyanja mbalimbali ili kuthibitisha uadilifu wa ujumbe, programu, au hata miamala ya Bitcoin.
+Wakati wa muda mrefu wa Sera za Viwango Sifuri vya Riba (ZIRP), benki zina fursa chache za kujenga upya usawa wao kwa sababu kando zao zimemomonyoka. Kwa kawaida benki hupata pesa kwa kukopa kwa viwango vya muda mfupi na kukopesha kwa viwango vya muda mrefu. Hata hivyo, benki kuu zinaponunua kiasi kikubwa cha dhamana na kuweka viwango kwa sifuri, benki huwa na motisha ndogo ya kukopesha, hasa kwa wajasiriamali na wahatarishi wengine. Badala yake, wanatenga rasilimali zao ili kupata mtaji uliopo au kutoa mikopo dhidi ya dhamana ili kukidhi mahitaji ya wale wanaonufaika na athari ya Cantillon.
 
-#### 3. Upinzani wa Mgongano
+Matokeo mengine yasiyotarajiwa ya ZIRP ni kwamba inahimiza serikali kushiriki katika matumizi makubwa ya fedha. Kwa kuwa serikali hazikabiliani na gharama za kukopa na zinaweza kutegemea benki kuu kununua dhamana zao kupitia programu za QE, zina motisha ya asili ya kutumia kadri inavyowezekana, hasa katika miktadha ya kidemokrasia ambapo matumizi yanaweza kukusanya kura. Mwelekeo huu mara nyingi hupuuza matokeo ya muda mrefu ya ubadhirifu huo wa fedha, unaosababisha ongezeko kubwa la viwango vya deni la umma katika nchi zilizoendelea tangu Mgogoro wa Kifedha Duniani (GFC).
 
-Tabia ya tatu ni upinzani wa mgongano. Chaguo za kukokotoa za Hash ni sugu kwa mgongano ikiwa haiwezekani kwa hesabu kupata jumbe 2 tofauti zinazotoa matokeo sawa ya Hash kutoka kwa chaguo la kukokotoa. Rasmi, ni vigumu kupata jumbe mbili tofauti $m_1$ na $m_2$ kama vile:
+![image](assets/en/06.webp)
 
-$$
-\text{HASH}(m_1) = \text{HASH}(m_2)
-$$
+Kielelezo cha 6: Deni la Umma na Binafsi kama % ya Pato la Taifa (Ulimwengu, uzani wa Pato la Taifa kwa kila nchi) / Chanzo IMF
 
-![CYP201](assets/fr/004.webp)
+Huku mfumuko wa bei ukiongezeka kutokana na uundaji mkubwa wa pesa katika kukabiliana na lockdown zinazohusiana na COVID, benki kuu sasa zinapandisha viwango vya sera katika jaribio la kudhibiti mfumuko wa bei. Hata hivyo, hii inaleta changamoto kubwa kwa mfumo mzima. Benki zina faida zaidi kuliko hapo awali, serikali hubeba viwango vya juu vya deni kihistoria, ukuaji wa uchumi unadorora, upungufu unaongezeka, na watumiaji, wakikabiliana na kupanda kwa bei za bidhaa muhimu, wanatatizika kupata riziki. Kudhibiti mfumuko wa bei kutahitaji kupandisha viwango hadi kufikia kiwango ambacho kinaweza kufilisi serikali, huku benki zikiwa katika hatari ya kupoteza wenye amana huku watu binafsi wakitumia akiba zao kwa mambo muhimu yanayozidi kuwa ghali au kutafuta kimbilio katika mali ya Hard na fedha za soko la fedha ili kukabiliana na mfumuko wa bei.
 
-Kwa uhalisia, ni kihisabati kuepukika kwamba migongano ipo kwa kazi za Hash, kwa sababu saizi ya pembejeo inaweza kuwa kubwa kuliko saizi ya matokeo. Hii inajulikana kama kanuni ya droo ya Dirichlet: ikiwa vitu $n$ vitasambazwa katika droo za $m$, na $m <n$, basi angalau droo moja itakuwa na vitu viwili au zaidi. Kwa chaguo za kukokotoa za Hash, kanuni hii inatumika kwa sababu idadi ya ujumbe unaowezekana (karibu) haina kikomo, ilhali idadi ya heshi zinazowezekana ni kikomo ($2^{256}$ katika kesi ya SHA256).
+### Hitimisho
 
-Kwa hivyo, sifa hii haimaanishi kuwa hakuna migongano ya kazi za Hash, lakini badala yake kwamba utendaji mzuri wa Hash hufanya uwezekano wa kupata mgongano kuwa mdogo. Tabia hii, kwa mfano, haijathibitishwa tena kwenye algoriti za SHA-0 na SHA-1, watangulizi wa SHA-2, ambao migongano imepatikana. Majukumu haya kwa hivyo sasa yanashauriwa dhidi ya na mara nyingi huchukuliwa kuwa ya kizamani.
+> "Kwa njia hii (kitengo cha akiba ya benki), serikali zinaweza kunyang'anya mali ya watu kwa siri na bila kuangaliwa, na sio mtu katika milioni angeweza kugundua wizi huo"
+>
 
-Kwa utendaji wa Hash wa biti $n$, upinzani wa mgongano ni wa mpangilio wa $2^{\frac{n}{2}}$, kwa mujibu wa shambulio la siku ya kuzaliwa. Kwa mfano, kwa SHA256 ($n = 256$), utata wa kupata mgongano ni wa mpangilio wa $2^{128}$ majaribio. Kwa vitendo, hii inamaanisha kwamba ikiwa mtu atapitisha $2^{128}$ ujumbe tofauti kupitia chaguo za kukokotoa, kuna uwezekano wa kupata mgongano.
+> John Maynard Keynes
+Kwa hakika, mfumo wetu unakabiliwa na changamoto kubwa, na Bitcoin inaibuka kama njia mbadala inayoaminika. Hata hivyo, Bitcoin pekee haiwezi Address masuala ndani ya mfumo wetu wa fedha. Zaidi ya yote, tunahitaji watu binafsi wanaoelewa kanuni za msingi za kiuchumi miongoni mwa wapenda Bitcoin, kuwezesha uelewa mpana zaidi na akili ya kawaida ya kiuchumi ili kutuongoza mbali na kujenga msingi mwingine dhaifu wa kifedha kwa ajili ya ustaarabu wetu. Lengo kuu la kozi hii ni kuelimisha wapenda Bitcoin wapya katika kanuni bora za kiuchumi.
 
-#### 4. Upinzani kwa Preimage ya Pili
+Ili kufikia lengo hili, tutaeleza kanuni za kimsingi za "Uchumi wa Austria," shule ya mawazo ya kiuchumi yenye mila ya mbinu iliyoanzia karne ya 16, ikitoa maarifa kuhusu hatua za binadamu chini ya vikwazo vya kiuchumi. Kwa utangulizi huu, sasa unafahamu mambo muhimu ya kuunda pesa na hali ya sasa ya mfumo wetu wa kifedha na kifedha.
 
-Upinzani kwa preimage ya pili ni sifa nyingine muhimu ya kazi za Hash. Inasema kwamba kutokana na ujumbe $m_1$ na Hash $h$ yake, haiwezekani kupata ujumbe mwingine $m_2 \neq m_1$ kama vile:
+Katika sura inayokuja, tutazama katika msingi wa shule yoyote ya kiuchumi ya mawazo: nadharia ya thamani. Sura zinazofuata zitachunguza pesa kama taasisi ya kijamii, nadharia ya mtaji na mzunguko wa biashara, changamoto ya ukokotoaji wa uchumi, na muhtasari mfupi wa historia na mbinu ya Shule ya Uchumi ya Austria.
 
-$$
-\text{HASH}(m_1) = \text{HASH}(m_2)
-$$
+# Misingi ya Kinadharia
 
-Kwa hivyo, upinzani dhidi ya taswira ya pili ni sawa na upinzani wa mgongano, isipokuwa hapa, shambulio ni gumu zaidi kwa sababu mshambuliaji hawezi kuchagua $m_1$ kwa uhuru.
+<partId>86012c1b-cdf2-586f-8fe7-263f8287e950</partId>
 
-![CYP201](assets/fr/005.webp)
+## Nadharia ya Kidhamira ya Thamani
 
-### Maombi ya Kazi za Hash katika Bitcoin
+<chapterId>eb1608d4-5d36-56a0-bcfc-ed8c03dfa906</chapterId>
 
-Chaguo za kukokotoa za Hash zinazotumika zaidi katika Bitcoin ni **SHA256** ("_Secure Hash Algorithm 256 bits"_). Iliyoundwa mwanzoni mwa miaka ya 2000 na NSA na kusawazishwa na NIST, inazalisha pato la 256-bit Hash.
+> "Thamani ipo tu ndani ya ufahamu wa mwanadamu"
+>
 
-Kitendaji hiki kinatumika katika vipengele vingi vya Bitcoin. Katika ngazi ya itifaki, inahusika katika utaratibu wa Proof-of-Work, ambapo hutumiwa kwa hashing mara mbili ili kutafuta mgongano wa sehemu kati ya kichwa cha kizuizi cha mgombea, kilichoundwa na Miner, na lengo la ugumu. Ikiwa mgongano huu wa sehemu utapatikana, kizuizi cha mgombea kinakuwa halali na kinaweza kuongezwa kwa Blockchain.
+> Carl Menger, Kanuni za Uchumi wa Kisiasa
+### Mapinduzi ya Pembezoni
 
-SHA256 pia inatumika katika ujenzi wa Merkle Tree, ambayo ni kikusanyiko kinachotumika kurekodi shughuli kwenye vitalu. Muundo huu pia unapatikana katika itifaki ya Utreexo, ambayo inaruhusu kupunguza ukubwa wa UTXO Set. Zaidi ya hayo, kwa kuanzishwa kwa Taproot mwaka wa 2021, SHA256 inatumiwa katika MAST (_Merkelised Alternative Script Tree_), ambayo inaruhusu kufichua tu masharti ya matumizi yanayotumika katika hati, bila kufichua chaguo zingine zinazowezekana. Pia hutumiwa katika hesabu ya vitambulisho vya shughuli, katika uhamisho wa pakiti juu ya mtandao wa P2P, katika saini za elektroniki ... Hatimaye, na hii ni ya riba hasa katika mafunzo haya, SHA256 hutumiwa katika ngazi ya maombi kwa ajili ya ujenzi wa pochi za Bitcoin na derivation ya anwani.
+Katika mzizi wa hoja za kiuchumi kuna swali la thamani. Je, tunatambuaje thamani ya kitu? Je, thamani ni mali asili ya vitu? Au ni, kinyume chake, jambo la kibinafsi? Je, tunalinganishaje thamani ya vitu viwili? Thamani inatoka wapi?
 
-Mara nyingi, unapokutana na matumizi ya SHA256 kwenye Bitcoin, kwa kweli itakuwa Hash SHA256 mara mbili, iliyobainishwa "**HASH256**", ambayo inajumuisha kutumia SHA256 mara mbili mfululizo:
+Maswali kama haya yamechukua wachumi na wanafalsafa kwa karne nyingi na yamepata majibu mengi tofauti. Kwa njia nyingi, mageuzi ya epistemological ya uchumi yameangaziwa na mageuzi ya nadharia za thamani.
 
-$$
-\text{HASH256}(m) = \text{SHA256}(\text{SHA256}(m))
-$$
+Baada ya nadharia ya wanafizikia ya thamani ya ardhi, wakidai kwamba thamani yote inatoka kwa ardhi, ilikanushwa na nadharia ya thamani ya kazi ya wanauchumi wa kitamaduni, wakidai kwamba thamani ya kitu kizuri inatokana na kiasi cha kazi inayoingia katika uzalishaji wake, ilikuwa zamu ya nadharia ya kando ya thamani kuchukua nafasi ya mwisho. Katika miaka ya 1870, kufuatia Marx, mwanauchumi wa mwisho wa kitamaduni, shule tatu mpya za mawazo ya kiuchumi ziliibuka karibu wakati huo huo karibu na nadharia ya kando ya thamani: shule ya Lausanne na Léon Walras, shule ya kisasa au ya kisasa na William Stanley Jevons, na shule ya Austria iliyo na Carl Menger. Mapinduzi haya katika nadharia ya thamani yalijumuisha upya mkubwa wa mawazo ya kiuchumi.
 
-Zoezi hili la hashing mara mbili huongeza Layer ya ziada ya usalama dhidi ya mashambulizi fulani yanayoweza kutokea, ingawa SHA256 moja leo inachukuliwa kuwa salama kwa njia fiche.
+![image](assets/en/07.webp)
 
-Kitendaji kingine cha hashi kinachopatikana katika lugha ya Hati na kinachotumiwa kupata anwani za kupokea ni chaguo la kukokotoa la RIPEMD160. Chaguo hili la kukokotoa hutoa 160-bit Hash (hivyo ni fupi kuliko SHA256). Kwa ujumla huunganishwa na SHA256 kuunda kitendakazi cha HASH160:
+Kutoka Kushoto kwenda Kulia: William Stanley Jevons, Carl Menger, Léon Walras
 
-$$
-\text{HASH160}(m) = \text{RIPEMD160}(\text{SHA256}(m))
-$$
+Nadharia ya kando ya thamani inashikilia kuwa thamani ya kiuchumi inalingana na kile wakala wa kiuchumi hulipa kwa hiari kitengo kinachofuata cha bidhaa au huduma. Nadharia hii inaposisitiza ukweli kwamba bei huundwa ukingoni, i.e. kwa kitengo kinachofuata cha kitu fulani, iliitwa "upungufu".
 
-Mchanganyiko huu hutumiwa kwa generate heshi fupi, haswa katika kuunda anwani fulani za Bitcoin ambazo zinawakilisha heshi za funguo au heshi za hati, na pia kutoa alama za vidole muhimu.
+Ni jambo la kawaida kuwasilisha ubaguzi wa shule hizi tatu kuwa sawa. Hakika, Walras na Jevons wanalingana sana, lakini nadharia ya Menger inatofautiana na zingine kwa njia kubwa. Katika kazi yake, ambayo sasa inachukuliwa kuwa msingi wa nadharia ya uchumi ya Austria, inayoitwa "Grundsätze des Volkswirtschaftlehre" (Kanuni za Uchumi wa Kisiasa), iliyochapishwa mwaka wa 1874, Menger, anatoa maelezo ya kando, lakini ya msingi, ya thamani, tofauti na Walras na Jevons, ambao hufikiriwa kuwa jambo linalofaa na la kawaida.
 
-Hatimaye, katika kiwango cha maombi tu, kazi ya SHA512 wakati mwingine hutumiwa pia, ambayo ina jukumu la moja kwa moja katika utoaji wa ufunguo wa pochi. Kazi hii inafanana sana na SHA256 katika uendeshaji wake; zote mbili ni za familia moja ya SHA2, lakini SHA512 inazalisha, kama jina lake linavyoonyesha, Hash ya 512-bit, ikilinganishwa na bits 256 za SHA256. Tutaelezea kwa undani matumizi yake katika sura zifuatazo.
+### Thamani ya Mada
 
-Sasa unajua misingi muhimu kuhusu utendaji wa hashing kwa yale yafuatayo. Katika sura inayofuata, ninapendekeza kugundua kwa undani zaidi utendakazi wa kazi ambayo iko katikati ya Bitcoin: SHA256. Tutaichambua ili kuelewa jinsi inavyofanikisha sifa tulizozielezea hapa. Sura hii inayofuata ni ndefu na ya kiufundi, lakini si muhimu kufuata mafunzo mengine. Kwa hiyo, ikiwa una ugumu kuelewa, usijali na uende moja kwa moja kwenye sura inayofuata, ambayo itakuwa rahisi zaidi kupatikana.
+![image](assets/en/08.webp)
 
-## Kazi za Ndani za SHA256
+Mwanauchumi wa Austria anakanusha dhana ya warithi wa Adam Smith na kuachana na wazo kwamba thamani ya kitu kizuri hutokana na kiasi cha kazi inayotumiwa katika uzalishaji wake, kwa kupendelea dhana kwamba thamani yake imeamuliwa na mtu binafsi, ambaye, katika kila muktadha, anafanya kitendo cha kiakili cha kuthamini kuhusu kiasi fulani cha bidhaa au huduma. Hatua hii ya kiakili iliyofanywa na Menger inapinga usawa wa thamani: kwake, thamani si mali inayolengwa ya bidhaa; ni matokeo tu ya uhusiano ambao mtu anao na kitu hicho: "thamani haipo nje ya ufahamu wa mwanadamu."
 
-<chapterId>905eb320-f15b-5fb6-8d2d-5bb447337deb</chapterId>
+Kwa maneno mengine, Menger anatualika kuzingatia kwamba thamani ipo tu kama jambo la kisaikolojia linalojitegemea ndani ya mtu binafsi, kwamba thamani si mali asili ya bidhaa, bali inatokana na maoni ya mtu binafsi kuhusu matumizi anayoweza kupata kutoka kwa bidhaa hizo.
 
-Tumeona hapo awali kuwa vitendaji vya hashing vina sifa muhimu zinazohalalisha matumizi yao kwenye Bitcoin. Wacha sasa tuchunguze mifumo ya ndani ya kazi hizi za hashing ambazo huwapa mali hizi, na kwa kufanya hivyo, napendekeza kutenganisha operesheni ya SHA256.
+Kwa mujibu wa mtazamo huu, lita moja ya maji ya kunywa haina thamani ya lengo. Mtu ambaye anaweza kupata mfumo wa kisasa wa maji ya kunywa na hana kiu kwa sasa labda angeweka thamani ndogo sana kwa lita hiyo ya ziada ya maji, ambapo mtu ambaye ana kiu katikati ya jangwa, akiona kuwa ni tofauti kati ya maisha na kifo, bila shaka atakuwa tayari kuhusisha thamani isiyo na kikomo kwa lita hiyo ya maji.
 
-Vitendaji vya SHA256 na SHA512 ni vya familia moja ya SHA2. Utaratibu wao unategemea ujenzi maalum unaoitwa **Merkle-Damgård ujenzi**. RIPEMD160 pia hutumia aina hii ya ujenzi.
+Kwa muhtasari, Menger aligundua kuwa thamani ya faida ya kiuchumi si chochote zaidi ya tathmini ya kibinafsi ambayo mtu hugawa kwa kitengo cha ziada cha bidhaa au huduma hiyo.
 
-Kama ukumbusho, tuna ujumbe wa ukubwa usio na mpangilio kama ingizo kwa SHA256, na tutaupitisha kwenye chaguo la kukokotoa ili kupata 256-bit Hash kama pato.
+### Exchange ya Hiari: Mchezo Bora wa Jumla
 
-### Usindikaji wa awali wa pembejeo
+Kutokana na hatua hii, Menger anakisia kuwa Exchange ya hiari kati ya watu wawili hufanyika kwa sababu kila mhusika anaamini kuwa itaongeza matumizi yao binafsi. Kwake, Exchange haipendekezi usawa wowote wa thamani, kinyume na kile wanauchumi wa zamani waliamini. Kulingana na mwanafikra huyo wa Austria, ikiwa kungekuwa na usawa wa matumizi kati ya bidhaa zilizobadilishwa, hakutakuwa na sababu kwa wahusika kuhangaika kubadilishana kwanza. Iwapo kuna Exchange, ni kwa sababu kila mhusika anaipata kwa maslahi yao (ya mada), na hivyo basi, kila Exchange ya hiari hutoa manufaa ya kijamii.
 
-Ili kuanza, tunahitaji kutayarisha ujumbe wetu wa ingizo $m$ ili uwe na urefu wa kawaida ambao ni mgawo wa biti 512. Hatua hii ni muhimu kwa utendaji mzuri wa algorithm baadaye.
+### Uthamini kama Jambo la Kuagiza Matamanio ya Kibinadamu
 
-Ili kufanya hivyo, tunaanza na hatua ya bits ya padding. Kwanza tunaongeza kitenganishi `1` kwenye ujumbe, ikifuatiwa na idadi fulani ya biti `0`. Nambari ya biti `0` zilizoongezwa huhesabiwa ili jumla ya urefu wa ujumbe baada ya nyongeza hii ilingane na modulo 448 512. Kwa hivyo, urefu wa $L$ wa ujumbe wenye vibandiko vya pedi ni sawa na:
+Walakini, faida kama hiyo ya kijamii, au dhamana ya kibinafsi inayohusishwa na nzuri, haiwezi kupimwa. Kwa Menger, thamani ni hali ya utambuzi ya kulinganisha (ya kawaida) badala ya kipimo (kadinali). Sio, kama wachumi wa mamboleo walivyofikiri tangu Walras na Jevons, Assignment na mtu binafsi mwenye thamani ya nambari inayoonyesha manufaa wanayopata kutoka kwayo, bali ni kitendo cha kuagiza tamaa za kibinadamu ambazo mtu huonyesha kwamba anatamani kiasi cha nzuri A zaidi kuliko wingi wa B nzuri.
 
-$$
-L \equiv 448 \mod 512
-$$
+Wakala yeyote anaweza kusema kama anapendelea ndizi 2 kwa kozi ya uchumi, lakini hakuna mtu anayeweza kusema kwamba wanathamini ndizi 2 kwa matumizi ya 3.1416, huku akithamini kozi ya uchumi kwa matumizi 3, na kwa hivyo, wanapendelea kuwa na ndizi. Ufafanuzi kama huo wa mapendeleo ya mwanadamu, kulingana na kazi halisi zinazoendelea, haulingani na ukweli wa michakato ya utambuzi tunayopata katika maisha yetu ya kila siku. Mtu huwa hakadirii bidhaa zinazowasilishwa kwake kwa kuzilinganisha na kiwango cha matumizi dhahania. Badala yake, analinganisha kwa ubinafsi njia tofauti za utekelezaji, ambazo hawezi kuzihukumu kwa maneno kamili lakini hata hivyo anaweza kuziweka kulingana na kuhitajika kwao.
 
-$\text{mod}$, kwa modulo, ni operesheni ya hisabati ambayo, kati ya nambari mbili kamili, hurejesha salio la mgawanyiko wa Euclidean wa kwanza na wa pili. Kwa mfano: $16 \mod 5 = 1$. Ni operesheni inayotumika sana katika kriptografia.
+Dhana hii ya thamani, inayoeleweka kama uhusiano wa kisaikolojia ambayo mtu huburudisha na malengo yake na njia zinazofaa kuyafanikisha, pia inaruhusu wanauchumi wa Austria kuelezea jambo la mgawanyiko wa wafanyikazi.
 
-Hapa, hatua ya padding inahakikisha kwamba, baada ya kuongeza bits 64 katika hatua inayofuata, urefu wa jumla wa ujumbe uliosawazishwa utakuwa nyingi ya 512 bits. Ikiwa ujumbe wa awali una urefu wa biti za $M$, nambari ($N$) ya biti `0` za kuongezwa ni hivi:
+### Idara ya Kazi
 
-$$
-N = (448 - (M + 1) \mod 512) \mod 512
-$$
+![image](assets/en/09.webp)
 
-Kwa mfano, ikiwa ujumbe wa awali ni biti 950, hesabu itakuwa kama ifuatavyo.
+Kutembelea Kiwanda cha Kucha, Léonard Defrance (karne ya 18)
 
-$$
-\begin{align*}
-M & = 950 \\
-M + 1 & = 951 \\
-(M + 1) \mod 512 & = 951 \mod 512 \\
-& = 951 - 512 \cdot \left\lfloor \frac{951}{512} \right\rfloor \\
-& = 951 - 512 \cdot 1 \\
-& = 951 - 512 \\
-& = 439 \\
-\\
-448 - (M + 1) \mod 512 & = 448 - 439 \\
-& = 9 \\
-\\
-N & = (448 - (M + 1) \mod 512) \mod 512 \\
-N & = 9 \mod 512 \\
-& = 9
-\end{align*}
-$$
+Kila mtu ni wa kipekee na ana hali fulani ya kibinafsi. Kwa hivyo, kila mtu ana uwezo wa juu wa kufanya kazi fulani kuliko wenzake (faida kamili) au uwezo wa juu wa kufanya kazi fulani kuliko zingine (faida ya kulinganisha). Haiwezi kuwa vinginevyo; kukataa ukweli huu wa kimsingi itakuwa kudai kwamba wanadamu wote ni sawa katika nyanja zote.
 
-Kwa hivyo, tungekuwa na `0` 9 pamoja na kitenganishi `1`. Sehemu zetu za kuweka pedi zitaongezwa moja kwa moja baada ya ujumbe wetu $M$ itakuwa:
+Katika hali ambapo mtu ana uwezo wa hali ya juu ukilinganisha na wenzake katika uzalishaji wa kitu kizuri (faida kamili), wana nia ya kubobea katika uzalishaji wa bidhaa hiyo na kubadilishana ziada iliyopatikana kwa bidhaa wanazotaka. Kwa kufanya hivyo, wanakidhi matumizi yao ya kibinafsi zaidi kiuchumi kuliko kama wangejihusisha katika uzalishaji wa bidhaa zote wanazotaka.
 
-```text
-1000 0000 00
-```
+Lakini pia inaweza kuwa kesi kwamba mtu binafsi hana faida kabisa katika uzalishaji wa nzuri yoyote. Katika kesi hii, bado kutakuwa na aina za uzalishaji ambazo mtu binafsi ni bora kuliko wengine (faida ya kulinganisha), na kwa sababu hii, bado wana nia ya utaalam.
 
-Baada ya kuongeza vipande kwenye ujumbe wetu $M$, pia tunaongeza uwakilishi wa biti 64 wa urefu asili wa ujumbe $M$, unaoonyeshwa kwa njia ya jozi. Hii inaruhusu kazi ya Hash kuwa nyeti kwa mpangilio wa biti na urefu wa ujumbe.
+Kwa hakika, wapo watu binafsi ambao wangeweza kuzalisha kile kilichopewa kizuri chenye tija zaidi kuliko yeye, lakini kwa kuwa watu hao huenda wana tija zaidi katika kazi nyingine kuliko hii, na kwa kuwa hawawezi kufanya kazi zote mbili kwa wakati mmoja, haitakuwa na tija kwao kuifanyia kazi kazi hii badala ya nyingine ambayo wana tija zaidi kwayo. Kwa kubobea katika kazi ambayo wanazalisha zaidi, watapata ziada kubwa kuliko ikiwa hawakuwa na utaalam, na kwa hivyo, kupitia Exchange, wangeweza kupata idadi iliyoongezeka ya bidhaa hizo zingine, hata kama bidhaa zilizopatikana zingezalishwa kwa ufanisi zaidi na wao wenyewe kuliko wazalishaji ambao walizipata kutoka kwao.
 
-Tukirudi kwenye mfano wetu na ujumbe wa awali wa biti 950, tunabadilisha nambari ya desimali `950` hadi mfumo wa jozi, ambayo inatupa `1110 1101 10`. Tunakamilisha nambari hii kwa sufuri kwenye msingi ili kufanya jumla ya biti 64. Katika mfano wetu, hii inatoa:
+Chukua mfano wa daktari. Anaweza kuwa bora katika kuandika barua pepe na kupanga miadi kuliko katibu wake (faida ya jamaa). Lakini wakati wowote anaotumia kufanya kazi hizo ni wakati ambao haajiri wagonjwa wa kuponya. Kwa hivyo, kwa kuwa ana tija zaidi katika kuponya watu, ni kwa manufaa yake kukabidhi majukumu ya utawala kwa mtu mwingine hata kama yeye ni bora katika kazi hiyo kuliko naibu wake, kwa sababu inamruhusu kuongeza thamani inayozalishwa kwa ajili ya wengine, na hivyo utajiri wake mwenyewe.
 
-```text
-0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0011 1011 0110
-```
+Kwa kweli, kuna faida ya utaalam, hata kwa watu ambao hawana faida kamili, kwa sababu wakati ni rasilimali adimu na pinzani: kila kitengo cha wakati kinachotumiwa kwenye shughuli nyingine isipokuwa ile ambayo mtu anazalisha zaidi inamaanisha gharama inayowakilishwa na uzalishaji uliotangulia ambao waliacha (gharama ya fursa).
 
-Saizi hii ya pedi huongezwa kufuatia pedi kidogo. Kwa hivyo, ujumbe baada ya usindikaji wetu una sehemu tatu:
+Pindi mtu anakuwa amebobea katika uzalishaji fulani, basi anaweza kuhifadhi kiasi cha bidhaa anachoona ni muhimu kwa matumizi yake ya kibinafsi na Exchange ziada kwa bidhaa zingine zinazohitajika. Kwa kufanya hivyo, wanakidhi tamaa yao ya bidhaa wanazozalisha wenyewe, ambayo ina maana kwamba vitengo vilivyobaki vya uzalishaji wao vina thamani ndogo kwao. Ni kile ambacho wanauchumi wanakiita kupungua kwa matumizi ya kando: kila kitengo cha ziada cha bidhaa hakitakiwi kidogo kuliko kilichotangulia. Kwa wengine kukosa bidhaa kama hizo, ni hadithi tofauti: kwa sababu hizo hizo, huwa na tamaa ya bidhaa ambazo hazizalishi kwa nguvu zaidi kuliko zile wanazofanya. Hii inasababisha hali ambapo kuna ulinganifu mkubwa kati ya tathmini mbalimbali za kibinafsi za watu binafsi, ambazo zinafaa sana kwa kubadilishana: kila upande una nia ya kubadilishana uzalishaji wao wa ziada kwa sababu wao huongeza matumizi yao ya kibinafsi.
 
+Matokeo ya uchanganuzi uliotangulia ni kwamba watu binafsi huwa na maisha bora zaidi wanapobobea katika kazi zao na kushiriki katika kubadilishana. Kwa hiyo, wanauchumi wa Austria, hasa Ludwig Von Mises, wanahitimisha kwamba faida ya uzalishaji inayotokana na mgawanyiko wa kazi ni nguvu inayoongoza nyuma ya mchakato wa ushirikiano wa kijamii. Hapa, inaweza kuwa muhimu kumnukuu moja kwa moja:
 
-- Ujumbe asili $M$;
-- `1` kidogo ikifuatiwa na biti kadhaa `0` ili kuunda pedi;
-- Uwakilishi wa biti 64 wa urefu wa $M$ ili kuunda pedi yenye ukubwa.
+"Mambo ya kimsingi ambayo yalileta ushirikiano, jamii, na ustaarabu na kumbadilisha mnyama kuwa mwanadamu ni ukweli kwamba kazi inayofanywa chini ya mgawanyiko wa kazi ina tija zaidi kuliko kazi ya pekee na kwamba sababu ya mwanadamu inaweza kutambua ukweli huu. […]
 
-![CYP201](assets/fr/006.webp)
+### Hitimisho
 
-### Uanzishaji wa Vigezo
+> "Ikiwa mwanamume ataona kwamba anaweza kuishi kwa raha zaidi akining'inia kwenye mti kuliko kukaa mezani, atakuwa anafanya kama mjinga ili asijinyonga."
+>
 
-SHA256 hutumia viasili nane vya hali ya awali, vinavyoashiria $A$ hadi $H$, kila moja ya biti 32. Vigezo hivi huanzishwa kwa viambatisho maalum, ambavyo ni sehemu za sehemu za mizizi ya mraba ya nambari kuu nane za kwanza. Tutatumia maadili haya baadaye wakati wa mchakato wa hashing:
+> Baruch Spinoza
+1871-1874 ni miaka ya ajabu ya uchumi wa kisasa: kipindi hiki kilishuhudia kazi za wanafikra watatu wa kujitegemea msingi wa uchumi wa kisasa. Kwa msisitizo wao juu ya thamani ya kawaida ya kawaida, wanauchumi wa Austria watakuza muundo mzima wa fikra za kiuchumi zinazowatofautisha na homologues zao. Kazi ya wanauchumi wa Austria kusababu kuhusu hatua ya binadamu katika muktadha wa uhaba itasimama kinyume kabisa na mafundisho ya kiuchumi yaliyoanzishwa na Jevons na Walras yakiegemea sana hisabati inayosimama nyuma ya wazo kwamba thamani inaweza kupimwa kimakosa na kutolewa kama utendaji unaoendelea.
 
+Akijenga ufahamu wa thamani ya kawaida ya utaratibu Menger alielezea kuibuka kwa mgawanyiko wa kazi na wa hiari wa Exchange. Bado kama tutakavyoona katika sura inayofuata, Exchange ya moja kwa moja ni mkakati mbaya kwa mawakala wa kiuchumi wanaotaka kuongeza matumizi yao ya kibinafsi. Baba wa Shule ya Austria ameendeleza hoja yake zaidi kuelezea kwa nini pesa ziliibuka kama taasisi ya kijamii.
 
-- $A = 0x6a09e667$
-- $B = 0xbb67ae85$
-- $C = 0x3c6ef372$
-- $D = 0xa54ff53a$
-- $E = 0x510e527f$
-- $F = 0x9b05688c$
-- $G = 0x1f83d9ab$
-- $H = 0x5be0cd19$
+Sura zifuatazo zitajitolea kwa kuibuka kwa pesa kama taasisi ya kijamii, nadharia ya mtaji na riba, ambayo itatumika kama msingi wa Nadharia ya Mzunguko wa Biashara, na mwishowe jukumu la bei kwa hesabu ya kiuchumi.
 
-SHA256 pia hutumia viasili vingine 64, vinavyoashiria $K_0$ hadi $K_{63}$, ambavyo ni sehemu za sehemu za mizizi ya mchemraba wa nambari kuu 64 za kwanza:
+## Kuibuka kwa Pesa kama Jambo la Kijamii
 
-$$
-K[0 \ldots 63] = \begin{pmatrix}
-0x428a2f98, & 0x71374491, & 0xb5c0fbcf, & 0xe9b5dba5, \\
-0x3956c25b, & 0x59f111f1, & 0x923f82a4, & 0xab1c5ed5, \\
-0xd807aa98, & 0x12835b01, & 0x243185be, & 0x550c7dc3, \\
-0x72be5d74, & 0x80deb1fe, & 0x9bdc06a7, & 0xc19bf174, \\
-0xe49b69c1, & 0xefbe4786, & 0x0fc19dc6, & 0x240ca1cc, \\
-0x2de92c6f, & 0x4a7484aa, & 0x5cb0a9dc, & 0x76f988da, \\
-0x983e5152, & 0xa831c66d, & 0xb00327c8, & 0xbf597fc7, \\
-0xc6e00bf3, & 0xd5a79147, & 0x06ca6351, & 0x14292967, \\
-0x27b70a85, & 0x2e1b2138, & 0x4d2c6dfc, & 0x53380d13, \\
-0x650a7354, & 0x766a0abb, & 0x81c2c92e, & 0x92722c85, \\
-0xa2bfe8a1, & 0xa81a664b, & 0xc24b8b70, & 0xc76c51a3, \\
-0xd192e819, & 0xd6990624, & 0xf40e3585, & 0x106aa070, \\
-0x19a4c116, & 0x1e376c08, & 0x2748774c, & 0x34b0bcb5, \\
-0x391c0cb3, & 0x4ed8aa4a, & 0x5b9cca4f, & 0x682e6ff3, \\
-0x748f82ee, & 0x78a5636f, & 0x84c87814, & 0x8cc70208, \\
-0x90befffa, & 0xa4506ceb, & 0xbef9a3f7, & 0xc67178f2
-\end{pmatrix}
-$$
+<chapterId>14ded794-0578-5478-ba5b-b2106c74f3ef</chapterId>
 
-### Mgawanyiko wa Pembejeo
+Ingawa watu binafsi wana nia ya pamoja katika utaalam na kuongeza mgawanyiko wa wafanyikazi, bado kuna shida za uratibu ambazo huzuia upanuzi huu.
 
-Sasa kwa kuwa tuna pembejeo iliyosawazishwa, sasa tutaendelea hadi awamu kuu ya usindikaji ya algorithm ya SHA256: kazi ya kukandamiza. Hatua hii ni muhimu sana, kwani ndiyo hasa inayoipa kazi ya Hash sifa zake za kriptografia ambazo tulijifunza katika sura iliyopita.
+Kwanza, ni muhimu kutambua kwamba kwa kuwa michakato ya uzalishaji hufuatana na wakati na mara nyingi haifanani (isiyo ya wakati mmoja), kwa kawaida kutakuwa na pengo la wakati kati ya mchango wa awali wa mtu binafsi na upokeaji wa mwenzake. Kujitoa kwa kazi hususa sasa bila kuwa na uhakikisho wa mapema kwamba wengine watatudhi mahitaji yetu wakati ujao kunaweza kuwa hatari.
 
-Kwanza, tunaanza kwa kugawanya ujumbe wetu uliosawazishwa (matokeo ya hatua za uchakataji) katika vizuizi kadhaa vya $P$ vya biti 512 kila kimoja. Ikiwa ujumbe wetu uliosawazishwa una ukubwa wa jumla wa biti $n \mara 512$, kwa hivyo tutakuwa na vizuizi $n$, kila moja ya biti 512. Kila kizuizi cha 512-bit kitachakatwa kibinafsi na kazi ya ukandamizaji, ambayo inajumuisha raundi 64 za shughuli zinazofuatana. Hebu tutaje vitalu hivi $P_1$, $P_2$, $P_3$...
+Katika mgawanyo wa kazi, kila chama kinanufaika na ushirikiano, lakini kibinafsi, mtu anaweza kujaribiwa kufurahia kazi ya wengine bila kurudisha nyuma, kwani kwa njia hii, wanapata kitu cha thamani bila kutumia gharama yoyote. Hali kama hizi, ambapo ushirikiano wa pande zote husababisha faida ndogo kwa watu binafsi lakini faida kubwa zaidi kwa kikundi, zinafafanuliwa katika nadharia ya mchezo kama "shida ya wafungwa."
 
-### Uendeshaji wa Kimantiki
+### Shida ya Mfungwa
 
-Kabla ya kuchunguza kazi ya ukandamizaji kwa undani, ni muhimu kuelewa shughuli za msingi za mantiki zinazotumiwa ndani yake. Operesheni hizi, kulingana na algebra ya Boolean, hufanya kazi katika kiwango kidogo. Shughuli za msingi za kimantiki zinazotumiwa ni:
+Hapo awali, mtanziko wa mfungwa ulitayarishwa kama ifuatavyo: Washukiwa wawili, Alice na Bob, hawawezi kuwasiliana, wanakabiliwa na hatari ya kufungwa, na hukumu zinazowezekana kama ifuatavyo.
 
 
-- Kiunganishi (NA)**: iliyoashiria $\land$, inalingana na "AND" ya kimantiki.
-- Kitenganisho (AU)**: iliyoashiria $\lor$, inalingana na "OR" ya kimantiki.
-- Kukanusha (SIO)**: iliyoashiria $\lnot$, inalingana na "NOT" ya kimantiki.
+- Ikiwa Alice anamshtaki Bob, na Bob abaki kimya, Alice ataachiliwa, na Bob anapata miaka 3.
+- Iwapo Alice na Bob wanashtakiana, kila mmoja atapokea miaka 2.
+- Ikiwa wote wawili watakaa kimya, kila mmoja anapata mwaka 1.
 
-Kutoka kwa shughuli hizi za kimsingi, tunaweza kufafanua utendakazi changamano zaidi, kama vile "Exclusive AU" (XOR) inayoashiria $\oplus$, ambayo hutumiwa sana katika cryptography.
+Matokeo haya yanaweza kuwakilishwa katika matrix (matokeo ya nambari yanaonyesha idadi ya miaka ya kifungo):
 
-Kila operesheni ya kimantiki inaweza kuwakilishwa na jedwali la ukweli, ambalo linaonyesha matokeo ya michanganyiko yote inayowezekana ya maadili ya pembejeo ya binary (endeshaji mbili $p$ na $q$).
+| Alice / Bob | Kushtaki | Kaa Kimya |
 
-Kwa XOR ($\plus$):
+| ----------------- | ------ | ------------- |
 
-| $p$ | $q$ | $p \plus q$ |
+| **Kushtaki** | 2, 2 | 0, 3 |
 
-| --- | --- | ------------ |
+| **Kaa Kimya** | 3, 0 | 1, 1 |
 
-| 0 | 0 | 0 |
+Katika mchezo huu, hakuna fursa ya uratibu (mawasiliano haiwezekani) kufikia matokeo bora kwa pande zote mbili. Kwa hivyo, Alice na Bob wana motisha ya kibinafsi ya kushtaki kila mmoja, ingawa haileti matokeo bora kwa kikundi. Mkakati mwafaka kwa wote wawili ni kukaa kimya, kila mmoja akipokea kifungo cha mwaka 1.
 
-| 0 | 1 | 1 |
+Mchezo huu unaonyesha tatizo linalojitokeza mara kwa mara katika maisha halisi: kwa kukosekana kwa mbinu za uratibu, watu huwa na mwelekeo wa kuchagua mikakati ambayo huongeza manufaa yao binafsi, bila kujali mikakati iliyochaguliwa na wengine (wizi, udanganyifu, usaliti, vurugu, n.k.), hata wakati usawa unaohitajika zaidi kupitia uratibu/ushirikiano unawezekana.
 
-| 1 | 0 | 1 |
+### Pesa za Kutatua Matatizo ya Uratibu
 
-| 1 | 1 | 0 |
+![image](assets/en/10.webp)
 
-Kwa NA ($\land$):
+Tatizo hili lina athari ndogo katika jumuiya ndogo (k.m., familia, miduara ya marafiki) kwa sababu, katika hali kama hizi, kila mtu anamjua mwenzake moja kwa moja, hivyo basi iwezekane kukumbuka michango ya kila mmoja. Kwa kuchukulia kuwa kuacha jumuiya (kutoroka) kunaleta gharama, mfumo wa sifa unaozingatia kumbukumbu za mawakala binafsi kwa kawaida hutosha kuepuka mitego inayoletwa na mtanziko wa mfungwa.
 
-| $p$ | $q$ | $p \nchi q$ |
+Hata hivyo, wakati wa kushughulika na jumuiya kubwa zaidi zinazonufaika kwa kiasi kikubwa kutokana na mgawanyo wa kazi, matatizo ya uratibu huibuka tena. Hii ni kutokana na sababu kuu mbili:
 
-| --- | --- | ----------- |
+Kwanza, wanadamu wamewekewa mipaka na uwezo wao wa utambuzi. Haiwezekani kwa mtu kudumisha na kukumbuka uhusiano thabiti wa kijamii na zaidi ya watu 150, na kufanya mfumo wa sifa kutosheleza kushinda shida ya mfungwa kwa kiwango.
 
-| 0 | 0 | 0 |
+Pili, kipimo kinachokubalika kijamii cha thamani ya michango katika Exchange (commensurability) ni tatizo lisilo la kawaida. Kwa mfano, ikiwa mtu hutoa nyama kutoka kwa uwindaji na kuomba vifaa vya makazi kwa kurudi, ni jinsi gani kiasi cha nyama inayotolewa kinaweza kutathminiwa kulingana na vifaa vilivyoombwa? Vile vile huenda kwa ubora - je, nyama ya kulungu ina thamani zaidi au chini ya kuni?
 
-| 0 | 1 | 0 |
+Hata kama ingewezekana kuanzisha kiwango cha kuridhisha cha Exchange kwa kila jozi ya bidhaa, kudumisha taarifa hii haraka inakuwa vigumu. Katika mfumo wa moja kwa moja wa Exchange unaohusisha bidhaa za N, kuna viwango vya N(N-1)/2 Exchange vya kukumbuka. Kwa uchumi wa bidhaa 50, hiyo inamaanisha kukumbuka viwango vya 50\*49/2, au 1225 Exchange, kinyume na viwango 50 tu vya kubadilishana kwa njia zisizo za moja kwa moja. Kwa uchumi wa bidhaa 100, nambari hii inaongezeka hadi 4950. Uhusiano huo wa quadratic unaweka kikomo cha ziada juu ya scalability ya Exchange ya moja kwa moja (barter).
 
-| 1 | 0 | 0 |
+Zaidi ya hayo, kwa kuwa mabadilishano haya hayafanyiki papo hapo lakini yanapangwa kwa muda, kutathmini michango baada ya muda kunatatiza zaidi tathmini ya kiasi cha michango. Mbali na kutathmini uwiano wa Exchange kati ya bidhaa mbili za sasa, inakuwa muhimu kutathmini thamani ya mchango wa zamani kuhusiana na mwenza wa siku zijazo.
 
-| 1 | 1 | 1 |
+Leo, licha ya kutowezekana kwa mfumo kama huo, tunaweza kutumia uandishi au uhifadhi wa data dijitali kukumbuka maelezo haya yote na kuanzisha mfumo wa mikopo (kufuatilia michango ya zamani, ikijumuisha kiwango cha Exchange cha michango hiyo, kimsingi ni kuanzisha mfumo wa mikopo).
 
-Kwa NOT ($\lnot p$):
+Katika nyakati za kabla ya ustaarabu, teknolojia hizi hazikuwepo. Kwa hivyo, babu zetu walilazimika kutafuta suluhisho zingine ili kufurahiya faida za mgawanyiko wa kazi bila kujiweka wazi kwa matokeo mabaya ya shida ya mfungwa. Suluhisho la tatizo hili la Exchange moja kwa moja lilikuwa Exchange isiyo ya moja kwa moja iliyowezeshwa na pesa.
 
-| $p$ | $\lsio p$ |
+### Sadfa Maradufu ya Mahitaji na Usawa
 
-| --- | --------- |
+![image](assets/en/11.webp)
 
-| 0 | 1 |
+Pesa inaweza kuonekana kama suluhu iliyogunduliwa na mababu zetu kwa Address ambayo wanauchumi wanaita tatizo la "double coincidence of wants". Tatizo hili lina pande tatu: anga, muda, na baina ya watu.
 
-| 1 | 0 |
+Katika Exchange ya moja kwa moja (kubadilishana) kati ya Alice na Bob, wote wawili wanahitaji kumiliki kitu ambacho matamanio mengine kwa wakati mmoja na mahali. Kwa kutumia Exchange isiyo ya moja kwa moja, yaani, kupitia pesa, Alice anaweza kununua kutoka kwa Bob, na Bob anaweza kutumia kitengo hicho cha fedha mahali pengine, wakati mwingine, na kwa mtu mwingine (mradi tu mtu mwingine anakubali aina hiyo ya pesa).
 
-Wacha tuchukue mfano kuelewa utendakazi wa XOR kwa kiwango kidogo. Ikiwa tunayo nambari mbili za binary kwenye bits 6:
+Ili kitu kizuri kiwe pesa, ni lazima kiwe na mishahara ya juu, kumaanisha kwamba kinapaswa kutamaniwa na watu wengi iwezekanavyo, mara nyingi. Kwa kutumia bidhaa inayoweza kuuzwa sana, tatizo la kutaka kwa bahati mbaya maradufu hutatuliwa kwa suala la anga na vipimo vya mtu binafsi: ikiwa nzuri ninayotumia kama pesa inatamaniwa kila mahali na kwa watu wengi, naweza kutenganisha kwa urahisi kitendo cha kuuza na kitendo cha kununua katika suala la eneo na mwingiliano wa kijamii.
 
+Walakini, shida ya ujira kwa wakati ni ngumu zaidi kusuluhisha kwa sababu mbili:
 
-- $a = 101100$
-- $ b = 001000$
+Kwanza, entropy (inayojulikana kama "athari ya wakati") polepole hubadilisha sifa za bidhaa nyingi zenye matumizi ya moja kwa moja. Kwa hivyo, kuhifadhi usawa wa faida kwa wakati kunahitaji kuwa ya kudumu sana au sugu kwa entropy.
 
-Kisha:
+Pili, uhaba wa jamaa wa nzuri kwa wakati "t" hauhakikishi uhaba wake wa jamaa katika siku zijazo. Kwa kutoa rasilimali za kutosha kwa eneo maalum la uzalishaji, wanadamu wanaweza kuongeza Supply ya nzuri yoyote. Kizuizi pekee cha kuongeza uzalishaji wa bidhaa ni gharama inayohusiana na fursa. Kwa hiyo, uhaba wa sasa wa kitu hicho hauwezi kuthibitisha uhaba wake wa baadaye. Bidhaa tu ambazo uzalishaji wake wa chini unaweza kuongezeka kwa gharama kubwa sana zinaweza kuwa chache mara kwa mara, ndiyo sababu hii ni sifa ya bidhaa za fedha zinazojitokeza kwa uhuru katika historia ya binadamu.
 
-$$
-a \oplus b = 101100 \oplus 001000 = 100100
-$$
+Katika nyakati za kabla ya ustaarabu, bidhaa mbalimbali kama vile ganda la bahari, vito vilivyobuniwa, mikufu au shanga zilitumika kama pesa. Bidhaa hizi zilisafirishwa kwa urahisi, hazikuwa na matumizi ya moja kwa moja zaidi ya thamani yao ya mapambo, entropy iliyopinga (yaani, haikuharibika baada ya muda), ilikuwa ya kawaida na / au ilihitaji kiasi kikubwa cha kazi maalum ili kuzalisha. Kwa kuwa kiwango cha mgawanyiko wa kazi kilikuwa cha chini wakati huo, na kwa hiyo, gharama ya fursa inayohusishwa na kuzalisha mabaki ya mapambo ilikuwa ya juu, vitu hivi havikuweza kuzalishwa kwa kiasi kikubwa. Kwa hivyo, wale wanaotumia vitu hivi kama pesa wangeweza kuhakikishiwa uhaba wao wa jamaa wa wakati ujao.
 
-Kwa kutumia XOR kidogo kidogo:
+Ukweli kwamba mababu zetu wawindaji walijishughulisha na kazi hizi zinazohitaji rasilimali nyingi, ingawa hawakuzalisha bidhaa zisizo na matumizi ya moja kwa moja, unaonyesha faida kubwa waliyotarajia kutokana na kupanua wigo wa anga, kijamii na muda wa Exchange. Ikiwa hii haikuwa hivyo, na ingefaa zaidi kwao kutumia rasilimali hizi katika ujenzi wa makazi, uwindaji, au shughuli zingine, badala ya uzalishaji wa bidhaa za kifedha, labda hatungepata ushahidi mwingi wa kiakiolojia wa shughuli hizi za ufundi. Vikundi vingine vinavyotumia rasilimali zao kwa ufanisi zaidi vingefurahia maendeleo bora na ustawi zaidi, na shughuli hizi za ufundi zingetoweka haraka kwa ajili ya shughuli za kuzalisha bidhaa zenye matumizi ya moja kwa moja.
 
-| Nafasi kidogo | $a$ | $b$ | $a \plus b$ |
+Kwa maana hii, uzalishaji wa bidhaa za fedha, kwa kukuza upanuzi wa mgawanyiko wa kazi, uliwakilisha matumizi ya faida zaidi ya rasilimali (kwa suala la matumizi ya kibinafsi kwa watu binafsi) kuliko njia nyingine zote (kuongezeka kwa uwindaji, uvuvi, kukusanya, uzalishaji wa kuni, ujenzi wa nyumba, kuzalisha zana zaidi za uwindaji na uvuvi, nk).
 
-| ------------ | --- | --- | ------------ |
+### Kutokuwa na uhakika
 
-| 1 | 1 | 0 | 1 |
+Ili kuhitimisha uchanganuzi wetu wa taasisi ya fedha, tunahitaji Address suala la hatua za kiuchumi katika muktadha wa kutokuwa na uhakika kuepukika kuhusu siku zijazo.
 
-| 2 | 0 | 0 | 0 |
+Kama wanauchumi wa Austria walivyoeleza, hatua za binadamu zinaendana na wakati na daima huelekezwa kuelekea siku zijazo. Mtu anapotenda, anabadilisha hali yake ya sasa kwa matumaini ya kupata kuridhika siku zijazo. Makadirio haya ya kiakili yanaweza kuelekezwa kuelekea siku za usoni zilizo karibu au za mbali, lakini ili mtu ajiwekee malengo ya muda mrefu, lazima kwanza apate riziki yake ya muda mfupi kwa sababu hali yao katika siku za usoni huathiri moja kwa moja hali yao katika siku zijazo za mbali.
 
-| 3 | 1 | 1 | 0 |
+Hii inatokana moja kwa moja na busara za kibinadamu; hakuna anayeweza kupuuza asili ya mfuatano wa matukio ya muda na utegemezi wa mpangilio unaotokana nayo kwa sababu ni mojawapo ya vikwazo muhimu vya maisha ya binadamu. Kwa hiyo, kwa kuwa wakati ujao sikuzote unabakia kutokuwa na uhakika kwa wanadamu, watatafuta kupata uhai wao wa muda mrefu mara tu maisha yao ya muda mfupi yatakapohakikishiwa.
 
-| 4 | 1 | 0 | 1 |
+Katika suala hili, pesa, kwa kuruhusu uhifadhi wa thamani katika sasa na uhamisho wake kwa ubinafsi wa baadaye wa mtu, ina jukumu muhimu katika uratibu wa kati wa hatua za kibinadamu. Kwa kuhifadhi pesa, yaani, kuokoa, watu binafsi hulinda dhidi ya kutokuwa na uhakika wa siku zijazo na hivyo kujiwezesha kuelekeza matendo yao kwa upeo wa muda mrefu zaidi. Hata hivyo, wanaweza kufikia hili tu ikiwa pesa inayotumiwa ni ghala la thamani, kumaanisha kuwa ina malipo kwa wakati, ambayo, kama ilivyotajwa hapo awali, ni sifa ya bidhaa za kudumu na adimu.
 
-| 5 | 0 | 0 | 0 |
+Katika sura inayofuata tutaangazia dhana ya upendeleo wa wakati na kueleza mtazamo wa Austria kuhusu riba na mtaji, ambao utakuwa msingi wa sura ifuatayo kuhusu Nadharia ya Mzunguko wa Biashara.
 
-| 6 | 0 | 0 | 0 |
+## Upendeleo wa Wakati, Riba, na Mtaji
 
-Matokeo yake ni $100100$.
+<chapterId>37732a5c-4f66-5e2d-bc2c-cc8d29693af7</chapterId>
 
-Mbali na utendakazi wa kimantiki, kazi ya ukandamizaji hutumia shughuli za kubadilisha kidogo, ambazo zitachukua jukumu muhimu katika uenezaji wa biti kwenye algorithm.
+### Upendeleo wa Wakati
 
-Kwanza, kuna operesheni ya kimantiki ya zamu ya kulia, inayoashiria $ShR_n(x)$, ambayo huhamisha biti zote za $x$ kulia kwa nafasi $n$, na kujaza biti zilizo wazi upande wa kushoto na sufuri.
+Tulihitimisha sura ya mwisho kwa kueleza jinsi mawakala wa kiuchumi wanavyotumia bidhaa inayouzwa zaidi, yaani, pesa ili kuzuia kutokuwa na uhakika siku zijazo. Tulieleza pia kwamba asili ya mfuatano wa matukio ya muda hutuongoza kupambana na kutokuwa na uhakika hatua kwa hatua: pale tu tunapojua kwamba riziki yetu itahakikishiwa kwa wiki ijayo ndipo tunaweza kuelekeza nguvu kwenye malengo ya mbele zaidi katika siku zijazo.
 
-Kwa mfano, kwa $x = 101100001$ (kwenye biti 9) na $n = 4$:
+Au, kusema tofauti: kama wanadamu tunapunguza thamani ya bidhaa za siku zijazo.
 
-$$
-ShR_4(101100001) = 000010110
-$$
+Tathmini hii ya kibinafsi ya thamani ya bidhaa za siku zijazo ikilinganishwa na bidhaa za sasa inarejelewa kama upendeleo wa wakati. Mengine yote yakiwa sawa, bidhaa za sasa zinapendelewa kiasili kuliko bidhaa za siku zijazo. Kwa kuwa sisi ni watu wa kufa, na wakati ujao daima hauna uhakika, kwa kawaida tunapendelea kupata mema sasa badala ya baadaye. Ingawa upendeleo wa wakati unaweza kutofautiana kati ya watu binafsi, kutokana na maelfu ya mambo kama vile tamaduni, mali, elimu, fiziolojia, n.k., mapendeleo ya wakati huwa chanya kila wakati, kumaanisha kuwa vitu vyote ni sawa, kila wakati tunathamini bidhaa za sasa kuliko bidhaa za baadaye.
 
-Kwa utaratibu, operesheni sahihi ya mabadiliko inaweza kuonekana kama hii:
+Dhana hii ya uthamini wa jamaa wa bidhaa za siku zijazo juu ya bidhaa za sasa ndio mzizi wa hali ya riba. Hakika, katika uchumi ulio na masoko ya mitaji ambayo hayajadhibitiwa, viwango vya riba vya marejeleo (vinachukuliwa kuwa visivyo na hatari kutoka kwa chaguo-msingi) huamuliwa kwenye makutano ya mji mkuu wa Supply na mahitaji. Kwa hiyo, viwango hivi vinawakilisha hali ya mapendeleo ya muda kwa uchumi mzima: ongezeko la kiwango cha riba linatokana na ongezeko la jamaa la mahitaji ya mtaji ikilinganishwa na Supply, inayoonyesha mapendekezo ya juu ya muda. Kinyume chake, kupungua kwa viwango vya riba hutokea kutokana na ongezeko la akiba, ambayo ni ongezeko la Supply ya mtaji, inayoonyesha kupunguzwa kwa mapendekezo ya wakati.
 
-![CYP201](assets/fr/007.webp)
+![image](assets/en/12.webp)
 
-Operesheni nyingine inayotumika katika SHA256 kwa upotoshaji kidogo ni mzunguko wa kulia wa duara, unaoashiria $RotR_n(x)$, ambao huhamisha biti za $x$ kwenda kulia kwa nafasi $n$, na kuingiza tena biti zilizohamishwa mwanzoni mwa mfuatano.
+Katika uchumi ambapo viwango vya riba havitumiwi na benki kuu, huwa tunazingatia mteremko wa mavuno unaopanda juu: kadri deni linavyozidi kukomaa, ndivyo kiwango cha riba kinavyoongezeka. Hali iliyo kinyume haiwezi kutokea kwa sababu itahusisha kwamba siku zijazo ni hakika zaidi kuliko sasa, jambo ambalo ni jambo lisilowezekana kimantiki.
 
-Kwa mfano, kwa $x = 101100001$ (zaidi ya biti 9) na $n = 4$:
+Wazo la upendeleo wa wakati na jinsi tunavyoelezea upendeleo wetu wa wakati kwa kitendo cha matumizi na akiba ni msingi kwa michakato ya ugawaji wa mtaji na uzalishaji. Hebu tumgeukie mwanafunzi wa Menger, Eugen von Böhm-Bawerk, na nadharia yake ya mtaji ili kuelewa hasa jinsi upendeleo wa wakati unavyoathiri shirika la uzalishaji.
 
-$$
-RotR_4(101100001) = 000110110
-$$
+### Nadharia ya Capital
 
-Kwa utaratibu, operesheni sahihi ya kuhama kwa mviringo inaweza kuonekana kama hii:
+![image](assets/en/13.webp)
 
-![CYP201](assets/fr/008.webp)
+Mwanzoni mwa kozi hii, tuliona kwamba, kwa Carl Menger, bidhaa zinachukuliwa tu kuwa bidhaa za kiuchumi (zinazothaminiwa) kwa sababu hutumika kama njia za kufikia malengo yaliyochaguliwa na kuthaminiwa na watu binafsi. Kulingana na maoni haya, uchanganuzi wote wa kiuchumi unahusu matumizi kwa sababu hatimaye ndio lengo kuu la shughuli zote za kiuchumi. Kwa hivyo, kwa Menger, mahali pa kuanzia uchambuzi wa kiuchumi ni bidhaa za watumiaji, au bidhaa za mwisho, kwani zinawakilisha kusudi kuu la shughuli za kiuchumi. Bidhaa nyingine zote katika uchumi, ambazo tunaweza kuziita "bidhaa za kati," zina thamani tu kwa sababu zinawezesha watu binafsi kupata bidhaa hizi za matumizi: ni bidhaa zinazotumiwa katika uzalishaji wa bidhaa nyingine.
 
-### Kazi ya Ukandamizaji
+Ili kuzalisha bidhaa za walaji, wajasiriamali huchanganya bidhaa hizi mbalimbali za kati na mambo asilia ya uzalishaji (kazi, ardhi, na mtaji) kulingana na muundo unaoongeza uzalishaji unaopatikana. Mpangilio huu, unaofanywa na wajasiriamali, au muundo wa uzalishaji, unajumuisha hatua mbalimbali ambazo bidhaa za kati hupitia mabadiliko hadi hatimaye kuwa bidhaa za watumiaji.
 
-Sasa kwa kuwa tumeelewa shughuli za kimsingi, hebu tuchunguze kazi ya ukandamizaji ya SHA256 kwa undani.
+Kwa hivyo, kama Menger, tunaweza kufafanua bidhaa za watumiaji kama bidhaa za agizo la kwanza, bidhaa zinazohusika katika hatua ya awali kama bidhaa za agizo la pili, zile zilizo katika hatua ya hapo awali kama bidhaa za mpangilio wa tatu, na kadhalika, hadi tufikie mambo ya asili (ardhi, wafanyikazi, mtaji). Idadi ya hatua tunazozingatia kimsingi inategemea muundo wa uzalishaji uliopitishwa na wajasiriamali na haipaswi kuonekana kama sifa ya lengo la muundo wa uzalishaji. Kinyume chake, hatua za uzalishaji na bidhaa za kati zipo tu ndani ya muktadha wa kiteleolojia: mwigizaji anatazamia mlolongo wa vitendo ambavyo kupitia kwao watafikia lengo lao wanalotaka, na kiakili hugawanya hatua zao katika hatua zinazofuatana.
 
-Katika hatua ya awali, tuligawanya pembejeo yetu katika vipande kadhaa vya 512-bit $P $. Kwa kila block ya 512-bit $P$, tuna:
+Tabia hii ya makadirio ya kiakili ya hatua katika muundo wa mpangilio imewekwa na asili ya muda ya hatua ya mwanadamu. Kila hatua inayofanywa na wanadamu inachukua muda; hatua za haraka haziwezekani. Kwa hiyo, mwigizaji daima ana chaguo kati ya mifumo ya hatua ambayo inachukua muda zaidi au kidogo.
 
+Kuanzia sasa, kwa kuwa watu binafsi lazima wawe na mapendeleo chanya ya wakati, kumaanisha kwamba wanapendelea bidhaa za sasa kuliko bidhaa za siku zijazo, watachagua tu njia ndefu ikiwa matokeo yaliyopatikana yana thamani kubwa zaidi kwao kuliko yale ambayo wangepata kwa kuchukua njia ya moja kwa moja. Vinginevyo, hakuna mtu angetumia njia zinazotumia wakati zaidi: chini ya matokeo sawa, njia fupi zaidi inabaki chaguo linalopendekezwa.
 
-- Maneno ya ujumbe $W_i$**: kwa $i$ kutoka 0 hadi 63.
-- Viunga $K_i$**: kwa $i$ kutoka 0 hadi 63, vilivyofafanuliwa katika hatua ya awali.
-- Vigezo vya hali $A, B, C, D, E, F, G, H$**: vilivyoanzishwa kwa thamani kutoka kwa hatua ya awali.
+Kutokana na asili ya mfuatano wa hatua za binadamu, chaguo hizi za baina ya muda huwa na madokezo kwa mfuatano wa kitendo. Kwa maneno mengine, hatua za muda mfupi ninazochukua ziko chini ya malengo ya muda mrefu niliyoweka, na matendo yangu ya muda mfupi yataathiri kile ninachoweza kufanya katika siku zijazo. Maana ya jambo hili dhahiri kuhusu shughuli za uzalishaji ni kwamba mchepuko wowote wa uzalishaji, yaani, upanuzi wowote wa muundo wa uzalishaji, unahitaji kuokoa mapema. Nikiamua kutenga rasilimali zaidi kwa sasa ili kufikia lengo la siku zijazo, lazima kwanza niweke kando kile kitakachoniendeleza wakati uwekezaji wangu unachukua.
 
-Maneno 16 ya kwanza, $W_0$ hadi $W_{15}$, yametolewa moja kwa moja kutoka kwa kizuizi cha biti 512 $P$ kilichochakatwa. Kila neno $W_i$ linajumuisha biti 32 mfululizo kutoka kwenye kizuizi. Kwa hivyo, kwa mfano, tunachukua sehemu yetu ya kwanza ya ingizo $P_1$, na tunaigawanya zaidi katika vipande vidogo-32 ambavyo tunaviita maneno.
+Ili kufafanua jambo hili, hebu tuangalie tena mfano uliotolewa na Böhm-Bawerk, katika kazi yake "Capital and Interest":
 
-Maneno 48 yanayofuata ($W_{16}$ hadi $W_{63}$) yanatolewa kwa kutumia fomula ifuatayo:
+![image](assets/en/14.webp)
 
-$$
-W_i = W_{i-16} + \sigma_0(W_{i-15}) + W_{i-7} + \sigma_1(W_{i-2}) \mod 2^{32}
-$$
+Eugen von Böhm-Bawerk (1851-1914)
 
-Na:
+### Robinson Crusoe na Mchepuko wa Uzalishaji/Mzunguko:
 
+![image](assets/en/15.webp)
 
-- $\sigma_0(x) = RotR_7(x) \plus RotR_{18}(x) \plus ShR_3(x)$
-- $\sigma_1(x) = RotR_{17}(x) \plus RotR_{19}(x) \plus ShR_{10}(x)$
+Duka za Kutua za Robinson Crusoe kutoka kwenye Wreck, John Alexander Gilfillan (1793-1864)
 
-Katika hali hii, $x$ ni sawa na $W_{i-15}$ kwa $\sigma_0(x)$ na $W_{i-2}$ kwa $\sigma_1(x)$.
+Katika kitabu chake, mwanauchumi wa Austria anatualika kuzingatia ubadilishanaji wa biashara kati ya wakati uliopo katika miketo ya uzalishaji kupitia jaribio la fikra linalotegemea Robinson Crusoe pekee kwenye kisiwa chake.
 
-Baada ya kuamua maneno yote $W_i$ kwa kipande chetu cha 512-bit, tunaweza kuendelea na kitendakazi cha kubana, ambacho kinajumuisha kufanya mizunguko 64.
+Robinson, kama binadamu wa zamani, anategemea kutafuta chakula na kuwinda ili kupata riziki yake. Wacha tufikirie kwamba Robinson anaweza kukusanya matunda ya kutosha kujilisha kwa siku nzima katika masaa nane. Katika hali kama hizi, ana wakati mdogo wa shughuli zingine. Hata hivyo, Robinson anaamini kwamba kwa kutengeneza nguzo ya mbao, angeweza kuangusha matunda hayo kwa urahisi na kupata chakula chake cha kila siku kwa saa nne tu za kazi. Zaidi ya hayo, anakadiria kwamba itamchukua siku tano, akifanya kazi saa mbili kila siku, kutengeneza nguzo hiyo. Kwa hiyo, anahitimisha kwamba anahitaji kuokoa 1/5 ya uzalishaji wake wa beri kwa siku tano, au vinginevyo atumie saa 2 za ziada kwa siku kwa kukusanya kwa siku 5, ili kuokoa beri za kutosha ili kujikimu wakati anapotumia kutengeneza nguzo.
 
-![CYP201](assets/fr/009.webp)
+Iwapo hataweka akiba hii ya awali, Robinson hataweza kukamilisha kazi yake na anaweza kufa kwa sasa.
 
-Kwa kila mzunguko $i$ kutoka 0 hadi 63, tuna aina tatu tofauti za pembejeo. Kwanza, $W_i$ ambayo tumebaini hivi punde, ikiwa ni pamoja na kipande cha ujumbe wetu $P_n$. Ifuatayo, viunga 64 $K_i$. Hatimaye, tunatumia viasili vya hali $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$, ambavyo vitabadilika katika mchakato wa hashing na kurekebishwa kwa kila kitendakazi cha kubana. Hata hivyo, kwa kipande cha kwanza $P_1$, tunatumia viasili vya mwanzo vilivyotolewa hapo awali.
+Kwa hiyo, kwa siku tano, anajitolea saa mbili za mapumziko yake ili kukusanya matunda zaidi. Mwishoni mwa kipindi hiki, ana matunda ya kutosha na huanza kutengeneza nguzo ya mbao, akifanya kazi saa mbili kwa siku kwa siku tano. Baada ya kazi yake kufanywa, anaweza kupata matunda ya kutosha kwa ajili ya sehemu yake ya kila siku kwa saa 4 badala ya 8, na hivyo kumruhusu kutumia saa 4 zilizobaki kwa siku kwa shughuli nyinginezo.
 
-Kisha tunafanya shughuli zifuatazo kwenye pembejeo zetu:
+Kwa kutenda kwa njia hii, Robinson anachukua mchepuo wa uzalishaji: badala ya kukusanya matunda moja kwa moja, anawekeza juhudi katika kuzalisha mali nzuri ambayo itamfanya kuwa na tija zaidi katika siku zijazo. Hata hivyo, lazima atoe dhabihu ya muda mfupi, yaani, kuokoa, ili kufikia hili. Ikiwa hangefanya hivyo, hangeweza kukamilisha mtaji wake mzuri. Sadaka hii ya muda mfupi, hata hivyo, inampa faida kubwa kwani, mara tu akiwa na nguzo yake, anapata saa 4 kwa siku (mpaka nguzo inapopitwa na wakati). Saa hizi 4 za ziada kwa siku humwezesha kuunda bidhaa nyingi za mtaji, kama vile zana za kuwinda au nyavu za uvuvi, kuboresha hali yake hatua kwa hatua.
 
+### Hitimisho
 
-- Kazi $\Sigma_0$:**
+Kwa maneno mengine, katika uchumi wa mtu mmoja wa Robinson Crusoe, kuokoa kupitia dhabihu ya kuridhika kwa sasa ndiko kunakusanya mtaji unaoongeza tija. Katika muktadha huu, kuokoa, yaani, kuahirisha kuridhika kwa sasa, ni bei ya kulipa kwa kuongezeka kwa kuridhika kwa siku zijazo. Hii ina maana kwamba, katika muktadha huu, kuweka akiba ni sharti na sharti la lazima kwa maendeleo yoyote ya kiuchumi.
 
-$$
-\Sigma_0(A) = RotR_2(A) \oplus RotR_{13}(A) \oplus RotR_{22}(A)
-$$
+Hii ni dhana ya kuvutia, ingawa rahisi: upanuzi wowote wa muundo wa uzalishaji unahitaji uokoaji wa awali (kwani bidhaa zinazohitajika kwa uzalishaji kama huo hazitaanguka kutoka angani), na kwa hivyo, tunapookoa zaidi, ndivyo tutaweza kukusanya mtaji zaidi, ambao utatafsiri kuwa faida ya tija inayotoa bidhaa nyingi. Kwa hivyo, wanauchumi wa Austria wanaona kuwa kupunguzwa kwa mapendeleo ya wakati ndio mahali pa kuanzia kwa mzunguko mzuri wa akiba -> bidhaa nyingi za mtaji  tija zaidi  bidhaa nyingi = kiwango cha juu cha maisha -> upendeleo wa wakati wa chini.
 
+Sasa, kama ilivyoelezewa katika sura ya kwanza, viwango vya riba vimechezewa kwa miongo kadhaa na benki kuu wakati wote benki za biashara zilipanua mkopo bila akiba ya awali, kumaanisha kuwa viwango vya riba haviwakilishi upendeleo wetu wa wakati na inatoa udanganyifu wa akiba nyingi.
 
-- Kazi $\Sigma_1$:**
+Hii inaonyeshwa kikamilifu na chati iliyo hapa chini: viwango vya muda mrefu ni vya chini kuliko viwango vya muda mfupi. Kwanza, hii haina maana kabisa, kwa sababu ingejumuisha kwamba siku zijazo ni za hakika zaidi kuliko sasa. Pili, inataka uchunguzi kuhusu matokeo ya mgao wa mtaji: ikiwa kila mtu atahamasishwa kufanya kana kwamba akiba ni nyingi, ilhali waweka akiba hawapatikani popote kwa sababu hawajatuzwa kwa kuweka akiba, je, hii inaweza kuleta matokeo gani kwa uchumi?
 
-$$
-\Sigma_1(E) = RotR_6(E) \oplus RotR_{11}(E) \oplus RotR_{25}(E)
-$$
+![image](assets/en/16.webp)
 
+Haya ndiyo tutakayopata katika sura inayofuata inayohusu Nadharia ya Austria ya Mzunguko wa Biashara!
 
-- Chaguo za kukokotoa $Ch$ ("_Choose_"):**
+# Mitazamo ya Kiuchumi ya Austria
 
-$$
-Ch(E, F, G) = (E \land F) \oplus (\lnot E \land G)
-$$
+<partId>ad0fce42-2556-56b8-a093-5b4fcacc7cf3</partId>
 
+## Nadharia ya Austria ya Mzunguko wa Biashara
 
-- Kazi $Maj$ ("_Majority_"):**
+<chapterId>718afaa8-ce78-58aa-9477-073eef0bd137</chapterId>
 
-$$
-Maj(A, B, C) = (A \land B) \oplus (A \land C) \oplus (B \land C)
-$$
+> "Kadiri ukuaji wa mikopo ya benki ya mfumuko wa bei unavyoendelea, ndivyo wigo wa uwekezaji mbovu katika bidhaa za mtaji unavyoongezeka, na ndivyo hitaji kubwa la kukomesha uwekezaji huu usio na tija. Wakati upanuzi wa mikopo unaposimama, kugeuka, au hata kupungua kwa kiasi kikubwa, uwekezaji mbaya hufichuliwa."
+>
 
-Kisha tunahesabu vigezo 2 vya muda:
+> Ludwig von Mises
+Alikuwa Ludwig Von Mises, mwanafunzi aliyekamilika zaidi wa Böhm-Bawerk na bila shaka mwanauchumi muhimu zaidi wa Austria wa karne ya 20, ambaye alitumia hoja kuu ya Böhm-Bawerk kuelezea sababu na mienendo ya mzunguko wa kiuchumi. Friedrich A. Hayek, mfuasi wa Mises, baadaye alipanua hoja hii hadi hitimisho lake la kimantiki katika kazi ambazo kwazo alitunukiwa Tuzo ya Nobel ya Uchumi mwaka wa 1974.
 
+Mises na Hayek walianza uchanganuzi wao na ongezeko la akiba kama sehemu ya kuanzia. Kama tulivyoona katika sura zilizopita, ongezeko lolote la akiba lazima lihusishe kupungua kwa matumizi na hivyo kupunguza bei za bidhaa zinazotumiwa. Hii inasababisha athari mbili: kwanza, kuongezeka kwa mahitaji ya bidhaa za mtaji kunakosababishwa na kupanda kwa mishahara halisi kutokana na kupungua kwa bei ya bidhaa za walaji; na pili, ongezeko la faida za ujasiriamali katika hatua za uzalishaji zilizo mbali zaidi na matumizi (ili ya chini). Kadiri mishahara halisi inavyoongezeka, wajasiriamali wanahamasishwa kuinua nguvu kazi kwa kutumia bidhaa nyingi zaidi za mtaji, jambo ambalo huleta mahitaji makubwa ya bidhaa za mtaji na faida kubwa zaidi kwa wajasiriamali wanaozalisha bidhaa hizi za chini. Kwa hiyo, katika hali ya kuongezeka kwa akiba, yaani kupungua kwa upendeleo wa wakati, viwango vya riba vinaanguka, kukuza maendeleo ya hatua za ziada za uzalishaji na ongezeko la tija. Huu ni mchepuko wa kawaida wa uzalishaji wa Böhm-Bawerkian, na ni matokeo yanayohitajika sana.
 
-- $ temp1$:
+Hata hivyo, wanauchumi hao wawili wa Austria walitafakari ni nini kingetokea ikiwa kupungua kwa kiwango cha riba, ambacho hutumika kama mahali pa kuanzia kwa mchepuko huu wa uzalishaji, hakujatokana na ongezeko la akiba bali badala yake kutokana na upanuzi wa mikopo.
 
-$$
-temp1 = H + \Sigma_1(E) + Ch(E, F, G) + K_i + W_i \mod 2^{32}
-$$
+Katika muktadha wa benki ya hifadhi ya sehemu, upanuzi wa mkopo hauhitaji ongezeko linalolingana la akiba. Kwa hivyo, wajasiriamali wanaweza kuongeza mtaji zaidi na kushiriki katika miketo ya uzalishaji hata kama matakwa ya wakati yanabaki bila kubadilika, i.e. bila kupungua kwa matumizi. Kwa Hayek na Mises, hali kama hiyo inapaswa kusababisha shida kubwa za uratibu kati ya mawakala wa kiuchumi. Kutokana na kukosekana kwa viwango vya riba vya soko huria, matatizo haya yanaweza yasionekane mara moja, lakini kwa muda mrefu, mgao mbaya wa mtaji unaosababishwa unapaswa kuleta matokeo yanayoonekana: kushuka kwa uchumi.
 
+Ili kuelezea jambo hili la upotovu wa muda na matokeo yake kwa uwazi iwezekanavyo, tutategemea mfano wa muundo wa uzalishaji na kuchunguza jinsi unavyoathiriwa, kwanza kwa kupungua kwa viwango vya riba vinavyotokana na ongezeko la akiba, na kisha kwa kupungua kwa viwango vya riba kunakosababishwa na upanuzi wa mikopo.
 
-- $ temp2$:
+### Kupungua kwa Viwango vya Riba Kutokana na Kuongezeka kwa Akiba:
 
-$$
-temp2 = \Sigma_0(A) + Maj(A, B, C) \mod 2^{32}
-$$
+Ili kuwezesha maelezo yetu, tutarudi kwenye uainishaji wa Menger wa bidhaa na kuwakilisha muundo wenye tija kwenye mchoro unaojumuisha idadi ya hatua kiholela:
 
-Ifuatayo, tunasasisha anuwai za serikali kama ifuatavyo:
+![image](assets/en/17.webp)
 
-$$
-\begin{cases}
-H = G \\
-G = F \\
-F = E \\
-E = D + temp1 \mod 2^{32} \\
-D = C \\
-C = B \\
-B = A \\
-A = temp1 + temp2 \mod 2^{32}
-\end{cases}
-$$
+Katika mchoro hapo juu, rasilimali za awali hupitia hatua mbalimbali za uzalishaji, zikifanyika mabadiliko ambayo huwaleta karibu na hali ya bidhaa za mwisho za walaji (kupitia mwingiliano na mambo ya awali ya uzalishaji: wakati, ardhi, kazi). Urefu wa upande wa kulia wa pembetatu kwa mpangilio unawakilisha Pato la Taifa kwa kuwa unaonyesha jumla ya bidhaa zote za watumiaji zinazouzwa katika kipindi fulani. Pengo kati ya kila bar inalingana na thamani iliyoongezwa (kwa maneno ya fedha) inayotokana na kila hatua ya mchakato. Tofauti hii pia inaweza kuonekana kama mapato yanayohusiana na kila hatua (mapato - gharama).
 
-Mchoro ufuatao unawakilisha duru ya kazi ya ukandamizaji ya SHA256 kama tulivyoelezea hivi punde:
+Ikiwa, kwa kiwango cha jumla, mawakala wa kiuchumi wataongeza akiba zao, kiasi cha bidhaa za mwisho zinazotumiwa kitapungua - yote mengine kuwa sawa, kuokoa kunahusisha kuahirisha sehemu ya matumizi hadi tarehe ya baadaye. Kama matokeo, viwango vya riba vitashuka - kwa sababu Supply ya mtaji inaongezeka, ikiruhusu wajasiriamali kutumia utitiri huu wa mtaji kuunda bidhaa mpya za uwekezaji na hivyo kurefusha muundo wa uzalishaji.
 
-![CYP201](assets/fr/010.webp)
+Kisha tutapata muundo wa uzalishaji uliopanuliwa, mabadiliko ambayo yanaweza kuwakilishwa kwa ubora na mchoro ufuatao:
 
+![image](assets/en/18.webp)
 
-- Mishale inaonyesha mtiririko wa data;
-- Sanduku zinawakilisha shughuli zilizofanywa;
-- $+$ iliyozungushwa inawakilisha moduli ya nyongeza $2^{32}$.
+Hapa, thamani ya fedha ya bidhaa zinazohitajika za matumizi imepungua, ikitoa rasilimali kwa ajili ya kuundwa kwa hatua ya ziada ya uzalishaji. Katika hali hii ambapo kupungua kwa viwango vya riba ni matokeo ya kupungua kwa matumizi, yaani, ongezeko la akiba, eneo la pembetatu, linalowakilisha kiasi cha fedha katika mzunguko, bado halijabadilika. Mabadiliko ya muundo wa uzalishaji (kurefusha) husababisha tu uhamisho wa nguvu ya ununuzi kutoka sehemu moja ya muundo hadi nyingine.
 
-Tayari tunaweza kuona kwamba raundi hii inatoa hali mpya za hali $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$. Vigezo hivi vipya vitatumika kama ingizo la raundi inayofuata, ambayo nayo itazalisha vigeu vipya $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$, zitakazotumika kwa raundi ifuatayo. Mchakato huu unaendelea hadi raundi ya 64.
+Pia ni vyema kutambua kwamba kupungua kwa mahitaji ya bidhaa za walaji kutasababisha, katika muda wa kati, kupungua kwa bei za walaji badala ya kupungua kwa wingi wa bidhaa za mwisho zinazotolewa. Hii ni kwa sababu sehemu ya mwisho ya muundo wa uzalishaji haitarekebisha mara moja baada ya kushuka kwa mahitaji ya bidhaa za walaji kutokea; wajasiriamali watachukua muda kubadilisha mipango na uwekezaji wao. Wanapohifadhi orodha, kupungua kwa mahitaji kutawalazimu kuuza orodha hizi kwa punguzo, na, kwa hiyo, ziada ya akiba itasababisha bei ya chini kwa bidhaa za walaji (yaani, ongezeko la mshahara halisi).
 
-Baada ya raundi 64, tunasasisha maadili ya awali ya vigezo vya serikali kwa kuziongeza kwa maadili ya mwisho mwishoni mwa raundi ya 64:
+Kinyume chake, bidhaa za uwekezaji zitaona bei zao zinapanda kwa sababu uhamisho wa uwezo wa ununuzi kwa wajasiriamali huwawezesha kuongeza matumizi yao ya uwekezaji. Mara tu akiba hii, iliyohamishwa na waokoaji kwa wajasiriamali, inatumiwa na wajasiriamali wa mwisho, viwango vya riba vitaongezeka tena (kutokana na kupunguzwa kwa Supply ya mtaji), ambayo itasababisha bei ya chini kwa bidhaa za uwekezaji. Kwa kweli, mwisho wa mchepuko huu wa uzalishaji, bei za jamaa zitabaki takriban sawa na hapo awali. Lakini mawakala wa kiuchumi kwa ujumla walinufaika: kuongezeka kwa tija kutokana na kurefushwa kwa muundo wa uzalishaji kutawapa watumiaji bidhaa zaidi kwa bei ya chini ya kitengo; uwezo wa kununua wa waokoaji utaongezeka, kwa sehemu kupitia mapato ya riba na kwa sehemu kutokana na bei ya chini ya watumiaji; wakati huo huo, wajasiriamali, wakizingatiwa kwa ujumla, hawatapata faida au hasara. Wale wanaohusika katika shughuli zilizo karibu na matumizi watapoteza mapato, wakati wale wanaohusika katika kuunda hatua mpya za uzalishaji watapata sawia. Katika hali hiyo, hakuna mapato mapya ya fedha yanaundwa; ni uzalishaji unaoongezeka, na hivyo thamani halisi ya mapato kupanda.
 
-$$
-\begin{cases}
-A = A_{\text{initial}} + A \mod 2^{32} \\
-B = B_{\text{initial}} + B \mod 2^{32} \\
-C = C_{\text{initial}} + C \mod 2^{32} \\
-D = D_{\text{initial}} + D \mod 2^{32} \\
-E = E_{\text{initial}} + E \mod 2^{32} \\
-F = F_{\text{initial}} + F \mod 2^{32} \\
-G = G_{\text{initial}} + G \mod 2^{32} \\
-H = H_{\text{initial}} + H \mod 2^{32}
-\end{cases}
-$$
+### Kupungua kwa Viwango vya Riba Kutokana na Ongezeko la Mkopo (Hakuna Ongezeko la Akiba):
 
-Nambari hizi mpya za $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$ zitatumika kama nambari za mwanzo za block inayofuata, $P_2$. Kwa kizuizi hiki $P_2$, tunaiga mchakato sawa wa mbano kwa miduara 64, kisha tunasasisha vigeu vya kuzuia $P_3$, na kadhalika hadi kizuizi cha mwisho cha ingizo letu lililosawazishwa.
+Sasa, ikiwa tunazingatia kupungua kwa viwango vya riba kutokana na upanuzi wa mikopo inayotolewa na benki, tunapata picha tofauti sana ya muundo wa uzalishaji.
 
-Baada ya kuchakata vizuizi vyote vya ujumbe, tunaambatanisha thamani za mwisho za vibadala $A$, $B$, $C$, $D$, $E$, $F$, $G$, na $H$ ili kuunda mwisho wa 256-bit Hash ya utendaji wetu wa hashing:
+Kwa viwango vya chini vya riba, wajasiriamali wanaweza kukopa rasilimali zaidi na hivyo kuunda hatua za juu za uzalishaji. Katika hali hii, upanuzi huo wa muundo wa uzalishaji hautasababisha kupungua kwa matumizi kwa sababu hakujawa na kuahirishwa kwa matumizi ya sasa. Kwa maneno mengine, Pato la Taifa linakua. Kwa hivyo, pembetatu yetu itarefuka wakati wa kudumisha urefu sawa, ikimaanisha kuwa eneo lake litaongezeka.
 
-$$
-\text{Hash} = A \Vert B \Vert C \Vert D \Vert E \Vert F \Vert G \Vert H
-$$
+Kumbuka kuwa haya ni matokeo ya kimantiki kabisa ya upanuzi wa mikopo. Kwa kadiri benki zinavyozalisha vyombo vya habari vya uaminifu kwa kutoa mikopo, mtu anapaswa kutarajia uwezo wa jumla wa ununuzi kuongezeka.
 
-Kila kigezo ni nambari kamili ya biti 32, kwa hivyo muunganisho wao daima hutoa matokeo ya biti 256, bila kujali ukubwa wa ingizo letu la ujumbe kwenye kipengele cha kukokotoa cha kuheshi.
+![image](assets/en/19.webp)
 
-### Uthibitishaji wa Sifa za Cryptographic
+Mikopo inapoingia kwenye uchumi kupitia mikopo kwa wajasiriamali, tunapaswa kuzingatia ongezeko la faida katika sekta za uzalishaji zilizo mbali na matumizi, na kupungua kwa faida katika sekta zilizo karibu na matumizi. Faida hii ya juu basi inasaidia ugawaji upya wa mtaji kuelekea hatua hizi mpya, zinazohitaji mtaji mkubwa zaidi (uundaji wa meli, magari, ujenzi, teknolojia za hali ya juu, n.k.), na kupungua kwa uwekezaji katika sekta zilizo karibu na matumizi.
 
-Lakini basi, ni jinsi gani kitendakazi hiki hakiwezi kutenduliwa, kinachostahimili mgongano, na sugu ya tamper?
+Sasa, wajasiriamali wanaohusika katika hatua hizi za juu za uzalishaji hupata mapato ya juu ya fedha, na, kadiri upendeleo wa wakati ulivyobaki vile vile, tunapaswa pia kuona ongezeko la mahitaji ya bidhaa za walaji. Lakini kama, wakati wa ukuaji huu, faida ya jamaa ya mtaji uliowekezwa imekuwa juu katika sekta mbali na matumizi, kumekuwa na uhamishaji wa rasilimali kutoka kwa shughuli karibu na matumizi kwenda kwa shughuli za mbali zaidi. Kwa hivyo, wajasiriamali katika hatua za chini za uzalishaji hukosa rasilimali za kukidhi mahitaji yaliyoongezeka. Hii inaleta mvutano kati ya sehemu hizi mbili za muundo wa uzalishaji: kila moja inajaribu kupata mtaji kwa gharama ya nyingine, na kwa kuwa mahitaji ya matumizi yanawakilisha mahitaji ya haraka zaidi, wakati fulani, wajasiriamali wanaohusika katika shughuli mbali na matumizi watakosa rasilimali zinazohitajika kukamilisha uwekezaji wao. Kiwango cha faida katika sekta hizi huanza kupungua, biashara hufilisika, na ongezeko la bei la watumiaji huchochea ugawaji upya wa haraka wa mtaji kuelekea uzalishaji wa bidhaa za bei ya chini. Wakati uhamishaji huu wa ghafula wa rasilimali unapodhihirika, uchumi unaingia kwenye mdororo: bei za mali hushuka, mishahara halisi hupungua, bei za watumiaji hushuka, na hesabu huongezeka.
 
-Kwa upinzani wa tamper, ni rahisi kuelewa. Kuna mahesabu mengi yanayofanywa kwa kuteleza, ambayo hutegemea pembejeo na viunga, kwamba urekebishaji mdogo wa ujumbe wa awali hubadilisha kabisa njia iliyochukuliwa, na hivyo hubadilisha kabisa pato la Hash. Hii ndio inaitwa athari ya avalanche. Mali hii inahakikishwa kwa mchanganyiko wa majimbo ya kati na majimbo ya awali kwa kila kipande.
+Kwa Friedrich Hayek na Ludwig von Mises, mdororo wa uchumi ni dhihirisho la mgawanyo mbaya wa mtaji kutoka kwa awamu ya upanuzi. Kadiri bei za akiba na mtaji zilivyokuwa zikichezewa, wajasiriamali walianzisha miradi ambayo haikuweza kumalizwa kwa ukosefu wa rasilimali, na/au kujenga upangaji wa uwezo wenye tija kwa kiwango cha matumizi cha siku zijazo ambacho hakingeweza kuendelezwa kwa sababu ya ukosefu wa akiba.
 
-Ifuatayo, wakati wa kujadili kazi ya kriptografia ya Hash, neno "kutoweza kutenduliwa" halitumiwi kwa ujumla. Badala yake, tunazungumza juu ya "upinzani wa picha," ambayo inabainisha kuwa kwa $y$ yoyote, ni vigumu kupata $x$ vile $h(x) = y$. Upinzani huu wa hakikisho unahakikishwa na ugumu wa algebraic na kutokuwa na usawa kwa nguvu ya shughuli zinazofanywa katika kazi ya ukandamizaji, na pia kwa kupoteza habari fulani katika mchakato. Kwa mfano, kwa matokeo fulani ya modulo ya kuongeza, kuna operesheni kadhaa zinazowezekana:
+Ni kwa njia ya kupunguza bei tu, yaani, kushuka kwa bei ya mali na bei ya mishahara, viwango vya juu vya riba, na kukomesha miradi ambayo haijakamilika ndipo uchumi unaweza kujirekebisha na kustawi kuelekea njia endelevu. Kwa hivyo, mdororo wa uchumi ni kutoweka kwa udanganyifu huu wa ustawi unaosababisha mchakato wa urekebishaji wa vurugu.
 
-$$
-3+2 \mod 10 = 5 \\
-7+8 \mod 10 = 5 \\
-5+10 \mod 10 = 5
-$$
+Kwa ujumla, mdororo wa uchumi unasababishwa na sekta ya benki yenyewe. Mradi mikopo inaongezeka kwa kasi, bei zinaendelea kupanda, na wajasiriamali wanashindana kwa rasilimali za uzalishaji. Hata hivyo, kama ilivyoelezwa na Hyman Minsky, inakuja mahali ambapo sekta ya benki inaamua kupunguza hatari yake, kwa hiyo inapunguza mtiririko wa mikopo. Unyogovu, kwa hivyo, husababisha kufilisika nyingi, kubana kwa mkopo, kupungua kwa uwezo unaopatikana wa ununuzi, na kuzorota kwa kifedha.
 
-Katika mfano huu, kujua tu modulo iliyotumiwa (10) na matokeo (5), mtu hawezi kuamua kwa hakika ambayo ni operesheni sahihi zinazotumiwa katika nyongeza. Inasemekana kuwa kuna miunganisho mingi modulo 10.
+Marekebisho kama haya yanaweza kutazamwa kama kipindi ambacho matumizi duni, na uwekezaji mdogo unatekelezwa ili kujenga upya akiba inayokosekana. Kwa Hayek, hatua hii ya mfadhaiko, ingawa ni chungu, ni muhimu sana kwani inaruhusu ufufuaji wa shughuli za kiuchumi kulingana na muundo wa bei unaoakisi uhaba halisi wa sababu za uzalishaji. Ikiwa unyogovu huu utaingiliwa, uchumi hauwezi kurudi kwenye njia inayohitajika kwa sababu, kwa kukosekana kwa mfumo wa habari unaoruhusu mawakala wa kiuchumi kusawazisha maamuzi yao, ugawaji mbaya wa rasilimali utaendelea tu.
 
-Kwa operesheni ya XOR, tunakabiliwa na shida sawa. Kumbuka jedwali la ukweli kwa operesheni hii: matokeo yoyote ya 1-bit yanaweza kuamuliwa na usanidi mbili tofauti wa ingizo ambao una uwezekano sawa wa kuwa maadili sahihi. Kwa hiyo, mtu hawezi kuamua kwa hakika uendeshaji wa XOR kwa kujua tu matokeo yake. Ikiwa tunaongeza ukubwa wa uendeshaji wa XOR, idadi ya pembejeo zinazowezekana kujua tu matokeo huongezeka kwa kasi. Zaidi ya hayo, XOR hutumiwa mara nyingi pamoja na shughuli nyingine za kiwango kidogo, kama vile uendeshaji wa $\text{RotR}$, ambao huongeza tafsiri zinazowezekana zaidi kwa matokeo.
+Kwa bahati mbaya, utaratibu huu wa unyogovu mara nyingi huingiliwa na mamlaka ya kisiasa na benki kuu zinazotaka "kukuza" uchumi kupitia matumizi ya nakisi na sera rahisi ya fedha.
 
-Kitendakazi cha kubana pia hutumia utendakazi wa $\text{ShR}$. Uendeshaji huu huondoa sehemu ya maelezo ya msingi, ambayo basi haiwezekani kurejesha baadaye. Kwa mara nyingine tena, hakuna njia za aljebra za kubadilisha operesheni hii. Operesheni hizi zote za njia moja na upotezaji wa habari hutumiwa mara nyingi sana katika vitendaji vya ukandamizaji. Idadi ya ingizo zinazowezekana kwa matokeo fulani ni karibu kutokuwa na kikomo, na kila jaribio la kukokotoa kinyume kungesababisha milinganyo yenye idadi kubwa sana ya zisizojulikana, ambazo zingeongezeka kwa kasi katika kila hatua.
+![image](assets/en/20.webp)
 
-Hatimaye, kwa sifa ya upinzani wa mgongano, vigezo kadhaa vinahusika. Uchakataji wa awali wa ujumbe asili una jukumu muhimu. Bila uchakataji huu wa awali, inaweza kuwa rahisi kupata migongano kwenye chaguo la kukokotoa. Ingawa, kinadharia, migongano ipo (kutokana na kanuni ya njiwa), muundo wa kazi ya Hash, pamoja na mali zilizotajwa hapo juu, hufanya uwezekano wa kupata mgongano chini sana.
+Kwa wenye fedha na Wakenesia, sababu ya unyogovu ni mahitaji ya jumla ya kutosha, kwa hivyo hakuna anayezingatia mabadiliko ya bei ya jamaa, ambayo, kama tumeona, ndiyo kiini cha tatizo. Kwa hivyo, wanaamini kwamba kutoa motisha kwa upanuzi wa mikopo (kupunguza viwango vya riba) na kutumia uwezo wa nakisi wa serikali kuongeza mahitaji kutaanza ahueni. Kwa muda mfupi, hatua hizo zinaweza kuonekana kuzalisha athari zinazohitajika: nakisi inasaidia matumizi, wakati kupunguza viwango vya riba husababisha bei ya juu ya mali, ambayo, kwa upande wake, inawahimiza wamiliki wa mali kuongeza matumizi yao. Hata hivyo, ongezeko kama hilo hatimaye hupungua, huku tatizo la kimuundo likisalia, au hata kuwa mbaya zaidi kadiri mgao wa mtaji unavyoendelea kutokana na viwango vya chini vya riba.
 
-Ili kitendakazi cha Hash kiwe sugu kwa mgongano, ni muhimu kwamba:
+Katika zama za kisasa, benki kuu na serikali zimekuwa na bidii katika kuzuia udhihirisho wa mchakato huu wa marekebisho kwamba tunaishia na ukosefu wa ajira wa miundo na ulimbikizaji wa madeni ya kudumu. Japani ni mfano katika suala hili. Baada ya kupasuka kwa kiputo cha mali mwaka 1989-90, Benki ya Japani (BoJ) na serikali mbalimbali ofisini walitumia mbinu zote zilizoelezwa hapa kujaribu "kuanzisha upya uchumi wa Japani." Kando na kuongezeka kwa muda mfupi kufuatia programu za matumizi na kupunguza viwango vya riba, Japani imesalia katika hali ya ukuaji wa neva na madeni kupita kiasi kwa miaka 30.
 
+### Hitimisho juu ya Nadharia ya Mzunguko wa Biashara:
 
-- Matokeo hayatabiriki: Utabiri wowote unaweza kutumiwa kupata migongano kwa haraka kuliko kwa shambulio la nguvu. Chaguo za kukokotoa huhakikisha kwamba kila sehemu ya matokeo inategemea kwa njia isiyo ya kawaida kwenye ingizo. Kwa maneno mengine, chaguo la kukokotoa limeundwa ili kila sehemu ya matokeo ya mwisho iwe na uwezekano huru wa kuwa 0 au 1, hata kama uhuru huu sio kamili katika mazoezi.
-- Usambazaji wa heshi ni pseudo-random: Hii inahakikisha kwamba heshi zimesambazwa kwa usawa.
-- Ukubwa wa Hash ni kubwa: nafasi kubwa iwezekanavyo kwa matokeo, ni vigumu zaidi kupata mgongano.
+Kwa kusisitiza asili ya mfuatano wa hatua za binadamu na kutilia maanani hasa athari ya kushuka kwa viwango vya riba kwenye uratibu wa baina ya wakati wa mawakala wa kiuchumi, Ludwig Von Mises na Friedrich Hayek walielezea mizunguko ya kiuchumi kama mienendo ya asili ya mfumo wa benki ya hifadhi ya sehemu. Tofauti kati ya uchanganuzi wa Waaustria na ule wa wachuma mapato na Wakenesia kwa kiasi kikubwa unatokana na ukweli kwamba ule wa awali huzingatia hasa hatua mbalimbali za uzalishaji na muundo wa bei linganishi, ilhali ule wa mwisho huacha katika vigezo vilivyojumlishwa kama vile viwango vya ajira, Pato la Taifa, au fahirisi ya bei ya watumiaji. Kwa hakika, wanapokosa nadharia ya mtaji, wanauchumi wa kawaida huwa wanahusisha sababu za mdororo wa uchumi na "roho za wanyama" au "matukio ya nje".
 
-Vyombo vya habari husanifu vipengele hivi kwa kutathmini mashambulizi bora zaidi ili kupata migongano, kisha kurekebisha vigezo ili kufanya mashambulizi haya kutofaa.
+Zaidi ya shule nyingine yoyote ya uchumi, Shule ya Austria inasisitiza juu ya umuhimu wa bei linganishi kuratibu mawakala wa kiuchumi. Washiriki wa Shule ya Austria wamevutwa kwenye mijadala juu ya suala hilo kwa zaidi ya karne moja, haswa tangu Mises alipochapisha kazi yake juu ya kutowezekana kwa hesabu ya uchumi katika uchumi wa kisoshalisti mnamo 1919.
 
-### Ujenzi wa Merkle-Damgård
+Hili litakuwa somo la sura inayofuata na ya mwisho ya kozi hii.
 
-Muundo wa SHA256 unatokana na ujenzi wa Merkle-Damgård, unaoruhusu kubadilisha kitendakazi cha mgandamizo kuwa kitendakazi cha Hash ambacho kinaweza kuchakata ujumbe wa urefu wa kiholela. Hivi ndivyo tulivyoona katika sura hii.
+## Kutowezekana kwa Mahesabu ya Kiuchumi chini ya Ujamaa
 
-Hata hivyo, baadhi ya vipengele vya zamani vya Hash kama vile SHA1 au MD5, vinavyotumia ujenzi huu mahususi, vinaweza kuathiriwa na mashambulizi ya kuongeza urefu. Hii ni mbinu inayomruhusu mshambulizi anayejua Hash ya ujumbe $M$ na urefu wa $M$ (bila kujua ujumbe wenyewe) kukokotoa Hash ya ujumbe $M'$ unaoundwa kwa kuunganisha $M$ na maudhui ya ziada.
+<chapterId>2578a9d8-90e9-58dd-a8c5-6366948564c7</chapterId>
 
-SHA256, ingawa inatumia aina sawa ya ujenzi, kinadharia ni sugu kwa aina hii ya mashambulizi, tofauti na SHA1 na MD5. Hili linaweza kueleza fumbo la uharakishaji maradufu uliotekelezwa kote Bitcoin na Satoshi Nakamoto. Ili kuzuia shambulio la aina hii, Satoshi inaweza kuwa ilipendelea kutumia SHA256 mbili:
+> "Pale ambapo hakuna bei za soko kwa sababu za uzalishaji kwa sababu hazinunuliwi wala kuuzwa, haiwezekani kuhesabu katika kupanga hatua za siku zijazo na katika kuamua matokeo ya hatua za zamani. Usimamizi wa ujamaa wa uzalishaji haungejua kama unapanga au kutekeleza ndio njia sahihi zaidi ya kufikia malengo yanayotafutwa. Itafanya kazi gizani, kama ilivyokuwa. Uzalishaji wa kovu na kovu za binadamu). umaskini kwa wote utatokea bila kuepukika”
+>
 
-$$
-\text{HASH256}(m) = \text{SHA256}(\text{SHA256}(m))
-$$
+> Ludwig von Mises, Machafuko Yaliyopangwa
+### Kutowezekana kwa Mahesabu ya Kiuchumi chini ya Ujamaa
 
-Hii huongeza usalama dhidi ya mashambulizi yanayoweza kutokea kuhusiana na ujenzi wa Merkle-Damgård, lakini haiongezi usalama wa mchakato wa hashing katika suala la ukinzani wa mgongano. Zaidi ya hayo, hata kama SHA256 ingekuwa katika hatari ya kushambuliwa kwa aina hii, isingekuwa na madhara makubwa, kwani matukio yote ya matumizi ya kazi za Hash katika Bitcoin yanahusisha data ya umma. Hata hivyo, shambulio la kiendelezi cha urefu linaweza tu kuwa na manufaa kwa mvamizi ikiwa data ya hashed ni ya faragha na mtumiaji ametumia chaguo za kukokotoa za Hash kama mbinu ya uthibitishaji wa data hizi, sawa na MAC. Kwa hivyo, utekelezaji wa hashing mara mbili bado ni siri katika muundo wa Bitcoin.
+Licha ya kushindwa mara kwa mara kwa tawala za Ki-Marx katika karne iliyopita, mjadala wa hesabu ya kiuchumi unabaki kuwa muhimu kwa sababu mbili muhimu:
 
-Sasa kwa kuwa tumeangalia kwa kina utendakazi wa vitendaji vya Hash, hasa SHA256, ambayo inatumika sana katika Bitcoin, tutazingatia zaidi algoriti za utokaji wa kriptografia zinazotumiwa katika kiwango cha maombi, hasa kwa kupata funguo za Wallet yako.
+1. Mawazo yanayolinganishwa bado yanatetewa na wapenda maendeleo na wahusika wengine.
 
-## Algorithms kutumika kwa ajili ya derivation
+2. Upangaji bei, iwe katika masoko ya mitaji kupitia vitendo vya benki kuu au katika masoko mengine kupitia mashirika ya serikali, amri, na uingiliaji kati wa kamati za udhibiti, unaendelea kuwa mwingi.
 
-<chapterId>cc668121-7789-5e99-bf5e-1ba085f4f5f2</chapterId>
+### Mjadala wa Kukokotoa Uchumi
 
-Katika Bitcoin katika kiwango cha maombi, pamoja na kazi za Hash, algorithms ya derivation ya kriptografia hutumiwa kwa data salama ya generate kutoka kwa pembejeo za awali. Ingawa algoriti hizi hutegemea utendakazi wa Hash, hutumikia malengo tofauti, haswa katika suala la uthibitishaji na utengenezaji muhimu. Kanuni hizi huhifadhi baadhi ya sifa za chaguo za kukokotoa za Hash, kama vile kutoweza kutenduliwa, upinzani wa kubadilika na kuhimili mgongano.
+Mjadala huu mwanzoni ulianzishwa na mojawapo ya karatasi zenye ushawishi mkubwa zaidi za kiuchumi za karne ya 20, "Hesabu ya Kiuchumi katika Jumuiya ya Madola ya Kijamaa," iliyoandikwa na Ludwig von Mises na kuchapishwa mwaka wa 1920. Wakati wa enzi hiyo, ujamaa ulikuwa ukiongezeka, na Wabolshevik wakinyakua mamlaka nchini Urusi, wasoshalisti wakichukua ofisi katika Jamhuri ya Kikomunisti (Ujerumani) na kupata mamlaka ya Ujamaa. Ulaya.
 
-Kwenye pochi za Bitcoin, algorithms 2 za derivation hutumiwa:
+Kabla ya makala ya Mises, mijadala juu ya ujamaa na ubepari kimsingi ilihusu mabishano ya maadili na shida ya motisha. Hata kama mtu angedhani kwamba jamii iliyojipanga kuzunguka kanuni ya Umaksi ya "kutoka kwa kila mtu kulingana na uwezo wake, kwa kila mtu kulingana na mahitaji yake" ilikuwa bora zaidi kiadili, swali la vitendo la "ni nani atakayeondoa takataka" bado lilihitaji kushughulikiwa. Jibu la kawaida lilikuwa kwamba ujamaa ungezalisha watu binafsi wasio na silika ya kibepari, kwa hiari kuwatumikia wenzao hata kama hakuna motisha ya fedha.
 
+Kwa makala yake, Mises alianzisha mwelekeo mpya wa mjadala. Kuweka kando dhana za utopia juu ya uwezo wa uchumi wa kisiasa kuunda "mtu mpya," mwanauchumi wa Austria alisema kuwa shirika la kiuchumi la busara haliwezekani bila bei kwa sababu za kati za uzalishaji. Hata leo, hoja yake bado haijaeleweka vyema na wakosoaji wake, na hata na baadhi ya wanauchumi huria. Kwa hivyo, inafaa kuelezea kwa undani zaidi.
 
-- HMAC (Msimbo wa Uthibitishaji wa Ujumbe_msingi wa Hash_)**
-- PBKDF2 (_Matendo ya Utoaji wa Ufunguo 2_ kwa Msingi wa Nenosiri 2_)**
+### Kuelezea Kutowezekana kwa Mahesabu ya Kiuchumi
 
-Tutachunguza kwa pamoja utendaji na jukumu la kila mmoja wao.
+![image](assets/en/21.webp)
 
-### HMAC-SHA512
+Imani nyingi potofu kuhusu hoja za Mises hutokana na kutoelewa majukumu yanayotekelezwa na madarasa ya usimamizi na ujasiriamali katika uchumi wa kibepari. Mises hakuwahi kughairi uwezo wa wasimamizi kubuni mipango madhubuti ya uzalishaji ndani ya shughuli zao wenyewe. Badala yake, alisisitiza umuhimu wa wajasiriamali na wanahisa, ambao, kama wamiliki wa njia za uzalishaji, hutenga mtaji katika tasnia tofauti, na hivyo kutengeneza bei ambazo hutumika kama pembejeo katika hesabu za kiuchumi za wasimamizi.
 
-HMAC ni algoriti ya kriptografia inayokokotoa msimbo wa uthibitishaji kulingana na mchanganyiko wa chaguo za kukokotoa za Hash na ufunguo wa siri. Bitcoin hutumia HMAC-SHA512, kibadala cha HMAC kinachotumia chaguo za kukokotoa za SHA512 Hash. Tayari tumeona katika sura iliyopita kwamba SHA512 ni sehemu ya familia sawa ya kazi za Hash kama SHA256, lakini hutoa pato la 512-bit.
+Bila masoko ya mitaji na fedha, inakuwa vigumu kuhalalisha matumizi ya rasilimali katika sekta zote. Hii ina maana kwamba hata kama kuna shirika kamilifu ndani ya kila kampuni au sehemu ndogo ya uchumi, uchumi mzima hauwezi kurekebisha kwa ufanisi mabadiliko ya upatikanaji wa rasilimali, hali ya uzalishaji na mapendeleo ya watumiaji. Kwa maneno ya Mises:
 
-Huu hapa ni mpango wake wa uendeshaji wa jumla $m$ ukiwa ujumbe wa ingizo na $K$ ufunguo wa siri:
+> "[...] uwongo wa kardinali unaoonyeshwa katika mapendekezo ya [ujamaa wa soko] ni kwamba wanaangalia shida ya kiuchumi kutoka kwa mtazamo wa karani mdogo ambaye upeo wake wa kiakili hauendelei zaidi ya majukumu ya chini. Wanazingatia muundo wa uzalishaji wa viwandani na ugawaji wa mtaji kwa matawi mbalimbali na mkusanyiko wa uzalishaji kama ngumu na sio lazima kurekebisha muundo huu kwa kuzingatia mabadiliko .... kutambua kwamba utendakazi wa maofisa wa shirika unajumuisha tu katika utekelezaji wa uaminifu wa kazi walizokabidhiwa na wakubwa wao, wanahisa.... Shughuli za wasimamizi, ununuzi na uuzaji wao, ni sehemu ndogo tu ya jumla ya shughuli za soko makampuni, kupanua au kupunguza ukubwa wao, kufuta, au kuunganisha na makampuni mengine; wananunua na kuuza hisa na dhamana za mashirika yaliyopo na mapya; wanapeana, kutoa, na kurejesha mikopo; kwa ufupi, wanafanya vitendo hivyo vyote, ambavyo jumla yake huitwa soko la mitaji na fedha. Ni miamala hii ya kifedha ya wakuzaji na walanguzi ndiyo inayoelekeza uzalishaji katika njia hizo ambapo unakidhi matakwa ya haraka zaidi ya watumiaji kwa njia bora zaidi."
+>
 
-![CYP201](assets/fr/011.webp)
+> Mises, Matendo ya Binadamu, ukurasa wa 703-04
+Kimsingi, Mises anasema kuwa haki za kumiliki mali, ambazo huwaweka wamiliki wa mtaji katika muktadha wa faida na hasara, huwachochea kutenga rasilimali zao kwa viwanda ambavyo kwa sasa vinahitaji rasilimali zaidi kukidhi matakwa ya walaji. Wanapofanikiwa, wanapata faida, lakini wanaposhindwa, wanapata hasara ya kifedha. "Ngozi yao katika mchezo" inawahimiza kutafakari kuhusu mgao bora wa mtaji kwa hali ya sasa ya uchumi. Hii inaunda mwelekeo unaoendeshwa na soko ambapo matokeo ya pamoja ya vitendo vyao hutoa taarifa muhimu kuhusu matumizi bora zaidi ya rasilimali.
 
-Wacha tujifunze kwa undani zaidi kile kinachotokea katika kisanduku hiki cheusi cha HMAC-SHA512. Kazi ya HMAC-SHA512 iliyo na:
+Sura za awali zimeeleza kuwa maadili ni ya kibinafsi, hatua za kiuchumi hufichua gharama za fursa, na bei za watumiaji zinaonyesha safu ya kawaida ya matakwa ya watumiaji. Wajasiriamali hushindana kwa vipengele vya uzalishaji ili kuunda miundo ya uzalishaji ambayo huongeza mapato zaidi ya gharama, kukidhi matakwa ya watumiaji kwa ufanisi zaidi kuliko chaguo mbadala. Kwa hiyo, bei za sababu za uzalishaji zinatokana na bei za walaji: ikiwa sababu ya uzalishaji inaweza generate mapato makubwa ya fedha (mtumiaji wa kuridhisha zaidi anataka) katika sekta nyingine au chini ya mpango tofauti, wajasiriamali watamshinda mmiliki wake wa sasa, na kuongeza bei yake kwa tija yake ya chini. Ushindani huu kati ya wajasiriamali kwa sababu za uzalishaji, kuamua mavuno yao ya juu zaidi, ni mchakato ambao hutoa habari muhimu kuhusu ugawaji wa rasilimali.
 
+Utaratibu huu ni muhimu kwa sababu unathibitisha au kubatilisha ufanisi wa shughuli mbalimbali, kuhakikisha kwamba vipengele vya uzalishaji vinatengwa kwa matumizi yao yenye tija zaidi. Soko hufanya kazi hii kama mchakato unaoendelea. Katika ulimwengu unaobadilika mara kwa mara—ambapo mapendeleo ya walaji, hali ya uzalishaji, teknolojia, kanuni, idadi ya watu, na mengine mengi yanabadilika—bei za vipengele vya kati vya uzalishaji hubadilika mara kwa mara kupitia vitendo vya wajasiriamali na mabepari kubadilika kulingana na hali zinazobadilika. Kwa kuwa mabadiliko haya yamejanibishwa, habari lazima isambazwe kwa mawakala wa kiuchumi ambao hawawezi kuwa na maarifa kamili ya ulimwengu mzima. Hili ndilo jukumu la soko: inawaruhusu wajasiriamali kuchukua hatua kulingana na habari iliyojanibishwa, mara nyingi ya ubora, na changamano kwa kupendekeza miundo ya uzalishaji wa kiuchumi ambayo inathibitishwa au kubatilishwa na soko. Kwa njia hii, taarifa muhimu zinazozalishwa na mchakato huu wa chini-juu hufupishwa na kusambazwa katika uchumi mzima kupitia mfumo wa bei. Utaratibu huu wa uzalishaji na usambazaji wa habari ni muhimu kwa ugawaji wa rasilimali kwa sababu unawezesha mawakala wa kiuchumi, ambao wana ujuzi mdogo wa ulimwengu, kufanya mahesabu ya kiuchumi na kubuni mipango madhubuti ya uchumi kwa kutegemea bei.
 
-- $m$: ujumbe wa ukubwa wa kiholela uliochaguliwa na mtumiaji (ingizo la kwanza);
-- $K$: ufunguo wa siri wa kiholela uliochaguliwa na mtumiaji (ingizo la pili);
-- $K'$: ufunguo $K$ uliorekebishwa kwa ukubwa wa $B$ wa vizuizi vya kazi vya Hash (biti 1024 kwa SHA512, au baiti 128);
-- $\text{SHA512}$: chaguo za kukokotoa za SHA512 Hash;
-- $\oplus$: operesheni ya XOR (ya kipekee au);
-- $\Vert$: mwendeshaji wa uunganishaji, akiunganisha mifuatano midogo-mwisho-hadi-mwisho;
-- $\text{opad}$: mara kwa mara inajumuisha byte $0x5c$ iliyorudiwa mara 128
-- $\text{ipad}$: mara kwa mara inajumuisha byte $0x36$ iliyorudiwa mara 128
+Kwa mtazamo huu, uchumi uliopangwa na serikali kuu utakabiliwa na mgao wa mtaji usioepukika. Katika muda mfupi hadi wa kati, ugawaji potofu kama huo unaweza kutotambuliwa kwa sababu hakuna bei za soko au kufilisika kuzifichua. Hata hivyo, kutokana na kukosekana kwa maoni (bei) na taratibu za ugawaji upya (kufilisika), makosa yatajilimbikiza hadi ubadhirifu utakapodhihirika kupitia kuzorota kwa hali ya maisha.
 
-Kabla ya kuhesabu HMAC, ni muhimu kusawazisha ufunguo na mara kwa mara kulingana na ukubwa wa kuzuia $ B $. Kwa mfano, ikiwa ufunguo $K$ ni mfupi kuliko baiti 128, huwekwa sufuri kufikia ukubwa wa $B$. Ikiwa $K$ ni ndefu zaidi ya baiti 128, inabanwa kwa kutumia SHA512, kisha sufuri huongezwa hadi ifikie baiti 128. Kwa njia hii, ufunguo uliosawazishwa unaoitwa $K'$ unapatikana.
+![image](assets/en/22.webp)
 
-Thamani za $\text{opad}$ na $\text{ipad}$ zinapatikana kwa kurudia base byte ($0x5c$ kwa $\text{opad}$, $0x36$ kwa $\text{ipad}$) hadi ukubwa wa $B$ ufikiwe. Kwa hivyo, na $B = 128$ byte, tunayo:
+### Mtazamo wa Austria na Kufeli kwa Shule Nyingine za Kiuchumi
 
-$$
-\text{opad} = \underbrace{0x5c5c\ldots5c}\_{128 \, \text{bytes}}
-$$
+Mtu anaweza kusema kuwa kuchora panorama kama hiyo kwa mtazamo wa nyuma ni rahisi. Baada ya yote, sote tunafahamu rafu tupu katika USSR, shida za Venezuela, na janga la kibinadamu huko Kambodia. Lakini Mises alitabiri matukio haya mapema kama 1920. Hata hivyo, hadi kuanguka kwa USSR mnamo 1989, wanauchumi wengi, kutia ndani washindi wengi wa Tuzo ya Nobel, walikuwa wakisifu muujiza wa kiuchumi wa Soviet na kutabiri kwamba uchumi wa Soviet ungepita ule wa USA hivi karibuni.
 
-Baada ya usindikaji kukamilika, algoriti ya HMAC-SHA512 inafafanuliwa na mlinganyo ufuatao:
+Licha ya utabiri huu wa kuvutia na maonyesho mengi ya kitaalamu ya kutowezekana kwa hesabu ya kiuchumi chini ya ujamaa, viongozi wa kisiasa duniani kote wana hamu zaidi kuliko hapo awali kupanga bei, kutaifisha viwanda vyote, na kupendekeza mipango ya miaka mitano, ambayo mara nyingi inapongezwa na watu wasio na ujuzi wa kiuchumi. Matokeo ya uingiliaji kati huo yanaonekana sana na watu katika nchi za Magharibi zilizositawi ambao wanashuhudia polepole kushuka kwa viwango vyao vya maisha.
 
-$$
-\text {HMAC-SHA512}\_K(m) = \text{SHA512} \left( (K' \oplus \text{opad}) \parallel \text{SHA512} \left( (K' \oplus \text{ipad}) \parallel m \right) \right)
-$$
+### Nadharia ya Mzunguko wa Biashara ya Austria kama Kesi Maalum ya Kutowezekana kwa Uhesabuji wa Kiuchumi chini ya Ujamaa.
 
-Equation hii imegawanywa katika hatua zifuatazo:
+![image](assets/en/23.webp)
 
+Katika sura iliyotangulia, tulifafanua mienendo ya uwekezaji kupita kiasi na mgao mbaya wa mtaji unaotokana na ghiliba za viwango vya riba na benki kuu. Kimsingi, kile tulichoeleza kinaweza kutazamwa kama kisa mahususi cha kutowezekana kwa hesabu ya kiuchumi chini ya ujamaa, inayotumika kwenye uwanja wa soko la pesa. Wakati bei zinapangwa nje ya thamani zao za soko, wajasiriamali na wagawaji mitaji wanahamasishwa kushiriki katika uwekezaji ambao hauwezi kuendelezwa kwa muda mrefu kwa sababu ya ukosefu wa akiba. Kwa kuingilia mfumo wa bei, wapangaji wa kati (katika kesi hii, mabenki kuu) huunda ugomvi kati ya mawakala wa kiuchumi. Katika tukio hili, upatanishi mbaya wa wakati unajumuisha uwekezaji kupita kiasi katika bidhaa za uwekezaji wa hali ya juu na uwekezaji mdogo katika bidhaa za uwekezaji wa viwango vya chini, ambao unawakilisha udhihirisho mahususi wa mgao mbaya wa mtaji katika sekta zote.
 
-- XOR ufunguo uliorekebishwa $K'$ na $\text{ipad}$ ili kupata $\text{iKpad}$;
-- XOR ufunguo uliorekebishwa $K'$ na $\text{opad}$ ili kupata $\text{oKpad}$;
-- Unganisha $\text{iKpad}$ na ujumbe $m$.
-- Hash tokeo hili na SHA512 ili kupata Hash $H_1$ ya kati.
-- Unganisha $\text{oKpad}$ na $H_1$.
-- Hash tokeo hili na SHA512 kupata matokeo ya mwisho $H_2$.
+Matokeo ya mgao huo usio sahihi ni pamoja na migogoro ya kifedha na kiuchumi, kupungua kwa shughuli za kiuchumi, na kupunguzwa kwa deni. Athari hizi za uchumi mkuu zinatokana na kukosekana kwa usawa kati ya akiba na uwekezaji unaotokana na upanuzi wa mikopo. Katika USSR na serikali zingine za kikomunisti, upangaji wa bei ulisababisha upotovu kama huo, na kusababisha uhaba wa baadhi ya bidhaa na uzalishaji mwingi wa zingine. Katika visa vyote viwili, bei zinashindwa kuakisi matakwa ya kweli ya watumiaji, iwe kwa suala la upendeleo wa wakati au upendeleo wa matumizi, wajasiriamali wakuu au wapangaji wakuu wanaohusika na ugawaji wa rasilimali kuwekeza mtaji katika "sekta mbaya."
 
-Hatua hizi zinaweza kufupishwa kwa mpangilio kama ifuatavyo:
+Leo, mjadala wa hesabu za kiuchumi unaibuka tena hasa katika majadiliano kuhusu nishati, ambapo uwekezaji mbaya unaoendeshwa na ajenda ya Green unazidi kudhihirika. Pia inatokea katika majadiliano kuhusu masoko ya fedha, huku wanauchumi wa Austria wakieleza kuwa mgogoro wa 2008, ambao wanauchumi wa kawaida walishindwa kutabiri, ulikuwa ni ukuaji wa kawaida na mzunguko wa kishindo unaojulikana na uwekezaji kupita kiasi katika soko la nyumba kutokana na muda mrefu wa viwango vya chini vya riba. Zaidi ya hayo, Wana-Marx mamboleo na makundi mengine ya kisoshalisti yanaeneza dhana kwamba kuibuka kwa AI kunaweza kutatua tatizo la hesabu za kiuchumi. Hata hivyo, mtazamo huu unatokana na uelewa mbovu wa suala hilo; tatizo la kukokotoa uchumi si suala la nguvu ya kompyuta bali ni suala la kuzalisha na kusambaza taarifa zinazohusiana na uzalishaji na mgao wa rasilimali. Taarifa hii inaweza tu kuzalishwa ndani ya nchi na mawakala wenye ujuzi maalum na maslahi yaliyowekwa katika matokeo. AI haiwezi kuchukua nafasi ya mchakato huu wa chini kwenda juu na, kwa hivyo, haiwezi kusaidia wapangaji wa kati Address tatizo la mgao wa rasilimali. Kwa bahati mbaya, kutokana na karne ya kutokuelewana, tunatarajia kuenea kwa madai kwamba AI italeta enzi mpya ya ustawi wa kiuchumi inayoongozwa na wapangaji wa kati walioelimika ambao, kwa usaidizi wa AI, wanaweza kurekebisha kushindwa kwa soko huria.
 
-![CYP201](assets/fr/012.webp)
+Kwa matumizi madhubuti ya shida ya hesabu ya kiuchumi kwa hali ya kisasa, unaweza kurejelea nakala hii inayoshughulikia shida ya ugawaji wa rasilimali katika Uchina wa kisasa.
 
-HMAC inatumika katika Bitcoin haswa kwa utokezi muhimu katika pochi za HD (Hierarchical Deterministic) (tutazungumza juu ya hili kwa undani zaidi katika sura zinazokuja) na kama sehemu ya PBKDF2.
+> Barabara ya Ukandamizaji wa Kifedha: China the Paper Tiger, Theo Mogenet, https://open.substack.com/pub/theomogenet/p/the-road-to-financial-repression-181?r=ccpx8&utm_campaign=post&utm_medium=web
+### Hitimisho
 
-### PBKDF2
+Katika sura hii ya mwisho, tumechunguza kutowezekana kwa hesabu ya kiuchumi chini ya ujamaa, kanuni kuu ya shule ya uchumi ya Austria. Mtazamo wa Austria uliowasilishwa katika kozi hii unakamilika kwa hitimisho hili na unatoa hoja thabiti kwa sera zisizoingilia kati. Katika msingi wake, mawazo yote ya Austria yanahusu umuhimu wa bei katika uratibu wa kiuchumi. Kwa kusisitiza umuhimu wa gharama za fursa na ukokotoaji wa kiuchumi kwa matumizi bora ya rasilimali, wanauchumi wa Austria wanaonyesha utata na ujanja wa vitendo vya binadamu katika ulimwengu unaobadilika kila mara.
 
-PBKDF2 (_Kazi 2_ ya Upataji Muhimu kwa Msingi wa Nenosiri) ni kanuni kuu ya utohozi iliyoundwa ili kuimarisha usalama wa manenosiri. Algorithm inatumika kazi ya pseudo-random (hapa HMAC-SHA512) kwenye nenosiri na chumvi ya siri, na kisha kurudia operesheni hii mara kadhaa ili kuzalisha ufunguo wa pato.
+Wanauchumi wakuu na wapangaji wakuu mara nyingi hawapendi wanauchumi wa Austria kwa sababu wanaangazia kutokuwa na uhakika wa siku zijazo, uwongo wa utabiri wa idadi kubwa ya uchumi, na athari mbaya za kuingilia uchumi. Kwa kifupi, uchumi wa Austria unasisitiza kutofaa na matokeo mabaya ya hatua za kuingilia kati.
 
-Katika Bitcoin, PBKDF2 inatumika kwa generate seed ya HD Wallet kutoka kwa maneno ya Mnemonic na passphrase (lakini tutazungumzia kuhusu hili kwa undani zaidi katika sura zijazo).
+Tamaduni za Austria zinajumuisha mkabala wa unyenyekevu wa hatua ya binadamu, ikichota athari za kina kutoka kwa dhana ya thamani ya kibinafsi, kutokuwa na uhakika, hiari, na utata. Inaeleza jinsi utaratibu wa soko, licha ya kuwa si zao la muundo wa binadamu, unasimama kama taasisi kuu ya maendeleo na ustawi wetu. Ikiwa kuna jambo moja muhimu la kuchukua kutoka kwa kozi hii, ni kwamba ubepari ukawa mfumo mkuu wa kiuchumi kwa sababu ya uwezo wake wa kukabiliana na mabadiliko katika ulimwengu unaobadilika na usio na uhakika unaokaliwa na watu huru.
 
-Mchakato wa PBKDF2 ni kama ifuatavyo, na:
+## Mbinu ya Austria
 
+<chapterId>419129c1-82ba-54e3-b385-95d4d89a447e</chapterId>
 
-- $m$: maneno ya mtumiaji Mnemonic;
-- $s$: passphrase ya hiari ili kuongeza usalama (uga tupu ikiwa hakuna passphrase);
-- $n$: idadi ya marudio ya chaguo la kukokotoa, kwa upande wetu, ni 2048.
+Shule ya Uchumi ya Austria inajitofautisha na shule zingine kwa mbinu yake ya kutoa axiomatic, ambayo inatofautiana na mbinu chanya inayotumiwa mara nyingi katika sayansi ya kijamii. Mtazamo wa chanya unatokana na sheria zilizoanzishwa kutoka kwa data ya majaribio, ikichukua mbinu sawa na ile ya sayansi ya mwili. Huunda dhahania kutoka kwa uchunguzi, ambao huthibitishwa au kukanushwa na majaribio ya muda. Mbinu ya kisayansi inajumuisha kubakiza dhahania inayofafanua data vizuri zaidi na kuendelea kuichunguza hadi nadharia sahihi zaidi ipatikane.
 
-Chaguo za kukokotoa za PBKDF2 hufafanuliwa mara kwa mara. Kila marudio huchukua matokeo ya ya awali, huipitisha kupitia HMAC-SHA512, na kuchanganya matokeo yanayofuatana ili kutoa ufunguo wa mwisho:
+Walakini, katika sayansi ya kijamii, ni ngumu kutenganisha anuwai kama ilivyo katika fizikia, kwa sababu kila wakati katika historia ni wa kipekee na mambo mengi yanahusika. Majaribio ya kiuchumi hayawezi kuzalishwa katika maabara, na ni muhimu kutambua kwamba kuchunguza uwiano kati ya vigezo viwili hakuthibitishi uhusiano wa causal kati yao. Waustria, hasa Ludwig von Mises, walipendekeza mbinu mbadala inayoitwa mbinu ya priori au axiomatic-deductive ya kusoma sayansi ya jamii. Mbinu hii inategemea mapendekezo ya kimsingi yanayoitwa axioms, sawa na yale yanayotumiwa katika hisabati. Kwa mfano, jiometri ya Euclidean ni mfano wa njia ya axiomatic-deductive katika uwanja wa hisabati.
 
-$$
-\text{PBKDF2}(m, s) = \text{HMAC-SHA512}^{2048}(m, s)
-$$
+Katika uchumi wa Austria, misemo ya kimsingi ni pamoja na mapendeleo ya wakati chanya, ambayo yanatokana na chaguo la mtu binafsi la bidhaa au huduma leo badala ya kesho, kwa sababu ya kutokuwa na uhakika kuhusu siku zijazo. Axioms hizi hazihojiwi, kwani zinachukuliwa kuwa dhahiri na zinaendana na maisha ya kila siku. Kwa kutumia axioms hizi za kimsingi, wanauchumi wa Austria hutumia kanuni za mantiki kupata taarifa zinazotoa taarifa kuhusu utendakazi wa matukio ya kiuchumi. Kwa mfano, wanaeleza kuwa migogoro ya kiuchumi inasababishwa na kukosekana kwa usawa kati ya akiba na uwekezaji, jambo ambalo husababisha upotoshaji wa viwango vya riba. Watu walio na mapendeleo ya wakati mzuri wanadai kiwango cha riba chanya ili kufidia hatari ya kukopesha. Waaustria wanahoji kuwa mahusiano ya uthamini ni ya kibinafsi, kwa hivyo viwango vya riba vinaweza kutofautiana kulingana na watu binafsi na hali.
 
-Kwa utaratibu, PBKDF2 inaweza kuwakilishwa kama ifuatavyo:
+Bei zina jukumu muhimu katika shirika la kimantiki la watu binafsi walio na taarifa za sehemu. Kiwango cha riba kinasawazisha Supply na mahitaji ya mtaji katika soko, hivyo kukuza uchumi. Wanauchumi wa Austria wanasisitiza kwamba kuweka kiwango cha riba kiholela kunaweza kusababisha migogoro ya kiuchumi na kufanya hesabu kuwa ngumu katika utawala wa kisoshalisti.
 
-![CYP201](assets/fr/013.webp)
+### Wanauchumi wa Austria na Tofauti za Methodological
 
-Katika sura hii, tumechunguza chaguo za kukokotoa za HMAC-SHA512 na PBKDF2, ambazo hutumia kipengele cha kukokotoa ili kuhakikisha uadilifu na usalama wa vitu muhimu katika itifaki ya Bitcoin. Katika sehemu inayofuata, tutaangalia saini za dijiti, njia nyingine ya kriptografia inayotumiwa sana katika Bitcoin.
+Wanauchumi wa Austria mara nyingi hukutana na shida wakati wa kujadiliana na shule zingine za mawazo, kwani hawatumii njia sawa za uchambuzi. Ingawa Waustria wanasababu kutoka kwa misemo ya kimsingi, kama vile udhabiti wa thamani, ili kupata matokeo ya kimantiki, wanauchumi wa Keynesi au wachumi wana mwelekeo wa kutegemea data ya majaribio ili kuanzisha sheria za jumla za uchumi.
 
-# Sahihi za Dijitali
+Mfano wa tofauti ya mbinu ni msimamo wa watetezi wa Nadharia ya Kisasa ya Fedha (MMT) ambao wametetea uchapishaji wa pesa ili kufikia malengo ya kisiasa, wakitumia kutokuwepo kwa mfumuko wa bei kati ya 2008 na 2019 kama hoja. Wanauchumi wa Austria na watetezi wa MMT hawazungumzi lugha moja na hawakubaliani juu ya vigezo vya kubainisha uhalali wa sheria ya kiuchumi. Hii inafanya mijadala kati ya shule hizi tofauti kuwa ngumu na mara nyingi isiyo na tija.
 
-<partId>76b58a00-0c18-54b9-870d-6b7e34029db8</partId>
+Ni muhimu kutambua kwamba kuokota cherry, ambayo inahusisha kuchagua data kwa kuchagua ili kuanzisha uhusiano kati ya vigezo, ni mbinu isiyo ya kisayansi na isiyo ya ukali katika uchumi. Uundaji wa pesa, kwa mfano, sio lazima kusababisha mfumuko wa bei, na njia ya busara zaidi ni muhimu kuelewa mifumo ngumu ya kiuchumi. Axioms ina jukumu muhimu katika mawazo ya kiuchumi ya Austria. Ni za msingi za Elements ambazo makato ya kimantiki yanaweza kufanywa. Hata hivyo, ni muhimu kutambua kwamba utabiri sahihi wa siku zijazo katika uchumi mara nyingi ni mgumu kutokana na utata wa matukio ya kiuchumi na kutokuwa na uhakika wa asili.
 
-## Sahihi za Dijiti na Mikunjo ya Mviringo
-
-<chapterId>c9dd9672-6da1-57f8-9871-8b28994d4c1a</chapterId>
-
-Njia ya pili ya kriptografia inayotumiwa katika Bitcoin inahusisha kanuni za saini za dijiti. Wacha tuchunguze hii inahusu nini na jinsi inavyofanya kazi.
-
-### Bitcoins, UTXOs, na Masharti ya Matumizi
-
-Neno "_wallet_" katika Bitcoin linaweza kuwachanganya wanaoanza. Hakika, kile kinachoitwa Bitcoin Wallet ni programu ambayo haishikilii bitcoins zako moja kwa moja, tofauti na Wallet ya kimwili ambayo inaweza kushikilia sarafu au bili. Bitcoins ni vitengo vya akaunti tu. Kitengo hiki cha akaunti kinawakilishwa na **UTXO** (_Matokeo ya Muamala Usiotumika_), ambayo ni matokeo ya malipo ambayo hayajatumika. Ikiwa matokeo haya hayatumiwi, inamaanisha ni ya mtumiaji. UTXO ni, kwa njia, vipande vya bitcoins, vya ukubwa wa kutofautiana, mali ya mtumiaji.
-
-Itifaki ya Bitcoin inasambazwa na kufanya kazi bila mamlaka kuu. Kwa hivyo, si kama rekodi za kitamaduni za benki, ambapo euro ambazo ni zako zinahusishwa tu na utambulisho wako wa kibinafsi. Kwenye Bitcoin, UTXO zako ni zako kwa sababu zinalindwa na masharti ya matumizi yaliyobainishwa katika lugha ya Hati. Ili kurahisisha, kuna aina mbili za hati: hati ya kufunga (_scriptPubKey_), ambayo inalinda UTXO, na hati ya kufungua (_scriptSig_), ambayo inaruhusu kufungua UTXO na hivyo kutumia vitengo vya Bitcoin inayowakilisha.
-
-Uendeshaji wa awali wa Bitcoin yenye hati za P2PK unahusisha kutumia ufunguo wa umma kufunga fedha, ikibainisha katika _scriptPubKey_ kwamba mtu anayetaka kutumia UTXO hii lazima atoe saini halali na ufunguo wa faragha unaolingana na ufunguo huu wa umma. Ili kufungua UTXO hii, kwa hivyo ni muhimu kutoa saini halali katika _scriptSig_. Kama majina yao yanavyopendekeza, ufunguo wa umma unajulikana kwa wote kwa vile unaonyeshwa kwenye Blockchain, wakati ufunguo wa kibinafsi unajulikana tu na mmiliki halali wa fedha.
-
-Hii ni operesheni ya msingi ya Bitcoin, lakini baada ya muda, operesheni hii imekuwa ngumu zaidi. Kwanza, Satoshi pia ilianzisha hati za P2PKH, ambazo hutumia kupokea Address katika _scriptPubKey_, ambayo inawakilisha Hash ya ufunguo wa umma. Kisha, mfumo huo ukawa mgumu zaidi na kuwasili kwa SegWit na kisha Taproot. Hata hivyo, kanuni ya jumla inabakia kimsingi sawa: ufunguo wa umma au uwakilishi wa ufunguo huu hutumiwa kufunga UTXO, na ufunguo wa kibinafsi unaofanana unahitajika ili kuzifungua na hivyo kuzitumia.
-
-Kwa hivyo, mtumiaji anayetaka kufanya muamala wa Bitcoin lazima aunde sahihi ya dijiti kwa kutumia ufunguo wake wa faragha kwenye shughuli inayohusika. Sahihi inaweza kuthibitishwa na washiriki wengine wa mtandao. Ikiwa ni halali, hii inamaanisha kuwa mtumiaji anayeanzisha muamala ndiye mmiliki wa ufunguo wa kibinafsi, na kwa hivyo mmiliki wa bitcoins wanazotaka kutumia. Watumiaji wengine wanaweza kukubali na kueneza muamala.
-
-Kwa hivyo, mtumiaji ambaye anamiliki bitcoins zilizofungwa kwa ufunguo wa umma lazima atafute njia ya kuhifadhi kwa usalama kile kinachoruhusu kufungua fedha zao: ufunguo wa kibinafsi. Bitcoin Wallet ni kifaa haswa ambacho kitakuruhusu kuweka funguo zako zote kwa urahisi bila watu wengine kuzifikia. Kwa hivyo ni kama mnyororo wa vitufe kuliko Wallet.
-
-Kiungo cha hisabati kati ya ufunguo wa umma na ufunguo wa faragha, pamoja na uwezo wa kutia sahihi ili kuthibitisha umiliki wa ufunguo wa faragha bila kuufunua, huwezeshwa na algoriti ya sahihi ya dijiti. Katika itifaki ya Bitcoin, algoriti 2 za sahihi zinatumika: **ECDSA** (_Elliptic Curve Digital Signature Algorithm_) na **Mpango wa sahihi wa Schnorr**. ECDSA ni itifaki ya sahihi ya dijiti iliyotumiwa katika Bitcoin tangu mwanzo. Schnorr ni ya hivi majuzi zaidi katika Bitcoin, kama ilianzishwa mnamo Novemba 2021 na sasisho la Taproot.
-
-Algorithms hizi mbili zinafanana kabisa katika mifumo yao. Zote mbili zinatokana na kriptografia ya curve ya mviringo. Tofauti kuu kati ya itifaki hizi mbili iko katika muundo wa saini na baadhi ya sifa maalum za hisabati. Kwa hivyo tutasoma utendakazi wa kanuni hizi, tukianza na za zamani zaidi: ECDSA.
-
-### Mviringo Curve Cryptography
-
-Elliptic Curve Cryptography (ECC) ni seti ya algoriti zinazotumia mkunjo wa duaradufu kwa sifa zake mbalimbali za hisabati na kijiometri kwa madhumuni ya kriptografia. Usalama wa algoriti hizi unategemea ugumu wa tatizo la logarithmu tofauti kwenye mikunjo ya duaradufu. Miindo ya duaradufu hutumiwa haswa kwa ubadilishanaji muhimu, usimbaji fiche usiolinganishwa, au kuunda sahihi za dijitali.
-
-Sifa muhimu ya mikunjo hii ni kwamba zina ulinganifu kwa heshima na mhimili wa x. Kwa hivyo, mstari wowote usio wima unaokata mkunjo katika sehemu mbili tofauti daima utakatiza mkunjo katika hatua ya tatu. Zaidi ya hayo, tanjiti yoyote kwa mkunjo kwenye sehemu isiyo ya umoja itakatiza mkunjo katika hatua nyingine. Tabia hizi zitakuwa muhimu kwa kufafanua shughuli kwenye curve.
-
-Hapa kuna uwakilishi wa curve ya duaradufu juu ya uwanja wa nambari halisi:
-
-![CYP201](assets/fr/014.webp)
-
-Kila curve ya duaradufu inafafanuliwa na equation ya fomu:
-
-$$
-y^2 = x^3 + ax + b
-$$
-
-### sehemu ya 256k1
-
-Ili kutumia ECDSA au Schnorr, ni lazima mtu achague vigezo vya mkunjo wa duaradufu, yaani, thamani za $a$ na $b$ katika mlingano wa curve. Kuna viwango tofauti vya mikunjo ya duaradufu ambayo inasifika kuwa salama kwa njia fiche. Inayojulikana zaidi ni _secp256r1_ curve, iliyofafanuliwa na kupendekezwa na NIST (_Taasisi ya Kitaifa ya Viwango na Teknolojia_).
-
-Licha ya hayo, Satoshi Nakamoto, mvumbuzi wa Bitcoin, alichagua kutotumia curve hii. Sababu ya chaguo hili haijulikani, lakini wengine wanaamini alipendelea kutafuta njia mbadala kwa sababu vigezo vya curve hii vinaweza kuwa na mlango wa nyuma. Badala yake, itifaki ya Bitcoin hutumia mkunjo wa kawaida wa **_secp256k1_**. Curve hii inafafanuliwa na vigezo $a = 0$ na $b = 7$. Kwa hivyo equation yake ni:
-
-$$
-y^2 = x^3 + 7
-$$
-
-Uwakilishi wake wa picha juu ya uwanja wa nambari halisi inaonekana kama hii:
-
-![CYP201](assets/fr/015.webp)
-
-Hata hivyo, katika kriptografia, tunafanya kazi na seti zenye kikomo za nambari. Hasa zaidi, tunafanya kazi kwenye sehemu ya mwisho $\mathbb{F}_p$, ambayo ni sehemu ya nambari kamili ya nambari kuu $p$.
-
-**Ufafanuzi**: Nambari kuu ni nambari asilia kubwa kuliko au sawa na 2 ambayo ina vigawanyiko viwili pekee chanya chanya: 1 na yenyewe. Kwa mfano, nambari 7 ni nambari kuu kwani inaweza tu kugawanywa na 1 na 7. Kwa upande mwingine, nambari 8 sio kuu kwa sababu inaweza kugawanywa na 1, 2, 4, na 8.
-
-Katika Bitcoin, nambari kuu $p$ inayotumika kufafanua sehemu ya mwisho ni kubwa sana. Imechaguliwa kwa namna ambayo utaratibu wa shamba (yaani, idadi ya Elements katika $\mathbb{F}_p$) ni kubwa ya kutosha ili kuhakikisha usalama wa cryptographic.
-
-Nambari kuu $p$ iliyotumika ni:
-
-```text
-p = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2F
-```
-
-Katika nukuu ya decimal, hii inalingana na:
-
-$$
-p = 2^{256} - 2^{32} - 977
-$$
-
-Kwa hivyo, equation ya curve yetu ya mviringo ni kweli:
-
-$$
-y^2 \equiv x^3 + 7 \mod p
-$$
-
-Ikizingatiwa kuwa mduara huu umefafanuliwa juu ya uga finyu $\mathbb{F}_p$, haufanani tena na mkunjo unaoendelea bali seti tofauti ya pointi. Kwa mfano, hivi ndivyo curve inayotumika katika Bitcoin inavyoonekana kwa $p = 17$ ndogo sana:
-
-![CYP201](assets/fr/016.webp)
-
-Katika mfano huu, nimepunguza kimakusudi sehemu ya mwisho iwe $p = 17$ kwa sababu za kielimu, lakini ni lazima mtu afikirie kuwa ile inayotumika katika Bitcoin ni kubwa zaidi, karibu $2^{256}$.
-
-Tunatumia sehemu yenye kikomo ya nambari kamili modulo $p$ ili kuhakikisha usahihi wa utendakazi kwenye mkunjo. Hakika, mikunjo ya duaradufu juu ya uwanja wa nambari halisi inakabiliwa na usahihi kutokana na makosa ya kuzungusha wakati wa hesabu za kukokotoa. Ikiwa shughuli nyingi zinafanywa kwenye curve, makosa haya hujilimbikiza na matokeo ya mwisho yanaweza kuwa sahihi au vigumu kuzaliana. Utumiaji wa kipekee wa nambari kamili huhakikisha usahihi kamili wa hesabu na hivyo kuzaliana kwa matokeo.
-
-Hisabati ya mikondo ya duaradufu juu ya sehemu zenye ukomo ni sawa na zile zilizo juu ya uwanja wa nambari halisi, kwa urekebishaji kwamba shughuli zote hufanywa modulo $p$. Ili kurahisisha maelezo, tutaendelea katika sura zifuatazo ili kuelezea dhana kwa kutumia curve iliyofafanuliwa juu ya nambari halisi, huku tukikumbuka kwamba, katika mazoezi, curve inafafanuliwa juu ya uwanja wa mwisho.
-
-Ikiwa ungependa kujifunza zaidi kuhusu misingi ya hisabati ya kriptografia ya kisasa, ninapendekeza pia kushauriana na kozi hii nyingine kwenye Plan ₿ Network:
-
-https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
-## Kuhesabu Ufunguo wa Umma kutoka kwa Ufunguo wa Kibinafsi
-
-<chapterId>fcb2bd58-5dda-5ecf-bb8f-ad1a0561ab4a</chapterId>
-
-Kama inavyoonekana hapo awali, algoriti za sahihi za dijiti kwenye Bitcoin zinatokana na jozi ya funguo za kibinafsi na za umma ambazo zimeunganishwa kihisabati. Hebu tuchunguze pamoja kiungo hiki cha hisabati ni nini na jinsi vinavyozalishwa.
-
-### Ufunguo wa Kibinafsi
-
-Ufunguo wa faragha ni nambari ya nasibu au pseudo-nasibu. Kwa upande wa Bitcoin, nambari hii ina ukubwa wa bits 256. Kwa hivyo, idadi ya uwezekano wa ufunguo wa faragha wa Bitcoin kinadharia ni $2^{256}$.
-
-**Kumbuka**: "Nambari isiyo ya kawaida" ni nambari ambayo ina sifa zinazokaribiana na zile za nambari nasibu lakini inatolewa na kanuni ya kubainisha.
-
-Hata hivyo, kiutendaji, kuna pointi tofauti za $n$ pekee kwenye curve yetu ya duaradufu secp256k1, ambapo $n$ ni mpangilio wa sehemu ya jenereta $G$ ya mkunjo. Tutaona baadaye nambari hii inalingana na nini, lakini kumbuka tu kwamba ufunguo halali wa faragha ni nambari kamili kati ya $1$ na $n-1$, tukijua kwamba $n$ ni nambari inayokaribia lakini chini kidogo ya $2^{256}$. Kwa hivyo, kuna baadhi ya nambari za 256-bit ambazo si halali kwa kuwa ufunguo wa faragha katika Bitcoin, haswa, nambari zote kati ya $n$ na $2^{256}$. Ikiwa uzalishaji wa nambari nasibu (ufunguo wa kibinafsi) utatoa thamani $k$ kiasi kwamba $k \geq n$, inachukuliwa kuwa batili, na thamani mpya ya nasibu lazima itolewe.
-
-Kwa hivyo, idadi ya uwezekano wa ufunguo wa faragha wa Bitcoin ni takriban $n$, ambayo ni nambari inayokaribia $1.158 \mara 10^{77}$. Nambari hii ni kubwa sana hivi kwamba ukichagua ufunguo wa faragha bila mpangilio, ni vigumu kitakwimu kutua kwenye ufunguo wa faragha wa mtumiaji mwingine. Ili kukupa wazo la ukubwa, idadi ya funguo za kibinafsi zinazowezekana kwenye Bitcoin ni za mpangilio wa ukubwa unaokaribiana na ule wa atomi zinazokadiriwa katika ulimwengu unaoonekana.
-
-Kama tutakavyoona katika sura zinazokuja, leo, funguo nyingi za kibinafsi zinazotumiwa kwenye Bitcoin hazitolewi kwa nasibu lakini ni matokeo ya uamuzi kutoka kwa kifungu cha Mnemonic, yenyewe ya bahati nasibu (hii ni kifungu maarufu cha maneno 12 au 24). Maelezo haya hayabadilishi chochote kwa matumizi ya kanuni sahihi kama vile ECDSA, lakini husaidia kuangazia upya umaarufu wetu kwenye Bitcoin.
-
-Kwa muendelezo wa maelezo, ufunguo wa faragha utaonyeshwa kwa herufi ndogo $k$.
-
-### Ufunguo wa Umma
-
-Ufunguo wa umma ni sehemu kwenye mkunjo wa duaradufu, unaoonyeshwa kwa herufi kubwa $K$, na hukokotwa kutoka kwa ufunguo wa faragha $k$. Sehemu hii $K$ inawakilishwa na jozi ya viwianishi $(x, y)$ kwenye mkunjo wa duaradufu, kila kiratibu kikiwa modulo kamili $p$, nambari kuu inayofafanua sehemu ya mwisho $\mathbb{F}_p$.
-
-Kwa mazoezi, ufunguo wa umma ambao haujabanwa unawakilishwa na biti 512 (au baiti 64), zinazolingana na nambari mbili za 256-bit ($ x $ na $ y $) zilizowekwa mwisho hadi mwisho. Nambari hizi ni abscissa ($x$) na kuratibu ($y$) ya uhakika wetu kwenye secp256k1. Tukiongeza kiambishi awali, ufunguo wa umma una jumla ya biti 520.
-
-Hata hivyo, inawezekana pia kuwakilisha ufunguo wa umma katika fomu iliyobanwa kwa kutumia baiti 33 pekee (biti 264) kwa kuweka tu abscissa $x$ ya uhakika wetu kwenye mkunjo na baiti inayoonyesha usawa wa $y$. Hiki ndicho kinachojulikana kama kitufe cha umma kilichobanwa. Nitazungumza zaidi juu ya hili katika sura za mwisho za mafunzo haya. Lakini unachohitaji kukumbuka ni kwamba ufunguo wa umma $K$ ni hoja iliyoelezwa na $x$ na $y$.
-
-Ili kukokotoa nukta $K$ inayolingana na ufunguo wetu wa umma, tunatumia utendakazi wa kuzidisha koleo kwenye mikondo ya duaradufu, inayofafanuliwa kama nyongeza inayorudiwa (mara $k$) ya sehemu ya jenereta $G$:
-
-$$
-K = k \cdot G
-$$
-
-wapi:
-
-
-- $k$ ni ufunguo wa faragha (nambari kamili kati ya $1$ na $n-1$);
-- $G$ ni sehemu ya jenereta ya curve ya mviringo inayotumiwa na washiriki wote wa mtandao wa Bitcoin;
-- $\cdot$ inawakilisha kuzidisha kwa koleo kwenye ukingo wa duaradufu, ambayo ni sawa na kuongeza nukta $G$ yenyewe mara $k$.
-
-Ukweli kwamba hatua hii $G$ ni ya kawaida kwa funguo zote za umma kwenye Bitcoin huturuhusu kuwa na uhakika kwamba ufunguo sawa wa faragha $k$ utatupatia kila mara ufunguo sawa wa umma $K$:
-
-![CYP201](assets/fr/017.webp)
-
-Tabia kuu ya operesheni hii ni kwamba ni kazi ya njia moja. Ni rahisi kukokotoa ufunguo wa umma $K$ ukijua ufunguo wa faragha $k$ na nukta ya jenereta $G$, lakini kwa kweli haiwezekani kukokotoa ufunguo wa faragha $k$ ukijua tu ufunguo wa umma $K$ na nukta ya jenereta $G$. Kupata $k$ kutoka $K$ na $G$ kunalingana na kusuluhisha tatizo la logarithm tofauti kwenye mikunjo ya duaradufu, tatizo gumu kihisabati ambalo hakuna algoriti bora inayojulikana. Hata vikokotoo vya nguvu zaidi vya sasa haviwezi kutatua tatizo hili kwa wakati unaofaa.
-
-![CYP201](assets/fr/018.webp)
-
-### Kuongeza na Kuongezeka maradufu kwa Pointi kwenye Mikondo ya Mviringo
-
-Dhana ya kuongeza kwenye curves ya mviringo inaelezwa kijiometri. Ikiwa tuna pointi mbili $P$ na $Q$ kwenye mkunjo, operesheni $P + Q$ inakokotolewa kwa kuchora mstari unaopita $P$ na $Q$. Laini hii itakatiza mkunjo katika sehemu ya tatu $R'$. Kisha tunachukua picha ya kioo ya hatua hii kwa heshima na mhimili wa x kupata uhakika $R$, ambayo ni matokeo ya nyongeza:
-
-$$
-P + Q = R
-$$
-
-Kielelezo, hii inaweza kuwakilishwa kama ifuatavyo:
-
-![CYP201](assets/fr/019.webp)
-
-Kwa kurudia mara mbili kwa nukta, hiyo ni operesheni $P + P$, tunachora tangent kwa curve kwa uhakika $P $. Tanjenti hii inakatiza mkunjo katika hatua nyingine $S'$. Kisha tunachukua picha ya kioo ya hatua hii kwa heshima na mhimili wa x ili kupata uhakika $S$, ambayo ni matokeo ya kuzidisha maradufu:
-
-$$
-2P = S
-$$
-
-Kielelezo, hii inaonyeshwa kama:
-
-![CYP201](assets/fr/020.webp)
-
-Kwa kutumia utendakazi huu wa kujumlisha na kuzidisha maradufu, tunaweza kufanya kuzidisha kwa ukubwa wa nukta kwa nambari kamili $k$, inayoashiria $kP$, kwa kutekeleza marudio na nyongeza mara kwa mara.
-
-Kwa mfano, tuseme tumechagua ufunguo wa faragha $k = 4$. Ili kuhesabu ufunguo wa umma unaohusishwa, tunafanya:
-
-$$
-K = k \cdot G = 4G
-$$
-
-Kwa picha, hii inalingana na kufanya safu ya nyongeza na mara mbili:
-
-
-- Kokotoa $2G$ kwa kuongeza $G$ mara mbili.
-- Kokotoa $4G$ kwa kuongeza $2G$ mara mbili.
-
-![CYP201](assets/fr/021.webp)
-
-Ikiwa tunataka, kwa mfano, kukokotoa pointi $3G$, ni lazima kwanza tuhesabu pointi $2G$ kwa kuongeza pointi $G$ mara mbili, kisha tuongeze $G$ na $2G$. Ili kuongeza $G$ na $2G$, chora tu mstari unaounganisha pointi hizi mbili, rudisha sehemu ya kipekee $-3G$ kwenye makutano kati ya mstari huu na mkunjo wa duaradufu, na kisha ubaini $3G$ kama kinyume cha $-3G$.
-
-Tutakuwa na:
-
-$$
-G + G = 2G
-$$
-
-$$
-2G + G = 3G
-$$
-
-Kielelezo, hii itawakilishwa kama ifuatavyo:
-
-![CYP201](assets/fr/022.webp)
-
-### Kazi ya Njia Moja
-
-Shukrani kwa shughuli hizi, tunaweza kuelewa kwa nini ni rahisi kupata ufunguo wa umma kutoka kwa ufunguo wa faragha, lakini kinyume haiwezekani.
-
-Hebu turudi kwenye mfano wetu uliorahisishwa. Na ufunguo wa kibinafsi $k = 4$. Ili kuhesabu ufunguo wa umma unaohusishwa, tunafanya:
-
-$$
-K = k \cdot G = 4G
-$$
-
-Kwa hivyo tumeweza kukokotoa ufunguo wa umma $K$ kwa urahisi kwa kujua $k$ na $G$.
-
-Sasa, ikiwa mtu anajua tu ufunguo wa umma $K$, anakabiliwa na shida ya logarithm: kupata $k$ vile $K = k \cdot G$. Tatizo hili linachukuliwa kuwa gumu kwa sababu hakuna algorithm ya ufanisi ya kulitatua kwenye curve za mviringo. Hii inahakikisha usalama wa kanuni za ECDSA na Schnorr.
-
-Kwa kweli, katika mfano huu uliorahisishwa na $k = 4$, itawezekana kupata $k$ kupitia jaribio na kosa, kwani idadi ya uwezekano ni ndogo. Hata hivyo, kiutendaji kwenye Bitcoin, $k$ ni nambari kamili ya biti 256, na kufanya idadi ya uwezekano kuwa kubwa kiastronomia (takriban $1.158 \mara 10^{77}$). Kwa hivyo, haiwezekani kupata $k$ kwa nguvu ya kikatili.
-
-## Kusaini kwa Ufunguo wa Faragha
-
-<chapterId>bb07826f-826e-5905-b307-3d82001fb778</chapterId>
-
-Sasa kwa kuwa unajua jinsi ya kupata ufunguo wa umma kutoka kwa ufunguo wa kibinafsi, unaweza tayari kupokea bitcoins kwa kutumia jozi ya funguo kama hali ya matumizi. Lakini jinsi ya kuzitumia? Ili kutumia bitcoins, utahitaji kufungua _scriptPubKey_ iliyoambatishwa kwenye UTXO yako ili kuthibitisha kuwa wewe ni mmiliki wake halali. Ili kufanya hivyo, ni lazima utoe sahihi $s$ inayolingana na ufunguo wa umma $K$ uliopo kwenye _scriptPubKey_ ukitumia ufunguo wa faragha $k$ ambao ulitumika awali kukokotoa $K$. Kwa hivyo, sahihi ya dijiti ni uthibitisho usioweza kukanushwa kuwa una ufunguo wa faragha unaohusishwa na ufunguo wa umma unaodai.
-
-### Vigezo vya mviringo vya mviringo
-
-Ili kutekeleza saini ya dijiti, washiriki wote lazima kwanza wakubaliane juu ya vigezo vya curve ya mviringo iliyotumiwa. Kwa upande wa Bitcoin, vigezo vya **secp256k1** ni kama ifuatavyo:
-
-Sehemu ya mwisho $\mathbb{Z}_p$ imefafanuliwa na:
-
-$$
-p = 2^{256} - 2^{32} - 977
-$$
-
-```text
-p = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2F
-```
-
-$p$ ni nambari kuu kubwa sana chini ya $2^{256}$.
-
-Mviringo wa duaradufu $y^2 = x^3 + shoka + b$ juu ya $\mathbb{Z}_p$ umefafanuliwa na:
-
-$$
-a = 0, \quad b = 7
-$$
-
-Sehemu ya jenereta au sehemu ya asili $G$:
-
-```text
-G = 0x0279BE667EF9DCBBAC55A06295CE870B07029BFCDB2DCE28D959F2815B16F81798
-```
-
-Nambari hii ni fomu iliyobanwa ambayo inatoa tu abscissa ya uhakika $G$. Kiambishi awali `02` hapo mwanzoni huamua ni ipi kati ya thamani mbili zilizo na abscissa $x$ hii itatumika kama sehemu ya kuzalisha.
-
-Agizo $n$ ya $G$ (idadi ya pointi zilizopo) na cofactor $h$:
-
-```text
-n = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141
-```
-
-$n$ ni nambari kubwa sana chini ya $p$.
-
-$$
-h=1
-$$
-
-$h$ ni cofactor au idadi ya vikundi vidogo. Sitafafanua nini hii inawakilisha hapa, kwa kuwa ni ngumu sana, na kwa upande wa Bitcoin, hatuhitaji kuizingatia kwani ni sawa na $1$.
-
-Taarifa hizi zote ni za umma na zinajulikana kwa washiriki wote. Shukrani kwao, watumiaji wanaweza kutengeneza saini ya dijiti na kuithibitisha.
-
-### Sahihi na ECDSA
-
-Kanuni za ECDSA humruhusu mtumiaji kutia sahihi ujumbe kwa kutumia ufunguo wake wa faragha, kwa njia ambayo mtu yeyote anayejua ufunguo unaolingana wa umma anaweza kuthibitisha uhalali wa sahihi, bila ufunguo wa faragha kufichuliwa. Katika muktadha wa Bitcoin, ujumbe utakaotiwa saini unategemea _sighash_ iliyochaguliwa na mtumiaji. Ni _sighash_ hii ambayo itaamua ni sehemu gani za muamala zimefunikwa na sahihi. Nitazungumza zaidi juu ya hili katika sura inayofuata.
-
-Hapa kuna hatua za generate sahihi ya ECDSA:
-
-Kwanza, tunakokotoa Hash ($e$) ya ujumbe unaohitaji kusainiwa. Ujumbe $m$ kwa hivyo hupitishwa kupitia kazi ya kriptografia ya Hash, kwa ujumla SHA256 au SHA256 mara mbili katika kesi ya Bitcoin:
-
-$$
-e = \text{HASH}(m)
-$$
-
-Ifuatayo, tunahesabu Nonce. Katika kriptografia, Nonce ni nambari inayozalishwa kwa njia ya nasibu au isiyo ya kawaida ambayo hutumiwa mara moja tu. Hiyo ni kusema, kila wakati saini mpya ya digital inafanywa na jozi hii ya funguo, itakuwa muhimu sana kutumia Nonce tofauti, vinginevyo, itahatarisha usalama wa ufunguo wa kibinafsi. Kwa hivyo inatosha kubainisha nambari kamili na ya kipekee $r$ kiasi kwamba $1 \leq r \leq n-1$, ambapo $n$ ni mpangilio wa sehemu ya kuzalisha $G$ ya mkunjo wa duaradufu.
-
-Kisha, tutahesabu nukta $R$ kwenye curve ya duaradufu na kuratibu $(x_R, y_R)$ kama vile:
-
-$$
-R = r \cdot G
-$$
-
-Tunatoa thamani ya abscissa ya uhakika $R$ ($x_R$). Thamani hii inawakilisha sehemu ya kwanza ya sahihi. Na hatimaye, tunahesabu sehemu ya pili ya sahihi $s$ kwa njia hii:
-
-$$
-s = r^{-1} \left( e + k \cdot x_R \right) \mod n
-$$
-
-wapi:
-
-
-- $r^{-1}$ ni kinyume cha moduli cha $r$ modulo $n$, yaani, nambari kamili kiasi kwamba $r \cdot r^{-1} \equiv 1 \mod n$;
-- $k$ ni ufunguo wa faragha wa mtumiaji;
-- $e$ ni Hash ya ujumbe;
-- $n$ ni mpangilio wa sehemu ya jenereta $G$ ya mkunjo wa duaradufu.
-
-Sahihi basi ni muunganisho wa $x_R$ na $s$:
-
-$$
-\text{SIG} = x_R \Vert s
-$$
-
-### Uthibitishaji wa Sahihi ya ECDSA
-
-Ili kuthibitisha saini $(x_R, s)$, mtu yeyote anayejua ufunguo wa umma $K$ na vigezo vya curve ya duaradufu anaweza kuendelea kwa njia hii:
-
-Kwanza, thibitisha kuwa $x_R$ na $s$ ziko ndani ya muda $[1, n-1]$. Hii inahakikisha kwamba saini inaheshimu vikwazo vya hisabati vya kikundi cha mviringo. Ikiwa sivyo hivyo, kithibitishaji hukataa mara moja sahihi kama si sahihi.
-
-Kisha, hesabu Hash ya ujumbe:
-
-$$
-e = \text{HASH}(m)
-$$
-
-Kokotoa ubadilishaji wa moduli wa $s$ modulo $n$:
-
-$$
-s^{-1} \mod n
-$$
-
-Kokotoa thamani mbili za vipimo $u_1$ na $u_2$ kwa njia hii:
-
-$$
-\begin{align*}
-u_1 &= e \cdot s^{-1} \mod n \\
-u_2 &= x_R \cdot s^{-1} \mod n
-\end{align*}
-$$
-
-Na mwishowe, hesabu nukta $V$ kwenye curve ya mviringo ili:
-
-$$
-V = u_1 \cdot G + u_2 \cdot K
-$$
-
-Sahihi ni halali ikiwa tu $x_V \equiv x_R \mod n$, ambapo $x_V$ ni $x$ kiratibu cha uhakika $V$. Hakika, kwa kuchanganya $u_1 \cdot G$ na $u_2 \cdot K$, mtu hupata pointi $V$ ambayo, ikiwa saini ni halali, lazima ilingane na uhakika $R$ uliotumiwa wakati wa kusaini (modulo $n$).
-
-### Sahihi na Itifaki ya Schnorr
-
-Mpango wa sahihi wa Schnorr ni mbadala wa ECDSA ambao hutoa faida nyingi. Imewezekana kuitumia kwenye Bitcoin tangu 2021 na kuanzishwa kwa Taproot, na mifumo ya hati ya P2TR. Kama ECDSA, mpango wa Schnorr unaruhusu kusaini ujumbe kwa kutumia ufunguo wa faragha, kwa njia ambayo saini inaweza kuthibitishwa na mtu yeyote anayejua ufunguo wa umma unaolingana.
-
-Kwa upande wa Schnorr, curve sawa kabisa na ECDSA inatumiwa na vigezo sawa. Hata hivyo, funguo za umma zinawakilishwa tofauti kidogo ikilinganishwa na ECDSA. Hakika, zimeteuliwa tu na uratibu wa $x$ wa uhakika kwenye curve ya duaradufu. Tofauti na ECDSA, ambapo funguo za umma zilizobanwa zinawakilishwa na baiti 33 (pamoja na kiambishi awali cha baiti inayoonyesha usawa wa $y$), Schnorr hutumia funguo za umma za baiti 32, zinazolingana tu na kiratibu cha $x$ cha uhakika $K$, na inachukuliwa kuwa $y$ ni hata kwa chaguo-msingi. Uwakilishi huu uliorahisishwa hupunguza ukubwa wa saini na kuwezesha uboreshaji fulani katika kanuni za uthibitishaji.
-
-Kitufe cha umma basi ni kiratibu cha $x$ cha uhakika $K$:
-
-$$
-\text{pk} = K_x
-$$
-
-Hatua ya kwanza kwa generate saini ni Hash ujumbe. Lakini tofauti na ECDSA, inafanywa na maadili mengine na kitendakazi kilicho na lebo ya Hash kinatumika ili kuzuia migongano katika miktadha tofauti. Chaguo za kukokotoa zilizo na lebo ya Hash huhusisha tu kuongeza lebo kiholela kwa ingizo za chaguo za kukokotoa za Hash pamoja na data ya ujumbe.
-
-![CYP201](assets/fr/023.webp)
-
-Kando na ujumbe huo, kiratibu cha $x$ cha ufunguo wa umma $K_x$, pamoja na pointi $R$ iliyokokotwa kutoka kwa Nonce $r$ ($R=r \cdot G$) ambayo yenyewe ni nambari kamili ya kipekee kwa kila sahihi, iliyokokotwa kwa kuamua kutoka kwa ufunguo wa faragha na ujumbe wa kuepuka udhaifu unaohusiana na Nonce pia hupitishwa kwenye kipengele cha matumizi. Kama tu kwa ufunguo wa umma, kiratibu cha $x$ pekee cha nukta ya Nonce $R_x$ ndicho kinachobaki kuelezea uhakika.
-
-Matokeo ya hashing hii iliyobainishwa $e$ inaitwa "changamoto":
-
-$$
-e = \text{HASH}(\text{``BIP0340/challenge''}, R_x \Vert K_x \Vert m) \mod n
-$$
-
-Hapa, $\text{Hash}$ ni chaguo za kukokotoa za SHA256 Hash, na $\text{``BIP0340/challenge''}$ ni tagi mahususi ya hashing.
-
-Hatimaye, kigezo $s$ kinakokotolewa kwa njia hii kutoka kwa ufunguo wa faragha $k$, Nonce $r$, na changamoto $e$:
-
-$$
-s = (r + e \cdot k) \mod n
-$$
-
-Sahihi basi ni jozi $Rx$ na $s$.
-
-$$
-\text{SIG} = R_x \Vert s
-$$
-
-### Uthibitishaji wa Sahihi ya Schnorr
-
-Uthibitishaji wa sahihi ya Schnorr ni rahisi kuliko ule wa sahihi ya ECDSA. Hizi ndizo hatua za kuthibitisha sahihi $(R_x, s)$ na ufunguo wa umma $K_x$ na ujumbe $m$:
-
-Kwanza, tunathibitisha kuwa $K_x$ ni nambari kamili na chini ya $p$. Ikiwa hali ndio hii, tunarudisha sehemu inayolingana kwenye mkunjo na $K_y$ ikiwa sawa. Pia tunatoa $R_x$ na $s$ kwa kutenganisha sahihi $\text{SIG}$. Kisha, tunaangalia kuwa $R_x < p$ na $s < n$ (mpangilio wa curve).
-
-Kisha, tunakokotoa changamoto $e$ kwa njia sawa na mtoaji wa saini:
-
-$$
-e = \text{HASH}(\text{``BIP0340/challenge''}, R_x \Vert K_x \Vert m) \mod n
-$$
-
-Halafu, tunahesabu sehemu ya kumbukumbu kwenye curve kwa njia hii:
-
-$$
-R' = s \cdot G - e \cdot K
-$$
-
-Hatimaye, tunathibitisha kuwa $R'_x = R_x$. Ikiwa viwianishi viwili vya x vinalingana, basi sahihi $(R_x, s)$ ni halali kwa ufunguo wa umma $K_x$.
-
-### Kwa nini hii inafanya kazi?
-
-Mtia sahihi amekokotoa $s = r + e \cdot k \mod n$, kwa hivyo $R' = s \cdot G - e \cdot K$ inapaswa kuwa sawa na nukta asili $R$, kwa sababu:
-
-$$
-s \cdot G = (r + e \cdot k) \cdot G = r \cdot G + e \cdot k \cdot G
-$$
-
-Kwa kuwa $K = k \cdot G$, tuna $e \cdot k \cdot G = e \cdot K$. Hivyo:
-
-$$
-R' = r \cdot G = R
-$$
-
-Kwa hivyo, tunayo:
-
-$$
-R'_x = R_x
-$$
-
-### Faida za saini za Schnorr
-
-Mpango wa sahihi wa Schnorr unatoa faida kadhaa kwa Bitcoin juu ya algoriti asilia ya ECDSA. Kwanza, Schnorr inaruhusu ujumlisho wa funguo na saini. Hii inamaanisha kuwa funguo nyingi za umma zinaweza kuunganishwa kuwa ufunguo mmoja.
-
-![CYP201](assets/fr/024.webp)
-
-Na vile vile, sahihi nyingi zinaweza kujumlishwa kuwa sahihi moja halali. Kwa hivyo, katika kesi ya shughuli ya saini nyingi, seti ya washiriki inaweza kusaini na saini moja na ufunguo mmoja wa umma uliojumlishwa. Hii inapunguza kwa kiasi kikubwa gharama za kuhifadhi na kukokotoa kwa mtandao, kwani kila nodi inahitaji tu kuthibitisha saini moja.
-
-![CYP201](assets/fr/025.webp)
-
-Zaidi ya hayo, ujumlishaji wa saini huboresha faragha. Kwa Schnorr, inakuwa vigumu kutofautisha muamala wa saini nyingi kutoka kwa muamala wa kawaida wa sahihi moja. Homogeneity hii inafanya uchambuzi wa mnyororo kuwa mgumu zaidi, kwani inapunguza uwezo wa kutambua alama za vidole za Wallet.
-
-Hatimaye, Schnorr pia inatoa uwezekano wa uthibitishaji wa kundi. Kwa kuthibitisha saini nyingi kwa wakati mmoja, nodi zinaweza kupata ufanisi, hasa kwa vitalu vilivyo na miamala mingi. Uboreshaji huu hupunguza muda na rasilimali zinazohitajika ili kuthibitisha kizuizi.
-
-Pia, sahihi za Schnorr hazitengenezwi, tofauti na sahihi zinazotolewa na ECDSA. Hii inamaanisha kuwa mshambulizi hawezi kurekebisha saini halali ili kuunda sahihi nyingine halali ya ujumbe sawa na ufunguo sawa wa umma. Athari hii ilikuwepo hapo awali kwenye Bitcoin na ilizuia haswa utekelezaji salama wa Lightning Network. Ilisuluhishwa kwa ECDSA na SegWit softfork mwaka wa 2017, ambayo inahusisha kuhamisha saini kwenye hifadhidata tofauti kutoka kwa shughuli ili kuzuia uharibifu wao.
-
-### Kwa nini Satoshi ilichagua ECDSA?
-
-Kama tulivyoona, Satoshi mwanzoni ilichagua kutekeleza ECDSA kwa sahihi za kidijitali kwenye Bitcoin. Hata hivyo, tumeona pia kwamba Schnorr ni bora kuliko ECDSA katika nyanja nyingi, na itifaki hii iliundwa na Claus-Peter Schnorr mnamo 1989, miaka 20 kabla ya uvumbuzi wa Bitcoin.
-
-Kweli, hatujui kwa nini Satoshi haikuichagua, lakini dhana inayowezekana ni kwamba itifaki hii ilikuwa chini ya hataza hadi 2008. Ingawa Bitcoin iliundwa mwaka mmoja baadaye, mnamo Januari 2009, hakuna usawazishaji wa chanzo wazi wa sahihi za Schnorr ulipatikana wakati huo. Labda Satoshi iliona kuwa ni salama zaidi kutumia ECDSA, ambayo tayari ilikuwa inatumika sana na kufanyiwa majaribio katika programu huria na ilikuwa na utekelezaji kadhaa unaotambulika (haswa maktaba ya OpenSSL iliyotumika hadi 2015 kwenye Bitcoin Core, kisha kubadilishwa na libsecp256k1 katika toleo la 0.10.0). Au labda hakujua kuwa hataza hii ingeisha muda wake mwaka wa 2008. Kwa vyovyote vile, dhana inayowezekana zaidi inaonekana kuhusiana na hataza hii na ukweli kwamba ECDSA ilikuwa na historia iliyothibitishwa na ilikuwa rahisi kutekelezwa.
-
-## Bendera za sighash
-
-<chapterId>231c41a2-aff2-4655-9048-47b6d2d83d64</chapterId>
-
-Kama tulivyoona katika sura zilizopita, saini za dijiti mara nyingi hutumiwa kufungua hati ya ingizo. Katika mchakato wa kutia saini, ni muhimu kujumuisha data iliyotiwa sahihi katika hesabu, iliyobainishwa katika mifano yetu kwa ujumbe $m$. Data hii, ikishatiwa saini, haiwezi kurekebishwa bila kufanya sahihi kuwa batili. Hakika, iwe kwa ECDSA au Schnorr, kithibitishaji sahihi lazima kijumuishe katika hesabu ya ujumbe sawa $m$. Iwapo itatofautiana na ujumbe $m$ uliotumiwa mwanzoni na mtu aliyetia sahihi, matokeo yatakuwa si sahihi na sahihi itachukuliwa kuwa batili. Kisha inasemekana kuwa saini inashughulikia data fulani na kuilinda, kwa njia, dhidi ya marekebisho yasiyoidhinishwa.
-
-### Bendera ya sighash ni nini?
-
-Katika hali mahususi ya Bitcoin, tumeona kuwa ujumbe $m$ unalingana na muamala. Walakini, kwa ukweli, ni ngumu zaidi. Hakika, shukrani kwa bendera za sighash, inawezekana kuchagua data mahususi ndani ya muamala ambayo itafunikwa au la na sahihi.
-
-"Bendera ya sighash" kwa hivyo ni kigezo kilichoongezwa kwa kila ingizo, ikiruhusu uamuzi wa vipengee vya muamala ambavyo vinafunikwa na saini inayohusishwa. Vipengele hivi ni pembejeo na matokeo. Kwa hivyo, chaguo la bendera ya sighash huamua ni pembejeo zipi na ni matokeo gani ya muamala yanarekebishwa na sahihi na ambayo bado yanaweza kurekebishwa bila kuibatilisha. Utaratibu huu huruhusu saini kutekeleza data ya muamala kulingana na nia ya aliyetia sahihi.
-
-Ni wazi, mara shughuli hiyo inapothibitishwa kwenye Blockchain, inakuwa haiwezi kubadilika, bila kujali bendera za sighash zinazotumiwa. Uwezekano wa kurekebisha kupitia bendera za sighash ni mdogo kwa kipindi kati ya kutia saini na uthibitisho.
-
-Kwa ujumla, programu ya Wallet haikupi chaguo la kurekebisha mwenyewe bendera ya sighash ya ingizo lako unapounda muamala. Kwa chaguomsingi, `SIGHASH_ALL` imewekwa. Binafsi, najua tu Sparrow Wallet ambayo inaruhusu marekebisho haya kutoka kwa mtumiaji Interface.
-
-### Je, ni bendera gani za sighash zilizopo kwenye Bitcoin?
-
-Kwenye Bitcoin, kuna kwanza kabisa bendera 3 za kimsingi za sighash:
-
-
-- `SIGHASH_ALL` (`0x01`): Sahihi inatumika kwa ingizo zote na matokeo yote ya muamala. Kwa hivyo shughuli hiyo inafunikwa kabisa na sahihi na haiwezi kurekebishwa tena. `SIGHASH_ALL` ndiyo sighash inayotumika sana katika shughuli za kila siku wakati mtu anataka tu kufanya muamala bila kurekebishwa.
-
-![CYP201](assets/fr/026.webp)
-
-Katika michoro zote za sura hii, rangi ya machungwa inawakilisha Elements iliyofunikwa na saini, wakati rangi nyeusi inaonyesha wale ambao sio.
-
-
-- `SIGHASH_NONE` (`0x02`): Sahihi inashughulikia ingizo zote lakini hakuna towe, hivyo basi kuruhusu urekebishaji wa matokeo baada ya sahihi. Kwa maneno madhubuti, hii ni sawa na hundi tupu. Mtia saini hufungua UTXO katika pembejeo lakini huacha uga wa matokeo uweze kurekebishwa kabisa. Mtu yeyote anayejua shughuli hii anaweza kuongeza matokeo ya uchaguzi wao, kwa mfano kwa kubainisha kupokea Address kukusanya fedha zinazotumiwa na pembejeo, na kisha kutangaza shughuli ili kurejesha bitcoins. Sahihi ya mmiliki wa pembejeo haitabatilishwa, kwani inashughulikia pembejeo tu.
-
-![CYP201](assets/fr/027.webp)
-
-
-- `SIGHASH_SINGLE` (`0x03`): Sahihi inashughulikia ingizo zote pamoja na towe moja, sambamba na faharasa ya ingizo lililotiwa sahihi. Kwa mfano, ikiwa sahihi itafungua _scriptPubKey_ ya ingizo #0, basi itashughulikia pia pato #0. Sahihi pia hulinda pembejeo zingine zote, ambazo haziwezi kurekebishwa tena. Walakini, mtu yeyote anaweza kuongeza pato la ziada bila kubatilisha saini, mradi pato #0, ambalo ndilo pekee lililofunikwa nayo, halijabadilishwa.
-
-![CYP201](assets/fr/028.webp)
-
-Kando na bendera hizi tatu za sighash, pia kuna kirekebishaji `SIGHASH_ANYONECANPAY` (`0x80`). Kirekebishaji hiki kinaweza kuunganishwa na bendera ya msingi ya sighash ili kuunda bendera tatu mpya za sighash:
-
-
-- `SIGHASH_ALL | SIGHASH_ANYONECANPAY` (`0x81`): Sahihi inashughulikia ingizo moja huku ikijumuisha matokeo yote ya muamala. Bendera hii ya pamoja ya sighash inaruhusu, kwa mfano, kuundwa kwa shughuli ya ufadhili wa watu wengi. Mratibu hutayarisha pato kwa kutumia Address yao na kiasi kinacholengwa, na kila mwekezaji anaweza kuongeza pembejeo ili kufadhili pato hili. Pesa za kutosha zinapokusanywa ili kukidhi matokeo, shughuli hiyo inaweza kutangazwa.
-
-![CYP201](assets/fr/029.webp)
-
-
-- `SIGHASH_HAKUNA | SIGHASH_ANYONECANPAY` (`0x82`): Sahihi inashughulikia ingizo moja, bila kujitolea kutoa matokeo yoyote;
-
-![CYP201](assets/fr/030.webp)
-
-
-- `SIGHASH_SINGLE | SIGHASH_ANYONECANPAY` (`0x83`): Sahihi inashughulikia ingizo moja pamoja na towe lenye faharasa sawa na ingizo hili. Kwa mfano, ikiwa sahihi itafungua _scriptPubKey_ ya ingizo #3, itafunika pia pato #3. Muamala uliosalia unabaki kurekebishwa, kulingana na pembejeo zingine na matokeo mengine.
-
-![CYP201](assets/fr/031.webp)
-
-### Miradi ya Kuongeza Bendera Mpya za Sighash
-
-Kwa sasa (2024), ni bendera za sighash pekee zilizowasilishwa katika sehemu iliyotangulia ndizo zinazotumika kwenye Bitcoin. Hata hivyo, baadhi ya miradi inazingatia kuongezwa kwa bendera mpya za sighash. Kwa mfano, BIP118, iliyopendekezwa na Christian Decker na Anthony Towns, inatanguliza bendera mbili mpya za sighash: `SIGHASH_ANYPREVOUT` na `SIGHASH_ANYPREVOUTANYSCRIPT` (_AnyPrevOut = "Pato Lolote Lililotangulia"_).
-
-Bendera hizi mbili za sighash zinaweza kutoa uwezekano wa ziada kwenye Bitcoin: kuunda sahihi ambazo hazijumuishi ingizo lolote mahususi la muamala.
-
-![CYP201](assets/fr/032.webp)
-
-Wazo hili lilitayarishwa awali na Joseph Poon na Thaddeus Dryja katika Karatasi Nyeupe ya Umeme. Kabla ya kubadilishwa jina, bendera hii ya sighash iliitwa `SIGHASH_NOINPUT`.
-
-Ikiwa bendera hii ya sighash itaunganishwa katika Bitcoin, itawezesha matumizi ya maagano, lakini pia ni sharti la lazima la kutekeleza Eltoo, itifaki ya jumla ya tabaka za pili ambayo inafafanua jinsi ya kusimamia kwa pamoja Ownership ya UTXO. Eltoo iliundwa mahsusi kutatua shida zinazohusiana na mifumo ya kujadili hali ya njia za Umeme, ambayo ni, kati ya kufungua na kufunga.
-
-Ili kuongeza ujuzi wako wa Lightning Network, baada ya kozi ya CYP201, ninapendekeza sana kozi ya LNP201 na Fanis Michalakis, ambayo inashughulikia mada kwa undani:
-
-https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
-Katika sehemu inayofuata, ninapendekeza kugundua jinsi maneno ya Mnemonic kwenye msingi wa Bitcoin Wallet yako inavyofanya kazi.
-
-# Maneno ya Mnemonic
-
-<partId>4070af16-c8a2-58b5-9871-a22c86c07458</partId>
-
-## Mageuzi ya pochi za Bitcoin
-
-<chapterId>9d9acd5d-a0e5-5dfd-b544-f043fae8840f</chapterId>
-
-Kwa kuwa sasa tumechunguza utendakazi wa kazi za Hash na sahihi za dijitali, tunaweza kusoma jinsi pochi za Bitcoin zinavyofanya kazi. Lengo litakuwa kufikiria jinsi Wallet kwenye Bitcoin inavyoundwa, jinsi inavyotengana, na vipande tofauti vya habari vinavyoiunda vinatumika kwa matumizi gani. Uelewa huu wa taratibu za Wallet utakuruhusu kuboresha matumizi yako ya Bitcoin katika masuala ya usalama na faragha.
-
-Kabla ya kuingia katika maelezo ya kiufundi, ni muhimu kufafanua nini maana ya "Bitcoin Wallet" na kuelewa matumizi yake.
-
-### Bitcoin Wallet ni nini?
-
-Tofauti na mikoba ya jadi, ambayo inakuwezesha kuhifadhi bili za kimwili na sarafu, Bitcoin Wallet haina "bitcoins" kwa kila seti. Hakika, bitcoins hazipo katika fomu ya kimwili au ya dijiti inayoweza kuhifadhiwa, lakini inawakilishwa na vitengo vya akaunti vilivyoonyeshwa kwenye mfumo kwa njia ya **UTXOs** (_Toto la Muamala Usiotumika_).
-
-UTXO kwa hivyo huwakilisha vipande vya bitcoins, vya ukubwa tofauti, ambavyo vinaweza kutumika mradi _scriptPubKey_ yao imeridhika. Ili kutumia bitcoins zake, ni lazima mtumiaji atoe _scriptSig_ inayofungua _scriptPubKey_ inayohusishwa na UTXO yake. Uthibitisho huu kwa ujumla hufanywa kupitia sahihi ya dijitali, inayotolewa kutoka kwa ufunguo wa faragha unaolingana na ufunguo wa umma uliopo katika _scriptPubKey_. Kwa hivyo, kipengele muhimu ambacho mtumiaji lazima alinde ni ufunguo wa faragha.
-
-Jukumu la Bitcoin Wallet ni kudhibiti funguo hizi za faragha kwa usalama. Kwa kweli, jukumu lake ni sawa na lile la keychain kuliko Wallet kwa maana ya jadi.
-
-### Pochi za JBOK (_Funguo nyingi tu_)
-
-Pochi za kwanza zilizotumika kwenye Bitcoin zilikuwa pochi za JBOK (_Just a Bunch Of Keys_), ambazo ziliweka pamoja funguo zilizoundwa kwa faragha kwa kujitegemea na bila kiungo chochote kati yao. Pochi hizi zilifanya kazi kwa muundo rahisi ambapo kila ufunguo wa faragha ungeweza kufungua Bitcoin ya kipekee inayopokea Address.
-
-![CYP201](assets/fr/033.webp)
-
-Iwapo mtu alitaka kutumia funguo nyingi za faragha, basi ilikuwa ni lazima kutengeneza nakala nyingi ili kuhakikisha ufikiaji wa pesa ikiwa kuna matatizo na kifaa kinachopangisha Wallet. Ikiwa unatumia ufunguo mmoja wa kibinafsi, muundo huu wa Wallet unaweza kutosha, kwani hifadhi moja inatosha. Walakini, hii inaleta shida: kwenye Bitcoin, inashauriwa sana dhidi ya kila wakati kutumia ufunguo sawa wa kibinafsi. Hakika, ufunguo wa faragha unahusishwa na Address ya kipekee, na anwani za kupokea za Bitcoin kwa kawaida zimeundwa kwa matumizi ya mara moja. Kila wakati unapopokea pesa, unapaswa generate mpya tupu Address.
-
-Kizuizi hiki kinatokana na mtindo wa faragha wa Bitcoin. Kwa kutumia tena Address sawa, hurahisisha waangalizi wa nje kufuatilia miamala yangu yote ya Bitcoin. Ndiyo maana kutumia tena kupokea Address kumekatishwa tamaa sana. Hata hivyo, ili kuwa na anwani nyingi na kutenganisha shughuli zetu hadharani, ni muhimu kudhibiti funguo nyingi za faragha. Kwa upande wa pochi za JBOK, hii inamaanisha kuunda nakala rudufu nyingi kwani kuna jozi mpya za funguo, kazi ambayo inaweza kuwa ngumu na ngumu kudumisha kwa watumiaji haraka.
-
-Ili kupata maelezo zaidi kuhusu muundo wa faragha wa Bitcoin na kugundua mbinu za kulinda faragha yako, ninapendekeza pia kufuata kozi yangu ya BTC204 kwenye Plan ₿ Network:
-
-https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
-### Pochi za HD (_Hierarchical Deterministic_)
-
-Kwa Address kizuizi cha pochi za JBOK, muundo mpya wa Wallet ulitumiwa baadaye. Mnamo mwaka wa 2012, Pieter Wuille alianzisha uboreshaji na BIP32, ambayo inaleta pochi za uamuzi wa hierarkia. Kanuni ya HD Wallet ni kupata funguo zote za kibinafsi kutoka kwa chanzo kimoja cha habari, kinachoitwa seed, kwa njia ya kuamua na ya hierarchical. seed hii inatolewa kwa nasibu wakati Wallet inapoundwa na kuunda hifadhi rudufu ya kipekee inayoruhusu uundaji wa funguo zote za faragha za Wallet. Kwa hivyo, mtumiaji anaweza generate idadi kubwa sana ya funguo za faragha ili kuepuka kutumia tena Address na kuhifadhi faragha yao, huku akihitaji tu kufanya nakala moja ya Wallet yao kupitia seed.
-
-![CYP201](assets/fr/034.webp)
-
-Katika pochi za HD, utokaji wa ufunguo unafanywa kulingana na muundo wa kidaraja unaoruhusu funguo kupangwa katika nafasi ndogo zinazotoka, kila nafasi ndogo inaweza kugawanywa zaidi, ili kuwezesha usimamizi wa hazina na ushirikiano kati ya programu tofauti za Wallet. Siku hizi, kiwango hiki kinakubaliwa na idadi kubwa ya watumiaji wa Bitcoin. Kwa sababu hii, tutaichunguza kwa undani katika sura zifuatazo.
-
-### Kiwango cha BIP39: Neno la Mnemonic
-
-Kando na BIP32, BIP39 husawazisha umbizo la seed kama maneno ya Mnemonic, ili kuwezesha kuhifadhi nakala na kusomeka kwa watumiaji. Kishazi cha Mnemonic, pia huitwa kishazi cha kurejesha au maneno 24, ni mfuatano wa maneno yaliyotolewa kutoka kwa orodha iliyoainishwa awali ambayo husimba kwa usalama seed ya Wallet.
-
-Kifungu cha maneno cha Mnemonic hurahisisha sana hifadhi rudufu kwa mtumiaji. Katika kesi ya upotevu, uharibifu, au wizi wa kifaa kinachohudumia Wallet, kujua tu kifungu hiki cha Mnemonic inaruhusu burudani ya Wallet na kurejesha upatikanaji wa fedha zote zinazolindwa nayo.
-
-Katika sura zijazo, tutachunguza utendakazi wa ndani wa pochi za HD, ikijumuisha njia kuu za utoeji na miundo tofauti ya daraja inayowezekana. Hii itakuruhusu kuelewa vyema misingi ya kriptografia ambayo usalama wa fedha kwenye Bitcoin unategemea. Na kuanza, katika sura inayofuata, ninapendekeza tugundue jukumu la entropy kwenye msingi wa Wallet yako.
-
-## Nambari ya Entropy na Random
-
-<chapterId>b43c715d-affb-56d8-a697-ad5bc2fffd63</chapterId>
-
-Mikoba ya kisasa ya HD (ya kuamua na ya daraja) hutegemea taarifa moja ya awali inayoitwa "entropy" ili kubainisha generate seti nzima ya funguo za Wallet. Entropy hii ni nambari ya pseudo-random ambayo kiwango cha machafuko huamua usalama wa Wallet.
-
-### Ufafanuzi wa Entropy
-
-Entropy, katika muktadha wa fiche na maelezo, ni kipimo cha kiasi cha kutokuwa na uhakika au kutotabirika kuhusishwa na chanzo cha data au mchakato wa nasibu. Inachukua jukumu muhimu katika usalama wa mifumo ya kriptografia, haswa katika utengenezaji wa funguo na nambari za nasibu. Kiwango cha juu cha entropy huhakikisha kuwa funguo zinazozalishwa hazitabiriki vya kutosha na hustahimili mashambulizi ya nguvu, ambapo mshambuliaji hujaribu michanganyiko yote inayowezekana ili kubashiri ufunguo.
-
-Katika muktadha wa Bitcoin, entropy inatumika kwa generate seed. Wakati wa kuunda Wallet ya kuamua na ya hierarchical, ujenzi wa maneno ya Mnemonic unafanywa kutoka kwa nambari ya random, yenyewe inayotokana na chanzo cha entropy. Kisha maneno hutumika kwa generate funguo nyingi za faragha, kwa njia ya kuamua na ya uongozi, kuunda hali ya matumizi kwenye UTXO.
-
-### Njia za Kuzalisha Entropy
-
-Entropy ya awali inayotumika kwa HD Wallet kwa ujumla ni biti 128 au biti 256, ambapo:
-
-
-- Biti 128 za entropy** zinalingana na kifungu cha Mnemonic cha **maneno 12**;
-- Biti 256 za entropy** zinalingana na kifungu cha maneno cha Mnemonic cha **maneno 24**.
-
-Mara nyingi, nambari hii ya nasibu huzalishwa kiotomatiki na programu ya Wallet kwa kutumia PRNG (_Pseudo-Random Number Generator_). PRNG ni kategoria ya algoriti zinazotumiwa kwa mfuatano wa generate wa nambari kutoka hali ya awali, ambayo ina sifa zinazokaribia ile ya nambari nasibu, bila kuwa moja. PRNG nzuri lazima iwe na sifa kama vile usawa wa matokeo, kutotabirika, na upinzani dhidi ya mashambulizi ya kutabiri. Tofauti na jenereta za kweli za nambari nasibu (TRNG), PRNG zinaweza kubainishwa na zinaweza kuzaliana tena.
-
-![CYP201](assets/fr/035.webp)
-
-Njia mbadala ni generate entropy mwenyewe, ambayo inatoa udhibiti bora lakini pia ni hatari zaidi. Ninashauri sana dhidi ya kutengeneza entropy ya HD yako Wallet wewe mwenyewe.
-
-Katika sura inayofuata, tutaona jinsi tunavyotoka kwa nambari isiyo ya kawaida hadi kifungu cha Mnemonic cha maneno 12 au 24.
-
-## Maneno ya Mnemonic
-
-<chapterId>8f9340c1-e6dc-5557-a2f2-26c9669987d5</chapterId>
-
-Kifungu cha maneno cha Mnemonic, pia kinaitwa "maneno ya seed", "maneno ya kurejesha", "maneno ya siri", au "maneno ya maneno 24", ni mlolongo kwa kawaida unaojumuisha maneno 12 au 24, ambayo hutolewa kutoka kwa entropy. Inatumika kupata funguo zote za HD Wallet. Hii ina maana kwamba kutokana na kifungu hiki, inawezekana kubainisha generate na kuunda upya funguo zote za kibinafsi na za umma za Bitcoin Wallet, na hivyo kufikia pesa ambazo zinalindwa nayo. Madhumuni ya maneno ya Mnemonic ni kutoa njia ya kuhifadhi na kurejesha bitcoins ambayo ni salama na rahisi kutumia. Ilianzishwa katika viwango mwaka 2013 na BIP39.
-
-Wacha tugundue pamoja jinsi ya kutoka kwa entropy hadi kifungu cha Mnemonic.
-
-### Chekisum
-
-Ili kubadilisha entropy kuwa kifungu cha Mnemonic, lazima kwanza mtu aongeze cheki (au "jumla ya kudhibiti") mwishoni mwa entropy. Hundi hii ni mlolongo mfupi wa biti ambao huhakikisha uadilifu wa data kwa kuthibitisha kuwa hakuna urekebishaji wowote ambao umeanzishwa.
-
-Ili kuhesabu hundi, kazi ya SHA256 Hash inatumika kwa entropy (mara moja tu; hii ni moja ya matukio ya kawaida katika Bitcoin ambapo SHA256 Hash moja hutumiwa badala ya Hash mara mbili). Operesheni hii inazalisha 256-bit Hash. Checksum ina bits za kwanza za Hash hii, na urefu wake unategemea ile ya entropy, kulingana na formula ifuatayo:
-
-$$
-\text{CS} = \frac{\text{ENT}}{32}
-$$
-
-ambapo $\text{ENT}$ inawakilisha urefu wa entropy katika biti, na $\text{CS}$ urefu wa checksum katika biti.
-
-Kwa mfano, kwa entropy ya bits 256, bits 8 za kwanza za Hash zinachukuliwa ili kuunda checksum:
-
-$$
-\text{CS} = \frac{256}{32} = 8 \text{ bits}
-$$
-
-Mara tu hundi inapokokotolewa, inaunganishwa na entropy ili kupata mlolongo wa biti uliopanuliwa uliobainishwa $\text{ENT} \Vert \text{CS}$ ("concatenate" inamaanisha kuweka mwisho-hadi-mwisho).
-
-![CYP201](assets/fr/036.webp)
-
-### Mawasiliano kati ya Entropy na Neno la Mnemonic
-
-Idadi ya maneno katika kifungu cha Mnemonic inategemea saizi ya entropy ya awali, kama inavyoonyeshwa kwenye jedwali lifuatalo na:
-
-
-- $\text{ENT}$: saizi katika bits ya entropy;
-- $\text{CS}$: saizi katika bits ya checksum;
-- $w$: idadi ya maneno katika kifungu cha mwisho cha Mnemonic.
-
-$$
-\begin{array}{|c|c|c|c|}
-\hline
-\text{ENT} & \text{CS} & \text{ENT} \Vert \text{CS} & w \\
-\hline
-128 & 4 & 132 & 12 \\
-160 & 5 & 165 & 15 \\
-192 & 6 & 198 & 18 \\
-224 & 7 & 231 & 21 \\
-256 & 8 & 264 & 24 \\
-\hline
-\end{array}
-$$
-
-Kwa mfano, kwa entropy ya 256-bit, matokeo $\text{ENT} \Vert \text{CS}$ ni biti 264 na hutoa kifungu cha maneno cha Mnemonic cha maneno 24.
-
-### Ubadilishaji wa Mfuatano wa Nambari kuwa Neno la Mnemonic
-
-Mfuatano wa biti $\text{ENT} \Vert \text{CS}$ kisha umegawanywa katika sehemu za biti 11. Kila sehemu ya biti 11, ikibadilishwa kuwa desimali, inalingana na nambari kati ya 0 na 2047, ambayo huashiria nafasi ya neno [katika orodha ya maneno 2048 yaliyosanifiwa na BIP39](https://github.com/Planb-Network/Bitcoin-educational-content/blob/dev/resources/bet/bip39-wordlist/assets/BIP39-WORDLIST.pdf).
-
-![CYP201](assets/fr/037.webp)
-
-Kwa mfano, kwa entropy ya 128-bit, checksum ni bits 4, na hivyo mlolongo wa jumla hupima bits 132. Imegawanywa katika sehemu 12 za biti 11 (biti za machungwa hutaja cheki):
-
-![CYP201](assets/fr/038.webp)
-
-Kisha kila sehemu inabadilishwa kuwa nambari ya desimali inayowakilisha neno katika orodha. Kwa mfano, sehemu ya jozi `01011010001` ni sawa katika desimali na `721`. Kwa kuongeza 1 ili kupatanisha na faharasa ya orodha (ambayo huanza 1 na si 0), hii inatoa neno cheo `722`, ambalo ni "_focus_" katika orodha.
-
-![CYP201](assets/fr/039.webp)
-
-Mawasiliano haya yanarudiwa kwa kila moja ya sehemu 12, ili kupata kifungu cha maneno 12.
-
-![CYP201](assets/fr/040.webp)
-
-### Sifa za Orodha ya Maneno ya BIP39
-
-Umaalumu wa orodha ya maneno ya BIP39 ni kwamba hakuna neno linaloshiriki herufi nne za kwanza kwa mpangilio sawa na neno lingine. Hii ina maana kwamba kubainisha herufi nne tu za kwanza za kila neno kunatosha kuhifadhi maneno ya Mnemonic. Hii inaweza kuwa ya kuvutia kwa ajili ya kuokoa nafasi, hasa kwa wale ambao wanataka kuchonga juu ya msaada wa chuma.
-
-Orodha hii ya maneno 2048 ipo katika lugha kadhaa. Hizi si tafsiri rahisi, lakini maneno tofauti kwa kila lugha. Hata hivyo, inashauriwa sana kushikamana na toleo la Kiingereza, kwa kuwa matoleo katika lugha nyingine kwa ujumla hayatumiki na programu ya Wallet.
-
-### Je, ni Urefu Gani wa Kuchagua kwa Kifungu chako cha Maneno cha Mnemonic?
-
-Ili kubainisha urefu kamili wa maneno yako ya Mnemonic, ni lazima mtu azingatie usalama halisi unaotoa. Kishazi cha maneno 12 huhakikisha biti 128 za usalama, huku kifungu cha maneno 24 kinatoa biti 256.
-
-Hata hivyo, tofauti hii ya usalama wa kiwango cha maneno haiboresha usalama wa jumla wa Bitcoin Wallet, kwani funguo za faragha zinazotokana na maneno haya hunufaika tu na biti 128 za usalama. Hakika, kama tulivyoona hapo awali, funguo za faragha za Bitcoin zinatolewa kutoka kwa nambari nasibu (au hutolewa kutoka chanzo nasibu) kuanzia $1$ na $n-1$, ambapo $n$ inawakilisha mpangilio wa sehemu ya jenereta $G$ ya mkunjo wa secp256k1, nambari iliyo chini kidogo ya $2^{256}$. Kwa hivyo mtu anaweza kufikiria kuwa funguo hizi za kibinafsi hutoa biti 256 za usalama. Hata hivyo, usalama wao upo katika ugumu wa kupata ufunguo wa faragha kutoka kwa ufunguo wake wa umma unaohusishwa, ugumu ulioanzishwa na tatizo la hisabati la logarithm tofauti kwenye mikondo ya duaradufu (_ECDLP_). Hadi sasa, algorithm inayojulikana zaidi ya kutatua tatizo hili ni rho algorithm ya Pollard, ambayo inapunguza idadi ya shughuli zinazohitajika kuvunja ufunguo wa mizizi ya mraba ya ukubwa wake.
-
-Kwa vitufe vya 256-bit, kama vile vinavyotumika kwenye Bitcoin, algoriti ya rho ya Pollard inapunguza uchangamano hadi $2^{128}$ oparesheni:
-
-$$
-O(\sqrt{2^{256}}) = O(2^{128})
-$$
-
-Kwa hiyo, inachukuliwa kuwa ufunguo wa kibinafsi unaotumiwa kwenye Bitcoin hutoa bits 128 za usalama.
-
-Kwa hivyo, kuchagua kifungu cha maneno 24 hakutoi ulinzi wa ziada kwa Wallet, kwani biti 256 za usalama kwenye kifungu hazina maana ikiwa vitufe vilivyotolewa vinatoa tu biti 128 za usalama. Ili kuonyesha kanuni hii, ni kama kuwa na nyumba yenye milango miwili: mlango wa zamani wa mbao na mlango ulioimarishwa. Katika tukio la wizi, mlango ulioimarishwa hautakuwa na manufaa, kwa kuwa mshambulizi angepitia mlango wa mbao. Hii ni hali inayofanana hapa.
-
-Kifungu cha maneno 12, ambacho pia hutoa biti 128 za usalama, kwa hivyo kwa sasa kinatosha kulinda bitcoins zako dhidi ya jaribio lolote la wizi. Maadamu algoriti ya sahihi ya dijiti haibadiliki ili kutumia vitufe vikubwa zaidi au kutegemea tatizo la hisabati kando na ECDLP, kishazi cha maneno 24 kinasalia kuwa cha juu zaidi. Zaidi ya hayo, maneno marefu huongeza hatari ya hasara wakati wa kuhifadhi: chelezo ambayo ni fupi mara mbili huwa rahisi kudhibiti kila wakati.
-
-Ili kwenda mbali zaidi na kujifunza kwa uwazi jinsi ya kutengeneza maneno ya generate ya jaribio la Mnemonic, nakushauri ugundue somo hili:
-
-https://planb.network/tutorials/wallet/backup/generate-mnemonic-phrase-47507d90-e6af-4cac-b01b-01a14d7a8228
-Kabla ya kuendelea na upataji wa Wallet kutoka kwa kifungu hiki cha Mnemonic, nitakujulisha, katika sura inayofuata, kwa BIP39 passphrase, kwani ina jukumu katika mchakato wa uundaji, na iko katika kiwango sawa na kifungu cha Mnemonic.
-
-## passphrase
-
-<chapterId>6a51b397-f3b5-5084-b151-cef94bc9b93f</chapterId>
-
-Kama tulivyoona hivi punde, pochi za HD hutengenezwa kutoka kwa maneno ya Mnemonic ambayo kwa kawaida huwa na maneno 12 au 24. Maneno haya ni muhimu sana kwa sababu inaruhusu kurejeshwa kwa funguo zote za Wallet ikiwa kifaa chake cha kimwili (kama Hardware Wallet, kwa mfano) kinapotea. Hata hivyo, ni hatua moja ya kushindwa, kwa sababu ikiwa imeathiriwa, mshambuliaji anaweza kuiba bitcoins zote. Hapa ndipo BIP39 passphrase inapotumika.
-
-### BIP39 passphrase ni nini?
-
-passphrase ni nenosiri la hiari, ambalo unaweza kuchagua kwa uhuru, ambalo linaongezwa kwa maneno ya Mnemonic katika mchakato wa utoaji muhimu ili kuimarisha usalama wa Wallet.
-
-Kuwa mwangalifu, passphrase haipaswi kuchanganyikiwa na msimbo wa PIN wa Hardware Wallet yako au nenosiri linalotumiwa kufungua ufikiaji wa Wallet yako kwenye kompyuta yako. Tofauti na Elements hizi zote, passphrase ina jukumu katika kupata funguo zako za Wallet. **Hii ina maana kwamba bila hiyo, hutaweza kurejesha bitcoins zako.**
-
-passphrase inafanya kazi sanjari na maneno ya Mnemonic, kurekebisha seed ambayo funguo hutolewa. Kwa hivyo, hata kama mtu atapata kifungu chako cha maneno 12 au 24, bila passphrase, hawezi kufikia pesa zako. Kutumia passphrase kimsingi huunda Wallet mpya na funguo tofauti. Kurekebisha (hata kidogo) passphrase itakuwa generate tofauti Wallet.
-
-![CYP201](assets/fr/041.webp)
-
-### Kwa nini utumie passphrase?
-
-passphrase ni ya kiholela na inaweza kuwa mchanganyiko wowote wa wahusika waliochaguliwa na mtumiaji. Kutumia passphrase hivyo hutoa faida kadhaa. Kwanza kabisa, inapunguza hatari zote zinazohusiana na maelewano ya maneno ya Mnemonic kwa kuhitaji sababu ya pili ya kupata fedha (wizi, upatikanaji wa nyumba yako, nk).
-
-Ifuatayo, inaweza kutumika kimkakati kuunda decoy Wallet, ili kukabiliana na vikwazo vya kimwili ili kuiba pesa zako kama vile "_$5 wrench attack_". Katika hali hii, wazo ni kuwa na Wallet bila passphrase iliyo na kiasi kidogo tu cha bitcoins, kutosha kukidhi mchokozi anayeweza, huku akiwa na Wallet iliyofichwa. Mwisho huu hutumia maneno sawa ya Mnemonic lakini imelindwa na passphrase ya ziada.
-
-Hatimaye, matumizi ya passphrase ni ya kuvutia wakati mtu anataka kudhibiti randomness ya kizazi cha seed ya HD Wallet.
-
-### Jinsi ya kuchagua passphrase nzuri?
-
-Ili passphrase iwe na ufanisi, lazima iwe ndefu na isiyo ya kawaida vya kutosha. Kama ilivyo kwa nenosiri dhabiti, ninapendekeza kuchagua passphrase ambayo ni ndefu na isiyo na mpangilio iwezekanavyo, yenye herufi, nambari na alama tofauti ili kufanya shambulio lolote la kikatili lisiwezekane.
-
-Pia ni muhimu kuokoa vizuri passphrase hii, kwa njia sawa na maneno ya Mnemonic. **Kuipoteza kunamaanisha kupoteza ufikiaji wa bitcoins zako **. Ninashauri sana dhidi ya kukumbuka kwa moyo tu, kwani hii inaongeza hatari ya kupoteza bila sababu. Bora ni kuiandika kwenye nyenzo ya kimwili (karatasi au chuma) tofauti na maneno ya Mnemonic. Nakala hii lazima ihifadhiwe mahali tofauti na ambapo maneno yako ya Mnemonic yamehifadhiwa ili kuzuia zote mbili zisiathiriwe kwa wakati mmoja.
-
-![CYP201](assets/fr/042.webp)
-
-Katika sehemu ifuatayo, tutagundua jinsi Elements hizi mbili kwenye msingi wa Wallet yako - maneno ya Mnemonic na passphrase - hutumika kupata jozi muhimu zinazotumiwa katika _scriptPubKey_ zinazofunga UTXO zako.
-
-# Uundaji wa Pochi za Bitcoin
-
-<partId>9c25e767-7eae-50b8-8c5f-679d8fc83bab</partId>
-
-## Uundaji wa seed na Ufunguo Mkuu
-
-<chapterId>63093760-2010-5691-8d0e-9a04732ae557</chapterId>
-
-Mara tu maneno ya Mnemonic na passphrase ya hiari yanapozalishwa, mchakato wa kupata Bitcoin HD Wallet unaweza kuanza. Kifungu cha maneno cha Mnemonic kinabadilishwa kwanza kuwa seed ambayo ni msingi wa funguo zote za Wallet.
-
-![CYP201](assets/fr/043.webp)
-
-### seed ya HD Wallet
-
-Kiwango cha BIP39 kinafafanua seed kama mlolongo wa 512-bit, ambayo hutumika kama sehemu ya kuanzia ya kupata funguo zote za HD Wallet. seed inatokana na maneno ya Mnemonic na passphrase inayowezekana kwa kutumia algoriti ya **PBKDF2** (_Kazi 2_ ya Utoaji Muhimu wa Nenosiri 2_) ambayo tayari tumeijadili katika sura ya 3.3. Katika kazi hii ya derivation, tutatumia vigezo vifuatavyo:
-
-
-- $m$ : maneno ya Mnemonic;
-- $p$ : passphrase ya hiari iliyochaguliwa na mtumiaji ili kuimarisha usalama wa seed. Ikiwa hakuna passphrase, uwanja huu unaachwa tupu;
-- $\text{PBKDF2}$ : chaguo la kukokotoa lenye $\text{HMAC-SHA512}$ na marudio ya $2048$;
-- $s$: 512-bit Wallet seed.
-
-Bila kujali urefu wa maneno ya Mnemonic uliochaguliwa (biti 132 au biti 264), kazi ya PBKDF2 itazalisha pato la 512-bit daima, na seed kwa hiyo itakuwa ya ukubwa huu daima.
-
-### seed Derivation Scheme na PBKDF2
-
-Mlinganyo ufuatao unaonyesha chimbuko la seed kutoka kwa maneno ya Mnemonic na passphrase:
-
-$$
-s = \text{PBKDF2}_{\text{HMAC-SHA512}}(m, p, 2048)
-$$
-
-![CYP201](assets/fr/044.webp)
-
-Thamani ya seed inaathiriwa na thamani ya maneno ya Mnemonic na passphrase. Kwa kubadilisha passphrase, seed tofauti inapatikana. Hata hivyo, kwa maneno sawa ya Mnemonic na passphrase, seed sawa daima huzalishwa, kwani PBKDF2 ni kazi ya kuamua. Hii inahakikisha kwamba jozi sawa za funguo zinaweza kurejeshwa kupitia nakala zetu.
-
-**Kumbuka:** Katika lugha ya kawaida, neno "seed" mara nyingi hurejelea, kwa matumizi mabaya ya lugha, kwa maneno ya Mnemonic. Hakika, kwa kukosekana kwa passphrase, moja ni encoding ya nyingine. Walakini, kama tulivyoona, katika ukweli wa kiufundi wa pochi, seed na kifungu cha Mnemonic kwa kweli ni Elements mbili tofauti.
-
-Kwa kuwa sasa tuna seed yetu, tunaweza kuendelea na utengenezaji wa Bitcoin Wallet yetu.
-
-### Ufunguo Mkuu na Msimbo wa Mnyororo Mkuu
-
-Mara tu seed inapopatikana, hatua inayofuata katika kupata HD Wallet inahusisha kukokotoa ufunguo mkuu wa faragha na msimbo mkuu wa mnyororo, ambao utawakilisha kina cha 0 cha Wallet yetu.
-
-Ili kupata ufunguo mkuu wa faragha na msimbo mkuu wa mnyororo, chaguo la kukokotoa la HMAC-SHA512 linatumika kwa seed, kwa kutumia ufunguo maalum "_Bitcoin Seed_" unaofanana kwa watumiaji wote wa Bitcoin. Hii mara kwa mara imechaguliwa ili kuhakikisha kwamba derivations muhimu ni maalum kwa Bitcoin. Hapa kuna Elements:
-
-
-- $\text{HMAC-SHA512}$: kipengele cha kukokotoa;
-- $s$: 512-bit Wallet seed;
-- $\text{"Bitcoin seed"}$: toleo la kawaida la pochi zote za Bitcoin.
-
-$$
-\text{output} = \text{HMAC-SHA512}(\text{"Bitcoin Seed"}, s)
-$$
-
-Matokeo ya chaguo hili la kukokotoa ni biti 512. Kisha imegawanywa katika sehemu 2:
-
-
-- Biti 256 za kushoto huunda **ufunguo mkuu wa faragha**;
-- Biti 256 za kulia huunda **msimbo mkuu wa mnyororo**.
-
-Kihesabu, maadili haya mawili yanaweza kutambuliwa kama ifuatavyo na $k_M$ kuwa ufunguo mkuu wa faragha na $C_M$ msimbo mkuu wa mnyororo:
-
-$$
-k_M = \text{HMAC-SHA512}(\text{"Bitcoin Seed"}, s)_{[:256]}
-$$
-
-$$
-C_M = \text{HMAC-SHA512}(\text{"Bitcoin Seed"}, s)_{[256:]}
-$$
-
-![CYP201](assets/fr/045.webp)
-
-### Jukumu la Ufunguo Mkuu na Msimbo wa Mnyororo
-
-Ufunguo wa kibinafsi wa bwana unachukuliwa kuwa ufunguo wa mzazi, ambapo funguo zote za kibinafsi - watoto, wajukuu, wajukuu, nk - zitatolewa. Inawakilisha kiwango cha sifuri katika safu ya utokaji.
-
-Nambari kuu ya mnyororo, kwa upande mwingine, inaleta chanzo cha ziada cha entropy katika mchakato muhimu wa uundaji wa watoto, ili kukabiliana na mashambulizi fulani yanayoweza kutokea. Zaidi ya hayo, katika HD Wallet, kila jozi ya funguo ina msimbo wa kipekee wa mnyororo unaohusishwa nayo, ambayo pia hutumiwa kupata funguo za watoto kutoka kwa jozi hii, lakini tutajadili hili kwa undani zaidi katika sura zinazoja.
-
-Kabla ya kuendelea na utengenezaji wa HD Wallet na Elements ifuatayo, napenda, katika sura inayofuata, kukujulisha kwa funguo zilizopanuliwa, ambazo mara nyingi huchanganyikiwa na ufunguo mkuu. Tutaona jinsi yanavyojengwa na ni jukumu gani wanacheza katika Bitcoin Wallet.
-
-## Funguo Zilizopanuliwa
-
-<chapterId>8dcffce1-31bd-5e0b-965b-735f5f9e4602</chapterId>
-
-Ufunguo uliopanuliwa ni muunganisho wa ufunguo (iwe wa faragha au wa umma) na msimbo wake wa mnyororo unaohusishwa. Msimbo huu wa mnyororo ni muhimu kwa upataji wa funguo za watoto kwa sababu, bila hiyo, haiwezekani kupata funguo za watoto kutoka kwa ufunguo wa mzazi, lakini tutagundua mchakato huu kwa usahihi zaidi katika sura inayofuata. Vifunguo hivi vilivyopanuliwa hivyo huruhusu kujumlisha taarifa zote muhimu ili kupata funguo za watoto, na hivyo kurahisisha usimamizi wa akaunti ndani ya HD Wallet.
-
-![CYP201](assets/fr/046.webp)
-
-Ufunguo uliopanuliwa una sehemu mbili:
-
-
-- Upakiaji, ambao una ufunguo wa kibinafsi au wa umma pamoja na msimbo wa mnyororo unaohusishwa;
-- Metadata, ambayo ni vipande mbalimbali vya maelezo ili kuwezesha ushirikiano kati ya programu na kuboresha uelewa wa mtumiaji.
-
-### Jinsi Vifunguo Vilivyopanuliwa Hufanya Kazi
-
-Wakati ufunguo uliopanuliwa una ufunguo wa faragha, unajulikana kama ufunguo wa faragha uliopanuliwa. Inatambulika kwa kiambishi awali chake ambacho kina kutaja `prv`. Kando na ufunguo wa faragha, ufunguo wa faragha uliopanuliwa pia una msimbo wa mnyororo unaohusishwa. Kwa aina hii ya ufunguo uliopanuliwa, inawezekana kupata aina zote za funguo za kibinafsi za mtoto, na kwa hiyo kwa kuongeza na mara mbili ya pointi kwenye curve za mviringo, pia inaruhusu kupatikana kwa ukamilifu wa funguo za umma za watoto.
-
-Wakati ufunguo uliopanuliwa hauna ufunguo wa faragha, lakini badala yake, ufunguo wa umma, unajulikana kama ufunguo wa umma uliopanuliwa. Inatambulika kwa kiambishi awali chake ambacho kina kutaja `pub`. Kwa wazi, pamoja na ufunguo, pia ina msimbo wa mnyororo unaohusishwa. Tofauti na ufunguo wa faragha uliopanuliwa, ufunguo wa umma uliopanuliwa huruhusu kupatikana kwa funguo za umma za "kawaida" pekee za watoto (maana haiwezi kupata funguo "zilizo ngumu" za watoto). Tutaona katika sura ifuatayo maana ya sifa hizi za "kawaida" na "zigumu".
-
-Lakini kwa hali yoyote, ufunguo wa umma uliopanuliwa hauruhusu kupatikana kwa funguo za kibinafsi za mtoto. Kwa hivyo, hata kama mtu anaweza kufikia `xpub`, hataweza kutumia pesa zinazohusika, kwani hatakuwa na ufikiaji wa funguo za kibinafsi zinazolingana. Wanaweza tu kupata funguo za umma za watoto ili kuangalia shughuli zinazohusiana.
-
-Kwa yafuatayo, tutapitisha nukuu ifuatayo:
-
-
-- $K_{\text{PAR}}$: ufunguo wa umma wa mzazi;
-- $k_{\text{PAR}}$: ufunguo wa faragha wa mzazi;
-- $C_{\text{PAR}}$: msimbo wa mnyororo wa mzazi;
-- $C_{\text{CHD}}$: msimbo wa mnyororo wa watoto;
-- $K_{\text{CHD}}^n$: ufunguo wa kawaida wa umma wa mtoto;
-- $k_{\text{CHD}}^n$: ufunguo wa faragha wa kawaida wa mtoto;
-- $K_{\text{CHD}}^h$: ufunguo mgumu wa umma wa mtoto;
-- $k_{\text{CHD}}^h$: ufunguo mgumu wa faragha wa mtoto.
-
-![CYP201](assets/fr/047.webp)
-
-### Ujenzi wa Ufunguo Uliopanuliwa
-
-Ufunguo uliopanuliwa umeundwa kama ifuatavyo:
-
-
-- Toleo**: Msimbo wa toleo ili kutambua asili ya ufunguo (`xprv`, `xpub`, `yprv`, `ypub`...). Tutaona mwishoni mwa sura hii herufi `x`, `y`, na `z` zinahusiana nini.
-- Kina**: Kiwango cha daraja katika HD Wallet kuhusiana na ufunguo mkuu (0 kwa ufunguo mkuu).
-- Alama ya Kidole ya Mzazi**: Baiti 4 za kwanza za HASH160 Hash za ufunguo kuu wa umma zilizotumiwa kupata ufunguo uliopo kwenye mzigo.
-- Nambari ya Fahirisi**: Kitambulisho cha mtoto kati ya funguo za ndugu, yaani, kati ya funguo zote zilizo katika kiwango sawa cha utokaji ambazo zina funguo za mzazi sawa.
-- Msimbo wa Chain**: Msimbo wa kipekee wa baiti 32 wa kupata funguo za watoto.
-- Ufunguo**: Kitufe cha faragha (kilichoamrishwa na baiti 1 kwa saizi) au kitufe cha umma.
-- Checksum**: Thamani ya hundi inayokokotolewa na chaguo za kukokotoa za HASH256 (SHA256 mbili) pia huongezwa, ambayo inaruhusu uthibitishaji wa uadilifu wa ufunguo uliopanuliwa wakati wa uwasilishaji au uhifadhi wake.
-
-Umbizo kamili la ufunguo uliopanuliwa kwa hivyo ni baiti 78 bila cheki, na baiti 82 zilizo na hundi. Kisha inabadilishwa kuwa Base58 ili kutoa uwakilishi ambao unaweza kusomeka kwa urahisi na watumiaji. Umbizo la Base58 ni sawa na lile linalotumika kwa anwani za kupokea *Legacy* (kabla ya *SegWit*).
-
-| Kipengele | Maelezo | Ukubwa |
-
-| ----------------- | -----------------------------------------------------------------------------------------------------------------------------------------. --------- |
-
-| Toleo | Inaonyesha kama ufunguo ni wa umma (`xpub`, `ypub`) au faragha (`xprv`, `zprv`), pamoja na toleo la ufunguo uliopanuliwa | Baiti 4 |
-
-| Kina | Kiwango katika daraja kuhusiana na ufunguo mkuu | Baiti 1 |
-
-| Alama ya Kidole ya Mzazi| Baiti 4 za kwanza za HASH160 za ufunguo mzazi wa umma | Baiti 4 |
-
-| Nambari ya Kielezo | Nafasi ya ufunguo katika mpangilio wa watoto | Baiti 4 |
-
-| Msimbo wa Chain | Inatumika kupata funguo za watoto | Baiti 32 |
-
-| Ufunguo | Ufunguo wa faragha (ulio na kiambishi awali cha baiti 1) au ufunguo wa umma | baiti 33 |
-
-| Cheki | Checksum ili kuthibitisha uadilifu | Baiti 4 |
-
-Ikiwa baiti moja itaongezwa kwa ufunguo wa faragha pekee, ni kwa sababu ufunguo wa umma uliobanwa ni mrefu kuliko ufunguo wa faragha kwa baiti moja. Baiti hii ya ziada, iliyoongezwa mwanzoni mwa ufunguo wa faragha kama `0x00`, inasawazisha ukubwa wao, na kuhakikisha kwamba upakiaji wa ufunguo uliopanuliwa ni wa urefu sawa, iwe ni ufunguo wa umma au wa faragha.
-
-### Viambishi Muhimu Vilivyopanuliwa
-
-Kama tulivyoona, vitufe vilivyopanuliwa vinajumuisha kiambishi awali kinachoonyesha toleo la ufunguo uliopanuliwa na asili yake. Nukuu `pub` inaonyesha kuwa inarejelea ufunguo uliopanuliwa wa umma, na nukuu `prv` inaonyesha ufunguo wa faragha uliopanuliwa. Barua ya ziada kwenye msingi wa ufunguo uliopanuliwa husaidia kuonyesha ikiwa kiwango kinachofuatwa ni Legacy, SegWit v0, SegWit v1, nk.
-
-Huu hapa ni muhtasari wa viambishi awali vilivyotumika na maana zake:
-
-| Kiambishi awali cha Msingi 58 | Kiambishi awali cha Msingi 16 | Mtandao | Kusudi | Hati Zinazohusishwa | Utoaji | Aina ya Ufunguo |
-
-| --------------- | --------------- | ------- | ------------------- | ------------------- | --------------------- | ------------ |
-
-| `xpub` | `0488b21e` | Mainnet | Urithi na SegWit V1 | P2PK / P2PKH / P2TR | `m/44'/0'`, `m/86'/0'` | umma |
-
-| `xprv` | `0488ade4` | Mainnet | Urithi na SegWit V1 | P2PK / P2PKH / P2TR | `m/44'/0'`, `m/86'/0'` | binafsi |
-
-| `tpub` | `043587cf` | Testnet | Urithi na SegWit V1 | P2PK / P2PKH / P2TR | `m/44'/1'`, `m/86'/1'` | umma |
-
-| `tprv` | `04358394` | Testnet | Urithi na SegWit V1 | P2PK / P2PKH / P2TR | `m/44'/1'`, `m/86'/1'` | binafsi |
-
-| `ypub` | `049d7cb2` | Mainnet | Nested SegWit | P2WPKH katika P2SH | `m/49'/0'` | umma |
-
-| `yprv` | `049d7878` | Mainnet | Nested SegWit | P2WPKH katika P2SH | `m/49'/0'` | binafsi |
-
-| `upub` | `049d7cb2` | Testnet | Nested SegWit | P2WPKH katika P2SH | `m/49'/1'` | umma |
-
-| `uprv` | `044a4e28` | Testnet | Nested SegWit | P2WPKH katika P2SH | `m/49'/1'` | binafsi |
-
-| `zpub` | `04b24746` | Mainnet | SegWit V0 | P2WPKH | `m/84'/0'` | umma |
-
-| `zprv` | `04b2430c` | Mainnet | SegWit V0 | P2WPKH | `m/84'/0'` | binafsi |
-
-| `vpub` | `045f1cf6` | Testnet | SegWit V0 | P2WPKH | `m/84'/1'` | umma |
-
-| `vprv` | `045f18bc` | Testnet | SegWit V0 | P2WPKH | `m/84'/1'` | binafsi |
-
-### Maelezo ya Ufunguo Uliopanuliwa wa Elements
-
-Ili kuelewa vyema muundo wa ndani wa ufunguo uliopanuliwa, hebu tuchukue moja kama mfano na kuivunja. Hapa kuna ufunguo uliopanuliwa:
-
-
-- Katika Base58**:
-
-```text
-xpub6CTNzMUkzpurBWaT4HQoYzLP4uBbGJuWY358Rj7rauiw4rMHCyq3Rfy9w4kyJXJzeFfyrKLUar2rUCukSiDQFa7roTwzjiAhyQAdPLEjqHT
-```
-
-
-- Katika heksadesimali**:
-
-```text
-0488B21E036D5601AD80000000C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A89303772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF50658051F067C3A
-```
-
-Ufunguo huu uliopanuliwa hugawanywa katika Elements kadhaa tofauti:
-
-1.**Toleo**: `0488B21E`
-
-Baiti 4 za kwanza ni toleo. Hapa, inalingana na ufunguo uliopanuliwa wa umma kwenye Mainnet wenye madhumuni ya kupata *Legacy* au *SegWit v1*.
-
-2.**Kina**: `03`
-
-Sehemu hii inaonyesha kiwango cha daraja la ufunguo ndani ya HD Wallet. Katika kesi hii, kina cha `03` inamaanisha kuwa ufunguo huu ni viwango vitatu vya unyambulishaji chini ya ufunguo mkuu.
-
-3.**Alama ya vidole ya mzazi**: `6D5601AD`
-
-Hizi ndizo baiti 4 za kwanza za HASH160 Hash za ufunguo kuu wa umma ambazo zilitumika kutengeneza `xpub` hii.
-
-4.**Nambari ya faharasa**: `80000000`
-
-Faharasa hii inaonyesha nafasi ya ufunguo kati ya watoto wa mzazi wake. Kiambishi awali `0x80` kinaonyesha kuwa ufunguo umetolewa kwa njia ngumu, na kwa kuwa iliyobaki imejaa sufuri, inaonyesha kuwa ufunguo huu ni wa kwanza kati ya ndugu zake wanaowezekana.
-
-5.**Msimbo wa mnyororo**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
-
-6.**Ufunguo wa Umma**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
-
-7.**Cheki**: `1F067C3A`
-
-Cheki inalingana na ka 4 za kwanza za Hash (mara mbili SHA256) ya kila kitu kingine.
-
-Katika sura hii, tuligundua kuwa kuna aina mbili tofauti za funguo za watoto. Pia tulijifunza kuwa utokezaji wa funguo hizi za watoto unahitaji ufunguo (wa faragha au wa umma) na msimbo wake wa mfululizo. Katika sura inayofuata, tutachunguza kwa undani asili ya aina hizi tofauti za funguo na jinsi ya kuzipata kutoka kwa ufunguo wao wa mzazi na msimbo wa mnyororo.
-
-## Utoaji wa Jozi Muhimu za Mtoto
-
-<chapterId>61c0807c-845b-5076-ad06-7f395b36adfd</chapterId>
-
-Utoaji wa jozi za funguo za watoto katika pochi za Bitcoin HD hutegemea muundo wa kidaraja unaoruhusu kutoa idadi kubwa ya funguo, huku ukipanga jozi hizi katika vikundi tofauti kupitia matawi. Kila jozi ya watoto inayotokana na jozi ya wazazi inaweza kutumika moja kwa moja katika *scriptPubKey* kufunga bitcoins, au kama sehemu ya kuanzia kwa funguo zaidi za watoto za generate, na kadhalika, kuunda mti wa funguo.
-
-Matoleo haya yote huanza na ufunguo mkuu na msimbo mkuu, ambao ni wazazi wa kwanza katika kiwango cha kina cha 0. Wao ni, kwa njia fulani, Adamu na Hawa wa funguo za Wallet yako, mababu wa kawaida wa funguo zote zinazotolewa.
-
-![CYP201](assets/fr/048.webp)
-
-Wacha tuchunguze jinsi uvumbuzi huu wa kiakili unavyofanya kazi.
-
-### Aina Tofauti za Matoleo Muhimu ya Mtoto
-
-Kama tulivyogusia kwa ufupi katika sura iliyopita: funguo za watoto zimegawanywa katika aina kuu mbili:
-
-
-- Vifunguo vya watoto vya kawaida** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Hizi zimetolewa kutoka kwa ufunguo uliopanuliwa wa umma ($K_{\text{PAR}}$), au ufunguo wa faragha uliopanuliwa ($k_{\text{PAR}}$), kwa kupata ufunguo wa umma kwanza.
-- Vifunguo ngumu vya watoto** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Hizi zinaweza tu kutolewa kutoka kwa ufunguo wa faragha uliopanuliwa ($k_{\text{PAR}}}$) na kwa hivyo hazionekani kwa watazamaji ambao wana ufunguo uliopanuliwa wa umma pekee.
-
-Kila jozi ya vitufe vya mtoto hutambuliwa kwa **faharasa** ya biti 32 (inayoitwa $i$ katika hesabu zetu). Faharasa za vitufe vya kawaida huanzia $0$ hadi $2^{31}-1$, ilhali zile za funguo ngumu huanzia $2^{31}$ hadi $2^{32}-1$. Nambari hizi hutumika kutofautisha jozi muhimu za ndugu wakati wa utokaji. Hakika, kila jozi ya ufunguo wa mzazi lazima iwe na uwezo wa kupata jozi nyingi za funguo za watoto. Ikiwa tungetumia hesabu sawa kwa utaratibu kutoka kwa funguo kuu, funguo zote za ndugu zilizopatikana zingekuwa sawa, ambayo haipendekewi. Kwa hivyo faharasa huleta kigezo ambacho hurekebisha hesabu ya uasilia, kuruhusu kila jozi ya ndugu kutofautishwa. Isipokuwa kwa matumizi mahususi katika baadhi ya itifaki na viwango vya utokaji, kwa ujumla tunaanza kwa kupata ufunguo wa mtoto wa kwanza kwa faharasa `0`, ya pili na faharasa `1`, na kadhalika.
-
-### Mchakato wa Utoaji na HMAC-SHA512
-
-Utoaji wa kila ufunguo wa mtoto unatokana na chaguo za kukokotoa za HMAC-SHA512, ambazo tulijadili katika Sehemu ya 2 kuhusu chaguo za kukokotoa za Hash. Inahitaji ingizo mbili: msimbo wa mnyororo wa mzazi $C_{\text{PAR}}$ na muunganisho wa ufunguo wa mzazi (ama ufunguo wa umma $K_{\text{PAR}}$ au ufunguo wa faragha $k_{\text{PAR}}$, kulingana na aina ya ufunguo wa mtoto unaotaka) na faharasa. Matokeo ya HMAC-SHA512 ni mlolongo wa 512-bit, umegawanywa katika sehemu mbili:
-
-
-- Baiti 32 za kwanza** (au $h_1$) hutumika kukokotoa jozi mpya ya watoto.
-- Baiti 32 za mwisho** (au $h_2$) hutumika kama msimbo mpya wa $C_{\text{CHD}}$ kwa jozi ya watoto.
-
-Katika mahesabu yetu yote, nitaashiria $\text{Hash}$ pato la kazi ya HMAC-SHA512.
-
-![CYP201](assets/fr/049.webp)
-
-#### Utoaji wa Ufunguo wa Faragha wa Mtoto kutoka kwa Ufunguo wa Faragha wa Mzazi
-
-Ili kupata ufunguo wa faragha wa mtoto $k_{\text{CHD}}$ kutoka kwa ufunguo wa faragha wa mzazi $k_{\text{PAR}}$, matukio mawili yanawezekana kulingana na kama ufunguo mgumu au wa kawaida unahitajika.
-
-Kwa **ufunguo wa mtoto wa kawaida** ($i <2^{31}$), hesabu ya $\text{Hash}$ ni kama ifuatavyo:
-
-$$
-\text{hash} = \text{HMAC-SHA512}(C_{\text{PAR}}, G \cdot k_{\text{PAR}} \Vert i)
-$$
-
-Katika hesabu hii, tunaona kwamba utendaji wetu wa HMAC huchukua pembejeo mbili: kwanza, msimbo wa mnyororo wa wazazi, na kisha uunganishaji wa faharasa na ufunguo wa umma unaohusishwa na ufunguo wa kibinafsi wa mzazi. Ufunguo wa umma wa mzazi unatumika hapa kwa sababu tunatazamia kupata ufunguo wa kawaida wa mtoto, sio ugumu.
-
-Sasa tunayo $\text{Hash}$ ya baiti 64 ambayo tutagawanya katika sehemu 2 za baiti 32 kila moja: $h_1$ na $h_2$:
-
-$$
-\text{hash} = h_1 \Vert h_2
-$$
-
-$$
-h_1 = \text{hash}_{[:32]} \quad, \quad h_2 = \text{hash}_{[32:]}
-$$
-
-Ufunguo wa faragha wa mtoto $k_{\text{CHD}}^n$ kisha huhesabiwa kama ifuatavyo:
-
-$$
-k_{\text{CHD}}^n = \text{parse256}(h_1) + k_{\text{PAR}} \mod n
-$$
-
-Katika hesabu hii, operesheni $\text{parse256}(h_1)$ inajumuisha kutafsiri baiti 32 za kwanza za $\text{Hash}$ kama nambari kamili ya biti 256. Kisha nambari hii huongezwa kwa ufunguo wa faragha wa mzazi, yote huchukuliwa modulo $n$ ili kukaa ndani ya mpangilio wa mkunjo wa duaradufu, kama tulivyoona katika sehemu ya 3 ya sahihi za dijitali. Kwa hivyo, ili kupata ufunguo wa kibinafsi wa kawaida wa mtoto, ingawa ufunguo wa umma wa mzazi hutumiwa kama msingi wa kuhesabu katika pembejeo za chaguo za kukokotoa za HMAC-SHA512, daima ni muhimu kuwa na ufunguo wa faragha wa mzazi ili kukamilisha hesabu.
-
-Kutoka kwa ufunguo huu wa faragha wa mtoto, inawezekana kupata ufunguo unaolingana wa umma kwa kutumia ECDSA au Schnorr. Kwa njia hii, tunapata jozi kamili ya funguo.
-
-Kisha, sehemu ya pili ya $\text{Hash}$ inafasiriwa kwa urahisi kuwa msimbo wa mnyororo wa jozi ya vitufe vya mtoto ambayo tumetoa hivi punde:
-
-$$
-C_{\text{CHD}} = h_2
-$$
-
-Hapa kuna uwakilishi wa kimkakati wa derivation ya jumla:
-
-![CYP201](assets/fr/050.webp)
-
-Kwa **ufunguo mgumu wa mtoto** ($i \geq 2^{31}$), hesabu ya $\text{Hash}$ ni kama ifuatavyo:
-
-$$
-hash = \text{HMAC-SHA512}(C_{\text{PAR}}, 0x00 \Vert k_{\text{PAR}} \Vert i)
-$$
-
-Katika hesabu hii, tunaona kwamba kazi yetu ya HMAC inachukua pembejeo mbili: kwanza, msimbo wa mnyororo wa wazazi, na kisha uunganishaji wa faharisi na ufunguo wa kibinafsi wa mzazi. Ufunguo wa faragha wa mzazi unatumika hapa kwa sababu tunatazamia kupata ufunguo mgumu wa mtoto. Zaidi ya hayo, baiti sawa na `0x00` huongezwa mwanzoni mwa ufunguo. Uendeshaji huu unasawazisha urefu wake ili ulingane na ule wa ufunguo wa umma uliobanwa.
-
-Kwa hivyo, sasa tuna 64-byte $\text{Hash}$ ambayo tutagawanya katika sehemu 2 za baiti 32 kila moja: $h_1$ na $h_2$:
-
-$$
-\text{hash} = h_1 \Vert h_2
-$$
-
-$$
-h_1 = \text{hash}[:32] \quad, \quad h_2 = \text{hash}[32:]
-$$
-
-Ufunguo wa faragha wa mtoto $k_{\text{CHD}}^h$ kisha huhesabiwa kama ifuatavyo:
-
-$$
-k_{\text{CHD}}^h = \text{parse256}(h_1) + k_{\text{PAR}} \mod n
-$$
-
-Kisha, tunatafsiri kwa urahisi sehemu ya pili ya $\text{Hash}$ kuwa msimbo wa mnyororo wa jozi ya funguo za watoto ambazo tumetoa hivi punde:
-
-$$
-C_{\text{CHD}} = h_2
-$$
-
-Hapa kuna uwakilishi wa kimkakati wa derivation ya jumla:
-
-![CYP201](assets/fr/051.webp)
-
-Tunaweza kuona kwamba unyambulishaji wa kawaida na utendakazi wa utokaji mgumu kwa njia ile ile, na tofauti hii: unyambulishaji wa kawaida hutumia ufunguo wa umma wa mzazi kama ingizo la chaguo la kukokotoa la HMAC, ilhali unyambulishaji mgumu hutumia ufunguo wa kibinafsi wa mzazi.
-
-#### Inaleta ufunguo wa umma wa mtoto kutoka kwa ufunguo wa umma wa mzazi
-
-Iwapo tunajua ufunguo wa umma wa mzazi $K_{\text{PAR}}$ na msimbo wa mnyororo unaohusishwa $C_{\text{PAR}}$, yaani, ufunguo wa umma uliopanuliwa, inawezekana kupata funguo za umma za watoto $K_{\text{CHD}}^n$, lakini kwa funguo za kawaida za mtoto pekee (zisizo ngumu). Kanuni hii inaruhusu ufuatiliaji wa mienendo ya akaunti katika Bitcoin Wallet kutoka `xpub` (*watch-pekee*).
-
-Ili kufanya hesabu hii, tutakusanya $\text{Hash}$ na faharasa $i <2^{31}$ (chini ya kawaida):
-
-$$
-\text{hash} = \text{HMAC-SHA512}(C_{\text{PAR}}, K_{\text{PAR}} \Vert i)
-$$
-
-Katika hesabu hii, tunaona kwamba utendaji wetu wa HMAC huchukua pembejeo mbili: kwanza msimbo wa mnyororo wa wazazi, kisha uunganishaji wa faharasa na ufunguo wa umma wa mzazi.
-
-Kwa hivyo, sasa tuna $Hash$ ya baiti 64 ambazo tutagawanya katika sehemu 2 za baiti 32 kila moja: $h_1$ na $h_2$:
-
-$$
-\text{hash} = h_1 \Vert h_2
-$$
-
-$$
-h_1 = \text{hash}[:32] \quad, \quad h_2 = \text{hash}[32:]
-$$
-
-Ufunguo wa umma wa mtoto $K_{\text{CHD}}^n$ kisha huhesabiwa kama ifuatavyo:
-
-$$
-K_{\text{CHD}}^n = G \cdot \text{parse256}(h_1) + K_{\text{PAR}}
-$$
-
-Ikiwa $\text{parse256}(h_1) \geq n$ (mpangilio wa mkunjo wa duaradufu) au ikiwa $K_{\text{CHD}}^n$ ndio sehemu ya infinity, unyambulishaji si sahihi, na ni lazima uchaguliwe faharasa nyingine.
-
-Katika hesabu hii, operesheni $\text{parse256}(h_1)$ inahusisha kutafsiri baiti 32 za kwanza za $\text{Hash}$ kama nambari kamili ya biti 256. Nambari hii inatumika kukokotoa ncha kwenye mduara wa duaradufu kupitia kujumlisha na kuzidisha mara mbili kutoka kwa uhakika wa jenereta $G$. Hatua hii inaongezwa kwa ufunguo wa umma wa mzazi ili kupata ufunguo wa kawaida wa umma wa mtoto. Kwa hivyo, ili kupata ufunguo wa umma wa kawaida wa mtoto, ufunguo wa umma tu wa mzazi na msimbo wa mnyororo wa mzazi ni muhimu; ufunguo wa faragha wa mzazi hauji katika mchakato huu, tofauti na hesabu ya ufunguo wa faragha wa mtoto tulioona hapo awali.
-
-Ifuatayo, nambari ya mnyororo wa watoto ni rahisi:
-
-$$
-C_{\text{CHD}} = h_2
-$$
-
-Hapa kuna uwakilishi wa kimkakati wa derivation ya jumla:
-
-![CYP201](assets/fr/052.webp)
-
-### Mawasiliano kati ya funguo za umma na za kibinafsi za watoto
-
-Swali linaloweza kujitokeza ni jinsi ufunguo wa umma wa kawaida wa mtoto unaotokana na ufunguo wa umma wa mzazi unavyoweza kuwiana na ufunguo wa faragha wa kawaida wa mtoto unaotokana na ufunguo wa faragha wa mzazi unaolingana. Kiungo hiki kinahakikishwa kwa usahihi na mali ya curves ya mviringo. Hakika, kupata ufunguo wa kawaida wa umma wa mtoto, HMAC-SHA512 inatumika kwa njia ile ile, lakini matokeo yake hutumiwa tofauti:
-
-
-   - Ufunguo wa faragha wa kawaida wa mtoto**: $k_{\text{CHD}}^n = \text{parse256}(h_1) + k_{\text{PAR}} \mod n$
-   - Ufunguo wa kawaida wa umma wa mtoto**: $K_{\text{CHD}}^n = G \cdot \text{parse256}(h_1) + K_{\text{PAR}}$
-
-Shukrani kwa uongezaji na utendakazi maradufu kwenye curve ya duaradufu, mbinu zote mbili hutoa matokeo thabiti: ufunguo wa umma unaotokana na ufunguo wa faragha wa mtoto unafanana na ufunguo wa umma wa mtoto unaotolewa moja kwa moja kutoka kwa ufunguo wa umma wa mzazi.
-
-### Muhtasari wa aina za derivation
-
-Kwa muhtasari, hapa kuna aina tofauti zinazowezekana za derivations:
-
-$$
-\begin{array}{|c|c|c|c|}
-\hline
-\rightarrow & \text{PAR} & \text{CHD} & \text{n/h} \\
-\hline
-k_{\text{PAR}} \rightarrow k_{\text{CHD}} & k_{\text{PAR}} & \{ k_{\text{CHD}}^n, k_{\text{CHD}}^h \} & \{ n, h \} \\
-k_{\text{PAR}} \rightarrow K_{\text{CHD}} & k_{\text{PAR}} & \{ K_{\text{CHD}}^n, K_{\text{CHD}}^h \} & \{ n, h \} \\
-K_{\text{PAR}} \rightarrow k_{\text{CHD}} & K_{\text{PAR}} & \times & \times \\
-K_{\text{PAR}} \rightarrow K_{\text{CHD}} & K_{\text{PAR}} & K_{\text{CHD}}^n & n \\
-\hline
-\end{array}
-$$
-
-Kwa muhtasari, hadi sasa umejifunza kuunda Elements ya msingi ya HD Wallet: maneno ya Mnemonic, seed, na kisha ufunguo mkuu na msimbo wa mnyororo mkuu. Pia umegundua jinsi ya kupata jozi muhimu za watoto katika sura hii. Katika sura inayofuata, tutachunguza jinsi vitoleo hivi vimepangwa katika pochi za Bitcoin na ni muundo gani wa kufuata ili kupata anwani zinazopokea pamoja na jozi muhimu zinazotumiwa katika *scriptPubKey* na *scriptSig*.
-
-## Wallet Muundo na Njia za Utoaji
-
-<chapterId>34e1bbda-67de-5493-b268-1fded8d67689</chapterId>
-
-Muundo wa hierarkia wa pochi za HD kwenye Bitcoin inaruhusu shirika la jozi muhimu kwa njia mbalimbali. Wazo ni kupata, kutoka kwa ufunguo mkuu wa kibinafsi na nambari ya mnyororo mkuu, viwango kadhaa vya kina. Kila ngazi iliyoongezwa inalingana na kupatikana kwa jozi ya ufunguo wa mtoto kutoka kwa jozi ya ufunguo wa mzazi.
-
-Baada ya muda, BIP tofauti zimeanzisha viwango vya njia hizi za utokaji, zikilenga kusawazisha matumizi yao kwenye programu tofauti. Kwa hiyo, katika sura hii, tutagundua maana ya kila ngazi ya derivation katika pochi za HD, kulingana na viwango hivi.
-
-### Undani wa Utoaji wa HD Wallet
-
-Njia za utokaji zimepangwa katika tabaka za kina, kuanzia kina 0, ambacho kinawakilisha ufunguo mkuu na msimbo mkuu wa mnyororo, hadi tabaka za viwango vidogo vya kupata anwani zinazotumiwa kufunga UTXO. BIPs (*Mapendekezo ya Uboreshaji ya Bitcoin*) hufafanua viwango kwa kila Layer, ambayo husaidia kuoanisha mazoea katika programu mbalimbali za usimamizi wa Wallet.
-
-Kwa hivyo, njia ya utokaji inarejelea mlolongo wa fahirisi zinazotumiwa kupata funguo za watoto kutoka kwa ufunguo mkuu.
-
-**Kina 0: Ufunguo Mkuu (BIP32)**
-
-Kina hiki kinalingana na ufunguo mkuu wa faragha wa Wallet na msimbo mkuu wa mnyororo. Inawakilishwa na nukuu $m/$.
-
-**Kina 1: Kusudi (BIP43)**
-
-Kusudi huamua muundo wa kimantiki wa derivation. Kwa mfano, P2WPKH Address itakuwa na $/84'/$ kwa kina 1 (kulingana na BIP84), wakati P2TR Address itakuwa na $/86'/$ (kulingana na BIP86). Layer hii inawezesha utangamano kati ya pochi kwa kuonyesha nambari za fahirisi zinazolingana na nambari za BIP.
-
-Kwa maneno mengine, mara tu unapokuwa na ufunguo mkuu na msimbo mkuu, hizi hutumika kama jozi ya ufunguo wa mzazi ili kupata jozi ya vitufe vya mtoto. Faharasa inayotumika katika utohozi huu inaweza kuwa, kwa mfano, $/84'/$ ikiwa Wallet inakusudiwa kutumia hati za aina ya SegWit v0. Jozi hii muhimu basi iko kwenye kina cha 1. Jukumu lake si kufunga bitcoins, lakini kutumika tu kama njia katika uongozi wa derivation.
-
-**Kina 2: Aina ya Sarafu (BIP44)**
-
-Kutoka kwa jozi muhimu kwa kina 1, derivation mpya inafanywa ili kupata jozi muhimu kwa kina 2. Kina hiki kinaruhusu kutofautisha akaunti za Bitcoin kutoka kwa fedha nyingine za crypto ndani ya Wallet sawa.
-
-Kila sarafu ina faharasa ya kipekee ili kuhakikisha uoanifu katika pochi za sarafu nyingi. Kwa mfano, kwa Bitcoin, faharasa ni $/0'/$ (au `0x80000000` katika nukuu ya hexadecimal). Faharasa za sarafu huchaguliwa katika safu kutoka $2^{31}$ hadi $2^{32}-1$ ili kuhakikisha utokaji mgumu.
-
-Ili kukupa mifano mingine, hapa kuna faharasa za baadhi ya sarafu:
-
-
-- $1'$ (`0x80000001`) kwa bitcoins za Testnet;
-- $2'$ (`0x80000002`) kwa Litecoin;
-- $60'$ (`0x8000003c`) kwa Ethereum...
-
-**Kina 3: Akaunti (BIP32)**
-
-Kila Wallet inaweza kugawanywa katika akaunti kadhaa, kuhesabiwa kutoka $2^{31}$, na kuwakilishwa kwa kina 3 na $/0'/$ kwa akaunti ya kwanza, $/1'/$ kwa ya pili, na kadhalika. Kwa ujumla, unaporejelea ufunguo uliopanuliwa `xpub`, hurejelea funguo zilizo katika kina hiki cha unyambulishaji.
-
-Mgawanyo huu katika akaunti tofauti ni wa hiari. Inalenga kurahisisha shirika la Wallet kwa watumiaji. Katika mazoezi, mara nyingi akaunti moja tu hutumiwa, kwa kawaida ya kwanza kwa default. Hata hivyo, katika baadhi ya matukio, ikiwa mtu anataka kutofautisha wazi jozi muhimu kwa matumizi tofauti, hii inaweza kuwa na manufaa. Kwa mfano, inawezekana kuunda akaunti ya kibinafsi na akaunti ya kitaaluma kutoka kwa seed sawa, na makundi tofauti kabisa ya funguo kutoka kwa kina hiki cha derivation.
-
-**Kina 4: Mnyororo (BIP32)**
-
-Kila akaunti iliyofafanuliwa kwa kina 3 basi imeundwa katika minyororo miwili:
-
-
-- Msururu wa nje**: Katika msururu huu, zile zinazojulikana kama anwani za "umma" zimetolewa. Anwani hizi za kupokea zimekusudiwa kufunga UTXO zinazotoka kwa miamala ya nje (yaani, inayotokana na utumiaji wa UTXO ambazo si zako). Ili kuiweka kwa urahisi, mlolongo huu wa nje hutumiwa wakati wowote mtu anataka kupokea bitcoins. Unapobofya "*pokea*" katika programu yako ya Wallet, daima ni Address kutoka kwa msururu wa nje unaotolewa kwako. Mlolongo huu unawakilishwa na jozi ya vitufe vinavyotokana na faharasa $/0/$.
-- Msururu wa ndani (mabadiliko)**: Msururu huu umehifadhiwa kwa ajili ya kupokea anwani zinazofunga bitcoins zinazotoka kwa matumizi ya UTXO ambazo ni zako, kwa maneno mengine, kubadilisha anwani. Inatambuliwa na faharasa $/1/$.
-
-**Kina 5: Kielezo cha Address (BIP32)**
-
-Hatimaye, kina cha 5 kinawakilisha hatua ya mwisho ya utokaji katika Wallet. Ingawa kitaalam inawezekana kuendelea kwa muda usiojulikana, viwango vya sasa vinakomea hapa. Katika kina hiki cha mwisho, jozi za funguo ambazo kwa kweli zitatumika kufunga na kufungua UTXO zimetolewa. Kila index inaruhusu kutofautisha kati ya jozi muhimu za ndugu: kwa hivyo, ya kwanza kupokea Address itatumia index $/0/$, pili index $/1/$, na kadhalika.
-
-![CYP201](assets/fr/053.webp)
-
-### Nukuu ya Njia za Utokaji
-
-Njia ya utokaji imeandikwa kwa kutenganisha kila ngazi kwa kufyeka ($/$). Kwa hivyo kila kufyeka kunaonyesha kutolewa kwa jozi ya vitufe vya mzazi ($k_{\text{PAR}}$, $K_{\text{PAR}}$, $C_{\text{PAR}}$) kwa jozi ya vitufe vya mtoto ($k_{\text{CHD}}$, $K_{\text{CHD}}$, $C_{\text).{CHD}} Nambari iliyobainishwa katika kila kina inalingana na faharasa inayotumiwa kupata ufunguo huu kutoka kwa wazazi wake. Kiapostrofi ($'$) wakati mwingine huwekwa upande wa kulia wa faharasa huonyesha utohozi mgumu ($k_{\text{CHD}}^h$, $K_{\text{CHD}}^h$). Wakati mwingine, apostrofi hii inabadilishwa na $h$. Kwa kukosekana kwa neno la kiapostrofi au $h$, kwa hiyo ni uasiliaji wa kawaida ($k_{\text{CHD}}^n$, $K_{\text{CHD}}^n$).
-
-Kama tulivyoona katika sura zilizopita, faharasa muhimu ngumu zinaanzia $2^{31}$, au `0x80000000` katika hexadecimal. Kwa hivyo, faharasa inapofuatwa na kiapostrofi katika njia ya utokaji, $2^{31}$ lazima iongezwe kwa nambari iliyoonyeshwa ili kupata thamani halisi inayotumika katika chaguo za kukokotoa za HMAC-SHA512. Kwa mfano, ikiwa njia ya unyambulishaji inabainisha $/44'/$, faharasa halisi itakuwa:
-
-$$
-i = 44 + 2^{31} = 2\,147\,483\,692
-$$
-
-Katika heksadesimali, hii ni `0x8000002C`.
-
-Sasa kwa kuwa tumeelewa kanuni kuu za njia za derivation, hebu tuchukue mfano! Hapa kuna njia ya kupata Bitcoin inayopokea Address:
-
-$$
-m / 84' / 0' / 1' / 0 / 7
-$$
-
-Katika mfano huu:
-
-
-- $84'$ inaonyesha kiwango cha P2WPKH (SegWit v0);
-- $0'$ inaonyesha sarafu ya Bitcoin kwenye Mainnet;
-- $ 1'$ inalingana na akaunti ya pili katika Wallet;
-- $0$ inaonyesha kuwa Address iko kwenye mlolongo wa nje;
-- $7$ inaonyesha Address ya 8 ya nje ya akaunti hii.
-
-### Muhtasari wa muundo wa derivation
-
-| Kina | Maelezo | Mfano wa Kawaida |
-
-| ----- | ------------------ | -------------------------------- |
-
-| 0 | Ufunguo Mkuu | $m/$ |
-
-| 1 | Kusudi | $/86'/$ (P2TR) |
-
-| 2 | Fedha | $/0'/$ (Bitcoin) |
-
-| 3 | Akaunti | $/0'/$ (Akaunti ya kwanza) |
-
-| 4 | Mnyororo | $/0/$ (nje) au $/1/$ (badilisha)|
-
-| 5 | Kielezo cha Address | $/0/$ (Address ya kwanza) |
-
-Katika sura inayofuata, tutagundua "*vielezi vya hati ya pato*" ni nini, uvumbuzi ulioanzishwa hivi majuzi katika Bitcoin Core ambao hurahisisha hifadhi rudufu ya Bitcoin Wallet.
-
-## Vielezi vya hati ya pato
-
-<chapterId>e4f1c2d3-9b8a-4d3e-8f2a-7b6c5d4e3f2a</chapterId>
-
-Mara nyingi huambiwa kwamba maneno ya Mnemonic pekee yanatosha kurejesha upatikanaji wa Wallet. Kwa kweli, mambo ni magumu zaidi. Katika sura iliyopita, tuliangalia muundo wa derivation wa HD Wallet, na unaweza kuwa umeona kuwa mchakato huu ni ngumu sana. Njia za utokaji huambia programu mwelekeo wa kufuata ili kupata funguo za mtumiaji. Hata hivyo, wakati wa kurejesha Bitcoin Wallet, ikiwa mtu hajui njia hizi, maneno ya Mnemonic pekee haitoshi. Inaruhusu kupata ufunguo mkuu na msimbo mkuu wa mnyororo, lakini ni muhimu kujua faharasa zinazotumiwa kufikia funguo za mtoto.
-
-Kinadharia, itakuwa muhimu kuokoa sio tu maneno ya Mnemonic ya Wallet yetu lakini pia njia za akaunti tunazotumia. Katika mazoezi, mara nyingi inawezekana kurejesha upatikanaji wa funguo za mtoto bila habari hii, ikiwa ni pamoja na kwamba viwango vimefuatwa. Kwa kupima kila kiwango moja baada ya nyingine, kwa ujumla inawezekana kupata tena upatikanaji wa bitcoins. Walakini, hii haijahakikishwa na ni ngumu sana kwa Kompyuta. Pia, pamoja na mseto wa aina za hati na kuibuka kwa usanidi changamano zaidi, maelezo haya yanaweza kuwa magumu kueleza, hivyo basi kubadilisha data hii kuwa taarifa ya faragha na vigumu kurejesha kwa nguvu ya kikatili. Hii ndiyo sababu uvumbuzi umeanzishwa hivi majuzi na unaanza kuunganishwa kwenye programu yako uipendayo ya Wallet: *vielezi vya hati ya pato*.
-
-### "Descriptor" ni nini?
-
-"*vifafanuzi vya hati ya pato*", au kwa urahisi "*vielezi*", ni semi zilizoundwa ambazo zinafafanua kikamilifu hati ya pato (*scriptPubKey*) na kutoa taarifa zote zinazohitajika ili kufuata miamala inayohusishwa na hati fulani. Huwezesha usimamizi wa funguo katika pochi za HD kwa kutoa maelezo sanifu na kamili ya muundo wa Wallet na aina za anwani zinazotumiwa.
-
-Faida kuu ya vifafanuzi iko katika uwezo wao wa kuingiza taarifa zote muhimu ili kurejesha Wallet katika kamba moja (pamoja na maneno ya kurejesha). Kwa kuhifadhi kifafanuzi na vifungu vinavyohusiana vya Mnemonic, inakuwa rahisi kurejesha funguo za faragha kwa kujua kwa usahihi nafasi yao katika uongozi. Kwa pochi za Multisig, ambazo nakala yake awali ilikuwa ngumu zaidi, kifafanuzi kinajumuisha `xpub` ya kila kipengele, hivyo basi kuhakikisha uwezekano wa kuunda upya anwani iwapo kutatokea tatizo.
-
-### Ujenzi wa kielezi
-
-Kifafanuzi kina Elements kadhaa:
-
-
-- Hati za kufanya kazi kama vile `pk` (*Pay-to-PubKey*), `pkh` (*Pay-to-PubKey-Hash*), `wpkh` (*Pay-to-Witness-PubKey-Hash*), `sh` (*Pay-to-Script-Hash*), `wsh`-GW-GW-8`, `wsh`-GW-8, `Wsh-Pay-8' (*-Wness-8) (*Pay-to-Taproot*), `multi` (*Sahihi nyingi*), na `sortedmulti` (*Sahihi nyingi zenye vitufe vilivyopangwa*);
-- Njia za utokaji, kwa mfano, `[d34db33f/44h/0h/0h]` ambayo inaonyesha njia ya akaunti inayotolewa na alama ya vidole ya ufunguo mkuu mahususi;
-- Vifunguo katika miundo mbalimbali kama vile vitufe vya umma vya heksadesimali au vitufe vilivyopanuliwa vya umma (`xpub`);
-- Cheki, ikitanguliwa na ishara ya Hash, ili kuthibitisha uadilifu wa kifafanuzi.
-
-Kwa mfano, kifafanuzi cha P2WPKH (SegWit v0) Wallet kinaweza kuonekana kama:
-
-```text
-wpkh([cdeab12f/84h/0h/0h]xpub6CUGRUonZSQ4TWtTMmzXdrXDtyPWKiKbERr4d5qkSmh5h17C1TjvMt7DJ9Qve4dRxm91CDv6cNfKsq2mK1rMsJKhtRUPZz7MQtp3y6atC1U/<0;1>/*)#jy0l7nr4
-```
-
-Katika kifafanuzi hiki, chaguo la kukokotoa `wpkh` linaonyesha aina ya hati *Pay-to-Witness-Public-Key-Hash*. Inafuatwa na njia ya kupatikana ambayo ina:
-
-
-- `cdeab12f`: alama ya vidole ya ufunguo mkuu;
-- `84h`: ambayo inaashiria matumizi ya madhumuni ya BIP84, yanayokusudiwa kwa anwani za SegWit v0;
-- `0h`: ambayo inaonyesha kuwa ni sarafu ya BTC kwenye Mainnet;
-- `0h`: ambayo inarejelea nambari mahususi ya akaunti iliyotumika katika Wallet.
-
-Kifafanuzi pia kinajumuisha ufunguo uliopanuliwa wa umma unaotumika katika Wallet hii:
-
-```text
-xpub6CUGRUonZSQ4TWtTMmzXdrXDtyPWKiKbERr4d5qkSmh5h17C1TjvMt7DJ9Qve4dRxm91CDv6cNfKsq2mK1rMsJKhtRUPZz7MQtp3y6atC1U
-```
-
-Ifuatayo, nukuu `/<0;1>/*` hubainisha kuwa kifafanuzi kinaweza anwani za generate kutoka kwa msururu wa nje (`0`) na mnyororo wa ndani (`1`), na kadi-mwitu (`*`) ikiruhusu utokezi mfuatano wa anwani nyingi kwa njia inayoweza kusanidiwa, sawa na kudhibiti "kikomo cha pengo" kwenye programu ya jadi ya GW-6.
-
-Hatimaye, `#jy0l7nr4` inawakilisha checksum ili kuthibitisha uadilifu wa kifafanuzi.
-
-Sasa unajua kila kitu kuhusu uendeshaji wa HD Wallet kwenye Bitcoin na mchakato wa kupata jozi muhimu. Hata hivyo, katika sura za mwisho, tulijiwekea mipaka kwa kizazi cha funguo za kibinafsi na za umma, bila kushughulikia ujenzi wa kupokea anwani. Hili litakuwa somo la sura inayofuata!
-
-## Kupokea Anwani
-
-<chapterId>ca80a89d-f8da-4e09-8c35-43179b65bced</chapterId>
-
-Anwani za kupokea ni vipande vya maelezo yaliyopachikwa katika *scriptPubKey* ili kufunga UTXO zilizoundwa upya. Kuweka tu, Address hutumikia kupokea bitcoins. Hebu tuchunguze utendaji wao kuhusiana na yale ambayo tumejifunza katika sura zilizopita.
-
-### Jukumu la Anwani za Bitcoin katika Hati
-
-Kama ilivyoelezwa hapo awali, jukumu la shughuli ni kuhamisha Ownership ya bitcoins kutoka kwa pembejeo hadi kwenye matokeo. Utaratibu huu unahusisha kutumia UTXO kama pembejeo huku ukiunda UTXO mpya kama matokeo. UTXO hizi zimehifadhiwa na maandiko, ambayo hufafanua hali muhimu za kufungua fedha.
-
-Mtumiaji anapopokea bitcoins, mtumaji huunda toleo la UTXO na kuifunga kwa *scriptPubKey*. Hati hii ina sheria zinazobainisha saini na funguo za umma zinazohitajika ili kufungua UTXO hii. Ili kutumia UTXO hii katika muamala mpya, ni lazima mtumiaji atoe maelezo yaliyoombwa kupitia *scriptSig*. Utekelezaji wa *scriptSig* pamoja na *scriptPubKey* lazima urejeshe "kweli" au `1`. Ikiwa hali hii itafikiwa, UTXO inaweza kutumika kuunda UTXO mpya, yenyewe imefungwa na *scriptPubKey* mpya, na kadhalika.
-
-![CYP201](assets/fr/054.webp)
-
-Ni katika *scriptPubKey* ambapo anwani za kupokea zinapatikana. Walakini, matumizi yao hutofautiana kulingana na kiwango cha maandishi kilichopitishwa. Hapa kuna jedwali la muhtasari wa maelezo yaliyo katika *scriptPubKey* kulingana na kiwango kinachotumiwa, pamoja na maelezo yanayotarajiwa katika *scriptSig* ili kufungua *scriptPubKey*.
-
-| Kawaida | *scriptPubKey* | *scriptSig* | *Hati ya Redeem* | *shahidi* |
-
-| ------------------ | ------------------------------------------------------- | ------------------------------- | ------------------- | --------------------------------------- |
-
-| P2PK | `<pubkey> OP_CHECKSIG` | `<saini>` |                     |                                          |
-
-| P2PKH | `OP_DUP OP_HASH160 <pubKeyHash> OP_EQUALVERIFY OP_CHECKSIG` | `<saini> <ufunguo wa umma>` |                     |                                          |
-
-| P2SH | `OP_HASH160 <scriptHash> OP_EQUAL` | `<data inasukuma> <hati ya Redeem>` | Data kiholela |                                          |
-
-| P2WPKH | `0 <pubKeyHash>` |                                 |                     | `<saini> <ufunguo wa umma>` |
-
-| P2WSH | `0 <witnessScriptHash>` |                                 |                     | `<data inasukuma> <hati ya shahidi>` |
-
-| P2SH-P2WPKH | `OP_HASH160 <redeemScriptHash> OP_EQUAL` | `<Redeem hati>` | `0 <pubKeyHash>` | `<saini> <ufunguo wa umma>` |
-
-| P2SH-P2WSH | `OP_HASH160 <redeemScriptHash> OP_EQUAL` | `<Redeem hati>` | `0 <scriptHash>` | `<data inasukuma> <hati ya shahidi>` |
-
-| P2TR (njia muhimu) | `1 <ufunguo wa umma>` |                                 |                     | `<saini>` |
-
-| P2TR (njia ya hati) | `1 <ufunguo wa umma>` |                                 |                     | `<data inasukuma> <script> <control block>` |
-
-*Chanzo: Klabu ya ukaguzi ya Bitcoin Core PR, Julai 7, 2021 - Gloria Zhao*
-
-Opcodes zinazotumiwa katika hati zimeundwa ili kudhibiti habari, na, ikiwa ni lazima, kulinganisha au kuipima. Wacha tuchukue mfano wa hati ya P2PKH, ambayo ni kama ifuatavyo.
-
-```text
-OP_DUP OP_HASH160 OP_PUSHBYTES_20 <pubKeyHash> OP_EQUALVERIFY OP_CHECKSIG
-```
-
-Kama tutakavyoona katika sura hii, `<pubKeyHash>` inawakilisha mzigo wa Address inayopokea inayotumiwa kufunga UTXO. Ili kufungua *scriptPubKey* hii, ni muhimu kutoa *scriptSig* iliyo na:
-
-```text
-<signature> <public key>
-```
-
-Katika lugha ya hati, "bunda" ni muundo wa data wa "*LIFO*" ("*Last In, First Out*") unaotumika kuhifadhi kwa muda Elements wakati wa utekelezaji wa hati. Kila utendakazi wa hati huchezea rafu hii, ambapo Elements inaweza kuongezwa (*sukuma*) au kuondolewa (*pop*). Hati hutumia rafu hizi kutathmini vielezi, kuhifadhi vibadilisho vya muda, na kudhibiti hali.
-
-Utekelezaji wa hati niliyotoa kama mfano unafuata mchakato huu:
-
-
-- Tunayo *scriptSig*, *ScriptPubKey*, na stack:
-
-![CYP201](assets/fr/055.webp)
-
-
-- *scriptSig* inasukumwa kwenye rafu:
-
-![CYP201](assets/fr/056.webp)
-
-
-- `OP_DUP` inanakili ufunguo wa umma uliotolewa katika *scriptSig* kwenye rafu:
-
-![CYP201](assets/fr/057.webp)
-
-
-- `OP_HASH160` hurejesha Hash ya ufunguo wa umma ambao umenakiliwa hivi punde:
-
-![CYP201](assets/fr/058.webp)
-
-
-- `OP_PUSHBYTES_20 <pubKeyHash>` husukuma Bitcoin Address iliyo katika *scriptPubKey* kwenye rafu:
-
-![CYP201](assets/fr/059.webp)
-
-
-- `OP_EQUALVERIFY` inathibitisha kuwa ufunguo wa umma uliopokewa unalingana na upokeaji wa Address uliotolewa:
-
-![CYP201](assets/fr/060.webp)
-
-`OP_CHECKSIG` hukagua saini iliyo katika *scriptSig* kwa kutumia kitufe cha umma. Opcode hii kimsingi hufanya uthibitishaji wa sahihi kama tulivyoeleza katika sehemu ya 3 ya mafunzo haya:
-
-![CYP201](assets/fr/061.webp)
-
-
-- Ikiwa `1` itasalia kwenye rafu, basi hati ni halali:
-
-![CYP201](assets/fr/062.webp)
-
-Kwa hivyo, kwa muhtasari, hati hii inaruhusu uthibitishaji, kwa usaidizi wa sahihi ya dijiti, kwamba mtumiaji anayedai Ownership ya UTXO hii na anayetaka kuitumia ana ufunguo wa faragha unaohusishwa na kupokea Address iliyotumiwa wakati wa kuunda UTXO hii.
-
-### Aina tofauti za anwani za Bitcoin
-
-Katika mabadiliko ya Bitcoin, mifano kadhaa ya hati ya kawaida imeongezwa. Kila mmoja wao hutumia aina tofauti ya kupokea Address. Hapa kuna muhtasari wa mifano kuu ya hati inayopatikana hadi sasa:
-
-**P2PK (*Pay-to-PubKey*)**:
-
-Mtindo huu wa hati ulianzishwa katika toleo la kwanza la Bitcoin na Satoshi Nakamoto. Hati ya P2PK hufunga bitcoins moja kwa moja kwa kutumia ufunguo mbichi wa umma (kwa hivyo, hakuna kupokea Address inatumiwa na mtindo huu). Muundo wake ni rahisi: ina ufunguo wa umma na inahitaji sahihi sahihi ya digital ili kufungua fedha. Hati hii ni sehemu ya kiwango cha "*Legacy*".
-
-**P2PKH (*Pay-to-PubKey-Hash*)**:
-
-Kama P2PK, hati ya P2PKH ilianzishwa wakati wa uzinduzi wa Bitcoin. Tofauti na mtangulizi wake, hufunga bitcoins kwa kutumia Hash ya ufunguo wa umma, badala ya kutumia moja kwa moja ufunguo ghafi wa umma. Kisha *scriptSig* lazima itoe ufunguo wa umma unaohusishwa na kupokea Address, pamoja na sahihi sahihi. Anwani zinazolingana na muundo huu huanza na `1` na zimesimbwa katika *base58check*. Hati hii pia ni ya kiwango cha "*Legacy*".
-
-**P2SH (*Pay-to-Script-Hash*)**:
-
-Ilianzishwa mwaka wa 2012 kwa BIP16, muundo wa P2SH unaruhusu kutumia Hash ya hati kiholela katika *scriptPubKey*. Hati hii ya haraka, inayoitwa "*redeemscript*", ina masharti ya kufungua fedha. Ili kutumia UTXO iliyofungwa kwa P2SH, ni muhimu kutoa *scriptSig* iliyo na *redeemscript* asili pamoja na data muhimu ili kuithibitisha. Mfano huu hutumiwa haswa kwa multisigs za zamani. Anwani zinazohusishwa na P2SH huanza na `3` na zimesimbwa katika *base58check*. Hati hii pia ni ya kiwango cha "*Legacy*".
-
-**P2WPKH (*Pay-to-Witness-PubKey-Hash*)**:
-
-Hati hii ni sawa na P2PKH, kwani pia inafunga bitcoins kwa kutumia Hash ya ufunguo wa umma. Hata hivyo, tofauti na P2PKH, *scriptSig* inahamishwa hadi sehemu tofauti inayoitwa "*Shahidi*". Hii wakati mwingine hujulikana kama "*scriptWitness*" kuashiria seti inayojumuisha saini na ufunguo wa umma. Kila ingizo la SegWit lina *Scriptwitness* yake, na mkusanyiko wa *scriptWitnesses* unajumuisha sehemu ya *Shahidi* ya shughuli hiyo. Usogezaji huu wa data ya sahihi ni uvumbuzi ulioanzishwa na sasisho la SegWit, linalolenga hasa kuzuia uharibifu wa shughuli kutokana na sahihi za ECDSA.
-
-Anwani za P2WPKH hutumia usimbaji wa *bech32* na kila mara huanza na `bc1q`. Aina hii ya hati inalingana na toleo la 0 SegWit matokeo.
-
-**P2WSH (*Hati-ya-Lipa-kwa-Shahidi-Hash*)**:
-
-Mfano wa P2WSH pia ulianzishwa na sasisho la SegWit mnamo Agosti 2017. Sawa na mfano wa P2SH, hufunga bitcoins kwa kutumia Hash ya script. Tofauti kuu iko katika jinsi saini na hati zinavyojumuishwa katika shughuli. Ili kutumia bitcoins zilizofungwa kwa aina hii ya hati, mpokeaji lazima atoe hati asili, inayoitwa *witnessScript* (sawa na *redeemscript* katika P2SH), pamoja na data muhimu ili kuthibitisha *shahidiScript* hii. Utaratibu huu unaruhusu utekelezaji wa masharti magumu zaidi ya matumizi, kama vile multisigs.
-
-Anwani za P2WSH hutumia usimbaji wa *bech32* na kila mara huanza na `bc1q`. Hati hii pia inalingana na toleo la 0 SegWit matokeo.
-
-**P2TR (*Pay-to-Taproot*)**:
-
-Mtindo wa P2TR ulianzishwa kwa kutekelezwa kwa Taproot mnamo Novemba 2021. Inategemea itifaki ya Schnorr ya ujumlishaji wa ufunguo wa kriptografia, na pia kwenye Merkle Tree kwa hati mbadala, inayoitwa MAST (*Mti wa Hati Mbadala wa Merkelized*). Tofauti na aina nyingine za hati, ambapo masharti ya matumizi yanafichuliwa hadharani (ama kwa kupokelewa au kwa matumizi), P2TR inaruhusu kufichwa kwa hati ngumu nyuma ya ufunguo mmoja, unaoonekana wazi wa umma.
-
-Kitaalam, hati ya P2TR hufunga bitcoins kwenye ufunguo wa kipekee wa umma wa Schnorr, unaoashiria $Q$. Ufunguo huu $Q$ kwa hakika ni jumla ya ufunguo wa umma $P$ na ufunguo wa umma $M$, wa mwisho ukikokotolewa kutoka Merkle Root ya orodha ya *scriptPubKey*. Bitcoins zilizofungwa na aina hii ya hati zinaweza kutumika kwa njia mbili:
-
-
-- Kwa kuchapisha saini ya ufunguo wa umma $P$ (*njia ya ufunguo*).
-- Kwa kutosheleza mojawapo ya hati zilizomo kwenye Merkle Tree (*njia ya hati*).
-
-P2TR kwa hivyo inatoa unyumbufu mkubwa, kwani inaruhusu kufunga bitcoins ama kwa ufunguo wa kipekee wa umma, na maandishi kadhaa ya chaguo, au zote mbili kwa wakati mmoja. Faida ya muundo huu wa Merkle Tree ni kwamba hati ya matumizi tu inayotumiwa inafichuliwa wakati wa shughuli, lakini maandishi mengine yote mbadala yanabaki kuwa siri.
-
-![CYP201](assets/fr/063.webp)
-
-P2TR inalingana na toleo la 1 la matokeo ya SegWit, ambayo ina maana kwamba sahihi za pembejeo za P2TR zimehifadhiwa katika sehemu ya shughuli ya *Shahidi*, na si katika *scriptSig*. Anwani za P2TR hutumia usimbaji wa *bech32m* na huanza na `bc1p`, lakini ni za kipekee kabisa kwa sababu hazitumii chaguo za kukokotoa za Hash kwa ujenzi wake. Kwa kweli, zinawakilisha moja kwa moja ufunguo wa umma $Q$ ambao umeundwa tu na metadata. Kwa hivyo, ni mfano wa maandishi karibu na P2PK.
-
-Sasa kwa kuwa tumefunika nadharia, wacha tuendelee kufanya mazoezi! Katika sura ifuatayo, ninapendekeza kupata SegWit v0 Address na SegWit v1 Address kutoka kwa jozi ya funguo.
-
-## Utoaji wa Address
-
-<chapterId>3ebdc750-4135-4881-b07e-08965941b93e</chapterId>
-
-Hebu tuchunguze pamoja jinsi ya generate kupokea Address kutoka kwa jozi ya funguo ziko, kwa mfano, kwa kina cha 5 cha HD Wallet. Address hii basi inaweza kutumika katika programu ya Wallet kufunga UTXO.
-
-Kwa kuwa mchakato wa kuzalisha Address inategemea mfano wa script iliyopitishwa, hebu tuzingatie kesi mbili maalum: kuzalisha SegWit v0 Address katika P2WPKH na SegWit v1 Address katika P2TR. Aina hizi mbili za anwani hushughulikia matumizi mengi sana leo.
-
-### Mfinyazo wa Ufunguo wa Umma
-
-Baada ya kutekeleza hatua zote za uundaji kutoka kwa ufunguo mkuu hadi kina 5 kwa kutumia fahirisi zinazofaa, tunapata jozi ya funguo ($k$, $K$) na $K = k \cdot G$. Ingawa inawezekana kutumia ufunguo huu wa umma kama vile kufunga fedha kwa kiwango cha P2PK, hilo si lengo letu hapa. Badala yake, tunalenga kuunda Address katika P2WPKH kwa mara ya kwanza, na kisha katika P2TR kwa mfano mwingine.
-
-Hatua ya kwanza ni kubana ufunguo wa umma $K$. Ili kuelewa mchakato huu vizuri, acheni kwanza tukumbuke baadhi ya misingi iliyoangaziwa katika sehemu ya 3.
-
-Ufunguo wa umma kwenye Bitcoin ni sehemu ya $K$ iliyo kwenye mkunjo wa duaradufu. Inawakilishwa katika fomu $(x, y)$, ambapo $x$ na $y$ ni viwianishi vya uhakika. Katika umbo lake ambalo halijabanwa, ufunguo huu wa umma hupima biti 520: biti 8 kwa kiambishi awali (thamani ya awali ya `0x04`), biti 256 kwa kuratibu $x$, na biti 256 kwa kuratibu $y$.
-
-Hata hivyo, mikunjo ya duaradufu ina sifa ya ulinganifu kwa heshima ya mhimili wa x: kwa $x$ ya kuratibu, kuna thamani mbili tu zinazowezekana za $y$: $y$ na $-y$. Pointi hizi mbili ziko kila upande wa mhimili wa x. Kwa maneno mengine, ikiwa tunajua $x$, inatosha kubainisha ikiwa $y$ ni sawa au isiyo ya kawaida ili kutambua uhakika halisi kwenye mkunjo.
-
-![CYP201](assets/fr/064.webp)
-
-Ili kubana ufunguo wa umma, $x$ pekee ndiyo iliyosimbwa, ambayo inachukua biti 256, na kiambishi awali kinaongezwa ili kubainisha usawa wa $y$. Njia hii inapunguza ukubwa wa ufunguo wa umma hadi biti 264 badala ya 520 ya awali. Kiambishi awali `0x02` kinaonyesha kuwa $y$ ni sawa, na kiambishi awali `0x03` kinaonyesha kuwa $y$ ni isiyo ya kawaida.
-
-Hebu tuchukue mfano ili kuelewa vizuri, na ufunguo mbichi wa umma katika uwakilishi usio na shinikizo:
-
-```text
-K = 04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f
-```
-
-Ikiwa tutatenganisha ufunguo huu, tunayo:
-
-
-   - Kiambishi awali: `04`;
-   - $x$: `678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb6`;
-   - $y$: `49f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f`
-
-Herufi ya mwisho ya heksadesimali ya $y$ ni `f`. Katika msingi wa 10, `f = 15`, ambayo inalingana na nambari isiyo ya kawaida. Kwa hivyo, $y$ ni isiyo ya kawaida, na kiambishi awali kitakuwa `0x03` ili kuonyesha hili.
-
-Ufunguo wa umma uliobanwa huwa:
-
-```text
-K = 03678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb6
-```
-
-Uendeshaji huu unatumika kwa miundo yote ya hati kulingana na ECDSA, yaani, yote isipokuwa P2TR ambayo inatumia Schnorr. Kwa upande wa Schnorr, kama ilivyoelezwa katika sehemu ya 3, tunabaki na thamani ya $x$ pekee, bila kuongeza kiambishi awali ili kuonyesha usawa wa $y$, tofauti na ECDSA. Hii inafanywa iwezekanavyo na ukweli kwamba usawa wa kipekee huchaguliwa kiholela kwa funguo zote. Hii inaruhusu kupunguzwa kidogo kwa nafasi ya kuhifadhi inayohitajika kwa funguo za umma.
-
-### Utoaji wa SegWit v0 (bech32) Address
-
-Kwa kuwa sasa tumepata ufunguo wetu wa umma uliobanwa, tunaweza kupata SegWit v0 inayopokea Address kutoka kwayo.
-
-Hatua ya kwanza ni kutumia kitendakazi cha HASH160 Hash kwenye kitufe cha umma kilichobanwa. HASH160 ni muundo wa kazi mbili mfululizo za Hash: SHA256, ikifuatiwa na RIPEMD160:
-
-$$
-\text{HASH160}(K) = \text{RIPEMD160}(\text{SHA256}(K))
-$$
-
-Kwanza, tunapitisha ufunguo kupitia SHA256:
-
-```text
-SHA256(K) = C489EBD66E4103B3C4B5EAFF462B92F5847CA2DCE0825F4997C7CF57DF35BF3A
-```
-
-Kisha tunapitisha matokeo kupitia RIPEMD160:
-
-```text
-RIPEMD160(SHA256(K)) = 9F81322CC88622CA4CCB2A52A21E2888727AA535
-```
-
-Tumepata Hash ya 160-bit ya ufunguo wa umma, ambayo inajumuisha kile kinachoitwa malipo ya Address. Upakiaji huu unawakilisha sehemu kuu na muhimu zaidi ya Address. Pia inatumika katika *scriptPubKey* kufunga UTXO.
-
-Hata hivyo, ili kufanya upakiaji huu utumike kwa urahisi zaidi na wanadamu, metadata huongezwa humo. Hatua inayofuata inahusisha kusimba hii Hash katika vikundi vya biti 5 katika desimali. Mabadiliko haya ya desimali yatakuwa muhimu kwa ubadilishaji kuwa *bech32*, inayotumiwa na anwani za post-SegWit. Hash ya binary ya 160-bit imegawanywa katika vikundi 32 vya biti 5:
-
-$$
-\begin{array}{|c|c|}
-\hline
-\text{5 bits} & \text{Decimal} \\
-\hline
-10011 & 19 \\
-11110 & 30 \\
-00000 & 0 \\
-10011 & 19 \\
-00100 & 4 \\
-01011 & 11 \\
-00110 & 6 \\
-01000 & 8 \\
-10000 & 16 \\
-11000 & 24 \\
-10001 & 17 \\
-01100 & 12 \\
-10100 & 20 \\
-10011 & 19 \\
-00110 & 6 \\
-01011 & 11 \\
-00101 & 5 \\
-01001 & 9 \\
-01001 & 9 \\
-01010 & 10 \\
-00100 & 4 \\
-00111 & 7 \\
-10001 & 17 \\
-01000 & 8 \\
-10001 & 17 \\
-00001 & 1 \\
-11001 & 25 \\
-00111 & 7 \\
-10101 & 21 \\
-00101 & 5 \\
-00101 & 5 \\
-10101 & 21 \\
-\hline
-\end{array}
-$$
-
-Kwa hivyo, tunayo:
-
-```text
-HASH = 19 30 00 19 04 11 06 08 16 24 17 12 20 19 06 11 05 09 09 10 04 07 17 08 17 01 25 07 21 09 09 21
-```
-
-Mara tu Hash inaposimbwa katika vikundi vya bits 5, hundi huongezwa kwa Address. Hundi hii inatumika kuthibitisha kuwa malipo ya Address hayajabadilishwa wakati wa kuhifadhi au kutuma. Kwa mfano, inaruhusu programu ya Wallet kuhakikisha kuwa hujaandika wakati wa kuingiza Address inayopokea. Bila uthibitishaji huu, unaweza kutuma bitcoins kwa bahati mbaya kwa Address isiyo sahihi, na kusababisha upotevu wa kudumu wa pesa, kwani humiliki ufunguo unaohusishwa wa umma au wa kibinafsi. Kwa hiyo, checksum ni ulinzi dhidi ya makosa ya kibinadamu.
-
-Kwa anwani za zamani za Bitcoin *Legacy*, hundi ilikokotolewa tu tangu mwanzo wa Address Hash na chaguo za kukokotoa za HASH256. Kwa kuanzishwa kwa SegWit na umbizo la *bech32*, misimbo ya BCH (*Bose, Ray-Chaudhuri, na Hocquenghem*) sasa inatumika. Misimbo hii ya kusahihisha makosa hutumiwa kugundua na kusahihisha makosa katika mfuatano wa data. Wanahakikisha kwamba taarifa inayotumwa inafika ikiwa haijakamilika inapopelekwa, hata katika kesi ya mabadiliko madogo. Misimbo ya BCH hutumiwa katika nyanja nyingi, kama vile SSD, DVD, na misimbo ya QR. Kwa mfano, kutokana na misimbo hii ya BCH, msimbo wa QR ambao umefichwa kwa kiasi bado unaweza kusomwa na kuamuliwa.
-
-Katika muktadha wa Bitcoin, misimbo ya BCH hutoa maelewano bora kati ya ukubwa na uwezo wa kutambua makosa ikilinganishwa na chaguo rahisi za Hash zinazotumiwa kwa anwani za *Legacy*. Hata hivyo, kwenye Bitcoin, misimbo ya BCH hutumiwa tu kwa kutambua makosa, sio kurekebisha. Kwa hivyo, programu ya Wallet itaashiria kupokea kwa usahihi Address lakini haitasahihisha moja kwa moja. Kizuizi hiki ni cha kimakusudi: kuruhusu urekebishaji kiotomatiki kungepunguza uwezo wa kutambua makosa.
-
-Ili kuhesabu cheki na nambari za BCH, tunahitaji kuandaa Elements kadhaa:
-
-
-- HRP (*Sehemu Inayosomeka kwa Binadamu*)**: Kwa Bitcoin Mainnet, HRP ni `bc`;
-
-HRP lazima ipanuliwe kwa kutenganisha kila herufi katika sehemu mbili:
-
-
-- Kuchukua wahusika wa HRP katika ASCII:
- - `b`: `01100010`
- - `c`: `01100011`
-- Kuchimbua biti 3 muhimu zaidi na biti 5 muhimu zaidi:
-  - Biti 3 muhimu zaidi: `011` (3 katika desimali)
-  - Biti 3 muhimu zaidi: `011` (3 katika desimali)
-  - Biti 5 zisizo muhimu zaidi: `00010` (2 katika desimali)
-  - Biti 5 zisizo muhimu zaidi: `00011` (3 katika desimali)
-
-Kwa kitenganishi `0` kati ya herufi mbili, kiendelezi cha HRP kwa hivyo ni:
-
-```text
-03 03 00 02 03
-```
-
-
-- Toleo la shahidi**: Kwa toleo la 0 la SegWit, ni `00`;
-- Mzigo wa malipo**: Thamani za desimali za ufunguo wa umma Hash;
-- Uwekaji nafasi kwa cheki**: Tunaongeza sufuri 6 `[0, 0, 0, 0, 0, 0]` mwishoni mwa mlolongo.
-
-Data yote iliyojumuishwa ili kuingiza kwenye programu ili kukokotoa hundi ni kama ifuatavyo:
-
-```text
-HRP = 03 03 00 02 03
-SEGWIT v0 = 00
-HASH = 19 30 00 19 04 11 06 08 16 24 17 12 20 19 06 11 05 09 09 10 04 07 17 08 17 01 25 07 21 09 09 21
-CHECKSUM = 00 00 00 00 00 00
-INPUT = 03 03 00 02 03 00 19 30 00 19 04 11 06 08 16 24 17 12 20 19 06 11 05 09 09 10 04 07 17 08 17 01 25 07 21 09 09 21 00 00 00 00 00 00
-```
-
-Hesabu ya checksum ni ngumu sana. Inahusisha hesabu ya uga yenye ukomo wa polynomial. Hatutaelezea kwa undani hesabu hii hapa na tutasonga moja kwa moja kwenye matokeo. Katika mfano wetu, cheki iliyopatikana katika decimal ni:
-
-```text
-10 16 11 04 13 18
-```
-
-Sasa tunaweza kuunda Address inayopokea kwa kubatanisha kwa mpangilio ufuatao wa Elements:
-
-
-- Toleo la SegWit**: `00`
-- Mzigo wa malipo**: Ufunguo wa umma Hash
-- Nambari ya hundi**: Thamani zilizopatikana katika hatua ya awali (`10 16 11 04 13 18`)
-
-Hii inatupa katika decimal:
-
-```text
-00 19 30 00 19 04 11 06 08 16 24 17 12 20 19 06 11 05 09 09 10 04 07 17 08 17 01 25 07 21 09 09 21 10 16 11 04 13 18
-```
-
-Kisha, kila thamani ya desimali lazima itolewe kwa herufi *bech32* kwa kutumia jedwali lifuatalo la ubadilishaji:
-
-$$
-\begin{array}{|c|c|c|c|c|c|c|c|c|}
-\hline
-& 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 \\
-\hline
-+0 & q & p & z & r & y & 9 & x & 8 \\
-\hline
-+8 & g & f & 2 & t & v & d & w & 0 \\
-\hline
-+16 & s & 3 & j & n & 5 & 4 & k & h \\
-\hline
-+24 & c & e & 6 & m & u & a & 7 & l \\
-\hline
-\end{array}
-$$
-
-Ili kubadilisha thamani kuwa herufi _bech32_ kwa kutumia jedwali hili, tafuta tu thamani katika safu wima ya kwanza na safu mlalo ya kwanza ambayo, ikijumuishwa pamoja, hutoa matokeo unayotaka. Kisha, rudisha herufi inayolingana. Kwa mfano, nambari ya desimali `19` itabadilishwa kuwa herufi `n`, kwa sababu $19 = 16 + 3$.
-
-Kwa kuchora maadili yetu yote, tunapata Address ifuatayo:
-
-```
-qn7qnytxgsc3v5nxt9ff2y83g3pe84ff42stydj
-```
-
-Kilichosalia ni kuongeza HRP `bc`, ambayo inaonyesha kuwa ni Address kwa Bitcoin Mainnet, pamoja na kitenganishi `1`, ili kupata Address kamili ya kupokea:
-
-```
-bc1qn7qnytxgsc3v5nxt9ff2y83g3pe84ff42stydj
-```
-
-Umaalumu wa alfabeti hii ya _bech32_ ni kwamba inajumuisha herufi zote za alphanumeric isipokuwa `1`, `b`, `i`, na `o` ili kuepuka mkanganyiko wa kuona kati ya herufi zinazofanana, hasa wakati wa kuingia au kusomwa na binadamu.
-
-Kwa muhtasari, hapa kuna mchakato wa kupata:
-
-![CYP201](assets/fr/065.webp)
-
-Hivi ndivyo jinsi ya kupata P2WPKH (SegWit v0) kupokea Address kutoka kwa jozi ya funguo. Hebu sasa tuendelee hadi kwenye anwani za P2TR (SegWit v1 / Taproot) na tugundue mchakato wa uzalishaji wao.
-
-### Utoaji wa SegWit v1 (bech32m) Address
-
-Kwa anwani za Taproot, mchakato wa kizazi hutofautiana kidogo. Hebu tuangalie hili pamoja!
-
-Kutoka kwa hatua ya ukandamizaji wa ufunguo wa umma, tofauti ya kwanza inaonekana ikilinganishwa na ECDSA: funguo za umma zinazotumiwa kwa Schnorr kwenye Bitcoin zinawakilishwa tu na abscissa yao ($ x $). Kwa hivyo, hakuna kiambishi awali, na ufunguo ulioshinikizwa hupima bits 256 haswa.
-
-Kama tulivyoona katika sura iliyotangulia, hati ya P2TR inafunga bitcoins kwenye ufunguo wa kipekee wa umma wa Schnorr, ulioteuliwa na $Q$. Ufunguo huu $Q$ ni muunganisho wa funguo mbili za umma: $P$, ufunguo mkuu wa ndani wa umma, na $M$, ufunguo wa umma unaotokana na Merkle Root ya orodha ya _scriptPubKey_. Bitcoins zilizofungwa na aina hii ya hati zinaweza kutumika kwa njia mbili:
-
-
-- Kwa kuchapisha saini ya ufunguo wa umma $P$ (_njia ya ufunguo_);
-- Kwa kutosheleza mojawapo ya hati zilizojumuishwa kwenye Merkle Tree (_script path_).
-
-Kwa kweli, funguo hizi mbili "hazijaunganishwa." Kitufe cha $P$ badala yake kimebadilishwa na ufunguo $M$. Katika cryptography, "tweak" ufunguo wa umma inamaanisha kurekebisha ufunguo huu kwa kutumia thamani ya ziada inayoitwa "tweak." Uendeshaji huu huruhusu ufunguo uliorekebishwa kubaki sambamba na ufunguo wa asili wa faragha na tweak. Kitaalam, tweak ni thamani ya scalar $t$ ambayo huongezwa kwa ufunguo wa kwanza wa umma. Ikiwa $P$ ndio ufunguo asili wa umma, ufunguo uliobadilishwa unakuwa:
-
-$$
-P' = P + tG
-$$
-
-Ambapo $G$ ni jenereta ya curve ya duaradufu inayotumika. Uendeshaji huu hutoa ufunguo mpya wa umma unaotokana na ufunguo asili, huku ukihifadhi sifa za siri zinazoruhusu matumizi yake.
-
-Iwapo huhitaji kuongeza hati mbadala (kutumia pekee kupitia _key path_), unaweza generate Taproot Address iliyoanzishwa kwa kutumia kitufe cha umma kilicho katika kina cha 5 cha Wallet yako. Katika kesi hii, ni muhimu kuunda hati isiyoweza kutumika kwa _script path_, ili kukidhi mahitaji ya muundo. Tweak $t$ kisha inakokotolewa kwa kutumia chaguo za kukokotoa zilizotambulishwa za Hash, **`TapTweak`**, kwenye ufunguo wa ndani wa umma $P$:
-
-$$
-t = \text{H}\_{\text{TapTweak}}(P)
-$$
-
-wapi:
-
-
-- $\text{H}_{\text{TapTweak}}$** ni chaguo za kukokotoa za SHA256 Hash zilizowekwa lebo ya `TapTweak`. Iwapo hufahamu kipengele cha kukokotoa chenye alama ya Hash ni nini, ninakualika uangalie sura ya 3.3;
-- $P$ ni ufunguo wa ndani wa umma, unaowakilishwa katika umbizo lake la biti-256 lililobanwa, kwa kutumia kiratibu cha $x$ pekee.
-
-Ufunguo wa umma wa Taproot $Q$ kisha hukokotolewa kwa kuongeza kibano $t$, kinachozidishwa na jenereta ya mkunjo wa duaradufu $G$, kwa ufunguo wa ndani wa umma $P$:
-
-$$
-Q = P + t \cdot G
-$$
-
-Mara tu ufunguo wa umma wa Taproot $Q$ unapopatikana, tunaweza generate kupokea sambamba Address. Tofauti na miundo mingine, anwani za Taproot hazijaanzishwa kwenye Hash ya ufunguo wa umma. Kwa hiyo, ufunguo wa $ Q$ umeingizwa moja kwa moja kwenye Address, kwa namna ya ghafi.
-
-Kuanza, tunatoa kiratibu cha $x$ cha uhakika $Q$ ili kupata ufunguo wa umma uliobanwa. Kwenye mzigo huu wa malipo, hundi inakokotolewa kwa kutumia misimbo ya BCH, kama ilivyo kwa anwani za SegWit v0. Walakini, programu inayotumiwa kwa anwani za Taproot inatofautiana kidogo. Hakika, baada ya kuanzishwa kwa umbizo la _bech32_ na SegWit, hitilafu iligunduliwa: wakati herufi ya mwisho ya Address ni `p`, kuingiza au kuondoa `q` kabla ya `p` hii haifanyi hundi kuwa batili. Ingawa mdudu huyu hana matokeo kwenye SegWit v0 (shukrani kwa kizuizi cha saizi), inaweza kusababisha shida katika siku zijazo. Kwa hivyo hitilafu hii imesahihishwa kwa anwani za Taproot, na umbizo jipya lililosahihishwa linaitwa "_bech32m_".
-
-Taproot Address inatolewa kwa kusimba kiratibu cha $x$ cha $Q$ katika umbizo la _bech32m_, kwa kutumia Elements ifuatayo:
-
-
-- HRP (_Sehemu Inayosomeka kwa Binadamu_)**: `bc`, ili kuonyesha mtandao mkuu wa Bitcoin;
-- Toleo**: `1` kuashiria Taproot / SegWit v1;
-- Cheki**.
-
-Address ya mwisho kwa hivyo itakuwa na umbizo:
-
-```
-bc1p[Qx][checksum]
-```
-
-Kwa upande mwingine, ikiwa ungependa kuongeza hati mbadala pamoja na matumizi na ufunguo wa ndani wa umma (_script path_), hesabu ya Address inayopokea itakuwa tofauti kidogo. Utahitaji kujumuisha Hash ya hati mbadala katika hesabu ya tweak. Katika Taproot, kila script mbadala, iko mwisho wa Merkle Tree, inaitwa "jani".
-
-Mara tu maandishi mbadala tofauti yanapoandikwa, lazima uyapitishe kibinafsi kupitia kitendakazi chenye lebo ya Hash `TapLeaf`, kinachoambatana na baadhi ya metadata:
-
-$$
-\text{h}_{\text{leaf}} = \text{H}_{\text{TapLeaf}} (v \Vert sz \Vert S)
-$$
-
-Na:
-
-
-- $v$: nambari ya toleo la hati (chaguo-msingi `0xC0` kwa Taproot);
-- $sz$: ukubwa wa hati iliyosimbwa katika umbizo la _CompactSize_;
-- $S$: hati.
-
-Heshi tofauti za hati ($\text{h}_{\text{leaf}}$) hupangwa kwanza kwa mpangilio wa kileksikografia. Kisha, huunganishwa katika jozi na kupitishwa kupitia chaguo la kukokotoa la Hash `TapBranch`. Utaratibu huu unarudiwa mara kwa mara ili kujenga, hatua kwa hatua, Merkle Tree:
-
-$$
-\text{h}_{\text{branch}} = \text{H}_{\text{TapBranch}}(\text{h}_{\text{leaf1}} \Vert \text{h}_{\text{leaf2}})
-$$
-
-Kisha tunaendelea kwa kuunganisha matokeo mawili baada ya mawili, tukiyapitisha kwa kila hatua kupitia chaguo la kukokotoa la Hash `TapBranch`, hadi tupate mzizi wa Merkle Tree:
-
-![CYP201](assets/fr/066.webp)
-
-Mara tu Merkle Root $h_{\text{root}}$ inakokotolewa, tunaweza kuhesabu tweak. Kwa hili, tunaunganisha ufunguo wa ndani wa umma wa Wallet $P$ na mzizi $h_{\text{root}}$, na kisha tupitishe yote kupitia chaguo la kukokotoa la Hash `TapTweak` lililowekwa lebo:
-
-$$
-t = \text{H}_{\text{TapTweak}}(P \Vert h_{\text{root}})
-$$
-
-Hatimaye, kama hapo awali, ufunguo wa umma wa Taproot $Q$ unapatikana kwa kuongeza ufunguo wa ndani wa umma $P$ kwa bidhaa ya tweak $t$ na pointi ya jenereta $G$:
-
-$$
-Q = P + t \cdot G
-$$
-
-Kisha, utengenezaji wa Address hufuata mchakato ule ule, kwa kutumia ufunguo ghafi wa umma $Q$ kama upakiaji, unaoambatana na metadata ya ziada.
-
-Na hapo unayo! Tumefika mwisho wa kozi hii ya CYP201. Ikiwa umepata kozi hii kuwa ya manufaa, nitashukuru sana ikiwa ungeweza kuchukua muda mfupi kuipa ukadiriaji mzuri katika sura ifuatayo ya tathmini. Jisikie huru pia kuishiriki na wapendwa wako au kwenye mitandao yako ya kijamii. Hatimaye, ikiwa ungependa kupata diploma yako ya kozi hii, unaweza kufanya mtihani wa mwisho baada ya sura ya tathmini.
+Methodolojia ni kipengele muhimu katika uchumi na katika sayansi ya kijamii kwa ujumla. Huathiri jinsi maswali yanavyoulizwa, dhahania zinavyoundwa, na data inavyofasiriwa. Kuelewa tofauti za mbinu kati ya shule za fikra za kiuchumi kunaweza kutusaidia kufahamu mitazamo mbalimbali na kukuza maoni yetu kuhusu mada zilizojadiliwa katika vipindi vilivyotangulia.
 
 # Hitimisho
 
-<partId>58111408-b734-54db-9ea7-0d5b67f99f99</partId>
+<partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
 ## Ukaguzi na Ukadiriaji
 
-<chapterId>0cd71541-a7fd-53db-b66a-8611b6a28b04</chapterId>
+<chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 
 <isCourseReview>true</isCourseReview>
 ## Mtihani wa Mwisho
 
-<chapterId>a53ea27d-0f84-56cd-b37c-a66210a4b31d</chapterId>
+<chapterId>d58d188f-81fb-572a-a898-8b6f8aceba7a</chapterId>
 
 <isCourseExam>true</isCourseExam>
 ## Hitimisho
 
-<chapterId>d291428b-3cfa-5394-930e-4b514be82d5a</chapterId>
+<chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
 
 <isCourseConclusion>true</isCourseConclusion>
