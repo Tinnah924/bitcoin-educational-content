@@ -1,7 +1,6 @@
 ---
 name: बिटएक्स की स्थापना
-विवरण: बिटएक्स कैसे स्थापित करें?
-
+description: बिटएक्स कैसे स्थापित करें?
 ---
 
 ### परिचय
@@ -23,7 +22,7 @@ name: बिटएक्स की स्थापना
 | Bitaxe Hex (Series 300)  | 6 x BM1366| Antminer S19k Pro and S19 XP| 3.0 TH/s (up to 3.3 TH/s)   | Miners seeking scalability and high performance without sacrificing efficiency.                             |
 | Bitaxe Supra (Series 400)| 1 x BM1368| Antminer S21                | 600 GH/s (up to 700 GH/s)   | Serious enthusiasts seeking the highest hash rates and efficiency.                                         |
 
-इस ट्यूटोरियल में, हम एक बिटएक्स अल्ट्रा 204 का उपयोग करेंगे जो एंटमाइनर S19XP के लिए उपयोग की जाने वाली BM1366 चिप से लैस है। यह पहले से ही रिटेलर द्वारा असेंबल और फ्लैश किया गया है।
+इस ट्यूटोरियल में, हम BM1366 चिप से लैस BitAxe Ultra 204 का उपयोग करेंगे, जिसका उपयोग Antminer S19XP के लिए किया जाता है। यह पहले से ही रिटेलर द्वारा असेंबल और फ्लैश किया गया है।
 
 
 ### [खुदरा विक्रेताओं की सूची इस पृष्ठ पर उपलब्ध है](https://bitaxe.org/legit.html)
