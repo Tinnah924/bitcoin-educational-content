@@ -232,7 +232,7 @@ Lakini amekosea kuhusu jambo la msingi kuhusu tabaka la wafanyakazi: si mtaji un
 
 Kwa mujibu wa Marx, unyonyaji ni mchakato unaojumuisha kuchota sehemu ya thamani inayotengenezwa na mfanyakazi bila kuilipia, ambayo inaruhusu mabepari kupata faida. Kwa maneno mengine, unyonyaji ungekuwa utaratibu unaoruhusu mabepari kujitajirisha wenyewe kwa kuiba kazi ya babakabwela.
 
-Uchambuzi huu unaonyesha kutokuelewana kwa thamani ya ziada na hali ya ushirika na nguvu ya maisha ya kiuchumi. Hakika, faida ambayo mfanyabiashara anapata ni fidia kwa hatari anayochukua, na mfanyakazi au mfanyakazi si mtumwa. Katika hali ya ushindani, wanaweza kukubali au kukataa Contract na mwajiri wao. Wanafanya uchaguzi unaoonyesha uchanganuzi wa faida ya gharama.
+Uchambuzi huu unaonyesha kutokuelewana kwa thamani ya ziada na hali ya ushirika na nguvu ya maisha ya kiuchumi. Hakika, faida ambayo mfanyabiashara anapata ni fidia kwa hatari anayochukua, na mfanyakazi au mfanyakazi si mtumwa. Katika hali ya ushindani, wanaweza kukubali au kukataa mkataba na mwajiri wao. Wanafanya uchaguzi unaoonyesha uchanganuzi wa faida ya gharama.
 
 ### Mapinduzi ya Viwanda katika Swali
 
