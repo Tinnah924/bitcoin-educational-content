@@ -74,13 +74,13 @@ Hata hivyo, lengo la kozi hii si tu kutoa mwanga juu ya historia ya uhuru lakini
 Kutoka kwa asili yake, ina madhumuni mawili:
 
 
-- Kwanza, ni kutoa maana kwa dhana zisizo wazi na zilizochanganyikiwa. Ni nini nzuri, kweli, nzuri, nzuri? Kama vile kazi ya historia ni kuangazia zamani, vivyo hivyo falsafa ni sanaa ya kufafanua dhana kwa usahihi. Ndio maana tunahitaji kuanza katika kozi hii kwa kuelewa uhuru ni nini.
+-Kwanza,ni kutoa maana kwa dhana zisizoeleweka au zilizochanganyikiwa.Nini ni chema, cha kweli, cha haki, au kizuri? Kama vile kazi ya historia ni kuangazia zamani, vivyo hivyo falsafa ni sanaa ya kufafanua dhana kwa usahihi. Ndio maana tunahitaji kuanza katika kozi hii kwa kuelewa uhuru ni nini.
 
 ![image](assets/1/img-027.webp)
 
 Uhuru ni dhana ambayo inashughulikia anuwai nyingi, ambazo ni tofauti nyingi iwezekanavyo za ukweli sawa: uhuru wa kisiasa, uhuru wa kiuchumi, uhuru wa dhamiri, wa kusema, uhuru wa kidini, uhuru wa kujumuika, n.k. Je, tunazungumzia ukweli gani?
 
-Uhuru unaweza kufafanuliwa kwa urahisi kama nguvu ya kuchagua, na kile ambacho ni mali yako mwenyewe. Ni kitivo cha asili cha mwanadamu. Ni ukweli ambao kimsingi ni mtu binafsi. Mtu pekee ndiye anayeweza kufikiria na kutenda, yaani, kufanya uchaguzi. Hii haimaanishi kwamba mtu huyo yuko peke yake, kwamba hana deni lolote kwa wengine. Badala yake, anaishi katika jamii na lazima ashirikiane na wengine kwa manufaa yake mwenyewe. Lakini kila mtu anasalia kuwa huru kushirikiana au la na lazima awajibike kwa chaguo lake.
+Uhuru unaweza kufafanuliwa kwa urahisi kama nguvu ya kuchagua, na kile ambacho ni mali yako mwenyewe.Ni uwezo wa kiasili wa mwanadamu.Ni ukweli ambao kimsingi ni mtu binafsi. Mtu pekee ndiye anayeweza kufikiria na kutenda, yaani, kufanya uchaguzi. Hii haimaanishi kwamba mtu huyo yuko peke yake, kwamba hana deni lolote kwa wengine. Badala yake, anaishi katika jamii na lazima ashirikiane na wengine kwa manufaa yake mwenyewe. Lakini kila mtu anasalia kuwa huru kushirikiana au la na lazima awajibike kwa chaguo lake.
 
 Dhana ya uwajibikaji inaambatana na uhuru kwa sababu kila chaguo lina matokeo. Mtu anayewajibika ndiye anayechukua gharama za chaguo lake mwenyewe na haihamishi gharama hii kwa wengine. Kwa maneno mengine, uhuru ni kudai. Ni dhana ya kimaadili inayomaanisha haki lakini pia wajibu kwa wengine, ikiwa ni pamoja na wajibu wa kuheshimu uhuru wao.
 
@@ -89,7 +89,7 @@ Dhana ya uwajibikaji inaambatana na uhuru kwa sababu kila chaguo lina matokeo. M
 
 ### Falsafa ya uhuru na falsafa ya nguvu
 
-Kwa mtazamo huu, kuna aina mbili tu za falsafa za kisiasa: falsafa ya uhuru na falsafa ya nguvu.
+Kwa mtazamo huu, kuna aina mbili tu za falsafa za kisiasa: falsafa ya uhuru na falsafa ya mamlaka.
 
 ![image](assets/1/img-016.webp)
 
@@ -124,7 +124,7 @@ Mtu anapofungua vitabu vya kiada, Bastiat alibainisha, mtu hujifunza kwamba ubin
 > "Inatosha kufungua, karibu kwa nasibu, kitabu cha falsafa, siasa, au historia kuona jinsi wazo hili lilivyokita mizizi katika nchi yetu, lililozaliwa na masomo ya kitambo na mama wa Ujamaa, kwamba ubinadamu ni jambo lisilo la kawaida linalopokea kutoka kwa maisha ya nguvu, shirika, maadili na utajiri; - au mbaya zaidi, kwamba ubinadamu wenyewe unaelekea kwenye uharibifu wake na unasimamishwa tu kwenye mteremko huu wa siri wa Baraza." ([_The Law_](http://bastiat.org/fr/la_loi.html)).
 Kwa maneno mengine, ubaguzi wa kitamaduni unaotawala falsafa ya Magharibi pamoja na historia ni kwamba tunadaiwa kila kitu kwa mamlaka: uhuru, afya, elimu, usalama, ustawi. Ubinadamu unaelezewa kama "jambo lisilo na maana" ambalo huchukua sura ya shukrani kwa mbunge.
 
-Lakini ukweli wa nguvu ni tofauti kabisa kulingana na Bastiat. Nguvu ni ukandamizaji. Anaandika:
+Lakini ukweli wa mamlaka ni tofauti kabisa kulingana na Bastiat. Mamlaka ni ukandamizaji. Anaandika:
 
 Fungua kumbukumbu za ubinadamu bila mpangilio! Chunguza historia ya kale au ya kisasa, takatifu au chafu, na ujiulize vita hivi vyote vya rangi, tabaka, mataifa, na familia vinatoka wapi! Utapata jibu hili lisilobadilika kila wakati: Kutoka kwa kiu ya madaraka. ([_Kutopatana kwa Bunge_](http://bastiat.org/fr/incompatibilites_parlementaires.html))
 
@@ -137,7 +137,7 @@ Kwa hivyo historia ni mapambano kati ya kanuni mbili: uhuru na ukandamizaji:
 
 ![image](assets/1/img-025.webp)
 
-Kwa neno moja, ni nyara. Bastiat anachora aina kuu za uporaji zinazotoka kwa wasomi watawala: vita, utumwa, theokrasia, na ukiritimba. Kwa hakika, kulingana na yeye: "Kuna njia mbili tu za kupata mahitaji kwa ajili ya kuhifadhi, pambo, na kuboresha maisha: UZALISHAJI na NYARA." ([_The Physiology of Plunder_](http://bastiat.org/fr/physiologie_de_la_spoliation.html))
+Kwa neno moja, ni wizi. Bastiat anachora aina kuu za uporaji zinazotoka kwa wasomi watawala: vita, utumwa, theokrasia, na ukiritimba. Kwa hakika, kulingana na yeye: "Kuna njia mbili tu za kupata mahitaji kwa ajili ya kuhifadhi, pambo, na kuboresha maisha: UZALISHAJI na NYARA." ([_The Physiology of Plunder_](http://bastiat.org/fr/physiologie_de_la_spoliation.html))
 
 Kuna tofauti gani kati ya uzalishaji na uporaji? Hapa kuna jibu la Bastiat:
 
@@ -151,7 +151,7 @@ Bastiat anatuambia bado kuna aina mbili za uporaji wa kisheria:
 > Nyara za nje huitwa vita, ushindi, makoloni. Uporaji wa ndani unaitwa ushuru, nyadhifa, ukiritimba. ([_Cobden na Ligi_](http://bastiat.org/fr/introduction_cobden_ligue.html), Utangulizi).
 Katika [_The Physiology of Plunder_](http://bastiat.org/fr/physiologie_de_la_spoliation.html), anafafanua:
 
-> Sheria ya kweli na ya usawa ya wanaume ni: Inayojadiliwa kwa uhuru Exchange ya huduma kwa ajili ya huduma. Uporaji unajumuisha kupiga marufuku kwa nguvu au kwa udanganyifu uhuru wa mijadala ili kupokea huduma bila kutoa. Uporaji kwa nguvu unatekelezwa kama ifuatavyo: Mtu hungoja mtu atoe kitu, kisha akamnyang'anya, silaha mkononi. Imelaaniwa rasmi na Maagizo: Usiibe. Inapotokea kutoka kwa mtu binafsi hadi kwa mtu binafsi, inaitwa wizi na inaongoza jela; inapotoka taifa hadi taifa, inaitwa ushindi na inaongoza kwenye utukufu.
+> Sheria ya kweli na ya usawa ya wanaume ni:Mbadala wa huduma kwa huduma unaojadiliwa kwa uhuru. Uporaji unajumuisha  marufuku kwa nguvu au kwa udanganyifu uhuru wa mijadala ili kupokea huduma bila kutoa. Uporaji kwa nguvu unatekelezwa kama ifuatavyo: Mtu hungoja mtu atoe kitu, kisha akamnyang'anya, silaha mkononi. Imelaaniwa rasmi na Maagizo: Usiibe. Inapotokea kutoka kwa mtu binafsi hadi kwa mtu binafsi, inaitwa wizi na inaongoza jela; inapotoka taifa hadi taifa, inaitwa ushindi na inaongoza kwenye utukufu.
 ### Historia ya Uporaji
 
 ![image](assets/1/img-020.webp)
