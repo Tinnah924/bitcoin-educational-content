@@ -12,9 +12,9 @@ objectives:
 
 Historia ya Falsafa ya Uhuru inachunguza uhuru katika historia. Damien Theillier anachunguza falsafa mbili za kisiasa: uhuru na nguvu. Anachanganua wanafikra kama vile Frédéric Bastiat, Lord Acton, Karl Marx, na Murray Rothbard, akitoa mwanga kuhusu maoni yao kuhusu uzalishaji, uporaji, mapambano ya kitabaka na Serikali.
 
-Kozi hiyo inarudi kwenye chimbuko la uhuru katika Zama za Kale, na Wagiriki na Warumi, kupitia Enzi za Kati, ambapo uhuru wa mwanadamu unajadiliwa katika muktadha wa kidini na kisiasa. Inaonyesha jinsi mawazo ya uhuru yalivyoibuka na kuzaliwa kwa vyuo vikuu na aina za kwanza za ubepari katika miji ya Italia.
+Kozi hii inarudi kwenye chimbuko la uhuru katika Zama za Kale, na Wagiriki na Warumi, kupitia Enzi za Kati, ambapo uhuru wa mwanadamu unajadiliwa katika muktadha wa kidini na kisiasa. Inaonyesha jinsi mawazo ya uhuru yalivyoibuka na kuzaliwa kwa vyuo vikuu na aina za kwanza za ubepari katika miji ya Italia.
 
-Kuanzia Renaissance hadi Mwangaza, kozi hiyo inachunguza kuongezeka kwa uhuru, unaoangaziwa na uvumilivu wa kidini na uhuru wa kiuchumi, uliofikia kilele mnamo 1776 na hafla kuu kama Kongamano la Philadelphia. Karne za 19 na 20 zinashuhudia kilele na kupungua kwa uhuru, kukabiliwa na ukosoaji wa ubepari na hatari za umoja, kuweka katika mtazamo changamoto za kisasa za uhuru.
+Kuanzia Renaissance hadi Mwangaza, kozi hii inachunguza kuongezeka kwa uhuru, unaoangaziwa na uvumilivu wa kidini na uhuru wa kiuchumi, uliofikia kilele mnamo 1776 na hafla kuu kama Kongamano la Philadelphia. Karne za 19 na 20 zinashuhudia kilele na kupungua kwa uhuru, kukabiliwa na ukosoaji wa ubepari na hatari za umoja, kuweka katika mtazamo changamoto za kisasa za uhuru.
 
 +++
 # Utangulizi
