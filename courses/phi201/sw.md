@@ -288,7 +288,7 @@ Katika sura ya mwisho ya _Anatomy of the State_ (iliyotafsiriwa kwa Kifaransa ka
 ![image](assets/1/img-013.webp)
 
 
-- Ushirikiano wa amani na uzalishaji, ambao unawakilisha Exchange ya hiari na uundaji wa mali kupitia kazi na uvumbuzi.
+- Ushirikiano wa amani na uzalishaji, ambao unawakilisha Kubadilisha hiari na uundaji wa mali kupitia kazi na uvumbuzi.
 - Unyonyaji wa shuruti na unyang'anyi, unaojumuishwa na utawala wa Serikali, ambao unachukua matunda ya kazi ya watu binafsi kwa nguvu.
 
 Akirejelea Albert J. Nock, Rothbard anatumia maneno "nguvu ya kijamii" na "nguvu ya serikali" kutaja nguvu hizi mbili zinazopingana:
@@ -299,9 +299,9 @@ Akirejelea Albert J. Nock, Rothbard anatumia maneno "nguvu ya kijamii" na "nguvu
 
 ### Jimbo kama Vimelea
 
-Rothbard inachukulia Serikali kama vimelea vinavyoishi kwa gharama ya jamii yenye tija. Inanyakua "machapisho ya amri" kimkakati kwa utajiri na mamlaka inayofaa. Ukiritimba wa nguvu, haki, elimu, miundombinu. Na anaongeza, "Katika uchumi wa kisasa, pesa ni chapisho muhimu la amri."
+Rothbard anachukulia Serikali kama vimelea vinavyoishi kwa gharama ya jamii yenye tija. Inanyakua "machapisho ya amri" kimkakati kwa utajiri na mamlaka inayofaa. Ukiritimba wa nguvu, haki, elimu, miundombinu. Na anaongeza, "Katika uchumi wa kisasa, pesa ni chapisho muhimu la amri."
 
-Kwa Rothbard, kanuni ya uhuru inapaswa pia kutumika kwa pesa. Ikiwa tunapendelea uhuru katika sekta nyinginezo, ikiwa tunataka kulinda mali na mtu dhidi ya kuingiliwa kwa Serikali, kazi yetu ya haraka zaidi lazima iwe kuchunguza uwezekano wa soko huria la pesa. (Angalia insha yake juu ya hatua hii: _State, Je, Umefanya Nini na Pesa Zetu?_ Tafsiri ya Stéphane Couvreur for the Institut Coppet, 2011).
+Kwa Rothbard, kanuni ya uhuru inapaswa pia kutumika kwa pesa. Ikiwa tunapendelea uhuru katika sekta nyinginezo, ikiwa tunataka kulinda mali na mtu dhidi ya kuingiliwa kwa Serikali, kazi yetu ya haraka zaidi lazima iwe kuchunguza uwezekano wa soko huria la pesa. (Angalia insha yake juu ya hatua hii: _State, What Have You Done With Our Money?_ Tafsiri ya Stéphane Couvreur for the Institut Coppet, 2011).
 
 ### Kushindwa kwa Majaribio ya Kuweka Kikomo Serikali
 
@@ -323,9 +323,9 @@ Kulingana na Rothbard, historia sio mchakato wa mstari, lakini badala yake ni mg
 Kuanzia karne ya 17 hadi karne ya 19, katika nchi nyingi za Magharibi, kulikuwa na vipindi vya kuongeza kasi ya nguvu ya kijamii na ongezeko linalolingana la uhuru, amani, na ustawi wa mali. Lakini Rothbard anatukumbusha kwamba karne ya 20 ilitiwa alama na kuibuka tena kwa mamlaka ya Serikali, kukiwa na matokeo mabaya: ongezeko la utumwa, vita, na uharibifu:
 
 > Wakati wa karne hii, jamii ya kibinadamu inakabili, kwa mara nyingine tena, utawala wa kikatili wa Serikali; Serikali ambayo sasa imejizatiti kwa uwezo wa ubunifu wa mwanadamu, iliyonyakuliwa na kupotoshwa kwa malengo yake yenyewe.
-> Je! ni nini jamii huru? Ni jamii isiyo na ukiritimba. Katika kazi yake ya falsafa ya kisiasa, _Ethics of Liberty_ (1982), Rothbard anajibu: "jamii ambayo hakuna uwezekano wa kisheria wa uchokozi wa kulazimisha dhidi ya mtu au mali ya mtu binafsi." Hii ndiyo sababu, kulingana na yeye, falsafa ya kisiasa, ambayo lazima ifafanue kanuni za jamii yenye haki, inajikita kwenye swali moja: "Nani anamiliki nini kihalali?"
+> Je! Jamii huru ni nini?? Ni jamii isiyo na ukiritimba. Katika kazi yake ya falsafa ya kisiasa, _Ethics of Liberty_ (1982), Rothbard anajibu: "jamii ambayo hakuna uwezekano wa kisheria wa uchokozi wa kulazimisha dhidi ya mtu au mali ya mtu binafsi." Hii ndiyo sababu, kulingana na yeye, falsafa ya kisiasa, ambayo lazima ifafanue kanuni za jamii yenye haki, inajikita kwenye swali moja: "Nani anamiliki nini kihalali?"
 > ![image](assets/1/img-029.webp)
-Kwa Rothbard, utaratibu wa kijamii unaweza kutawala ikiwa ni zao la ujanibishaji wa taratibu za kimkataba kwa Exchange ya bure ya haki za mali, kwa kubinafsisha shughuli zote za kiuchumi na hata kazi kuu (benki kuu, mahakama) na kwa kutumia ushindani kati ya mashirika ya ulinzi.
+Kwa Rothbard, utaratibu wa kijamii unaweza kutawala ikiwa ni zao la ujanibishaji wa taratibu za kimkataba kwa kubadilishana haki za umiliki wa mali kwa uhuru kwa kubinafsisha shughuli zote za kiuchumi na hata kazi kuu (benki kuu, mahakama) na kwa kutumia ushindani kati ya mashirika ya ulinzi.
 
 Na anaongeza:
 
@@ -355,7 +355,7 @@ Demokrasia ya Athene inawakilisha mapumziko makubwa kutoka kwa mila za zamani. H
 
 Mwanahistoria Jean-Pierre Vernant anaandika:
 
-> Kuibuka kwa polis kunajumuisha, katika historia ya mawazo ya Kigiriki, tukio la kuamua. Kwa hakika, katika suala la maendeleo ya kiakili na katika nyanja ya taasisi, matokeo yake kamili yangepatikana tu kwa muda mrefu; polis ingepitia hatua nyingi, aina mbalimbali. Hata hivyo, kutokana na ujio wake, ambao unaweza kuwekwa kati ya karne ya 8 na 7, inaashiria mwanzo, uvumbuzi wa kweli; kupitia hilo, maisha ya kijamii na mahusiano kati ya wanadamu huchukua sura mpya, uhalisi ambao Wagiriki wangehisi kikamilifu. (...) Kile ambacho mfumo wa poli unadokeza kwanza kabisa ni ukuu wa ajabu wa usemi juu ya vyombo vingine vyote vya mamlaka. Inakuwa chombo cha kisiasa sawa na ubora, ufunguo wa mamlaka yote katika serikali, njia ya amri na utawala juu ya wengine. (...) Sifa ya pili ya poli ni asili ya utangazaji kamili unaotolewa kwa maonyesho muhimu zaidi ya maisha ya kijamii. Mtu anaweza hata kusema kwamba polis ipo tu kama uwanja wa umma umejitokeza, katika hisia mbili tofauti, lakini zilizounganishwa za neno: sekta ya maslahi ya kawaida, kinyume na mambo ya kibinafsi; mazoea ya wazi, yaliyoanzishwa mchana, kinyume na taratibu za siri. (...) Kuanzia sasa, majadiliano, mabishano, mabishano yanakuwa kanuni za mchezo wa kiakili, na vile vile mchezo wa kisiasa. Udhibiti wa mara kwa mara wa jamii unatekelezwa juu ya ubunifu wa akili na vile vile juu ya mahakimu wa serikali.
+> Kuibuka kwa polis — yaani miji ya kujitawala ya Kigiriki ya zamani kama vile Athene na Sparta —  kunajumuisha, katika historia ya mawazo ya Kigiriki, tukio la kuamua. Kwa hakika, katika suala la maendeleo ya kiakili na katika nyanja ya taasisi, matokeo yake kamili yangepatikana tu kwa muda mrefu; polis ingepitia hatua nyingi, aina mbalimbali. Hata hivyo, kutokana na ujio wake, ambao unaweza kuwekwa kati ya karne ya 8 na 7, inaashiria mwanzo, uvumbuzi wa kweli; kupitia hilo, maisha ya kijamii na mahusiano kati ya wanadamu huchukua sura mpya, uhalisi ambao Wagiriki wangehisi kikamilifu. (...) Kile ambacho mfumo wa poli unadokeza kwanza kabisa ni ukuu wa ajabu wa usemi juu ya vyombo vingine vyote vya mamlaka. Inakuwa chombo cha kisiasa sawa na ubora, ufunguo wa mamlaka yote katika serikali, njia ya amri na utawala juu ya wengine. (...) Sifa ya pili ya poli ni asili ya utangazaji kamili unaotolewa kwa maonyesho muhimu zaidi ya maisha ya kijamii. Mtu anaweza hata kusema kwamba polis ipo tu kama uwanja wa umma umejitokeza, katika hisia mbili tofauti, lakini zilizounganishwa za neno: sekta ya maslahi ya kawaida, kinyume na mambo ya kibinafsi; mazoea ya wazi, yaliyoanzishwa mchana, kinyume na taratibu za siri. (...) Kuanzia sasa, majadiliano, mabishano, mabishano yanakuwa kanuni za mchezo wa kiakili, na vile vile mchezo wa kisiasa. Udhibiti wa mara kwa mara wa jamii unatekelezwa juu ya ubunifu wa akili na vile vile juu ya mahakimu wa serikali.
 >
 
 > (Jean Pierre Vernant, _The Origins of Greek Thought_, Paris, P.U.F, 1962)
