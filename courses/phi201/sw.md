@@ -449,7 +449,7 @@ Milki ya Kirumi ilikuwa shirika kubwa la ulimwengu. Katika kilele chake, karibu 
 
 Kuanzia wakati huo na kuendelea, Warumi waliendeleza maendeleo ya sheria mbali zaidi ya Wagiriki, ambao waliishi katika majimbo madogo, yenye usawa wa kikabila. Chini ya Jamhuri ya Kirumi, tayari kulikuwa na ulinzi wa kisheria wa mali na haki za mtu binafsi.
 
-Hakika, kazi ya sheria ilikuwa kufanya kuishi pamoja kwa amani na Exchange kati ya watu iwezekanavyo, kwa kuainisha mipaka ya "yangu" na "yako."
+Hakika, kazi ya sheria ilikuwa kufanya kuishi pamoja kwa amani na ubadilishanaji kati ya watu iwezekanavyo, kwa kuainisha mipaka ya "yangu" na "yako."
 
 Mali ya kibinafsi ilichukua mwelekeo mpya katika ustaarabu wa Kirumi ambao haukujua hapo awali, hata katika ustaarabu wa Kigiriki.
 
@@ -556,7 +556,7 @@ Hakika, utajiri wa aristocracy ya Kirumi ulikuja tu kutoka kwa ngawira ya uvamiz
 
 ### Mkate na Mizunguko
 
-Karibu 140, mwanahistoria wa Kirumi Fronto aliandika:
+Karibu mwanahistoria 140 wa Kirumi Fronto aliandika:
 
 > Jamii ya Kirumi inajishughulisha zaidi na mambo mawili, ugavi wake wa chakula na miwani yake.
 Mapigano ya Gladiator, mbio za magari, na maonyesho ya ukumbi wa michezo, mara nyingi bila malipo, yalivutia umati mkubwa na kuruhusu wasomi kupata upendeleo wa watu. Nguvu ilitoa michezo kwa raia wake, lakini pia ngano, mkate, nguruwe, na mafuta. Mkakati huu ulitumika kama mkakati wa kisiasa wa kupunguza mivutano ya kijamii, kugeuza umakini kutoka kwa shida za kiuchumi, na kuimarisha nguvu za wafalme.
@@ -593,7 +593,7 @@ Je, Roma ilikuwa mamlaka huru zaidi ya ulimwengu wa kale? Je, basi iliangukia ka
 
 Uliberali: imani katika utendaji wa watu binafsi, kutoa utaratibu wa hiari, kwa sababu tu unatokana na mwingiliano wao wa hiari, kupitia mchezo huria wa soko na heshima kwa haki zao zisizoweza kuondolewa.
 
-Ujamaa: Ujamaa: shirika na Jimbo la jamii linalozingatiwa kwa ujumla, kupitia upangaji wa uzalishaji na matumizi.
+Ujamaa: shirika na Jimbo la jamii linalozingatiwa kwa ujumla, kupitia upangaji wa uzalishaji na matumizi.
 
 Nadharia ya kitabu cha Philippe Fabry ni kwamba "kuanguka kwa Dola ya Kirumi ni matokeo ya mkwamo ambao ujamaa wa kifalme ulikuwa umeongoza ulimwengu wa kale." Ilikuwa ni dirigisme ya dola ya kifalme ya Kirumi ambayo ilisababisha kuanguka kwake.
 
@@ -601,7 +601,7 @@ Jamhuri ya Kirumi, ambayo ilikuwa nguvu kubwa zaidi ya kiliberali ya ulimwengu w
 
 Katika siku za mwanzo za ukuu wake, kila Mrumi alijiona kuwa chanzo kikuu cha mapato yake. Alichoweza kupata sokoni kwa hiari ndicho chanzo cha riziki yake. Kupungua kwa Roma kulianza wakati idadi kubwa ya raia ilipogundua chanzo kingine cha mapato: mchakato wa kisiasa au serikali ya ugawaji.
 
-Warumi kisha waliacha uhuru na wajibu wa kibinafsi katika Exchange kwa ahadi za mapendeleo na utajiri uliosambazwa moja kwa moja na serikali. Wananchi walikubali wazo kwamba ilikuwa faida zaidi kupata mapato kupitia njia za kisiasa badala ya kupitia kazi.
+Warumi kisha waliacha uhuru na wajibu wa kibinafsi kwa kubadilishana na ahadi za mapendeleo na utajiri uliosambazwa moja kwa moja na serikali. Wananchi walikubali wazo kwamba ilikuwa faida zaidi kupata mapato kupitia njia za kisiasa badala ya kupitia kazi.
 
 Philippe Fabry anatoa muhtasari:
 
@@ -627,7 +627,7 @@ Tangu mwanzo, Ukristo unafundisha kwamba dhambi ni jambo la kibinafsi, si jambo 
 
 Dhambi haiwezi kuwepo bila uhuru. Hakika, Mungu wa Kikristo ni hakimu ambaye hulipa "wema" na kuadhibu "dhambi". Lakini dhana hii ya Mungu haipatani kabisa na imani mbaya kwa sababu mtu hangeweza kuwa na hatia na kufanya kosa lake ikiwa hawakuwa na uhuru wa kuamua tabia zao wenyewe. Kukubali kosa la kiadili la mtu, hatia yake, ni kutambua kwamba mtu angeweza kutenda tofauti.
 
-> "Kwa nini tunafanya vibaya?" anauliza Mtakatifu Augustino. Ikiwa sijakosea, hoja imeonyesha kwamba tunafanya hivi kwa hiari ya hiari. Lakini hiari hii ambayo tunawiwa nayo uwezo wetu wa kutenda dhambi, tumeshawishika, nashangaa kama yeye aliyetuumba alifanya vyema kutupa. Inaonekana, kwa hakika, kwamba tusingalikuwa tumeonyeshwa dhambi kama tungenyimwa; lakini inapasa kuogopwa kwamba, kwa njia hii, Mungu pia anaonekana kama mwanzilishi wa matendo yetu mabaya. (_De libero arbitrio_, I, 16, 35.)
+> "Kwa nini tunafanya dhambi?" anauliza Mtakatifu Augustino. Ikiwa sijakosea, hoja imeonyesha kwamba tunafanya hivi kwa hiari ya hiari. Lakini hiari hii ambayo tunawiwa nayo uwezo wetu wa kutenda dhambi, tumeshawishika, nashangaa kama yeye aliyetuumba alifanya vyema kutupa. Inaonekana, kwa hakika, kwamba tusingalikuwa tumeonyeshwa dhambi kama tungenyimwa; lakini inapasa kuogopwa kwamba, kwa njia hii, Mungu pia anaonekana kama mwanzilishi wa matendo yetu mabaya. (_De libero arbitrio_, I, 16, 35.)
 Ikiwa Mungu alitaka mwanadamu aweze kufanya makosa, je, si Yeye anawajibika kwa njia isiyo ya moja kwa moja kwa uovu? Kwa nini Mungu alitaka uwezekano wa uovu? Mtakatifu Augustino anajibu:
 
 > hiari ambayo bila hiyo hakuna mtu anayeweza kuishi vizuri, lazima utambue kwamba ni nzuri, na kwamba ni zawadi kutoka kwa Mungu, na kwamba wale wanaotumia vibaya wema huu wanapaswa kulaaniwa badala ya kusema juu ya aliyeitoa kwamba hakupaswa kutoa.
@@ -685,7 +685,7 @@ Fumbo linajumuisha kutojumuisha sababu kutoka kwa imani. Imani ni kamilifu, zaid
 
 Katika Uislamu, inasemekana pia kwamba mtu hapaswi kumwakilisha Mungu au kumpa sanamu. Katika ulimwengu wa Kikristo, mtu wa ajabu kama Meister Eckhart aliandika hivi katika Mahubiri: "Mambo yote yana sababu, lakini Mungu hana sababu." Kwa wenye mafumbo, falsafa halali pekee ni ile inayotoka moja kwa moja kutoka kwa Ufunuo. Chochote ambacho hakitoki humo si kweli wala si uongo bali hakina thamani yoyote ya ukweli.
 
-Kinyume cha moja kwa moja cha wazo hili ni kile kinachosema kwamba sababu pekee ndiyo sahihi, na kwamba imani yote haina maana. Hii ni mantiki kabisa, ambayo inaongoza kwa atheism. Walakini, mkondo kama huo haukutokea katika Zama za Kati.
+Kinyume cha moja kwa moja cha wazo hili ni kile kinachosema kwamba sababu pekee ndiyo sahihi, na kwamba imani yote haina maana. Hii ni mantiki kabisa, ambayo inaongoza kwa ukana Mungu. Walakini, mkondo kama huo haukutokea katika Zama za Kati.
 
 Kwa watetezi wa mantiki ya kidini, kuna ukamilishano kati ya akili na imani: hii ndiyo nafasi ya kati. Ukweli unaweza kujulikana kwa imani na kwa sababu. Na kwa hivyo, kile ambacho ni kweli katika imani lazima kiwe kweli katika akili, na kinyume chake. Ukweli ni mmoja lakini unapatikana kwa njia mbili. Kwa hiyo, kuna sayansi mbili ambazo haziwezi kupingana bali zinakamilishana: sayansi ya asili au falsafa na sayansi takatifu au theolojia. Ikiwa sivyo hivyo, ikiwa kuna mkanganyiko kati ya akili na imani, ni kwamba mtu anasababu vibaya, au anafasiri Maandiko kimakosa.
 
@@ -695,7 +695,7 @@ Hii ni nafasi ya kati, ambayo inatafuta kupatanisha imani na sababu. Rationalism
 
 ### Kuzaliwa kwa Vyuo Vikuu
 
-Enzi za Kati za Kikristo ziliwekwa alama, mwanzoni mwa karne ya 13, na kuzaliwa na wingi wa vyuo vikuu vya Magharibi. Chuo kikuu ni jumuiya ya wanafunzi na mabwana kutoka mji mmoja chini ya udhibiti wa Kanisa na inayojumuisha kimsingi vitivo vinne: sanaa, theolojia, sheria, dawa. Theolojia inachukuliwa kama sayansi, kwa mfano wa sayansi ya Kigiriki.
+Enzi za Kati za Kikristo ziliwekwa alama, mwanzoni mwa karne ya 13, na kuzaliwa na wingi wa vyuo vikuu vya Magharibi. Chuo kikuu ni jumuiya ya wanafunzi na watu kutoka mji mmoja chini ya udhibiti wa Kanisa na inayojumuisha kimsingi vitivo vinne: sanaa, theolojia, sheria, dawa. Theolojia inachukuliwa kama sayansi, kwa mfano wa sayansi ya Kigiriki.
 
 ![image](assets/3/img-041.webp)
 
@@ -709,7 +709,7 @@ Kuanzia hapo na kuendelea, urazini wa kidini ungeshinda kwa hakika juu ya fumbo.
 
 <chapterId>a925ea80-9f66-5f0b-8ab0-f428ae5c12dc</chapterId>
 
-Katika Zama za Kati, Kanisa na monarchies za Kikristo zilirithi mfano wa kisiasa kutoka kwa Dola ya Kirumi, ambayo wanahistoria wanaiita mfumo wa theologico-kisiasa, kumaanisha mfumo ambapo nguvu ni takatifu, yaani, ambapo kiongozi wa kisiasa pia ni kiongozi wa kidini.
+Katika Zama za Kati, Kanisa na monarchies za Kikristo zilirithi mfano wa kisiasa kutoka kwa Dola ya Kirumi, ambayo wanahistoria wanaiita mfumo wa kidini-kisiasa, kumaanisha mfumo ambapo nguvu ni takatifu, yaani, ambapo kiongozi wa kisiasa pia ni kiongozi wa kidini.
 
 Hii ndiyo sababu jamii za enzi za kati zina sifa ya umoja wa kisiasa-dini. Nguvu ya kisiasa inaweka msingi wake wa uhalali, mamlaka, na umoja wake kwenye imani ya Kikristo (au Mwislamu). Inajiona kuwa mlezi wa mafundisho ya kitamaduni na kidini na inawachukulia kama mapariha wale wanaotoka katika umoja huu. Katika muktadha huu, hata kama uvumilivu fulani ungeweza kukubaliwa kwa wale wanaojitenga na maono ya kawaida ya kitamaduni (kama vile Wayahudi), hakuna haki ya kuwepo kwa wingi ingeweza kutambuliwa kwao. Haikuwa hadi mwisho wa Enzi za Kati, pamoja na ushindi wa Amerika, kwamba tatizo la uhuru wa raia likawa muhimu kwa Kanisa na kuona kuibuka kwa falsafa ya kwanza ya sheria ambayo ilithibitisha na kulinda uhuru wa mtu binafsi, kuhalalisha wingi wa watu wengi, na kushutumu shuruti ya serikali.
 
@@ -778,7 +778,7 @@ Wanazuoni wa Salamanca walitumia hoja hii kwa kisa cha watu wa kiasili: mali ni 
 
 ![image](assets/3/img-035.webp)
 
-Suala la watu wa kiasili lilikuwa ni ufa wa kwanza katika siasa za kidini. Ilionyesha kwamba umoja wa jamii ya kisiasa ungeweza kutulia juu ya msingi mwingine isipokuwa umoja wa kidini wa wakaaji wa eneo lilelile, kwa msingi wa utu wa pamoja wa asili ya mwanadamu.
+Suala la watu wa kiasili lilikuwa ni ufa wa kwanza katika siasa za kidini. Ilionyesha kwamba umoja wa jamii ya kisiasa ungeweza kutulia juu ya msingi mwingine isipokuwa umoja wa kidini wa wakaaji wa eneo lile lile, kwa msingi wa utu wa pamoja wa asili ya mwanadamu.
 
 Wazo la ubinadamu linaendelea. Ilikuja kuzingatiwa kwa ufanisi kwamba kuna ubinadamu mmoja tu ambao haki sawa zinahusishwa kwa kawaida. Lakini bado itachukua muda kukubalika na wote. Hii itahitaji haswa mchango wa sayansi asilia na dhana ya spishi za wanadamu.
 
