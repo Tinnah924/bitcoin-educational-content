@@ -801,10 +801,10 @@ Henri Pirenne, mwanahistoria wa Ubelgiji wa mwanzoni mwa karne ya 20, alijitolea
 > Vipengele vyote muhimu vya ubepari - biashara ya mtu binafsi, maendeleo ya mkopo, faida ya kibiashara, uvumi, n.k. - tayari vilikuwepo kutoka karne ya 12 katika majimbo ya miji ya Italia, Venice, Genoa, au Florence.
 > Kulingana na Pirenne, miji hii ya biashara, kwa sababu ya mabadiliko yao ya kibiashara na msimamo wao wa kimkakati juu ya njia za baharini, ilikuwa imeanzisha mazoea ya kiuchumi ambayo ni tabia ya ubepari changa. Anaangazia haswa:
 
-- Kuongezeka kwa biashara binafsi:** Wafanyabiashara wa Italia, mara nyingi kutoka kwa familia tajiri, waliwekeza fedha zao wenyewe katika safari za mbali za kibiashara, hivyo kuhatarisha hatari na kutarajia faida kubwa.
-- Upanuzi wa mikopo:** Ukuzaji wa biashara ya kimataifa ulichochea matumizi ya njia mbalimbali za mikopo, kama vile bili za Exchange na shughuli za benki, kuruhusu ufadhili wa miamala na kuwezesha harakati za mtaji.
-- Utafutaji wa faida:** Kichocheo kikuu cha wafanyabiashara wa Italia kilikuwa kutafuta faida ya kibiashara. Walijihusisha na ubia hatari, wakitumaini kuongeza faida zao kwa kufanya biashara ya bidhaa zenye thamani katika masoko ya mbali.
-- Kuibuka kwa uvumi:** Kutokuwa na uhakika uliopo katika safari za baharini na kushuka kwa bei kulizua mazoea ya kubahatisha, ambapo wafanyabiashara huweka kamari kuhusu mabadiliko ya bei za bidhaa.
+- **Kuongezeka kwa biashara binafsi:** Wafanyabiashara wa Italia, mara nyingi kutoka kwa familia tajiri, waliwekeza fedha zao wenyewe katika safari za mbali za kibiashara, hivyo kuhatarisha hatari na kutarajia faida kubwa.
+- **Upanuzi wa mikopo:** Ukuzaji wa biashara ya kimataifa ulichochea matumizi ya njia mbalimbali za mikopo, kama vile bili za Exchange na shughuli za benki, kuruhusu ufadhili wa miamala na kuwezesha harakati za mtaji.
+- **Utafutaji wa faida:** Kichocheo kikuu cha wafanyabiashara wa Italia kilikuwa kutafuta faida ya kibiashara. Walijihusisha na ubia hatari, wakitumaini kuongeza faida zao kwa kufanya biashara ya bidhaa zenye thamani katika masoko ya mbali.
+- **Kuibuka kwa uvumi:** Kutokuwa na uhakika uliopo katika safari za baharini na kushuka kwa bei kulizua mazoea ya kubahatisha, ambapo wafanyabiashara huweka kamari kuhusu mabadiliko ya bei za bidhaa.
 
 Pirenne anaona kwamba mazoea haya, ingawa yapo katika maeneo mengine ya Ulaya, yalipata maendeleo ya mapema na makali katika majimbo ya miji ya Italia. Anahusisha jambo hili na mambo kadhaa, kutia ndani kuongezeka kwa biashara ya baharini, uvutano wa Vita vya Msalaba, kudhoofika kwa miundo ya kivita, na tabia ya ubunifu ya miji hii ya biashara.
 
@@ -830,7 +830,7 @@ Kiini cha uchambuzi wake wa kifedha ni shida ya "mabadiliko" ya pesa, ambayo ni,
 
 Oresme mara moja anaibua swali kuu: je mfumuko wa bei una manufaa kwa jamii? Anajibu kwa hasi, akisema kuwa mfumuko wa bei haufanyi pesa zaidi au chini ya manufaa kwa kubadilishana. Uchumi unaweza kufanya kazi vizuri bila kujali kiwango cha bei, na hivyo bila kujali fedha za jina la Supply.
 
-Lakini ikiwa ndivyo hivyo, swali lingine ni dhahiri linatokea: kwa nini mabadiliko ya sarafu yapo? Na hasa, kwa nini kutafuta kuongeza fedha Supply? Oresme anajibu kuwa mabadiliko haya hayana matokeo sawa kwa wanajamii tofauti. Wanafaidika watu fulani kwa gharama ya wengine. Washindi wa mabadiliko ya sarafu wana nia ya kuyatekeleza. Kwa ujumla, washindi hawa ni wanaume walio madarakani. Oresme anaandika:
+Lakini ikiwa ndivyo hivyo, swali lingine ni dhahiri linatokea: kwa nini mabadiliko ya sarafu yapo? Na hasa, kwa nini kutafuta kuongeza usambazaji wa fedha ? Oresme anajibu kuwa mabadiliko haya hayana matokeo sawa kwa wanajamii tofauti. Wanafaidika watu fulani kwa gharama ya wengine. Washindi wa mabadiliko ya sarafu wana nia ya kuyatekeleza. Kwa ujumla, washindi hawa ni wanaume walio madarakani. Oresme anaandika:
 
 > Inaonekana kwangu kwamba sababu ya msingi na ya mwisho kwa nini mkuu anataka kuchukua nguvu ya kubadilisha sarafu ni faida au faida ambayo anaweza kupata kutoka kwake, kwa maana vinginevyo, ni bila sababu kwamba angeweza kufanya mabadiliko mengi na makubwa.
 Kisha anaongeza maelezo haya:
