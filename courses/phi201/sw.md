@@ -1,4 +1,3 @@
-dhggv---
 name: Historia ya Falsafa ya Uhuru
 goal: Gundua mageuzi ya uhuru kupitia enzi, kutoka kwa wanafalsafa wa zamani hadi changamoto za kisasa.
 objectives: 
