@@ -477,7 +477,7 @@ Kwa muhtasari, inachangia katika kupata miamala na kuwalinda watu binafsi dhidi 
 
 ### Kuzaliwa kwa Ubinadamu na Maisha ya Kibinafsi
 
-Maana ya mtu hutegemea kile alichonacho. Kuwa haitegemei kuwa nayo kama inavyosemwa wakati mwingine kwa sababu kile tulicho nacho hututofautisha na kile ambacho wengine wanacho. Na maisha yetu ni yetu, kwanza tunamiliki uwezo wetu, miili yetu kabla ya kumiliki mali.
+Maana mtu hutegemea kile alichonacho. Kuwa haitegemei kuwa nayo kama inavyosemwa wakati mwingine kwa sababu kile tulicho nacho hututofautisha na kile ambacho wengine wanacho. Na maisha yetu ni yetu, kwanza tunamiliki uwezo wetu, miili yetu kabla ya kumiliki mali.
 
 Katika jamii ya Kirumi, kila mtu angeweza kujitofautisha na wengine na hivyo kuwa mwigizaji wa maisha yao wenyewe. Mwanadamu sasa ana jukumu la kipekee, na Cicero anatumia neno "persona" kumtaja. "persona" ilikuwa mask iliyovaliwa na waigizaji wa Kirumi, lakini pia ilirejelea utu wa kisheria na kijamii wa mtu binafsi. Wazo la mtu binafsi lilidokeza kwamba watu binafsi walikuwa vyombo tofauti vyenye haki na wajibu wao wenyewe. Wazo la mtu binafsi wa kibinadamu (ego) na maisha yake ya ndani na hatima ya kipekee lilizaliwa, na ingekua na Ukristo.
 
