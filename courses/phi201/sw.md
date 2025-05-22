@@ -478,7 +478,7 @@ Kwa muhtasari, inachangia katika kupata miamala na kuwalinda watu binafsi dhidi 
 
 ### Kuzaliwa kwa Ubinadamu na Maisha ya Kibinafsi
 
-Mtu ni nini inategemea alichonacho. Kuwa haitegemei kuwa nayo kama inavyosemwa wakati mwingine kwa sababu kile tulicho nacho hututofautisha na kile ambacho wengine wanacho. Na maisha yetu ni yetu, kwanza tunamiliki uwezo wetu, miili yetu kabla ya kumiliki mali.
+Maana ya mtu hutegemea kile alichonacho. Kuwa haitegemei kuwa nayo kama inavyosemwa wakati mwingine kwa sababu kile tulicho nacho hututofautisha na kile ambacho wengine wanacho. Na maisha yetu ni yetu, kwanza tunamiliki uwezo wetu, miili yetu kabla ya kumiliki mali.
 
 Katika jamii ya Kirumi, kila mtu angeweza kujitofautisha na wengine na hivyo kuwa mwigizaji wa maisha yao wenyewe. Mwanadamu sasa ana jukumu la kipekee, na Cicero anatumia neno "persona" kumtaja. "persona" ilikuwa mask iliyovaliwa na waigizaji wa Kirumi, lakini pia ilirejelea utu wa kisheria na kijamii wa mtu binafsi. Wazo la mtu binafsi lilidokeza kwamba watu binafsi walikuwa vyombo tofauti vyenye haki na wajibu wao wenyewe. Wazo la mtu binafsi wa kibinadamu (ego) na maisha yake ya ndani na hatima ya kipekee lilizaliwa, na ingekua na Ukristo.
 
@@ -558,7 +558,7 @@ Hakika, utajiri wa aristocracy ya Kirumi ulikuja tu kutoka kwa ngawira ya uvamiz
 
 Karibu mwanahistoria 140 wa Kirumi Fronto aliandika:
 
-> Jamii ya Kirumi inajishughulisha zaidi na mambo mawili, ugavi wake wa chakula na miwani yake.
+> Jamii ya Kirumi inajishughulisha zaidi na mambo mawili, ugavi wake wa chakula na maonyesho yake.
 Mapigano ya Gladiator, mbio za magari, na maonyesho ya ukumbi wa michezo, mara nyingi bila malipo, yalivutia umati mkubwa na kuruhusu wasomi kupata upendeleo wa watu. Nguvu ilitoa michezo kwa raia wake, lakini pia ngano, mkate, nguruwe, na mafuta. Mkakati huu ulitumika kama mkakati wa kisiasa wa kupunguza mivutano ya kijamii, kugeuza umakini kutoka kwa shida za kiuchumi, na kuimarisha nguvu za wafalme.
 
 Chini ya utawala wa Mtawala Antoninus Pius (kutoka 138 hadi 161), urasimu wa Kirumi ulifikia idadi kubwa.
@@ -701,7 +701,7 @@ Enzi za Kati za Kikristo ziliwekwa alama, mwanzoni mwa karne ya 13, na kuzaliwa 
 
 Mnamo 1200, Philippe-Auguste alianzisha Chuo Kikuu cha Paris, ambacho haraka kikawa chuo kikuu mashuhuri zaidi barani Ulaya. Mnamo 1257, Robert de Sorbon alianzisha chuo cha theolojia katika Chuo Kikuu cha Paris, ambacho baadaye kingeitwa Sorbonne. Mbinu mpya ya ufundishaji na utafiti inayojulikana kama scholasticism (kutoka schola, shule) iliibuka ndani ya vyuo vikuu hivi. Ilihusisha "disputatio," aina ya mjadala unaopingana mbele ya hadhira. Tasnifu ilipendekezwa, ikifuatiwa na pingamizi ambapo jibu lilipaswa kutolewa. Mara tu mabishano yote yalipokwisha, bwana angesuluhisha mjadala huo kwa suluhisho la sababu.
 
-Miongoni mwa mabwana wakuu wa Aristotle walioashiria enzi hii, tunaweza kutaja Albert Mkuu (1200-1280) na Thomas Aquinas (1224-1274). Mwisho, kwa kuanzisha sababu katika haki zake, ulionyesha umaalum na uhuru wa hekima ya kifalsafa kuhusiana na theolojia. Kama vile neema inavyodhania asili na kuitimiza, imani hupendekeza na kukamilisha akili.
+Miongoni mwa wanafalsafa wakuu wa Aristotle walioashiria enzi hii, tunaweza kutaja Albert Mkuu (1200-1280) na Thomas Aquinas (1224-1274). Mwisho, kwa kuanzisha sababu katika haki zake, ulionyesha umaalum na uhuru wa hekima ya kifalsafa kuhusiana na theolojia. Kama vile neema inavyodhania asili na kuitimiza, imani hupendekeza na kukamilisha akili.
 
 Kuanzia hapo na kuendelea, urazini wa kidini ungeshinda kwa hakika juu ya fumbo.
 
@@ -802,7 +802,7 @@ Henri Pirenne, mwanahistoria wa Ubelgiji wa mwanzoni mwa karne ya 20, alijitolea
 > Kulingana na Pirenne, miji hii ya biashara, kwa sababu ya mabadiliko yao ya kibiashara na msimamo wao wa kimkakati juu ya njia za baharini, ilikuwa imeanzisha mazoea ya kiuchumi ambayo ni tabia ya ubepari changa. Anaangazia haswa:
 
 - **Kuongezeka kwa biashara binafsi:** Wafanyabiashara wa Italia, mara nyingi kutoka kwa familia tajiri, waliwekeza fedha zao wenyewe katika safari za mbali za kibiashara, hivyo kuhatarisha hatari na kutarajia faida kubwa.
-- **Upanuzi wa mikopo:** Ukuzaji wa biashara ya kimataifa ulichochea matumizi ya njia mbalimbali za mikopo, kama vile bili za Exchange na shughuli za benki, kuruhusu ufadhili wa miamala na kuwezesha harakati za mtaji.
+- **Upanuzi wa mikopo:** Ukuzaji wa biashara ya kimataifa ulichochea matumizi ya njia mbalimbali za mikopo, kama vile bili za  kubadilishana fedha (Exchange bill) na shughuli za benki, kuruhusu ufadhili wa miamala na kuwezesha harakati za mtaji.
 - **Utafutaji wa faida:** Kichocheo kikuu cha wafanyabiashara wa Italia kilikuwa kutafuta faida ya kibiashara. Walijihusisha na ubia hatari, wakitumaini kuongeza faida zao kwa kufanya biashara ya bidhaa zenye thamani katika masoko ya mbali.
 - **Kuibuka kwa uvumi:** Kutokuwa na uhakika uliopo katika safari za baharini na kushuka kwa bei kulizua mazoea ya kubahatisha, ambapo wafanyabiashara huweka kamari kuhusu mabadiliko ya bei za bidhaa.
 
@@ -828,7 +828,7 @@ Utafiti wa utaratibu wa sheria za kiuchumi huanza katika Zama za Kati. Wanauchum
 
 Kiini cha uchambuzi wake wa kifedha ni shida ya "mabadiliko" ya pesa, ambayo ni, mabadiliko katika yaliyomo kwenye metali ya sarafu na madhehebu yao. Mabadiliko haya yametokea tangu alfajiri ya wakati na yameandikwa vyema kwa Zama za Kale na Zama za Kati. Athari yao inayoonekana zaidi ni kubadilisha uwezo wa ununuzi wa kitengo cha fedha, haswa kupunguza. Hii ni aina ya mfumko wa bei ambayo Oresme inalaani waziwazi kama uovu.
 
-Oresme mara moja anaibua swali kuu: je mfumuko wa bei una manufaa kwa jamii? Anajibu kwa hasi, akisema kuwa mfumuko wa bei haufanyi pesa zaidi au chini ya manufaa kwa kubadilishana. Uchumi unaweza kufanya kazi vizuri bila kujali kiwango cha bei, na hivyo bila kujali fedha za jina la Supply.
+Oresme mara moja anaibua swali kuu: je mfumuko wa bei una manufaa kwa jamii? Anajibu kwa hasi, akisema kuwa mfumuko wa bei haufanyi pesa zaidi au chini ya manufaa kwa kubadilishana. Uchumi unaweza kufanya kazi vizuri bila kujali kiwango cha bei, na na hivyo bila kujali kiasi cha fedha kinachotolewa (supply).
 
 Lakini ikiwa ndivyo hivyo, swali lingine ni dhahiri linatokea: kwa nini mabadiliko ya sarafu yapo? Na hasa, kwa nini kutafuta kuongeza usambazaji wa fedha ? Oresme anajibu kuwa mabadiliko haya hayana matokeo sawa kwa wanajamii tofauti. Wanafaidika watu fulani kwa gharama ya wengine. Washindi wa mabadiliko ya sarafu wana nia ya kuyatekeleza. Kwa ujumla, washindi hawa ni wanaume walio madarakani. Oresme anaandika:
 
@@ -990,7 +990,7 @@ Kazi kuu ya Turgot, _Reflections on the Formation and Distribution of Wealth_ (1
 
 Turgot ni mtume wa sheria ya asili, ambayo pia anaiita "mfumo wa uhuru." Mara nyingi anasisitiza kuwa ushindani katika soko huria kwa kawaida hudhibiti bei na kuzuia matumizi mabaya. Zaidi ya hayo, anamfanya mfanyabiashara kuwa msingi wa utaratibu wa soko. Hakika, mawakala wa serikali hawana motisha na haswa hawana ufahamu wa kutosha kuliko wafanyabiashara. Kwa hivyo, ni bora zaidi kuacha biashara mikononi mwa masilahi ya kibinafsi.
 
-Sio lazima kuthibitisha kwamba kila mtu ndiye mwamuzi pekee wa matumizi ya manufaa zaidi ya akili na silaha zao. Ni wao pekee wanaomiliki maarifa ya kienyeji ambayo bila hayo mtu aliyeelimika zaidi anaweza kusababisha kwa upofu. Wao pekee wana uzoefu wa kuaminika zaidi kwani ni mdogo kwa kitu kimoja. Wanajifunza kupitia majaribio yao ya mara kwa mara, mafanikio yao, hasara zao, na kupata busara ambayo faini yake, iliyochochewa na hisia ya uhitaji, inapita kwa mbali nadharia yote ya walanguzi asiyejali. (_Sifa za Vincent de Gournay_).
+Sio lazima kuthibitisha kwamba kila mtu ndiye mwamuzi pekee wa matumizi ya manufaa zaidi ya akili na silaha zao. Ni wao pekee wanaomiliki maarifa ya kienyeji ambayo bila hayo mtu aliyeelimika zaidi anaweza kusababisha kwa upofu wa fikra. Wao pekee wana uzoefu wa kuaminika zaidi kwani ni mdogo kwa kitu kimoja. Wanajifunza kupitia majaribio yao ya mara kwa mara, mafanikio yao, hasara zao, na kupata busara ambayo faini yake, iliyochochewa na hisia ya uhitaji, inapita kwa mbali nadharia yote ya walanguzi asiyejali. (_Sifa za Vincent de Gournay_).
 
 Hapa, Turgot anatarajia kwa kiasi kikubwa hoja ya Mises na Hayek juu ya kutowezekana kwa hesabu yoyote ya kiuchumi katika mfumo wa uchumi wa kijamaa.
 
@@ -1305,11 +1305,11 @@ Hata hivyo, yote haya ni, kwa Marx, ni mwonekano wa udanganyifu tu. Kwa uhalisia
 
 Ukombozi wa raia, kulingana na Marx, haumaanishi hata kidogo ukombozi wa mwanadamu, kama Azimio la 1789 linapendekeza, lakini badala yake ushindi wa uharibifu wa kibinafsi na kwa hivyo usawa. Uhuru kama uwezo wa kufanya jambo lolote ambalo haliwadhuru wengine, nguzo ya haki za binadamu, ni uhuru hasi kabisa ambao hauanzishi uhusiano kati ya wanaume lakini, kinyume chake, unakuza utengano wao, uadui wao, na hatimaye utumwa wao. Uhuru wa haki za binadamu ni uhuru rasmi.
 
-Udanganyifu huu wa kisiasa wa uliberali ni upande wa kidunia wa udanganyifu wa kidini, Marx anaongeza. Njia hiyo inajulikana sana: "dini ni kasumba ya watu." Dini ni faraja, hutoa furaha na kuahidi ukombozi katika maisha ya baadaye. Lakini inamgeuza mwanadamu kutoka katika ukombozi wake wa kweli hapa duniani. Uraia ni, kuhusiana na shughuli ya mfanyakazi, kama ufalme wa Mungu kuhusiana na maisha duni hapa duniani. Ni kamwe kutambuliwa. Utengano huu maradufu unajumuisha kutengwa mara mbili, kumaanisha kutotimizwa na mwanadamu kwa ubinadamu wake au utimilifu wake wa kimawazo.
+Udanganyifu huu wa kisiasa wa uliberali ni upande wa kidunia wa udanganyifu wa kidini, Marx anaongeza. Njia hiyo inajulikana sana: "dini ni ya kasumba watumiaji." Dini ni faraja, hutoa furaha na kuahidi ukombozi katika maisha ya baadaye. Lakini inamgeuza mwanadamu kutoka katika ukombozi wake wa kweli hapa duniani. Uraia ni, kuhusiana na shughuli ya mfanyakazi, kama ufalme wa Mungu kuhusiana na maisha duni hapa duniani. Ni kamwe kutambuliwa. Utengano huu maradufu unajumuisha kutengwa mara mbili, kumaanisha kutotimizwa na mwanadamu kwa ubinadamu wake au utimilifu wake wa kimawazo.
 
 ### Kutengwa Kiuchumi
 
-Kwa hakika, kwa Marx na kwa mujibu wa uyakinifu wa kihistoria, ni kujitenga kiuchumi ambako ndiko mzizi wa kutengwa kisiasa na pia kujitenga kwa kidini. Katika kutengwa kwa uchumi, matokeo ya ubepari (unaofafanuliwa kama Ownership ya kibinafsi ya njia za uzalishaji), mfanyakazi analazimika kuuza nguvu zake za kazi kama bidhaa. Zaidi ya hayo, ananyimwa bidhaa ya kazi yake, ambayo inamilikiwa na mwajiri. Kwa hivyo ametengwa, kumaanisha kutengwa na yeye mwenyewe kwa sababu kazi yake inakuwa kitu kigeni kwake ambacho anafanya kwa nguvu, ili aendelee kuishi. Walakini, kazi, kwa Marx, ni tendo la kimsingi la kibinadamu, ambalo kupitia kwake kiini cha mwanadamu, yaani uhuru, hufikiwa. Hii ndiyo sababu ukombozi wa kazi pia unamaanisha kumrejesha mwanadamu katika utu na utu wake.
+Kwa hakika, kwa Marx na kwa mujibu wa uyakinifu wa kihistoria, maendeleo ya jamii yanatokana na mapambano ya matabaka na mabadiliko ya mahusiano ya uzalishaji, ni kujitenga kiuchumi ambako ndiko mzizi wa kutengwa kisiasa na pia kujitenga kwa kidini. Katika kutengwa kwa uchumi, matokeo ya ubepari (unaofafanuliwa kama Ownership ya kibinafsi ya njia za uzalishaji), mfanyakazi analazimika kuuza nguvu zake za kazi kama bidhaa. Zaidi ya hayo, ananyimwa bidhaa ya kazi yake, ambayo inamilikiwa na mwajiri. Kwa hivyo ametengwa, kumaanisha kutengwa na yeye mwenyewe kwa sababu kazi yake inakuwa kitu kigeni kwake ambacho anafanya kwa nguvu, ili aendelee kuishi. Walakini, kazi, kwa Marx, ni tendo la kimsingi la kibinadamu, ambalo kupitia kwake kiini cha mwanadamu, yaani uhuru, hufikiwa. Hii ndiyo sababu ukombozi wa kazi pia unamaanisha kumrejesha mwanadamu katika utu na utu wake.
 
 ![image](assets/5/img-104.webp)
 
@@ -1333,7 +1333,7 @@ Waaustria wanasema kuwa jamii haijagawanywa katika tabaka mbili za kinzani, bali
 
 Kwa mfano, mwajiri huajiri mfanyakazi kwa sababu anahitaji ujuzi wake ili kuzalisha kitu kizuri au huduma ambayo watumiaji wanatamani. Mfanyakazi naye anakubali kazi hiyo kwa sababu anahitaji kipato ili kukidhi mahitaji yake. Uhusiano huu ni wa manufaa kwa pande zote, na sio migogoro.
 
-Ludwig von Mises anaangazia kwamba Marx alishindwa kutofautisha kati ya kile kinachohusiana na itikadi ya ubepari katika haki za binadamu na kile wanachomaanisha kivitendo, misukosuko inayohusisha katika maisha ya kijamii. Wanafikra wengi wakosoaji wa haki za binadamu wamefanya makosa sawa. Hivi ndivyo ilivyokuwa kwa wapinga mapinduzi, kama vile Joseph de Maistre au Louis de Bonald.
+Ludwig von Mises anaangazia kwamba Marx alishindwa kutofautisha kati ya kile kinachohusiana na itikadi ya ubepari katika haki za binadamu na kile wanachomaanisha kivitendo, misukosuko inayohusisha katika maisha ya kijamii.Wanafikra wengi wanaoikosoa dhana ya haki za binadamu wamefanya makosa yanayofanana katika mitazamo yao. Hivi ndivyo ilivyokuwa kwa wapinga mapinduzi, kama vile Joseph de Maistre au Louis de Bonald.
 
 ![image](assets/5/img-092.webp)
 
@@ -1345,7 +1345,7 @@ Kuhusu hatua hii, ona pia: _Uchambuzi wa Darasa la Kimarxist na Austria_, Hans H
 
 Dhana ya mapambano ya kitabaka pia inaweza kusababisha wazo kwamba chochote kinaruhusiwa. Marx alidai kwamba dhana za mema, mabaya, haki, haki, ukweli, zilihusiana na tabaka. Sababu za kibinadamu, alidai, kwa kuzaliwa haziwezi kupata ukweli. Muundo wa kimantiki wa akili hutofautiana kulingana na tabaka za kijamii. Hakuna mantiki halali kwa wote.
 
-Mises aliunda neno "polylogism" kuelezea sophism hii. "Poly" ina maana nyingi na "logism" inarejelea mazungumzo ya busara na mantiki. Kulingana na Marx, kungekuwa na mantiki kadhaa zisizolingana, ile ya proletarians na ile ya ubepari.
+Mises aliunda neno 'polylogism' kuelezea ujanja huu wa kifalsafa. Neno 'poly' linamaanisha 'nyingi', ilhali 'logism' linarejelea hoja au mantiki ya kisayansi na mazungumzo ya busara. Kulingana na Marx, kungekuwa na mantiki kadhaa zisizolingana, ile ya proletarians na ile ya ubepari.
 
 ![image](assets/5/img-096.webp)
 
