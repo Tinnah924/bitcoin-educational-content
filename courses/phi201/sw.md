@@ -949,7 +949,7 @@ Walakini, tangu Zama za Kati, kama tulivyoona, uchumi wa soko ulikua. Wafanyabia
 
 ![image](assets/4/img-068.webp)
 
-Soko ni kuhusu Exchange ya hiari kwa bei iliyoainishwa. Soko huboresha nyenzo, kiakili, na hali ya kisiasa ya kila mtu kwa sababu inaruhusu upatikanaji wa nafasi za uhuru na mpango.
+Soko ni kuhusu Kubadilishana kwa hiari kwa bei iliyoainishwa. Soko huboresha nyenzo, kiakili, na hali ya kisiasa ya kila mtu kwa sababu inaruhusu upatikanaji wa nafasi za uhuru na mpango.
 
 Kwa hakika, wanadamu wanataka kiasili kuboresha hali yao wenyewe na ya wapendwa wao, kupitia Exchange ya bidhaa na huduma. Hivyo basi hamu ya wanafalsafa hao wapya, "wachumi," kuwawezesha watu kujipatia mapato ya kutosha na hivyo kufikia kile ambacho Kant anakiita katika kijitabu chake _What is Enlightenment?_ "wengi" wao, uhuru wao wa maamuzi na matendo.
 
@@ -990,7 +990,7 @@ Kazi kuu ya Turgot, _Reflections on the Formation and Distribution of Wealth_ (1
 
 Turgot ni mtume wa sheria ya asili, ambayo pia anaiita "mfumo wa uhuru." Mara nyingi anasisitiza kuwa ushindani katika soko huria kwa kawaida hudhibiti bei na kuzuia matumizi mabaya. Zaidi ya hayo, anamfanya mfanyabiashara kuwa msingi wa utaratibu wa soko. Hakika, mawakala wa serikali hawana motisha na haswa hawana ufahamu wa kutosha kuliko wafanyabiashara. Kwa hivyo, ni bora zaidi kuacha biashara mikononi mwa masilahi ya kibinafsi.
 
-Sio lazima kuthibitisha kwamba kila mtu ndiye mwamuzi pekee wa matumizi ya manufaa zaidi ya akili na silaha zao. Ni wao pekee wanaomiliki maarifa ya kienyeji ambayo bila hayo mtu aliyeelimika zaidi anaweza kusababu kwa upofu. Wao pekee wana uzoefu wa kuaminika zaidi kwani ni mdogo kwa kitu kimoja. Wanajifunza kupitia majaribio yao ya mara kwa mara, mafanikio yao, hasara zao, na kupata busara ambayo faini yake, iliyochochewa na hisia ya uhitaji, inapita kwa mbali nadharia yote ya walanguzi asiyejali. (_Sifa za Vincent de Gournay_).
+Sio lazima kuthibitisha kwamba kila mtu ndiye mwamuzi pekee wa matumizi ya manufaa zaidi ya akili na silaha zao. Ni wao pekee wanaomiliki maarifa ya kienyeji ambayo bila hayo mtu aliyeelimika zaidi anaweza kusababisha kwa upofu. Wao pekee wana uzoefu wa kuaminika zaidi kwani ni mdogo kwa kitu kimoja. Wanajifunza kupitia majaribio yao ya mara kwa mara, mafanikio yao, hasara zao, na kupata busara ambayo faini yake, iliyochochewa na hisia ya uhitaji, inapita kwa mbali nadharia yote ya walanguzi asiyejali. (_Sifa za Vincent de Gournay_).
 
 Hapa, Turgot anatarajia kwa kiasi kikubwa hoja ya Mises na Hayek juu ya kutowezekana kwa hesabu yoyote ya kiuchumi katika mfumo wa uchumi wa kijamaa.
 
@@ -1002,7 +1002,7 @@ Mnamo mwaka wa 1776, mwanafalsafa Étienne Bonnot de Condillac alichapisha _Comm
 
 ![image](assets/4/img-053.webp)
 
-_Biashara na Serikali_ ina kile ambacho kingeitwa baadaye nadharia ya ubinafsi wa thamani, ambayo ilimletea sifa zote za wanauchumi wa Austria, kuanzia na Menger. Kufuatia Turgot, lakini kwa uwazi zaidi, Condillac anadai kwamba thamani haiishi katika leba lakini kwa ukweli kwamba kila mtu anavutiwa na Exchange:
+_Biashara na Serikali_ ina kile ambacho kingeitwa baadaye nadharia ya ubinafsi wa thamani, ambayo ilimletea sifa zote za wanauchumi wa Austria, kuanzia na Menger. Kufuatia Turgot, lakini kwa uwazi zaidi, Condillac anadai kwamba thamani haiishi katika leba lakini kwa ukweli kwamba kila mtu anavutiwa na ubadilishanaji:
 
 > Thamani ya vitu, anaandika, inategemea matumizi yao, au, ambayo ni sawa na kitu kimoja, juu ya hitaji tulilo nalo kwa ajili yao; au, ambayo tena ni sawa na kitu kimoja, juu ya matumizi tunaweza kufanya nao. Na anaongeza: “Kitu hakina thamani kwa sababu kinagharimu, kama inavyodhaniwa; lakini kinagharimu, kwa sababu kina thamani.
 Kwa hivyo, thamani haiishi ndani ya kitu kwa namna ya wingi wa kazi ambayo ingepaswa kutolewa (thesis ya thamani ya kazi ambayo ingekuwa ya Adam Smith na Ricardo) lakini nje ya kitu, kwa maneno mengine, katika ukubwa wa tamaa ambayo mnunuzi anapata.
@@ -1090,7 +1090,7 @@ Wazo hilo liliongozwa na Locke katika karne ya 17 na kisha kuchukuliwa na Rousse
 
 ![image](assets/4/img-071.webp)
 
-Rousseau anawachukulia watu kama mtu anayejitegemea na anayeweza kujitiisha kwa sheria wanazoweka. Uhuru wa hiari wa watu ndio msingi pekee wa haki wa enzi kuu. Rousseau angeendeleza ubinadamu huu wa kisheria, tabia ya Usasa, kwa matokeo yake ya mwisho kwa kuwachukua watu kama mtu anayeweza kujiamulia kwa uhuru au kama utashi wa jumla. Kwa hivyo, Contract inahusisha utiifu kwa sheria ambazo mwanadamu kama mkuu atakavyojitolea kama wosia fulani. Nadharia ya utashi wa jumla au uhuru wa watu kwa hivyo inaruhusu upatanisho wa uhuru na utii. Kujianzisha kwa sheria au uhuru wa kisiasa kwa kweli imekuwa sehemu muhimu ya demokrasia tangu Rousseau.
+Rousseau anawachukulia watu kama mtu anayejitegemea na anayeweza kujitiisha kwa sheria wanazoweka. Uhuru wa hiari wa watu ndio msingi pekee wa haki wa enzi kuu. Rousseau angeendeleza ubinadamu huu wa kisheria, tabia ya Usasa, kwa matokeo yake ya mwisho kwa kuwachukua watu kama mtu anayeweza kujiamulia kwa uhuru au kama utashi wa jumla. Kwa hivyo, Mkataba unahusisha utiifu kwa sheria ambazo mwanadamu kama mkuu atakavyojitolea kama wosia fulani. Nadharia ya utashi wa jumla au uhuru wa watu kwa hivyo inaruhusu upatanisho wa uhuru na utii. Kujianzisha kwa sheria au uhuru wa kisiasa kwa kweli imekuwa sehemu muhimu ya demokrasia tangu Rousseau.
 
 Lakini swali la asili ya enzi kuu sio pekee. Tafakari inaweza kuchukua mwelekeo mpya, ule wa mtindo wa utekelezaji wa ukuu. Je, jenerali atakuwa tu daima? Na zaidi ya yote, je, inaruhusiwa kuingilia mashirika ya kiraia na ndani ya mipaka gani?
 
@@ -1440,7 +1440,7 @@ Kwa muhtasari wa mapana, matumizi ya umma huleta ukuaji na kusaidia nakisi ya ba
 
 Kwa hivyo, Kenesia ni madai ya kutoa njia za ukuaji wa nguvu na ajira kamili kupitia matumizi ya umma na matumizi. Na mpango huu wa ukuaji unategemea udhibiti wa pesa.
 
-Hakika, kulingana na Keynes, akiba ya muda mrefu ni breki ya matumizi na kwa hivyo kwenye ukuaji. Kwa hivyo pesa lazima zipoteze uwezo wake wa kununua kwa wakati ili kuhimiza watu binafsi kutumia zaidi na haraka zaidi, ambayo ni jambo zuri kwa uchumi. Katika mantiki ya Kenesia ya sera za kichocheo, adui mkuu ni akiba.
+Hakika, kulingana na Keynes, akiba ya muda mrefu ni breki ya matumizi na kwa hivyo kwenye ukuaji. Kwa hivyo pesa lazima zipoteze uwezo wake wa kununua kwa wakati ili kuhimiza watu binafsi kutumia zaidi na haraka zaidi, ambayo ni jambo zuri kwa uchumi. Katika mantiki ya Keynes ya sera za kichocheo, adui mkuu ni akiba.
 
 Kulingana na Keynes, adui huyu anaweza kupigwa vita kwa ukwasi wa riba ya chini. Ndiyo maana benki kuu lazima zihodhi na kudhibiti fedha.
 
@@ -1497,7 +1497,7 @@ Na ikawa kwamba aina fulani ya pesa ilijitofautisha polepole kutoka kwa wengine 
 
 ![image](assets/6/img-002.webp)
 
-Hakika, dhahabu ni sarafu ya Hard, vigumu kuzalisha, gharama kubwa kwa bandia. Soko limechagua dhahabu kama sarafu inayotegemewa zaidi, inayodumu zaidi, na inayoweza kudhibitiwa. Historia inaonyesha kwamba watu wanapoweza kuchagua sarafu wanayotumia, huwa wanachagua dhahabu.
+Hakika, dhahabu ni sarafu ya kudumu (hard money) , vigumu kuzalisha, gharama kubwa kwa bandiab. Soko limechagua dhahabu kama sarafu inayotegemewa zaidi, inayodumu zaidi, na inayoweza kudhibitiwa. Historia inaonyesha kwamba watu wanapoweza kuchagua sarafu wanayotumia, huwa wanachagua dhahabu.
 
 Hii ndiyo sababu, katika _Human Action_, Ludwig von Mises anaandika:
 
@@ -1514,7 +1514,7 @@ Mfumo wa Bretton Woods, ulioundwa mwaka wa 1944 na kutekelezwa kikamilifu mwaka 
 Wakati huo, pamoja na Vita vya Vietnam hasa, ongezeko la upungufu wa serikali ya Marekani ulisababisha nchi nyingi za kigeni, ikiwa ni pamoja na Ufaransa, kutaka kubadilisha dola zao kuwa dhahabu katika FED. Mnamo Agosti 15, 1971, Rais Nixon aliamua kufuta ahadi ya ubadilishaji wa dola kuwa dhahabu, na hivyo kuunda sarafu ya karatasi ya kwanza kabisa katika historia ya Marekani. Kuanzia siku hii inaweza kuwa tarehe wakati fedha kabisa alikuja chini ya udhibiti wa benki kuu. Katika mahojiano, Richard Nixon alisema:
 
 > Sisi sote ni Wakenesia leo.
-Kwa hakika, kwa wanauchumi wengi wa Keynesi, kuachwa kwa kiwango cha dhahabu kumezipa serikali unyumbufu unaohitajika kujibu au kuzuia migogoro ya kiuchumi.
+Kwa hakika,wa wanauchumi wengi wa mtazamo wa Keynesian, kuachwa kwa kiwango cha dhahabu kumezipa serikali unyumbufu zaidi wa sera za fedha na matumizi unaohitajika kujibu au kuzuia migogoro ya kiuchumi.
 
 ![image](assets/6/img-009.webp)
 
