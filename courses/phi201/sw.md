@@ -1,3 +1,4 @@
+---
 name: Historia ya Falsafa ya Uhuru
 goal: Gundua mageuzi ya uhuru kupitia enzi, kutoka kwa wanafalsafa wa zamani hadi changamoto za kisasa.
 objectives: 
@@ -150,7 +151,7 @@ Bastiat anatuambia bado kuna aina mbili za uporaji wa kisheria:
 > Nyara za nje huitwa vita, ushindi, makoloni. Uporaji wa ndani unaitwa ushuru, nyadhifa, ukiritimba. ([_Cobden na Ligi_](http://bastiat.org/fr/introduction_cobden_ligue.html), Utangulizi).
 Katika [_The Physiology of Plunder_](http://bastiat.org/fr/physiologie_de_la_spoliation.html), anafafanua:
 
-> Sheria ya kweli na ya usawa ya wanaume ni:Mbadala wa huduma kwa huduma unaojadiliwa kwa uhuru. Uporaji unajumuisha  marufuku kwa nguvu au kwa udanganyifu uhuru wa mijadala ili kupokea huduma bila kutoa. Uporaji kwa nguvu unatekelezwa kama ifuatavyo: Mtu hungoja mtu atoe kitu, kisha akamnyang'anya, silaha mkononi. Imelaaniwa rasmi na Maagizo: Usiibe. Inapotokea kutoka kwa mtu binafsi hadi kwa mtu binafsi, inaitwa wizi na inaongoza jela; inapotoka taifa hadi taifa, inaitwa ushindi na inaongoza kwenye utukufu.
+> Sheria ya kweli na ya usawa ya wanaume ni: Mbadala wa huduma kwa huduma unaojadiliwa kwa uhuru. Uporaji unajumuisha  marufuku kwa nguvu au kwa udanganyifu uhuru wa mijadala ili kupokea huduma bila kutoa. Uporaji kwa nguvu unatekelezwa kama ifuatavyo: Mtu hungoja mtu atoe kitu, kisha akamnyang'anya, silaha mkononi. Imelaaniwa rasmi na Maagizo: Usiibe. Inapotokea kutoka kwa mtu binafsi hadi kwa mtu binafsi, inaitwa wizi na inaongoza jela; inapotoka taifa hadi taifa, inaitwa ushindi na inaongoza kwenye utukufu.
 ### Historia ya Uporaji
 
 ![image](assets/1/img-020.webp)
