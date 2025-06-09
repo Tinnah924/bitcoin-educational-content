@@ -495,7 +495,7 @@ Orodha ya vifaa na viungo
 
 <chapterId>3cf487a4-21ef-5b24-83d5-789b811f740f</chapterId>
 
-Ili kuunganisha ASIC yako kupitia WIFI, utahitaji kifaa kinachoitwa daraja. Kifaa hiki hukuruhusu kupata mawimbi ya WIFI kutoka kwa kipanga njia chako na kuisambaza kwa kifaa kingine kupitia Ethaneti.
+Ili kuunganisha ASIC yako kupitia WIFI, utahitaji kifaa kinachoitwa  (bridge. Kifaa hiki hukuruhusu kupata mawimbi ya WIFI kutoka kwa kipanga njia chako na kuisambaza kwa kifaa kingine kupitia Ethaneti.
 
 Vifaa vingi vinaweza kufanya kazi hii, lakini tunapendekeza VONETS WiFi Bridge/Repeater kwa urahisi wake.
 
@@ -515,11 +515,11 @@ Chagua Mchawi.
 
 Chagua mtandao wa WIFI unaotaka kuunganisha Miner yako, kisha ubofye Inayofuata.
 
-KUMBUKA: Daraja la Vonet hufanya kazi kwa masafa ya 2.4GHz pekee. Siku hizi, ruta hutoa mitandao miwili ya WIFI, moja kwa 2.4GHz na moja kwa 5GHz.
+KUMBUKA: Daraja la Vonet hufanya kazi kwa masafa ya 2.4GHz pekee. Siku hizi, router hutoa mitandao miwili ya WIFI, moja kwa 2.4GHz na moja kwa 5GHz.
 
 ![image](assets/en/35.webp)
 
-Ingiza nenosiri la mtandao wako wa WIFI katika sehemu ya "Chanzo cha nenosiri la WIFI hotspot". Ikiwa hutaki kutumia daraja lako la Vonet kupanua mtandao wako wa WIFI, chagua kisanduku cha "Lemaza Hotspot". Vinginevyo, iache bila kukaguliwa.
+Ingiza nenosiri la mtandao wako wa WIFI katika sehemu ya "Chanzo cha nenosiri la WIFI hotspot". Ikiwa hutaki kutumia bridge yako ya Vonet kupanua mtandao wako wa WIFI, chagua kisanduku cha "Lemaza Hotspot". Vinginevyo, iache bila kukaguliwa.
 
 Kisha unaweza kubofya Tekeleza.
 
@@ -601,7 +601,7 @@ Kisha utasalimiwa na Dashibodi ya Brains OS+.
 Katika ukurasa huu wa kwanza, unaweza kuona utendakazi wa wakati halisi wa mashine yako.
 
 
-- Grafu tatu za muda halisi zinazoonyesha halijoto, Hashrate, na hali ya jumla ya mashine yako.
+- Grafu tatu za muda halisi zinazoonyesha hali ya joto, Hashrate, na hali ya jumla ya mashine yako.
 - Upande wa kulia, Hashrate halisi, wastani wa joto la chip, makadirio ya ufanisi katika W/THs, na matumizi ya nishati.
 - Chini, kasi ya shabiki kama asilimia ya kasi ya juu na idadi ya mizunguko kwa dakika.
 
