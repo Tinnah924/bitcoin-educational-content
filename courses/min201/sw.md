@@ -1,4 +1,4 @@
----
+cvhgff---
 name: Utangulizi wa Bitcoin Mining
 goal: Elewa utendakazi wa tasnia ya Mining kupitia mazoezi ya vitendo ya kutumia tena ASIC.
 objectives: 
