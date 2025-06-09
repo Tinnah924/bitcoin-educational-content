@@ -74,7 +74,7 @@ Je, uko tayari kuanza tukio hili la kuvutia? Hebu tuzame pamoja katika ulimwengu
 
 ### Mining ilieleza: mlinganisho wa mafumbo
 
-Ili kueleza dhana ya Mining kwa njia iliyorahisishwa, mlinganisho unaofaa unaweza kutumika: ule wa fumbo. Kama fumbo, Mining ni kazi ngumu kutekeleza lakini ni rahisi kuthibitisha mara tu itakapokamilika. Katika muktadha wa Bitcoin Mining, wachimbaji hujitahidi kutatua haraka fumbo la dijiti. Miner ya kwanza ya kusuluhisha fumbo inatoa suluhisho lao kwa mtandao mzima, ambao unaweza kuthibitisha uhalali wake kwa urahisi. Uthibitishaji huu uliofaulu huruhusu Miner kuhalalisha kizuizi kipya na kuiongeza kwenye Msururu wa Muda wa Bitcoin. Kwa kutambua kazi yao, ambayo inahusisha gharama kubwa, Miner inalipwa kwa idadi fulani ya bitcoins. Zawadi hii hutumika kama motisha ya kifedha kwa wachimba migodi kuendelea na kazi yao ya kuthibitisha miamala na kupata mtandao wa Bitcoin.
+Ili kueleza dhana ya Mining kwa njia iliyorahisishwa, mlinganisho unaofaa unaweza kutumika: ule wa fumbo. Kama fumbo, Mining ni kazi ngumu kutekeleza lakini ni rahisi kuthibitisha mara tu itakapokamilika. Katika muktadha wa Bitcoin Mining, wachimbaji hujitahidi kutatua haraka fumbo la dijiti. Miner ya kwanza ya kusuluhisha fumbo inatoa suluhisho lao kwa mtandao mzima, ambao unaweza kuthibitisha uhalali wake kwa urahisi. Uthibitishaji huu uliofaulu huruhusu Miner kuhalalisha kitalu kipya na kuiongeza kwenye Msururu wa Muda wa Bitcoin. Kwa kutambua kazi yao, ambayo inahusisha gharama kubwa, Miner inalipwa kwa idadi fulani ya bitcoins. Zawadi hii hutumika kama motisha ya kifedha kwa wachimba migodi kuendelea na kazi yao ya kuthibitisha miamala na kupata mtandao wa Bitcoin.
 
 ![image](assets/en/01.webp)
 
