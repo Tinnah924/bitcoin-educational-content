@@ -629,7 +629,7 @@ Katika ukurasa huu wa kwanza, unaweza kuona utendakazi wa wakati halisi wa mashi
 
 <partId>98266a8f-3745-58a0-9f6b-26a9734e1427</partId>
 
-## Badilisha Fani ya Nguvu ya Supply
+## Badilisha Fani ya Ygavi wa umeme
 
 <chapterId>0c6befa7-f3ef-5bcf-ae8d-0ad5e5d41d70</chapterId>
 
