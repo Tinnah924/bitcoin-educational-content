@@ -4,7 +4,6 @@ description: Jinsi ya kutumia programu ya 2FA?
 ---
 ![cover](assets/cover.webp)
 
-
 Siku hizi, uthibitishaji wa vipengele viwili (2FA) umekuwa muhimu kwa ajili ya kuimarisha usalama wa akaunti za mtandaoni dhidi ya ufikiaji usioidhinishwa. Pamoja na ongezeko la mashambulizi ya mtandaoni, kutegemea tu nenosiri ili kulinda akaunti zako hakutoshi. 2FA inatanguliza Layer ya ziada ya usalama kwa kuhitaji aina ya pili ya uthibitishaji pamoja na nenosiri. Uthibitishaji huu unaweza kuchukua aina kadhaa, kama vile nambari ya kuthibitisha iliyotumwa kupitia SMS, msimbo unaobadilika unaozalishwa na programu maalum au matumizi ya ufunguo halisi wa usalama. Matumizi ya 2FA hupunguza sana hatari ya akaunti zako kuathiriwa, hata katika tukio la kuibiwa nenosiri lako.
 
 
