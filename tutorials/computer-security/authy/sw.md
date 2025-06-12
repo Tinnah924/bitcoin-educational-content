@@ -21,7 +21,7 @@ Kusasisha msimbo kila baada ya sekunde 30 hufanya iwe vigumu sana kwa mvamizi ku
 2FA kupitia programu za uthibitishaji kwa hivyo inawakilisha njia rahisi kutumia na isiyolipishwa ili kuboresha kwa kiasi kikubwa usalama wa akaunti zako za mtandaoni.
 
 
-Kuna programu nyingi za kusanidi 2FA, kati ya hizo Kithibitishaji cha Google na Kithibitishaji cha Microsoft ndizo zinazojulikana zaidi. Walakini, katika somo hili, ningependa kukujulisha kwa suluhisho lingine lisilojulikana linaloitwa Authy. Programu hizi zote hufanya kazi kwa kutumia itifaki sawa ya TOTP (*Nenosiri la Wakati Mmoja*) sawa, na kufanya matumizi yao yafanane kabisa.
+Kuna programu nyingi za kusanidi 2FA, kati ya hizo Google Authenticator na Microsoft Authenticator ndizo zinazojulikana zaidi. Walakini, katika somo hili, ningependa kukujulisha kwa suluhisho lingine lisilojulikana linaloitwa Authy. Programu hizi zote hufanya kazi kwa kutumia itifaki sawa ya TOTP (*Nenosiri la Wakati Mmoja*) sawa, na kufanya matumizi yao yafanane kabisa.
 
 Authy inatoa faida kadhaa juu ya masuluhisho mengine kutoka kwa makampuni makubwa ya teknolojia. Kwanza kabisa, hukuruhusu kusawazisha tokeni zako za 2FA kwenye vifaa vingi, ambavyo vinaweza kuwa muhimu katika kesi ya kupoteza au kubadilisha simu. Authy pia hukuwezesha generate chelezo iliyosimbwa kwa njia fiche na kuihifadhi mtandaoni, ili kuhakikisha hutapoteza ufikiaji wa tokeni zako, hata ukipoteza kifaa chako msingi. Kutoka kwa mtazamo wa mtumiaji wa Interface, mimi binafsi nimeona kuwa Authy pia inatoa uzoefu wa kupendeza na angavu kuliko mbadala wake.
 
