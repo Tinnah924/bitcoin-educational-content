@@ -16,7 +16,6 @@ Katika mafunzo haya, tutazama katika tasnia ya Mining ili kuondoa ufahamu wa som
 Sehemu ya kwanza itakuwa ya kinadharia, ambapo mimi na Ajelex tutakuwa na mjadala wa kina juu ya mada mbalimbali zinazohusiana na Mining. Hii itatusaidia kuelewa vyema tasnia hii na masuala ya kiuchumi na kijiografia yanayohusiana nayo.
 
 Katika sehemu ya pili, tutashughulikia kesi ya vitendo. Hakika, tutajifunza jinsi ya kubadilisha S9 Miner iliyotumika kwenye mfumo wa kupokanzwa nyumbani! Kupitia miongozo na video zilizoandikwa, tutaonyesha na kuelezea hatua zote za kufanikisha hili nyumbani kwako :)
-
 Kupitia video hii, tunatumai kukuonyesha kuwa tasnia ya Mining ni ngumu zaidi kuliko inavyoonekana, na kuisoma kunasaidia kutofautisha mjadala wa kiikolojia unaohusishwa nayo!
 
 Ikiwa unahitaji usaidizi kuhusu usanidi wako, kikundi cha Telegramu kimeundwa kwa ajili ya wanafunzi, na vipengele vyote muhimu vinaweza kupatikana kwenye jukwaa letu la e-commerce!
