@@ -1,6 +1,6 @@
 ---
 name: Bitwarden
-description: Jinsi ya kuanzisha meneja wa nenosiri?
+description: Jinsi ya Kuweka Msimamizi wa Nywila?
 ---
 ![cover](assets/cover.webp)
 
@@ -20,13 +20,13 @@ Kanuni ya pili muhimu ni nguvu ya nenosiri. Nenosiri linachukuliwa kuwa kali iki
 Kutumia kanuni hizi mbili za usalama wa nenosiri (upekee na uthabiti) kunaweza kuwa vigumu katika maisha ya kila siku, kwani ni vigumu sana kukariri nenosiri la kipekee, la nasibu na dhabiti kwa akaunti zetu zote. Hapa ndipo kidhibiti cha nenosiri kinapotumika.
 
 
-Kidhibiti cha nenosiri hutengeneza na kuhifadhi kwa usalama manenosiri thabiti, huku kuruhusu kufikia akaunti zako zote mtandaoni bila hitaji la kuzikariri kibinafsi. Unahitaji tu kukumbuka nenosiri moja, nenosiri kuu, ambalo hukupa ufikiaji wa nywila zako zote zilizohifadhiwa kwenye kidhibiti. Kutumia kidhibiti cha nenosiri huimarisha usalama wako mtandaoni kwa sababu huzuia utumiaji tena wa manenosiri na kutengeneza manenosiri nasibu. Lakini pia hurahisisha matumizi yako ya kila siku ya akaunti zako kwa kuweka kati ufikiaji wa taarifa zako nyeti.
+Kidhibiti cha nywila hutengeneza na kuhifadhi kwa usalama manenosiri thabiti, huku kuruhusu kufikia akaunti zako zote mtandaoni bila hitaji la kuzikariri kibinafsi. Unahitaji tu kukumbuka nenosiri moja, nenosiri kuu, ambalo hukupa ufikiaji wa nywila zako zote zilizohifadhiwa kwenye kidhibiti. Kutumia kidhibiti cha nenosiri huimarisha usalama wako mtandaoni kwa sababu huzuia utumiaji tena wa manenosiri na kutengeneza manenosiri nasibu. Lakini pia hurahisisha matumizi yako ya kila siku ya akaunti zako kwa kuweka kati ufikiaji wa taarifa zako nyeti.
 
 Katika somo hili, tutachunguza jinsi ya kusanidi na kutumia kidhibiti nenosiri ili kuimarisha usalama wako mtandaoni. Nitakutambulisha kwa Bitwarden, na katika somo lingine, tutaangalia suluhisho lingine linaloitwa KeePass.
 
 https://planb.network/tutorials/computer-security/authentication/keepass-f8073bb7-5b4a-4664-9246-228e307be246
 
-Onyo: Kidhibiti cha nenosiri kinafaa kwa kuhifadhi manenosiri, lakini **hupaswi kamwe kuhifadhi maneno ya Mnemonic ya Bitcoin Wallet ndani yake!** Kumbuka, kishazi cha Mnemonic kinapaswa kuhifadhiwa katika muundo wa kipekee, kama kipande cha karatasi au chuma.
+Onyo: Kidhibiti cha nywila kinafaa kwa kuhifadhi manenosiri, lakini **hupaswi kamwe kuhifadhi maneno ya Mnemonic ya Bitcoin Wallet ndani yake!** Kumbuka, kishazi cha Mnemonic kinapaswa kuhifadhiwa katika muundo wa kipekee, kama kipande cha karatasi au chuma.
 
 
 ## Utangulizi wa Bitwarden
@@ -43,14 +43,15 @@ Zaidi ya hayo, Bitwarden ni chanzo huria, ambayo ina maana kwamba programu inawe
 
 
 - Toleo lisilolipishwa ambalo tutachunguza katika somo hili. Ingawa ni bure, hutoa kiwango cha usalama sawa na matoleo yanayolipishwa. Unaweza kuhifadhi idadi isiyo na kikomo ya nywila na kusawazisha vifaa vingi unavyotaka;
-- Toleo linalolipishwa kwa $10 kwa mwaka ambalo linajumuisha vipengele vya ziada kama vile hifadhi ya faili, hifadhi rudufu ya kadi ya benki, uwezo wa kusanidi 2FA kwa kutumia ufunguo halisi wa usalama, na ufikiaji wa uthibitishaji wa TOTP 2FA moja kwa moja ukitumia Bitwarden;
-- Na mpango wa familia wa $40 kwa mwaka ambao huongeza manufaa ya toleo la malipo kwa watumiaji sita tofauti.
+- Toleo la premium kwa $10 kwa mwaka ambalo linajumuisha vipengele vya ziada kama vile hifadhi ya faili, nakala rudufu ya kadi ya benki, uwezo wa kusanidi 2FA kwa kutumia ufunguo halisi wa usalama, na ufikiaji wa uthibitishaji wa TOTP 2FA moja kwa moja ukitumia Bitwarden;
+- Na mpango wa familia kwa \$40 kwa mwaka ambao unapanua manufaa ya toleo la premium kwa watumiaji sita tofauti.
+.
 
 ![BITWARDEN](assets/notext/02.webp)
 
 Kwa maoni yangu, bei hizi ni sawa. Toleo la bure ni chaguo bora kwa Kompyuta, na toleo la premium hutoa thamani nzuri sana ya pesa ikilinganishwa na wasimamizi wengine wa nenosiri kwenye soko, huku wakitoa vipengele zaidi. Zaidi ya hayo, ukweli kwamba Bitwarden ni chanzo wazi ni faida kubwa. Kwa hiyo, ni maelewano ya kuvutia, hasa kwa Kompyuta.
 
-Kipengele kingine cha Bitwarden ni uwezo wa kujipanga mwenyewe meneja wa nenosiri lako ikiwa unamiliki, kwa mfano, NAS nyumbani. Kwa kusanidi usanidi huu, manenosiri yako hayahifadhiwi kwenye seva za Bitwarden, lakini kwenye seva zako mwenyewe. Hii inakupa udhibiti kamili juu ya upatikanaji wa manenosiri yako. Hata hivyo, chaguo hili linahitaji usimamizi madhubuti wa chelezo ili kuepuka upotevu wowote wa ufikiaji. Kwa hiyo, upangishaji binafsi wa Bitwarden unafaa zaidi kwa watumiaji wa hali ya juu, na tutaijadili katika mafunzo mengine.
+Kipengele kingine cha Bitwarden ni uwezo wa kujihifadhi mwenyewe msimamizi wako wa nywila ikiwa unamiliki, kwa mfano, kifaa cha NAS nyumbani. Kwa kusanidi usanidi huu, manenosiri yako hayahifadhiwi kwenye seva za Bitwarden, lakini kwenye seva zako mwenyewe. Hii inakupa udhibiti kamili juu ya upatikanaji wa manenosiri yako. Hata hivyo, chaguo hili linahitaji usimamizi madhubuti wa chelezo ili kuepuka upotevu wowote wa ufikiaji. Kwa hiyo, upangishaji binafsi wa Bitwarden unafaa zaidi kwa watumiaji wa hali ya juu, na tutaijadili katika mafunzo mengine.
 
 ## Jinsi ya kuunda akaunti ya Bitwarden?
 
@@ -111,7 +112,7 @@ Hatimaye, ingia tena.
 
 ![BITWARDEN](assets/notext/13.webp)
 
-Kwanza kabisa, nakushauri sana usanidi uthibitishaji wa vipengele viwili (2FA) ili kupata kidhibiti chako cha nenosiri. Una chaguo kati ya kutumia programu ya TOTP au ufunguo halisi wa usalama. Kwa kuwezesha 2FA, kila wakati unapoingia kwenye akaunti yako ya Bitwarden, hutaulizwa sio tu kwa nenosiri lako kuu bali pia uthibitisho wa sababu yako ya pili ya uthibitishaji. Hii ni Layer ya ziada ya usalama, muhimu sana katika tukio ambalo nakala yako ya nakala ya nenosiri kuu itaathiriwa.
+Kwanza kabisa, nakushauri vikali uweke uthibitishaji wa hatua mbili (2FA) ili kupata kidhibiti chako cha nenosiri. Una chaguo kati ya kutumia programu ya TOTP au ufunguo halisi wa usalama. Kwa kuwezesha 2FA, kila wakati unapoingia kwenye akaunti yako ya Bitwarden, hutaulizwa sio tu kwa nenosiri lako kuu bali pia uthibitisho wa sababu yako ya pili ya uthibitishaji. Hii ni Layer ya ziada ya usalama, muhimu sana katika tukio ambalo nakala yako ya nakala ya nenosiri kuu itaathiriwa.
 
 
 Ikiwa huna uhakika jinsi ya kusanidi na kutumia vifaa hivi vya 2FA, ninapendekeza ufuate mafunzo haya 2 mengine:
@@ -158,7 +159,7 @@ Katika mipangilio, pia una chaguo la kubinafsisha msimamizi wako kwenye kichupo 
 Ninapendekeza sana kurekebisha urefu wa nywila zinazozalishwa na Bitwarden. Kwa chaguo-msingi, urefu umewekwa kwa herufi 14, ambayo inaweza kuwa haitoshi kwa usalama bora. Kwa kuwa sasa una kidhibiti cha kukumbuka manenosiri yako yote, unaweza pia kuchukua fursa hiyo kutumia nenosiri kali sana.
 
 
-Kwa hili, nenda kwenye menyu ya "*Jenereta*".
+Kwa hili, nenda kwenye menyu ya "*Kizalishaji*" (au "*Generator*").
 
 ![BITWARDEN](assets/notext/23.webp)
 
@@ -377,7 +378,7 @@ Mbinu hii inahakikisha kwamba hata kama nyenzo yako ya kuhifadhi nakala itaibiwa
 Hata hivyo, ikiwa kuna tatizo, unaweza kutumia nenosiri na njia ya nje ili kurejesha ufikiaji wa kitambulisho chako, bila kujitegemea Bitwarden. Kwa hivyo, hata kama seva za Bitwarden zingeharibiwa, bado ungekuwa na uwezekano wa kurejesha nywila zako.
 
 
-Kwa hivyo, nakushauri ufanye nakala hizi mara kwa mara ili zijumuishe sifa zako za hivi karibuni. Ili kuepuka kumsumbua rafiki yako, ambaye ana nakala ya nenosiri la usimbaji, kwa kila nakala mpya, unaweza kuhifadhi nenosiri hili kwenye kidhibiti chako cha nenosiri. Hii haikusudiwa kama nakala rudufu, kwa kuwa rafiki yako tayari ana nakala halisi, lakini badala yake kurahisisha taratibu zako za siku zijazo za usafirishaji.
+Kwa hivyo, nakushauri ufanye nakala hizi rudufu mara kwa mara ili zijumuishe sifa zako za hivi karibuni kila wakati. Ili kuepuka kumsumbua rafiki yako, ambaye ana nakala ya nenosiri la usimbaji, kwa kila nakala mpya, unaweza kuhifadhi nenosiri hili kwenye kidhibiti chako cha nenosiri. Hii haikusudiwa kama nakala rudufu, kwa kuwa rafiki yako tayari ana nakala halisi, lakini badala yake kurahisisha taratibu zako za siku zijazo za usafirishaji.
 
 
 Ili kuendelea na usafirishaji, ni rahisi sana: nenda kwenye sehemu ya "*Zana*" ya msimamizi wako wa Bitwarden, kisha uchague "*Hamisha vault*".
@@ -400,4 +401,4 @@ Bofya kwenye "*Thibitisha umbizo*" na uweke nenosiri lako kuu ili kuendelea na u
 
 ![BITWARDEN](assets/notext/69.webp)
 
-Baada ya uhamishaji kukamilika, utapata faili yako mbadala iliyosimbwa kwa njia fiche katika vipakuliwa vyako. Ihamishe hadi kwenye kifaa salama cha hifadhi ya nje, kama vile kifimbo cha USB au kiendeshi cha Hard. Rudia operesheni hii mara kwa mara kulingana na matumizi yako. Kwa mfano, unaweza kufanya upya nakala kila wiki au kila mwezi, kulingana na mahitaji yako.
+Baada ya usafirishaji kukamilika, utakuta faili lako la nakala rudufu lililofichwa (encrypted) katika folda ya upakuaji (downloads). Lihamishie kwenye kifaa salama cha hifadhi ya nje, kama vile diski ya USB au diski kuu (hard drive). Rudia mchakato huu mara kwa mara kulingana na matumizi yako. Kwa mfano, unaweza kufanya nakala rudufu kila wiki au kila mwezi, kulingana na mahitaji yako.
