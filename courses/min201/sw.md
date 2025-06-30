@@ -79,7 +79,7 @@ Ili kueleza dhana ya Mining kwa njia iliyorahisishwa, mlinganisho unaofaa unawez
 
 Hapo awali katika mtandao wa Bitcoin, tuzo iliyotunukiwa ilikuwa bitcoins 50 kila dakika kumi, sambamba na ugunduzi wa block kila dakika kumi kwa wastani na wachimbaji. Zawadi hii hupitia Halving kila vitalu 210,000, takriban kila baada ya miaka minne. Malipo haya yanatumika kama kichocheo chenye nguvu cha kuwahimiza wachimba migodi kushiriki katika mchakato wa Mining licha ya gharama yake ya nishati. Bila malipo, Mining inayotumia umeme mwingi ingeachwa, na hivyo kuhatarisha usalama na uthabiti wa mtandao mzima wa Bitcoin.
 
-Tuzo la sasa la Mining ni mara mbili. Kwa upande mmoja, inajumuisha kuundwa kwa bitcoins mpya, ambayo imepungua kutoka kwa bitcoins 50 kila dakika kumi awali hadi 6.25 bitcoins leo (2023). Kwa upande mwingine, inajumuisha ada za ununuzi, au ada za Mining, kutoka kwa shughuli ambazo Miner inachagua kujumuisha kwenye kizuizi chao. Wakati muamala wa Bitcoin unafanywa, ada za muamala hulipwa. Ada hizi hufanya kazi kama aina ya mnada ambapo watumiaji huonyesha ni kiasi gani wako tayari kulipa ili muamala wao ujumuishwe kwenye block inayofuata. Ili kuongeza thawabu yao, wachimbaji, wakitenda kwa maslahi yao wenyewe, chagua miamala yenye faida zaidi ili kujumuisha kwenye kizuizi chao, kwa kuzingatia nafasi ndogo inayopatikana. Kwa hivyo, malipo ya Mining yanajumuisha kizazi cha bitcoins mpya na ada za manunuzi, kuhakikisha motisha inayoendelea kwa wachimbaji na kuhakikisha maisha marefu na usalama wa mtandao wa Bitcoin.
+Tuzo la sasa la Mining ni mara mbili. Kwa upande mmoja, inajumuisha kuundwa kwa bitcoins mpya, ambayo imepungua kutoka kwa bitcoins 50 kila dakika kumi awali hadi 3.125 bitcoins leo (2025). Kwa upande mwingine, inajumuisha ada za ununuzi, au ada za Mining, kutoka kwa shughuli ambazo Miner inachagua kujumuisha kwenye kizuizi chao. Wakati muamala wa Bitcoin unafanywa, ada za muamala hulipwa. Ada hizi hufanya kazi kama aina ya mnada ambapo watumiaji huonyesha ni kiasi gani wako tayari kulipa ili muamala wao ujumuishwe kwenye block inayofuata. Ili kuongeza thawabu yao, wachimbaji, wakitenda kwa maslahi yao wenyewe, chagua miamala yenye faida zaidi ili kujumuisha kwenye kizuizi chao, kwa kuzingatia nafasi ndogo inayopatikana. Kwa hivyo, malipo ya Mining yanajumuisha kizazi cha bitcoins mpya na ada za manunuzi, kuhakikisha motisha inayoendelea kwa wachimbaji na kuhakikisha maisha marefu na usalama wa mtandao wa Bitcoin.
 
 ### Wachimbaji na zana zao: Mining
 
@@ -128,7 +128,7 @@ Kwa sasa, Bitcoin Mining imebadilika na kuwa sekta kubwa na kubwa, na wachezaji 
 
 Mining pool ni kundi la wachimba migodi wanaochanganya rasilimali zao za kompyuta ili kuongeza nafasi zao za Mining. Ushirikiano huu ni muhimu kwa sababu mashine ndogo ya Mining iliyotengwa inashindana dhidi ya makampuni makubwa ya sekta, na hivyo kupunguza nafasi zake za kufaulu hadi kiwango kidogo. Mining inafanya kazi kwa kanuni ya bahati nasibu, na nafasi za kushinda block (na kwa hivyo tuzo ya Bitcoin) kila dakika kumi ni ya chini sana kwa Miner ndogo. Kwa kuunganisha pamoja, wachimbaji wanaweza kuchanganya nguvu zao za kompyuta, kutafuta vizuizi mara kwa mara, na kisha kusambaza zawadi sawia kwa mchango wa kila Miner kwenye bwawa.
 
-Kwa mfano, iwapo kikundi cha wachimbaji (mining pool) kitapata kitalu na kushinda zawadi ya bitcoin 6.25, mchimbaji aliyechangia 1% ya nguvu ya kompyuta ya kikundi hicho atapokea 1% ya hizo bitcoin 6.25. Hata hivyo, ni lazima ieleweke kwamba vikundi vwa wachimbaji kwa ujumla huchukua tume ndogo (kawaida karibu 2%) ili kufidia gharama za uendeshaji wa ushirika.
+Kwa mfano, iwapo kikundi cha wachimbaji (mining pool) kitapata kitalu na kushinda zawadi ya bitcoin 3.125, mchimbaji aliyechangia 1% ya nguvu ya kompyuta ya kikundi hicho atapokea 1% ya hizo bitcoin 3.125. Hata hivyo, ni lazima ieleweke kwamba vikundi vwa wachimbaji kwa ujumla huchukua tume ndogo (kawaida karibu 2%) ili kufidia gharama za uendeshaji wa ushirika.
 
 ### Programu inayotumiwa na tasnia
 
@@ -275,12 +275,12 @@ Swali ni la kina na linajumuisha vipimo kadhaa vya Bitcoin Mining. Usawa kati ya
 
 - Mining kwa faida:
 
-- * Kwa: Miners  wanavutiwa kiasili na mapato yanayoweza kutokea kutoka kwa Bitcoin Mining. Uwekezaji katika vifaa vya gharama kubwa vya Mining unaweza kulipwa kwa zawadi za Mining na ada za ununuzi, hasa wakati bei ya Bitcoin iko juu.
--* Dhidi ya: Kutafuta faida kunaweza kusababisha kuunganishwa kwa nguvu ya hashing ikiwa ni makampuni machache tu makubwa yanayoweza kumudu kuwekeza katika vifaa vya juu vya Mining. Zaidi ya hayo, Mining kwa faida inaweza kuwa na athari kubwa ya mazingira.
+- Kwa: Miners  wanavutiwa kiasili na mapato yanayoweza kutokea kutoka kwa Bitcoin Mining. Uwekezaji katika vifaa vya gharama kubwa vya Mining unaweza kulipwa kwa zawadi za Mining na ada za ununuzi, hasa wakati bei ya Bitcoin iko juu.
+  Dhidi ya: Kutafuta faida kunaweza kusababisha kuunganishwa kwa nguvu ya hashing ikiwa ni makampuni machache tu makubwa yanayoweza kumudu kuwekeza katika vifaa vya juu vya Mining. Zaidi ya hayo, Mining kwa faida inaweza kuwa na athari kubwa ya mazingira.
 - Mining kwa mtandao:
   
--* Kwa: Mining kuchangia usalama na ugatuaji wa mtandao wa Bitcoin ni mpango mzuri. Husaidia kuimarisha uthabiti wa mtandao na kupinga udhibiti na mashambulizi.
--* Dhidi ya: Bila motisha ya kutosha ya kifedha, inaweza kuwa vigumu kwa wachimbaji kuendelea kusaidia mtandao, hasa kama wanafanya kazi kwa hasara.
+- Kwa: Mining kuchangia usalama na ugatuaji wa mtandao wa Bitcoin ni mpango mzuri. Husaidia kuimarisha uthabiti wa mtandao na kupinga udhibiti na mashambulizi.
+- Dhidi ya: Bila motisha ya kutosha ya kifedha, inaweza kuwa vigumu kwa wachimbaji kuendelea kusaidia mtandao, hasa kama wanafanya kazi kwa hasara.
 
 Mpango wa Attakai unaangazia umuhimu wa kuchangia mtandao huku ukitoa suluhu za kufanya Mining ipatikane zaidi na isiyo na madhara. Uwezekano wa Mining nyumbani, na vifaa vya bei nafuu zaidi na ufumbuzi wa kupunguza uchafuzi wa kelele, inaweza kusaidia demokrasia Bitcoin Mining. Inawahimiza wale wanaopenda Bitcoin sio tu kuwekeza na kushikilia bitcoins lakini pia kushiriki kikamilifu katika kupata mtandao. Kwa kutoa vifaa vilivyojaribiwa na miongozo ya kusanyiko na ufungaji, Attakai hurahisisha kuingia kwenye ulimwengu wa Bitcoin Mining. Pia inahimiza uvumbuzi na uboreshaji endelevu, kualika jamii kuchangia na kubadilishana mawazo na uzoefu wao ili kuboresha Mining ya nyumbani. Mfano wa Attakai ni jibu kwa swali la Mining kwa faida au kwa mtandao. Sio tu kuhusu kupata faida, lakini pia kuhusu kuimarisha usambazaji na usalama wa mtandao wa Bitcoin, huku kuwezesha watu zaidi kushiriki katika Mining, kujifunza, na kuelewa sekta hii muhimu. Changamoto ya uwezekano wa kupiga marufuku Mining barani Ulaya bado ni swali wazi. Hii inazua wasiwasi kuhusu mustakabali wa Bitcoin Mining katika kanda na hitaji la udhibiti sawia unaotambua umuhimu wa Mining kwa usalama na uwezekano wa mtandao wa Bitcoin wakati wa kushughulikia masuala ya mazingira. Attakai na mipango mingine kama hiyo inaweza kuchukua jukumu muhimu katika mjadala huu, kuonyesha kwamba inawezekana kuchimba madini kwa njia endelevu na ya kuwajibika, huku ikichangia vyema mtandao wa Bitcoin.
 
@@ -379,7 +379,7 @@ Hii ni fursa nzuri sana ya kujifunza kwa kufanya mazoezi huku ukituzwa kwa ushir
 
 Katika sehemu hii, tutajadili mbinu bora za ununuzi wa Bitmain Antminer S9 iliyotumika, mashine ambayo mafunzo haya ya kurekebisha radiator yatategemea. Mwongozo huu pia unatumika kwa miundo mingine ya ASIC kwa kuwa ni mwongozo wa jumla wa ununuzi wa maunzi yaliyotumika ya Mining.
 
-Antminer S9 ni kifaa kilichotolewa na Bitmain tangu Mei 2016. Inatumia 1400W ya umeme na inazalisha 13.5 TH / s. Ingawa inachukuliwa kuwa ya zamani, inabaki chaguo bora kwa kuanza Mining. Kwa kuwa imetolewa kwa wingi, ni rahisi kupata vipuri kwa wingi katika maeneo mengi ya dunia. Kwa ujumla inaweza kununuliwa kutoka kwa peer-to-peer kwenye tovuti kama vile eBay au LeBonCoin, kwani wauzaji wa kitaalamu hawatoi tena kutokana na ushindani wake wa chini ikilinganishwa na mashine mpya zaidi. Haifanyi kazi vizuri kuliko ASIC kama vile Antminer S19, iliyotolewa tangu Machi 2020, lakini hii inaifanya kuwa maunzi yanayotumika kwa bei nafuu na yanafaa zaidi kwa marekebisho tutakayofanya.
+Antminer S9 ni kifaa kilichotolewa na Bitmain tangu Mei 2016. Inatumia 1400W ya umeme na inazalisha 13.5 TH / s. Ingawa inachukuliwa kuwa ya zamani, inabaki chaguo bora kwa kuanza Mining. Kwa kuwa imetolewa kwa wingi, ni rahisi kupata vipuri kwa wingi katika maeneo mengi ya dunia. Kwa ujumla inaweza kununuliwa kutoka kwa peer-to-peer (mwenzi kwa mwenzi) kwenye tovuti kama vile eBay au LeBonCoin, kwani wauzaji wa kitaalamu hawatoi tena kutokana na ushindani wake wa chini ikilinganishwa na mashine mpya zaidi. Haifanyi kazi vizuri kuliko ASIC kama vile Antminer S19, iliyotolewa tangu Machi 2020, lakini hii inaifanya kuwa maunzi yanayotumika kwa bei nafuu na yanafaa zaidi kwa marekebisho tutakayofanya.
 
 Antminer S9 inakuja katika tofauti kadhaa (i, j) ambazo hufanya marekebisho madogo kwa maunzi ya kizazi cha kwanza. Hatuamini kwamba hii inapaswa kuathiri uamuzi wako wa ununuzi, na mwongozo huu unafanya kazi kwa tofauti hizi zote.
 
@@ -494,7 +494,7 @@ Orodha ya vifaa na viungo
 
 <chapterId>3cf487a4-21ef-5b24-83d5-789b811f740f</chapterId>
 
-Ili kuunganisha ASIC yako kupitia WIFI, utahitaji kifaa kinachoitwa  (bridge. Kifaa hiki hukuruhusu kupata mawimbi ya WIFI kutoka kwa kipanga njia chako na kuisambaza kwa kifaa kingine kupitia Ethaneti.
+Ili kuunganisha ASIC yako kupitia WIFI, utahitaji kifaa kinachoitwa  (bridge). Kifaa hiki hukuruhusu kupata mawimbi ya WIFI kutoka kwa kipanga njia chako na kuisambaza kwa kifaa kingine kupitia Ethaneti.
 
 Vifaa vingi vinaweza kufanya kazi hii, lakini tunapendekeza VONETS WiFi Bridge/Repeater kwa urahisi wake.
 
@@ -768,7 +768,7 @@ Na hapo unayo, pongezi! Umebadilisha sehemu nzima ya mitambo ya Miner yako. Unap
 
 <chapterId>b57a6105-0a53-5fe9-bad1-d6d9daf97c0d</chapterId>
 
-Mtu anaweza kufikiria Mining pool kama ushirika wa kilimo. Wakulima hukusanya pamoja uzalishaji wao ili kupunguza tofauti ya Supply na mahitaji na hivyo kupata mapato thabiti zaidi kwa uendeshaji wao. Mining pool inafanya kazi kwa njia sawa, na rasilimali iliyoshirikiwa kuwa heshi. Hakika, ugunduzi wa Hash moja halali inaruhusu kuundwa kwa block na kushinda kwa coinbase au tuzo, kwa sasa 6.25 BTC pamoja na ada za manunuzi zilizojumuishwa kwenye block.
+Mtu anaweza kufikiria Mining pool kama ushirika wa kilimo. Wakulima hukusanya pamoja uzalishaji wao ili kupunguza tofauti ya Supply na mahitaji na hivyo kupata mapato thabiti zaidi kwa uendeshaji wao. Mining pool inafanya kazi kwa njia sawa, na rasilimali iliyoshirikiwa kuwa heshi. Hakika, ugunduzi wa Hash moja halali inaruhusu kuundwa kwa block na kushinda kwa coinbase au tuzo, kwa sasa 3.125 BTC pamoja na ada za manunuzi zilizojumuishwa kwenye block.
 
 Ikiwa wewe peke yako, utalipwa tu wakati utapata kizuizi. Kwa kuwa katika ushindani dhidi ya wachimba migodi wengine wote kwenye sayari, ungekuwa na nafasi ndogo sana ya kushinda bahati nasibu hii na bado ungelazimika kulipa ada zinazohusiana na kutumia Miner yako bila hakikisho lolote la mafanikio. Mining mabwawa ya Address suala hili kwa kuunganisha uwezo wa kompyuta wa kadhaa (maelfu) ya wachimbaji madini na kushiriki malipo yao kulingana na asilimia ya ushiriki katika Hashrate ya bwawa wakati kizuizi kinapopatikana. Ili kuibua nafasi zako za Mining block peke yako, unaweza kutumia zana hii. Kwa kuingiza habari kwa Antminer S9, tunaweza kuona kwamba nafasi za kupata Hash ambayo inaruhusu kuundwa kwa block ni 1 kati ya 24,777,849 kwa kila block au 1 katika 172,068 kwa siku. Kwa wastani (na Hashrate ya mara kwa mara na ugumu), itachukua angalau miaka 471 kupata block (kama ugumu unavyoongezeka).
 
