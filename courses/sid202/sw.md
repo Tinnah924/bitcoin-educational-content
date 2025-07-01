@@ -50,27 +50,27 @@ Maelezo zaidi ya usuli kuhusu Elements yanaweza kupatikana kwa urahisi kwenye to
 
 ### Elements
 
-Ilizinduliwa mwaka wa 2015, Elements inapunguza gharama za maendeleo ya ndani na utafiti na kutumia teknolojia ya hivi punde ya Blockchain, ikifungua kesi nyingi mpya za utumiaji kwa utekelezaji. Blockchain yenye msingi wa Elements inaweza kufanya kazi kama Blockchain inayojitegemea au kuunganishwa kwa nyingine na kuendeshwa kama Sidechain. Uendeshaji wa Elements kama Sidechain huwezesha mali kuhamishwa kwa uthibitishaji kati ya misururu tofauti tofauti.
+Ilizinduliwa mwaka wa 2015, Elements inapunguza gharama za maendeleo ya ndani na utafiti na kutumia teknolojia ya hivi punde ya Blockchain, ikifungua kesi nyingi mpya za utumiaji kwa utekelezaji. Blockchain yenye msingi wa Elements inaweza kufanya kazi kama Blockchain inayojitegemea au kuunganishwa kwa nyingine na kuendeshwa kama Sidechain. Uendeshaji wa Elements kama Sidechain huwezesha mali kuhamishwa kwa uthibitishaji kati yaMisururu tofauti tofauti.
 
-Imeundwa juu na kupanua codebase ya Bitcoin, inawaruhusu wasanidi programu kufahamiana na API ya bitcoind haraka na kwa gharama nafuu kuunda misururu inayofanya kazi na kujaribu miradi ya uthibitisho wa dhana. Kujengwa kwa Bitcoin codebase pia inaruhusu Elements kufanya kazi kama kitanda cha majaribio kwa mabadiliko ya itifaki ya Bitcoin yenyewe.
+Imeundwa juu na kupanua *codebase* ya Bitcoin, inawaruhusu wasanidi programu kufahamiana na API ya `bitcoind` haraka na kwa gharama nafuu, kuunda misururu inayofanya kazi na kujaribu miradi ya uthibitisho wa dhana. Kujengwa kwa *Bitcoin codebase* pia kunaruhusu Elements kufanya kazi kama kitanda cha majaribio kwa mabadiliko ya itifaki ya Bitcoin yenyewe.
 
-Baadhi ya sifa kuu za Elements zimeorodheshwa zifuatazo.
+Baadhi ya sifa kuu za Elements zimeorodheshwa zifuatazo:
 
-#### Confidential Transactions
+#### *Confidential Transactions*
 
-Kwa chaguo-msingi, anwani zote katika Elements ni blinded kwa kutumia Confidential Transactions. Kupofusha ni mchakato ambao kiasi na aina ya mali inayohamishwa hufichwa kwa siri kutoka kwa kila mtu, isipokuwa washiriki na wale wanaowachagua kufichua ufunguo wa upofu.
+Kwa chaguo-msingi, anwani zote katika Elements zimefichwa kwa kutumia *Confidential Transactions*. Kupofusha ni mchakato ambao kiasi na aina ya mali inayohamishwa hufichwa kwa siri kutoka kwa kila mtu, isipokuwa washiriki na wale wanaochaguliwa kufichuliwa ufunguo wa kupofua.
 
-#### Issued Assets
+#### *Issued Assets*
 
-Issued Assets kwenye Elements inaruhusu aina nyingi za mali kutolewa na kuhamishwa kati ya washiriki wa mtandao. Kipengee Kilichotolewa pia kinanufaika na Confidential Transactions na kinaweza kutolewa tena au kuharibiwa na mtu yeyote aliye na reissuance token husika.
+*Issued Assets* kwenye Elements huruhusu aina mbalimbali za mali kutolewa na kuhamishwa kati ya washiriki wa mtandao. Kipengee kilichotolewa pia kinanufaika na *Confidential Transactions* na kinaweza kutolewa tena au kuharibiwa na mtu yeyote aliye na *reissuance token* husika.
 
-#### Federated 2-Way Peg
+#### *Federated 2-Way Peg*
 
-Elements ni jukwaa la madhumuni ya jumla la Blockchain ambalo linaweza pia "kupachikwa" kwa Blockchain iliyopo (kama vile Bitcoin) ili kuwezesha uhamishaji wa mali wa njia mbili kutoka kwa msururu mmoja hadi mwingine. Utekelezaji wa Elements kama Sidechain hukuruhusu kufanyia kazi baadhi ya sifa asilia za mnyororo mkuu, huku ukihifadhi kiwango kizuri cha usalama unaotolewa na mali zinazolindwa kwenye mnyororo mkuu.
+Elements ni jukwaa la madhumuni ya jumla la blockchain ambalo linaweza pia “kupachikwa” kwa blockchain iliyopo (kama vile Bitcoin) ili kuwezesha uhamishaji wa mali wa njia mbili kutoka kwa msururu mmoja hadi mwingine. Utekelezaji wa Elements kama *sidechain* hukuruhusu kufanyia kazi baadhi ya sifa asilia za mnyororo mkuu, huku ukihifadhi kiwango kizuri cha usalama unaotolewa na mali zinazolindwa kwenye mnyororo mkuu.
 
-#### Vitalu vilivyosainiwa
+#### *bloku zilizosainiwa*
 
-Elements hutumia Strong Federation ya watia saini, wanaoitwa Block Signers, ambao husaini na kuunda vitalu kwa njia ya kuaminika na kwa wakati. Hii huondoa ukawiaji wa muamala wa mchakato wa PoW Mining, ambao unakabiliwa na tofauti kubwa ya muda wa kuzuia kutokana na usambazaji wake wa poisson bila mpangilio. Mchakato wa Shirikisho la block signing unafanikisha uundaji wa vitalu unaotegemewa bila kuwasilisha hitaji la uaminifu wa watu wengine au `algorithm` ya kimahesabu kulingana na Mining.
+Elements hutumia *Strong Federation* ya watia saini, wanaoitwa *Block Signers*, ambao husaini na kuunda vitalu kwa njia ya kuaminika na kwa wakati. Hii huondoa ucheleweshaji wa miamala wa mchakato wa *PoW Mining*, ambao unakabiliwa na tofauti kubwa ya muda wa kuzuia kutokana na usambazaji wake wa *Poisson* bila mpangilio. Mchakato wa shirikisho la *block signing* unafanikisha uundaji wa vitalu unaotegemewa bila kuwasilisha hitaji la uaminifu wa watu wengine au *algorithm* ya kimahesabu. na Mining.
 
 Elements inaongeza vipengele hivi vyote juu ya Bitcoin Core codebase, kupanua uwezo wa itifaki ya mainchain na kuwezesha kesi mpya za matumizi ya biashara inapotumwa kama Sidechain au kama suluhu ya Blockchain inayojitegemea.
 
@@ -131,13 +131,14 @@ Kwa sababu kizazi cha kuzuia cha Strong Federation si cha uwezekano na kinategem
 
 Inapoendeshwa kama Sidechain, baadhi ya wanachama wa Strong Federation wana jukumu la ziada la kutimiza, lile la watchmen. watchmen wanawajibika kwa uhamisho wa mali ndani na nje ya Elements Sidechain, michakato inayojulikana kama `Peg-In` na `Peg-Out`.
 
-Ili Sidechain ifanye kazi kwa njia ya kuaminika ni lazima iruhusu washiriki kuthibitisha kuwa Supply ya mali inadhibitiwa na kuthibitishwa. Elements Sidechain hutumia Kigingi Kilichoshirikishwa cha Njia 2 ili kuwezesha uhamishaji wa mali wa njia mbili ndani na nje ya Elements Blockchain. Hii inakidhi mahitaji ya utoaji unaoweza kuthibitishwa na uhamishaji baina ya minyororo.
+Ili Sidechain ifanye kazi kwa njia ya kuaminika ni lazima iruhusu washiriki kuthibitisha kuwa Supply ya mali inadhibitiwa na kuthibitishwa. Elements Sidechain hutumia Kigingi Kilichoshirikishwa cha Njia 2 ili kuwezesha uhamishaji wa mali wa njia mbili ndani na nje ya Elements Blockchain. Hii inakidhi Mahitaji ya utoaji unaoweza kuthibitishwa na uhamishaji baina ya minyororo.
 
-Kipengele cha Federated 2-Way Peg kinaruhusu kipengee kuingiliana na minyororo mingine na mwakilishi wa mali nyingine asili ya Blockchain. Kwa kushikilia Blockchain yako hadi nyingine, unaweza kupanua uwezo wa mainchain na kushinda baadhi ya mapungufu yake ya asili.
+Kipengele cha *Federated 2-Way Peg* kinaruhusu kipengee kuingiliana na minyororo mingine kama mwakilishi wa mali nyingine asilia ya blockchain. Kwa "kushikilia" blockchain yako hadi nyingine, unaweza kupanua uwezo wa *mainchain* na kushinda baadhi ya vikwazo vya asili vinavyokabili mnyororo huo.
 
-Kwa kiwango cha juu, uhamisho kwenye Sidechain hutokea wakati mtu anatuma mali ya mainchain kwa Address inayodhibitiwa na watchmen Wallet ya saini nyingi. Hii inafungia kwa ufanisi mali kwenye mainchain. watchmen kisha uthibitishe muamala na kutoa kiasi sawa cha kipengee husika ndani ya Sidechain. Mali iliyotolewa hutumwa kwa Sidechain Wallet ambayo inaweza kuthibitisha dai la mali asili ya mainchain. Mchakato huu huhamisha mali kutoka kwa msururu wa wazazi hadi Sidechain.
+Kwa kiwango cha juu, uhamisho hadi kwenye *sidechain* hutokea wakati mtumiaji anapotuma mali kutoka *mainchain* kwenda kwa anwani inayodhibitiwa na *multisig watchmen wallet*. Hatua hii hufungia mali husika kwenye *mainchain*. Kisha, *watchmen* wanathibitisha muamala huo na kutoa kiasi sawa cha kipengee ndani ya *sidechain*. Mali hiyo iliyotolewa inatumwa kwa *sidechain wallet* inayoweza kuthibitisha dai la umiliki wa mali asili kutoka kwa *mainchain*. Mchakato huu huwezesha uhamishaji wa mali kutoka kwa mnyororo wa asili hadi *sidechain*.
 
-Ili kuhamisha mali kurudi kwa mainchain, mtumiaji hufanya shughuli maalum ya peg-out kwenye Sidechain. Muamala huu unakaguliwa na watchmen ambao kisha husaini matumizi ya muamala kutoka kwa Wallet yenye saini nyingi wanazodhibiti kwenye mainchain. Idadi ya washiriki katika shirikisho lazima itie sahihi kabla ya shughuli ya mainchain kuwa halali. Wakati watchmen inatuma mali kwa mainchain pia huharibu kiasi kinacholingana kwenye Sidechain, kwa ufanisi kuhamisha mali kati ya blockchains.
+Ili kuhamisha mali kurudi kwenye *mainchain*, mtumiaji hufanya shughuli maalum ya *peg-out* ndani ya *sidechain*. Muamala huu unakaguliwa na *watchmen*, ambao baadaye husaini utoaji wa mali kutoka kwa *multisig wallet* wanayoidhibiti kwenye *mainchain*. Idadi fulani ya wanachama wa shirikisho lazima wasaini muamala huo ili uwe halali. Wakati *watchmen* wanapotuma mali kurudi kwa *mainchain*, pia huharibu kiasi kinacholingana katika *sidechain*, hivyo kukamilisha mzunguko wa uhamishaji wa mali kati ya *blockchains*.
+ 
 
 ## Kuanzisha na Kuendesha Elements
 
