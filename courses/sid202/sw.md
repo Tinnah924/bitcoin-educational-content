@@ -836,9 +836,9 @@ Ili kuanzisha Elements Blockchain kama Sidechain, tunahitaji kutumia kigezo cha 
 
 federated peg script inafafanua ni wanachama gani wa Strong Federation wanaweza kufanya kazi za kuingia na kutoka nje. Watendaji hawa hurejelewa kama `watchmen` wanapotazama mainchain na Sidechain kwa miamala halali ya kuingia na kutoa na kuzifanyia kazi ikiwa ni halali. "Kutoa" inamaanisha kuhamisha mali zilizowekwa alama kutoka kwa Sidechain na kuingia kwenye mainchain na "kuingiza" inamaanisha kuhamisha mali iliyowekwa kwenye Sidechain kutoka mainchain. Tunaposema `hamia kwenye Sidechain`, tunachomaanisha ni kwamba pesa huwekwa katika Address yenye saini nyingi kwenye mainchain na kiasi kinacholingana cha mali huundwa kwenye Elements Sidechain. Tunaposema `ondoka kwenye Sidechain` tunachomaanisha ni kwamba mali zinaharibiwa kwenye Elements Sidechain na kiasi kinacholingana hutolewa kutoka kwa pesa zilizofungwa zilizowekwa kwenye mainchain. Ruhusa ya kutekeleza vipengee vya kuingiza na kutoa vipengee inahitaji watendaji wathibitishe Ownership ya funguo za umma zinazotumika katika federated peg script. Hii inafanywa kwa kutumia funguo za kibinafsi zinazofanana.
 
-Ili kuunda federated peg script kwa hivyo tunahitaji kwanza kila nodi zetu generate ufunguo wa umma. Pia tunahitaji kuhifadhi funguo za faragha zinazohusiana kwa matumizi ya baadaye kwani tutahitaji kufuta data yoyote iliyopo na kuanzisha msururu mpya kwa kutumia federated peg script. Hii ni kwa sababu federated peg script ni sehemu ya sheria za makubaliano ya Sidechain, na haiwezi kutumika kwa Blockchain iliyopo, isiyo na kigingi hapo baadaye.
+Ili kuunda federated peg script, tunahitaji kwanza kila moja ya nodi zetu iandae ufunguo wa umma. Pia tunahitaji kuhifadhi funguo za faragha zinazohusiana kwa matumizi ya baadaye, kwani tutahitaji kufuta data yoyote iliyopo na kuanzisha msururu mpya kwa kutumia federated peg script. Hii ni kwa sababu federated peg script ni sehemu ya sheria za makubaliano ya Sidechain, na haiwezi kutumika kwa blockchain iliyopo isiyo na kigingi hapo baadaye.
 
-Kwa hivyo hebu tuweke generate Address na kila nodi zetu, tuhifadhi data husika kwa matumizi ya baadaye na generate federated peg script ambayo tutatumia kuanzisha Sidechain yetu baadaye.
+Kwa hivyo, hebu tuweke generate address na kila moja ya nodi zetu, tuhifadhi data husika kwa matumizi ya baadaye, na tuchapishe federated peg script ambayo tutatumia kuanzisha Sidechain yetu baadaye.
 
 Kwanza tunahitaji kila nodi zetu, ambazo zitafanya kama watchmen katika mtandao wetu, kwa generate Address mpya.
 
@@ -865,7 +865,7 @@ Hifadhi funguo za faragha na za umma kwa matumizi ya baadaye.
 
 Sasa tunahitaji kufuta data iliyopo ya Blockchain na Wallet kwani tutakuwa tukianzisha msururu mpya kwa kutumia federated peg script. Unaweza kufanya hivi sasa. Usisahau kuanzisha Bitcoin daemon, ambayo tutahitaji kuingiza.
 
-Sasa tunaweza kuanzisha msururu mpya na federated peg script iliyoundwa kwa kutumia funguo za umma tulizohifadhi hapo awali. Nambari tunazoingiza na zinazozunguka funguo zetu za umma hufafanua na kuweka mipaka ya funguo zinazotumiwa, na ufunguo wa Ownership ambao lazima uthibitishwe ili kupenya na kutoka kwenye Sidechain yetu.
+Sasa tunaweza kuanzisha msururu mpya na federated peg script iliyoundwa kwa kutumia funguo za umma tulizohifadhi hapo awali. Nambari tunazoingiza na zinazozunguka funguo zetu za umma hufafanua na kuweka mipaka ya funguo zinazotumiwa, na ufunguo wa umiliki (Ownership) ambao lazima uthibitishwe ili kupenya na kutoka kwenye Sidechain yetu.
 
 ```
 e1-dae -fedpegscript=5221<e1-pubkey>21<e2-pubkey>52ae
@@ -879,18 +879,19 @@ e1-cli importprivkey <priv-key-1>
 e2-cli importprivkey <priv-key-1>
 ```
 
-Sasa tunahitaji kukomaza vitalu kadhaa kwenye minyororo yote miwili. Ukomavu wa vitalu ni hitaji la mchakato wa vigingi kwani hulinda dhidi ya upangaji upya wa vitalu kwenye mainchain na kusababisha mfumuko wa bei wa pegged asset Supply ndani ya Sidechain.
+Sasa tunahitaji kukomaza blocks kadhaa kwenye minyororo yote miwili. Ukomavu wa blocks ni hitaji la mchakato wa vigingi kwani hulinda dhidi ya upangaji upya wa blocks kwenye mainchain na kusababisha mfumuko wa bei wa pegged asset Supply ndani ya Sidechain.
 
-Ili kuweka sehemu hii kulenga kigingi kilichoshirikishwa, tutakuwa tukizalisha vizuizi bila kutumia modeli ya block signing tuliyotazama katika sehemu ya mwisho, na kurudi kwenye kutumia amri ya 'generate' kuunda vizuizi vipya.
+Ili kuweka sehemu hii kulenga kigingi kilichoshirikishwa, tutakuwa tukizalisha blocks bila kutumia modeli ya block signing tuliyotazama katika sehemu ya mwisho, na kurudi kwenye kutumia amri ya 'generate' kuunda blocks mpya.
 
 ```
 b-cli generate 101
 e1-cli generate 1
 ```
 
-Hatuhitaji kuzuiwa kwa generate sasa hivi kwa Elements. Lakini, hebu generate moja hata hivyo. Ni mazoezi mazuri ili kuzuia kutoendana kwa uwezekano.
+Hatuhitaji kuzuiwa kwa generate sasa hivi kwa Elements. Lakini, hebu tufanye generate moja hata hivyo. Ni mazoezi mazuri ili kuzuia kutoendana kwa uwezekano.
 
-Sasa mlolongo wetu uko tayari kuingia. Ili kupenya tunahitaji generate aina maalum ya Address kwa kutumia amri ya getpeginaddress. Kumbuka kuwa muda kati ya kutengeneza peg-in Address na getpeginaddress na kuidai kwa claimpegin unapaswa kuwekwa mdogo iwezekanavyo. anwani za peg-in hazidumu kwa muda mrefu na hazipaswi kutumiwa tena.
+Sasa mlolongo wetu uko tayari kuingia. Ili kupenya, tunahitaji generate aina maalum ya anwani kwa kutumia amri ya getpeginaddress. Kumbuka kuwa muda kati ya kutengeneza peg-in address kwa getpeginaddress na kuidai kwa claimpegin unapaswa kuwekwa mdogo iwezekanavyo. Anwani za peg-in hazidumu kwa muda mrefu na hazipaswi kutumiwa tena.
+
 
 ```
 e1-cli getpeginaddress
@@ -926,7 +927,7 @@ Tunahitaji kukomaza muamala tena.
 b-cli generate 101
 ```
 
-Ili kuwa na nodi yetu ya Elements kudai fedha za kuweka kigingi tunahitaji kupata `uthibitisho` kwamba shughuli ya kuingiza kigingi imefanywa. Uthibitisho wa kriptografia hutumia ufadhili wa transaction ID kukokotoa njia ya merkel na inathibitisha kuwa muamala upo kwenye kizuizi kilichothibitishwa.
+Ili kuwa na nodi yetu ya Elements kudai fedha za kuweka kigingi tunahitaji kupata `uthibitisho` kwamba shughuli ya kuingiza kigingi imefanywa. Uthibitisho wa kriptografia hutumia ufadhili wa transaction ID kukokotoa njia ya merkel na inathibitisha kuwa muamala upo kwenye blocks  zilizothibitishwa.
 
 ```
 b-cli gettxoutproof '["<tx-id>"]'
@@ -952,7 +953,7 @@ Kuangalia salio la e1.
 e1-cli getwalletinfo
 ```
 
-Inazalisha kizuizi ili kuthibitisha dai.
+Inazalisha block ili kuthibitisha dai.
 
 ```
 e1-cli generate 1
@@ -978,7 +979,7 @@ Fedha zinatumwa kwa mainchain Address kutoka node ya Elements kwa kutumia amri y
 e1-cli sendtomainchain <new-address> 1
 ```
 
-Inazalisha kizuizi ili kuthibitisha muamala.
+Inazalisha blocks ili kuthibitisha muamala.
 
 ```
 e1-cli generate 1
@@ -995,17 +996,17 @@ Na angalia kwamba usawa umepungua.
 Katika sehemu hii tumeona jinsi ya:
 
 
-- generate a federated peg script.
-- Anzisha msururu mpya unaotumia hati kama sheria ya kigezo cha makubaliano ya mtandao.
-- Tuma fedha kutoka kwa mainchain hadi Sidechain.
-- Dai fedha ndani ya Elements Sidechain.
+- Tengeneza federated peg script. 
+- Anzisha msururu mpya unaotumia hati hiyo kama sheria ya kigezo cha makubaliano ya mtandao.  
+- Tuma fedha kutoka kwa mainchain hadi Sidechain.  
+- Dai fedha ndani ya Elements Sidechain.  
 - Elewa jinsi kutuma pesa kwa mainchain kunavyoanzishwa.
 
 ### FederatedPegScript
 
 Ili kuruhusu Elements kufanya kazi kama Sidechain, block ya Genesis katika Blockchain yake lazima iundwe ikiwa na `fedpegscript` mahali pake. Hii inafanywa kwa kupitisha parameta ya `fedpegscript` kwenye nodi ya kuanza. Hati hiyo basi itakuwa sehemu ya sheria za makubaliano ya Elements Blockchain na kuruhusu maombi ya kuingia na kutoka nje kuthibitishwa na kutekelezwa.
 
-`Fedpegscript` inaundwa na vitufe vya umma vinavyodhibitiwa na wale walioidhinishwa kutekeleza vitendo vya kigingi. Ifuatayo inaonyesha umbizo la mfano wa hati 2-ya-2 za saini nyingi:
+`Fedpegscript` inaundwa na vitufe vya umma vinavyodhibitiwa na wale walioidhinishwa kutekeleza vitendo vya kigingi. Ifuatayo inaonyesha umbizo la mfano wa hati ya saini nyingi ya 2-ya-2:
 
 ```
 fedpegscript=5221<public key 1>21<public key 2>52ae
@@ -1015,7 +1016,7 @@ Kumbuka: Herufi zilizo nje ya funguo za umma ni vikomo vinavyoonyesha ufunguo wa
 
 ### Peg-in
 
-Kabla ya kigingi kukubaliwa na Elements Sidechain, lazima iwe na uthibitisho wa kutosha kwenye mainchain. Hii ni muhimu ili kuepuka mfumuko wa bei katika Supply ya pegged asset kwenye Elements Sidechain ambayo inaweza kusababishwa na kupanga upya kwa mainchain.
+Kabla ya kigingi kukubaliwa na Elements Sidechain, lazima kiwe na uthibitisho wa kutosha kwenye mainchain. Hii ni muhimu ili kuepuka mfumuko wa bei katika supply ya pegged asset kwenye Elements Sidechain, ambayo inaweza kusababishwa na kupanga upya kwa mainchain.
 
 Upangaji upya mfupi wa ncha ya Bitcoin Blockchain unatarajiwa kama sehemu ya utendakazi wa kawaida wa utaratibu wa makubaliano wa Proof of Work (PoW). Kwa hivyo, Elements inakubali tu peg-in kuwa halali wakati ina kina cha kutosha ndani ya Bitcoin Blockchain. Hii inatumika kuzuia Elements kutoka kwa kukubali kigingi sawa zaidi ya mara moja.
 
@@ -1029,7 +1030,7 @@ Peg-out hutokea wakati nodi ya Elements inapoita amri ya `sendtomainchain`, amba
 
 :::video id=4955306b-4be3-429c-9d30-068f7644ea73:::
 
-Kufikia sasa, tumeangalia jinsi ya kuendesha Elements kama Sidechain. Hata hivyo, inaweza pia kufanya kazi kama suluhu iliyojitegemea ya Blockchain na mali yake ya asili chaguomsingi. Katika usanidi huu Elements Blockchain bado inabaki na vipengele vyote vya utekelezaji wa Sidechain, kama vile Confidential Transactions na Issued Assets, lakini haihitaji peg-in au peg-out ili kuongeza au kuondoa kiasi cha default asset kutoka kwa mzunguko.
+Kufikia sasa, tumeangalia jinsi ya kuendesha Elements kama Sidechain. Hata hivyo, inaweza pia kufanya kazi kama suluhu iliyojitegemea ya blockchain na mali yake ya asili chaguomsingi. Katika usanidi huu, Elements blockchain bado inabaki na vipengele vyote vya utekelezaji wa Sidechain, kama vile Confidential Transactions na Issued Assets, lakini haihitaji peg-in au peg-out ili kuongeza au kuondoa kiasi cha default asset kutoka kwa mzunguko.
 
 Katika sehemu hii tutafanya:
 
@@ -1075,6 +1076,7 @@ e1-cli sendtoaddress <e1-address> 1000000 "" "" true
 Kumbuka kwamba hatuhitaji kubainisha 'newasset' kama kipengee cha kutuma kwani tayari ni default asset. na kwa hiyo pia default asset ilitumika kulipa ada za mtandao.
 
 Ndani ya Elements, unaweza kutuma aina nyingi za vipengee kwa Address ile ile, ili tuweze kutumia tena Address ambayo tumetoka kutengeneza ili kupokea default asset, na kuitumia kama Address fikio kwa tokeni za urejeshaji.
+
 
 ```
 e1-cli sendtoaddress <e1-address> 1 "" "" false false 1 UNSET false <reissuance-token-id>
@@ -1193,7 +1195,7 @@ e1-dae -validatepegin=0 -defaultpeggedassetname=newasset -initialfreecoins=10000
 
 Kigezo cha `defaultpeggedassetname` kinatumika lebo kwa default asset. Bila mpangilio huu, default asset itaitwa kiotomatiki `Bitcoin`. Katika sehemu zilizopita, tulipotuma vipengee ambavyo tulivitoa wenyewe kwa nodi nyingine tulilazimika kubainisha ama hex ya kipengee au lebo ya mali inayotumika nchini ili kuwaambia Elements ni kipengee gani tulikuwa tunatuma. Kama `defaultpeggedassetname` hutumika kwenye nodi zote hatuhitaji kuiita jina tunapoituma, ingawa jina lake si `Bitcoin`. Kila chaguo la kukokotoa ambalo lingetuma `Bitcoin` hapo awali kwa chaguomsingi sasa itatuma chochote ulichochagua kuweka lebo ya default asset kama.
 
-Kwa hivyo kutuma 10 ya default asset mpya kwa Address ni rahisi kama:
+Kwa hivyo, kutuma 10 ya default asset mpya kwa Address ni rahisi kama:
 
 ```
 e1-cli sendtoaddress <destination address> 10 "" "" true
