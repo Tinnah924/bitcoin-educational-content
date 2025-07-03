@@ -695,16 +695,16 @@ e1-cli getaddressinfo <e1-address>
 e2-cli getaddressinfo <e2-address>
 ```
 
-Kisha toa funguo za faragha, ambazo tutaleta tena baadaye ili nodi ziweze kusaini vitalu baada ya kuanzisha upya data yetu ya Blockchain na Wallet.
+Kisha toa funguo za faragha, ambazo tutaleta tena baadaye ili nodi ziweze kusaini bloku baada ya kuanzisha upya data yetu ya blockchain na pochi.
 
 ```
 e1-cli dumpprivkey <e1-address>
 e2-cli dumpprivkey <e2-address>
 ```
 
-Sasa tunahitaji generate hati ya Redeem yenye mahitaji 2 kati ya 2 ya saini nyingi. Tunafanya hivyo kwa kutumia createmultisig amri na kupitisha parameta ya kwanza kama 2 na kisha kutoa funguo mbili za umma. Ni funguo hizi ambazo Ownership ya mahitaji ya kuthibitisha baadaye wakati kizuizi kinaundwa.
+Sasa tunahitaji kuzalisha hati ya Redeem yenye mahitaji 2 kati  ya saini nyingi. Tunafanya hivyo kwa kutumia amri ya createmultisig  na kupitisha parameta ya kwanza kama 2 na kisha kutoa funguo mbili za umma. Ni funguo hizi ambazo Ownership ya mahitaji ya kuthibitisha baadaye wakati bloku inaundwa.
 
-Njia yoyote, e1 au e2, inaweza generate Multisig.
+Njia yoyote, e1 au e2, inaweza kuzalisha Multisig.
 
 ```
 e1-cli createmultisig 2 '["<e1-pubkey>", "<e2-pubkey>"]'
@@ -712,7 +712,7 @@ e1-cli createmultisig 2 '["<e1-pubkey>", "<e2-pubkey>"]'
 
 Hiyo inatupa redeemscript yetu, ambayo unaweza kunakili ili kuitumia baadaye.
 
-Sasa tunahitaji kufuta data iliyopo ya Blockchain na Wallet ili tuanze tena na signblockscript mpya kama sehemu ya sheria za makubaliano ya mnyororo. Hii ndiyo sababu tulihitaji kuchukua nakala ya baadhi ya data mapema, kama vile funguo za faragha ambazo zitatumika katika msururu mpya kusaini vitalu. Unahitaji kufanya hivyo kabla ya kuendelea.
+Sasa tunahitaji kufuta data iliyopo ya Blockchain na Wallet ili tuanze tena na signblockscript mpya kama sehemu ya sheria za makubaliano ya mnyororo. Hii ndiyo sababu tulihitaji kuchukua nakala ya baadhi ya data mapema, kama vile funguo za faragha ambazo zitatumika katika msururu mpya kusaini bloku. Unahitaji kufanya hivyo kabla ya kuendelea.
 
 Kwa Wallet yetu iliyopo na data ya mnyororo imefutwa sasa tunaweza kuanzisha nodi zetu na kuzifanya zianzishe msururu mpya kwa kutumia kigezo cha signblockscript. Hebu tupitishe -evbparams=dynafed:0::: ili kuzima uwezeshaji wa dynafed, kwa sababu hatuhitaji kipengele hicho cha juu kwa mfano huu.
 
@@ -721,26 +721,26 @@ e1-dae -signblockscript=<redeem-script> -evbparams=dynafed:0:::
 e2-dae -signblockscript=<redeem-script> -evbparams=dynafed:0:::
 ```
 
-Sasa tunahitaji kuleta funguo za faragha ambazo tulihifadhi mapema ili nodi zetu ziweze kutia sahihi na kusaidia kukamilisha vizuizi vyovyote vilivyopendekezwa.
+Sasa tunahitaji kuleta funguo za faragha ambazo tulihifadhi mapema ili nodi zetu ziweze kutia sahihi na kusaidia kukamilisha bloku vyovyote vilivyopendekezwa.
 
 ```
 e1-cli importprivkey <e1-priv-key>
 e2-cli importprivkey <e2-priv-key>
 ```
 
-Utumiaji wa amri ya generate sasa unapaswa kufanya makosa kwani inashindwa kutimiza sheria zinazohitajika za block signing zinazotekelezwa na nodi zetu.
+Utumiaji wa amri ya kuzalisha sasa unapaswa kufanya makosa kwani inashindwa kutimiza sheria zinazohitajika za block signing zinazotekelezwa na nodi zetu.
 
 ```
 e1-cli -generate 1
 ```
 
-Ili kupendekeza kizuizi kipya nodi inaweza kupiga amri ya getnewblockhex. Hii inarejesha hex ya kizuizi kipya ambacho kitahitaji kusainiwa kabla ya kukubaliwa na nodi zozote kwenye mtandao wetu.
+Ili kupendekeza bloku mpya nodi inaweza kupiga amri ya getnewblockhex. Hii inarejesha hex ya bloku kipya ambacho kitahitaji kusainiwa kabla ya kukubaliwa na nodi zozote kwenye mtandao wetu.
 
 ```
 e1-cli getnewblockhex
 ```
 
-Kumbuka kwamba amri inaunda tu kizuizi kilichopendekezwa, haifanyi generate moja.
+Kumbuka kwamba amri inaunda tu block iliyopendekezwa, haitoi block moja moja kwa moja.
 
 Ili kuthibitisha hili tunaweza kuona kwamba kwa sasa hakuna vizuizi katika Blockchain yetu.
 
@@ -754,7 +754,7 @@ Tukijaribu kuwasilisha block hex bila kutia sahihi kwanza.
 e1-cli submitblock <block-hex>
 ```
 
-Tunapata ujumbe unaotuambia kwamba uthibitisho wa kuzuia ni batili. Hii ni kwa sababu bado haijatiwa saini na pande 2 kati ya 2 zinazohitajika.
+Tunapata ujumbe unaotuambia kwamba uthibitisho wa block ni batili. Hii ni kwa sababu bado haijatiwa saini na pande 2 kati ya 2 zinazohitajika.
 
 Kwa hivyo wacha tupate e1 ili kusaini kizuizi kilichopendekezwa.
 
@@ -768,15 +768,16 @@ Kuwa na e2 saini hex.
 e2-cli signblock <block-hex>
 ```
 
-Tambua kuwa e2 haisaini matokeo yaliyoundwa kutoka kwa kusaini e1 kizuizi kilichopendekezwa. Wote wawili hutia saini baraka iliyopendekezwa bila matokeo ya kila mmoja.
 
-Sasa tunahitaji kuchanganya saini za kuzuia e1 na e2. Njia yoyote inaweza kufanya hivi, wanachohitaji ni hex ya block iliyotiwa saini kutoka kwa nodi nyingine.
+Tambua kuwa e2 haisaini matokeo yaliyoundwa kutoka kwa kusaini e1 block iliyopendekezwa. Wote wawili hutia saini baraka iliyopendekezwa bila matokeo ya kila mmoja
+
+Sasa tunahitaji kuchanganya saini za block kutoka e1 na e2. Njia yoyote inaweza kufanya hivi, wanachohitaji ni hex ya block iliyotiwa saini kutoka kwa nodi nyingine.
 
 ```
 e1-cli combineblocksigs <block-hex> '["<signed-hex-from-e1>", "<signed-hex-from-e2>"]'
 ```
 
-Unaweza kuona amri ya combineblocksigs ikitoa heksi ya kizuizi kilichotiwa saini na hali ya kukamilika, ikituambia kwamba heksi ya block iko tayari kuwasilishwa.
+Unaweza kuona amri ya combineblocksigs ikitoa heksi ya block iliyotiwa saini na hali ya kukamilika, ikituambia kwamba heksi ya block iko tayari kuwasilishwa.
 
 Sasa nodi yoyote inaweza kuwasilisha hex iliyokamilishwa ya block. Tutakuwa na e1 kuifanya.
 
@@ -791,18 +792,17 @@ e1-cli getblockcount
 e2-cli getblockcount
 ```
 
-Unaweza kuona kwamba e1 na e2 wamekubali kizuizi kama halali na kukiongeza kwenye ncha ya nakala zao za ndani za Blockchain.
+Unaweza kuona kwamba e1 na e2 wamekubali block kama halali na kukiongeza kwenye ncha ya nakala zao za ndani za blockchain.
 
 Kwa muhtasari wa mchakato. Katika sehemu hii tunayo:
 
+- Imependekezwa block.  
+- Kila nodi ilitia saini.  
+- Imechanganya saini.  
+- Imethibitisha kuwa saini ni halali na zinakidhi kiwango cha juu cha mnyororo cha redeemscript.  
+- Imewasilisha block.
 
-- Imependekezwa kizuizi.
-- Kila nodi ilitia saini.
-- Imechanganya saini.
-- Imethibitisha kuwa sahihi ni halali na zinakidhi kiwango cha juu cha mnyororo cha redeemscript.
-- Imewasilisha kizuizi.
-
-Kila nodi kwenye mtandao ilithibitisha kizuizi na kuiongeza kwenye nakala yao ya ndani ya Blockchain.
+Kila nodi kwenye mtandao ilithibitisha block na kuiongeza kwenye nakala yao ya ndani ya Blockchain.
 
 ### block signing
 
@@ -810,15 +810,15 @@ Ingawa mchakato hapo awali unaonekana kuwa mgumu, mlolongo wa block signing kati
 
 1. Usanidi wa awali (uliotekelezwa mara moja)
 
-2. Address ya chenye saini nyingi imeundwa iitwayo `signblockscript` kwa kutumia funguo za umma za Watia Sahihi wa Shida za Vitalu.
+2. Address ya chenye saini nyingi imeundwa iitwayo `signblockscript` kwa kutumia funguo za umma za Watia Sahihi wa Shida za block.
 
 3. Hati ya Redeem kutoka kwa hii inatumiwa kuanzisha Blockchain mpya.
 
-4. Zuia uzalishaji (unaoendelea)
+  4. uzalishaji  wa block  (unaoendelea)
 
-5. Vitalu vilivyopendekezwa vinazalishwa na kubadilishana kwa kusainiwa.
+blocks zilivyopendekezwa vinazalishwa na kubadilishana kwa kusainiwa.
 
-Mara tu idadi ya watia saini imetia saini kizuizi kilichopendekezwa inaunganishwa na kuwasilishwa kwa mtandao. Iwapo inakidhi vigezo vya `signblockscript` ya mnyororo, nodi huikubali kama kizuizi halali.
+Mara tu idadi ya watia saini imetia saini block iliyopendekezwa, inaunganishwa na kuwasilishwa kwa mtandao. Iwapo inakidhi vigezo vya `signblockscript` ya mnyororo, nodi huikubali kama block halali.
 
 ## Kipengele kama Mnyororo wa Upande
 
