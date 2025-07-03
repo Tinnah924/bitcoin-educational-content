@@ -740,7 +740,7 @@ Bitcoin mara nyingi huzungukwa na maoni potofu maarufu; moja ya kawaida ni wazo 
 
 
 
-- Uuzaji:**
+- **Uuzaji:**
 
 
 Hebu tuseme ukweli:**huenda hupaswi kufanya biashara.**
@@ -755,14 +755,14 @@ Bitcoin sio mpango wa kupata utajiri wa haraka.
 
 
 
-- Uwekezaji:**
+- **Uwekezaji:**
 
 
 Wawekezaji huchukua mtazamo wa kati hadi wa muda mrefu, wakinunua Bitcoin kwa imani kwamba thamani yake itaongezeka kwa muda (miezi, miaka, au hata miongo). Bado kuna hatari, kwa kweli, kwani bei ya Bitcoin inaweza kubadilika sana. Lakini mbinu hii kwa ujumla ni shwari na inatumika zaidi kwa watu wengi, haswa wale ambao hawataki kutumia masaa kwenye chati kila siku.
 
 
 
-- Kushikilia (HODL) :**
+- **Kushikilia (HODL) :**
 
 
 "HODL" ilianza kama chapa ya "kushikilia" na haraka ikawa sehemu ya utamaduni wa Bitcoin. Leo, ni beji ya heshima.
@@ -803,9 +803,9 @@ Ili kumaliza mambo, hapa kuna kanuni chache zisizo na wakati ambazo kila Bitcoin
 
 
 
-- Kanuni n°1**: Usiwekeze kamwe zaidi ya unavyoweza kumudu kupoteza. Bitcoin ni mali tete. Usihatarishe utulivu wako wa kifedha kwa kutafuta faida. Mahitaji yako muhimu na amani ya akili inapaswa kuja kwanza.
-- Kanuni n°2**: Usifuate upuuzi mtupu au kuamini ushauri wa miujiza. Puuza mienendo na ahadi za kuvutia. Badala yake zingatia kufanya maamuzi yenye ufahamu na busara. Unapokuwa na shaka, lala juu yake; zungumza na watu unaowaamini. Ni bora kusonga polepole na kwa uangalifu kuliko kukimbilia makosa ya gharama kubwa.
-- Kanuni n°3**: Jenga mpango na ushikamane na maono ya muda mrefu.
+- **Kanuni n°1**: Usiwekeze kamwe zaidi ya unavyoweza kumudu kupoteza. Bitcoin ni mali tete. Usihatarishe utulivu wako wa kifedha kwa kutafuta faida. Mahitaji yako muhimu na amani ya akili inapaswa kuja kwanza.
+- **Kanuni n°2**: Usifuate upuuzi mtupu au kuamini ushauri wa miujiza. Puuza mienendo na ahadi za kuvutia. Badala yake zingatia kufanya maamuzi yenye ufahamu na busara. Unapokuwa na shaka, lala juu yake; zungumza na watu unaowaamini. Ni bora kusonga polepole na kwa uangalifu kuliko kukimbilia makosa ya gharama kubwa.
+- **Kanuni n°3**: Jenga mpango na ushikamane na maono ya muda mrefu.
 
 Uthabiti, uvumilivu, na nidhamu itakupeleka mbali zaidi ya msisimko wa muda mfupi. Usilenga kupiga picha za mwezi; lengo la ukuaji endelevu. Epuka makosa mabaya na acha ushindi mdogo uongezeke kwa wakati.
 
@@ -831,7 +831,7 @@ Kwa kufuata kanuni hizi, utaweza kukabiliana na uwekezaji wa Bitcoin kwa uwazi z
 Katika kozi hii, lengo kuu ni kukuongoza katika kupata na kupata bitcoins zako za kwanza. Lakini kabla ya kupiga mbizi katika hatua za vitendo (jinsi ya kununua BTC, ambayo pochi ya kutumia, na kadhalika) ni muhimu kuchukua hatua nyuma na kuelewa ni nini Bitcoin ni kweli. Kufahamu asili ya kina ya Bitcoin kutakusaidia kuona ni kwa nini mamilioni ya watu wanageukia teknolojia hii, na kwa nini ni muhimu kuelewa mambo ya msingi kabla ya kuweka akiba yako katika rasilimali mpya na tete kama hii.
 
 
-Kwa miaka mingi, Bitcoin imepata kutambuliwa kama mtandao wa fedha duniani. Imeitwa "dhahabu ya dijiti", "itifaki ya uaminifu", na hata "mfumo wa kifedha sambamba." Lakini maneno hayo yanamaanisha nini hasa? Ili kujibu hilo, tutaangalia kwa karibu kiini cha Bitcoin: hadithi ya asili yake, misingi ya kiufundi, mali ya kifedha, na athari zake zinazowezekana; sio tu kwa watu binafsi, lakini kwa mfumo wa kifedha wa kimataifa kwa ujumla.
+Kwa miaka mingi, Bitcoin imepata kutambuliwa kama mtandao wa fedha duniani. Imeitwa "dhahabu ya dijitali", "itifaki ya uaminifu", na hata "mfumo wa kifedha sambamba." Lakini maneno hayo yanamaanisha nini hasa? Ili kujibu hilo, tutaangalia kwa karibu kiini cha Bitcoin: hadithi ya asili yake, misingi ya kiufundi, mali ya kifedha, na athari zake zinazowezekana; sio tu kwa watu binafsi, lakini kwa mfumo wa kifedha wa kimataifa kwa ujumla.
 
 
 ### Asili: Mradi Uliozaliwa kutokana na Jitihada ya Muda Mrefu
@@ -840,10 +840,10 @@ Kwa miaka mingi, Bitcoin imepata kutambuliwa kama mtandao wa fedha duniani. Imei
 #### Cypherpunks na uvumbuzi wa mfumo zaidi ya udhibiti wa benki
 
 
-Bitcoin haikuzaliwa mara moja. Ni matokeo ya miongo kadhaa ya utafiti na majaribio katika cryptography, sayansi ya kompyuta, na nadharia ya fedha. Kabla ya kuzinduliwa mwaka wa 2009, miradi kadhaa (kama vile eCash, b-money, Bit Gold, na RPOW) ilijaribu kuunda sarafu za kidijitali. Wote walikabili suala moja la msingi: jinsi ya kuzuia matumizi maradufu katika mfumo wa madaraka bila kutegemea mamlaka kuu.
+Bitcoin haikuzaliwa mara moja. Ni matokeo ya miongo kadhaa ya utafiti na majaribio katika cryptography, sayansi ya kompyuta, na nadharia ya fedha. Kabla ya kuzinduliwa mwaka wa 2009, miradi kadhaa (kama vile eCash, b-money, Bit Gold, na RPOW) ilijaribu kuunda sarafu za dijitali. Wote walikabili suala moja la msingi: jinsi ya kuzuia matumizi maradufu katika mfumo usio na mamlaka kuu.
 
 
-Changamoto hiyo ilibakia bila kutatuliwa hadi mwishoni mwa 2008, wakati mtu anayetumia jina la Satoshi Nakamoto alipochapisha karatasi nyeupe ya Bitcoin. Miezi michache baadaye, toleo la kwanza la programu huria ya Bitcoin lilianza kutumika, na kuzindua mfumo ambao unaweza kufanya kazi bila ya benki au serikali.
+Changamoto hiyo ilibakia bila kutatuliwa hadi mwishoni mwa 2008, wakati mtu aliyejitambulisha kwa jina la Satoshi Nakamoto alipochapisha karatasi nyeupe ya Bitcoin. Miezi michache baadaye, toleo la kwanza la programu huria ya Bitcoin lilianza kutumika, na kuzindua mfumo unaoweza kufanya kazi bila benki wala serikali.
 
 
 Mradi huo uliathiriwa sana na maadili ya Cypherpunk; jumuiya ya wasanidi programu na wanafikra walioamini katika kutumia cryptography kulinda uhuru wa mtu binafsi mtandaoni. Kwao, faragha na ugatuaji havikuwa mapendeleo ya kiufundi, lakini mahitaji ya kiitikadi. Bitcoin iliibuka kama kielelezo kilichofanikiwa zaidi cha maadili hayo: mtandao wa fedha wa kati-ka-rika ambao mtu yeyote angeweza kutumia, hakuna mtu angeweza kudhibiti, na kila mtu angeweza kuthibitisha.
@@ -855,7 +855,7 @@ Mradi huo uliathiriwa sana na maadili ya Cypherpunk; jumuiya ya wasanidi program
 Cypherpunks ni jumuiya isiyo rasmi, ya kimataifa ya watu binafsi ambao wanatetea matumizi ya cryptography kutetea uhuru wa kibinafsi mtandaoni. Wanaamini sana haki ya mtu binafsi ya faragha; hasa katika ulimwengu unaozidi kuathiriwa na ufuatiliaji wa serikali na unyonyaji wa data wa shirika.
 
 
-Mizizi ya vuguvugu la Cypherpunk inarudi nyuma mwanzoni mwa miaka ya 1990, wakati vikundi vya waandishi wa maandishi, watayarishaji programu, na wapenda uhuru walianza kuchunguza athari za kisiasa za usimbaji fiche wakati wa mikutano huko Silicon Valley. Moja ya sauti mashuhuri katika jumuiya ilikuwa Tim May, ambaye aliandika Ilani ya Crypto Anarchist mwaka 1988; maandishi ya msingi yanayoonyesha maono ya ulimwengu ambapo usimbaji fiche utawezesha watu binafsi kufanya kazi nje ya uwezo wa serikali na udhibiti wa serikali kuu.
+Mizizi ya vuguvugu la Cypherpunk inarudi nyuma mwanzoni mwa miaka ya 1990, wakati vikundi vya waandishi wa maandishi, watayarishaji programu, na wapenda uhuru walianza kuchunguza athari za kisiasa za usimbaji fiche katika mikutano iliyofanyika Silicon Valley. Mojawapo ya sauti mashuhuri katika jumuiya hii alikuwa Tim May, ambaye aliandika *Ilani ya Crypto Anarchist* mwaka 1988—maandishi ya msingi yanayoeleza maono ya ulimwengu ambapo usimbaji fiche unawawezesha watu binafsi kufanya kazi nje ya uwezo na udhibiti wa serikali kuu.
 
 Hatua kubwa katika vuguvugu hili ilikuja mwaka wa 1992 kwa kuundwa kwa orodha ya barua za Cypherpunks, jukwaa ambapo mawazo, miradi, na majadiliano ya kisiasa kuhusu faragha na cryptography inaweza kustawi. Kisha, mwaka wa 1993, Eric Hughes alichapisha Manifesto ya Cypherpunk, tamko fupi lakini lenye nguvu ambalo lilionyesha wazi dhamira na imani za jumuiya.
 
@@ -897,16 +897,16 @@ https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 ### Mtandao uliogatuliwa wa kuhamisha thamani
 
 
-#### Rika-kwa-rika na hakuna chombo kikuu
+#### Rika-kwa-rika (peer-to-peer) bila chombo kikuu
 
 
-Bitcoin inafafanuliwa kama "mfumo wa pesa za kielektroniki wa rika-kwa-rika." Hii ina maana kwamba mtu yeyote anaweza kuunganisha kwenye mtandao kwa kutumia programu inayofaa (nodi ya Bitcoin) na kuingiliana moja kwa moja na watumiaji wengine, bila kutegemea seva kuu. Lengo la ugatuaji huu ni kuzuia huluki yoyote moja (kama vile benki, serikali, au shirika kubwa) kudhibiti, kudhibiti au kusimamisha mfumo. Bitcoin inafanya kazi 24/7, duniani kote, na inapatikana kwa kila mtu bila masharti yoyote.
+Bitcoin inafafanuliwa kama "mfumo wa pesa za kielektroniki wa rika-kwa-rika." Hii ina maana kwamba mtu yeyote anaweza kuunganisha kwenye mtandao kwa kutumia programu inayofaa (nodi ya Bitcoin) na kuingiliana moja kwa moja na watumiaji wengine, bila kutegemea seva kuu. Lengo la ugatuaji huu ni kuzuia huluki yoyote moja (kama vile benki, serikali, au shirika kubwa) kudhibiti, kuathiri, au kusimamisha mfumo. Bitcoin inafanya kazi 24/7, duniani kote, na inapatikana kwa kila mtu bila masharti yoyote.
 
 
 ![BTC102-Bitcoin](assets/fr/036.webp)
 
 
-Kwa maneno rahisi, kila mshiriki katika mtandao wa Bitcoin (unaoitwa "nodi") ana nakala kamili ya shughuli ya Ledger, inayojulikana kama Blockchain. Shughuli mpya inapofanyika, inatangazwa kwenye mtandao. Kisha wachimbaji huthibitisha shughuli hizi kwa kuziweka katika vikundi ambavyo huongezwa hadi mwisho wa mnyororo (kwa hivyo jina "Blockchain").
+Kwa maneno rahisi, kila mshiriki katika mtandao wa Bitcoin (anayeitwa "nodi") ana nakala kamili ya leja ya shughuli, inayojulikana kama **blockchain**. Shughuli mpya inapofanyika, hutangazwa kwenye mtandao. Kisha wachimbaji huthibitisha shughuli hizi kwa kuziweka katika vikundi vinavyoongezwa kwenye mwisho wa mnyororo (hivyo basi jina "blockchain").
 
 
 ![BTC102-Bitcoin](assets/fr/029.webp)
@@ -924,20 +924,20 @@ Fikiria Blockchain kama hesabu kubwa ya Ledger, ambapo kila laini inawakilisha s
 ### Wajibu wa Wachimbaji na Proof-of-Work
 
 
-#### Jinsi Vitalu Vinavyoundwa: Mining
+#### Jinsi Blocks Zinavyoundwa: Uchimbaji (Mining)
 
 
-Mining ni mchakato ambao kompyuta (au mashamba makubwa ya Mining) huchangia **nguvu ya hesabu** ili kulinda historia ya muamala ya Bitcoin na kuunda vitalu vipya. Wachimba migodi hushindana kutatua fumbo la hisabati—haswa, kutafuta mgongano wa Hash. Utaratibu huu unahitaji nishati na rasilimali muhimu. Mara tu Miner inapopata suluhu halali, hutangaza kizuizi kwenye mtandao, ambayo huithibitisha na kuikubali kuwa halali.
+Mining ni mchakato ambao kompyuta (au mashamba makubwa ya mining) huchangia **nguvu ya hesabu** ili kulinda historia ya muamala wa Bitcoin na kuunda blocks mpya. Wachimbaji hushindana kutatua fumbo la kihesabu—hasa, kutafuta mgongano wa hash. Utaratibu huu unahitaji nishati na rasilimali nyingi. Mara tu miner anapopata suluhu halali, hutangaza block hiyo kwenye mtandao, na nodi nyingine huithibitisha na kuikubali kuwa halali.
 
-Kama zawadi, Miner inapokea bitcoins mpya iliyoundwa (zinazoitwa ruzuku ya kuzuia) pamoja na ada za miamala kutoka kwa miamala yote iliyojumuishwa kwenye kizuizi hicho.
-
-
-#### Halving: Kupunguza Ruzuku ya Vitalu
+Kama zawadi, miner hupokea bitcoins mpya zilizoundwa (zinazoitwa ruzuku ya block) pamoja na ada za miamala kutoka kwa miamala yote iliyojumuishwa kwenye block hiyo.
 
 
-Ili kuhakikisha uhaba wa Bitcoin, ruzuku ya vitalu imepangwa kupunguza nusu kila vitalu 210,000; takribani kila baada ya miaka minne. Tukio hili linajulikana kama "Halving." Wakati Bitcoin ilizinduliwa, wachimbaji walipata 50 BTC kwa block. Mnamo 2025, tuzo hiyo imeshuka hadi 3.125 BTC na itaendelea kupungua kwa muda.
+#### Halving: Kupunguza Ruzuku ya Blocks
 
-Hatimaye, karibu mwaka wa 2140, ruzuku itafikia sifuri, kwani jumla ya Bitcoin ya Supply itafikia shilingi milioni 21. Mkondo huu wa utoaji unaotabirika unaiga uhaba wa bidhaa halisi kama dhahabu; sababu moja ya Bitcoin mara nyingi hujulikana kama **dhahabu ya dijiti**.
+
+Ili kuhakikisha uhaba wa Bitcoin, ruzuku ya blocks imepangwa kupunguzwa kwa nusu kila baada ya blocks 210,000; takribani kila baada ya miaka minne. Tukio hili linajulikana kama **Halving**. Wakati Bitcoin ilizinduliwa, wachimbaji walipata 50 BTC kwa block. Kufikia mwaka 2025, tuzo hiyo imeshuka hadi 3.125 BTC na itaendelea kupungua kadri muda unavyosonga.
+
+Hatimaye, karibu mwaka wa 2140, ruzuku itafikia sifuri, kwani jumla ya kiasi cha Bitcoin kitakuwa kimefikia milioni 21. Mkondo huu wa utoaji unaotabirika unaiga uhaba wa bidhaa halisi kama dhahabu — ndiyo sababu Bitcoin mara nyingi hujulikana kama **dhahabu ya dijiti**.
 
 
 ![BTC102-Bitcoin](assets/fr/031.webp)
@@ -954,7 +954,7 @@ Moja ya vipengele muhimu zaidi vya Bitcoin ni *sera yake ya fedha inayoweza kuta
 Kutakuwa na bitcoins milioni 21 tu, na kiwango ambacho sarafu mpya hutolewa kinajulikana mapema na kila mtu kwenye mtandao.
 
 
-Hakuna serikali, taasisi, au mtu binafsi anayeweza kubadilisha kikomo hiki cha Supply au sheria za usambazaji kwa upande mmoja. Njia pekee ya kubadilisha vigezo hivi itakuwa kubadilisha itifaki ya Bitcoin; na hata hilo lingehitaji maridhiano kutoka kwa washiriki wengi wa kiuchumi wa mtandao huo.
+Hakuna serikali, taasisi, au mtu binafsi anayeweza kubadilisha kikomo hiki cha supply au sheria za usambazaji kwa upande mmoja. Njia pekee ya kubadilisha vigezo hivi ni kubadilisha itifaki ya Bitcoin; na hata hilo linahitaji maridhiano kutoka kwa washiriki wengi wa kiuchumi wa mtandao.
 
 
 Uhaba huu uliojengeka ndani ni kivutio kikubwa kwa wale wanaotaka kujiondoa kwenye sera za fedha zisizotabirika au kuepuka mmomonyoko wa taratibu wa uwezo wao wa kununua kupitia mfumuko wa bei. Baada ya muda, hii inaweza kuwakilisha mabadiliko katika fikra za kifedha, ambapo kuokoa katika mali ya kupunguza bei kama Bitcoin kunavutia zaidi kuliko kutegemea sarafu za jadi, zinazokabiliwa na mfumuko wa bei.
@@ -1120,7 +1120,7 @@ Kuporomoka kwa sarafu za fedha sio mabadiliko ya kihistoria; ni muundo unaojirud
 ### Jibu kwa udhibiti wa serikali na ukosefu wa haki
 
 
-Kuongezeka kwa kukosekana kwa usawa wa kiuchumi kote ulimwenguni kumekuwa msingi mzuri wa machafuko ya kijamii na kuongezeka kwa itikadi kali za kisiasa. Historia inaonyesha kwamba pengo kati ya matajiri na maskini linapozidi kuwa kubwa, mara nyingi husababisha mvutano, mgogoro na hata kuongezeka kwa tawala za kimabavu. Katika uso wa hatari hizi, kulinda uhuru wako wa kifedha sio tu anasa; ni hitaji la mtu yeyote ambaye anataka kuhifadhi uhuru wake na kulinda mustakabali wa familia yake.
+Kuongezeka kwa kukosekana kwa usawa wa kiuchumi kote ulimwenguni kumekuwa msingi wa machafuko ya kijamii na kuongezeka kwa itikadi kali za kisiasa. Historia inaonyesha kwamba pengo kati ya matajiri na maskini linapozidi kuwa kubwa, mara nyingi husababisha mvutano, migogoro, na hata kuimarika kwa tawala za kimabavu. Katika uso wa hatari hizi, kulinda uhuru wako wa kifedha si anasa tu; ni hitaji kwa mtu yeyote anayetaka kuhifadhi uhuru wake na kulinda mustakabali wa familia yake.
 
 
 ![BTC102-Bitcoin](assets/fr/046.webp)
@@ -1130,18 +1130,18 @@ Lakini katika ulimwengu ambapo serikali inaweza kudhibiti kikamilifu mali na mia
 
 
 
-- Akaunti za benki** zinaweza kugandishwa papo hapo, kukamatwa kwa agizo rahisi la serikali, au kuondolewa kupitia vikwazo vingi vya fedha.
+- **Akaunti za benki** zinaweza kugandishwa papo hapo, kukamatwa kwa agizo rahisi la serikali, au kuondolewa kupitia vikwazo mbalimbali vya kifedha.
 
 
 
-- Dhahabu**, ingawa imetumika kama ghala la thamani kwa milenia, ni Hard kugawanya, si rahisi kusafirisha, na haiwezekani kwa matumizi katika hali za dharura za shida.
+- **Dhahabu**, ingawa imetumika kama ghala la thamani kwa milenia, ni ngumu kugawanya, si rahisi kusafirisha, na haiwezekani kuitumia katika hali za dharura.
 
 
 
-- Pesa**, ingawa haijulikani, ni nyingi, ni rahisi kutaifisha, na inapoteza thamani kila mara kutokana na mfumuko wa bei.
+ - **Pesa taslimu**, ingawa haijulikani, ni nyingi, ni rahisi kutaifishwa, na hupoteza thamani kila mara kutokana na mfumuko wa bei.
 
 
-Lakini Bitcoin ni zaidi ya chombo cha vitendo. Pia ni **aina ya amani ya maandamano**; tangazo la uhuru kutoka kwa mfumo wa kifedha kwa msingi wa mamlaka kiholela, uwekaji kati na ukosefu wa usawa wa kimfumo. Kuchagua Bitcoin kunamaanisha kukataa udanganyifu, upunguzaji wa thamani na ufuatiliaji. Ni kuhusu kudai tena **ukuu** wako, kupata maisha yako ya baadaye, na kutetea haki yako ya kudhibiti utajiri wako mwenyewe.
+Lakini Bitcoin ni zaidi ya chombo cha vitendo. Pia ni **aina ya amani ya maandamano**—tangazo la uhuru kutoka kwa mfumo wa kifedha unaoendeshwa na mamlaka kiholela, uwekaji kati, na ukosefu wa usawa wa kimfumo. Kuchagua Bitcoin kunamaanisha kukataa udanganyifu, kupungua kwa thamani, na ufuatiliaji. Ni kuhusu kudai tena **ukuu** wako, kupata maisha yako ya baadaye, na kutetea haki yako ya kudhibiti utajiri wako mwenyewe.
 
 
 Kwa mwanga huu, Bitcoin ni zaidi ya teknolojia. Ni chombo cha sheria ya asili, njia ya watu binafsi kudai haki zao za kimsingi, hata wakati haki hizo zinaponyimwa na sheria za nchi. Inarudisha nguvu kwa watu, sio kupitia mapinduzi, lakini kupitia kanuni.
@@ -1180,7 +1180,7 @@ Mfumo wetu wa kisasa wa kifedha umejengwa juu ya mzunguko wa deni; moja ambapo k
 Mfumo huu umeharibiwa na ushawishi wa benki kuu na uwezo wao usiodhibitiwa wa kuchezea Supply ya pesa. **Bitcoin ndiyo mbadala.**
 
 
-Tofauti na sarafu za fedha, Bitcoin inasimamiwa na sheria zinazotekelezwa na makubaliano. Supply yake imefungwa; hakutakuwa na zaidi ya bitcoins milioni 21 kuwepo (kwa kweli, kidogo kidogo kutokana na jinsi utoaji unavyopangwa). Hakuna serikali, benki kuu, au mhusika mmoja wa kiuchumi anayeweza kubadilisha kikomo hiki.
+Tofauti na sarafu za fedha, Bitcoin inasimamiwa na sheria zinazotekelezwa na makubaliano. Sugavi wake umefungwa; hakutakuwa na zaidi ya bitcoins milioni 21 kuwepo (kwa kweli, kidogo kidogo kutokana na jinsi utoaji unavyopangwa). Hakuna serikali, benki kuu, au mhusika mmoja wa kiuchumi anayeweza kubadilisha kikomo hiki.
 
 
 Hii ina maana kwamba Bitcoin inafanya kazi chini ya mfumo wa fedha unaotabirika; moja ambapo mfumuko wa bei sio tu wa uwazi, lakini umeundwa kupunguza kabisa mara tu Bitcoin ya mwisho inachimbwa.
@@ -1200,8 +1200,8 @@ Mfumo huu umejengwa kwa imani potofu ya umma kwa taasisi za fedha, lakini una ha
 
 
 
-- Benki yako ikianguka, pesa zako zinaweza kutoweka.** Hata ukiwa na mipango ya bima ya amana, historia imeonyesha kuwa dhamana hizi zinaweza kushindwa wakati wa matatizo ya kimfumo.
-- Ikiwa benki yako itazuia ufikiaji wa pesa zako, huenda usiweze kutoa au kutumia pesa zako mwenyewe**. Hii imetokea mara nyingi; wakati wa mdororo wa kiuchumi nchini Ugiriki, Lebanon na Argentina, au huku kukiwa na misukosuko ya kisiasa kama vile maandamano ya madereva wa lori nchini Kanada.
+- **Benki yako ikianguka, pesa zako zinaweza kutoweka.** Hata ukiwa na mipango ya bima ya amana, historia imeonyesha kuwa dhamana hizi zinaweza kushindwa wakati wa matatizo ya kimfumo.
+- **Ikiwa benki yako itazuia ufikiaji wa pesa zako, huenda usiweze kutoa au kutumia pesa zako mwenyewe**. Hii imetokea mara nyingi; wakati wa mdororo wa kiuchumi nchini Ugiriki, Lebanon na Argentina, au huku kukiwa na misukosuko ya kisiasa kama vile maandamano ya madereva wa lori nchini Kanada.
 
 
 Bitcoin inatoa hali tofauti kabisa; wazi, upande wowote, na usioharibika. Sheria zake ni ngumu kwa makubaliano na zinatumika kwa usawa kwa washiriki wote wa mtandao.
@@ -1211,7 +1211,7 @@ Hapa ndipo kanuni ya msingi inapokuja:
 
 **"Si funguo zako, si Bitcoin yako."**
 
-Ikiwa hutadhibiti funguo za faragha za bitcoins zako, basi huzimiliki kikweli. Wako mikononi mwa mtu wa tatu; kama fiat katika benki. Lakini ikiwa unashikilia funguo zako za kibinafsi, wewe na wewe peke yako mna udhibiti kamili juu ya pesa zako. Hakuna taasisi, hakuna serikali, hakuna mamlaka inayoweza kukufungia, kukamata, au kuzuia ufikiaji wako.
+Ikiwa hutadhibiti funguo za faragha za bitcoins zako, basi huzimiliki kikweli. Ziko mikononi mwa mtu wa tatu; kama fiat ilivyo kwenye benki. Lakini ikiwa unashikilia funguo zako za kibinafsi, wewe na wewe peke yako mna udhibiti kamili juu ya pesa zako. Hakuna taasisi, hakuna serikali, hakuna mamlaka inayoweza kukufungia, kukamata, au kuzuia ufikiaji wako.
 
 Hili ndilo linaloifanya Bitcoin kuwa mbadala thabiti kwa udhaifu na ufikiaji wa mfumo wa jadi wa kifedha: uhuru wa kifedha.
 
@@ -1219,7 +1219,7 @@ Hili ndilo linaloifanya Bitcoin kuwa mbadala thabiti kwa udhaifu na ufikiaji wa 
 ### Bitcoin: Vuguvugu la Kisiasa?
 
 
-Bitcoin inaunda upya usawa wa mamlaka kati ya watu binafsi na taasisi za fedha. Inampa mtu yeyote uwezo wa kuchukua udhibiti kamili wa pesa zake, kulinda akiba yake kutokana na mfumuko wa bei, na kujinasua kutoka kwa vikwazo vya kifedha vilivyowekwa na mataifa. Kama mfumo wazi na usio na mipaka, Bitcoin inatoa njia mbadala ya haki; kupatikana kwa wote, bila kujali hali ya kijamii, utaifa, au asili.
+Bitcoin inaunda upya usawa wa mamlaka kati ya watu binafsi na taasisi za fedha. Inampa mtu yeyote uwezo wa kuchukua udhibiti kamili wa pesa zake, kulinda akiba yake dhidi ya mfumuko wa bei, na kujinasua kutoka kwa vikwazo vya kifedha vilivyowekwa na mataifa. Kama mfumo wazi na usio na mipaka, Bitcoin inatoa njia mbadala ya haki; inayopatikana kwa wote, bila kujali hali ya kijamii, utaifa, au asili.
 
 Kukumbatia Bitcoin ni kuchagua pesa za sauti. Ni kukataa kubaki kisababishi kingine katika mfumuko wa bei, mashine zinazoendeshwa na madeni ya mfumo wa sasa wa kifedha. Ni kitendo cha uhuru wa mtu binafsi na upinzani wa amani dhidi ya ufisadi wa fedha na mmomonyoko wa mali.
 
@@ -1227,20 +1227,20 @@ Kukumbatia Bitcoin ni kuchagua pesa za sauti. Ni kukataa kubaki kisababishi king
 Wanabiashara wa Bitcoin wanatoka nyanja mbalimbali, lakini wana maono yanayofanana: ulimwengu ambapo mamlaka ya kifedha iko mikononi mwa watu binafsi, si taasisi. Miongoni mwao ni:
 
 
-- Cypherpunks**, wanaotetea faragha na kupinga ufuatiliaji;
-- Raia waliokandamizwa**, wanaotafuta kimbilio kutoka kwa tawala za kimabavu na udhibiti wa mtaji;
-- Wanaharakati**, wanaoona Bitcoin kama chombo cha ukombozi kutoka kwa udhibiti wa serikali;
-- Wanauchumi wa Austria**, wanaotetea pesa nzuri na uhuru kutoka kwa udanganyifu wa serikali;
-- Wahandisi, wafadhili na watetezi wa uhuru wa kujieleza**, wanaotambua athari za kina za kijamii za dhana hii mpya ya kifedha.
+- **Cypherpunks**, wanaotetea faragha na kupinga ufuatiliaji;
+- **Raia waliokandamizwa**, wanaotafuta kimbilio kutoka kwa tawala za kimabavu na udhibiti wa mtaji;
+- **Wanaharakati**, wanaoona Bitcoin kama chombo cha ukombozi kutoka kwa udhibiti wa serikali;
+- **Wanauchumi wa Austria**, wanaotetea pesa nzuri na uhuru kutoka kwa udanganyifu wa serikali;
+- **Wahandisi, wafadhili na watetezi wa uhuru wa kujieleza**, wanaotambua athari za kina za kijamii za dhana hii mpya ya kifedha.
 
 
 ![BTC102-Bitcoin](assets/fr/043.webp)
 
 
-Bitcoin, kwa muundo, inavuka migawanyiko ya kisiasa na kiitikadi. Si kushoto au kulia, libertarian au collectivist. Ni itifaki ya upande wowote, inayotawaliwa na sheria (sio mtawala) inayotumika kwa usawa kwa kila mtu. Bado kuwepo kwake kunaleta changamoto kwa hali ya kifedha duniani. Bitcoin imekuwa ishara ya upinzani kwa sababu watu wameichukua kama njia mbadala ya sarafu za fedha na miundombinu ya kifedha ya kati; mifumo inazidi kuonekana kama isiyo ya haki, inayoweza kubadilika na kutengwa.
+Bitcoin, kwa muundo, inavuka migawanyiko ya kisiasa na kiitikadi. Si ya kushoto wala ya kulia, libertarian wala collectivist. Ni itifaki ya upande wowote, inayotawaliwa na sheria (si mtawala) inayotumika kwa usawa kwa kila mtu. Hata hivyo, kuwepo kwake kunaleta changamoto kwa hali ya kifedha duniani. Bitcoin imekuwa ishara ya upinzani kwa sababu watu wameichukua kama njia mbadala ya sarafu za fiat na miundombinu ya kifedha ya kati—mifumo inayozidi kuonekana kama isiyo ya haki, inayoweza kubadilishwa kiholela na inayotenga baadhi ya watu.
 
 
-Kwa akili ya Cypherpunk, Bitcoin ni zaidi ya mali ya kidijitali. Inasimama dhidi ya mmomonyoko thabiti wa faragha katika ulimwengu ambapo upotevu wa pesa mara nyingi huhesabiwa haki chini ya kivuli cha "usalama."
+Kwa akili ya Cypherpunk, Bitcoin ni zaidi ya mali ya kidijitali. Inasimama dhidi ya mmomonyoko thabiti wa faragha katika ulimwengu ambapo upotevu wa pesa mara nyingi huhalalishwa chini ya kivuli cha "usalama."
 
 Bitcoin huwezesha miamala ya kidijitali inayokinza udhibiti, kutoka kwa wenzao; huru kutoka kwa wapatanishi au walinda lango. Kama Satoshi Nakamoto ilivyofikiria, inatoa usawa wa kidijitali wa pesa taslimu: njia ya kupata thamani ya Exchange bila malipo, bila kuhitaji ruhusa.
 
@@ -1268,10 +1268,10 @@ Sasa kwa kuwa tumechunguza umuhimu wa kina wa uvumbuzi wa Satoshi Nakamoto, sura
 :::kitambulisho cha video=8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d:::
 
 
-Tangu kuzinduliwa kwake mnamo 2009 na muundaji asiyejulikana Satoshi Nakamoto, Bitcoin imesababisha kuongezeka kwa tasnia mpya kabisa; sasa thamani yake katika mamia ya mabilioni ya dola. Licha ya historia yake fupi, mfumo huu wa ikolojia umepata ukuaji wa kulipuka, unaoendelea kwa kasi kubwa katika muongo mmoja uliopita. Kila siku, wachezaji wapya (kuanzia wawekezaji wa kitaasisi na waanzishaji mahiri hadi wakuu wa teknolojia) hutumia mtaji na rasilimali ili kuchangia madai yao katika sekta hii inayopanuka kwa kasi.
+Tangu kuzinduliwa kwake mnamo 2009 na muundaji asiyejulikana, Satoshi Nakamoto, Bitcoin imesababisha kuibuka kwa tasnia mpya kabisa, ambayo sasa ina thamani ya mamia ya mabilioni ya dola. Licha ya historia yake fupi, mfumo huu wa ikolojia umeshuhudia ukuaji wa kasi ya kupasua, unaoendelea kuongezeka kwa nguvu katika muongo uliopita. Kila siku, wachezaji wapya—kuanzia wawekezaji wa kitaasisi na waanzishaji mahiri hadi wakuu wa teknolojia—huwekeza mtaji na rasilimali zao kudai nafasi yao katika sekta hii inayopanuka kwa kasi.
 
 
-Leo, Bitcoin imefikia kizingiti muhimu; hatua ya kutorudishwa. Serikali, benki kuu, mashirika ya fintech, na taasisi za fedha za kitamaduni haziwezi kumudu tena kuipuuza. Iwe kwa udhibiti, kupitishwa kwa tahadhari, au makabiliano ya wazi, sasa wanatambua athari zisizoepukika za Bitcoin katika uchumi wa dunia.
+Leo, Bitcoin imefikia kizingiti muhimu—hatua ya kutorudishwa. Serikali, benki kuu, mashirika ya fintech, na taasisi za fedha za kitamaduni haziwezi tena kuipuuza. Iwe kwa njia ya udhibiti, kupitishwa kwa tahadhari, au makabiliano ya moja kwa moja, sasa wanatambua athari zisizoepukika za Bitcoin katika uchumi wa dunia.
 
 
 ### Kuzaliwa kwa tasnia ya kimataifa
