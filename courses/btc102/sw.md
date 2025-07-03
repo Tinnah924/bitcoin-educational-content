@@ -1,4 +1,4 @@
----
+kemuny---
 name: Kupata bitcoins zako za kwanza
 goal: Jifunze jinsi ya kununua, kulinda na kudhibiti bitcoins zako za kwanza kwa kujitegemea.
 objectives: 
@@ -17,10 +17,10 @@ objectives:
 Mfumo ikolojia wa Bitcoin unakabiliwa na ukuaji wa kuvutia na usio na kifani. Mabadiliko ya kiteknolojia, kiuchumi na kijamii yanayoendeshwa na uvumbuzi wa Satoshi Nakamoto yanazidi kuongezeka siku baada ya siku, na hatua kwa hatua yanafungua milango ya ulimwengu mpya, ambao sasa unaweza kuutumia kikamilifu.
 
 
-Kupiga mbizi kwenye Shimo la Sungura la Bitcoin ni tukio la kusisimua la kiakili ambalo litachochea mawazo yako ya kina na kutoa changamoto kwa imani zako nyingi. Ugunduzi huu hautakupa tu uelewa wa kina wa jinsi Bitcoin inavyofanya kazi, lakini pia fursa halisi ya kurejesha uhuru wako wa kibinafsi, kulinda faragha yako, na kufikia uhuru wa kweli wa kifedha.
+Kupiga mbizi kwenye shimo la sungura la `Bitcoin` ni safari ya kusisimua ya kiakili itakayochochea fikra zako makini na kutoa changamoto kwa imani zako nyingi. Uchanganuzi huu haukupi tu uelewa wa kina wa jinsi `Bitcoin` inavyofanya kazi, bali pia unatoa fursa halisi ya kurejesha uhuru wako wa kibinafsi, kulinda faragha yako, na kufikia mamlaka kamili ya kifedha.
 
 
-Ili kukuongoza vyema katika safari hii, nimeunda kozi hii isiyolipishwa kabisa. Hapa, lengo ni Bitcoin pekee. Hakuna mijadala isiyo na maana, bila kutaja fedha zingine za siri, maudhui yaliyo wazi, sahihi na ya moja kwa moja.
+Ili kukuongoza vyema katika safari hii, nimeunda kozi hii isiyolipishwa kabisa. Hapa, lengo ni Bitcoin pekee. Hakuna mijadala isiyo na maana, hakuna kutaja cryptocurrencies zingine, bali maudhui yaliyo wazi, sahihi, na ya moja kwa moja.
 
 
 Kozi hii imeundwa ili kukupa udhibiti kamili wa jinsi unavyojifunza, kukuruhusu kuchunguza Bitcoin kwa kasi yako mwenyewe, kwa kufuata njia inayolingana vyema na mambo yanayokuvutia na malengo yako.
@@ -65,7 +65,7 @@ Hatimaye, nitakupa vidokezo vichache vya vitendo vilivyoundwa mahususi kwa wanao
 
 Sehemu ya pili, "Kuelewa unachoingia", itaongeza uelewa wako wa jumla wa Bitcoin. Tutaanza na ukaguzi ili kuhakikisha unaelewa kikamilifu dhana muhimu.
 
-Kisha, tutaeleza kwa nini Bitcoin ni muhimu kimsingi kutoka kwa mitazamo ya kiteknolojia, kiuchumi na kijamii, ikiimarisha imani yako katika thamani yake. Pia utachunguza tasnia ya Bitcoin kwa ujumla: wahusika wake wakuu, shirika lake, na mabadiliko yake kwa miaka mingi. Hatimaye, tutashughulikia usanifu wa tabaka wa mfumo ikolojia wa Bitcoin, dhana muhimu ya kuelewa jinsi mfumo huu unavyoendelea kuvumbua bila kuathiri uadilifu wa itifaki yake kuu.
+Kisha, tutaeleza kwa nini Bitcoin ni muhimu kimsingi kutoka kwa mitazamo ya kiteknolojia, kiuchumi, na kijamii, huku ikiimarisha imani yako katika thamani yake. Pia, utachunguza tasnia ya Bitcoin kwa ujumla: wahusika wake wakuu, muundo wa shirika lake, na mabadiliko yaliyotokea kwa miaka mingi. Hatimaye, tutashughulikia usanifu wa tabaka wa mfumo ikolojia wa Bitcoin — dhana muhimu ya kuelewa jinsi mfumo huu unavyoendelea kuvumbua bila kuathiri uadilifu wa itifaki yake kuu.
 
 
 ![BTC102-Bitcoin](assets/fr/027.webp)
@@ -75,9 +75,9 @@ Sehemu ya tatu, "Kuweka mpango wako", inazingatia mtazamo wako wa kibinafsi kwa 
 
 
 
-- hodler*, ililenga kushikilia Bitcoin kwa muda mrefu;
-- stacker *, ambaye hununua mara kwa mara na kwa utaratibu;
-- mtumiaji*, ambaye anatanguliza kutumia Bitcoin kila siku;
+- *hodler*, ililenga kushikilia Bitcoin kwa muda mrefu;
+- *stacker*, ambaye hununua mara kwa mara na kwa utaratibu;
+- *mtumiaji*, ambaye anatanguliza kutumia Bitcoin kila siku;
 - na hatimaye *mbishi*, ambaye anataka usalama wa hali ya juu ili kulinda mali na faragha yake ipasavyo.
 
 
@@ -117,18 +117,18 @@ Je, uko tayari kuanza safari yako katika ulimwengu wa Bitcoin? Twende!
 Mfumo wa ikolojia wa Bitcoin na mazingira yake yanayozunguka bado ni changa na yanadhibitiwa legelege, kulingana na nchi. Ingawa uhuru huu hufungua fursa nyingi, pia hutengeneza msingi mzuri wa ulaghai wa kifedha, ulaghai, na aina mbalimbali za udanganyifu. Ndio maana sura ya kwanza ni muhimu sana: kuelewa mitego ya kawaida itakusaidia kuziepuka. Usalama wako wa kifedha ni kipaumbele kwa sababu hali mbaya ya matumizi haikuathiri tu, inaathiri jumuiya nzima ya Bitcoin.
 
 
-### Bitcoin dhidi ya cryptos: kuelewa tofauti
+### Bitcoin dhidi ya Cryptos: Kuelewa Tofauti
 
 
 Kabla ya kuendelea zaidi, ni muhimu kutofautisha wazi kati ya ulimwengu mbili tofauti kimsingi:
 
 
 
-- Mfumo ikolojia wa Bitcoin** umejikita kwenye wazo la pesa nzuri, linalojengwa juu ya ugatuaji thabiti wa madaraka, uthabiti wa muda mrefu, faragha, na uhuru wa mtu binafsi. Tangu kuzinduliwa kwake mwaka wa 2009, Bitcoin imefanya kazi kwa uhakika na kwa usalama, ikiungwa mkono na jumuiya ya kimataifa, iliyojitolea ya wasanidi programu. Sio mwelekeo wa kupita, lakini itifaki thabiti na iliyoimarishwa vizuri iliyoundwa ili kuhifadhi thamani kwa wakati.
+- **Mfumo ikolojia wa Bitcoin** umejikita kwenye wazo la pesa nzuri, linalojengwa juu ya ugatuaji thabiti wa madaraka, uthabiti wa muda mrefu, faragha, na uhuru wa mtu binafsi. Tangu kuzinduliwa kwake mwaka wa 2009, Bitcoin imefanya kazi kwa uhakika na kwa usalama, ikiungwa mkono na jumuiya ya kimataifa, iliyojitolea ya wasanidi programu. Sio mwelekeo wa kupita, lakini itifaki thabiti na iliyoimarishwa vizuri iliyoundwa ili kuhifadhi thamani kwa wakati.
 
 
 
-- Sekta ya cryptocurrency**, kwa upande mwingine, ni kubwa zaidi na inajumuisha makumi ya maelfu ya miradi tofauti, kila moja ikiwa na token yake. Nafasi hii mara nyingi inaendeshwa na uvumbuzi wa haraka, hype, na uvumi wa muda mfupi wa kifedha. Mengi ya miradi hii ni ya kati, salama kidogo, na haitoi thamani halisi—licha ya ahadi shupavu na uuzaji wa hali ya juu.
+- **Sekta ya cryptocurrency**, kwa upande mwingine, ni kubwa zaidi na inajumuisha makumi ya maelfu ya miradi tofauti, kila moja ikiwa na token yake. Nafasi hii mara nyingi inaendeshwa na uvumbuzi wa haraka, hype, na uvumi wa muda mfupi wa kifedha. Mengi ya miradi hii ni ya kati, salama kidogo, na haitoi thamani halisi—licha ya ahadi shupavu na uuzaji wa hali ya juu.
 
 
 ![BTC102-Bitcoin](assets/fr/001.webp)
@@ -139,7 +139,7 @@ Iwapo ungependa kuelewa vyema mahali ambapo Bitcoin inatoka na ni nini kinachoif
 
 https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 
-Kama unavyojua, jukwaa la Plan ₿ Network limetolewa kwa Bitcoin pekee. Hata hivyo, kuelewa tofauti na fedha nyingine za siri itakusaidia kuepuka mitego inayohusishwa na miradi isiyo na maana na wakati mwingine hata ya ulaghai.
+Kama unavyojua, jukwaa la Plan ₿ Network limetolewa kwa ajili ya Bitcoin pekee. Hata hivyo, kuelewa tofauti kati ya Bitcoin na cryptocurrency nyingine kunaweza kukusaidia kuepuka mitego ya miradi isiyo na maana—na wakati mwingine hata ya ulaghai
 
 
 ![BTC102-Bitcoin](assets/fr/002.webp)
@@ -173,8 +173,8 @@ Ulaghai huu kawaida huwa na:
 Hatimaye, mipango yote ya piramidi na Ponzi inaelekea kushindwa. Udhaifu wao wa kimsingi upo katika hitaji la mara kwa mara la kuleta wawekezaji wapya kulipa faida kwa washiriki wa awali. Hitaji hili linakuwa haliwezekani kudumishwa kihisabati kwa muda kwa sababu idadi ya waajiriwa wapya wanaohitajika huongezeka kwa kasi kadri mfumo unavyokua. Mara tu hatua muhimu inapofikiwa, washiriki wanaanza kuwa na shaka, uaminifu hupotea, na piramidi nzima huanguka. Katika hatua hii, watu wa mwisho kujiunga, mara nyingi wasio na ufahamu mdogo, hupoteza uwekezaji wao wote bila njia ya kuirejesha, huku waandaaji au wawekezaji wa mapema kwa kawaida wakiwa tayari wametoa fedha zao na kuacha mfumo.
 
 
-Katika ulimwengu wa sarafu-fiche, miradi ya Ponzi inaweza kuchukua aina nyingi, mara nyingi iliyoundwa ili kuficha asili yao ya ulaghai nyuma ya kinyago cha kiteknolojia au kifedha. Ulaghai huu unaweza kuonekana kama matoleo mapya ya token au Matoleo ya Awali ya Sarafu (ICO), ambayo ni shughuli za kuchangisha pesa ambapo sarafu mpya ya crypto inauzwa kwa umma. Nyuma ya masharti ya kiufundi kama vile "Blockchain," "mikataba ya busara," au "kuweka alama," baadhi ya miradi inaficha mifumo changamano ya piramidi. Wengine wanadai kutoa faida kubwa kwa kuchanganya mali ya crypto yenye shaka na mifumo ya fidia ambayo inategemea kabisa kuongezeka kwa wawekezaji wapya.
-
+Katika ulimwengu wa cryptocurrency, miradi ya Ponzi inaweza kuchukua sura nyingi—mara nyingi ikiwa imeundwa kuficha asili yake ya ulaghai nyuma ya kinyago cha kiteknolojia au kifedha. Ulaghai huu huweza kujitokeza kama matoleo mapya ya tokeni au Matoleo ya Initial Coin Offering (ICO), ambayo ni njia za kuchangisha fedha ambapo cryptocurrency mpya huuzwa kwa umma. Nyuma ya istilahi za kiufundi kama "blockchain," "mikataba mahiri," au "uwekaji alama" (tokenization), baadhi ya miradi huficha mifumo changamano ya mtindo wa piramidi. Wengine hudai kutoa faida kubwa kwa kuchanganya mali za crypto zenye mashaka na mifumo ya malipo inayotegemea kabisa ongezeko la wawekezaji wapya.
+  
 
 Hivi majuzi, miradi ya Ponzi pia imeenea katika ulimwengu wa Fedha zilizowekwa madarakani (DeFi). Ingawa DeFi inakusudiwa kutoa huduma za kifedha bila wasuluhishi, baadhi ya miradi huitumia kutoa dhana potofu ya uhalali wa ulaghai wao. Baadhi ya majukwaa ya DeFi yanaahidi mapato ya juu, yaliyohakikishwa katika Exchange kwa amana za cryptocurrency kwenye itifaki otomatiki. Ahadi hizi za kuvutia mara nyingi zinaungwa mkono na mifumo isiyo wazi na isiyoweza kuthibitishwa, na ishara iliyoundwa mahsusi kwa ulaghai. Kwa kweli, mifumo hii haina mtindo endelevu wa biashara—rejesho hulipwa tu kutoka kwa fedha za watumiaji wapya, kama vile mpango wa kitamaduni wa Ponzi. Imani inapoanza kupotea au mmiminiko wa washiriki wapya unapopungua, mifumo hii inaporomoka, na kusababisha hasara kubwa kwa wawekezaji wasiotarajia.
 
@@ -185,10 +185,10 @@ Tafadhali kumbuka kuwa maudhui ya kozi hii ni kwa madhumuni ya kielimu pekee na 
 Ulinzi bora ni kuuliza kila mara swali hili rahisi: Je, kurudi kwa ahadi kunatoka wapi? Ikiwa jibu haliko wazi, kimbia mara moja.
 
 
-#### Bomba & Dampo
+### Pump & Dump (Bomba & Dampo)
 
 
-Aina hii ya ulaghai inahusisha kupandisha bei ya mali kwa njia isiyo halali—mara nyingi ni sarafu ya siri ya kiwango cha chini ya token—kupitia kampeni iliyoratibiwa ya uuzaji, kwa kawaida inayoongozwa na kundi la wawekezaji. Mpango wa kawaida wa Pump & Damp hufuata muundo huu:
+Aina hii ya ulaghai inahusisha kupandisha bei ya mali kwa njia isiyo halali—mara nyingi ikiwa ni tokeni ya cryptocurrency ya kiwango cha chini—kupitia kampeni iliyoratibiwa ya uuzaji, kwa kawaida inayoongozwa na kundi la wawekezaji. Mpango wa kawaida wa Pump & Dump hufuata muundo huu:
 
 
 
@@ -228,10 +228,10 @@ Kwa kujenga maarifa yako kwa subira, hutaweza kuathiriwa sana na ghiliba za kihi
 #### Mchango, Bahati Nasibu, na Kashfa Bandia za Kutoa
 
 
-Aina hii ya ulaghai huahidi Bitcoin bila malipo au zawadi zingine katika Exchange kwa wewe kutuma kiasi kidogo cha pesa kwanza. Ni muhimu kukumbuka: hakuna mtu au shirika halali litakalowahi kukuuliza utume pesa za siri mapema kwa ahadi ya kukutumia malipo zaidi.
+Aina hii ya ulaghai huahidi Bitcoin bila malipo au zawadi nyingine kupitia exchange kwa masharti ya kutuma kiasi kidogo cha pesa kwanza. Ni muhimu kukumbuka: hakuna mtu au shirika halali litakalowahi kukuomba utume cryptocurrency mapema kwa ahadi ya kupokea malipo zaidi baadaye.
 
 
-Mara nyingi walaghai huiga watu mashuhuri wa umma (kama vile Elon Musk au watu wengine mashuhuri) ili kuwarubuni waathiriwa kupitia mitandao ya kijamii. Kila mara angalia mara mbili uhalali wa akaunti na tovuti kabla ya kujihusisha nazo, na usiwahi kuamini matoleo ambayo yanaonekana kuwa ya ukarimu kupita kiasi au nzuri sana kuwa kweli.
+Mara nyingi walaghai huiga watu mashuhuri wa umma (kama vile Elon Musk au watu wengine maarufu) ili kuwarubuni waathiriwa kupitia mitandao ya kijamii. Kila mara hakikisha kuangalia kwa makini uhalali wa akaunti na tovuti kabla ya kujihusisha nazo, na usiwahi kuamini matoleo yanayoonekana kuwa ya ukarimu wa kupindukia au mazuri kupita kiasi kiasi kwamba hayaaminiki.
 
 
 Wakati mwingine, ulaghai huu huonekana kama ulaghai wa "ada ya mapema". Umeahidiwa zawadi au zawadi(fedha, bidhaa au huduma) lakini unaombwa kwanza ulipe ada, inayodaiwa kugharamia mambo kama vile usafirishaji, kodi au gharama za muamala. Malipo yakishafanywa, mlaghai hutoweka, na thawabu iliyoahidiwa haifiki kamwe.
@@ -249,7 +249,7 @@ Miradi ya sarafu ya crypto ya serikali kuu wakati mwingine hutoa tokeni za bila 
 #### Wizi wa utambulisho na hadaa
 
 
-Wavamizi mara nyingi hutumia tovuti bandia, akaunti za mitandao ya kijamii au barua pepe za udanganyifu ili kujaribu kuiba pesa zako. Ulaghai huu unaweza kuja kupitia njia yoyote ya mawasiliano: barua pepe, mitandao ya kijamii, simu, au hata barua za kitamaduni...
+Wakati mwingine, ulaghai huu hujitokeza kama ulaghai wa "ada ya mapema". Unaahidiwa zawadi au tuzo (iwe ni fedha, bidhaa, au huduma), lakini unaombwa ulipe ada ya awali, inayodaiwa kugharamia mambo kama vile usafirishaji, kodi, au gharama za muamala. Mara tu unapolipa, mlaghai hutoweka, na zawadi iliyoahidiwa haifiki kamwe.
 
 
 Kabla ya kubofya kiungo au kuchukua hatua yoyote, daima angalia mara mbili utambulisho wa mtumaji. Ukiwa na shaka, tembelea tovuti wewe mwenyewe badala ya kutumia kiungo ulichopewa. Muhimu zaidi, usishiriki kamwe funguo zako za faragha au manenosiri na mtu yeyote.
@@ -276,7 +276,8 @@ Ili kuepuka kuanguka katika mtego huu, thibitisha sarafu unayonunua kila wakati.
 #### Washawishi wasio waaminifu na gurus bandia
 
 
-Kadiri sarafu za siri zinavyopata usikivu wa kawaida, mitandao ya kijamii imeona ongezeko la washawishi, watu wanaojitangaza kuwa wataalam, na wale wanaoitwa "*crypto gurus*". Ingawa wachache wanaweza kutoa maarifa ya kweli ya kielimu, wengine wengi hutumia fursa ya kuonekana kwao kukuza miradi yenye kutiliwa shaka au mikakati ya kibiashara hatari (na wakati mwingine ya ulaghai kabisa). Watu hawa kwa kawaida huchochewa na maslahi ya kibinafsi ya kifedha, mara nyingi hupokea fidia ya moja kwa moja au isiyo ya moja kwa moja kwa kutangaza tokeni au majukwaa fulani.
+Kadiri cryptocurrency zinavyozidi kupata usikivu wa kawaida, mitandao ya kijamii imeshuhudia ongezeko la washawishi, watu wanaojitangaza kuwa wataalam, na wanaojiita *crypto gurus*. Ingawa wachache wanaweza kutoa maarifa sahihi ya kielimu, wengi wao hutumia nafasi hiyo kukuza miradi ya kutiliwa shaka au mikakati hatarishi ya kibiashara — na wakati mwingine hata ya ulaghai. Watu hawa kwa kawaida husukumwa na maslahi binafsi ya kifedha, mara nyingi wakipokea malipo ya moja kwa moja au isiyo ya moja kwa moja kwa kutangaza tokeni au majukwaa fulani.
+
 
 
 ![BTC102-Bitcoin](assets/fr/008.webp)
@@ -288,29 +289,29 @@ Washawishi hawa mara nyingi hutegemea mbinu zilizothibitishwa ili kuvutia wanaoa
 Ni muhimu kuelewa kwamba ushauri mwingi "wa bure" kutoka kwa watu hawa sio bure kabisa. Nyuma ya uso wa ukarimu mara nyingi kuna mkakati uliokokotolewa wa kuwaelekeza watu kwenye ununuzi wa mali zinazotiliwa shaka. Na hata kama baadhi ya washawishi wangekuwa waaminifu, kuiga matokeo yao kungekuwa karibu kutowezekana; mafanikio yao mara nyingi hutegemea muda maalum, maarifa ya ndani, au hali za kipekee ambazo huna ufikiaji.
 
 
-Baadhi ya watu wanaoshawishiwa wanaweza kukualika ujiunge na vikundi vya faragha, vinavyolipwa ambapo wanadai kushiriki mawimbi ya kipekee ya biashara au vidokezo vya ndani ambavyo vinaahidi faida ya haraka na rahisi. Kwa kweli, vikundi hivi huwanufaisha waandaaji wenyewe. Mara nyingi hutumia wafuasi wao kama chanzo cha ukwasi, kimsingi kupakua mali kwa faida ya kibinafsi. Kwa kawaida wanaojisajili huishia kupoteza pesa, kwa sababu hawawezi kujibu haraka kama watu wa ndani wanaopanga biashara (angalia sehemu ya Mipango ya Pump & Dampo).
+Baadhi ya watu wanaoshawishiwa wanaweza kukualika ujiunge na vikundi vya faragha vinavyolipiwa, ambavyo vinadai kutoa mawimbi ya kipekee ya biashara au vidokezo vya ndani vinavyoahidi faida za haraka na rahisi. Kwa hakika, vikundi hivi huwanufaisha zaidi waandaaji wake. Mara nyingi hutumia wafuasi wao kama chanzo cha ukwasi—kimsingi wakipakua mali kwa faida yao binafsi. Kwa kawaida, wanaojiunga huishia kupoteza pesa kwa sababu hawawezi kujibu kwa haraka kama wale wa ndani wanaopanga mikakati ya biashara (tazama sehemu ya Mipango ya Pump & Dump).
 
 
 Kwa kuzingatia ukweli huu, hapa kuna baadhi ya tabia nzuri za kufuata ili kuepuka kuanguka katika mitego iliyowekwa na washawishi wasio waaminifu:
 
 
 
-- Kuwa mwangalifu sana na mapendekezo yoyote ya uwekezaji wa crypto.**
+- **Kuwa mwangalifu sana na mapendekezo yoyote ya uwekezaji wa crypto.**
 
 Mtu anayeaminika na mwenye ujuzi hatawahi kukushinikiza kununua sarafu ya siri bila kukuhimiza kufanya utafiti wako mwenyewe kwanza.
 
 
-- Kozi za biashara zinazolipwa au uwekezaji sio alama ya ubora kila wakati.**
+- **Kozi za biashara zinazolipwa au uwekezaji sio alama ya ubora kila wakati.**
 
 Nyingi za kozi hizi hukuza mikakati hatari au rahisi kupita kiasi; mara nyingi taarifa sawa unaweza kupata mtandaoni bila malipo.
 
 
-- Hakuna kitu kama njia ya uhakika ya kunakili biashara za mtu mwingine na kupata matokeo sawa.**
+- **Hakuna kitu kama njia ya uhakika ya kunakili biashara za mtu mwingine na kupata matokeo sawa.**
 
 Kila mkakati wa uwekezaji unategemea muktadha wa kibinafsi, muda, maarifa na mambo mengine ambayo hayawezi kurudiwa haswa.
 
 
-- Uwe mwangalifu hasa kuhusu ushauri unaoonekana kuwa mzuri sana kuwa wa kweli.**
+- **Uwe mwangalifu hasa kuhusu ushauri unaoonekana kuwa mzuri sana kuwa wa kweli.**
 
 Ahadi zisizo za kweli au faida iliyohakikishwa ni karibu kila mara ishara za udanganyifu. Kumbuka: kwa sababu mtu anasema jambo kwa ujasiri haifanyi kuwa kweli.
 
@@ -377,10 +378,10 @@ Zaidi ya hayo, thamani ya kifedha ya Bitcoin inafanya kuwa lengo la thamani ya j
 ### Kompyuta safi, iliyosasishwa
 
 
-Mojawapo ya vipengele vilivyopuuzwa zaidi vya usalama wa kibinafsi ni kusasisha mfumo wako wa uendeshaji na programu. Masasisho mengi hurekebisha udhaifu unaojulikana ambao unaweza kutumiwa vibaya na washambuliaji. Ingawa baadhi ya watu huepuka masasisho wakihofia masuala ya utendakazi, hatari halisi iko katika kuendesha programu zilizopitwa na wakati ambazo wadukuzi tayari wanajua jinsi ya kuvunja.
+Mojawapo ya vipengele vinavyopuuzwa sana katika usalama wa kibinafsi ni kusasisha mfumo wa uendeshaji pamoja na programu zako. Masasisho mengi hutengeneza udhaifu unaojulikana ambao unaweza kutumiwa vibaya na washambuliaji. Ingawa baadhi ya watu huepuka masasisho wakihofia matatizo ya utendakazi, hatari halisi iko katika kutumia programu zilizopitwa na wakati, ambazo wadukuzi tayari wanajua jinsi ya kuzivunja
 
 
-Inapendekezwa pia kutumia antivirus inayoaminika. Kwenye Windows, Windows Defender iliyojengwa kwa ujumla inatosha kwa watumiaji wengi. Ikiwa unapendelea vipengele vya ziada au amani ya akili, chaguzi za kibiashara kama Kaspersky zinapatikana pia. Kwenye MacOS, matishio ya programu hasidi ni ya kawaida sana kihistoria **lakini haipo** kwa hivyo bado ni busara kuwa mwangalifu.
+Inapendekezwa pia kutumia Tumia antivirus inayoaminika. Kwenye Windows, Windows Defender iliyojengwa ndani kwa kawaida inatosha kwa watumiaji wengi. Ikiwa unapendelea vipengele vya ziada au utulivu wa akili, kuna chaguzi za kibiashara kama Kaspersky pia. Kwenye macOS, ingawa kihistoria programu hasidi zimekuwa chache, bado ni busara kuchukua tahadhari
 
 
 ![BTC102-Bitcoin](assets/fr/012.webp)
@@ -401,10 +402,9 @@ Ikiwa unapendelea suluhu za wingu, zingatia kutumia huduma salama kama Proton Dr
 
 https://planb.network/tutorials/computer-security/data/proton-drive-03cbe49f-6ddc-491f-8786-bc20d98ebb16
 
-Mkakati wa chelezo unaopendekezwa na wengi ni "kanuni ya 3-2-1". Imeundwa ili kulinda data yako dhidi ya upotevu wa bahati mbaya, mashambulizi ya mtandaoni au hata majanga ya asili.
+Mkakati wa chelezo unaopendekezwa na wengi unajulikana kama kanuni ya 3-2-1. Kanuni hii imebuniwa ili kulinda data yako dhidi ya upotevu wa bahati mbaya, mashambulizi ya mtandaoni, au hata majanga ya asili.
 
 Wazo ni rahisi:
-
 
 - Weka **angalau nakala 3** za data yako muhimu,
 - Zihifadhi kwenye **angalau aina 2 tofauti za midia** (k.m., hifadhi ya nje ya Hard na hifadhi ya wingu),
@@ -456,7 +456,7 @@ Katika Bitcoin, wewe ni benki yako mwenyewe. Hiyo inamaanisha kuwa wewe pia ni t
 ![BTC102-Bitcoin](assets/fr/014.webp)
 
 
-2FA huongeza Layer ya pili ya ulinzi kwa kuhitaji msimbo wa wakati mmoja (kawaida tarakimu 6) unaotolewa na programu kama vile Google Authenticator au Authy. Kwa hivyo hata kama mtu fulani ataweza kupata nenosiri lako, bado hawezi kufikia akaunti yako bila idhini ya kufikia simu yako.
+2FA huongeza safu ya pili ya ulinzi kwa kuhitaji msimbo wa wakati mmoja (kawaida tarakimu 6) unaotolewa na programu kama Google Authenticator au Authy. Hii ina maana kwamba hata kama mtu atafanikiwa kupata nenosiri lako, bado hatakuwa na uwezo wa kufikia akaunti yako bila idhini ya kufikia simu yako.
 
 
 https://planb.network/tutorials/computer-security/authentication/authy-a76ab26b-71b0-473c-aa7c-c49153705eb7
@@ -589,29 +589,29 @@ Bitcoin iko wazi kwa kila mtu, lakini hiyo haimaanishi kuwa unapaswa kupiga mbiz
 
 
 
-- Kupoteza kishazi chako cha seed:** Kishazi chako cha kurejesha (kwa kawaida maneno 12 au 24) ndiyo njia pekee ya kufikia Bitcoin yako ikiwa kitu kitatokea kwa Wallet yako. Ukiipoteza, pesa zako zitatoweka kabisa;
-- Kuhifadhi bitcoins zako kwenye jukwaa la watu wengine:** Ikiwa sarafu zako ziko kwenye mfumo wa kati, huzimiliki. Unakabiliwa na hatari kama vile udukuzi, kushindwa kwa mifumo, au hata kukamata pesa;
-- Kupuuza faragha:** Kulinda faragha yako ni sehemu ya msingi ya kulinda mali yako. Kufichua hadharani ni kiasi gani cha Bitcoin unachoshikilia kunaweza kukufanya kuwa shabaha;
-- Usalama wa kutosha mtandaoni:** Kushindwa kulinda vifaa vyako kwa ulinzi wa kimsingi (kama masasisho, manenosiri dhabiti au 2FA) hukufanya kuwa alama rahisi kwa washambuliaji; na inaweza kukugharimu kila kitu.
+- **Kupoteza kishazi chako cha seed:** Kishazi chako cha kurejesha (kwa kawaida maneno 12 au 24) ndiyo njia pekee ya kufikia Bitcoin yako ikiwa kitu kitatokea kwa Wallet yako. Ukiipoteza, pesa zako zitatoweka kabisa;
+- **Kuhifadhi bitcoins zako kwenye jukwaa la watu wengine:** Ikiwa sarafu zako ziko kwenye mfumo wa kati, huzimiliki. Unakabiliwa na hatari kama vile udukuzi, kushindwa kwa mifumo, au hata kukamata pesa;
+- **Kupuuza faragha:** Kulinda faragha yako ni sehemu ya msingi ya kulinda mali yako. Kufichua hadharani ni kiasi gani cha Bitcoin unachoshikilia kunaweza kukufanya kuwa shabaha;
+- **Usalama wa kutosha mtandaoni:** Kushindwa kulinda vifaa vyako kwa ulinzi wa kimsingi (kama masasisho, manenosiri dhabiti au 2FA) hukufanya kuwa alama rahisi kwa washambuliaji; na inaweza kukugharimu kila kitu.
 
 
 **Makosa ya kifedha:**
 
 
 
-- Kuwekeza zaidi ya unavyoweza kumudu kupoteza**: Usiwahi kuingia kwenye madeni au kuweka pesa zako za kukodisha kwenye Bitcoin. Uthabiti wako wa kimsingi wa kifedha unapaswa kuja kwanza kila wakati.
+- **Kuwekeza zaidi ya unavyoweza kumudu kupoteza**: Usiwahi kuingia kwenye madeni au kuweka pesa zako za kukodisha kwenye Bitcoin. Uthabiti wako wa kimsingi wa kifedha unapaswa kuja kwanza kila wakati.
 
 
 
-- Kutojua tofauti kati ya biashara na kuwekeza**: Biashara inahitaji muda, ujuzi, na nidhamu kali ya kihisia. Uwekezaji wa muda mrefu ni rahisi zaidi kwa Kompyuta.
+- **Kutojua tofauti kati ya biashara na kuwekeza**: Biashara inahitaji muda, ujuzi, na nidhamu kali ya kihisia. Uwekezaji wa muda mrefu ni rahisi zaidi kwa Kompyuta.
 
 
 
-- Kusahau kuhusu kodi**: Kila nchi ina sheria zake za kodi za crypto. Kuwapuuza kunaweza kusababisha mshangao chungu barabarani.
+- **Kusahau kuhusu kodi**: Kila nchi ina sheria zake za kodi za crypto. Kuwapuuza kunaweza kusababisha mshangao chungu barabarani.
 
 
 
-- Kuanguka kwa FOMO**: Kununua kwa msukumo kwa hofu ya kukosa kwa kawaida husababisha wakati mbaya na maamuzi mabaya. Uvumilivu ni mshirika wako bora.
+- **Kuanguka kwa FOMO**: Kununua kwa msukumo kwa hofu ya kukosa kwa kawaida husababisha wakati mbaya na maamuzi mabaya. Uvumilivu ni mshirika wako bora.
 
 
 ![BTC102-Bitcoin](assets/fr/019.webp)
@@ -623,7 +623,7 @@ Bitcoin iko wazi kwa kila mtu, lakini hiyo haimaanishi kuwa unapaswa kupiga mbiz
 Kabla ya kununua Satoshi yako ya kwanza, ni muhimu kuelewa kwa nini unawekeza katika Bitcoin na jinsi gani. Hii inamaanisha kuwa na mpango wazi wa kifedha unaolingana na hali yako ya kibinafsi na malengo ya muda mrefu.
 
 
-Anza kwa kufafanua **bajeti** yako kwa usahihi. Usichague nambari nasibu tu. Chukua wakati wa kuhesabu mapato yako ya kila mwezi, toa gharama zako zisizobadilika (kama kodi, mikopo, kodi, huduma), pamoja na gharama zako za maisha za kila siku (chakula, usafiri, burudani, nk). Chochote kinachosalia ni kiasi chako cha akiba na ni kutoka kwa sehemu hii pekee ambayo unapaswa kuzingatia kuwekeza.
+Anza kwa kufafanua bajeti yako kwa usahihi. Usichague tu nambari bila mpangilio. Chukua muda kuhesabu mapato yako ya kila mwezi, kisha toa gharama zako zisizobadilika (kama kodi, mikopo, huduma), pamoja na gharama zako za maisha ya kila siku (chakula, usafiri, burudani, n.k.). Kiasi chochote kinachosalia ndicho kinachopaswa kuelekezwa kwenye akiba, na ni kutoka kwenye sehemu hii pekee ambapo unapaswa kufikiria kuwekeza.
 
 Kuikaribia kwa njia hii huhakikisha kuwa hauweki ustawi wako wa kifedha hatarini, haswa katika tukio la kuzorota kwa soko. Mkakati wa kufikiria ni msingi wa ustahimilivu wa muda mrefu.
 
@@ -665,7 +665,7 @@ Zaidi ya yote, kamwe usiwekeze zaidi ya unaweza kumudu kupoteza. Epuka kukopa pe
 ### Kusimamia na kulinda Bitcoin Wallet yako
 
 
-Moja ya vipengele vya nguvu zaidi vya Bitcoin (na ambavyo mara nyingi havikadiriwi) ni **kujitunza**. Ukiwa na Wallet inayojiendesha, wewe pekee ndiye unayewajibika kwa pesa zako. Pochi hizi kwa kawaida hutolewa kutoka kwa **maneno ya kurejesha uwezo wa kufikia akaunti** (pia hujulikana kama maneno ya seed), mfululizo wa maneno 12 au 24 ambayo hutoa ufikiaji kamili kwa BTC yako. Ukipoteza kifungu hiki (au mtu mwingine akikipata) bitcoins zako zimepotea kabisa. **Hakuna usaidizi wa mteja. Hakuna kitufe cha kuweka upya.**
+Moja ya vipengele vyenye nguvu zaidi vya Bitcoin (na ambavyo mara nyingi havithaminiwi vya kutosha) ni **kujitunzia mali zako binafsi**. Ukiwa na pochi ya kujitegemea, wewe pekee ndiye unawajibika kwa pesa zako. Pochi hizi kwa kawaida huundwa kutoka kwa **maneno ya kurejesha ufikiaji** (yanayojulikana pia kama *seed phrase*)—mfululizo wa maneno 12 au 24 yanayokupa ufikiaji kamili wa BTC yako. Ukipoteza maneno haya (au mtu mwingine akiyapata), bitcoins zako hupotea milele. **Hakuna huduma kwa wateja. Hakuna kitufe cha kuweka upya.**
 
 
 ![BTC102-Bitcoin](assets/fr/023.webp)
@@ -679,7 +679,7 @@ Ndio maana kanuni ya dhahabu katika Bitcoin ni:
 ![BTC102-Bitcoin](assets/fr/024.webp)
 
 
-Ili kuepuka hatari hii, inashauriwa sana kusanidi **Wallet** yako, ambapo ni wewe pekee unayeweza kufikia kifungu cha urejeshi. Kishazi hiki kinapaswa kuandikwa kwa mkono kila wakati na kuhifadhiwa **nje ya mtandao** mahali salama. Watumiaji wengine hata **huhifadhi nakala nyingi **, zilizohifadhiwa katika maeneo tofauti ya kijiografia kwa usalama ulioongezwa.
+Ili kuepuka hatari hii, inashauriwa sana kusanidi **Wallet** yako, ambapo ni wewe pekee unayeweza kufikia kifungu cha urejeshi. Kishazi hiki kinapaswa kuandikwa kwa mkono kila wakati na kuhifadhiwa **nje ya mtandao** mahali salama. Watumiaji wengine hata **huhifadhi nakala nyingi**, zilizowekwa katika maeneo tofauti ya kijiografia kwa usalama ulioongezwa.
 
 
 **Kamwe usihifadhi maneno yako ya urejeshi kwenye kifaa kilichounganishwa kwenye mtandao au kwenye wingu**.
@@ -687,7 +687,7 @@ Ili kuepuka hatari hii, inashauriwa sana kusanidi **Wallet** yako, ambapo ni wew
 **Hack moja au uvunjaji wa data unaweza kusababisha hasara isiyoweza kutenduliwa.**
 
 
-Ikiwa uko tayari kuchukua Ownership ya Bitcoin yako na unataka kuzama zaidi katika mbinu bora za kupata maneno yako ya urejeshaji, ninapendekeza sana uangalie makala haya:
+Ikiwa uko tayari kuchukua umiliki wa Bitcoin yako na unataka kuzama zaidi katika mbinu bora za kulinda maneno yako ya urejeshaji, ninapendekeza sana uangalie makala haya:
 
 
 https://planb.network/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
@@ -695,7 +695,7 @@ https://planb.network/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a
 ### Usiri na busara
 
 
-Katika ulimwengu wa kisasa wa kidijitali, ** busara mara nyingi hupuuzwa **; bado ni sehemu muhimu ya kukaa salama, haswa inapokuja kwa Bitcoin. Kadiri unavyozungumza kwa uwazi zaidi kuhusu hisa zako, ndivyo uwezekano wa kuwa mlengwa wa walaghai, wahalifu wa mtandaoni, au vitisho zaidi vya kitamaduni kama vile unyang'anyi au ulaghai.
+Katika ulimwengu wa kisasa wa kidijitali, **busara mara nyingi hupuuzwa**; bado ni sehemu muhimu ya kukaa salama, haswa inapokuja kwa Bitcoin. Kadiri unavyozungumza kwa uwazi zaidi kuhusu hisa zako, ndivyo uwezekano unavyoongezeka wa kuwa mlengwa wa walaghai, wahalifu wa mtandaoni, au vitisho vya kitamaduni kama vile unyang'anyi au ulaghai.
 
 Kumekuwa na visa vingi duniani kote ambapo watu wanaojulikana kuwa na kiasi kikubwa cha BTC walitekwa nyara au kushambuliwa.
 
