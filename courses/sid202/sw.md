@@ -156,7 +156,7 @@ Elements daemon inaunganishwa na nodi nyingine kwenye mtandao ili iweze kufanya 
 
 Programu ya Elements pia inajumuisha programu ya mteja inayoitwa `elements-cli` ambayo inakuruhusu kutuma amri za Utaratibu wa Mbali (RPC) kwa elementsd kutoka kwa safu ya amri. Hii inaweza kutumika kuuliza salio la Wallet, kutazama muamala au kuzuia data au kutangaza muamala kwa mfano. Mpangilio huu unapaswa kujulikana kwa mtu yeyote ambaye ametumia sawa na Bitcoin; bitcoind na bitcoin-cli.
 
-Kama nodi ya Elements inaweza kusanidiwa kwa kupitisha vigezo wakati wa kuanza au kupitia faili ya usanidi inawezekana kuwa na zaidi ya mfano mmoja unaoendesha kwenye mashine moja. Hii ni muhimu kwa madhumuni ya majaribio na ukuzaji kwani unaweza kusanidi mtandao wako wa ndani kwenye mashine moja, huku kila nodi ya Elements ikiwa na nakala yake ya data ya Blockchain, kudhibiti mkusanyiko wake wa miamala halali ambayo haijathibitishwa na kusikiliza maombi ya RPC kwenye bandari tofauti.
+Kama nodi ya Elements inaweza kusanidiwa kwa kupitisha vigezo wakati wa kuanza au kupitia faili ya usanidi, inawezekana kuwa na zaidi ya mfano mmoja unaoendesha kwenye mashine moja. Hii ni muhimu kwa madhumuni ya majaribio na ukuzaji, kwani unaweza kusanidi mtandao wako wa ndani kwenye mashine moja, huku kila nodi ya Elements ikiwa na nakala yake ya data ya blockchain, ikidhibiti mkusanyiko wake wa miamala halali ambayo haijathibitishwa, na kusikiliza maombi ya RPC kwenye bandari tofauti.
 
 ### Hazina ya Msimbo wa Elements na Jumuiya
 
@@ -206,16 +206,12 @@ $HOME/elements/src/elementsd -datadir=$HOME/elementsdir1
 $HOME/elements/src/elements-cli -datadir=$HOME/elementsdir1 getnewaddress
 ```
 
-Tunachoona hapo juu ni wito wa kuanzisha Elements daemon na wito kwa programu za elements-cli zilizo katika saraka ya `$HOME/Elements/src` na thamani ya kigezo cha `datadir`. Kigezo cha `datadir` kinaturuhusu kuwaambia daemon na matukio ya mteja mahali pa kupata faili zao za usanidi na, kwa upande wa daemon, mahali pa kuhifadhi nakala yake ya Blockchain. Wanaposhiriki faili ya usanidi mteja ataweza kupiga simu za RPC kwa daemon.
+Tunachokiona hapo juu ni wito wa kuanzisha *Elements daemon* na pia wito kwa programu za `elements-cli` zilizoko katika saraka ya `$HOME/elements/src`, kwa kutumia thamani maalum ya kigezo cha `datadir`. Kigezo hiki huturuhusu kuelekeza *daemon* na programu ya mteja (*client instance*) mahali pa kupata faili zao za usanidi, na kwa upande wa *daemon*, mahali pa kuhifadhi nakala ya blockchain. Wanaposhiriki faili ya usanidi, mteja ataweza kutuma maombi ya RPC kwa *daemon*.
 
-Kwa kutekeleza amri iliyo hapo juu tena, lakini kwa thamani tofauti ya `datadir`, tunaweza kuanza zaidi ya mfano mmoja wa Elements, kila moja ikiwa na nakala yake tofauti ya Blockchain na mipangilio ya usanidi. Kwa mkataba huu tutatumia lakabu `e2-dae` na `e2-CLI` katika kozi kurejelea saraka tofauti ya datadir kuliko e1. Kwa hivyo mfano hapo juu kwa mfano wetu wa pili `e2` utakuwa:
 
-```
-$HOME/elements/src/elementsd -datadir=$HOME/elementsdir2
-$HOME/elements/src/elements-cli -datadir=$HOME/elementsdir2 getnewaddress
-```
+Kwa kutekeleza amri hiyo hiyo iliyo hapo juu, lakini kwa thamani tofauti ya `datadir`, tunaweza kuanzisha zaidi ya mfano mmoja wa Elements, kila mmoja ukiwa na nakala yake tofauti ya blockchain na mipangilio ya usanidi. Katika muktadha huu, tutatumia lakabu `e2-dae` na `e2-CLI` katika kozi hii kurejelea saraka tofauti ya `datadir` kuliko ile ya `e1`. Hivyo basi, mfano wa pili (`e2`) utakuwa:
 
-Hii itaturuhusu kufanya shughuli za kila aina kama vile kufanya shughuli za mali kati ya nodi, kutoa mali na kuangalia matumizi ya upofu katika Confidential Transactions kati ya nodi tofauti kwenye mtandao mmoja.
+
 
 # Kutumia Kipengele Vitendo vya matumizi
 
@@ -227,15 +223,14 @@ Hii itaturuhusu kufanya shughuli za kila aina kama vile kufanya shughuli za mali
 
 :::video id=ea2121b6-24a8-458d-91e6-0c92eaf4dc65:::
 
-Katika sehemu hii utajifunza jinsi ya kutumia kipengele cha Confidential Transactions cha Elements.
+Katika sehemu hii, utajifunza jinsi ya kutumia kipengele cha *Confidential Transactions* cha Elements.
 
-Anwani zote katika Elements ni, kwa chaguo-msingi, blinded kwa kutumia Confidential Transactions, ambayo huweka kiasi na aina ya mali iliyohamishwa kuonekana tu kwa washiriki katika shughuli hiyo (na zile wanazochagua kufichua ufunguo wa upofu), huku zikiendelea kuthibitisha kwa njia fiche kwamba hakuna sarafu zaidi zinazoweza kutumika kuliko zilizopo.
+Anwani zote katika Elements ni, kwa chaguo-msingi, *blinded* kwa kutumia *Confidential Transactions*, ambayo huficha kiasi na aina ya mali inayohamishwa ili yaonekane tu kwa washiriki wa shughuli hiyo (na wale wanaochaguliwa kufichuliwa ufunguo wa upofu), huku zikiendelea kuthibitisha kwa njia fiche kwamba hakuna sarafu zaidi zinazotumika kuliko zilizopo.
+
 
 ### Anwani za Siri na Confidential Transactions
 
-Kwa chaguo-msingi, unapounda Address mpya katika Elements ukitumia amri ya `getnewaddress` inaundwa kama Address ya siri.
-
-Ili kuonyesha Confidential Transactions tutakuwa na e2 ijitumie pesa na kisha kujaribu na kuangalia muamala kutoka e1. Hii itaonyesha hali ya siri ya miamala katika Elements.
+Ili kuonyesha *Confidential Transactions*, tutafanya `e2` ijitumie pesa na kisha kujaribu kuangalia muamala huo kutoka kwa `e1`. Hii itaonyesha hali ya usiri ya miamala katika Elements.
 
 Kila Address mpya inayozalishwa na nodi ya Elements ni ya siri kwa chaguo-msingi. Tunaweza kuonyesha hili kwa kupata e2 hadi generate Address mpya.
 
@@ -243,7 +238,10 @@ Kila Address mpya inayozalishwa na nodi ya Elements ni ya siri kwa chaguo-msingi
 e2-cli getnewaddress
 ```
 
-Kumbuka kuwa Address huanza na e1. Hii inaitambulisha kama Siri ya Address. Kuchunguza Address kwa undani zaidi kwa kutumia amri ya getaddressinfo inaonyesha maelezo zaidi ya Address.
+```markdown
+Kumbuka kuwa anwani huanza na `el1`. Hii huitambulisha kama anwani ya siri (*blinded address*). Kuchunguza anwani kwa undani zaidi kwa kutumia amri ya `getaddressinfo` kunaonyesha maelezo ya kina kuhusu anwani hiyo.
+```
+
 
 ```
 e2-cli getaddressinfo <address>
@@ -251,11 +249,12 @@ e2-cli getaddressinfo <address>
 
 Unaweza kuona kuwa kuna ufunguo_wa siri ambao unatuambia kuwa ni Address ya siri.
 
-Ufunguo_wa_siri ni ufunguo wa upofu wa umma, ambao huongezwa kwa siri ya Address yenyewe. Hii ndiyo sababu Address ya siri ni ndefu sana.
+Ufunguo wa siri ni ufunguo wa upofu wa umma (*blinding public key*), ambao huongezwa kwa siri ya anwani yenyewe. Hii ndiyo sababu anwani ya siri huwa ndefu sana.
 
-Pia ina Address inayohusishwa isiyo ya siri. Iwapo ungependa kutumia miamala ya kawaida, isiyo ya siri, ndani ya Elements, mali inapaswa kutumwa kwa Address hii badala ya ile iliyo na kiambishi awali cha lq1.
 
-Sasa tunaweza kuwa na e2 kutuma pesa kwa Address iliyozalisha. Hii itaonyesha baadaye kwamba e1, kwa kuwa si mojawapo ya wahusika wanaofanya miamala, haitaweza kuona maelezo ya muamala.
+Pia ina anwani inayohusishwa isiyo ya siri. Iwapo ungependa kutumia miamala ya kawaida, isiyo ya siri, ndani ya Elements, mali inapaswa kutumwa kwa anwani hii badala ya ile iliyo na kiambishi awali cha `lq1`.
+
+Sasa tunaweza kuwa na `e2` itume pesa kwa anwani iliyoizalisha. Hii itaonyesha baadaye kwamba `e1`, kwa kuwa si miongoni mwa wahusika wa muamala huo, haitaweza kuona maelezo ya muamala.
 
 ```
 e2-cli sendtoaddress <address>
@@ -274,6 +273,7 @@ e2-cli gettransaction <txid>
 ```
 
 Kusogeza maelezo ya muamala, unaweza kuona kwamba e2 inaweza kuona kiasi kilichotumwa na kupokewa pamoja na mali iliyotumika. Unaweza pia kuona vipofu vya kiasi na vipofu vya mali, ambavyo hutumika kuficha maelezo kutoka kwa nodi zingine ambazo hazihusiki katika shughuli hiyo.
+
 
 Ili kuangalia maelezo ya muamala sawa kutoka e1 tunahitaji kwanza kupata maelezo ghafi ya muamala.
 
@@ -341,7 +341,7 @@ Ni hayo tu kwa somo hili; bahati nzuri kwenye jaribio na tuonane katika ijayo!
 
 Katika sehemu hii utajifunza jinsi ya kutumia kipengele cha Issued Assets cha Elements.
 
-Issued Assets huwezesha aina nyingi za mali kutolewa na kuhamishwa kati ya washiriki wa mtandao wa Elements. Nodi yoyote kwenye mtandao inaweza kutoa mali yake mwenyewe. Matoleo yanaweza kuwakilisha Ownership ya mali yoyote ikijumuisha vocha, kuponi, sarafu, amana, dhamana, hisa, n.k. Issued Assets hufungua mlango wa kujenga ubadilishanaji wa Trustless, chaguo na mikataba mingine ya hali ya juu inayohusisha self-Issued Assets.
+Issued Assets huwezesha aina nyingi za mali kutolewa na kuhamishwa kati ya washiriki wa mtandao wa Elements. Nodi yoyote kwenye mtandao inaweza kutoa mali yake mwenyewe. Matoleo yanaweza kuwakilisha umiliki wa mali yoyote ikijumuisha vocha, kuponi, sarafu, amana, dhamana, hisa, n.k. Issued Assets hufungua mlango wa kujenga ubadilishanaji wa trustless, chaguo na mikataba mingine ya hali ya juu inayohusisha self-issued assets.
 
 Kipengee Kilichotolewa pia kinanufaika na Confidential Transactions na kinaweza kutolewa tena na mtu yeyote aliye na tokeni inayohusishwa.
 
@@ -370,7 +370,7 @@ e1-cli issueasset 100 1 false
 
 `issueasset` inakubali vigezo 3.
 
-Kiasi cha kipengee kipya cha kutoa, tumetumia 100. Kiasi cha tokeni kuunda (tokeni hutumika kutoa tena kiasi cha mali), ambacho tulichagua 1. Kigezo cha mwisho kinaiambia Elements ama kuunda utoaji wa mali kama blinded au unblinded. Tutatumia unblinded kwani tunataka kuangalia kiasi cha utoaji kutoka e2 kwa dakika moja, kwa hivyo tutaandika sivyo.
+Kiasi cha kipengee kipya cha kutoa, tumetumia 100. Kiasi cha tokeni kuunda (tokeni hutumika kutoa tena kiasi cha mali), ambacho tulichagua 1. Kigezo cha mwisho kinaiambia Elements ama kuunda utoaji wa mali kama blinded au unblinded. Tutatumia unblinded kwani tunataka kuangalia kiasi cha utoaji kutoka e2 kwa dakika moja, kwa hivyo tutaandika sivyo
 
 Kuendesha amri kunarudisha data kuhusu utoaji. Hizi ni pamoja na transaction ID, ambayo unaweza kuchukua nakala yake kwa matumizi ya baadaye, thamani ya kipekee ya heksi ya kipengee, na thamani ya kipekee ya heksi ya tokeni ya mali.
 
@@ -400,19 +400,19 @@ Hii ni kwa sababu e2 haijui, na haitazami, Address ambayo mali mpya ilitumwa ili
 
 Inafaa kukumbuka kuwa ingawa e2 haiwezi kuona toleo lenyewe, e1 bado inaweza kutuma e2 baadhi ya mali. Kipengee kipya kitaonekana kama salio linalopatikana katika Wallet ya e2, ingawa haifahamu utoaji asili.
 
-Ili kuwezesha e2 kuona utoaji halisi (na kwa hivyo kiasi kilichotolewa), tunahitaji kuongeza Address hadi e2 kama Address inayotazamwa.
+Ili kuwezesha e2 kuona utoaji halisi (na kwa hivyo kiasi kilichotolewa), tunahitaji kuongeza anwani hadi e2 kama anwani inayotazamwa.
 
-Ili kufanya hivyo tunahitaji kujua Address ambayo mali ilitumwa. Kwa hili, tutatumia transaction ID tuliyonakili hapo awali na kuwa na e1 kupata maelezo ya muamala huo ili tuweze kujua Address sahihi ya kuongeza kwenye orodha ya saa ya Wallet ya e2.
+Ili kufanya hivyo tunahitaji kujua anwani ambayo mali ilitumwa. Kwa hili, tutatumia transaction ID tuliyonakili hapo awali na kuwa na e1 kupata maelezo ya muamala huo ili tuweze kujua anwani sahihi ya kuongeza kwenye orodha ya saa ya Wallet ya e2.
 
 ```
 e1-cli gettransaction <the-issuance-transaction-id>
 ```
 
-Ukisogeza juu zaidi ya urefu wa data ya muamala utaona Address iliyopokea 100 ya mali yetu mpya, iliyotambuliwa kwa thamani yake ya hex.
+Ukisogeza juu zaidi ya urefu wa data ya muamala utaona anwani iliyopokea 100 ya mali yetu mpya, iliyotambuliwa kwa thamani yake ya hex.
 
-Chukua Address na uinakili ili tuweze kuiingiza katika e2.
+Chukua anwani na uinakili ili tuweze kuiingiza katika e2.
 
-Sasa hebu tuingize hiyo Address kwenye e2. Ili kufanya hivyo tunatumia amri ya importaddress.
+Sasa hebu tuingize hiyo anwani kwenye e2. Ili kufanya hivyo, tunatumia amri ya `importaddress`.
 
 ```
 e2-cli importaddress <the-issued-to-address>
@@ -425,6 +425,7 @@ e2-cli listissuances
 ```
 
 Unaweza kuona kwamba mali yetu mpya iliyotolewa sasa imejumuishwa kwenye orodha. Nodi ya e2 pia ina uwezo wa kuamua kiasi cha mali ambayo ilitolewa, pamoja na kiasi cha ishara inayohusishwa, kwani utoaji ulikuwa utoaji wa unblinded. Ili kuwezesha matumizi ya kitambulisho cha kipengee kutaja uchoraji ramani ndani ya Elements, kwanza acha Elements.
+
 
 ```
 e1-cli stop
@@ -472,7 +473,7 @@ Kuorodhesha matoleo kutoka e2.
 e2-cli listissuances
 ```
 
-Lebo za vipengee ni za ndani kwa kila nodi, ni heksi ya kipengee pekee inayotambuliwa na nodi nyingine kwenye mtandao.
+Lebo za vipengee ni za ndani kwa kila nodi; ni heksi ya kipengee pekee inayotambuliwa na nodi nyingine kwenye mtandao.
 
 Uchoraji wa lebo hadi heksi ya mali ni muhimu wakati wa kutekeleza vitendo kama vile miamala na hoja za salio la Wallet, kwani inaruhusu njia fupi ya kurejelea mali. Kwa mfano, ikiwa tulitaka kutuma baadhi ya mali yetu mpya (kiasi cha 10) kutoka e1 hadi e2 bila kutumia lebo.
 
@@ -488,7 +489,7 @@ Kisha tumia amri ya sendtoaddress.
 e1-cli sendtoaddress <address> 10 "" "" false false 1 UNSET false <asset-id-here>
 ```
 
-Thibitisha muamala kwa kutengeneza kizuizi.
+Thibitisha muamala kwa kutengeneza block.
 
 ```
 generate 1
@@ -510,7 +511,7 @@ e1-cli sendtoaddress <address> 10 "" "" false false 1 UNSET false <name-of-the-n
 
 Nyuma ya pazia, Elements inaweka alama za ndani kwa thamani za heksi ili kusaidia kurahisisha matumizi ya Issued Assets.
 
-Katika sehemu hii tumeona jinsi ya kutoa na kuweka lebo ya mali. Katika sehemu inayofuata tutaangalia kutoa tena na kuharibu kiasi cha mali iliyotolewa.
+Katika sehemu hii tumeona jinsi ya kutoa na kuweka lebo ya mali. Katika sehemu inayofuata, tutaangalia kutoa tena na kuharibu kiasi cha mali iliyotolewa.
 
 ## Kutoa tena Mali
 
@@ -520,15 +521,15 @@ Katika sehemu hii tumeona jinsi ya kutoa na kuweka lebo ya mali. Katika sehemu i
 
 Katika sehemu hii utajifunza jinsi ya kutoa zaidi ya mali ambayo tayari imetolewa na pia jinsi ya kuharibu kiasi fulani cha mali iliyotolewa.
 
-Haja ya kutoa tena (kuunda zaidi) ya mali au kuharibu kiasi cha mali ni jambo ambalo lina uwezekano wa kutokea wakati kipengee kinawakilisha kitu ambacho hakina Supply isiyobadilika. Hii inaweza kutumika kwa mali zinazowakilisha dhahabu iliyohifadhiwa kwenye kuba kwa mfano; vitengo vya dhahabu vinapoingia na kutoka kwenye kuba, kipengee kinachowakilisha Supply ya kuba kinahitaji kurekebishwa juu au chini ipasavyo.
+Haja ya kutoa tena (kuunda zaidi) ya mali au kuharibu kiasi cha mali ni jambo ambalo lina uwezekano wa kutokea wakati kipengee kinawakilisha kitu ambacho hakina ugavi usiobadilika. Hii inaweza kutumika kwa mali zinazowakilisha dhahabu iliyohifadhiwa kwenye kuba kwa mfano; vitengo vya dhahabu vinapoingia na kutoka kwenye kuba, kipengee kinachowakilisha ugavu wa kuba kinahitaji kurekebishwa juu au chini ipasavyo.
 
-Kutoa tena kiasi cha mali kunahitaji Ownership ya tokeni husika ambayo iliundwa pamoja na mali ilipotolewa mara ya kwanza.
+Kutoa tena kiasi cha mali kunahitaji umiliki wa tokeni husika ambayo iliundwa pamoja na mali ilipotolewa mara ya kwanza.
 
 Wakati wa kuunda zaidi ya kipengee, haijalishi ni nodi gani ilitoa kipengee hapo kwanza, mradi tu nodi ambayo inatoa tena kiasi cha kipengee inamiliki kile kinachojulikana kama reissuance token ya mali. Tutaangalia jinsi ya kuunda reissuance token mwanzoni, jinsi ya kuitumia ili kutoa tena kiasi cha mali na pia jinsi ya kuhamisha reissuance token kwa nodi nyingine, ili pia wawe na ruhusa ya kutoa tena mali.
 
 Tutahitaji ufikiaji wa nodi mbili za Elements, ambazo tutaziita e1 na e2. Nodi zimekuwa na blockchains zao zimewekwa upya na mgawanyiko wa default asset kati yao.
 
-Tutakuwa na e1 kutoa kiasi cha 100 ya mali mpya na kuunda 1 reissuance token kwa ajili ya mali hiyo hiyo. Tutaunda toleo kama unblinded ili kurahisisha mfano. Kwa hivyo wacha tuendelee na tutoe kipengee na reissuance token inayohusishwa nayo.
+Tutakuwa na e1 kutoa kiasi cha 100 ya mali mpya na kuunda reissuance token 1 kwa ajili ya mali hiyo hiyo. Tutaunda toleo hilo kama *unblinded* ili kurahisisha mfano. Kwa hivyo, wacha tuendelee na tutoe kipengee pamoja na reissuance token inayohusishwa nacho.
 
 ```
 e1-cli issueasset 100 1 false
@@ -536,7 +537,7 @@ e1-cli issueasset 100 1 false
 
 Kumbuka kitambulisho cha mali na pia kile cha tokeni (ya kurejesha tena).
 
-Kwa vile baadaye tutakuwa tukitoa tena zaidi ya mali kutoka e2 tutahitaji kuzingatia transaction ID ambayo mali ilitolewa na kuitumia kuagiza Address mali ilitumwa.
+Kwa vile baadaye tutakuwa tukitoa tena zaidi ya mali kutoka e2, tutahitaji kuzingatia transaction ID ambayo mali ilitolewa na kuitumia kuagiza anwani ambayo mali ilitumwa.
 
 Thibitisha muamala.
 
@@ -544,7 +545,7 @@ Thibitisha muamala.
 e1-cli -generate 1
 ```
 
-Sasa tutaangalia maelezo ya muamala kwa kutumia amri ya gettransaction:
+Sasa tutaangalia maelezo ya muamala kwa kutumia amri ya `gettransaction`:
 
 ```
 e1-cli gettransaction <txid>
