@@ -3499,7 +3499,9 @@ Tukiangalia mduara wa bei ya logarithmic, jambo moja huwa wazi: hatujui kamwe ma
 Lakini zaidi ya bei, ukuaji wa Bitcoin ni wa kushangaza. Kilichoanza kama mradi usiojulikana kati ya cypherpunks kimekuwa vuguvugu la kimataifa. Kuanzia Njia ya Hariri hadi kupitishwa kwa kitaasisi, Bitcoin imejiimarisha kwa uthabiti katika hali ya kifedha ya kimataifa. Haionekani tena kama jaribio lisilokubalika, lakini kama kundi kubwa la rasilimali linalokubaliwa na taasisi na mamilioni ya watu ulimwenguni kote.
 
 
-Mabadiliko haya ya mtazamo yamekuja pamoja na maendeleo endelevu ya kiufundi. Pochi na miundombinu inaendelea kuboreshwa. Kila mwaka, masuluhisho mapya yanaibuka ambayo yanaifanya Bitcoin kuwa salama zaidi, inayoweza kuhimili uthabiti na ifaayo watumiaji. Leo, Bitcoin ina ugatuzi zaidi, inapatikana zaidi, na inaeleweka zaidi kuliko hapo awali.
+Hii hapa toleo lililoboreshwa kwa mtiririko laini, Kiswahili fasaha, na msisitizo unaoendana na maudhui ya kiufundi:
+
+Mabadiliko haya ya mtazamo yameambatana na maendeleo endelevu ya kiufundi. Pochi na miundombinu vinaendelea kuboreshwa kila wakati. Kila mwaka, suluhisho mpya huibuka ambazo hufanya Bitcoin kuwa salama zaidi, thabiti zaidi, na rafiki zaidi kwa mtumiaji. Leo, Bitcoin ina ugatuzi mkubwa zaidi, inapatikana kwa urahisi zaidi, na inaeleweka kuliko wakati wowote ule katika historia yake.
 
 
 Bila shaka, changamoto zinasalia: udhibiti, faragha, kupitishwa kwa mapana, na kuendeleza uchumi wa mzunguko. Lakini mradi jumuiya inasalia hai, kutaka kujua, na kujishughulisha, Bitcoin itasalia kuwa njia mbadala yenye nguvu kwa mfumo wa jadi wa kifedha.
@@ -3511,7 +3513,7 @@ Jambo moja ni hakika: Bitcoin itaendelea kuwepo; kuzalisha block mpya takriban k
 ![BTC102-Bitcoin](assets/fr/098.webp)
 
 
-Kadiri majanga ya kimataifa yanavyoendelea na mfumuko wa bei unapopunguza uwezo wa ununuzi wa sarafu za kawaida, Bitcoin itavutia watu wengi zaidi, wale wanaotafuta uhuru wa kifedha na uhuru wa mtu binafsi. Nguvu hii itaendelea kuimarisha Bitcoin na kuvutia vipaji vipya ili kuboresha itifaki yake, tabaka zake za kuongeza ukubwa, na matumizi yake ya kila siku katika masuala ya usalama, faragha na matumizi.
+Kadiri majanga ya kimataifa yanavyoendelea, na mfumuko wa bei unavyozidi kupunguza uwezo wa ununuzi wa sarafu za kawaida, Bitcoin itazidi kuwavutia watu wengi zaidi — hasa wale wanaotafuta uhuru wa kifedha na uhuru wa mtu binafsi. Nguvu hii itaendelea kuimarisha Bitcoin na kuvutia vipaji vipya vya kuboresha itifaki yake, tabaka zake za kuongeza ukubwa (scaling layers), pamoja na matumizi yake ya kila siku katika nyanja za usalama, faragha, na urahisi wa matumizi.
 
 
 ### nini hatua yako ijayo?
@@ -3519,7 +3521,7 @@ Kadiri majanga ya kimataifa yanavyoendelea na mfumuko wa bei unapopunguza uwezo 
 
 Kwa kushangaza, mabadiliko makubwa zaidi hayatakuwa Bitcoin; itakuwa wewe.
 
-Utabadilika katika jinsi unavyotumia, kuelewa na kuhusiana na Bitcoin. Labda utakuza shauku ya kweli kwa hilo, vya kutosha kuanza kufundisha wengine, kujihusisha na jamii, au kuhifadhi tu utajiri wako kwa muda mrefu. Chochote njia yako, Bitcoin itakuwa imebadilisha mtazamo wako wa ulimwengu; na uwezekano wa uhusiano wako na uhuru na uwajibikaji wa kifedha.
+Utabadilika katika jinsi unavyotumia, kuelewa, na kuhusiana na Bitcoin. Labda utakua na shauku ya kweli juu yake — vya kutosha kuanza kufundisha wengine, kushiriki katika jamii, au hata kuhifadhi utajiri wako kwa muda mrefu. Haijalishi njia utakayochagua, Bitcoin itakuwa imebadilisha mtazamo wako kuhusu ulimwengu — na huenda pia ikabadilisha uhusiano wako na uhuru pamoja na uwajibikaji wa kifedha.
 
 
 Hapa kuna maelekezo machache unayoweza kufuata:
@@ -3587,9 +3589,9 @@ Bitcoin ni zaidi ya chombo cha kifedha; ni harakati. Kulingana na ujuzi wako na 
 
 
 
-- Kuelimisha na kuongeza ufahamu**: Wasaidie wapendwa wako kuelewa Bitcoin, shiriki ujuzi wako na ushiriki katika mijadala ya ndani;
-- Tengeneza zana na matumizi**: Ikiwa una ujuzi wa kiufundi, kuchangia zana huria ni njia nzuri ya kuleta thamani kwa Bitcoin ;
-- Jiunge na jumuiya ya karibu**: Shiriki katika matukio, mikutano na vikao ili kukutana na washikaji bitcoin wengine na maoni ya Exchange kuhusu maendeleo mapya.
+- **Kuelimisha na kuongeza ufahamu**: Wasaidie wapendwa wako kuelewa Bitcoin, shiriki ujuzi wako na ushiriki katika mijadala ya ndani;
+- **Tengeneza zana na matumizi**: Ikiwa una ujuzi wa kiufundi, kuchangia zana huria ni njia nzuri ya kuleta thamani kwa Bitcoin ;
+- **Jiunge na jumuiya ya karibu**: Shiriki katika matukio, mikutano na vikao ili kukutana na washikaji bitcoin wengine na maoni ya Exchange kuhusu maendeleo mapya.
 
 
 Ikiwa ungependa kusaidia kuelimisha wengine, Plan ₿ Network inatafuta wachangiaji kila wakati! Maudhui yetu yote ya elimu ni chanzo huria na yamepangishwa kwenye GitHub. Tunakaribisha wachangiaji kusaidia kusahihisha na kutafsiri maudhui katika lugha mbalimbali; katika Exchange kwa Sats chache! Iwe sasa au baadaye katika safari yako ya Bitcoin, umealikwa kujiunga na [kundi letu la Telegram kwa wachangiaji](https://t.me/PlanBNetwork_ContentBuilder) la Plan ₿ Network.
@@ -3613,7 +3615,7 @@ Sasa uko tayari kufanya mtihani wa mwisho; mtihani wa maswali 40 ambao utathibit
 Bahati nzuri!
 
 
-Natumaini kukuona tena hivi karibuni katika kozi nyingine kwenye Plan ₿ Network; iwe ni mmoja wangu au mmoja kutoka kwa mwalimu mwingine wa ajabu katika jamii. Na ni nani anayejua, labda hata tutakutana ana kwa ana kwenye mkutano, tukio au mkutano wa Bitcoin.
+Natumaini kukuona tena hivi karibuni katika kozi nyingine ndani ya Plan ₿ Network — iwe ni kozi yangu au ya mwalimu mwingine mahiri kutoka katika jamii hii. Na nani ajuaye? Huenda tukakutana ana kwa ana kwenye mkutano, tukio, au kongamano la Bitcoin.
 
 
 Kwa mara nyingine tena, hongera kwa jinsi ulivyofikia. Na kumbuka; lengo langu la msingi daima litabaki sawa:
