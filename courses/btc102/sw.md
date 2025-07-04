@@ -2154,13 +2154,13 @@ Mbinu inayopendekezwa:
 - shughuli adimu, kupunguza mwingiliano na mfumo ikolojia wa Bitcoin.
 
 
-Hodler inaona Bitcoin kama ghala la thamani, sawa na mwekezaji katika dhahabu halisi. Changamoto yao kuu ni kuhifadhi kwa usalama Bitcoin yao na kuhakikisha kuwa wanaweza kuipitisha kwa warithi.
+Hodler huona Bitcoin kama ghala la thamani, sawa na mwekezaji wa dhahabu halisi. Changamoto yao kuu ni kuitunza Bitcoin yao kwa usalama na kuhakikisha wanaweza kuirithisha kwa warithi wao
 
 
 #### 2. Stacker
 
 
-Stacker ni mtu ambaye huchukua mbinu ya taratibu zaidi na thabiti. Wananunua Bitcoin mara kwa mara, mara nyingi kupitia mkakati wa Wastani wa Gharama ya Dola (DCA). Lengo lao ni kueneza bei yao ya ununuzi kwa wakati na kupunguza athari za tete ya Bitcoin.
+Stacker ni mtu anayefuata mbinu ya polepole na thabiti. Hununua Bitcoin mara kwa mara, mara nyingi kwa kutumia mkakati wa Wastani wa Gharama ya Dola (DCA). Lengo lake ni kusambaza gharama ya ununuzi kwa muda na kupunguza athari za mabadiliko ya bei ya Bitcoin
 
 
 Mbinu inayopendekezwa:
@@ -2184,14 +2184,13 @@ Mtumiaji Anayetumika hutazama Bitcoin kama njia ya Exchange badala ya duka la th
 Mbinu inayopendekezwa:
 
 
-
-- Tumia Hot Wallet kwenye simu au kompyuta ya mezani kwa shughuli za kila siku;
+- Tumia Hot Wallet kwenye simu au kompyuta ya mezani kwa miamala ya kila siku.
 - Tumia Lightning Network kwa malipo ya haraka na nafuu;
 - Dumisha mbinu ya mseto, kwa kutumia simu ya Wallet kwa matumizi na Hardware Wallet kwa kuweka akiba;
 - Usikivu wa faragha hutofautiana kulingana na mahitaji maalum.
 
 
-Mtumiaji Anayetumika anaweza kuwa mjasiriamali, mfanyakazi huru, au mtu anayeishi katika mazingira rafiki ya Bitcoin ambapo kutumia Bitcoin kwa malipo ya kila siku ni jambo la kawaida. Kipaumbele chao kikuu ni urahisi, unaolenga kuweka usawa kati ya usalama na ufikiaji.
+Mtumiaji Anayetumika anaweza kuwa mjasiriamali, mfanyakazi huru, au mtu anayeishi katika mazingira yanayounga mkono matumizi ya Bitcoin, ambapo kuitumia kwa malipo ya kila siku ni jambo la kawaida. Kipaumbele chake kikuu ni urahisi—akiwa analenga kuweka usawa kati ya usalama na ufikiaji.
 
 
 #### 4. Mbishi
@@ -2210,7 +2209,7 @@ Mbinu inayopendekezwa:
 - Epuka huduma za kati ambazo zinaweza kuhatarisha faragha.
 
 
-Wasifu huu unafaa hasa kwa watu wanaoishi katika mazingira yenye uhasama wa Bitcoin, ambapo kumiliki au kutumia BTC kunaweza kusababisha vikwazo. Ni mbinu ngumu zaidi, inayohitaji utaalam wa kiufundi na nidhamu kali ili kuzuia upotezaji wowote wa ufikiaji wa pesa.
+Wasifu huu unawafaa hasa watu wanaoishi katika mazingira yenye uhasama kwa Bitcoin, ambapo kumiliki au kuitumia kunaweza kuwaletea vikwazo. Hii ni mbinu changamano zaidi, inayohitaji utaalamu wa kiufundi na nidhamu kali ili kuzuia upotevu wa ufikiaji wa fedha.
 
 
 ![BTC102-Bitcoin](assets/fr/069.webp)
@@ -2219,7 +2218,7 @@ Wasifu huu unafaa hasa kwa watu wanaoishi katika mazingira yenye uhasama wa Bitc
 ### Je, ni wasifu upi unaokufaa?
 
 
-Kumbuka kwamba wasifu huu si wa kipekee. Unaweza kujitambulisha na zaidi ya mmoja, na mbinu yako inaweza kubadilika baada ya muda. Kwa mfano, unaweza kuanza kama mpangaji na kuhama hatua kwa hatua hadi kuwa mtumiaji anayefanya kazi zaidi au hata kuwa na mtazamo wa usalama wa kutatanisha. Unaweza kuwa mhudumu wa muda mrefu huku bado ukitumia Bitcoin katika maisha yako ya kila siku.
+Kumbuka kuwa wasifu huu si wa kipekee. Unaweza kujitambulisha na zaidi ya mmoja, na mbinu yako ya matumizi ya Bitcoin inaweza kubadilika kadri muda unavyosonga. Kwa mfano, unaweza kuanza kama mpangaji na hatua kwa hatua kugeuka kuwa mtumiaji anayefanya kazi zaidi, au hata kuwa na mtazamo mkali wa kiusalama. Unaweza pia kuwa mhifadhi wa muda mrefu huku ukiendelea kutumia Bitcoin katika maisha yako ya kila siku.
 
 
 **Kilicho muhimu zaidi ni kuoanisha mkakati wako na hali yako ya sasa na maono ya muda mrefu.**
@@ -2261,7 +2260,7 @@ Kuelewa mizunguko hii husaidia kudhibiti hisia. Wamiliki wa muda mrefu wanajua n
 ### Mpango wa uwekezaji kwa Hodler
 
 
-Hodlers huchukua njia rahisi, ya muda mrefu: pata Bitcoin, ihifadhi vizuri, na uiache peke yake. Hawafanyi biashara au kutumia sarafu zao. Lengo lao ni kukusanya na kulinda mali zao kwa usimamizi mdogo.
+Hodlers huchukua njia rahisi ya muda mrefu: wanapata Bitcoin, huitunza kwa usalama, kisha huiacha bila kuigusa. Hawafanyi biashara wala kuitumia. Lengo lao ni kukusanya na kulinda mali zao kwa usimamizi mdogo iwezekanavyo.
 
 
 Hapa kuna mpango madhubuti kwa mkulima:
@@ -2270,7 +2269,7 @@ Hapa kuna mpango madhubuti kwa mkulima:
 #### 1. Chagua na Weka Hardware Wallet
 
 
-Mambo ya kwanza kwanza: usalama. Hardware Wallet ni lazima. Huhifadhi funguo zako za faragha nje ya mtandao, na kulinda pesa zako dhidi ya mashambulizi ya mtandaoni.
+Kitu cha kwanza na cha muhimu zaidi ni usalama. Hardware Wallet ni ya lazima—hifadhi funguo zako za faragha nje ya mtandao na linda pesa zako dhidi ya mashambulizi ya mtandaoni.
 
 Hapa kuna mafunzo kadhaa ya pochi ambayo ni nzuri kwa washikaji:
 
@@ -2287,7 +2286,7 @@ https://planb.network/tutorials/wallet/hardware/passport-74e53858-3fa2-43f9-b866
 
 https://planb.network/tutorials/wallet/hardware/bitbox02-6af8940f-e19b-4008-8c83-81017032608c
 
-Mara tu Wallet yako inapowekwa, hakikisha kuwa umeweka nakala ya maneno yako ya urejeshaji ya maneno 12- au 24 kwenye nyenzo inayodumu. Ili kujua zaidi kuhusu kati ya kuchagua kwa kifungu chako cha maneno, fuata mafunzo haya:
+Mara tu Wallet yako inapowekwa, hakikisha umehifadhi nakala ya maneno yako ya urejeshaji (kifungu cha maneno 12 au 24) kwenye nyenzo inayodumu. Ili kuelewa vyema jinsi ya kuchagua kifungu chako cha maneno, fuata mafunzo haya:
 
 
 https://planb.network/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
@@ -2312,7 +2311,7 @@ https://planb.network/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14
 #### 2. Nunua Bitcoin na Uiondoe
 
 
-Hodler kamwe hawaachi sarafu zao kwenye kubadilishana. Majukwaa yanaweza kudukuliwa, kufilisika, au kukamatwa. Mara tu unaponunua, sogeza Bitcoin yako moja kwa moja hadi kwenye Hardware Wallet yako.
+Hodler kamwe hawaachi sarafu zao kwenye exchange. Majukwaa yanaweza kudukuliwa, kufilisika, au kukamatwa. Mara tu unaponunua, sogeza Bitcoin yako moja kwa moja hadi kwenye Hardware Wallet yako.
 
 
 Kwa sababu wafugaji huwa na kuwekeza kiasi kikubwa, wanahitaji kubadilishana na ukwasi mkubwa. Hapa kuna machache ambayo yanalingana na bili:
@@ -2353,7 +2352,7 @@ Tutaingia ndani zaidi katika upangaji wa urithi katika sehemu ya mwisho ya kozi 
 #### 4. Kuwa Mvumilivu Kupitia Mizunguko
 
 
-Hodling inamaanisha kucheza mchezo mrefu. Utahitaji kuwa mtulivu wakati wa kushuka kwa bei na masoko ya fahali yenye furaha sawa.
+Hodling humaanisha kucheza mchezo wa muda mrefu. Utahitaji kuwa na utulivu wakati wa kushuka kwa bei, na pia katika vipindi vya masoko ya fahali yaliyojaa shangwe.
 
 
 Mbinu chache bora:
@@ -2366,12 +2365,12 @@ Mbinu chache bora:
 - Thibitisha mara kwa mara uadilifu wa maneno yako ya kurejesha akaunti. Hakikisha kuwa bahasha haijachezewa na kwamba kati bado inasomeka. Ikiwa kitu chochote kitaharibika, generate nakala rudufu mpya kutoka kwa Wallet yako;
 
 
-Ili kufuatilia umiliki wako bila kuathiri funguo zako za faragha, zingatia kutumia Watch-only wallet. Inakuruhusu kufuatilia salio na miamala kwa kutumia funguo zako za umma pekee.
+Ili kufuatilia umiliki wako bila kuhatarisha funguo zako za faragha, zingatia kutumia Watch-only Wallet. Aina hii ya pochi hukuruhusu kufuatilia salio na miamala kwa kutumia funguo zako za umma pekee.
 
 
 https://planb.network/tutorials/wallet/mobile/blockstream-green-watch-only-66c3bc5a-5fa1-40ef-9998-6d6f7f2810fb
 
-Mbinu ya mshikaji ni rahisi lakini yenye nguvu: nunua, salama, na usahau. Changamoto halisi si ya kiufundi; ni kisaikolojia. Sehemu ngumu zaidi ni kupinga hamu ya kuuza mapema sana au hofu wakati wa kushuka kwa bei. Lakini ukikaa na nidhamu na kufikiria kwa muda mrefu, hodling imeonekana kuwa njia ya kuaminika ya kuhifadhi thamani na kujenga utajiri kwa muda.
+Mbinu ya mshikaji ni rahisi lakini yenye nguvu: nunua, tunza kwa usalama, kisha sahau. Changamoto halisi si ya kiufundi—bali ni ya kisaikolojia. Sehemu ngumu zaidi ni kupinga hamu ya kuuza mapema sana au kuzidiwa na hofu wakati wa kushuka kwa bei. Lakini ukiwa na nidhamu na mtazamo wa muda mrefu, hodling imeonekana kuwa njia ya kuaminika ya kuhifadhi thamani na kujenga utajiri kadri muda unavyopita.
 
 
 
@@ -2386,11 +2385,11 @@ Ikiwa unajitambua katika sifa hizi za utu, labda wewe ni Hodler asili:
 
 
 
-- Subira**: Mshikaji anaonyesha uvumilivu wa kipekee. Wako tayari kushikilia Bitcoin kwa miaka (wakati mwingine miongo) bila kukerwa na mabadiliko ya bei ya kila siku. Wanaelewa kuwa Bitcoin husogea kwa mizunguko na hawaogope wakati bei inapoanguka. Marekebisho ni sehemu tu ya mchezo. Kwa washikaji, thamani haipimwi kwa miezi, lakini kwa muda mrefu;
-- Maono ya muda mrefu** : Mwenye hodre anafikiria mbali zaidi ya faida ya muda mfupi. Wanaamini katika ukuaji wa muundo wa Bitcoin na kupitishwa kwa taratibu kimataifa. Licha ya tete, wanaona njia ya juu; moja ya upanuzi ikifuatiwa na uimarishaji. Kwao, Bitcoin ni mali ya muda mrefu, ua dhidi ya mfumuko wa bei, na sehemu muhimu ya mapinduzi makubwa ya fedha;
-- Nidhamu ya kibinafsi**: Nidhamu ya kiakili ndio msingi wa mawazo ya mtu hodari. Kwa kushangaza, changamoto yao kuu sio kutenda. Wanapinga hamu ya kuuza wakati wa kupanda kwa bei na hawakubali kuogopa wakati wa ajali. Wanaelewa kuwa Bitcoin imenusurika katika masoko mengi ya kikatili ya dubu; na kwamba wale wanaoshikilia maumivu mara nyingi hufaidika zaidi;
-- Ustahimilivu wa kihisia** : Bei ya Bitcoin inaweza kushuka kwa 50% au zaidi katika muda wa wiki; na bado, mshikaji anabakia mtulivu. Wameingiza ndani wazo kwamba tete haidhoofishi misingi ya Bitcoin. Ugumu huu wa kihisia huwawezesha kuweka kichwa cha usawa wakati wa kutokuwa na uhakika na kudumisha mtazamo wa busara wakati wengine wanaogopa;
-- Imani katika teknolojia**: Hodlers hawaoni Bitcoin kama mali ya kubahatisha tu. Wanaamini katika teknolojia yake na uwezo wake wa kuvuruga. Kwa wengi, si tu kuhusu pesa; ni kuhusu uhuru. Bitcoin inatazamwa kama sarafu thabiti, ya kisiasa na mbadala halisi kwa benki ya jadi, kuwawezesha watu binafsi na uhuru mkubwa wa kifedha.
+- **Subira**: Mshikaji anaonyesha uvumilivu wa kipekee. Wako tayari kushikilia Bitcoin kwa miaka (wakati mwingine miongo) bila kukerwa na mabadiliko ya bei ya kila siku. Wanaelewa kuwa Bitcoin husogea kwa mizunguko na hawaogope wakati bei inapoanguka. Marekebisho ni sehemu tu ya mchezo. Kwa washikaji, thamani haipimwi kwa miezi, lakini kwa muda mrefu;
+- **Maono ya muda mrefu** : Mwenye hodre anafikiria mbali zaidi ya faida ya muda mfupi. Wanaamini katika ukuaji wa muundo wa Bitcoin na kupitishwa kwa taratibu kimataifa. Licha ya tete, wanaona njia ya juu; moja ya upanuzi ikifuatiwa na uimarishaji. Kwao, Bitcoin ni mali ya muda mrefu, ua dhidi ya mfumuko wa bei, na sehemu muhimu ya mapinduzi makubwa ya fedha;
+- **Nidhamu ya kibinafsi**: Nidhamu ya kiakili ndio msingi wa mawazo ya mtu hodari. Kwa kushangaza, changamoto yao kuu sio kutenda. Wanapinga hamu ya kuuza wakati wa kupanda kwa bei na hawakubali kuogopa wakati wa ajali. Wanaelewa kuwa Bitcoin imenusurika katika masoko mengi ya kikatili ya dubu; na kwamba wale wanaoshikilia maumivu mara nyingi hufaidika zaidi;
+- **Ustahimilivu wa kihisia** : Bei ya Bitcoin inaweza kushuka kwa 50% au zaidi katika muda wa wiki; na bado, mshikaji anabakia mtulivu. Wameingiza ndani wazo kwamba tete haidhoofishi misingi ya Bitcoin. Ugumu huu wa kihisia huwawezesha kuweka kichwa cha usawa wakati wa kutokuwa na uhakika na kudumisha mtazamo wa busara wakati wengine wanaogopa;
+- **Imani katika teknolojia**: Hodlers hawaoni Bitcoin kama mali ya kubahatisha tu. Wanaamini katika teknolojia yake na uwezo wake wa kuvuruga. Kwa wengi, si tu kuhusu pesa; ni kuhusu uhuru. Bitcoin inatazamwa kama sarafu thabiti, ya kisiasa na mbadala halisi kwa benki ya jadi, kuwawezesha watu binafsi na uhuru mkubwa wa kifedha.
 
 
 ![BTC102-Bitcoin](assets/fr/072.webp)
