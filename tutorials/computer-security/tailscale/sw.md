@@ -1,83 +1,47 @@
 ---
-name: Mkia wa mkia
-description: Mafunzo ya hali ya juu ya Tailscale
+name: Tailscale
+description: Mwongozo wa kina wa Tailscale
 ---
 ![cover](assets/cover.webp)
 
-
-
 ## 1. Utangulizi
 
+Tailscale ni VPN ya kizazi kipya inayounda mtandao wa mesh uliosimbwa kwa njia fiche kati ya vifaa vyako. Inakuwezesha kuunganisha mashine za mbali kana kwamba ziko kwenye mtandao mmoja wa ndani, bila usanidi mgumu au ufunguzi wa milango kwenye router.
 
+Kwa kujipangisha binafsi, Tailscale hutoa kila kifaa anwani ya IP ya faragha isiyobadilika kwenye mtandao pepe, inayowezesha ufikiaji wa huduma zako hata kama IP yako ya umma hubadilika. Hii ina maana unaweza kudhibiti seva zako ukiwa mbali bila kufichua huduma zako moja kwa moja kwenye Mtandao.
 
-Tailscale ni VPN ya kizazi kijacho ambayo huunda mtandao wa matundu uliosimbwa kwa njia fiche kati ya vifaa vyako. Inakuruhusu kuunganisha mashine za mbali kana kwamba ziko kwenye mtandao mmoja wa ndani, bila usanidi tata au ufunguzi wa mlango.
+**Matumizi makuu:**
 
+- Kudhibiti seva ya kibinafsi ukiwa mbali  
+- Kudhibiti nodi za Umbrel/Lightning kwa kasi kuliko Tor  
+- Ufikiaji salama wa Raspberry Pi au NAS  
+- Kuunganisha kwenye huduma zako kupitia SSH au HTTP bila usanidi changamano wa mtandao
 
-
-Kwa upangishaji binafsi, Tailscale hupa kila kifaa IP ya faragha isiyobadilika katika mtandao pepe, inayotoa ufikiaji thabiti kwa huduma zako hata IP yako ya umma inapobadilika. Hii inamaanisha kuwa unaweza kudhibiti seva zako ukiwa mbali, bila kufichua huduma zako moja kwa moja kwenye Mtandao.
-
-
-
-**Maombi kuu:**
-
-
-
-
-- Dhibiti seva ya kibinafsi kutoka nje
-- Dhibiti nodi za Mwavuli/Umeme haraka kuliko Tor
-- Ufikiaji salama wa Raspberry Pi au NAS
-- Unganisha kwenye huduma zako kupitia SSH au HTTP bila usanidi changamano wa mtandao
-
-
-
-Mbinu hii inayozingatia urahisi huwezesha wapangaji binafsi kufikia huduma zao kwa usalama, na kuepuka mitego ya VPN za kitamaduni.
-
-
-
+Njia hii inayolenga urahisi huwasaidia wapangaji binafsi kufikia huduma zao kwa usalama, wakiepuka changamoto za VPN za kitamaduni.
+ 
 ## 2. Jinsi Tailscale inavyofanya kazi
 
-
-
-Tofauti na VPN za kitamaduni, ambazo hupitisha trafiki yote kupitia seva kuu, Tailscale huunda mtandao wa matundu ambapo vifaa vinawasiliana moja kwa moja. Seva ya kati hushughulikia tu uthibitishaji na usambazaji wa ufunguo, bila kuona data ya mtumiaji.
-
-
+Tofauti na VPN za kitamaduni ambazo hupitisha trafiki yote kupitia seva kuu (hub-and-spoke), Tailscale huunda mtandao wa mesh ambapo vifaa huwasiliana moja kwa moja. Seva ya kati hushughulikia tu uthibitishaji na usambazaji wa funguo, bila kuona data ya mtumiaji.
 
 ![VPN traditionnel (hub-and-spoke)](assets/fr/01.webp)
 
+*Kielelezo 1: VPN ya jadi ambapo trafiki yote hupitia seva kuu*
 
-*Kielelezo cha 1: VPN ya Jadi iliyo na usanifu wa kitovu-na-kuzungumza ambapo trafiki yote hupitia seva kuu*
-
-
-
-Kulingana na WireGuard, kila kifaa hutengeneza funguo zake za kriptografia. Seva ya uratibu husambaza funguo za umma kwa nodi, ambazo huanzisha vichuguu vilivyosimbwa kutoka mwisho hadi mwisho moja kwa moja kati yao. Ili kupitia ngome, Tailscale hutumia NAT traversal na, kama suluhisho la mwisho, relay za DERP ambazo hudumisha usimbaji fiche.
-
-
+Tailscale hutumia itifaki ya WireGuard. Kila kifaa hutengeneza jozi ya funguo za kriptografia. Seva ya uratibu husambaza funguo za umma kwa nodi nyingine, ambazo huanzisha vichuguu vilivyosimbwa kutoka mwisho hadi mwisho (end-to-end encrypted tunnels) kati yao. Kupitia NAT (Network Address Translation), Tailscale hutumia mbinu za NAT traversal, na kama njia ya mwisho ya kushinda vizuizi vya mtandao, hutegemea relay za DERP zilizo salama.
 
 ![VPN maillé (mesh)](assets/fr/02.webp)
 
+*Kielelezo 2: Mtandao wa mesh unaowezeshwa na Tailscale ambapo vifaa huwasiliana moja kwa moja*
 
-*Mchoro wa 2: Mtandao wa wavu wenye mikia ambapo vifaa vinawasiliana moja kwa moja*
+**Usalama na faragha:** Shukrani kwa WireGuard, mawasiliano yote ndani ya Tailscale yamesimbwa kwa njia fiche kutoka mwanzo hadi mwisho. Tailscale haiwezi kusoma trafiki yako — ni vifaa vyako pekee vinafunguo za faragha. Huduma huona tu metadata kama vile: anwani za IP, majina ya vifaa, mihuri ya muda, na kumbukumbu za miunganisho (bila maudhui ya muamala).
 
+Hata hivyo, usanifu huu unategemea Tailscale Inc. kwa huduma ya kuratibu mtandao. Ili kuondoa utegemezi huo, unaweza kutumia [Headscale](https://github.com/juanfont/headscale), mbadala wa chanzo huria wa seva ya uratibu wa Tailscale. Inakuwezesha kupangisha na kudhibiti miunganisho ya mtandao wako binafsi kwa uhuru kamili, japo inahitaji maarifa zaidi ya kiufundi.
 
-
-Mawasiliano yote yamesimbwa kwa njia fiche kwa WireGuard. Tailscale huona metadata (miunganisho) pekee lakini kamwe haioni maudhui ya ubadilishanaji. Kwa uhuru zaidi, Mizani ya kichwa huwezesha seva ya uratibu kujiendesha yenyewe.
-
-
-
-**Usalama na usiri:** Shukrani kwa WireGuard, mawasiliano yote kwenye Tailscale yamesimbwa kwa njia fiche kutoka mwanzo hadi mwisho. Tailscale haiwezi kusoma trafiki yako - ni vifaa vyako pekee vilivyo na funguo muhimu za faragha. Huduma huona metadata pekee: Anwani za IP, majina ya vifaa, mihuri ya muda ya muunganisho na kumbukumbu za muunganisho wa programu-jalizi (bila maudhui).
-
-
-
-Hata hivyo, usanifu huu unategemea Tailscale Inc. kwa uratibu wa mtandao. Ili kuondoa utegemezi huu, Headscale inatoa mbadala wa chanzo huria ambayo inakuruhusu kupangisha seva ya udhibiti huku ukitumia wateja rasmi wa Tailscale, na hivyo kuhakikishia uhuru kamili juu ya miundombinu ya mtandao wako, kwa gharama ya usanidi wa kiufundi zaidi.
-
-
-
-**Kwa maelezo ya kina kuhusu utendakazi wa ndani wa Tailscale, ikiwa ni pamoja na udhibiti wa udhibiti wa ndege, NAT traversal na relay za DERP, tunapendekeza makala bora [Jinsi Tailscale Inavyofanya kazi](https://tailscale.com/blog/how-tailscale-works) kwenye blogu rasmi. Nakala hii inaelezea kwa kina dhana za kiufundi zinazofanya Tailscale kuwa na nguvu sana.
+**Kwa maelezo ya kina kuhusu utendaji wa ndani wa Tailscale, tunapendekeza makala rasmi ya [How Tailscale Works](https://tailscale.com/blog/how-tailscale-works).** Nakala hiyo inaelezea dhana za kiufundi zinazoiwezesha Tailscale kuwa haraka, salama, na rahisi kutumia.
 
 
 
 ## 3. Kufunga Tailscale
-
 
 
 Tailcale huendesha kwenye **mifumo ya uendeshaji inayojulikana zaidi** (Windows, macOS, Linux, iOS, Android). Usakinishaji unasemekana kuwa "haraka na rahisi" kwenye mifumo yote. Hebu tuanze kwa kuangalia Interface na jinsi ya kuunda akaunti, kisha tuendelee kwenye taratibu za usakinishaji wa mazingira tofauti.
