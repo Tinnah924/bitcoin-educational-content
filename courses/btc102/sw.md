@@ -1,4 +1,4 @@
-hikemuny---
+---
 name: Kupata bitcoins zako za kwanza
 goal: Jifunze jinsi ya kununua, kulinda na kudhibiti bitcoins zako za kwanza kwa kujitegemea.
 objectives: 
