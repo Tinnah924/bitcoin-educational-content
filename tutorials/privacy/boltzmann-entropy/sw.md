@@ -1,4 +1,4 @@
----
+fncg---
 name: Calculator ya Boltzmann
 description: Kuelewa dhana ya entropy na jinsi ya kutumia Boltzmann
 ---
