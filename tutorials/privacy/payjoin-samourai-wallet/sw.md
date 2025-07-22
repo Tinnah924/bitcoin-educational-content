@@ -1,11 +1,11 @@
 ---
 name: PayJoin - Samourai Wallet
-description: Jinsi ya kufanya shughuli ya PayJoin kwenye Samourai Wallet?
+description: Jinsi ya kufanya muamala wa PayJoin kwenye Samourai Wallet?
 ---
 ![samourai payjoin cover](assets/cover.webp)
 
 
-***TAZAMA:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kukamatwa kwa seva zao tarehe 24 Aprili, Payjoins Stowaway kwenye Samourai Wallet hufanya kazi pekee kwa kubadilishana PSBT kati ya pande zinazohusika, mradi tu watumiaji wote wawili wameunganishwa kwenye Dojo yao wenyewe. Kuhusu Sparrow, Payjoins kupitia BIP78 bado inafanya kazi. Hata hivyo, inawezekana kwamba zana hizi zitazinduliwa tena katika wiki zijazo. Kwa sasa, bado unaweza kusoma makala haya ili kuelewa utendakazi wa kinadharia wa Stowaway.*
+***TAZAMA:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kukamatwa kwa seva zao tarehe 24 Aprili, Stowaway PayJoin kwenye Samourai Wallet hufanya kazi pekee kwa kubadilishana PSBT kati ya pande zinazohusika, mradi tu watumiaji wote wawili wameunganishwa kwenye Dojo yao wenyewe. Kuhusu Sparrow, PayJoin kupitia BIP78 bado inafanya kazi. Hata hivyo, inawezekana kwamba zana hizi zitazinduliwa tena katika wiki zijazo. Kwa sasa, bado unaweza kusoma makala haya ili kuelewa utendakazi wa kinadharia wa Stowaway.*
 
 
 _Kama unapanga kufanya Stowaway kwa mikono, utaratibu unafanana sana na ule ulioelezewa katika somo hili. Tofauti kuu iko katika uchaguzi wa aina ya muamala wa Stowaway: badala ya kuchagua `Mkondoni`, bofya kwenye `In Person/Manual`. Kisha, utahitaji mwenyewe Exchange PSBTs ili kuunda muamala wa Stowaway. Ikiwa uko karibu na mshirika wako, unaweza kuchanganua misimbo ya QR mfululizo. Ikiwa uko mbali, faili za JSON zinaweza kubadilishwa kupitia njia salama ya mawasiliano. Mafunzo mengine bado hayajabadilika._
@@ -30,7 +30,7 @@ PayJoin ni muundo mahususi wa muamala wa Bitcoin ambao huongeza faragha ya mtumi
 Kama ilivyoelezwa hapo awali, Samourai Wallet inatoa zana ya PayJoin inayoitwa "Stowaway." Inaweza kufikiwa kupitia programu ya Sparrow Wallet kwenye Kompyuta au programu ya Samourai Wallet kwenye Android. Ili kutekeleza PayJoin, mpokeaji, ambaye pia anafanya kazi kama mshirika, lazima atumie programu inayooana na Stowaway, yaani Sparrow au Samourai. Programu hizi mbili zinashirikiana, kuruhusu muamala wa Stowaway kati ya Sparrow Wallet na Samourai Wallet, na kinyume chake.
 
 
-Stowaway hutegemea aina ya miamala ambayo Samourai inarejelea kama "Cahoots." Cahoot kimsingi ni shughuli shirikishi kati ya watumiaji wengi, inayohitaji maelezo ya off-chain Exchange. Hadi sasa, Samourai inatoa zana mbili za Cahoots: Stowaway (Payjoins) na StonewallX2 (ambazo tutachunguza katika makala yajayo).
+Stowaway hutegemea aina ya miamala ambayo Samourai inarejelea kama "Cahoots." Cahoot kimsingi ni shughuli shirikishi kati ya watumiaji wengi, inayohitaji maelezo ya off-chain Exchange. Hadi sasa, Samourai inatoa zana mbili za Cahoots: Stowaway (PayJoin) na StonewallX2 (ambazo tutachunguza katika makala yajayo).
 
 
 Miamala ya Cahoots inahusisha ubadilishanaji wa miamala iliyotiwa saini sehemu kati ya watumiaji. Utaratibu huu unaweza kuwa mrefu na mgumu, haswa unapofanywa kwa mbali. Hata hivyo, bado inaweza kufanywa na mtumiaji mwingine, ambayo inaweza kuwa rahisi ikiwa washirika wako karibu. Kwa mazoezi, hii inahusisha kubadilishana mwenyewe misimbo mitano ya QR ili kuchanganuliwa mfululizo.
@@ -52,11 +52,11 @@ Ili kuiweka kwa urahisi, Paynym ni kitambulishi cha kipekee kilichounganishwa na
 - _Payjoin_ = Muundo mahususi wa shughuli shirikishi;
 - _Stowaway_ = PayJoin utekelezaji unaopatikana kwenye Samourai na Sparrow Wallet;
 - _Cahoots_ = Jina lililotolewa na Samourai kwa aina zao zote za miamala shirikishi, ikijumuisha PayJoin Stowaway;
-- _Soroban_ = Itifaki ya mawasiliano iliyosimbwa kwa njia fiche iliyoanzishwa kwenye Tor, ikiruhusu ushirikiano na watumiaji wengine katika muktadha wa shughuli ya Cahoots;
-- _Paynym_ = Kitambulisho cha kipekee cha Wallet kinachoruhusu mawasiliano na mtumiaji mwingine kwenye Soroban, ili kutekeleza shughuli ya Cahoots.
+- _Soroban_ = Itifaki ya mawasiliano iliyosimbwa kwa njia fiche iliyoanzishwa kwenye Tor, ikiruhusu ushirikiano na watumiaji wengine katika muktadha wa muamala wa Cahoots;
+- _Paynym_ = Kitambulisho cha kipekee cha Wallet kinachoruhusu mawasiliano na mtumiaji mwingine kwenye Soroban, ili kutekeleza muamala wa Cahoots.
 
 
-[**-> Pata maelezo zaidi kuhusu shughuli za PayJoin na matumizi yake**](https://planb.network/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f)
+[**-> Pata maelezo zaidi kuhusu miamala ya PayJoin na matumizi yake**](https://planb.network/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f)
 
 
 ## Jinsi ya kuanzisha uhusiano kati ya Paynyms?
@@ -110,7 +110,7 @@ Mara tu Paynym ya mpokeaji inapofuatwa na Paynym yako, rudia operesheni hii kiny
 ## Jinsi ya kufanya PayJoin kwenye Samourai Wallet?
 
 
-Ikiwa umekamilisha hatua hizi za awali, hatimaye uko tayari kufanya shughuli ya PayJoin! Ili kufanya hivyo, fuata mafunzo yetu ya video:
+Ikiwa umekamilisha hatua hizi za awali, hatimaye uko tayari kufanya muamala wa PayJoin! Ili kufanya hivyo, fuata mafunzo yetu ya video:
 
 
 ![Payjoin Video Tutorial - Samourai Wallet](https://youtu.be/FXW6XZim0ww?si=EXalYwK1t9DT48aE)
@@ -118,5 +118,4 @@ Ikiwa umekamilisha hatua hizi za awali, hatimaye uko tayari kufanya shughuli ya 
 
 **Nyenzo za nje:**
 
-
-- https://docs.samourai.io/en/spend-tools#stowaway.
+https://docs.samourai.io/en/spend-tools#stowaway.
