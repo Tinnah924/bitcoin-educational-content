@@ -93,7 +93,7 @@ Ada za muamala zinawakilisha gharama ambayo Miner itachukua kutoka kwako ili kui
 
 
 
-âš ï¸ MUHIMU: Katika tukio la kueneza kwa Mempool, wachimbaji wanatoa kipaumbele kwa miamala inayotoa uwiano bora wa Satoshi/vByte. Kadiri muamala yako inavyokuwa nzito (kubwa), ndivyo satoshi inavyohitaji kujumuishwa haraka.
+⚠️ MUHIMU: Katika tukio la kueneza kwa Mempool, wachimbaji wanatoa kipaumbele kwa miamala inayotoa uwiano bora wa Satoshi/vByte. Kadiri muamala yako inavyokuwa nzito (kubwa), ndivyo satoshi inavyohitaji kujumuishwa haraka.
 
 
 
