@@ -6,7 +6,7 @@ description: Kuelewa na kutumia JoinBot
 ![DALLÂ·E â€“ samurai robot in a red forest, 3D render](assets/cover.webp)
 
 
-***ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa kwa seva zao mnamo Aprili 24, **huduma ya **JoinBot** haipatikani tena**. Kufikia sasa, haiwezekani tena kutumia zana hii. Hata hivyo, bado unaweza kutekeleza Stonewall X2, lakini unahitaji kupata mshirika na wewe mwenyewe Exchange PSBTs. Huduma hii inaweza kuanzishwa upya katika miezi ijayo kulingana na maendeleo ya kesi.*
+***ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa kwa seva zao mnamo Aprili 24, **huduma ya JoinBot haipatikani tena**. Kufikia sasa, haiwezekani tena kutumia zana hii. Hata hivyo, bado unaweza kutekeleza Stonewall X2, lakini unahitaji kupata mshirika na wewe mwenyewe Exchange PSBTs. Huduma hii inaweza kuanzishwa upya katika miezi ijayo kulingana na maendeleo ya kesi.*
 
 
 _Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
@@ -17,7 +17,7 @@ _Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi a
 
 ---
 
-**JoinBot** ni zana mpya ambayo imeongezwa kwenye kundi la Samourai Wallet ikiwa na sasisho la hivi punde la 0.99.98f la programu maarufu ya Bitcoin Wallet. Inakuruhusu kufanya muamala wa pamoja kwa urahisi ili kuboresha faragha yako, bila kulazimika kupata mshirika.
+JoinBot ni zana mpya ambayo imeongezwa kwenye kundi la Samourai Wallet ikiwa na sasisho la hivi punde la 0.99.98f la programu maarufu ya Bitcoin Wallet. Inakuruhusu kufanya muamala wa pamoja kwa urahisi ili kuboresha faragha yako, bila kulazimika kupata mshirika.
 
 
 *Shukrani kwa Fanis Michalakis kwa wazo bora la kutumia DALL-E kwa kijipicha!*
@@ -57,7 +57,7 @@ Ili kujifunza zaidi kuhusu CoinJoin, ninaelezea KILA KITU katika makala hii ndef
 Ingawa ni nzuri sana katika kuvunja ufuatiliaji wa UTXO, CoinJoin haifai kwa matumizi ya moja kwa moja. Hakika, muundo wake unamaanisha kutumia pembejeo za kiasi kilichoainishwa awali na matokeo ya thamani sawa (ada za modulo za Mining). Hata hivyo, shughuli ya matumizi kwenye Bitcoin ni wakati muhimu kwa faragha kwani mara nyingi huunda kiungo halisi kati ya mtumiaji na shughuli zao za On-Chain. Kwa hivyo inaonekana ni muhimu kutumia zana za faragha kwa matumizi. Kuna miundo mingine ya muamala wa pamoja iliyoundwa mahususi kwa miamala halisi ya malipo.
 
 
-## Shughuli ya StonewallX2
+## Miamala ya StonewallX2
 
 
 Miongoni mwa maelfu ya zana za matumizi zinazotolewa kwenye Samourai Wallet, kuna muamala wa pamoja StonewallX2. Ni CoinJoin ndogo kati ya watumiaji wawili iliyoundwa kwa malipo. Kutoka nje, shughuli hii inaweza kusababisha tafsiri kadhaa zinazowezekana. Kwa hivyo hutoa ukanushaji unaokubalika na kwa hivyo, usiri kwa mtumiaji.
@@ -103,7 +103,7 @@ Nguvu ya muamala wa StonewallX2 ni kwamba inakabiliana kabisa na mojawapo ya she
 Hii ni mojawapo ya sheria nyingi za kimajaribio zinazotumiwa katika uchanganuzi wa On-Chain kuunda nguzo za Address. Ili kujifunza zaidi kuhusu heuristics hizi, ninapendekeza kusoma mfululizo huu wa makala nne na Samourai, ambayo inaleta mada kwa ajabu.
 
 
-Nguvu ya shughuli ya StonewallX2 iko katika ukweli kwamba mwangalizi wa nje atafikiri kwamba pembejeo tofauti za shughuli ni za mmiliki wa kawaida. Kwa kweli, ni watumiaji wawili tofauti wanaoshirikiana. Uchambuzi wa malipo kwa hivyo unaongozwa na udanganyifu, na faragha ya mtumiaji inahifadhiwa.
+Nguvu ya muamala wa StonewallX2 iko katika ukweli kwamba mwangalizi wa nje atafikiri kwamba pembejeo tofauti za shughuli ni za mmiliki wa kawaida. Kwa kweli, ni watumiaji wawili tofauti wanaoshirikiana. Uchambuzi wa malipo kwa hivyo unaongozwa na udanganyifu, na faragha ya mtumiaji inahifadhiwa.
 
 
 Kutoka nje, muamala wa StonewallX2 hauwezi kutofautishwa na muamala wa Stonewall. Tofauti pekee ya ufanisi kati yao ni kwamba Stonewall sio ushirikiano. Inatumia UTXO za mtumiaji mmoja pekee. Walakini, katika miundo yao kwenye akaunti Ledger, Stonewall na StonewallX2 zinafanana kabisa. Hii inaruhusu tafsiri zinazowezekana zaidi za muundo huu wa muamala kwa kuwa mwangalizi wa nje hataweza kujua ikiwa ingizo zinatoka kwa mtu yule yule au kutoka kwa washirika wawili.
@@ -118,7 +118,6 @@ Ili kutatua tatizo hili, timu ya Samourai hivi majuzi iliongeza kipengele kipya 
 
 
 ## JoinBot ni nini?
-
 
 Kanuni ya JoinBot ni rahisi. Ikiwa huwezi kupata mtu yeyote wa kushirikiana naye kwa muamala wa StonewallX2, unaweza kushirikiana na JoinBot. Kwa mazoezi, utakuwa ukifanya muamala wa pamoja moja kwa moja na Samourai Wallet.
 
@@ -162,8 +161,6 @@ Hapa kuna mchoro wa muamala ambao tumeigiza hivi punde kwenye video:
 
 
 Tunaweza kuona pembejeo 5:
-
-
 
 - Pembejeo 3 za kilosati 100 zinazotoka Samourai (JoinBot).
 - Ingizo 2 zinazotoka kwa Wallet yangu ya kibinafsi, ya 3,524 Sats na megasat 1.8.
