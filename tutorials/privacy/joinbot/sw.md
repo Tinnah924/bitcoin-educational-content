@@ -3,10 +3,10 @@ name: JoinBot
 description: Kuelewa na kutumia JoinBot
 ---
 
-![DALL·E – samurai robot in a red forest, 3D render](assets/cover.webp)
+![DALLÂ·E â€“ samurai robot in a red forest, 3D render](assets/cover.webp)
 
 
-***ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa kwa seva zao mnamo Aprili 24, **huduma ya JoinBot haipatikani tena**. Kufikia sasa, haiwezekani tena kutumia zana hii. Hata hivyo, bado unaweza kutekeleza Stonewall X2, lakini unahitaji kupata mshirika na wewe mwenyewe Exchange PSBTs. Huduma hii inaweza kuanzishwa upya katika miezi ijayo kulingana na maendeleo ya kesi.*
+***ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa kwa seva zao mnamo Aprili 24, **huduma ya **JoinBot** haipatikani tena**. Kufikia sasa, haiwezekani tena kutumia zana hii. Hata hivyo, bado unaweza kutekeleza Stonewall X2, lakini unahitaji kupata mshirika na wewe mwenyewe Exchange PSBTs. Huduma hii inaweza kuanzishwa upya katika miezi ijayo kulingana na maendeleo ya kesi.*
 
 
 _Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
@@ -17,10 +17,10 @@ _Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi a
 
 ---
 
-JoinBot ni zana mpya ambayo imeongezwa kwenye kundi la Samourai Wallet ikiwa na sasisho la hivi punde la 0.99.98f la programu maarufu ya Bitcoin Wallet. Inakuruhusu kufanya muamala shirikishi kwa urahisi ili kuboresha faragha yako, bila kulazimika kupata mshirika.
+**JoinBot** ni zana mpya ambayo imeongezwa kwenye kundi la Samourai Wallet ikiwa na sasisho la hivi punde la 0.99.98f la programu maarufu ya Bitcoin Wallet. Inakuruhusu kufanya muamala wa pamoja kwa urahisi ili kuboresha faragha yako, bila kulazimika kupata mshirika.
 
 
-*Shukrani kwa Fanis Michalakis bora kwa wazo la kutumia DALL-E kwa kijipicha!*
+*Shukrani kwa Fanis Michalakis kwa wazo bora la kutumia DALL-E kwa kijipicha!*
 
 
 ## Ni shughuli gani ya ushirikiano kwenye Bitcoin?
@@ -37,7 +37,7 @@ Ingizo ni pembejeo za muamala wa Bitcoin, na matokeo yanawakilisha matokeo. Muam
 Ninajadili hili kwa undani katika makala haya: Utaratibu wa Muamala wa Bitcoin: UTXO, Pembejeo, na Matokeo.
 
 
-Njia moja ya kutia ukungu nyimbo katika muamala wa Bitcoin ni kufanya muamala shirikishi. Kama jina linavyopendekeza, inahusisha makubaliano kati ya watumiaji wengi, ambao kila mmoja huweka jumla ya bitcoins kama pembejeo katika shughuli hiyo hiyo na hupokea jumla kama pato.
+Njia moja ya kutia ukungu nyimbo katika muamala wa Bitcoin ni kufanya muamala wa pamoja. Kama jina linavyopendekeza, inahusisha makubaliano kati ya watumiaji wengi, ambao kila mmoja huweka jumla ya bitcoins kama pembejeo katika shughuli hiyo hiyo na hupokea jumla kama pato.
 
 
 Kama ilivyoelezwa hapo awali, muundo unaojulikana zaidi wa shughuli ya ushirikiano ni CoinJoin. Kwa mfano, kwenye itifaki ya CoinJoin Whirlpool, shughuli zinahusisha washiriki 5 kama pembejeo na matokeo, kila mmoja akiwa na kiasi sawa cha bitcoins.
@@ -54,16 +54,16 @@ Mtumiaji anaweza kukataa umiliki wa UTXO fulani kama pato. Jambo hili linaitwa "
 Ili kujifunza zaidi kuhusu CoinJoin, ninaelezea KILA KITU katika makala hii ndefu: Kuelewa na kutumia CoinJoin kwenye Bitcoin.
 
 
-Ingawa ni nzuri sana katika kuvunja ufuatiliaji wa UTXO, CoinJoin haifai kwa matumizi ya moja kwa moja. Hakika, muundo wake unamaanisha kutumia pembejeo za kiasi kilichoainishwa awali na matokeo ya thamani sawa (ada za modulo za Mining). Hata hivyo, shughuli ya matumizi kwenye Bitcoin ni wakati muhimu kwa faragha kwani mara nyingi huunda kiungo halisi kati ya mtumiaji na shughuli zao za On-Chain. Kwa hivyo inaonekana ni muhimu kutumia zana za faragha kwa matumizi. Kuna miundo mingine ya muamala shirikishi iliyoundwa mahususi kwa miamala halisi ya malipo.
+Ingawa ni nzuri sana katika kuvunja ufuatiliaji wa UTXO, CoinJoin haifai kwa matumizi ya moja kwa moja. Hakika, muundo wake unamaanisha kutumia pembejeo za kiasi kilichoainishwa awali na matokeo ya thamani sawa (ada za modulo za Mining). Hata hivyo, shughuli ya matumizi kwenye Bitcoin ni wakati muhimu kwa faragha kwani mara nyingi huunda kiungo halisi kati ya mtumiaji na shughuli zao za On-Chain. Kwa hivyo inaonekana ni muhimu kutumia zana za faragha kwa matumizi. Kuna miundo mingine ya muamala wa pamoja iliyoundwa mahususi kwa miamala halisi ya malipo.
 
 
 ## Shughuli ya StonewallX2
 
 
-Miongoni mwa maelfu ya zana za matumizi zinazotolewa kwenye Samourai Wallet, kuna muamala shirikishi StonewallX2. Ni CoinJoin ndogo kati ya watumiaji wawili iliyoundwa kwa malipo. Kutoka nje, shughuli hii inaweza kusababisha tafsiri kadhaa zinazowezekana. Kwa hivyo hutoa ukanushaji unaokubalika na kwa hivyo, usiri kwa mtumiaji.
+Miongoni mwa maelfu ya zana za matumizi zinazotolewa kwenye Samourai Wallet, kuna muamala wa pamoja StonewallX2. Ni CoinJoin ndogo kati ya watumiaji wawili iliyoundwa kwa malipo. Kutoka nje, shughuli hii inaweza kusababisha tafsiri kadhaa zinazowezekana. Kwa hivyo hutoa ukanushaji unaokubalika na kwa hivyo, usiri kwa mtumiaji.
 
 
-Usanidi huu wa muamala shirikishi wa StonewallX2 unapatikana kwenye Samourai Wallet na Sparrow Wallet. Chombo hiki kinaweza kuingiliana kati ya programu hizi mbili.
+Usanidi huu wa muamala wa pamoja wa StonewallX2 unapatikana kwenye Samourai Wallet na Sparrow Wallet. Chombo hiki kinaweza kuingiliana kati ya programu hizi mbili.
 
 
 Utaratibu wake ni rahisi kuelewa. Hivi ndivyo inavyofanya kazi katika mazoezi:
@@ -120,7 +120,7 @@ Ili kutatua tatizo hili, timu ya Samourai hivi majuzi iliongeza kipengele kipya 
 ## JoinBot ni nini?
 
 
-Kanuni ya JoinBot ni rahisi. Ikiwa huwezi kupata mtu yeyote wa kushirikiana naye kwa muamala wa StonewallX2, unaweza kushirikiana na JoinBot. Kwa mazoezi, utakuwa ukifanya muamala shirikishi moja kwa moja na Samourai Wallet.
+Kanuni ya JoinBot ni rahisi. Ikiwa huwezi kupata mtu yeyote wa kushirikiana naye kwa muamala wa StonewallX2, unaweza kushirikiana na JoinBot. Kwa mazoezi, utakuwa ukifanya muamala wa pamoja moja kwa moja na Samourai Wallet.
 
 
 Huduma hii ni rahisi sana, haswa kwa watumiaji wa novice, kwani inapatikana 24/7. Ikiwa unahitaji kufanya malipo ya haraka na unataka kufanya StonewallX2, huhitaji tena kuwasiliana na rafiki au kutafuta mshirika mtandaoni. JoinBot itakusaidia.
@@ -152,7 +152,7 @@ Tofauti na zana nyingi zilizotengenezwa na Samourai, Sparrow Wallet bado haijata
 Gundua hatua kwa hatua jinsi ya kufanya muamala wa StonewallX2 na JoinBot kwenye video hii:
 
 
-![How to use Joinbot](https://youtu.be/80MoMz2Ne5g)
+![How to use Joinbot]([https://youtu.be/80MoMz2Ne5g](https://youtu.be/80MoMz2Ne5g))
 
 
 Hapa kuna mchoro wa muamala ambao tumeigiza hivi punde kwenye video:
@@ -185,7 +185,7 @@ Kama ukumbusho, ada za Mining haziwakilishi matokeo ya muamala. Zinawakilisha tu
 ## Hitimisho
 
 
-JoinBot ni zana ya ziada inayoongeza chaguo zaidi na uhuru kwa watumiaji wa Samourai. Inaruhusu muamala shirikishi wa StonewallX2 moja kwa moja na Samourai kama mshirika. Aina hii ya shughuli husaidia kuboresha faragha ya mtumiaji.
+JoinBot ni zana ya ziada inayoongeza chaguo zaidi na uhuru kwa watumiaji wa Samourai. Inaruhusu muamala wa pamoja wa StonewallX2 moja kwa moja na Samourai kama mshirika. Aina hii ya shughuli husaidia kuboresha faragha ya mtumiaji.
 
 
 Ikiwa unaweza kufanya StonewallX2 ya kawaida na rafiki, bado ninapendekeza kutumia zana hii. Hata hivyo, ikiwa umekwama na huwezi kupata washirika wowote wa kufanya malipo, unajua kuwa JoinBot itapatikana 24/7 ili kushirikiana nawe.
@@ -194,5 +194,5 @@ Ikiwa unaweza kufanya StonewallX2 ya kawaida na rafiki, bado ninapendekeza kutum
 **Nyenzo za nje:**
 
 
-- https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923
-- https://www.pandul.fr/post/comprendre-et-utiliser-le-CoinJoin-sur-Bitcoin
+- [https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923](https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923)
+- [https://www.pandul.fr/post/comprendre-et-utiliser-le-CoinJoin-sur-Bitcoin](https://www.pandul.fr/post/comprendre-et-utiliser-le-CoinJoin-sur-Bitcoin)
