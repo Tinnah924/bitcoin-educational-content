@@ -298,9 +298,9 @@ Ili kuendesha Dojo yako mwenyewe, una chaguo la kusakinisha kifundo cha Dojo kwa
 Katika usanidi wetu, tutaingiliana na miingiliano mitatu tofauti:
 
 
-- Samourai Wallet**, ambayo itakuwa mwenyeji wetu Bitcoin Wallet inayotolewa kwa coinjoins. Inapatikana bila malipo kwenye Android, programu tumizi hii ya FOSS hukuruhusu kudhibiti uchanganyaji wako wa Wallet, haswa kwa kutumia mchanganyiko wako wa posta kutoka kwa smartphone yako;
-- Whirlpool CLI** (_Command Line Interface_), ambayo itafanya kazi kwenye nodi inayopangisha Dojo. Programu hii itaweza kufikia funguo za Samourai Wallet yako. Ina jukumu la kuwasiliana na mratibu na kusimamia sainjoins mfululizo. Inatumika kama nakala ya Samourai Wallet yako kwenye nodi yako, tayari kushiriki katika sati wakati wowote;
-- Whirlpool GUI** (_Graphical User Interface_), mtumiaji wa picha Interface tutamtumia kufuatilia shughuli za Whirlpool CLI na kuanzisha kuchanganya kwa mbali. Whirlpool GUI hutoa uwakilishi unaoonekana wa shughuli zinazofanywa na Whirlpool CLI. Programu hii lazima isakinishwe kwenye kompyuta tofauti na Dojo. Kwa watumiaji wa Umbrel, MyNode, Nodl, na Citadel, Whirlpool GUI ni lazima. Hata hivyo, ukiwa na RoninDojo, Whirlpool GUI Interface tayari imeunganishwa kwenye mtandao wa nodi yako Interface kupitia programu ya `Whirlpool`. Kwa hiyo, hutahitaji kuiweka kwenye PC tofauti.
+- **Samourai Wallet**, ambayo itakuwa mwenyeji wetu Bitcoin Wallet inayotolewa kwa coinjoins. Inapatikana bila malipo kwenye Android, programu tumizi hii ya FOSS hukuruhusu kudhibiti uchanganyaji wako wa Wallet, haswa kwa kutumia mchanganyiko wako wa posta kutoka kwa smartphone yako;
+- **Whirlpool CLI** (_Command Line Interface_), ambayo itafanya kazi kwenye nodi inayopangisha Dojo. Programu hii itaweza kufikia funguo za Samourai Wallet yako. Ina jukumu la kuwasiliana na mratibu na kusimamia sainjoins mfululizo. Inatumika kama nakala ya Samourai Wallet yako kwenye nodi yako, tayari kushiriki katika sati wakati wowote;
+- **Whirlpool GUI** (_Graphical User Interface_), mtumiaji wa picha Interface tutamtumia kufuatilia shughuli za Whirlpool CLI na kuanzisha kuchanganya kwa mbali. Whirlpool GUI hutoa uwakilishi unaoonekana wa shughuli zinazofanywa na Whirlpool CLI. Programu hii lazima isakinishwe kwenye kompyuta tofauti na Dojo. Kwa watumiaji wa Umbrel, MyNode, Nodl, na Citadel, Whirlpool GUI ni lazima. Hata hivyo, ukiwa na RoninDojo, Whirlpool GUI Interface tayari imeunganishwa kwenye mtandao wa nodi yako Interface kupitia programu ya `Whirlpool`. Kwa hiyo, hutahitaji kuiweka kwenye PC tofauti.
 
 
 Kwa maoni yangu, kutumia RoninDojo inawakilisha suluhisho bora la kufanya sanjari na Dojo. Kwa kuwa programu hii ya nodi-in-box inashirikiana moja kwa moja na timu za Samourai, RoninDojo imeboreshwa zaidi kwa kufanya hivi. Zaidi ya hayo, ujumuishaji wa Whirlpool GUI kwenye wavuti Interface hurahisisha sana mchakato wa usanidi. Katika somo hili, bado nitaelezea jinsi ya kuifanya na masuluhisho mengine ambayo yanaunganisha Dojo (Umbrel, Nodl, MyNode, na Citadel).
@@ -543,7 +543,7 @@ Sasa kwa kuwa kila kitu kimewekwa, uko tayari kuanza kuchanganya bitcoins zako. 
 ![coinjoin](assets/notext/45.webp)
 
 
-Whirlpool GUI itakuwa inagenerate kupokea Address. Pia itaonyesha kiwango cha chini kinachohitajika ili kushiriki katika kila bwawa la CoinJoin. Kiasi hiki kinatofautiana kulingana na soko la ada. Inashauriwa kuweka kiasi cha juu kidogo kuliko kiwango cha chini kinachohitajika, kwani ikiwa ada za Mining hazipungui, UTXO yako inaweza isikubalike kwenye bwawa unalotaka. Kwa hiyo, tuma bitcoins zako kwa Address iliyotolewa. Ili kupata Address mpya, bofya tu kitufe cha `Weka upya Address`.
+Whirlpool GUI itakuwa generate kupokea Address. Pia itaonyesha kiwango cha chini kinachohitajika ili kushiriki katika kila bwawa la CoinJoin. Kiasi hiki kinatofautiana kulingana na soko la ada. Inashauriwa kuweka kiasi cha juu kidogo kuliko kiwango cha chini kinachohitajika, kwani ikiwa ada za Mining hazipungui, UTXO yako inaweza isikubalike kwenye bwawa unalotaka. Kwa hiyo, tuma bitcoins zako kwa Address iliyotolewa. Ili kupata Address mpya, bofya tu kitufe cha `Weka upya Address`.
 
 
 ![coinjoin](assets/notext/46.webp)
