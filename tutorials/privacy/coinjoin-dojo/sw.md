@@ -543,7 +543,7 @@ Sasa kwa kuwa kila kitu kimewekwa, uko tayari kuanza kuchanganya bitcoins zako. 
 ![coinjoin](assets/notext/45.webp)
 
 
-Whirlpool GUI itakuwa generate kupokea Address. Pia itaonyesha kiwango cha chini kinachohitajika ili kushiriki katika kila bwawa la CoinJoin. Kiasi hiki kinatofautiana kulingana na soko la ada. Inashauriwa kuweka kiasi cha juu kidogo kuliko kiwango cha chini kinachohitajika, kwani ikiwa ada za Mining hazipungui, UTXO yako inaweza isikubalike kwenye bwawa unalotaka. Kwa hiyo, tuma bitcoins zako kwa Address iliyotolewa. Ili kupata Address mpya, bofya tu kitufe cha `Weka upya Address`.
+Whirlpool GUI itakuwa inagenerate kupokea Address. Pia itaonyesha kiwango cha chini kinachohitajika ili kushiriki katika kila bwawa la CoinJoin. Kiasi hiki kinatofautiana kulingana na soko la ada. Inashauriwa kuweka kiasi cha juu kidogo kuliko kiwango cha chini kinachohitajika, kwani ikiwa ada za Mining hazipungui, UTXO yako inaweza isikubalike kwenye bwawa unalotaka. Kwa hiyo, tuma bitcoins zako kwa Address iliyotolewa. Ili kupata Address mpya, bofya tu kitufe cha `Weka upya Address`.
 
 
 ![coinjoin](assets/notext/46.webp)
