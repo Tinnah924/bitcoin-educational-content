@@ -1,71 +1,100 @@
 ---
-name: Payjoin - Sparrow Wallet
-description: Jinsi ya kufanya muamala wa Payjoin kwenye Sparrow Wallet?
+name: PayJoin - Sparrow Wallet
+description: Jinsi ya kufanya muamala wa PayJoin kwenye Sparrow Wallet?
 ---
 
-![picha ya kifuniko cha kozi ya Payjoin kwenye Sparrow Wallet](assets/cover.webp)
+![tutorial cover image sparrow payjoin](assets/cover.webp)
 
-_**ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kukamatwa kwa seva zao tarehe 24 Aprili, Payjoins Stowaway kwenye Samourai Wallet sasa hufanya kazi tu kwa kubadilishana PSBT kwa mikono kati ya pande zinazohusika, mradi watumiaji wote wawili wakiwa wameunganishwa kwenye Dojo zao. Kuhusu Sparrow, Payjoins kupitia BIP78 bado zinafanya kazi. Hata hivyo, zana hizi zinaweza kuzinduliwa tena katika wiki zijazo. Wakati huo, unaweza kila mara kusoma makala hii kuelewa utendakazi wa kinadharia wa Payjoins._
 
-_Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo yanayohusiana na zana hizi. Uhakikishe tutasasisha mafunzo haya kadiri taarifa mpya zitakavyopatikana._  
+_**ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kukamatwa kwa seva zao mnamo Aprili 24, Payjoins Stowaway kwenye Samourai Wallet sasa inafanya kazi pekee kwa kubadilishana PSBT kati ya wahusika wanaohusika, mradi watumiaji wote wawili wameunganishwa kwenye Dojo yao wenyewe. Kuhusu Sparrow, Payjoins kupitia BIP78 bado inafanya kazi. Hata hivyo, zana hizi zinaweza kuwashwa tena katika wiki zijazo. Wakati huo huo, unaweza kusoma nakala hii kila wakati ili kuelewa utendakazi wa kinadharia wa viungo vya malipo._
 
-_Mafunzo haya yametolewa kwa madhumuni ya kielimu na taarifa tu. Hatuzapendekezi wala kuhamasisha matumizi ya zana hizi kwa madhumuni ya uhalifu. Ni jukumu la kila mtumiaji kutii sheria katika mamlaka yao._  
+
+_Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
+
+
+_Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi au kuhimiza matumizi ya zana hizi kwa madhumuni ya uhalifu. Ni wajibu wa kila mtumiaji kutii sheria katika eneo la mamlaka yake._
+
 
 ---
 
-> *Lazimisha wachambuzi wa blockchain kufikiria upya kila kitu wanachodhani wanakijua.*  
+> *Lazimisha majasusi wa Blockchain kufikiria upya kila kitu wanachofikiri wanakijua.*
 
-Payjoin ni muundo maalum wa muamala wa Bitcoin unaoongeza faragha ya mtumiaji wakati wa matumizi kwa kushirikiana na mpokeaji malipo. Kuna utekelezaji kadhaa unaorahisisha usanidi na automatisation ya Payjoin. Miongoni mwa utekelezaji hizi, maarufu zaidi ni Stowaway iliyotengenezwa na timu ya Samourai Wallet. Mafunzo haya yanakusudia kukuongoza katika mchakato wa kufanya muamala wa Stowaway Payjoin ukitumia programu ya Sparrow Wallet.  
 
-## Jinsi Stowaway inavyofanya kazi?  
+PayJoin ni muundo mahususi wa muamala wa Bitcoin ambao huongeza faragha ya mtumiaji wakati wa matumizi kwa kushirikiana na mpokeaji malipo. Kuna utekelezaji kadhaa unaowezesha usanidi na otomatiki wa PayJoin. Miongoni mwa utekelezaji huu, inayojulikana zaidi ni Stowaway iliyotengenezwa na timu ya Samourai Wallet. Mafunzo haya yanalenga kukuongoza katika mchakato wa kufanya muamala wa Stowaway PayJoin kwa kutumia programu ya Sparrow Wallet.
 
-Kama ilivyotajwa hapo awali, Samourai Wallet inatoa zana ya Payjoin iitwayo "Stowaway." Inaweza kupatikana kupitia programu ya Sparrow Wallet kwenye PC au programu ya Samourai Wallet kwenye Android. Ili kutekeleza Payjoin, mpokeaji, ambaye pia ni mshirika, lazima atumie programu inayoendana na Stowaway, yaani Sparrow au Samourai Wallet. Programu hizi mbili zinaweza kushirikiana, kuruhusu muamala wa Stowaway kati ya Sparrow Wallet na Samourai Wallet, na kinyume chake.
 
-Stowaway hutegemea aina ya miamala ambayo Samourai inawaita "Cahoots." Cahoot ni muamala shirikishi kati ya watumiaji wengi unaohitaji exchange ya habari off-chain. Hivi sasa, Samourai inatoa zana mbili za Cahoots: Stowaway (Payjoins) na StonewallX2 (ambazotutachunguza katika makala zijazo).
+## Stowaway inafanyaje kazi?
 
-Miamala ya Cahoots inahusisha kubadilishana kwa PSBT zilizotiwa saini kati ya watumiaji. Mchakato huu unaweza kuwa mrefu na mzito, hasa unapofanywa kwa mbali. Hata hivyo, bado unaweza kufanywa kwa mikono na mtumiaji mwingine, jambo linalorahisisha ikiwa washirika wako wako karibu. Kwa vitendo, hii inahusisha kubadilishana kwa mikono QR codes tano ili kuchanganuliwa mfululizo.
 
-Inapofanywa kwa mbali, mchakato huu unakuwa tata mno. Kufanya hivyo, Samourai imeunda protocol ya mawasiliano iliyosimbwa kupitia Tor, inayoitwa "Soroban." Kupitia Soroban, exchanges zinazohitajika kwa Payjoin zinafanywa kiotomatiki nyuma ya interface rafiki kwa mtumiaji. Hii ndiyo njia ya pili tutakayojifunza katika makala hii.
+Kama ilivyoelezwa hapo awali, Samourai Wallet inatoa zana ya PayJoin inayoitwa "Stowaway." Inaweza kufikiwa kupitia programu ya Sparrow Wallet kwenye Kompyuta au programu ya Samourai Wallet kwenye Android. Ili kutekeleza PayJoin, mpokeaji, ambaye pia anafanya kazi kama mshirika, lazima atumie programu inayooana na Stowaway, yaani Sparrow au Samourai Wallet. Programu hizi mbili zinashirikiana, kuruhusu muamala wa Stowaway kati ya Sparrow Wallet na Samourai Wallet, na kinyume chake.
 
-Exchanges hizi zilizofichwa zinahitaji kuanzishwa kwa connection na authentication kati ya washiriki wa Cahoots. Mawasiliano ya Soroban yanategemea Paynyms za watumiaji. Ikiwa huna ujuzi wa Paynyms, nakualika uangalie makala hii kwa maelezo zaidi: [BIP47 - PAYNYM](https://planb.network/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95-a766-bae2c5535093) 
 
-Kuifafanua kwa ufupi, Paynym ni unique identifier iliyounganishwa na wallet yako inayoruhusu functionalities mbalimbali, kama vile encrypted messaging. Paynym huwasilishwa kama identifier na mchoro unaowakilisha roboti. Hapa ni mfano wangu kwenye Testnet: ![Paynym Sparrow](assets/en/1.webp)
+Stowaway hutegemea aina ya miamala ambayo Samourai inarejelea kama "Cahoots." Cahoot kimsingi ni muamala shirikishi kati ya watumiaji wengi ambayo inahitaji maelezo ya off-chain Exchange. Kwa sasa, Samourai inatoa zana mbili za Cahoots: Stowaway (Payjoins) na StonewallX2 (ambazo tutachunguza katika makala yajayo).
+
+
+Miamala ya Cahoots inahusisha kubadilishana miamala ambayo haijatiwa saini kati ya watumiaji. Utaratibu huu unaweza kuwa mrefu na mgumu, hasa unapofanywa kwa mbali. Hata hivyo, bado unaweza kufanywa na mtumiaji mwingine, ambayo inaweza kuwa rahisi ikiwa washirika wako wako karibu. Kwa mazoezi, hii inahusisha kubadilishana mwenyewe misimbo mitano ya QR ili kuchanganuliwa mfululizo.
+
+
+Inapofanywa kwa mbali, mchakato huu unakuwa mgumu sana. Ili kushughulikia suala hili, Samourai imeunda itifaki ya mawasiliano iliyosimbwa kwa njia fiche kulingana na Tor, inayoitwa "Soroban." Kwa Soroban, ubadilishanaji unaohitajika kwa PayJoin ni otomatiki nyuma ya Interface ambayo ni rafiki kwa mtumiaji. Hii ni njia ya pili ambayo tutachunguza katika makala hii.
+
+
+Mabadilishano haya yaliyosimbwa kwa njia fiche yanahitaji kuanzishwa kwa muunganisho na uthibitishaji kati ya washiriki wa Cahoots. Mawasiliano ya Soroban yanategemea Paynyms za watumiaji. Iwapo hujui Paynyms, ninakualika urejelee makala haya kwa maelezo zaidi: [BIP47 - PAYNYM](https://planb.network/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95-a766-bae2c5535093)
+
+Ili kuiweka kwa urahisi, Paynym ni kitambulisho cha kipekee kilichounganishwa na wallet yako ambacho kinaruhusu utendakazi mbalimbali, ikiwa ni pamoja na utumaji ujumbe uliosimbwa kwa njia fiche. Paynym inawasilishwa kwa namna ya kitambulisho na kielelezo kinachowakilisha roboti. Huu hapa ni mfano wangu kwenye Testnet: ![Paynym Sparrow](assets/sw/1.webp)
+
 
 **Kwa muhtasari:**
 
-- _Payjoin_ = Muundo maalum wa muamala shirikishi;  
-- _Stowaway_ = Utekelezaji wa Payjoin unapatikana kwenye Samourai na Sparrow Wallet;  
-- _Cahoots_ = Jina linalotolewa na Samourai kwa aina zao zote za muamala shirikishi, ikijumuisha Payjoin Stowaway;  
-- _Soroban_ = Protocol ya mawasiliano iliyosimbwa kupitia Tor, ikiruhusu ushirikiano na watumiaji wengine katika muktadha wa muamala wa Cahoots;  
-- _Paynym_ = Unique identifier ya wallet inayoruhusu mawasiliano na mtumiaji mwingine kupitia Soroban, ili kutekeleza muamala wa Cahoots.
 
-[**-> Jifunze zaidi kuhusu Payjoin transactions na matumizi yake**](https://planb.network/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f) 
+- _PayJoin_ = Muundo mahususi wa muamala shirikishi;
+- _Stowaway_ = Utekelezaji wa PayJoin unaopatikana kwenye Samourai na Sparrow Wallet;
+- _Cahoots_ = Jina lililotolewa na Samourai kwa aina zao zote za miamala shirikishi, ikijumuisha PayJoin Stowaway;
+- _Soroban_ = Itifaki ya mawasiliano iliyosimbwa kwa njia fiche iliyoanzishwa kwenye Tor, ikiruhusu ushirikiano na watumiaji wengine katika muktadha wa muamala wa Cahoots.
+- _Paynym_ = Kitambulisho cha kipekee cha wallet kinachoruhusu mawasiliano na mtumiaji mwingine kwenye Soroban, ili
 
-## Jinsi ya kuanzisha connection kati ya Paynyms?
+kufanya muamala wa Cahoots.
 
-Ili kutekeleza muamala wa mbali wa Cahoots, hasa PayJoin (Stowaway) kupitia Samourai au Sparrow, ni lazima "Follow" mtumiaji unayetamani kushirikiana naye, ukitumia Paynym yao. Katika kesi ya Stowaway, hii ina maana ya kufuata mtu unayemtumia bitcoins.
 
-**Huu ni utaratibu wa kuanzisha connection hii:**
+[**-> Pata maelezo zaidi kuhusu miamala ya PayJoin na matumizi yake**](https://planb.network/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f)
 
-Kwanza, unahitaji kupata Paynym identifier ya mpokeaji. Hii inaweza kufanywa kupitia jina la utani `+...` au payment code `PM...`. Katika Sparrow wallet ya mpokeaji, chagua tab ya `Tools`, kisha bonyeza `Show PayNym`.  
+
+## Jinsi ya kuanzisha uhusiano kati ya Paynyms?
+
+
+Ili kufanya muamala wa mbali wa Cahoots, hasa PayJoin (Stowaway) kupitia Samourai au Sparrow, ni muhimu kuongeza Paynym ya mtumiaji unayenuia kushirikiana naye. Kwa upande wa Stowaway, hii inamaanisha kuongeza Paynym ya mtu unayetaka kumtumia bitcoins.
+
+
+**Huu hapa ni utaratibu wa kuanzisha muunganisho huu:**
+
+
+Kwanza, unahitaji kupata kitambulisho cha Paynym cha mpokeaji. Hili linaweza kufanywa kwa kutumia jina lao la utani au msimbo wa malipo. Ili kufanya hivyo, kutoka kwa Sparrow Wallet ya mpokeaji, chagua kichupo cha `Zana`, kisha ubofye `Onyesha PayNym`.
+
 ![Show Paynym](assets/notext/2.webp)
 
-Kwako upande, fungua Sparrow Wallet yako na upitie menyu ya `Show PayNym`. Ikiwa hii ni mara yako ya kwanza, bonyeza `Retrieve PayNym`.  
-![Retrieve Paynym](assets/notext/3.webp)
+![Paynym Sparrow](assets/en/1.webp)
 
-Ifuatayo, ingiza Paynym identifier ya mshirika wako kwenye kisanduku cha `Find Contact`, kisha bonyeza `Add Contact`.  
-![Add Contact](assets/notext/4.webp)
+Kwa upande wako, fungua Sparrow Wallet yako na ufikie menyu ile ile ya `Onyesha PayNym`. Ikiwa unatumia Paynym yako kwa mara ya kwanza, utahitaji kupata kitambulisho kwa kubofya `Rejesha PayNym`.
 
-Programu itakuonyesha kitufe cha `Link Contact`. Sio lazima kubofya kitufe hiki kwa mafunzo haya.
+![Retrieve paynym](assets/notext/3.webp)
 
-Mara Paynym ya mpokeaji inapofuatwa na Paynym yako, rudia hatua kinyume ili mpokeaji pia akufuate. Kisha unaweza kufanya Payjoin.
+Kisha, weka kitambulisho cha Paynym cha mshirika wako (ama jina la utani la `+...` au msimbo wake wa malipo `PM...`) katika kisanduku cha `Tafuta Anwani`, kisha ubofye kitufe cha `Ongeza Anwani`.
 
-## Jinsi ya kufanya Payjoin kwenye Sparrow Wallet?
+![add contact](assets/notext/4.webp)
 
-Ikiwa umekamilisha hatua hizi za awali, uko tayari kufanya muamala wa Payjoin! Ili kufanya hivyo, fuata video tutorial yetu:  
-![Payjoin Tutorial - Sparrow Wallet](https://youtu.be/ZQxKod3e0Mg) 
+Programu itakupa kitufe cha `Unganisha Mawasiliano`. Sio lazima kubofya kitufe hiki kwa mafunzo yetu. Hatua hii ni muhimu tu ikiwa unapanga kufanya malipo kwa Paynym iliyoonyeshwa katika muktadha wa BIP47, ambayo haihusiani na mafunzo yetu.
 
-**Rasilimali za nje:**
 
-- https://docs.samourai.io/en/spend-tools#stowaway   
+Mara tu Paynym ya mpokeaji imeongezwa kwenye Paynym yako, rudia operesheni hii kinyume chake ili mpokeaji wako pia aongeze Paynym yako. Kisha unaweza kutekeleza PayJoin.
+
+
+## Jinsi ya kufanya PayJoin kwenye Sparrow Wallet?
+
+
+Ikiwa umekamilisha hatua hizi chache za awali, hatimaye uko tayari kufanya muamala wa PayJoin! Ili kufanya hivyo, fuata mafunzo yetu ya video:
+
+![Payjoin Tutorial - Sparrow Wallet](https://youtu.be/ZQxKod3e0Mg)
+
+
+**Nyenzo za nje:**
+- https://docs.samourai.io/en/spend-tools#stowaway
 - https://sparrowwallet.com/docs/spending-privately.html
