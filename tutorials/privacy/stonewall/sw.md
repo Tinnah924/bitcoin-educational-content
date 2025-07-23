@@ -16,6 +16,8 @@ _Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi a
 > *Vunja mawazo ya uchanganuzi wa Blockchain ukiwa na shaka ya kihisabati kati ya mtumaji na mpokeaji wa miamala yako.*
 
 
+
+
 ## Muamala wa Stonewall ni nini?
 
 Stonewall ni aina mahususi ya muamala wa Bitcoin unaolenga kuongeza faragha ya mtumiaji wakati wa muamala kwa kuiga CoinJoin kati ya pande mbili, bila kuwa mmoja. Kwa kweli, muamala huu haushirikiani. Mtumiaji anaweza kuujenga peke yake, akihusisha tu UTXO zake kama pembejeo. Kwa hivyo, unaweza kuunda muamala wa Stonewall kwa hafla yoyote bila kuhitaji kuratibu na mtumiaji mwingine.
