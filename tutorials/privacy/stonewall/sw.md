@@ -1,5 +1,5 @@
 ---
-name: Stonewall 
+name: Ukuta wa mawe
 description: Kuelewa na kutumia miamala ya Stonewall
 ---
 ![cover stonewall](assets/cover.webp)
@@ -17,7 +17,7 @@ _Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi a
 ---
 
 > *Vunja mawazo ya uchanganuzi wa Blockchain ukiwa na shaka ya kihisabati kati ya mtumaji na mpokeaji wa miamala yako.*
- 
+
 ## Muamala wa Stonewall ni nini?
 
 Stonewall ni aina mahususi ya muamala wa Bitcoin unaolenga kuongeza faragha ya mtumiaji wakati wa muamala kwa kuiga CoinJoin kati ya pande mbili, bila kuwa mmoja. Kwa kweli, muamala huu haushirikiani. Mtumiaji anaweza kuijenga peke yake, akihusisha tu UTXO zao kama pembejeo. Kwa hivyo, unaweza kuunda muamala wa Stonewall kwa hafla yoyote bila kuhitaji kuratibu na mtumiaji mwingine.
@@ -56,6 +56,7 @@ Wacha tuangalie tena mfano wetu na Alice kwenye duka la mkate. Ikiwa angetaka ku
 Kwa mtazamo wa nje, muundo wa muamala ungebaki sawa kabisa.
 
 ![Stonewall or Stonewall x2 ?](assets/en/3.webp)
+
 
 
 Kwa muhtasari, miamala ya Stonewall na Stonewall x2 inashiriki muundo sawa. Tofauti kati ya hizi mbili iko katika asili yao ya ushirikiano. Muamala wa Stonewall unatengenezwa kibinafsi, bila hitaji la ushirikiano. Kinyume chake, shughuli ya Stonewall x2 inategemea ushirikiano kati ya watu wawili kwa utekelezaji wake.
@@ -98,7 +99,6 @@ Tofauti na shughuli za Stowaway au Stonewall x2 (cahoots), muamala wa Stonewall 
 Tofauti na shughuli za Stowaway au Stonewall x2 (cahoots), muamala wa Stonewall hauhitaji matumizi ya Paynyms. Inaweza kufanyika moja kwa moja, bila hatua yoyote ya maandalizi. Ili kufanya hivyo, fuata mafunzo yetu ya video kwenye Sparrow Wallet:
 
 ![Stonewall Tutorial - Sparrow Wallet](https://youtu.be/su89ljkV_OI?si=1jNaSJGvECUYe6Or)
-
 
 
 **Nyenzo za Nje:**
