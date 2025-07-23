@@ -4,6 +4,7 @@ description: Kuelewa na kutumia miamala ya Stonewall
 ---
 ![cover stonewall](assets/cover.webp)
 
+
 *** ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa seva zao tarehe 24 Aprili, kutumia programu ya Samourai Wallet sasa kunahitaji muunganisho kwenye Dojo yako ili kufanya kazi ipasavyo. Kando na hili, miamala ya Stonewall haziathiriwi hata kidogo na bado zinaweza kufanywa bila masuala yoyote. Hakika, aina hizi za miamala zinafanywa kwa uhuru, bila hitaji la ushirikiano wa nje au muunganisho kupitia Soroban.*
 
 _Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
