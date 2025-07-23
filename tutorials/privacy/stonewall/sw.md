@@ -1,5 +1,5 @@
 ---
-name: Ukuta wa mawe
+name: Stonewall 
 description: Kuelewa na kutumia miamala ya Stonewall
 ---
 ![cover stonewall](assets/cover.webp)
