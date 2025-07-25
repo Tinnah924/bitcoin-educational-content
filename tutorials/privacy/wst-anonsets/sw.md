@@ -159,3 +159,111 @@ Sakinisha utegemezi:
 ```plaintext
 pip3 install -r ./requirements.txt
 ```
+
+![WST](assets/notext/9.webp)
+
+Unaweza pia kusakinisha mwenyewe (si lazima):
+
+```plaintext
+pip install PySocks
+pip install requests[socks]
+pip install plotly
+pip install datasketch
+pip install numpy
+pip install python-bitcoinrpc
+```
+
+Baada ya hapo, unaweza kukimbia chombo cha uchambuzi:
+
+```plaintext
+cd whirlpool_stats
+python3 wst.py
+```
+
+![WST](assets/notext/10.webp)
+
+Zindua Tor au kivinjari cha Tor.
+
+Ikiwa unayo RoninDojo, WST tayari imewekwa kwenye kontena, hivyo hatua hii haihitajiki:
+
+```plaintext
+docker run --rm -it --name wst quay.io/ich777/whirlpool-stats-tools
+```
+
+![WST](assets/notext/11.webp)
+
+Kisha unaweza kutumia WST ili kutathmini faragha ya kontena yako ya Dojo:
+
+```plaintext
+wst analyze --docker
+```
+
+Vigezo vya ziada (kwa uteuzi maalum wa mizunguko):
+
+```plaintext
+wst analyze --profiles xmr,z-addr
+```
+
+Matokeo yatakuwa kwenye saraka ya data ya WST.
+
+![WST](assets/notext/12.webp)
+
+Ifuatayo, nenda kwenye saraka ya kazi unayokusudia kama folda ya upakuaji. Ikiwa unatumia RoninDojo, hatua hii haihitajiki:
+
+```plaintext
+workdir path/to/your/directory
+```
+
+Uhakika wa amri unapaswa kubadilika ili kuonyesha saraka yako ya kazi.
+
+![WST](assets/notext/13.webp)
+
+Kisha pakua data kutoka pool yenye muamala wako. Kwa mfano, ikiwa uko kwenye pool yenye `100,000 Sats`, amri ni:
+
+```plaintext
+download 0001
+```
+
+![WST](assets/notext/14.webp)
+
+Nambari za pool kwenye WST ni kama ifuatavyo:
+
+- Pool la Bitcoin 0.5: `05`
+- Pool la Bitcoin 0.05: `005`
+- Pool la Bitcoin 0.01: `001`
+- Pool la Bitcoin 0.001: `0001`
+
+Mara baada ya data kupakuliwa, pakia. Kwa mfano, ikiwa uko kwenye pool yenye `100,000 Sats`, amri ni:
+
+```plaintext
+load 0001
+```
+
+Hatua hii inachukua dakika chache kulingana na kompyuta yako. Sasa ni wakati mzuri wa kupata kahawa! :)
+
+![WST](assets/notext/15.webp)
+
+Baada ya kupakia data, andika amri `score` ikifuatiwa na TXID yako (kitambulisho cha muamala) ili kupata matokeo:
+
+```plaintext
+score TXID
+```
+
+Muamala unahusika: `7fe6081fa4f4382be629fb2ef59029d058a22b6fd59cb31d1511fe9e0e7f32be`
+
+Ikiwa tutazingatia muamala huu kama CoinJoin ya kwanza iliyofanyika, kila sehemu ina uwezekano sawa wa kuwa sarafu inayotafutwa.
+
+Iwapo tutazingatia muamala huu kama CoinJoin ya mwisho ya mkutano, vyote vina uwezekano sawa wa kuwa sarafu inayotafutwa.
+
+Kando na alama za kukosekana kwa mfululizo, WST pia hukupa takwimu za mchakato wa kuchanganya, lakini alama zako haitaongezeka sana.
+
+Hii ndiyo sababu ninaona matumizi ya Whirlpool yanafaa: kufanya mchakato mzito kwa ufanisi wa coinjoins ni ngumu sana.
+
+Nyenzo za Nje:
+
+- [Podcast katika Uchambuzi wa On-Chain ya Kifaransa](https://fountain.fm/episode/6nNoQEUHBCQR8hAXAkEx)
+- [Makala ya Wikipedia kuhusu HyperLogLog](https://en.wikipedia.org/wiki/HyperLogLog)
+- Hazina ya Samourai ya Takwimu za Whirlpool
+- Tovuti ya Whirlpool na Samourai
+- [Makala ya wastani katika Kiingereza kuhusu faragha na Bitcoin](https://medium.com/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923)
+- [Makala ya wastani katika Kiingereza kuhusu dhana ya kutengeneza anonymity sets ya Whirlpool](https://medium.com/diving-head-first-into-Whirlpool-anonymity-sets-4156a54b0bc7)
