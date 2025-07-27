@@ -1,15 +1,13 @@
 ---
-name: BIP47 - PayNym
-
+name: BIP47 - PayNym 
 description: Jinsi PayNyms hufanya kazi
 ---
-***ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa seva zao tarehe 24 Aprili, programu haiwezi kutumiwa tena na watumiaji ambao hawana Dojo yao wenyewe. BIP47 inasalia kutumika kwenye Sparrow Wallet kwa watumiaji wote na **kwenye Samourai Wallet kwa watumiaji walio na Dojo** pekee.*
+***ONYO**: Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa seva zao tarehe 24 Aprili, Samourai Wallet haiwezi kutumiwa tena na watumiaji ambao hawana Dojo yao wenyewe. BIP47 inasalia kutumika kwenye Sparrow Wallet kwa watumiaji wote na kwenye Samourai Wallet kwa watumiaji walio na Dojo pekee.
 
 
 _Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
 
-
-_Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi au kuhimiza matumizi ya zana hizi kwa madhumuni ya uhalifu. Ni wajibu wa kila mtumiaji kutii sheria katika eneo la mamlaka yake._
+_Mafunzo haya yametolewa kwa madhumuni ya elimu na taarifa pekee. Hatuidhinishi wala kuhimiza matumizi ya zana hizi kwa malengo ya kihalifu. Kila mtumiaji anawajibika kutii sheria za eneo lake la mamlaka.._
 
 
 ---
@@ -19,10 +17,10 @@ _Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi a
 ![BIP47, the ugly duckling illustration](assets/1.webp)
 
 
-Mojawapo ya masuala muhimu zaidi kwenye itifaki ya Bitcoin ni kutumia tena Address. Uwazi na usambazaji wa mtandao hufanya mazoezi haya kuwa hatari kwa faragha ya mtumiaji. Ili kuepuka matatizo yanayohusiana na hili, inashauriwa kutumia tupu mpya ya kupokea Address kwa kila malipo mapya yanayoingia kwa Wallet, ambayo inaweza kuwa ngumu kufikia katika baadhi ya matukio.
+Mojawapo ya masuala muhimu zaidi kwenye protocol ya Bitcoin ni kutumia tena Address. Uwazi na usambazaji wa mtandao hufanya mazoezi haya kuwa hatari kwa faragha ya mtumiaji. Ili kuepuka matatizo yanayohusiana na hili, inashauriwa kutumia tupu mpya ya kupokea Address kwa kila malipo mapya yanayoingia kwa Wallet, ambayo inaweza kuwa ngumu kufikia katika baadhi ya matukio.
 
 
-Maelewano haya ni ya zamani kama White Paper. Satoshi tayari ilituonya juu ya hatari hii katika kazi yake iliyochapishwa mwishoni mwa 2008:
+Maelewano haya ni ya zamani kama White Paper. Satoshi tayari alituonya juu ya hatari hii katika kazi yake iliyochapishwa mwishoni mwa 2008:
 
 
 > Kama ngome ya ziada, jozi mpya ya funguo inapaswa kutumika kwa kila shughuli ili kuwazuia kuunganishwa na mmiliki wa kawaida.
@@ -33,9 +31,9 @@ Kuna masuluhisho mengi yanayopatikana ili kupokea malipo mengi bila kutumia tena
 Hapo awali, pendekezo hili lilipokelewa kwa dharau na sehemu ya jamii, na halikuongezwa kamwe kwa Bitcoin Core. Walakini, programu zingine bado zilichagua kuitekeleza peke yao. Kwa mfano, Samourai Wallet ilitengeneza utekelezaji wake wa BIP47: PayNym. Leo, utekelezaji huu unapatikana kwenye Samourai Wallet kwa simu mahiri, na pia kwenye [Sparrow Wallet](https://sparrowwallet.com/) kwa Kompyuta.
 
 
-Baada ya muda, Samourai imepanga vipengele vipya vinavyohusiana moja kwa moja na PayNym. Sasa, kuna mfumo mzima wa zana unaopatikana ili kuboresha faragha ya mtumiaji kulingana na PayNym na BIP47.
+Baada ya muda, Samourai imeongeza vipengele vipya vinavyohusiana moja kwa moja na PayNym. Sasa, kuna mfumo mzima wa zana unaopatikana ili kuboresha faragha ya mtumiaji ukitumia PayNym na BIP47.
 
-Katika makala haya, utagundua kanuni ya BIP47 na PayNym, taratibu za itifaki hizi, na matumizi ya vitendo yanayotokana nayo. Nitatumia Address pekee toleo la kwanza la BIP47, ambalo kwa sasa linatumika kwa PayNym, lakini matoleo ya 2, 3, na 4 yanafanya kazi kwa njia sawa.
+Katika makala haya, utagundua kanuni ya BIP47 na PayNym, taratibu za protocol hizi, na matumizi ya vitendo yanayotokana nayo. Nitatumia Address pekee toleo la kwanza la BIP47, ambalo kwa sasa linatumika kwa PayNym, lakini matoleo ya 2, 3, na 4 yanafanya kazi kwa njia sawa.
 
 
 **Kumbuka** kuwa tofauti kuu pekee inapatikana katika shughuli ya arifa:
@@ -89,16 +87,16 @@ Taratibu zilizojadiliwa katika nakala hii, pamoja na njia za kriptografia zilizo
 ## Tatizo la kutumia tena Address.
 
 
-Address inayopokea hutumiwa kupokea bitcoins. Inatolewa kutoka kwa ufunguo wa umma kwa kuharakisha na kutumia umbizo maalum. Kwa hivyo, inaruhusu kuundwa kwa hali mpya ya matumizi kwenye sarafu ili kubadilisha mmiliki wake.
+Address inayopokea hutumiwa kupokea bitcoin. Inatolewa kutoka kwa ufunguo wa umma kwa kuharakisha na kutumia umbizo maalum. Kwa hivyo, inaruhusu kuundwa kwa hali mpya ya matumizi kwenye sarafu ili kubadilisha mmiliki wake.
 
 
 Ili kupata maelezo zaidi kuhusu kutengeneza Address inayopokea, ninapendekeza usome sehemu ya mwisho ya makala haya: **The Bitcoin Wallet - dondoo kutoka** [ebook Bitcoin Démocratisé 2](https://www.pandul.fr/post/le-portefeuille-Bitcoin-extrait-ebook-Bitcoin-d%C3%A9mocratis%C3%A9-2#viewer-epio7).
 
 
-Zaidi ya hayo, pengine tayari umesikia kutoka kwa bitcoiner mwenye ujuzi kwamba anwani za kupokea ni za matumizi ya mara moja, na kwamba unapaswa generate mpya kwa kila malipo mapya yanayoingia kwa Wallet yako. Sawa, lakini kwa nini?
+Zaidi ya hayo, pengine tayari umesikia kutoka kwa bitcoiner mwenye ujuzi kwamba address za kupokea ni za single-use na kwamba unapaswa generate mpya kwa kila malipo mapya yanayoingia kwa Wallet yako. Sawa, lakini kwa nini?
 
 
-Kimsingi, kutumia tena Address hakuhatarishi pesa zako moja kwa moja. Utumiaji wa kriptografia kwenye mikunjo ya duaradufu hukuruhusu kudhibitisha kwa mtandao kuwa una ufunguo wa kibinafsi bila kufichua ufunguo huo. Kwa hivyo, unaweza kufunga UTXO nyingi tofauti (Matokeo ya Shughuli Zisizotumika) kwenye Address sawa na kuzitumia kwa nyakati tofauti. Ikiwa hutafichua ufunguo wa faragha unaohusishwa na Address hiyo, hakuna mtu anayeweza kufikia pesa zako. Suala la kutumia tena Address linahusiana zaidi na faragha.
+Kimsingi, kutumia tena Address hakuhatarishi pesa zako moja kwa moja. Utumiaji wa kriptografia kwenye mikunjo ya duaradufu hukuruhusu kudhibitisha kwa mtandao kuwa una ufunguo wa kibinafsi bila kufichua ufunguo huo. Kwa hivyo, unaweza kufunga UTXO nyingi tofauti kwenye Address sawa na kuzitumia kwa nyakati tofauti. Ikiwa hutafichua ufunguo wa faragha unaohusishwa na Address hiyo, hakuna mtu anayeweza kufikia pesa zako. Suala la kutumia tena Address linahusiana zaidi na faragha.
 
 
 Kama ilivyoelezwa katika utangulizi, uwazi na usambazaji wa mtandao wa Bitcoin unamaanisha kwamba mtumiaji yeyote anayeweza kufikia nodi anaweza kuchunguza shughuli za mfumo wa malipo. Matokeo yake, wanaweza kuona mizani tofauti ya anwani. Satoshi Nakamoto kisha ilitaja uwezekano wa kuzalisha jozi mpya muhimu, na hivyo anwani mpya, kwa kila malipo mapya yanayoingia kwa Wallet. Lengo litakuwa kuwa na ngome ya ziada ikiwa kuna uhusiano kati ya utambulisho wa mtumiaji na mojawapo ya jozi zao muhimu.
