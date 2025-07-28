@@ -35,7 +35,7 @@ Kanuni ya CoinJoin inategemea mbinu ya ushirikiano: watumiaji kadhaa ambao wange
 Mfano wa muamala wa CoinJoin (sio kutoka kwangu): [323df21f0b0756f98336437aa3d2fb87e02b59f1946b714a7b09df04d429dec2](https://GW-1 5.space/en/tx/323df21f0b0756f98336437aa3d2fb87e02b59f1946b714a7b09df04d429dec2)
 
 
-Ili kutekeleza CoinJoin huku ukihakikisha kwamba kila mtumiaji anaendelea kudhibiti pesa zake kila wakati, mchakato huanza na muamala inayofanywa na mratibu, ambaye kisha anaisambaza kwa washiriki. Kila mtumiaji basi hutia saini muamala baada ya kuthibitisha kuwa inamfaa. Saini zote zilizokusanywa hatimaye zimeunganishwa kwenye muamala. Jaribio la kuelekeza fedha likifanywa na mtumiaji au mratibu, kupitia urekebishaji wa matokeo ya muamala wa CoinJoin, sahihi zitathibitika kuwa si sahihi, na hivyo kusababisha kukataliwa kwa muamala hiyo na nodei.
+Ili kutekeleza CoinJoin huku ukihakikisha kwamba kila mtumiaji anaendelea kudhibiti pesa zake kila wakati, mchakato huanza na muamala inayofanywa na mratibu, ambaye kisha anaisambaza kwa washiriki. Kila mtumiaji basi hutia saini muamala baada ya kuthibitisha kuwa inamfaa. Saini zote zilizokusanywa hatimaye zimeunganishwa kwenye muamala. Jaribio la kuelekeza fedha likifanywa na mtumiaji au mratibu, kupitia urekebishaji wa matokeo ya muamala wa CoinJoin, sahihi zitathibitika kuwa si sahihi, na hivyo kusababisha kukataliwa kwa muamala hiyo na node.
 
 
 Kuna utekelezaji kadhaa wa CoinJoin, kama vile Whirlpool, JoinMarket, au Wabisabi, kila moja ikilenga kudhibiti uratibu miongoni mwa washiriki na kuongeza ufanisi wa miamala ya CoinJoin.
@@ -51,7 +51,7 @@ Mojawapo ya matatizo ya awali ya mfumo wowote wa malipo kati ya wenzao ni matumi
 Satoshi Nakamoto alitoa suluhu kwa tatizo hili kupitia protocol ya Bitcoin, mfumo wa malipo wa kielektroniki kutoka kwa wenzao ambao hufanya kazi bila kutegemea mamlaka kuu yoyote. Katika karatasi yake nyeupe, anasisitiza kuwa njia pekee ya kuthibitisha kutokuwepo kwa matumizi mara mbili ni kuhakikisha kuonekana kwa miamala yote ndani ya mfumo wa malipo.
 
 
-Ili kuhakikisha kuwa kila mshiriki anafahamu miamala, lazima ifichuliwe hadharani. Kwa hiyo, uendeshaji wa Bitcoin unategemea miundombinu ya uwazi na iliyosambazwa, kuruhusu mwendeshaji wa nodei yoyote kuthibitisha ukamilifu wa minyororo ya saini za elektroniki na historia ya kila sarafu, kutokana na kuundwa kwake na Miner.
+Ili kuhakikisha kuwa kila mshiriki anafahamu miamala, lazima ifichuliwe hadharani. Kwa hiyo, uendeshaji wa Bitcoin unategemea miundombinu ya uwazi na iliyosambazwa, kuruhusu mwendeshaji wa node yoyote kuthibitisha ukamilifu wa minyororo ya saini za elektroniki na historia ya kila sarafu, kutokana na kuundwa kwake na Miner.
 
 
 Hali ya uwazi na kusambazwa kwa Blockchain ya Bitcoin inamaanisha kuwa mtumiaji yeyote wa mtandao anaweza kufuata na kuchanganua miamala ya washiriki wengine wote. Matokeo yake, kutokujulikana katika ngazi ya muamala haiwezekani. Walakini, kutokujulikana kunahifadhiwa katika kiwango cha kitambulisho cha mtu binafsi. Tofauti na mfumo wa kitamaduni wa benki ambapo kila akaunti imeunganishwa kwa utambulisho wa kibinafsi, kwenye Bitcoin, fedha huhusishwa na jozi za funguo za kriptografia, hivyo basi kuwapa watumiaji aina ya jina bandia nyuma ya vitambulishi vya siri.
@@ -237,7 +237,7 @@ Ziada ambayo haikuweza kuunganishwa kwenye pool, hapa ni sawa na `40,000 Sats`, 
 
 UTXO hii ni hatari kwa faragha ya mtumiaji kwa sababu sio tu kwamba bado imeambatanishwa na siku zake za nyuma, na kwa hivyo ikiwezekana kwa utambulisho wa mmiliki wake, lakini zaidi ya hayo, inajulikana kama ya mtumiaji ambaye amefanya CoinJoin.
 
-Ikiwa UTXO hii itaunganishwa na matokeo mchanganyiko, itapoteza usiri wote uliopatikana wakati wa mizunguko ya CoinJoin, hasa kwa sababu ya Common-Input-Ownership-Heuristic (CIOH). Ikiunganishwa na mabadiliko mengine ya kawaida, mtumiaji anaweza kupoteza usiri kwa kuwa hii itaunganisha pembejeo tofauti za mizunguko ya CoinJoin. Kwa hivyo, inapaswa kumuamalakiwa kwa uangalifu. Njia ya kudhibiti UTXO hii yenye sumu itaelezwa kwa kina katika sehemu ya mwisho ya makala haya, na mafunzo yajayo yatamuamalakia mbinu hizi kwa undani zaidi kwenye PlanB Network.
+Ikiwa UTXO hii itaunganishwa na matokeo mchanganyiko, itapoteza usiri wote uliopatikana wakati wa mizunguko ya CoinJoin, hasa kwa sababu ya Common-Input-Ownership-Heuristic (CIOH). Ikiunganishwa na mabadiliko mengine ya kawaida, mtumiaji anaweza kupoteza usiri kwa kuwa hii itaunganisha pembejeo tofauti za mizunguko ya CoinJoin. Kwa hivyo, inapaswa kushughulikiwa kwa uangalifu. Njia ya kudhibiti UTXO hii yenye sumu itaelezwa kwa kina katika sehemu ya mwisho ya makala haya, na mafunzo yajayo yatamuamalakia mbinu hizi kwa undani zaidi kwenye PlanB Network.
 
 
 **Hatua ya 3: Mchanganyiko wa Awali**
@@ -269,10 +269,10 @@ Baada ya kuangazia nadharia, hebu tuzame kwenye mazoezi kwa mafunzo ya kutumia W
 Kuna chaguzi nyingi za kutumia Whirlpool. Ninachotaka kutambulisha hapa ni chaguo la Samourai Wallet, programu huria ya usimamizi wa Bitcoin Wallet kwenye Android, lakini wakati huu **na Dojo** yako mwenyewe.
 
 
-Kufanya coinjoin kupitia Samourai Wallet kwa kutumia Dojo yako binafsi, kwa maoni yangu, ni mkakati mwafaka zaidi wa kufanya miunganisho ya sati kwenye Bitcoin hadi sasa. Mbinu hii inahitaji uwekezaji wa awali katika suala la usanidi, lakini ikishapatikana, inatoa uwezekano wa kuchanganya na kuchanganya bitcoins zako mfululizo, saa 24 kwa siku, siku 7 kwa wiki, bila hitaji la kuweka programu yako ya Samourai amilifu kila wakati. Hakika, shukrani kwa Whirlpool CLI inayofanya kazi kwenye nodei ya Bitcoin, uko tayari kila wakati kushiriki katika coinjoins. Programu ya Samourai kisha inakupa fursa ya kutumia pesa zako mchanganyiko wakati wowote, popote ulipo, moja kwa moja kutoka kwa simu yako mahiri. Zaidi ya hayo, mbinu hii ina manufaa ya kutowahi kukuunganisha kwa seva zinazodhibitiwa na timu za Samourai, hivyo basi kuhifadhi `xpub` yako dhidi ya mwonekano wowote wa nje.
+Kufanya coinjoin kupitia Samourai Wallet kwa kutumia Dojo yako binafsi, kwa maoni yangu, ni mkakati mwafaka zaidi wa kufanya miunganisho ya sati kwenye Bitcoin hadi sasa. Mbinu hii inahitaji uwekezaji wa awali katika suala la usanidi, lakini ikishapatikana, inatoa uwezekano wa kuchanganya na kuchanganya bitcoins zako mfululizo, saa 24 kwa siku, siku 7 kwa wiki, bila hitaji la kuweka programu yako ya Samourai amilifu kila wakati. Hakika, shukrani kwa Whirlpool CLI inayofanya kazi kwenye node ya Bitcoin, uko tayari kila wakati kushiriki katika coinjoins. Programu ya Samourai kisha inakupa fursa ya kutumia pesa zako mchanganyiko wakati wowote, popote ulipo, moja kwa moja kutoka kwa simu yako mahiri. Zaidi ya hayo, mbinu hii ina manufaa ya kutowahi kukuunganisha kwa seva zinazodhibitiwa na timu za Samourai, hivyo basi kuhifadhi `xpub` yako dhidi ya mwonekano wowote wa nje.
 
 
-Kwa hivyo mbinu hii ni bora kwa wale wanaotafuta faragha ya juu zaidi na mizunguko ya ubora wa juu ya CoinJoin. Hata hivyo, inahitaji kuwa na nodei ya Bitcoin unayoweza kutumia na, kama tutakavyoona baadaye, inahitaji usanidi fulani. Kwa hivyo inafaa zaidi kwa watumiaji wa kati hadi wa hali ya juu. Kwa wanaoanza, ninapendekeza kufahamiana na CoinJoin kupitia mafunzo haya mengine mawili, ambayo yanaonyesha jinsi ya kuifanya kutoka Sparrow Wallet au Samourai Wallet (bila Dojo):
+Kwa hivyo mbinu hii ni bora kwa wale wanaotafuta faragha ya juu zaidi na mizunguko ya ubora wa juu ya CoinJoin. Hata hivyo, inahitaji kuwa na node ya Bitcoin unayoweza kutumia na, kama tutakavyoona baadaye, inahitaji usanidi fulani. Kwa hivyo inafaa zaidi kwa watumiaji wa kati hadi wa hali ya juu. Kwa wanaoanza, ninapendekeza kufahamiana na CoinJoin kupitia mafunzo haya mengine mawili, ambayo yanaonyesha jinsi ya kuifanya kutoka Sparrow Wallet au Samourai Wallet (bila Dojo):
 
 
 - [Mafunzo ya Sparrow Wallet CoinJoin](https://planb.network/tutorials/privacy/on-chain/coinjoin-sparrow-wallet-84def86d-faf5-4589-807a-83be60720c8b)**;
@@ -281,10 +281,10 @@ Kwa hivyo mbinu hii ni bora kwa wale wanaotafuta faragha ya juu zaidi na mizungu
 
 ### Kuelewa Mpangilio
 
-Ili kuanza, utahitaji Dojo! Dojo ni utekelezaji wa nodei za Bitcoin kulingana na Bitcoin Core, iliyotengenezwa na timu za Samourai.
+Ili kuanza, utahitaji Dojo! Dojo ni utekelezaji wa node za Bitcoin kulingana na Bitcoin Core, iliyotengenezwa na timu za Samourai.
 
 
-Ili kuendesha Dojo yako mwenyewe, una chaguo la kusakinisha kifundo cha Dojo kwa uhuru, au kuchukua fursa ya Dojo juu ya suluhisho lingine la "nodei-in-box" Bitcoin. Hivi sasa, chaguzi zinazopatikana ni:
+Ili kuendesha Dojo yako mwenyewe, una chaguo la kusakinisha kifundo cha Dojo kwa uhuru, au kuchukua fursa ya Dojo juu ya suluhisho lingine la "node-in-box" Bitcoin. Hivi sasa, chaguzi zinazopatikana ni:
 
 
 - [RoninDojo](https://ronindojo.io/), ambayo ni Dojo iliyoboreshwa kwa zana za ziada, ikiwa ni pamoja na msaidizi wa usakinishaji na msaidizi wa utawala. Ninaeleza kwa kina utaratibu wa kusanidi na kutumia RoninDojo katika mafunzo haya mengine: [RONINDOJO V2](https://planb.network/tutorials/nodee/bitcoin/ronin-dojo-v2-0ddb3854-6f38-4466-b4e2-f66c028e0dd8);
@@ -299,11 +299,11 @@ Katika usanidi wetu, tutaingiliana na miingiliano mitatu tofauti:
 
 
 - Samourai Wallet**, ambayo itakuwa mwenyeji wetu Bitcoin Wallet inayotolewa kwa coinjoins. Inapatikana bila malipo kwenye Android, programu tumizi hii ya FOSS hukuruhusu kudhibiti uchanganyaji wako wa Wallet, haswa kwa kutumia mchanganyiko wako wa posta kutoka kwa smartphone yako;
-- Whirlpool CLI** (_Command Line Interface_), ambayo itafanya kazi kwenye nodei inayopangisha Dojo. Programu hii itaweza kufikia funguo za Samourai Wallet yako. Ina jukumu la kuwasiliana na mratibu na kusimamia sainjoins mfululizo. Inatumika kama nakala ya Samourai Wallet yako kwenye nodei yako, tayari kushiriki katika sati wakati wowote;
-- Whirlpool GUI** (_Graphical User Interface_), mtumiaji wa picha Interface tutamtumia kufuatilia muamala za Whirlpool CLI na kuanzisha kuchanganya kwa mbali. Whirlpool GUI hutoa uwakilishi unaoonekana wa muamala zinazofanywa na Whirlpool CLI. Programu hii lazima isakinishwe kwenye kompyuta tofauti na Dojo. Kwa watumiaji wa Umbrel, MyNode, Nodl, na Citadel, Whirlpool GUI ni lazima. Hata hivyo, ukiwa na RoninDojo, Whirlpool GUI Interface tayari imeunganishwa kwenye mtandao wa nodei yako Interface kupitia programu ya `Whirlpool`. Kwa hiyo, hutahitaji kuiweka kwenye PC tofauti.
+- Whirlpool CLI** (_Command Line Interface_), ambayo itafanya kazi kwenye node inayopangisha Dojo. Programu hii itaweza kufikia funguo za Samourai Wallet yako. Ina jukumu la kuwasiliana na mratibu na kusimamia sainjoins mfululizo. Inatumika kama nakala ya Samourai Wallet yako kwenye node yako, tayari kushiriki katika sati wakati wowote;
+- Whirlpool GUI** (_Graphical User Interface_), mtumiaji wa picha Interface tutamtumia kufuatilia muamala za Whirlpool CLI na kuanzisha kuchanganya kwa mbali. Whirlpool GUI hutoa uwakilishi unaoonekana wa muamala zinazofanywa na Whirlpool CLI. Programu hii lazima isakinishwe kwenye kompyuta tofauti na Dojo. Kwa watumiaji wa Umbrel, MyNode, Nodl, na Citadel, Whirlpool GUI ni lazima. Hata hivyo, ukiwa na RoninDojo, Whirlpool GUI Interface tayari imeunganishwa kwenye mtandao wa node yako Interface kupitia programu ya `Whirlpool`. Kwa hiyo, hutahitaji kuiweka kwenye PC tofauti.
 
 
-Kwa maoni yangu, kutumia RoninDojo inawakilisha suluhisho bora la kufanya sanjari na Dojo. Kwa kuwa programu hii ya nodei-in-box inashirikiana moja kwa moja na timu za Samourai, RoninDojo imeboreshwa zaidi kwa kufanya hivi. Zaidi ya hayo, ujumuishaji wa Whirlpool GUI kwenye wavuti Interface hurahisisha sana mchakato wa usanidi. Katika somo hili, bado nitaelezea jinsi ya kuifanya na masuluhisho mengine ambayo yanaunganisha Dojo (Umbrel, Nodl, MyNode, na Citadel).
+Kwa maoni yangu, kutumia RoninDojo inawakilisha suluhisho bora la kufanya sanjari na Dojo. Kwa kuwa programu hii ya node-in-box inashirikiana moja kwa moja na timu za Samourai, RoninDojo imeboreshwa zaidi kwa kufanya hivi. Zaidi ya hayo, ujumuishaji wa Whirlpool GUI kwenye wavuti Interface hurahisisha sana mchakato wa usanidi. Katika somo hili, bado nitaelezea jinsi ya kuifanya na masuluhisho mengine ambayo yanaunganisha Dojo (Umbrel, Nodl, MyNode, na Citadel).
 
 
 ### Kuandaa Dojo Yako
@@ -343,7 +343,7 @@ Baada ya kufungua programu, utakuwa na idhini ya kufikia msimbo wa QR wa kuungan
 ![coinjoin](assets/notext/15.webp)
 
 
-Ikiwa unatumia programu nyingine ya nodei-in-box kama vile MyNode, Citadel, au Nodl, mchakato huo ni sawa na ule wa Umbrel. Unahitaji kusakinisha programu ya Samourai au Dojo ili kupata taarifa muhimu ili kuunganisha kwenye Dojo yako.
+Ikiwa unatumia programu nyingine ya node-in-box kama vile MyNode, Citadel, au Nodl, mchakato huo ni sawa na ule wa Umbrel. Unahitaji kusakinisha programu ya Samourai au Dojo ili kupata taarifa muhimu ili kuunganisha kwenye Dojo yako.
 
 
 ![coinjoin](assets/notext/16.webp)
@@ -433,7 +433,7 @@ Kisha utaelekezwa kwenye Samourai Wallet yako ambayo, wakati huu, itaunganishwa 
 
 ### Inasakinisha Whirlpool GUI
 
-Sasa ni wakati wa kusakinisha Whirlpool GUI, mtumiaji wa picha Interface ambaye atakuruhusu kudhibiti mizunguko yako ya CoinJoin kutoka kwa Kompyuta yako ya kawaida. Kwa watumiaji wa RoninDojo, hatua hii si lazima kwa kuwa usimamizi wa coinjoin unaweza kufanywa moja kwa moja kupitia mtandao wa Interface katika `Apps > Whirlpool`. Walakini, ikiwa unatumia suluhisho lingine la Bitcoin "nodei-in-box", ni muhimu kuendelea na usakinishaji huu.
+Sasa ni wakati wa kusakinisha Whirlpool GUI, mtumiaji wa picha Interface ambaye atakuruhusu kudhibiti mizunguko yako ya CoinJoin kutoka kwa Kompyuta yako ya kawaida. Kwa watumiaji wa RoninDojo, hatua hii si lazima kwa kuwa usimamizi wa coinjoin unaweza kufanywa moja kwa moja kupitia mtandao wa Interface katika `Apps > Whirlpool`. Walakini, ikiwa unatumia suluhisho lingine la Bitcoin "node-in-box", ni muhimu kuendelea na usakinishaji huu.
 
 ![coinjoin](assets/notext/28.webp)
 
@@ -465,7 +465,7 @@ Kutoka Whirlpool GUI, bofya kwenye `Advanced: Remote CLI` ili kuunganisha Whirlp
 ![coinjoin](assets/notext/33.webp)
 
 
-Ili kupata Tor Address yako kwenye Umbrel na masuluhisho mengine ya "nodei-in-box", anzisha tu Seva ya Samourai au programu ya Dojo (jina linaweza kutofautiana kulingana na programu inayotumika). Tor Address itaonekana moja kwa moja kwenye ukurasa wa programu.
+Ili kupata Tor Address yako kwenye Umbrel na masuluhisho mengine ya "node-in-box", anzisha tu Seva ya Samourai au programu ya Dojo (jina linaweza kutofautiana kulingana na programu inayotumika). Tor Address itaonekana moja kwa moja kwenye ukurasa wa programu.
 
 ![coinjoin](assets/notext/34.webp)
 
@@ -570,7 +570,7 @@ Mara tu `TX0` inapoundwa, utaweza kuona UTXO zako zilizosawazishwa katika akaunt
 
 ![coinjoin](assets/notext/50.webp)
 
-Baada ya kuanza coinjoins, unaweza kuondoka Whirlpool GUI pamoja na Samourai Wallet. Ni nodei yako pekee inayohitaji kusalia kuunganishwa ili kuweza kushiriki katika miunganisho ya mara kwa mara. Hata hivyo, inashauriwa kuangalia mara kwa mara maendeleo ya mizunguko yako ya CoinJoin. Ukigundua kuwa UTXO zako hazichaguliwi tena kwa CoinJoin kwa muda fulani, hii inaweza kuonyesha mdudu. Katika hali hii, nenda kwa Whirlpool CLI na uchague `Anza` ili kuanzisha upya upatikanaji wako wa viungio vya sarafu.
+Baada ya kuanza coinjoins, unaweza kuondoka Whirlpool GUI pamoja na Samourai Wallet. Ni node yako pekee inayohitaji kusalia kuunganishwa ili kuweza kushiriki katika miunganisho ya mara kwa mara. Hata hivyo, inashauriwa kuangalia mara kwa mara maendeleo ya mizunguko yako ya CoinJoin. Ukigundua kuwa UTXO zako hazichaguliwi tena kwa CoinJoin kwa muda fulani, hii inaweza kuonyesha mdudu. Katika hali hii, nenda kwa Whirlpool CLI na uchague `Anza` ili kuanzisha upya upatikanaji wako wa viungio vya sarafu.
 
 
 ![coinjoin](assets/notext/51.webp)
