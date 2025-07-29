@@ -60,7 +60,7 @@ Enjoy your discovery!
 
 # Final Section
 
-<partId>ee9a7e68-6ba5-11f0-b313-43b0660e13eb</partId>
+<partId>5d5d98dc-6c7b-11f0-83b5-eb1625573c9d</partId>
 
 ## Reviews & Ratings
 
