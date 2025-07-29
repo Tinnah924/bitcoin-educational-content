@@ -1,7 +1,7 @@
 ---
-name: Bitkey
-description: Hardware Wallet isiyo na mbegu
----
+name: Bitkey  
+description: Hardware wallet isiyo na seed ya kuhifadhi
+
 ![cover](assets/cover.webp)
 
 
