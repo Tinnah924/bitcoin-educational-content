@@ -354,11 +354,11 @@ Iwapo utahitaji kuhamisha node yako iliyopo (inayofanya kazi) ya Blixt kwa kifaa
 - Weka maneno 24 seed kisha ubofye "Rejesha"
 - Utaona kwamba Blixt itaanza kusawazisha na Neutrino. Unaweza kutazama kumbukumbu za kusawazisha pia.
 - KUMBUKA! Jaribu kuweka Blixt wazi wakati wote kwenye awamu hii! Usiruhusu iendelee kulala au funga skrini ya programu. Hiyo inaweza kukatiza usawazishaji wa awali na itabidi uifanye tena. Subiri kwa subira, haichukui zaidi ya dakika chache.
-- Mara tu ulandanishi wa vizuizi vya awali utakapokamilika, itachanganua kwa haraka anwani zako za awali za Wallet na kisha vituo vyako vitarejea mtandaoni, vikiwa hai na vyema.
-- Kwa bahati mbaya historia ya malipo ya awali na anwani haziwezekani (bado) kurejeshwa. Lakini hiyo sio muhimu sana hata hivyo.
+- Mara tu ulandanishi wa block za awali utakapokamilika, itachanganua kwa haraka anwani zako za awali za wallet na kisha vituo vyako vitarejea mtandaoni, vikiwa hai na vyema.
+- Kwa bahati mbaya historia ya malipo ya awali na address haziwezekani (bado) kurejeshwa. Lakini hiyo sio muhimu sana hata hivyo.
 
 
-Na KIMEMALIZA! Sasa una nodi ya Blixt LN iliyorejeshwa kikamilifu. Inaweza kufanya kazi pia na chelezo zingine za LND (Umbrel, Raspiblitz n.k) ikiwa ulihifadhi ipasavyo faili ya channel.db. Kwa hivyo Blixt inaweza kuokoa nodi yoyote iliyokufa ya LND.
+Na KIMEMALIZA! Sasa una node ya Blixt LN iliyorejeshwa kikamilifu. Inaweza kufanya kazi pia na chelezo zingine za LND (Umbrel, Raspiblitz n.k) ikiwa ulihifadhi ipasavyo faili ya channel.db. Kwa hivyo Blixt inaweza kuokoa node yoyote iliyokufa ya LND.
 
 
 ---
@@ -399,7 +399,7 @@ Huu ni mfano mwingine unaotuma kwa programu nyingine ya Wallet inayotumia NameDe
 ![blixt](assets/en/21.webp)
 
 
-### B - Sanduku la Umeme
+### B - Sanduku ya Lightning
 
 
 Kuanzia v0.6.9-420 [iliyotangazwa hivi majuzi](https://github.com/hsjoberg/blixt-Wallet/releases/tag/v0.6.9-420), Blixt alianzisha kipengele kipya chenye nguvu cha Lightning Address katika Blixt.
@@ -408,11 +408,10 @@ Kuanzia v0.6.9-420 [iliyotangazwa hivi majuzi](https://github.com/hsjoberg/blix
 Kipengele hiki kipya ni chaguo la kuingia, hakijawashwa kwa chaguomsingi!
 
 
-Kwa sasa Kisanduku chaguomsingi cha LN kinaendeshwa na seva ya Blixt na kutoa @blixtwallet.com LN Address. Lakini MTU YEYOTE aliye na nodi ya umma ya LND anaweza kuendesha seva ya Sanduku la Umeme na kutoa LN Address kwa kikoa chake, kujilinda.
+Kwa sasa Kisanduku chaguomsingi cha LN kinaendeshwa na seva ya Blixt na kutoa @blixtwallet.com LN Address. Lakini MTU YEYOTE aliye na node ya umma ya LND anaweza kuendesha seva ya Sanduku ya Lightning na kutoa LN Address kwa kikoa chake, kujilinda.
 
 
-Hivi sasa, seva ya Blixt inasambaza tu malipo yanayotumwa kwa anwani za LN @blixtwallet.com kwa watumiaji wa Blixt ambao huweka LN Address yao. Watumiaji lazima waweke nodi yao ya Blixt Wallet katika "hali inayoendelea" ili kupokea malipo haya kwenye anwani zao za @blixtwallet.com LN.
-
+Hivi sasa, seva ya Blixt inasambaza tu malipo yanayotumwa kwa anwani za LN @blixtwallet.com kwa watumiaji wa Blixt ambao huweka LN address yao. Watumiaji lazima waweke node yao ya Blixt Wallet katika "hali inayoendelea" ili kupokea malipo haya kwenye anwani zao za @blixtwallet.com LN.
 
 Tazama katika maelezo ya toleo onyesho la video kuhusu jinsi ya kusanidi LN Address yako katika Blixt.
 
@@ -429,13 +428,13 @@ Kipengele kingine muhimu ni usaidizi kamili kutoka kwa LUD-18 (ambayo pia [Stac
 Kama unavyoona kwenye picha ya skrini iliyo hapo juu, kutuma kutoka kwa akaunti ya Stacker News, ilionyesha vyema nembo + LN Address + ujumbe. Njia hiyo hiyo hufanya kazi kwa kutuma kutoka kwa Blixt, unaweza kuambatisha Blixt LN Address yako au kuongeza tu jina la pak (lililowekwa hapo awali katika mipangilio ya Blixt) au hata zote mbili.
 
 
-Chaguo hili kutoka kwa LUD-18 linaweza kuwa muhimu pia kwa huduma za usajili, ambapo mtumiaji anaweza kutuma lakabu maalum (SI jina la nodi yako au jina lako halisi!) na kulingana na hilo unaweza kusajiliwa au kupokea tena ujumbe maalum au chochote kingine. Kuambatisha jina lak ([LUD-18](https://github.com/lnurl/luds/blob/luds/18.md))+ maoni ([LUD-12](https://github.com/lnurl/luds/blob/luds/12.md)) kwenye malipo ya LN kunaweza kuwa na kesi nyingi za matumizi!
+Chaguo hili kutoka kwa LUD-18 linaweza kuwa muhimu pia kwa huduma za usajili, ambapo mtumiaji anaweza kutuma lakabu maalum (SI jina la node yako au jina lako halisi!) na kulingana na hilo unaweza kusajiliwa au kupokea tena ujumbe maalum au chochote kingine. Kuambatisha jina lak ([LUD-18](https://github.com/lnurl/luds/blob/luds/18.md))+ maoni ([LUD-12](https://github.com/lnurl/luds/blob/luds/12.md)) kwenye malipo ya LN kunaweza kuwa na kesi nyingi za matumizi!
 
 
 Huu hapa ni msimbo wa [Lightning Box](https://github.com/hsjoberg/lightning-box) ikiwa unaiendesha kwa ajili yako mwenyewe, kwa ajili ya familia yako na marafiki, kwenye nodi yako mwenyewe.
 
 
-Hapa pia unaweza kuendesha [seva ya Dunder ya LSP](https://github.com/hsjoberg/dunder-lsp) ya nodi za simu za Blixt na kutoa ukwasi kwa watumiaji wa Blixt ikiwa una nodi nzuri ya umma ya LN (inafanya kazi na LND pekee).
+Hapa pia unaweza kuendesha [seva ya Dunder ya LSP](https://github.com/hsjoberg/dunder-lsp) ya node za simu za Blixt na kutoa ukwasi kwa watumiaji wa Blixt ikiwa una nodi nzuri ya umma ya LN (inafanya kazi na LND pekee).
 
 
 ### C - Cheleza Njia za LN na maneno ya seed
@@ -466,7 +465,7 @@ Ningependekeza kwa sehemu hii yafuatayo:
 
 
 - tumia kidhibiti cha nenosiri ili kuhifadhi salama seed yako na faili chelezo. KeePass au Bitwarden ni nzuri sana kwa hilo na inaweza kutumika kwenye majukwaa mengi na kujipangisha mwenyewe au nje ya mtandao.
-- FANYA HUDUMA KILA WAKATI unapofungua au kufunga kituo. Faili hiyo inasasishwa na maelezo ya vituo. Hakuna haja ya kuifanya baada ya kila shughuli uliyofanya kwenye LN. Hifadhi rudufu ya kituo haihifadhi maelezo hayo, inahifadhi hali ya kituo pekee.
+- FANYA HUDUMA KILA WAKATI unapofungua au kufunga kituo. Faili hiyo inasasishwa na maelezo ya vituo. Hakuna haja ya kuifanya baada ya kila muamala uliyofanya kwenye LN. Hifadhi rudufu ya kituo haihifadhi maelezo hayo, inahifadhi hali ya kituo pekee.
 
 
 ![blixt](assets/en/24.webp)
@@ -489,10 +488,10 @@ Matatizo haya yote huanza kwa sababu KIFAA CHAKO HAKITANDIKIWI VIZURI. Tafadhali
 
 - Haya hapa ni maelezo ya kiufundi kidogo kutoka [Bitcoin Magazine](https://bitcoinmagazine.com/technical/why-Bitcoin-wallets-need-block-filters)
 - Hizi hapa ni nyenzo zaidi za kiufundi kutoka [Bitcoin Optech](https://bitcoinops.org/en/topics/compact-block-filters/)
-- Hivi ndivyo unavyoweza kuwezesha Neutrino kwenye nodi yako ya nyumbani na kutoa vichujio vya vizuizi vya nodi ya simu yako, kutoka [Docs Lightning Engineering](https://docs.lightning.engineering/lightning-network-tools/LND/enable-neutrino-mode-in-Bitcoin-core)
+- Hivi ndivyo unavyoweza kuwezesha Neutrino kwenye node yako ya nyumbani na kutoa vichujio vya block vya node ya simu yako, kutoka. [Docs Lightning Engineering](https://docs.lightning.engineering/lightning-network-tools/LND/enable-neutrino-mode-in-Bitcoin-core)
 
 
-KUMBUSHO: Kutumia Neutrino juu ya clearnet ni salama kabisa, IP au xpub yako haijavujishwa. Unasoma tu vizuizi kutoka kwa nodi ya mbali na neutrino. Ni hayo tu. Mengine yote yanafanywa kwenye kifaa chako cha karibu.
+KUMBUSHO: Kutumia Neutrino juu ya clearnet ni salama kabisa, IP au xpub yako haivujishwi. Unasoma tu block kutoka kwa node ya mbali kwa kutumia Neutrino. Ni hayo tu. Mengine yote yanafanywa kwenye kifaa chako cha karibu.
 
 
 Kwa hivyo HAKUNA HAJA ya kuitumia na Tor. Tor itaongeza utulivu mkubwa kwenye mchakato wako wa kusawazisha na itafanya Blixt yako kutokuwa thabiti sana. Ikiwa unataka kutumia Tor, hakikisha unafanya nini na uwe na muunganisho mzuri na uvumilivu. Kesi sawa ya kutumia VPN. Kuwa mwangalifu ni muda gani wa kusubiri unapewa kutoka kwa VPN hiyo.
@@ -542,13 +541,13 @@ asia.blixtwallet.com
 ```
 
 
-Njia nyingine ni kuchagua moja kutoka kwa orodha hii ya nodi zinazotangaza "vichujio kompakt" (BIP157 / neutrino) - [Kichujio cha Neutrino Ukurasa wa Bitnodi](https://bitnodes.io/nodes/?q=NODE_COMPACT_FILTERS). Chagua moja ambayo iko karibu na eneo lako la kijiografia.
+Njia nyingine ni kuchagua moja kutoka kwa orodha hii ya node zinazotangaza "vichujio kompakt" (BIP157 / neutrino) - [Kichujio cha Neutrino Ukurasa wa Bitnodi](https://bitnodes.io/nodes/?q=NODE_COMPACT_FILTERS). Chagua moja ambayo iko karibu na eneo lako la kijiografia.
 
 
-Njia nyingine (njia bora) ni kuunganishwa na nodi ya jumuiya ya karibu, inayoendeshwa na rafiki au kikundi unachokijua, na inatoa muunganisho wa neutrino. [Haya hapa ni maagizo ya jinsi ya kufanya hivyo.](https://docs.lightning.engineering/lightning-network-tools/LND/enable-neutrino-mode-in-Bitcoin-core) Nodi zao hazitaathiriwa kwa njia yoyote, zinahitaji tu muunganisho thabiti na wa umma.
+Njia nyingine (njia bora) ni kuunganishwa na node ya jumuiya ya karibu, inayoendeshwa na rafiki au kikundi unachokijua, na inatoa muunganisho wa neutrino. [Haya hapa ni maagizo ya jinsi ya kufanya hivyo.](https://docs.lightning.engineering/lightning-network-tools/LND/enable-neutrino-mode-in-Bitcoin-core) Node zao hazitaathiriwa kwa njia yoyote, zinahitaji tu muunganisho thabiti na wa umma.
 
 
-Kuna haja ya seva nyingi za neutrino katika eneo la LATAM, kwa usawazishaji bora na wa haraka. Kwa hivyo tafadhali jipange, pamoja na jumuiya ya eneo lako la Bitcoin na uamue ni nani na wapi anaendesha Bitcoin Core + Neutrino kwa matumizi yako mwenyewe. Na IP ya umma tu inatosha. Ikiwa huna ufikiaji wa IP ya umma, unaweza kutumia IP ya VPS na kutengeneza handaki ya waya kwenye nodi yako ya nyumbani. Kwa njia hiyo unaelekeza trafiki yote kwa IP yako ya ndani ya VPS, bila kufichua habari yoyote ya kibinafsi kuhusu nodi yako ya nyumbani.
+Kuna haja ya seva nyingi za Neutrino katika eneo la LATAM, kwa usawazishaji bora na wa haraka. Kwa hivyo tafadhali jipange, pamoja na jumuiya ya eneo lako la Bitcoin, na uamue ni nani na wapi anaendesha Bitcoin Core + Neutrino kwa matumizi yako mwenyewe. Na IP ya umma tu inatosha. Ikiwa huna ufikiaji wa IP ya umma, unaweza kutumia IP ya VPS na kutengeneza handaki ya waya kwenye node yako ya nyumbani. Kwa njia hiyo unaelekeza trafiki yote kwa IP yako ya ndani ya VPS, bila kufichua habari yoyote ya kibinafsi kuhusu node yako ya nyumbani.
 
 
 ### KESI YA 2 - USIMALIZE KUSAwazisha
@@ -572,7 +571,7 @@ Marekebisho ya haraka: weka wakati na tarehe sahihi ya kifaa chako na uwashe te
 Wakati mwingine kwa kutumia kifaa cha zamani, na nafasi ya chini, inaweza kufikia kikomo cha kizingiti na kukwama. Hakika kwa zaidi unatumia nodi hii ya simu ya LND, faili za neutrino zinakuwa kubwa na pia faili ya channel.db.
 
 
-Marekebisho ya haraka: Nenda kwenye Chaguo za Blixt - Sehemu ya Utatuzi - Chagua "komesha LND na ufute faili za neutrino". Itaanzisha upya programu na kuanza usawazishaji mpya. Wakati mwingine urekebishaji huu wa haraka unaweza kurekebisha pia data iliyoharibika. Kumbuka kwamba itachukua muda, kati ya dakika 1 na 3 kusawazisha upya kikamilifu. SI KUFUTA fedha au chaneli zilizopo, lakini ndiyo, baada ya kusawazisha upya kunaweza kusababisha kuchanganuliwa upya kwa anwani zako za Bitcoin na hiyo inaweza kuchukua muda zaidi.
+Marekebisho ya haraka: Nenda kwenye Chaguo za Blixt - Sehemu ya Utatuzi - Chagua "komesha LND na ufute faili za Neutrino". Itaanzisha upya programu na kuanza usawazishaji mpya. Wakati mwingine urekebishaji huu wa haraka unaweza kurekebisha pia data iliyoharibika. Kumbuka kwamba itachukua muda, kati ya dakika 1 na 3 kusawazisha upya kikamilifu. HAUFUTI fedha au chaneli zilizopo, lakini ndiyo, baada ya kusawazisha upya kunaweza kusababisha kuchanganuliwa upya kwa anwani zako za Bitcoin na hiyo inaweza kuchukua muda zaidi.
 
 
 Hatua inayofuata ni kuangalia ni data ngapi bado inashughulikiwa. Unaweza kuona hili katika maelezo ya Programu ya Android - data. Ikiwa bado ni kubwa kuliko 400-500MB, unaweza kubandika faili za LND. Kwa hiyo nenda kwa Chaguzi za Blixt - sehemu ya Debug - Chagua "Compact DB LND". Anzisha tena programu ya Blixt ikiwa haifanyi kiotomatiki. Mchanganyiko unafanyika wakati wa kuanza na ni mara moja tu. Sasa utaona kuwa data ya Blixt haijashughulikiwa zaidi.
@@ -584,7 +583,7 @@ Hatua inayofuata ni kuangalia ni data ngapi bado inashughulikiwa. Unaweza kuona 
 Wakati mwingine watu hawafungui Blixt kwa muda mrefu, kwa hivyo ni ya zamani sana kusawazisha. Lakini wanatarajia kusawazishwa mara moja wanapoifungua.
 
 
-Tafadhali kuwa na subira, na uangalie gurudumu la juu linalozunguka. Hiari unaweza kwenda kwa Chaguzi - Tazama Maelezo ya Nodi na uone ikiwa imesawazishwa kwa minyororo na kusawazishwa kwa grafu iliyo alama "kweli". Bila hiyo "kweli" kutaja huwezi kutumia Blixt ipasavyo, huwezi kuona salio kwa usahihi, huwezi kuona chaneli za LN mtandaoni, huwezi kufanya malipo.
+Tafadhali kuwa na subira, na uangalie gurudumu la juu linalozunguka. Hiari unaweza kwenda kwa Chaguzi - Tazama Maelezo ya Node na uone ikiwa imesawazishwa kwa minyororo na kusawazishwa kwa grafu iliyo alama "kweli". Bila hiyo "kweli" kutaja huwezi kutumia Blixt ipasavyo, huwezi kuona salio kwa usahihi, huwezi kuona chaneli za LN mtandaoni, huwezi kufanya malipo.
 
 
 Marekebisho ya haraka: Kuna chaguo thabiti la "kudumisha hai" nodi yako ya Blixt. Nenda kwa Chaguzi - Majaribio - Chagua "Amilisha Hali ya Kudumu". Hiyo itaanzisha upya Blixt yako na itaweka huduma ya LND katika hali inayoendelea, aka itakuwa hai kila wakati na kuweka usawazishaji wako mtandaoni, hata ukibadilisha hadi programu nyingine au funga Blixt kwa urahisi (usilazimishe kufunga au kuua kazi). Unaweza kuiweka kama hiyo siku nzima ikiwa uko kwenye muunganisho thabiti na unahitaji kutumia Blixt mara kadhaa. Haitatumia betri nyingi sana.
@@ -622,8 +621,8 @@ Kama nilivyoandika katika [Ukurasa wa miongozo ya Blixt](https://blixtwallet.gi
 
 
 
-- wazi na nodi za LSP zinazojulikana na marafiki waliothibitishwa na jamii. [Angalia orodha hapa](https://github.com/hsjoberg/blixt-Wallet/issues/1033)
-- usifungue na nodi za Tor tu. Hizo hazina thamani na utapata masuala tu ya kutoweza kufanya malipo. Haijalishi ni mzuri kiasi gani rafiki yako "mkimbiaji wa nodi" na nodi ya Tor kwenye msitu, haitakupa njia bora zaidi za nodi ya kibinafsi ya rununu. Hufungui chaneli na mtu kwa sababu ni rafiki yako. Hii sio Facebook! Unafungua kituo cha: njia nzuri, ada ndogo, upatikanaji.
+- wazi na node za LSP zinazojulikana na marafiki waliothibitishwa na jamii. [Angalia orodha hapa](https://github.com/hsjoberg/blixt-Wallet/issues/1033)
+- usifungue na node za Tor tu. Hizo hazina thamani na utapata masuala tu ya kutoweza kufanya malipo. Haijalishi ni mzuri kiasi gani rafiki yako "mkimbiaji wa nodi" na node ya Tor kwenye msitu, haitakupa njia bora zaidi za nodi ya kibinafsi ya rununu. Hufungui chaneli na mtu kwa sababu ni rafiki yako. Hii sio Facebook! Unafungua kituo cha: njia nzuri, ada ndogo, upatikanaji.
 - hakuna haja ya kufungua tani ya shit ya njia ndogo, 2-3 au max 4, lakini kwa kiasi kizuri cha Sats. Usifungue njia ndogo, hazina maana kabisa. Chini ya 200k kwa simu ya mkononi haina matumizi mengi.
 - kumbuka LSP zinazotoa chaneli zinazoingia na JIT (kwa wakati tu). Hizo ni muhimu sana kwa sababu hauitaji kutumia UTXO zako zozote, unaweza kulipa chaneli ya ufunguzi kwa pesa ambazo tayari unazo kwenye pochi zingine za LN, ukiweka mrundikano na kuzitayarisha ili chaneli kubwa ifunguke. Unapaswa kutumia chaneli hizi za JIT kwa faida yako. [Nimefafanua katika mwongozo huu](https://darth-coin.github.io/nodes/managing-lightning-node-liquidity-en.html) chaguo zaidi kwa wenzao kwa nodi za faragha kama vile Blixt. Pia [hapa katika mwongozo huu uliochapishwa kwenye SN](https://stacker.news/items/679242/r/DarthCoin) Nilieleza jinsi ya kudhibiti ukwasi wa nodi za kibinafsi za simu.
 
