@@ -11,7 +11,7 @@ Jade Plus ni Hardware Wallet ya Bitcoin pekee iliyoundwa na Blockstream. Ni mrit
 Jade Plus inaweza kutumika kwa njia kadhaa: kupitia muunganisho wa waya wa USB-C, katika hali ya "*Air-Gap*" yenye kadi ndogo ya SD (adapta inahitajika), kupitia Bluetooth au hata kwa kubadilishana misimbo ya QR shukrani kwa kamera iliyounganishwa. Hardware Wallet hii inaendeshwa na betri.
 
 
-Inapatikana kutoka $149.99 katika toleo la msingi la nyeusi, na bei inaweza kupanda hadi $20 kwa matoleo ya "*Genesis Grey*" au "*Lunar Silver*". Kwa hivyo, Jade Plus ni chaguo la kuvutia, na utendaji wa hali ya juu unaolinganishwa na wale wa pochi za maunzi ya hali ya juu kama vile Coldcard Q au Passport V2, lakini kwa bei ya chini kabisa, karibu na mifano ya masafa ya kati.
+Inapatikana kutoka $149.99 katika toleo la msingi la nyeusi, na bei inaweza kupanda hadi $20 kwa matoleo ya "*Genesis Grey*" au "*Lunar Silver*". Kwa hivyo, Jade Plus ni chaguo la kuvutia, na utendaji wa hali ya juu unaolinganishwa na wale wa Wallet za maunzi ya hali ya juu kama vile Coldcard Q au Passport V2, lakini kwa bei ya chini kabisa, karibu na mifano ya masafa ya kati.
 
 
 ![JADE-PLUS-GREEN](assets/fr/01.webp)
@@ -22,14 +22,14 @@ Jade Plus inaoana na programu nyingi za usimamizi za Wallet. Hapa kuna muhtasari
 
 | Desktop | Mobile | USB | Bluetooth | QR | JadeLink | Management software
 | ------------------- | ------- | ------ | --- | ----------- | --- | -------- |
-| Blockstream Green | 🟢 | 🟢 | 🟢 (Mobile) | 🟢 | 🔴 |
-| Liana | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
-| Sparrow | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 |
-| Nunchuk | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
-| Specter | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
-| BlueWallet | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
-| Electrum | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 |
-| Keeper | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 |
+| Blockstream Green | ðŸŸ¢ | ðŸŸ¢ | ðŸŸ¢ (Mobile) | ðŸŸ¢ | ðŸ”´ |
+| Liana | ðŸŸ¢ | ðŸ”´ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ |
+| Sparrow | ðŸŸ¢ | ðŸ”´ | ðŸŸ¢ | ðŸ”´ | ðŸŸ¢ | ðŸŸ¢ |
+| Nunchuk | ðŸŸ¢ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸŸ¢ | ðŸŸ¢ |
+| Specter | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸŸ¢ | ðŸŸ¢ |
+| BlueWallet | ðŸŸ¢ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸŸ¢ | ðŸŸ¢ |
+| Electrum | ðŸŸ¢ | ðŸ”´ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸ”´ |
+| Keeper | ðŸ”´ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸŸ¢ | ðŸ”´ |
 
 Katika somo hili, tutasanidi na kutumia Jade Plus na programu ya simu ya Blockstream ya Green Wallet kupitia muunganisho wa Bluetooth. Mpangilio huu ni bora kwa Kompyuta. Ikiwa unatafuta mbinu ya hali ya juu zaidi, ninapendekeza uangalie mafunzo haya ambapo tunatumia Jade Plus na Sparrow Wallet katika modi ya misimbo ya QR:
 
@@ -39,7 +39,7 @@ https://planb.network/tutorials/wallet/hardware/jade-plus-sparrow-938abf16-e10a-
 ## Mfano wa usalama wa Jade Plus
 
 
-Jade Plus hutumia modeli ya usalama kulingana na "kipengele salama kabisa", kilichofanywa na "oracle kipofu". Kwa maneno madhubuti, utaratibu huu unachanganya PIN iliyochaguliwa na mtumiaji, siri iliyopangishwa kwenye Jade na siri iliyoshikiliwa na chumba cha ndani (seva inayodumishwa na Blockstream), ili kuunda ufunguo wa AES-256 unaosambazwa juu ya vyombo viwili. Wakati wa kuanzishwa, ECDH Exchange hulinda mawasiliano na chumba cha ndani, na kusimba kifungu cha uokoaji kwenye Hardware Wallet. Kwa maneno ya kiutendaji, unapotaka kufikia seed ili kusaini shughuli, unahitaji ufikiaji wa :
+Jade Plus hutumia modeli ya usalama kulingana na "kipengele salama kabisa", kilichofanywa na "oracle kipofu". Kwa maneno madhubuti, utaratibu huu unachanganya PIN iliyochaguliwa na mtumiaji, siri iliyopangishwa kwenye Jade na siri iliyoshikiliwa na chumba cha ndani (seva inayodumishwa na Blockstream), ili kuunda ufunguo wa AES-256 unaosambazwa juu ya vyombo viwili. Wakati wa kuanzishwa, ECDH Exchange hulinda mawasiliano na chumba cha ndani, na kusimba kifungu cha uokoaji kwenye Hardware Wallet. Kwa maneno ya kiutendaji, unapotaka kufikia seed ili kusaini Transaction, unahitaji ufikiaji wa :
 
 
 
@@ -297,7 +297,7 @@ Ikiwa ungependa kubinafsisha Green Wallet yako, bofya kwenye vitone vitatu vidog
 ![JADE-PLUS-GREEN](assets/fr/31.webp)
 
 
-Chaguo la "*Badilisha jina*" hukuwezesha kubinafsisha jina la Wallet yako, ambayo ni muhimu sana ikiwa unadhibiti pochi kadhaa kwenye programu tumizi sawa. Menyu ya "*Kitengo*" hukuruhusu kubadilisha kitengo cha msingi cha Wallet yako. Kwa mfano, unaweza kuchagua kuionyesha katika satoshis badala ya bitcoins. Hatimaye, menyu ya "*Vigezo*" hukupa ufikiaji wa chaguo zingine. Hapa, kwa mfano, utapata ufunguo wako uliopanuliwa wa umma na maelezo yake, muhimu ikiwa unapanga kusanidi Watch-only wallet kutoka kwa Jade yako.
+Chaguo la "*Badilisha jina*" hukuwezesha kubinafsisha jina la Wallet yako, ambayo ni muhimu sana ikiwa unadhibiti Wallet kadhaa kwenye programu tumizi sawa. Menyu ya "*Kitengo*" hukuruhusu Exchange kitengo cha msingi cha Wallet yako. Kwa mfano, unaweza kuchagua kuionyesha katika satoshis badala ya bitcoins. Hatimaye, menyu ya "*Vigezo*" hukupa ufikiaji wa chaguo zingine. Hapa, kwa mfano, utapata ufunguo wako uliopanuliwa wa umma na maelezo yake, muhimu ikiwa unapanga kusanidi Watch-only wallet kutoka kwa Jade yako.
 
 
 ![JADE-PLUS-GREEN](assets/fr/32.webp)
@@ -344,7 +344,7 @@ Angalia kwenye Jade kwamba Address ni sawa na kwenye Green, kisha ubofye kitufe 
 ![JADE-PLUS-GREEN](assets/fr/37.webp)
 
 
-Sasa unaweza kushiriki Address na mlipaji ili kupokea bitcoins kwenye Wallet yako. Wakati muamala unatangazwa kwenye mtandao, utaonekana kwenye Wallet yako. Subiri hadi upate uthibitisho wa kutosha ili kuzingatia muamala kuwa suluhu.
+Sasa unaweza kushiriki Address na mlipaji ili kupokea bitcoins kwenye Wallet yako. Wakati Transaction unatangazwa kwenye mtandao, utaonekana kwenye Wallet yako. Subiri hadi upate uthibitisho wa kutosha ili kuzingatia Transaction kuwa suluhu.
 
 
 ![JADE-PLUS-GREEN](assets/fr/38.webp)
@@ -371,25 +371,25 @@ Chagua kiasi cha malipo.
 ![JADE-PLUS-GREEN](assets/fr/41.webp)
 
 
-Katika sehemu ya chini ya skrini, unaweza kuchagua kiwango cha ada ya muamala huu. Una chaguo la kufuata mapendekezo ya programu au kubinafsisha ada zako. Kadiri ada inavyoongezeka kuhusiana na miamala mingine inayosubiri, ndivyo muamala wako utakavyochakatwa kwa haraka. Kwa maelezo ya soko la ada, tafadhali tembelea [Mempool.space](https://Mempool.space/) katika sehemu ya "*Ada za Muamala*".
+Katika sehemu ya chini ya skrini, unaweza kuchagua kiwango cha ada ya Transaction huu. Una chaguo la kufuata mapendekezo ya programu au kubinafsisha ada zako. Kadiri ada inavyoongezeka kuhusiana na Transactions mingine inayosubiri, ndivyo Transaction wako utakavyochakatwa kwa haraka. Kwa maelezo ya Exchange la ada, tafadhali tembelea [Mempool.space](https://Mempool.space/) katika sehemu ya "*Ada za Transaction*".
 
 
 ![JADE-PLUS-GREEN](assets/fr/42.webp)
 
 
-Bofya kwenye "*Inayofuata*" ili kufikia skrini ya muhtasari wa shughuli. Angalia kama Address, kiasi na malipo ni sahihi.
+Bofya kwenye "*Inayofuata*" ili kufikia skrini ya muhtasari wa Transaction. Angalia kama Address, kiasi na malipo ni sahihi.
 
 
 ![JADE-PLUS-GREEN](assets/fr/43.webp)
 
 
-Ikiwa kila kitu kitaenda vizuri, telezesha kitufe cha Green chini ya skrini kulia ili kusaini na kutangaza shughuli kwenye mtandao wa Bitcoin.
+Ikiwa kila kitu kitaenda vizuri, telezesha kitufe cha Green chini ya skrini kulia ili kusaini na kutangaza Transaction kwenye mtandao wa Bitcoin.
 
 
 ![JADE-PLUS-GREEN](assets/fr/44.webp)
 
 
-Sasa unaulizwa kuthibitisha shughuli kwenye Jade.
+Sasa unaulizwa kuthibitisha Transaction kwenye Jade.
 
 
 ![JADE-PLUS-GREEN](assets/fr/45.webp)
@@ -407,7 +407,7 @@ Angalia kama kiasi cha malipo ni sahihi, kisha uthibitishe.
 ![JADE-PLUS-GREEN](assets/fr/47.webp)
 
 
-Muamala wako umetiwa saini na kutangazwa kutoka Green.
+Transaction wako umetiwa saini na kutangazwa kutoka Green.
 
 
 ![JADE-PLUS-GREEN](assets/fr/48.webp)
