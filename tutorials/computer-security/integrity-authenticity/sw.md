@@ -4,7 +4,6 @@ description: Jinsi ya kuthibitisha uadilifu na uhalisi wa programu?
 ---
 ![cover](assets/cover.webp)
 
-
 Wakati wa kupakua programu, ni muhimu sana kuhakikisha kuwa haijabadilishwa na kwamba inatoka kwa chanzo rasmi. Hii ni kweli hasa kwa programu zinazohusiana na Bitcoin, kama vile programu ya Wallet, ambayo hukuruhusu kupata funguo zinazokupa ufikiaji wa pesa zako. Katika somo hili, tutaona jinsi ya kuthibitisha uadilifu na uhalisi wa programu kabla ya kuisakinisha. Tutatumia Sparrow Wallet kama mfano, programu inayopendwa ya Wallet kati ya bitcoiners, lakini utaratibu utakuwa sawa kwa programu nyingine yoyote.
 
 
