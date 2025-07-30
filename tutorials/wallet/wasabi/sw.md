@@ -1,18 +1,16 @@
+
 ---
+
 name: Wasabi Wallet
 
 description: jifunze jinsi ya kurejesha faragha yako
----
-
-![wasabi](assets/cover.webp)
 
 
-Chanzo huria, isiyodhibiti, faragha inayolenga Bitcoin Wallet ya Kompyuta ya Mezani
 
+Open-source, non-custodial, privacy focused Bitcoin wallet kwa computer ya mezani
 https://www.wasabiwallet.io/
 
-
-Mwongozo katika uumbaji
+Mwongozo wa kuunda
 
 
 ## Mafunzo ya video
