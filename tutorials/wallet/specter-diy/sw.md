@@ -33,5 +33,4 @@ https://docs.specter.solutions/diy/
 
 Bunge kwa video: https://youtu.be/1H7FqG_FmCw
 
-
 mwongozo: Fork the ?md https://github.com/cryptoadvance/specter-diy
