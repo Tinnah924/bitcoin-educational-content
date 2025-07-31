@@ -1,12 +1,12 @@
 ---
-name: Kasi ya Wallet
+name: Speed Wallet
 description: Lipa na Exchange katika bitcoins na USDT papo hapo
 ---
 ![cover](assets/cover.webp)
 
 
 
-Kuna suluhisho za kutosha siku hizi kusaidia bitcoiners kupata, kuhifadhi na Exchange bitcoins zao. Leo, tutaangalia Kasi ya Wallet, Bitcoin na Umeme Wallet ambayo inakuruhusu kufanya miamala kwa urahisi.
+Kuna suluhisho za kutosha siku hizi kusaidia bitcoiners kupata, kuhifadhi na Exchange bitcoins zao. Leo, tutaangalia Speed Wallet, Bitcoin na Lightning wallet ambayo inakuruhusu kufanya miamala kwa urahisi.
 
 
 
@@ -15,7 +15,7 @@ Kuna suluhisho za kutosha siku hizi kusaidia bitcoiners kupata, kuhifadhi na Exc
 
 
 
-## Kasi ya Wallet ni nini?
+## Speed Wallet ni nini?
 
 
 
@@ -23,7 +23,7 @@ Kwa bitcoiners mpya, chaguo la Wallet ambalo litatumika kuhifadhi na Exchange bi
 
 
 
-Kwa kuzingatia hili, Speed ​​Wallet ni mfumo angavu na salama unaokuruhusu kufanya yote mawili:
+Kwa kuzingatia hili, Speed Wallet ni mfumo angavu na salama unaokuruhusu kufanya yote mawili:
 
 
 
@@ -45,29 +45,29 @@ Kwa kuzingatia hili, Speed ​​Wallet ni mfumo angavu na salama unaokuruhusu k
 
 
 
-Katika somo hili, tutakupitisha katika kila mojawapo ya vipengele hivi ili kufanya matumizi yako ya Speed ​​Wallet iwe rahisi iwezekanavyo.
+Katika somo hili, tutakupitisha katika kila mojawapo ya vipengele hivi ili kufanya matumizi yako ya Speed Wallet iwe rahisi iwezekanavyo.
 
 
 
 https://planb.network/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465b-9bca-e647a647fbc1
 
-## Kuanza na Speed ​​Wallet
+## Kuanza na Speed Wallet
 
 
 
-Speed ​​Wallet ni uhifadhi wa sarafu nyingi wa Wallet kusaidia miamala kwenye mtandao mkuu wa Bitcoin, miamala ya Lightning Network na pia miamala thabiti ya USDT (Tether USD). Katika somo hili, tutazingatia pekee matumizi ya Kasi ya Wallet kwenye mitandao ya Bitcoin.
+Speed Wallet ni uhifadhi wa sarafu nyingi wa Wallet kusaidia miamala kwenye mtandao mkuu wa Bitcoin, miamala ya Lightning Network na pia miamala thabiti ya USDT (Tether USD). Katika somo hili, tutazingatia pekee matumizi ya Speed Wallet kwenye mitandao ya Bitcoin.
 
 
 
-Speed ​​Wallet inapatikana kama programu ya simu kwenye mifumo ya Android (Google Play Store) na iOS (Apple Store), lakini pia kama kiendelezi cha Chrome kinachokuruhusu kufanya miamala kutoka kwa kompyuta yako.
+Speed Wallet inapatikana kama programu ya simu kwenye mifumo ya Android (Google Play Store) na iOS (Apple Store), lakini pia kama kiendelezi cha Chrome kinachokuruhusu kufanya miamala kutoka kwa kompyuta yako.
 
 
 
-Unaweza kupata viungo vya kupakua mifumo kwenye tovuti rasmi ya [Speed ​​Wallet] (https://speed.app).
+Unaweza kupata viungo vya kupakua mifumo kwenye tovuti rasmi ya [Speed Wallet] (https://speed.app).
 
 
 
-⚠️ **MUHIMU**: Ni muhimu kupakua pochi zako kutoka kwa majukwaa rasmi ya upakuaji ili kuhakikisha ukweli wa programu.
+⚠️  **MUHIMU**: Ni muhimu kupakua wallet zako kutoka kwa majukwaa rasmi ya upakuaji ili kuhakikisha ukweli wa programu.
 
 
 
@@ -75,7 +75,7 @@ Katika somo hili, tutaangazia jukwaa la programu ya Android, lakini michakato yo
 
 
 
-Kasi ya Wallet inahitaji uundaji wa akaunti ya mtumiaji. Unaweza kuunda moja kutoka kwa akaunti yako ya Google, au kufafanua barua pepe na nenosiri thabiti.
+Speed Wallet inahitaji uundaji wa akaunti ya mtumiaji. Unaweza kuunda moja kutoka kwa akaunti yako ya Google, au kufafanua barua pepe na nenosiri thabiti.
 
 
 
@@ -85,7 +85,7 @@ https://planb.network/tutorials/computer-security/authentication/bitwarden-0532f
 
 
 
-Baada ya kufungua akaunti yako, tunapendekeza uweke mfumo wa uthibitishaji wa aina mbili au uthibitishaji wa PIN/bayometriki kwa alama ya vidole. Mipangilio hii huongeza kiwango cha ziada cha usalama, huku kuruhusu kujithibitisha kabla ya kufikia Wallet na wakati wa shughuli za Bitcoin kutoka Kasi ya Wallet.
+Baada ya kufungua akaunti yako, tunapendekeza uweke mfumo wa uthibitishaji wa aina mbili au uthibitishaji wa PIN/bayometriki kwa alama ya vidole. Mipangilio hii huongeza kiwango cha ziada cha usalama, huku kuruhusu kujithibitisha kabla ya kufikia Wallet na wakati wa miamala ya Bitcoin kutoka Speed Wallet.
 
 
 
@@ -103,11 +103,11 @@ Kutoka kwa Mipangilio, unaweza pia kubinafsisha jinsi salio lako linavyoonyeshwa
 
 
 
-### Kufanya muamala wako wa kwanza kwa Kasi ya Wallet
+### Kufanya muamala wako wa kwanza kwa Speed Wallet
 
 
 
-Ikiwa tayari una uzoefu na pochi za Bitcoin, hutakosa hatua hata kidogo. Kasi ya Wallet inakupa Interface angavu ili kukusaidia kuanza.
+Ikiwa tayari una uzoefu na wallet za Bitcoin, hutakosa hatua hata kidogo. Speed Wallet inakupa Interface angavu ili kukusaidia kuanza.
 
 
 
@@ -137,13 +137,13 @@ Kwenye ukurasa wa nyumbani wa **Wallet**, utapata :
 
 
 
-⚠️ **KUMBUKA**: Lightning Address ni lakabu ya kipekee ya barua pepe ambayo hurahisisha usomaji wa URL yako ya Umeme. Hakikisha umetoa umeme sahihi wa Address unapotaka kupokea malipo ya Radi.
+⚠️  **KUMBUKA**: Lightning Address ni lakabu ya kipekee ya barua pepe ambayo hurahisisha usomaji wa URL yako ya Umeme. Hakikisha umetoa umeme sahihi wa Address unapotaka kupokea malipo ya Radi.
 
 
 
 
 
-- Kupokea malipo kwa Kasi ya Wallet :**
+- **Kupokea malipo kwa Speed Wallet :**
 
 
 
@@ -161,7 +161,7 @@ Unaweza pia kutumia Lightning Address yako unapotaka kumpa mtumaji wako wepesi w
 
 
 
-- Tuma bitcoins kwa Kasi ya Wallet** :
+- **Tuma bitcoins kwa Speed Wallet** :
 
 
 
@@ -169,7 +169,7 @@ Kutoka kwa kitufe cha **Tuma**, unaweza kutuma bitcoins kwa kutumia Lightning Ad
 
 
 
-Kasi ya Wallet itatambua, kulingana na umbizo lako la Address, mtandao ambao inapaswa kufanya kazi, kukupa uzoefu rahisi zaidi.
+Speed Wallet itatambua, kulingana na umbizo lako la Address, mtandao ambao inapaswa kufanya kazi, kukupa uzoefu rahisi zaidi.
 
 
 
@@ -181,7 +181,7 @@ Kasi ya Wallet itatambua, kulingana na umbizo lako la Address, mtandao ambao ina
 
 
 
-Moja ya vipengele vya kwanza vya Speed ​​Wallet ni kwamba hukuruhusu kununua na sarafu za Exchange bila kuacha programu. Kwa njia hii, unaweza kupata bitcoins kutoka kwa salio la sarafu nyingine katika Wallet yako. Kwa mfano, unaweza kununua Bitcoin kwa USDT ambayo tayari unayo katika Wallet yako, kwa ada za chini za Exchange.
+Moja ya vipengele vya kwanza vya Speed Wallet ni kwamba hukuruhusu kununua na sarafu za Exchange bila kuacha programu. Kwa njia hii, unaweza kupata bitcoins kutoka kwa salio la sarafu nyingine katika Wallet yako. Kwa mfano, unaweza kununua Bitcoin kwa USDT ambayo tayari unayo katika Wallet yako, kwa ada za chini za Exchange.
 
 
 
@@ -191,7 +191,7 @@ Chaguo za **Nunua** na **Badilisha** hukuwezesha bitcoins za Exchange kwa sarafu
 
 
 
-- Nunua Bitcoin ukitumia kadi yako ya mkopo**: Kasi ya Wallet hurahisisha kupata Bitcoin kutoka kwa sarafu za malipo unazotumia kila siku. Inajumuisha kijumlishi cha malipo ambacho hukuruhusu kulipa bitcoins kwa kadi yako ya mkopo.
+- **Nunua Bitcoin ukitumia kadi yako ya mkopo**: Speed Wallet hurahisisha kupata Bitcoin kutoka kwa sarafu za malipo unazotumia kila siku. Inajumuisha kijumlishi cha malipo ambacho hukuruhusu kulipa bitcoins kwa kadi yako ya mkopo.
 
 
 
@@ -201,7 +201,7 @@ Chaguo za **Nunua** na **Badilisha** hukuwezesha bitcoins za Exchange kwa sarafu
 
 
 
-- Nunua Bitcoin kutoka kwa fedha zingine za siri**: Unaweza Exchange USDT yako, USDC kwa bitcoins katika Wallet yako na kinyume chake. Kupitia chaguo hili, Speed ​​Wallet hurahisisha mchakato wa kununua na kuuza Bitcoin bila kurejelea majukwaa ya nje ya Exchange. Kwa hivyo unaweza kufanya biashara kwa kiasi kidogo cha satoshi 20,000, karibu $20 kwa kiwango cha sasa, bila kuacha Kasi yako ya Wallet.
+- **Nunua Bitcoin kutoka kwa fedha zingine za siri**: Unaweza Exchange USDT yako, USDC kwa bitcoins katika Wallet yako na kinyume chake. Kupitia chaguo hili, Speed Wallet hurahisisha mchakato wa kununua na kuuza Bitcoin bila kurejelea majukwaa ya nje ya Exchange. Kwa hivyo unaweza kufanya biashara kwa kiasi kidogo cha satoshi 20,000, karibu $20 kwa kiwango cha sasa, bila kuacha Kasi yako ya Wallet.
 
 
 
@@ -213,11 +213,11 @@ https://planb.network/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d
 
 
 
-## Nunua bidhaa na huduma katika Kasi ya Wallet
+## Nunua bidhaa na huduma katika Speed Wallet
 
 
 
-Kando na shughuli za ununuzi na Exchange, Speed ​​Wallet ni mfumo bunifu wa mfumo ikolojia unaokupa ufikiaji wa majukwaa ya bidhaa na huduma ambayo yanakubali Bitcoin kama njia ya malipo.
+Kando na miamala ya ununuzi na Exchange, Speed Wallet ni mfumo bunifu wa mfumo ikolojia unaokupa ufikiaji wa majukwaa ya bidhaa na huduma ambayo yanakubali Bitcoin kama njia ya malipo.
 
 
 
@@ -229,7 +229,7 @@ Katika menyu ya **Programu**, unaweza kupata majukwaa mengi, michezo, ofa za pun
 
 
 
-Kwa hiyo, kutoka kwa Speed ​​Wallet, unaweza kutafuta malazi popote duniani kwa kulipa kupitia Bitcoin na AirBtc, kwa mfano.
+Kwa hiyo, kutoka kwa Speed Wallet, unaweza kutafuta malazi popote duniani kwa kulipa kupitia Bitcoin na AirBtc, kwa mfano.
 
 
 
@@ -271,11 +271,11 @@ https://planb.network/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465
 
 
 
-Kando na programu zilizojengewa ndani, Speed ​​Wallet hutekeleza mchakato wa mageuzi kulingana na matumizi yako ya Wallet. Kulingana na utaratibu wa malipo yako, utapata tokeni za Kasi ambazo zitakufanya ustahiki zawadi ambayo unaweza kupokea kwa bitcoins.
+Kando na programu zilizojengewa ndani, Speed Wallet hutekeleza mchakato wa mageuzi kulingana na matumizi yako ya Wallet. Kulingana na utaratibu wa malipo yako, utapata tokeni za Kasi ambazo zitakufanya ustahiki zawadi ambayo unaweza kupokea kwa bitcoins.
 
 
 
-Kasi ya Wallet pia ina mfumo wa mwaliko unaokuwezesha kupata bitcoins kila wakati mtu anapotumia kiungo chako kuunda Kasi yake ya Wallet Wallet.
+Speed Wallet pia ina mfumo wa mwaliko unaokuwezesha kupata bitcoins kila wakati mtu anapotumia kiungo chako kuunda Kasi yake ya Wallet Wallet.
 
 
 
@@ -311,11 +311,11 @@ Ili kuhitimu, lazima ukidhi vigezo vifuatavyo:
 
 
 
-## Kwenda mbali zaidi na Kasi ya Wallet
+## Kwenda mbali zaidi na Speed Wallet
 
 
 
-Kama umeona, Speed ​​Wallet huunganisha mifumo ya kutosha ili kukuwezesha kutumia Bitcoin katika hali halisi kila siku. Pia hukupa wepesi wa kuongeza majukwaa unayopenda ya ndani.
+Kama umeona, Speed Wallet huunganisha mifumo ya kutosha ili kukuwezesha kutumia Bitcoin katika hali halisi kila siku. Pia hukupa wepesi wa kuongeza majukwaa unayopenda ya ndani.
 
 
 
@@ -329,11 +329,11 @@ Katika chaguo la **Mipangilio** kwenye ukurasa wa **Wallet**, sehemu ya **Progra
 
 https://planb.network/tutorials/exchange/centralized/flash-fd4308b0-7afd-450f-90e9-d37ad90ae770
 
-## Kasi ya Wallet si ya Simu ya Mkononi pekee!
+## Speed Wallet si ya Simu ya Mkononi pekee!
 
 
 
-Kando na programu ya simu, Speed ​​Wallet pia inatoa [kiendelezi cha Wavuti cha Chrome](https://chromewebstore.google.com/detail/speed-Bitcoin-lightning-w/miccfnlbijkmbckaagllchcfknjhgfnk) ambacho unaweza kuongeza kwenye kivinjari cha Google Chrome cha kompyuta yako kwa miamala salama.
+Kando na programu ya simu, Speed Wallet pia inatoa [kiendelezi cha Wavuti cha Chrome](https://chromewebstore.google.com/detail/speed-Bitcoin-lightning-w/miccfnlbijkmbckaagllchcfknjhgfnk) ambacho unaweza kuongeza kwenye kivinjari cha Google Chrome cha kompyuta yako kwa miamala salama.
 
 
 
@@ -357,11 +357,11 @@ Thibitisha kompyuta yako ili kuidhinisha ufikiaji wa kwingineko yako.
 
 
 
-## Kasi ya Wallet kwa rejareja
+## Speed Wallet kwa rejareja
 
 
 
-Kasi ya Wallet inatilia mkazo ujumuishaji na utumiaji wa Bitcoin na sarafu thabiti katika biashara kote ulimwenguni.
+Speed Wallet inatilia mkazo ujumuishaji na utumiaji wa Bitcoin na sarafu thabiti katika biashara kote ulimwenguni.
 
 
 
@@ -375,29 +375,29 @@ Kwa kulenga malipo, utapata chaguzi zifuatazo:
 
 
 
-- Malipo ya mtandaoni**: Kwa chaguo hili, unaweza kukubali Bitcoin kama njia ya malipo ya bidhaa zako za kidijitali, kupitia viungo vya malipo, ankara na usajili.
+- **Malipo ya mtandaoni**: Kwa chaguo hili, unaweza kukubali Bitcoin kama njia ya malipo ya bidhaa zako za kidijitali, kupitia viungo vya malipo, ankara na usajili.
 
 
 
 
 
-- Malipo kwenye tovuti**: Kukusanya malipo kwenye duka lako.
+- **Malipo kwenye tovuti**: Kukusanya malipo kwenye duka lako.
 
 
 
 
 
-- Malipo ya papo hapo**: Chaguo linalokuruhusu kudhibiti urejeshaji, uondoaji, gharama na hati za malipo ya mfanyakazi moja kwa moja kutoka kwa Speed ​​Business Interface.
+- **Malipo ya papo hapo**: Chaguo linalokuruhusu kudhibiti urejeshaji, uondoaji, gharama na hati za malipo ya mfanyakazi moja kwa moja kutoka kwa Speed Business Interface.
 
 
 
 
 
-- Malipo ya mfumo**: Unganisha akaunti yako ya Kasi ya Biashara kwa zana za nje unazotumia kufanya uhamisho na malipo kwenye mifumo hii.
+- **Malipo ya mfumo**: Unganisha akaunti yako ya Kasi ya Biashara kwa zana za nje unazotumia kufanya uhamisho na malipo kwenye mifumo hii.
 
 
 
-Umefika mwisho wa mafunzo yetu ya Speed ​​​​Wallet. Iwapo ulipata mafunzo haya kuwa muhimu, tafadhali tupe kidole gumba cha Green. Pia tunapendekeza uangalie mafunzo yetu kuhusu kuhifadhi na kusanidi mpango wa mali isiyohamishika kwa kutumia kwingineko ya Liana.
+Umefika mwisho wa mafunzo yetu ya Speed Wallet. Iwapo ulipata mafunzo haya kuwa muhimu, tafadhali tupe kidole gumba cha Green. Pia tunapendekeza uangalie mafunzo yetu kuhusu kuhifadhi na kusanidi mpango wa mali isiyohamishika kwa kutumia kwingineko ya Liana.
 
 
 
