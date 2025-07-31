@@ -4,396 +4,270 @@ description: Kuweka na kutumia Tapsigner na Nunchuk
 ---
 ![cover](assets/cover.webp)
 
+Hardware wallet ni kifaa cha kielektroniki kinachotumika kusimamia na kulinda private keys za Bitcoin wallet. Tofauti na software wallets (au hot wallets) ambazo huwekwa kwenye kompyuta za matumizi ya kawaida zinazojiunganisha na mtandao, hardware wallet inaruhusu private keys kutengwa kabisa, na hivyo kupunguza hatari za wizi au udukuzi.
 
-Hardware Wallet ni kifaa cha kielektroniki kinachojitolea kwa usimamizi na usalama wa funguo za faragha za Bitcoin Wallet. Tofauti na pochi za programu (au pochi za Hot) zilizowekwa kwenye mashine za kusudi la jumla ambazo mara nyingi huunganishwa kwenye Mtandao, pochi za vifaa huruhusu kutengwa kwa funguo za kibinafsi, kupunguza hatari za udukuzi na wizi.
+Lengo kuu la hardware wallet ni kupunguza kazi za kifaa ili kupunguza sehemu ambazo mshambuliaji anaweza kutumia. Kifaa chenye kazi chache kinakuwa na maeneo machache yanayoweza kushambuliwa, yaani, uwezekano mdogo wa udhaifu unaoweza kuruhusu mshambuliaji kupata bitcoins.
 
+Inashauriwa kutumia hardware wallet kulinda bitcoins zako, hasa kama unashikilia kiasi kikubwa, iwe ni thamani kamili au sehemu kubwa ya mali zako zote.
 
-Lengo kuu la Hardware Wallet ni kupunguza utendaji wa kifaa ili kupunguza uso wake wa kushambulia. Sehemu ndogo ya ushambuliaji pia inamaanisha vibebaji vichache vya kushambulia, yaani, pointi chache dhaifu katika mfumo ambazo washambuliaji wanaweza kutumia ili kufikia bitcoins.
+Hardware wallet hutumika pamoja na software ya kusimamia wallet kwenye kompyuta au simu. Software hii inasimamia utengenezaji wa muamala, lakini saini ya cryptographic inayohitajika kuthibitisha muamala huo inafanyika tu ndani ya hardware wallet. Hii inamaanisha private keys hazijawahi kufichuliwa kwenye mazingira ambayo yanaweza kuwa na udhaifu.
 
+Hardware wallet inampa mtumiaji ulinzi mara mbili: kwanza, inalinda bitcoins zako dhidi ya mashambulizi ya mbali kwa kuweka private keys nje ya mtandao, na pili, kwa kawaida zinatoa ulinzi bora zaidi dhidi ya kujaribu kutoa keys kimwili. Vigezo hivi viwili vya usalama ndivyo vinavyotumika kupima na kulinganisha aina mbalimbali za hardware wallet zilizopo sokoni.
 
-Inapendekezwa kutumia Hardware Wallet ili kupata bitcoins zako, hasa ikiwa unashikilia kiasi kikubwa, iwe katika thamani kamili au kama sehemu ya jumla ya mali yako.
-
-
-Pochi za vifaa hutumiwa pamoja na programu ya usimamizi ya Wallet kwenye kompyuta au simu mahiri. Programu hii inadhibiti uundaji wa miamala, lakini sahihi ya kriptografia inayohitajika ili kuthibitisha miamala hii inafanywa ndani ya Hardware Wallet pekee. Hii ina maana kwamba funguo za faragha haziwahi kamwe kwenye mazingira ambayo yanaweza kuwa hatarini.
-
-
-Pochi za vifaa hutoa ulinzi wa pande mbili kwa mtumiaji: kwa upande mmoja, hulinda bitcoins zako dhidi ya mashambulizi ya mbali kwa kuweka funguo za faragha nje ya mtandao, na kwa upande mwingine, kwa ujumla hutoa upinzani bora wa kimwili dhidi ya majaribio ya kutoa funguo. Na ni kwa vigezo hivi viwili vya usalama ambapo mtu anaweza kuhukumu na kuorodhesha aina tofauti zinazopatikana kwenye soko.
-
-
-Katika somo hili, ninapendekeza kugundua mojawapo ya masuluhisho haya: Tapsigner na Coinkite.
-
+Katika mafunzo haya, nitakuonyesha moja ya suluhu hizi: Tapsigner kutoka Coinkite.
 
 ## Utangulizi wa Tapsigner
 
-
-Tapsigner ni Hardware Wallet iliyoundwa kwa njia ya kadi ya NFC na kampuni ya Coinkite, inayojulikana pia kwa kutengeneza Coldcards.
-
+Tapsigner ni hardware wallet iliyoundwa katika umbo la kadi ya NFC na kampuni ya Coinkite, pia maarufu kwa kutengeneza Coldcard.
 
 ![TAPSIGNER NUNCHUK](assets/notext/01.webp)
 
+Tapsigner inahifadhi jozi ya master private key na chain code kulingana na BIP32, ili kutoa mti wa cryptographic keys. Keys hizi zinaweza kutumika kusaini miamala kwa kugusisha Tapsigner kwenye simu au msomaji wa kadi ya NFC.
+Kadi hii ya NFC inauzwa kwa $19.99, bei nafuu sana ukilinganisha na hardware wallet zingine sokoni. Hata hivyo, kutokana na muundo wake, Tapsigner haina chaguo nyingi kama vifaa vingine. Haina betri, kamera wala sehemu ya micro SD, kwani ni kadi tu. Kwa maoni yangu, upungufu wake mkubwa ni kutokuwa na skrini kwenye hardware wallet, jambo linaloweza kuongeza udhaifu kwa mashambulizi ya mbali. Hii inamlazimisha mtumiaji kusaini bila kuona, akitegemea kile anachoona kwenye skrini ya kompyuta yake.
 
-Tapsigner inaruhusu uhifadhi wa jozi inayojumuisha ufunguo mkuu wa faragha na msimbo wa mnyororo kwa mujibu wa BIP32, ili kupata mti wa funguo za siri. Vifunguo hivi vinaweza kutumika kusaini shughuli kwa kuweka Tapsigner dhidi ya simu au kisoma kadi ya NFC.
-
-Kadi hii ya NFC inauzwa kwa $19.99, ambayo ni nafuu sana ikilinganishwa na pochi nyingine za maunzi zinazopatikana sokoni. Hata hivyo, kutokana na umbizo lake, Tapsigner haitoi chaguo nyingi kama vifaa vingine. Ni wazi hakuna betri, hakuna kamera, wala kisoma kadi ndogo ya SD, kwani ni kadi. Kwa maoni yangu, drawback yake kubwa ni ukosefu wa skrini kwenye Hardware Wallet, ambayo inafanya kuwa hatari zaidi kwa aina fulani za mashambulizi ya mbali. Hakika, hii humlazimu mtumiaji kutia saini bila upofu na kuamini anachokiona kwenye skrini ya kompyuta yake.
-
-
-Licha ya mapungufu yake, Tapsigner inaweza kuvutia kwa sababu ya bei yake iliyopunguzwa. Wallet hii inaweza kutumika haswa kuimarisha usalama wa matumizi ya Wallet pamoja na akiba ya Wallet inayolindwa na Hardware Wallet iliyo na skrini. Pia inawakilisha suluhisho nzuri kwa wale wanaoshikilia kiasi kidogo cha bitcoins na hawataki kuwekeza euro mia katika kifaa cha kisasa zaidi. Zaidi ya hayo, matumizi ya Tapsigner katika usanidi wa Multisig, au pengine katika mifumo ya Wallet yenye kufunga saa katika siku zijazo, inaweza kutoa manufaa ya kuvutia.
-
+Licha ya mapungufu yake, Tapsigner inaweza kuvutia kutokana na bei yake ndogo. Wallet hii inaweza kutumika kuongeza usalama kwenye spending wallet sambamba na savings wallet iliyolindwa na hardware wallet yenye skrini. Pia ni suluhu nzuri kwa wanaoshikilia kiasi kidogo cha bitcoins na hawataki kutumia fedha nyingi kununua kifaa cha gharama zaidi. Zaidi ya hayo, matumizi ya Tapsigner kwenye multisig, au kwenye wallet za timelock siku zijazo, inaweza kuwa na manufaa.
 
 ## Jinsi ya kununua Tapsigner?
 
+Tapsigner inapatikana [kwenye tovuti rasmi ya Coinkite](https://store.coinkite.com/store/category/tapsigner). Ukiihitaji dukani, unaweza kupata [orodha ya wauzaji rasmi](https://coinkite.com/resellers) kwenye tovuti.
 
-Tapsigner inapatikana kwa kununuliwa [kwenye tovuti rasmi ya Coinkite](https://store.coinkite.com/store/category/tapsigner). Ili kuinunua katika duka halisi, unaweza pia kupata [orodha ya wauzaji walioidhinishwa](https://coinkite.com/resellers) kwenye tovuti.
-
-
-Utahitaji pia simu inayooana na mawasiliano ya NFC, au kifaa cha USB ili kusoma kadi za NFC katika masafa ya kawaida ya 13.56 MHz.
-
+Utahitaji pia simu yenye NFC, au kifaa cha USB cha kusoma kadi za NFC katika frequency ya 13.56 MHz.
 
 ## Jinsi ya kuanzisha Tapsigner na Nunchuk?
 
-
-Mara tu unapopokea Tapsigner yako, hatua ya kwanza ni kuchunguza kifungashio ili kuhakikisha kuwa hakijafunguliwa. Ikiwa kifurushi kimeharibiwa, inaweza kuonyesha kuwa kadi imeathiriwa na inaweza kuwa si halisi. CoinKite itakuletea Tapsigner yako na kipochi kinachozuia mawimbi ya redio. Hakikisha ipo kwenye kifurushi chako.
-
+Ukishapokea Tapsigner yako, hatua ya kwanza ni kukagua kifurushi kuona kama hakijafunguliwa. Ikiwa kifurushi kimeharibika, huenda kimeingiliwa na huenda kadi si halisi. CoinKite itatuma Tapsigner yako ikiwa na kasha linalozuia mawimbi ya redio. Hakikisha upo kwenye kifurushi chako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/02.webp)
 
-
-Ili kudhibiti Wallet, tutatumia **Nunchuk Wallet** programu ya simu. Hakikisha kuwa simu yako mahiri inaoana na NFC, kisha upakue Nunchuk kutoka [Google Play Store](https://play.google.com/store/apps/details?id=io.nunchuk.android), [App Store](https://apps.apple.com/us/app/nunchuk-Bitcoin-Wallet/id1563190) au moja kwa moja kupitia its`073190. faili](https://github.com/nunchuk-io/nunchuk-android/releases).
-
+Ili kusimamia wallet, tutatumia **Nunchuk Wallet** kwenye simu. Hakikisha simu yako ina NFC, kisha pakua Nunchuk kupitia [Google Play Store](https://play.google.com/store/apps/details?id=io.nunchuk.android), [App Store](https://apps.apple.com/us/app/nunchuk-bitcoin-wallet/id1563190073) au moja kwa moja kwa [.apk file](https://github.com/nunchuk-io/nunchuk-android/releases).
 
 ![TAPSIGNER NUNCHUK](assets/notext/03.webp)
 
-Ikiwa unatumia Nunchuk kwa mara ya kwanza, programu itakuomba ufungue akaunti. Kwa madhumuni ya somo hili, sio lazima kuunda moja. Kwa hivyo, chagua "*Endelea kama mgeni*" ili kuendelea bila akaunti.
+Kama unatumia Nunchuk kwa mara ya kwanza, app itakuomba kuunda akaunti. Kwa mafunzo haya, si lazima kuunda akaunti. Chagua "*Continue as guest*" ili uendelee bila akaunti.
 
 ![TAPSIGNER NUNCHUK](assets/notext/04.webp)
 
-
-Kisha bonyeza "*Unassisted Wallet*".
-
+Kisha bonyeza "*Unassisted wallet*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/05.webp)
 
-
-Kisha, bofya kitufe cha "*Nitachunguza peke yangu*".
-
+Kisha bonyeza "*I'll explore on my own*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/06.webp)
 
-
-Ukiwa Nunchuk, bofya kitufe cha "**" karibu na kichupo cha "*Vifunguo".
-
+Ukiwa ndani ya Nunchuk, bonyeza kitufe cha "*+*" karibu na tab ya "*Keys*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/07.webp)
 
-
-Chagua "*Ongeza kitufe cha NFC*".
-
+Chagua "*Add NFC key*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/08.webp)
 
-
-Kisha bonyeza "*Ongeza TAPSIGNER*".
-
+Halafu chagua "*Add TAPSIGNER*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/09.webp)
 
-
-Bofya "*Endelea*" kisha uweke kadi yako ya Tapsigner NFC dhidi ya simu yako mahiri.
-
+Bonyeza "*Continue*" kisha weka Tapsigner yako kwenye simu.
 
 ![TAPSIGNER NUNCHUK](assets/notext/10.webp)
 
-
-Ikiwa Tapsigner yako ni mpya, Nunchuk atajitolea kuianzisha. Bonyeza "* Ndiyo*".
-
+Kama Tapsigner yako ni mpya, Nunchuk itakupa chaguo la kuiweka tayari. Bonyeza "*Yes*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/11.webp)
 
+Sasa utatakiwa kuchagua namna ya kutengeneza master chain code.
 
-Sasa utahitaji kuchagua jinsi ya generate msimbo wako mkuu wa mnyororo.
+Tapsigner hutumia BIP32. Hii ina maana utengenezaji wa cryptographic keys unaolinda bitcoins zako hautumii mnemonic phrase kama BIP39 wallets, bali moja kwa moja master private key na master chain code. Vipengele hivi viwili hupitishwa kwenye HMAC ili kutoa keys nyingine kwa mpangilio wa hierarchical.
 
-
-Tapsigner hutumia kiwango cha BIP32. Hii ina maana kwamba utokezi wa funguo zako za kriptografia zinazolinda bitcoins zako hautegemei maneno ya Mnemonic kama vile pochi za BIP39, bali moja kwa moja kwenye ufunguo mkuu wa faragha na msimbo mkuu wa msururu. Hizi 2 Elements hupitishwa kupitia kitendakazi cha HMAC ili kupata kibainifu na kidaraja sehemu nyingine ya Wallet yako.
-
-
-Ufunguo mkuu wa faragha unatolewa moja kwa moja na TRNG (*Jenereta ya Nambari Isiyo Nasibu ya Kweli*) iliyounganishwa kwenye Tapsigner yako. Nambari ya mnyororo mkuu, kwa upande mwingine, lazima itolewe kutoka nje. Katika hatua hii, una chaguo: kuruhusu Nunchuk generate moja kwa moja kwa kubofya "*Automatic*", au generate mwenyewe kwa kuchagua "*Advanced*" na kuiingiza kwenye uwanja uliotolewa.
-
+Master private key inatengenezwa moja kwa moja na TRNG (*True Random Number Generator*) ndani ya Tapsigner yako. Master chain code, upande mwingine, lazima itolewe kutoka nje. Hapa unaweza kuchagua: acha Nunchuk itengeneze yenyewe kwa kubonyeza "*Automatic*", au tengeneza mwenyewe kwa kuchagua "*Advanced*" na kuiandika kwenye sehemu husika.
 
 ![TAPSIGNER NUNCHUK](assets/notext/12.webp)
 
-
-Ifuatayo, unahitaji kuchagua msimbo wa PIN. Katika eneo la "*Kuanzia PIN*", weka msimbo wa PIN ulioandikwa nyuma ya Tapsigner yako.
-
+Kisha, chagua PIN code. Eneo la "*Starting PIN*" andika PIN iliyo nyuma ya Tapsigner yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/13.webp)
 
-
-Chagua msimbo wa PIN ili kupata ufikiaji wa kimwili kwa Tapsigner yako. Msimbo huu wa PIN hauna jukumu lolote katika mchakato wa urejeshaji wa Wallet. Jukumu lake pekee ni kufungua Tapsigner yako ili kusaini miamala. Hakikisha umehifadhi msimbo huu wa PIN ili kuepuka kuusahau. Bonyeza "*Endelea*" ili kuendelea.
-
+Chagua PIN code ya kulinda upatikanaji wa Tapsigner yako. PIN hii haina nafasi kwenye urejeshaji wa wallet. Kazi yake ni kufungua Tapsigner yako ili kusaini miamala. Hakikisha umehifadhi PIN hii ili usiisahau. Bonyeza "*Continue*" uendelee.
 
 ![TAPSIGNER NUNCHUK](assets/notext/14.webp)
-
-Weka kadi yako ya Tapsigner nyuma ya simu yako sasa ili kuianzisha.
+Weka Tapsigner nyuma ya simu yako ili kuiweka tayari.
 
 ![TAPSIGNER NUNCHUK](assets/notext/15.webp)
 
-
-Kisha Nunchuk ita generate faili ya uokoaji ya Wallet yako, ambayo hukuruhusu kupata tena ufikiaji wa bitcoins zako endapo utapoteza kadi yako ya NFC. Faili hii imesimbwa kwa njia fiche kwa msimbo mbadala ulioandikwa nyuma ya Tapsigner yako. Ili kurejesha bitcoins zako, utahitaji kabisa faili hii pamoja na msimbo ili kusimbua. Kwa hiyo ni muhimu kufanya nakala ya karatasi ya msimbo huu, kwa sababu ikiwa unapoteza kadi yako ya NFC, upatikanaji wa msimbo huu pia utapotea, kwa kuwa imeandikwa tu kwenye kadi kwa sasa. Hakikisha pia kuunda chelezo kadhaa za faili yako ya urejeshaji iliyosimbwa kwa njia fiche.
-
+Nunchuk itatengeneza recovery file ya wallet yako, ambayo hukuwezesha kurudisha bitcoins zako endapo utapoteza kadi ya NFC. File hili limefichwa kwa backup code iliyoandikwa nyuma ya Tapsigner. Ili kurudisha bitcoins zako, utahitaji file hili na code ya kufungua. Ni muhimu kufanya nakala ya code hii kwa karatasi, kwani ukipoteza kadi, hutapata tena code hii kwani ipo kwenye kadi tu. Hakikisha pia umehifadhi backup kadhaa za recovery file yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/16.webp)
 
-
-Chagua jina la Wallet yako.
-
+Chagua jina la wallet yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/17.webp)
 
-
-Msingi wa Wallet yako sasa umewekwa. Ili kuthibitisha uhalisi wa Tapsigner yako, wakati wowote, unaweza kubofya kitufe cha "*Endesha ukaguzi wa afya*".
-
+Wallet yako sasa imeanzishwa. Ili kuthibitisha uhalisia wa Tapsigner yako, unaweza wakati wowote kubonyeza kitufe cha "*Run health check*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/18.webp)
 
-
-Weka PIN yako.
-
+Ingiza PIN yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/19.webp)
 
-
-Kisha weka kadi yako nyuma ya simu yako.
-
+Weka kadi yako nyuma ya simu tena.
 
 ![TAPSIGNER NUNCHUK](assets/notext/20.webp)
 
+## Jinsi ya kuunda wallet kwenye Tapsigner?
 
-## Jinsi ya kuunda Wallet kwenye Tapsigner?
-
-
-Ukirudi kwenye ukurasa wa nyumbani wa Nunchuk, unaweza kuona kuwa Tapsigner yako imesajiliwa katika vifaa vinavyopatikana vya kutia sahihi.
-
+Rudi kwenye ukurasa wa mwanzo wa Nunchuk, utaona Tapsigner yako iko kwenye orodha ya vifaa vya kusaini.
 
 ![TAPSIGNER NUNCHUK](assets/notext/21.webp)
 
-
-Sasa utahitaji generate funguo za Bitcoin Wallet yako. Ili kufanya hivyo, bofya kitufe cha "**" kilicho upande wa kulia wa kichupo cha "*Pochi*".
-
+Sasa utatakiwa kutengeneza keys za Bitcoin wallet yako. Kufanya hivyo, bonyeza kitufe cha "*+*" upande wa kulia wa tab ya "*Wallets*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/22.webp)
 
-
-Bonyeza "* Unda mpya Wallet*".
-
+Bonyeza "*Create new wallet*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/23.webp)
 
-
-Kisha chagua chaguo "* Unda Wallet mpya kwa kutumia funguo zilizopo *".
-
+Chagua "*Create a new wallet using existing keys*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/24.webp)
 
-
-Chagua jina la Wallet yako kisha ubofye "*Endelea*".
-
+Chagua jina la wallet yako na bonyeza "*Continue*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/25.webp)
 
-
-Chagua Tapsigner yako kama kifaa cha kutia sahihi kwa seti hii mpya ya funguo, kisha ubofye "*Endelea*".
-
+Chagua Tapsigner yako kama kifaa cha kusaini, kisha bonyeza "*Continue*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/26.webp)
 
-
-Ikiwa kila kitu ni cha kuridhika kwako, thibitisha uumbaji.
-
+Ukiridhika na kila kitu, thibitisha utengenezaji.
 
 ![TAPSIGNER NUNCHUK](assets/notext/27.webp)
 
-Kisha unaweza kuhifadhi faili ya usanidi ya Wallet yako. Faili hii ina funguo zako za umma pekee, ambayo ina maana kwamba hata mtu akiifikia, hawezi kuiba bitcoins zako. Hata hivyo, wanaweza kufuata shughuli zako zote. Kwa hivyo, faili hii inatoa tu hatari kwa faragha yako. Katika baadhi ya matukio, inaweza kuwa muhimu kwa kurejesha Wallet yako.
+Unaweza kuhifadhi configuration file ya wallet yako. File hili lina public keys tu, hivyo hata mtu akilipata hawezi kuiba bitcoins zako. Lakini anaweza kufuatilia miamala yako yote. File hili ni hatari tu kwa faragha yako. Wakati mwingine, ni muhimu kwa ajili ya kurudisha wallet yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/28.webp)
 
-
-Na hapo unayo, Wallet yako imeundwa kwa mafanikio!
-
+Wallet yako imeundwa kikamilifu!
 
 ![TAPSIGNER NUNCHUK](assets/notext/29.webp)
 
-
-Wakati hutumii Tapsigner yako, kumbuka kuihifadhi katika kesi iliyotolewa na Coinkite, ambayo huzuia mawimbi ya redio ili kulinda dhidi ya usomaji usioidhinishwa.
-
+Usipotumia Tapsigner yako, hakikisha umeihifadhi kwenye kasha la Coinkite linalozuia mawimbi ili kulinda dhidi ya usomaji bila ruhusa.
 
 ## Jinsi ya kupokea bitcoins kwenye Tapsigner?
 
-
-Ili kupokea bitcoins, bofya kwenye Wallet yako.
-
+Kupokea bitcoins, bonyeza wallet yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/30.webp)
 
-
-Kisha tumia Address inayozalishwa kupokea bitcoins. Iwapo hapo awali umepokea bitcoins kwenye Wallet hii, utahitaji kubofya kitufe cha "*Pokea*" ili generate nafasi mpya tupu inayopokea Address.
-
+Kisha tumia address iliyotolewa kupokea bitcoins. Kama umewahi kupokea bitcoins kabla kwenye wallet hii, utatakiwa kubonyeza kitufe cha "*Receive*" ili kutoa address mpya ya kupokea.
 
 ![TAPSIGNER NUNCHUK](assets/notext/31.webp)
 
-
-Baada ya shughuli ya mtumaji kutangazwa, utaona ikionekana kwenye Wallet yako.
-
+Muamala wa mtumaji ukishatolewa, utaonekana kwenye wallet yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/32.webp)
 
-
-Bofya kwenye "* Tazama sarafu *".
-
+Bonyeza "*View coins*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/33.webp)
 
-
-Chagua UTXO yako mpya.
-
+Chagua UTXO mpya.
 
 ![TAPSIGNER NUNCHUK](assets/notext/34.webp)
 
-
-Bofya "**" karibu na "*Tags*" ili kuongeza lebo kwenye UTXO yako. Hili ni zoezi zuri, kwani hukusaidia kukumbuka asili ya sarafu zako na kuboresha faragha yako kwa matumizi ya siku zijazo.
-
+Bonyeza "*+*" karibu na "*Tags*" kuongeza lebo kwenye UTXO yako. Ni utaratibu mzuri kwani inakusaidia kukumbuka asili ya coins zako na kuboresha faragha unapofanya matumizi.
 
 ![TAPSIGNER NUNCHUK](assets/notext/35.webp)
 
-
-Chagua lebo iliyopo au uunde mpya, kisha ubofye "*Hifadhi*". Pia una chaguo la kuunda "*mikusanyiko*" ili kupanga sarafu zako kwa njia iliyopangwa zaidi.
-
+Chagua tag iliyopo au tengeneza mpya, kisha bonyeza "*Save*". Unaweza pia tengeneza "*collections*" kupanga coins zako vizuri zaidi.
 
 ![TAPSIGNER NUNCHUK](assets/notext/36.webp)
 
-
 ## Jinsi ya kutuma bitcoins na Tapsigner?
 
-
-Kwa kuwa sasa una bitcoins kwenye Wallet yako, unaweza pia kuzituma. Ili kufanya hivyo, bofya kwenye Wallet ya chaguo lako.
-
+Baada ya kuwa na bitcoins kwenye wallet yako, unaweza pia kuzituma. Bonyeza wallet unayotaka kutumia.
 
 ![TAPSIGNER NUNCHUK](assets/notext/37.webp)
 
-
-Bonyeza kitufe cha "* Tuma *".
-
+Bonyeza kitufe cha "*Send*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/38.webp)
 
-
-Chagua kiasi cha kutuma, kisha ubofye "*Endelea*".
-
+Chagua kiasi cha kutuma, kisha bonyeza "*Continue*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/39.webp)
 
-
-Ongeza "*noti*" kwenye muamala wako ujao ili kukumbuka madhumuni yake.
-
+Ongeza "*note*" kwenye muamala wako ili kukumbuka madhumuni yake.
 
 ![TAPSIGNER NUNCHUK](assets/notext/40.webp)
 
-Ifuatayo, ingiza mwenyewe Address ya mpokeaji kwenye uwanja uliowekwa.
+Kisha, ingiza address ya mpokeaji kwenye sehemu husika.
 
 ![TAPSIGNER NUNCHUK](assets/notext/41.webp)
 
-
-Unaweza pia kuchanganua msimbo wa QR uliosimbwa Address kwa kubofya aikoni iliyo upande wa juu kulia wa skrini.
-
+Unaweza pia kuskani address yenye QR code kwa kubonyeza icon iliyo juu kulia ya skrini.
 
 ![TAPSIGNER NUNCHUK](assets/notext/42.webp)
 
-
-Bofya kitufe cha "*Unda Muamala*".
-
+Bonyeza kitufe cha "*Create Transaction*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/43.webp)
 
-
-Thibitisha maelezo ya muamala wako, kisha ubofye kitufe cha "*Saini*" karibu na Tapsigner yako.
-
+Kagua taarifa za muamala wako, kisha bonyeza kitufe cha "*Sign*" karibu na Tapsigner yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/44.webp)
 
-
-Weka PIN yako ili kuifungua.
-
+Ingiza PIN yako ili kufungua.
 
 ![TAPSIGNER NUNCHUK](assets/notext/45.webp)
 
-
-Kisha weka Tapsigner nyuma ya simu yako mahiri.
-
+Weka Tapsigner nyuma ya simu.
 
 ![TAPSIGNER NUNCHUK](assets/notext/46.webp)
 
-
-Muamala wako sasa umetiwa saini. Angalia mara ya mwisho kuwa kila kitu kiko sawa, kisha ubofye "*Muamala wa Matangazo*" ili kuutangaza kwenye mtandao wa Bitcoin.
-
+Muamala wako sasa umesainiwa. Hakikisha kila kitu kiko sawa, kisha bonyeza "*Broadcast Transaction*" kuituma kwenye mtandao wa Bitcoin.
 
 ![TAPSIGNER NUNCHUK](assets/notext/47.webp)
 
-
-Muamala wako sasa unangoja uthibitisho.
-
+Muamala wako unasubiri uthibitisho.
 
 ![TAPSIGNER NUNCHUK](assets/notext/48.webp)
 
+## Jinsi ya kurejesha wallet ukiipoteza Tapsigner?
 
-## Jinsi ya kurejesha Wallet katika kesi ya kupoteza kwa Tapsigner?
+Ukipoteza Tapsigner yako, unaweza kurudisha wallet ukitumia code iliyoandikwa nyuma ya kadi. Ni muhimu kuihifadhi code hii mbali na Tapsigner yako, kwa sababu ukipoteza kadi, utapoteza pia code hiyo. Utahitaji pia backup iliyofichwa ya wallet.
 
+Kwa urejeshaji, tutatumia Nunchuk, lakini kumbuka utakuwa unaweka fedha zako kwenye hot wallet kwa muda. Kama Tapsigner yako ilikuwa inalinda kiasi kikubwa, fikiria kutumia Coldcard mpya kufanya urejeshaji huo huo.
 
-Ikiwa umepoteza Tapsigner yako, unaweza kurejesha Wallet yako ukitumia msimbo uliowekwa nyuma ya kadi. Kwa hiyo ni muhimu kuhifadhi msimbo huu tofauti na Tapsigner, kwa sababu ikiwa kadi imepotea, ufikiaji wa msimbo huu pia utapotea. Utahitaji pia chelezo iliyosimbwa kwa njia fiche ya Wallet.
-
-
-Kwa urejeshaji, tutatumia programu ya Nunchuk, lakini kumbuka kuwa hii inamaanisha kupata pesa zako kwa muda katika Hot Wallet. Ikiwa Tapsigner yako ilikuwa inalinda kiasi kikubwa, zingatia kufuata mchakato sawa wa kurejesha ukitumia Coldcard mpya badala yake.
-
-
-Fungua programu ya Nunchuk na ubofye kitufe cha "**" karibu na kichupo cha "*Vifunguo".
-
+Fungua Nunchuk na bonyeza kitufe cha "*+*" karibu na tab ya "*Keys*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/49.webp)
 
-
-Chagua "*Ongeza kitufe cha NFC*".
-
+Chagua "*Add NFC key*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/50.webp)
 
-
-Chagua chaguo "* Rejesha kitufe cha TAPSIGNER kutoka kwa chelezo*".
-
+Chagua "*Recover TAPSIGNER key from backup*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/51.webp)
 
-
-Kisha utaelekezwa kwenye kichunguzi cha faili cha kifaa chako. Tafuta na uchague faili chelezo iliyosimbwa kwa njia fiche ya Wallet yako. Kwa kawaida, jina la faili hili huanza na `chelezo...`.
-
+Utaelekezwa kwenye file explorer ya kifaa chako. Tafuta na chagua file ya backup iliyofichwa ya wallet yako. Kwa kawaida jina la file linaanza na `backup...`.
 
 ![TAPSIGNER NUNCHUK](assets/notext/52.webp)
 
-
-Ingiza nenosiri ambalo linasimbua faili ya chelezo. Nenosiri hili linalingana na lile lililowekwa kwenye sehemu ya nyuma ya Tapsigner yako.
-
+Ingiza nenosiri la kufungua backup file. Nenosiri hili ni lile uliandika nyuma ya Tapsigner yako.
 
 ![TAPSIGNER NUNCHUK](assets/notext/53.webp)
 
-Kisha chagua jina la urejeshaji wako Wallet.
+Chagua jina la wallet yako mpya ya kurejesha.
 
 ![TAPSIGNER NUNCHUK](assets/notext/54.webp)
 
-
-Sasa umepata tena ufikiaji wa bitcoins zako. Wallet yako sasa inadhibitiwa kama Hot Wallet inayoonekana kwenye kichupo cha "*Vifunguo*" cha programu ya Nunchuk. Kisha, unahitaji kuunda seti mpya ya vitufe vya kriptografia katika sehemu ya "*Pochi*" kwa kuhusisha ufunguo huu nayo. Ili kufanya hivi, unaweza kufuata hatua tena katika sehemu ya "*Jinsi ya kuunda Wallet kwenye Tapsigner?*" ya mafunzo haya.
-
+Umerudisha bitcoins zako. Wallet yako sasa inasimamiwa kama hot wallet inayoonekana kwenye tab ya "*Keys*" ndani ya Nunchuk. Sasa utatakiwa kutengeneza set mpya ya cryptographic keys kwenye sehemu ya "*Wallets*" kwa kuunganisha key hii. Fuata hatua kama kwenye sehemu ya "*Jinsi ya kuunda wallet kwenye Tapsigner?*".
 
 ![TAPSIGNER NUNCHUK](assets/notext/55.webp)
 
+Ukishapoteza Tapsigner yako, nakushauri mara moja uhamishe bitcoins zako kwenye wallet nyingine unayomiliki, bora zaidi ikiwa inalindwa na hardware wallet. Kweli, Tapsigner uliyoipoteza inaweza kuwa mikononi mwa mtu asiyeaminika. Ni muhimu kufuta wallet uliyoirejesha na kuacha kuitumia.
 
-Ikiwa umepoteza Tapsigner yako, ninakushauri sana uhamishe bitcoins zako mara moja kwa Wallet nyingine unayomiliki, iliyolindwa vyema na Hardware Wallet. Hakika, Tapsigner uliyopoteza inaweza kuwa katika mikono isiyo sahihi. Kwa hivyo ni muhimu kuondoa Wallet ambayo umepona na kuacha kuitumia.
-
-
-Hongera, sasa uko kwenye kasi ya kutumia Tapsigner! Ikiwa umepata mafunzo haya kuwa ya manufaa, ningeshukuru ikiwa unaweza kuacha dole gumba hapa chini. Jisikie huru kushiriki nakala hii kwenye mitandao yako ya kijamii. Asante sana!
+Hongera, sasa umejifunza kutumia Tapsigner! Kama umefaidika na mafunzo haya, tafadhali tupatie alama ya kidole gumba hapa chini. Usisite kushiriki makala hii kwenye mitandao yako ya kijamii. Asante sana!
