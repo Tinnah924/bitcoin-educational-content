@@ -55,7 +55,7 @@ https://planb.network/tutorials/contribution/others/create-github-account-a75fc3
 ![event](assets/08.webp)
 
 
-- Jaza faili hii habari kuhusu mkutano wako kwa kutumia kiolezo hiki:
+- Jaza faili hii habari kuhusu mkutano wako kwa kutumia kielelezo hiki:
 
 
 ```yaml
@@ -115,7 +115,7 @@ tags:
 
 ![event](assets/09.webp)
 
-Ikiwa bado huna kitambulisho cha "*mjenzi*" cha shirika lako, unaweza kukiongeza kwa kufuata mafunzo haya mengine.
+Ikiwa bado hauna kitambulisho cha "*mjenzi*" cha shirika lako, unaweza kukiongeza kwa kufuata mafunzo haya mengine.
 
 
 https://planb.network/tutorials/contribution/resource/add-builder-b5834c46-6dcc-4064-8d68-1ef529991d3d
@@ -153,7 +153,7 @@ https://planb.network/tutorials/contribution/resource/add-builder-b5834c46-6dcc-
 ![event](assets/15.webp)
 
 
-- Unapaswa kuona arifa juu ya dirisha na tawi lako jipya. Pengine inaitwa `kiraka-1`. Bonyeza juu yake:
+- Unapaswa kuona arifa juu ya dirisha na tawi lako jipya. Pengine linaitwa `kiraka-1`. Bonyeza juu yake:
 
 ![event](assets/16.webp)
 

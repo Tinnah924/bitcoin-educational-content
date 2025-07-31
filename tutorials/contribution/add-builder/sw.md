@@ -83,7 +83,7 @@ category:
 ```
 
 
-Hapa ni nini cha kujaza kwa kila ufunguo:
+Hapa pana nini cha kujaza kwa kila ufunguo:
 
 
 - `jina`: Jina la kampuni yako (lazima);
@@ -169,7 +169,7 @@ category: education
 ![project](assets/15.webp)
 
 
-- Unapaswa kuona arifa juu ya dirisha na tawi lako jipya. Pengine inaitwa `kiraka-1`. Bonyeza juu yake:
+- Unapaswa kuona arifa juu ya dirisha na tawi lako jipya. Pengine linaitwa `kiraka-1`. Bonyeza juu yake:
 
 ![project](assets/16.webp)
 
@@ -282,7 +282,7 @@ contributors:
 
 
 - Kwa kitufe cha `wachangiaji`, unaweza kuongeza kitambulisho chako cha mchangiaji kwenye PlanB Network ikiwa unayo. Usipofanya hivyo, acha uga huu tupu.
-- Kwa kitufe cha `maelezo`, unahitaji tu kuongeza aya fupi inayoelezea kampuni yako au programu yako. Maelezo lazima yawe katika lugha sawa na jina la faili. Huhitaji kutafsiri maelezo haya katika lugha zote zinazotumika kwenye tovuti, kwani timu za PlanB zitafanya hivyo kwa kutumia muundo wao. Kwa mfano, hii ndio faili yako inaweza kuonekana kama:
+- Kwa kitufe cha `maelezo`, unahitaji tu kuongeza aya fupi inayoelezea kampuni yako au programu yako. Maelezo lazima yawe katika lugha sawa na jina la faili. Hauhitaji kutafsiri maelezo haya katika lugha zote zinazotumika kwenye tovuti, kwani timu za PlanB zitafanya hivyo kwa kutumia muundo wao. Kwa mfano, hii ndiyo faili yako na inaweza kuonekana kama hivi:
 
 ```yaml
 description: |
