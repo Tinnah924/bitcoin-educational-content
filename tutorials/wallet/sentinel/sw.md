@@ -1,5 +1,5 @@
 ---
-name: Sentinel Watch-Pekee
+name: Sentinel Watch-only 
 description: Watch-only wallet ni nini na jinsi ya kuitumia?
 ---
 
@@ -8,52 +8,49 @@ description: Watch-only wallet ni nini na jinsi ya kuitumia?
 
 ---
 
-**\*ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kukamatwa kwa seva zao mnamo Aprili 24, programu ya Sentinel inaendelea kufanya kazi, lakini **ni lazima kutumia Dojo** yako ili kufikia maelezo ya Blockchain na shughuli za kutangaza.\*
+**\*ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kukamatwa kwa seva zao mnamo Aprili 24, programu ya Sentinel inaendelea kufanya kazi, lakini **ni lazima kutumia Dojo** yako ili kufikia maelezo ya Blockchain na miamala za kutangaza.\*
 
 
-_Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
+_Tunafuatilia kwa karibu maendeleo ya suala hili pamoja na taarifa kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadri habari mpya zitakavyopatikana_.
 
-
-_Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi au kuhimiza matumizi ya zana hizi kwa madhumuni ya uhalifu. Ni wajibu wa kila mtumiaji kutii sheria katika eneo la mamlaka yake._
-
+_Mafunzo haya yametolewa kwa madhumuni ya kielimu na taarifa pekee. Hatuidhinishi wala kuhimiza matumizi ya zana hizi kwa madhumuni yoyote ya kihalifu. Kila mtumiaji anawajibika kufuata sheria za eneo lake la mamlaka_.
 
 ---
 
 > Weka funguo zako za faragha, za faragha.
 
-Katika makala hii, tunachunguza kila kitu unachohitaji kujua kuhusu pochi za saa pekee. Tunajadili jinsi wanavyofanya kazi na kuchunguza maombi tofauti yanayopatikana kwenye soko. Hatimaye, tunatoa mafunzo ya kina juu ya mojawapo ya programu maarufu za Watch-only wallet: Sentinel.
+Katika makala hii, tunachunguza kila kitu unachohitaji kujua kuhusu Wallet za saa pekee. Tunajadili jinsi zinavyofanya kazi na kuchunguza programu mbalimbali zinazopatikana sokoni. Hatimaye, tunatoa mafunzo ya kina kuhusu mojawapo ya programu maarufu za Watch-only wallet: Sentinel.
 
 
 ## Watch-only wallet ni nini?
 
 
-Watch-only wallet, au Wallet ya kusoma tu, ni aina ya programu iliyoundwa ili kumruhusu mtumiaji kutazama miamala inayohusishwa na funguo moja au zaidi mahususi za umma za Bitcoin, bila kupata funguo za faragha zinazolingana.
+Watch-only wallet, au Wallet ya kusoma tu, ni aina ya programu iliyoundwa kumruhusu mtumiaji kutazama miamala zinazohusiana na funguo moja au zaidi mahususi za umma za Bitcoin, bila kuwa na ufikiaji wa funguo za faragha zinazolingana.
 
 
-Aina hii ya programu huhifadhi tu data muhimu kwa ufuatiliaji wa Bitcoin Wallet, ikiwa ni pamoja na kuangalia salio lake na historia ya muamala, lakini haina ufikiaji wa funguo za faragha. Kwa hiyo, haiwezekani kutumia bitcoins zilizofanyika kwenye Wallet kwenye programu ya kuangalia tu.
+Aina hii ya programu huhifadhi tu data muhimu kwa ufuatiliaji wa Bitcoin Wallet, ikiwa ni pamoja na kuangalia salio na historia ya miamala, lakini haina ufikiaji wa funguo za faragha. Kwa hiyo, haiwezekani kutumia bitcoins zilizohifadhiwa kwenye Wallet kupitia programu ya saa pekee.
 
 ![watch-only](assets/en/1.webp)
 
-Kutazama pekee kwa ujumla hutumiwa pamoja na Hardware Wallet. Hii inaruhusu uhifadhi wa funguo za faragha za Wallet "Cold," kwenye kifaa ambacho hakijaunganishwa kwenye mtandao, ambacho kina sehemu ndogo ya mashambulizi, ikitenga funguo za faragha kutoka kwa mazingira yanayoweza kuathirika. Programu ya saa pekee, kwa upande mwingine, huhifadhi ufunguo uliopanuliwa wa umma (`xpub`, `zpub`, n.k.) wa Bitcoin Wallet. Ufunguo huu wa mzazi hauruhusu ugunduzi wa funguo za faragha zinazohusiana na, kwa hiyo, hauruhusu matumizi ya bitcoins. Hata hivyo, inaruhusu kupata funguo za umma za watoto na anwani za kupokea. Kwa ujuzi wa anwani za Wallet zinazolindwa na Hardware Wallet, programu ya saa pekee inaweza kufuatilia miamala hii kwenye mtandao wa Bitcoin, ikimpa mtumiaji uwezo wa kufuatilia salio lake na anwani mpya za generate za kupokea, bila kulazimika kuunganisha Hardware Wallet yao kila wakati.
+Kutazama pekee kwa ujumla hutumiwa pamoja na Hardware Wallet. Hii inaruhusu uhifadhi wa funguo za faragha za Wallet "Cold," kwenye kifaa ambacho hakijaunganishwa kwenye mtandao, ambacho kina sehemu ndogo ya mashambulizi, ikitenga funguo za faragha kutoka kwa mazingira yanayoweza kuathirika. Programu ya saa pekee, kwa upande mwingine, huhifadhi ufunguo uliopanuliwa wa umma (`xpub`, `zpub`, n.k.) wa Bitcoin Wallet. Ufunguo huu wa mzazi hauruhusu ugunduzi wa funguo za faragha zinazohusiana na, kwa hiyo, hauruhusu matumizi ya bitcoins. Hata hivyo, inaruhusu kupata funguo za umma za zinazotokana na address za kupokea. Kwa ujuzi wa anwani za Wallet zinazolindwa na Hardware Wallet, programu ya saa pekee inaweza kufuatilia miamala hii kwenye mtandao wa Bitcoin, ikimpa mtumiaji uwezo wa kufuatilia salio lake na anwani mpya za generate za kupokea, bila kulazimika kuunganisha Hardware Wallet yao kila wakati.
 
 
 ## Watch-only wallet ipi ya kutumia?
 
 
-Kwa sasa, programu pana zaidi ya saa pekee ni [Sentinel](https://sentinel.watch/), iliyotengenezwa na timu za Samourai Wallet. Inajumuisha vipengele vyote muhimu kwa Watch-only wallet nzuri:
+Kwa sasa, programu pana zaidi ya saa pekee ni [Sentinel](https://sentinel.watch/), iliyotengenezwa na timu za Samourai Wallet. Inajumuisha elements zote muhimu kwa Watch-only wallet nzuri:
 
 
+- Usaidizi wa funguo zilizopanuliwa, funguo za umma, na anwani  
+- Uwezo wa kupanga akaunti nyingi au wallet kwenye makusanyo  
+- Kizazi cha anwani za kupokea bitcoins kwenye Hardware Wallet ya mtu bila kuhitaji matumizi yake ya moja kwa moja  
+- Uwezo wa kuunda na kutangaza muamala nje ya mkondo  
+- Chaguo la kuunganisha kwenye node ya Bitcoin ya mtu mwenyewe  
+- Ujumuishaji wa Tor kwa faragha iliyoimarishwa  
 
-- Usaidizi wa funguo zilizopanuliwa, funguo za umma, na anwani;
-- Uwezo wa kupanga akaunti nyingi au pochi kwenye makusanyo;
-- Kizazi cha anwani za kupokea bitcoins kwenye Hardware Wallet ya mtu bila kuhitaji matumizi yake ya moja kwa moja;
-- Uwezo wa kuunda na kutangaza shughuli nje ya mkondo;
-- Chaguo la kuunganisha kwenye node ya Bitcoin ya mtu mwenyewe;
-- Ujumuishaji wa Tor kwa faragha iliyoimarishwa.
+Upungufu wa kipekee wa Sentinel unatokana na ukweli kwamba programu inapatikana kwa ajili ya Android pekee na haitumii wallet zenye saini nyingi. Kwa hiyo, ikiwa unamiliki kifaa cha Android na Wallet yako ni sahihi moja ya kawaida, ninapendekeza Sentinel.
 
-Upungufu wa kipekee wa Sentinel unatokana na ukweli kwamba programu inapatikana kwa ajili ya Android pekee na haitumii pochi zenye saini nyingi. Kwa hivyo, ikiwa unamiliki kifaa cha Android na Wallet yako ni sahihi moja ya kawaida, ninapendekeza Sentinel.
-
-Kwa wale wanaotaka kufuatilia Wallet yenye saini nyingi, Blue Wallet ndiyo programu pekee ninayoijua ambayo inatoa hali ya kuangalia pekee kwa aina hizi za pochi, na inapatikana kwenye Android na iOS.
+Kwa wale wanaotaka kufuatilia Wallet yenye saini nyingi, Blue Wallet ndiyo programu pekee ninayoijua ambayo inatoa hali ya kuangalia pekee kwa aina hizi za wallet, na inapatikana kwenye Android na iOS.
 
 
 Kwa watumiaji wa iOS wanaotafuta njia mbadala ya Sentinel, [Green Wallet](https://blockstream.com/Green/) au [Blue Wallet](https://bluewallet.io/watch-only/) inaweza kuwa chaguo, ingawa utendakazi wao wa saa pekee si wa kina kama wa Sentinel.
@@ -75,8 +72,6 @@ Anza kwa kusakinisha programu ya Sentinel. Unaweza kufanya hivi ukiwa kwenye Goo
 
 Unapofungua programu kwanza, unapewa chaguo kati ya:
 
-
-
 - `Unganisha kwa Dojo`;
 - `Unganisha kwa seva ya Samourai`.
 
@@ -93,7 +88,7 @@ Ikiwa una Dojo yako mwenyewe, unaweza kuiunganisha katika hatua hii. Kwa kufanya
 ![watch-only](assets/notext/4.webp)
 
 
-Vinginevyo, inawezekana kuchagua seva chaguo-msingi ya Samourai. Unaweza pia kuchagua ikiwa uunganishe kupitia Tor au la.
+Vinginevyo, unaweza kutumia seva chaguo-msingi ya Samourai. Pia, unaweza kuchagua kama unataka kuunganisha kupitia Tor au la.
 
 
 ![watch-only](assets/notext/5.webp)
@@ -110,7 +105,7 @@ Ili kuanza, unaweza kusanidi programu. Bofya kwenye vitone vitatu vidogo kwenye 
 
 ![watch-only](assets/notext/7.webp)
 
-Kwa kuchagua `Msimbo wa PIN ya Mtumiaji`, una chaguo la kuweka nenosiri ili kupata ufikiaji wa Watch-only wallet yako. Pia una uwezo wa kubadilisha sarafu ya marejeleo ya kubadilisha salio lako kuwa sarafu ya fiat, au hata kuficha thamani za fiat kwa kuwezesha chaguo la `Ficha thamani za fiat`. Kwa usalama ulioimarishwa, unaweza kuwezesha `Lemaza Picha za skrini`, ambayo huzuia picha zozote za skrini za programu yako ya Sentinel na hivyo kuepuka ufichuzi wowote wa maelezo kwenye skrini ya nje.
+Kwa kuchagua `Msimbo wa PIN ya Mtumiaji`, una chaguo la kuweka nenosiri ili kupata ufikiaji wa Watch-only wallet yako. Pia una uwezo wa kubadilisha sarafu ya marejeleo ya kufanya exchange ya salio lako kuwa sarafu ya fiat, au hata kuficha thamani za fiat kwa kuwezesha chaguo la `Ficha thamani za fiat`. Kwa usalama ulioimarishwa, unaweza kuwezesha `Lemaza Picha za skrini`, ambayo huzuia picha zozote za skrini za programu yako ya Sentinel na hivyo kuepuka ufichuzi wowote wa maelezo kwenye skrini ya nje.
 
 ![watch-only](assets/notext/8.webp)
 
@@ -121,7 +116,7 @@ Katika menyu hii ya mipangilio, pia una chaguo la kuhifadhi nakala ya Sentinel y
 ### Kwa kutumia Watch-only wallet
 
 
-Kutoka kwa ukurasa wa nyumbani, bonyeza kitufe cha bluu `MPYA` ili kuongeza ufunguo mpya wa umma uliopanuliwa ili kufuatilia. Kisha utakuwa na chaguo la kuchanganua msimbo wa QR wa ufunguo wako, au kubandika moja kwa moja ufunguo (`xpub`, `zpub`...) kwa kuchagua `Bandika Pubkey`.
+Kutoka kwa ukurasa wa nyumbani, bonyeza kitufe cha blue `MPYA` ili kuongeza ufunguo mpya wa umma uliopanuliwa ili kufuatilia. Kisha utakuwa na chaguo la kuchanganua msimbo wa QR wa ufunguo wako, au kubandika moja kwa moja ufunguo (`xpub`, `zpub`...) kwa kuchagua `Bandika Pubkey`.
 
 
 ![watch-only](assets/notext/9.webp)
@@ -133,7 +128,7 @@ Kwa ujumla, `xpub` ya Wallet yako inapatikana moja kwa moja kupitia programu ya 
 ![watch-only](assets/notext/10.webp)
 
 
-Baada ya kuweka ufunguo uliopanuliwa wa umma katika Sentinel, programu hukupa kuunda mkusanyiko mpya. Mkusanyiko unawakilisha seti ya vitufe vilivyopanuliwa vya umma vilivyopangwa pamoja. Chaguo hili hukupa uwezekano sio tu kuorodhesha `xpub` zako zote, lakini kuziainisha kwa utaratibu. Kwa mfano, ikiwa una Samourai Wallet iliyo na akaunti nyingi (amana, premix, mchanganyiko wa posta...), unaweza kukusanya akaunti hizi zote chini ya mkusanyiko wa `Samourai`. Kwa pochi zinazodhibitiwa kwa ajili ya familia yako, unaweza kuunda mkusanyiko unaoitwa `Familia`.
+Baada ya kuweka ufunguo uliopanuliwa wa umma katika Sentinel, programu hukupa kuunda mkusanyiko mpya. Mkusanyiko unawakilisha seti ya vitufe vilivyopanuliwa vya umma vilivyopangwa pamoja. Chaguo hili hukupa uwezekano sio tu kuorodhesha `xpub` zako zote, lakini kuziainisha kwa utaratibu. Kwa mfano, ikiwa una Samourai Wallet iliyo na akaunti nyingi (amana, premix, mchanganyiko wa posta...), unaweza kukusanya akaunti hizi zote chini ya mkusanyiko wa `Samourai`. Kwa wallet zinazodhibitiwa kwa ajili ya familia yako, unaweza kuunda mkusanyiko unaoitwa `Familia`.
 
 
 Chagua `Unda mkusanyiko mpya`. Kisha ingiza jina la ufunguo uliopanuliwa ambao umeunganisha. Kwa mfano, nikichanganua akaunti ya amana ya Samourai Wallet yangu, ningeupa ufunguo huu `Amana`. Bofya kwenye `HIFADHI` ili kukamilisha.
@@ -142,7 +137,7 @@ Chagua `Unda mkusanyiko mpya`. Kisha ingiza jina la ufunguo uliopanuliwa ambao u
 ![watch-only](assets/notext/11.webp)
 
 
-Kisha, weka jina kwa mkusanyiko huu na ubonyeze aikoni ya uthibitishaji iliyo upande wa juu kulia wa skrini ili kuhifadhi mkusanyiko. Mkusanyiko wako sasa unaonekana kwenye skrini ya kwanza ya Sentinel.
+Kisha, weka jina kwa mkusanyiko huu na ubonyeze aikoni ya uthibitisho iliyo upande wa juu kulia wa skrini ili kuhifadhi mkusanyiko. Mkusanyiko wako sasa unaonekana kwenye skrini kuu ya Sentinel.
 
 
 ![watch-only](assets/notext/12.webp)
@@ -153,7 +148,7 @@ Ikiwa ungependa kuongeza ufunguo mwingine uliopanuliwa wa umma, bofya kwenye `MP
 
 ![watch-only](assets/notext/13.webp)
 
-Kisha utaombwa kuchagua mkusanyiko unaotaka kujumuisha ufunguo huu, au kuunda mpya. Kwa mfano, katika kesi yangu, nimeanzisha mkusanyiko mahsusi kwa Ledger Wallet yangu.
+Kisha utaombwa kuchagua mkusanyiko unaotaka kujumuisha ufunguo huu, au kuunda mpya. Kwa mfano, katika kesi yangu, nimeanzisha mkusanyiko maalum kwa Ledger Wallet yangu.
 
 ![watch-only](assets/notext/14.webp)
 
@@ -173,10 +168,10 @@ Kutoka kwa mkusanyiko, kwa kugonga vitone vitatu kwenye sehemu ya juu kulia, kis
 ### Kutuma na Kupokea Bitcoins kutoka Sentinel
 
 
-Kama ilivyo kwa Watch-only wallet yoyote nzuri, Sentinel hukuruhusu kupokea generate anwani ili kupokea bitcoins kwenye Wallet inayofuatiliwa. Lakini Sentinel pia inatoa kipengele kingine cha juu: uundaji na utangazaji wa Partially Signed Bitcoin Transaction (PSBT). Kwa hivyo, Wallet iliyoshikilia funguo za kibinafsi inaweza kusaini shughuli hii, ambayo, ikiwa imesainiwa, inaweza kutangazwa kwenye mtandao wa Bitcoin na Sentinel. Wacha tuone jinsi ya kufanya haya yote.
+Kama ilivyo kwa Watch-only wallet yoyote nzuri, Sentinel hukuruhusu kutengeneza anwani ili kupokea bitcoins kwenye Wallet inayofuatiliwa. Lakini Sentinel pia inatoa element nyingine ya juu: uundaji na utangazaji wa Partially Signed Bitcoin Transaction (PSBT). Hivyo basi, Wallet inayoshikilia funguo za kibinafsi inaweza kusaini muamala huu, ambao, ukisha sainiwa, unaweza kutangazwa kwenye mtandao wa Bitcoin kupitia Sentinel. Hebu tuone jinsi ya kufanya haya yote.
 
 
-**Tahadhari, haipendekezwi kupokea bitcoins kwenye Address inayopokea ambayo haijathibitishwa na Wallet yenyewe.** Ikiwa Wallet iliyoshikilia funguo za faragha, kama vile Hardware Wallet, haijathibitisha wazi kwamba Address fulani inahusishwa nayo, kutuma bitcoins kwa Address hii ni mazoezi hatari. Hakika, bila uthibitisho huu, hakuna hakikisho kwamba Address ni mali ya Wallet yako. Kwa hivyo, utendakazi wa kupokea wa Watch-only wallet unapaswa kutumiwa kwa tahadhari, ikizingatiwa kuwa pesa zilizotumwa zinaweza kupotea.
+**Tahadhari, haipendekezwi kupokea bitcoins kwenye Address inayopokea ambayo haijathibitishwa na Wallet yenyewe.** Ikiwa Wallet inayoshikilia funguo za faragha, kama vile Hardware Wallet, haijathibitisha wazi kuwa Address fulani inahusiana nayo, kutuma bitcoins kwa Address hiyo ni jambo la hatari. Bila uthibitisho huo, hakuna hakikisho kwamba Address hiyo ni ya Wallet yako. Kwa hivyo, utendakazi wa kupokea wa Watch-only wallet unapaswa kutumiwa kwa tahadhari, kwani pesa zilizotumwa zinaweza kupotea.
 
 
 Ili kupokea bitcoins kupitia Sentinel, chagua mkusanyiko wa mambo yanayokuvutia, kisha ubofye kichupo kinacholingana na ufunguo uliopanuliwa wa umma ambao ungependa kuhamishia pesa.
@@ -191,7 +186,7 @@ Hatimaye, bofya kwenye ikoni ya mshale chini kushoto ya skrini. Sentinel kisha i
 ![watch-only](assets/notext/18.webp)
 
 
-Kwa generate PSBT kutoka Sentinel, na hivyo kuanzisha shughuli ya matumizi, nenda kwenye ufunguo uliopanuliwa wa Wallet ambao ungependa kufanya malipo. Hebu tuchukue, kwa mfano, akaunti yangu ya amana kwenye Samourai Wallet yangu. Kisha bonyeza kwenye ikoni ya mshale iliyo chini ya kulia ya skrini.
+Kwa ajili ya kutengeneza PSBT kutoka Sentinel, na hivyo kuanzisha muamala wa matumizi, nenda kwenye ufunguo uliopanuliwa wa Wallet ambao ungependa kutumia kwa malipo. Hebu tuchukue, kwa mfano, akaunti yangu ya amana kwenye Samourai Wallet yangu. Kisha bonyeza ikoni ya mshale iliyoko chini kulia mwa skrini.
 
 
 ![watch-only](assets/notext/19.webp)
@@ -200,8 +195,7 @@ Kwa generate PSBT kutoka Sentinel, na hivyo kuanzisha shughuli ya matumizi, nend
 Ingiza vigezo vyote vinavyohusiana na muamala wako:
 
 
-
-- Ingiza Address ya mpokeaji (kwa kubofya ikoni ya msimbo wa QR, una chaguo la kuchanganua Address hii);
+- Weka Address ya mpokeaji (kwa kubofya ikoni ya msimbo wa QR, una chaguo la kuchanganua Address hii);
 - Bainisha kiasi cha kutuma kwa Address hii;
 - Amua ada za muamala.
 
@@ -233,16 +227,13 @@ Baada ya muamala kusainiwa, unaweza kurudi kwa Sentinel ili kuutangaza. Ili kufa
 Una chaguo la kuingiza PSBT yako iliyotiwa saini kwa njia tatu tofauti:
 
 
-
 - Kwa kuibandika moja kwa moja kutoka kwa ubao wako wa kunakili;
 - Kwa kuiagiza kutoka kwa faili ya `.PSBT`;
 - Kwa kuichanganua kupitia msimbo wa QR.
 
-
 ![watch-only](assets/notext/24.webp)
 
 
-Baada ya shughuli iliyotiwa saini kuingizwa kwenye fremu ya kijivu, unaweza kubofya kitufe cha Green `BROADCAST TRANSACTION` ili kuitangaza kwenye mtandao wa Bitcoin. Sentinel itakupa txid yake.
-
+Baada ya muamala uliotiwa saini kuingizwa kwenye fremu ya kijivu, unaweza kubofya kitufe cha Green `BROADCAST TRANSACTION` ili kuitangaza kwenye mtandao wa Bitcoin. Sentinel itakupa txid yake.
 
 ![watch-only](assets/notext/25.webp)
