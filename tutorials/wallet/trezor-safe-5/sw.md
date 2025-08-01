@@ -42,7 +42,7 @@ Mtindo huu unafaa hasa kwa wanaoanza na watumiaji wa kati. Kwa upande mwingine, 
 
 
 
-Kama vile Safe 3, Trezor Safe 5 ina vifaa vilivyoidhinishwa vya **Elementi Salama** iliyoidhinishwa na EAL6+, maendeleo makubwa kwa miundo ya awali kama vile Model One na Model T. Hii ni chipu ya OPTIGA Trust M V3, ambayo haihifadhi seed moja kwa moja, lakini hufanya kazi kama sehemu ya siri ili kupata ufikiaji wake kwa usalama. Kipengele Salama huwa na siri ambayo inaweza kufikiwa tu baada ya mtumiaji kuingiza PIN kwa usahihi. Siri hii hutumika kusimbua seed, ambayo imehifadhiwa kwa njia fiche kwenye kumbukumbu kuu ya kifaa.
+Kama vile Safe 3, Trezor Safe 5 ina vifaa vilivyoidhinishwa vya **Element Salama** iliyoidhinishwa na EAL6+, maendeleo makubwa kwa miundo ya awali kama vile Model One na Model T. Hii ni chipu ya OPTIGA Trust M V3, ambayo haihifadhi seed moja kwa moja, lakini hufanya kazi kama sehemu ya siri ili kupata ufikiaji wake kwa usalama. Kipengele Salama huwa na siri ambayo inaweza kufikiwa tu baada ya mtumiaji kuingiza PIN kwa usahihi. Siri hii hutumika kusimbua seed, ambayo imehifadhiwa kwa njia fiche kwenye kumbukumbu kuu ya kifaa.
 
 
 
@@ -144,7 +144,7 @@ Fungua Trezor Suite, kisha ubofye kwenye "*Sanidi Trezor* yangu".
 
 
 
-Chagua "*Bitcoin-tu firmware*", kisha ubofye "*Sakinisha Bitcoin-pekee*".
+Chagua "*Bitcoin-only firmware*", kisha ubofye "*Sakinisha Bitcoin-pekee*".
 
 
 
