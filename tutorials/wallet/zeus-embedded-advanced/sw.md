@@ -1,6 +1,6 @@
 ---
-name: Zeus Iliyopachikwa - Advanced
-description: Wallet yenye nodi nyingi
+name: zeus-embedded-advanced
+description: Wallet yenye node nyingi
 ---
 
 ![Zeus](assets/cover.webp)
@@ -9,18 +9,18 @@ description: Wallet yenye nodi nyingi
 ## Utangulizi wa ZEUS Wallet
 
 
-ZEUS ni programu ya simu ya Bitcoin Wallet na usimamizi wa nodi yenye utendaji kamili wa Bitcoin umeme Wallet ambayo hurahisisha malipo ya Bitcoin, inawapa watumiaji udhibiti kamili wa fedha zao, na inaruhusu watumiaji wa hali ya juu zaidi kudhibiti nodi zao za Umeme kutoka kwenye kiganja cha mkono wao.
+ZEUS ni programu ya simu ya Bitcoin Wallet na usimamizi wa node yenye utendaji kamili wa Bitcoin Lightning  Wallet ambayo hurahisisha malipo ya Bitcoin, inawapa watumiaji udhibiti kamili wa fedha zao, na inaruhusu watumiaji wa hali ya juu zaidi kudhibiti node zao za Lightning kutoka kwenye kiganja cha mkono wao.
 
 
 ### ZEUS ni ya nani?
 
-Kwa sasa ZEUS ni ya watu wanaoendesha zao [Lightning Network Daemon (LND)](https://lightning.engineering/) au [Umeme wa Msingi wa Umeme (CLN)](https://blockstream.com/lightning/) nyumbani / nodi za biashara na uzidhibiti kupitia Zeus, ukiwa mbali.
+Kwa sasa ZEUS ni ya watu wanaoendesha zao [Lightning Network Daemon (LND)](https://lightning.engineering/) au [Umeme wa Msingi wa Umeme (CLN)](https://blockstream.com/lightning/) nyumbani / node za biashara na uzidhibiti kupitia Zeus, ukiwa mbali.
 
 
-Wauzaji wanaotumia [BTCPay](https://btcpayserver.org/) au [LNBits](https://lnbits.com/) au [Alby](https://getalby.com/) (au akaunti nyingine yoyote ya LNDhub) wanaweza pia kuunganisha kwenye, kutumia, na kudhibiti nodi/akaunti zao kutoka ZEUS.
+Wauzaji wanaotumia [BTCPay](https://btcpayserver.org/) au [LNBits](https://lnbits.com/) au [Alby](https://getalby.com/) (au akaunti nyingine yoyote ya LNDhub) wanaweza pia kuunganisha kwenye, kutumia, na kudhibiti node/akaunti zao kutoka ZEUS.
 
 
-[Kuanzia v0.8](https://blog.zeusln.com/zeus-v0-8-0-open-beta/), ZEUS itaanza kuhudumia watumiaji wastani ambao wanataka tu njia rahisi ya kufanya malipo ya haraka na ya bei nafuu ya Bitcoin kutoka kwa vifaa vyao vya mkononi kwa kuwa na [Njia ya umeme ya simu iliyojengewa ndani](https://docs.zeusl-nodi iliyojumuishwa na Huduma iliyojumuishwa) Mtoa huduma (LSP)](https://docs.zeusln.app/lsp/intro).
+[Kuanzia v0.8](https://blog.zeusln.com/zeus-v0-8-0-open-beta/), ZEUS itaanza kuhudumia watumiaji wastani ambao wanataka tu njia rahisi ya kufanya malipo ya haraka na ya bei nafuu ya Bitcoin kutoka kwa vifaa vyao vya mkononi kwa kuwa na [Njia ya umeme ya simu iliyojengewa ndani](https://docs.zeusl-node iliyojumuishwa na Huduma iliyojumuishwa) Mtoa huduma (LSP)](https://docs.zeusln.app/lsp/intro).
 
 
 ### Rasilimali muhimu za Zeus:
@@ -39,11 +39,11 @@ Wauzaji wanaotumia [BTCPay](https://btcpayserver.org/) au [LNBits](https://lnbit
 #### Vipengele vya jumla:
 
 
-- Kujitunza, Bitcoin na Umeme tu Wallet
+- Kujitunza, Bitcoin na Lightning  Wallet
 - Hakuna ada za usindikaji, Hakuna KYC
 - Chanzo huria kabisa (APGLv3)
-- Nodi nyingi / akaunti zinazotumika (unaweza kudhibiti nodi zako za nyumbani), endesha nodi iliyopachikwa ya LND, unganisha kwa akaunti nyingi za LNDhub)
-- Rahisi kutumia menyu ya shughuli
+- Node nyingi / akaunti zinazotumika (unaweza kudhibiti nodi zako za nyumbani), endesha nodi iliyopachikwa ya LND, unganisha kwa akaunti nyingi za LNDhub)
+- Rahisi kutumia menyu ya miamala 
 - Usimbaji PIN au passphrase, Hali ya Faragha - ficha data yako nyeti
 - Kitabu cha mawasiliano, mada nyingi, lugha nyingi
 
@@ -54,17 +54,17 @@ Wauzaji wanaotumia [BTCPay](https://btcpayserver.org/) au [LNBits](https://lnbit
 - Unganisha kupitia Tor
 - Usaidizi kamili wa LNURL (Lipa, toa, uthibitishaji, kituo), Tuma kwa anwani za Umeme
 - Udhibiti wa kina wa kituo cha Mwangaza, usaidizi wa MPP/AMP, Keysend, usimamizi wa ada za uelekezaji
-- Usaidizi wa Replace-by-fee (RBF) na Mtoto-kulipa-kwa-mzazi (CPFP)
+- Usaidizi wa Replace-by-fee (RBF) na Child-pay-for-parent (CPFP)
 - Malipo na maombi ya NFC, Saini na uthibitishe ujumbe
 - SegWit na Taproot msaada
 - Njia rahisi za Taproot
-- Anwani za umeme za kujilinda (@zeuspay.com)
+- Lightning address za kujilinda (@zeuspay.com)
 - Sehemu ya Uuzaji kwa Mraba (PoS itafunguliwa hivi karibuni)
 
 
 ### Miongozo na Mafunzo ya Video
 
-Ili kuweza kutumia Zeus na kudhibiti chaneli za Umeme, ukwasi, ada n.k, ni bora kusoma kwanza miongozo muhimu kuhusu Lightning Network.
+Ili kuweza kutumia Zeus na kudhibiti chaneli za Lightning, ukwasi, ada n.k, ni bora kusoma kwanza miongozo muhimu kuhusu Lightning Network.
 
 
 #### Waelekezi:
@@ -73,10 +73,10 @@ Ili kuweza kutumia Zeus na kudhibiti chaneli za Umeme, ukwasi, ada n.k, ni bora 
 - [LND - Lightning Network Daemon Hati](https://docs.lightning.engineering/)
 - [CLN - Hati Kuu ya Umeme](https://lightning.readthedocs.io/index.html)
 - [Mwongozo wa Umeme wa Wanaoanza](https://bitcoiner.guide/lightning/) – na Bitcoin Q&A
-- [Udhibiti wa Njia ya Umeme](https://www.lightningnode.info/) - kwa njia za kufungua
+- [Udhibiti wa Njia ya Lightning](https://www.lightningnode.info/) - kwa njia za kufungua
 - [Lightning Network na mlinganisho wa uwanja wa ndege](https://darthcoin.substack.com/p/the-lightning-network-and-the-airport)
-- [Kudhibiti Upeo wa Njia ya Umeme](https://darthcoin.substack.com/p/managing-lightning-node-liquidity)
-- [Utunzaji wa Njia ya Umeme](https://darthcoin.substack.com/p/lightning-node-maintenance)
+- [Kudhibiti Upeo wa Njia ya Lightning](https://darthcoin.substack.com/p/managing-lightning-node-liquidity)
+- [Utunzaji wa Njia ya Lightning](https://darthcoin.substack.com/p/lightning-node-maintenance)
 
 
 #### Mafunzo ya video na Vikao vya BTC
@@ -86,7 +86,7 @@ Ili kuweza kutumia Zeus na kudhibiti chaneli za Umeme, ukwasi, ada n.k, ni bora 
 
 
 
-## Mwongozo wa kutembea jinsi ya kuanza kutumia nodi iliyopachikwa ya Zeus LN kwenye kifaa chako cha mkononi
+## Mwongozo wa kutembea jinsi ya kuanza kutumia node iliyopachikwa ya Zeus LN kwenye kifaa chako cha mkononi
 
 
 ![Image](assets/en/01.webp)
@@ -95,10 +95,10 @@ Ili kuweza kutumia Zeus na kudhibiti chaneli za Umeme, ukwasi, ada n.k, ni bora 
 Ninatoa mwongozo huu kwa watumiaji wote wapya wa Lightning Network (LN) ambao wanataka kuanza safari mpya ya uhuru kwa kutumia nodi ya kujilinda ya Wallet kwenye vifaa vyao vya rununu.
 
 
-Hebu tuzingatie kwamba tayari unapitia wingi huo wote wa pochi za LN za ulinzi, lakini hauko tayari kuanza kuendesha nodi ya UMMA ya LN ya kuelekeza, unataka tu kuweka Sats zaidi juu ya LN kwa njia ya kujidhibiti zaidi na kufanya malipo yako ya kawaida zaidi ya LN.
+Hebu tuzingatie kwamba tayari unapitia wingi huo wote wa Wallet za LN za ulinzi, lakini hauko tayari kuanza kuendesha node ya UMMA ya LN ya kuelekeza, unataka tu kuweka Sats zaidi juu ya LN kwa njia ya kujidhibiti zaidi na kufanya malipo yako ya kawaida zaidi ya LN.
 
 
-Huyu hapa Zeus anakuja, akianza na [toleo la v0.8.0 lililotangazwa kwenye blogu yao](https://blog.zeusln.com/new-release-zeus-v0-8-0/), inatoa sasa nodi iliyopachikwa ya LND kwenye programu. Hadi sasa Zeus ilikuwa programu ya usimamizi wa nodi ya mbali + akaunti za LNDhub. Lakini sasa… nodi iko kwenye simu!
+Huyu hapa Zeus anakuja, akianza na [toleo la v0.8.0 lililotangazwa kwenye blogu yao](https://blog.zeusln.com/new-release-zeus-v0-8-0/), inatoa sasa nodi iliyopachikwa ya LND kwenye programu. Hadi sasa Zeus ilikuwa programu ya usimamizi wa nodi ya mbali + akaunti za LNDhub. Lakini sasa… node iko kwenye simu!
 
 
 ![Image](assets/en/02.webp)
@@ -108,16 +108,16 @@ Huyu hapa Zeus anakuja, akianza na [toleo la v0.8.0 lililotangazwa kwenye blogu 
 
 
 
-- Nodi ya kibinafsi ya LND** - Hiyo ina maana kwamba nodi hii HAITAFANYA uelekezaji wa malipo ya watu wengine kwa umma kupitia nodi yako. Node na njia hazijatangazwa (za kibinafsi, hazionekani kwenye grafu ya umma ya LN). Kupokea na kufanya malipo kutafanywa kwa ukamilifu na washirika wako waliounganishwa wa LSP. KUMBUKA: Njia Iliyopachikwa ya Zeus HAITAFANYA uelekezaji wa umma!
-- Huduma endelevu ya LND** - mtumiaji anaweza kuwezesha kipengele hiki na kuweka huduma ya LND amilifu mfululizo kama nodi yoyote ya kawaida ya LN. Programu haifai kuwa wazi, huduma inayoendelea itaweka mawasiliano yote mtandaoni.
-- Vichujio vya kuzuia Neutrino** - usawazishaji wa kuzuia hufanywa kwa kutumia [vichungi vya kuzuia na itifaki ya Neutrino](https://bitcoinops.org/en/topics/compact-block-filters/) (haijatolewa taarifa kuhusu fedha za On-Chain za watumiaji wetu). Kikumbusho: kwa miunganisho ya kasi ya juu/ya polepole ya intaneti usawazishaji huu wa kuzuia kulingana na neutrino, wakati mwingine unaweza kushindwa. Kujaribu kubadili hadi seva ya karibu ya neutrino kunaweza kusaidia kurejesha usawazishaji. Bila usawazishaji huu nodi yako ya LND haikuweza kuanza!
-- Vituo Rahisi vya Taproot** - Wakati wa kufunga vituo hivi, watumiaji hutozwa ada kidogo na hupewa faragha zaidi kwa vile wanaonekana kupenda matumizi mengine yoyote ya Taproot wanapokagua alama zao za On-Chain.
-- LSP iliyojumuishwa** - Olympus ndio nodi mpya ya LSP ya Zeus. Watumiaji wanaweza kupokea Sats juu ya LN mara moja, bila kuwa na mipangilio ya awali ya vituo vya LN. Itabidi tu kuunda LN Invoice na kulipa kutoka LN Wallet nyingine yoyote, kwa huduma ya chaneli ya Zeus 0-conf. Soma zaidi kuhusu Zeus LSP hapa. LSP pia hutoa ufaragha ulioongezwa kwa watumiaji wetu kwa kuwapa ankara zilizofungwa ambazo huficha funguo zao za umma kutoka kwa walipaji.
-- Kitabu cha Anwani** - unaweza kuhifadhi mwenyewe anwani au kuagiza kutoka NOSTR, kwa ajili ya kutuma malipo kwa urahisi kwenye unakoenda mara kwa mara.
-- Usaidizi kamili wa LNURL, LN Address tuma na upokee** - sasa unaweza kusanidi LN Address yako binafsi ukitumia @zeuspay.com. Kikumbusho: Unaweza pia kutumia Zeus kwa LN-auth kwenye tovuti ambapo unaweza kuingia kwa uthibitishaji wa LN. Inafaa sana.
-- Sehemu ya Uuzaji** - Sasa watumiaji wa wauzaji wanaweza kusanidi bidhaa zao na kuuza moja kwa moja kutoka kwa Zeus, kwa kutumia PoS iliyojumuishwa. Kwa sasa vyenye mahitaji ya msingi lakini katika siku zijazo itakuwa na vipengele virefu.
-- Kumbukumbu za LND** - mtumiaji anaweza kusoma kwa wakati halisi kumbukumbu za huduma za LND na kuzitumia kutatua masuala yanayowezekana (haswa kwa miunganisho mibaya)
-- Hifadhi Nakala Kiotomatiki** - chaneli za nodi za LN zinahifadhiwa nakala kiotomatiki kwenye seva ya Olympus. Nakala hii ya kiotomatiki imesimbwa kwa njia fiche na nodi yako ya Wallet seed (bila seed haina maana kabisa). Mtumiaji pia anaweza kusafirisha mwenyewe SCB (chelezo cha njia tuli) kwa uokoaji wa maafa.
+- **Node ya kibinafsi ya LND** - Hiyo ina maana kwamba node hii HAITAFANYA uelekezaji wa malipo ya watu wengine kwa umma kupitia node yako. Node na njia hazijatangazwa (za kibinafsi, hazionekani kwenye grafu ya umma ya LN). Kupokea na kufanya malipo kutafanywa kwa ukamilifu na washirika wako waliounganishwa wa LSP. KUMBUKA: Njia Iliyopachikwa ya Zeus HAITAFANYA uelekezaji wa umma!
+-**Huduma endelevu ya LND** - mtumiaji anaweza kuwezesha kipengele hiki na kuweka huduma ya LND amilifu mfululizo kama nodi yoyote ya kawaida ya LN. Programu haifai kuwa wazi, huduma inayoendelea itaweka mawasiliano yote mtandaoni.
+- **Vichujio vya kuzuia Neutrino** - usawazishaji wa kuzuia hufanywa kwa kutumia [vichungi vya kuzuia na itifaki ya Neutrino](https://bitcoinops.org/en/topics/compact-block-filters/) (haijatolewa taarifa kuhusu fedha za On-Chain za watumiaji wetu). Kikumbusho: kwa miunganisho ya kasi ya juu/ya polepole ya intaneti usawazishaji huu wa kuzuia kulingana na neutrino, wakati mwingine unaweza kushindwa. Kujaribu kubadili hadi seva ya karibu ya neutrino kunaweza kusaidia kurejesha usawazishaji. Bila usawazishaji huu nodi yako ya LND haikuweza kuanza!
+- **Vituo Rahisi vya Taproot** - Wakati wa kufunga vituo hivi, watumiaji hutozwa ada kidogo na hupewa faragha zaidi kwa vile wanaonekana kupenda matumizi mengine yoyote ya Taproot wanapokagua alama zao za On-Chain.
+- **LSP iliyojumuishwa** - Olympus ndio nodi mpya ya LSP ya Zeus. Watumiaji wanaweza kupokea Sats juu ya LN mara moja, bila kuwa na mipangilio ya awali ya vituo vya LN. Itabidi tu kuunda LN Invoice na kulipa kutoka LN Wallet nyingine yoyote, kwa huduma ya chaneli ya Zeus 0-conf. Soma zaidi kuhusu Zeus LSP hapa. LSP pia hutoa ufaragha ulioongezwa kwa watumiaji wetu kwa kuwapa ankara zilizofungwa ambazo huficha funguo zao za umma kutoka kwa walipaji.
+- **Kitabu cha Address** - unaweza kuhifadhi mwenyewe anwani au kuagiza kutoka NOSTR, kwa ajili ya kutuma malipo kwa urahisi kwenye unakoenda mara kwa mara.
+- **Usaidizi kamili wa LNURL, LN Address tuma na upokee** - sasa unaweza kusanidi LN Address yako binafsi ukitumia @zeuspay.com. Kikumbusho: Unaweza pia kutumia Zeus kwa LN-auth kwenye tovuti ambapo unaweza kuingia kwa uthibitishaji wa LN. Inafaa sana.
+- **Sehemu ya Uuzaji** - Sasa watumiaji wa wauzaji wanaweza kusanidi bidhaa zao na kuuza moja kwa moja kutoka kwa Zeus, kwa kutumia PoS iliyojumuishwa. Kwa sasa vyenye mahitaji ya msingi lakini katika siku zijazo itakuwa na vipengele virefu.
+- **Kumbukumbu za LND** - mtumiaji anaweza kusoma kwa wakati halisi kumbukumbu za huduma za LND na kuzitumia kutatua masuala yanayowezekana (haswa kwa miunganisho mibaya)
+- **Hifadhi Nakala Kiotomatiki** - chaneli za node za LN zinahifadhiwa nakala kiotomatiki kwenye seva ya Olympus. Nakala hii ya kiotomatiki imesimbwa kwa njia fiche na node yako ya Wallet seed (bila seed haina maana kabisa). Mtumiaji pia anaweza kusafirisha mwenyewe SCB (chelezo cha njia tuli) kwa uokoaji wa maafa.
 
 
 ### Jinsi ya kuingia kwenye Nodi ya Zeus LN (LND iliyopachikwa)
@@ -166,7 +166,7 @@ Hapa kuna huduma mbili za LSP:
 - _Omba vituo mapema_ - unaweza kununua chaneli zinazoingia kutoka kwa Olympus LSP moja kwa moja kwenye programu ukitumia chaguo na viwango vingi (kwa zinazoingia na kutoka).
 
 
-LSP husaidia kuunganisha watumiaji kwenye Lightning Network kwa kufungua njia za malipo kwenye nodi zao. [Soma zaidi kuhusu LSP hapa](https://medium.com/breez-technology/envisioning-lsps-in-the-lightning-economy-832b45871992). ZEUS ina LSP mpya iliyounganishwa ndani yake iitwayo [OLYMPUS na ZEUS](https://Mempool.space/lightning/node/031b301307574bbe9b9ac7b79cbe1700e31e544513eae0b5d74974830583f9 watumiaji wote wanaopatikana), nodi.
+LSP husaidia kuunganisha watumiaji kwenye Lightning Network kwa kufungua njia za malipo kwenye nodi zao. [Soma zaidi kuhusu LSP hapa](https://medium.com/breez-technology/envisioning-lsps-in-the-lightning-economy-832b45871992). ZEUS ina LSP mpya iliyounganishwa ndani yake iitwayo [OLYMPUS na ZEUS](https://Mempool.space/lightning/node/031b301307574bbe9b9ac7b79cbe1700e31e544513eae0b5d74974830583f9 watumiaji wote wanaopatikana), node.
 
 
 Katika sehemu hii, kwa chaguo-msingi ni Olympus LSP ( https://0conf.lnolymp.us ), lakini hivi karibuni unaweza pia kuweka 0conf LSP nyingine inayotumia itifaki hii.
@@ -192,7 +192,7 @@ Katika sehemu hii hii, pia una chaguo la kuchagua "omba Njia Rahisi za Taproot" 
 
 
 - Ni mpya, na bado kunaweza kuwa na mende katika LND wakati wa kuzitumia.
-- Mwenzako hauungi mkono. Hata nodi za LND zinapaswa kujijumuisha kwa uwazi, kwa sasa.
+- Mwenzako hauungi mkono. Hata node za LND zinapaswa kujijumuisha kwa uwazi, kwa sasa.
 
 
 **2 - Mipangilio ya malipo**
@@ -211,9 +211,9 @@ Katika sehemu hii kuna chaguzi kadhaa za ankara za generate:
 
 
 
-- Weka memo ya kawaida ya kuonyeshwa katika Invoice wewe generate
-- Muda wa mwisho wa matumizi katika sekunde, ikiwa ungependa muda maalum, mrefu au mfupi zaidi kwa Invoice yako kulipwa
-- Jumuisha vidokezo vya njia - toa maelezo ili kupata vituo visivyotangazwa au vya faragha. Hii inaruhusu uelekezaji wa malipo kwa nodi ambazo hazionekani hadharani kwenye mtandao. Kidokezo cha uelekezaji hutoa njia ya sehemu kati ya nodi ya kibinafsi ya mpokeaji na nodi ya umma. Kidokezo hiki cha uelekezaji basi kinajumuishwa kwenye Invoice inayotolewa na mpokeaji na kutolewa kwa mlipaji. Ninapendekeza iwashwe kwa chaguomsingi, vinginevyo malipo yanayoingia yanaweza kushindwa (hakuna njia iliyopatikana).
+- Weka memo ya kawaida itakayoonyeshwa kwenye Invoice unayotengeneza.
+- Muda wa mwisho wa matumizi kwa sekunde; unaweza kubainisha muda maalum, mrefu zaidi, au mfupi zaidi ili Invoice yako ilipwe.
+- Jumuisha vidokezo vya njia - toa Maelezo ya kupata vituo visivyotangazwa au vya faragha. Hii inaruhusu uelekezaji wa malipo kwa nodes ambazo hazionekani hadharani kwenye mtandao. Kidokezo cha uelekezaji hutoa njia ya kipekee kati ya node binafsi ya mpokeaji na node ya umma. Kidokezo hiki cha uelekezaji hujumuishwa kwenye Invoice inayotolewa na mpokeaji na kutolewa kwa mlipaji. Ninapendekeza ziwe zimewashwa kwa chaguo-msingi; vinginevyo, malipo yanayoingia yanaweza kushindikana (hakuna njia iliyopatikana).
 - AMP Invoice - Malipo ya Njia Nyingi za Atomiki ni aina mpya ya malipo ya Umeme inayotekelezwa na LND ambayo inaruhusu kupokea Sats bila Invoice mahususi, kwa kutumia [keysend](https://docs.lightning.engineering/lightning-network-tools/LND/tuma-messages-with-key). Ni msimbo wa malipo tuli. [Soma zaidi hapa](https://docs.lightning.engineering/lightning-network-tools/LND/amp).
 - Onyesha sehemu ya taswira maalum - tumia chaguo hili tu katika hali mahususi wakati unataka kutumia sehemu maalum katika taswira. [Soma zaidi hapa](https://Bitcoin.stackexchange.com/questions/90797/how-can-i-generate-preimage-for-lightning-network-Invoice-should-i).
 
@@ -304,22 +304,22 @@ Hapa kuna video ya demo ya moja kwa moja jinsi ya kutumia Zeus PoS:
 **B - Hifadhi nakala ya Wallet**
 
 
-Nodi iliyopachikwa katika ZEUS inategemea LND na hutumia [umbizo la aezeed seed](https://github.com/lightningnetwork/LND/blob/master/aezeed/README.md). Hii ni tofauti na [umbizo la BIP39] la kawaida (https://github.com/Bitcoin/bips/blob/master/bip-0039.mediawiki) unaona katika pochi nyingi za Bitcoin, ingawa inaweza kuonekana kuwa sawa. Aezeed inajumuisha data ya ziada ikiwa ni pamoja na tarehe ya kuzaliwa ya Wallet ambayo itasaidia kuchanganua upya wakati wa urejeshaji kutokea kwa ufanisi zaidi.
+Nodi iliyopachikwa katika ZEUS inategemea LND na hutumia [umbizo la aezeed seed](https://github.com/lightningnetwork/LND/blob/master/aezeed/README.md). Hii ni tofauti na [umbizo la BIP39] la kawaida (https://github.com/Bitcoin/bips/blob/master/bip-0039.mediawiki) unaona katika Wallet nyingi za Bitcoin, ingawa inaweza kuonekana kuwa sawa. Aezeed inajumuisha data ya ziada ikiwa ni pamoja na tarehe ya kuzaliwa ya Wallet ambayo itasaidia kuchanganua upya wakati wa urejeshaji kutokea kwa ufanisi zaidi.
 
 
-Umbizo la ufunguo wa aezeed unapaswa kuendana na pochi zifuatazo za rununu: Blixt, BlueWallet na Breez. Kumbuka kuwa seed pekee haitatosha kurejesha salio zako zote ikiwa una njia zilizofunguliwa au zinazosubiri kufungwa !
+Umbizo la ufunguo wa aezeed unapaswa kuendana na Wallet zifuatazo za rununu: Blixt, BlueWallet na Breez. Kumbuka kuwa seed pekee haitatosha kurejesha salio zako zote ikiwa una njia zilizofunguliwa au zinazosubiri kufungwa !
 
 
 Pata maelezo zaidi kuhusu mchakato wa kuhifadhi nakala na kurejesha kwenye [ukurasa wa Hati za Zeus](https://docs.zeusln.app/for-users/embedded-node/backup-and-recovery).
 
 
-USHAURI WA NGUVU: Unapohifadhi seed yako, tafadhali hifadhi pia pubkey ya nodi! Wakati mwingine ni vizuri kuwa nayo, pamoja na seed yako na SCB (Nakala ya Njia Tuli) ikiwa utahitaji kuthibitisha urejeshaji.
+USHAURI WA NGUVU: Unapohifadhi seed yako, tafadhali hifadhi pia pubkey ya node! Wakati mwingine ni vizuri kuwa nayo, pamoja na seed yako na SCB (Nakala ya Njia Tuli) ikiwa utahitaji kuthibitisha urejeshaji.
 
 
 SCB inahitajika tu ikiwa una chaneli za LN zimefunguliwa. Ikiwa una pesa za onchain tu, sio lazima.
 
 
-Ikiwa unaona kwamba baada ya muda mrefu bado hauonyeshi txs za historia ya zamani, nenda kwa nodi Iliyopachikwa - Wenzake na uzima chaguo la kutumia orodha ya wenzao waliochaguliwa (kwa chaguo-msingi ni btcd.lnolymp.us). Hiyo itaanzisha kuwashwa upya na itaunganishwa na nodi ya neutrino inayopatikana kwanza na jibu bora la wakati. Au tumia mvuto uliotajwa wenzao wengine wanaojulikana wa neutrino.
+Ikiwa unaona kwamba baada ya muda mrefu bado hauonyeshi txs za historia ya zamani, nenda kwa node Iliyopachikwa - Wenzake na uzima chaguo la kutumia orodha ya wenzao waliochaguliwa (kwa chaguo-msingi ni btcd.lnolymp.us). Hiyo itaanzisha kuwashwa upya na itaunganishwa na node ya neutrino inayopatikana kwanza na jibu bora la wakati. Au tumia mvuto uliotajwa wenzao wengine wanaojulikana wa neutrino.
 
 
 Iwapo ungependa kuona chaguo zaidi za urejeshaji za nodi ya LND, [tafadhali soma mwongozo wangu wa awali](https://darth-coin.github.io/nodes/shtf-restore-LND-node-en.html), ambapo unaweza kupata hatua za jinsi ya kuingiza seed iliyoazwa kwenye Sparrow Wallet au njia nyinginezo.
@@ -351,19 +351,19 @@ Katika sehemu hii tutapata zana za kimsingi za kudhibiti nodi iliyojumuishwa:
 
 
 
-- _Kumbukumbu za LND_ - zana muhimu sana ya kutatua masuala ya nodi zako za LN na kudhibiti kwa kina kile kinachoendelea kwa kiwango cha kiufundi zaidi.
-- _Mipangilio ya hali ya juu_ - zana zaidi za kudhibiti matumizi ya nodi yako ya LND:
+- _Kumbukumbu za LND_ - zana muhimu sana ya kutatua masuala ya node zako za LN na kudhibiti kwa kina kile kinachoendelea kwa kiwango cha kiufundi zaidi.
+- _Mipangilio ya hali ya juu_ - zana zaidi za kudhibiti matumizi ya node yako ya LND:
 
 
 
  - _Modi ya kutafuta njia_ - njia mbili au za awali, njia za kupata njia bora ya malipo yako ya LN na pia kuweka upya maelezo ya awali ya uelekezaji. Tafadhali soma miongozo hii mizuri sana kuhusu kutafuta njia: [Pathfinding](https://docs.lightning.engineering/lightning-network-tools/LND/pathfinding) - by Docs Lightning Engineering na [LN Payment Utafutaji njia](https://voltage.cloud/blog/lightning-network-faq/understanding-payment-pathfinding-between-nodes-on-lightning-network/) - by Voltage
  - _LND_Inayoendelea - washa hali hii ikiwa ungependa huduma ya LND iendeshe chinichini na uweke kifundo chako mtandaoni 24/7. Hii ni muhimu sana ikiwa unatumia Zeus kama PoS kwenye duka ndogo au unapokea vidokezo vingi vya LN juu ya LN Address.
- - _Changanua tena pochi_ - chaguo hili litaanzisha wakati wa kuanzisha upya uchanganuzi kamili wa txs zote za onchain za Wallet yako. Iwashe ikiwa tu unakosa baadhi ya txs kwenye Wallet yako. Kazi ya kuchambua upya itachukua muda, dakika kadhaa kwa hivyo kuwa na subira na uangalie kumbukumbu kila wakati ili kuona maelezo zaidi kuhusu maendeleo.
+ - _Changanua tena wallet_ - chaguo hili litaanzisha wakati wa kuanzisha upya uchanganuzi kamili wa txs zote za onchain za Wallet yako. Iwashe ikiwa tu unakosa baadhi ya txs kwenye Wallet yako. Kazi ya kuchambua upya itachukua muda, dakika kadhaa kwa hivyo kuwa na subira na uangalie kumbukumbu kila wakati ili kuona maelezo zaidi kuhusu maendeleo.
  - _Compact Database_ - chaguo hili ni muhimu sana ikiwa programu yako ya Zeus inachukua nafasi nyingi za kifaa (angalia maelezo ya programu katika mipangilio ya kifaa chako). Ikiwa una shughuli nyingi kwa kutumia Zeus, ningependekeza kufanya compaction hii mara nyingi zaidi. Mara tu unapoona kuwa una data zaidi ya 1-1.5GB ya programu ya Zeus, fanya ujumuishaji. Itaanza upya na kuchukua muda, kwa hivyo kuwa na subira.
- - _Futa faili za Neutrino_ - chaguo hili la kufuta faili za neutrino (kwa kuwasha upya) litapunguza sana matumizi ya hifadhi ya data. Kupunguza matumizi ya data pia kuna athari kubwa katika matumizi ya betri, kupunguza matumizi ya betri, haswa ikiwa unatumia Zeus katika hali inayoendelea.
+-_Futa faili za Neutrino_ – chaguo hili la kufuta faili za Neutrino (kupitia kuwasha upya) litapunguza sana matumizi ya hifadhi ya data. Kupunguza matumizi ya data pia kuna athari chanya katika matumizi ya betri, hasa ikiwa unatumia Zeus katika hali inayoendelea .
 
 
-**D - Maelezo ya Nodi**
+**D - Maelezo ya Node**
 
 
 Katika sehemu hii, utapata maelezo zaidi kuhusu hali ya nodi yako ya Zeus kama:
@@ -371,11 +371,11 @@ Katika sehemu hii, utapata maelezo zaidi kuhusu hali ya nodi yako ya Zeus kama:
 
 
 - Lakabu - kitambulisho cha nodi fupi
-- Ufunguo wa Umma - ufunguo kamili wa umma wa nodi yako inayohitajika kwa nodi zingine kupata njia hiyo kuelekea nodi yako. Kumbuka kwamba pubkey hii HAIONEKANI kwenye Vivinjari vya kawaida vya LN (Mempool, Amboss, 1ML n.k). Kitufe hiki cha pubkey kinaweza kufikiwa TU kupitia programu zingine na chaneli zako zilizounganishwa za LN.
+- Ufunguo wa Umma - ufunguo kamili wa umma wa nodi yako inayohitajika kwa nodi zingine kupata njia hiyo kuelekea node yako. Kumbuka kwamba pubkey hii HAIONEKANI kwenye Vivinjari vya kawaida vya LN (Mempool, Amboss, 1ML n.k). Kitufe hiki cha pubkey kinaweza kufikiwa TU kupitia programu zingine na chaneli zako zilizounganishwa za LN.
 - Toleo la utekelezaji wa LN
 - Toleo la programu ya Zeus
 - Imesawazishwa kwa mnyororo na Imesawazishwa kwa hali ya grafu - muhimu sana, inayoonyesha hali sahihi ya nodi yako. Ikiwa hizi mbili hazionyeshi "kweli" inamaanisha kuwa nodi yako bado inasawazisha au ina matatizo fulani ya kusawazisha. Kwa hivyo inashauriwa kuangalia kumbukumbu zako za LND au subiri muda mrefu zaidi.
-- Urefu wa kuzuia na Hash - inaonyesha kizuizi cha mwisho na Hash ambayo nodi yako iliona na kusawazisha.
+- Urefu wa kuzuia na Hash - inaonyesha kizuizi cha mwisho na Hash ambayo node yako iliona na kusawazisha.
 
 
 **E - Taarifa za Mtandao**
@@ -387,13 +387,13 @@ Sehemu hii inaonyesha maelezo zaidi kuhusu hali ya jumla ya Lightning Network, i
 Data hii ya maelezo inaweza kuwa muhimu kutatua au kutumika tu kwa takwimu.
 
 
-**F - Umeme Address**
+**F - Lightning Address**
 
 
 Katika sehemu hii mtumiaji anaweza kusanidi ulinzi wake binafsi LN Address @zeuspay.com.
 
 
-ZEUS PAY hutumia heshi za awali zinazozalishwa na mtumiaji, ankara za HODL, na mpango wa uthibitishaji wa Zaplocker Nostr ili kuruhusu watumiaji ambao huenda hawako mtandaoni 24/7 kupokea malipo kwa umeme tuli wa Address. Watumiaji wanahitaji tu kuingia kwenye pochi zao za ZEUS ndani ya saa 24 ili kudai malipo, vinginevyo watarejeshwa kwa mtumaji.
+ZEUS PAY hutumia heshi za awali zinazozalishwa na mtumiaji, ankara za HODL, na mpango wa uthibitishaji wa Zaplocker Nostr ili kuruhusu watumiaji ambao huenda hawako mtandaoni 24/7 kupokea malipo kwa Lightning  Address. Watumiaji wanahitaji tu kuingia kwenye Wallet zao za ZEUS ndani ya saa 24 ili kudai malipo, vinginevyo watarejeshwa kwa mtumaji.
 
 
 Ukiwasha "hali inayoendelea" malipo yote kwa LN Address yako yatapokelewa papo hapo.
@@ -408,7 +408,7 @@ Pata maelezo kuhusu jinsi malipo ya [Zaplocker](https://github.com/supertestnet/
 Katika sehemu hii unaweza kushauriana na anwani zako ulizozalisha za onchain kwa udhibiti bora wa sarafu
 
 
-**H - Anwani**
+**H - Address**
 
 
 Kitabu kipya cha mawasiliano kilianzishwa katika Zeus v 0.8.0 ambacho unaweza kutumia kutuma malipo kwa haraka kwa marafiki na familia yako, pia kikiwa na uwezo wa kuleta anwani zako kutoka Nostr.
@@ -427,7 +427,7 @@ Hapa tuna sehemu ndogo tofauti zilizo na zana zaidi:
 
 
 
-- _Akaunti_ - hapa unaweza kuingiza akaunti / pochi za nje, pochi za Cold, pochi za Hot, ili kudhibiti au kutumia kama chanzo cha ufadhili wa nje kwa chaneli zako za nodi ya Zeus. Kipengele hiki bado ni cha majaribio.
+- _Akaunti_ - hapa unaweza kuingiza akaunti / wallet za nje, Cold wallet , Hot Wallet, ili kudhibiti au kutumia kama chanzo cha ufadhili wa nje kwa chaneli zako za nodi ya Zeus. Kipengele hiki bado ni cha majaribio.
 - _Ongeza kasi ya muamala_ - Kipengele hiki kinaweza kukusaidia unapokuwa na tx iliyokwama kwenye Mempool na ungependa kufidia ada. Utahitaji kutoa matokeo ya tx kutoka kwa maelezo ya tx na uchague ada mpya unayotaka kutumia. Lazima iwe ya juu kuliko ya awali na ikuhitaji uwe na pesa zaidi zinazopatikana kwenye onchain yako Wallet.
 
 
@@ -488,7 +488,7 @@ Kwa chaguo-msingi, Zeus itatumia LSP yake, Olympus. Lakini baadaye unaweza kubad
 Kwa kuunda Invoice kwenye Zeus yako (weka kiasi na ubofye kitufe cha "ombi"), utaweza kupokea hizo Sats mara moja.
 
 
-Invoice you generate [itafungwa](https://docs.zeusln.app/lsp/wrapped-invoices) na utawasilishwa ada zinazohusiana na huduma ikiwa zitalipwa. Invoice hii iliyofunikwa ina vidokezo vya njia kuelekea nodi yako ya Zeus, ili LSP ipate nodi yako mpya na kufungua chaneli kwa kutumia pesa mpya unazoweka.
+ Zalisha Invoice [itafungwa](https://docs.zeusln.app/lsp/wrapped-invoices) na utawasilishwa ada zinazohusiana na huduma ikiwa zitalipwa. Invoice hii iliyofunikwa ina vidokezo vya njia kuelekea nodi yako ya Zeus, ili LSP ipate node yako mpya na kufungua chaneli kwa kutumia pesa mpya unazoweka.
 
 
 ![Image](assets/en/06.webp)
