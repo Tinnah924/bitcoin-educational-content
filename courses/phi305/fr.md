@@ -190,6 +190,7 @@ Autrement dit, « à lutter pour leur servitude comme s’ils luttaient pour l
 
 
 Après l’Éthique, je souhaite dans ce chapitre vous présenter une autre œuvre majeure pour comprendre toute l’influence philosophique et politique de Spinoza, notamment sur les Lumières à venir et sur les courants libéraux et, pour ce qui nous concerne, libertariens. 
+
 Il s’agit du Traité théologico-politique, dit le TTP, publié anonymement en 1670. 
 
 ![image](./assets/fr/2.2.1.webp)
@@ -289,7 +290,6 @@ Autrement dit qu’ils seraient doués du libre arbitre, une croyance illusoire 
 <chapterId>f147a914-cb64-5927-b305-26691930bca3</chapterId>
 
 :::video id=b59da795-ba19-4643-9672-36c9e7953a42:::
-
 
 Dans ce cours, nous allons à présent évoquer la question délicate du libre arbitre afin de mieux saisir ce qu’est la liberté pour Spinoza, pour les Lumières et les premiers philosophes libéraux.
 
@@ -399,8 +399,6 @@ Car si certains effets de Bitcoin peuvent certainement être critiquables, à ca
 Or, il apparaît très clairement qu’à partir du moment où un religieux ou un banquier central fait preuve d’entendement, de curiosité et de bonne volonté et qu’ils s’intéressent à un concept en cherchant d’abord à le comprendre plutôt qu’en en jugeant les effets pour faire correspondre leur opinion à leurs attentes, ils seront alors certainement en mesure d’y adhérer. 
 
 Merci de votre attention et je vous retrouve dans le prochain chapitre.
-
-
 
 
 ## L’illusion théologique
