@@ -655,7 +655,7 @@ Mara tu unapofungua chaneli kubwa zaidi, unaweza kutumia ubadilishaji wa nyambiz
 ### Imefungwa Invoice
 
 
-Ikiwa ungependa kuongeza faragha zaidi unapopokea, unaweza kutumia mbinu ya "Invoice iliyofungwa". Kikumbusho: ili uweze kufanya hivyo, unahitaji chaneli iliyo na Olympus LSP. Ankara zilizofungwa "zitaficha" mahali pa mwisho (nodi yako ya Zeus) na kuonyesha nodi yako ya LSP kama marudio ya mlipaji.
+Ikiwa ungependa kuongeza faragha zaidi unapopokea, unaweza kutumia mbinu ya "Invoice iliyofungwa". Kikumbusho: ili uweze kufanya hivyo, unahitaji chaneli iliyo na Olympus LSP. Ankara zilizofungwa "zitaficha" mahali pa mwisho (node yako ya Zeus) na kuonyesha node yako ya LSP kama marudio ya mlipaji.
 
 
 Ili kupata Invoice iliyofunikwa, nenda kwenye skrini kuu ya vitufe, weka kiasi na ugonge ombi. Itaonyesha msimbo wa kawaida wa QR kwa Invoice yako. Sasa, bofya kitufe cha "X" cha juu kulia na utaelekezwa kwenye chaguo zaidi za Invoice.
@@ -680,9 +680,9 @@ Jinsi ya kuunda Invoice na vidokezo vya njia?
 
 
 
-- Kwenye skrini kuu, telezesha kulia droo ya LN na ubofye "Pokea"
-- Katika usanidi wa Invoice ilifika sehemu ya chini na kuamsha kitufe cha "Ingiza vidokezo vya njia", kisha uchague kichupo cha "Custom". Itafungua skrini iliyo na chaneli zako zote zinazopatikana. Chagua moja unayotaka kupokea.
-- Jaza maelezo mengine yote ya Invoice, kiasi, memo n.k na ubofye "unda Invoice".
+- Kwenye skrini kuu, telezesha kulia droo ya LN na ubofye "Receive"
+- Katika usanidi wa Invoice, fika sehemu ya chini na washa kitufe cha ‘Enter route hints’, kisha uchague kichupo cha ‘Custom’. Hii itafungua skrini inayoonyesha channels zote zinazopatikana. Chagua ile unayotaka kupokea.
+- Jaza maelezo mengine yote ya Invoice, kiasi, memo n.k na ubofye "Create Invoice".
 - Kulipa hiyo Invoice kutaleta Sats kwenye chaneli iliyoonyeshwa.
 
 
@@ -701,10 +701,10 @@ Keysend ni kipengele cha chini sana cha LN na watumiaji wanapaswa kukitumia mara
 Kwa hivyo unawezaje kufanya hivyo na Zeus?
 
 
-Changanua kwa urahisi au nakili kitambulisho lengwa (au tumia anwani za Zeus ili kuhifadhi nodi zako za kawaida za lengwa kama waasiliani) na kisha kutoka kwenye skrini kuu ya Zeus, bofya kitufe cha "Tuma". Katika skrini hiyo basi ubandike nodiID au uchague kutoka kwa anwani zako.
+Changanua kwa urahisi au nakili kitambulisho lengwa (au tumia anwani za Zeus ili kuhifadhi node zako za kawaida za lengwa kama waasiliani) na kisha kutoka kwenye skrini kuu ya Zeus, bofya kitufe cha "Send". Katika skrini hiyo basi ubandike nodeID au uchague kutoka kwa address zako.
 
 
-Weka kiasi cha Sats, ujumbe ikiwa ni lazima (ndio, unaweza kuutumia pia kama gumzo la siri kwenye LN) na ubofye kitufe cha "Tuma". Imekamilika!
+Weka kiasi cha Sats, ujumbe ikiwa ni lazima (ndio, unaweza kuutumia pia kama gumzo la siri kwenye LN) na ubofye kitufe cha "Send". Imekamilika!
 
 
 ![Image](assets/en/15.webp)
