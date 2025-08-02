@@ -211,7 +211,7 @@ Kwa kutekeleza amri hiyo hiyo iliyo hapo juu, lakini kwa thamani tofauti ya `dat
 $HOME/elements/src/elementsd -datadir=$HOME/elementsdir2
 $HOME/elements/src/elements-cli -datadir=$HOME/elementsdir2 getnewaddress
 ```
-
+Hii itaturuhusu kufanya shughuli za kila aina kama vile kufanya shughuli za mali kati ya nodi, kutoa mali na kuangalia matumizi ya upofu katika Confidential Transactions kati ya nodi tofauti kwenye mtandao mmoja.
 
 # Kutumia Kipengele Vitendo vya matumizi
 
@@ -240,9 +240,7 @@ Kila Address mpya inayozalishwa na node ya Elements ni ya siri kwa chaguo-msingi
 e2-cli getnewaddress
 ```
 
-```markdown
 Kumbuka kuwa anwani huanza na `el1`. Hii huitambulisha kama anwani ya siri (*blinded address*). Kuchunguza anwani kwa undani zaidi kwa kutumia amri ya `getaddressinfo` kunaonyesha maelezo ya kina kuhusu anwani hiyo.
-```
 
 
 ```
