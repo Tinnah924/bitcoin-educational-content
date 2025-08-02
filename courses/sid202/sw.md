@@ -4,7 +4,7 @@ goal: Jifunze kutumia na kuendeleza na jukwaa la Elements la chanzo huria cha Bl
 objectives: 
 
   - Elewa dhana za msingi za jukwaa la Elements Blockchain na minyororo ya pembeni ya Liquid.
-  - Jifunze kusanidi na kuendesha nodi za Elements kwa usanidi wa pekee na wa Sidechain.
+  - Jifunze kusanidi na kuendesha node za Elements kwa usanidi wa pekee na wa Sidechain.
   - Pata uzoefu wa vitendo na shirikisho la block signing na Federated 2-Way Peg.
   - Sanidi na udhibiti mazingira salama na bora ya Blockchain kwa matukio ya matumizi ya ulimwengu halisi.
 
@@ -136,9 +136,7 @@ Ili Sidechain ifanye kazi kwa njia ya kuaminika ni lazima iruhusu washiriki kuth
 
 Element ya *Federated 2-Way Peg* inaruhusu kipengee kuingiliana na minyororo mingine kama mwakilishi wa mali nyingine asilia ya blockchain. Kwa "kushikilia" blockchain yako hadi nyingine, unaweza kupanua uwezo wa *mainchain* na kushinda baadhi ya vikwazo vya asili vinavyokabili mnyororo huo.
 
-Kwa kiwango cha juu, uhamisho hadi kwenye sidechain hutokea wakati mtumiaji anapotuma mali kutoka mainchain kwenda kwa anwani inayodhibitiwa na multisig watchmen wallet. Hatua hii hufungia mali husika kwenye mainchain. Kisha, watchmen wanathibitisha muamala huo na kutoa kiasi sawa cha kipengee ndani ya sidechain. Mali hiyo iliyotolewa inatumwa kwa sidechain wallet inayoweza kuthibitisha dai la umiliki wa mali asili kutoka kwa mainchain. Mchakato huu huwezesha uhamishaji wa mali kutoka kwa mnyororo wa asili hadi sidechain.
-
-Kwa sababu uzalishaji wa block wa Strong Federation si wa uwezekano na unategemea seti isiyobadilika ya watia sahihi, hauwezi kuwa chini ya upangaji upya wa block nyingi. Hii inaruhusu kupunguza kwa kiasi kikubwa muda wa kusubiri unaohusiana na uthibitisho wa miamala. Pia huondoa motisha ya kuchimba kwa ajili ya faida (yaani, tuzo za block) na badala yake huleta motisha ya kushiriki kwa tija katika mtandao ambapo washiriki wote wana lengo la pamoja: kuhakikisha mtandao unaendelea kufanya kazi kwa njia inayowanufaisha wote. Inafanya haya bila kuanzisha hatua moja ya kutofaulu au kuhitaji kiwango cha juu cha uaminifu.
+Ili kuhamisha mali kurudi kwa mainchain, mtumiaji hufanya shughuli maalum ya peg-out kwenye Sidechain. Muamala huu unakaguliwa na watchmen ambao kisha husaini matumizi ya muamala kutoka kwa Wallet yenye saini nyingi wanazodhibiti kwenye mainchain. Idadi ya washiriki katika shirikisho lazima itie sahihi kabla ya shughuli ya mainchain kuwa halali. Wakati watchmen inatuma mali kwa mainchain pia huharibu kiasi kinacholingana kwenye Sidechain, kwa ufanisi kuhamisha mali kati ya blockchains.
  
 
 ## Kuanzisha na Kuendesha Elements
@@ -153,7 +151,7 @@ Programu ya nodi ya Elements yenyewe inaitwa `elementsd` na hutumika kama daemon
 
 Kumbuka: Katika hati hii yote, tutarejelea elements kila wakati kama toleo la daemon, lakini kila kitu kinaweza kufanywa kwa Elements-qt, mradi chaguo la seva limewezeshwa.
 
-Elements daemon inaunganishwa na nodi nyingine kwenye mtandao ili iweze kufanya shughuli za Exchange na kuzuia data, kuthibitisha na kupanua nakala yake ya ndani ya Blockchain ya mtandao.
+Elements daemon inaunganishwa na node nyingine kwenye mtandao ili iweze kufanya shughuli za Exchange na kuzuia data, kuthibitisha na kupanua nakala yake ya ndani ya Blockchain ya mtandao.
 
 Programu ya Elements pia inajumuisha programu ya mteja inayoitwa `elements-cli` ambayo inakuruhusu kutuma amri za Utaratibu wa Mbali (RPC) kwa elementsd kutoka kwa safu ya amri. Hii inaweza kutumika kuuliza salio la Wallet, kutazama muamala au kuzuia data au kutangaza muamala kwa mfano. Mpangilio huu unapaswa kujulikana kwa mtu yeyote ambaye ametumia sawa na Bitcoin; bitcoind na bitcoin-cli.
 
@@ -209,9 +207,12 @@ $HOME/elements/src/elements-cli -datadir=$HOME/elementsdir1 getnewaddress
 
 Tunachokiona hapo juu ni wito wa kuanzisha *Elements daemon* na pia wito kwa programu za `elements-cli` zilizoko katika saraka ya `$HOME/elements/src`, kwa kutumia thamani maalum ya kigezo cha `datadir`. Kigezo hiki huturuhusu kuelekeza *daemon* na programu ya mteja (*client instance*) mahali pa kupata faili zao za usanidi, na kwa upande wa *daemon*, mahali pa kuhifadhi nakala ya blockchain. Wanaposhiriki faili ya usanidi, mteja ataweza kutuma maombi ya RPC kwa *daemon*.
 
-
 Kwa kutekeleza amri hiyo hiyo iliyo hapo juu, lakini kwa thamani tofauti ya `datadir`, tunaweza kuanzisha zaidi ya mfano mmoja wa Elements, kila mmoja ukiwa na nakala yake tofauti ya blockchain na mipangilio ya usanidi. Katika muktadha huu, tutatumia lakabu `e2-dae` na `e2-CLI` katika kozi hii kurejelea saraka tofauti ya `datadir` kuliko ile ya `e1`. Hivyo basi, mfano wa pili (`e2`) utakuwa:
 
+```
+$HOME/elements/src/elementsd -datadir=$HOME/elementsdir2
+$HOME/elements/src/elements-cli -datadir=$HOME/elementsdir2 getnewaddress
+```
 
 
 # Kutumia Kipengele Vitendo vya matumizi
