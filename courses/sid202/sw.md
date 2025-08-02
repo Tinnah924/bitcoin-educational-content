@@ -133,12 +133,10 @@ Kwa sababu uzalishaji wa block wa Strong Federation si wa uwezekano na unategeme
 Inapoendeshwa kama Sidechain, baadhi ya wanachama wa Strong Federation wana jukumu la ziada la kutimiza, lile la watchmen. watchmen wanawajibika kwa uhamisho wa mali ndani na nje ya Elements Sidechain, michakato inayojulikana kama `Peg-In` na `Peg-Out`.
 
 Ili Sidechain ifanye kazi kwa njia ya kuaminika ni lazima iruhusu washiriki kuthibitisha kuwa Supply ya mali inadhibitiwa na kuthibitishwa. Elements Sidechain hutumia Kigingi Kilichoshirikishwa cha Njia 2 ili kuwezesha uhamishaji wa mali wa njia mbili ndani na nje ya Elements Blockchain. Hii inakidhi Mahitaji ya utoaji unaoweza kuthibitishwa na uhamishaji baina ya minyororo.
-
 Element ya *Federated 2-Way Peg* inaruhusu kipengee kuingiliana na minyororo mingine kama mwakilishi wa mali nyingine asilia ya blockchain. Kwa "kushikilia" blockchain yako hadi nyingine, unaweza kupanua uwezo wa *mainchain* na kushinda baadhi ya vikwazo vya asili vinavyokabili mnyororo huo.
+Kwa kiwango cha juu, uhamisho kwenye Sidechain hutokea wakati mtu anatuma mali ya mainchain kwa Address inayodhibitiwa na watchmen Wallet ya saini nyingi. Hii inafungia kwa ufanisi mali kwenye mainchain. watchmen kisha uthibitishe muamala na kutoa kiasi sawa cha kipengee husika ndani ya Sidechain. Mali iliyotolewa hutumwa kwa Sidechain Wallet ambayo inaweza kuthibitisha dai la mali asili ya mainchain. Mchakato huu huhamisha mali kutoka kwa msururu wa wazazi hadi Sidechain.
 
 Ili kuhamisha mali kurudi kwa mainchain, mtumiaji hufanya shughuli maalum ya peg-out kwenye Sidechain. Muamala huu unakaguliwa na watchmen ambao kisha husaini matumizi ya muamala kutoka kwa Wallet yenye saini nyingi wanazodhibiti kwenye mainchain. Idadi ya washiriki katika shirikisho lazima itie sahihi kabla ya shughuli ya mainchain kuwa halali. Wakati watchmen inatuma mali kwa mainchain pia huharibu kiasi kinacholingana kwenye Sidechain, kwa ufanisi kuhamisha mali kati ya blockchains.
- 
-
 ## Kuanzisha na Kuendesha Elements
 
 <chapterId>cc806e5a-81ab-457b-9531-9f863120a019</chapterId>
@@ -147,7 +145,7 @@ Ili kuhamisha mali kurudi kwa mainchain, mtumiaji hufanya shughuli maalum ya peg
 
 Kwa vile Elements inategemea Bitcoin codebase, vipengele vinavyounda mtandao unaofanya kazi vinafanana sana.
 
-Programu ya nodi ya Elements yenyewe inaitwa `elementsd` na hutumika kama daemon kwenye mashine ya mtumiaji. daemon (au huduma katika Windows) ni programu inayoendesha kama huduma ya usuli bila kuhitaji udhibiti wa moja kwa moja wa mtumiaji aliyeingia kwenye akaunti.
+Programu ya node ya Elements yenyewe inaitwa `elementsd` na hutumika kama daemon kwenye mashine ya mtumiaji. daemon (au huduma katika Windows) ni programu inayoendesha kama huduma ya usuli bila kuhitaji udhibiti wa moja kwa moja wa mtumiaji aliyeingia kwenye akaunti.
 
 Kumbuka: Katika hati hii yote, tutarejelea elements kila wakati kama toleo la daemon, lakini kila kitu kinaweza kufanywa kwa Elements-qt, mradi chaguo la seva limewezeshwa.
 
@@ -232,9 +230,11 @@ Anwani zote katika Elements ni, kwa chaguo-msingi, *blinded* kwa kutumia *Confid
 
 ### Anwani za Siri na Confidential Transactions
 
+Kwa chaguo-msingi, unapounda Address mpya katika Elements ukitumia amri ya `getnewaddress` inaundwa kama Address ya siri.
+
 Ili kuonyesha *Confidential Transactions*, tutafanya `e2` ijitumie pesa na kisha kujaribu kuangalia muamala huo kutoka kwa `e1`. Hii itaonyesha hali ya usiri ya miamala katika Elements.
 
-Kila Address mpya inayozalishwa na nodi ya Elements ni ya siri kwa chaguo-msingi. Tunaweza kuonyesha hili kwa kupata e2 hadi generate Address mpya.
+Kila Address mpya inayozalishwa na node ya Elements ni ya siri kwa chaguo-msingi. Tunaweza kuonyesha hili kwa kupata e2 hadi generate Address mpya.
 
 ```
 e2-cli getnewaddress
@@ -770,7 +770,6 @@ Kuwa na e2 saini hex.
 e2-cli signblock <block-hex>
 ```
 
-
 Tambua kuwa e2 haisaini matokeo yaliyoundwa kutoka kwa kusaini e1 block iliyopendekezwa. Wote wawili hutia saini baraka iliyopendekezwa bila matokeo ya kila mmoja
 
 Sasa tunahitaji kuchanganya saini za block kutoka e1 na e2. Njia yoyote inaweza kufanya hivi, wanachohitaji ni hex ya block iliyotiwa saini kutoka kwa nodi nyingine.
@@ -781,7 +780,7 @@ e1-cli combineblocksigs <block-hex> '["<signed-hex-from-e1>", "<signed-hex-from-
 
 Unaweza kuona amri ya combineblocksigs ikitoa heksi ya block iliyotiwa saini na hali ya kukamilika, ikituambia kwamba heksi ya block iko tayari kuwasilishwa.
 
-Sasa nodi yoyote inaweza kuwasilisha hex iliyokamilishwa ya block. Tutakuwa na e1 kuifanya.
+Sasa node yoyote inaweza kuwasilisha hex iliyokamilishwa ya block. Tutakuwa na e1 kuifanya.
 
 ```
 e1-cli submitblock <combined-signed-hex>
@@ -798,13 +797,13 @@ Unaweza kuona kwamba e1 na e2 wamekubali block kama halali na kukiongeza kwenye 
 
 Kwa muhtasari wa mchakato. Katika sehemu hii tunayo:
 
-- Imependekezwa block.  
-- Kila nodi ilitia saini.  
+- Block Imependekezwa .  
+- Kila node ilitia saini.  
 - Imechanganya saini.  
 - Imethibitisha kuwa saini ni halali na zinakidhi kiwango cha juu cha mnyororo cha redeemscript.  
 - Imewasilisha block.
 
-Kila nodi kwenye mtandao ilithibitisha block na kuiongeza kwenye nakala yao ya ndani ya Blockchain.
+Kila node kwenye mtandao ilithibitisha block na kuiongeza kwenye nakala yao ya ndani ya Blockchain.
 
 ### block signing
 
@@ -874,7 +873,7 @@ e1-dae -fedpegscript=5221<e1-pubkey>21<e2-pubkey>52ae
 e2-dae -fedpegscript=5221<e1-pubkey>21<e2-pubkey>52ae
 ```
 
-Sasa tutaagiza funguo za kibinafsi ambazo tulihifadhi hapo awali, ili nodi zetu ziweze kusaini baadaye na kukamilisha uhamishaji wa mali kati ya minyororo na kukidhi mahitaji ya federated peg script.
+Sasa tutaagiza funguo za kibinafsi ambazo tulihifadhi hapo awali, ili node zetu ziweze kusaini baadaye na kukamilisha uhamishaji wa mali kati ya minyororo na kukidhi mahitaji ya federated peg script.
 
 ```
 e1-cli importprivkey <priv-key-1>
@@ -892,7 +891,7 @@ e1-cli generate 1
 
 Hatuhitaji kuzuiwa kwa generate sasa hivi kwa Elements. Lakini, hebu tufanye generate moja hata hivyo. Ni mazoezi mazuri ili kuzuia kutoendana kwa uwezekano.
 
-Sasa mlolongo wetu uko tayari kuingia. Ili kupenya, tunahitaji generate aina maalum ya anwani kwa kutumia amri ya getpeginaddress. Kumbuka kuwa muda kati ya kutengeneza peg-in address kwa getpeginaddress na kuidai kwa claimpegin unapaswa kuwekwa mdogo iwezekanavyo. Anwani za peg-in hazidumu kwa muda mrefu na hazipaswi kutumiwa tena.
+Sasa mlolongo wetu uko tayari kuingia. Ili kupenya, tunahitaji kuunda aina maalum ya Address kwa kutumia amri ya getpeginaddress. Kumbuka kuwa muda kati ya kutengeneza peg-in address kwa getpeginaddress na kuidai kwa claimpegin unapaswa kuwekwa mdogo iwezekanavyo. Anwani za peg-in hazidumu kwa muda mrefu na hazipaswi kutumiwa tena.
 
 
 ```
@@ -929,7 +928,7 @@ Tunahitaji kukomaza muamala tena.
 b-cli generate 101
 ```
 
-Ili kuwa na nodi yetu ya Elements kudai fedha za kuweka kigingi tunahitaji kupata `uthibitisho` kwamba shughuli ya kuingiza kigingi imefanywa. Uthibitisho wa kriptografia hutumia ufadhili wa transaction ID kukokotoa njia ya merkel na inathibitisha kuwa muamala upo kwenye blocks  zilizothibitishwa.
+Ili kuwa na node yetu ya Elements kudai fedha za kuweka kigingi tunahitaji kupata `uthibitisho` kwamba shughuli ya kuingiza kigingi imefanywa. Uthibitisho wa kriptografia hutumia ufadhili wa transaction ID kukokotoa njia ya merkel na inathibitisha kuwa muamala upo kwenye blocks  zilizothibitishwa.
 
 ```
 b-cli gettxoutproof '["<tx-id>"]'
@@ -941,7 +940,7 @@ Pia tunahitaji data ghafi ya muamala.
 b-cli getrawtransaction <tx-id>
 ```
 
-Kwa uthibitisho na data ghafi ya ununuzi wa peg-in, nodi yetu ya Elements sasa inaweza kudai peg-in kwa kutumia muamala ghafi na uthibitisho wa muamala.
+Kwa uthibitisho na data ghafi ya ununuzi wa peg-in, node yetu ya Elements sasa inaweza kudai peg-in kwa kutumia muamala ghafi na uthibitisho wa muamala.
 
 ```
 e1-cli claimpegin <raw> <proof>
