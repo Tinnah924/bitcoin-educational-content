@@ -125,7 +125,6 @@ Shirikisho la block signing lina awamu kadhaa:
 **Hatua ya 4** – Ikiwa kizingiti cha sahihi (ambacho kinaweza kuwa tofauti na hatua ya 3) kitafikiwa, block hukubaliwa na kutumwa kwenye mtandao. Strong Federation hufikia makubaliano kuhusu block ya karibuni ya muamala.
 **Hatua ya 5** – Block inayofuata hupendekezwa na block signer anayefuata katika mzunguko wa round-robin na mchakato hurudiwa.
 
-
 Kwa sababu uzalishaji wa block wa Strong Federation si wa uwezekano na unategemea seti isiyobadilika ya watia sahihi, hauwezi kuwa chini ya upangaji upya wa block nyingi. Hii inaruhusu kupunguza kwa kiasi kikubwa muda wa kusubiri unaohusiana na uthibitisho wa miamala. Pia huondoa motisha ya kuchimba kwa ajili ya faida (yaani, tuzo za block) na badala yake huleta motisha ya kushiriki kwa tija katika mtandao ambapo washiriki wote wana lengo la pamoja: kuhakikisha mtandao unaendelea kufanya kazi kwa njia inayowanufaisha wote. Inafanya haya bila kuanzisha hatua moja ya kutofaulu au kuhitaji kiwango cha juu cha uaminifu.
 
 ### Elements kama Sidechain - watchmen na Federated 2-Way Peg
