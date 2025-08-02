@@ -132,6 +132,7 @@ Kwa sababu uzalishaji wa block wa Strong Federation si wa uwezekano na unategeme
 Inapoendeshwa kama Sidechain, baadhi ya wanachama wa Strong Federation wana jukumu la ziada la kutimiza, lile la watchmen. watchmen wanawajibika kwa uhamisho wa mali ndani na nje ya Elements Sidechain, michakato inayojulikana kama `Peg-In` na `Peg-Out`.
 
 Ili Sidechain ifanye kazi kwa njia ya kuaminika ni lazima iruhusu washiriki kuthibitisha kuwa Supply ya mali inadhibitiwa na kuthibitishwa. Elements Sidechain hutumia Kigingi Kilichoshirikishwa cha Njia 2 ili kuwezesha uhamishaji wa mali wa njia mbili ndani na nje ya Elements Blockchain. Hii inakidhi Mahitaji ya utoaji unaoweza kuthibitishwa na uhamishaji baina ya minyororo.
+
 Element ya *Federated 2-Way Peg* inaruhusu kipengee kuingiliana na minyororo mingine kama mwakilishi wa mali nyingine asilia ya blockchain. Kwa "kushikilia" blockchain yako hadi nyingine, unaweza kupanua uwezo wa *mainchain* na kushinda baadhi ya vikwazo vya asili vinavyokabili mnyororo huo.
 Kwa kiwango cha juu, uhamisho kwenye Sidechain hutokea wakati mtu anatuma mali ya mainchain kwa Address inayodhibitiwa na watchmen Wallet ya saini nyingi. Hii inafungia kwa ufanisi mali kwenye mainchain. watchmen kisha uthibitishe muamala na kutoa kiasi sawa cha kipengee husika ndani ya Sidechain. Mali iliyotolewa hutumwa kwa Sidechain Wallet ambayo inaweza kuthibitisha dai la mali asili ya mainchain. Mchakato huu huhamisha mali kutoka kwa msururu wa wazazi hadi Sidechain.
 
