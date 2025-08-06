@@ -248,9 +248,7 @@ Miradi ya sarafu ya crypto ya serikali kuu wakati mwingine hutoa tokeni za bila 
 
 #### Wizi wa utambulisho na hadaa
 
-
-Wakati mwingine, ulaghai huu hujitokeza kama ulaghai wa "ada ya mapema". Unaahidiwa zawadi au tuzo (iwe ni fedha, bidhaa, au huduma), lakini unaombwa ulipe ada ya awali, inayodaiwa kugharamia mambo kama vile usafirishaji, kodi, au gharama za muamala. Mara tu unapolipa, mlaghai hutoweka, na zawadi iliyoahidiwa haifiki kamwe.
-
+Wavamizi mara nyingi hutumia tovuti bandia, akaunti za mitandao ya kijamii, au barua pepe za udanganyifu kujaribu kuiba pesa zako kupitia njia mbalimbali za mawasiliano, ikiwa ni pamoja na simu na barua za kitamaduni
 
 Kabla ya kubofya kiungo au kuchukua hatua yoyote, daima angalia mara mbili utambulisho wa mtumaji. Ukiwa na shaka, tembelea tovuti wewe mwenyewe badala ya kutumia kiungo ulichopewa. Muhimu zaidi, usishiriki kamwe funguo zako za faragha au manenosiri na mtu yeyote.
 
@@ -762,7 +760,7 @@ Wawekezaji huchukua mtazamo wa kati hadi wa muda mrefu, wakinunua Bitcoin kwa im
 
 
 
-- **Kushikilia (HODL) :**
+- **Kushikilia (HODL):**
 
 
 "HODL" ilianza kama chapa ya "kushikilia" na haraka ikawa sehemu ya utamaduni wa Bitcoin. Leo, ni beji ya heshima.
@@ -1639,7 +1637,7 @@ Ikiwa ungependa kujifunza zaidi kuhusu jinsi Lightning Network inavyofanya kazi,
 https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 
-- **Sidechains** :
+- **Sidechains**:
 
 
 Sidechains ni minyororo ya block ambazo zinaendana sambamba na blockchain kuu ya Bitcoin. Zimeunganishwa kupitia kigingi cha njia mbili, ambacho huhakikisha kuwa kipengee kinachosonga kati ya minyororo huhifadhi thamani sawa; ikimaanisha Bitcoin kwenye sidechain bado ina thamani ya Bitcoin moja kwenye mnyororo mkuu. Kila sidechain ina utaratibu wake wa makubaliano, ambao unaweza kuwa tofauti kabisa au utegemezi wa Bitcoin.
@@ -1656,7 +1654,7 @@ Ikiwa ungependa kuchunguza Liquid kwa undani zaidi, tunatoa kozi ya juu ya mwaka
 https://planb.network/courses/6d26bcff-51a3-405f-bcdd-9af8297ce727
 
 
-- **RGB** :
+- **RGB**:
 
 
 RGB ni mfumo wa Smart contract uliogatuliwa na unaozingatia ufaragha ulioundwa kufanya kazi juu ya Bitcoin na Lightning Network. Tofauti na majukwaa ya kitamaduni ya Smart contract, RGB hutumia modeli ya Client-side Validation (ikimaanisha kuwa Contract State kamili imehifadhiwa off-chain, na ahadi za kriptografia pekee ndizo huchapishwa kwa Bitcoin Blockchain). Muundo huu unaboresha uzani na faragha. Kwa RGB, watumiaji wanaweza kuunda kandarasi za hali ya juu za utoaji wa tokeni, NFTs, vitambulisho vilivyogatuliwa, au hata programu za DeFi, moja kwa moja kwenye Bitcoin au Umeme.
@@ -1917,7 +1915,7 @@ Mifano: Bluu Wallet, Green Wallet, Sparrow wallet
 Kwa usaidizi wa Umeme: Phoenix, Wallet ya Satoshi, BitKit
 
 
-**Faida** :
+**Faida**:
 
 
 
@@ -1926,7 +1924,7 @@ Kwa usaidizi wa Umeme: Phoenix, Wallet ya Satoshi, BitKit
 - Baadhi wanaunga mkono Lightning Network kwa shughuli za haraka na za bei nafuu.
 
 
-**Hasara** :
+**Hasara**:
 
 
 
@@ -1946,7 +1944,7 @@ Pochi za maunzi ni vifaa halisi ambavyo huhifadhi funguo zako za faragha nje ya 
 Mifano: Ledger, Trezor, Coldcard, Jade, BitBox
 
 
-**Faida** :
+**Faida**:
 
 
 
@@ -1954,7 +1952,7 @@ Mifano: Ledger, Trezor, Coldcard, Jade, BitBox
 - Imeundwa mahsusi kwa usalama.
 
 
-**Hasara** :
+**Hasara**:
 
 
 
@@ -1974,7 +1972,7 @@ Pochi za Multisig(Sahihi nyingi) zinahitaji zaidi ya funguo moja ili kuidhinisha
 Mifano: Liana, Casa, Specter, Sparrow
 
 
-**Faida** :
+**Faida**:
 
 
 
@@ -1983,7 +1981,7 @@ Mifano: Liana, Casa, Specter, Sparrow
 - Unaweza kusambaza funguo kati ya watu au maeneo.
 
 
-**Hasara** :
+**Hasara**:
 
 
 
@@ -2005,7 +2003,7 @@ Baadhi ya watu huchagua kuhifadhi Bitcoin na huduma za watu wengine kama vile ku
 Mifano: Hubadilishana kama Coinbase au Binance, bidhaa za kifedha kama vile BlackRock's Bitcoin ETF.
 
 
-**Faida** :
+**Faida**:
 
 
 
@@ -2013,7 +2011,7 @@ Mifano: Hubadilishana kama Coinbase au Binance, bidhaa za kifedha kama vile Blac
 - Inatumika kwa watu ambao wanataka tu kufichuliwa kwa uwekezaji, sio kutumia Bitcoin moja kwa moja.
 
 
-**Hasara** :
+**Hasara**:
 
 
 
@@ -2066,7 +2064,7 @@ Kuna njia mbalimbali za kupata bitcoins, kulingana na kiasi gani cha faragha una
 Kwa kawaida mifumo inayodhibitiwa hukuhitaji uthibitishe utambulisho wako kabla ya kununua Bitcoin. Hii inamaanisha utahitaji kutoa hati rasmi (pasipoti, kitambulisho, uthibitisho wa Address, n.k.) ili kuunda akaunti na kufikia huduma za kununua na kuuza.
 
 
-**Faida** :
+**Faida**:
 
 
 
@@ -2076,7 +2074,7 @@ Kwa kawaida mifumo inayodhibitiwa hukuhitaji uthibitishe utambulisho wako kabla 
 - Ukwasi mkubwa na tofauti kidogo kati ya bei ya kununua na kuuza.
 
 
-**Hasara** :
+**Hasara**:
 
 
 
@@ -2112,7 +2110,7 @@ Kununua Bitcoin bila kufichua utambulisho wako ni chaguo kwa wale wanaotanguliza
 - **Malipo / Mshahara katika bitcoins**: Ikiwa unafanya biashara, unaweza kukubali Bitcoin kama malipo. Ikiwa umeajiriwa, kulingana na eneo la mamlaka lako, unaweza kuomba ulipwe katika Bitcoin. Njia hizi hukuruhusu kupata Bitcoin bila KYC.
 
 
-**Faida** :
+**Faida**:
 
 
 
@@ -2121,7 +2119,7 @@ Kununua Bitcoin bila kufichua utambulisho wako ni chaguo kwa wale wanaotanguliza
 - Inaruhusu ufikiaji wa Bitcoin hata katika mazingira yaliyodhibitiwa sana.
 
 
-**Hasara** :
+**Hasara**:
 
 
 
@@ -2387,9 +2385,9 @@ Ikiwa unajitambua katika sifa hizi za utu, labda wewe ni Hodler asili:
 
 
 - **Subira**: Mshikaji anaonyesha uvumilivu wa kipekee. Wako tayari kushikilia Bitcoin kwa miaka (wakati mwingine miongo) bila kukerwa na mabadiliko ya bei ya kila siku. Wanaelewa kuwa Bitcoin husogea kwa mizunguko na hawaogope wakati bei inapoanguka. Marekebisho ni sehemu tu ya mchezo. Kwa washikaji, thamani haipimwi kwa miezi, lakini kwa muda mrefu;
-- **Maono ya muda mrefu** : Mwenye hodre anafikiria mbali zaidi ya faida ya muda mfupi. Wanaamini katika ukuaji wa muundo wa Bitcoin na kupitishwa kwa taratibu kimataifa. Licha ya tete, wanaona njia ya juu; moja ya upanuzi ikifuatiwa na uimarishaji. Kwao, Bitcoin ni mali ya muda mrefu, ua dhidi ya mfumuko wa bei, na sehemu muhimu ya mapinduzi makubwa ya fedha;
+- **Maono ya muda mrefu**: Mwenye hodre anafikiria mbali zaidi ya faida ya muda mfupi. Wanaamini katika ukuaji wa muundo wa Bitcoin na kupitishwa kwa taratibu kimataifa. Licha ya tete, wanaona njia ya juu; moja ya upanuzi ikifuatiwa na uimarishaji. Kwao, Bitcoin ni mali ya muda mrefu, ua dhidi ya mfumuko wa bei, na sehemu muhimu ya mapinduzi makubwa ya fedha;
 - **Nidhamu ya kibinafsi**: Nidhamu ya kiakili ndio msingi wa mawazo ya mtu hodari. Kwa kushangaza, changamoto yao kuu sio kutenda. Wanapinga hamu ya kuuza wakati wa kupanda kwa bei na hawakubali kuogopa wakati wa ajali. Wanaelewa kuwa Bitcoin imenusurika katika masoko mengi ya kikatili ya dubu; na kwamba wale wanaoshikilia maumivu mara nyingi hufaidika zaidi;
-- **Ustahimilivu wa kihisia** : Bei ya Bitcoin inaweza kushuka kwa 50% au zaidi katika muda wa wiki; na bado, mshikaji anabakia mtulivu. Wameingiza ndani wazo kwamba tete haidhoofishi misingi ya Bitcoin. Ugumu huu wa kihisia huwawezesha kuweka kichwa cha usawa wakati wa kutokuwa na uhakika na kudumisha mtazamo wa busara wakati wengine wanaogopa;
+- **Ustahimilivu wa kihisia**: Bei ya Bitcoin inaweza kushuka kwa 50% au zaidi katika muda wa wiki; na bado, mshikaji anabakia mtulivu. Wameingiza ndani wazo kwamba tete haidhoofishi misingi ya Bitcoin. Ugumu huu wa kihisia huwawezesha kuweka kichwa cha usawa wakati wa kutokuwa na uhakika na kudumisha mtazamo wa busara wakati wengine wanaogopa;
 - **Imani katika teknolojia**: Hodlers hawaoni Bitcoin kama mali ya kubahatisha tu. Wanaamini katika teknolojia yake na uwezo wake wa kuvuruga. Kwa wengi, si tu kuhusu pesa; ni kuhusu uhuru. Bitcoin inatazamwa kama sarafu thabiti, ya kisiasa na mbadala halisi kwa benki ya jadi, kuwawezesha watu binafsi na uhuru mkubwa wa kifedha.
 
 
@@ -2431,7 +2429,7 @@ Faida za stacking:
 
 - **Kupungua kwa tete**: Ununuzi wa mara kwa mara husaidia kukabiliana na mabadiliko ya bei, unaponunua zaidi Sats wakati bei ni ya chini na chache zinapokuwa juu; wastani wa msingi wa gharama yako na kupunguza mkazo wa kihemko.
 - **Ufikivu**: Huhitaji mtaji mkubwa wa awali. Unaweza kuanza na kidogo kama €10 kwa mwezi na kuongeza kiasi chako cha DCA kwa muda.
-- **Nidhamu na otomatiki** : Vibandiko huepuka kufanya maamuzi ya kihisia. Ununuzi wa kiotomatiki unaorudiwa huhakikisha uthabiti na kupunguza hatari ya hatua za haraka.
+- **Nidhamu na otomatiki**: Vibandiko huepuka kufanya maamuzi ya kihisia. Ununuzi wa kiotomatiki unaorudiwa huhakikisha uthabiti na kupunguza hatari ya hatua za haraka.
 - **Mkakati wa Muda Mrefu**: Uwekezaji wa hatua kwa hatua huongeza nafasi za kufaidika na masoko ya fahali huku ukipunguza hatari wakati wa kushuka.
 
 
@@ -2451,7 +2449,7 @@ Staka inahitaji usanidi wa Wallet unaosawazisha urahisi wa kutumia na usalama wa
 
 
 
-- **Hot Wallet** : Inafaa kwa wanaoanza, pochi za rununu au za mezani hukuruhusu kupokea Sats kwa urahisi na kufanya malipo. Hata hivyo, zinafaa zaidi kwa kiasi kidogo. Pochi za On-Chain zinapendekezwa kwa kurundikana juu ya pochi za Radi kutokana na usimamizi bora wa UTXO. Pochi za programu zinazopendekezwa: Green Wallet, Blue Wallet, Sparrow wallet, Bitkit, Nunchuk, Aqua, Proton
+- **Hot Wallet**: Inafaa kwa wanaoanza, pochi za rununu au za mezani hukuruhusu kupokea Sats kwa urahisi na kufanya malipo. Hata hivyo, zinafaa zaidi kwa kiasi kidogo. Pochi za On-Chain zinapendekezwa kwa kurundikana juu ya pochi za Radi kutokana na usimamizi bora wa UTXO. Pochi za programu zinazopendekezwa: Green Wallet, Blue Wallet, Sparrow wallet, Bitkit, Nunchuk, Aqua, Proton
 
 
 https://planb.network/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
@@ -2620,21 +2618,21 @@ Kutumia Bitcoin kila siku hutoa faida za kibinafsi na za pamoja:
 
 
 
-- **Saidia mfumo ikolojia wa Bitcoin kupitia kuasili** :
+- **Saidia mfumo ikolojia wa Bitcoin kupitia kuasili**:
 
 
 Kila muamala huimarisha uhalali wa Bitcoin kama sarafu na kuhimiza wafanyabiashara na huduma zaidi kuikubali. Kutumia Bitcoin ni kupiga kura kwa matumizi yake. Fedha hupata thamani yake kutokana na uwezo wake wa kuwezesha biashara; si kubadilishana. Ikiwa hakuna wauzaji wanaokubali sarafu, haina thamani inayolengwa. Kadiri bidhaa na huduma unavyoweza kununua nayo, ndivyo inavyokuwa muhimu zaidi. Kwa kuchagua kulipa katika Bitcoin, unaelekeza thamani kwa wafanyabiashara wanaoikubali. Hii huongeza faida zao na inaweza, baada ya muda, kupunguza faida kwa washindani wanaoikataa. Kote katika jumuiya, mabadiliko haya yanaweza kuendeleza ukubalikaji mpana wa Bitcoin na kuchangia katika mzunguko mzuri wa kuasili.
 
 
 
-- **Tumia fursa ya Elements za kipekee za Bitcoin** :
+- **Tumia fursa ya Elements za kipekee za Bitcoin**:
 
 
 Bitcoin inatoa Elements kadhaa zaĺ nguvu, kama vile miamala ya haraka kupitia Lightning Network, na uhuru kutoka kwa udhibiti, uchunguzi wa kifedha, na utekaji nyara. Thamani yake kuu iko katika kuondoa udhibiti wa serikali juu ya ugavi wa pesa  na kuwezesha miamala isiyoweza kukadiriwa. Ikiwa faida hizi zitalingana na mahitaji yako ya kibinafsi na maadili, unaweza kupata kwamba wasifu wa Mtumiaji Anayetumika unakufaa vyema.
 
 
 
-- **Jifunze kwa kufanya** :
+- **Jifunze kwa kufanya**:
 
 
 Kutumia Bitcoin kikamilifu hukusaidia kukuza matumizi ya ulimwengu halisi. Utafahamu aina za Wallet, faragha ya malipo na usimamizi wa UTXO. Matumizi ya kila siku huwa mazingira ya kujifunzia ya vitendo.
@@ -3308,7 +3306,7 @@ Fikiria maeneo yote ambapo una bitcoins au fedha za fiat zinazohusiana na Bitcoi
 
 - **Mifumo ya Exchange**: Akaunti zilizo na BTC au mtandao unaounganishwa na ununuzi wako wa Bitcoin.
 -** Hot wallets(simu ya mkononi au eneo-kazi)**: Programu zilizosakinishwa kwenye simu yako, zinazotumika kwa shughuli za kila siku;
-- **Pochi za maunzi** : Vifaa halisi vinavyohifadhi funguo zako za faragha nje ya mtandao;
+- **Pochi za maunzi**: Vifaa halisi vinavyohifadhi funguo zako za faragha nje ya mtandao;
 - **Suluhisho zingine **: Multisig, pochi za karatasi, funguo za kibinafsi zilizohifadhiwa, nk.
 
 
