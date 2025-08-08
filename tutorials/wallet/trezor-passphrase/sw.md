@@ -1,12 +1,12 @@
 ---
 name: passphrase BIP39 Trezor
-description: Je, ninawezaje kuongeza passphrase kwenye kwingineko yangu ya Trezor?
+description: Je, ninawezaje kuongeza passphrase kwenye wallet yangu ya Trezor?
 ---
 ![cover](assets/cover.webp)
 
 
 
-passphrase BIP39 ni nenosiri la hiari ambalo, pamoja na maneno ya Mnemonic, hutoa Layer ya ziada ya usalama kwa ajili ya portfolios za Bitcoin za kuamua na za daraja. Katika somo hili, tutagundua pamoja jinsi ya kusanidi passphrase kwenye Bitcoin Wallet yako salama kwenye Trezor (Safe 3, Safe 5 na Model One).
+passphrase BIP39 ni nenosiri la hiari ambalo, pamoja na maneno ya Mnemonic, hutoa layer ya ziada ya usalama kwa ajili ya wallet za Bitcoin za kuamua na za daraja. Katika somo hili, tutagundua pamoja jinsi ya kusanidi passphrase kwenye Bitcoin wallet yako salama kwenye Trezor (Safe 3, Safe 5 na Model One).
 
 
 
@@ -32,7 +32,7 @@ Chaguo hizi hazipatikani kwenye programu zote za usimamizi wa kwingineko zinazoo
 
 
 
-Katika Trezor Suite, una njia mbili tofauti za kudhibiti mahitaji ya passphrase. Unaweza kuamilisha chaguo la "*passphrase*" kwenye kichupo cha "*Kifaa*". Ikiwashwa, Trezor Suite na programu nyingine zote za usimamizi wa kwingineko zitakuuliza kwa utaratibu uweke passphrase yako kila unapoanzisha. Ikiwa unapendelea mbinu ya busara zaidi ya kutumia passphrase, unaweza kuweka mpangilio katika "*Standard*". Katika hali hii, utahitaji kufikia wewe mwenyewe menyu ya Hardware Wallet katika kona ya juu upande wa kushoto, na ubofye kitufe cha "+ passphrase*" kila mara unapoiwasha.
+Katika Trezor Suite, una njia mbili tofauti za kudhibiti mahitaji ya passphrase. Unaweza kuamilisha chaguo la "passphrase" kwenye kichupo cha "Device". Ikiwashwa, Trezor Suite na programu nyingine zote za usimamizi wa wallet zitakuuliza kwa utaratibu uweke passphrase yako kila unapoanzisha. Ikiwa unapendelea mbinu ya busara zaidi ya kutumia passphrase, unaweza kuweka mpangilio katika "Standard". Katika hali hii, utahitaji kufikia wewe mwenyewe menyu ya Hardware Wallet katika kona ya juu upande wa kushoto, na ubofye kitufe cha "+ passphrase" kila mara unapoiwasha.
 
 
 
@@ -47,7 +47,7 @@ https://planb.network/tutorials/wallet/hardware/trezor-safe-3-51d0d669-5d23-47c2
 https://planb.network/tutorials/wallet/hardware/trezor-model-one-5c250c49-ce3b-4c63-bd05-4600d7c11a02
 
 
-## Inaongeza passphrase kwa Safe 3 au Salama 5
+## Inaongeza passphrase kwa Safe 3 au safe 5
 
 
 
@@ -59,7 +59,7 @@ Baada ya kuunda Wallet yako, kuhifadhi Mnemonic yako na kuweka PIN, utapelekwa k
 
 
 
-Ikiwa dirisha hili halionekani, utahitaji kuwezesha mwenyewe chaguo la "*passphrase*" kwenye kichupo cha mipangilio ya "*Kifaa*".
+Ikiwa dirisha hili halionekani, utahitaji kuwezesha mwenyewe chaguo la "*passphrase*" kwenye kichupo cha mipangilio ya "*Device*".
 
 
 
@@ -71,7 +71,7 @@ Dirisha hili litakuuliza uweke passphrase yako. Chagua passphrase dhabiti na ufa
 
 
 
-bila shaka, hupaswi kamwe kushiriki passphrase yako kwenye Mtandao, kama ninavyofanya katika mafunzo haya. Mfano huu wa Wallet utatumika kwenye Testnet pekee na utafutwa mwishoni mwa mafunzo.**_
+**bila shaka, hupaswi kamwe kushiriki passphrase yako kwenye Mtandao, kama ninavyofanya katika mafunzo haya. Mfano huu wa Wallet utatumika kwenye Testnet pekee na utafutwa mwishoni mwa mafunzo.**_
 
 
 
@@ -81,7 +81,7 @@ Kwa mapendekezo mahususi zaidi kuhusu kuchagua passphrase yako, ninakualika kwa 
 
 https://planb.network/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14-bafdeb1adce7
 
-Ikiwa ungependa kuingiza passphrase yako kupitia kibodi cha kompyuta yako, ingiza kwenye sehemu uliyopewa, kisha ubofye "*Fikia passphrase Wallet*".
+Ikiwa ungependa kuingiza passphrase yako kupitia kibodi cha kompyuta yako, ingiza kwenye sehemu uliyopewa, kisha ubofye "Access passphrase Wallet".
 
 
 
@@ -105,7 +105,7 @@ Hii itakupa ufikiaji wa kwingineko yako iliyolindwa na passphrase.
 
 
 
-Ikiwa ungependa kuimarisha usalama kwa kuweka passphrase yako kwenye Trezor yako pekee, unapoombwa, bofya "*Ingiza passphrase kwenye Trezor*".
+Ikiwa ungependa kuimarisha usalama kwa kuweka passphrase yako kwenye Trezor yako pekee, unapoombwa, bofya "Enter passphrase on Trezor".
 
 
 
@@ -121,7 +121,7 @@ Kibodi ya T9 itaonekana kwenye Trezor yako, itakuruhusu kuingiza passphrase yako
 
 
 
-Kisha utaweza kufikia passphrase yako salama Wallet.
+Kisha utaweza kufikia passphrase yako kwa wallet salama.
 
 
 
@@ -145,7 +145,7 @@ Wakati wowote Sparrow Wallet inapohitaji ufikiaji wa Trezor yako, na passphrase 
 
 
 
-Kwenye Mfano wa Kwanza, matumizi ya passphrase BIP39 ni karibu lazima. Kwa vile kifaa hiki hakijumuishi Kipengele Salama, ni rahisi kiasi kutoa taarifa nyeti. Kwa hiyo si sugu kwa mashambulizi ya kimwili. Hata hivyo, kwa vile passphrase haijawekwa kwenye kifaa baada ya kuzimwa, kwa kutumia passphrase yenye nguvu (isiyo ya kikatili) inaweza kukulinda dhidi ya mashambulizi mengi ya kimwili yanayojulikana kwa mtindo huu.
+Kwenye Model One, matumizi ya passphrase BIP39 ni karibu lazima. Kwa vile kifaa hiki hakijumuishi Kipengele Salama, ni rahisi kiasi kutoa taarifa nyeti. Kwa hiyo si sugu kwa mashambulizi ya kimwili. Hata hivyo, kwa vile passphrase haijawekwa kwenye kifaa baada ya kuzimwa, kutumia passphrase yenye nguvu (isiyo ya kikatili) kunaweza kukulinda dhidi ya mashambulizi mengi ya kimwili yanayojulikana kwa mtindo huu.
 
 
 
