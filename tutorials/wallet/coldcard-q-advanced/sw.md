@@ -10,7 +10,7 @@ Katika somo lililopita, tulishughulikia usanidi wa awali wa COLDCARD Q na kazi z
 
 https://planb.network/tutorials/wallet/hardware/coldcard-q-73e86d1a-6fe6-4d8b-bb15-8690298020e3
 
-Mafunzo haya mapya yamejitolea kwa chaguo za kina za COLDCARD Q, iliyoundwa kwa ajili ya watumiaji wa hali ya juu na wabishi. Kwa hakika, COLDCARD zinatofautishwa na pochi zingine za maunzi kwa vipengele vyake vingi vya usalama vya hali ya juu. Bila shaka, si lazima kutumia chaguzi hizi zote. Chagua tu zile zinazolingana na mkakati wako wa usalama.
+Mafunzo haya mapya yamejitolea kwa chaguo za kina za COLDCARD Q, iliyoundwa kwa ajili ya watumiaji wa hali ya juu na wabishi. Kwa hakika, COLDCARD zinatofautishwa na wallet zingine za maunzi kwa vipengele vyake vingi vya usalama vya hali ya juu. Bila shaka, si lazima kutumia chaguzi hizi zote. Chagua tu zile zinazolingana na mkakati wako wa usalama.
 
 
 **Tahadhari**, matumizi yasiyo sahihi ya baadhi ya chaguo hizi za juu yanaweza kusababisha upotevu wa bitcoins zako au uharibifu wa Hardware Wallet yako. Kwa hiyo ninapendekeza sana kwamba usome ushauri na maelezo kwa kila chaguo kwa makini.
@@ -36,7 +36,7 @@ Kumbuka kwamba mara tu unapoweka passphrase kwenye Wallet yako, Mnemonic yako pe
 Kwenye COLDCARD, una chaguo mbili za kudhibiti passphrase yako:
 
 
-1. **Ingizo la kawaida:** Unaingiza passphrase wewe mwenyewe kila wakati unapotumia Hardware Wallet yako, kama vile unavyofanya na pochi zingine za maunzi. COLDCARD Q hurahisisha kazi hii kwa kibodi yake kamili.
+1. **Ingizo la kawaida:** Unaingiza passphrase wewe mwenyewe kila wakati unapotumia Hardware Wallet yako, kama vile unavyofanya na wallet zingine za maunzi. COLDCARD Q hurahisisha kazi hii kwa kibodi yake kamili.
 
 
 2. **Unaweza kuchagua kusimba passphrase yako na kuihifadhi kwenye kadi ya microSD. Katika hali hii, utahitaji kuingiza microSD kwenye COLDCARD Q kila wakati unapoitumia. Kumbuka kuwa microSD hii itafanya kazi kwenye COLDCARD Q yako pekee na sio nakala rudufu. Kwa hivyo ni muhimu sana pia kuweka nakala ya passphrase yako kwenye nyenzo halisi, kama vile karatasi au chuma.
