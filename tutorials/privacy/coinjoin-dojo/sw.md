@@ -287,10 +287,10 @@ Ili kuanza, utahitaji Dojo! Dojo ni utekelezaji wa node za Bitcoin kulingana na 
 Ili kuendesha Dojo yako mwenyewe, una chaguo la kusakinisha kifundo cha Dojo kwa uhuru, au kuchukua fursa ya Dojo juu ya suluhisho lingine la "node-in-box" Bitcoin. Hivi sasa, chaguzi zinazopatikana ni:
 
 
-- [RoninDojo](https://ronindojo.io/), ambayo ni Dojo iliyoboreshwa kwa zana za ziada, ikiwa ni pamoja na msaidizi wa usakinishaji na msaidizi wa utawala. Ninaeleza kwa kina utaratibu wa kusanidi na kutumia RoninDojo katika mafunzo haya mengine: [RONINDOJO V2](https://planb.network/tutorials/nodee/bitcoin/ronin-dojo-v2-0ddb3854-6f38-4466-b4e2-f66c028e0dd8);
+- [RoninDojo](https://ronindojo.io/), ambayo ni Dojo iliyoboreshwa kwa zana za ziada, ikiwa ni pamoja na msaidizi wa usakinishaji na msaidizi wa utawala. Ninaeleza kwa kina utaratibu wa kusanidi na kutumia RoninDojo katika mafunzo haya mengine: [RONINDOJO V2](https://planb.network/tutorials/node/bitcoin/ronin-dojo-v2-0ddb3854-6f38-4466-b4e2-f66c028e0dd8);
 - [Mwavuli](https://umbrel.com/) yenye programu ya "Seva ya Samourai";
-- [MyNode](https://mynodeebtc.com/) na programu ya "Dojo";
-- [Nodl](https://www.nodel.eu/) na programu ya "Dojo";
+- [MyNode](https://mynodebtc.com/) na programu ya "Dojo";
+- [Nodl](https://www.nodl.eu/) na programu ya "Dojo";
 - [Citadel](https://runcitadel.space/) na programu ya "Samourai".
 
 ![coinjoin](assets/notext/9.webp)
