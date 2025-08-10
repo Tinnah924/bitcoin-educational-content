@@ -3,7 +3,7 @@ name: JoinBot
 description: Kuelewa na kutumia JoinBot
 ---
 
-![DALLÂ·E â€“ samurai robot in a red forest, 3D render](assets/cover.webp)
+![DALL·E – samurai robot in a red forest, 3D render](assets/cover.webp)
 
 
 ***ONYO:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa kwa seva zao mnamo Aprili 24, **huduma ya JoinBot haipatikani tena**. Kufikia sasa, haiwezekani tena kutumia zana hii. Hata hivyo, bado unaweza kutekeleza Stonewall X2, lakini unahitaji kupata mshirika na wewe mwenyewe Exchange PSBTs. Huduma hii inaweza kuanzishwa upya katika miezi ijayo kulingana na maendeleo ya kesi.*
@@ -119,6 +119,7 @@ Ili kutatua tatizo hili, timu ya Samourai hivi majuzi iliongeza kipengele kipya 
 
 ## JoinBot ni nini?
 
+
 Kanuni ya JoinBot ni rahisi. Ikiwa huwezi kupata mtu yeyote wa kushirikiana naye kwa muamala wa StonewallX2, unaweza kushirikiana na JoinBot. Kwa mazoezi, utakuwa ukifanya muamala wa pamoja moja kwa moja na Samourai Wallet.
 
 
@@ -151,7 +152,7 @@ Tofauti na zana nyingi zilizotengenezwa na Samourai, Sparrow Wallet bado haijata
 Gundua hatua kwa hatua jinsi ya kufanya muamala wa StonewallX2 na JoinBot kwenye video hii:
 
 
-![How to use Joinbot]([https://youtu.be/80MoMz2Ne5g](https://youtu.be/80MoMz2Ne5g))
+![How to use Joinbot](https://youtu.be/80MoMz2Ne5g)
 
 
 Hapa kuna mchoro wa muamala ambao tumeigiza hivi punde kwenye video:
@@ -191,5 +192,5 @@ Ikiwa unaweza kufanya StonewallX2 ya kawaida na rafiki, bado ninapendekeza kutum
 **Nyenzo za nje:**
 
 
-- [https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923](https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923)
-- [https://www.pandul.fr/post/comprendre-et-utiliser-le-CoinJoin-sur-Bitcoin](https://www.pandul.fr/post/comprendre-et-utiliser-le-CoinJoin-sur-Bitcoin)
+- [https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923]
+-[https://www.pandul.fr/post/comprendre-et-utiliser-le-CoinJoin-sur-Bitcoin]
