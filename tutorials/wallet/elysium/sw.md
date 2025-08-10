@@ -1,6 +1,6 @@
 ---
 name: Elysium Wallet
-description: Sanidi na jinsi ya kutumia Elysium Wallet
+description: Kusanidi na jinsi ya kutumia Elysium Wallet
 ---
 
 ![image](assets/cover.webp)
@@ -9,13 +9,13 @@ description: Sanidi na jinsi ya kutumia Elysium Wallet
 Elysium Wallet ni Software Wallet ya kwanza isiyo ya ulezi kutoka kwa kampuni ya Uswizi inayoanzisha Elysium Labs.
 
 
-Shukrani kwa mfumo wa kibunifu wa usimamizi wa vitufe, unaweza kufikia vipengee vyako vya kidijitali kwa kutumia Elements ambazo ni sehemu ya maisha ya kila siku: jina lako la mtumiaji, nenosiri lako, nenosiri au nenosiri lako. Hiyo ni kweli: si lazima tena kabisa kutumia Neno la seed ili kurejesha ufikiaji wa mali yako ya dijitali. Urahisishaji huu unaweza kuongeza kasi ya kuenea kwa Bitcoin kote ulimwenguni.
+Shukrani kwa mfumo wa kibunifu wa usimamizi wa vitufe, unaweza kufikia vipengele vyako vya kidijitali kwa kutumia vipengele ambavyo ni sehemu ya maisha ya kila siku: jina lako la mtumiaji, nenosiri lako, au PIN yako. Hiyo ni kweli: si lazima tena kutumia seed ili kurejesha ufikiaji wa mali yako ya kidijitali. Urahisishaji huu unaweza kuongeza kasi ya kuenea kwa Bitcoin kote ulimwenguni.
 
 
 ## Jinsi ya Kufungua Akaunti?
 
 
-Pakua Programu ya Elysium Wallet kutoka Apple Store au Google Play, kisha ufungue programu ya Elysium Wallet uliyopakua kwenye kifaa chako. Gonga kwenye "Unda Wallet mpya", kwa hatua hiyo, itaonekana sheria na masharti ya skrini ya matumizi. Ili kukubali na kuendelea na uundaji wa akaunti yako, gusa "Anza Kuweka", kisha uweke jina lako la mtumiaji; tafadhali kumbuka kuwa picha ya wasifu inaweza kubinafsishwa: chagua moja kutoka kwa chaguo zilizotolewa, kwa kupiga picha au kupakia picha kutoka kwa kifaa chako. Unapochagua, gonga "Endelea".
+Pakua programu ya Elysium Wallet kutoka Apple Store au Google Play, kisha ufungue programu ya Elysium Wallet uliyopakua kwenye kifaa chako. Gonga kwenye "Create new Wallet". Katika hatua hiyo, itaonekana sheria na masharti ya matumizi. Ili kukubali na kuendelea na uundaji wa akaunti yako, gonga "Start Setup", kisha weka jina lako la mtumiaji. Tafadhali kumbuka kuwa picha ya wasifu inaweza kubinafsishwa: chagua moja kutoka kwa chaguo zilizotolewa, kwa kupiga picha au kupakia picha kutoka kwa kifaa chako. Unapochagua, gonga "Continue".
 
 
 ![image](assets/en/02.webp)
