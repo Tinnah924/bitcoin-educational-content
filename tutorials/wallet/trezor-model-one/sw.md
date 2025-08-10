@@ -10,7 +10,7 @@ description: Kuanzisha na kutumia Hardware Wallet Model One
 
 
 
-Trezor Model One ndiyo Hardware Wallet ya kwanza kabisa kuwahi kutolewa, iliyozinduliwa mwaka wa 2014 na SatoshiLabs. Baada ya zaidi ya miaka kumi kuwepo, linasalia kuwa chaguo la kuvutia, hasa kwa watumiaji wanaotafuta Hardware Wallet ambayo inaweza kufikiwa kiufundi na kwa mujibu wa bajeti. Kwa kweli, inauzwa kwa €49 kwenye tovuti rasmi ya Trezor. Ni mojawapo ya pochi za maunzi pekee katika safu hii ya bei. Iko katikati ya vifaa vya kiwango cha kuingia karibu €20, kama vile Tapsigner, ambayo mara nyingi haina skrini, na vifaa vya kati vya karibu €80, kama vile Ledger Nano S Plus au Trezor Safe 3.
+Trezor Model One ndiyo Hardware Wallet ya kwanza kabisa kuwahi kutolewa, iliyozinduliwa mwaka wa 2014 na SatoshiLabs. Baada ya zaidi ya miaka kumi kuwepo, linasalia kuwa chaguo la kuvutia, hasa kwa watumiaji wanaotafuta Hardware Wallet ambayo inaweza kufikiwa kiufundi na kwa mujibu wa bajeti. Kwa kweli, inauzwa kwa €49 kwenye tovuti rasmi ya Trezor. Ni mojawapo ya Wallet za maunzi pekee katika safu hii ya bei. Iko katikati ya vifaa vya kiwango cha kuingia karibu €20, kama vile Tapsigner, ambayo mara nyingi haina skrini, na vifaa vya kati vya karibu €80, kama vile Ledger Nano S Plus au Trezor Safe 3.
 
 
 
@@ -31,12 +31,12 @@ Mfano wa Kwanza hutoa faida mbili muhimu:
 
 
 
-- Inategemea usanifu wa chanzo wazi kabisa. Tofauti na miundo ya hivi majuzi iliyo na Kipengele Salama, maunzi na vipengele vya programu vya Model One vinaweza kukaguliwa;
+- Inategemea usanifu wa chanzo wazi kabisa. Tofauti na miundo ya hivi majuzi iliyo na Kipengele Salama, maunzi na Elements zaa programu z0a Model One vinaweza kukaguliwa;
 - Ina vifaa vya skrini. Kwa ufahamu wangu, hii ndiyo Hardware Wallet pekee kwenye soko katika safu hii ya bei yenye onyesho. Hiki ni kipengele muhimu sana, kwani huwezesha taarifa zilizotiwa sahihi na anwani za mapokezi kuthibitishwa, hivyo basi kuzuia mashambulizi mengi ya kidijitali.
 
 
 
-Kwa hivyo Trezor Model One inaweza kuwakilisha chaguo la busara kwa wanaoanza na watumiaji wa kati kwa bajeti ndogo. Hata hivyo, ni muhimu kuendelea kufahamu vikwazo vyake katika suala la ulinzi wa kimwili, kutokana na kutokuwepo kwa Kipengele Salama. Ikiwa bajeti yako ni ndogo, hili ni chaguo zuri, lakini ikiwa unaweza kumudu kuchagua mtindo bora zaidi, kama vile Trezor Safe 3 kwa €79, ni vyema, kwani inajumuisha Kipengele Salama.
+Kwa hivyo Trezor Model One inaweza kuwakilisha chaguo la bpusara kwa wanaoanza na watumiaji wa kati kwa bajeti ndogo. Hata hivyo, ni muhimu kuendelea kufahamu vikwazo vyake katika suala la ulinzi wa kimwili, kutokana na kutokuwepo kwa Kipengele Salama. Ikiwa bajeti yako ni ndogo, hili ni chaguo zuri, lakini ikiwa unaweza kumudu kuchagua mtindo bora zaidi, kama vile Trezor Safe 3 kwa €79, ni vyema, kwani inajumuisha Kipengele Salama.
 
 
 
@@ -121,7 +121,7 @@ Fungua Trezor Suite, kisha ubofye kwenye "*Sanidi Trezor* yangu".
 
 
 
-Chagua "*Bitcoin-tu firmware*", kisha ubofye "*Sakinisha Bitcoin-pekee*".
+Chagua "Bitcoin-only firmware", kisha ubofye "Install Bitcoin-only".
 
 
 
@@ -137,7 +137,7 @@ Trezor Suite itasakinisha programu dhibiti kwenye Model One yako. Tafadhali subi
 
 
 
-Bonyeza "*Endelea*".
+Bonyeza "Continue".
 
 
 
@@ -149,7 +149,7 @@ Bonyeza "*Endelea*".
 
 
 
-Kwenye Trezor Suite, bofya kitufe cha "*Unda Wallet* mpya".
+Kwenye Trezor Suite, bofya kitufe cha "*Create Wallet* mpya".
 
 
 
@@ -165,7 +165,7 @@ Kubali masharti ya matumizi kwenye Hardware Wallet.
 
 
 
-Katika Trezor Suite, bofya "*Endelea kuhifadhi nakala*".
+Katika Trezor Suite, bofya "Continue to backup".
 
 
 
@@ -189,7 +189,7 @@ Unaweza kuiandika kwenye kadibodi iliyotolewa kwenye kisanduku, au kwa usalama u
 
 
 
-Thibitisha maagizo, kisha ubofye kitufe cha "*Unda nakala ya Wallet*".
+Thibitisha maagizo, kisha ubofye kitufe cha "Create wallet backup".
 
 
 
@@ -197,7 +197,7 @@ Thibitisha maagizo, kisha ubofye kitufe cha "*Unda nakala ya Wallet*".
 
 
 
-Model One itaunda maneno yako ya Mnemonic kwa kutumia jenereta yake ya nambari nasibu. Hakikisha hutazamwa wakati wa operesheni hii. Andika maneno yaliyotolewa kwenye skrini kwenye nyenzo ya asili ya chaguo lako. Kulingana na mkakati wako wa usalama, unaweza kufikiria kutengeneza nakala kadhaa kamili za maneno (lakini zaidi ya yote, usiigawanye). Ni muhimu kuweka maneno kwa nambari na kwa mpangilio.
+Model One itaunda maneno yako ya "Mnemonic" kwa kutumia jenereta yake ya nambari nasibu. Hakikisha hutazamwa wakati wa operesheni hii. Andika maneno yaliyotolewa kwenye skrini kwenye nyenzo ya asili ya chaguo lako. Kulingana na mkakati wako wa usalama, unaweza kufikiria kutengeneza nakala kadhaa kamili za maneno (lakini zaidi ya yote, usiigawanye). Ni muhimu kuweka maneno kwa nambari na kwa mpangilio.
 
 
 
@@ -235,7 +235,7 @@ Inayofuata inakuja hatua ya msimbo wa PIN. Msimbo wa PIN hufungua Trezor yako. K
 
 
 
-Kwenye Trezor Suite, bofya "*Endelea kuweka PIN*", kisha kwenye kitufe cha "*Weka PIN*".
+Kwenye Trezor Suite, bofya "Continue to set PIN", kisha kwenye kitufe cha "Set PIN".
 
 
 
@@ -267,7 +267,7 @@ Mbinu hii mahususi ya kuweka PIN inahitajika kila wakati unapofungua Trezor Mode
 
 
 
-Baada ya kumaliza, bofya kitufe cha "*Ingiza PIN*".
+Baada ya kumaliza, bofya kitufe cha "*Enter PIN*".
 
 
 
@@ -283,7 +283,7 @@ Andika PIN yako tena ili kuthibitisha.
 
 
 
-Kwenye Trezor Suite, bofya kitufe cha "*Kamilisha kusanidi".
+Kwenye Trezor Suite, bofya kitufe cha "Complete setup".
 
 
 
@@ -299,7 +299,7 @@ Usanidi wa Model One yako sasa umekamilika. Ukipenda, unaweza kubadilisha jina n
 
 
 
-Hatutahitaji tena programu ya Trezor Suite, isipokuwa kufanya masasisho ya mara kwa mara ya programu dhibiti kwenye Hardware Wallet yako, au ikiwa ungependa kufanya jaribio la urejeshi. Sasa tutatumia Sparrow kudhibiti kwingineko, kwa kuwa programu hii inafaa kabisa kwa matumizi ya Bitcoin-pekee.
+Hatutahitaji tena programu ya Trezor Suite, isipokuwa kwa kufanya masasisho ya mara kwa mara ya firmware kwenye Hardware Wallet yako, au ikiwa ungependa kufanya jaribio la urejeshi. Sasa tutatumia Sparrow kudhibiti kwingineko, kwa kuwa programu hii inafaa kabisa kwa matumizi ya Bitcoin-only.
 
 
 
@@ -317,7 +317,7 @@ Mara tu unapofungua Sparrow Wallet, hakikisha kwamba programu imeunganishwa kwen
 
 https://planb.network/tutorials/wallet/desktop/sparrow-c674e2ac-d46f-4c82-92a7-7d1b0e262f5d
 
-Bofya kwenye kichupo cha "*Faili*", kisha kwenye "*Mpya Wallet*".
+Bofya kwenye kichupo cha "File", kisha kwenye "New Wallet".
 
 
 
@@ -325,7 +325,7 @@ Bofya kwenye kichupo cha "*Faili*", kisha kwenye "*Mpya Wallet*".
 
 
 
-Taja kwingineko yako, kisha ubofye kwenye "*Unda Wallet*".
+Taja kwingineko yako, kisha ubofye kwenye "Create Wallet".
 
 
 
@@ -333,7 +333,7 @@ Taja kwingineko yako, kisha ubofye kwenye "*Unda Wallet*".
 
 
 
-Katika menyu kunjuzi ya "*Aina ya Hati*", chagua aina ya hati itakayotumika kulinda bitcoins zako. Ninapendekeza "*Taproot*", au ikishindwa, "*Native SegWit*".
+Katika menyu kunjuzi ya "Script Type", chagua aina ya hati itakayotumika kulinda bitcoins zako. Ninapendekeza "Taproot", au ikishindwa, "Native SegWit".
 
 
 
@@ -341,7 +341,7 @@ Katika menyu kunjuzi ya "*Aina ya Hati*", chagua aina ya hati itakayotumika kuli
 
 
 
-Bofya kwenye kitufe cha "*Imeunganishwa Hardware Wallet*". Ni lazima Model One yako iunganishwe kwenye kompyuta.
+Bofya kwenye kitufe cha "Connected Hardware Wallet". Ni lazima Model One yako iunganishwe kwenye kompyuta.
 
 
 
@@ -353,7 +353,7 @@ Bonyeza kitufe cha "*Scan*". Model One yako inapaswa kuonekana.
 
 
 
-Unapounganisha Model One yako kwenye kompyuta na Sparrow Wallet wazi, basi utaombwa kuingiza passphrase BIP39 kwenye Sparrow. Chaguo hili la kina litashughulikiwa katika mafunzo yajayo. Kwa sasa, unaweza kuchagua tu "*Toggle passphrase Off*" ili kuzuia Trezor yako isikushawishi kuingiza passphrase kila unapowasha.
+Unapounganisha Model One yako kwenye kompyuta ukiwa na Sparrow Wallet wazi, utaombwa kuingiza passphrase BIP39 kwenye Sparrow. Chaguo hili la kina litashughulikiwa katika mafunzo yajayo. Kwa sasa, unaweza kuchagua tu "Toggle passphrase Off" ili kuzuia Trezor yako isikushawishi kuingiza passphrase kila unapoiwasha.
 
 
 
@@ -363,7 +363,7 @@ https://planb.network/tutorials/wallet/backup/trezor-passphrase-0474b5bf-496f-4f
 
 
 
-Bofya kwenye "*Ingiza Hifadhi ya Kitufe*".
+Bofya kwenye "Import Key Store".
 
 
 
@@ -371,7 +371,7 @@ Bofya kwenye "*Ingiza Hifadhi ya Kitufe*".
 
 
 
-Sasa unaweza kuona maelezo ya Wallet yako, ikijumuisha ufunguo uliopanuliwa wa umma wa akaunti yako ya kwanza. Bofya kitufe cha "*Tuma*" ili kukamilisha uundaji wa Wallet.
+Sasa unaweza kuona maelezo ya Wallet yako, ikijumuisha ufunguo uliopanuliwa wa umma wa akaunti yako ya kwanza. Bofya kitufe cha "Apply" ili kukamilisha uundaji wa Wallet.
 
 
 
@@ -413,7 +413,7 @@ https://planb.network/tutorials/wallet/backup/recovery-test-5a75db51-a6a1-4338-a
 
 
 
-Kwenye Sparrow, bofya kichupo cha "*Pokea*".
+Kwenye Sparrow, bofya kichupo cha "*Receive*".
 
 
 
@@ -425,7 +425,7 @@ Kabla ya kutumia Address iliyopendekezwa na Sparrow Wallet, iangalie kwenye skri
 
 
 
-Ili kufanya ukaguzi huu, bofya kitufe cha "*Onyesha Address*".
+Ili kufanya ukaguzi huu, bofya kitufe cha "*Show Address*".
 
 
 
@@ -441,7 +441,7 @@ Hakikisha kuwa Address iliyoonyeshwa kwenye Trezor yako inalingana na ile iliyo 
 
 
 
-Unaweza pia kuongeza "*Lebo*" ili kuelezea chanzo cha bitcoins ambacho kitalindwa na Address hii. Hii ni mazoezi mazuri ambayo hukuruhusu kudhibiti UTXO zako vyema.
+Unaweza pia kuongeza "Label" ili kuelezea chanzo cha bitcoins ambacho kitalindwa na Address hii. Hii ni mazoezi mazuri ambayo hukuruhusu kudhibiti UTXO zako vyema.
 
 
 
@@ -461,7 +461,7 @@ Kisha unaweza kutumia Address kupokea bitcoins.
 
 
 
-Kwa kuwa sasa umepokea Satss yako ya kwanza katika Model One-secured Wallet, unaweza kuzitumia pia! Unganisha Trezor yako kwenye kompyuta yako, uzindua Sparrow Wallet, kisha uende kwenye kichupo cha "*Tuma*" ili kuunda muamala mpya.
+Kwa kuwa sasa umepokea Sats zako za kwanza katika Model One-secured Wallet, unaweza kuzitumia pia! Unganisha Trezor yako kwenye kompyuta yako, zindua Sparrow Wallet, kisha uende kwenye kichupo cha "Send" ili kuunda muamala mpya.
 
 
 
@@ -469,7 +469,7 @@ Kwa kuwa sasa umepokea Satss yako ya kwanza katika Model One-secured Wallet, una
 
 
 
-Ikiwa ungependa *Udhibiti wa Sarafu*, yaani, uchague UTXOs gani utumie katika muamala, nenda kwenye kichupo cha "*UTXOs*". Chagua UTXO unazotaka kutumia, kisha ubofye "*Tuma Zilizochaguliwa*". Utaelekezwa kwenye skrini sawa kwenye kichupo cha "*Tuma*", lakini UTXO zako zikiwa tayari zimechaguliwa kwa shughuli hiyo.
+Ikiwa ungependa "Coin Control", yaani, kuchagua UTXOs gani utumie katika muamala, nenda kwenye kichupo cha "UTXOs". Chagua UTXO unazotaka kutumia, kisha ubofye "Send Selected". Utaelekezwa kwenye skrini sawa kwenye kichupo cha "Send", lakini UTXO zako zitakuwa tayari zimechaguliwa kwa muamala huo.
 
 
 
@@ -477,7 +477,7 @@ Ikiwa ungependa *Udhibiti wa Sarafu*, yaani, uchague UTXOs gani utumie katika mu
 
 
 
-Ingiza unakoenda Address. Unaweza pia kuingiza anwani nyingi kwa kubofya kitufe cha "+ Ongeza*".
+Ingiza unakoenda Address. Unaweza pia kuingiza address nyingi kwa kubofya kitufe cha "+ Ongeza*".
 
 
 
@@ -485,7 +485,7 @@ Ingiza unakoenda Address. Unaweza pia kuingiza anwani nyingi kwa kubofya kitufe 
 
 
 
-Andika "*Lebo*" ili kukumbuka madhumuni ya gharama hii.
+Andika "*label*" ili kukumbuka madhumuni ya gharama hii.
 
 
 
@@ -505,7 +505,7 @@ Rekebisha kiwango cha ada ya muamala wako kulingana na soko la sasa. Kwa mfano, 
 
 
 
-Hakikisha kuwa vigezo vyako vyote vya muamala ni sahihi, kisha ubofye "*Unda Muamala*".
+Hakikisha kuwa vigezo vyako vyote vya muamala ni sahihi, kisha ubofye "*Create Transaction*".
 
 
 
@@ -513,7 +513,7 @@ Hakikisha kuwa vigezo vyako vyote vya muamala ni sahihi, kisha ubofye "*Unda Mua
 
 
 
-Ikiwa kila kitu kimekuridhisha, bofya "*Kamilisha Muamala kwa Kutia Sahihi*".
+Ikiwa kila kitu kimekuridhisha, bofya "Finalize Transaction for Signing".
 
 
 
@@ -521,7 +521,7 @@ Ikiwa kila kitu kimekuridhisha, bofya "*Kamilisha Muamala kwa Kutia Sahihi*".
 
 
 
-Bonyeza "* Ishara *".
+Bonyeza "Sign".
 
 
 
@@ -553,7 +553,7 @@ Muamala wako sasa umetiwa saini. Angalia mara ya mwisho kuwa kila kitu kiko sawa
 
 
 
-Unaweza kuipata kwenye kichupo cha "*Shughuli*" cha Sparrow Wallet.
+Unaweza kuipata kwenye kichupo cha "*Transaction*" cha Sparrow Wallet.
 
 
 
