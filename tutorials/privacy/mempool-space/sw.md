@@ -14,9 +14,9 @@ Katika siku za mwanzo za Bitcoin, ilikuwa ni lazima kuendesha node ya Bitcoin il
 
 
 
-[https://planb.network/tutorials/node/bitcoin/bitcoin-core-linux-568c13a6-8746-4d63-8e95-f4a61c5ae0ed](https://planb.network/tutorials/node/bitcoin/bitcoin-core-linux-568c13a6-8746-4d63-8e95-f4a61c5ae0ed)
+https://planb.network/tutorials/node/bitcoin/bitcoin-core-linux-568c13a6-8746-4d63-8e95-f4a61c5ae0ed
 
-[https://planb.network/tutorials/node/bitcoin/bitcoin-knots-e04b2196-4df2-4246-86ef-c02269c29098](https://planb.network/tutorials/node/bitcoin/bitcoin-knots-e04b2196-4df2-4246-86ef-c02269c29098)
+https://planb.network/tutorials/node/bitcoin/bitcoin-knots-e04b2196-4df2-4246-86ef-c02269c29098
 
 Kwa hivyo miradi imezinduliwa ili kupanua jumuiya ya Bitcoin, na kuifanya iweze kufikiwa zaidi na mtu yeyote ambaye hamiliki node na/au hana ujuzi wa kiufundi unaohitajika.
 
@@ -46,13 +46,13 @@ Kuongezeka kwa matumizi katika mfumo ikolojia na ukweli kwamba Mempool.space ni 
 
 
 
-[https://planb.network/tutorials/node/bitcoin/umbrel-8b0e3b5b-d3cf-4a1e-8bb8-1ad2db4dd848](https://planb.network/tutorials/node/bitcoin/umbrel-8b0e3b5b-d3cf-4a1e-8bb8-1ad2db4dd848)
+https://planb.network/tutorials/node/bitcoin/umbrel-8b0e3b5b-d3cf-4a1e-8bb8-1ad2db4dd848
 
 ## Misingi ya Mempool.space
 
 
 
-Kama ilivyotajwa hapo juu, [Mempool.space]([https://Mempool.space](https://Mempool.space)) ni kichunguzi cha protocol cha Bitcoin ambacho hukuwezesha kufuatilia miamala yako na uenezi wake kwenye mtandao uliochaguliwa wa Bitcoin kwa wakati halisi, kutoka kwa mchoro wa Interface.
+Kama ilivyotajwa hapo juu, [Mempool.space](https://Mempool.space) ni kichunguzi cha protocol cha Bitcoin ambacho hukuwezesha kufuatilia miamala yako na uenezi wake kwenye mtandao uliochaguliwa wa Bitcoin kwa wakati halisi, kutoka kwa mchoro wa Interface.
 
 
 
@@ -75,7 +75,7 @@ Kwenye upau wa menyu, utapata mitandao ifuatayo:
 
 
 
-Kwenye ukurasa wa nyumbani, upande wa kushoto katika Green, utaona vizuizi vinavyowezekana vya siku zijazo (vikundi vya miamala) vilivyo tayari kuthibitishwa na kuunganishwa (kuchimbwa) kwenye mtandao wa Bitcoin. Kwa wastani, block huchimbwa kila baada ya dakika kumi: weka habari hii, kwani itakuja kwa manufaa baadaye katika maendeleo yetu.
+Kwenye ukurasa wa nyumbani, upande wa kushoto katika Green, utaona blocks zinaxowezeksna za siku zijazo (vikundi vya miamala) vilivyo tayari kuthibitishwa na kuunganishwa (kuchimbwa) kwenye mtandao wa Bitcoin. Kwa wastani, block huchimbwa kila baada ya dakika kumi: weka habari hii, kwani itakuja kwa manufaa baadaye katika maendeleo yetu.
 
 
 Kwa purplish, upande wa kulia, utapata block ya hivi majuzi vilivyochimbwa kwenye Bitcoin, huku idadi ya block ya mwisho iliyochimbwa ikiwakilisha urefu wa sasa wa mtandao.
@@ -176,7 +176,7 @@ Gundua mipango tofauti ya miamala ya Bitcoin ili kuboresha usiri wako.
 
 
 
-[https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c](https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c)
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ## Ongeza kasi ya muamala zako
 
@@ -196,11 +196,9 @@ Kwa bahati nzuri, kuna njia mbili zinazopatikana kwenye mtandao wa Bitcoin ili k
 
 
 
-Unaweza kutekeleza hatua ya Exchange ada na portfolios zinazokubali utaratibu huu. Kwa mfano, angalia nakala yetu kwenye kwingineko ya Bluu Wallet.
+Unaweza kutekeleza hatua ya Exchange ada na portfolios zinazokubali utaratibu huu. Kwa mfano, angalia nakala yetu kwenye kwingineko ya Bluu 
 
-
-
-[https://planb.network/tutorials/wallet/mobile/blue-wallet-2f4093da-6d03-4f26-8378-b9351d0dbc90](https://planb.network/tutorials/wallet/mobile/blue-wallet-2f4093da-6d03-4f26-8378-b9351d0dbc90)
+https://planb.network/tutorials/wallet/mobile/blue-wallet-2f4093da-6d03-4f26-8378-b9351d0dbc90
 
 
 
@@ -208,15 +206,15 @@ Unaweza kutekeleza hatua ya Exchange ada na portfolios zinazokubali utaratibu hu
 
 
 
-âš ï¸ Muamala wa kwanza lazima ujumuishwe kwenye block ili kuruhusu muamala wa pili kuthibitishwa.
+⚠️ Muamala wa kwanza lazima ujumuishwe kwenye block ili kuruhusu muamala wa pili kuthibitishwa.
 
 
 
-Iwapo maneno haya yote yanaonekana kuwa ya kiufundi sana, ninapendekeza [upate faharasa yetu]([https://planb.network/resources/glossary](https://planb.network/resources/glossary)), ambayo ina ufafanuzi wa maneno yote ya kiufundi yanayohusiana na Bitcoin na mfumo wake wa ikolojia.
+Iwapo maneno haya yote yanaonekana kuwa ya kiufundi sana, ninapendekeza [upate faharasa yetu](https://planb.network/resources/glossary.) ambayo ina ufafanuzi wa maneno yote ya kiufundi yanayohusiana na Bitcoin na mfumo wake wa ikolojia.
 
 
 
-Mbali na mbinu hizi, Mempool.space, kutokana na miunganisho yake na zaidi ya 80% ya wachimba migodi waliopo kwenye mtandao wa Bitcoin, pia hukuruhusu kuharakisha muamala zako zozote **zisizothibitishwa**, hata zile ambazo haziamilishi RBF, kwa kuzingatia wachimbaji katika Exchange kwa ajili ya kutayarisha muamala wako wa bei ya chini uliozuiwa.
+Mbali na mbinu hizi, Mempool.space, kutokana na miunganisho yake na zaidi ya 80% ya miners waliopo kwenye mtandao wa Bitcoin, pia hukuruhusu kuharakisha muamala zako zozote **zisizothibitishwa**, hata zile ambazo haziamilishi RBF, kwa kuzingatia wachimbaji katika Exchange kwa ajili ya kutayarisha muamala wako wa bei ya chini uliozuiwa.
 
 
 
@@ -231,13 +229,11 @@ Kwenye ukurasa wa maelezo ya muamala, bofya kitufe cha **Ongeza Kasi**, kisha ue
 
 
 
-Miner inarejelea mtu anayesimamia mgodi, yaani, kompyuta inayohusika na mchakato wa Mining, unaojumuisha kushiriki katika Proof-of-Work. Miner huweka pamoja muamala zinazosubiri katika Mempool yake ili kuunda block cha wagombea. Kisha hutafuta Hash halali, chini ya au sawa na lengo, kwa kichwa cha block hii kwa kurekebisha nonces mbalimbali. Ikiwa atapata Hash halali, anatangaza block yake kwenye mtandao wa Bitcoin na huweka thawabu ya pesa inayohusiana, inayoundwa na ruzuku ya block (kuundwa kwa bitcoins mpya ex-nihilo), na ada ya manunuzi.
+Miner inarejelea mtu anayesimamia mgodi, yaani, kompyuta inayohusika na mchakato wa Mining, unaojumuisha kushiriki katika Proof-of-Work. Miner huweka pamoja muamala zinazosubiri katika Mempool yake ili kuunda block cha wagombea. Kisha hutafuta Hash halali, chini ya au sawa na lengo, kwa kichwa cha block hii kwa kurekebisha nonces mbalimbali. Ikiwa atapata Hash halali, anatangaza block yake kwenye mtandao wa Bitcoin na huweka thawabu ya pesa inayohusiana, inayoundwa na ruzuku ya block (kuundwa kwa bitcoins mpya ex-nihilo), na ada 
 
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 
-
-[https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036](https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036)
-
-â—Wachimba madini ni kama "wathibitishaji" ambao huthibitisha na kupanga miamala katika block. Ili kuongeza block kipya kwenye mtandao wa Bitcoin, wanapaswa kutatua puzzle tata ya hisabati (Proof-of-Work). Miner wa kwanza ya kutatua fumbo itapata zawadi ya Bitcoin (ruzuku ya kuzuia + ada za miamala iliyojumuishwa kwenye block).
+❗Wachimba madini ni kama "wathibitishaji" ambao huthibitisha na kupanga miamala katika block. Ili kuongeza block kipya kwenye mtandao wa Bitcoin, wanapaswa kutatua puzzle tata ya hisabati (Proof-of-Work). Miner wa kwanza ya kutatua fumbo itapata zawadi ya Bitcoin (ruzuku ya kuzuia + ada za miamala iliyojumuishwa kwenye block).
 
 
 
@@ -300,7 +296,8 @@ Interface hii inatoa taarifa kuhusu:
 
 ![distribution](assets/fr/16.webp)
 
-âš ï¸ **MUHIMU**: Uwezo wa kituo cha malipo hubainisha kiwango cha juu zaidi ambacho node inaweza kutuma kwenye node nyingine wakati wa muamala wa Lightning.
+
+⚠️**MUHIMU**: Uwezo wa kituo cha malipo hubainisha kiwango cha juu zaidi ambacho node inaweza kutuma kwenye node nyingine wakati wa muamala wa Lightning.
 
 - node za Lightning Network zimetengwa kulingana na mtoa huduma wa mtandao (hosting service) na kwa hiari kulingana na uwezo wa njia ya malipo.
 
@@ -352,5 +349,4 @@ Katika sehemu ya **Michoro**, unaweza kuona data muhimu kuhusu mtandao wa Bitcoi
 Kwa kuwa sasa umefika mwisho wa safari yako kwenye Mempool.space, kuwa mgunduzi wako mwenyewe na ufuatilie miamala yako kwa wakati halisi. Tafadhali pata chini ya nakala yetu juu ya mpelelezi wa Bitcoin **Public Pool**.
 
 
-
-[https://planb.network/tutorials/mining/pool/public-pool-42b9e1b5-722d-471d-b1e3-9ca758065be1](https://planb.network/tutorials/mining/pool/public-pool-42b9e1b5-722d-471d-b1e3-9ca758065be1)
+https://planb.network/tutorials/mining/pool/public-pool-42b9e1b5-722d-471d-b1e3-9ca758065be1
