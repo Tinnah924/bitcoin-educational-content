@@ -5,7 +5,7 @@ description: Kuelewa dhana ya Entropy na jinsi ya kutumia Boltzmann
 ![cover](assets/cover.webp)
 
 
-ONYO: Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa kwa seva zao mnamo Aprili 24, tovuti ya KYCP.org haipatikani kwa sasa. Gitlab inayopangisha nambari ya Calculator ya Python Boltzmann pia imekamatwa. Kufikia sasa, haiwezekani tena kupakua zana hii. Hata hivyo, kuna uwezekano kwamba msimbo huo unaweza kuchapishwa tena na wengine katika wiki zijazo. Kwa sasa, bado unaweza kufaidika na mafunzo haya ili kuelewa utendakazi wa Calculator ya Boltzmann. Viashirio vilivyotolewa na zana hii vinatumika kwa muamala yoyote ya Bitcoin na vinaweza pia kuhesabiwa kwa mikono. Nitatoa mahesabu yote muhimu katika somo hili. Ikiwa tayari ulikuwa umepakua zana ya Python kwenye mashine yako au ikiwa unatumia RoninDojo, unaweza kuendelea kutumia zana na kufuata mafunzo haya kama kawaida, bado yanafanya kazi.*
+**ONYO**: Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa kwa seva zao mnamo Aprili 24, tovuti ya KYCP.org haipatikani kwa sasa. Gitlab inayopangisha nambari ya Calculator ya Python Boltzmann pia imekamatwa. Kufikia sasa, haiwezekani tena kupakua zana hii. Hata hivyo, kuna uwezekano kwamba msimbo huo unaweza kuchapishwa tena na wengine katika wiki zijazo. Kwa sasa, bado unaweza kufaidika na mafunzo haya ili kuelewa utendakazi wa Calculator ya Boltzmann. Viashirio vilivyotolewa na zana hii vinatumika kwa muamala yoyote ya Bitcoin na vinaweza pia kuhesabiwa kwa mikono. Nitatoa mahesabu yote muhimu katika somo hili. Ikiwa tayari ulikuwa umepakua zana ya Python kwenye mashine yako au ikiwa unatumia RoninDojo, unaweza kuendelea kutumia zana na kufuata mafunzo haya kama kawaida, bado yanafanya kazi.*
 
 
 _Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
@@ -264,7 +264,7 @@ Sehemu ya sita ya habari iliyotolewa ni idadi ya viungo vya kuamua, vinavyokamil
 Kwa mfano, muamala wa aina ya Whirlpool wa CoinJoin hauna viungo vya kubainisha, na kwa hivyo huonyesha kiashirio na uwiano wa `0%`. Kinyume chake, katika muamala yetu ya pili rahisi iliyochunguzwa (kwa ingizo moja na matokeo mawili), kiashirio kimewekwa kwa `2` na uwiano unafikia `100%`. Kwa hivyo, kiashiria kisicho na maana kinaashiria usiri bora kwa sababu ya kukosekana kwa viungo vya moja kwa moja na visivyoweza kupingwa kati ya pembejeo na matokeo.
 
 
-Nyenzo za Nje:
+**Nyenzo za Nje:**
 
 
 
