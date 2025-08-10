@@ -1,4 +1,4 @@
----
+qqq---
 name: OXT - Uchambuzi wa Mnyororo
 description: Boresha misingi ya uchanganuzi wa mnyororo kwenye Bitcoin
 ---
@@ -21,31 +21,31 @@ Katika makala haya, utajifunza misingi muhimu ya kinadharia inayohitajika ili ku
 
 ## Utangulizi
 
-Moja ya kazi za pesa ni kutatua shida ya bahati mbaya mara mbili ya matakwa. Katika mfumo unaotegemea ubadilishanaji, kukamilisha Exchange hakuhitaji tu kupata mtu binafsi ambaye anatoa bidhaa inayokidhi mahitaji yangu lakini pia kuwapa ubora wa thamani sawa na unaokidhi mahitaji yao wenyewe. Kupata usawa huu inathibitisha kuwa ngumu. Ndiyo sababu tunaamua pesa, ambayo inaruhusu sisi kusonga thamani katika nafasi na kwa wakati.
+Moja ya kazi za pesa ni kutatua tatizo la double coincidence of wants. Katika mfumo unaotegemea ubadilishanaji, kukamilisha exchange hakuhitaji tu kupata mtu binafsi anayetoa bidhaa inayokidhi mahitaji yangu, bali pia kumpa kitu chenye thamani sawa kinachokidhi mahitaji yake mwenyewe. Kupata usawa huu kumethibitika kuwa kugumu. Ndiyo sababu tunabuni pesa, ambayo inaturuhusu kusogeza thamani katika nafasi na kwa wakati.
 
 
 Ili kupata pesa kusuluhisha tatizo hili, ni muhimu kwamba mhusika anayetoa bidhaa au huduma awe na uhakika wa uwezo wake wa kutumia kiasi hicho baadaye. Kwa hivyo, mtu yeyote mwenye akili timamu aliye tayari kukubali kipande cha pesa, kiwe cha kidijitali au kimwili, atahakikisha kwamba kinakidhi vigezo viwili vya msingi:
 
 
-- sarafu lazima intact na halisi;
+- Sarafu lazima ibaki kamili na halisi;
 - na isitumike mara mbili.
 
 
-Ikiwa tunatumia pesa za kimwili, ni sifa ya kwanza ambayo ni ngumu zaidi kudai. Katika vipindi tofauti vya historia, uadilifu wa sarafu za chuma mara nyingi umeathiriwa na mazoea kama vile kukata au kuchimba visima. Kwa mfano, wakati wa Roma ya kale, ilikuwa ni kawaida kwa wananchi kukwangua kingo za sarafu za dhahabu ili kukusanya chuma kidogo cha thamani, huku wakiendelea kuziweka kwa shughuli za baadaye. Hii ndiyo sababu grooves baadaye zilipigwa mhuri kwenye ukingo wa sarafu. Uhalisi pia ni tabia ngumu kuthibitisha kwenye njia halisi ya fedha. Siku hizi, mbinu za kukabiliana na bidhaa ghushi zinazidi kuwa ngumu, na kuwalazimu wafanyabiashara kuwekeza katika mifumo ya gharama kubwa ya uthibitishaji.
+Ikiwa tunatumia pesa za kimwili, hii ni sifa ya kwanza ambayo ni ngumu zaidi kudai. Katika vipindi tofauti vya historia, uadilifu wa sarafu za chuma mara nyingi umeathiriwa na mazoea kama vile kukata au kuchimba visima. Kwa mfano, wakati wa Roma ya kale, ilikuwa kawaida kwa wananchi kukwangua kingo za sarafu za dhahabu ili kukusanya chuma kidogo cha thamani, huku wakiendelea kuzitumia kwa shughuli za baadaye. Hii ndiyo sababu baadaye grooves zilipigwa mhuri kwenye ukingo wa sarafu. Uhalisi pia ni sifa ngumu kuthibitisha kwenye njia halisi ya fedha. Siku hizi, mbinu za kukabiliana na bidhaa ghushi zinazidi kuwa ngumu, na kuwalazimu wafanyabiashara kuwekeza katika mifumo ya gharama kubwa ya uthibitishaji.
 
 
-Kwa upande mwingine, kutokana na asili yao, matumizi ya mara mbili sio tatizo kwa fedha za kimwili. Nikikupa bili ya €10, itaacha milki yangu kuingia yako bila kubatilishwa, hivyo basi kutojumuisha uwezekano wowote wa matumizi mengi ya vitengo vya fedha inazowakilisha.
+Kwa upande mwingine, kutokana na asili yake, double use si tatizo kwa fedha za kimwili. Nikikupa bili ya €10, itaondoka kwenye umiliki wangu na kuingia kwako bila kubatilishwa, hivyo kuondoa uwezekano wowote wa matumizi ya mara nyingi ya kitengo cha fedha inachowakilisha.
 
 Kwa sarafu ya kidijitali, changamoto ni tofauti. Kuhakikisha uhalisi na uadilifu wa sarafu mara nyingi ni rahisi, lakini kuhakikisha kutokuwepo kwa matumizi mara mbili ni ngumu zaidi. Kila nzuri ya dijiti kimsingi ni habari. Tofauti na bidhaa za kimwili, habari haigawanyi wakati wa kubadilishana lakini hueneza kwa kuzidisha. Kwa mfano, nikikutumia hati kwa barua pepe, basi inarudiwa. Kwa upande wako, huwezi kuthibitisha kwa uhakika kwamba nimefuta hati asili.
 
 
-Njia pekee ya kuepuka marudio haya ya bidhaa za dijiti ni kufahamu ubadilishanaji wote kwenye mfumo. Kwa njia hii, mtu anaweza kujua ni nani anamiliki nini na kusasisha akaunti za kila mtu kulingana na miamala iliyofanywa. Hili ndilo linalofanywa, kwa mfano, kwa pesa za kimaandiko. Unapolipa €10 kwa mfanyabiashara kwa kadi ya mkopo, benki huandika Exchange hii na kusasisha Ledger.
+Njia pekee ya kuepuka double use ya bidhaa za kidijitali ni kufahamu ubadilishanaji wote kwenye mfumo. Kwa njia hii, mtu anaweza kujua ni nani anamiliki nini na kusasisha akaunti za kila mtu kulingana na miamala iliyofanywa. Hili ndilo linalofanywa, kwa mfano, kwa pesa za kimaandiko. Unapolipa €10 kwa mfanyabiashara kwa kadi ya mkopo, benki huandika exchange hii na kusasisha ledger.
 
 
-Kwenye Bitcoin, kuzuia matumizi ya mara mbili hufanyika kwa njia ile ile. Inatafuta kuthibitisha kutokuwepo kwa shughuli ambayo tayari imetumia sarafu zinazohusika. Ikiwa haya hayajawahi kutumika, basi tunaweza kuwa na uhakika kwamba hakuna matumizi ya mara mbili yatatokea. Huu ni msemo maarufu kutoka kwa Satoshi Nakamoto kwenye White Paper: "*Njia pekee ya kuthibitisha kutokuwepo kwa muamala ni kufahamu shughuli zote.*"
+Kwenye Bitcoin, kuzuia matumizi ya mara mbili hufanyika kwa njia ile ile. Inatafuta kuthibitisha kutokuwepo kwa miamala ambayo tayari imetumia sarafu zinazohusika. Ikiwa haya hayajawahi kutumika, basi tunaweza kuwa na uhakika kwamba hakuna matumizi ya mara mbili yatatokea. Huu ni msemo maarufu kutoka kwa Satoshi Nakamoto kwenye White Paper: "*Njia pekee ya kuthibitisha kutokuwepo kwa muamala ni kufahamu shughuli zote.*"
 
 
-Tofauti na mtindo wa benki, kwenye Bitcoin, hatutaki kuamini taasisi kuu. Kwa hiyo, watumiaji wote lazima waweze kuthibitisha ukosefu huu wa matumizi mara mbili, bila kutegemea mtu wa tatu. Kwa hivyo, kila mtu lazima awe na ufahamu wa shughuli zote za Bitcoin.
+Tofauti na mtindo wa benki, kwenye Bitcoin hatutaki kuamini taasisi kuu. Kwa hiyo, watumiaji wote lazima waweze kuthibitisha ukosefu wa double use bila kutegemea mtu wa tatu. Kwa hivyo, kila mtu lazima awe na ufahamu wa miamala yote ya Bitcoin.
 
 
 Ni usambazaji huu wa habari kwa umma ambao unatatiza ulinzi wa faragha kwenye Bitcoin. Katika mfumo wa jadi wa benki, kwa nadharia, ni taasisi ya kifedha tu inayofahamu shughuli zilizofanywa. Hata hivyo, kwenye Bitcoin, watumiaji wote wanaarifiwa kuhusu shughuli zote, kupitia nodi zao husika.
