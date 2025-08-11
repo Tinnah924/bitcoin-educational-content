@@ -58,7 +58,7 @@ Hasara ya mfumo huu ni kwamba matumizi ya Jade Plus inategemea chumba cha ndani 
 ## Kuondoa Jade Plus
 
 
-Unapopokea Jade Plus yako, hakikisha kuwa kisanduku na Seal ziko katika hali nzuri ili kuhakikisha kuwa kifurushi chako hakijafunguliwa.
+Unapopokea Jade Plus yako, hakikisha kuwa kisanduku na seal ziko katika hali nzuri ili kuhakikisha kuwa kifurushi chako hakijafunguliwa.
 
 
 ![JADE-PLUS-GREEN](assets/fr/02.webp)
@@ -244,7 +244,7 @@ Bofya kitufe cha "*Endelea*" ili kuchagua msimbo wako wa PIN wa Jade.
 ![JADE-PLUS-GREEN](assets/fr/24.webp)
 
 
-Msimbo wa PIN hufungua Jade yako. Kwa hiyo ni ulinzi dhidi ya upatikanaji wa kimwili usioidhinishwa. Msimbo huu wa PIN hauhusiki katika kupata vitufe vya kriptografia vya Wallet yako. Kwa hivyo, hata bila ufikiaji wa msimbo huu wa PIN, umiliki wa maneno yako ya maneno 12 ya Mnemonic utakuwezesha kupata tena ufikiaji wa bitcoins zako. Tunapendekeza kuchagua msimbo wa PIN ambao ni nasibu iwezekanavyo. Na hakikisha umehifadhi msimbo huu katika eneo tofauti na ambapo Jade yako imehifadhiwa (k.m. katika kidhibiti cha nenosiri).
+Msimbo wa PIN hufungua Jade yako. Kwa hiyo ni ulinzi dhidi ya upatikanaji wa kimwili usioidhinishwa. Msimbo huu wa PIN hauhusiki katika kupata vitufe vya kriptografia vya Wallet yako. Kwa hivyo, hata bila ufikiaji wa msimbo huu wa PIN, umiliki wa maneno yako 12 ya mnemonic utakuwezesha kupata tena ufikiaji wa bitcoins zako. Tunapendekeza kuchagua msimbo wa PIN ambao ni nasibu iwezekanavyo. Na hakikisha umehifadhi msimbo huu katika eneo tofauti na ambapo Jade yako imehifadhiwa (k.m. katika kidhibiti cha nenosiri).
 
 
 Chagua nambari ya PIN yenye tarakimu 6 kwenye Jade yako, ukitumia vitufe vya kulia na kushoto ili kusogeza kupitia tarakimu, na kitufe cha katikati ili kuthibitisha ingizo la tarakimu.
