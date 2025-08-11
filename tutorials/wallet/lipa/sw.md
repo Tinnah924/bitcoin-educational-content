@@ -192,7 +192,7 @@ Unachohitajika kufanya ni kutumia benki yako kuhamisha kiasi unachotaka, kuweka 
 ### Hasara
 
 
-- Haiwezekani kutuma bitcoins on chain
+- Haiwezekani kutuma bitcoins onchain
 - Muda mrefu kidogo kuliko wastani wa malipo
 
 
@@ -204,7 +204,6 @@ Lipa ni chaguo bora kwa kuanza kutumia Lightning Network, hasa inafaa kwa watumi
 
 - [Tovuti rasmi ya Lipa](https://lipa.swiss/)
 - [Msaada wa Lipa](https://getlipa.atlassian.net/servicedesk/customer/portal/1)
-
 
 
 
