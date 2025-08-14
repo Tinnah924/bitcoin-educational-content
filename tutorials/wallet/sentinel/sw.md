@@ -12,7 +12,6 @@ description: Watch-only wallet ni nini na jinsi ya kuitumia?
 
 
 _Tunafuatilia kwa karibu maendeleo ya suala hili pamoja na taarifa kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadri habari mpya zitakavyopatikana_.
-
 _Mafunzo haya yametolewa kwa madhumuni ya kielimu na taarifa pekee. Hatuidhinishi wala kuhimiza matumizi ya zana hizi kwa madhumuni yoyote ya kihalifu. Kila mtumiaji anawajibika kufuata sheria za eneo lake la mamlaka_.
 
 ---
