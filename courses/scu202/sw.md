@@ -181,7 +181,7 @@ Kozi ya SCU101 ilikuwa kozi ya utangulizi iliyoundwa ili kuanzisha msingi thabit
 
 https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
-### Salama kuvinjari mtandaoni
+### Usalama kuvinjari mtandaoni
 
 
 
@@ -217,11 +217,11 @@ Zaidi ya hayo, tulikuwa tumeona kwamba kwenye mitandao ya umma ya Wi-Fi, muungan
 
 
 
-### Matumizi makini ya kompyuta yako
+### Kutumia kompyuta yako kwa umakini
 
 
 
-Usalama pia unamaanisha kujua mfumo wako wa uendeshaji (OS). Umechunguza OS kuu tatu: Windows, macOS na Linux, kila moja ikiwa na vipengele vyake vya usalama. Kwenye Windows haswa, antivirus iliyosasishwa ni muhimu kugundua na kuzuia programu hasidi.
+Usalama pia unamaanisha kujua mfumo wako wa uendeshaji (OS). Umechunguza OS kuu tatu: Windows, macOS na Linux, kila moja ikiwa na Elements zake za usalama. Kwenye Windows haswa, antivirus iliyosasishwa ni muhimu kugundua na kuzuia programu hasidi.
 
 
 
@@ -261,7 +261,7 @@ SCU101 ilisisitiza hasa umuhimu wa kupata barua pepe yako, lango la akaunti zako
 
 
 
-Kwa hivyo umeona umuhimu wa kuunda anwani salama za barua pepe. Ni busara kuwa na barua pepe maalum ya Address iliyohifadhiwa kwa ajili ya kurejesha akaunti, tofauti na Address yako kuu.
+Kwa hivyo umeona umuhimu wa kuunda address salama za barua pepe. Ni busara kuwa na barua pepe maalum ya Address iliyohifadhiwa kwa ajili ya kurejesha akaunti, tofauti na Address yako kuu.
 
 
 
@@ -289,7 +289,7 @@ Wasimamizi wa nenosiri hurahisisha kazi sana kwako, kwani lazima ukumbuke nenosi
 
 
 
-Hatimaye, SCU101 ilikuletea uthibitishaji wa vipengele viwili (2FA). Kanuni hii inajumuisha kutekeleza uthibitishaji katika hatua mbili tofauti: nenosiri lako la kawaida na kipengele cha pili, kama vile msimbo wa muda unaozalishwa na programu kama vile Kithibitishaji cha Google au Authy, au ufunguo wa maunzi kama YubiKey.
+Hatimaye, SCU101 ilikuletea Two factor verification (2FA). Kanuni hii inajumuisha kutekeleza uthibitishaji katika hatua mbili tofauti: nenosiri lako la kawaida na kipengele cha pili, kama vile msimbo wa muda unaozalishwa na programu kama vile Kithibitishaji cha Google au Authy, au ufunguo wa maunzi kama YubiKey.
 
 
 
@@ -420,7 +420,7 @@ Linux pia imeunganishwa kwa kiasi kikubwa katika vifaa vilivyopachikwa kama vile
 
 
 
-Windows ni mfumo wa uendeshaji wa wamiliki uliotengenezwa na Microsoft. Imewekwa kwenye kompyuta nyingi za kibinafsi ulimwenguni. Kihistoria, ilithaminiwa kwa kuwa rahisi kutumia na angavu Interface. Walakini, faida hiyo inatiliwa shaka sasa: Interface ya macOS pia inapatikana sana, na usambazaji mwingi wa Linux una Interface inayofaa kwa umma kwa ujumla (tutarudi kwa hii katika sura zifuatazo).
+Windows ni mfumo wa uendeshaji wa wamiliki uliotengenezwa na Microsoft. Imewekwa kwenye kompyuta nyingi za kibinafsi ulimwenguni. Kihistoria, ilithaminiwa kwa kuwa rahisi kutumia na intuitive interface — yaani, mpangilio wa menyu, ikoni, na vidhibiti ambao ni rahisi kuelewa na kutumia bila mafunzo mengi. Walakini, faida hiyo inatiliwa shaka sasa: intuitive interface ya macOS pia inapatikana sana, na usambazaji mwingi wa Linux una intuitive interface inayofaa kwa umma kwa ujumla (tutarudi kwa hii katika sura zifuatazo).
 
 
 
@@ -436,7 +436,7 @@ Moja ya nguvu muhimu za Windows ni utajiri wa mfumo ikolojia wa programu yake: k
 
 
 
-Walakini, ufikiaji huu unakuja na gharama. Windows ni wamiliki, mfumo wa kati usio na msimbo wa chanzo cha umma. Hakuna uthibitishaji wa kujitegemea unaowezekana, ambao unaonyesha mapungufu ya wazi katika suala la uwazi na usalama. Zaidi ya hayo, ukusanyaji wa data (telemetry) umeenea katika Windows na mara nyingi huwashwa kwa chaguo-msingi, bila idhini yoyote ya kweli au uwezekano wa udhibiti.
+Walakini, ufikiaji huu unakuja na gharama. Windows ni wa wamiliki, mfumo wa kati usio na msimbo wa chanzo cha umma. Hakuna uthibitishaji wa kujitegemea unaowezekana, jambo linaloonyesha mapungufu ya wazi katika suala la uwazi na usalama. Zaidi ya hayo, ukusanyaji wa data (telemetry) umeenea katika Windows na mara nyingi huwashwa kwa chaguo-msingi, bila idhini yoyote ya kweli au uwezekano wa udhibiti.
 
 
 
@@ -456,7 +456,7 @@ Kwa maoni yangu, Windows inachukua nafasi ya kati isiyojulikana: inaweza kuwa sa
 
 
 
-Linapokuja suala la uhuru wa dijiti na ustadi wa kiufundi, Windows inaonyesha mapungufu yake haraka. Mfano wake unategemea uhusiano usio na usawa kati ya mtumiaji na mchapishaji, kwa manufaa ya mwisho. Kwa wale ambao wanataka sana kuelewa, kubinafsisha na kulinda kompyuta zao, sio mfumo wa uendeshaji unaofaa sana. Ndiyo sababu, hatutakaa zaidi kwenye Windows katika SCU202.
+Linapokuja suala la uhuru wa dijitali na ustadi wa kiufundi, Windows inaonyesha mapungufu yake haraka. Mfano wake unategemea uhusiano usio na usawa kati ya mtumiaji na mchapishaji, kwa manufaa ya mwisho. Kwa wale ambao wanataka sana kuelewa, kubinafsisha na kulinda kompyuta zao, sio mfumo wa uendeshaji unaofaa sana. Ndiyo sababu, hatutakaa zaidi kwenye Windows katika SCU202.
 
 
 
