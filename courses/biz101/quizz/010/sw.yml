@@ -5,5 +5,5 @@ wrong_answers:
   - Kwa kuweka udhibiti kati katika kitovu kimoja kikubwa cha malipo.
   - Kwa kuwataka wafanyabiashara kulipa gharama zote za mtandao mapema.
 explanation: |
-  Kwa kuwa miamala ya Umeme hutokea off-chain, ni majimbo ya mwisho pekee ndiyo yanatatuliwa kwenye Bitcoin Blockchain. Hii inapunguza msongamano na hivyo kupunguza ada kwa kuepuka kufanya miamala mingi ya On-Chain.
+  Kwa kuwa miamala ya Lightning hutokea off-chain, ni majimbo ya mwisho pekee ndiyo yanatatuliwa kwenye Bitcoin Blockchain. Hii inapunguza msongamano na hivyo kupunguza ada kwa kuepuka kufanya miamala mingi ya On-Chain.
 reviewed: True
