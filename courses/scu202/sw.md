@@ -2265,7 +2265,7 @@ Neno kuu la `sudo` (*superuser do*) hukuruhusu kutekeleza amri kwa muda na haki 
 
 
 
-Kidokezo: kubadili ganda la mizizi (kipindi cha msimamizi), chapa:
+Kidokezo: kubadili shell ya root (kipindi cha msimamizi), andika:
 
 
 
@@ -2275,7 +2275,7 @@ sudo -i
 
 
 
-Hii inafungua terminal kamili na marupurupu ya mizizi. Tumia kwa tahadhari na kamwe kwa muda mrefu.
+Hii inafungua terminal kamili yenye marupurupu ya root. Tumia kwa tahadhari na kamwe sio kwa muda mrefu.
 
 
 
@@ -2315,7 +2315,7 @@ cp --help
 
 
 
-Amri hizi za mwanzo ndizo unahitaji kufanya shughuli za msingi zaidi kwenye terminal yako. Kwa mazoezi kidogo, utapata uhuru na kasi.
+Amri hizi za mwanzo ndizo unazohitaji kufanya shughuli za msingi zaidi kwenye terminal yako. Kwa mazoezi kidogo, utapata urahisi na kasi.
 
 
 
@@ -2335,11 +2335,11 @@ Kwenye mfumo wa GNU/Linux kama Ubuntu, usakinishaji wa programu, kusasisha na ku
 
 
 
-APT (*Zana ya Kifurushi cha Juu*) ndiye msimamizi mkuu wa kifurushi cha Ubuntu. Hushughulikia vifurushi katika umbizo la `.deb`, kutoka kwa hazina rasmi. Kila kifurushi kina programu, vitegemezi na metadata. Wacha tuangalie amri kadhaa za kimsingi, kwa kutumia kihariri cha picha cha GIMP kama mfano.
+APT (Advanced Package Tool) ndiye package manager mkuu wa Ubuntu. Hushughulikia packages katika umbizo la .deb kutoka kwenye repositories rasmi. Kila package lina programu, dependencies, na metadata. Hebu tuangalie amri kadhaa za msingi tukitumia kihariri cha picha cha GIMP kama mfano.
 
 
 
-Kutafuta hazina kwa kifurushi kinachopatikana (lazima, kwa kweli, ubadilishe "gimp" na jina la programu inayotaka):
+Kutafuta repository kwa package inayopatikana (lazima, bila shaka, ubadilishe "gimp" na jina la programu unayotaka):
 
 
 
@@ -2430,7 +2430,7 @@ sudo apt upgrade
 
 
 
-Snap ni umbizo la kifurushi kilichotengenezwa na Canonical, iliyoundwa kuwa ya ulimwengu wote, iliyotengwa na mfumo mkuu na inayojitosheleza. Hii ina maana kwamba kila snap hupachika utegemezi wake mwenyewe na huendesha katika mazingira ya sandbox.
+Snap ni package format iliyotengenezwa na Canonical, iliyoundwa kuwa ya universal, imetengwa na mfumo mkuu na inayojitosheleza. Hii inamaanisha kwamba kila snap hubeba dependencies zake yenyewe na huendeshwa ndani ya mazingira ya sandbox.
 
 
 
@@ -2462,7 +2462,7 @@ sudo snap install spotify
 
 
 
-Mara usakinishaji utakapokamilika, utapata inayoweza kutekelezwa katika menyu ya programu ya Ubuntu, iliyoko chini kushoto mwa Interface. Au, hata rahisi zaidi: unaweza kuandika jina la programu moja kwa moja kwenye terminal (katika kesi hii, "spotify") ili kuifungua.
+Mara usakinishaji utakapokamilika, executable itapatikana kwenye menyu ya programu ya Ubuntu, iliyoko chini kushoto mwa interface. Au, hata rahisi zaidi: unaweza kuandika jina la programu moja kwa moja kwenye terminal (katika kesi hii, "spotify") ili kuifungua.
 
 
 
@@ -2502,7 +2502,7 @@ sudo snap remove spotify
 
 
 
-Flatpak ni muundo mwingine wa kifurushi cha ulimwengu wote, uliotengenezwa na jamii (Red Hat, GNOME...). Inalenga kushinda vikwazo vya fomati za jadi, huku ikitoa usimamizi bora wa ruhusa kuliko Snap. Kila programu hufanya kazi katika sanduku la mchanga, lakini kwa uzito mdogo wa udhibiti.
+Flatpak ni package format nyingine ya universal, iliyoundwa na jamii (Red Hat, GNOME...). Inalenga kushinda vikwazo vya formats za jadi, huku ikitoa usimamizi bora wa ruhusa kuliko Snap. Kila programu huendeshwa ndani ya sandbox, lakini ikiwa na kiwango kidogo cha overhead ya uthibitishaji.
 
 
 
@@ -2554,7 +2554,7 @@ Kwa kifupi:
 
 
 
-Ubuntu inajumuisha programu inayoitwa *Kituo cha Programu*, ambayo hutumika kama mchoro wa Interface kwa ajili ya kutafuta, kusakinisha na kusanidua kwa urahisi, bila kutumia mistari ya amri kama tulivyoona. Kitaalam, Kituo cha Programu hufanya kazi kama safu ya wasimamizi wa vifurushi. Kwa hivyo inaweza:
+Ubuntu inajumuisha programu inayoitwa Software Center, ambayo hutumika kama graphical interface ya kutafuta, kusakinisha na kusanidua programu kwa urahisi bila kutumia command lines kama tulivyoona. Kitaalam, Software Center hufanya kazi kama safu juu ya package managers. Kwa hivyo inaweza:
 
 
 
@@ -2624,7 +2624,7 @@ Huduma hii hulinda mfumo wako dhidi ya udhaifu mpya uliogunduliwa, bila hitaji l
 
 
 
-Hata kama viraka muhimu vitasakinishwa kiotomatiki, ni muhimu kuendesha sasisho kamili mara kwa mara ili kufaidika na matoleo mapya zaidi ya programu na vipengele ambavyo havijashughulikiwa na `masasisho yasiyoshughulikiwa`. Ili kufanya hivyo, endesha amri:
+Hata kama patches muhimu zitasakinishwa kiotomatiki, ni muhimu kuendesha full update mara kwa mara ili kufaidika na matoleo mapya zaidi ya programu na Elements ambazo hazijashughulikiwa na unattended-upgrades. Ili kufanya hivyo, tumia amri:
 
 
 
@@ -2714,7 +2714,7 @@ Firewall ni zana ya usalama ambayo inadhibiti miunganisho ya mtandao inayoingia 
 
 
 
-Mara tu unaposakinisha Ubuntu, kupata mawasiliano ya mtandao wa mashine yako ni hatua muhimu. Ubuntu ni pamoja na ngome ya kawaida: UFW (*Uningo usio ngumu*). Inakuruhusu kudhibiti miunganisho inayoingia na inayotoka kwa udhibiti mzuri, bila kulazimika kuandika sheria ngumu.
+Mara tu unaposakinisha Ubuntu, kupata muunganisho wa mtandao wa mashine yako ni hatua muhimu. Ubuntu pia inajumuisha firewall ya kawaida: UFW (Uncomplicated Firewall). Inakuruhusu kudhibiti miunganisho inayoingia na inayotoka kwa urahisi, bila kulazimika kuandika sheria ngumu.
 
 
 
@@ -2790,11 +2790,13 @@ sudo ufw status numbered
 
 
 
-#### Bainisha sheria kulingana na anuwai ya IP (matumizi ya ndani)
+#### Bainisha sheria kulingana na anuwai ya IP address.
+
+ (matumizi ya ndani)
 
 
 
-Inawezekana kuzuia ufikiaji wa huduma fulani kwa anuwai ya anwani za IP, ambazo zinaweza kuwa muhimu katika mtandao wa eneo la karibu (LAN):
+Inawezekana kuzuia ufikiaji wa huduma fulani kwa anuwai ya IP addresses, jambo ambalo linaweza kuwa muhimu katika Local Area Network (LAN):
 
 
 
@@ -2812,7 +2814,7 @@ Hii inaruhusu miunganisho ya TCP kwenye mlango 6881 pekee kutoka kwa subnet ya `
 
 
 
-Ikiwa huna raha na terminal, kuna Interface ya picha inayoitwa GUFW, ambayo hurahisisha kudhibiti sheria za ngome kwa kutumia vitufe, orodha kunjuzi na visanduku vya mazungumzo. Ili kusakinisha:
+Ikiwa hujazoea terminal, kuna graphical interface inayoitwa GUFW, ambayo hurahisisha kudhibiti sheria za firewall kwa kutumia vitufe, menyu kunjuzi na visanduku vya mazungumzo. Ili kusakinisha:
 
 
 
@@ -2822,7 +2824,7 @@ sudo apt install gufw
 
 
 
-Mara tu ikiwa imewekwa, izindua kupitia menyu ya programu. Utaweza kuwezesha ngome, kuidhinisha au kuzuia huduma na kutazama miunganisho iliyochujwa kwa wakati halisi.
+Mara tu ikiwa imesakinishwa, izindue kupitia menyu ya programu. Utaweza kuwezesha firewall, kuidhinisha au kuzuia huduma, na kutazama miunganisho inayochujwa kwa wakati halisi.
 
 
 
