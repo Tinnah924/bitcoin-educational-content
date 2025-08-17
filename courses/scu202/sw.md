@@ -3420,7 +3420,7 @@ Kwa upande wa usalama wa IT, moja ya faida kubwa za mashine za kawaida ni uwezo 
 
 
 
-VM inaweza kukuwezesha kujaribu programu inayotiliwa shaka: ukipakua programu kutoka kwa chanzo kisichotegemewa au tovuti yenye shaka, unaweza kuiendesha kwanza katika VM ili kuona tabia yake kwa usalama kamili. Hii inaweza pia kuwa muhimu wakati wa kuvinjari tovuti hatari: unaweza kuweka VM kwa mashauriano ya maudhui nyeti au yasiyojulikana ya wavuti, ambayo hupunguza uwezekano wa mashambulizi mabaya ya hati au utumiaji wa udhaifu wa kivinjari. Kwa kifupi: kutumia VM hukuruhusu kutenga kwa urahisi matumizi maalum kutoka kwa mfumo wako wote.
+VM inaweza kukuwezesha kujaribu programu inayotia shaka: ukipakua programu kutoka kwa chanzo kisichotegemewa au tovuti isiyo salama, unaweza kuiendesha kwanza ndani ya VM ili kuona tabia yake kwa usalama kamili. Hii inaweza pia kuwa muhimu wakati wa kuvinjari tovuti hatarishi: unaweza kutumia VM kwa kushauriana na maudhui nyeti au yasiyojulikana ya wavuti, jambo linalopunguza uwezekano wa mashambulizi mabaya ya scripts au unyonyaji wa udhaifu wa browser. Kwa kifupi: kutumia VM hukuruhusu kutenga kwa urahisi matumizi maalum kutoka kwa mfumo wako mzima.
 
 
 
@@ -3473,7 +3473,7 @@ Hapa kuna suluhisho madhubuti za sandbox, kulingana na OS yako:
 
 
 
-Hatimaye, wakati sanduku la mchanga linatoa ulinzi bora wa Layer, ni muhimu kuelewa kwamba si mbadala kamili ya VM au mfumo uliogawanywa vizuri.
+Hatimaye, ingawa sandbox inatoa ulinzi bora wa Layer, ni muhimu kuelewa kwamba si mbadala kamili wa VM au mfumo uliotengwa vizuri.
 
 
 
@@ -3488,7 +3488,7 @@ Kwa kuwa sasa tumeshughulikia usalama wa kompyuta yako kupitia uthibitishaji na 
 
 
 
-Watu wengi wanafikiri kuwa kufunga programu ya antivirus au kuchagua nenosiri sahihi ni vya kutosha kulinda kompyuta zao. Lakini kuna mengi zaidi kwa usalama wa kompyuta kuliko usanidi rahisi wa mara moja. Ukweli ni changamano zaidi: wengi wa mashambulizi ya mtandao huchukua fursa ya udhaifu katika mifumo na programu zilizopitwa na wakati. Kwa maneno mengine, usalama wa kompyuta pia unahusisha matengenezo ya mara kwa mara ya mashine yako.
+Watu wengi hufikiria kuwa kusakinisha programu ya antivirus au kuchagua nenosiri sahihi kunatosha kulinda kompyuta zao. Lakini usalama wa kompyuta ni zaidi ya usanidi rahisi wa mara moja. Ukweli ni mgumu zaidi: mashambulizi mengi ya mtandao huchukua fursa ya udhaifu katika mifumo na programu zilizopitwa na wakati. Kwa maneno mengine, usalama wa kompyuta pia unahitaji matengenezo ya mara kwa mara ya mashine yako.
 
 
 
@@ -3500,7 +3500,7 @@ Katika sura hii, nitakuchukua hatua kwa hatua kupitia jinsi ya kudumisha kwa ufa
 
 
 
-Kama tulivyoona mwanzoni mwa kozi hii, mfumo wa uendeshaji unasimamia vifaa (processor, kumbukumbu, disks, peripherals, nk), kutekeleza programu, kupanga faili na kusimamia miunganisho ya mtandao. Kwa hivyo ni sehemu muhimu kwenye mashine yako.
+Kama tulivyoona mwanzoni mwa kozi hii, mfumo wa uendeshaji unasimamia hardware (processor, memory, disks, peripherals, n.k.), kutekeleza programu, kupanga files na kusimamia network connections. Kwa hivyo, ni sehemu muhimu kwenye mashine yako.
 
 
 
@@ -3538,11 +3538,11 @@ Hata kama masasisho ya kiotomatiki yamewashwa kwenye mfumo wako, bado ni muhimu 
 
 
 
-- Mfumo wa uendeshaji wa Windows*
+- *Mfumo wa uendeshaji wa Windows*
 
 
 
-Windows ina kidhibiti cha sasisho cha kati kinachoitwa "Windows Update". Hii hupakua na kusakinisha masasisho kiotomatiki, viraka vya usalama, viendesha kifaa, na wakati mwingine hata msimbo mdogo wa kichakataji.
+Windows ina update manager ya kati inayoitwa Windows Update. Hii hupakua na kusakinisha updates kiotomatiki: security patches, device drivers, na wakati mwingine hata microcode ya processor.
 
 
 
@@ -3562,7 +3562,7 @@ Usisahau kuangalia masasisho ya hiari katika menyu sawa.
 
 
 
-- Linux* mfumo wa uendeshaji
+- *Linux* mfumo wa uendeshaji
 
 
 
@@ -3584,7 +3584,7 @@ sudo apt update && sudo apt upgrade -y
 
 
 
-Ukipendelea kutumia mchoro wa Interface, kwenye Ubuntu kuna zana ya *Kisasisho cha Programu* ambayo hukuruhusu kudhibiti masasisho kwa urahisi bila kupitia terminal.
+Ukipendelea kutumia graphical interface, kwenye Ubuntu kuna zana ya Software Updater ambayo hukuruhusu kudhibiti updates kwa urahisi bila kupitia terminal.
 
 
 
@@ -3592,7 +3592,7 @@ Ukipendelea kutumia mchoro wa Interface, kwenye Ubuntu kuna zana ya *Kisasisho c
 
 
 
-Chini ya Kofia Nyekundu (Fedora):
+Chini ya Red Hat (Fedora):
 
 
 
@@ -3615,7 +3615,7 @@ sudo pacman -Syu
 
 
 
-- Mfumo wa uendeshaji wa MacOS*
+- *Mfumo wa uendeshaji wa MacOS*
 
 
 
@@ -3629,7 +3629,7 @@ Apple menu → System Settings → General → Software Update
 
 
 
-macOS hupakua kiotomatiki sasisho za usalama, mfumo na programu kupitia chaguo la "*Sasisho otomatiki*" kwenye menyu hiyo hiyo.
+macOS hupakua kiotomatiki security, system, na application updates kupitia chaguo la “Automatic Updates” kwenye menyu hiyo hiyo.
 
 
 
@@ -3641,7 +3641,7 @@ macOS hupakua kiotomatiki sasisho za usalama, mfumo na programu kupitia chaguo l
 
 
 
-Usalama wa kompyuta yako hautegemei tu mfumo wako wa uendeshaji. Kila programu unayosakinisha inawakilisha mahali panapowezekana pa kuingilia kwa mashambulizi. Punde tu programu inapokuwa na dosari isiyosahihishwa ya usalama, inaweza kutumiwa vibaya kuhatarisha mfumo wako au kuiba data yako.
+Usalama wa kompyuta yako hautegemei tu mfumo wa uendeshaji. Kila programu unayosakinisha ni potential entry point kwa mashambulizi. Mara tu programu inapokuwa na security vulnerability ambayo haijasahihishwa, inaweza kutumiwa vibaya kuhatarisha mfumo wako au kuiba data zako.
 
 
 
@@ -3651,29 +3651,29 @@ Baadhi ya programu ni nyeti zaidi kuliko zingine, kwa sababu inaingiliana moja k
 
 
 
-- Vivinjari vya wavuti*: viko mstari wa mbele wa mashambulizi, huku vikichakata maudhui ambayo hayajathibitishwa kwa wakati halisi na kuwa na eneo kubwa la mashambulizi. Zaidi ya hayo, wana jukumu kuu katika kulinda data yako ya kibinafsi. Na, juu ya yote, huwa na nafasi ya programu nyingi za programu zilizotumiwa hapo awali (wateja wa barua pepe, vyumba vya ofisi, vicheza media ...). Lakini tutarejea katika hatua hii katika sehemu inayofuata ya kozi ya SCU202;
+- *Vivinjari vya wavuti*: viko mstari wa mbele wa mashambulizi, huku vikichakata maudhui ambayo hayajathibitishwa kwa wakati halisi na kuwa na eneo kubwa la mashambulizi. Zaidi ya hayo, wana jukumu kuu katika kulinda data yako ya kibinafsi. Na, juu ya yote, huwa na nafasi ya programu nyingi za programu zilizotumiwa hapo awali (wateja wa barua pepe, vyumba vya ofisi, vicheza media ...). Lakini tutarejea katika hatua hii katika sehemu inayofuata ya kozi ya SCU202;
 
 
 
 
 
-- Wateja wa barua*: wanapokea viambatisho au viungo kutoka vyanzo vya nje ambavyo havidhibitiki na hivyo ni hatari;
+- Mail clients: hupokea viambatisho au viungo kutoka kwa vyanzo vya nje visivyoweza kudhibitishwa, na hivyo kuwa hatari;
 
 
 
 
 
-- Zana za mawasiliano* (TeamViewer, Zoom, Signal, Teams...): kwa sababu ya asili yao ya mwingiliano, wao hulengwa kwa mashambulizi ya kijasusi au majaribio ya udhibiti wa mbali. Kwa njia sawa na wateja wa barua pepe, zana za mawasiliano zinaweza kutumika kama vekta za majaribio ya kuhadaa ili kupata maelezo ya kibinafsi au usambazaji wa viambatisho hasidi;
+- *Zana za mawasiliano* (TeamViewer, Zoom, Signal, Teams...): kwa sababu ya asili yao ya mwingiliano, wao hulengwa kwa mashambulizi ya kijasusi au majaribio ya udhibiti wa mbali. Kwa njia sawa na wateja wa barua pepe, zana za mawasiliano zinaweza kutumika kama vekta za majaribio ya kuhadaa ili kupata maelezo ya kibinafsi au usambazaji wa viambatisho hasidi;
 
 
 
 
 
-- Antivirus, ngome na suluhisho zingine za ugunduzi*: zana hizi kwa ujumla hufurahia mapendeleo ya hali ya juu, kwani huchanganua faili zako, michakato na miunganisho ya mtandao kila mara. Saini ya msingi iliyopitwa na wakati, usanidi duni au athari katika programu yenyewe inaweza kuruhusu programu hasidi kwenda bila kutambuliwa, au hata kupata upendeleo wa hali ya juu.
+- *Antivirus, ngome na suluhisho zingine za ugunduzi*: zana hizi kwa ujumla hufurahia mapendeleo ya hali ya juu, kwani huchanganua faili zako, michakato na miunganisho ya mtandao kila mara. Saini ya msingi iliyopitwa na wakati, usanidi duni au athari katika programu yenyewe inaweza kuruhusu programu hasidi kwenda bila kutambuliwa, au hata kupata upendeleo wa hali ya juu.
 
 
 
-Bila shaka, hatari hizi hazitokei tu kutokana na matengenezo duni, lakini ni muhimu kuzingatia hasa kusasisha programu hizi nyeti za programu. Ninarahisisha hapa, lakini bila shaka, programu zako nyingine zote pia zinahitaji kusasishwa mara kwa mara. Hebu tuangalie jinsi ya kufanya hivyo, kulingana na mfumo wako wa uendeshaji.
+Bila shaka, hatari hizi hazitokani tu na matengenezo duni, lakini ni muhimu hasa kuhakikisha kuwa programu hizi nyeti zinasasishwa mara kwa mara. Ninarahisisha hapa, lakini ukweli ni kwamba programu zako nyingine zote pia zinahitaji updates za mara kwa mara. Hebu tuangalie jinsi ya kufanya hivyo kulingana na mfumo wako wa uendeshaji.
 
 
 
@@ -3699,7 +3699,7 @@ Amri hii inaulizia hazina za umma za matoleo mapya zaidi ya programu uliyo nayo,
 
 
 
-Kwa bahati mbaya, amri hii haifanyi kazi kwa programu zote. Ndiyo maana ninapendekeza uweke orodha ya programu zako zote na uangalie mwenyewe masasisho mara kwa mara, hasa kwa programu nyeti. Kwa programu muhimu zaidi, kama vile antivirus au kivinjari chako cha wavuti, nakushauri ufanye ukaguzi huu kila siku.
+Kwa bahati mbaya, amri hii haifanyi kazi kwa programu zote. Ndiyo maana ninapendekeza uandike orodha ya programu zako zote na ufuatilie updates mara kwa mara, hasa kwa programu nyeti. Kwa programu muhimu zaidi, kama antivirus au web browser yako, nakushauri ufanye ukaguzi huu kila siku.
 
 
 
@@ -3860,7 +3860,7 @@ Ikiwa kitufe cha kufuta hakionekani, programu haijasakinishwa kutoka kwa Duka la
 
 
 
-Viendelezi na viongezi vya kivinjari chako mara nyingi hupuuzwa, lakini pia huwakilisha vekta ya mashambulizi ya mara kwa mara. Kiendelezi hasidi au kilichopitwa na wakati kinaweza kuingilia data yako ya kuvinjari, kuingiza msimbo au kupeleleza kwa busara.
+Browser extensions na add-ons mara nyingi hupuuzwa, lakini pia ni attack vector ya mara kwa mara. Extension hasidi au iliyopitwa na wakati inaweza kuingilia data yako ya kuvinjari, kuingiza code, au kufanya spying kwa ujanja.
 
 
 
@@ -3872,7 +3872,7 @@ Nenda kwenye mipangilio ya kivinjari chako na uzime au ufute viendelezi vyovyote
 
 
 
-Usalama wa mtandao pia unahusisha ufuatiliaji wa shughuli za mfumo. Mbinu hii makini huwezesha kutambua tabia isiyo ya kawaida (miunganisho ya kutiliwa shaka, michakato isiyo ya kawaida, majaribio ya ufikiaji ambayo hayajaidhinishwa, n.k.) mapema na kuingilia kati kabla ya tukio kubwa kutokea.
+Usalama wa mtandao pia unahusisha ufuatiliaji wa shughuli za mfumo. Njia hii ya makini husaidia kugundua tabia zisizo za kawaida (kama suspicious connections, unusual processes, au unauthorized access attempts) mapema na kuingilia kati kabla ya tukio kubwa kutokea.
 
 
 
