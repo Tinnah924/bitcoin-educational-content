@@ -588,7 +588,7 @@ Kuanzia miaka ya 1970 na kuendelea, Unix iliendelezwa katika muktadha wa utafiti
 
 
 
-Kukua kwa mgawanyiko kati ya matawi haya (BSD kwa upande wa kitaaluma, na Mfumo wa V haswa kwa upande wa viwanda) kuliunda mkanganyiko mkubwa na mwingiliano mdogo wa mfumo. Ili kupata Unix dhabiti, inayoweza kubebeka, isiyo na mrahaba, jumuiya ilizindua mipango kadhaa, ikiwa ni pamoja na mradi wa GNU mnamo 1983, ikifuatiwa na ukuzaji wa kernel ya Linux mnamo 1991, ambayo ilijaza pengo lililoachwa na kukosekana kwa punje huru katika mfumo wa ikolojia wa GNU. Hiki kilikuwa mahali pa kuanzia kwa mfumo wa GNU/Linux.
+Kukua kwa mgawanyiko kati ya matawi haya (BSD kwa upande wa kitaaluma, na Mfumo wa V hasa kwa upande wa viwanda) kuliunda mkanganyiko mkubwa na mwingiliano mdogo wa mifumo. Ili kupata Unix thabiti, inayoweza kubebeka na isiyo na mrahaba, jumuiya ilizindua mipango kadhaa, ikiwa ni pamoja na mradi wa GNU mwaka 1983, uliofuatiwa na ukuzaji wa kernel ya Linux mwaka 1991, ambayo ilijaza pengo lililoachwa na ukosefu wa punje huru katika mfumo wa ikolojia wa GNU. Hili ndilo lililokuwa chimbuko la mfumo wa GNU/Linux.
 
 
 
@@ -604,7 +604,7 @@ Mradi wa GNU (kifupi cha kurudia "*GNU's Not Unix*") ulitangazwa rasmi na Richar
 
 
 
-Zaidi ya vipengele vyake vya kiufundi, mradi wa GNU ni sehemu ya falsafa iliyorithiwa kutoka kwa utamaduni wa wadukuzi wa miaka ya 1970: utamaduni unaojikita katika kubadilishana maarifa, ushirikiano wa rika na ufikiaji bila malipo wa msimbo wa chanzo. Richard Stallman alitaka kuhifadhi ari ya ushirikiano ambayo ilitawala siku za mwanzo za kompyuta, wakati watengenezaji bado walisambaza kwa uhuru msimbo wa chanzo wa mifumo yao. Mradi wa GNU unalenga sio tu kutoa mfumo wa uendeshaji bila malipo, lakini kutetea maono ya kisiasa na kimaadili ya kompyuta: yale ya maarifa kufikiwa na wote, bila ukiritimba au kufuli kwa umiliki. Kusudi ni kuzuia watumiaji kuwa wafungwa wa programu ambayo hawawezi kuelewa au kurekebisha, na kukuza ukombozi wa kompyuta.
+Zaidi ya vipengele vyake vya kiufundi, mradi wa GNU ni sehemu ya falsafa iliyorithiwa kutoka kwa utamaduni wa wadukuzi wa miaka ya 1970: utamaduni unaojikita katika kubadilishana maarifa, ushirikiano wa rika na ufikiaji wa bure wa msimbo wa chanzo. Richard Stallman alitaka kuhifadhi ari ya ushirikiano iliyokuwa ikitawala katika siku za mwanzo za kompyuta, wakati watengenezaji bado walisambaza kwa uhuru msimbo wa chanzo wa mifumo yao. Mradi wa GNU unalenga si tu kutoa mfumo wa uendeshaji wa bure, bali pia kutetea maono ya kisiasa na kimaadili ya kompyuta: yale ya maarifa kufikiwa na wote, bila ukiritimba au kufuli la umiliki. Kusudi ni kuzuia watumiaji kuwa wafungwa wa programu ambayo hawawezi kuelewa au kurekebisha, na kukuza ukombozi wa kompyuta.
 
 
 
@@ -678,15 +678,15 @@ Punje hii, iliyopewa jina la kwanza Freax na baadaye ikaitwa Linux (mnyweo wa "L
 
 
 
-Linux ilipozidi kupata umaarufu katika miaka ya 1990, mjadala wa kiitikadi uliibuka kuhusu maneno "programu huria" na "chanzo huria", si haba kwa sababu ya maana mbili ya neno "*bure*".
+Linux ilipozidi kupata umaarufu katika miaka ya 1990, mjadala wa kiitikadi uliibuka kuhusu maneno "free software" na "open source", hasa kutokana na maana mbili ya neno "bure".
 
 
 
-Ingawa Richard Stallman na FSF wanatetea kwa dhati wazo la programu isiyolipishwa kwa kuzingatia kanuni za maadili ("*isiyolipishwa kama ilivyo katika uhuru*"), wachezaji wengine wanapendelea mbinu ya kisayansi zaidi, inayozingatia uhandisi inayolenga uwazi na ufanisi wa kiufundi wa muundo huria. Mnamo 1998, Mpango wa Open Source Initiative (OSI) uliundwa, ukitoa neno "chanzo huria" ili kuvutia zaidi sekta ya ushirika, ikisisitiza faida za kiuchumi na kiufundi badala ya kuzingatia kiitikadi.
+Ingawa Richard Stallman na FSF wanatetea kwa dhati wazo la programu isiyolipishwa kwa kuzingatia kanuni za maadili ("free as in freedom"), wachezaji wengine walipendelea mbinu ya kisayansi zaidi, inayozingatia uhandisi na kulenga uwazi na ufanisi wa kiufundi wa muundo huria. Mnamo 1998, Open Source Initiative (OSI) iliundwa, ikitoa neno "open source" ili kuvutia zaidi sekta ya ushirika, ikisisitiza faida za kiuchumi na kiufundi badala ya msimamo wa kiitikadi.
 
 
 
-Richard Stallman anakosoa kwa uwazi matumizi ya neno "chanzo huria", akiona kuwa halina upande wowote, hata kufutwa kisiasa. Anasisitiza juu ya neno "programu ya bure" ili kusisitiza kwamba suala kuu sio la kiufundi, lakini la kijamii: lile la uhuru wa watumiaji.
+Richard Stallman anakosoa kwa uwazi matumizi ya neno "open source", akiona kuwa halina upande wowote, hata kufutwa kisiasa. Anasisitiza juu ya neno "free software" ili kusisitiza kwamba suala kuu si la kiufundi, bali la kijamii: lile la uhuru wa watumiaji.
 
 
 
@@ -710,7 +710,7 @@ Licha ya tofauti zao za kifalsafa, mikondo hii miwili inashiriki thamani zinazof
 
 
 
-GNU na Linux sio tu hadithi ya mafanikio ya kiufundi: athari zao za kitamaduni na kijamii ni muhimu vile vile. Uenezi wao wa awali ulikuwa hasa kupitia Mtandao, kupitia mabaraza ya kiufundi na orodha za utumaji barua, kisha kwa haraka kupitia usambazaji, yaani makusanyiko ya programu yaliyosanidiwa awali karibu na kinu cha Linux. Mapema mwaka wa 1993, usambazaji wa utangulizi kama vile Slackware na Debian uliundwa ili kufanya mfumo wa uendeshaji wa GNU/Linux ufikiwe zaidi na umma.
+GNU na Linux sio tu hadithi ya mafanikio ya kiufundi: athari zao za kitamaduni na kijamii ni muhimu vile vile. Uenezi wao wa awali ulifanyika hasa kupitia Mtandao, kupitia mabaraza ya kiufundi na orodha za barua pepe, kisha haraka kupitia usambazaji, yaani makusanyo ya programu yaliyosanidiwa awali karibu na kernel ya Linux. Mapema mwaka wa 1993, usambazaji wa kwanza kama Slackware na Debian uliundwa ili kufanya mfumo wa uendeshaji wa GNU/Linux ufikike zaidi kwa umma.
 
 
 
@@ -726,7 +726,7 @@ GNU/Linux ni zaidi ya mfumo endeshi tu: ni falsafa, mbinu ya kiteknolojia, kitam
 
 
 
-Kwa kuzingatia urithi huu wa kiufundi, sasa inawezekana kuchunguza kwa maneno madhubuti jinsi kanuni hizi zinavyotekelezwa katika mfumo ikolojia wa kisasa wa kompyuta. Ili kufikia hili, tutachunguza mandhari kubwa ya usambazaji wa Linux (au GNU/Linux), ili kuelewa mabadiliko yao na matukio ya utumiaji, na kukusaidia kuchagua ile inayofaa mahitaji yako vyema.
+Kwa kuzingatia legacy hii ya kiufundi, sasa inawezekana kuchunguza kwa maneno mahsusi jinsi kanuni hizi zinavyotekelezwa katika mfumo ikolojia wa kisasa wa kompyuta. Ili kufanikisha hili, tutachunguza mada kuu ya usambazaji wa Linux (au GNU/Linux), ili kuelewa mabadiliko yake na visa vya utumiaji, na kukusaidia kuchagua ule unaofaa zaidi kwa mahitaji yako.
 
 
 
@@ -737,7 +737,7 @@ Kwa kuzingatia urithi huu wa kiufundi, sasa inawezekana kuchunguza kwa maneno ma
 
 
 
-Usambazaji wa Linux (mara nyingi hufupishwa "*distro*") ni mfumo kamili wa uendeshaji uliojengwa kutoka kwa kinu cha Linux (na mara nyingi kwa Elements ya GNU), pamoja na seti madhubuti ya programu, maktaba, hati za uanzishaji na zana za usimamizi, ili kuunda mazingira tayari kutumia. Usambazaji wa Linux kwa hivyo haukomei kwenye kernel, lakini inawakilisha muunganisho wa kina wa vipengele vya programu vinavyohitajika kuendesha na kutumia kompyuta (au kifaa kingine chochote cha kompyuta).
+Usambazaji wa Linux (mara nyingi hufupishwa "*distro*") ni mfumo kamili wa uendeshaji uliojengwa kutoka kwa kinu cha Linux (na mara nyingi kwa Elements ya GNU), pamoja na seti madhubuti ya programu, maktaba, hati za uanzishaji na zana za usimamizi, ili kuunda mazingira tayari kutumia. Usambazaji wa Linux kwa hivyo haukomei kwenye kernel, lakini inawakilisha muunganisho wa kina wa Elements za programu zinazohitajika kuendesha na kutumia kompyuta (au kifaa kingine chochote cha kompyuta).
 
 
 
@@ -760,7 +760,7 @@ Kila usambazaji wa Linux ni pamoja na:
 
 
 
-Kazi hii ya mkusanyiko ni maalum kwa kila usambazaji, ambayo huchagua vipengele vyake kulingana na falsafa yake (unyenyekevu, wepesi, usalama, utulivu, uvumbuzi, nk), walengwa wake (waanzilishi, biashara, seva, vituo vya kazi, mashine zilizopachikwa, nk) na mzunguko wake wa maendeleo (* rolling release * au *stable*). Kwa mfano, Arch Linux inazingatia urahisi wa muundo na uwazi wa kiufundi, wakati Ubuntu inazingatia uzoefu wa mtumiaji na utangamano wa kawaida (lakini tutarejea kwa hili katika sehemu ya mwisho ya sura hii).
+Kazi hii ya mkusanyiko ni maalum kwa kila usambazaji, ambao huchagua components zake kulingana na falsafa yake (unyenyekevu, wepesi, usalama, utulivu, uvumbuzi, n.k.), walengwa wake (waanzilishi, biashara, seva, vituo vya kazi, mashine zilizopachikwa, n.k.) na mzunguko wake wa maendeleo (rolling release au stable). Kwa mfano, Arch Linux huzingatia urahisi wa muundo na uwazi wa kiufundi, wakati Ubuntu huzingatia uzoefu wa mtumiaji na utangamano wa kawaida (lakini tutarejea kwenye hili katika sehemu ya mwisho ya sura hii).
 
 
 
@@ -768,7 +768,7 @@ Kazi hii ya mkusanyiko ni maalum kwa kila usambazaji, ambayo huchagua vipengele 
 
 
 
-Kuwepo kwa usambazaji huwawezesha watumiaji kufaidika na mfumo wa Linux ulio tayari kutumia, bila kulazimika kuunda upya kila sehemu ya programu. Hii inawakilisha faida kubwa katika suala la wakati, uthabiti na usalama. Pia, kwa suala la usanifu, usambazaji huchukua fursa ya uondoaji wa vifaa Layer iliyotolewa na kernel ya Linux. Layer hii huwezesha mfumo wa uendeshaji kuendana na anuwai ya maunzi tofauti, bila hitaji la kurekebisha programu kwa kila sehemu mahususi. Ukadiriaji huu pia hurahisisha kurekebisha au kubadilisha vipengee vya mfumo bila kulazimika kuunda upya mfumo mzima.
+Kuwepo kwa usambazaji huwawezesha watumiaji kufaidika na mfumo wa Linux ulio tayari kutumika, bila kulazimika kuunda upya kila sehemu ya programu. Hii ni faida kubwa katika suala la muda, uthabiti na usalama. Pia, kwa upande wa usanifu, usambazaji huchukua fursa ya hardware abstraction layer inayotolewa na kernel ya Linux. Layer hii huwezesha mfumo wa uendeshaji kuendana na aina mbalimbali za maunzi tofauti, bila hitaji la kurekebisha programu kwa kila sehemu maalum. Uondoaji huu pia hurahisisha kurekebisha au kubadilisha components za mfumo bila kulazimika kuunda upya mfumo mzima.
 
 
 
@@ -780,7 +780,7 @@ Kuelewa tofauti kati ya usambazaji wa Linux kwa hiyo ni hatua muhimu katika kuch
 
 
 
-Ugawaji wa kwanza wa Linux ulionekana baada ya uchapishaji wa Linus Torvalds wa kernel ya Linux mnamo Septemba 1991. Wakati huo, Linux ilikuwa punje tu: ili kupata mfumo kamili, watumiaji walipaswa kukusanya kwa mikono vipengele mbalimbali vinavyohitajika (mara nyingi kuchukuliwa kutoka kwa mradi wa GNU), ambayo ilihitaji kiwango cha juu cha ujuzi wa kiufundi. Kufunga mfumo kunamaanisha kukusanya kernel mwenyewe, kusanidi partitions, kuchagua zana, kudhibiti utegemezi wa programu... Kwa kifupi, mchakato mgumu, uliotengwa kwa ajili ya kuanzishwa.
+Ugawaji wa kwanza wa Linux ulionekana baada ya Linus Torvalds kuchapisha kernel ya Linux mnamo Septemba 1991. Wakati huo, Linux ilikuwa ni kernel pekee: ili kupata mfumo kamili, watumiaji walipaswa kukusanya kwa mikono components mbalimbali zilizohitajika (mara nyingi zikichukuliwa kutoka mradi wa GNU), jambo ambalo lilihitaji kiwango cha juu cha ujuzi wa kiufundi. Kufunga mfumo kulimaanisha kukusanya kernel mwenyewe, kusanidi partitions, kuchagua zana, kudhibiti utegemezi wa programu... Kwa kifupi, mchakato mgumu uliokuwa maalum kwa wataalamu pekee.
 
 
 
@@ -794,7 +794,7 @@ Juhudi hizi za mapema ziliashiria kuzaliwa kwa usambazaji wa Linux:
 
 
 
-- Februari 1992: Linux ya Muda ya MCC**
+- **Februari 1992: Linux ya Muda ya MCC**
 
 
 
@@ -804,7 +804,7 @@ Iliyoundwa katika Chuo Kikuu cha Manchester, Linux ya Muda ya MCC inachukuliwa k
 
 
 
-- Mei 1992: Softlanding Linux System (SLS)**
+- **Mei 1992: Softlanding Linux System (SLS)**
 
 
 
@@ -826,7 +826,7 @@ SLS haipo tena. Toleo lake la mwisho linalojulikana lilianza mwishoni mwa 1994.
 
 
 
-- Julai 1993: Slackware**
+- **Julai 1993: Slackware**
 
 
 
@@ -848,7 +848,7 @@ Slackware bado inadumishwa leo, na kuifanya usambazaji wa zamani zaidi wa Linux 
 
 
 
-- Agosti 1993: Debian**
+- **Agosti 1993: Debian**
 
 
 
@@ -886,7 +886,7 @@ Kwa hivyo Debian ikawa moja ya nguzo za kiufundi na kiitikadi za ulimwengu wa GN
 
 
 
-- 1994: Red Hat Linux**
+- **1994: Red Hat Linux**
 
 
 
@@ -906,7 +906,7 @@ Mnamo 1995, Bob Young, mwanzilishi wa Shirika la AAC linalobobea katika vifaa vy
 
 
 
-Mnamo 2003, Red Hat ilifanya mgawanyiko wa kimkakati: tawi la jamii likawa Fedora, maabara ya uvumbuzi yenye mzunguko wa maendeleo ya haraka, wakati tawi la kibiashara lilibadilishwa kuwa Red Hat Enterprise Linux (RHEL), usambazaji ulioidhinishwa, thabiti, wa muda mrefu iliyoundwa kwa miundo muhimu ya biashara. Tangu wakati huo, Fedora imetumika kama kipimo cha teknolojia ambayo baadaye itaunganishwa kwa ukali zaidi katika RHEL. Kwa shirika hili, Red Hat imefanikiwa kupatanisha wepesi wa jamii na ukali wa viwanda.
+Mnamo 2003, Red Hat ilifanya mgawanyiko wa kimkakati: tawi la jamii likawa Fedora, maabara ya uvumbuzi yenye mzunguko wa maendeleo wa haraka, huku tawi la kibiashara likibadilishwa kuwa Red Hat Enterprise Linux (RHEL), usambazaji ulioidhinishwa, thabiti na wa muda mrefu ulioundwa kwa miundombinu muhimu ya biashara. Tangu wakati huo, Fedora imetumika kama uwanja wa majaribio ya teknolojia ambayo baadaye huunganishwa kwa ukali zaidi ndani ya RHEL. Kwa mpangilio huu, Red Hat imefanikiwa kupatanisha wepesi wa jamii na uthabiti wa viwanda.
 
 
 
@@ -942,7 +942,7 @@ Ni familia hii ambayo tutakuwa tukiyazingatia ijayo, kwa kuwa inaleta pamoja baa
 
 
 
-Ikizingatia muundo wa RPM (*Kidhibiti Kifurushi cha Kofia Nyekundu*), kwa hivyo familia hii inajumuisha Fedora, usambazaji bunifu wa jumuiya unaotumika kama msingi wa kiufundi wa Red Hat Enterprise Linux (RHEL), usambazaji wa kibiashara unaolenga makampuni ya biashara na maarufu kwa uthabiti wake wa muda mrefu.
+Ikizingatia muundo wa RPM (Red Hat Package Manager), familia hii inajumuisha Fedora, usambazaji wa jumuiya bunifu unaotumika kama msingi wa kiufundi wa Red Hat Enterprise Linux (RHEL), usambazaji wa kibiashara unaolenga makampuni na unaojulikana kwa uthabiti wake wa muda mrefu.
 
 
 
@@ -962,7 +962,7 @@ Usambazaji mwingine muhimu kutoka kwa familia hii ni pamoja na Oracle Linux, ili
 
 
 
-Familia ya Arch Linux inatofautishwa na falsafa inayopingana kabisa na ile ya usambazaji wa nje ya rafu. Wao ni minimalist, na iliyoundwa kulingana na "*KISS*" ("*Weka Ni Rahisi, Kijinga*"). Arch Linux hutoa mfumo wa msingi, usio na mchanganyiko, ambao mtumiaji anapaswa kujenga kwa mikono kulingana na mahitaji yake.
+Familia ya Arch Linux inatofautishwa na falsafa inayopingana kabisa na ile ya usambazaji wa nje ya boksi. Ni minimalist, na imejengwa kulingana na kanuni ya "KISS" ("Keep It Simple, Stupid"). Arch Linux hutoa mfumo wa msingi, usio na mchanganyiko, ambao mtumiaji anapaswa kuujenga kwa mikono kulingana na mahitaji yake.
 
 
 
@@ -970,7 +970,7 @@ Familia ya Arch Linux inatofautishwa na falsafa inayopingana kabisa na ile ya us
 
 
 
-Mbinu hii inatokana na muundo wa *utoleo unaoendelea*, ambapo vifurushi husasishwa kila mara, bila hitaji la kusakinisha upya mfumo kwa kila toleo kuu. Kidhibiti cha kifurushi cha Pacman ni cha haraka na chepesi, na hivyo kurahisisha kusakinisha na kusasisha programu, na AUR (*Arch User Repository*), hazina ya jumuiya, hutoa ufikiaji wa safu kubwa ya vifurushi visivyo rasmi na vya ukuzaji.
+Mbinu hii inatokana na muundo wa rolling release, ambapo packages husasishwa kila mara bila hitaji la kusakinisha upya mfumo kwa kila toleo kuu. Package manager ya Pacman ni ya haraka na nyepesi, hivyo kurahisisha usakinishaji na usasishaji wa programu, na AUR (Arch User Repository), ambayo ni hazina ya jamii, hutoa ufikiaji wa anuwai kubwa ya packages zisizo rasmi na za ukuzaji.
 
 Arch Linux inalenga zaidi ya yote kwa watumiaji wa juu ambao wanataka udhibiti kamili juu ya mazingira yao, huku wakikubali utata fulani katika usakinishaji na matengenezo. Mahitaji haya ya kiufundi yamesababisha kuibuka kwa usambazaji kadhaa wa derivative unaolenga kuleta demokrasia ya matumizi yake.
 
@@ -1012,7 +1012,7 @@ Licha ya jamii ndogo kuliko Debian au Red Hat, familia ya Slackware inasalia kuw
 
 
 
-Chipukizi cha mradi wa Enoch Linux ulioundwa mwaka wa 1999, Gentoo iliundwa na Daniel Robbins kwa lengo la kubuni usambazaji unaoweza kubinafsishwa, bila jozi zilizokusanywa mapema, na kuboreshwa kwa maunzi ya mtumiaji. Imepewa jina jipya la Gentoo (baada ya pengwini wa Papua, mojawapo ya pengwini wenye kasi zaidi), usambazaji unategemea kukusanya vifurushi kutoka kwa chanzo, kuwezesha uboreshaji ulioboreshwa sana kutokana na matumizi ya *Portage*, mfumo wa usimamizi wa kifurushi unaotokana na bandari za BSD. Gentoo inalenga watumiaji wenye uzoefu wanaotafuta utendakazi, udhibiti na wepesi, kwa bei ya muda mrefu wa usakinishaji na matengenezo.
+Chipukizi cha mradi wa Enoch Linux ulioundwa mwaka wa 1999, Gentoo iliundwa na Daniel Robbins kwa lengo la kubuni usambazaji unaoweza kubinafsishwa, bila binaries zilizokusanywa mapema, na ulioboreshwa kwa maunzi ya mtumiaji. Baadaye ulipewa jina jipya la Gentoo (baada ya pengwini wa Papua, mmoja wa pengwini wenye kasi zaidi). Usambazaji huu unategemea kukusanya packages moja kwa moja kutoka kwenye chanzo, na hivyo kuwezesha uboreshaji wa hali ya juu kupitia matumizi ya Portage, mfumo wa usimamizi wa packages unaotokana na bandari za BSD. Gentoo inalenga watumiaji wenye uzoefu wanaotafuta utendakazi, udhibiti na wepesi, kwa gharama ya muda mrefu wa usakinishaji na matengenezo.
 
 
 
@@ -1050,7 +1050,7 @@ Chaguo la usambazaji wa Linux inategemea mahitaji yako maalum, kiwango chako cha
 
 
 
-- Ubuntu**:
+- **Ubuntu**:
 
 
 
@@ -1066,7 +1066,7 @@ https://planb.network/tutorials/computer-security/operating-system/ubuntu-78a3be
 
 
 
-- Linux Mint**:
+- **Linux Mint**:
 
 
 
@@ -1086,7 +1086,7 @@ Mint inasimama kwa unyenyekevu wake, uwepo kwa chaguo-msingi wa kodeki za media 
 
 
 
-- Zorin OS**:
+- **Zorin OS**:
 
 
 
@@ -1104,7 +1104,7 @@ Ufungaji ni laini, programu muhimu imesakinishwa awali, na toleo la "Lite" hukuw
 
 
 
-- OS ya msingi**:
+- **OS ya msingi**:
 
 Ilizinduliwa mnamo 2011, OS ya msingi ni usambazaji unaotegemea Ubuntu ambao huzingatia zaidi muundo na uthabiti wa Interface. Mazingira yake ya eneo-kazi la Pantheon, yaliyochochewa na macOS, ni ya chini kabisa, ya kifahari na ya maji. Hata hivyo, mfumo unasalia kubinafsishwa kidogo kuliko ugawaji mwingine, na baadhi ya watumiaji wa hali ya juu wanaweza kuhisi wamewekewa mipaka na chaguo za Interface na muundo wake uliofungwa kimakusudi. Inafaa kwa watumiaji nyeti kwa uzuri wanaotafuta mfumo rahisi, unaoshikamana kwa matumizi ya kila siku.
 
@@ -1118,7 +1118,7 @@ https://planb.network/tutorials/computer-security/operating-system/elementary-os
 
 
 
-- Pop!OS**:
+- **Pop!OS**:
 
 
 
@@ -1140,7 +1140,7 @@ Iliyoundwa na kampuni ya Kimarekani ya System76, Pop!OS pia inategemea Ubuntu. I
 
 
 
-- Fedora** (Kituo cha kazi au Plasma ya KDE):
+- **Fedora** (Kituo cha kazi au Plasma ya KDE):
 
 
 
@@ -1154,7 +1154,7 @@ Fedora ni usambazaji unaoungwa mkono na Kofia Nyekundu, unaoelekezwa kwenye tekn
 https://planb.network/tutorials/computer-security/operating-system/fedora-8c17b6ca-5acb-4825-a069-4474375534b0
 
 
-- openSUSE** (Tumbleweed au Leap):
+- **openSUSE** (Tumbleweed au Leap):
 
 
 
@@ -1168,7 +1168,7 @@ openSUSE inapatikana kama toleo linaloendelea au usambazaji thabiti. Inaangazia 
 
 
 
-- Debian**:
+- **Debian**:
 
 
 
@@ -1182,7 +1182,7 @@ Debian inapatikana katika matawi kadhaa, ikijumuisha *Imara* (programu inayotege
 https://planb.network/tutorials/computer-security/operating-system/debian-d09a57ec-8372-40ca-bcff-499415209e1f
 
 
-- Manjaro**:
+- **Manjaro**:
 
 
 
@@ -1196,7 +1196,7 @@ Kulingana na Arch, Manjaro hufanya Arch Linux kupatikana. Usambazaji huu hutoa u
 
 
 
-- Arch Linux**:
+- **Arch Linux**:
 
 
 
@@ -1212,7 +1212,7 @@ https://planb.network/tutorials/computer-security/operating-system/arch-linux-7a
 
 #### Usambazaji maalum
 
-- Kali Linux**:
+- **Kali Linux**:
 
 Kali Linux ni usambazaji unaotegemea Debian iliyoundwa kwa ajili ya majaribio ya kupenya na ukaguzi wa usalama. Inajumuisha mamia ya zana za pentest. Usambazaji huu haufai kabisa kama mfumo mkuu wa matumizi ya kila siku.
 
@@ -1224,7 +1224,7 @@ Kali Linux ni usambazaji unaotegemea Debian iliyoundwa kwa ajili ya majaribio ya
 
 
 
-- Mfumo wa Uendeshaji wa Parrot**:
+- **Mfumo wa Uendeshaji wa Parrot**:
 
 
 
@@ -1238,11 +1238,11 @@ Parrot OS pia inatokana na Debian. Inatoa mazingira kwa ajili ya pentesting, usa
 
 
 
-- Mikia**:
+- **Tails**:
 
 
 
-Mikia ni usambazaji wa moja kwa moja unaozingatia Debian, unaozingatia faragha. Kila kitu hupitia mtandao wa Tor, na hakuna kitu kinachohifadhiwa kati ya vikao vya mtumiaji. Ni usambazaji bora kwa matumizi nyeti ya mara moja (uandishi wa habari, uanaharakati, kizazi cha seed Bitcoin...).
+Tails ni usambazaji wa moja kwa moja unaozingatia Debian, unaozingatia faragha. Kila kitu hupitia mtandao wa Tor, na hakuna kitu kinachohifadhiwa kati ya vikao vya mtumiaji. Ni usambazaji bora kwa matumizi nyeti ya mara moja (uandishi wa habari, uanaharakati, kizazi cha seed Bitcoin...).
 
 
 
@@ -1258,7 +1258,7 @@ https://planb.network/tutorials/computer-security/operating-system/tails-1510890
 
 
 
-- Qubes OS**:
+- **Qubes OS**:
 
 
 
@@ -1272,7 +1272,7 @@ Qubes OS inategemea Fedora na hutumia mfumo wa uboreshaji wa Xen kugawa matumizi
 
 
 
-- BlackArch**:
+- **BlackArch**:
 
 
 
@@ -1286,7 +1286,7 @@ BlackArch ni kiendelezi chenye mwelekeo wa pentest kwa Arch Linux (kama Kali kwe
 
 
 
-- PureOS**:
+- **PureOS**:
 
 
 
@@ -1302,7 +1302,7 @@ PureOS ni usambazaji unaotokana na Debian uliotengenezwa na Purism, bila malipo 
 
 https://planb.network/tutorials/computer-security/operating-system/pureos-2b6d5fe8-62f8-4a62-b898-4e0530ed408a
 
-- Raspberry Pi OS**:
+- **Raspberry Pi OS**:
 
 Raspberry Pi OS (zamani Raspbian) ni usambazaji ulioboreshwa kwa kompyuta ndogo za Raspberry Pi. Inategemea Debian, na vifurushi vilivyokusanywa tena kwa usanifu wa ARM. Inaweza kutumika kwa miradi ya elimu, upimaji wa elektroniki au seva ndogo za kibinafsi.
 
@@ -1314,7 +1314,7 @@ Raspberry Pi OS (zamani Raspbian) ni usambazaji ulioboreshwa kwa kompyuta ndogo 
 
 
 
-- Whonix**:
+- **Whonix**:
 
 
 
