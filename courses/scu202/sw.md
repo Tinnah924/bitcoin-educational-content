@@ -1336,13 +1336,13 @@ Katika sura inayofuata ya SCU202, tutaangalia kwa karibu zaidi mazingira ya vite
 
 <chapterId>ecfac353-a31b-48fb-b2af-2abbeeac5f2b</chapterId>
 
-Katika mfumo wa GNU/Linux, mazingira ya eneo-kazi hucheza mojawapo ya majukumu muhimu katika matumizi yako ya mtumiaji. Ni mchoro wa Layer unaowezesha mwingiliano na mfumo, kulingana na uwakilishi unaoonekana unaojulikana: madirisha, menyu, ikoni, paneli na programu zilizosakinishwa awali.
+Katika mfumo wa GNU/Linux, mazingira ya eneo-kazi hucheza mojawapo ya majukumu muhimu katika matumizi yako ya mtumiaji. Ni mchoro wa Layer unaowezesha mwingiliano na mfumo, kulingana na uwakilishi unaoonekana unaojulikana: windows, menyu, ikoni, paneli na programu zilizosakinishwa awali.
 
-Katika sura hii, nitakuwa nikichunguza muundo na jukumu la mazingira ya eneo-kazi, vipengele vyake vya kawaida, familia kuu zinazopatikana, vigezo vya uteuzi na ushirikiano wao katika usambazaji maarufu zaidi wa Linux.
+Katika sura hii, nitakuwa nikichunguza muundo na jukumu la Desktop Environment, components zake za kawaida, familia kuu zinazopatikana, vigezo vya uteuzi, na ushirikiano wake katika usambazaji maarufu zaidi wa Linux.
 
-### Mazingira ya ofisi ni nini?
+### Office Suite ?
 
-Mazingira ya eneo-kazi (au "*DE*" kwa *Mazingira ya Eneo-kazi*) hurejelea seti ya programu zinazounda kielelezo kamili cha Interface cha mfumo wa uendeshaji. Kwenye Windows na macOS, mazingira ya eneo-kazi moja hutolewa kwa chaguo-msingi, kuunganishwa kwenye mfumo, bila uwezekano wa kurekebisha kabisa (tu shells fulani zipo ili kurekebisha sehemu ya Interface). Mifumo ya Linux, kwa upande mwingine, ni ya kawaida zaidi, ikichukulia mazingira ya eneo-kazi kama sehemu inayojitegemea ambayo inaweza kubadilishwa kwa uhuru.
+Desktop Environment (au "DE") hurejelea seti ya programu zinazounda kielelezo kamili cha interface cha mfumo wa uendeshaji. Kwenye Windows na macOS, Desktop Environment moja hutolewa kwa chaguo-msingi, yakiwa yameunganishwa kwenye mfumo bila uwezekano wa kurekebishwa kabisa (kuna shells chache tu zinazoweza kurekebisha sehemu ya interface). Mifumo ya Linux, kwa upande mwingine, ni ya kawaida zaidi, ikichukulia Desktop Environment kama sehemu inayojitegemea ambayo inaweza kubadilishwa kwa uhuru.
 
 Katika Linux, ni muhimu kutofautisha kwa uwazi kati ya tabaka zote: kernel (ambayo inasimamia mwingiliano na maunzi), seva ya kuonyesha (ambayo hufanya kazi kama mpatanishi kati ya programu, viendeshi vya michoro, na maunzi kupitia kernel), na hatimaye mazingira ya eneo-kazi yenyewe, ambayo inategemea miundombinu hii kutoa mchoro madhubuti wa Interface kwa mtumiaji. Tofauti hii wakati mwingine inaweza kuwa wazi kidogo, kwani usambazaji mwingi wa Linux huja na mazingira ya eneo-kazi yaliyosakinishwa awali ambayo wakati mwingine hujumuisha mtunzi wake wa Wayland, ambaye kisha hufanya kama seva ya kuonyesha.
 
@@ -1362,59 +1362,59 @@ Mazingira ya eneo-kazi katika usambazaji wa Linux sio programu moja, lakini seti
 
 
 
-- Kidhibiti dirisha**: huchora mipaka ya dirisha, hudhibiti uwekaji, kubadilisha ukubwa, na athari za mpito... Kwa mfano: Mutter (GNOME), KWin (KDE Plasma), Xfwm (Xfce).
+- **Kidhibiti windows**: huchora mipaka ya dirisha, hudhibiti uwekaji, kubadilisha ukubwa, na athari za mpito... Kwa mfano: Mutter (GNOME), KWin (KDE Plasma), Xfwm (Xfce).
 
 
 
 
 
-- Kidhibiti faili**: hukuruhusu kuvinjari mti wa saraka, kunakili, kusonga, au kufuta faili kwa kuibua. Mifano: Nautilus (GNOME), Dolphin (KDE), Thunar (Xfce).
+- **Kidhibiti faili**: hukuruhusu kuvinjari mti wa saraka, kunakili, kusonga, au kufuta faili kwa kuibua. Mifano: Nautilus (GNOME), Dolphin (KDE), Thunar (Xfce).
 
 
 
 
 
-- Kituo cha usanidi**: hii ni seti ya zana zinazomwezesha mtumiaji kurekebisha vigezo vya mfumo bila kupitia mstari wa amri: mwonekano, mandhari, usimamizi wa mtumiaji, mtandao, vifaa vya pembeni...
+- **Kituo cha usanidi**: hii ni seti ya zana zinazomwezesha mtumiaji kurekebisha vigezo vya mfumo bila kupitia mstari wa amri: mwonekano, mandhari, usimamizi wa mtumiaji, mtandao, vifaa vya pembeni...
 
 
 
 
 
-- Programu-jalizi za mfumo**: hizi ni aikoni ndogo na moduli shirikishi kwenye upau wa kazi (au "paneli"), kama vile udhibiti wa sauti, kiwango cha betri, muunganisho wa mtandao, saa...
+- **Programu-jalizi za mfumo**: hizi ni aikoni ndogo na moduli shirikishi kwenye upau wa kazi (au "paneli"), kama vile udhibiti wa sauti, kiwango cha betri, muunganisho wa mtandao, saa...
 
 
 
 
 
-- Paneli au dashibodi**: upau unaoonekana, mara nyingi juu au chini ya skrini, iliyo na menyu kuu, programu-jalizi za mfumo, njia za mkato, eneo la arifa, n.k.
+- **Paneli au dashibodi**: upau unaoonekana, mara nyingi juu au chini ya skrini, iliyo na menyu kuu, programu-jalizi za mfumo, njia za mkato, eneo la arifa, n.k.
 
 
 
 
 
-- Kidhibiti kipindi**: huendeshwa wakati wa kuanza, huonyesha skrini ya kuingia na kuzindua kipindi cha picha kilichochaguliwa. Kwa mfano: GDM (GNOME), SDDM (KDE), LightDM (Xfce).
+- **Kidhibiti kipindi**: huendeshwa wakati wa kuanza, huonyesha skrini ya kuingia na kuzindua kipindi cha picha kilichochaguliwa. Kwa mfano: GDM (GNOME), SDDM (KDE), LightDM (Xfce).
 
 
 
 
 
-- Kidhibiti cha arifa**: hudhibiti uonyeshaji wa arifa za mfumo (ujumbe, arifa, masasisho, n.k.). Kwa mfano: dunst, Plasma-notifier, xfce4-notified.
+- **Kidhibiti cha arifa**: hudhibiti uonyeshaji wa arifa za mfumo (ujumbe, arifa, masasisho, n.k.). Kwa mfano: dunst, Plasma-notifier, xfce4-notified.
 
 
 
 
 
-- Mtunzi wa X11 (si lazima)**: huongeza athari za kuona (vivuli, uwazi, uhuishaji) katika mazingira ambapo kidhibiti dirisha hakitumii utungaji. Kwa mfano: compton, picom.
+- **Mtunzi wa X11 (si lazima)**: huongeza athari za kuona (vivuli, uwazi, uhuishaji) katika mazingira ambapo kidhibiti windows hakitumii utungaji. Kwa mfano: compton, picom.
 
 
 
 
 
-- Seva ya kuonyesha**: hii ni programu inayoshughulikia mawasiliano kati ya mfumo (kupitia kernel na viendeshi vya michoro) na programu za michoro. Inaonyesha madirisha kwenye skrini na kudhibiti pembejeo za kibodi na kipanya. Seva ya onyesho mara nyingi ni sehemu tofauti ya mazingira ya eneo-kazi, lakini mifumo zaidi na zaidi inapitisha Wayland, itifaki ya kisasa ambapo jukumu la seva ya kuonyesha linaweza kuchukuliwa moja kwa moja na msimamizi wa dirisha (k.m. Mutter chini ya GNOME au KWin chini ya KDE). Hii basi inajulikana kama "Wayland compositing".
+- **Seva ya kuonyesha**: hii ni programu inayoshughulikia mawasiliano kati ya mfumo (kupitia kernel na viendeshi vya michoro) na programu za michoro. Inaonyesha madirisha kwenye skrini na kudhibiti pembejeo za kibodi na kipanya. Seva ya onyesho mara nyingi ni sehemu tofauti ya mazingira ya eneo-kazi, lakini mifumo zaidi na zaidi inapitisha Wayland, itifaki ya kisasa ambapo jukumu la seva ya kuonyesha linaweza kuchukuliwa moja kwa moja na msimamizi wa dirisha (k.m. Mutter chini ya GNOME au KWin chini ya KDE). Hii basi inajulikana kama "Wayland compositing".
 
 
 
-Elements hizi zote zinatokana na kisanduku cha zana za michoro, yaani, maktaba ya programu ambayo hutoa vipengele vya msingi vya kuunda violesura vya picha: vitufe, menyu, sehemu za maandishi... Zana kuu mbili za Linux ni:
+Elements hizi zote zinatokana na kisanduku cha zana za michoro, yaani, maktaba ya programu ambayo hutoa Elements za msingi vya kuunda violesura vya picha: vitufe, menyu, sehemu za maandishi... Zana kuu mbili za Linux ni:
 
 
 
@@ -1440,7 +1440,7 @@ Elements hizi zote zinatokana na kisanduku cha zana za michoro, yaani, maktaba y
 
 
 
-Ilizinduliwa mwaka wa 1997 na kuchapishwa kwa mara ya kwanza mwaka wa 1999, GNOME ("*GNU Network Object Model Environment*") inategemea maktaba ya GTK na inalenga kupunguza msuguano kati ya mtumiaji na Interface kupitia shirika rahisi sana. Tangu GNOME 3, msingi wake, GNOME Shell, imeachana na sitiari ya kimapokeo ya eneo-kazi lililofunikwa na ikoni: badala ya kugeuza nafasi kadhaa za kazi zinazoonekana kwa wakati mmoja, watumiaji hubadilisha hadi kiteuzi kimoja cha shughuli ambapo wanasimamia madirisha, kompyuta za mezani na vizindua programu.
+Ilizinduliwa mwaka wa 1997 na kuchapishwa kwa mara ya kwanza mwaka wa 1999, GNOME ("GNU Network Object Model Environment") inategemea maktaba ya GTK na inalenga kupunguza msuguano kati ya mtumiaji na interface kupitia mpangilio rahisi sana. Tangu GNOME 3, msingi wake, GNOME Shell, umeachana na sitiari ya kimapokeo ya desktop iliyojazwa na icons: badala ya kuonyesha nafasi nyingi za kazi kwa wakati mmoja, watumiaji hubadilisha hadi kiteuzi kimoja cha shughuli ambapo wanasimamia madirisha, desktops na vizindua programu.
 
 
 
@@ -1460,11 +1460,7 @@ Haya ndiyo mazingira chaguo-msingi ya Fedora Workstation, Ubuntu na ugawaji mwin
 
 
 
-Mradi wa KDE ulizinduliwa mwaka wa 1996, na toleo la kwanza la mazingira ya eneo-kazi lilitolewa mwaka wa 1998. Mnamo 2014, tofauti ilifanywa kati ya mazingira ya eneo-kazi na vipengele vingine vya mradi huo. Mazingira ya eneo-kazi wakati huo yaliitwa "Plasma".
-
-
-
-KDE Plasma inategemea Qt 6, mfumo mtambuka wa C++, na Mifumo ya KDE, mkusanyiko wa moduli wa maktaba zinazowezesha uundaji wa programu zilizounganishwa. Kidhibiti chake cha dirisha, KWin, pia hufanya kazi kama mtunzi kamili wa Wayland: inashughulikia madoido ya kuona (ukungu, uwazi, mabadiliko), kugawanyika kwa skrini kwa kuongeza kasi ya GPU, na ishara za kugusa nyingi kupitia libinput.
+Mradi wa KDE ulizinduliwa mwaka wa 1996, na toleo la kwanza la Desktop Environment lilitolewa mwaka wa 1998. Mnamo 2014, tofauti ilifanywa kati ya Desktop Environment na components nyingine za mradi huo. Desktop Environment wakati huo liliitwa "Plasma".
 
 
 
@@ -1472,7 +1468,7 @@ KDE Plasma inategemea Qt 6, mfumo mtambuka wa C++, na Mifumo ya KDE, mkusanyiko 
 
 
 
-Mojawapo ya pointi bainifu za KDE Plasma ni kituo chake cha usanidi kilichounganishwa, ambacho hufichua Interface ya mchoro kwa takriban mipangilio yote: tabia pepe ya eneo-kazi, njia za mkato za kimataifa, ulaini wa uhuishaji, usimamizi wa nguvu, usanidi wa mtandao, mwonekano wa mpaka wa dirisha... Hakuna faili za usanidi wa maandishi zinazohitaji kuhaririwa kwa mikono, na kufanya mazingira ya eneo-kazi kuwa rahisi kubinafsisha.
+Mojawapo ya pointi bainifu za KDE Plasma ni kituo chake cha usanidi kilichounganishwa, ambacho hutoa interface ya kielelezo kwa karibu mipangilio yote: tabia ya desktop, njia za mkato za kimataifa, ulaini wa uhuishaji, usimamizi wa nguvu, usanidi wa mtandao, mwonekano wa mipaka ya madirisha... Hakuna faili za usanidi wa maandishi zinazohitaji kuhaririwa kwa mikono, jambo linalofanya Desktop Environment hii kuwa rahisi sana kubinafsisha.
 
 
 
@@ -1488,7 +1484,7 @@ Xfce ni mazingira ya bure, ya chanzo-wazi ya eneo-kazi iliyoundwa mnamo 1996 na 
 
 
 
-Xfce inachukua mbinu ya kitamaduni ya mchoro ya Interface, inayojumuisha eneo-kazi linaloendeshwa na ikoni, menyu ya programu, upau wa kazi, na paneli zinazoweza kusanidiwa. Kifurushi kizima kimeundwa kuwa na ufanisi wa rasilimali, kwa suala la RAM na nguvu ya processor. Hii inafanya kuwa suluhisho bora kwa kompyuta za zamani, zisizo na nguvu, au kwa watumiaji wanaotafuta tu mfumo wa majimaji, thabiti na unaojibu.
+Xfce inachukua mbinu ya kitamaduni ya kielelezo ya interface, inayojumuisha desktop inayoendeshwa na icons, menyu ya programu, taskbar, na paneli zinazoweza kusanidiwa. Kifurushi kizima kimeundwa kuwa na ufanisi wa rasilimali, kwa upande wa RAM na nguvu ya processor. Hii inafanya kuwa suluhisho bora kwa kompyuta za zamani zisizo na nguvu, au kwa watumiaji wanaotafuta mfumo mwepesi, thabiti na unaojibu.
 
 
 
@@ -1504,7 +1500,7 @@ LXQt ni mazingira mepesi ya eneo-kazi yaliyoundwa ili kutoa picha kamili ya Inte
 
 
 
-LXQt ni matokeo ya muunganisho wa 2013 wa miradi miwili tofauti: LXDE (iliyotengenezwa awali na maktaba ya GTK+) na Razor-qt (mazingira sawa ya msingi wa Qt). Muunganisho huu ulizaa LXQt, kwa lengo la kuunganisha juhudi huku ikinufaika kutokana na nguvu na usasa wa mfumo wa Qt, unaofaa zaidi kwa mageuzi ya mifumo ya Linux kuliko GTK+ 2, inayotumiwa na LXDE.
+LXQt ni matokeo ya muunganisho wa mwaka 2013 wa miradi miwili tofauti: LXDE (iliyotengenezwa awali kwa kutumia maktaba ya GTK+) na Razor-qt (Desktop Environment sawa ya msingi wa Qt). Muunganisho huu ulizaa LXQt, ukiwa na lengo la kuunganisha juhudi huku ukinufaika na nguvu na usasa wa mfumo wa Qt, ambao unafaa zaidi kwa mageuzi ya mifumo ya Linux kuliko GTK+ 2 iliyotumiwa na LXDE.
 
 
 
@@ -1512,15 +1508,15 @@ LXQt ni matokeo ya muunganisho wa 2013 wa miradi miwili tofauti: LXDE (iliyoteng
 
 
 
-#### Mdalasini
+#### Cinnamon
 
 
 
-Mdalasini ni mazingira ya kisasa ya eneo-kazi yaliyotengenezwa na kudumishwa na timu ya usambazaji ya Linux Mint. Ilizinduliwa mwaka wa 2011 kama jibu la moja kwa moja kwa mabadiliko makubwa yaliyoanzishwa na GNOME 3, ambayo yalionekana kuwa ya usumbufu sana na baadhi ya jamii.
+Cinnamon ni Desktop Environment ya kisasa iliyotengenezwa na kudumishwa na timu ya usambazaji ya Linux Mint. Ilizinduliwa mwaka wa 2011 kama jibu la moja kwa moja kwa mabadiliko makubwa yaliyoletwa na GNOME 3, ambayo yalionekana kuwa ya usumbufu sana kwa sehemu ya jamii.
 
 
 
-Hapo awali, Mdalasini ilikuwa Fork rahisi ya GNOME Shell, lakini ilijikomboa polepole kutoka kwa GNOME na kuwa mazingira kamili ya eneo-kazi, huku ikiendelea kutegemea maktaba za GTK (haswa GTK 3).
+Hapo awali, Cinnamon ilikuwa fork rahisi ya GNOME Shell, lakini polepole ilijitenga na GNOME na kuwa Desktop Environment kamili, huku ikiendelea kutegemea maktaba za GTK (hasa GTK 3).
 
 
 
@@ -1556,7 +1552,7 @@ Interface yake inategemea mantiki ya jadi ya eneo-kazi: paneli moja au mbili (me
 
 
 
-Kuchagua mazingira ya eneo-kazi lako la GNU/Linux si jambo dogo: huamua matumizi ya mtumiaji, utendakazi wa mfumo, na uoanifu wa programu. Kila DE inategemea chaguo za kiufundi (maktaba, usanifu, msimamizi wa dirisha...) zinazoathiri mwonekano wake, tabia, utendakazi na hata mahitaji ya maunzi. Hapa kuna vigezo kuu vya kuzingatia wakati wa kufanya chaguo sahihi.
+Kuchagua Desktop Environment yako ya GNU/Linux si jambo dogo: huamua matumizi ya mtumiaji, utendakazi wa mfumo, na uoanifu wa programu. Kila DE inategemea chaguo za kiufundi (maktaba, usanifu, window manager...) ambazo huathiri mwonekano wake, tabia, utendakazi na hata mahitaji ya maunzi. Hapa kuna vigezo kuu vya kuzingatia wakati wa kufanya chaguo sahihi.
 
 
 
@@ -1564,14 +1560,14 @@ Kuchagua mazingira ya eneo-kazi lako la GNU/Linux si jambo dogo: huamua matumizi
 
 
 
-Kila mazingira ya eneo-kazi yana nyayo tofauti ya rasilimali. Hii inapimwa kulingana na matumizi ya RAM, matumizi ya CPU, na wakati wa kuanza:
+Kila Desktop Environment lina nyayo tofauti za rasilimali. Hii hupimwa kulingana na matumizi ya RAM, matumizi ya CPU, na muda wa kuwasha:
 
 
 
 
 - Kwenye mashine za zamani au zenye nguvu kidogo (CPU ya msingi-moja, chini ya RAM ya GB 2...), ninapendekeza mazingira mepesi sana kama vile LXQt, LXDE au Xfce. Wanatoa Interface kamili ya picha, lakini bila athari za kuona au utegemezi mkubwa;
-- Mazingira ya kati, kama vile MATE au Mdalasini, yanahitaji maunzi ya hivi majuzi zaidi (RAM ya GB 4 hadi 6 inapendekezwa), lakini ibaki kuwa ya kuridhisha;
-- Mazingira ya kisasa na tajiri kama GNOME au KDE Plasma yamekamilika sana, lakini yanahitaji nyenzo zaidi, haswa ikiwa athari za picha zimewashwa. Wanafaa kwa mashine za hivi karibuni.
+- Mazingira ya kati, kama vile MATE au Cinnamon, yanahitaji maunzi ya hivi majuzi zaidi (RAM ya GB 4 hadi 6 inapendekezwa), lakini ibaki kuwa ya kuridhisha;
+- Desktop Environment za kisasa na tajiri kama GNOME au KDE Plasma zimekamilika sana, lakini zinahitaji rasilimali zaidi, hasa ikiwa athari za picha zimewashwa. Haya yanafaa zaidi kwa mashine za kisasa.
 
 
 
@@ -1586,7 +1582,7 @@ Kila DE inatoa falsafa tofauti ya Interface:
 
 - GNOME inapendelea unyenyekevu wa matumizi, na Interface iliyoratibiwa, isiyo na eneo-kazi au ikoni za kawaida, na mtiririko wa kazi unaozingatia tija ambao unaweza kutatiza kwa wanaoanza.
 - KDE Plasma inaweza kubinafsishwa sana, hadi kwa maelezo madogo kabisa. Inaangazia mwonekano wa kisasa, uhuishaji, na Interface chaguo-msingi iliyo karibu na Windows
-- Mdalasini na MATE hutoa matumizi ya kawaida: menyu ya chini kushoto, upau wa kazi, aikoni za eneo-kazi. Mdalasini ni ya kisasa zaidi inayoonekana, MATE nyepesi
+- Cinnamon na MATE hutoa matumizi ya kawaida: menyu ya chini kushoto, upau wa kazi, aikoni za eneo-kazi. Mdalasini ni ya kisasa zaidi inayoonekana, MATE nyepesi
 - Xfce na LXQt zinalenga unyenyekevu na utendakazi, kwa urembo uliozuiliwa zaidi lakini unaoweza kusanidiwa.
 
 
@@ -1610,7 +1606,7 @@ Matumizi kuu ya kompyuta pia yataathiri chaguo lako:
 
 
 
-Kila usambazaji wa GNU/Linux unapendelea mazingira chaguo-msingi ya eneo-kazi, ambayo mara nyingi huunganishwa vyema, kujaribiwa vyema, huja na zana zilizojitolea, na husakinishwa kwa chaguo-msingi. Kila mara inawezekana kusakinisha mazingira mengine ya eneo-kazi, lakini hii inaweza kusababisha urudufu wa programu, migongano ya usanidi, au uzoefu usio thabiti wa mtumiaji. Chaguo lako la mazingira ya eneo-kazi kwa hivyo linaweza kuathiriwa na usambazaji wako wa Linux, au, kinyume chake, mapendeleo yako kwa mazingira mahususi ya eneo-kazi yanaweza kuongoza uchaguzi wako wa usambazaji.
+Kila usambazaji wa GNU/Linux unapendelea Desktop Environment chaguo-msingi, ambayo mara nyingi imeunganishwa vyema, kujaribiwa kwa kina, huja na zana maalumu, na husakinishwa kwa chaguo-msingi. Ingawa kila mara inawezekana kusakinisha Desktop Environment nyingine, jambo hili linaweza kusababisha urudufu wa programu, migongano ya usanidi, au uzoefu usio thabiti wa mtumiaji. Hivyo basi, chaguo lako la Desktop Environment linaweza kuathiriwa na usambazaji wako wa Linux, au kinyume chake, mapendeleo yako kwa Desktop Environment fulani yanaweza kuelekeza uchaguzi wako wa usambazaji.
 
 
 
@@ -1720,7 +1716,7 @@ Hapa kuna mazingira ya eneo-kazi ya usambazaji kuu:
 
 
 
-- Mikia → GNOME
+- Tails → GNOME
 
 
 
@@ -1732,7 +1728,7 @@ Hapa kuna mazingira ya eneo-kazi ya usambazaji kuu:
 
 
 
-- BlackArch → meneja wa dirisha wa i3 (sio mazingira kamili ya eneo-kazi)
+- BlackArch → Windows manager i3 (sio mazingira kamili ya eneo-kazi)
 
 
 
@@ -1752,7 +1748,7 @@ Kwa kumalizia, hakuna mazingira bora zaidi ya eneo-kazi, yale tu ambayo yanafaa 
 
 
 
-Sura hii itakuwa imekupa ufahamu bora wa mazingira ya eneo-kazi ni nini, vipengele vyake muhimu, tofauti kati ya suluhu kuu zinazopatikana, na vigezo muhimu vya kufanya chaguo lako. Katika sura inayofuata, utaweza kuchukua hatua zako za kwanza na Ubuntu, usambazaji unaoweza kutumika kwa umma kwa ujumla.
+Sura hii itakuwa imekupa ufahamu bora wa Desktop Environment ni nini, components zake muhimu, tofauti kati ya suluhu kuu zinazopatikana, na vigezo muhimu vya kufanya chaguo lako. Katika sura inayofuata, utaweza kuchukua hatua zako za kwanza na Ubuntu, usambazaji unaofaa kutumika na umma kwa ujumla.
 
 
 
@@ -1763,7 +1759,7 @@ Sura hii itakuwa imekupa ufahamu bora wa mazingira ya eneo-kazi ni nini, vipenge
 
 
 
-Leo, Ubuntu ni mojawapo ya lango linaloweza kufikiwa kwa GNU/Linux: mazingira yaliyoboreshwa ya GNOME, hazina pana, masasisho ya usalama yanayoitikia na jumuiya kubwa. Ndio maana nimechagua kuwasilisha usambazaji huu.
+Leo, Ubuntu ni mojawapo ya malango yanayoweza kufikiwa kwa GNU/Linux: GNOME environment iliyoboreshwa, hazina pana ya packages, masasisho ya usalama ya haraka, na jumuiya kubwa. Ndiyo maana nimechagua kuwasilisha usambazaji huu.
 
 
 
@@ -1815,7 +1811,7 @@ Kuna matoleo 2 ya Ubuntu Desktop:
 
 
 
-Tofauti kuu kati ya toleo la LTS na toleo lisilo la LTS la Ubuntu ni muda wa usaidizi na uthabiti. Toleo la LTS linaweza kutumika kwa miaka 5. Kinyume chake, toleo lisilo la LTS linaweza kutumika kwa miezi 9 pekee, kwa hivyo unahitaji kuboresha mfumo wako mara kwa mara. Kwa upande mwingine, toleo la hivi karibuni lisilo la LTS linajumuisha vipengele vyote vipya. Ninapendekeza toleo la LTS ikiwa ndio kwanza unaanza, kwa kuwa ni thabiti zaidi na linahitaji masasisho makubwa machache. Hata hivyo, unaweza kuchagua toleo jipya zaidi lisilo la LTS ukitaka: halitakuwa na athari kwa programu nyingine.
+Tofauti kuu kati ya toleo la LTS na toleo lisilo la LTS la Ubuntu ni muda wa usaidizi na uthabiti. Toleo la LTS linaweza kuungwa mkono kwa miaka 5. Kinyume chake, toleo lisilo la LTS linaungwa mkono kwa miezi 9 pekee, kwa hivyo unahitaji kuboresha mfumo wako mara kwa mara. Kwa upande mwingine, toleo jipya lisilo la LTS linajumuisha Elements zote mpya. Ninapendekeza toleo la LTS ikiwa ndio kwanza unaanza, kwa kuwa ni thabiti zaidi na linahitaji masasisho makubwa machache. Hata hivyo, unaweza kuchagua toleo jipya zaidi lisilo la LTS ukitaka: halitakuwa na athari kwa programu nyingine.
 
 
 
@@ -1871,13 +1867,13 @@ Kisakinishi kitapendekeza:
 
 
 
-Mara tu unapozindua Ubuntu, mchawi wa usakinishaji hukuongoza hatua kwa hatua. Fuata kila hatua na uchague chaguo zinazokufaa zaidi. Hatua muhimu zaidi inahusu aina ya ufungaji. Kulingana na hali yako, kuna kesi tatu zinazowezekana:
+Mara tu unapoanzisha Ubuntu, kielekezi cha usakinishaji kitakuongoza hatua kwa hatua. Fuata hatua hizo na uchague chaguo zinazokufaa zaidi. Hatua muhimu zaidi inahusu aina ya usakinishaji. Kulingana na hali yako, kuna hali tatu zinazowezekana:
 
 
 
 
 
-- Ufungaji kando ya Windows (* buti mbili*)**
+- **Ufungaji kando ya Windows (* buti mbili*)**
 
 
 
@@ -1888,7 +1884,7 @@ Ikiwa kompyuta yako tayari ina Windows, Ubuntu itagundua usakinishaji huu kiotom
 
 - Kisakinishi kitapunguza kizigeu cha Windows ili kutoa nafasi
 - Ubuntu itawekwa kwenye nafasi hii ya bure, na sehemu zake
-- Kidhibiti cha buti (GRUB) kitasakinishwa, kukuwezesha kuchagua kati ya Windows na Ubuntu kila wakati kompyuta inapoanza
+- Kidhibiti cha boot (GRUB) kitasakinishwa, kikikuruhusu kuchagua kati ya Windows na Ubuntu kila wakati kompyuta inapowashwa
 
 
 
@@ -1896,13 +1892,13 @@ Chagua chaguo hili ikiwa ungependa kuweka Windows kwa programu fulani za program
 
 
 
-Ili kufanya hivyo vizuri, ninapendekeza kwamba kwanza uunda kizigeu ambacho hakijatengwa kwenye diski ya chaguo lako katika Windows, kisha uchague kizigeu hiki wakati wa kufunga Ubuntu. Ili kufanya hivyo, fungua Meneja wa Disk katika Windows, bonyeza-click kwenye diski inayohusika na uchague "* Punguza Kiasi *". Kisha taja saizi unayotaka kuhifadhi kwa Ubuntu (Ninapendekeza kiwango cha chini cha GB 80 kwa matumizi ya starehe).
+Ili kufanya hivyo vizuri, ninapendekeza kwanza uunde partition ambayo haijatumika kwenye diski unayochagua ndani ya Windows, kisha uitumie wakati wa kufunga Ubuntu. Ili kufanya hivyo, fungua Disk Manager ndani ya Windows, bofya-kulia kwenye diski husika na uchague "Shrink Volume". Kisha weka ukubwa unaotaka kuhifadhi kwa ajili ya Ubuntu (ninapendekeza angalau 80 GB kwa matumizi ya starehe).
 
 
 
 
 
-- Ubadilishaji kamili wa Windows**
+- **Ubadilishaji kamili wa Windows**
 
 
 
@@ -1974,7 +1970,7 @@ Ctrl+Alt+T
 
 
 
-Picha za ISO zina vifurushi vilivyogandishwa wiki kadhaa kabla ya kutolewa, kwa hivyo sawazisha faharasa kila wakati na uweke viraka kwanza:
+Picha za ISO hubeba packages zilizogandishwa wiki kadhaa kabla ya kutolewa, kwa hivyo kila mara sawazisha index na usakinishe patches kwanza:
 
 
 
@@ -2020,14 +2016,14 @@ Kila hifadhi imegawanywa katika sehemu. Kwa chaguo-msingi, Ubuntu huwasha sehemu
 
 
 
-- kuu**: programu ya bure inayodumishwa rasmi na Canonical. Mifano: Firefox, LibreOffice, bash
-- imezuiwa**: programu isiyolipishwa ambayo ni muhimu kwa maunzi kufanya kazi vizuri. Mifano: viendeshi vya NVIDIA, firmware ya Wi-Fi, codecs za wamiliki
-- ulimwengu**: programu isiyolipishwa inayodumishwa na jumuiya. Mifano: GIMP, Inkscape, Audacity
-- multiverse**: programu iliyo chini ya vikwazo vya kisheria (ruhusu, leseni zisizo za bure). Upatikanaji unaweza kutofautiana kulingana na nchi. Mifano: kodeki fulani za sauti/video, Steam
+- **Main**: programu ya bure inayodumishwa rasmi na Canonical. Mifano: Firefox, LibreOffice, bash
+- **Restricted**: programu isiyolipishwa ambayo ni muhimu kwa maunzi kufanya kazi vizuri. Mifano: viendeshi vya NVIDIA, firmware ya Wi-Fi, codecs za wamiliki.
+- **universe**: programu isiyolipishwa inayodumishwa na jumuiya. Mifano: GIMP, Inkscape, Audacity
+- **multiverse**: programu iliyo chini ya vikwazo vya kisheria (ruhusu, leseni zisizo za bure). Upatikanaji unaweza kutofautiana kulingana na nchi. Mifano: kodeki fulani za sauti/video, Steam
 
 
 
-Kisha kila kipengele kinaweza kugawanywa katika vituo au matawi kadhaa: `kutolewa`, `usalama`, `masasisho`, `bandari`, n.k., sambamba na asili ya masasisho.
+Kisha kila element inaweza kugawanywa katika vituo au branches kadhaa: `kutolewa`, `usalama`, `masasisho`, `bandari`, n.k., sambamba na asili ya masasisho.
 
 
 
