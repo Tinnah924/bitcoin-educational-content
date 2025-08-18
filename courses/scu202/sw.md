@@ -4480,15 +4480,14 @@ Mkakati huu unahakikisha uthabiti bora: ikiwa kompyuta yake itaanguka, anaweza k
 
 
 
-#### Otomatiki ili kuepuka kusahau
+#### Automation ili kuepuka kusahau.
+
+
+Mojawapo ya njia bora za kuhakikisha usafi mzuri wa backup ni automation. Sanidi tools zako ili backups zifanyike kiotomatiki kulingana na ratiba (kila usiku, kila wiki...). Hii huzuia makosa ya kibinadamu na inakuhakikishia mwendelezo hata unapokosekana kwa muda.
 
 
 
-Mojawapo ya njia bora za kuhakikisha usafi mzuri wa chelezo ni otomatiki. Sanidi zana zako ili nakala rudufu zifanye kazi kiotomatiki kulingana na ratiba (kila usiku, kila wiki...). Hii huzuia uangalizi na kukuhakikishia kuendelea hata katika tukio la kutopatikana kwa muda kwa upande wako.
-
-
-
-Kwa maneno ya vitendo, kuna njia kadhaa za kuhariri nakala zako otomatiki. Unaweza, kwa mfano, kuunda hati ya Python ambayo huendesha kiotomatiki kunakili data yako kwa njia ya nje. Ni rahisi, customizable ufumbuzi.
+Kwa maneno ya vitendo, kuna njia kadhaa za kuendesha backups zako kwa automation. Unaweza, kwa mfano, kuunda Python script ambayo itaendesha kiotomatiki kunakili data yako kwenye external drive. Ni ufumbuzi rahisi na customizable.
 
 
 
@@ -4500,7 +4499,7 @@ Iwapo una NAS, zana kama vile *Syncthing* au *Rclone* hukuwezesha kuhifadhi naka
 
 
 
-Ili kuweka nakala rudufu kwa huduma ya wingu, unaweza kutumia programu ya ujumuishaji iliyotolewa na mtoaji mwenyewe. Mfano mmoja ni *Hifadhi ya Protoni*, ambayo hutoa kiteja cha ulandanishi ili kunakili kiotomatiki faili zako za karibu kwenye wingu. Unaweza pia kuchagua programu zinazonyumbulika zaidi kama vile *Duplicati*, ambayo hukuruhusu kuratibu nakala rudufu zilizosimbwa kwa huduma nyingi za mbali (Dropbox, Hifadhi ya Google, Hifadhi ya Proton, FTP, WebDAV...).
+Ili kuweka backup kwenye huduma ya cloud, unaweza kutumia programu ya ujumuishaji inayotolewa na mtoaji mwenyewe. Mfano mmoja ni Proton Drive, ambayo hutoa sync client ili kunakili kiotomatiki files zako za karibu kwenye cloud. Unaweza pia kuchagua programu flexible zaidi kama vile Duplicati, ambayo hukuruhusu kuratibu backups.zilizosimbwa kwa huduma nyingi za mbali (Dropbox, Hifadhi ya Google, Hifadhi ya Proton, FTP, WebDAV...).
 
 
 
@@ -4520,7 +4519,7 @@ Pamoja na kuhakikisha uthabiti wa data yako, ni muhimu vile vile kulinda ufikiaj
 
 
 
-Moja ya nguzo za usalama wa kompyuta binafsi ni usimbaji fiche wa data iliyohifadhiwa. Hasa, usimbuaji kamili wa media kama vile anatoa za ndani za Hard, vijiti vya USB au diski za nje huhakikisha kwamba, hata katika tukio la wizi, upotezaji au maelewano ya kimwili ya vifaa, hakuna habari inayoweza kusomwa bila ufunguo wa kusimbua.
+Moja ya nguzo za usalama wa kompyuta binafsi ni usimbaji fiche wa data iliyohifadhiwa. Hasa, usimbaji fiche kamili wa media kama vile drives za ndani za Hard, vijiti vya USB au diski za nje huhakikisha kwamba, hata katika tukio la wizi, upotevu au madhara ya kimwili ya vifaa, hakuna taarifa inayoweza kusomwa bila ufunguo wa kusimbua.
 
 
 
@@ -4528,7 +4527,7 @@ Moja ya nguzo za usalama wa kompyuta binafsi ni usimbaji fiche wa data iliyohifa
 
 
 
-Njia ya kuhifadhi isiposimbwa kwa njia fiche, chomeka tu kwenye kompyuta yoyote ili kupata ufikiaji wa haraka wa yaliyomo. Hakuna vizuizi vya kulinda faili. Hii ina maana kwamba ikiwa kompyuta yako ndogo itaibiwa, au ukipoteza ufunguo rahisi wa USB, mtu aliye na nia mbaya anaweza kufikia hati zako za kibinafsi.
+Njia ya kuhifadhi isiyo na usimbaji fiche: unachomeka tu kwenye kompyuta yoyote ili kupata ufikiaji wa haraka wa yaliyomo. Hakuna vizuizi vya kulinda faili. Hii inamaanisha kwamba ikiwa kompyuta yako ndogo itaibiwa, au ukipoteza USB key, mtu mwenye nia mbaya ataweza kufikia hati zako za kibinafsi.
 
 
 
@@ -4546,7 +4545,7 @@ Usimbaji fiche kamili ni kama kufuli: mradi tu nenosiri halijatolewa, data itaba
 
 
 
-- Linux (Debian)*
+- *Linux (Debian)*
 
 
 
@@ -4555,7 +4554,7 @@ Chini ya Linux, suluhu ya kawaida ni LUKS (*Linux Unified Key Setup*). LUKS ni m
 
 https://planb.network/tutorials/computer-security/data/luks-13d9928b-08b1-478c-a1b4-67617978584a
 
-Ikiwa ungependa kusimba diski ya nje au fimbo ya USB kwa njia fiche, hii inaweza pia kufanywa kutoka kwa safu ya amri au kupitia kielelezo cha Interface. Diski itabidi iumbizwa, kwa hivyo data zote zilizopo zitapotea ikiwa hazijachelezwa kwanza.
+Ikiwa ungependa kusimba external disk au USB stick kwa njia fiche, hili pia linaweza kufanywa kutoka kwenye command line au kupitia graphical interface. Diski italazimika kuumbizwa, kwa hivyo data zote zilizopo zitapotea ikiwa hazijachelezwa kwanza.
 
 
 
@@ -4584,7 +4583,7 @@ lsblk
 
 
 
-Unapaswa kuona kifaa kama `/dev/sdb` chenye kizigeu kinachohusishwa, kwa mfano `/dev/sdb1`. Jihadharini kuchagua diski sahihi, kwani itafutwa!
+Unapaswa kuona kifaa kama `/dev/sdb` chenye partition inachohusishwa, kwa mfano `/dev/sdb1`. Jihadharini kuchagua diski sahihi, kwani itafutwa!
 
 
 
@@ -4598,7 +4597,7 @@ sudo cryptsetup luksFormat /dev/sdb
 
 
 
-Andika "NDIYO" kwa herufi kubwa ili kuthibitisha utendakazi, kisha uchague na uthibitishe passphrase thabiti. Nenosiri hili litakuwezesha kufikia data yako: kumbuka kufanya nakala rudufu, kwani bila hiyo, ufikiaji wa data ya ufunguo utapotea kabisa.
+Andika "YES" kwa herufi kubwa ili kuthibitisha utendakazi, kisha chagua na uthibitishe passphrase thabiti. Passphrase hii itakuwezesha kufikia data yako: kumbuka kufanya chelezo, kwani bila hiyo, ufikiaji wa data yako utapotea kabisa.
 
 
 
@@ -4624,7 +4623,7 @@ Utahitaji kuingiza passphrase yako ili kufungua sauti. `encrypted_usb` ni jina l
 
 
 
-Kisha fomati kizigeu kilichosimbwa. Kwa muundo wa asili wa Linux:
+Kisha fomati partition iliyosimbwa. Kwa muundo wa asili wa Linux:
 
 
 
@@ -4720,7 +4719,7 @@ Ili kufungua programu, nenda kwenye menyu ya programu ya Ubuntu na utafute "*Dis
 
 
 
-Katika safu wima ya kushoto, tafuta ufunguo wako wa USB. Ikiwa kizigeu tayari kipo, chagua; ikiwa sivyo, tengeneza mpya: bofya kitufe cha "+" chini ya orodha ya sehemu.
+Katika safu wima ya kushoto, tafuta USB yako. Ikiwa partition tayari ipo, ichague; ikiwa haipo, unda mpya kwa kubofya kitufe cha "+" chini ya orodha ya partitions.
 
 
 
@@ -4728,7 +4727,8 @@ Katika safu wima ya kushoto, tafuta ufunguo wako wa USB. Ikiwa kizigeu tayari ki
 
 
 
-Kisha chagua kizigeu cha kusimbwa kwa njia fiche. Bofya kwenye ikoni ya cogwheel, kisha uchague "Umbiza wa Umbizo ...".
+Kisha chagua partition ya kusimbwa kwa njia fiche. Bofya kwenye ikoni ya cogwheel, kisha uchague
+"Umbiza wa Umbizo ...".
 
 
 
@@ -4742,7 +4742,7 @@ Katika:
 
 
 - Katika "Jina la kiasi", weka jina (k.m. `usb`);
-- Chagua muundo wa "Disk ya ndani kwa matumizi na mifumo ya Linux tu (Ext4)";
+- Chagua muundo wa Disk ya ndani kwa matumizi na mifumo ya Linux tu. (Ext4)";
 - Angalia kisanduku cha "Nenosiri la sauti iliyolindwa (LUKS)".
 
 
@@ -4767,7 +4767,7 @@ Thibitisha na usubiri kugawanya kuumbizwa kabisa (data yote itafutwa).
 
 
 
-Mara tu mchakato ukamilika, kizigeu kinaonekana na kufuli ndogo. Ichague, kisha ubofye kwenye kufuli ili kuifungua.
+Mara tu mchakato ukikamilika, partition itaonekana na kufuli ndogo. Ichague, kisha ubofye kwenye kufuli ili kuifungua.
 
 
 
@@ -4791,11 +4791,11 @@ Sauti itawekwa kiotomatiki na kupatikana kutoka kwa kidhibiti faili chako, kwa k
 
 
 
-Ili kupakua kitufe cha USB na kuwezesha usimbaji upya, bofya aikoni ya kufuli tena kwenye Diski za GNOME.
+Ili kupakua kitufe cha USB na kuwezesha usimbaji upya, bofya aikoni ya lock tena kwenye Diski za GNOME.
 
 
 
-Hatimaye, bofya kwenye kitufe chenye umbo la mshale kwenye kona ya juu ya kulia ili kuondoa ufunguo kwa usafi kutoka kwa Kompyuta yako. Wakati mwingine unapoingia, Ubuntu inapaswa kugundua kiotomatiki ufunguo wako uliosimbwa na kukuuliza nenosiri, bila kulazimika kufungua Diski za GNOME.
+Hatimaye, bofya kwenye kitufe chenye umbo la mshale kwenye kona ya juu ya kulia ili kuondoa USB stick kwa usafi kutoka kwenye kompyuta yako. Wakati mwingine unapoingia, Ubuntu inapaswa kugundua kiotomatiki USB stick yako iliyosimbwa na kukuuliza passphrase, bila kulazimika kufungua GNOME Disks.
 
 
 
@@ -4805,11 +4805,11 @@ Hatimaye, bofya kwenye kitufe chenye umbo la mshale kwenye kona ya juu ya kulia 
 
 
 
-- Windows:**
+- **Windows:**
 
 
 
-Chini ya Windows, suluhisho asili hukuruhusu kusimba diski yako. Ni rahisi kuwezesha: nenda tu kwenye mipangilio ya "*Faragha na Usalama*", kisha uweke alama kwenye kisanduku cha "*Usimbaji fiche wa Kifaa*" katika menyu ndogo ya jina moja. Kisha funguo za kurejesha zitahifadhiwa kiotomatiki katika akaunti yako ya Microsoft inayohusishwa.
+Chini ya Windows, suluhisho asili hukuruhusu kusimba diski yako. Ni rahisi kuwezesha: nenda tu kwenye mipangilio ya "Faragha na Usalama", kisha weka alama kwenye kisanduku cha "Usimbaji fiche wa Kifaa" katika menyu ndogo yenye jina hilo hilo. Kisha funguo za kurejesha zitahifadhiwa kiotomatiki katika akaunti yako ya Microsoft inayohusishwa.
 
 
 
@@ -4834,11 +4834,11 @@ https://planb.network/tutorials/computer-security/data/veracrypt-d5ed4c83-7c1c-4
 
 
 
-- macOS :**
+- **macOS :**
 
 
 
-Kwenye macOS, usimbaji fiche wa diski ya mfumo unatokana na *FileVault*, kipengele asili kinachoweza kufikiwa kutoka kwa mipangilio ya usalama. Ikiwa Mac yako imewekwa na chipu ya Apple Silicon (M1, M2...) au chipu ya T2, usimbaji fiche wa maunzi tayari umewashwa kabisa. Walakini, kuwezesha FileVault huongeza Layer ya ziada ya usalama kwa kusimba kwa njia fiche kiasi cha mfumo mzima.
+Kwenye macOS, usimbaji fiche wa disk ya mfumo unatokana na *FileVault*, element asili inayoweza kufikiwa kutoka kwa mipangilio ya usalama. Ikiwa Mac yako imewekwa na chip ya Apple Silicon (M1, M2...) au chip ya T2, usimbaji fiche wa maunzi tayari umewashwa kabisa. Walakini, kuwezesha FileVault huongeza Layer ya ziada ya usalama kwa kusimba kwa njia fiche kiasi cha mfumo mzima.
 
 
 
@@ -4846,7 +4846,7 @@ Kwenye macOS, usimbaji fiche wa diski ya mfumo unatokana na *FileVault*, kipenge
 
 
 
-Baada ya FileVault kuamilishwa, utahitaji kuchagua mbinu ya kurejesha nenosiri ikiwa nenosiri limepotea: ama utumie akaunti yako ya *iCloud*, au generate ufunguo wa kipekee wa kuhifadhi nakala. Ufunguo huu lazima uhifadhiwe mahali salama, kwa kuwa kupotea kwake kunaweza kufanya data yako isiweze kufikiwa kabisa.
+Baada ya FileVault kuamilishwa, utahitaji kuchagua mbinu ya kurejesha nenosiri ikiwa nenosiri limepotea: ama utumie akaunti yako ya *iCloud*, au zalisha ufunguo wa kipekee wa kuhifadhi nakala. Ufunguo huu lazima uhifadhiwe mahali salama, kwa kuwa kupotea kwake kunaweza kufanya data yako isiweze kufikiwa kabisa.
 
 Kwa vyombo vya habari vya hifadhi ya nje (diski za Hard, vijiti vya USB, nk), usimbuaji unafanywa kwa kutumia matumizi ya diski. Utahitaji kurekebisha kabisa kiasi:
 
@@ -4868,9 +4868,9 @@ Uchaguzi wa nenosiri pia ni muhimu sana: lazima iwe ndefu, ngumu na ya kipekee, 
 
 Katika baadhi ya matukio, si lazima wala si vitendo kusimba diski nzima ya Hard au vyombo vya habari vya nje. Katika hali kama hizi, unaweza kuchagua usimbaji fiche uliochaguliwa, ambao unahusisha kupata faili au saraka fulani pekee zilizo na data nyeti.
 
-Mojawapo ya njia zinazojulikana za kusimba faili ni kutumia GPG. Chombo hiki kinategemea kriptografia ya asymmetric: una jozi ya funguo, moja ya umma, ambayo unaweza kusambaza kwa uhuru kwa waandishi wako, na nyingine ya faragha, ambayo lazima ibaki siri madhubuti. Faili husimbwa kwa njia fiche kwa kutumia ufunguo wa umma wa mpokeaji, lakini zinaweza tu kusimbwa kwa kutumia ufunguo wake wa faragha.
+Mojawapo ya njia zinazojulikana za kusimba faili ni kutumia GPG. Chombo hiki kinategemea asymmetric cryptography: una jozi ya funguo, moja ya umma, ambayo unaweza kusambaza kwa uhuru kwa waandishi wako, na nyingine ya faragha, ambayo lazima ibaki siri madhubuti. Faili husimbwa kwa njia fiche kwa kutumia ufunguo wa umma wa mpokeaji, lakini zinaweza tu kusimbwa kwa kutumia ufunguo wake wa faragha.
 
-Itifaki hii ni nzuri kwa kubadilishana faili nyeti na wengine kwa usalama, bila kushiriki nenosiri. Kwa matumizi ya kibinafsi au ya mara kwa mara, GPG pia huwezesha usimbaji fiche linganifu: basi faili inalindwa na nenosiri la kipekee linalojulikana kwako tu.
+protocol hii ni nzuri kwa kubadilishana faili nyeti na wengine kwa usalama, bila kushiriki nenosiri. Kwa matumizi ya kibinafsi au ya mara kwa mara, GPG pia huwezesha usimbaji fiche linganifu: basi faili inalindwa na nenosiri la kipekee linalojulikana kwako tu.
 
 Njia mbadala bora ni Cryptomator. Programu hii ya chanzo wazi hukuruhusu kuunda salama: saraka maalum ambayo faili zote zilizowekwa zinasimbwa kiatomati. Sefu hii inaweza kusawazishwa na huduma za wingu kama vile Dropbox, Hifadhi ya Google au Nextcloud bila mtoa huduma kuwahi kufikia data ambayo haijasimbwa. Programu inapatikana kwenye mifumo yote ya uendeshaji, ikijumuisha Android na iOS, na haihitaji ujuzi maalum wa kiufundi kutumia.
 
@@ -4884,9 +4884,9 @@ https://planb.network/tutorials/computer-security/data/cryptomator-84e52c76-2253
 
 https://planb.network/tutorials/computer-security/data/picocrypt-98c213bd-9ace-425b-b012-bea71ce6b38f
 
-Hatimaye, inawezekana pia kutumia VeraCrypt katika modi ya kontena, ambayo huunda faili ambayo hufanya kazi kama kumbukumbu iliyosimbwa, inayoweza kuwekwa kama diski.
+Hatimaye, inawezekana pia kutumia VeraCrypt katika mode ya kontena, ambayo huunda faili ambayo hufanya kazi kama kumbukumbu iliyosimbwa, inayoweza kuwekwa kama disk.
 
-Sasa kwa kuwa umejifunza jinsi ya kulinda data yako ya kibinafsi dhidi ya upotevu na wizi, sura inayofuata inaangalia kipengele kingine muhimu: jinsi ya kuzuia faili zako za kibinafsi zisiwe vekta za mashambulizi kupitia metadata zao.
+Sasa kwa kuwa umejifunza jinsi ya kulinda data yako ya kibinafsi dhidi ya upotevu na wizi, sura inayofuata inaangalia kipengele kingine muhimu: jinsi ya kuzuia faili zako za kibinafsi zisigeuke kuwa vekta za mashambulizi kupitia metadata zao.
 
 ## Usafishaji wa metadata
 
@@ -4896,13 +4896,13 @@ Kila wakati unapounda faili ya dijiti, iwe picha, hati ya ofisi, faili ya sauti 
 
 ### Kwa nini metadata ni hatari?
 
-Metadata ni data iliyoambatishwa kwenye faili, ambayo jukumu lake ni kutoa maelezo ya muktadha kuhusu maudhui. Katika picha, hii inaweza kujumuisha tarehe na wakati picha ilipigwa, viwianishi sahihi vya GPS, mfano wa kamera au simu mahiri iliyotumika, na wakati mwingine hata mipangilio ya kiufundi. Katika hati ya maandishi, inaweza kujumuisha jina la mwandishi, jina la kampuni, kitambulisho cha kipindi cha mtumiaji, mihuri ya muda ya kuunda na kurekebisha, au hata maoni ya ndani yaliyoachwa wakati wa kuhariri.
+Metadata ni data iliyoambatishwa kwenye faili, ambayo jukumu lake ni kutoa maelezo ya muktadha kuhusu maudhui. Katika picha, hii inaweza kujumuisha tarehe na wakati picha ilipigwa, viwianishi vya GPS, mfano wa kamera au simu iliyotumika, na wakati mwingine hata mipangilio ya kiufundi. Katika hati ya maandishi, inaweza kujumuisha jina la mwandishi, jina la kampuni, kitambulisho cha mtumiaji, mihuri ya muda ya kuunda na kurekebisha, au hata maoni ya ndani yaliyoachwa wakati wa kuhariri.
 
 Metadata hii inaweza kuonekana kuwa haina madhara, lakini inaweza kutumiwa na watendaji hasidi kutambua mtunzi wa faili, kupata mtu binafsi, kuunda upya matukio au tabia, au hata kutumia hitilafu za programu kulingana na toleo la programu iliyotumiwa.
 
-Wacha tuchukue mfano halisi: unachapisha picha inayodaiwa kutokujulikana kwenye kongamano. Iwapo hujaondoa metadata ya EXIF, mbofyo mmoja unaweza kuonyesha viwianishi sahihi vya GPS vya nyumba yako, muundo wa simu yako na tarehe kamili ambayo picha ilipigwa. Vile vile, hati ya PDF iliyotumwa bila kujulikana inaweza kuwa na jina lako kamili katika sifa zake.
+Wacha tuchukue mfano halisi: unachapisha picha inayodaiwa kuwa ya siri kwenye kongamano. Ikiwa hujaondoa metadata ya EXIF, mbofyo mmoja unaweza kufichua viwianishi vya GPS vya nyumba yako, aina ya simu yako, na tarehe kamili ambayo picha ilipigwa. Vivyo hivyo, hati ya PDF iliyotumwa bila kujulikana inaweza kuwa na jina lako kamili kwenye sifa zake.
 
-Ndiyo maana baadhi ya majukwaa ya uchapishaji na mawasiliano ya midia huondoa kiotomatiki metadata kutoka kwa picha zako. Hizi ni pamoja na X (Twitter), Instagram, Signal na Session. Kwa upande mwingine, majukwaa mengine hayaondoi metadata hata kidogo: hivi ndivyo ilivyo kwa mabaraza mengi ya mtandaoni, wateja wengi wa barua pepe, au hata unapochapisha moja kwa moja kwenye tovuti.
+Ndiyo maana baadhi ya majukwaa ya uchapishaji na mawasiliano ya vyombo vya habari huondoa kiotomatiki metadata kutoka kwa picha zako. Hizi ni pamoja na X (Twitter), Instagram, Signal na Session. Kwa upande mwingine, majukwaa mengine hayaondoi metadata kabisa: hivi ndivyo ilivyo kwa mabaraza mengi ya mtandaoni, wateja wengi wa barua pepe, au hata unapochapisha moja kwa moja kwenye tovuti.
 
 Ni jambo muhimu la kuzingatia: pindi tu faili inapoondoka kwenye nyanja yako ya faragha, unahitaji kufikiria kuhusu kusafisha metadata yake ili kuepuka kufichua taarifa nyeti au za kibinafsi bila wewe kujua. Hebu tuangalie jinsi ya kufanya hivyo, kulingana na mfumo wako wa uendeshaji.
 
@@ -4910,9 +4910,9 @@ Ni jambo muhimu la kuzingatia: pindi tu faili inapoondoka kwenye nyanja yako ya 
 
 #### Kutumia ExifTool
 
-Njia kamili na ya kuaminika zaidi ya kudhibiti na kufuta metadata ni ExifTool, iliyotengenezwa na Phil Harvey. Inaoana na idadi kubwa ya umbizo la faili (JPG, PNG, PDF, MP3, DOCX...) na huwezesha kuonyesha na kuondolewa kwa metadata.
+Njia kamili na ya kuaminika zaidi ya kudhibiti na kufuta metadata ni ExifTool, iliyotengenezwa na Phil Harvey. Inaoana na idadi kubwa ya umbizo za faili (JPG, PNG, PDF, MP3, DOCX...) na huwezesha kuonyesha na kuondoa metadata.
 
-- Hatua ya 1: Sakinisha ExifTool
+- ** Hatua ya 1: Sakinisha ExifTool**
 
 Ili kuiweka kwenye usambazaji wa Debian (Ubuntu), fungua terminal na uandike amri:
 
@@ -4931,7 +4931,7 @@ Kifurushi hiki husakinisha `exiftool`, ambayo unaweza kutumia moja kwa moja kuto
 
 
 
-- Hatua ya 2: Kuangalia metadata ya faili** (kwa Kifaransa)
+- **Hatua ya 2: Kuangalia metadata ya faili** (kwa Kifaransa)
 
 
 
@@ -4979,7 +4979,7 @@ Hii inakupa muhtasari kamili wa kile unakaribia kuchapisha au kusambaza.
 
 
 
-- Hatua ya 3: Futa metadata
+- **Hatua ya 3: Futa metadata**
 
 
 
@@ -5025,7 +5025,7 @@ Tukiangalia tena metadata ya faili yetu, tunaweza kuona kwamba metadata zote zis
 
 
 
-- Hatua ya 4: Safisha saraka nzima
+- **Hatua ya 4: Safisha saraka nzima**
 
 
 
@@ -5093,7 +5093,7 @@ Kwa chaguo-msingi, MAT2 haibadilishi faili asili: inaunda toleo lililosafishwa k
 
 
 
-Ili kusafisha saraka nzima, kama vile saraka ya `/Vipakuliwa`:
+Ili kusafisha saraka nzima, kama vile saraka ya `/Downloads`:
 
 
 
@@ -5107,7 +5107,7 @@ mat2 ~/Downloads/*
 
 
 
-Kwenye Windows na macOS, kuna njia kadhaa za kuondoa metadata kutoka kwa hati zako. Kwa maoni yangu, rahisi zaidi ni kutumia programu huria [ExifCleaner](https://exifcleaner.com/). Zana hii nyepesi ina mchoro wa Interface na inaweza kushughulikia fomati nyingi za faili kwa kuburuta na kuangusha tu. Kwa kudondosha faili moja au zaidi kwenye Interface, programu huondoa kiotomatiki metadata isiyo ya lazima na kuchukua nafasi ya faili asili katika saraka sawa. ExifCleaner inapatikana kwa Windows, macOS na Linux.
+Kwenye Windows na macOS, kuna njia kadhaa za kuondoa metadata kutoka kwa hati zako. Kwa maoni yangu, rahisi zaidi ni kutumia programu huria [ExifCleaner](https://exifcleaner.com/). Zana hii nyepesi ina mchoro wa Interface na inaweza kushughulikia format nyingi za faili kwa kuburuta na kuangusha tu. Kwa kudondosha faili moja au zaidi kwenye Interface, programu huondoa kiotomatiki metadata isiyo ya lazima na kuchukua nafasi ya faili asili katika saraka sawa. ExifCleaner inapatikana kwa Windows, macOS na Linux.
 
 
 
@@ -5119,7 +5119,7 @@ Ni rahisi sana kutumia: endesha programu tu, kisha buruta na udondoshe faili moj
 
 
 
-Subiri kidogo wakati chombo kinasafisha metadata. Mchakato ukishakamilika, utaona muhtasari unaoonyesha hesabu za metadata za mwanzo na za mwisho. Taarifa zote zisizo za kawaida zitakuwa zimeondolewa.
+Subiri kidogo wakati chombo kinasafisha metadata. Mchakato ukikamilika, utaona muhtasari unaoonyesha idadi ya metadata za awali na za mwisho. Taarifa zote zisizo za lazima zitakuwa zimeondolewa.
 
 
 
@@ -5131,7 +5131,7 @@ Kusafisha metadata ya faili unazoshiriki kwa hivyo ni mazoezi mazuri ya kupitish
 
 
 
-Tumefika mwisho wa sehemu hii juu ya kulinda kompyuta yako. Katika sehemu inayofuata, tutakuwa tukichunguza kwa kina mojawapo ya programu muhimu zaidi za mashine yako: kivinjari. Ni pekee huweka sehemu kubwa ya shughuli zako za kidijitali katikati, na kuifanya kuwa lengo kuu katika masuala ya usalama na faragha.
+Tumefika mwisho wa sehemu hii ya kulinda kompyuta yako. Katika sehemu inayofuata, tutachunguza kwa kina moja ya programu muhimu zaidi kwenye mashine yako: kivinjari. Hii ndiyo programu inayoshikilia sehemu kubwa ya shughuli zako za kidijitali, na hivyo kuwa shabaha kuu katika masuala ya usalama na faragha.
 
 
 
@@ -5150,7 +5150,7 @@ Tumefika mwisho wa sehemu hii juu ya kulinda kompyuta yako. Katika sehemu inayof
 
 
 
-Kivinjari cha wavuti ni programu inayokuruhusu kufikia tovuti na maudhui yanayopatikana kwenye *Mtandao Wote wa Ulimwenguni*. Jukumu lake ni kutafsiri lugha zinazotumiwa kuunda kurasa za wavuti, haswa HTML, CSS na JavaScript, ili kuonyesha yaliyomo kwenye tovuti kwa njia inayoweza kusomeka na shirikishi. Inafanya kazi kama Interface kati ya mtumiaji na seva za wavuti, kutuma maombi na kupokea majibu kupitia itifaki ya HTTP au HTTPS.
+Kivinjari cha wavuti ni programu inayokuruhusu kufikia tovuti na maudhui yanayopatikana kwenye World Wide Web. Jukumu lake ni kutafsiri lugha zinazotumiwa kuunda kurasa za wavuti, hasa HTML, CSS na JavaScript, ili kuonyesha yaliyomo kwenye tovuti kwa njia inayoweza kusomeka na kushirikiana. Kinafanya kazi kama interface kati ya mtumiaji na seva za wavuti, kikituma maombi na kupokea majibu kupitia itifaki ya HTTP au HTTPS, kuhakikisha usalama na usiri wa mawasiliano HTTPS.
 
 
 
@@ -5162,7 +5162,7 @@ Bado haijashikilia jukumu hili kuu kila wakati. Historia ya vivinjari inaonyeshw
 
 
 
-→ Kivinjari mara nyingi huchanganyikiwa kimakosa na injini ya utaftaji. Hata hivyo wawili ni tofauti sana. Kivinjari cha wavuti kinatumika kuonyesha tovuti, wakati injini ya utafutaji (inayoweza kufikiwa kutoka kwa kivinjari cha sisi) inatumiwa kupata taarifa mtandaoni kwa kuorodhesha na kuainisha kurasa za wavuti.
+→ Kivinjari mara nyingi huchanganyishwa kimakosa na injini ya utafutaji, lakini viwili hivi ni tofauti kabisa. Kivinjari cha wavuti hutumika kuonyesha tovuti, ilhali injini ya utafutaji (ambayo hupatikana kupitia kivinjari chenyewe) hutumika kutafuta taarifa mtandaoni kwa kuorodhesha na kuainisha kurasa za wavuti.
 
 
 
@@ -5170,7 +5170,7 @@ Bado haijashikilia jukumu hili kuu kila wakati. Historia ya vivinjari inaonyeshw
 
 
 
-Historia ya vivinjari vya wavuti huanza na kuzaliwa kwa *Wavuti ya Ulimwenguni Pote*, iliyovumbuliwa na Tim Berners-Lee mnamo 1989-1990. Ni mfumo wa kufikia kurasa zilizo na maandishi, picha, video au viungo kupitia Mtandao, kwa kutumia kivinjari. Ili kufanya mfumo huu mpya upatikane, mnamo vuli 1990 alitengeneza kivinjari cha kwanza kabisa, kinachoitwa "WorldWideWeb", ambacho kiliweka misingi ya kuvinjari kama tunavyoijua leo. Inaruhusu kutazama na kuunda kurasa za wavuti, pamoja na kihariri cha HTML kilichojumuishwa. Ili kuzuia mkanganyiko wowote kati ya kivinjari na Wavuti yenyewe, jina lake lilibadilishwa baadaye kuwa "Nexus".
+Historia ya vivinjari vya wavuti huanza na kuzaliwa kwa World Wide Web, iliyovumbuliwa na Tim Berners-Lee mnamo 1989–1990. Ni mfumo wa kufikia kurasa zilizo na maandishi, picha, video au viungo kupitia mtandao kwa kutumia kivinjari. Ili kufanya mfumo huu mpya upatikane, mnamo vuli ya 1990 alitengeneza kivinjari cha kwanza kabisa, kilichoitwa WorldWideWeb, ambacho kiliweka misingi ya kuvinjari kama tunavyoijua leo. Kivinjari hiki kiliwezesha kutazama na kuunda kurasa za wavuti, pamoja na kuwa na kihariri cha HTML kilichojumuishwa. Ili kuzuia mkanganyiko wowote kati ya kivinjari na wavuti yenyewe, jina lake lilibadilishwa baadaye kuwa "Nexus".
 
 
 
