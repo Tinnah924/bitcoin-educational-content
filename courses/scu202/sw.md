@@ -5388,7 +5388,7 @@ Iliyoundwa na Microsoft kwa Internet Explorer 4, Trident ndiyo injini iliyotawal
 
 
 
-Trident pia iliwasilisha matatizo ya usalama na injini ya polepole ya JavaScript. Watengenezaji wa wavuti mara nyingi walilazimika kuandika nambari maalum ili kufanya kazi karibu na mende zake. Microsoft iliibadilisha mnamo 2015 na EdgeHTML, injini ya kisasa zaidi ambayo imeshindwa kubadilisha mwelekeo. Trident inabaki kuwa ishara ya enzi wakati injini inaweza kuweka sheria zake kwenye Wavuti.
+Trident pia iliwasilisha matatizo ya usalama na injini ya polepole ya JavaScript. Watengenezaji wa wavuti mara nyingi walilazimika kuandika nambari maalum ili kukwepa mende zake. Microsoft iliibadilisha mnamo 2015 na EdgeHTML, injini ya kisasa zaidi ambayo haikuweza kubadilisha mwelekeo. Trident inabaki kuwa ishara ya enzi ambapo injini iliweza kuweka sheria zake kwenye Wavuti.
 
 
 
@@ -5424,7 +5424,7 @@ Kwa upande wa sehemu ya soko, Gecko sasa yuko nyuma sana ya Blink, kwani Firefox
 
 
 
-Iliyoundwa na mradi wa KDE kwa kivinjari chake cha Konqueror, KHTML ni injini nyepesi, ya kawaida na ya haraka. Imeandikwa katika C++, inaheshimu viwango na inatoa msingi safi, ulio na kumbukumbu vizuri. Ilikuwa injini hii ambayo Apple ilichagua mnamo 2001 kuunda WebKit. Kwa hivyo KHTML ni babu wa kiufundi wa Chrome na Safari.
+Iliyoundwa na mradi wa KDE kwa kivinjari chake cha Konqueror, KHTML ni injini nyepesi, sanifu na ya haraka. Imeandikwa kwa C++, inaheshimu viwango na inatoa msingi safi, wenye kumbukumbu nzuri. Ilikuwa injini hii ambayo Apple ilichagua mnamo 2001 kuunda WebKit. Kwa hivyo, KHTML ni babu wa kiufundi wa Chrome na Safari.
 
 
 
@@ -5436,7 +5436,7 @@ Iliyoundwa na mradi wa KDE kwa kivinjari chake cha Konqueror, KHTML ni injini ny
 
 
 
-WebKit ni Fork ya KHTML iliyozinduliwa na Apple ili kutengeneza kivinjari chake: Safari. Iliboreshwa kwa mara ya kwanza kwa utendakazi na ushirikiano na macOS, kisha ikatumiwa na Google Chrome ilipotolewa mwaka wa 2008. WebKit inategemea vipengele viwili vidogo:
+WebKit ni Fork ya KHTML iliyozinduliwa na Apple ili kutengeneza kivinjari chake: Safari. Iliboreshwa kwanza kwa utendakazi na ujumuishaji na macOS, kisha ikatumiwa na Google Chrome ilipotolewa mwaka wa 2008. WebKit inategemea vipengele viwili vikuu:
 
 
 
@@ -5466,7 +5466,7 @@ Blink ni Fork ya WebKit iliyoanzishwa na Google ili kuandaa Chrome (na Chromium)
 
 
 
-Leo, Blink ndio injini inayotumika zaidi ya uwasilishaji ulimwenguni. Hata hivyo, ukuu huu unazua swali la kilimo kimoja cha kiufundi kwenye wavuti, lakini tutarejea kwa hilo baadaye.
+Leo, Blink ndio injini ya uwasilishaji inayotumika zaidi duniani. Hata hivyo, ukuu huu unazua swali la monoculture ya kiufundi kwenye wavuti, lakini tutalirudia baadaye.
 
 
 
@@ -5486,7 +5486,7 @@ Mabadiliko ya injini za uwasilishaji yanaonyesha historia ya wavuti: mvutano kat
 
 
 
-### Blink inatawala, Gecko anajitahidi
+### Blink inatawala, Gecko inajitahidi
 
 
 
@@ -5494,11 +5494,11 @@ Tangu kuundwa kwa Blink mwaka wa 2013 na kupitishwa kwake kwa kuenea kwa vivinja
 
 
 
-Hali hii huleta manufaa fulani: Blink ina nguvu na inaungwa mkono na timu kuu za uhandisi (Google, lakini pia Microsoft na wengine), na inabadilika haraka. Blink pia huchangia uwekaji viwango fulani vya ukweli: wasanidi programu wa wavuti wanaweza kulenga jukwaa moja kufikia karibu watumiaji wote. Lakini mkusanyiko huu pia una mapungufu makubwa ya kimuundo.
+Hali hii huleta manufaa fulani: Blink ina nguvu na inaungwa mkono na timu kuu za uhandisi (Google, lakini pia Microsoft na wengine), na inabadilika haraka. Blink pia huchangia katika kuweka viwango vya vitendo: wasanidi wa wavuti wanaweza kulenga jukwaa moja kufikia karibu watumiaji wote. Lakini mkusanyiko huu pia una mapungufu makubwa ya kimuundo.
 
 
 
-Kwa upande mmoja, inaweka pembeni injini mbadala, haswa Gecko, inayotumiwa karibu na Firefox pekee. Mnamo 2025, Firefox itakuwa na hisa chini ya 6% ya soko, ambayo inazuia kwa kiasi kikubwa uwezo wake wa kutoa sauti yake katika majadiliano juu ya mabadiliko ya viwango vya wavuti (W3C, WHATWG). Gecko inadumishwa na Mozilla, shirika lisilo la faida lenye rasilimali chache zaidi kuliko Google. Injini inasalia kuwa na ushindani katika vipengele fulani vya kiufundi (hasa ulinzi wa faragha), lakini inakabiliwa na kulegalega katika kutekeleza API fulani za kisasa. Na jambo hili ni sehemu ya mduara mbaya: Gecko haifanyi kazi vizuri, ambayo inasababisha kupungua kwa idadi ya watumiaji, ambayo inawahimiza watengenezaji kuboresha tovuti zao kidogo kwa Gecko, hivyo Gecko haifanyi kazi vizuri ... na kadhalika.
+Kwa upande mmoja, inaweka pembeni injini mbadala, haswa Gecko, inayotumiwa karibu na Firefox pekee. Mnamo 2025, Firefox itakuwa na hisa chini ya 6% ya soko, ambayo inazuia kwa kiasi kikubwa uwezo wake wa kutoa sauti yake katika majadiliano juu ya mabadiliko ya viwango vya wavuti (W3C, WHATWG). Gecko inadumishwa na Mozilla, shirika lisilo la faida lenye rasilimali chache zaidi kuliko Google. Injini inasalia kuwa na ushindani katika Elements fulani za kiufundi (hasa ulinzi wa faragha), lakini inakabiliwa na kulegalega katika kutekeleza API fulani za kisasa. Na jambo hili ni sehemu ya mduara mbaya: Gecko haifanyi kazi vizuri, ambayo inasababisha kupungua kwa idadi ya watumiaji, ambayo inawahimiza watengenezaji kuboresha tovuti zao kidogo kwa Gecko, hivyo Gecko haifanyi kazi vizuri ... na kadhalika.
 
 
 
@@ -5522,7 +5522,7 @@ Utawala wa Blink kwa hivyo sio tu suala la kiufundi: unahusisha vigingi vya kisi
 
 
 
-Katika kipindi cha miaka thelathini, kivinjari cha wavuti kimebadilika kutoka kwa zana rahisi ya kutazama hadi jukwaa changamano la programu, iliyounganishwa ndani ya moyo wa uzoefu wetu wa kila siku wa kompyuta. Kuelewa mageuzi haya ya kihistoria hufafanua umuhimu wa kimkakati wa kivinjari katika masuala ya leo ya usalama na uhuru wa kidijitali.
+Katika kipindi cha miaka thelathini, kivinjari cha wavuti kimebadilika kutoka chombo rahisi cha kutazama hadi kuwa jukwaa changamano la programu, lililounganishwa katika kiini cha uzoefu wetu wa kila siku wa kompyuta. Kuelewa mageuzi haya ya kihistoria kunafafanua umuhimu wa kimkakati wa kivinjari katika masuala ya leo ya usalama na uhuru wa kidijitali.
 
 
 
@@ -5541,7 +5541,7 @@ Baada ya kuchunguza historia na mabadiliko ya vivinjari, sasa tutaangalia vivinj
 
 
 
-Lengo la sura hii ni kukusaidia kuchagua kivinjari kinachofaa mahitaji yako. Nimezipanga kwa kutoa injini, lakini agizo halionyeshi aina yoyote ya kiwango.
+Lengo la sura hii ni kukusaidia kuchagua kivinjari kinachofaa mahitaji yako. Nimezipanga kulingana na injini, lakini mpangilio huu hauonyeshi aina yoyote ya kiwango.
 
 
 
