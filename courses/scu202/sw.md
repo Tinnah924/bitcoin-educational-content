@@ -4170,7 +4170,7 @@ Hakikisha umeweka faili hizi zote kwenye saraka sawa ili kuwezesha hatua zifuata
 
 
 
-Hatimaye, utahitaji ufunguo wa umma wa msanidi programu ili kuthibitisha sahihi ya PGP. Ufunguo huu kwa ujumla unapatikana kwenye tovuti rasmi ya programu, kwenye hazina ya mradi wa GitHub, wakati mwingine kwenye mitandao ya kijamii ya msanidi programu, au kwenye majukwaa maalum kama vile Keybase.
+Hatimaye, utahitaji public key ya developer ili kuthibitisha sahihi ya PGP. Public key hii kwa kawaida hupatikana kwenye tovuti rasmi ya programu, kwenye repository ya mradi wa GitHub, wakati mwingine kwenye mitandao ya kijamii ya developer, au kwenye majukwaa maalum kama vile Keybase.
 
 
 
@@ -4192,7 +4192,7 @@ curl https://keybase.io/craigraw/pgp_keys.asc | gpg --import
 
 
 
-Ili kuhakikisha kuwa unatumia ufunguo halisi wa umma wa msanidi programu, na sio ule ulionyakuliwa na mshambulizi, ninapendekeza kwamba uangalie vyanzo tofauti: hakikisha kwamba alama za vidole zinalingana kwenye Keybase, kwenye tovuti rasmi ya mradi, na kwenye mitandao yoyote ya kijamii au njia za mawasiliano za msanidi programu.
+Ili kuhakikisha kuwa unatumia public key halisi ya developer, na siyo ile iliyoibiwa na mshambulizi, ninapendekeza uangalie vyanzo tofauti: hakikisha kwamba fingerprints zinalingana kwenye Keybase, kwenye tovuti rasmi ya mradi, na kwenye mitandao yoyote ya kijamii au njia za mawasiliano za developer.
 
 
 
@@ -4200,7 +4200,7 @@ Ili kuhakikisha kuwa unatumia ufunguo halisi wa umma wa msanidi programu, na sio
 
 
 
-Mchakato wa uthibitishaji wa saini ni sawa kwenye Windows, macOS na Linux. Unapaswa kuwa tayari umeingiza ufunguo wa umma katika hatua ya awali, lakini ikiwa bado haujafanya hivyo, unaweza kuiingiza kwa kutumia amri ifuatayo:
+Mchakato wa kuthibitisha signature ni sawa kwenye Windows, macOS na Linux. Unapaswa kuwa tayari ume-import public key katika hatua ya awali, lakini ikiwa bado hujafanya hivyo, unaweza kuingiza kwa kutumia command ifuatayo:
 
 
 
@@ -4240,7 +4240,7 @@ Badilisha `[file.asc]` kwa njia ya faili sahihi. Kwa upande wa Sparrow, faili hi
 
 
 
-Ikiwa sahihi ni halali, GPG itaithibitisha kwa uwazi. Kisha unaweza kuendelea na hatua inayofuata, kwa kuwa uthibitishaji huu unathibitisha ukweli wa faili.
+Ikiwa signature ni halali, GPG itaithibitisha waziwazi. Baada ya hapo unaweza kuendelea na hatua inayofuata, kwa kuwa uthibitishaji huu unathibitisha authenticity ya file.
 
 
 
@@ -4256,11 +4256,11 @@ Ikiwa sahihi ni halali, GPG itaithibitisha kwa uwazi. Kisha unaweza kuendelea na
 
 
 
-Sasa kwa kuwa uhalisi wa faili iliyo na heshi imethibitishwa, ni wakati wa kuangalia uadilifu wa faili ya kisakinishi, kulingana na faili hii iliyoidhinishwa. Lengo ni kulinganisha Hash ya kisakinishi chako na ile iliyoonyeshwa kwenye faili `.asc`. Ikiwa hizi mbili zinalingana, hii inathibitisha kwamba msimbo wa programu haujabadilishwa kwa njia yoyote.
+Sasa kwa kuwa uhalisi wa faili iliyo na hash imethibitishwa, ni wakati wa kuangalia uadilifu wa faili ya kisakinishi, kulingana na faili hii iliyoidhinishwa. Lengo ni kulinganisha Hash ya kisakinishi chako na ile iliyoonyeshwa kwenye faili `.asc`. Ikiwa hizi mbili zinalingana, hii inathibitisha kwamba msimbo wa programu haujabadilishwa kwa njia yoyote.
 
 
 
-Kwenye Windows, fungua terminal na uendesha amri ifuatayo:
+Kwenye Windows, fungua terminal na uendeshe command ifuatayo:
 
 
 
@@ -4312,7 +4312,7 @@ shasum --check [file_name] --ignore-missing
 
 
 
-Badilisha `[file_name]` kwa jina la faili iliyothibitishwa iliyo na heshi. Kwa mfano, kwa toleo la Sparrow wallet 2.0.0:
+Badilisha `[file_name]` kwa jina la faili iliyothibitishwa iliyo na hash. Kwa mfano, kwa toleo la Sparrow wallet 2.0.0:
 
 
 
@@ -4322,7 +4322,7 @@ shasum --check sparrow-2.0.0-manifest.txt --ignore-missing
 
 
 
-Ikiwa heshi inalingana, matokeo yanapaswa kuwa:
+Ikiwa hash inalingana, matokeo yanapaswa kuwa:
 
 
 
@@ -4342,7 +4342,7 @@ sha256sum --check [file_name] --ignore-missing
 
 
 
-Na ikiwa heshi inalingana, unapaswa kupata:
+Na ikiwa hash inalingana, unapaswa kupata:
 
 
 
@@ -4380,7 +4380,7 @@ Katika sura inayofuata, tutaangalia kwa karibu usimamizi wa data. Tutaangalia ji
 
 
 
-Kulinda data yako ya kibinafsi ni sehemu muhimu ya kuhakikisha uhuru wako wa kidijitali, faragha na usalama. Hatari kwa data yako ni nyingi: udukuzi, upotezaji wa maunzi au hata mshtuko wa kimwili. Kwa kutekeleza mikakati bora ya kuhifadhi nakala na usimbaji fiche, unaweza kuepuka vitisho vingi hivi vinavyoweza kutokea.
+Kulinda data yako ya kibinafsi ni sehemu muhimu ya kuhakikisha uhuru wako wa kidijitali, faragha na usalama. Hatari kwa data yako ni nyingi: hacking, upotevu wa hardware, au hata physical damage. Kwa kutekeleza mikakati bora ya backup na encryption, unaweza kuepuka vitisho vingi vinavyoweza kutokea.
 
 
 
@@ -4402,7 +4402,7 @@ Kuhifadhi nakala mara kwa mara ya data yako ya kibinafsi au ya biashara ni hatua
 
 
 
-- Kushindwa kwa maunzi: HDD na SSD zina maisha mafupi. Bila onyo, wanaweza kushindwa, na kufanya data isiweze kufikiwa.
+- Kushindwa kwa hardware: HDD na SSD zina maisha mafupi. Bila onyo, zinaweza kushindwa na kufanya data isiweze kufikiwa.
 
 
 
@@ -4420,7 +4420,7 @@ Kuhifadhi nakala mara kwa mara ya data yako ya kibinafsi au ya biashara ni hatua
 
 
 
-- Maafa ya kimwili: moto, uharibifu wa maji, wizi au hata kuongezeka kwa nguvu kunaweza kufanya kifaa chako kutotumika mara moja.
+- Maafa ya kimwili: moto, uharibifu wa maji, wizi au hata kuongezeka kwa nguvu kunaweza kufanya kifaa chako kisifanye kazi mara moja.
 
 
 
@@ -4438,19 +4438,19 @@ Sheria ya "3-2-1" ni kiwango kinachotambulika katika usalama wa IT. Inategemea k
 
 
 
-- Nakala 3 za data yako: hii inajumuisha ya asili (faili kwenye kompyuta yako) na nakala mbili za ziada za chelezo.
+- Nakala 3 za data yako: hii inajumuisha ile ya asili (files kwenye kompyuta yako) na nakala mbili za ziada za backup.
 
 
 
 
 
-- Midia 2 tofauti ya hifadhi: lengo ni kuzuia tatizo la maunzi kuathiri midia yako yote mara moja. Kwa mfano, gari la nje la Hard + wingu; au NAS + kompyuta yako.
+- Midia mbili tofauti za hifadhi: lengo ni kuzuia tatizo la hardware kuathiri midia yako yote kwa wakati mmoja. Mfano, external hard drive + cloud; au NAS + kompyuta yako.
 
 
 
 
 
-- Nakala 1 ya nje ya tovuti: nakala hii lazima iwe iko mbali na eneo lako kuu (nyumbani mwa jamaa, kwenye seva ya mbali, katika wingu salama...). Inakulinda dhidi ya matukio ya ndani kama vile moto au wizi.
+- Nakala 1 ya off-site: nakala hii lazima iwe mbali na eneo lako kuu (nyumbani kwa jamaa, kwenye remote server, au kwenye secure cloud...). Inakulinda dhidi ya matukio ya ndani kama vile moto au wizi.
 
 
 
