@@ -6006,11 +6006,11 @@ Kusasisha kivinjari chako, programu na mfumo wa uendeshaji ni mojawapo ya hatua 
 
 
 
-Linapokuja suala la usalama wa wavuti, mojawapo ya makosa ya kawaida (na hatari) ni kutumia tena manenosiri kwenye tovuti nyingi. Zoezi hili husababisha athari hatari ya domino: ikiwa huduma moja itaingiliwa (uvujaji wa hifadhidata, wizi wa data binafsi, shambulio la kinyama...), mshambulizi anaweza kisha kujaribu nenosiri lile lile kwenye mifumo mingine, kupata ufikiaji wa akaunti muhimu kama vile barua pepe yako, akaunti za benki au nafasi za kazi.
+Linapokuja suala la usalama wa wavuti, moja ya makosa ya kawaida (na yenye hatari) ni kutumia tena manenosiri kwenye tovuti nyingi. Zoezi hili linaweza kusababisha athari ya hatari ya domino: iwapo huduma moja itaingiliwa (kupitia uvujaji wa hifadhidata, wizi wa data binafsi, au shambulio la kinyama), mshambulizi ataweza kujaribu nenosiri hilo hilo kwenye mifumo mingine na kupata ufikiaji wa akaunti muhimu, kama vile barua pepe yako, akaunti za benki, au majukwaa ya kazi.
 
 
 
-Kanuni ya kwanza linapokuja suala la nywila sio kuzitumia tena. Kila akaunti ya mtandaoni inapaswa kulindwa na nenosiri la kipekee, tofauti kabisa na zingine. Kuwa na nenosiri la kipekee kwa kila akaunti hutenganisha mashambulizi yanayoweza kutokea na kupunguza athari zake.
+Kanuni ya kwanza linapokuja suala la password sio kuzitumia tena. Kila akaunti ya mtandaoni inapaswa kulindwa na nenosiri la kipekee, tofauti kabisa na zingine. Kuwa na nenosiri la kipekee kwa kila akaunti hutenganisha mashambulizi yanayoweza kutokea na kupunguza athari zake.
 
 
 
@@ -6018,15 +6018,15 @@ Kwa mfano, ikiwa unatumia nenosiri lile lile kwa jukwaa la mchezo wa video na kw
 
 
 
-Kanuni ya pili muhimu ni kuwa na nenosiri dhabiti. Nenosiri linachukuliwa kuwa kali ikiwa ni vigumu kutumia kwa nguvu, i.e. kupata kwa majaribio na makosa. Hii inamaanisha kuwa manenosiri yako yanapaswa kuwa nasibu iwezekanavyo, marefu, na yawe na herufi mbalimbali (herufi ndogo, herufi kubwa, nambari na alama).
+Kanuni ya pili muhimu ni kuwa na password dhabiti. Password inachukuliwa kuwa kali ikiwa ni vigumu kutumia kwa nguvu, i.e. kupata kwa majaribio na makosa. Hii inamaanisha kuwa password zako zinapaswa kuwa nasibu iwezekanavyo, ndefu, na ziwe na herufi mbalimbali (herufi ndogo, herufi kubwa, nambari na alama).
 
 
 
-Kutumia kanuni hizi mbili za usalama wa nenosiri (upekee na nguvu) kunaweza kuwa vigumu kila siku, kwani ni vigumu sana kukariri nenosiri la kipekee, nasibu na thabiti kwa akaunti zetu zote. Hapa ndipo kidhibiti cha nenosiri huingia.
+Kutumia kanuni hizi mbili za usalama wa password (upekee na nguvu) kunaweza kuwa kugumu kila siku, kwa kuwa haiwezekani kwa urahisi kukariri password ya kipekee, nasibu na thabiti kwa akaunti zetu zote. Hapa ndipo kidhibiti cha password huingia.
 
 
 
-Kidhibiti cha nenosiri hutengeneza na kuhifadhi manenosiri thabiti kwa usalama, huku kuruhusu kufikia akaunti zako zote mtandaoni bila kulazimika kuzikariri kibinafsi. Unahitaji tu kukumbuka nenosiri moja, nenosiri kuu, ambalo hukupa ufikiaji wa nywila zako zote zilizohifadhiwa kwenye kidhibiti. Kutumia kidhibiti cha nenosiri huimarisha usalama wako mtandaoni, kwani huzuia utumiaji tena wa manenosiri na kutengeneza manenosiri nasibu.
+Kidhibiti cha password hutengeneza na kuhifadhi password thabiti kwa usalama, huku kuruhusu kufikia akaunti zako zote mtandaoni bila kulazimika kuzikariri kibinafsi. Unahitaji tu kukumbuka password moja, password kuu, ambayo hukupa ufikiaji wa password zako zote zilizohifadhiwa kwenye kidhibiti. Kutumia kidhibiti cha password huimarisha usalama wako mtandaoni, kwani huzuia utumiaji tena wa password na kutengeneza password nasibu.
 
 
 
@@ -6034,11 +6034,11 @@ https://planb.network/tutorials/computer-security/authentication/bitwarden-0532f
 
 https://planb.network/tutorials/computer-security/authentication/keepass-f8073bb7-5b4a-4664-9246-228e307be246
 
-Kutumia kidhibiti cha nenosiri kuna faida kadhaa: hurahisisha maisha yako ya kila siku kwa kuondoa hitaji la kukariri wingi wa nywila, na kupunguza udhaifu mkuu wa uthibitishaji: mtumiaji mwenyewe.
+Kutumia kidhibiti cha password kuna faida kadhaa: hurahisisha maisha yako ya kila siku kwa kuondoa hitaji la kukariri wingi wa password, na kupunguza udhaifu mkuu wa uthibitishaji: mtumiaji mwenyewe.
 
 
 
-Linapokuja suala la uthibitishaji, matumizi ya kidhibiti nenosiri lazima yatimizwe na suluhisho la uthibitishaji wa vipengele viwili (2FA), ili litumike kwenye akaunti zote zinazoitumia. Kwa hakika, unapaswa kutumia programu maalum, au hata bora zaidi, kifaa halisi kama vile Yubikey.
+Linapokuja suala la uthibitishaji, matumizi ya kidhibiti password lazima yatimizwe na suluhisho la uthibitishaji wa vipengele viwili (2FA), ili litumike kwenye akaunti zote zinazoitumia. Kwa hakika, unapaswa kutumia programu maalum, au hata bora zaidi, kifaa halisi kama vile Yubikey.
 
 
 
@@ -6054,7 +6054,7 @@ https://planb.network/tutorials/computer-security/authentication/security-key-61
 
 
 
-VPN (*Mtandao wa Kibinafsi wa Kibinafsi*) ni zana ya kupitisha njia ambayo husimba trafiki ya mtandao kati ya kifaa chako na seva ya kati. Seva hii hufanya kama lango, ikielekeza upya miunganisho yako yote kwenye Mtandao. Kwa hivyo, Mtoa Huduma za Intaneti wako huona trafiki iliyosimbwa tu inayolengwa kwa VPN, na tovuti unazotembelea huona tu IP ya seva ya VPN Address, si yako.
+VPN (Virtual Private Network) ni zana ya kupitisha njia ambayo husimba trafiki ya mtandao kati ya kifaa chako na seva ya kati. Seva hii hufanya kama lango, ikielekeza upya miunganisho yako yote kwenye Mtandao. Kwa hivyo, Mtoa Huduma za Intaneti wako huona trafiki iliyosimbwa tu inayolengwa kwa VPN, na tovuti unazotembelea huona tu IP ya seva ya VPN, si yako.
 
 
 
@@ -6078,7 +6078,7 @@ Pia, zana za VPN hazipaswi kuchanganyikiwa na mtandao wa Tor, ambao ni mtandao u
 
 
 
-VPN nzuri inapaswa kuwa na sera inayoeleweka ya kutokukata miti, kutoa teknolojia za kisasa (hasa WireGuard), kuruhusu matumizi ya huduma bila kukutambulisha na kutoa chanzo huria au msingi wa kiufundi uliokaguliwa hadharani. Kwa kuzingatia hili, ninapendekeza zana kama vile Mullvad au IVPN.
+VPN nzuri inapaswa kuwa na sera inayoeleweka ya kutohifadhi kumbukumbu, kutoa teknolojia za kisasa (hasa WireGuard), kuruhusu matumizi ya huduma bila kukutambulisha na kutoa chanzo huria au msingi wa kiufundi uliokaguliwa hadharani. Kwa kuzingatia hili, ninapendekeza zana kama vile Mullvad au IVPN.
 
 
 
@@ -6104,7 +6104,7 @@ Historia ni hifadhidata rahisi ya ndani inayoorodhesha tovuti zote zilizotembele
 
 
 
-Vidakuzi, kwa upande mwingine, ni faili ndogo zilizohifadhiwa na kivinjari kwa ombi la tovuti. Hutumika kukumbuka kipindi chako (k.m. kusalia kwenye tovuti), kuhifadhi mapendeleo yako, au kufuatilia tabia yako kwa madhumuni ya takwimu. Baadhi ya vidakuzi vinafanya kazi (yaani ni muhimu kwa tovuti kufanya kazi vizuri), ilhali vingine ni vya watu wengine (vimewekwa na mashirika ya utangazaji au vifuatiliaji kwenye kurasa zilizotembelewa). Njia hii ya mwisho huwezesha ufuatiliaji wa tovuti mbalimbali, wakati mwingine kwa miaka mingi, kwa kurejelea mazoea yako ya kuvinjari ili kuanzisha wasifu wa utangazaji.
+Vidakuzi, kwa upande mwingine, ni faili ndogo zinazohifadhiwa na kivinjari kwa ombi la tovuti. Hutumika kukumbuka kipindi chako (k.m. kusalia kwenye tovuti), kuhifadhi mapendeleo yako, au kufuatilia tabia yako kwa madhumuni ya takwimu. Baadhi ya vidakuzi vinafanya kazi (yaani ni muhimu kwa tovuti kufanya kazi vizuri), ilhali vingine ni vya watu wengine (vimewekwa na mashirika ya utangazaji au vifuatiliaji kwenye kurasa zilizotembelewa). Njia hii ya mwisho huwezesha ufuatiliaji wa tovuti mbalimbali, wakati mwingine kwa miaka mingi, kwa kurejelea mazoea yako ya kuvinjari ili kuunda wasifu wa utangazaji.
 
 
 
@@ -6123,7 +6123,7 @@ Katika Firefox, kwa mfano, unaweza kusanidi ufutaji kiotomatiki kupitia Mipangil
 
 
 
-Hata hivyo, kumbuka kuwa kufuta vidakuzi tu hakutoshi kuhakikisha ufaragha wako: mbinu zingine za juu zaidi za ufuatiliaji zipo, kama vile alama za vidole (alama ya kipekee ya vidole vya kivinjari chako, maunzi yako, IP yako, matumizi yako...), ambayo yanahitaji hatua za ziada ili kukwepa:
+Hata hivyo, kumbuka kuwa kufuta vidakuzi tu hakutoshi kuhakikisha faragha yako: mbinu zingine za juu zaidi za ufuatiliaji zipo, kama vile alama za vidole (alama ya kipekee ya vidole vya kivinjari chako, maunzi yako, IP yako, matumizi yako...), ambayo yanahitaji hatua za ziada ili kukwepa:
 
 
 
@@ -6155,7 +6155,7 @@ Kwa maneno madhubuti, unapofungua dirisha katika kuvinjari kwa faragha:
 
 
 
-Hata hivyo, hali hii haifichi shughuli zako mtandaoni: tovuti unazotembelea bado zinaona IP yako ya umma ya Address, bado inaweza kutumia mbinu za uchukuaji alama za vidole, na ISP wako, au mtu yeyote kwenye mtandao wako wa karibu, bado anaweza kuona tovuti unazotembelea.
+Hata hivyo, hali hii haifichi shughuli zako mtandaoni: tovuti unazotembelea bado zinaona IP Address yako ya umma , bado inaweza kutumia mbinu za uchukuaji alama za vidole, na ISP yako, au mtu yeyote kwenye mtandao wako wa karibu, bado anaweza kuona tovuti unazotembelea.
 
 
 
@@ -6171,7 +6171,7 @@ Kwa hivyo ni muhimu kutochanganya kuvinjari kwa faragha na kutokujulikana. Kwa u
 
 
 
-Hadaa ni aina ya uhandisi wa kijamii inayotumiwa kuwalaghai watumiaji kufichua data nyeti bila wao kujua: maelezo ya kuingia, nambari za kadi ya mkopo, misimbo ya ufikiaji, hati za siri. Tishio hili halitokani na dosari ya kiufundi, lakini juu ya udanganyifu wa kisaikolojia, kutumia uaminifu wa mtumiaji, haraka au ukosefu wa ujuzi.
+Hadaa ni aina ya uhandisi wa kijamii inayotumiwa kuwalaghai watumiaji kufichua data nyeti bila wao kujua: maelezo ya kuingia, nambari za kadi ya mkopo, misimbo ya ufikiaji, hati za siri. Tishio hili halitokani na dosari ya kiufundi, bali hutegemea udanganyifu wa kisaikolojia, likitumia uaminifu wa mtumiaji, haraka, au ukosefu wa ujuzi.
 
 
 
@@ -6185,25 +6185,25 @@ Ili kuepuka mashambulizi haya wakati wa kuvinjari mtandaoni, ni muhimu kufuata m
 
 
 
-- Changanua URL**: wavamizi mara nyingi hutumia anwani zilizo karibu sana na za awali (k.m. `micr0soft-support.com`, `paypal-verif.net`, n.k.). Baadhi pia hubadilisha herufi zinazofanana, kwa kutumia herufi za Unicode. Hakikisha kuwa Address inalingana haswa na tovuti inayotarajiwa, bila viambishi awali au viambishi vya kutiliwa shaka.
+- **Changanua URL**: wavamizi mara nyingi hutumia anwani zilizo karibu sana na za awali (k.m. `micr0soft-support.com`, `paypal-verif.net`, n.k.). Baadhi pia hubadilisha herufi zinazofanana, kwa kutumia herufi za Unicode. Hakikisha kuwa Address inalingana haswa na tovuti inayotarajiwa, bila viambishi awali au viambishi vya kutiliwa shaka.
 
 
 
 
 
-- Epuka viungo vilivyofupishwa**: huduma kama vile `bit.ly` au `t.co` zinaweza kufunika Address ya mwisho. Ukipokea kiungo kilichofupishwa, shuku au utumie huduma ya upanuzi wa URL ili kuangalia kinakoenda.
+- **Epuka viungo vilivyofupishwa**: huduma kama vile `bit.ly` au `t.co` zinaweza kufunika Address ya mwisho. Ukipokea kiungo kilichofupishwa, shuku au utumie huduma ya upanuzi wa URL ili kuangalia kinakoenda.
 
 
 
 
 
-- Jihadhari na jumbe za hatari**: majaribio ya kuhadaa ili kupata maelezo ya kibinafsi mara nyingi hutumia hisia kali (dharura, tishio, zawadi, udadisi...). Barua pepe inayodai kuwa akaunti yako inakaribia kuzuiwa au kwamba kifurushi hakiwezi kuwasilishwa ni ya kutiliwa shaka.
+- **Jihadhari na jumbe za hatari**: majaribio ya kuhadaa ili kupata maelezo ya kibinafsi mara nyingi hutumia hisia kali (dharura, tishio, zawadi, udadisi...). Barua pepe inayodai kuwa akaunti yako inakaribia kuzuiwa au kwamba kifurushi hakiwezi kuwasilishwa ni ya kutiliwa shaka.
 
 
 
 
 
-- Kamwe usisambaze taarifa nyeti kupitia kiungo kilichopokelewa**: Taasisi halali haitawahi kukuuliza nenosiri, nambari ya kuthibitisha au nakala iliyochanganuliwa ya kitambulisho chako kupitia barua pepe rahisi au SMS.
+- **Kamwe usisambaze taarifa nyeti kupitia kiungo kilichopokelewa**: Taasisi halali haitawahi kukuuliza nenosiri, nambari ya kuthibitisha au nakala iliyochanganuliwa ya kitambulisho chako kupitia barua pepe rahisi au SMS.
 
 
 
@@ -6213,7 +6213,7 @@ Na hapa kuna hatua chache za kuzuia unazoweza kutekeleza moja kwa moja kwenye ki
 
 
 
-- Fikia tovuti muhimu kupitia vialamisho vyako**:
+- **Fikia tovuti muhimu kupitia vialamisho vyako**:
 
 
 
@@ -6227,11 +6227,11 @@ Je, umepokea barua pepe kutoka kwa ofisi ya ushuru iliyo na kiungo? Usibofye juu
 
 
 
-- Heshimu mazoea mazuri ya uthibitishaji** :
+- **Heshimu mazoea mazuri ya uthibitishaji** :
 
 
 
-Pia ni muhimu kufuata mazoea mazuri ya uthibitishaji ili kupunguza athari inayoweza kutokea ya shambulio la hadaa. Sheria mbili muhimu zaidi ni kutumia nywila za kipekee kwa kila huduma na kuwezesha 2FA.
+Pia ni muhimu kufuata mazoea mazuri ya uthibitishaji ili kupunguza athari inayoweza kutokea ya shambulio la hadaa. Sheria mbili muhimu zaidi ni kutumia password za kipekee kwa kila huduma na kuwezesha 2FA.
 
 
 
@@ -6239,17 +6239,17 @@ Hebu tuchukue mfano: ikiwa mshambuliaji ataweza kupata nenosiri la akaunti yako 
 
 
 
-Kando na hatua hizi, matumizi ya kidhibiti kizuri cha nenosiri kama kiendelezi cha kivinjari kinaweza pia kukulinda dhidi ya tovuti ghushi. Hakika, vingi vya viendelezi hivi vitagundua URL inayotiliwa shaka na kukataa kujaza kitambulisho chako kiotomatiki, au hata kukuarifu, jambo ambalo litakuzuia kufichua maelezo yako ya ufikiaji bila kukusudia.
+Kando na hatua hizi, matumizi ya kidhibiti kizuri cha nenosiri kama kiendelezi cha kivinjari yanaweza pia kukulinda dhidi ya tovuti ghushi. Hii ni kwa sababu viendelezi vingi vya aina hii hugundua URL zinazotiliwa shaka na kukataa kujaza kitambulisho chako kiotomatiki, au hata kukuarifu, jambo linalokuzuia kufichua maelezo yako ya ufikiaji bila kukusudia.
 
 
 
 
 
-- Kagua vyeti vya SSL/TLS**:
+- **Kagua vyeti vya SSL/TLS**:
 
 
 
-Aikoni ya kufuli kwenye upau wa Address inaonyesha muunganisho uliosimbwa kwa njia fiche, lakini haitoi hakikisho la uhalali wa tovuti. Bofya juu yake ili kuchunguza cheti (shirika, kikoa, mamlaka ya uthibitisho). yake inaweza kusaidia ikiwa una shaka kuhusu URL ya tovuti.
+Lock icon kwenye upau wa Address inaonyesha muunganisho uliosimbwa kwa njia fiche, lakini haitoi hakikisho la uhalali wa tovuti. Bofya juu yake ili kuchunguza cheti (shirika, kikoa, mamlaka ya uthibitisho). Hii inaweza kusaidia ikiwa una shaka kuhusu URL ya tovuti.
 
 
 
@@ -6281,7 +6281,7 @@ Kukagua viendelezi vyako mara kwa mara ni sehemu muhimu ya kuweka kivinjari chak
 
 
 
-Ugawanyaji wa shughuli ni mazoea muhimu ya kupunguza upeo wa maelewano kwenye wavuti. Inajumuisha kutenganisha kitaalam matumizi yako tofauti ya mtandao: kuvinjari kwa kibinafsi, kitaaluma, kwa faragha au nyeti.
+Ugawanyaji wa shughuli ni mazoea muhimu ya kupunguza upeo wa maelewano kwenye wavuti. Unahusisha kutenganisha kwa makusudi matumizi yako tofauti ya mtandao: kuvinjari binafsi, kitaaluma, kwa faragha au kwa shughuli nyeti.
 
 
 
@@ -6291,19 +6291,19 @@ Lengo ni rahisi: kuzuia tukio linalohusisha shughuli mahususi (kama vile kuvuja 
 
 
 
-- Tumia vivinjari kadhaa tofauti**: kwa mfano, Firefox kwa matumizi ya kibinafsi, Tor au Mullvad kwa shughuli nyeti, na Chromium kwa kazi za kitaalamu. Kila kivinjari hutumia mfano wake wa uhifadhi, ambao hutenganisha vidakuzi, vipindi na viendelezi. Hii pia hukuruhusu kubinafsisha mipangilio ya kivinjari kulingana na hali zako mahususi za utumiaji.
+- **Tumia vivinjari kadhaa tofauti**: kwa mfano, Firefox kwa matumizi ya kibinafsi, Tor au Mullvad kwa shughuli nyeti, na Chromium kwa kazi za kitaalamu. Kila kivinjari hutumia mfano wake wa uhifadhi, ambao hutenganisha vidakuzi, vipindi na viendelezi. Hii pia hukuruhusu kubinafsisha mipangilio ya kivinjari kulingana na hali zako mahususi za utumiaji.
 
 
 
 
 
-- Unda wasifu nyingi ndani ya kivinjari kimoja**: baadhi ya vivinjari hukuruhusu kuunda wasifu huru, kila moja ikiwa na historia yake, vipindi, viendelezi na mipangilio. Hili ni suluhisho la vikwazo kidogo kuliko kutumia vivinjari kadhaa tofauti, lakini bado halifai.
+- **Unda wasifu nyingi ndani ya kivinjari kimoja**: baadhi ya vivinjari hukuruhusu kuunda wasifu huru, kila moja ikiwa na historia yake, vipindi, viendelezi na mipangilio. Hili ni suluhisho la vikwazo kidogo kuliko kutumia vivinjari kadhaa tofauti, lakini bado halifai.
 
 
 
 
 
-- Tumia vyombo vilivyojengewa ndani**: Firefox inatoa kiendelezi cha [Vyombo vya Akaunti nyingi] (https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), ambayo hukuwezesha kufungua vichupo tofauti, kila kimoja kikiwa na kuingia na vidakuzi vyake. Unaweza pia kukabidhi tovuti fulani kiotomatiki kwa kontena mahususi, ili kuzitenganisha kila zinapofunguliwa.
+- **Tumia vyombo vilivyojengewa ndani**: Firefox inatoa kiendelezi cha [Vyombo vya Akaunti nyingi] (https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), ambayo hukuwezesha kufungua vichupo tofauti, kila kimoja kikiwa na kuingia na vidakuzi vyake. Unaweza pia kukabidhi tovuti fulani kiotomatiki kwa kontena mahususi, ili kuzitenganisha kila zinapofunguliwa.
 
 
 
@@ -6313,7 +6313,7 @@ Lengo ni rahisi: kuzuia tukio linalohusisha shughuli mahususi (kama vile kuvuja 
 
 
 
-- Tumia mazingira ya mfumo uliotengwa**: Kwa matumizi nyeti haswa, unaweza pia kuendesha kivinjari chako ndani ya mashine pepe au kontena ya Docker, ili kukitenga kabisa na mazingira yako kuu.
+- **Tumia mazingira ya mfumo uliotengwa**: Kwa matumizi nyeti haswa, unaweza pia kuendesha kivinjari chako ndani ya mashine pepe au kontena ya Docker, ili kukitenga kabisa na mazingira yako kuu.
 
 
 
@@ -6352,14 +6352,14 @@ Wakati wowote unapowasilisha maelezo ya kibinafsi, ya siri au ya kifedha kwa tov
 
 
 
-Hili ndilo jukumu haswa la HTTPS (*Itifaki ya Uhamisho wa HyperText Salama*). Itifaki hii inatokana na usimbaji fiche wa TLS (*Transport Layer Security*), ambayo huwezesha :
+Hili ndilo jukumu haswa la HTTPS (HyperText Transfer Protocol Secure). Itifaki hii inatokana na usimbaji fiche wa TLS (Transport Layer Security), ambayo huwezesha:
 
 
 
 
 - encrypt data kubadilishana (hakuna mtu anaweza kusoma au kurekebisha yao katika transit);
 - thibitisha uhalisi wa seva ya mbali kupitia cheti cha dijiti;
-- kuzuia mashambulizi ya mtu katikati (MITM), yanayotokea kwenye mitandao ya umma au iliyoathiriwa.
+- kuzuia mashambulizi ya Man-In-The-Middle (MITM), yanayotokea kwenye mitandao ya umma au iliyoathiriwa.
 
 
 
@@ -6375,7 +6375,7 @@ Kinyume chake, ikiwa tovuti bado inatumia HTTP (bila "S"), muunganisho haujasimb
 
 
 
-Kwa nadharia, unapaswa kuangalia habari hii mwenyewe kila wakati kabla ya kuingiza data kwenye wavuti. Kiutendaji, vivinjari vingi vya kisasa huripoti kiotomati tovuti za HTTP kama zisizo salama. Unaweza pia kuwezesha chaguo la kulazimisha matumizi ya itifaki ya HTTPS katika mipangilio ya usalama ya kivinjari chako, kukuwezesha kuzuia tovuti ambazo haziauni.
+Kwa nadharia, unapaswa kuangalia habari hii mwenyewe kila wakati kabla ya kuingiza data kwenye wavuti. Kiutendaji, vivinjari vingi vya kisasa huripoti kiotomati tovuti za HTTP kama zisizo salama. Unaweza pia kuwezesha chaguo la kulazimisha matumizi ya protocol ya HTTPS katika mipangilio ya usalama ya kivinjari chako, kukuwezesha kuzuia tovuti ambazo haziauni.
 
 
 
@@ -6387,7 +6387,7 @@ Kwa kweli, tovuti chache sana leo zinapatikana kupitia HTTP pekee. Itifaki hii k
 
 
 
-Kama ambavyo tumeona, ni muhimu kutofautisha kati ya Elements mbili ambazo mara nyingi huchanganyikiwa: kivinjari, ambacho ni programu iliyosakinishwa kwenye kompyuta yako (kama vile Firefox au Brave) na inayotumiwa kuonyesha kurasa za wavuti, na injini ya utafutaji, ambayo ni huduma ya mtandaoni (kama vile Google) ambayo unawasilisha maswali ili kupata matokeo. Elements hizi mbili zinajitegemea, ingawa vivinjari mara nyingi huunganisha injini fulani kwa chaguo-msingi.
+Kama ambavyo tumeona, ni muhimu kutofautisha kati ya vipengele viwili ambavyo mara nyingi huchanganyikiwa: kivinjari, ambacho ni programu iliyosakinishwa kwenye kompyuta yako (kama vile Firefox au Brave) na inayotumiwa kuonyesha kurasa za wavuti, na injini ya utafutaji, ambayo ni huduma ya mtandaoni (kama vile Google) ambayo unawasilisha maswali ili kupata matokeo. Vipengele hivi viwili vinajitegemea, ingawa vivinjari mara nyingi huunganisha injini fulani kwa chaguo-msingi.
 
 
 
@@ -6400,7 +6400,8 @@ Injini ya utafutaji unayotumia ina ushawishi wa moja kwa moja kwenye faragha yak
 
 
 
-- kuhusishwa na IP yako Address ikiwa hutumii Tor au VPN;
+- kuhusishwa na IP Address yakoa
+-  ikiwa hutumii Tor au VPN;
 - kuunganishwa na kuingia kwako na nenosiri ikiwa umeunganishwa kwenye akaunti;
 - kuhifadhiwa na kuchambuliwa ili kuunda wasifu wa tabia;
 - inatumika kwa utangazaji lengwa au kuuza tena kwa wahusika wengine.
@@ -6470,7 +6471,7 @@ Tofauti na kompyuta, simu za rununu kwa ujumla hufanya kazi kwenye mifumo iliyof
 Android sasa inatawala soko la kimataifa la simu mahiri, ikiwa na takriban 72% ya vifaa vinavyosambazwa. Maendeleo yake yalianza mwaka wa 2003 kwa kuundwa kwa Android Inc. na Andy Rubin, Rich Miner, Nick Sears na Chris White. Lengo lao la awali lilikuwa kubuni mfumo wa uendeshaji wa kamera za digital.
 
 
-Baada ya kukataliwa mara kadhaa na wawekezaji, Android Inc. iliamua kuelekeza upya mradi wake kuelekea uundaji wa mfumo wa uendeshaji wa simu za mkononi. Ili kuweka mazingira, mnamo 2003-2004, soko la simu za rununu lilikuwa likikua, likitawaliwa zaidi na watengenezaji kama vile Nokia, Motorola, Sony Ericsson na Samsung. Vifaa vingi vilikuwa "simu za asili", zilizo na kibodi halisi, skrini ndogo za rangi, na wakati mwingine kamera ya msingi. Simu mahiri tayari zilikuwepo, lakini zililenga wataalamu, na kubebwa na chapa kama vile BlackBerry.
+Baada ya kukataliwa mara kadhaa na wawekezaji, Android Inc. iliamua kuelekeza upya mradi wake kuelekea uundaji wa mfumo wa uendeshaji wa simu za mkononi. Ili kuweka mazingira, mnamo 2003-2004, soko la simu za rununu lilikuwa likikua, likitawaliwa zaidi na watengenezaji kama vile Nokia, Motorola, Sony Ericsson na Samsung. Vifaa vingi vilikuwa "simu za asili", zikiwa na kibodi halisi, skrini ndogo za rangi, na wakati mwingine kamera ya msingi. Simu mahiri tayari zilikuwepo, lakini zililenga zaidi wataalamu, na zilibebwa na chapa kama vile BlackBerry.
 
 
 Google ilinunua Android Inc. mnamo 2005 kwa karibu $50 milioni. Kati ya 2005 na 2007, kampuni ilitengeneza mfumo wake wa uendeshaji ndani, bila kufanya toleo la umma. Katika kipindi hiki, kulikuwa na uvumi kwamba Google ilikuwa ikitayarisha kifaa cha rununu, ikiwezekana kuchukua msukumo kutoka kwa BlackBerry, ambayo ilikuwa ikipata umaarufu haraka.
@@ -6503,10 +6504,10 @@ Android ilikumbwa na ongezeko la haraka: ilishinda iOS katika hisa mapema Julai 
 #### Chanzo huria dhidi ya Google
 
 
-Mradi wa Android unategemea uwili wa muundo. Kwa upande mmoja, AOSP (*Mradi huria wa Android*) inawakilisha msingi wa chanzo huria wa mfumo: inajumuisha kernel ya Linux, rundo la programu ya mfumo, michoro ndogo ya Interface na seti ya API. Msingi huu umechapishwa chini ya leseni ya Apache 2.0, na inabaki kupatikana kwa wote. Kwa upande mwingine, mazingira yanayotumiwa na watumiaji wengi wa Android hutegemea kwa karibu vipengele miliki vilivyotengenezwa na Google: *Huduma za Simu za Google* (GMS).
+Mradi wa Android unategemea uwili wa muundo. Kwa upande mmoja, AOSP (Android Open Source Project) inawakilisha msingi wa chanzo huria wa mfumo: inajumuisha kernel ya Linux, rundo la programu ya mfumo, michoro ndogo ya Interface na seti ya API. Msingi huu umechapishwa chini ya leseni ya Apache 2.0, na inabaki kupatikana kwa wote. Kwa upande mwingine, mazingira yanayotumiwa na watumiaji wengi wa Android hutegemea kwa karibu vipengele miliki vilivyotengenezwa na Google: Huduma za Simu za Google (Google Mobile Services – GMS), ambazo ni pakiti ya programu na API zinazojumuisha Google Play Store, Google Maps, Gmail, YouTube na Google Play Services zinazowezesha huduma muhimu kama arifa, eneo na uthibitishaji.
 
 
-Vipengele hivi si chanzo-wazi: haviwezi kukaguliwa kwa uhuru na jumuiya, wala kubadilishwa kwa urahisi. Ili kuzisakinisha mapema kwenye vifaa vyao, ni lazima watengenezaji watie saini mikataba ya leseni na Google na watii masharti magumu ya kiufundi na kibiashara. Mahitaji haya ni pamoja na:
+Vipengele hivi si chanzo-wazi: haviwezi kukaguliwa kwa uhuru na jumuiya, wala kubadilishwa kwa urahisi. Ili kuzisakinisha mapema kwenye vifaa vyao, ni lazima watengenezaji watie saini mikataba ya leseni na Google na watii masharti magumu ya kiufundi na kibiashara. Mahitaji haya ni pamoja na kuhakikisha upatanifu na (Compatibility Test Suite - CTS), kujumuisha seti ya programu za lazima za Google, na kuwezesha huduma muhimu kama (Google Play Services) ili mfumo uweze kufikia soko la programu na huduma nyingine za Google:
 
 
 
@@ -6518,7 +6519,7 @@ Vipengele hivi si chanzo-wazi: haviwezi kukaguliwa kwa uhuru na jumuiya, wala ku
 ![Image](assets/fr/132.webp)
 
 
-Hatua kwa hatua hii inajenga utegemezi wa kimuundo kwa watengenezaji simu mahiri, na kufanya utumaji wa data ya kibinafsi kwa seva za Google kuwa karibu kuepukika kwa mtumiaji wa mwisho. Huduma hizi zinalenga kuhakikisha utumiaji mzuri na thabiti, lakini pia kuweka utendakazi nyeti katikati kama vile hifadhi ya data kiotomatiki, uwekaji mahali pazuri, au uthibitishaji wa kudumu kupitia akaunti ya Google (mara nyingi huhitajika ili kutumia kifaa chako kikamilifu).
+Hatua kwa hatua hii inajenga utegemezi wa kimuundo kwa watengenezaji simu mahiri, na kufanya utumaji wa data ya kibinafsi kwa seva za Google kuwa karibu kuepukika kwa mtumiaji wa mwisho. Huduma hizi zinalenga kuhakikisha utumiaji mzuri na thabiti, lakini pia kuweka utendakazi nyeti katikati kama vile hifadhi ya data kiotomatiki, uwekaji mahali pazuri, au uthibitishaji wa kudumu kupitia akaunti ya (Google) (mara nyingi huhitajika ili kutumia kifaa chako kikamilifu).
 
 
 Ingawa Android inasalia, kwa nadharia, kuwa mfumo wa chanzo huria katika msingi wake, simu mahiri nyingi za Android zinazouzwa ulimwenguni kote zinaendeshwa kwa toleo lililorekebishwa na kuboreshwa na Google. Katika toleo hili, chanzo-wazi cha Layer kimefichwa kwa kiasi kikubwa chini ya umiliki, uliofungwa na ule unaoingiliana.
@@ -6533,7 +6534,7 @@ Ili kupata udhibiti tena, kwa hivyo ni muhimu kugeukia njia mbadala kama vile RO
 #### Historia fupi ya iOS
 
 
-iOS ni mfumo wa uendeshaji uliotengenezwa na Apple kwa ajili ya simu zake mahiri, ulioanzishwa na iPhone ya kwanza mwaka wa 2007 (wakati huo uliitwa "*iPhone OS*"). Tangu mwanzo, Apple imepitisha mkakati wa ujumuishaji kamili wa wima: maunzi, programu, mfumo wa uendeshaji, huduma za mtandaoni na duka la programu zote zimeundwa, kudhibitiwa na kudumishwa na Apple. Hapo awali, programu asilia ambazo hazijazalishwa na Apple hazikutumika hata. Njia hii inatofautiana sana na Android, ambayo mfumo wake wa ikolojia ulikuwa umegawanyika zaidi tangu mwanzo, na bado ni leo.
+iOS ni mfumo wa uendeshaji uliotengenezwa na Apple kwa ajili ya simu zake mahiri, ulioanzishwa na iPhone ya kwanza mwaka wa 2007 (wakati huo uliitwa (iPhone OS)). Tangu mwanzo, Apple imepitisha mkakati wa ujumuishaji kamili wa wima: maunzi, programu, mfumo wa uendeshaji, huduma za mtandaoni na duka la programu zote zimeundwa, kudhibitiwa na kudumishwa na Apple. Hapo awali, programu asilia ambazo hazijazalishwa na Apple hazikutumika hata. Njia hii inatofautiana sana na Android, ambayo mfumo wake wa ikolojia ulikuwa umegawanyika zaidi tangu mwanzo, na bado ni leo.
 
 
 ![Image](assets/fr/133.webp)
@@ -6555,7 +6556,7 @@ Usanifu huu uliofungwa huwezesha Apple kudhamini hali ya utumiaji maji na salama
 #### Hasara za kufunga iOS
 
 
-Hata hivyo, usalama huu unategemea kuzima kabisa kwa mtumiaji wa mwisho, ambaye kwa hakika hana udhibiti wa kiufundi juu ya kifaa chake. Haiwezekani kusakinisha programu isipokuwa kupitia Duka la Programu, isipokuwa kwa njia ya *mkakati wa jela*, operesheni changamano, hatari na mara nyingi isiyo thabiti ambayo hubatilisha dhamana na kuhatarisha usalama wa mfumo. Kanuni hii pia inasisitiza mtindo wa biashara wa Apple, ambao hutoza tume juu ya shughuli zinazofanywa katika maombi ya wahusika wengine.
+Hata hivyo, usalama huu unategemea kuzima kabisa kwa mtumiaji wa mwisho, ambaye kwa hakika hana udhibiti wa kiufundi juu ya kifaa chake. Haiwezekani kusakinisha programu isipokuwa kupitia Duka la Programu, isipokuwa kwa njia ya (jailbreak), operesheni changamano, hatari na mara nyingi isiyo thabiti ambayo hubatilisha dhamana na kuhatarisha usalama wa mfumo. Kanuni hii pia inasisitiza mtindo wa biashara wa Apple, ambao hutoza tume juu ya shughuli zinazofanywa katika maombi ya wahusika wengine.
 
 
 Ubinafsishaji pia ni mdogo sana. Haiwezekani kurekebisha kwa kina tabia ya mfumo, kubadilisha kwa uhuru mazingira ya wakati wa utekelezaji, au kufikia faili za mfumo moja kwa moja. Kwa hiyo, kwa mazoezi, smartphone inabakia mali ya Apple, hata baada ya ununuzi, kwa kuwa huna udhibiti kamili juu yake.
@@ -6579,7 +6580,7 @@ Hatimaye, kwa mujibu wa mamlaka ya kidijitali, iOS inawakilisha mazingira funge:
 ### njia mbadala za chanzo huria na Android
 
 
-Kama tulivyoona hivi punde, mfumo wa kawaida wa ikolojia wa Android, unaotawaliwa na Google, unatokana na toleo huria la mfumo (AOSP) lenye vipengee miliki (GMS). Miradi kadhaa ya programu huria inachukua fursa ya AOSP kutoa mifumo mbadala ya uendeshaji ambayo inaheshimu zaidi faragha, isiyo na mwingiliano unaoingiliana, na yenye udhibiti bora wa watumiaji. Hizi mbadala zimewekwa ili kuchukua nafasi ya mfumo asilia, kwa njia ya ROM zilizobinafsishwa. Wanakuwezesha kurejesha udhibiti wa programu, lakini pia zinahitaji udhibiti mdogo wa vifaa, kwa kuwa zinaendana na vifaa vichache tu.
+Kama tulivyoona hivi punde, mfumo wa kawaida wa ikolojia wa Android, unaotawaliwa na Google, unatokana na toleo huria la mfumo (Android Open Source Project - AOSP) lenye vipengele miliki (Google Mobile Services - GMS). Miradi kadhaa ya programu huria inachukua fursa ya AOSP kutoa mifumo mbadala ya uendeshaji ambayo inaheshimu zaidi faragha, isiyo na mwingiliano unaoingiliana, na yenye udhibiti bora wa watumiaji. Hizi mbadala zimewekwa ili kuchukua nafasi ya mfumo asilia, kwa njia ya (custom ROMs). Wanakuwezesha kurejesha udhibiti wa programu, lakini pia zinahitaji udhibiti mdogo wa vifaa, kwa kuwa zinaendana na vifaa vichache tu.
 
 
 #### Mahitaji ya maunzi na maonyo
@@ -6615,7 +6616,7 @@ Watengenezaji wengine hukataza au kutatiza operesheni hii, au hata kuzima kazi f
 ![Image](assets/fr/136.webp)
 
 
-GrapheneOS haijumuishi vipengele vya umiliki. Una uhuru wa kuongeza huduma za Google au la, lakini hizi zimetengwa kabisa (zimewekwa kwenye wasifu maalum). Hii inafanya mfumo kuwa sugu sana kwa mashambulizi ya ndani na utumiaji wa udhaifu wa mfumo.
+GrapheneOS haijumuishi vipengele vya umiliki. Una uhuru wa kuongeza huduma za Google au la, lakini hizi zimetengwa kabisa, zimewekwa kwenye wasifu maalum. Hii inafanya mfumo kuwa sugu sana kwa mashambulizi ya ndani na utumiaji wa udhaifu wa mfumo.
 
 
 Graphene inatumika tu na Google Pixels za hivi majuzi (Pixel 6, 7, 8 na 9).
@@ -6653,10 +6654,10 @@ Kwa upande wa usalama, hata hivyo, LineageOS haijumuishi ulinzi fulani wa maunzi
 ### Mfumo gani wa uendeshaji wa smartphone kwa matumizi gani?
 
 
-Wakati wa kuchagua mfumo wako wa uendeshaji wa simu mahiri, unahitaji kufahamu ubadilishanaji kati ya usalama, faragha, urahisi wa kutumia na utangamano wa programu. Kila suluhu ina vipengele mahususi vya kiufundi ambavyo vitaathiri moja kwa moja matumizi yako ya kila siku, uwezo wako wa kudhibiti, na kufichuliwa kwako kwa ufuatiliaji wa kibiashara au udhaifu.
+Wakati wa kuchagua mfumo wako wa uendeshaji wa simu mahiri, unahitaji kufahamu ubadilishanaji kati ya usalama, faragha, urahisi wa kutumia na utangamano wa programu. Kila suluhu lina vipengele mahususi vya kiufundi ambavyo vitaathiri moja kwa moja matumizi yako ya kila siku, uwezo wako wa kudhibiti, na kufichuliwa kwako kwa ufuatiliaji wa kibiashara au udhaifu.
 
 
-Android ya kawaida (iliyo na GMS) inasalia kuwa suluhisho lililoenea zaidi leo. Inatoa upatanifu kamili na programu zote za Android, urahisi wa kutumia na ufikiaji wa haraka wa huduma maarufu (Duka la Google Play, Ramani, Gmail...). Hata hivyo, urahisi huu wa utumiaji unategemea ujumuishaji thabiti wa huduma za umiliki za Google, na ukusanyaji wa data kwa utaratibu: Nafasi ya GPS, historia ya kuvinjari, metadata ya simu, mapendeleo ya utangazaji... Kwa hivyo ni chaguo mbaya ikiwa unajali kuhusu uhuru wako wa kidijitali au faragha.
+Android ya kawaida (iliyo na GMS) inasalia kuwa suluhisho lililoenea zaidi leo. Inatoa upatanifu kamili na programu zote za Android, urahisi wa kutumia na ufikiaji wa haraka wa huduma maarufu (Google Play Store, Ramani, Gmail...). Hata hivyo, urahisi huu wa utumiaji unategemea ujumuishaji thabiti wa huduma za umiliki za Google, na ukusanyaji wa data kwa utaratibu: nafasi ya GPS, historia ya kuvinjari, metadata ya simu, mapendeleo ya utangazaji... Kwa hivyo ni chaguo mbaya ikiwa unajali kuhusu uhuru wako wa kidijitali au faragha.
 
 
 Mfumo wa iOS wa Apple unajivunia kiwango cha juu cha usalama. Hata hivyo, usalama huu unaambatana na kufungwa sana kwa mazingira: Mtumiaji hawezi kusakinisha programu nje ya Hifadhi ya Programu (isipokuwa katika hali ndogo), hawezi kurekebisha tabia za mfumo, na anategemea kabisa Apple kwa ajili ya usimamizi wa maunzi, hifadhi ya wingu na ulandanishi. Ni mazingira bora na thabiti, lakini ambayo yanatoa aina yoyote ya ubinafsishaji au uhuru.
@@ -6688,7 +6689,7 @@ Bila kujali chaguo lako la mfumo wa uendeshaji wa simu, katika sura inayofuata t
 <chapterId>37b9499e-32cf-42c3-8715-15c6884d2ec7</chapterId>
 
 
-Katika sura iliyotangulia, tulichanganua masuala yanayohusiana na mifumo ya uendeshaji ya simu mahiri, na kuchunguza njia mbadala mbalimbali za kupata udhibiti mkubwa zaidi wa simu yako. Lakini kuchagua mfumo mzuri wa uendeshaji haitoshi: ili kuhakikisha usalama halisi na usiri, ni muhimu kupitisha mazoea machache mazuri katika matumizi yako ya kila siku.
+Katika sura iliyotangulia, tulichanganua masuala yanayohusiana na mifumo ya uendeshaji ya simu mahiri, na kuchunguza njia mbadala mbalimbali za kupata udhibiti mkubwa zaidi wa simu yako. Lakini kuchagua mfumo mzuri wa uendeshaji haitoshi: ili kuhakikisha usalama halisi na faragha, ni muhimu kupitisha mazoea machache mazuri katika matumizi yako ya kila siku.
 
 
 Katika sura hii, tutaangalia hatua kwa hatua baadhi ya mapendekezo ya kimsingi ambayo yanatumika bila kujali Mfumo wa Uendeshaji wa simu yako mahiri.
