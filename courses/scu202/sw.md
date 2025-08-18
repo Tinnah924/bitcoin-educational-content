@@ -5190,7 +5190,7 @@ Mnamo 1992, vivinjari vingine kadhaa vya majaribio vilionekana. Moja ya mashuhur
 
 
 
-Lakini ilikuwa mwaka wa 1993 ambapo Mtandao uliingia katika awamu ya ukuaji wa haraka na kuwasili kwa NCSA Mosaic. Kivinjari hiki kiliundwa na Marc Andreessen na Eric Bina katika NCSA (*Kituo cha Kitaifa cha Programu za Kompyuta Bora zaidi*) nchini Marekani. Mosaic ndicho kivinjari kikuu cha kwanza kuchanganya maandishi na picha kwa urahisi katika dirisha moja. Inaweza kuonyesha picha moja kwa moja katika kurasa za wavuti (miundo ya GIF na XBM), inayowakilisha mafanikio ya kimazingira ikilinganishwa na vivinjari vya maandishi kama vile Lynx. Musa pia ilianzisha usaidizi wa fomu, ikifungua njia ya mwingiliano wa kweli kati ya mtumiaji na seva za wavuti. Mosaic iliwekwa haraka kwa mifumo kadhaa ya uendeshaji (Windows, Mac, Unix), na kuifanya iwe rahisi kusambaza. Ndani ya mwaka mmoja, ikawa chombo cha kawaida cha kuchunguza Wavuti.
+Lakini ilikuwa mwaka wa 1993 ambapo Mtandao uliingia katika awamu ya ukuaji wa haraka kwa kuwasili kwa NCSA Mosaic. Kivinjari hiki kiliundwa na Marc Andreessen na Eric Bina katika NCSA (National Center for Supercomputing Applications) nchini Marekani. Mosaic ndicho kivinjari cha kwanza muhimu kilichochanganya maandishi na picha kwa urahisi katika dirisha moja. Kiliweza kuonyesha picha moja kwa moja kwenye kurasa za wavuti (miundo ya GIF na XBM), jambo lililokuwa mafanikio makubwa ikilinganishwa na vivinjari vya maandishi kama Lynx. Mosaic pia kilianzisha usaidizi wa fomu, kikifungua njia ya mwingiliano wa kweli kati ya mtumiaji na seva za wavuti. Iliwekwa haraka kwenye mifumo mbalimbali ya uendeshaji (Windows, Mac, Unix), na kuifanya iwe rahisi kusambaza. Ndani ya mwaka mmoja, kikawa chombo cha kawaida cha kuchunguza Wavuti.
 
 
 
@@ -5198,7 +5198,7 @@ Lakini ilikuwa mwaka wa 1993 ambapo Mtandao uliingia katika awamu ya ukuaji wa h
 
 
 
-Mnamo 1994, Marc Andreessen aliondoka NCSA na kuanzisha Netscape Communications na Jim Clark. Sehemu kubwa ya timu iliyomfanyia kazi Musa ilijiunga naye. Muda mfupi baadaye, kampuni inazindua Netscape Navigator, kivinjari kulingana na misingi ya Musa, lakini yenye utendakazi bora na maboresho ya kiufundi. Mnamo 1995, Netscape ilibuniwa kwa kuanzisha lugha ya JavaScript, iliyotengenezwa na Brendan Eich, ambayo iliwezesha kurasa za wavuti kuwa zenye nguvu, yaani, zenye uwezo wa kuguswa na vitendo vya mtumiaji bila kupakia upya ukurasa.
+Mnamo 1994, Marc Andreessen aliondoka NCSA na kuanzisha Netscape Communications pamoja na Jim Clark. Sehemu kubwa ya timu iliyokuwa ikifanya kazi kwenye Mosaic ilijiunga naye. Muda mfupi baadaye, kampuni hiyo ilizindua Netscape Navigator, kivinjari kilichojengwa juu ya misingi ya Mosaic lakini chenye utendakazi bora na maboresho ya kiufundi. Mnamo 1995, Netscape ilifanya mapinduzi kwa kuanzisha lugha ya JavaScript, iliyotengenezwa na Brendan Eich, ambayo iliwezesha kurasa za wavuti kuwa shirikishi, yaani, zenye uwezo wa kujibu vitendo vya mtumiaji bila kupakia upya ukurasa.
 
 
 
@@ -5206,7 +5206,7 @@ Mnamo 1994, Marc Andreessen aliondoka NCSA na kuanzisha Netscape Communications 
 
 
 
-Shukrani kwa urahisi wa matumizi, upatanifu wa jukwaa na kasi, Netscape Navigator ilijiimarisha haraka kama kiwango cha Wavuti kinachoibuka. Kufikia 1995, ilishikilia hadi 90% ya hisa ya soko, ikiashiria mwanzo wa enzi ya kwanza ya vivinjari vya wavuti. Mafanikio haya makubwa hivi karibuni yalisababisha Microsoft kujibu, na kusababisha vita vya kivinjari.
+Shukrani kwa urahisi wa matumizi, upatanifu wa majukwaa na kasi, Netscape Navigator ilijiimarisha haraka kama kiwango cha Mtandao kinachoibuka. Kufikia 1995, ilishikilia hadi 90% ya hisa ya soko, ikiashiria mwanzo wa enzi ya kwanza ya vivinjari vya wavuti. Mafanikio haya makubwa yalifanya Microsoft kujibu haraka, na hivyo kuanzisha vita vya vivinjari.
 
 
 
@@ -5214,7 +5214,7 @@ Shukrani kwa urahisi wa matumizi, upatanifu wa jukwaa na kasi, Netscape Navigato
 
 
 
-Mafanikio ya hali ya hewa ya Netscape Navigator katikati ya miaka ya 1990 hayakupotea kwenye Microsoft, ambayo iligundua haraka umuhimu wa kimkakati wa kivinjari cha wavuti katika siku zijazo za kompyuta. Mnamo Agosti 1995, siku chache baada ya Windows 95 kutolewa, Microsoft ilizindua toleo la kwanza la Internet Explorer, awali kulingana na leseni ya kibiashara ya msimbo wa chanzo wa Spyglass Mosaic (toleo tofauti la kibiashara la Musa kutoka kwa lile lililotengenezwa katika NCSA).
+Mafanikio makubwa ya Netscape Navigator katikati ya miaka ya 1990 hayakupita bila kutambuliwa na Microsoft, ambayo ilitambua haraka umuhimu wa kimkakati wa kivinjari cha wavuti kwa siku zijazo za kompyuta. Mnamo Agosti 1995, siku chache baada ya Windows 95 kutolewa, Microsoft ilizindua toleo la kwanza la Internet Explorer, ambalo awali lilitokana na leseni ya kibiashara ya msimbo wa chanzo wa Spyglass Mosaic (toleo la kibiashara la Mosaic, tofauti na lile lililotengenezwa katika NCSA).
 
 
 
@@ -5249,7 +5249,7 @@ Ukiritimba huu wa mtandaoni ulisababisha kushuka sana kwa uvumbuzi. Bila mshinda
 
 
 
-Kwa kufahamu kwamba haiwezi kushindana tena kibiashara, Netscape iliamua kutoa msimbo wake wa chanzo kwa jumuiya mwaka wa 1998. Huu ulikuwa ni kuzaliwa kwa mradi wa Mozilla, ambao uliashiria hatua ya kugeuka: maendeleo ya kivinjari cha bure, kinachozingatia viwango, kinachoungwa mkono na msingi wa kujitegemea.
+Kwa kutambua kwamba haiwezi tena kushindana kibiashara, Netscape iliamua kutoa msimbo wake wa chanzo kwa jumuiya mnamo 1998. Hatua hii ilizaa mradi wa Mozilla, uliokuwa hatua ya mabadiliko: maendeleo ya kivinjari cha bure, kinachozingatia viwango, na kinachoungwa mkono na shirika huru.
 
 
 
@@ -5284,7 +5284,7 @@ Firefox pia ilianzisha ubunifu kadhaa ambao ungekuwa na athari ya kudumu kwenye 
 
 
 
-Uzito wake mwepesi, unyumbulifu na heshima kwa viwango vilivutia haraka watumiaji wa hali ya juu, wasanidi wa wavuti na mtu yeyote anayetafuta njia mbadala iliyo wazi zaidi ya Internet Explorer. Kufikia 2005, Firefox ilikuwa imevuka sehemu ya soko ya 10%, mafanikio makubwa dhidi ya kivinjari kilichosakinishwa awali kwenye Kompyuta zote za Windows.
+Uzito wake mwepesi, unyumbufu na heshima kwa viwango ulivutia haraka watumiaji wa hali ya juu, wasanidi wa wavuti, na yeyote aliyekuwa akitafuta mbadala ulio wazi zaidi wa Internet Explorer. Kufikia mwaka 2005, Firefox ilikuwa imevuka sehemu ya soko ya 10%, mafanikio makubwa dhidi ya kivinjari kilichosakinishwa awali kwenye kompyuta zote za Windows.
 
 
 
@@ -5300,7 +5300,7 @@ Safari ikawa kivinjari chaguo-msingi kwenye Mac zote ikianza na Mac OS X Panther
 
 
 
-Mipango hii ilifufua ushindani wa kiteknolojia, ikidhoofisha hatua kwa hatua utawala wa Internet Explorer, na kuweka njia kwa kizazi kipya cha vivinjari ambavyo vina kasi zaidi, vinavyotii viwango, na vinavyozingatia zaidi ustadi, usalama na utendakazi. Kati ya 2006 na 2008, Internet Explorer ilipoteza soko polepole, huku Firefox ikijiimarisha kama mbadala kuu kuu. Muktadha huu ulifungua njia ya kuwasili kwa mchezaji mpya mkuu: Google Chrome.
+Mipango hii ilifufua ushindani wa kiteknolojia, ikidhoofisha hatua kwa hatua utawala wa Internet Explorer, na kuweka njia kwa kizazi kipya cha vivinjari vyenye kasi zaidi, vinavyotii viwango, na vinavyozingatia zaidi ustadi, usalama na utendakazi. Kati ya 2006 na 2008, Internet Explorer ilianza kupoteza soko taratibu, huku Firefox ikijiimarisha kama mbadala kuu. Katika muktadha huu, mlango ukafunguliwa kwa kuwasili kwa mchezaji mpya mkuu: Google Chrome.
 
 
 
@@ -5326,7 +5326,7 @@ Chrome hapo awali ilitegemea nguzo mbili za kiufundi:
 
 
 
-Lakini mafanikio halisi ya Chrome yanatokana na usanifu wake wa michakato mingi. Kila kichupo kinaendeshwa kwa utaratibu uliojitenga, kwa kutumia mbinu ya sandboxing inayozuia ukurasa hasidi kuhatarisha kivinjari kizima. Kutengwa huku pia kunaboresha uthabiti: kichupo kimoja kikiacha kufanya kazi, vingine hudumu. Kando na hiyo ni Interface inayozingatia maudhui ya chini kabisa, isiyo na upau wa menyu, upau wa pamoja wa Address na utafutaji (*Sanduku Kuu*), na masasisho ya chinichini yasiyo na sauti.
+Lakini mafanikio halisi ya Chrome yanatokana na usanifu wake wa michakato mingi. Kila kichupo huendeshwa kwa mchakato uliojitenga, kwa kutumia mbinu ya sandboxing inayozuia ukurasa hasidi kuhatarisha kivinjari kizima. Utengaji huu pia huboresha uthabiti: kichupo kimoja kikiacha kufanya kazi, vingine huendelea. Zaidi ya hayo, kuna Interface inayozingatia maudhui pekee, isiyo na upau wa menyu, yenye upau wa pamoja wa Address na utafutaji (Omnibox), pamoja na masasisho ya chinichini yasiyo na usumbufu.
 
 
 
@@ -5338,7 +5338,7 @@ Ikiungwa mkono na chapa ya Google na kampeni nzuri ya uuzaji, Chrome ilipata seh
 
 
 
-Mnamo 2013, Google ilitangaza mabadiliko makubwa ya kimkakati: ingekuwa Fork WebKit kuunda injini mpya ya uwasilishaji huru, inayoitwa Blink. Fork hii inaelezewa na tofauti za kiufundi na shirika na Apple, haswa karibu na usanifu wa injini na ujumuishaji wa huduma za majaribio. Blink ikawa injini ya kipekee ya Chrome kutoka toleo la 28 na kuendelea, na baadaye ilipitishwa na vivinjari vingine vingi: Opera (ambayo iliachana na Presto mnamo 2013), Vivaldi, Brave, Microsoft Edge (tangu 2020), na zingine.
+Mnamo 2013, Google ilitangaza mabadiliko makubwa ya kimkakati: ingekuwa fork ya WebKit ili kuunda injini mpya ya uwasilishaji huru, inayoitwa Blink. Fork hii ilichochewa na tofauti za kiufundi na shirika na Apple, hasa kuhusiana na usanifu wa injini na ujumuishaji wa huduma za majaribio. Blink ikawa injini ya kipekee ya Chrome kuanzia toleo la 28 na kuendelea, na baadaye ikapitishwa na vivinjari vingine vingi: Opera (iliyoachana na Presto mnamo 2013), Vivaldi, Brave, Microsoft Edge (tangu 2020), na vingine.
 
 
 
@@ -5354,7 +5354,7 @@ Chrome imefafanua kwa kina utendakazi, usalama na viwango vya ergonomic vya vivi
 
 
 
-Injini ya uwasilishaji ndio sehemu kuu ya kivinjari cha wavuti. Jukumu lake kuu ni kutafsiri faili zilizopokelewa kutoka kwa seva (HTML, CSS, JavaScript, picha, fonti...) hadi generate kielelezo shirikishi cha Interface. Injini ya uwasilishaji ni kama mkalimani kati ya lugha za wavuti na skrini yako, inayotafsiri mistari ya msimbo kuwa ukurasa unaoonekana, unaoingiliana na unaofanya kazi.
+Injini ya uwasilishaji ndio sehemu kuu ya kivinjari cha wavuti. Jukumu lake kuu ni kutafsiri faili zilizopokelewa kutoka kwa seva (HTML, CSS, JavaScript, picha, fonti...) ili kutengeneza kielelezo shirikishi cha Interface. Injini ya uwasilishaji ni kama mkalimani kati ya lugha za wavuti na skrini yako, ikibadilisha mistari ya msimbo kuwa ukurasa unaoonekana, unaoingiliana na unaofanya kazi.
 
 
 
