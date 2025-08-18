@@ -3669,7 +3669,7 @@ Baadhi ya programu ni nyeti zaidi kuliko zingine, kwa sababu inaingiliana moja k
 
 
 
-- *Antivirus, ngome na suluhisho zingine za ugunduzi*: zana hizi kwa ujumla hufurahia mapendeleo ya hali ya juu, kwani huchanganua faili zako, michakato na miunganisho ya mtandao kila mara. Saini ya msingi iliyopitwa na wakati, usanidi duni au athari katika programu yenyewe inaweza kuruhusu programu hasidi kwenda bila kutambuliwa, au hata kupata upendeleo wa hali ya juu.
+- Antivirus, firewalls, na suluhisho zingine za ugunduzi: zana hizi kwa kawaida huwa na high privileges, kwani huchanganua files zako, processes, na network connections kila mara. Signature database iliyopitwa na wakati, poor configuration, au udhaifu katika programu yenyewe unaweza kuruhusu malware kupita bila kutambuliwa, au hata kupata high-level privileges.
 
 
 
@@ -3699,7 +3699,7 @@ Amri hii inaulizia hazina za umma za matoleo mapya zaidi ya programu uliyo nayo,
 
 
 
-Kwa bahati mbaya, amri hii haifanyi kazi kwa programu zote. Ndiyo maana ninapendekeza uandike orodha ya programu zako zote na ufuatilie updates mara kwa mara, hasa kwa programu nyeti. Kwa programu muhimu zaidi, kama antivirus au web browser yako, nakushauri ufanye ukaguzi huu kila siku.
+Kwa bahati mbaya, amri hii haifanyi kazi kwa programu zote. Ndiyo maana ninapendekeza uandike orodha ya programu zako zote na uzifuatilie updates mara kwa mara, hasa zile nyeti. Kwa programu muhimu zaidi, kama antivirus au web browser yako, nakushauri ufanye ukaguzi huu kila siku.
 
 
 
@@ -3864,7 +3864,7 @@ Browser extensions na add-ons mara nyingi hupuuzwa, lakini pia ni attack vector 
 
 
 
-Nenda kwenye mipangilio ya kivinjari chako na uzime au ufute viendelezi vyovyote ambavyo hutumii au hujui kuvihusu. Weka tu zile ambazo ni muhimu sana, kutoka kwa vyanzo vinavyoaminika na ambazo bado zimetunzwa.
+Nenda kwenye browser settings zako na uzime au ufute extensions zozote ambazo hutumii au huzifahamu. Acha tu zile ambazo ni muhimu, zinatoka kwa vyanzo vinavyoaminika, na bado zinatunzwa.
 
 
 
@@ -3884,13 +3884,13 @@ Ukiweka utaratibu wa ukaguzi (hata ule wa msingi) unaweza kugundua kuwepo kwa pr
 
 
 
-Kama tulivyoona katika sehemu iliyotangulia, Windows kihistoria imekuwa ikikabiliwa zaidi na mashambulio ya kompyuta, kwa sababu ya kupitishwa kwa upana na sifa za kiufundi. Kwa hivyo ni muhimu kuongezea ulinzi wa kimsingi na zana za juu za utambuzi:
+Kama tulivyoona katika sehemu iliyotangulia, Windows kihistoria imekuwa ikilengwa zaidi na mashambulio ya kompyuta, kutokana na matumizi yake ya upana na sifa zake za kiufundi. Kwa hivyo, ni muhimu kuongeza ulinzi wa msingi kwa kutumia advanced detection tools:
 
 
 
 
 
-- Microsoft Defender*: kwenye Windows, kuwa na antivirus nzuri ni hitaji la msingi. Kwa miaka mingi, Microsoft Defender (zamani Windows Defender), antivirus iliyojengwa ndani ya mfumo, ilionekana kuwa haiwezi kutegemewa, na ufumbuzi wa tatu ulipendekezwa badala yake. Lakini programu hii imeboreshwa sana kwa wakati, na sasa, kwa maoni yangu, inatosha kutoa ulinzi wa kimsingi kwa matumizi ya kibinafsi. Hiyo ilisema, hatupaswi kukadiria kupita kiasi jukumu la programu ya kingavirusi: ni juu ya mazoea yako yote ya kidijitali ambayo yanahakikisha usalama wako. Moja ya faida za Defender ni ujumuishaji wake wa asili na Windows. Kando na ulinzi wa wakati halisi, inatoa uchanganuzi wa kina ambao unaweza kuratibu kila wiki au kukimbia mwenyewe kwa vipindi vya kawaida.
+- *Microsoft Defender*: kwenye Windows, kuwa na antivirus nzuri ni hitaji la msingi. Kwa miaka mingi, Microsoft Defender (zamani Windows Defender), antivirus iliyojengwa ndani ya mfumo, ilionekana kuwa haiwezi kutegemewa, na ufumbuzi wa tatu ulipendekezwa badala yake. Lakini programu hii imeboreshwa sana kwa wakati, na sasa, kwa maoni yangu, inatosha kutoa ulinzi wa kimsingi kwa matumizi ya kibinafsi. Hiyo ilisema, hatupaswi kukadiria kupita kiasi jukumu la programu ya kingavirusi: ni juu ya mazoea yako yote ya kidijitali ambayo yanahakikisha usalama wako. Moja ya faida za Defender ni ujumuishaji wake wa asili na Windows. Kando na ulinzi wa wakati halisi, inatoa uchanganuzi wa kina ambao unaweza kuratibu kila wiki au kukimbia mwenyewe kwa vipindi vya kawaida.
 
 
 
@@ -3900,12 +3900,12 @@ Kama tulivyoona katika sehemu iliyotangulia, Windows kihistoria imekuwa ikikabil
 
 
 
-- Sysinternals Suite*: hii ni seti ya juu zaidi ya zana zinazotolewa na Microsoft kwa ajili ya kuchunguza, kufuatilia na kutatua Windows. Hapa kuna zana kuu katika seti hii:
-    - Ufuatiliaji wa Mchakato*: hukuruhusu kutazama michakato inayotumika, ufikiaji wa faili, rejista, nk kwa wakati halisi;
-    - Autoruns*: huonyesha programu zote zilizozinduliwa wakati wa kuanzishwa, kukusaidia kugundua kwa haraka programu hasidi inayoendelea au programu ambazo hazifai kuendeshwa;
-    - Mchakato wa Kichunguzi*: hufuatilia michakato na kugundua tabia ya kutiliwa shaka;
-    - TCPView*: hutazama miunganisho amilifu ya mtandao (ugunduzi wa miunganisho isiyo ya kawaida);
-    - Sigcheck*: hukagua sahihi za dijitali kwenye faili ili kupata msimbo hasidi.
+- *Sysinternals Suite*: hii ni seti ya juu zaidi ya zana zinazotolewa na Microsoft kwa ajili ya kuchunguza, kufuatilia na kutatua Windows. Hapa kuna zana kuu katika seti hii:
+    - *Ufuatiliaji wa Mchakato*: hukuruhusu kutazama michakato inayotumika, ufikiaji wa faili, rejista, nk kwa wakati halisi;
+    - *Autoruns*: huonyesha programu zote zilizozinduliwa wakati wa kuanzishwa, kukusaidia kugundua kwa haraka programu hasidi inayoendelea au programu ambazo hazifai kuendeshwa;
+    - *Mchakato wa Kichunguzi*: hufuatilia michakato na kugundua tabia ya kutiliwa shaka;
+    - *TCPView*: hutazama miunganisho amilifu ya mtandao (ugunduzi wa miunganisho isiyo ya kawaida);
+    - *Sigcheck*: hukagua sahihi za dijitali kwenye faili ili kupata msimbo hasidi.
 
 
 
@@ -3915,7 +3915,7 @@ Kama tulivyoona katika sehemu iliyotangulia, Windows kihistoria imekuwa ikikabil
 
 
 
-- GlassWire*: zana ya ufuatiliaji wa mtandao. Hufuatilia miunganisho inayoingia na inayotoka kwa wakati halisi, na kukuarifu kuhusu shughuli isiyo ya kawaida.
+- *GlassWire*: zana ya ufuatiliaji wa mtandao. Hufuatilia miunganisho inayoingia na inayotoka kwa wakati halisi, na kukuarifu kuhusu shughuli isiyo ya kawaida.
 
 
 
@@ -3933,7 +3933,7 @@ Kwenye mashine ya Linux iliyotunzwa vizuri inayotumika kwa madhumuni ya kibinafs
 
 
 
-- Fail2ban*: hufuatilia kumbukumbu za mfumo kwa majaribio ambayo hayajafaulu (kama vile majaribio ya kuingia kwa SSH ya nguvu ya kikatili). Wakati tabia ya kutiliwa shaka inapogunduliwa, hupiga marufuku kwa muda IP dhalimu Address kupitia `iptables` ;
+- *Fail2ban*: Hufuatilia system logs kwa failed attempts (kama vile brute-force SSH login attempts). Wakati suspicious behavior inagunduliwa, huweka temporary ban IP dhalimu Address kupitia `iptables` ;
 
 
 
@@ -3943,7 +3943,7 @@ Kwenye mashine ya Linux iliyotunzwa vizuri inayotumika kwa madhumuni ya kibinafs
 
 
 
-- Lynis*: zana ya kina ya ukaguzi wa usalama ambayo huchanganua mfumo wako kwa usanidi usiofaa, udhaifu unaojulikana au mikengeuko kutoka kwa utendaji bora. Hutoa ripoti ambayo ni rahisi kusoma, yenye alama za usalama na mapendekezo.
+- *Lynis*: Zana ya kina ya ukaguzi wa usalama ambayo huchanganua mfumo wako kwa misconfiguration, known vulnerabilities au mikengeuko kutoka kwa best practices. Hutoa ripoti ambayo ni rahisi kusoma, yenye alama za usalama na mapendekezo.
 
 
 
@@ -3962,7 +3962,7 @@ macOS inajulikana kwa usalama wake, shukrani haswa kwa sera zake za saini za utu
 
 
 
-- KnockKnock*: huchanganua Elements zote zilizosanidiwa ili kuendeshwa wakati wa kuanza (mawakala, daemoni, moduli za kernel...) na kubainisha zile ambazo zinaweza kutiliwa shaka, ambazo hazijatiwa saini au zisizojulikana. Inakuruhusu kutambua haraka uendelevu hasidi kwenye mfumo wako.
+- *KnockKnock*: huchanganua Elements zote zilizosanidiwa ili kuendeshwa wakati wa kuanza (mawakala, daemoni, moduli za kernel...) na kubainisha zile ambazo zinaweza kutiliwa shaka, ambazo hazijatiwa saini au zisizojulikana. Inakuruhusu kutambua haraka uendelevu hasidi kwenye mfumo wako.
 
 
 
@@ -3974,11 +3974,11 @@ macOS inajulikana kwa usalama wake, shukrani haswa kwa sera zake za saini za utu
 
 
 
-Usalama bora wa kompyuta haupatikani kwa kusakinisha zana maalum mara moja, lakini kwa matengenezo ya mara kwa mara, ya ukali na ya utaratibu. Kusasisha mfumo wako wa uendeshaji, kuboresha programu muhimu, kufuta programu zisizo za lazima na kufuatilia kikamilifu mfumo ni msingi wa matengenezo mazuri. Kwa ujumla zaidi, mbinu hizi bora hutumika kwa zana zako zote za kidijitali: vitu vilivyounganishwa, seva, simu mahiri...
+Usalama bora wa kompyuta haupatikani kwa kusakinisha tool maalum mara moja, lakini kwa matengenezo ya mara kwa mara, ya ukali na ya utaratibu. Kusasisha operating system yako, kuboresha critical software, kufuta programu zisizo za lazima na kufuatilia kikamilifu mfumo ni msingi wa matengenezo mazuri. Kwa ujumla zaidi, best practices hizi hutumika kwa digital tools zako zote: connected devices, servers, smartphones...
 
 
 
-Katika sura inayofuata, tutaangalia jinsi unavyoweza kuepuka kusakinisha programu hasidi kwa vitendo, kwa kujifunza jinsi ya kuangalia uadilifu na uhalisi wa faili unazopakua kwenye kompyuta yako.
+Katika sura inayofuata, tutaangalia jinsi unavyoweza kuepuka kusakinisha malware kwa vitendo, kwa kujifunza jinsi ya kuangalia integrity na authenticity ya files unazopakua kwenye kompyuta yako.
 
 
 
@@ -3994,11 +3994,11 @@ Kusakinisha programu kwenye kompyuta yako kunaweza kuonekana kama operesheni ndo
 
 
 
-Kwa hivyo, kuangalia uadilifu na uhalisi wa programu kabla ya kusakinisha ni mbinu muhimu sana ya usalama, hasa inapokuja kwa programu nyeti kama vile pochi za Bitcoin au wasimamizi wa nenosiri. Zoezi hili huhakikisha kuwa programu iliyopakuliwa inalingana haswa na ile iliyochapishwa na msanidi asili, bila kubadilishwa.
+Kwa hivyo, kuangalia integrity na authenticity ya programu kabla ya kusakinisha ni mbinu muhimu sana ya usalama, hasa inapokuja kwa programu nyeti kama vile Bitcoin wallets au password managers. Zoezi hili huhakikisha kuwa programu iliyopakuliwa inalingana haswa na ile iliyotolewa na developer wa asili, bila kubadilishwa.
 
 
 
-Katika sura hii, tutaangalia jinsi ya kuangalia uadilifu na uhalisi wa faili, na jinsi ya kuitekeleza kwenye mfumo wako wa uendeshaji.
+Kwa hivyo, kuangalia integrity na authenticity ya programu kabla ya kusakinisha ni mbinu muhimu sana ya usalama, hasa inapokuja kwa programu nyeti kama vile Bitcoin wallets au password managers. Zoezi hili huhakikisha kuwa programu iliyopakuliwa inalingana haswa na ile iliyotolewa na developer wa asili, bila kubadilishwa.
 
 
 
@@ -4006,7 +4006,7 @@ Katika sura hii, tutaangalia jinsi ya kuangalia uadilifu na uhalisi wa faili, na
 
 
 
-Unapopakua programu kutoka kwa Mtandao, unaamini kabisa faili kuendeshwa kwenye mashine yako. Lakini uaminifu huu haupaswi kamwe kuwa kipofu. Kwa hivyo ni muhimu kuelewa dhana mbili za kimsingi: uadilifu wa faili na uhalisi.
+Unapopakua programu kutoka kwenye mtandao, unaamini kabisa files zitakazotekelezwa kwenye mashine yako. Lakini uaminifu huu haupaswi kamwe kuwa bila uthibitisho. Kwa hivyo, ni muhimu kuelewa dhana mbili za msingi: integrity ya files na authenticity.
 
 
 
@@ -4014,7 +4014,7 @@ Unapopakua programu kutoka kwa Mtandao, unaamini kabisa faili kuendeshwa kwenye 
 
 
 
-Uadilifu wa faili huhakikisha kuwa haijarekebishwa, kwa makusudi au bila kukusudia, kati ya wakati ilipochapishwa na msanidi programu na wakati ulipoipakua. Hata urekebishaji mdogo unaweza kutosha kuingiza msimbo hasidi kwenye programu.
+Integrity ya file huhakikisha kuwa halijarekebishwa, kwa makusudi au bila kukusudia, kati ya wakati lilipotolewa na developer na wakati ulipopakuliwa. Hata modification ndogo inaweza kutosha kuingiza malicious code kwenye programu.
 
 
 
@@ -4026,7 +4026,7 @@ Marekebisho haya hayaonekani kwa jicho la uchi: faili iliyopakuliwa inaweza kufu
 
 
 
-Faili inaweza kuwa nzima (haijabadilishwa), lakini imechapishwa na huluki hasidi inayonyakua utambulisho wa msanidi halali. Kwa hivyo uhalisi unalenga kuthibitisha kwamba faili kweli inatoka kwa chanzo rasmi, na si kutoka kwa tapeli, tovuti ya kioo ambayo haijathibitishwa, au mdukuzi ambaye amehatarisha seva ya usambazaji.
+File inaweza kuwa nzima (haijabadilishwa), lakini ikatolewa na huluki hasidi inayojifanya kuwa developer halali. Ndiyo maana authenticity inalenga kuthibitisha kwamba file kweli limetoka kwa chanzo rasmi, na si kutoka kwa tapeli, mirror site isiyothibitishwa, au hacker ambaye ame compromise server ya usambazaji.
 
 
 
