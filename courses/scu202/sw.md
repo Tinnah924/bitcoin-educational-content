@@ -6698,10 +6698,10 @@ Katika sura hii, tutaangalia hatua kwa hatua baadhi ya mapendekezo ya kimsingi a
 ### Sasisho
 
 
-Nitajirudia hapa, lakini kila sasisho linalotolewa na wasanidi programu linaweza kujumuisha alama muhimu za usalama. Zaidi ya hayo, simu mahiri hukabiliwa na hatari nyingi kutokana na eneo lao kubwa la mashambulizi: Kupitia mitandao ya simu, programu za wahusika wengine, mawasiliano yasiyotumia waya (Wi-Fi, Bluetooth, NFC, n.k.).
+Nitajirudia hapa, lakini kila sasisho linalotolewa na wasanidi programu linaweza kujumuisha alama muhimu za usalama. Zaidi ya hayo, simu mahiri hukabiliwa na hatari nyingi kutokana na eneo lao kubwa la mashambulizi: kupitia mitandao ya simu, programu za wahusika wengine, mawasiliano yasiyotumia waya (Wi-Fi), Bluetooth, NFC, n.k.).
 
 
-Kutotumia masasisho haya kunamaanisha kuacha kwa makusudi udhaifu ulio wazi unaojulikana, uliorekodiwa hadharani katika hifadhidata kama vile CVE (*Madhara ya Kawaida na Mfiduo*). Dosari hizi wakati mwingine hutumiwa kiotomatiki na zana zinazopatikana mtandaoni, bila hata kuhitaji ujuzi wa hali ya juu. Hii hufanya simu iliyopitwa na wakati kuwa lengo bora, hata kwa mashambulizi makubwa ya kiotomatiki.
+Kutotumia masasisho haya kunamaanisha kuacha kwa makusudi udhaifu ulio wazi unaojulikana, uliorekodiwa hadharani katika hifadhidata kama vile CVE (Common Vulnerabilities and Exposures). Dosari hizi wakati mwingine hutumiwa kiotomatiki na zana zinazopatikana mtandaoni, bila hata kuhitaji ujuzi wa hali ya juu. Hii hufanya simu iliyopitwa na wakati kuwa lengo bora, hata kwa mashambulizi makubwa ya kiotomatiki.
 
 
 ![Image](assets/fr/139.webp)
@@ -6752,7 +6752,7 @@ Kwenye simu mahiri, programu yoyote inaweza kuomba ufikiaji wa moja kwa moja kwa
 ![Image](assets/fr/141.webp)
 
 
-Kwa mfano, programu ya tochi haihitaji ufikiaji wa anwani zako au eneo la kijiografia. Programu ya hali ya hewa inaweza kufanya kazi na ujanibishaji wa mikono, bila ufikiaji wa GPS. Kisomaji cha PDF hakihitaji kutumia maikrofoni au SMS. Ikiwa una shaka, kataa kila wakati kwa chaguo-msingi, kisha tathmini upya ikiwa programu haifanyi kazi ipasavyo. Katika baadhi ya mifumo, inawezekana pia kutoa uidhinishaji kwa muda tu: ama kwa matumizi moja, au tu wakati programu inaendeshwa. Hii inazuia programu kutumia ruhusa fulani chinichini bila ufahamu wako.
+Kwa mfano, flashlight app haihitaji ufikiaji wa anwani zako au eneo la kijiografia. Programu ya hali ya hewa inaweza kufanya kazi na ujanibishaji wa mikono, bila ufikiaji wa GPS. Kisomaji cha PDF hakihitaji kutumia maikrofoni au SMS. Ikiwa una shaka, kataa kila wakati kwa chaguo-msingi, kisha tathmini upya ikiwa programu haifanyi kazi ipasavyo. Katika baadhi ya mifumo, inawezekana pia kutoa uidhinishaji kwa muda tu: ama kwa matumizi moja, au tu wakati programu inaendeshwa. Hii inazuia programu kutumia ruhusa fulani chinichini bila ufahamu wako.
 
 
 Android na iOS sasa zinatoa udhibiti wa ruhusa wa punjepunje. Unaweza kuzidhibiti kwa kutumia programu au kwa aina ya ruhusa. Chukua muda, mara moja kwa mwezi kwa mfano, kuangalia ruhusa zinazotumika kupitia mipangilio ya simu yako.
@@ -6764,13 +6764,13 @@ Mifumo mingine pia hukuruhusu kubatilisha kiotomatiki uidhinishaji uliotolewa kw
 ### Kufunga skrini
 
 
-Usalama wa kimwili wa smartphone huanza na skrini yake ya kufunga. Hiki ndicho kikwazo cha kwanza kati ya mvamizi anayewezekana na ufikiaji wa data yako ya kibinafsi. Njia ya kuaminika zaidi bado ni nambari ya siri au nenosiri ngumu.
+Usalama wa kimwili wa smartphone huanza na skrini yake ya kufunga. Hiki ndicho kikwazo cha kwanza kati ya mvamizi anayewezekana na ufikiaji wa data yako ya kibinafsi. Njia ya kuaminika zaidi bado ni PIN au nenosiri ngumu.
 
 
-Kwa upande mwingine, njia za kufungua kama vile mipango ya picha zimekatishwa tamaa sana. Mipango kama hii huacha alama za ufuatiliaji zinazoonekana kwenye skrini, ni rahisi kukariri kwa mtu mwingine anayetazama ishara yako, na mara chache huwa changamano vya kutosha.
+Kwa upande mwingine, njia za kufungua kama vile pattern unlock zimekatishwa tamaa sana. Mifumo kama hii huacha alama za ufuatiliaji zinazoonekana kwenye skrini, ni rahisi kukariri kwa mtu mwingine anayetazama ishara yako, na mara chache huwa changamano vya kutosha.
 
 
-Mifumo ya kibayometriki (utambuzi wa uso au alama za vidole) hutoa urahisi wa dhahiri, lakini inapaswa kutumiwa kwa tahadhari. Katika tukio la kizuizi cha kimwili (wizi, shinikizo la polisi, nk), alama ya vidole au uso inaweza kutumika bila idhini yako ya kazi. Katika baadhi ya nchi, matumizi ya bayometriki hayafurahii ulinzi wa kisheria kama usiri wa nenosiri.
+Mifumo ya kibayometriki (utambuzi wa uso au alama za vidole) hutoa urahisi wa wazi, lakini inapaswa kutumiwa kwa tahadhari. Katika tukio la kizuizi cha kimwili (wizi, shinikizo la polisi, n.k.), alama ya vidole au uso inaweza kutumika bila idhini yako ya moja kwa moja. Katika baadhi ya nchi, matumizi ya kibayometriki hayana ulinzi wa kisheria kama usiri wa nenosiri.
 
 
 Kwa upande mwingine, mifumo ya kibayometriki inaweza kuzungushwa (au inaweza kuwa katika siku zijazo) kwa kutumia mbinu kama vile uzazi wa uso unaoonekana au urejeshaji wa alama za vidole zilizofichika kwenye uso. Kuegemea kwao pia kunategemea sana kiwango cha usalama cha kifaa chako: Kwa mfano, utambuzi wa uso wa Kitambulisho cha Uso cha Apple ni mkali zaidi kuliko ule wa simu mahiri za kiwango cha mwanzo.
@@ -6782,7 +6782,7 @@ Kwa muhtasari, hapa kuna orodha kutoka kwa mfumo bora wa kufunga simu mahiri had
 
 - Nenosiri la alphanumeric
 - Msimbo wa PIN
-- Biometriska
+- Biometric
 - Michoro ya picha
 - Hakuna kufunga
 
@@ -6802,22 +6802,23 @@ Kama tulivyoona katika sura zilizopita, kugawanya ni mazoezi muhimu ya kupunguza
 #### Tumia wasifu tofauti wa kitaaluma
 
 
-*Wasifu wa Kazini* ni kipengele cha Android (tangu Android 5.0), kinachokuruhusu kuunda kizigeu tofauti cha programu ndani ya simu mahiri sawa. Kwa vitendo, wasifu huu hufanya kazi kama chombo kilichotengwa: Programu, akaunti na data iliyohifadhiwa katika nafasi hii haiwezi kuingiliana na zile zilizo katika wasifu wa kibinafsi. Utengano huu huzuia uvujaji wa data kati ya nafasi hizi mbili, na huzuia haki za ufikiaji kwa programu. Kipengele hiki mara nyingi hudhibitiwa ndani ya makampuni, lakini pia kuna njia za kukitumia kibinafsi kutenganisha programu.
+Wasifu wa Kazini ni kipengele cha Android (tangu Android 5.0) kinachokuruhusu kuunda partition tofauti ya programu ndani ya simu mahiri ileile. Kwa vitendo, wasifu huu hufanya kazi kama chombo kilichotengwa: programu, akaunti na data iliyohifadhiwa katika nafasi hii haiwezi kuingiliana na zile zilizo katika wasifu wa kibinafsi. Utengano huu huzuia uvujaji wa data kati ya nafasi hizi mbili na huzuia haki za ufikiaji kwa programu. Kipengele hiki mara nyingi hudhibitiwa ndani ya makampuni, lakini pia kuna njia za kukitumia binafsi kutenganisha programu.
 
 
 ![Image](assets/fr/143.webp)
 
 
-Zana ya Shelter ni programu huria inayotumia kipengele hiki cha *Wasifu wa Kazini* cha mfumo wa Android ili kuwapa watumiaji wasio wataalamu njia rahisi ya kuunda mazingira ya kutengwa. Makazi yanaweza kutumika kusakinisha na kuendesha programu nyeti katika nafasi iliyolindwa, na hivyo kupunguza kwa kiasi kikubwa udhihirisho wao kwa programu nyingine zilizosakinishwa kwenye simu.
+Zana ya Shelter ni programu huria inayotumia kipengele hiki cha Work Profile cha mfumo wa Android ili kuwapa watumiaji wasio wataalamu njia rahisi ya kuunda mazingira ya kutengwa. Shelter inaweza kutumika kusakinisha na kuendesha programu nyeti katika nafasi iliyolindwa, na hivyo kupunguza kwa kiasi kikubwa udhihirisho wao kwa programu nyingine.
+zilizosakinishwa kwenye simu.
 
 
 ![Image](assets/fr/144.webp)
 
 
-#### Tumia simu kadhaa tofauti
+#### Tumia simu nyingi tofauti.
 
 
-Ili kuchukua mgawanyo wa matumizi hata zaidi, inawezekana kuchagua matumizi ya vifaa kadhaa vya kimwili, kila kujitolea kwa aina tofauti ya shughuli (binafsi, mtaalamu au nyeti). Utengano huu wa kimwili huhakikisha kutengwa kamili, kali zaidi kuliko sehemu ya programu, kwa kuwa kila simu inafanya kazi kwa kujitegemea kabisa.
+Ili kuchukua mgawanyo wa matumizi hata zaidi, inawezekana kuchagua matumizi ya vifaa kadhaa vya kimwili, kila kimoja kikiwa kimejitolea kwa aina tofauti ya shughuli (binafsi, kitaalamu au nyeti). Utengano huu wa kimwili huhakikisha kutengwa kamili, kali zaidi kuliko sehemu ya programu, kwa kuwa kila simu inafanya kazi kwa kujitegemea kabisa.
 
 
 Ikiwa simu mahiri moja imeathiriwa, zingine hubaki sawa. Ugawaji huu halisi pia una faida ya kurahisisha udhibiti wa ufikiaji na ruhusa kwenye kila kifaa, na hupunguza mfiduo wa jumla wa vitisho vinavyowezekana.
@@ -6835,7 +6836,7 @@ Simu yako mahiri iko katika mawasiliano ya mara kwa mara na ulimwengu wa nje, iw
 Mitandao ya umma ya Wi-Fi, kama vile iliyo kwenye mikahawa, hoteli au usafiri wa umma, si salama mara chache. Hata wakati zinahitaji nenosiri, mara nyingi hushirikiwa kati ya watumiaji wengi, na usimbaji fiche unaotumika wakati mwingine hupuuzwa kwa urahisi. Mshambulizi aliyeunganishwa kwenye mtandao huo anaweza kuingilia pakiti zako, kunasa vitambulisho au kuingiza maudhui hasidi kupitia mashambulizi ya Man-in-the-Middle.
 
 
-Ili kujilinda, epuka tu kutumia mitandao hii ya umma, au tumia VPN, ambayo itaunda handaki iliyosimbwa kati ya kifaa chako na seva ya mbali. Mtaro huu unajumuisha data yako, na kuifanya kuwa vigumu sana kukatiza au kurekebisha.
+Ili kujilinda, epuka kutumia mitandao hii ya umma, au tumia VPN, ambayo itaunda handaki iliyosimbwa kati ya kifaa chako na seva ya mbali. Mtaro huu unajumuisha data yako, na kuifanya iwe vigumu sana kukatizwa au kurekebishwa.
 
 
 https://planb.network/tutorials/computer-security/communication/ivpn-5a0cd5df-29f1-4382-a817-975a96646e68
