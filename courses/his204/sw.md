@@ -823,7 +823,7 @@ Kitabu hiki kilikusanya michango kuu ya Quesnay. Iliweka hali bora ya kiuchumi y
 <chapterId>4236ff8b-b53a-59e7-92c0-f96f9afa1c00</chapterId>
 
 
-Fiziokrasia ikawa ya mtindo nchini Ufaransa, na hata kote Ulaya, kwa muongo mmoja tu. Baada ya muda mrefu wa maendeleo, ilipata umaarufu katikati ya miaka ya 1760. Kufikia wakati Turgot alipoingia mamlakani mwaka wa 1776, vuguvugu hilo lilikuwa tayari limepoteza umaarufu wake, na waziri huyo aliendelea kuunga mkono shule ya Quesnay kwa siri.
+Fiziokrasia ilienea kwa kasi nchini Ufaransa na hata barani Ulaya, lakini kwa kipindi kifupi cha takribani muongo mmoja pekee. Baada ya mchakato wa polepole wa kujijenga, ilifikia kilele cha umaarufu wake katikati ya miaka ya 1760. Hata hivyo, kufikia mwaka 1776 Turgot alipoingia madarakani, vuguvugu hilo lilikuwa tayari limeanza kufifia. Turgot, ingawa alibaki mfuasi wa Quesnay, alilazimika kulihifadhi jambo hilo kwa siri kutokana na kupungua kwa ushawishi wa shule hiyo.
 
 
 Asili yake iko katika mageuzi ya mawazo ya kiuchumi wakati wa miaka ya 1750. Waandishi kadhaa walisaidia kuziba pengo kati ya Boisguilbert na kile ambacho kingejulikana baadaye kama Physiocracy. Kama ilivyojadiliwa hapo awali, Vincent de Gournay na mduara wake wa wanauchumi walikuwa nyuma ya machapisho mengi ambayo yaliwaletea wasomaji wa Kifaransa mawazo ya kiuchumi ya kigeni na kusaidia kuwasha shauku yao ya uchumi. Misingi ya Fizikia tayari ilipatikana katika vitabu kama vile "Détail de la France" cha Boisguilbert na ["Insha kuhusu Hali ya Biashara kwa Ujumla"](https://archive.org/details/essaisurlanature0000cant) cha Cantillon.
@@ -857,14 +857,14 @@ Kufikia mwisho wa mazungumzo yao, Mirabeau alikubaliana na mawazo ya Quesnay. Ku
 ![image](assets/fr/068.webp)
 
 
-Juhudi zao hazikukaribishwa kwa uchangamfu. Katika mahakama, majibu yaliyokuwepo yalikuwa kutojali. Mfalme alikubali mwelekeo wa Quesnay wa nadharia na kwa upendo akamwita "mtazamo wangu". Lakini mbali na pongezi hizo, kazi yao haikupata matokeo yoyote. Kwa hakika, Nadharia yao ya Ushuru iliwaudhi wasimamizi wa kodi iliowakosoa, kiasi kwamba walidai na kupata kifungo cha Mirabeau. Madame de Pompadour hatimaye aliachiliwa, lakini aliendelea kuishi uhamishoni katika mali yake huko Bignon kwa wiki chache.
+Juhudi za Physiocrats hazikupokelewa kwa shauku kubwa. Katika ikulu, majibu yalikuwa ya kutojali. Ingawa mfalme alimkubalia Quesnay kidhahania na hata kwa mapenzi akamwita “mtazamo wangu”, heshima hiyo haikufasiriwa kuwa na matokeo ya kweli. Kinyume chake, Théorie de l’Impôt yao iliwakasirisha sana wasimamizi wa kodi waliokosolewa humo, kiasi cha kumfanya Mirabeau afungwe. Ni kupitia ushawishi wa Madame de Pompadour ndipo aliachiliwa, lakini bado alilazimika kukaa uhamishoni kwa muda katika mali yake huko Bignon.
 
 
 
 ![image](assets/fr/069.webp)
 
 
-Nusu ya kwanza ya miaka ya 1760 ilipita kwa ukimya wa jamaa. Kwa sababu ya nafasi yake huko Versailles, Quesnay alilazimika kuacha kuandika, au angalau kuchapisha chochote chini ya jina lake mwenyewe. Mirabeau, ambaye tayari amehukumiwa mara moja, alionywa na akijua vyema kwamba mpendwa wa mfalme hawezi kumlinda milele.
+Katika nusu ya kwanza ya miaka ya 1760, kulikuwa na ukimya wa jumla. Quesnay, kwa nafasi yake nyeti huko Versailles, alilazimika kuacha kuandika au kuchapisha chochote kwa jina lake mwenyewe. Wakati huohuo, Mirabeau, ambaye tayari alikuwa amehukumiwa mara moja, alionekana mwangalifu zaidi baada ya kuonywa, akijua vyema kwamba hata mpenzi wa mfalme asingeweza kumlinda daima.
 
 
 
@@ -874,7 +874,7 @@ Baada ya kimya hiki kifupi, wanauchumi hao wawili walianza kuajiri wanafunzi: hi
 ![image](assets/fr/070.webp)
 
 
-Kati ya 1765 na 1775, kikundi cha umoja cha Physiocrats kilisimama kwenye kilele cha umaarufu wao. Ulimwengu wa fasihi na falsafa ulikuwa na macho kwao tu, ukiruhusu mawazo yao kuenea kwa upana na haraka. Watu waliwaita "wachumi", au, kwa dhihaka zaidi, "dhehebu la wachumi". Bila kujali sauti, sifa mbaya yao ilikuwa kabisa. Mnamo 1774, baada ya safari ya Metz, M. de Vaublanc aliandika juu ya mshangao wake katika kumbukumbu zake: kila mtu karibu naye alikuwa akiongea uchumi na hoja kama wanafunzi wa Quesnay. "Ilikuwa ya mtindo", alibainisha. "Kila mtu alikuwa mchumi".
+Kati ya 1765 na 1775, Physiocrats walifikia kilele cha umaarufu wao. Wakati huo, ulimwengu wa fasihi na falsafa uliwashughulikia kwa makini, jambo lililoruhusu mawazo yao kuenea kwa upana na kasi. Waliitwa kwa heshima “wachumi”, au kwa kejeli “dhehebu la wachumi”. Licha ya mtazamo huo, sifa yao ilikuwa kubwa mno. Mnamo 1774, baada ya ziara ya Metz, M. de Vaublanc alieleza mshangao wake katika kumbukumbu zake: kila mtu karibu naye alikuwa akizungumzia uchumi na kubishana kana kwamba ni wanafunzi wa Quesnay. “Ilikuwa ya mtindo,” aliandika, “kila mtu alikuwa mchumi.”
 
 
 Walakini, kufikia 1770, umaarufu wao ulianza kupungua. Kikundi kilipata kasoro zake za kwanza, na uwezo wao wa kustahimili ukosoaji ukadhoofika. Na wakosoaji walikuwa wengi, Condillac, Mbly, Voltaire, Galiani, Linguet, Graslin, na hata Adam Smith katika Scotland, wote walipinga maoni yao.
@@ -895,14 +895,14 @@ Fiziokrasia ingeendelea kuwa na ushawishi kupitia Mapinduzi. Huko Ufaransa, kwan
 
 <chapterId>4dbe5436-0578-57c2-b054-03ed00aa091a</chapterId>
 
-Neno Physiocracy, linalomaanisha "serikali kwa asili", lilianzishwa na Dupont de Nemours na kutumika kama jina la *Physiocracy*, mkusanyiko wa makala na Quesnay iliyochapishwa mwaka wa 1768.
+Neno Physiocracy, lenye maana ya “serikali kwa asili”, lilibuniwa na Dupont de Nemours na kisha likatumiwa kama kichwa cha Physiocracy, mkusanyiko wa maandiko ya Quesnay uliochapishwa mwaka 1768.
 
 
 
 ![image](assets/fr/072.webp)
 
 
-Huu ni msemo usioeleweka. Hakuna mwanafunzi wa Quesnay ambaye ametupa maana yake halisi. Walakini, mfumo wao wa mawazo ulikuwa mbali na kufichwa. Kwa kweli, ilijengwa karibu na kanuni chache zilizo wazi sana, ambazo tutazielezea hapa.
+Huu ni msemo usioeleweka, na hakuna mwanafunzi yeyote wa Quesnay aliyewahi kutoa maana yake halisi. Hata hivyo, mfumo wao wa mawazo haukuwa wa kificho. Kinyume chake, uliundwa juu ya kanuni chache zilizo wazi kabisa, ambazo tutazieleza hapa.
 
 
 
@@ -913,7 +913,7 @@ Huu ni msemo usioeleweka. Hakuna mwanafunzi wa Quesnay ambaye ametupa maana yake
 Wazo hili la kwanza ndilo ambalo limevutia umakini wa wanahistoria. Leo, katika vitabu vya kiada au kozi za uchumi, hivi ndivyo Fizikia inavyofupishwa. Inasemekana kuwa waliamini kwa ujinga kuwa kilimo pekee ndicho chenye tija. Kwa msingi huo, fundisho lao linatupiliwa mbali kama lisilofaa, na uchanganuzi unahamia haraka kwa Adam Smith.
 
 
-Walakini, sio haki kuwakosoa Wanafiziokrati kwa kuweka umuhimu usio sawa kwenye kilimo, kwani katikati ya karne ya 18, kilimo kiliajiri 90% ya idadi ya watu na kuunda msingi wa uchumi wa Ufaransa.
+Walakini, si sahihi kuwalaumu Wanafiziokrati kwa kusisitiza mno juu ya kilimo, kwa kuwa katikati ya karne ya 18, kilimo kiliajiri takriban 90% ya watu na kilikuwa msingi wa uchumi wa Ufaransa.
 
 
 
@@ -940,13 +940,13 @@ Tocqueville alisisitiza juu ya wazo hili:
 
 > Wanafiziokrati walipendelea sana biashara huria ya bidhaa, kwa laissez-faire au laissez-passers katika biashara na viwanda; lakini kuhusu uhuru wa kisiasa unafaa, hawakuuzingatia, na hata mawazo kama hayo yalipotokea akilini mwao, waliyakataa mwanzoni.
 
-Waliberali katika uchumi, Wanafiziokrati kwa hivyo hawakuwa huria katika masuala ya kisiasa. Quesnay anaandika katika *kanuni* zake: "Mamlaka kuu na iwe ya kipekee na bora kuliko watu wote wa jamii na kwa mashirika yote yasiyo ya haki ya masilahi ya kibinafsi." Na baadaye, katika msemo ule ule: "Mfumo wa kuangalia na kusawazisha katika serikali ni dhana mbaya, ambayo inadhihirisha tu ugomvi kati ya kubwa na ukandamizaji wa wadogo".
+Waliberali katika uchumi, Wanafiziokrati kwa hivyo hawakuwa huru katika masuala ya kisiasa. Quesnay aliandika katika kanuni zake: "Mamlaka kuu na iwe ya kipekee na bora kuliko watu wote wa jamii na kwa mashirika yote yasiyo ya haki ya masilahi ya kibinafsi." Na baadaye, katika usemi huohuo: "Mfumo wa kuangalia na kusawazisha katika serikali ni dhana mbaya, inayodhihirisha tu ugomvi kati ya wakubwa na ukandamizaji wa wadogo".
 
 
 ![image](assets/fr/075.webp)
 
 
-Tocqueville alibainisha vyema kwamba Wanafiziokrati walikataa demokrasia mara tu walipoona aina zake. Walikuwa na mashaka juu ya demokrasia, ambayo ingekuwa ya kudumu katika uchumi wa kisiasa wa Ufaransa, kwa sababu demokrasia iko mbali na mfumo kamili: inaweza kuruhusu ukandamizaji wa walio wachache na wengi, na inaweza kuwa chombo cha unyang'anyi, udhalimu, na uporaji.
+Tocqueville alibainisha vyema kwamba Wanafiziokrati walikataa demokrasia mara tu walipoona aina zake. Walikuwa na shaka juu ya demokrasia, ambayo ingekuwa ya kudumu katika uchumi wa kisiasa wa Ufaransa, kwa sababu demokrasia iko mbali na mfumo kamili: inaweza kuruhusu ukandamizaji wa walio wachache na wengi, na inaweza kuwa chombo cha unyang'anyi, udhalimu, na uporaji.
 
 
 ### Kanuni ya tatu: heshima kamili kwa mali ya kibinafsi
@@ -985,7 +985,7 @@ Kwa manufaa kwa asili, biashara lazima iwe huru kabisa na kikamilifu. Mmoja wa w
 ### Kanuni ya tano: Wanaume wote ni ndugu
 
 
-Wapinzani wakali wa utumwa, Wanafiziokrati pia walikuwa wastaarabu wakubwa. "Sera yetu ya nje inaitwa amani", Mirabeau alisema kwa urahisi. Mnamo 1790, katika Bunge la Katiba, Dupont de Nemours aliendeleza msimamo huu wa pacifist alipopendekeza mswada wa kupiga marufuku vita vya kukera.
+Wapinzani wakali wa utumwa, Wanafiziokrati pia walikuwa wapenda ustaarabu wakubwa. "Sera yetu ya nje inaitwa amani," Mirabeau alisema kwa urahisi. Mnamo 1790, katika Bunge la Katiba, Dupont de Nemours aliendeleza msimamo huu wa kupinga vita alipopendekeza mswada wa kupiga marufuku vita vya kukera.
 
 
 
@@ -995,13 +995,13 @@ Wapinzani wakali wa utumwa, Wanafiziokrati pia walikuwa wastaarabu wakubwa. "Ser
 <chapterId>5b911105-796a-5e2e-a501-c7a364fc758e</chapterId>
 
 
-Kama tulivyoona katika sura ya kwanza kati ya sura tatu zilizotolewa kwa Wanafiziokrati, wafuasi wa Quesnay walikuwa na hasira sana nchini Ufaransa kwa takriban muongo mmoja. Shauku hii ya mawazo yao ilichukua sura katika wakati wao na iliendelea hadi mwisho wa karne. Hapa, tutaangalia baadhi ya mafanikio yao na ushawishi walioutoa kwa warithi wao katika uwanja wa fikra za kiuchumi.
+Kama tulivyoona katika sura ya kwanza kati ya sura tatu zilizotolewa kwa Wanafiziokrati, wafuasi wa Quesnay walikuwa na hasira sana nchini Ufaransa kwa takriban muongo mmoja.Hofu hii ya mawazo yao ilichukua sura katika wakati wao na iliendelea hadi mwisho wa karne. Hapa, tutaangalia baadhi ya mafanikio yao na ushawishi walioutoa kwa warithi wao katika uwanja wa fikra za kiuchumi.
 
 
 Mafanikio yao makubwa zaidi, kufuatia kikundi cha Gournay, ilikuwa kueneza mawazo ya kiuchumi. Msemo maarufu wa Voltaire unajulikana sana: karibu 1750, taifa, lililoshiba mashairi na riwaya, lilianza kujadiliana juu ya nafaka. Wanafiziokrati walishiriki katika harakati hii, wakichapisha kihalisi mamia ya makala, vijitabu, na vitabu kuhusu uhuru wa biashara ya nafaka. Msukumo mkubwa uliotolewa na Wanafiziokrati kwa majadiliano ya kiuchumi pia unaonekana katika idadi ya kuvutia ya kazi za kiuchumi na vipeperushi vilivyochapishwa nchini Ufaransa kutoka 1760 hadi 1775. Kama ushahidi zaidi wa kuenea kwa mawazo ya kiuchumi nchini Ufaransa, mtu anakumbuka maneno ya M. de Vaublanc, yaliyotajwa katika hotuba ya awali, ambaye alisema huko Metz katika 174 kwamba watu hawakuzungumza chochote kuhusu kiuchumi. "Ilikuwa mtindo," alisema. "Kila mtu alikuwa mchumi".
 
 
-Utetezi wa mawazo yao, katika vitabu, vijitabu, na katika jarida lao *Les Éphémérides du Citoyen*, ulipata matokeo haraka katika sera ya uchumi ya Ufaransa. Mnamo 1763, amri ilitoa uhuru wa biashara ya nafaka, ambayo Quesnay na Mirabeau walikuwa wamedai sana. Mara kadhaa, mamlaka pia ilirahisisha kanuni zinazosimamia vyama vya biashara ili kuhakikisha uhuru zaidi wa kufanya kazi.
+Utetezi wa mawazo yao, katika vitabu, vijitabu, na katika jarida lao Les Éphémérides du Citoyen, ulipata matokeo haraka katika sera ya uchumi ya Ufaransa. Mnamo 1763, amri ilitoa uhuru wa biashara ya nafaka, ambayo Quesnay na Mirabeau walikuwa wamedai sana. Mara kadhaa, mamlaka pia ilirahisisha kanuni zinazosimamia vyama vya biashara ili kuhakikisha uhuru zaidi wa kufanya kazi.
 
 
 Nje ya nchi, mafanikio yalikuja mapema sana. Huko Ujerumani, Margrave wa Baden walipendezwa na mawazo ya fizikia na kudumisha mawasiliano ya mara kwa mara na Mirabeau na Dupont de Nemours.
@@ -1038,7 +1038,7 @@ Huko Ufaransa, Wanafiziokrati walifurahia mafanikio ya ajabu kwa kuteuliwa kwa T
 ![image](assets/fr/081.webp)
 
 
-Akijua kushuka kwa umaarufu wao, Turgot hakuwahi kujionyesha kama mfuasi mwaminifu wa Fizikia, wala, kwa jambo hilo, kama mwandishi wa vitabu, ingawa alikuwa mmoja, na kwa kuwa walidharauliwa na washiriki wa Makasisi. Akiwa madarakani, Turgot alitoa maagizo sita maarufu ambayo yalijumuisha mwanzo wa matumizi ya vitendo ya mpango wa Fizikia: uhuru wa biashara, uhuru wa kazi, na mwisho wa ukiritimba.
+Akijua kushuka kwa umaarufu wao, Turgot hakuwahi kujionyesha kama mfuasi mwaminifu wa Fiziokrasia, wala, kwa jambo hilo, kama mwandishi wa vitabu, ingawa alikuwa mmoja, na kwa kuwa walidharauliwa na washiriki wa Makasisi. Akiwa madarakani, Turgot alitoa maagizo sita maarufu ambayo yalijumuisha mwanzo wa matumizi ya vitendo ya mpango wa Fiziokrasia: uhuru wa biashara, uhuru wa kazi, na mwisho wa ukiritimba.
 
 
 
@@ -1058,7 +1058,7 @@ Pia alipigana, bila mafanikio, dhidi ya waliokabidhiwa. Licha ya kushindwa huku,
 
 
 
-Wanafiziokrati pia walikuwa na ushawishi mkubwa kwenye historia ya fikra za kiuchumi. Adam Smith, ambaye alitembelea Ufaransa na kukutana na wengi wao, aliathiriwa sana na kazi yao. Alifikiria hata kuweka wakfu *Utajiri wa Mataifa* kwa Quesnay.
+Wanafiziokrati pia walikuwa na ushawishi mkubwa katika historia ya fikra za kiuchumi. Adam Smith, ambaye alitembelea Ufaransa na kukutana na wengi wao, aliathiriwa sana na kazi yao. Alifikiria hata kuweka wakfu Utajiri wa Mataifa kwa Quesnay.
 
 
 ![image](assets/fr/085.webp)
@@ -1091,14 +1091,14 @@ Leo, ina mauzo ya zaidi ya $35,000 bilioni na inaajiri karibu watu 65,000 dunian
 ![image](assets/fr/087.webp)
 
 
-Alizaliwa mwaka wa 1739, Dupont de Nemours alikaribia Physiocrats akiwa na umri wa miaka 24. Wakati huo, bado alikuwa akitafuta njia yake maishani. Siku moja, alikutana na kijitabu kifupi kilichoitwa Utajiri wa Jimbo. Aligundua kuwa mawazo yake ya kiuchumi yalikuwa ya upuuzi na akaandika jibu muhimu liitwalo Reflections on the Wealth of the State, lililochapishwa mwaka wa 1763. Kipande hicho kilipokelewa vyema, na wasomaji wakakipongeza, wakisema mambo kama, "Lazima uwe mfuasi wa Mirabeau!" Kwa kushangaza, Dupont hakujua hata Mirabeau alikuwa nani.
+Alizaliwa mwaka wa 1739, Dupont de Nemours alikaribia Wanafiziokrati akiwa na umri wa miaka 24. Wakati huo bado alikuwa anatafuta njia yake maishani. Siku moja alikutana na kijitabu kifupi kilichoitwa Utajiri wa Jimbo. Baada ya kukisoma, aligundua kuwa mawazo yake ya kiuchumi yalikuwa ya upuuzi na akaandika jibu muhimu liitwalo Reflections on the Wealth of the State, lililochapishwa mwaka wa 1763. Kipande hiki kilipokelewa vyema, na wasomaji wakakipongeza kwa maneno kama, “Lazima uwe mfuasi wa Mirabeau!” Cha kushangaza, Dupont hakujua hata Mirabeau alikuwa nani.
 
 
 
 ![image](assets/fr/088.webp)
 
 
-Kwa kutaka kujua, alianza kusoma kazi za Mirabeau, *Rafiki wa Watu* na *Nadharia ya Ushuru*. Alikutana na Mirabeau na François Quesnay, kisha akajiunga na shule yao.
+Kwa kutaka kujua, alianza kusoma kazi za Mirabeau, L’Ami des hommes na Théorie de l’impôt. Hatimaye alikutana na Mirabeau na François Quesnay, kisha akajiunga na shule yao.
 
 Mnamo 1765, Dupont alipewa nafasi ya mhariri wa *Journal de l'agriculture, du commerce et des finances*, jarida lililoongoza la wakati wake katika uwanja wa fikra za kiuchumi.
 
@@ -1110,7 +1110,7 @@ Mnamo 1765, Dupont alipewa nafasi ya mhariri wa *Journal de l'agriculture, du co
 Kulikuwa na sababu mbili za hii: Mirabeau na Quesnay walilazimika kukaa kimya, na Dupont alionekana kama nyota yao inayoibuka.
 
 
-Washiriki wa shule ya Fizikia wanakubali kwamba Dupont de Nemours akawa kipenzi cha Quesnay haraka. Quesnay aliwahi kusema, "Mtunze huyu kijana, ndiye atakayesema tukiwa wafu". Mwanafizikia mwenzake mmoja, Abeille, hata alionea wivu usikivu aliopokea Dupont na kujitenga na shule ya Quesnay.
+Washiriki wa shule ya Physiocracy wanakubali kwamba Dupont de Nemours akawa kipenzi cha Quesnay haraka. Quesnay aliwahi kusema: "Prenez soin de ce jeune homme, c’est lui qui nous dira morts." Mwanafiziokrat mwenzake mmoja, Abeille, hata alionea wivu heshima na usikivu aliopokea Dupont na hatimaye akajitenga na shule ya Quesnay.
 
 
 Dupont de Nemours daima alidumisha heshima yake ya juu kwa Quesnay.
@@ -1127,7 +1127,7 @@ Baada ya *Journal de l'agriculture, du commerce et des finances*, Dupont aliteul
 ![image](assets/fr/091.webp)
 
 
-Alifanya mkusanyiko huu wa mara kwa mara kuwa kituo kikuu cha nadharia ya kiuchumi, akiunga mkono hata wakati wa kupungua kwa Fiziokrati kwa kuandika kibinafsi karibu juzuu zote za baadaye. Ni Dupont de Nemours, zaidi ya hayo, ndiye aliyeanzisha neno "physiocracy", linalotokana na maneno mawili ya Kigiriki yenye maana ya "serikali ya asili". Alitumia neno hili kutaja mkusanyiko wa nakala za Quesnay zilizochapishwa mnamo 1768, na neno hilo hatimaye likaanzishwa katika historia. Inajulikana kuwa miongoni mwao, Wanafizikia waliitana "wachumi", na bado walijulikana kama hivyo wakati wa Mapinduzi.
+Alifanya mkusanyiko huu wa mara kwa mara kuwa kituo kikuu cha nadharia ya kiuchumi, akiunga mkono hata katika kipindi cha kupungua kwa Physiocrats kwa kuandika kibinafsi karibu juzuu zote za baadaye. Ni Dupont de Nemours, zaidi ya hayo, ndiye aliyeanzisha neno Physiocracy, linalotokana na maneno mawili ya Kigiriki yenye maana ya "serikali ya asili". Alitumia neno hili kutaja mkusanyiko wa maandiko ya Quesnay yaliyotolewa mnamo 1768, na neno hilo hatimaye likajikita katika historia. Inajulikana kuwa miongoni mwao, Wanafiziokrati waliitana économistes, na bado walijulikana hivyo hata wakati wa Mapinduzi.
 
 
 
@@ -1171,7 +1171,7 @@ Licha ya maisha haya yenye matukio mengi, ambapo alichapisha kadhaa ya makala, v
 <chapterId>16bcf7bf-dad4-5113-8c64-2800f04ff07b</chapterId>
 
 
-Karne ya 18 huko Ufaransa iliona kuibuka kwa uchumi kama sayansi na shule ya kwanza ya mawazo ya kiuchumi: Physiocracy. Adam Smith alipata mafunzo ya uchumi katika kipindi hiki, na wanauchumi wa Ufaransa walitambuliwa ulimwenguni kote kama viongozi. Walakini, karne hii inakumbukwa zaidi kama karne ya falsafa kuliko ya uchumi. Ingawa vuguvugu la Kifiziokrasia lililingana, katika matamanio yake, na falsafa ya Kutaalamika, mitazamo ya wanafalsafa—hasa Diderot na Voltaire—inastahili uchunguzi wa karibu. Tutaona kwamba wanafikra za Kutaalamika walichangia kwa kiasi kikubwa kueneza wazo la laissez-faire nchini Ufaransa.
+Karne ya 18 huko Ufaransa ilishuhudia kuzaliwa kwa uchumi kama sayansi huru na shule ya kwanza rasmi ya mawazo ya kiuchumi: Physiocracy. Hapo ndipo Adam Smith alipokutana na taaluma ya uchumi, akipata msukumo muhimu kutoka kwa wanauchumi wa Kifaransa waliokuwa tayari wanaheshimiwa kimataifa kama viongozi wa fikra. Hata hivyo, karne hii imebaki zaidi katika kumbukumbu kama karne ya falsafa kuliko ya uchumi. Ingawa harakati ya Kifiziokrasia ilishirikiana na falsafa ya Kutaalamika katika matarajio yake ya kuongoza jamii kwa misingi ya kanuni za asili na busara, mitazamo ya wanafalsafa—hasa Diderot na Voltaire—inastahili kuchunguzwa kwa karibu zaidi. Tutagundua kwamba wanafalsafa wa Kutaalamika walikuwa chombo kikuu cha kusambaza na kuhalalisha wazo la laissez-faire nchini Ufaransa.
 
 
 
@@ -1185,7 +1185,7 @@ Mafanikio maarufu zaidi ya falsafa ya Kutaalamika bila shaka ni *Encyclopédie* 
 ![image](assets/fr/097.webp)
 
 
-Kwa kawaida, makala za kiuchumi ziliandikwa na wachumi. Kwa juzuu za mapema, Diderot aligeukia Forbonnais, kisha akaandikisha wanauchumi huria: kwanza François Quesnay (aliyechangia makala kama vile "Grains", "Fermiers", "Hommes" -ya mwisho ambayo haijachapishwa), kisha Turgot (aliyeandika "Foires et marchés"). Maandiko haya yana umuhimu mkubwa. Katika makala zake, Quesnay aliweka msingi wa kile ambacho kingekuwa fundisho la Fizikia. Pamoja na *Tableau économique* yake, hizi zimesalia kuwa kazi zake maarufu zaidi. Turgot, bado mchanga wakati huo, alianzisha wazo la laissez-faire katika nakala yake, akikosoa uingiliaji wa serikali katika shirika la soko.
+Kwa kawaida, makala za kiuchumi ziliandikwa na wachumi wenyewe. Katika juzuu za mwanzo za Encyclopédie, Diderot alimgeukia Forbonnais, na baadaye akawashirikisha wanauchumi huria: kwanza François Quesnay (aliyechangia makala kama “Grains”, “Fermiers”, na “Hommes”—ya mwisho ikiwa haikuwahi kuchapishwa), kisha Anne Robert Jacques Turgot (aliyeandika “Foires et marchés”). Maandishi haya yalikuwa na umuhimu mkubwa katika historia ya mawazo ya kiuchumi. Katika makala zake, Quesnay aliweka msingi wa itikadi ya Fiziokrasia, ambayo baadaye iliimarishwa na Tableau économique yake—kazi ambayo imebaki kuwa mojawapo ya mashuhuri zaidi. Turgot, akiwa bado kijana wakati huo, alitambulisha wazo la laissez-faire katika maandiko yake, akipinga kwa uwazi uingiliaji wa serikali katika uendeshaji wa soko.
 
 
 Katika makala nyingine nyingi za *Encyclopédie*, falsafa, hasa Diderot, hutetea hali bora ya uhuru katika maeneo yote: dini, siasa, na uchumi.
