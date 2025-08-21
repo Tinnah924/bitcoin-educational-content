@@ -7,6 +7,7 @@ description: Jinsi PayNyms hufanya kazi
 
 _Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
 
+
 _Mafunzo haya yametolewa kwa madhumuni ya elimu na taarifa pekee. Hatuidhinishi wala kuhimiza matumizi ya zana hizi kwa malengo ya kihalifu. Kila mtumiaji anawajibika kutii sheria za eneo lake la mamlaka.._
 
 
@@ -29,6 +30,7 @@ Kuna masuluhisho mengi yanayopatikana ili kupokea malipo mengi bila kutumia tena
 
 
 Hapo awali, pendekezo hili lilipokelewa kwa dharau na sehemu ya jamii, na halikuongezwa kamwe kwa Bitcoin Core. Walakini, programu zingine bado zilichagua kuitekeleza peke yao. Kwa mfano, Samourai Wallet ilitengeneza utekelezaji wake wa BIP47: PayNym. Leo, utekelezaji huu unapatikana kwenye Samourai Wallet kwa simu mahiri, na pia kwenye [Sparrow Wallet](https://sparrowwallet.com/) kwa Kompyuta.
+
 
 
 Baada ya muda, Samourai imeongeza vipengele vipya vinavyohusiana moja kwa moja na PayNym. Sasa, kuna mfumo mzima wa zana unaopatikana ili kuboresha faragha ya mtumiaji ukitumia PayNym na BIP47.
