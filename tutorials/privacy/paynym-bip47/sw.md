@@ -32,7 +32,6 @@ Kuna masuluhisho mengi yanayopatikana ili kupokea malipo mengi bila kutumia tena
 Hapo awali, pendekezo hili lilipokelewa kwa dharau na sehemu ya jamii, na halikuongezwa kamwe kwa Bitcoin Core. Walakini, programu zingine bado zilichagua kuitekeleza peke yao. Kwa mfano, Samourai Wallet ilitengeneza utekelezaji wake wa BIP47: PayNym. Leo, utekelezaji huu unapatikana kwenye Samourai Wallet kwa simu mahiri, na pia kwenye [Sparrow Wallet](https://sparrowwallet.com/) kwa Kompyuta.
 
 
-
 Baada ya muda, Samourai imeongeza vipengele vipya vinavyohusiana moja kwa moja na PayNym. Sasa, kuna mfumo mzima wa zana unaopatikana ili kuboresha faragha ya mtumiaji ukitumia PayNym na BIP47.
 
 Katika makala haya, utagundua kanuni ya BIP47 na PayNym, taratibu za protocol hizi, na matumizi ya vitendo yanayotokana nayo. Nitatumia Address pekee toleo la kwanza la BIP47, ambalo kwa sasa linatumika kwa PayNym, lakini matoleo ya 2, 3, na 4 yanafanya kazi kwa njia sawa.
