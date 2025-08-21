@@ -544,16 +544,16 @@ Mapendekezo yake ya mageuzi yalizingatia mambo kadhaa muhimu.
 Kwanza, aliamini kwamba kazi ilihitaji kulindwa na kutiwa moyo. Wakati huo, wafanyikazi wa Ufaransa walichukuliwa kama wahalifu, wakifuatiliwa kila wakati, na waliwekwa kwa hofu ya kutofuata moja ya maelfu ya kanuni. Kero hii ya kupita kiasi iliwakatisha tamaa watu kufanya kazi, na kuwasukuma kuelekea uvivu. Hata hivyo, Gournay alisema, "kazi ni nzuri na ndiyo njia pekee ya kutajirisha taifa".
 
 
-Pili, alikosoa mfumo wa vizuizi wa mashirika ambayo yanawafunga wazalishaji. Kushiriki katika biashara ilikuwa ya muda na ya gharama kubwa, na kila mfanyakazi mpya lazima afuate kwa uangalifu utaratibu uliowekwa na sheria za chama chake. Mfumo kama huo haukuacha nafasi kwa ubora, uvumbuzi, au maendeleo.
+Pili, alikosoa mfumo wa vizuizi wa mashirika ambayo yaliwafunga wazalishaji. Kushiriki katika biashara kulikuwa kwa muda na kwa gharama kubwa, na kila mfanyakazi mpya alilazimika kufuata kwa uangalifu utaratibu uliowekwa na sheria za chama chake. Mfumo kama huo haukuacha nafasi kwa ubora, uvumbuzi, au maendeleo.
 
 
-Tatu, biashara nchini Ufaransa iliwekewa mipaka na sheria zenye vikwazo. Kwa maoni ya Gournay, watumiaji wangefaidika pakubwa ikiwa bandari zingeweza kushindana kwa uhuru na bidhaa zote, kama vile nafaka na turubai zilizochapishwa, zingeruhusiwa kuagizwa nje bila vikwazo. Alikuwa mmoja wa wa kwanza kutaja asili ya kweli ya magendo: ilikuwepo tu kwa sababu biashara ya manufaa na muhimu ilikuwa imepigwa marufuku. Aliongeza uchunguzi mkali: magendo ilikuwa taaluma "huru", isiyo na kanuni, hakuna vyama, hakuna ushuru wa kutaifisha. Hata hivyo ilikuwa ni kanuni kubwa ya Serikali ambayo iliwafanya wafanyakazi wengi waaminifu kuingia katika uharamu.
+Tatu, biashara nchini Ufaransa iliwekewa mipaka na sheria zenye vikwazo. Kwa maoni ya Gournay, watumiaji wangefaidika pakubwa ikiwa bandari zingeweza kushindana kwa uhuru na bidhaa zote, kama vile nafaka na turubai zilizochapishwa, zingeruhusiwa kuagizwa nje bila vikwazo. Alikuwa mmoja wa wa kwanza kutaja asili ya kweli ya magendo: ilikuwepo tu kwa sababu biashara ya manufaa na muhimu ilikuwa imepigwa marufuku. Aliongeza uchunguzi mkali: magendo ilikuwa taaluma "free", huru, isiyo na kanuni, hakuna vyama, hakuna ushuru wa kutaifisha. Hata hivyo ilikuwa ni kanuni kubwa ya Serikali ambayo iliwafanya wafanyakazi wengi waaminifu kuingia katika uharamu.
 
 
 Hatimaye, Gournay alibainisha kuwa viwango vya riba vilikuwa chini katika Uingereza na Uholanzi, nchi zilizostawi zaidi kuliko Ufaransa. Alitetea viwango vya chini vya riba nchini Ufaransa pia, ili shughuli za kiuchumi ziweze kufadhiliwa huko kwa masharti ya faida kama mahali pengine. Gournay, hata hivyo, hakutafuta mbinu za kulazimisha, za kutunga sheria; badala yake, alikazia uhitaji wa kuhalalisha kukopesha pesa, jambo ambalo bado lilishutumiwa na Kanisa Katoliki.
 
 
-Kwa nukta hizi zote, Gournay alichukua jukumu muhimu katika mijadala ya kiakili ya katikati ya karne ya 18. Utetezi wake wa uhuru wa kiuchumi ulitangulia Fizikia kwa muongo mmoja na Adam Smith kwa miaka ishirini. Lakini ushawishi wake wa kudumu ulikuwa kwa Turgot. Gournay alimchukua Turgot mchanga chini ya mrengo wake na kumfundisha na maoni yake.
+Kwa nukta hizi zote, Gournay alichukua jukumu muhimu katika mijadala ya kiakili ya katikati ya karne ya 18. Utetezi wake wa uhuru wa kiuchumi ulitangulia Physiocrats kwa muongo mmoja na Adam Smith kwa miaka ishirini. Lakini ushawishi wake wa kudumu ulikuwa kwa Turgot. Gournay alimchukua Turgot mchanga chini ya mrengo wake na kumfundisha kwa maoni yake.
 
 
 ![image](assets/fr/040.webp)
@@ -586,7 +586,7 @@ Kustaajabishwa huku kulimpelekea kutafsiri, na kugawa tafsiri za maandishi yao y
 Ilibainika kuwa nafasi yake katika utawala mkuu ilimruhusu Gournay kuwasiliana na wataalamu wote wa uchumi waliojulikana nchini Ufaransa wakati huo. Kwa njia hii, alikusanya kikundi cha watafsiri wenye uwezo sana. Yeye binafsi alitafsiri kazi za Mtoto na Culpeper. Abate Le Blanc alitafsiri Mijadala ya Kisiasa ya David Hume. Véron de Forbonnais alitafsiri mwanauchumi wa Uhispania Geronymo de Uztariz. Turgot alifanyia kazi maandishi ya Josiah Tucker, na mtoto wa Montesquieu alitafsiri Joshua Gee.
 
 
-Shukrani kwa ushirikiano wa wanachama kadhaa wa mduara wa Gournay, waandishi wengi waliweza kuchapisha kazi asili chini ya majina yao wenyewe. Vitabu hivi, pamoja na tafsiri, vilipata mafanikio ya ajabu. Baadhi ya mifano mashuhuri ni pamoja na:
+Shukrani kwa ushirikiano wa wanachama kadhaa wa mduara wa Gournay, waandishi wengi waliweza kuchapisha kazi asili chini ya majina yao wenyewe. Vitabu hivi, pamoja na tafsiri, vilipata mafanikio ya ajabu. Baadhi ya mifano mashuhuri ni pamoja na Essai sur la nature du commerce en général ya Cantillon, Histoire du commerce ya Savary, na Considérations sur le commerce et la navigation ya Dutot:
 
 
 
@@ -616,10 +616,10 @@ Kikundi pia kilikuwa na jukumu muhimu katika uchapishaji wa
 ![image](assets/fr/045.webp)
 
 
-Kitabu hiki cha mwisho, kilichoandikwa karibu 1730, kilibaki katika maandishi baada ya kifo cha mwandishi. Gournay, kwa msaada wa marafiki zake wachumi, aliichapisha mnamo 1755. Kulingana na Abbot Morellet, mshiriki wa duara, Gournay aliipendekeza kwa kila mwanauchumi anayemjua.
+Kitabu hiki cha mwisho, kilichoandikwa karibu 1730, kilibaki katika maandishi baada ya kifo cha mwandishi. Gournay, kwa msaada wa marafiki zake wachumi, aliichapisha mnamo 1755. Kulingana na Abbot Morellet, mshiriki wa duara, Gournay aliipendekeza kwa kila mwanauchumi aliyemjua.
 
 
-Matokeo ya kiakili ya duara ya Gournay yalikuwa na athari kubwa kwenye historia ya maoni. Kwa maana hii, wanaweza kuchukuliwa kuwa waanzilishi wa sayansi ya uchumi nchini Ufaransa. Christine Théré wa INED, ambaye amechunguza historia ya machapisho ya kiuchumi, aligundua kuwa kati ya 1750 na 1759, kazi zisizopungua **349** kuhusu uchumi zilichapishwa, ikilinganishwa na **83** pekee katika muongo mzima uliopita (1740-1749). Mapinduzi haya katika miaka ya 1750 ni kwa kiasi kikubwa kutokana na mduara wa Gournay.
+Matokeo ya kiakili ya duara la Gournay yalikuwa na athari kubwa katika historia ya mawazo. Kwa maana hii, wanaweza kuchukuliwa kuwa waanzilishi wa sayansi ya uchumi nchini Ufaransa. Christine Théré, wa INED, ambaye amechunguza historia ya machapisho ya kiuchumi, aligundua kuwa kati ya 1750 na 1759, kazi zisizopungua 349 kuhusu uchumi zilichapishwa, ikilinganishwa na 83 pekee katika muongo mzima uliopita (1740-1749). Mapinduzi haya ya miaka ya 1750 yalitokana kwa kiasi kikubwa na mduara wa Gournay.
 
 
 ![image](assets/fr/046.webp)
@@ -664,7 +664,7 @@ Marquis de Mirabeau, kwa kweli, tayari ilikuwa imepata umaarufu mkubwa hata kabl
 ![image](assets/fr/050.webp)
 
 
-Zaidi ya matoleo 20 yalichapishwa kati ya 1757 na 1760, ambayo pengine inafanya kuwa kitabu cha uchumi kilichofanikiwa zaidi katika historia. Wasomaji wengine hata walifikiri kwamba kitabu hicho kilikuwa kimeandikwa na Montesquieu kwa sababu ya hoja zake kali. Dauphin, baba Mfalme Louis XVI, hata alidai kuwa aliikariri. Kwa muda fulani, kilikuwa kitabu ambacho kila mtu huko Versailles alikuwa akisoma.
+Zaidi ya matoleo 20 yalichapishwa kati ya 1757 na 1760, jambo ambalo pengine linafanya kuwa kitabu cha uchumi kilichofanikiwa zaidi katika historia. Wasomaji wengine hata walidhani kuwa kitabu hicho kiliandikwa na Montesquieu kwa sababu ya hoja zake kali. Dauphin, baba yake Mfalme Louis XVI, hata alidai kuwa aliikariri. Kwa muda fulani, kilikuwa kitabu ambacho kila mtu huko Versailles alikuwa akisoma.
 
 
 Leo ni kitabu ambacho hakijasomwa tena, lakini wengi bado wanarejelea. Hata kufikia karne ya 19, Edmond Roussel alisema:
@@ -697,7 +697,7 @@ Licha ya machafuko ambayo ni, maoni kadhaa yanafaa kuzingatia:
 ![image](assets/fr/053.webp)
 
 
-Ni Hard kutaja maoni ya Mirabeau kama ya huria au ya kupinga huria. Mara nyingi alirudi na kurudi, wakati mwingine bila kujua, kati ya maono moja na mengine. Bado, mawazo huria mara nyingi yalitawala maandishi yake. Moja ya mistari yake maarufu ilikuwa:
+Ni ngumu kutaja maoni ya Mirabeau kama ya huria au ya kupinga huria. Mara nyingi alirudi na kurudi, wakati mwingine bila kujua, kati ya maono moja na mengine. Bado, mawazo huria mara nyingi yalitawala maandishi yake. Moja ya mistari yake maarufu ilikuwa:
 
 
 > Kanuni ya kweli na pekee ya uchumi wa kisiasa ni kuacha kila kitu kiwe huru.
@@ -726,7 +726,7 @@ Mirabeau pia ilichukua jukumu muhimu katika kuajiri washiriki wapya kwa shule ya
 Pia ilikuwa nyumbani kwa Mirabeau ambapo Wanafizikia walikutana kila Jumanne. Watu kama vile Turgot na Adam Smith wanaonekana kuhudhuria mikutano hii mara moja au mara kadhaa.
 
 
-Katika maisha yake yote, Mirabeau alibaki kuwa mwandishi asiyechoka. Aliandika kazi nyingi za kiuchumi zinazotetea fundisho la Quesnay. Hata hivyo, kuelekea mwisho wa maisha yake, uvutano wake ulipungua. Mtindo wake wa uandishi ulizorota hadi kaka yake mwenyewe alimwandikia akisema hangeweza tena kuelewa nathari yake. Mawazo yake, baada ya kuwa huru kabisa, yaligongana na majibu ya ujamaa au proto-kikomunisti ya wanafikra kama Mably na hata Rousseau. Alijitahidi kupata wasomaji na wachapishaji, na alikufa bila kutambuliwa mnamo 1789, usiku wa kuamkia dhoruba ya Bastille.
+Katika maisha yake yote, Mirabeau alibaki kuwa mwandishi asiyechoka. Aliandika kazi nyingi za kiuchumi zilizotetea fundisho la Quesnay. Hata hivyo, kuelekea mwisho wa maisha yake, ushawishi wake ulipungua. Mtindo wake wa uandishi ulidorora kiasi kwamba kaka yake mwenyewe alimwandikia akisema hangeweza tena kuelewa nathari yake. Mawazo yake, baada ya kuwa huru kabisa, yaligongana na majibu ya kijamaa au proto-kikomunisti ya wanafikra kama Mably na hata Rousseau. Alijitahidi kupata wasomaji na wachapishaji, na alikufa bila kutambuliwa mnamo 1789, usiku wa kuamkia dhoruba ya Bastille.
 
 
 ## Quesnay
@@ -753,7 +753,7 @@ Kumpunguza hadi hii ni aibu, kwa sababu Quesnay pia alikuwa mwanauchumi wa kwanz
 Tutajadili Fiziokrasia kwa undani zaidi katika sura tatu zinazofuata. Kwanza, hebu tumtazame kwa makini François Quesnay mwenyewe.
 
 
-Alizaliwa mwaka wa 1694 huko Méré katika familia ya watu masikini ambayo haikuweza kumfundisha Quesnay kusoma. Alifunzwa na mwanamume wa huko na hatimaye akaenda kusoma katika Chuo cha Upasuaji na kisha Kitivo cha Tiba. Akiwa na umri wa miaka 24, akawa daktari wa upasuaji huko Mantes.
+Alizaliwa mwaka 1694 huko Méré, katika familia maskini ambayo haingeweza kumfundisha kusoma, François Quesnay alifundishwa na mtu wa kijiji na hatimaye akaendelea kusomea katika Chuo cha Upasuaji na baadaye katika Kitivo cha Tiba. Akiwa na umri wa miaka 24, aliteuliwa kuwa daktari wa upasuaji mjini Mantes.
 
 
 Alipata umaarufu mwaka wa 1730, akiwa na umri wa miaka 36, ​​kwa kupinga zoea la kawaida la umwagaji damu, ambalo aliamini lilitokana na nadharia potofu na ubaguzi. Pia alithubutu kupinga mfumo wa vyama, ambao uliamuru kwamba ni madaktari wa upasuaji tu ndio wanaweza kufanya upasuaji na ni madaktari pekee wanaoweza kuagiza dawa. Hii mara nyingi iliwalazimu maskini kulipa mara mbili na kuleta watu wawili, hali ambayo Quesnay alipata kuwa ya kukera.
@@ -779,7 +779,7 @@ Katika umri wa miaka 60, baada ya kuanzishwa kwa mijadala ya kiuchumi wakati huo
 ![image](assets/fr/060.webp)
 
 
-Zilichapishwa mwaka wa 1757. Mwaka huohuo, alikutana na Mirabeau maarufu na kufanikiwa kumgeuza kwenye mawazo yake ya kiuchumi—msingi wa Physiocracy ulizaliwa. Quesnay kisha akaunda Tableau Économique, ambayo ilichapishwa kwenye matbaa za kifalme, iliyoripotiwa mbele ya mfalme mwenyewe katika Château de Versailles. Kuanzia wakati huo na kuendelea, mara kwa mara alikuwa mwenyeji wa wanauchumi na wanafalsafa katika nyumba yake ya Versailles, ambapo walishiriki katika majadiliano kwa uhuru. Quesnay pia alichangia Nadharia ya Mirabeau ya Ushuru, iliyochapishwa mnamo 1759.
+Zilichapishwa mwaka 1757. Mwaka huohuo, Quesnay alikutana na Mirabeau maarufu na akamshawishi kujiunga na mawazo yake ya kiuchumi—tukio lililoashiria kuzaliwa rasmi kwa Physiocracy. Baadaye, Quesnay alitunga Tableau Économique, kazi iliyochapishwa kwenye matbaa za kifalme na hata kuwasilishwa mbele ya mfalme mwenyewe katika Château de Versailles. Kuanzia hapo, mara kwa mara aliwakaribisha wanauchumi na wanafalsafa nyumbani kwake huko Versailles, ambapo walijadili kwa uhuru mawazo ya kiuchumi. Pia alichangia katika Nadharia ya Ushuru ya Mirabeau, iliyochapishwa mwaka 1759.
 
 
 ![image](assets/fr/061.webp)
