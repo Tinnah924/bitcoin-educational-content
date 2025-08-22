@@ -1207,7 +1207,7 @@ Njia ya Diderot katika nadharia ya kiuchumi ni ya kushangaza. Katika Encyclopéd
 ![image](assets/fr/100.webp)
 
 
-Kitabu hiki kingekuwa shambulio kali zaidi kuwahi kufanywa dhidi ya mawazo ya Kifiziokrasia, na kutoa pigo kubwa kwa harakati. Baadaye, Diderot alimtetea Galiani dhidi ya Abbot Morellet, mshirika wa karibu wa Physiocrats, katika *Apology of Galiani* yake. Miaka michache baadaye, wakati wa huduma ya Turgot, Diderot alionekana akipongeza kuanzishwa kwa uhuru wa kazi kupitia kukomesha vyama. Katika hatua hii, Diderot, mtoto wa fundi, alijikuta akikubaliana na wanauchumi wa huria na aliandika barua kali kwa Galiani, ambaye alidai kwamba uhuru wa kufanya kazi ungeharibu tasnia ya Ufaransa ndani ya miaka ishirini au thelathini. Kwa kuzingatia Mapinduzi ya Viwanda, historia inapendekeza vinginevyo. Baada ya kurudi upande wa wanauchumi huria, Diderot hakufurahia tena imani yao na alibaki peke yake. Wakati mzuri sana ni barua aliyotuma kwa Dupont de Nemours mnamo 1774, ambapo anaandika:
+Kitabu hiki kingekuwa shambulio kali zaidi kuwahi kufanywa dhidi ya mawazo ya Kifiziokrasia, na kutoa pigo kubwa kwa harakati. Baadaye, Diderot alimtetea Galiani dhidi ya Abbot Morellet, mshirika wa karibu wa Physiocrats, katika Apologie de l’abbé Galiani yake. Miaka michache baadaye, wakati wa huduma ya Turgot, Diderot alionekana akipongeza kuanzishwa kwa uhuru wa kazi kupitia kukomesha vyama. Katika hatua hii, Diderot, mtoto wa fundi, alijikuta akikubaliana na wanauchumi wa huria na aliandika barua kali kwa Galiani, ambaye alidai kwamba uhuru wa kufanya kazi ungeharibu tasnia ya Ufaransa ndani ya miaka ishirini au thelathini. Kwa kuzingatia Mapinduzi ya Viwanda, historia inapendekeza vinginevyo. Baada ya kurudi upande wa wanauchumi huria, Diderot hakufurahia tena imani yao na alibaki peke yake. Wakati mzuri sana ni barua aliyotuma kwa Dupont de Nemours mnamo 1774, ambapo anaandika:
 
 
 > "Wakati mmoja ulikuwa na urafiki kwa ajili yangu; sasa huna tena, kwa sababu una shughuli nyingi kwamba huna tena muda wa kumpenda mtu yeyote".
@@ -1215,7 +1215,7 @@ Kitabu hiki kingekuwa shambulio kali zaidi kuwahi kufanywa dhidi ya mawazo ya Ki
 ![image](assets/fr/101.webp)
 
 
-Voltaire alifuata njia kama hiyo, iliyoonyeshwa na ukosefu wa msimamo katika maoni yake ya kiuchumi. Alivutiwa na Vincent de Gournay, aliyeandikiana na wanauchumi (ikiwa ni pamoja na Dupont de Nemours na Turgot), na aliwashukuru Wanafizikia-hasa kwa sifa zao za kilimo. Aliwasifu katika *Diatribe kwa Mwandishi wa Ephémérides*. Hata hivyo, baadaye alikosoa wazo lao la kutozwa ushuru mmoja wa ardhi katika kazi yake ya kejeli *The Man of Forty Crowns*, ambayo pia ilizua utata mkubwa. Hatimaye, kama Diderot, alisherehekea huduma ya Turgot, akiiita enzi ya dhahabu na kusifu amri zake kuu mbili juu ya uhuru wa kazi na biashara huria.
+Voltaire alifuata njia kama hiyo, iliyoonyeshwa na ukosefu wa msimamo katika maoni yake ya kiuchumi. Alivutiwa na Vincent de Gournay, aliyeandikiana na wanauchumi (ikiwa ni pamoja na Dupont de Nemours na Turgot), na aliwashukuru Wanafizikia—hasa kwa sifa zao za kilimo. Aliwasifu katika Diatribe au Auteur des Ephémérides. Hata hivyo, baadaye alikosoa wazo lao la kutozwa ushuru mmoja wa ardhi katika kazi yake ya kejeli L'Homme aux quarante écus, ambayo pia ilizua utata mkubwa. Hatimaye, kama Diderot, alisherehekea huduma ya Turgot, akiiita enzi ya dhahabu na kusifu amri zake kuu mbili juu ya uhuru wa kazi na biashara huria.
 
 
 ![image](assets/fr/102.webp)
@@ -1230,7 +1230,7 @@ Hatimaye, uhusiano wa falsafa na mawazo ya kiuchumi ni mchanganyiko. Licha ya si
 <chapterId>a8cd8185-8351-556b-8011-3a0c313e8a9d</chapterId>
 
 
-Katika kifungu maarufu cha *Historia ya Mawazo ya Kiuchumi*, mwanauchumi wa Marekani Murray Rothbard alisifu kile alichokiita "kipaji" cha Turgot.
+Katika kifungu maarufu cha Historia ya Mawazo ya Kiuchumi, mwanauchumi wa Marekani Murray Rothbard alisifu kile alichokiita "genius" cha Turgot.
 
 
 
@@ -1243,7 +1243,7 @@ akimwakilisha kama mwanauchumi mkubwa zaidi wa karne ya 18, pamoja na Cantillon.
 ![image](assets/fr/104.webp)
 
 
-Turgot alipataje umaarufu kama huo? Ilikuja kwa mchanganyiko wa mambo matatu muhimu. **Kwanza**, asili yake ya kifahari ya familia. Alitoka kwa safu ndefu ya wasimamizi wa kifalme, ambao wengi wao walikuwa na nyadhifa za juu serikalini. **Pili**, enzi ya dhahabu ambayo alizaliwa na kukulia. Turgot alikuwa na umri wa miaka 21 Montesquieu alipochapisha *L'Esprit des Lois*, na 24 wakati juzuu ya kwanza ya *Encyclopédie* ilipotokea.
+Turgot alipataje umaarufu kama huo? Ilitokana na mchanganyiko wa mambo matatu muhimu. Kwanza, asili yake ya kifahari ya kifamilia. Alitoka katika mlolongo mrefu wa wasimamizi wa kifalme, ambao wengi wao walishikilia nyadhifa za juu serikalini. Pili, enzi ya dhahabu ambayo alizaliwa na kukulia. Turgot alikuwa na umri wa miaka 21 wakati Montesquieu alipochapisha L'Esprit des Lois, na miaka 24 wakati juzuu ya kwanza ya Encyclopédie ilipotokea.
 
 
 ![image](assets/fr/105.webp)
@@ -1270,7 +1270,7 @@ Katika miaka hii ya mapema, alifundishwa na Vincent de Gournay, ambaye alimchuku
 ![image](assets/fr/107.webp)
 
 
-Mnamo 1767, akiwa mhudumu, alitunga mkusanyiko wa uchumi chini ya jina la *Tafakari juu ya Uundaji na Ugawaji wa Mali*.
+Mnamo 1767, akiwa bado mhudumu, aliandika mkusanyiko wa kiuchumi chini ya jina la **Réflexions sur la formation et la distribution des richesses**.
 
 
 ![image](assets/fr/108.webp)
@@ -1293,7 +1293,7 @@ Turgot alitetea uhuru wa biashara ya nafaka kwa barua kwa Abbot Terray, baadaye 
 ![image](assets/fr/110.webp)
 
 
-Mnamo 1769, Turgot aliandika makala ya Thamani na Pesa kwa *Dictionnaire de Commerce* ya Abbot Morellet, ambayo hatimaye haikuchapishwa. Galiani alikuwa tayari amebainisha kuwa "mtu ndiye kipimo cha kawaida cha vitu vyote", akitarajia uchambuzi wa kibinafsi ambao Turgot angeweza kuendeleza miaka thelathini baadaye katika makala hii, ambapo anapanua na kuthibitisha pendekezo hili.
+Mnamo 1769, Turgot aliandika makala ya Valeur et Monnaie kwa ajili ya Dictionnaire de Commerce ya Abbot Morellet, ambayo hatimaye haikuchapishwa. Galiani alikuwa tayari ametamka kwamba "mtu ndiye kipimo cha kawaida cha vitu vyote," akitabiri uchambuzi wa kisubjektifu ambao Turgot angeendeleza miaka thelathini baadaye katika makala hii, ambapo alipanua na kuthibitisha pendekezo hili.
 
 
 Mnamo 1770, kabla ya Bentham, Turgot aliandika hati ya kutetea uhuru wa viwango vya riba na riba.
@@ -1334,7 +1334,7 @@ Kama tulivyokumbuka kwa ufupi katika sura iliyotangulia, Turgot alikuwa mwana wa
 ![image](assets/fr/113.webp)
 
 
-Baba yake alikuwa mchochezi wa wafanyabiashara wa Paris na babu yake mhudumu. Baada ya kufaulu katika masomo yake, mdogo wa familia ya Turgot alilenga kufikia angalau urefu huo huo. Kwanza alihudumu kwa muda kama maître des requêtes, kumaanisha kuwa alikuwa kiunganishi kati ya wahudumu na Versailles. Ilikuwa nafasi ya kifahari, ambayo ilimbidi kupata msamaha maalum wa umri, lakini Turgot alitamani zaidi. Kifo cha mshauri wake, Gournay, kilimtia moyo zaidi kulenga zaidi, na akaomba miadi kama mhudumu.
+Baba yake alikuwa mchochezi wa wafanyabiashara wa Paris na babu yake mhudumu. Baada ya kufaulu katika masomo yake, mdogo wa familia ya Turgot alilenga kufikia angalau urefu huo huo. Kwanza alihudumu kwa muda kama maître des requêtes, kumaanisha kuwa alikuwa kiunganishi kati ya wahudumu na Versailles. Ilikuwa nafasi ya kifahari, ambayo ilimbidi kupata msamaha maalum wa umri, lakini Turgot alitamani zaidi. Kifo cha mshauri wake, Gournay, kilimtia moyo zaidi kuelekeza nguvu zake, na akaomba uteuzi kama mhudumu.
 
 
 
@@ -1353,15 +1353,15 @@ Kwa sababu eneo hilo lilikuwa maskini sana, halikuwa na manufaa kwa mawaziri. Hi
 
 
 
-- Ugawaji upya wa taille**, ushuru wa kibinafsi (Turgot ililenga kutambulisha usawa mwingi iwezekanavyo katika tathmini yake).
-- The corvée**, aina ya kodi inayolipwa katika kazi, ambapo wakulima walilazimishwa kufanya kazi ya ujenzi wa barabara. Alipotembelea eneo hilo, Turgot aliona haraka hali mbaya ya barabara. Alibadilisha corvée na ushuru wa pesa.
-- Kuajiriwa kwa wanamgambo**, majeshi ya wakulima yalihamasishwa wakati wa vita.
+- **Ugawaji upya wa taille**, ushuru wa kibinafsi (Turgot ililenga kutambulisha usawa mwingi iwezekanavyo katika tathmini yake).
+- **The corvée**, aina ya kodi inayolipwa katika kazi, ambapo wakulima walilazimishwa kufanya kazi ya ujenzi wa barabara. Alipotembelea eneo hilo, Turgot aliona haraka hali mbaya ya barabara. Alibadilisha corvée na ushuru wa pesa.
+- **Kuajiriwa kwa wanamgambo**, majeshi ya wakulima yalihamasishwa wakati wa vita.
 
 
 ![image](assets/fr/115.webp)
 
 
-Hii ilifanyika kwa kura, ambayo ilisababisha hofu na vurugu kwa sababu ya kukimbia; Turgot alibadilisha tozo hizi za lazima na watu wa kujitolea wanaolipwa.
+Hii ilifanyika kwa kura, ambayo ilisababisha hofu na vurugu kwa sababu ya kukimbia; Turgot alibadilisha kazi hizi za lazima na watu wa kujitolea waliolipwa.
 
 
 Marekebisho haya yalifanikiwa bila shaka, na mnamo Julai 1774, Turgot aliteuliwa kuwa waziri. Kwa sababu ya ukosefu wake wa uzoefu, Mfalme alimweka kwanza katika Wizara ya Jeshi la Wanamaji. Uteuzi huo uliwafurahisha wengi. Turgot mwenyewe alikiri, "Sijui chochote kuhusu Jeshi la Wanamaji", na Voltaire alisema, "Sidhani kama Turgot ni baharia zaidi kuliko mimi".
@@ -1386,7 +1386,7 @@ Turgot alitayarisha amri sita za kifalme ili kurekebisha uchumi wa Ufaransa.
 Ilikuwa mara ya kwanza—na moja ya nyakati za mwisho sana—mtaalamu wa masuala ya uchumi alipewa uhuru wa kurekebisha uchumi wa nchi yake. Maagizo matatu ya Turgot yanaonekana wazi: moja ilikomesha kazi ya kulazimishwa (corvées), nyingine ilivunja vyama vya biashara (mashirika), na ya tatu ilianzisha biashara huria ya nafaka.
 
 
-Alipoingia kwenye huduma, Turgot alijua angekabili upinzani kutoka kwa tabaka za upendeleo. "Nitaogopwa, hata kuchukiwa, na wengi wa mahakama na wote wanaotafuta upendeleo," alimwambia Mfalme. Mapendeleo waliungana dhidi yake hivi karibuni na kusababisha kutimuliwa kwake kutoka kwa ofisi ya Mdhibiti Mkuu wa Fedha. Voltaire, ambaye aliunga mkono kikamilifu mageuzi ya Turgot, aliandika katika barua yake:
+Alipoingia kwenye huduma, Turgot alijua angekabiliwa na upinzani kutoka kwa tabaka za upendeleo. "Nitaogopwa, hata kuchukiwa, na wengi wa mahakama na wote wanaotafuta upendeleo," alimwambia Mfalme. Wenye mapendeleo waliungana dhidi yake hivi karibuni na kusababisha kutimuliwa kwake kutoka kwa wadhifa wa Mdhibiti Mkuu wa Fedha. Voltaire, ambaye aliunga mkono kikamilifu mageuzi ya Turgot, aliandika katika barua yake:
 
 
 > Ah! Ni habari mbaya kama nini nimesikia! Je, itakuwaje kwetu? Nimechanganyikiwa! Hatutapona kutokana na kushuhudia kuzaliwa na kufa kwa enzi ya dhahabu! Radi hii imepiga akili yangu na moyo wangu.
