@@ -1386,7 +1386,7 @@ Turgot alitayarisha amri sita za kifalme ili kurekebisha uchumi wa Ufaransa.
 Ilikuwa mara ya kwanza—na moja ya nyakati za mwisho sana—mtaalamu wa masuala ya uchumi alipewa uhuru wa kurekebisha uchumi wa nchi yake. Maagizo matatu ya Turgot yanaonekana wazi: moja ilikomesha kazi ya kulazimishwa (corvées), nyingine ilivunja vyama vya biashara (mashirika), na ya tatu ilianzisha biashara huria ya nafaka.
 
 
-Alipoingia kwenye huduma, Turgot alijua angekabiliwa na upinzani kutoka kwa tabaka za upendeleo. "Nitaogopwa, hata kuchukiwa, na wengi wa mahakama na wote wanaotafuta upendeleo," alimwambia Mfalme. Wenye mapendeleo waliungana dhidi yake hivi karibuni na kusababisha kutimuliwa kwake kutoka kwa wadhifa wa Mdhibiti Mkuu wa Fedha. Voltaire, ambaye aliunga mkono kikamilifu mageuzi ya Turgot, aliandika katika barua yake:
+Alipoingia kwenye huduma, Turgot alijua angekabiliwa na upinzani kutoka kwa tabaka za upendeleo. "Nitaogopwa, hata kuchukiwa, na wengi wa mahakama na wote wanaotafuta upendeleo," alimwambia Mfalme. Wenye mapendeleo waliungana dhidi yake hivi karibuni na kusababisha kutimuliwa kwake kutoka kwa wadhifa wa Mdhibiti Mkuu wa Fedha. Voltaire, ambaye aliunga mkono kikamilifu mageuzi ya Turgot, aliandika katika barua yake kwamba "wakati wa kupanda kwenye mti wa uhuru, lazima tukumbatie hatari za kuanguka:
 
 
 > Ah! Ni habari mbaya kama nini nimesikia! Je, itakuwaje kwetu? Nimechanganyikiwa! Hatutapona kutokana na kushuhudia kuzaliwa na kufa kwa enzi ya dhahabu! Radi hii imepiga akili yangu na moyo wangu.
@@ -1408,7 +1408,7 @@ Mwishowe, mabunge na madarasa ya upendeleo yalishinda. Yote ambayo Mfalme angewe
 <chapterId>0ba8dbb5-dcd5-5981-bf85-6c185e0bf192</chapterId>
 
 
-Kama tu biashara ya biashara, ambayo ni udhihirisho wake dhahiri wa vitendo, sophism ya Montaigne ilichukua muda mrefu kutoweka.
+Kama tu Exchange, ambayo ni udhihirisho wake wa moja kwa moja wa vitendo, sophism ya Montaigne ilichukua muda mrefu kutoweka.
 
 
 ![image](assets/fr/120.webp)
@@ -1432,13 +1432,13 @@ Kwa wanahistoria wengi wa fikra za kiuchumi, mwaka wa 1776 unaadhimishwa na ucha
 ![image](assets/fr/122.webp)
 
 
-Kwa Condillac, kama sophism ya Exchange inayoonekana kama mchezo wa sifuri itaendelea, Fisiokrati wanalaumiwa kwa sehemu, kwa sababu wanashikilia kuwa Exchange ni uhusiano wa usawa. Kulingana na Condillac, hii ni uwongo: Exchange ni uhusiano usio na usawa, ambapo kila mara mtu hutoa kidogo ili kupata zaidi.
+Kwa Condillac, kama sophism ya Exchange inayoonekana kama mchezo wa sifuri itaendelea, Physiocrats wanalaumiwa kwa sehemu, kwa sababu wanashikilia kwamba Exchange ni uhusiano wa usawa. Kwa mtazamo wa Condillac, hii si kweli: Exchange ni uhusiano usio wa usawa, ambapo kila mara mtu hutoa kidogo ili kupata zaidi.
 
 
 Kati ya mawazo ya Physiocrats na yale ya Condillac, mtu hawezi kuota juu ya upinzani kamili zaidi. Mwanauchumi wa Physiocrat Le Trosne aliandika:
 
 
-> Exchange kwa asili yake ni Contract ya usawa, iliyotengenezwa kwa thamani sawa kwa thamani sawa.
+> Exchange kwa asili yake ni Contract ya usawa, iliyoundwa kwa thamani sawa dhidi ya thamani sawa.
 
 Condillac, kwa upande wake, aliandika:
 
@@ -1451,7 +1451,7 @@ Hata hivyo, upinzani kwa kiasi kikubwa ni moja ya maneno. Wote wawili wanakubali
 ![image](assets/fr/123.webp)
 
 
-Tofauti iko katika ukweli kwamba Condillac anadai kwamba kwa vile sisi Exchange faranga ya kitabu, ina maana kwamba kwetu sisi, thamani ya kitabu ni kubwa kuliko ile ya sarafu yetu ya faranga moja. Tunapendelea kitabu kuliko sarafu, na ndiyo sababu tunatengeneza Exchange.
+Tofauti iko katika ukweli kwamba Condillac anadai kwamba kwa vile tunabadili franc kwa kitabu, ina maana kwamba kwetu sisi, thamani ya kitabu ni kubwa kuliko ile ya sarafu yetu ya franc moja. Tunapendelea kitabu kuliko sarafu, na ndiyo sababu tunafanya Exchange.
 
 
 Nadharia ya Condillac kimsingi haipingani na ile ya Wanafiziokrati, lakini hawazungumzi lugha moja, kwa kusema. Le Trosne inazungumza juu ya bei wakati Condillac inazungumza juu ya thamani, na kinyume chake.
@@ -1469,13 +1469,13 @@ Pendekezo la kwanza: tunatafuta bidhaa kwa matumizi yao. Hili linaonekana dhahir
 ![image](assets/fr/124.webp)
 
 
-Pendekezo la pili: thamani preexists na motisha kubadilishana. Hukumu ya kibinafsi ambayo kila mtu hufanya juu ya bidhaa na huduma inamaanisha kuwa bidhaa na huduma hizi hizi zina thamani kwao, zenye thamani kubwa au kidogo kulingana na matumizi wanayoonekana kutoa. Kwa kawaida, kila mtu anahukumu tofauti na mwingine, na thamani inatofautiana kutoka kwa mtu hadi mtu.
+Pendekezo la pili: thamani ipo kabla na ndiyo motisha ya kubadilishana. Hukumu ya kibinafsi ambayo kila mtu hufanya juu ya bidhaa na huduma inamaanisha kuwa bidhaa na huduma hizi zina thamani kwake, thamani kubwa au ndogo kulingana na matumizi anayoyaona. Kwa kawaida, kila mtu anahukumu kwa njia tofauti na mwingine, na thamani hutofautiana kutoka mtu hadi mtu.
 
 
-Hatimaye, pendekezo la tatu: bei ni matokeo ya mchakato wa Exchange. Bidhaa hazina Exchange kwa thamani ninayozihusisha nazo kwa sababu masharti ya Exchange pia hutegemea thamani ya kibinafsi ambayo muuzaji anahusisha bidhaa hizo. Uhusiano kati ya mnunuzi na muuzaji, au kati ya uthamini wa kibinafsi wa mnunuzi na uthamini wa kibinafsi wa muuzaji, huanzisha bei.
+Hatimaye, pendekezo la tatu: bei ni matokeo ya mchakato wa kubadilishana. Bidhaa haziwezi kubadilishana kwa thamani ninayozihusisha nazo peke yake kwa sababu masharti ya kubadilishana pia hutegemea thamani ya kibinafsi ambayo muuzaji anahusisha na bidhaa hizo. Uhusiano kati ya mnunuzi na muuzaji, yaani kati ya uthamini wa kibinafsi wa mnunuzi na ule wa muuzaji, huanzisha bei.
 
 
-Mawazo haya ya Condillac ni ya msingi. Zinaturuhusu kuelewa kwa nini kila Exchange huwa na manufaa kwa pande zote.
+Mawazo haya ya Condillac ni ya msingi. Zinaturuhusu kuelewa kwa nini kila kubadilishana huwa na manufaa kwa pande zote.
 
 
 Kwa hiyo zinaharibu kabisa ukosoaji wa biashara huria, kwani ulinzi unaonekana tu kama njia inayozuia idadi ya watu kufaidiana. Laissez-faire pia ni hitimisho la kazi ya Condillac. Watu wafanye wapendavyo, kwani ikiwa nguvu ya umma italinda uhuru na mali, watu daima watatajirishana kwa kubadilishana pamoja.
@@ -1498,7 +1498,7 @@ Kwa sehemu kubwa ya kazi yake, alijitolea katika nyanja ambazo hazihusiani kabis
 
 
 
-Condorcet hatua kwa hatua alikubali mawazo ya laissez-faire na uhuru, awali katika maeneo yasiyohusiana na uchumi wa kisiasa. Katika *Letter of a Theologia* yake, kifalsafa aliikejeli dini ya Kikatoliki na kueleza nia yake ya kuona uhuru wa kweli wa imani, ukiwemo uhuru wa kutokuamini. Katika vita vyake vya kuvumiliana na dhidi ya ushupavu wa kidini, Condorcet alipigania ukarabati wa Chevalier de la Barre na kuhukumiwa upya kwa D'Etallonde, ambaye alikuwa amehukumiwa kifo kwa kuvunja msalaba.
+Condorcet hatua kwa hatua alikubali mawazo ya laissez-faire na uhuru, awali katika maeneo yasiyohusiana na uchumi wa kisiasa. Katika Lettre d’un théologien yake, kifalsafa aliikejeli dini ya Kikatoliki na kueleza nia yake ya kuona uhuru wa kweli wa imani, ukiwemo uhuru wa kutokuamini. Katika vita vyake vya kuvumiliana na dhidi ya ushupavu wa kidini, Condorcet alipigania ukarabati wa Chevalier de la Barre na kuhukumiwa upya kwa D'Etallonde, ambaye alikuwa amehukumiwa kifo kwa kuvunja msalaba.
 
 
 
@@ -1512,7 +1512,7 @@ Kwa hivyo alikuwa tayari kutetea uhuru wakati rafiki yake Turgot alipopanda hadi
 Kuanzia wakati huo, kazi ya Condorcet ilichukua zamu alipoingia kwenye mjadala wa kiuchumi, akiunga mkono bila kuchoka mageuzi ya kiliberali ya waziri mpya. Akipendelea ushindani na uhuru wa biashara, Condorcet pia alitoa wito wa kukomeshwa kwa corvées (kazi ya kulazimishwa), mashirika, na kutozwa kodi kwa haki. Alionyesha imani hizi hadharani kila nafasi ilipotokea, akifanya hivyo kwa shauku ya wazi; aliandika kwa upana na mara moja alitangaza katika maandishi yake: "Niruhusu niongee tena juu ya uhuru wa biashara; nafurahiya kujihusisha na somo hili."
 
 
-Kati ya 1774 na 1776, wakati wa huduma ya Turgot, Condorcet alifanya hatua nyingi, zote zikiwa na Commitment yake hadi laissez-faire. Kazi zake ni pamoja na *Barua kutoka kwa Mkulima wa Picardy kwenda kwa Bwana Necker*, zinazotetea biashara huria; *Ukiritimba na Ukiritimba*, kutetea ushindani huru; *Tafakari juu ya Corvées*, inayotaka kufutwa kwao; na *Reflections on the Grain Trade*, ambayo inasifu tena biashara huria na kukosoa kitabu cha Necker kuhusu mada hiyo hiyo.
+Kati ya 1774 na 1776, wakati wa huduma ya Turgot, Condorcet alifanya hatua nyingi, zote zikiwa na kujitolea kwake hadi laissez-faire. Kazi zake ni pamoja na *Barua kutoka kwa Mkulima wa Picardy kwenda kwa Bwana Necker*, zinazotetea biashara huria; *Ukiritimba na Ukiritimba*, kutetea ushindani huru; *Tafakari juu ya Corvées*, inayotaka kufutwa kwao; na *Reflections on the Grain Trade*, ambayo inasifu tena biashara huria na kukosoa kitabu cha Necker kuhusu mada hiyo hiyo.
 
 
 Katika [*Letters on the Grain Trade*](https://archive.org/details/bub_gb_hg8jFw-y6bwC), Condorcet anabainisha mambo kadhaa muhimu.
@@ -1525,7 +1525,7 @@ Kwanza, bei ya juu ya nafaka wakati huo haikuwa matokeo ya biashara huria, bali 
 
 
 
-Kukuza ajenda ya uchumi huria ya Turgot ilikuwa kitendo cha ujasiri, kwani Condorcet alijua angekabiliwa na udhibiti haraka. Kwa kweli, hii ilitokea na kijitabu chake juu ya kukomesha kazi ya kulazimishwa kiliharibiwa na kupigwa marufuku mnamo 1776.
+Kukuza ajenda ya uchumi huria ya Turgot ilikuwa kitendo cha ujasiri, kwani Condorcet alijua angekabiliwa na udhibiti haraka. Kwa kweli, hii ilitokea na kitabu chake juu ya kukomesha kazi ya kulazimishwa kiliharibiwa na kupigwa marufuku mnamo 1776.
 
 
 
@@ -1544,9 +1544,9 @@ Ingawa alitumia nguvu zake zote kumtetea Turgot, Condorcet hakuwa na udanganyifu
 <chapterId>95e9a90d-e37a-58ff-b1ac-928b42e76ecf</chapterId>
 
 
-Dupont de Nemours alikuwa mwanafunzi mdogo zaidi wa François Quesnay, ambaye mara moja alisema juu yake: "Lazima tumtunze kijana huyu, kwa maana atazungumza tukiwa tumekufa". Mapinduzi ya Ufaransa yalipoanza, karibu Wanafiziokrati wote wakuu, kutia ndani Marquis de Mirabeau, walikuwa tayari wameondoka; Mirabeau mwenyewe alikuwa amefariki Julai 13, 1789.
+Dupont de Nemours alikuwa mwanafunzi mdogo zaidi wa François Quesnay, ambaye mara moja alisema juu yake: "Lazima tumtunze kijana huyu, kwa maana atazungumza tukiwa tumeaga". Mapinduzi ya Ufaransa yalipoanza, karibu Wanafiziokrati wote wakuu, kutia ndani Marquis de Mirabeau, walikuwa tayari wameondoka; Mirabeau mwenyewe alikuwa amefariki Julai 13, 1789.
 
-Dupont de Nemours aliandika orodha ya malalamiko kwa bailiwick ya Nemours.
+Dupont de Nemours aliandika orodha ya malalamishi kwa bailiwick ya Nemours.
 
 
 ![image](assets/fr/128.webp)
@@ -1589,7 +1589,7 @@ Dupont de Nemours alipinga hili kwa uthabiti na akachapisha kijitabu chenye kich
 ![image](assets/fr/131.webp)
 
 
-Alitia saini kijitabu hicho kama "rafiki wa watu". Kipande hicho kilizua tafrani, Bunge lilipoulizwa ni nani aliyeiandika. Dupont de Nemours kisha akasimama na kukiri kuwa ni kazi yake, akisema haoni haya kutumia cheo cha “rafiki wa watu” kwa sababu kupigana dhidi ya migawo hiyo ni kweli kuwatumikia watu.
+Alitia saini kijitabu hicho kama “rafiki wa watu.” Kipande hicho kilizua tafrani, Bunge lilipoulizwa ni nani aliyeiandika. Dupont de Nemours kisha akasimama na kukiri kuwa ni kazi yake, akisema haoni haya kutumia cheo cha “rafiki wa watu” kwa sababu kupigana dhidi ya migawo hiyo ni kweli kuwatumikia watu.
 
 Kwa mara nyingine tena, ushauri wake ulipuuzwa, na migawo ikatolewa.
 
@@ -1598,7 +1598,7 @@ Kwa mara nyingine tena, ushauri wake ulipuuzwa, na migawo ikatolewa.
 ![image](assets/fr/132.webp)
 
 
-Sote tunajua maafa yaliyofuata, uharibifu wa kiuchumi na mateso waliyovumilia watu, ambao wengi wao walipoteza kila kitu wakati migawo ilipokosa thamani na kulazimika kuchomwa moto.
+Sote tunajua maafa yaliyofuata—uharibifu wa kiuchumi na mateso waliyovumilia watu, ambapo wengi walipoteza kila kitu wakati assignat zilipopoteza thamani na kulazimika kuchomwa moto.
 
 Miaka michache baadaye, Bunge lilielekeza mawazo yake kwa wazo la kuunda Benki halisi ya Ufaransa, ambayo ingepewa ukiritimba wa uzalishaji wa pesa.
 
@@ -1618,9 +1618,9 @@ Lakini kwa mara nyingine tena, hakuna mtu aliyemsikiliza.
 <chapterId>ada8082f-db96-5e52-954f-719b47998153</chapterId>
 
 
-Mawazo ya kiuchumi ya Ufaransa katika karne ya 18 mara nyingi hufunikwa na wachumi maarufu zaidi wa karne ya 19. Hata hivyo, linapokuja suala la kutetea uhuru, ni katika karne ya 18 ndipo kila kitu kinaanza kweli. Hii ni karne ambayo kanuni ya laissez-faire, ya kimapinduzi sana wakati wake, ilionyeshwa wazi kwa mara ya kwanza na idadi ya wanafikra, kutoka Boisguilbert hadi Dupont de Nemours.
+Mawazo ya kiuchumi ya Ufaransa katika karne ya 18 mara nyingi hufunikwa na yale ya wachumi maarufu zaidi wa karne ya 19. Hata hivyo, linapokuja suala la kutetea uhuru, ni katika karne ya 18 ndipo kila kitu kilianza kwa kweli. Hii ilikuwa karne ambayo kanuni ya laissez-faire, ambayo wakati huo ilikuwa ya kimapinduzi sana, ilionyeshwa wazi kwa mara ya kwanza na idadi ya wanafikra, kuanzia Boisguilbert hadi Dupont de Nemours.
 
-Hakika, takwimu kama Jean-Baptiste Say, Frédéric Bastiat, Gustave de Molinari, na Yves Guyot waliacha alama ya kudumu kwenye historia ya fikra za kiuchumi za Ufaransa. Lakini tukizisoma tukiwa peke yetu, tunakosa jambo muhimu. Wanafikra hawa wa karne ya 19 hawakutokea popote; walirithi na kujengwa juu ya misingi iliyowekwa na watangulizi wao wa karne ya 18 wakati wa Nuru.
+Hakika, watu kama Jean-Baptiste Say, Frédéric Bastiat, Gustave de Molinari, na Yves Guyot waliacha alama ya kudumu katika historia ya fikra za kiuchumi za Ufaransa. Lakini tukizisoma peke yao, tunakosa kitu muhimu. Wanafikra hawa wa karne ya 19 hawakutokea ghafla; walirithi na wakajenga juu ya misingi iliyowekwa na watangulizi wao wa karne ya 18 katika enzi ya Nuru.
 
 
 Boisguilbert anadai kwamba nafsi zenye nia njema zinazoamini kwamba zinaweza kurekebisha kila kitu kwa kuhusisha serikali bila shaka kupindua uchumi, na kwa hiyo ni bora kuacha utaratibu wa asili wa mambo kuchukua mkondo wake.
@@ -1663,7 +1663,7 @@ Condillac anadai kuwa Exchange daima ni ya manufaa kwa pande zote na kwa hiyo in
 ![image](assets/fr/138.webp)
 
 
-Mawazo haya yote yangechukuliwa na wachumi wa karne ya 19. Baadhi, kama vile Jean-Baptiste Say, wanaweza kutoa mawazo haya usemi wa kisayansi kupitia *Mkataba wa Uchumi wa Kisiasa* mkali. Wengine, kinyume chake, wangetafuta kueneza kanuni hizi za kimsingi kwa kujitosa katika nyanja ya hadithi, riwaya, na hadithi fupi za kufurahisha, kama vile Frédéric Bastiat angefanya hivyo kwa ustadi.
+Mawazo haya yote yalikumbatiwa na wachumi wa karne ya 19. Baadhi, kama Jean-Baptiste Say, waliweza kuyapa mawazo haya usemi wa kisayansi kupitia Treatise on Political Economy wake thabiti. Wengine, kinyume chake, walitafuta kueneza kanuni hizi za kimsingi kwa kujitosa katika uwanja wa hadithi, riwaya, na hadithi fupi za kuvutia, kama Frédéric Bastiat alivyofanya kwa ustadi.
 
 
 ## Wasifu
