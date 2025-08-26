@@ -113,7 +113,7 @@ Sasa kwa kuwa nafasi ya kwanza ya Satscard imepakiwa na kiasi fulani cha bitcoin
 ![SATSCARD](assets/notext/11.webp)
 
 
-Ikiwa wewe ndiye mpokeaji, unapaswa kusakinisha programu ya Nunchuk. Baada ya kuifungua, bofya alama ya "NFC" iliyo juu ya skrini ili kuanza kusoma Satscard.
+Ikiwa wewe ndiye mpokeaji, unapaswa kusakinisha programu ya Nunchuk. Baada ya kuifungua, bofya alama ya "NFC" iliyo juu ya skrini.
 
 
 ![SATSCARD](assets/notext/12.webp)
