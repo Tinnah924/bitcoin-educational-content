@@ -360,7 +360,7 @@ Katika sehemu hii tutapata zana za kimsingi za kudhibiti nodi iliyojumuishwa:
  - _LND_Inayoendelea - washa hali hii ikiwa ungependa huduma ya LND iendeshe chinichini na uweke kifundo chako mtandaoni 24/7. Hii ni muhimu sana ikiwa unatumia Zeus kama PoS kwenye duka ndogo au unapokea vidokezo vingi vya LN juu ya LN Address.
  - _Changanua tena wallet_ - chaguo hili litaanzisha wakati wa kuanzisha upya uchanganuzi kamili wa txs zote za onchain za Wallet yako. Iwashe ikiwa tu unakosa baadhi ya txs kwenye Wallet yako. Kazi ya kuchambua upya itachukua muda, dakika kadhaa kwa hivyo kuwa na subira na uangalie kumbukumbu kila wakati ili kuona maelezo zaidi kuhusu maendeleo.
  - _Compact Database_ - chaguo hili ni muhimu sana ikiwa programu yako ya Zeus inachukua nafasi nyingi za kifaa (angalia maelezo ya programu katika mipangilio ya kifaa chako). Ikiwa una shughuli nyingi kwa kutumia Zeus, ningependekeza kufanya compaction hii mara nyingi zaidi. Mara tu unapoona kuwa una data zaidi ya 1-1.5GB ya programu ya Zeus, fanya ujumuishaji. Itaanza upya na kuchukua muda, kwa hivyo kuwa na subira.
--_Futa faili za Neutrino_ – chaguo hili la kufuta faili za Neutrino (kupitia kuwasha upya) litapunguza sana matumizi ya hifadhi ya data. Kupunguza matumizi ya data pia kuna athari chanya katika matumizi ya betri, hasa ikiwa unatumia Zeus katika hali inayoendelea .
+-_Futa faili za Neutrino_ – chaguo hili la kufuta faili za Neutrino (kupitia kuwasha upya) litapunguza sana matumizi ya hifadhi ya data. Kupunguza matumizi ya data pia kuna athari chanya katika matumizi ya betri,kupunguza matumizi ya betri, hasa ikiwa unatumia Zeus katika hali inayoendelea .
 
 
 **D - Maelezo ya Node**
