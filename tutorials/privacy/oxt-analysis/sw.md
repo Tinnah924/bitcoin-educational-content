@@ -1,4 +1,4 @@
-qqq---
+---
 name: OXT - Uchambuzi wa Mnyororo
 description: Boresha misingi ya uchanganuzi wa mnyororo kwenye Bitcoin
 ---
