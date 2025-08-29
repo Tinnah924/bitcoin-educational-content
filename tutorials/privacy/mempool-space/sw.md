@@ -303,6 +303,8 @@ Interface hii inatoa taarifa kuhusu:
 
 
 
+
+
 - node za Lightning Network zimetengwa kulingana na mtoa huduma wa mtandao (hosting service) na kwa hiari kulingana na uwezo wa njia ya malipo.
 
 ![distribution](assets/fr/17.webp)
@@ -351,6 +353,7 @@ Katika sehemu ya **Michoro**, unaweza kuona data muhimu kuhusu mtandao wa Bitcoi
 
 
 Kwa kuwa sasa umefika mwisho wa safari yako kwenye Mempool.space, kuwa mgunduzi wako mwenyewe na ufuatilie miamala yako kwa wakati halisi. Tafadhali pata chini ya nakala yetu juu ya mpelelezi wa Bitcoin **Public Pool**.
+
 
 
 https://planb.network/tutorials/mining/pool/public-pool-42b9e1b5-722d-471d-b1e3-9ca758065be1
