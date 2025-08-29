@@ -233,7 +233,7 @@ Miner inarejelea mtu anayesimamia mgodi, yaani, kompyuta inayohusika na mchakato
 
 https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 
-❗Wachimba madini ni kama "wathibitishaji" ambao huthibitisha na kupanga miamala katika block. Ili kuongeza block kipya kwenye mtandao wa Bitcoin, wanapaswa kutatua puzzle tata ya hisabati (Proof-of-Work). Miner wa kwanza ya kutatua fumbo itapata zawadi ya Bitcoin (ruzuku ya kuzuia + ada za miamala iliyojumuishwa kwenye block).
+❗Miners ni kama "wathibitishaji" ambao huthibitisha na kupanga miamala katika block. Ili kuongeza block kipya kwenye mtandao wa Bitcoin, wanapaswa kutatua puzzle tata ya hisabati (Proof-of-Work). Miner wa kwanza ya kutatua fumbo itapata zawadi ya Bitcoin (ruzuku ya kuzuia + ada za miamala iliyojumuishwa kwenye block).
 
 
 
@@ -300,8 +300,6 @@ Interface hii inatoa taarifa kuhusu:
 
 
 ⚠️**MUHIMU**: Uwezo wa kituo cha malipo hubainisha kiwango cha juu zaidi ambacho node inaweza kutuma kwenye node nyingine wakati wa muamala wa Lightning.
-
-
 
 
 
