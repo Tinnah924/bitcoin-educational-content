@@ -297,6 +297,7 @@ Interface hii inatoa taarifa kuhusu:
 ![distribution](assets/fr/16.webp)
 
 
+
 ⚠️**MUHIMU**: Uwezo wa kituo cha malipo hubainisha kiwango cha juu zaidi ambacho node inaweza kutuma kwenye node nyingine wakati wa muamala wa Lightning.
 
 - node za Lightning Network zimetengwa kulingana na mtoa huduma wa mtandao (hosting service) na kwa hiari kulingana na uwezo wa njia ya malipo.
