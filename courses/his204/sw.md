@@ -121,7 +121,7 @@ Kulikuwa na mamia ya sheria kama hizo, zilizokusanywa kwa idadi maalum kwa kila 
 ![image](assets/fr/005.webp)
 
 
-Yeyote anayetaka kufanya biashara ilimbidi kwanza atumie miaka kadhaa kama mwanafunzi, kisha kama msafiri, kabla ya kujaribu kufikia hadhi ya bwana kwa kutoa masterpiece na kulipa kiasi kikubwa kwa chama.
+Yeyote anayetaka kufanya biashara ilimbidi kwanza atumie miaka kadhaa kama mwanafunzi, kisha kama msafiri, kabla ya kujaribu kufikia hadhi ya bwana kwa kutoa masterpiece na kulipa kiasi kikubwa kwa chama. Kwa hivyo, ushindani ndani ya kila biashara ulikuwa mdogo sana.
 
 
 
