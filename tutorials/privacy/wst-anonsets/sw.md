@@ -60,13 +60,14 @@ Kwa maneno mengine, mchambuzi anayejua shughuli yako ya awali wakati wa kuingia 
 ![coinjoin](assets/en/2.webp)
 
 
-.
+Kinyume chake, mchambuzi anayejua UTXO yako wakati wa kuondoka kwa mizunguko ya CoinJoin anapaswa kushindwa kubainisha shughuli ya awali wakati wa kuingiza mizunguko (uchambuzi kutoka kwa njia ya kutoka kwa mzunguko hadi kuingia kwa mzunguko).
 
 
 ![coinjoin](assets/en/3.webp)
 
 
-Ili kutathmini ugumu wa mchambuzi kuunganisha kati ya yaliyopita na ya sasa (na kinyume chake), ni muhimu kubainisha ukubwa wa seti ambamo sarafu yako imejificha. Hatua hii inaonyesha idadi ya matokeo yanayowezekana kwa usawa. Kwa hivyo, ikiwa matokeo sahihi yako yamechanganyika na matokeo mengine 3 yenye uwezekano sawa, kiwango chako cha ufichaji ni cha chini sana. Lakini ikiwa matokeo sahihi yako yapo ndani ya seti ya matokeo 20,000 yanayowezekana kwa usawa, basi sarafu yako imefichwa vizuri sana.
+
+Ili kutathmini ugumu wa mchambuzi kuunganisha yaliyopita na ya sasa na kinyume chake, ni muhimu kubainisha ukubwa wa vikundi ambamo sarafu yako imefichwa. Hatua hii inatuambia idadi ya uchanganuzi kuwa na uwezekano sawa. Kwa hivyo, ikiwa uchanganuzi sahihi umezama kati ya uchanganuzi mwingine 3 wa uwezekano sawa, kiwango chako cha ufichaji ni cha chini sana. Kwa upande mwingine, ikiwa uchanganuzi sahihi uko ndani ya seti ya uchanganuzi 20,000 zote zinazowezekana kwa usawa, sarafu yako imefichwa vizuri sana.
 
 
 Na kwa usahihi, saizi ya vikundi hivi inawakilisha viashiria vinavyoitwa "anonsets".
@@ -286,7 +287,8 @@ Ikiwa tutazingatia muamala huu kama CoinJoin ya kwanza iliyotekelezwa kwa sarafu
 
 Iwapo tutazingatia muamala huu kama CoinJoin ya mwisho ya sarafu, basi ina urejeshi usiofaa wa `42,185`. Hii inamaanisha kuwa kuna `42,185` vyanzo vinavyowezekana vya UTXO hii. Ikiwa mwangalizi wa nje atatambua sarafu hii mwishoni mwa mizunguko na kutafuta kufuatilia asili yake, atakabiliwa na `42,185` vyanzo vinavyowezekana, vyote vikiwa na uwezekano sawa wa kuwa asili inayotafutwa.
 
-Kando na metrics za backward na forward, WST pia hukupa kiwango cha kuenea kwa output yako ndani ya pool kulingana na churn. Kiashiria hiki hukuwezesha kutathmini kiwango cha kufichika kwa kipande chako. Kiwango hiki ni muhimu hasa kwa mtumiaji anayetarajia kufanikisha churn. Kwa mfano, ikiwa kipande chako kina kiwango cha kuenea cha 15%, inamaanisha kinaweza kuchanganyikana na 15% ya vipande vilivyomo kwenye pool. Hii ni nzuri, lakini bado kuna nafasi kubwa ya kuboresha kwa kuendelea kuchurn. Kinyume chake, ikiwa kipande chako kina kiwango cha kuenea cha 95%, basi uko karibu na kikomo cha pool. Unaweza kuendelea kuchanganya, lakini anonset yako haitaongezeka sana.
+
+Kando na alama za kukosekana kwa mpangilio, WST pia hukupa kiwango cha uenezaji wa pato lako ndani ya hifadhi kulingana na kutoweka. Kiashiria hiki kingine hukuruhusu kutathmini uwezekano wa uboreshaji wa kipande chako. Kiwango hiki ni muhimu hasa kwa anayetarajiwa kutoweka. Hakika, ikiwa kipande chako kina kiwango cha kuenea kwa 15%, inamaanisha inaweza kuchanganyikiwa na 15% ya vipande kwenye bwawa. Hiyo ni nzuri, lakini bado una ukingo mkubwa sana wa kuboreshwa kwa kuendelea kuiga. Kwa upande mwingine, ikiwa kipande chako kina kiwango cha kueneza cha 95%, basi unakaribia mipaka ya bwawa. Unaweza kuendelea kuchanganya, lakini anonse yako haitaongezeka sana.
 
 
 Ni muhimu kutambua kwamba anonsets zilizohesabiwa na WST sio sahihi kabisa. Kwa kuzingatia idadi kubwa ya data ya kuchakatwa, WST hutumia algoriti ya *HyperLogLogPlusPlus* ili kupunguza kwa kiasi kikubwa mzigo unaohusishwa na uchakataji wa data ya ndani na kumbukumbu muhimu. Hii ni algoriti inayoruhusu kukadiria idadi ya thamani tofauti katika seti kubwa za data huku ikidumisha usahihi wa juu wa matokeo. Kwa hivyo, alama zinazotolewa ni nzuri za kutosha kutumika katika uchanganuzi wako, kwani ni makadirio ya karibu sana na ukweli, lakini hazipaswi kufasiriwa kama maadili kamili kwa kitengo.
