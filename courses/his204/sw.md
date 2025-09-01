@@ -16,7 +16,7 @@ objectives:
 
 
 
-Mwanzoni mwa karne ya 18 nchini Ufaransa, mtazamo mpya kuhusu uchumi ulianza kuchipuka. Ulikuja kama mwitikio kwa udhibiti mkali wa Utawala wa Kale na ukajengwa juu ya wazo kuu moja: laissez-faire — "iachiwe ifanyike."
+Mwanzoni mwa Ufaransa wa karne ya 18, njia mpya ya kufikiria juu ya uchumi ilianza kuchukua sura. Iliibuka kama jibu kwa udhibiti mzito wa Utawala wa Kale na ilijikita kwenye wazo moja lenye nguvu: *laissez-faire* — "itendeke".
 
 Maneno hayo yanasemekana yalitokana na mazungumzo kati ya mfanyabiashara na Waziri Colbert. Waziri alipouliza, "Serikali inaweza kufanya nini kusaidia biashara yako?" mfanyabiashara alijibu, "Hebu  Tufanye hivyo" "Laissez-nous faire.".
 
@@ -823,7 +823,7 @@ Kitabu hiki kilikusanya michango kuu ya Quesnay. Iliweka hali bora ya kiuchumi y
 <chapterId>4236ff8b-b53a-59e7-92c0-f96f9afa1c00</chapterId>
 
 
-Fiziokrasia ilienea kwa kasi nchini Ufaransa na hata barani Ulaya, lakini kwa kipindi kifupi cha takribani muongo mmoja pekee. Baada ya mchakato wa polepole wa kujijenga, ilifikia kilele cha umaarufu wake katikati ya miaka ya 1760. Hata hivyo, kufikia mwaka 1776 Turgot alipoingia madarakani, vuguvugu hilo lilikuwa tayari limeanza kufifia. Turgot, ingawa alibaki mfuasi wa Quesnay, alilazimika kulihifadhi jambo hilo kwa siri kutokana na kupungua kwa ushawishi wa shule hiyo.
+Fiziokrasia ikawa ya mtindo nchini Ufaransa, na hata kote Ulaya, kwa muongo mmoja tu. Baada ya muda mrefu wa maendeleo, ilipata umaarufu katikati ya miaka ya 1760. Kufikia wakati Turgot alipoingia mamlakani mwaka wa 1776, vuguvugu hilo lilikuwa tayari limepoteza umaarufu wake, na waziri huyo aliendelea kuunga mkono shule ya Quesnay kwa siri.
 
 
 Asili yake iko katika mageuzi ya mawazo ya kiuchumi wakati wa miaka ya 1750. Waandishi kadhaa walisaidia kuziba pengo kati ya Boisguilbert na kile ambacho kingejulikana baadaye kama Physiocracy. Kama ilivyojadiliwa hapo awali, Vincent de Gournay na mduara wake wa wanauchumi walikuwa nyuma ya machapisho mengi ambayo yaliwaletea wasomaji wa Kifaransa mawazo ya kiuchumi ya kigeni na kusaidia kuwasha shauku yao ya uchumi. Misingi ya Fizikia tayari ilipatikana katika vitabu kama vile "Détail de la France" cha Boisguilbert na ["Insha kuhusu Hali ya Biashara kwa Ujumla"](https://archive.org/details/essaisurlanature0000cant) cha Cantillon.
@@ -857,7 +857,8 @@ Kufikia mwisho wa mazungumzo yao, Mirabeau alikubaliana na mawazo ya Quesnay. Ku
 ![image](assets/fr/068.webp)
 
 
-Juhudi za Physiocrats hazikupokelewa kwa shauku kubwa. Katika ikulu, majibu yalikuwa ya kutojali. Ingawa mfalme alimkubalia Quesnay kidhahania na hata kwa mapenzi akamwita “mtazamo wangu”, heshima hiyo haikufasiriwa kuwa na matokeo ya kweli. Kinyume chake, Théorie de l’Impôt yao iliwakasirisha sana wasimamizi wa kodi waliokosolewa humo, kiasi cha kumfanya Mirabeau afungwe. Ni kupitia ushawishi wa Madame de Pompadour ndipo aliachiliwa, lakini bado alilazimika kukaa uhamishoni kwa muda katika mali yake huko Bignon.
+
+Juhudi zao hazikukaribishwa kwa uchangamfu. Katika mahakama, majibu yaliyokuwepo yalikuwa kutojali. Mfalme alikubali mwelekeo wa Quesnay wa nadharia na kwa upendo akamwita "mtazamo wangu". Lakini mbali na pongezi hizo, kazi yao haikupata matokeo yoyote. Kwa hakika, Nadharia yao ya Ushuru iliwaudhi wasimamizi wa kodi iliowakosoa, kiasi kwamba walidai na kupata kifungo cha Mirabeau. Madame de Pompadour hatimaye aliachiliwa, lakini aliendelea kuishi uhamishoni katika mali yake huko Bignon kwa wiki chache.
 
 
 
@@ -895,7 +896,7 @@ Fiziokrasia ingeendelea kuwa na ushawishi kupitia Mapinduzi. Huko Ufaransa, kwan
 
 <chapterId>4dbe5436-0578-57c2-b054-03ed00aa091a</chapterId>
 
-Neno Physiocracy, lenye maana ya “serikali kwa asili”, lilibuniwa na Dupont de Nemours na kisha likatumiwa kama kichwa cha Physiocracy, mkusanyiko wa maandiko ya Quesnay uliochapishwa mwaka 1768.
+Neno Physiocracy, lenye maana ya “serikali kwa asili”, lilibuniwa na Dupont de Nemours na kisha likatumiwa kama kichwa cha *Physiocracy*, mkusanyiko wa maandiko ya Quesnay uliochapishwa mwaka 1768.
 
 
 
@@ -1001,7 +1002,7 @@ Kama tulivyoona katika sura ya kwanza kati ya sura tatu zilizotolewa kwa Wanafiz
 Mafanikio yao makubwa zaidi, kufuatia kikundi cha Gournay, ilikuwa kueneza mawazo ya kiuchumi. Msemo maarufu wa Voltaire unajulikana sana: karibu 1750, taifa, lililoshiba mashairi na riwaya, lilianza kujadiliana juu ya nafaka. Wanafiziokrati walishiriki katika harakati hii, wakichapisha kihalisi mamia ya makala, vijitabu, na vitabu kuhusu uhuru wa biashara ya nafaka. Msukumo mkubwa uliotolewa na Wanafiziokrati kwa majadiliano ya kiuchumi pia unaonekana katika idadi ya kuvutia ya kazi za kiuchumi na vipeperushi vilivyochapishwa nchini Ufaransa kutoka 1760 hadi 1775. Kama ushahidi zaidi wa kuenea kwa mawazo ya kiuchumi nchini Ufaransa, mtu anakumbuka maneno ya M. de Vaublanc, yaliyotajwa katika hotuba ya awali, ambaye alisema huko Metz katika 174 kwamba watu hawakuzungumza chochote kuhusu kiuchumi. "Ilikuwa mtindo," alisema. "Kila mtu alikuwa mchumi".
 
 
-Utetezi wa mawazo yao, katika vitabu, vijitabu, na katika jarida lao Les Éphémérides du Citoyen, ulipata matokeo haraka katika sera ya uchumi ya Ufaransa. Mnamo 1763, amri ilitoa uhuru wa biashara ya nafaka, ambayo Quesnay na Mirabeau walikuwa wamedai sana. Mara kadhaa, mamlaka pia ilirahisisha kanuni zinazosimamia vyama vya biashara ili kuhakikisha uhuru zaidi wa kufanya kazi.
+Utetezi wa mawazo yao, katika vitabu, vijitabu, na katika jarida lao *Les Éphémérides du Citoyen*, ulipata matokeo haraka katika sera ya uchumi ya Ufaransa. Mnamo 1763, amri ilitoa uhuru wa biashara ya nafaka, ambayo Quesnay na Mirabeau walikuwa wamedai sana. Mara kadhaa, mamlaka pia ilirahisisha kanuni zinazosimamia vyama vya biashara ili kuhakikisha uhuru zaidi wa kufanya kazi.
 
 
 Nje ya nchi, mafanikio yalikuja mapema sana. Huko Ujerumani, Margrave wa Baden walipendezwa na mawazo ya fizikia na kudumisha mawasiliano ya mara kwa mara na Mirabeau na Dupont de Nemours.
@@ -1171,7 +1172,7 @@ Licha ya maisha haya yenye matukio mengi, ambapo alichapisha kadhaa ya makala, v
 <chapterId>16bcf7bf-dad4-5113-8c64-2800f04ff07b</chapterId>
 
 
-Karne ya 18 huko Ufaransa ilishuhudia kuzaliwa kwa uchumi kama sayansi huru na shule ya kwanza rasmi ya mawazo ya kiuchumi: Physiocracy. Hapo ndipo Adam Smith alipokutana na taaluma ya uchumi, akipata msukumo muhimu kutoka kwa wanauchumi wa Kifaransa waliokuwa tayari wanaheshimiwa kimataifa kama viongozi wa fikra. Hata hivyo, karne hii imebaki zaidi katika kumbukumbu kama karne ya falsafa kuliko ya uchumi. Ingawa harakati ya Kifiziokrasia ilishirikiana na falsafa ya Kutaalamika katika matarajio yake ya kuongoza jamii kwa misingi ya kanuni za asili na busara, mitazamo ya wanafalsafa—hasa Diderot na Voltaire—inastahili kuchunguzwa kwa karibu zaidi. Tutagundua kwamba wanafalsafa wa Kutaalamika walikuwa chombo kikuu cha kusambaza na kuhalalisha wazo la laissez-faire nchini Ufaransa.
+Karne ya 18 huko Ufaransa iliona kuibuka kwa uchumi kama sayansi na shule ya kwanza ya mawazo ya kiuchumi: Physiocracy. Adam Smith alipata mafunzo ya uchumi katika kipindi hiki, na wanauchumi wa Ufaransa walitambuliwa ulimwenguni kote kama viongozi. Walakini, karne hii inakumbukwa zaidi kama karne ya falsafa kuliko ya uchumi. Ingawa vuguvugu la Kifiziokrasia lililingana, katika matamanio yake, na falsafa ya Kutaalamika, mitazamo ya wanafalsafa—hasa Diderot na Voltaire—inastahili uchunguzi wa karibu. Tutaona kwamba wanafikra za Kutaalamika walichangia kwa kiasi kikubwa kueneza wazo la laissez-faire nchini Ufaransa.
 
 
 
