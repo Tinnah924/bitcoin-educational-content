@@ -37,7 +37,7 @@ Hebu tuchukue mfano ili kuelewa muundo huu wa muamala. Alice yuko dukani kununua
 
 ![transaction stonewall bakery](assets/en/1.webp)
 
-Tukichanganua muamala huu, tunaweza kuona kwamba mpokeaji alipokea 4,000 Sats kama malipo ya baguette. Alice alitumia UTXO 2 kama pembejeo: moja ya 10,000 Sats na moja ya 15,000 Sats. Kutokana na matokeo hayo, alipokea UTXO 3: moja ya 4,000 Sats, moja ya 6,000 Sats, na moja ya 11,000 Sats. Alice ana salio halisi la -4,000 Sats katika muamala huu, ambalo linalingana na bei ya baguette.
+Tukichanganua muamala huu, tunaweza kuona kwamba mwokaji alipokea `4,000 Sats` kama malipo ya baguette. Alice alitumia UTXO 2 kama pembejeo: moja ya `10,000 Sats` na moja ya `15,000 Sats`. Kama matokeo, alipokea UTXO 3: moja ya `4,000 Sats`, moja ya `6,000 Sats`, na moja ya `11,000 Sats`. Alice ana salio halisi la `-4,000 Sats` katika shughuli hii, ambayo inalingana na bei ya baguette.
 
 
 Katika mfano huu, niliacha kwa makusudi ada za Mining ili kuwezesha uelewaji. Kwa kweli, ada za muamala hulipwa kikamilifu na mtumaji.
@@ -45,8 +45,7 @@ Katika mfano huu, niliacha kwa makusudi ada za Mining ili kuwezesha uelewaji. Kw
 
 ## Kuna tofauti gani kati ya Stonewall na Stonewall x2?
 
-Muamala wa Stonewall unafanya kazi kwa njia sawa na muamala wa Stonewall x2; tofauti pekee ni kwamba muamala huo unahitaji ushirikiano, tofauti na muamala wa kawaida wa Stonewall; kwa hivyo unaitwa “Stonewall x2”. Hakika, muamala wa Stonewall unaweza kutekelezwa bila ushirikiano wa watu wengine: mtumaji anaweza kuutekeleza bila msaada wa mtu mwingine. Walakini, katika muamala wa Stonewall x2, mshiriki mwingine anajiunga na mchakato. Mshiriki huyo huchangia Bitcoin zake kama pembejeo, kando na zile za mtumaji, na hupokea jumla yote kama toleo baada ya kuondoa ada za Mining.
-
+Muamala wa Stonewall unafanya kazi kwa njia sawa na muamala wa StonewallX2, tofauti pekee ikiwa kwamba mwisho huo unahitaji ushirikiano, tofauti na shughuli ya kawaida ya Stonewall, kwa hivyo jina la "x2". Hakika, shughuli ya Stonewall inaweza kutekelezwa bila kuhitaji ushirikiano wa nje: mtumaji anaweza kuifanya bila usaidizi wa mtu mwingine. Walakini, kwa shughuli ya Stonewall x2, mshiriki wa ziada, anayeitwa "mshiriki," anajiunga na mchakato. Mshiriki huchangia bitcoins zake kama ingizo, kando na zile za mtumaji, na hupokea jumla yote kama pato (ondoa ada za Mining)
 
 Wacha tuangalie tena mfano wetu na Alice kwenye duka la mkate. Ikiwa angetaka kufanya muamala wa Stonewall x2, Alice angelazimika kushirikiana na Bob (mtu wa tatu) wakati wa kuunda muamala. Kila mmoja angetoa pembejeo UTXO. Bob basi angepokea kiasi kamili cha mchango wake kama pato. Mwokaji angepokea malipo ya baguette yake kwa njia sawa na katika muamala wa Stonewall, wakati Alice angepokea salio lake la awali, ukiondoa gharama ya baguette.
 
