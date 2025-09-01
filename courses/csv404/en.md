@@ -285,7 +285,7 @@ Best practices include maintaining a curated federation serving specific needs r
 The combination of CLI and API access provides operational flexibility - CLI commands for manual administration and testing, API integration for automated workflows and applications. Understanding both approaches ensures choosing the most appropriate method for each universe management task while maintaining consistent operational practices across your taproot asset infrastructure.
 
 # First Mints and Transactions
-<partId>c8a5f7d2-9e3b-4d6c-7f8a-2b5c9e1d3a65</partId>
+<partId>c4d0776e-870b-11f0-86c9-8fee09142fba</partId>
 
 ## Mint from the CLI
 <chapterId>f5b9c3e7-8d2a-4f7e-9b6c-3a8d5e2c1f76</chapterId>
