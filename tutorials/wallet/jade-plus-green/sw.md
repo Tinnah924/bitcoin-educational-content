@@ -22,14 +22,15 @@ Jade Plus inaoana na programu nyingi za usimamizi za Wallet. Hapa kuna muhtasari
 
 | Desktop | Mobile | USB | Bluetooth | QR | JadeLink | Management software
 | ------------------- | ------- | ------ | --- | ----------- | --- | -------- |
-| Blockstream Green | ðŸŸ¢ | ðŸŸ¢ | ðŸŸ¢ (Mobile) | ðŸŸ¢ | ðŸ”´ |
-| Liana | ðŸŸ¢ | ðŸ”´ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ |
-| Sparrow | ðŸŸ¢ | ðŸ”´ | ðŸŸ¢ | ðŸ”´ | ðŸŸ¢ | ðŸŸ¢ |
-| Nunchuk | ðŸŸ¢ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸŸ¢ | ðŸŸ¢ |
-| Specter | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸŸ¢ | ðŸŸ¢ |
-| BlueWallet | ðŸŸ¢ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸŸ¢ | ðŸŸ¢ |
-| Electrum | ðŸŸ¢ | ðŸ”´ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸ”´ |
-| Keeper | ðŸ”´ | ðŸŸ¢ | ðŸ”´ | ðŸ”´ | ðŸŸ¢ | ðŸ”´ |
+Blockstream Green | 🟢 | 🟢 | 🟢 (Mobile) | 🟢 | 🔴 |
+| Liana | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
+| Sparrow | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 |
+| Nunchuk | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| Specter | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| BlueWallet | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 |
+| Electrum | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 |
+| Keeper | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 |
+
 
 Katika somo hili, tutasanidi na kutumia Jade Plus na programu ya simu ya Blockstream ya Green Wallet kupitia muunganisho wa Bluetooth. Mpangilio huu ni bora kwa Kompyuta. Ikiwa unatafuta mbinu ya hali ya juu zaidi, ninapendekeza uangalie mafunzo haya ambapo tunatumia Jade Plus na Sparrow Wallet katika modi ya misimbo ya QR:
 
