@@ -586,7 +586,7 @@ Kustaajabishwa huku kulimpelekea kutafsiri, na kugawa tafsiri za maandishi yao y
 Ilibainika kuwa nafasi yake katika utawala mkuu ilimruhusu Gournay kuwasiliana na wataalamu wote wa uchumi waliojulikana nchini Ufaransa wakati huo. Kwa njia hii, alikusanya kikundi cha watafsiri wenye uwezo sana. Yeye binafsi alitafsiri kazi za Mtoto na Culpeper. Abate Le Blanc alitafsiri Mijadala ya Kisiasa ya David Hume. Véron de Forbonnais alitafsiri mwanauchumi wa Uhispania Geronymo de Uztariz. Turgot alifanyia kazi maandishi ya Josiah Tucker, na mtoto wa Montesquieu alitafsiri Joshua Gee.
 
 
-Shukrani kwa ushirikiano wa wanachama kadhaa wa mduara wa Gournay, waandishi wengi waliweza kuchapisha kazi asili chini ya majina yao wenyewe. Vitabu hivi, pamoja na tafsiri, vilipata mafanikio ya ajabu. Baadhi ya mifano mashuhuri ni pamoja na Essai sur la nature du commerce en général ya Cantillon, Histoire du commerce ya Savary, na Considérations sur le commerce et la navigation ya Dutot:
+Shukrani kwa ushirikiano wa wanachama kadhaa wa mduara wa Gournay, waandishi wengi waliweza kuchapisha kazi asili chini ya majina yao wenyewe. Vitabu hivi, pamoja,
 
 
 
