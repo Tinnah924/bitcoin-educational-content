@@ -54,7 +54,7 @@ Sats.Mobi inatukaribisha kwa kutuonyesha ujumbe unaoainisha utendakazi wake mkuu
 ![image](assets/it/05.webp)
 
 
-Inafahamika kuwa Sats.Mobi pia huunda LN Address isiyojulikana, inayoweza kutumika kwa ajili ya faragha zaidi. Bot hii inaendeshwa kwa kutumia amri—bonyeza tu neno linalolingana, au andika moja kwa moja kwa kuanza na alama ya “/” kwenye upau wa ujumbe, ikifuatiwa na amri unayotaka kutekeleza. Hata kama Wallet imeundwa hivi punde, unaweza kuchagua kwa mfano _/transactions_ kuona historia ya miamala.
+Inafahamika kuwa Sats.Mobi pia iliunda LN Address isiyojulikana, ili itumike kupata faragha. Boti inafanya kazi na amri: bonyeza tu kwenye neno linalolingana, au chapa kufyeka "/" kwenye upau wa ujumbe, ikifuatiwa na amri unayotaka kutekeleza. Hata kama Wallet imeundwa hivi punde, chagua kwa mfano _/transactions_.
 
 
 ![image](assets/it/06.webp)
@@ -107,13 +107,14 @@ Wallet hutuma ujumbe kuomba uthibitisho. Kwa kubofya _Pay_, Invoice inalipwa.
 ![image](assets/it/12.webp)
 
 
-Sats.Mobi hutegemea nodi ya Lightning yenye ufanisi na iliyounganishwa vyema, hivyo ni nadra sana kuona malipo yakishindwa, kwa kuwa kawaida hupata mwelekeo sahihi kwa haraka.
+Sats.Mobi hutegemea node ya Lightning yenye ufanisi na iliyounganishwa vyema, hivyo ni nadra sana kuona malipo yakishindwa, kwa kuwa kawaida hupata mwelekeo sahihi kwa haraka.
 
 
 ### Kulipa kwa raha kutoka kwa rununu
 
 
-Unapotumia Telegram kwenye simu ya mkononi, unaweza pia kufikia Sats.Mobi. Njia rahisi zaidi ya kulipa kwa simu ni kwa scanning yamsimbo wa QR, lakini kwa kuwa Sats.Mobi si programu ya kujitegemea bali inafanya kazi ndani ya Telegram, haina element hicho moja kwa moja. Hata hivyo, imeratibiwa kuifanya iwe rafiki kwa simu kadiri inavyowezekana: inaweza kusoma picha ya msimbo wa QR, kwa mfano ikiwa umepiga picha ya Invoice unayotaka kulipa.
+
+Kuvinjari kwenye Telegram, Sats.Mobi inapatikana pia kwenye simu ya mkononi. Kazi rahisi zaidi ya kulipa na simu ni skanning msimbo wa QR, lakini Wallet hii haina kwa kubuni, kwa kuwa sio programu ya kujitegemea lakini iko kwenye mtandao wa kijamii. Kwa hivyo Sats.Mobi imeratibiwa kuwezesha utumiaji wa simu kadiri inavyowezekana: inaweza kusimbua picha, kama picha iliyopigwa ya msimbo wa QR wa Invoice unayotaka kulipa.
 
 
 Tuseme, kwa mfano, unataka kulipa Invoice ya 50 Sats.
