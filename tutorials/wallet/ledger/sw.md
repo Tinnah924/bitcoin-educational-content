@@ -277,7 +277,7 @@ Baada ya pause, wakati kompyuta inafikiri, utaona vifungo upande wa kushoto viki
 ## Kupokea
 
 
-Baada ya pause, wakati kompyuta inafikiri, utaona vifungo upande wa kushoto vikibadilika kutoka kijivu hadi bluu. Hongera, Wallet yako sasa iko tayari kutumika. Fanya na utume miamala kwa maudhui ya moyo wako.
+Ili kupokea Bitcoin, nenda kwenye kichupo cha Anwani kilicho upande wa kushoto na uchague mojawapo ya anwani za kupokea. Bofya tu kulia Address unayotaka, na uchague "nakala ya Address". Kisha nenda kwa Exchange yako ambapo pesa zinatumwa kutoka na ubandike hapo. Au unaweza kutoa Address kwa mteja ambaye anaweza kuitumia kukulipa.
 
 
 Unapotumia Wallet kwa mara ya kwanza, unapaswa kupokea kiasi kidogo sana, ujizoeze kuitumia kwa Address nyingine, ama ndani ya Wallet au kurudi kwenye Exchange, ili kuthibitisha kwamba Wallet inafanya kazi inavyotarajiwa.
