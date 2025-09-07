@@ -198,7 +198,9 @@ Ces biens se distinguent par leur **capacité à être demandés par autrui**, q
 
 Le néolithique établit ainsi les bases de l'économie moderne : spécialisation du travail, propriété privée, accumulation de richesses, hiérarchisation sociale et émergence de systèmes d'échange sophistiqués qui transcendent les liens de parenté et de voisinage direct.
 
-##La formation des premières cités et l'émergence de l'écriture
+## La formation des premières cités et l'émergence de l'écriture
+<chapterId>d6b799c2-8bf1-11f0-9c54-1b9f4f4c7011</chapterId>
+
 ![video](https://www.youtube.com/watch?v=rPuDJ4893cg)
 
 ### L'irrigation et la naissance des grandes cités
@@ -325,6 +327,8 @@ L'expérience mésopotamienne établit des precedents durables pour l'évolution
 
 Cette période fondatrice révèle également les enjeux de pouvoir inhérents à toute innovation monétaire : qui contrôle la technologie, qui définit les règles, et comment s'articulent systèmes formels et pratiques populaires. Ces questions traversent l'histoire économique jusqu'aux débats contemporains sur les monnaies numériques et les cryptomonnaies.
 
+# Économie et monnaie dans les civilisations antiques 
+<partId>a16bcf4c-8c3a-11f0-9e79-2bd363a484bd</partId>
 
 ## Les grandes civilisations de l’âge du Bronze
 <chapterId>fab9334c-7385-5d7c-ad40-7d152beb22a1</chapterId>
@@ -565,7 +569,7 @@ La Chine est également pionnière dans l'émission de formes précoces de monna
 Ainsi, l’expérience chinoise se caractérise par une conception profondément fiduciaire de la monnaie, une flexibilité remarquable du système monétaire et une utilisation précoce des monnaies papier, fondées sur la confiance entre les acteurs économiques plutôt que sur la valeur intrinsèque des supports utilisés.
 
 
-## Organisation sociétale et économique durant l’antiquité [Feat Ulrich]
+## Organisation sociétale et économique durant l’antiquité 
 <chapterId>4023c3ce-7a47-5ac4-8f5f-c7ab699ab20f</chapterId>
 ![video](https://www.youtube.com/watch?v=E0eRh2afwNA)
 
@@ -626,6 +630,9 @@ L'Empire inca présente un paradoxe fascinant : **une civilisation disposant d'i
 Cette fragilité structurelle des systèmes anti-monétaires face aux sociétés monétaires constitue un pattern historique récurrent, suggérant que **le rejet institutionnel de la monnaie, loin de renforcer la cohésion sociale, peut paradoxalement fragiliser les civilisations** face aux défis externes et aux changements historiques.
 
 L'analyse de ces modèles historiques révèle que la monnaie, au-delà de sa fonction d'échange, constitue un marqueur et un facilitateur de complexité sociale, permettant aux civilisations de dépasser les limites imposées par les relations interpersonnelles directes.
+
+# La naissance de la monnaie frappée
+<partId>232e365a-8c3b-11f0-b276-b3ab70d1a5a1</partId>
 
 ## L’émergence des pièces de monnaie
 <chapterId>40ed3414-3066-57bd-bc1b-617ad0a354e0</chapterId>
@@ -1024,6 +1031,9 @@ C'est une forme de prime monétaire, c'est une surcouche en fait de la prime mon
 Et pourquoi cette proposition de prime monétaire peut être qualifiée d'unification des deux théories de la monnaie dette et de la monnaie marchandise? C'est que moi, je n'ai pas l'impression que la valeur d'une pièce d'or, ça vient nécessairement de sa “valeur intrinsèque”. Non, en fait, c'est autant une notion de confiance que pour de la monnaie fiat. C'est une notion de demande monétaire. Et ce n'est pas vraiment parce qu'elle a un petit pourcentage d'usage industriel, une “utilité” autre. Si on dit que l’usage en industrie est 10% de sa valeur, on pourrait évaluer ça à 300 $ par once. Si l’or se vend à 3 000 $ l'once sur le marché, la différence entre 300$ et le 3 000$, c'est la fameuse prime monétaire. C'est cette demande monétaire pour l'or qui l'explique. Ce n'est pas parce que le fiat a zéro valeur d'usage que c'est différent. Pour moi, c'est exactement la même chose. Donc des deux côtés, la théorie de la monnaie dette ou de la monnaie marchandise, je ne pense pas que l'espèce de qualité de plus que l'or aurait d'avoir une valeur d'usage minime ça change quoi que ce soit.
 
 Par contre, c'est certain qu'**au niveau de l'émergence, selon le théorème de régression de Mises, on peut proposer que cet usage-là crée une demande à l'origine et initie cette le processus qui devient monnaie.** Tandis qu'au sujet, au niveau de la monnaie dette, c'est plus une imposition d'une autorité, donc la source, l'initiation de l'émergence et des concepts complètement différents. **Mais je pense qu'au niveau de la valeur, comment expliquer la valeur de la monnaie, avec la prime monétaire, on peut autant expliquer pourquoi la monnaie fiat a cette valeur qu'on lui attribue et pourquoi la monnaie marchandise a cette valeur** qu'on lui attribue. Pour moi, c'est le même processus et ça s'appelle la prime monétaire.
+
+# Terminologie, fonctions et cadre théorique de la monnaie
+<partId>77b7918a-8c3b-11f0-b688-6b2ab22378c9</partId>
 
 ## Money vs currency vs monnaie vs argent vs devise
 <chapterId>bf8a6d21-df88-5d23-a0a5-e9a5c1300554</chapterId>
@@ -2035,7 +2045,7 @@ Alors voilà, c'est la petite liste très rapide de faits qu'on a vu pendant, la
 Merci !
 
 
-## Les conséquences économiques de la violence organisée [Feat Théo]
+## Les conséquences économiques de la violence organisée 
 <chapterId>66bd4674-2159-5489-ad4b-ec5e3fb691af</chapterId>
 ![video](https://www.youtube.com/watch?v=PnkMqfPoHSI)
 
