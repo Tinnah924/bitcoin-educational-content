@@ -192,5 +192,5 @@ Ikiwa unaweza kufanya StonewallX2 ya kawaida na rafiki, bado ninapendekeza kutum
 **Nyenzo za nje:**
 
 
-- [https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923]
--[https://www.pandul.fr/post/comprendre-et-utiliser-le-CoinJoin-sur-Bitcoin]
+- https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923
+- https://www.pandul.fr/post/comprendre-et-utiliser-le-CoinJoin-sur-Bitcoin
