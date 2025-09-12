@@ -11,7 +11,7 @@ Pata hapa chini vyanzo vichache vya maelezo ya Electrum:
 
 
 
-- [X](https://twitter.com/ElectrumWallet)
+(https://twitter.com/ElectrumWallet)
 - [Tovuti ya Lightning](https://electrum.org/)
 - [Hati za kielektroniki](https://electrum.readthedocs.io/)
 
