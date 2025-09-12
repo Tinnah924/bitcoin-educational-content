@@ -1,5 +1,5 @@
 ---
-name: Kadi ya Cold
+name: coldcard
 
 description: Kuunda, kuhifadhi nakala na kutumia ufunguo wa faragha wa Bitcoin na kifaa cha Coldcard na Bitcoin Core
 ---
@@ -10,7 +10,7 @@ description: Kuunda, kuhifadhi nakala na kutumia ufunguo wa faragha wa Bitcoin n
 _Kuunda, kuhifadhi nakala, na kutumia ufunguo wa faragha wa Bitcoin wenye kifaa cha Coldcard na Bitcoin Core_
 
 
-## Mwongozo kamili wa kutengeneza ufunguo wa kibinafsi kwa kutumia Coldcard na kuitumia kupitia Interface ya nodi yako ya Bitcoin Core!
+## Mwongozo kamili wa kutengeneza ufunguo wa kibinafsi kwa kutumia Coldcard na kuitumia kupitia Interface ya node yako ya Bitcoin Core!
 
 
 Msingi wa matumizi ya mtandao wa Bitcoin ni dhana ya kriptografia isiyolinganishwa: jozi ya funguo - moja ya kibinafsi na ya umma - ambayo husimba na kusimbua data, dhana inayohakikisha usiri wa mawasiliano.
@@ -19,10 +19,10 @@ Msingi wa matumizi ya mtandao wa Bitcoin ni dhana ya kriptografia isiyolinganish
 Kwa upande wa Bitcoin, kwa kuzalisha jozi hizo za funguo za kibinafsi na za umma, tunaweza kuhifadhi bitcoins (UTXO au Pato la Muamala Usiotumiwa) na kusaini miamala ili kuzitumia.
 
 
-Leo, kuna zana nyingi zinazopatikana ili kuwezesha uundaji wa ufunguo wa kibinafsi bila mpangilio na uhifadhi wake katika muundo wa maandishi kwa kutumia BIP 39 - kiwango ambacho huamua jinsi pochi huhusisha maneno ya Mnemonic (maneno ya seed) na funguo za usimbaji fiche. Mara nyingi zaidi kuliko sivyo, maneno ya Mnemonic yana maneno 12 au 24, ambayo lazima yameungwa mkono kwa usalama ili kuweza kurejesha Wallet na bitcoins zake.
+Leo, kuna zana nyingi zinazopatikana ili kuwezesha uundaji wa ufunguo wa kibinafsi bila mpangilio na uhifadhi wake katika muundo wa maandishi kwa kutumia BIP 39 - kiwango ambacho huamua jinsi Wallet huhusisha maneno ya Mnemonic (maneno ya seed) na funguo za usimbaji fiche. Mara nyingi zaidi kuliko sivyo, maneno ya Mnemonic yana maneno 12 au 24, ambayo lazima yameungwa mkono kwa usalama ili kuweza kurejesha Wallet na bitcoins zake.
 
 
-Katika makala hii, tutajifunza jinsi ya generate ufunguo wa kibinafsi kwa kutumia Coldcard Mk4, mojawapo ya vifaa vinavyotumiwa sana na salama katika ulimwengu wa Bitcoin, kwa kutumia njia ya kete ili kuhakikisha entropy ya kiwango cha juu, na jinsi ya kuitumia na Bitcoin Core kwa namna ya hewa!
+Katika makala hii, tutajifunza jinsi ya kuzalisha ufunguo wa kibinafsi kwa kutumia Coldcard Mk4, mojawapo ya vifaa vinavyotumiwa sana na salama katika ulimwengu wa Bitcoin, kwa kutumia njia ya kete ili kuhakikisha entropy ya kiwango cha juu, na jinsi ya kuitumia na Bitcoin Core kwa namna ya hewa!
 
 
 **Kumbuka:🧰** Pata zana zifuatazo ili kutumia mwongozo:
@@ -110,8 +110,8 @@ Rejelea miongozo yetu ya usakinishaji na usanidi wa Bitcoin Core:
 
 
 
-- Kuendesha nodi yako mwenyewe na Bitcoin Core:** https://agora256.com/faire-tourner-son-propre-noeud-avec-Bitcoin-core/
-- Inasanidi Tor kwa nodi ya Msingi ya Bitcoin:** https://agora256.com/configuration-tor-Bitcoin-core/
+- **Kuendesha node yako mwenyewe na Bitcoin Core:** https://agora256.com/faire-tourner-son-propre-noeud-avec-Bitcoin-core/
+- **Inasanidi Tor kwa node ya Msingi ya Bitcoin:** https://agora256.com/configuration-tor-Bitcoin-core/
 
 
 Kwanza, weka kadi ndogo ya SD kwenye Coldcard, kisha hamisha Wallet ya Bitcoin Core kwa kufuata hatua hizi: Advanced/Tools > Hamisha Wallet > Bitcoin Core. Faili mbili zitaandikwa kwa kadi ndogo ya SD: Bitcoin-core.sig & Bitcoin-core.txt. Ingiza kadi ndogo ya SD kwenye kompyuta ambapo Bitcoin Core imesakinishwa, na ufungue faili ya .txt. Utaona mstari "Kwa Wallet na alama za vidole kuu." Thibitisha kuwa XFP yenye herufi nane inalingana na uliyobainisha wakati wa kuunda ufunguo wako wa faragha.'
