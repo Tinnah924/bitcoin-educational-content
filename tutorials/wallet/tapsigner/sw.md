@@ -5,7 +5,7 @@ description: Kuweka na kutumia Tapsigner na Nunchuk
 ![cover](assets/cover.webp)
 
 
-Hardware Wallet ni kifaa cha kielektroniki kinachojitolea kwa usimamizi na usalama wa funguo za faragha za Bitcoin Wallet. Tofauti na pochi za programu (au pochi za Hot) zilizowekwa kwenye mashine za kusudi la jumla ambazo mara nyingi huunganishwa kwenye Mtandao, pochi za vifaa huruhusu kutengwa kwa funguo za kibinafsi, kupunguza hatari za udukuzi na wizi.
+Hardware Wallet ni kifaa cha kielektroniki kinachojitolea kwa usimamizi na usalama wa funguo za faragha za Bitcoin Wallet. Tofauti na pochi za programu (au Hot Wallet) zilizowekwa kwenye mashine za kusudi la jumla ambazo mara nyingi huunganishwa kwenye Mtandao, Hardware Wallet huruhusu kutengwa kwa funguo za kibinafsi, kupunguza hatari za udukuzi na wizi.
 
 
 Lengo kuu la Hardware Wallet ni kupunguza utendaji wa kifaa ili kupunguza uso wake wa kushambulia. Sehemu ndogo ya ushambuliaji pia inamaanisha vibebaji vichache vya kushambulia, yaani, pointi chache dhaifu katika mfumo ambazo washambuliaji wanaweza kutumia ili kufikia bitcoins.
@@ -14,10 +14,10 @@ Lengo kuu la Hardware Wallet ni kupunguza utendaji wa kifaa ili kupunguza uso wa
 Inapendekezwa kutumia Hardware Wallet ili kupata bitcoins zako, hasa ikiwa unashikilia kiasi kikubwa, iwe katika thamani kamili au kama sehemu ya jumla ya mali yako.
 
 
-Pochi za vifaa hutumiwa pamoja na programu ya usimamizi ya Wallet kwenye kompyuta au simu mahiri. Programu hii inadhibiti uundaji wa miamala, lakini sahihi ya kriptografia inayohitajika ili kuthibitisha miamala hii inafanywa ndani ya Hardware Wallet pekee. Hii ina maana kwamba funguo za faragha haziwahi kamwe kwenye mazingira ambayo yanaweza kuwa hatarini.
+Hardware Wallet hutumiwa pamoja na programu ya usimamizi ya Wallet kwenye kompyuta au simu mahiri. Programu hii inadhibiti uundaji wa miamala, lakini sahihi ya kriptografia inayohitajika ili kuthibitisha miamala hii inafanywa ndani ya Hardware Wallet pekee. Hii ina maana kwamba funguo za faragha haziwahi kamwe kwenye mazingira ambayo yanaweza kuwa hatarini.
 
 
-Pochi za vifaa hutoa ulinzi wa pande mbili kwa mtumiaji: kwa upande mmoja, hulinda bitcoins zako dhidi ya mashambulizi ya mbali kwa kuweka funguo za faragha nje ya mtandao, na kwa upande mwingine, kwa ujumla hutoa upinzani bora wa kimwili dhidi ya majaribio ya kutoa funguo. Na ni kwa vigezo hivi viwili vya usalama ambapo mtu anaweza kuhukumu na kuorodhesha aina tofauti zinazopatikana kwenye soko.
+Hardware Wallet hutoa ulinzi wa pande mbili kwa mtumiaji: kwa upande mmoja, hulinda bitcoins zako dhidi ya mashambulizi ya mbali kwa kuweka funguo za faragha nje ya mtandao, na kwa upande mwingine, kwa ujumla hutoa upinzani bora wa kimwili dhidi ya majaribio ya kutoa funguo. Na ni kwa vigezo hivi viwili vya usalama ambapo mtu anaweza kuhukumu na kuorodhesha aina tofauti zinazopatikana kwenye soko.
 
 
 Katika somo hili, ninapendekeza kugundua mojawapo ya masuluhisho haya: Tapsigner na Coinkite.
@@ -113,10 +113,10 @@ Ikiwa Tapsigner yako ni mpya, Nunchuk atajitolea kuianzisha. Bonyeza "* Ndiyo*".
 Sasa utahitaji kuchagua jinsi ya generate msimbo wako mkuu wa mnyororo.
 
 
-Tapsigner hutumia kiwango cha BIP32. Hii ina maana kwamba utokezi wa funguo zako za kriptografia zinazolinda bitcoins zako hautegemei maneno ya Mnemonic kama vile pochi za BIP39, bali moja kwa moja kwenye ufunguo mkuu wa faragha na msimbo mkuu wa msururu. Hizi 2 Elements hupitishwa kupitia kitendakazi cha HMAC ili kupata kibainifu na kidaraja sehemu nyingine ya Wallet yako.
+Tapsigner hutumia kiwango cha BIP32. Hii ina maana kwamba utokezi wa funguo zako za kriptografia zinazolinda bitcoins zako hautegemei maneno ya Mnemonic kama vile Wallet za BIP39, bali moja kwa moja kwenye ufunguo mkuu wa faragha na msimbo mkuu wa msururu. Hizi  Elements 2 hupitishwa kupitia kitendakazi cha HMAC ili kupata kibainifu na kidaraja sehemu nyingine ya Wallet yako.
 
 
-Ufunguo mkuu wa faragha unatolewa moja kwa moja na TRNG (*Jenereta ya Nambari Isiyo Nasibu ya Kweli*) iliyounganishwa kwenye Tapsigner yako. Nambari ya mnyororo mkuu, kwa upande mwingine, lazima itolewe kutoka nje. Katika hatua hii, una chaguo: kuruhusu Nunchuk generate moja kwa moja kwa kubofya "*Automatic*", au generate mwenyewe kwa kuchagua "*Advanced*" na kuiingiza kwenye uwanja uliotolewa.
+Ufunguo mkuu wa faragha unatolewa moja kwa moja na TRNG (True Random Number Generator) iliyounganishwa kwenye Tapsigner yako. Nambari ya mnyororo mkuu, kwa upande mwingine, lazima itolewe kutoka nje. Katika hatua hii, una chaguo: kuruhusu Nunchuk generate moja kwa moja kwa kubofya "Automatic", au generate mwenyewe kwa kuchagua "Advanced" na kuiingiza kwenye uwanja uliotolewa.
 
 
 ![TAPSIGNER NUNCHUK](assets/notext/12.webp)
@@ -177,7 +177,7 @@ Ukirudi kwenye ukurasa wa nyumbani wa Nunchuk, unaweza kuona kuwa Tapsigner yako
 ![TAPSIGNER NUNCHUK](assets/notext/21.webp)
 
 
-Sasa utahitaji generate funguo za Bitcoin Wallet yako. Ili kufanya hivyo, bofya kitufe cha "**" kilicho upande wa kulia wa kichupo cha "*Pochi*".
+Sasa utahitaji generate funguo za Bitcoin Wallet yako. Ili kufanya hivyo, bofya kitufe cha "**" kilicho upande wa kulia wa kichupo cha "*Wallet*".
 
 
 ![TAPSIGNER NUNCHUK](assets/notext/22.webp)
@@ -241,7 +241,7 @@ Kisha tumia Address inayozalishwa kupokea bitcoins. Iwapo hapo awali umepokea bi
 ![TAPSIGNER NUNCHUK](assets/notext/31.webp)
 
 
-Baada ya shughuli ya mtumaji kutangazwa, utaona ikionekana kwenye Wallet yako.
+Baada ya muamala wa mtumaji kutangazwa, utaona ikionekana kwenye Wallet yako.
 
 
 ![TAPSIGNER NUNCHUK](assets/notext/32.webp)
@@ -387,7 +387,7 @@ Kisha chagua jina la urejeshaji wako Wallet.
 ![TAPSIGNER NUNCHUK](assets/notext/54.webp)
 
 
-Sasa umepata tena ufikiaji wa bitcoins zako. Wallet yako sasa inadhibitiwa kama Hot Wallet inayoonekana kwenye kichupo cha "*Vifunguo*" cha programu ya Nunchuk. Kisha, unahitaji kuunda seti mpya ya vitufe vya kriptografia katika sehemu ya "*Pochi*" kwa kuhusisha ufunguo huu nayo. Ili kufanya hivi, unaweza kufuata hatua tena katika sehemu ya "*Jinsi ya kuunda Wallet kwenye Tapsigner?*" ya mafunzo haya.
+Sasa umepata tena ufikiaji wa bitcoins zako. Wallet yako sasa inadhibitiwa kama Hot Wallet inayoonekana kwenye kichupo cha "Vifunguo" cha programu ya Nunchuk. Kisha, unahitaji kuunda seti mpya ya vitufe vya kriptografia katika sehemu ya "Wallet" kwa kuhusisha ufunguo huu nayo. Ili kufanya hivi, unaweza kufuata hatua tena katika sehemu ya "Jinsi ya kuunda Wallet kwenye Tapsigner?" ya mafunzo haya.
 
 
 ![TAPSIGNER NUNCHUK](assets/notext/55.webp)
