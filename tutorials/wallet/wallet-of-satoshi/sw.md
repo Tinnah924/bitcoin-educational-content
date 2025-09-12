@@ -1,14 +1,12 @@
 ---
-name: Wallet ya Satoshi
+name: Wallet of Satoshi
 description: Wallet rahisi zaidi ya uhifadhi ili kuanza
 ---
 ![cover](assets/cover.webp)
 
 _Mafunzo haya yameandikwa na_ [Kampasi ya Bitcoin](https://linktr.ee/bitcoincampus_)
 
-
 ## Inapakua, Kuweka, na Kutumia Wallet ya Satoshi
-
 
 Wallet ya Satoshi ni Lightning Network Wallet, iliyohifadhiwa, na ni rahisi sana kutumia.
 
@@ -18,12 +16,11 @@ Kwa madhumuni ya kozi [BTC105 - Finding Now](https://planb.network/it/courses/tr
 **Kumbuka kila wakati**: _sio funguo zako, si sarafu zako_
 
 
-Pochi za uhifadhi haziruhusu watumiaji udhibiti kamili wa pesa zao. Kawaida hazipendekezi, isipokuwa kwa wanaoanza. WoS inapaswa kutumika kama Wallet ya mpito au kushikilia pesa za mfukoni, si kwa mkusanyiko wa muda mrefu wa hazina.
-
+Wallet za uhifadhi haziruhusu watumiaji udhibiti kamili wa pesa zao. Kawaida hazipendekezi, isipokuwa kwa wanaoanza. WoS inapaswa kutumika kama Wallet ya mpito au kushikilia pesa za mfukoni, si kwa mkusanyiko wa muda mrefu wa hazina.
 
 ---
 
-Wallet ya Satoshi (WoS) ni bidhaa iliyohifadhiwa, lakini ina sifa fulani. Tunaweza kutumia zana kama vile WoS, kwa mfano, ili kuongeza uwezo wetu wa kupokea ukwasi. Tunakabidhi kwa WoS "kazi chafu" ya kudhibiti ukwasi wa vituo kwa ajili yetu. Mara tu kiasi fulani kitakapofikiwa, tutamwaga WoS On-Chain kwa Wallet yetu isiyo na dhamana.
+Wallet ya Satoshi (WoS) ni huduma ya ulezi, lakini ina baadhi ya sifa muhimu. Tunaweza kutumia zana kama WoS, kwa mfano, ili kuongeza ukwasi wetu wa kupokea satoshis. Tunakabidhi WoS “kazi chafu” ya kusimamia ukwasi wa vituo kwa niaba yetu. Mara tu kiasi fulani kitakapofikiwa, tutahamisha fedha kutoka WoS kwa muamala wa On-Chain kwenda kwenye Wallet yetu isiyo ya ulezi.
 
 
 **ONYO⚠️: Inapendekezwa kusoma mafunzo yote kabla ya kuendelea**
@@ -44,7 +41,7 @@ Nenda kwenye Play Store na upakue WoS
 ![image](assets/it/02.webp)
 
 
-Wallet ya Satoshi inafungua kwa skrini ifuatayo, na ni muhimu kubofya _Start_
+Wallet of  Satoshi inafunguka kwa skrini ifuatayo, na ni muhimu kubofya _Start_
 
 
 ![image](assets/it/03.webp)
@@ -59,12 +56,12 @@ Katika hatua hii, Wallet tayari inafanya kazi, lakini kwa usalama zaidi, tunaend
 ![image](assets/it/04.webp)
 
 
-Dirisha lote la menyu hufungua, ambamo ni lazima uweke pekee sarafu (Wallet ya Satoshi kwa chaguomsingi huwasilisha dola ya Marekani kama sarafu ya marejeleo) na rangi ya mandhari (nyepesi/giza), kulingana na ladha. Usitumie amri zingine.
+Skrini yote ya menyu hufungua, ambamo ni lazima uweke pekee sarafu (Wallet ya Satoshi kwa chaguomsingi huwasilisha dola ya Marekani kama sarafu ya marejeleo) na rangi ya mandhari (nyepesi/giza), kulingana na ladha. Usitumie amri zingine.
 
 
 Kwa kuwa WoS ni zana ya uhifadhi, hatuwezi kucheleza Wallet kwa maneno ya Mnemonic, lakini tunaweza kuwezesha WoS kurejesha pesa zetu, katika kesi ya hasara au kutotumika kwa kifaa cha rununu, kwa kubofya _Ingia/Jisajili_
 
-Dirisha linatokea likituuliza tuweke barua pepe ya Address. Inaweza kuwa **barua ya Protoni** (iliyopendekezwa), lakini lazima ifanye kazi, kwani itatuwezesha kurejesha fedha katika Wallet katika kesi ya hasara / wizi au uharibifu wa simu ya mkononi.
+Skrini inatokea ikituuliza tuweke  barua Pepe Address. Inaweza kuwa **barua ya Protoni** (iliyopendekezwa), lakini lazima ifanye kazi, kwani itatuwezesha kurejesha fedha katika Wallet katika kesi ya hasara / wizi au uharibifu wa simu ya mkononi.
 
 
 ![image](assets/it/08.webp)
@@ -77,7 +74,6 @@ Wallet ya Satoshi imetuma ujumbe kwa kikasha cha barua pepe kilichoonyeshwa.
 
 
 Katika sanduku la barua, tutapata maneno mawili, ambayo tunahitaji kuingia, kuandika tena, katika nafasi iliyotolewa na programu.
-
 
 - usiamsha mfasiri: maneno ni na lazima yabaki katika Kiingereza **
 - andika upya maneno mawili ukizingatia herufi kubwa/chini**
@@ -106,7 +102,6 @@ ukiwa katika sehemu ya mipangilio, upau mwekundu wa _Login/Register_ sasa unaony
 
 ### Kupokea Malipo
 
-
 Ili kupokea kwenye WoS, bofya _Receive_ na mfululizo wa amri utaonekana.
 
 
@@ -115,12 +110,10 @@ Ili kupokea kwenye WoS, bofya _Receive_ na mfululizo wa amri utaonekana.
 
 Unaweza kupokea
 
-
 - kupitia LN-Address **a**
 - kupitia LN, kwa kuweka Invoice **b**
 - on chain (WoS inasaidia mtandao wa Bitcoin lakini kwa ubadilishaji wa manowari unaolipishwa) **c**
 - kwa kuchanganua msimbo wa QR wa LNurl-p **d**
-
 
 ![image](assets/it/15.webp)
 
@@ -130,12 +123,10 @@ Unaweza kupokea
 
 Bonyeza _Receive_ na uchague amri iliyo na ishara ya Lightning Network.
 
-
 ![image](assets/it/16.webp)
 
 
 Menyu ya uumbaji wa Invoice inaonekana, ambapo tunabofya _Ongeza Kiasi_ ili kuandika kiasi halisi na kuongeza maelezo, katika mfano huu, «Invoice yangu ya kwanza».
-
 
 ![image](assets/it/17.webp)
 
@@ -148,7 +139,6 @@ Kwa kibodi, tunaweka kiasi.
 
 ili kulipwa Invoice. Malipo yaliyopokelewa yanaonekana kama hii:
 
-
 ![image](assets/it/19.webp)
 
 
@@ -159,7 +149,6 @@ Wallet ya Satoshi ina kipengele chaguo-msingi, ambacho kinaifanya kufaa hasa kwa
 
 
 Kutoka kwa skrini kuu, chagua menyu iliyo juu kulia.
-
 
 ![image](assets/it/20.webp)
 
@@ -234,7 +223,7 @@ Kutoka kwa skrini kuu, kubofya _History_ (chini kidogo ya salio) orodha ya miama
 #### Inarejesha akaunti ya WoS
 
 
-Sasa, tutaona jinsi ya kufunga WoS kwenye kifaa kipya; hii pia itakuwa muhimu katika kesi za wizi, hasara, au kutoweza kutumia simu ya mkononi ambayo Wallet ilisakinishwa hapo awali. Mara baada ya kusakinishwa upya, lazima ufanye upya utaratibu wa usajili wa akaunti uliofafanuliwa hivi punde, kwa lahaja moja: mwisho wa ombi la kuingia kwa barua pepe iliyowekwa awali, WoS itaonekana kama hii:
+Sasa, tutaona jinsi ya kufunga WoS kwenye kifaa kipya; hii pia itakuwa muhimu katika kesi za wizi, hasara, au kutoweza kutumia simu ya mkononi ambayo Wallet ilisakinishwa hapo awali. Mara baada ya kusakinishwa upya, lazima urudie utaratibu wa usajili wa akaunti ulioelezwa hivi punde, kwa tofauti moja tu: mwisho wa ombi la kuingia kwa barua pepe iliyowekwa awali, WoS itaonekana kama ifuatavyo:
 
 
 ![image](assets/it/33.webp)
@@ -243,7 +232,7 @@ Sasa, tutaona jinsi ya kufunga WoS kwenye kifaa kipya; hii pia itakuwa muhimu ka
 Ujumbe unatuonya kuwa barua pepe imetumwa ikiwa na utaratibu wa kuwezesha akaunti tena. Lazima ufungue kikasha chako cha barua pepe.
 
 
-**MUHIMU**: fungua barua pepe kutoka kwa Kompyuta au, kwa vyovyote vile, kutoka kwa kifaa tofauti na kile ambacho unakaribia kurejesha akaunti ya WoS. Katika kisanduku pokezi, tunapata ujumbe unaotuonyesha msimbo wa QR wa kuweka fremu
+**MUHIMU**: fungua barua Pepe kutoka kwa Kompyuta au, kwa vyovyote vile, kutoka kwa kifaa tofauti na kile ambacho unakaribia kurejesha akaunti ya WoS. Katika kisanduku pokezi, tunapata ujumbe unaotuonyesha msimbo wa QR wa kuweka fremu
 
 
 ![image](assets/it/34.webp)
