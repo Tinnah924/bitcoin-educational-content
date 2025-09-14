@@ -1,6 +1,7 @@
 ---
-name: Kivinjari cha Zen
-description: Jinsi ya kutumia Kivinjari cha Zen kwa kuvinjari kwa tija na kwa siri?
+name: zen-browser
+description: Jinsi ya kutumia browser y
+ya Zen kwa kuvinjari kwa tija na kwa siri?
 ---
 
 ![cover](assets/cover.webp)
