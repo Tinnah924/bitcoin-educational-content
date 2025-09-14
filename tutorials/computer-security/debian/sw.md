@@ -106,9 +106,9 @@ Mara tu unapopakua picha inayofaa ya ISO, endelea kuunda media yako ya usakinish
 
 
 
-- Zindua Etcher**: fungua programu na uchague picha ya Debian ISO iliyopakuliwa hapo awali.
-- Chagua kitufe cha USB**: bainisha ufunguo wako (GB 8+) kama lengo.
-- Anzisha mweko**: bofya kwenye **Mweko!** na usubiri hadi mchakato ukamilike.
+- **Zindua Etcher**: fungua programu na uchague picha ya Debian ISO iliyopakuliwa hapo awali.
+- **Chagua kitufe cha USB**: bainisha ufunguo wako (GB 8+) kama lengo.
+- **Anzisha mweko**: bofya kwenye **Mweko!** na usubiri hadi mchakato ukamilike.
 
 
 
@@ -133,10 +133,10 @@ Ili kuzindua usakinishaji kutoka kwa ufunguo wako wa USB:
 
 
 
-- Zima ** kompyuta kabisa.
-- Washa upya** kisha ufikie BIOS/UEFI kwa kubofya mara moja `ESC`, `F2`, `F11` (au ufunguo maalum kulingana na chapa yako).
-- Katika menyu ya kuwasha, **chagua ufunguo wako wa USB** kama kifaa cha kuwasha.
-- Thibitisha** kwa kitufe cha Ingiza ili kuanza kwenye picha ya Debian: hii itakupeleka kwenye skrini ya kukaribisha ya kisakinishi.
+- **Zima** kompyuta kabisa.
+- **Washa upya** kisha ufikie BIOS/UEFI kwa kubofya mara moja `ESC`, `F2`, `F11` (au ufunguo maalum kulingana na chapa yako).
+- **Katika menyu ya kuwasha, **chagua ufunguo wako wa USB** kama kifaa cha kuwasha.
+- **Thibitisha** kwa kitufe cha Ingiza ili kuanza kwenye picha ya Debian: hii itakupeleka kwenye skrini ya kukaribisha ya kisakinishi.
 
 
 
@@ -157,9 +157,9 @@ Wakati wa kuwasha kutoka kwa fimbo ya USB, skrini ya kukaribisha ya Debian hutoa
 
 
 
-- Mfumo wa Moja kwa Moja**: huzindua Debian bila kuisakinisha, bora kwa kujaribu mazingira.
-- Anza Kisakinishi**: huanza usakinishaji moja kwa moja kwenye diski ya Hard.
-- Chaguo za Kina za Usakinishaji**: hukupa ufikiaji wa modi zilizobinafsishwa za usakinishaji.
+- **Mfumo wa Moja kwa Moja**: huzindua Debian bila kuisakinisha, bora kwa kujaribu mazingira.
+- **Anza Kisakinishi**: huanza usakinishaji moja kwa moja kwenye diski ya Hard.
+- **Chaguo za Kina za Usakinishaji**: hukupa ufikiaji wa modi zilizobinafsishwa za usakinishaji.
 
 
 
@@ -187,11 +187,11 @@ Chagua lugha kuu ya mfumo wako wa Debian kutoka kwenye orodha, kisha ubofye Sawa
 
 
 
-- Saa za eneo** (GMT)
+- **Greenwich Mean Time** (GMT)
 
 
 
-Chagua eneo lako la kijiografia ili kuweka tarehe na saa kiotomatiki.
+Chagua eneo lako la cryptography ili kuweka tarehe na saa kiotomatiki.
 
 
 
@@ -219,8 +219,8 @@ Chagua lugha na mpangilio wa kibodi yako. Tumia sehemu ya majaribio iliyojengewa
 
 
 
-- Futa diski**: ikiwa una kizigeu kilichojitolea, chaguo hili litafuta yaliyomo yake yote.
-- Kugawanya mwenyewe**: chagua chaguo hili ili kuunda, kubadilisha ukubwa au kufuta sehemu kama inavyohitajika.
+-**Futa diski**: ikiwa una kizigeu kilichojitolea, chaguo hili litafuta yaliyomo yake yote.
+- **Kugawanya mwenyewe**: chagua chaguo hili ili kuunda, kubadilisha ukubwa au kufuta sehemu kama inavyohitajika.
 
 
 
@@ -244,7 +244,7 @@ Weka jina lako kamili, jina la akaunti na nenosiri thabiti ili kuhakikisha kipin
 
 
 
-- Muhtasari wa kigezo**
+- **Muhtasari wa kigezo**
 
 
 
@@ -272,7 +272,7 @@ Bofya kwenye **Sakinisha** ili kuanza kunakili faili na kusanidi mfumo, kisha su
 
 
 
-- Anzisha upya**
+- **Anzisha upya**
 
 
 
