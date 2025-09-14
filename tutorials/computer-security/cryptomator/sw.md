@@ -1,6 +1,6 @@
 ---
 name: Cryptomator
-description: Simba faili zako kwa njia fiche katika wingu
+description: Simba faili zako kwa njia fiche kwenye cloud
 ---
 ![cover](assets/cover.webp)
 
@@ -22,7 +22,7 @@ ___
 
 
 
-Katika somo hili, tutatumia programu ya Cryptomator kusimba kwa njia fiche data iliyohifadhiwa katika Wingu, iwe kwenye Microsoft OneDrive, Hifadhi ya Google, Dropbox, Box au hata iCloud.
+Katika somo hili, tutatumia programu ya Cryptomator kusimba kwa njia fiche data iliyohifadhiwa katika cloud, iwe kwenye Microsoft OneDrive, Hifadhi ya Google, Dropbox, Box au hata iCloud.
 
 
 
@@ -48,7 +48,7 @@ Programu ya Cryptomator inapatikana kwenye **Windows** (exe / msi), **Linux**, *
 
 
 
-Kwenye mashine yako, **Cryptomator itaunda folda ambayo itaunda salama**. Ndani ya hifadhi, ambayo inaweza kuhifadhiwa kwenye OneDrive yako, Hifadhi ya Google au sawa, data yako itasimbwa kwa njia fiche. Kwa hivyo, ukihifadhi data yako yote katika sehemu salama iliyopangishwa kwenye nafasi yako ya hifadhi ya Hifadhi, italindwa (kwa sababu imesimbwa kwa njia fiche).
+Kwenye mashine yako, **Cryptomator itaunda folda ambayo itaunda salama**. Ndani ya drive, ambayo inaweza kuhifadhiwa kwenye OneDrive yako, Hifadhi ya Google au sawa, data yako itasimbwa kwa njia fiche. Kwa hivyo, ukihifadhi data yako yote katika sehemu salama iliyopangishwa kwenye nafasi yako ya hifadhi ya Hifadhi, italindwa (kwa sababu imesimbwa kwa njia fiche).
 
 
 
@@ -78,11 +78,11 @@ Ili kuanza, unahitaji **kupakua** na **kusakinisha** **Cryptomator**. Mara baada
 
 
 
-### A. Unda salama mpya
+### A. Unda vault mpya
 
 
 
-Ili kuunda salama mpya, bofya kitufe cha "**Ongeza**" na uchague "**Salama mpya...**". Sefu zako zilizopo na zinazojulikana kwenye mashine hii zitaonekana katika Interface, upande wa kushoto. **Salama iliyoundwa kwenye mashine A inaweza kufunguliwa na kurekebishwa kwenye mashine B**, mradi tu iwe na Cryptomator (na ufunguo wa usimbaji fiche unajulikana).
+Ili kuunda vault mpya, bofya kitufe cha "**Add**" na uchague "**New Vault**". Sefu zako zilizopo na zinazojulikana kwenye mashine hii zitaonekana kwenye Interface, upande wa kushoto. **Vault iliyoundwa kwenye mashine A inaweza kufunguliwa na kurekebishwa kwenye mashine B**, mradi tu iwe na Cryptomator (na encryption key inajulikana).
 
 
 
@@ -114,11 +114,11 @@ Ifuatayo, unaweza kurekebisha chaguo chini ya mipangilio ya mtaalam.
 
 
 
-Ifuatayo, unahitaji kufafanua **nenosiri linalolingana na ufunguo wa usimbuaji**. Nenosiri hili litakuwezesha **kufungua salama ya Cryptomator** na kufikia data yake. **Ukiipoteza, utapoteza ufikiaji wa data yako**. Hatimaye, bado una chaguo la **kuunda ufunguo mbadala** kwa kuangalia chaguo la "**Ndiyo, salama kuliko samahani**", kwa nia sawa na ufunguo wa urejeshi wa [BitLocker] (https://www.it-connect.fr/comment-activer-bitlocker-sur-windows-11-pour-chiffrer-son-disque/). Hili linapendekezwa, lakini usihifadhi ufunguo huu wa chelezo kwenye mzizi wa OneDrive yako!
+Ifuatayo, unahitaji kufafanua **nenosiri linalolingana na ufunguo wa usimbuaji**. Nenosiri hili litakuwezesha **kufungua vault ya Cryptomator** na kufikia data yake. **Ukiipoteza, utapoteza ufikiaji wa data yako**. Hatimaye, bado una chaguo la **kuunda ufunguo mbadala** kwa kuangalia chaguo la "**Ndiyo, salama kuliko samahani**", kwa nia sawa na ufunguo wa urejeshi wa [BitLocker] (https://www.it-connect.fr/comment-activer-bitlocker-sur-windows-11-pour-chiffrer-son-disque/). Hili linapendekezwa, lakini usihifadhi ufunguo huu wa chelezo kwenye mzizi wa OneDrive yako!
 
 
 
-Bonyeza "** Unda salama **".
+Bonyeza "** Unda vault**".
 
 
 
@@ -170,7 +170,7 @@ Lazima uweke nenosiri lako ili kufungua salama. Kisha bonyeza "** Release drive 
 
 
 
-Kwa upande wa OneDrive, hatuwezi kuvinjari hifadhi ya Cryptomator moja kwa moja. Hatuwezi kuona data (wala majina ya faili wala yaliyomo). Hii inamaanisha kuwa huhitaji kuongeza data kwenye hifadhi yako ya Cryptomator kupitia njia ya mkato ya kawaida ya OneDrive. **Lazima uongeze data yako kwa kutumia hifadhi pepe ya Cryptomator
+Kwa upande wa OneDrive, hatuwezi kuvinjari hifadhi ya Cryptomator moja kwa moja. Hatuwezi kuona data (wala majina ya faili wala yaliyomo). Hii inamaanisha kuwa huhitaji kuongeza data kwenye hifadhi yako ya Cryptomator kupitia njia ya mkato ya kawaida ya OneDrive. Lazima uongeze data yako kwa kutumia hifadhi pepe ya Cryptomator
 
 
 
@@ -182,7 +182,7 @@ Kwa upande wa OneDrive, hatuwezi kuvinjari hifadhi ya Cryptomator moja kwa moja.
 
 
 
-Mipangilio ya salama inafikiwa kupitia kitufe cha "**Chaguo za sauti zilizosimbwa kwa njia fiche**" (ikifungwa) na itawezesha kufunga kiotomatiki ikiwa hakuna shughuli, kama vile unavyoweza kufanya na salama yako ya nenosiri. Chaguo la "**Fungua sauti iliyosimbwa kwa njia fiche unapoanzisha**", kama jina lake linavyopendekeza, hufungua kiendeshi bila uingiliaji wowote wa upande wako, na kupachika hifadhi pepe. Kwa sababu za usalama, ni bora kuepuka kuwezesha chaguo hili.
+Mipangilio ya vault inafikiwa kupitia kitufe cha "**Chaguo za sauti zilizosimbwa kwa njia fiche**" (ikifungwa) na itawezesha kufunga kiotomatiki ikiwa hakuna shughuli, kama vile unavyoweza kufanya na salama yako ya nenosiri. Chaguo la "**Fungua sauti iliyosimbwa kwa njia fiche unapoanzisha**", kama jina lake linavyopendekeza, hufungua kiendeshi bila uingiliaji wowote wa upande wako, na kupachika hifadhi pepe. Kwa sababu za usalama, ni bora kuepuka kuwezesha chaguo hili.
 
 
 
@@ -202,4 +202,4 @@ Kwa kuongeza, katika mipangilio ya Cryptomator, unaweza **kuwezesha uanzishaji w
 
 
 
-Ukiwa na **Cryptomator**, unaweza **kuunda salama iliyosimbwa kwa njia fiche** kwa dakika chache ili kulinda data unayotaka kuhifadhi kwenye OneDrive na washirika. Ni rahisi sana kutumia linapokuja suala la "kuioanisha" na Hifadhi: kwa kusudi hili, ina upendeleo wangu zaidi ya Picocrypt.
+Ukiwa na **Cryptomator**, unaweza **kuunda vaul iliyosimbwa kwa njia fiche** kwa dakika chache ili kulinda data unayotaka kuhifadhi kwenye OneDrive na washirika. Ni rahisi sana kutumia linapokuja suala la "kuioanisha" na Hifadhi: kwa kusudi hili, ina upendeleo wangu zaidi ya Picocrypt.
