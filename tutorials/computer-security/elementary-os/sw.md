@@ -1,5 +1,5 @@
 ---
-name: Mfumo wa Uendeshaji wa Msingi
+name: elementary-os
 description: Uingizwaji bora wa Windows na MacOS
 ---
 
@@ -7,43 +7,42 @@ description: Uingizwaji bora wa Windows na MacOS
 
 
 
-Elementary OS ni mfumo wa uendeshaji unaotegemea Ubuntu, iliyoundwa kuwa rahisi, haraka na thabiti kwa matumizi mengi ya kila siku. Inawakilisha mbadala ya Linux yenye usawa kwa MacOS na Windows. Interface yake ya kiowevu, angavu na isiyo na vitu vingi hurahisisha kujifunza, hata kwa wanaoanza. Pia inazingatia ergonomics, usalama na utendaji.
+Elementary OS ni mfumo wa uendeshaji unaotegemea Ubuntu, iliyoundwa kuwa rahisi, haraka na thabiti kwa matumizi mengi ya kila siku. Inawakilisha mbadala ya Linux yenye usawa kwa MacOS na Windows. Liquid Interface yake, angavu na isiyo na vitu vingi hurahisisha kujifunza, hata kwa wanaoanza. Pia inazingatia ergonomics, usalama na utendaji.
 
 
 
 https://planb.network/tutorials/computer-security/operating-system/ubuntu-78a3be56-5d51-4ec3-8629-0dd27c352ab5
 
-## Kwa nini uchague Mfumo wa Uendeshaji wa Msingi
+## Kwa nini uchague elementary-os
+
+
+
+
+- **Urahisi na urahisi wa kutumia**: Mchoro wa Interface wa Elementary OS uko katikati kati ya MacO na Windows. Uzoefu huu hurahisisha kutumia, hata kwa watumiaji wasio na uzoefu.
 
 
 
 
 
-- Urahisi na urahisi wa kutumia**: Mchoro wa Interface wa Elementary OS uko katikati kati ya MacO na Windows. Uzoefu huu hurahisisha kutumia, hata kwa watumiaji wasio na uzoefu.
+- **Usalama**: Kama ugawaji mwingi wa Linux, Mfumo wa Uendeshaji wa Msingi hufaidika na kiwango cha juu cha usalama. Sasisho za mara kwa mara, usimamizi wa haki na kutokuwepo kwa virusi vya kawaida hufanya mfumo wa kuaminika.
 
 
 
 
 
-- Usalama**: Kama ugawaji mwingi wa Linux, Mfumo wa Uendeshaji wa Msingi hufaidika na kiwango cha juu cha usalama. Sasisho za mara kwa mara, usimamizi wa haki na kutokuwepo kwa virusi vya kawaida hufanya mfumo wa kuaminika.
+- **Kasi**: Mfumo wa Uendeshaji wa Msingi ni usambazaji mwepesi. Inahitaji rasilimali chache, na kuifanya iwe ya haraka na inayofaa kwa kompyuta zilizo na usanidi wa kawaida.
 
 
 
 
 
-- Kasi**: Mfumo wa Uendeshaji wa Msingi ni usambazaji mwepesi. Inahitaji rasilimali chache, na kuifanya iwe ya haraka na inayofaa kwa kompyuta zilizo na usanidi wa kawaida.
+- ** Ni Bure kutumia**: Mfumo ni bure kabisa. Hata hivyo, unapoipakua, unaweza kutoa mchango ili kusaidia wasanidi programu.
 
 
 
 
 
-- Bure**: Mfumo ni bure kabisa. Hata hivyo, unapoipakua, unaweza kutoa mchango ili kusaidia wasanidi programu.
-
-
-
-
-
-- Jumuiya inayotumika**: Jumuiya inayozunguka Mfumo wa Uendeshaji wa Msingi ni tofauti na inaitikia. Ikiwa unapata shida, unaweza kupata msaada kwa urahisi kwenye vikao au mitandao ya kijamii.
+- **Jumuiya inayotumika**: Jumuiya inayozunguka Mfumo wa Uendeshaji wa Msingi ni tofauti na inaitikia. Ikiwa unapata shida, unaweza kupata msaada kwa urahisi kwenye vikao au mitandao ya kijamii.
 
 
 
@@ -61,8 +60,8 @@ Kabla ya kuanza ufungaji, hakikisha kuwa una vifaa vifuatavyo:
 
 
 - ** Kitufe cha USB** cha angalau GB 12
-- Kumbukumbu ya RAM** ya angalau GB 4
-- **Diski ya Hard ya GB 20** au zaidi kwa matumizi ya starehe
+- **  RAM memory ** ya angalau GB 4
+- ** Hard disk ya GB 20** au zaidi kwa matumizi ya starehe
 
 
 
@@ -96,7 +95,7 @@ Chagua picha ya **Elementary OS** ISO iliyopakuliwa na uweke ufunguo wako wa USB
 
 
 
-Bofya kwenye kitufe cha ** flash ** ili kuanza mchakato, na kusubiri hadi mchakato ukamilike kabla ya kuondoa ufunguo wa USB.
+Bofya kwenye kitufe cha **flash** ili kuanza mchakato, na kusubiri hadi mchakato ukamilike kabla ya kuondoa ufunguo wa USB.
 
 
 
@@ -155,11 +154,11 @@ Chagua mpangilio unaolingana na kibodi yako. Sehemu imetolewa ili kuangalia ikiw
 
 
 
-### Mtihani wa hali
+### Mtihani wa hali “System Test”
 
 
 
-Mfumo wa Uendeshaji wa Msingi hukuwezesha kujaribu mfumo kabla ya kuusakinisha. Hali hii hukuruhusu kuchunguza Interface bila kurekebisha chochote kwenye diski yako ya Hard.
+Mfumo wa Uendeshaji wa Msingi hukuwezesha kujaribu mfumo kabla ya kuusakinisha. Hali hii hukuruhusu kuchunguza Interface bila kurekebisha chochote kwenye Hard disk yako.
 
 
 
@@ -178,11 +177,11 @@ Mfumo wa Uendeshaji wa Msingi hukuwezesha kujaribu mfumo kabla ya kuusakinisha. 
 
 
 
-### Uchaguzi wa diski
+### Uchaguzi wa disk
 
 
 
-Chagua diski ambayo Elementary OS itasakinishwa, kisha bofya kitufe cha Endelea.
+Chagua disk ambayo Elementary OS itasakinishwa, kisha bofya kitufe cha Endelea.
 
 
 
@@ -190,11 +189,11 @@ Chagua diski ambayo Elementary OS itasakinishwa, kisha bofya kitufe cha Endelea.
 
 
 
-### Usimbaji fiche wa diski
+### Usimbaji fiche wa disk
 
 
 
-Chaguo hukuruhusu kusimba diski ili **kulinda data yako**. Utahitaji kuweka nenosiri thabiti ili kuwezesha ulinzi huu. Hata hivyo, ni hiari.
+Chaguo hukuruhusu kusimba disk ili **kulinda data yako**. Utahitaji kuweka nenosiri thabiti ili kuwezesha ulinzi huu. Hata hivyo, ni hiari.
 
 
 
@@ -233,7 +232,7 @@ Kabla ya kuzindua usakinishaji, unaweza kuidhinisha usakinishaji wa kiotomatiki 
 
 
 
-Mara baada ya kumaliza, bofya kitufe cha **ingiza ** ili kuanzisha upya, kisha uondoe kitufe cha USB kwa wakati unaofaa ili kuepuka kuanzisha upya usakinishaji.
+Mara baada ya kumaliza, bofya kitufe cha **ingiza** ili kuanzisha upya, kisha uondoe kitufe cha USB kwa wakati unaofaa ili kuepuka kuanzisha upya usakinishaji.
 
 
 
@@ -356,7 +355,7 @@ Kwa masasisho yako ya kwanza, mfumo wa uendeshaji unahitaji nenosiri lako la mtu
 
 
 
-Mfumo wa Uendeshaji wa Msingi ni pamoja na zana muhimu tu. Ili kurekebisha mazingira yako kulingana na mahitaji yako, haswa ikiwa wewe ni msanidi programu, tunapendekeza usakinishe zana za ziada.
+Mfumo wa Uendeshaji wa Msingi unakuja na zana muhimu pekee. Ili kuunda mazingira yako kulingana na mahitaji yako—hasa ikiwa wewe ni msanidi programu—tunapendekeza usakinishe zana za ziada.
 
 
 
