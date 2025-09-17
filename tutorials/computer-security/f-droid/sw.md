@@ -1,6 +1,6 @@
 ---
 name: F-Droid
-description: Katalogi ya programu huria na huria.
+description: Catalog  ya programu huria na huria.
 ---
 
 ![cover](assets/cover.webp)
@@ -19,7 +19,7 @@ Katika somo hili, tutakuwa tukiangalia F-droid, saraka ya programu ambayo inawak
 
 
 
-F-Droid ni programu na hifadhi ya zana ambayo hukuwezesha kusakinisha programu huria, huria kwenye jukwaa la Android. F-droid yenyewe ni mradi wa chanzo huria ulioanzishwa mwaka wa 2010 na Ciaran Gultnieks na wachangiaji wengine kadhaa. Lengo kuu la mradi ni kufanya programu huria kufikiwa, na kuwawezesha waanzilishi wa miradi huria kupata jukwaa ambapo wanaweza kuchapisha zana zao bila kulazimika kurejelea Google Play Store.
+F-Droid ni programu na hifadhi ya zana inayokuwezesha kusakinisha programu huria kwenye jukwaa la Android. F-Droid yenyewe ni mradi wa chanzo huria ulioanzishwa mwaka 2010 na Ciaran Gultnieks pamoja na wachangiaji wengine kadhaa. Lengo kuu la mradi huu ni kufanya programu huria zipatikane kwa urahisi na kuwawezesha waanzilishi wa miradi huria kupata jukwaa la kuchapisha zana zao bila kulazimika kutegemea Google Play Store.
 
 
 
@@ -179,7 +179,7 @@ Kuweka programu kwenye chanzo wazi mara nyingi ni sawa na kuongezeka kwa usalama
 
 
 
-F-Droid hukusanya programu kwenye seva zao wenyewe, kulingana na msimbo rasmi wa chanzo na maagizo ya ujumuishaji. Kila programu iliyochapishwa hujengwa upya na kuthibitishwa ili kuhakikisha kuwa haijaathiriwa. Hii inahakikisha kwamba APK inayotolewa ni mwaminifu kwa msimbo wa chanzo uliochapishwa na wasanidi programu. Zaidi ya hayo, kila programu iliyosakinishwa kupitia F-Droid imetiwa sahihi kidijitali, kisha alama ya vidole vya sahihi inalinganishwa na ile iliyotangazwa na wasanidi programu kwenye tovuti rasmi au kwenye hazina ya Git.
+F-Droid hukusanya programu kwenye seva zake, kulingana na msimbo rasmi wa chanzo na maagizo ya ujumuishaji. Kila programu iliyochapishwa hujengwa upya na kuthibitishwa ili kuhakikisha kuwa haijabadilishwa. Hii inahakikisha kwamba APK inayotolewa inalingana kwa uaminifu na msimbo wa chanzo uliotolewa na wasanidi programu. Zaidi ya hayo, kila programu iliyosakinishwa kupitia F-Droid imetiwa sahihi kidijitali, kisha alama ya vidole vya sahihi hiyo hulinganishwa na ile iliyotangazwa na wasanidi programu kwenye tovuti rasmi au kwenye hazina ya Git.
 
 
 
