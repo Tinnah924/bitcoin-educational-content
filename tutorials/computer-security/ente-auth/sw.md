@@ -6,7 +6,7 @@ description: Kithibitishaji cha 2FA kilichosimbwa kwa njia huria kutoka mwisho h
 
 
 
-Uthibitishaji wa vipengele viwili (2FA) umekuwa muhimu sana katika kupata akaunti zetu za mtandaoni. Mbali na nenosiri lako la kawaida, inahitaji msimbo wa muda, ambao kawaida huzalishwa na programu maalum. Utaratibu huu, unaojulikana kama TOTP (Nenosiri la Wakati Mmoja) unahakikisha kwamba hata nenosiri lako likiingiliwa, mvamizi hataweza kufikia akaunti yako bila kuwa na kipengele hiki cha pili, kinachosasishwa kila baada ya sekunde 30.
+Two factor verificatin  (2FA) umekuwa muhimu sana katika kupata akaunti zetu za mtandaoni. Mbali na nenosiri lako la kawaida, inahitaji msimbo wa muda, ambao kawaida huzalishwa na programu maalum. Utaratibu huu, unaojulikana kama TOTP (Time-Based One-Time Password) unahakikisha kwamba hata nenosiri lako likiingiliwa, mvamizi hataweza kufikia akaunti yako bila kuwa na kipengele hiki cha pili, kinachosasishwa kila baada ya sekunde 30.
 
 
 
@@ -46,7 +46,7 @@ Ente Auth iliundwa na timu ya Ente Photos, huduma ya uhifadhi wa picha iliyosimb
 
 
 
-**Minimalist, angavu Interface**: Programu hutoa Interface iliyoratibiwa, rahisi kujifunza hata kwa watumiaji wasio wa kiufundi. Akaunti za 2FA zinaonyeshwa na jina la huduma, kuingia kwako na nambari ya nambari 6, iliyosasishwa kwa wakati halisi. Ente Auth pia huonyesha msimbo unaofuata sekunde chache mapema ili kuepuka kukamatwa na muda wa matumizi kuisha.
+**Minimalist, Interface angavu**: Programu hutoa Interface iliyoratibiwa, rahisi kujifunza hata kwa watumiaji wasio wa kiufundi. Akaunti za 2FA zinaonyeshwa na jina la huduma, kuingia kwako na nambari ya nambari 6, iliyosasishwa kwa wakati halisi. Ente Auth pia huonyesha msimbo unaofuata sekunde chache mapema ili kuepuka kukamatwa na muda wa matumizi kuisha.
 
 
 
@@ -107,16 +107,16 @@ Una chaguzi kadhaa:
 
 
 
-- Google Play Store**: Tafuta "Ente Auth" kwa usakinishaji wa kawaida
-- F-Droid**: Inapatikana kutoka kwa orodha ya programu huria ya Android, ikiwa na hakikisho la ujenzi uliothibitishwa na hakuna maudhui ya umiliki.
-- Usakinishaji mwenyewe** : Faili za APK zinaweza kupakuliwa kutoka kwa [ukurasa wa GitHub wa mradi](https://github.com/ente-io/auth/releases) kwa arifa iliyounganishwa ya matoleo mapya
+- **Google Play Store**: Tafuta "Ente Auth" kwa usakinishaji wa kawaida
+-**F-Droid**: Inapatikana kutoka kwa orodha ya programu huria ya Android, ikiwa na hakikisho la ujenzi uliothibitishwa na hakuna maudhui ya umiliki.
+- **Usakinishaji mwenyewe** : Faili za APK zinaweza kupakuliwa kutoka kwa [ukurasa wa GitHub wa mradi](https://github.com/ente-io/auth/releases) kwa arifa iliyounganishwa ya matoleo mapya
 
 
 
 ### iOS (iPhone/iPad)
 
 
-Sakinisha Ente Auth moja kwa moja kutoka kwa Apple App Store kwa kutafuta jina la programu. Programu ya iOS pia inaweza kuendeshwa kwenye Mac zilizo na chipsi za Apple Silicon (M1/M2) kupitia Duka la Programu la Mac.
+Sakinisha Ente Auth moja kwa moja kutoka kwa Apple App Store kwa kutafuta jina la programu. Programu ya iOS pia inaweza kuendeshwa kwenye Mac zilizo na chips za Apple Silicon (M1/M2) kupitia Duka la Programu la Mac.
 
 
 
@@ -129,9 +129,9 @@ Ente Auth inatoa programu asilia za eneo-kazi. Tembelea [ente.io/download](https
 
 
 
-- Windows**: Kisakinishi cha EXE kimetolewa
-- macOS**: Buruta-na-dondosha picha ya diski ya DMG katika Programu
-- Linux** : Miundo kadhaa inayopatikana (AppImage portable, .deb kwa Debian/Ubuntu, .rpm kwa Fedora/Red Hat)
+- **:Windows**: Kisakinishi cha EXE kimetolewa
+-**macOS**: Buruta-na-dondosha picha ya diski ya DMG katika Programu
+- **Linux** : Miundo kadhaa inayopatikana (AppImage portable, .deb kwa Debian/Ubuntu, .rpm kwa Fedora/Red Hat)
 
 
 
@@ -139,7 +139,7 @@ Ente Auth inatoa programu asilia za eneo-kazi. Tembelea [ente.io/download](https
 
 
 
-### Interface Mtandao
+### Network Interface
 
 
 Bila usakinishaji, unaweza kufikia misimbo yako kupitia [auth.ente.io](https://auth.ente.io) kutoka kwa kivinjari chochote. Wavuti ya Interface ina ukomo wa misimbo ya kutazama (muhimu kwa utatuzi), kwani kuongeza akaunti kunahitaji programu ya simu au eneo-kazi kwa sababu za usalama.
@@ -196,9 +196,9 @@ Ninapendekeza sana kuwezesha ulinzi wa ndani kwa kutumia msimbo au bayometriki. 
 
 
 
-- Kufungua kwa kibayometriki**: Kitambulisho cha Uso, alama ya vidole kulingana na uwezo wa kifaa chako
-- PIN/nenosiri mahususi kwa programu**
-- Ucheleweshaji wa Kufunga Kiotomatiki**: k.m. "Mara moja" au baada ya sekunde 30 za kutofanya kazi
+- **Kufungua kwa kibayometriki**: Kitambulisho cha Uso, alama ya vidole kulingana na uwezo wa kifaa chako
+  **:PIN/nenosiri mahususi kwa programu**
+- **Ucheleweshaji wa Kufunga Kiotomatiki**: k.m. "Mara moja" au baada ya sekunde 30 za kutofanya kazi
 
 
 
@@ -226,7 +226,7 @@ Ili kuongeza akaunti mpya ya 2FA, hebu tuchukue mfano halisi wa kuwezesha 2FA kw
 
 
 
-**Upande wa huduma (Bull Bitcoin)**: Ingia katika akaunti yako ya Bull Bitcoin, nenda kwenye mipangilio ya usalama, na uwashe uthibitishaji wa vipengele viwili.
+**Upande wa huduma (Bull Bitcoin)**: Ingia katika akaunti yako ya Bull Bitcoin, nenda kwenye mipangilio ya usalama, na uwashe Two factor verifaction.
 
 
 
@@ -660,10 +660,7 @@ Iwe wewe ni mtu binafsi unayetafuta kulinda akaunti zako za kibinafsi, au timu i
 
 
 - Tovuti rasmi**: [ente.io/auth](https://ente.io/auth)
-- Kituo cha usaidizi**: [help.ente.io/auth](https://help.ente.io/auth)
-- Blogu ya kiufundi**: [ente.io/blog](https://ente.io/blog)
-
-
+- Kituo cha usaidizi**: [help.ente.io/auth](https://help.ente.io/auth)                                                                                                                    - Blogu ya kiufundi**: [ente                     
 
 ### Chanzo kanuni na uwazi
 
