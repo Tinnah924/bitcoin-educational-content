@@ -36,10 +36,10 @@ Lakini kuchagua Firefox ni hatua ya kwanza tu. Kwa chaguo-msingi, hata Firefox i
 
 
 
-- Chanzo huria na huria** (Injini ya Gecko): msimbo unaoweza kukaguliwa na uwazi
-- Shirika lisilo la faida**: Wakfu wa Mozilla, dhamira ya maslahi ya jumla
-- Ulinzi wa asili uliojengewa ndani**: Ulinzi ulioimarishwa wa Ufuatiliaji (ETP), Ulinzi wa Jumla wa Vidakuzi (TCP), Ugawaji wa Jimbo, hali ya HTTPS pekee, DNS kupitia HTTPS (DoH)
-- Ubinafsishaji wa hali ya juu**: tofauti na Chrome, Firefox hukuruhusu kurekebisha tabia yake kwa kina
+- **Chanzo huria na huria** (Injini ya Gecko): msimbo unaoweza kukaguliwa na uwazi
+- **Shirika lisilo la faida**: Wakfu wa Mozilla, dhamira ya maslahi ya jumla
+- **Ulinzi wa asili uliojengewa ndani**: Ulinzi ulioimarishwa wa Ufuatiliaji (ETP), Ulinzi wa Jumla wa Vidakuzi (TCP), Ugawaji wa Jimbo, hali ya HTTPS pekee, DNS kupitia HTTPS (DoH)
+- **Ubinafsishaji wa hali ya juu**: tofauti na Chrome, Firefox hukuruhusu kurekebisha tabia yake kwa kina
 
 
 
@@ -49,9 +49,9 @@ Lakini kuchagua Firefox ni hatua ya kwanza tu. Kwa chaguo-msingi, hata Firefox i
 
 
 
-- Hakuna kichocheo cha jumla**: kadiri unavyorekebisha, ndivyo unavyojihatarisha zaidi kusimama nje (alama ya vidole). Lengo ni kulindwa vyema bila kusimama kutoka kwa umati.
-- Maendeleo ya hatua kwa hatua**: Badilisha mpangilio, jaribu tovuti zako za kawaida, kisha uendelee. Hakuna haja ya kubadilisha kila kitu mara moja.
-- Salio la kibinafsi**: Tafuta maelewano YAKO kati ya faragha na urahisi wa kutumia.
+- **Hakuna kichocheo cha jumla**: kadiri unavyorekebisha, ndivyo unavyojihatarisha zaidi kusimama nje (alama ya vidole). Lengo ni kulindwa vyema bila kusimama kutoka kwa umati.
+- **Maendeleo ya hatua kwa hatua**: Badilisha mpangilio, jaribu tovuti zako za kawaida, kisha uendelee. Hakuna haja ya kubadilisha kila kitu mara moja.
+- **Salio la kibinafsi**: Tafuta maelewano YAKO kati ya faragha na urahisi wa kutumia.
 
 
 
@@ -69,13 +69,13 @@ Lakini kuchagua Firefox ni hatua ya kwanza tu. Kwa chaguo-msingi, hata Firefox i
 
 
 
-- Windows**: pakua kisakinishi cha `.exe`, bofya mara mbili na ufuate mchawi wa usakinishaji
-- macOS**: pakua faili ya `.dmg`, ifungue na uburute Firefox kwenye folda ya Programu
-- Linux**: chaguo kadhaa zinazopatikana - kifurushi `.deb`/`.rpm`, Flatpak (Flathub), Snap, au kupitia kidhibiti kifurushi (apt, dnf, pacman). Pendelea vyanzo rasmi vya Mozilla.
+- **Windows**: pakua kisakinishi cha `.exe`, bofya mara mbili na ufuate mchawi wa usakinishaji
+- **macOS**: pakua faili ya `.dmg`, ifungue na uburute Firefox kwenye folda ya Programu
+- **Linux**: chaguo kadhaa zinazopatikana - kifurushi `.deb`/`.rpm`, Flatpak (Flathub), Snap, au kupitia kidhibiti kifurushi (apt, dnf, pacman). Pendelea vyanzo rasmi vya Mozilla.
 
 
 
-**Kidokezo:** Mara baada ya kusakinishwa, angalia masasisho kupitia Usaidizi → **Kuhusu Firefox** (muhimu kwa viraka vya usalama).
+**Kidokezo:** Mara baada ya kusakinishwa, angalia masasisho kupitia Sasisha→ **Kuhusu Firefox** (muhimu kwa viraka vya usalama).
 
 
 
@@ -106,9 +106,9 @@ Lakini kuchagua Firefox ni hatua ya kwanza tu. Kwa chaguo-msingi, hata Firefox i
 
 
 
-- Kutengwa kwa tovuti (Fission)**: katika upelekaji unaoendelea. Kipengele hiki huendesha kila tovuti katika mchakato tofauti ili kuzuia kichupo kimoja hasidi kufikia data ya mwingine. Angalia hali yake kupitia `kuhusu:msaada` (tafuta "Fission"). Ikiwa haijawashwa, unaweza kuiwasha wewe mwenyewe katika `kuhusu:config` kwa `fission.autostart = true`.
-- Jumla ya Ulinzi wa Vidakuzi (TCP)**: inafanya kazi kwa chaguomsingi. Vidakuzi na hifadhi nyingine zimefungwa kwenye tovuti ya mtu wa kwanza ("jarida" moja kwa kila tovuti), ambayo inapunguza ufuatiliaji wa tovuti mbalimbali. Vighairi vya muda hufanywa kupitia API ya Ufikiaji wa Hifadhi inapohitajika (vitufe vilivyounganishwa vya kuingia).
-- Ulinzi wa Kufuatilia/Kuelekeza Upya**: Firefox hutambua na kusafisha kiotomatiki vidakuzi vilivyoachwa nyuma na tovuti zinazokurupuka (viungo vinavyokuelekeza upya kupitia kifuatiliaji kabla ya unakoenda), na kupunguza kituo hiki cha ufuatiliaji bila hatua yoyote kwa upande wako.
+- **Kutengwa kwa tovuti (Fission)**: katika upelekaji unaoendelea. Kipengele hiki huendesha kila tovuti katika mchakato tofauti ili kuzuia kichupo kimoja hasidi kufikia data ya mwingine. Angalia hali yake kupitia `kuhusu:msaada` (tafuta "Fission"). Ikiwa haijawashwa, unaweza kuiwasha wewe mwenyewe katika `kuhusu:config` kwa `fission.autostart = true`.
+- **Jumla ya Ulinzi wa Vidakuzi (Total Cookie Protection - TCP)**: inafanya kazi kwa chaguomsingi. Vidakuzi na hifadhi nyingine zimefungwa kwenye tovuti ya mtu wa kwanza ("jarida" moja kwa kila tovuti), ambayo inapunguza ufuatiliaji wa tovuti mbalimbali. Vighairi vya muda hufanywa kupitia API ya Ufikiaji wa Hifadhi inapohitajika (vitufe vilivyounganishwa vya kuingia).
+- **Ulinzi wa Kufuatilia/Kuelekeza Upya**: Firefox hutambua na kusafisha kiotomatiki vidakuzi vilivyoachwa nyuma na tovuti zinazokurupuka (viungo vinavyokuelekeza upya kupitia kifuatiliaji kabla ya unakoenda), na kupunguza kituo hiki cha ufuatiliaji bila hatua yoyote kwa upande wako.
 
 
 
@@ -146,14 +146,14 @@ Hapa kuna viwango tofauti vya usalama vya ETP:
 
 
 
-- Kawaida** (uwiano, utangamano wa juu zaidi)
-  - Vitalu: vifuatiliaji vya kijamii, vidakuzi vya tovuti mbalimbali (madirisha yote), kufuatilia maudhui katika kuvinjari kwa faragha, wachimbaji madini ya cryptocurrency, vigunduzi vya alama za vidole.
-  - Inajumuisha **Jumla ya Ulinzi wa Vidakuzi** (TCP): jarida moja kwa kila tovuti.
-- Madhubuti** (inapendekezwa kwa usiri)
+- **Kawaida** (uwiano, utangamano wa juu zaidi)
+  -Block: vifuatiliaji vya kijamii, vidakuzi vya tovuti mbalimbali (cross-site cookies), ufuatiliaji wa maudhui katika kuvinjari kwa faragha, wachimbaji wa cryptocurrency, vigunduzi vya alama za vidole.
+  - **Inajumuisha **Jumla ya Ulinzi wa Vidakuzi** (TCP): jarida moja kwa kila tovuti.
+- **Madhubuti** (inapendekezwa kwa usiri)
   - Pia huzuia ufuatiliaji wa maudhui katika madirisha yote + yanayojulikana na kushukiwa kuwa alama ya vidole.
   - Inaweza kuvunja baadhi ya tovuti; tumia ngao ya 🛡️ kwa ubaguzi wa ndani.
-- Maalum** (ya hali ya juu)
-  - Urekebishaji mzuri: vidakuzi, maudhui ya kufuatilia, watoto, uwekaji alama za vidole (unaojulikana/unaoshukiwa).
+- Maalum (ya hali ya juu)
+  - Urekebishaji mzuri: vidakuzi, maudhui ya ufuatiliaji, pop-ups, alama za vidole (unaojulikana/unaoshukiwa).
 
 
 
@@ -176,9 +176,9 @@ Hapa kuna viwango tofauti vya usalama vya ETP:
 
 
 - Zima **kujaza-otomatiki** (Vitambulisho, anwani, kadi). Tumia kidhibiti cha nenosiri badala yake.
-- Tafuta**: zima **"Onyesha mapendekezo ya utafutaji "**.
-- Upau wa Address**: kata **"Mapendekezo yaliyofadhiliwa "** na **"Mapendekezo ya muktadha "**.
-- Nyumbani**: zima **Mfukoni** na **maudhui yaliyofadhiliwa**.
+- **Tafuta**: zima **"Onyesha mapendekezo ya utafutaji "**.
+- **Upau wa Address**: kata **"Mapendekezo yaliyofadhiliwa "** na **"Mapendekezo ya muktadha "**.
+- **Nyumbani**: zima **Mfukoni** na **maudhui yaliyofadhiliwa**.
 
 
 
@@ -191,21 +191,21 @@ Hapa kuna viwango tofauti vya usalama vya ETP:
 
 
 
-- Washa **"Modi ya HTTPS katika madirisha yote tu"**.
+- Washa **"Mode ya HTTPS katika windows zote tu"**.
 
 
 ![Configuration DNS over HTTPS](assets/fr/09.webp)
 
 
 
-**Kipimo cha telemetry na utangazaji
+**Kipimo cha telemetry na utangazaji**
 
 
 
 
 - Katika "Mkusanyiko wa data na Firefox", **ondoa uteuzi wote**.
 - Zima **"Hatua za utangazaji zinazofaa kwa faragha "** (PPA).
-- Kuvinjari kwa Usalama**: iendelee kuwezeshwa (inapendekezwa). Firefox hukagua tovuti dhidi ya orodha za vitisho kupitia maswali ya haraka na ukaguzi wa ndani, kulinda dhidi ya hadaa na programu hasidi na athari ndogo ya faragha.
+- **Kuvinjari kwa Usalama**: iendelee kuwezeshwa (inapendekezwa). Firefox hukagua tovuti dhidi ya orodha za vitisho kupitia maswali ya haraka na ukaguzi wa ndani, kulinda dhidi ya hadaa na programu hasidi na athari ndogo ya faragha.
 
 
 
@@ -218,7 +218,7 @@ Hapa kuna viwango tofauti vya usalama vya ETP:
 
 
 
-**Injini ya utafutaji
+**Injini ya utafutaji**
 
 
 
@@ -245,10 +245,10 @@ Hapa kuna viwango tofauti vya usalama vya ETP:
 
 
 
-- uBlock Origin**: huzuia matangazo na ufuatiliaji wa sasa, uzani mwepesi.
-- Faragha Badger**: hujifunza kuzuia kile kinachokufuata; hutuma Usifuatilie / GPC.
-- ClearURLs** (si lazima): Firefox (ETP Strict) na uBO tayari zinasafisha mengi; ihifadhi ikiwa bado unaona URL "chafu" (utm, fbclid).
-- Vyombo vya Akaunti Nyingi vya Firefox**: **hutenga vidakuzi/vikao na uhifadhi kwa kila kontena; akaunti nyingi sambamba; ufuatiliaji mdogo wa tovuti nyingi **. Kiendelezi rasmi: `https://addons.mozilla.org/fr/firefox/addon/multi-account-containers/`.
+- **uBlock Origin**: huzuia matangazo na ufuatiliaji wa sasa, uzani mwepesi.
+- Privacy Badger: hujifunza kuzuia kinachokufuatilia; hutuma Do Not Track / GPC.
+- **ClearURLs** (si lazima): Firefox (ETP Strict) na uBO tayari zinasafisha mengi; ihifadhi ikiwa bado unaona URL "chafu" (utm, fbclid).
+- **Vyombo vya Akaunti Nyingi vya Firefox**: **hutenga vidakuzi/vikao na uhifadhi kwa kila kontena; akaunti nyingi sambamba; ufuatiliaji mdogo wa tovuti nyingi **. Kiendelezi rasmi: `https://addons.mozilla.org/fr/firefox/addon/multi-account-containers/`.
 
 
 
@@ -261,7 +261,7 @@ Hapa kuna viwango tofauti vya usalama vya ETP:
 
 
 
-- Tumia kidhibiti maalum cha nenosiri** (Bitwarden, KeePassXC). **Epuka** kuhifadhi manenosiri kwenye kivinjari. **Washa 2FA** inapowezekana.
+- **Tumia kidhibiti maalum cha nenosiri** (Bitwarden, KeePassXC). **Epuka** kuhifadhi manenosiri kwenye kivinjari. **Washa 2FA** inapowezekana.
 
 
 
@@ -278,11 +278,11 @@ Lengo: kugawanya shughuli na kupunguza uvujaji wa mtandao.
 
 
 
-- Hali chaguo-msingi**: Imewashwa kiotomatiki katika baadhi ya maeneo (Marekani, Kanada, Urusi, Ukraini). Kwingineko, uwezeshaji mwenyewe unahitajika.
-- Usanidi**: Mipangilio → Jumla → Mipangilio ya mtandao → **Washa DoH** → **Cloudflare** au **Quad9** → **Upeo wa ulinzi**.
-- Ulinzi wa juu = TRR-pekee** (hakuna njia mbadala kwa mfumo wa DNS). Ikiwa mtandao wa shirika/hoteli utazuia, rudi kwenye **Kawaida** au uzime DoH.
-- Uhitaji**: Ikiwa tayari unatumia VPN inayoaminika iliyo na DNS yake salama, DoH inaweza kutumika tena.
-- Jaribio la uthibitishaji**: `https://www.dnsleaktest.com/` inapaswa kuonyesha mtoa huduma aliyechaguliwa wa DoH pekee.
+- **Hali chaguo-msingi**: Imewashwa kiotomatiki katika baadhi ya maeneo (Marekani, Kanada, Urusi, Ukraini). Kwingineko, uwezeshaji mwenyewe unahitajika.
+- **Usanidi**: Mipangilio → Jumla → Mipangilio ya mtandao → **Washa DoH** → **Cloudflare** au **Quad9** → **Upeo wa ulinzi**.
+- Ulinzi wa juu = **TRR-pekee** (hakuna njia mbadala kwa mfumo wa DNS). Ikiwa mtandao wa shirika/hoteli utazuia, rudi kwenye **Kawaida** au uzime DoH.
+- **Uhitaji**: Ikiwa tayari unatumia VPN inayoaminika iliyo na DNS yake salama, DoH inaweza kutumika tena.
+- **Jaribio la uthibitishaji**: `https://www.dnsleaktest.com/` inapaswa kuonyesha mtoa huduma aliyechaguliwa wa DoH pekee.
 
 
 
@@ -290,21 +290,20 @@ Lengo: kugawanya shughuli na kupunguza uvujaji wa mtandao.
 
 
 
-**Kutenganisha na vyombo na wasifu
+**Kutenganisha na vyombo na wasifu**
 
 
 
 
-- Vyombo vya Akaunti Nyingi**: tengeneza nafasi (Binafsi, Kazi, Fedha, Mitandao ya Kijamii, Ununuzi, Zinazoweza Kutumika). Sanidi **"Fungua kila wakati katika chombo hiki "** kwa tovuti zako zinazojirudia. Kiendelezi rasmi: `https://addons.mozilla.org/fr/firefox/addon/multi-account-containers/`.
+-Multi-Account Containers: tengeneza nafasi (Binafsi, Kazi, Fedha, Mitandao ya Kijamii, Ununuzi, Disposable). Sanidi **"Fungua kila wakati katika chombo hiki "** kwa tovuti zako zinazojirudia. Kiendelezi rasmi: `https://addons.mozilla.org/fr/firefox/addon/multi-account-containers/`.
 - Kwa nini kuzitumia?
-  - Kutengwa kwa nguvu** kwa vidakuzi/vikao/hifadhi kulingana na nafasi.
-  - Ufuatiliaji mdogo wa tovuti mbalimbali**: funga majitu (Facebook, Google).
-  - Akaunti nyingi kwa wakati mmoja** kwenye huduma sawa.
-  - Hatari ndogo ya CSRF/XSS** kati ya vitambulisho vilivyogawanywa.
+  - **Kutengwa kwa nguvu** kwa vidakuzi/vikao/hifadhi kulingana na nafasi.
+  - **Ufuatiliaji mdogo wa tovuti mbalimbali**: funga majitu (Facebook, Google).
+  - Multiple accounts kwa wakati mmoja kwenye huduma sawa.
+  - **Hatari ndogo ya CSRF/XSS** kati ya vitambulisho vilivyogawanywa.
   - Kidokezo: angalau, vyombo maalum vya Mitandao ya Kijamii/Google, Work, Finance.
-- Facebook Container** (si lazima): toleo lililorahisishwa linalotolewa kwa FB/Instagram.
-- Tenganisha wasifu**: kupitia `kuhusu:wasifu` (wasifu mkuu, wasifu mdogo wa "salama sana", wasifu wa majaribio). Jumla ya data na ujumuishaji wa kiendelezi.
-
+- **Facebook Container** (si lazima): toleo lililorahisishwa linalotolewa kwa FB/Instagram.
+- **Tenganisha wasifu**: kupitia `kuhusu:wasifu` (wasifu mkuu, wasifu mdogo wa "salama sana", wasifu wa majaribio). Jumla ya data na ujumuishaji wa kiendelezi.
 
 
 **Viendelezi vya hali ya juu** (vitahifadhiwa)
@@ -312,8 +311,8 @@ Lengo: kugawanya shughuli na kupunguza uvujaji wa mtandao.
 
 
 
-- Kuki Kufuta Kiotomatiki**: hufuta vidakuzi vya tovuti mara tu kichupo kinapofungwa (ni muhimu ikiwa Firefox imefunguliwa kwa muda mrefu).
-- LocalCDN**: hutumikia maktaba za sasa ndani ya nchi (hupunguza simu kwa Google/Microsoft). Utangamano wa sehemu.
+- **Kuki Kufuta Kiotomatiki**: hufuta vidakuzi vya tovuti mara tu kichupo kinapofungwa (ni muhimu ikiwa Firefox imefunguliwa kwa muda mrefu).
+- **LocalCDN**: hutumikia maktaba za sasa ndani ya nchi (hupunguza simu kwa Google/Microsoft). Utangamano wa sehemu.
 
 
 
@@ -322,7 +321,7 @@ Lengo: kugawanya shughuli na kupunguza uvujaji wa mtandao.
 
 
 
-- Firefox Android + uBlock Origin**: ulinzi sawa wakati wa kusonga.
+- **Firefox Android + uBlock Origin**: ulinzi sawa wakati wa kusonga.
 
 
 
@@ -371,7 +370,7 @@ Andika `kuhusu:config` katika upau wa Address → Kubali hatari.
 
 
 
-- Upinzani wa uchapaji vidole (iliyorithiwa kutoka kwa Kivinjari cha Tor)
+- Fingerprinting resistance (iliyorithiwa kutoka kwa Tor Browser)
 
 
 ```text
@@ -432,7 +431,7 @@ network.http.speculative-parallel-limit = 0
 
 
 
-Kanuni ya dhahabu: ikiwa kitu kitavunjika, rudi kwenye mabadiliko ya mwisho.
+Kanuni ya dhahabu: ikiwa kitu kitavunjika, rudi kwenye rollback ya mwisho.
 
 
 
@@ -446,7 +445,7 @@ Mradi wa **Arkenfox** unatoa faili ya `user.js` inayodumishwa na jumuiya ambayo 
 
 
 
-- Kuna maana gani? Anza kutoka kwa **msingi mgumu thabiti ** bila "kubofya kila mahali"; kupunguza uangalizi; kuokoa muda.
+- Kuna maana gani? Anza kutoka kwa **msingi mgumu thabiti** bila "kubofya kila mahali"; kupunguza uangalizi; kuokoa muda.
 - Kinachobadilika (mifano): kukatwa kwa telemetry, vidakuzi/akiba/referrer/HTTPS kuimarishwa, **RFP** + letterboxing, **WebRTC imezimwa**, marekebisho ya DoH/TLS, API za gumzo zimepunguzwa.
 - Wakati wa kuitumia: ikiwa ungependa Firefox iwe ngumu kwa dakika 10 na ukubali vighairi vichache (DRM/kutiririsha, Visio ya Wavuti, SSO/malipo).
 - Manufaa: haraka, thabiti, **ilisasishwa** (imepangiliwa na ESR), imeandikwa vizuri sana **iliyoandikwa** (wiki + maoni), **inayoweza kubinafsishwa** kupitia kubatilisha.
@@ -542,11 +541,11 @@ Mbinu bora
 
 
 
-- Masasisho**: Firefox na viendelezi vilivyosasishwa.
-- Viendelezi**: busara na ya kuaminika; Jihadharini na ukombozi "wa kutisha".
-- Vipakuliwa**: tahadhari; jaribu faili nyeti kwenye VirusTotal.
-- Nenosiri**: **meneja aliyejitolea** (Bitwarden, KeePassXC); **2FA** imewezeshwa; epuka kuhifadhi kwenye kivinjari.
-- Usafi**: funga Google/Facebook kwenye vyombo; funga/fungua mara kwa mara ili "kuweka upya" muktadha.
+- **Masasisho**: Firefox na viendelezi vilivyosasishwa.
+- **Viendelezi**: busara na ya kuaminika; Jihadharini na ukombozi "wa kutisha".
+- **Vipakuliwa**: tahadhari; jaribu faili nyeti kwenye VirusTotal.
+- **Nenosiri**: **meneja aliyejitolea** (Bitwarden, KeePassXC); **2FA** imewezeshwa; epuka kuhifadhi kwenye kivinjari.
+- **Usafi**: funga Google/Facebook kwenye vyombo; funga/fungua mara kwa mara ili "kuweka upya" muktadha.
 
 
 
@@ -583,7 +582,7 @@ https://planb.network/tutorials/computer-security/communication/mullvad-browser-
 
 
 
-Kwa kufuata mwongozo huu wa hatua kwa hatua, umebadilisha Firefox kuwa ngome ya kweli dhidi ya ufuatiliaji wa dijiti. Kuanzia mipangilio muhimu ya Kiwango cha 1 hadi usanidi wa hali ya juu wa Arkenfox, kila mabadiliko huimarisha faragha yako bila kuathiri matumizi yako ya kuvinjari.
+Kwa kufuata mwongozo huu wa hatua kwa hatua, umebadilisha Firefox kuwa ngome thabiti dhidi ya ufuatiliaji wa kidijitali. Kuanzia mipangilio muhimu ya Kiwango cha 1 hadi usanidi wa hali ya juu wa Arkenfox, kila mabadiliko huimarisha faragha yako bila kuathiri matumizi ya kuvinjari.
 
 
 
@@ -637,8 +636,8 @@ https://planb.network/courses/4ba0e3de-e67f-4ea1-a514-f111206810d1
 
 
 - [Miongozo ya Faragha - Vivinjari vya Eneo-kazi](https://www.privacyguides.org/en/desktop-browsers/): Mapendekezo na ulinganisho wa kivinjari
-- Reddit**: r/firefox, r/faragha kwa maoni na usaidizi
-- Mkutano wa Miongozo ya Faragha**: majadiliano ya kina ya kiufundi
+- **Reddit**: r/firefox, r/faragha kwa maoni na usaidizi
+- **Mkutano wa Miongozo ya Faragha**: majadiliano ya kina ya kiufundi
 
 
 
