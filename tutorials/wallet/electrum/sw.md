@@ -1,19 +1,19 @@
 ---
 name: Electrum
 
-description: Mwongozo Kamili wa Electrum: from zero to hero
+description: Mwongozo kamili wa Electrum, kutoka mwanzoni hadi mtaalamu
 ---
 
 ![cover](assets/cover.webp)
 
 
-Pata hapa chini vyanzo vichache vya maelezo ya Electrum:
+Hapo chini kuna vyanzo vichache vya maelezo kwa Electrum:
 
 
 
-(https://twitter.com/ElectrumWallet)
-- [Tovuti ya Lightning](https://electrum.org/)
-- [Hati za kielektroniki](https://electrum.readthedocs.io/)
+- [X](https://twitter.com/ElectrumWallet)
+- [Electrum website](https://electrum.org/)
+- [Electrum documentation](https://electrum.readthedocs.io/)
 
 
 Hivi ndivyo Rogzy anafikiria kuhusu mafunzo haya:
