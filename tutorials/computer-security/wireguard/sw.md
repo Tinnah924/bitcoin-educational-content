@@ -475,7 +475,7 @@ Anza kwa kufungua programu ili kuundatunnel  mpya. Ili kufanya hivyo, bofya kwen
 
 
 
-Window ya usanidi litafungua. Kila wakati usanidi mpya watunnel  unapoundwa, WireGuard hutengeneza jozi ya vitufe vya faragha/vya umma mahususi kwa usanidi huu. **Katika usanidi huu, tunahitaji kutangaza "rika", yaani server ya mbali:
+Window ya usanidi litafungua. Kila wakati usanidi mpya watunnel  unapoundwa, WireGuard hutengeneza jozi ya vitufe vya faragha/vya umma mahususi kwa usanidi huu. **Katika usanidi huu, tunahitaji kutangaza "Peer", yaani server ya mbali:
 
 
 
@@ -502,7 +502,7 @@ Address = 192.168.110.2/24
 
 
 
-Ifuatayo, tunahitaji kutangaza kizuizi cha "Rika" na mali tatu, na kusababisha usanidi huu:
+Ifuatayo, tunahitaji kutangaza kizuizi cha "Peer" na mali tatu, na kusababisha usanidi huu:
 
 
 
@@ -543,7 +543,7 @@ Hatimaye, weka jina katika sehemu ya "**Jina**" (bila nafasi) na unakili na uban
 
 
 
-Ni wakati wa kurudi kwenye server ya Debian ili kutangaza "**Rika**", yaani, Kompyuta yetu ya Windows, katika usanidi wa WireGuard. Kwanza kabisa, tunahitaji **kuzuia Interface "wg0"** ili kurekebisha usanidi wake:
+Ni wakati wa kurudi kwenye server ya Debian ili kutangaza "**Peer**", yaani, Kompyuta yetu ya Windows, katika usanidi wa WireGuard. Kwanza kabisa, tunahitaji **kuzuia Interface "wg0"** ili kurekebisha usanidi wake:
 
 
 
@@ -577,7 +577,7 @@ AllowedIPs = 192.168.110.2/32
 
 
 
-Kizuizi hiki cha [Rika] kina ufunguo wa umma wa Kompyuta ya Windows 10 (**PublicKey**) na IP Address ya Interface ya Kompyuta (**AllowedIPs**): server itawasiliana katika kichuguu hiki cha WireGuard ili tu kuwasiliana na mteja wa Windows, kwa hivyo thamani "**168.168.32.2/2".
+Kizuizi hiki cha [Peer] kina ufunguo wa umma wa Kompyuta ya Windows 10 (**PublicKey**) na IP Address ya Interface ya Kompyuta (**AllowedIPs**): server itawasiliana katika kichuguu hiki cha WireGuard ili tu kuwasiliana na mteja wa Windows, kwa hivyo thamani "**168.168.32.2/2".
 
 
 
