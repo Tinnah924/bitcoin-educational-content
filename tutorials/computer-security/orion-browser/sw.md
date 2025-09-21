@@ -1,5 +1,5 @@
 ---
-name: Kivinjari cha Orion
+name: orion-browser
 description: Jinsi ya kutumia Orion Browser kulinda faragha yako kwenye Mac na iPhone?
 ---
 
@@ -22,15 +22,15 @@ Katika muktadha ambapo vivinjari vingi hukusanya data yetu ya kibinafsi kwa wing
 
 
 
-**Kivinjari cha Orion** kinajionyesha kama mbadala wa kibunifu kwa watumiaji wa Apple. Iliyoundwa na Kagi, kivinjari hiki kinachanganya kasi ya injini ya WebKit na falsafa ya sifuri ya telemetry. Tofauti na washindani wake, Orion haitumi data kwa seva za mbali na kwa asili huzuia 99.9% ya matangazo na vifuatiliaji, ikiwa ni pamoja na YouTube.
+**orion-browser** kinajionyesha kama mbadala wa kibunifu kwa watumiaji wa Apple. Iliyoundwa na Kagi, kivinjari hiki kinachanganya kasi ya injini ya WebKit na falsafa ya sifuri ya telemetry. Tofauti na washindani wake, Orion haitumi data kwa server za mbali na kwa asili huzuia 99.9% ya matangazo na vifuatiliaji, ikiwa ni pamoja na YouTube.
 
 
 
-Kipengele chake cha kipekee? Orion ndicho kivinjari **pekee cha WebKit** ambacho kinaweza kusakinisha Chrome **na** viendelezi vya Firefox asilia, vinavyotoa ulimwengu bora zaidi. Utangamano huu, pamoja na matumizi ya kumbukumbu mara 2 hadi 3 chini ya vivinjari vingine na ushirikiano usio na mshono na mfumo ikolojia wa Apple (iCloud, Keychain), huifanya kuwa chaguo bora kwa watumiaji wa Mac na iPhone wanaojali faragha.
+Kipengele chake cha kipekee? Orion ndio browser **pekee ya WebKit** ambacho kinaweza kusakinisha Chrome **na** viendelezi vya Firefox asilia, vinavyotoa ulimwengu bora zaidi. Utangamano huu, pamoja na matumizi ya kumbukumbu mara 2 hadi 3 chini ya vivinjari vingine na ushirikiano usio na mshono na mfumo ikolojia wa Apple (iCloud, Keychain), huifanya kuwa chaguo bora kwa watumiaji wa Mac na iPhone wanaojali faragha.
 
 
 
-## Kwa nini uchague Kivinjari cha Orion?
+## Kwa nini uchague orion-browser?
 
 
 
@@ -42,7 +42,7 @@ Kipengele chake cha kipekee? Orion ndicho kivinjari **pekee cha WebKit** ambacho
 
 
 
-**Telemetry sifuri inayoweza kuthibitishwa**: Orion inachukua mbinu kali ya faragha, ikiwa na sifuri telemetry kulingana na muundo. Tofauti na vivinjari vingine, ambavyo hufanya mamia ya maombi ya mtandao wakati wa kuanza (kielelezo cha IP, alama ya vidole vya kivinjari, maelezo ya kibinafsi), Orion kamwe "simu ya nyumbani". Tofauti hii ya kimsingi huondoa kabisa hatari ya uvujaji wa data bila kukusudia.
+**Zero Telemetry inayoweza kuthibitishwa**: Orion inachukua mbinu kali ya faragha, ikiwa na sifuri telemetry kulingana na muundo. Tofauti na vivinjari vingine, ambavyo hufanya mamia ya maombi ya mtandao wakati wa kuanza (kielelezo cha IP, alama ya vidole vya kivinjari, maelezo ya kibinafsi), Orion kamwe "simu ya nyumbani". Tofauti hii ya kimsingi huondoa kabisa hatari ya uvujaji wa data bila kukusudia.
 
 
 
