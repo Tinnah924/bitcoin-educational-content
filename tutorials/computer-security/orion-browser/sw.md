@@ -42,7 +42,7 @@ Kipengele chake cha kipekee? Orion ndio browser **pekee ya WebKit** ambacho kina
 
 
 
-**Zero Telemetry inayoweza kuthibitishwa**: Orion inachukua mbinu kali ya faragha, ikiwa na sifuri telemetry kulingana na muundo. Tofauti na vivinjari vingine, ambavyo hufanya mamia ya maombi ya mtandao wakati wa kuanza (kielelezo cha IP, alama ya vidole vya kivinjari, maelezo ya kibinafsi), Orion kamwe "simu ya nyumbani". Tofauti hii ya kimsingi huondoa kabisa hatari ya uvujaji wa data bila kukusudia.
+**Zero Telemetry inayoweza kuthibitishwa**: Orion inachukua mbinu kali ya faragha, ikiwa na Zero telemetry kulingana na muundo. Tofauti na vivinjari vingine, ambavyo hufanya mamia ya maombi ya mtandao wakati wa kuanza (kielelezo cha IP, alama ya vidole vya kivinjari, maelezo ya kibinafsi), Orion kamwe "simu ya nyumbani". Tofauti hii ya kimsingi huondoa kabisa hatari ya uvujaji wa data bila kukusudia.
 
 
 
