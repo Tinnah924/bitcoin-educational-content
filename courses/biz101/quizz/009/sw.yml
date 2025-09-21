@@ -6,4 +6,4 @@ wrong_answers:
   - Ili kupunguza kasi ya malipo ili kuhakikisha kuwa yanasalia kufuatiliwa na serikali.
 explanation: |
   Lightning Network ni protocol ya "Layer 2" ambayo inaruhusu washiriki kuunda njia za malipo, kufanya miamala ya off-chain, na kulipa salio la mwisho la Bitcoin Blockchain pekee. Ubunifu huu unafikia kasi ya haraka na gharama ya chini.
-reviewed: True
+reviewed: true
