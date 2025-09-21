@@ -6,7 +6,7 @@ description: Imarisha usalama wako mtandaoni ukitumia Trezor
 
 
 
-Vifaa vya Trezor ni  wallet za maunzi zilizoundwa awali kulinda Bitcoin Wallet, lakini pia zinaangazia chaguo za kina za uthibitishaji thabiti kwenye wavuti. Shukrani kwa upatanifu wao na   Protocol za **U2F** na **FIDO2**, zinakuwezesha kupata ufikiaji salama wa akaunti zako za mtandaoni bila kutegemea manenosiri pekee.
+Vifaa vya Trezor ni  wallet za maunzi zilizoundwa awali kulinda Bitcoin Wallet, lakini pia zinaangazia chaguo za kina za uthibitishaji thabiti kwenye wavuti. Shukrani kwa upatanifu wao na  l Protocol za **U2F** na **FIDO2**, zinakuwezesha kupata ufikiaji salama wa akaunti zako za mtandaoni bila kutegemea manenosiri pekee.
 
 
 
@@ -18,7 +18,7 @@ Njia hii inategemea  cryptography isiyolinganishwa: hakuna data ya siri inayosam
 
 
 
-Mbali na U2F, ambayo huwezesha Two factor verification, Trezors pia inaunga mkono FIDO2 (* Utambulisho wa Haraka Mkondoni 2.0*), mageuzi ya U2F. Hii ni   Protocol sanifu ya uthibitishaji kutoka 2018, ambayo huongeza mantiki ya U2F na inalenga kuchukua nafasi ya nywila kabisa. Inategemea vipengele viwili: *WebAuthn* (upande wa kivinjari) na *CTAP2* (upande wa ufunguo wa kimwili). FIDO2 huwezesha uthibitishaji wa "usio na nenosiri": watumiaji hujitambulisha pekee kupitia kifaa chao cha Trezor, ambacho hufanya kama ishara ya kipekee ya  cryptography, bila nenosiri la ziada.   Protocol hii sasa inaoana na idadi ya huduma za mtandaoni, hasa zile zinazolenga biashara.
+Mbali na U2F, ambayo huwezesha Two factor verification, Trezors pia inaunga mkono FIDO2 (* Utambulisho wa Haraka Mkondoni 2.0*), mageuzi ya U2F. Hii ni   Protocol sanifu ya uthibitishaji kutoka 2018, ambayo huongeza mantiki ya U2F na inalenga kuchukua nafasi ya nywila kabisa. Inategemea vipengele viwili: *WebAuthn* (upande wa kivinjari) na *CTAP2* (Client to Authenticator Protocol 2). FIDO2 huwezesha uthibitishaji wa "usio na nenosiri": watumiaji hujitambulisha pekee kupitia kifaa chao cha Trezor, ambacho hufanya kama ishara ya kipekee ya  cryptography, bila nenosiri la ziada.   Protocol hii sasa inaoana na idadi ya huduma za mtandaoni, hasa zile zinazolenga biashara.
 
 
 
@@ -78,7 +78,7 @@ Mara nyingi utaulizwa kuthibitisha nenosiri lako la sasa.
 
 
 
-Ipe ufunguo wako wa usalama jina ili kutambulika kwa urahisi, kisha ubofye "*Ufunguo wa Kusoma*".
+Ipe ufunguo wako wa usalama jina ili kutambulika kwa urahisi, kisha ubofye "*read-only key*".
 
 
 
