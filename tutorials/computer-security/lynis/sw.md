@@ -62,7 +62,7 @@ Mradi unapatikana katika Address hii kwenye **Github**:
 
 
 
-Katika mafunzo haya ya hatua kwa hatua, nitatumia ** kutumia VPS inayoendesha Debian 12** na nitazingatia sehemu ya SSH, kwani ningependa kuangalia usanidi wake na kuiboresha.
+Katika mafunzo haya ya hatua kwa hatua, nitatumia **kutumia VPS inayoendesha Debian 12** na nitazingatia sehemu ya SSH, kwani ningependa kuangalia usanidi wake na kuiboresha.
 
 
 
@@ -287,7 +287,7 @@ sudo lynis audit system
 
 
 
-Kwa chaguo-msingi, ikiwa hujaingia kama mzizi unapoendesha amri hii, zana itaendesha na haki za mtumiaji aliyeingia kwa sasa. Baadhi ya majaribio hayataendeshwa katika muktadha huu:
+Kwa chaguo-msingi, ikiwa hujaingia kama root unapoendesha amri hii, zana itaendesha na haki za mtumiaji aliyeingia kwa sasa. Baadhi ya majaribio hayataendeshwa katika muktadha huu:
 
 
 
@@ -307,7 +307,7 @@ Mara tu amri imetekelezwa, uchambuzi huanza. Subiri kidogo tu.
 
 
 
-Mwisho wa ukaguzi, unapata hii (tunaweza kuona kwamba **Lynis** ametambua kwa usahihi mfumo wa **Debian 12** na atatumia ** programu-jalizi ya Debian ** kwa uchambuzi):
+Mwisho wa ukaguzi, unapata hii (tunaweza kuona kwamba **Lynis** ametambua kwa usahihi mfumo wa **Debian 12** na atatumia **Debian package** kwa uchambuzi):
 
 
 
@@ -321,10 +321,10 @@ Ifuatayo, Lynis ataorodhesha seti ya alama zinazolingana na kila kitu ambacho am
 
 
 
-- Nyekundu** kwa Elements muhimu au mbinu bora zisizoheshimiwa (kifurushi kinachokosekana, kwa mfano), yaani, seva yako haiheshimu hatua hii.
-- Njano** kwa mapendekezo au utiifu wa pendekezo kwa kiasi (tuseme ni nyongeza kutii hoja iliyoangaziwa na rangi hii (isiyo kipaumbele))
-- Green** kwa pointi ambapo usanidi wa seva yako unatii
-- Nyeupe**, wakati upande wowote
+- **Nyekundu (Red)** kwa Elements muhimu au mbinu bora zisizoheshimiwa (kifurushi kinachokosekana, kwa mfano), yaani, seva yako haiheshimu hatua hii.
+- **Njano (Yellow)** kwa mapendekezo au utiifu wa pendekezo kwa kiasi (tuseme ni nyongeza kutii hoja iliyoangaziwa na rangi hii (isiyo kipaumbele))
+-**Kijani (Green)** kwa pointi ambapo usanidi wa seva yako unatii
+- **Nyeupe (White)**, wakati upande wowote
 
 
 
@@ -344,7 +344,7 @@ Katika sehemu ya "**Kuwasha na huduma**", tunaona kwamba ulinzi wa huduma kupiti
 
 
 
-Kisha unayo sehemu za "**Kernel**" na "**Kumbukumbu na Mchakato**":
+Kisha unayo sehemu za "**Kernel**" na "**Kumbukumbu na Mchakato (Memory and Process)**":
 
 
 
@@ -368,7 +368,7 @@ Hivi ndivyo unavyoweza kupata katika sehemu za "**Shells", "Files Systems", na "
 
 
 
-Kisha, sehemu: "**Huduma za majina", "Bandari na vifurushi", "Mitandao".** Inaonyesha hapa kwamba vifurushi ambavyo havitumiki tena vinaweza kusafishwa na kwamba hakuna huduma inayoweza kudhibiti masasisho ya kiotomatiki.
+Kisha, sehemu: "**Huduma za majina", "Ports and Packages", "Mitandao".** Inaonyesha hapa kwamba vifurushi ambavyo havitumiki tena vinaweza kusafishwa na kwamba hakuna huduma inayoweza kudhibiti masasisho ya kiotomatiki.
 
 
 
@@ -388,7 +388,7 @@ Hii inafuatwa na uchambuzi wa seva ya wavuti yenyewe, kwani huduma imetambuliwa.
 
 
 
-Tunaweza kuona kwamba imepata faili za usanidi **Nginx**, na kwamba kwa sehemu ya SSL/TLS, **ciphers** zimesanidiwa kwa matumizi ya itifaki ambayo haitakuwa salama. Kwa upande mwingine, kulingana na Lynis, usimamizi wa logi ni sahihi.
+Tunaweza kuona kwamba imepata faili za usanidi **Nginx**, na kwamba kwa sehemu ya SSL/TLS, **ciphers** zimesanidiwa kwa matumizi ya protocol ambayo haitakuwa salama. Kwa upande mwingine, kulingana na Lynis, usimamizi wa logs ni sahihi.
 
 
 
@@ -404,7 +404,7 @@ Huduma ya SSH iko kwenye seva yangu ya VPS. Usanidi wake unachambuliwa na Lynis.
 
 
 
-Hapa kuna sehemu **"Msaada wa SNMP", "Hifadhi", "PHP", "Usaidizi wa Squid", "Huduma za LDAP", "Kuweka kumbukumbu na faili "**.
+Hapa kuna sehemu **"SNMP Support", "Storage", "PHP", "Squid Support", "LDAP Services", "Logging and Files Management"**.
 
 
 
@@ -416,7 +416,7 @@ Kuna pendekezo moja muhimu sana kuhusu usimamizi wa kumbukumbu: inapendekezwa sa
 
 
 
-Hapa, tuna ukaguzi wa huduma zilizo katika mazingira magumu, usimamizi wa akaunti, kazi zilizopangwa na maingiliano ya NTP. inaonyeshwa kuwa kiwango ni cha chini kwenye sehemu ya bendera na kitambulisho: hii inaeleweka, ikiwa unaonyesha toleo la mfumo, linatoa dalili kwa mshambuliaji anayeweza. Huu ndio mpangilio chaguo-msingi.
+Hapa, tuna ukaguzi wa huduma zilizo katika mazingira magumu, usimamizi wa akaunti, kazi zilizopangwa na maingiliano ya NTP. inaonyeshwa kuwa kiwango ni cha chini kwenye sehemu ya flag na kitambulisho: hii inaeleweka, ikiwa unaonyesha toleo la mfumo, linatoa dalili kwa mshambuliaji anayeweza. Huu ndio mpangilio chaguo-msingi.
 
 
 
@@ -428,7 +428,7 @@ Itapendeza kuamilisha **auditd** ili kuwa na kumbukumbu endapo kuna uchanganuzi 
 
 
 
-Lynis kisha anaangalia kriptografia Elements, uboreshaji, vyombo na mifumo ya usalama. Baadhi ya sehemu ni tupu kwa sababu hakuna mawasiliano na mashine iliyochanganuliwa. Hata hivyo, tunaweza kuona kwamba nina vyeti viwili vya SSL vilivyokwisha muda wake na sijawasha **SELinux**.
+Lynis kisha anaangalia cryptography Elements, uboreshaji, vyombo na mifumo ya usalama. Baadhi ya sehemu ni tupu kwa sababu hakuna mawasiliano na mashine iliyochanganuliwa. Hata hivyo, tunaweza kuona kwamba nina vyeti viwili vya SSL vilivyokwisha muda wake na sijawasha **SELinux**.
 
 
 
@@ -444,7 +444,7 @@ Hapa pia kuna nafasi ya kuboresha: hakuna kinza virusi au kichanganuzi cha kuzui
 
 
 
-Kisha, Lynis anaangazia kuimarisha usanidi wa kernel ya Linux (pamoja na sheria za runda la IPv4), pamoja na usimamizi wa saraka za "Nyumbani" za mashine ya Linux.
+Kisha, Lynis anaangazia kuimarisha usanidi wa kernel ya Linux (pamoja na sheria za runda la IPv4), pamoja na usimamizi wa saraka za "Home" za mashine ya Linux.
 
 
 
@@ -542,7 +542,7 @@ Hebu tuangalie mifano michache ya mapendekezo ambayo yanaangazia moja kwa moja m
 
 
 
-- Pendekezo hili linapendekeza kuweka thamani za chini na za juu zaidi kwa umri wa nenosiri. Miongoni mwa mambo mengine, hii itahakikisha kwamba nywila zinabadilishwa mara kwa mara.
+- Pendekezo hili linapendekeza kuweka thamani za chini na za juu zaidi kwa umri wa nenosiri. Miongoni mwa mambo mengine, hii itahakikisha kwamba password zinabadilishwa mara kwa mara.
 
 
 
@@ -580,7 +580,7 @@ Hebu tuangalie mifano michache ya mapendekezo ambayo yanaangazia moja kwa moja m
 
 
 
-### B. Kufunga vifurushi vinavyopendekezwa
+### B. Kufunga vifurushi (packages) vinavyopendekezwa
 
 
 
@@ -604,10 +604,10 @@ Habari fulani kuhusu vifurushi vilivyosakinishwa:
 
 
 
-- Clamav** ni antivirus.
-- masasisho yasiyotarajiwa** yatakuwezesha kudhibiti masasisho yako kiotomatiki na hata kuwasha upya mashine au kusafisha kiotomatiki vifurushi vya zamani, inaweza kusanidiwa kikamilifu.
-- rkhunter** ni anti-rootkit ambayo huchanganua mfumo wako wa faili.
-- Fail2ban** itajikita kwenye faili zako za kumbukumbu kulingana na kile unachoipa kusoma na itafanya kazi na **iptables**, kwa mfano kupiga marufuku anwani za IP zinazojaribu "kulazimisha" seva yako katika SSH.
+- **Clamav** ni antivirus.
+- **masasisho yasiyotarajiwa** yatakuwezesha kudhibiti masasisho yako kiotomatiki na hata kuwasha upya mashine au kusafisha kiotomatiki vifurushi vya zamani, inaweza kusanidiwa kikamilifu.
+- **rkhunter** ni anti-rootkit ambayo huchanganua mfumo wako wa faili.
+- **Fail2ban** itajikita kwenye faili zako za kumbukumbu kulingana na kile unachoipa kusoma na itafanya kazi na **iptables**, kwa mfano kupiga marufuku anwani za IP zinazojaribu "kulazimisha" seva yako katika SSH.
 
 
 
@@ -615,7 +615,7 @@ Habari fulani kuhusu vifurushi vilivyosakinishwa:
 
 
 
-Wacha tuangalie mapendekezo ya SSH. Zimeorodheshwa hapa chini. Usijali, tutaelezea mara moja jinsi ya kuboresha usanidi.
+Wacha tuangalie mapendekezo ya SSH. Yameorodheshwa hapa chini. Usijali, tutaelezea mara moja jinsi ya kuboresha usanidi.
 
 
 
@@ -641,7 +641,7 @@ Tutafanya:
 
 
 
-- Badilisha mlango wa unganisho wa SSH (sahau chaguo-msingi 22)
+- Badilisha port ya unganisho wa SSH (sahau chaguo-msingi 22)
 - Ongeza kiwango cha vitenzi vya kumbukumbu, kutoka **INFO hadi VERBOSE**
 - Weka **LoginGraceTime** hadi **dakika 2**
 
@@ -653,11 +653,11 @@ Ikiwa hakuna habari ya uunganisho imeingizwa ndani ya dakika mbili, uunganisho u
 
 
 
-- Washa **Modi kali**
+- Washa **Modi kali (Strict Mode)**
 
 
 
-Inabainisha kama "sshd" inapaswa kuangalia modi na mmiliki wa faili za mtumiaji pamoja na saraka ya nyumbani ya mtumiaji kabla ya kuthibitisha muunganisho. Hii ni kawaida kuhitajika, kwa sababu wakati mwingine wanovices huacha saraka au faili zao kwa bahati mbaya kupatikana kwa kila mtu. Chaguo msingi ni "ndio".
+Inabainisha kama "sshd" inapaswa kuangalia modi na mmiliki wa faili za mtumiaji pamoja na saraka ya nyumbani ya mtumiaji kabla ya kuthibitisha muunganisho. Hii ni kawaida kuhitajika, kwa sababu wakati mwingine novices huacha saraka au faili zao kwa bahati mbaya kupatikana kwa kila mtu. Chaguo msingi ni "ndio".
 
 
 
@@ -705,7 +705,7 @@ PasswordAuthentication yes
 
 
 
-Kataza nenosiri tupu na **Kerberos** uthibitishaji, pamoja na **uthibitishaji wa mizizi moja kwa moja**
+Kataza nenosiri tupu na **Kerberos** uthibitishaji, pamoja na **uthibitishaji wa root moja kwa moja**
 
 
 
@@ -764,7 +764,7 @@ ClientAliveInterval  300
 
 
 
-Inafafanua muda wa muda kwa sekunde, baada ya hapo, ikiwa hakuna data iliyopokelewa kutoka kwa mteja, huduma ya sshd hutuma ujumbe unaoomba jibu kutoka kwa mteja. Kwa chaguo-msingi, chaguo hili limewekwa kuwa "0", kumaanisha kuwa ujumbe huu hautumwi kwa mteja. Toleo la 2 pekee la itifaki ya SSH ndilo linaloauni chaguo hili.
+Inafafanua muda wa muda kwa sekunde, baada ya hapo, ikiwa hakuna data iliyopokelewa kutoka kwa mteja, huduma ya sshd hutuma ujumbe unaoomba jibu kutoka kwa mteja. Kwa chaguo-msingi, chaguo hili limewekwa kuwa "0", kumaanisha kuwa ujumbe huu hautumwi kwa mteja. Toleo la 2 pekee la protoe ya SSH ndilo linaloauni chaguo hili.
 
 
 
@@ -868,7 +868,7 @@ mv /var/log/lynis-report.dat ${DATA}
 
 
 
-Pia tutaunda vianufa vichache vya muktadha ambavyo vitatusaidia kujipanga vyema, kama vile jina la mwenyeji na tarehe ya kutaja ripoti na kuiweka muhuri wa saa, na njia ya kuelekea kwenye folda ambayo tunataka kuweka ripoti zetu.
+Pia tutaunda faida ndogo ya muktadha ambavyo inatatusaidia kujipanga vyema, kama vile jina la mwenyeji na tarehe ya kutaja ripoti na kuiweka muhuri wa saa, na njia ya kuelekea kwenye folda ambayo tunataka kuweka ripoti zetu.
 
 
 
@@ -876,7 +876,7 @@ Pia tutaunda vianufa vichache vya muktadha ambavyo vitatusaidia kujipanga vyema,
 
 
 
-Lynis ni zana inayotumika sana ambayo itakusaidia kuokoa muda na kuwa na ufanisi zaidi unapotaka kujua zaidi kuhusu hali ya usanidi wa seva ya Linux, hasa katika masuala ya usalama. Hata hivyo, usisahau kwamba kila urekebishaji lazima ujaribiwe kabla ya kutumiwa katika toleo la umma, kwa kuzingatia matumizi na muktadha wako.
+Lynis ni zana inayotumika sana ambayo itakusaidia kuokoa muda na kuongeza ufanisi unapotaka kuchambua hali ya usanidi wa seva ya Linux, hasa katika masuala ya usalama. Hata hivyo, kumbuka kwamba kila marekebisho lazima yajaribiwe kabla ya kutumika katika toleo la uzalishaji, ukizingatia matumizi na muktadha wako.
 
 
 
@@ -884,15 +884,14 @@ Labda hutatumia usanidi sawa wa VPS iliyofichuliwa kwenye Wavu, ambapo unahitaji
 
 
 
-Mara tu unapopata usanidi unaokufaa katika suala la ugumu, inashauriwa kupitisha zana ya kiotomatiki ili usilazimike kufanya kazi tena kwa mikono, kwani hii inaweza kuchukua muda na kukabiliwa na makosa. Kwa mfano, unaweza kutumia **: Puppet, Mpishi, Ansible, nk...**
+Mara tu unapopata usanidi unaokufaa kulingana na ugumu, inashauriwa kutumia zana ya kiotomatiki ili kuepuka kufanya kazi hiyo kwa mikono, ambayo inaweza kuchukua muda na kuwa na makosa. Kwa mfano, unaweza kutumia **Puppet**, **Chef**, **Ansible**, nk."
+
+
+Usisahau kuwasiliana na timu yako kabla ya utekelezaji: wahakikishe wanaelewa sababu za mabadiliko unayofanya, si kuwaambia tu kuwa unayafanya. Mwishowe, lengo ni kuanzisha mazoea mazuri, na hii itaongeza nafasi zako za kufaulu.
 
 
 
-Usisahau kuwasiliana na timu zako kabla ya utekelezaji: unahitaji kuwafanya waelewe ni kwa nini unafanya mabadiliko haya, si kuwaambia tu kuwa unayafanya. Mwishowe, lengo litakuwa kupitisha mazoea mazuri, na hii itaongeza nafasi zako za kufaulu.
-
-
-
-Hatimaye, unaweza pia kulinganisha ** Lynis ** na zana zingine, ambazo kuna kadhaa. Iwapo ungependa kuelekea kwenye usimamizi mkuu huku ukisalia kuwa chanzo huria, ninapendekeza zana ya [Wazuh] (https://wazuh.com/).
+Hatimaye, unaweza pia kulinganisha **Lynis** na zana zingine, ambazo kuna kadhaa. Iwapo ungependa kuelekea kwenye usimamizi mkuu huku ukisalia kuwa chanzo huria, ninapendekeza zana ya [Wazuh] (https://wazuh.com/).
 
 
 
