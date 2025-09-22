@@ -14,7 +14,6 @@ description: Master Nmap ya map ya mtandao na uchanganuzi wa uwezekano wa kuathi
 ___
 
 
-
 Karibu kwenye mafunzo haya ya utangulizi kwa Nmap, yaliyoundwa kwa ajili ya mtu yeyote anayetaka kujua zana hii nzuri ya kuchanganua mtandao. Kusudi ni kukupa maarifa ya kimsingi unayohitaji kutumia Nmap kwa ufanisi siku hadi siku.
 
 
