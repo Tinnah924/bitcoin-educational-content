@@ -26,7 +26,7 @@ ___
 
 
 
-pfSense ni mfumo wa uendeshaji wa chanzo huria usiolipishwa ambao hubadilisha kompyuta yoyote, seva iliyojitolea au kifaa cha maunzi kuwa kipanga njia cha utendakazi wa juu, kinachoweza kusanidiwa sana na ngome. Kulingana na FreeBSD na maarufu kwa usanifu wake thabiti na thabiti wa mtandao, pfSense imekuwa ikiweka kiwango cha ngome huria za biashara, serikali za mitaa na watumiaji wa nyumbani wanaodai kwa zaidi ya miaka kumi na tano.
+pfSense ni mfumo wa uendeshaji wa chanzo huria usiolipishwa ambao hubadilisha kompyuta yoyote, server iliyojitolea au kifaa cha maunzi kuwa router ya utendakazi wa juu, kinachoweza kusanidiwa sana na ngome. Kulingana na FreeBSD na maarufu kwa usanifu wake thabiti na thabiti wa mtandao, pfSense imekuwa ikiweka kiwango cha ngome huria za biashara, serikali za mitaa na watumiaji wa nyumbani wanaodai kwa zaidi ya miaka kumi na tano.
 
 
 
@@ -35,13 +35,12 @@ Kazi zake kuu zimebadilika sana kwa miaka mingi, na zimeimarishwa kwa kila toleo
 
 
 
-
-- Utawala kamili na wa kati kupitia mtandao wa kisasa, angavu na salama wa Interface wa Interface.
+Usimamizi kamili na wa kati kupitia kiolesura cha wavuti cha kisasa, angavu, na salama.
 - Ngome yenye utendakazi wa hali ya juu yenye usaidizi wa hali ya juu wa NAT (ikiwa ni pamoja na NAT-T) na udhibiti wa sheria punjepunje.
 - Usaidizi asilia wa WAN nyingi, kuwezesha ujumlishaji au kutohitajika tena kwa miunganisho ya Mtandao.
-- Seva ya DHCP iliyounganishwa na relay.
-- Upatikanaji wa juu shukrani kwa itifaki ya CARP kwa kushindwa na uwezekano wa kusanidi makundi ya pfSense.
-- Kusawazisha mzigo kati ya miunganisho kadhaa au seva.
+- server ya DHCP iliyounganishwa na relay.
+- Upatikanaji wa juu shukrani kwa protocol ya CARP kwa kushindwa na uwezekano wa kusanidi makundi ya pfSense.
+- Kusawazisha mzigo kati ya miunganisho kadhaa au server.
 - Usaidizi kamili wa VPN: IPsec, OpenVPN na WireGuard (inabadilisha L2TP, sasa imepitwa na wakati).
 - Lango la ndani linaloweza kusanidiwa kwa udhibiti wa ufikiaji wa wageni, haswa katika mazingira ya umma au hoteli.
 
@@ -51,11 +50,11 @@ pfSense pia ina mfumo wa kifurushi unaoweza kupanuliwa ambao hurahisisha kuongez
 
 
 
-pfSense inasambazwa kwa majukwaa ya 64-bit pekee, kulingana na mapendekezo ya sasa ya FreeBSD. Inaweza kusakinishwa kwenye maunzi ya kawaida (Kompyuta, seva za rack) au kwenye majukwaa yaliyopachikwa yenye nguvu ya chini kama vile vifaa vya Netgate au visanduku fulani vya hali ya chini x86, ambavyo vina nguvu zaidi kuliko visanduku vya zamani vya Alix.
+pfSense inasambazwa kwa majukwaa ya 64-bit pekee, kulingana na mapendekezo ya sasa ya FreeBSD. Inaweza kusakinishwa kwenye maunzi ya kawaida (Kompyuta, server za rack) au kwenye majukwaa yaliyopachikwa yenye nguvu ya chini kama vile vifaa vya Netgate au visanduku fulani vya hali ya chini x86, ambavyo vina nguvu zaidi kuliko visanduku vya zamani vya Alix.
 
 
 
-Mwishowe, inafaa kukumbuka kuwa pfSense inahitaji angalau miingiliano miwili ya mtandao halisi: moja iliyowekwa kwa ukanda wa nje (WAN) na moja iliyowekwa kwa mtandao wa ndani (LAN). Kulingana na utata wa miundombinu yako (DMZ, VLAN, WAN nyingi), miingiliano kadhaa ya ziada inaweza kuhitajika ili kutumia kikamilifu uwezo wake.
+Mwishowe, inafaa kukumbuka kuwa pfSense inahitaji angalau miingiliano miwili ya mtandao halisi: moja iliyowekwa kwa ukanda wa nje  (Wide Area Network)  (WAN) na moja iliyowekwa kwa mtandao wa ndani (Local Area Network)  (LAN). Kulingana na utata wa miundombinu yako (DMZ, VLAN, WAN nyingi), miingiliano kadhaa ya ziada inaweza kuhitajika ili kutumia kikamilifu uwezo wake.
 
 
 
@@ -85,7 +84,7 @@ Lango la upakuaji hukuruhusu kuchagua:
 
 
 
-Kwa wale wanaotaka kupeleka pfSense katika mazingira ya kipeperushi (Proxmox, VMware ESXi, VirtualBox...), picha ya **OVA** inapatikana pia. Mashine hii pepe iliyo tayari kutumika hurahisisha usakinishaji na usanidi wa awali. Hakikisha tu umerekebisha rasilimali zilizotengwa (CPU, RAM, violesura vya mtandao) kulingana na mzigo unaotarajiwa na topolojia ya mtandao wako.
+Kwa wale wanaotaka kupeleka pfSense katika mazingira ya flyer (Proxmox, VMware ESXi, VirtualBox...), picha ya **OVA** inapatikana pia. Mashine hii pepe iliyo tayari kutumika hurahisisha usakinishaji na usanidi wa awali. Hakikisha tu umerekebisha rasilimali zilizotengwa (CPU, RAM, "Network interfaces) kulingana na mzigo unaotarajiwa na topolojia ya mtandao wako.
 
 
 
@@ -111,9 +110,9 @@ Kwa usambazaji wa kawaida, tunapendekeza:
 
 
 
-- 1 GB RAM** kiwango cha chini (GB 2 au zaidi inapendekezwa ili kuwezesha vifurushi vya ziada au usaidizi wa ZFS).
-- Nafasi ya diski ya GB 8** (GB 20 au zaidi inapendekezwa kwa usanidi wa hali ya juu zaidi, haswa ikiwa unasakinisha akiba ya seva mbadala, IDS/IPS au kumbukumbu za kina).
-- Angalau miingiliano miwili ya mtandao pepe** (moja ya WAN, moja ya LAN). Katika VirtualBox, waongeze kwenye mipangilio ya VM kabla ya kuanza.
+- **1 GB RAM** kiwango cha chini (GB 2 au zaidi inapendekezwa ili kuwezesha vifurushi vya ziada au usaidizi wa ZFS).
+- **Nafasi ya disk ya GB 8** (GB 20 au zaidi inapendekezwa kwa usanidi wa hali ya juu zaidi, haswa ikiwa unasakinisha akiba ya server mbadala, IDS/IPS au kumbukumbu za kina).
+- **Angalau miingiliano miwili ya mtandao pepe** (moja ya WAN, moja ya LAN). Katika VirtualBox, waongeze kwenye mipangilio ya VM kabla ya kuanza.
 
 
 
@@ -157,7 +156,7 @@ Skrini ya kwanza hukuruhusu kuweka vigezo vichache vya kikanda, kama vile fonti 
 
 
 
-Chagua "**Haraka/Rahisi Kusakinisha**" ili kuendesha usakinishaji wa kiotomatiki na chaguo zinazopendekezwa. Njia hii hufuta diski iliyochaguliwa na kusanidi pfSense na ugawaji chaguo-msingi.
+Chagua "**Haraka/Rahisi Kusakinisha**" ili kuendesha usakinishaji wa kiotomatiki na chaguo zinazopendekezwa. Njia hii hufuta disk iliyochaguliwa na kusanidi pfSense na ugawaji chaguo-msingi.
 
 
 
@@ -165,11 +164,11 @@ Chagua "**Haraka/Rahisi Kusakinisha**" ili kuendesha usakinishaji wa kiotomatiki
 
 
 
-Onyo linaonekana, linaonyesha kwamba data yote kwenye diski itafutwa. Thibitisha kwa "**Sawa**".
+Onyo linaonekana, linaonyesha kwamba data yote kwenye disk itafutwa. Thibitisha kwa "**Sawa**".
 
 
 
-Kisha kisakinishi kinakili faili zinazohitajika kwenye diski. Kulingana na maunzi yako, hii inaweza kuchukua kutoka sekunde chache hadi dakika chache.
+Kisha kisakinishi kinakili faili zinazohitajika kwenye disk. Kulingana na maunzi yako, hii inaweza kuchukua kutoka sekunde chache hadi dakika chache.
 
 
 
@@ -177,7 +176,7 @@ Kisha kisakinishi kinakili faili zinazohitajika kwenye diski. Kulingana na maunz
 
 
 
-Wakati kisakinishi kinakuhimiza kuchagua aina ya kernel, acha "**Standard Kernel**" iliyochaguliwa. Kerneli hii ya jumla inafaa kabisa kwa uwekaji wa kawaida, iwe kwenye Kompyuta, seva au VM.
+Wakati kisakinishi kinakuhimiza kuchagua aina ya kernel, acha "**Standard Kernel**" iliyochaguliwa. Kerneli hii ya jumla inafaa kabisa kwa uwekaji wa kawaida, iwe kwenye Kompyuta, server au VM.
 
 
 
@@ -228,7 +227,7 @@ pfSense kisha inakuhimiza kufafanua ni Interface gani itatumika kwa WAN (ufikiaj
 
 
 - Weka jina la Interface wewe mwenyewe (linapendekezwa kwa mazingira pepe).
-- Tumia utambuzi wa kiotomatiki kwa kubonyeza "**A**". Chaguo hili ni muhimu kwa seva pangishi halisi, mradi nyaya za mtandao wako zimeunganishwa na viungo vinatumika.
+- Tumia utambuzi wa kiotomatiki kwa kubonyeza "**A**". Chaguo hili ni muhimu kwa server pangishi halisi, mradi nyaya za mtandao wako zimeunganishwa na viungo vinatumika.
 
 
 
@@ -309,20 +308,20 @@ Skrini ya kuingia inaonekana. Vitambulisho chaguo-msingi ni:
 
 
 
-- Jina la mtumiaji:** `admin`
-- Nenosiri:** `pfsense`
+- **Jina la mtumiaji:** `admin`
+- **Nenosiri:** `pfsense`
 
 
 
-Vitambulisho hivi vitarekebishwa wakati wa mchawi wa usanidi wa awali.
+Vitambulisho hivi vitarekebishwa wakati ya wizard wa usanidi wa awali.
 
 
 
-## VI. Mchawi wa Kuanzisha
+## VI. Setup Wizard
 
 
 
-Kwenye muunganisho wa kwanza, pfSense inakuomba ufuate **Mchawi wake wa Kuweka**. Tunapendekeza sana uitumie ili kuhakikisha kuwa vigezo vyote muhimu vimefafanuliwa kwa usahihi.
+Kwenye muunganisho wa kwanza, pfSense inakuomba ufuate **wizard wake wa Kuweka**. Tunapendekeza sana uitumie ili kuhakikisha kuwa vigezo vyote muhimu vimefafanuliwa kwa usahihi.
 
 
 
@@ -336,7 +335,7 @@ Unaweza:
 
 
 - Bainisha jina la mwenyeji na kikoa cha ndani (mfano: `pfsense` na `lan.local`).
-- Bainisha seva za DNS na uchague ikiwa pfSense inapaswa kutumia DNS ya ISP yako au huduma ya nje (Cloudflare, OpenDNS, Quad9...).
+- Bainisha server za DNS na uchague ikiwa pfSense inapaswa kutumia DNS ya ISP yako au huduma ya nje (Cloudflare, OpenDNS, Quad9...).
 
 
 
@@ -367,7 +366,7 @@ Sanidi muunganisho wa WAN:
 
 
 
-Mchawi unapendekeza kubadilisha subnet ya LAN chaguo-msingi. Ikiwa una mpango mahususi wa kushughulikia, sasa ndio wakati wa kuurekebisha.
+Wizard inapendekeza kubadilisha subnet ya LAN chaguo-msingi. Ikiwa una mpango mahususi wa kushughulikia, sasa ndio wakati wa kuurekebisha.
 
 
 
@@ -415,7 +414,7 @@ Kabla ya kufanya mabadiliko yoyote makubwa, tekeleza sera ya kuhifadhi nakala:
 
 
 
-Kwa mazingira muhimu ya dhamira, zingatia nakala rudufu ya usanidi otomatiki kwenye seva ya nje au kupitia hati iliyoratibiwa.
+Kwa mazingira muhimu ya dhamira, zingatia nakala rudufu ya usanidi otomatiki kwenye server ya nje au kupitia hati iliyoratibiwa.
 
 
 
@@ -429,10 +428,10 @@ Kumaliza utumaji wako kwa amani ya akili:
 
 
 
-- Rekebisha sheria za ngome**: kwa chaguo-msingi, pfSense inaruhusu trafiki yote inayotoka kwenye LAN na kuzuia trafiki inayoingia kwenye WAN. Rekebisha sheria hizi kama inavyotakiwa.
-- Sanidi ufikiaji salama wa mbali**: ikihitajika, wezesha ufikiaji wa mtandao wa Interface kutoka kwa WAN kupitia VPN pekee au kwa vizuizi vya IP.
-- Washa arifa**: sanidi seva ya SMTP ili kupokea arifa (kushindwa, masasisho, hitilafu).
-- Sakinisha viendelezi muhimu**: kwa mfano, IDS/IPS (Snort, Suricata), proksi (Squid), uchujaji wa DNS (pfBlockerNG).
+- **Rekebisha sheria za ngome**: kwa chaguo-msingi, pfSense inaruhusu trafiki yote inayotoka kwenye LAN na kuzuia trafiki inayoingia kwenye WAN. Rekebisha sheria hizi kama inavyotakiwa.
+- **Sanidi ufikiaji salama wa mbali**: ikihitajika, wezesha ufikiaji wa mtandao wa Interface kutoka kwa WAN kupitia VPN pekee au kwa vizuizi vya IP.
+- **Washa arifa**: sanidi server ya SMTP ili kupokea arifa (kushindwa, masasisho, hitilafu).
+- **Sakinisha viendelezi muhimu**: kwa mfano, IDS/IPS (Snort, Suricata), proksi (Squid), uchujaji wa DNS (pfBlockerNG).
 
 
 
