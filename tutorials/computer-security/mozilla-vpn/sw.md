@@ -6,7 +6,7 @@ description: Linda vifaa vyako na data yako ya kuvinjari kwenye Mtandao.
 
 
 
-Katika enzi ya kidijitali ya ukusanyaji wa data, faragha ya mtandaoni imekuwa suala kuu kwetu sisi watumiaji wa Intaneti. Kati ya ufuatiliaji wa utangazaji, hatari za udukuzi kupitia mitandao ya umma na vizuizi vya kijiografia, watumiaji zaidi na zaidi wanageukia VPN (*Mitandao ya Kibinafsi ya Kibinafsi*) ili kulinda kuvinjari kwao. Miongoni mwa chaguzi zinazopatikana kwao, huduma kutoka kwa msingi wa Mozilla, inayojulikana kwa Commitment hadi Mtandao wa bure na wa maadili, inajulikana. Katika somo hili, tutaangalia Mozilla VPN ili kudhibiti faragha yako ya Mtandao.
+Katika enzi ya kidijitali ya ukusanyaji wa data, faragha ya mtandaoni imekuwa suala kuu kwetu sisi watumiaji wa Intaneti. Kati ya ufuatiliaji wa utangazaji, hatari za udukuzi kupitia mitandao ya umma na vizuizi vya kijiografia, watumiaji zaidi na zaidi wanageukia VPN (*Virtual Private Network*) ili kulinda kuvinjari kwao. Miongoni mwa chaguzi zinazopatikana kwao, huduma kutoka kwa msingi wa Mozilla, inayojulikana kwa Commitment hadi Mtandao wa bure na wa maadili, inajulikana. Katika somo hili, tutaangalia Mozilla VPN ili kudhibiti faragha yako ya Mtandao.
 
 
 
@@ -14,7 +14,7 @@ Katika enzi ya kidijitali ya ukusanyaji wa data, faragha ya mtandaoni imekuwa su
 
 
 
-***Mtandao wa Kibinafsi wa Kibinafsi*** (VPN) ni mfumo wa kuunda kiunganishi cha moja kwa moja kati ya kompyuta za mbali zilizounganishwa kwenye mitandao tofauti ya ndani. Kwa maneno mengine, ni mfumo unaotenga na kusimba ubadilishanaji wako kutoka kwa trafiki nyingine kwenye Mtandao. Ili kujifunza zaidi kuhusu VPN, matumizi yao na faida za kutumia moja, angalia kozi ya SCU 101:
+***Virtual Private Network*** (VPN) ni mfumo wa kuunda kiunganishi cha moja kwa moja kati ya kompyuta za mbali zilizounganishwa kwenye mitandao tofauti ya ndani. Kwa maneno mengine, ni mfumo unaotenga na kusimba ubadilishanaji wako kutoka kwa trafiki nyingine kwenye Mtandao. Ili kujifunza zaidi kuhusu VPN, matumizi yao na faida za kutumia moja, angalia kozi ya SCU 101:
 
 
 
@@ -39,19 +39,19 @@ Kwa kuzingatia kanuni hii, [Mozilla VPN](https://www.mozilla.org/fr/products/vpn
 
 
 
-Inapatikana katika zaidi ya nchi 30 na ina seva zaidi ya 500 zinazowajibika kuficha IP yako Address ili kukuhamisha huku ikihakikisha usiri wa mwingiliano wako kwenye Mtandao. Mozilla VPN inatofautishwa na:
+Inapatikana katika zaidi ya nchi 30 na ina server zaidi ya 500 zinazowajibika kuficha IP yako Address ili kukuhamisha huku ikihakikisha usiri wa mwingiliano wako kwenye Mtandao. Mozilla VPN inatofautishwa na:
 
 
 
 
 
-- Urahisi wa kutumia: mchoro uliorahisishwa, wa kiwango cha chini kabisa wa Interface unaokuonyesha mambo muhimu ya seva na nchi unazoweza kuchagua.
+- Urahisi wa kutumia: mchoro uliorahisishwa, wa kiwango cha chini kabisa wa Interface unaokuonyesha mambo muhimu ya server na nchi unazoweza kuchagua.
 
 
 
 
 
-- Teknolojia ya WireGuard: itifaki ya mawasiliano na programu huria inayotumia kriptografia ya hali ya juu kuunda vichuguu vilivyosimbwa, ikitoa njia mbadala nyepesi, iliyo rahisi kusambaza yenye msingi mdogo wa msimbo na msisitizo wa kasi na usalama.
+- Teknolojia ya WireGuard: protocol ya mawasiliano na programu huria inayotumia cryptography ya hali ya juu kuunda vichuguu vilivyosimbwa, ikitoa njia mbadala nyepesi, iliyo rahisi kusambaza yenye msingi mdogo wa msimbo na msisitizo wa kasi na usalama.
 
 
 
@@ -139,7 +139,7 @@ Mara tu mchakato wa usanidi ukamilika, Mozilla VPN Interface inaonekana kama hii
 
 
 
-Unaweza kuwezesha VPN kwa kubofya kitufe cha redio kilicho hapa chini, ambacho kitahamisha IP Address ya kompyuta yako hadi kwenye anuwai ya anwani za IP katika eneo ulilochagua. Unaweza pia kutazama orodha ya vifaa vilivyounganishwa kwenye akaunti yako ya Mozilla VPN moja kwa moja kutoka kwa ukurasa wa nyumbani.
+Unaweza kuwezesha VPN kwa kubofya kitufe cha redio kilicho hapa chini, ambacho kitahamisha IP Address ya kompyuta yako hadi kwenye anuwai ya  IP address katika eneo ulilochagua. Unaweza pia kutazama orodha ya vifaa vilivyounganishwa kwenye akaunti yako ya Mozilla VPN moja kwa moja kutoka kwa ukurasa wa nyumbani.
 
 
 
@@ -153,13 +153,13 @@ Mozilla VPN hukuruhusu kuchagua eneo lako katika miundo miwili:
 
 
 
-- Single-Hop: ambayo huhamisha IP Address ya kompyuta yako na kusimba data kwa seva katika eneo mahususi lililochaguliwa, kwa mfano wetu Sofia huko Belarus.
+- Single-Hop: ambayo huhamisha IP Address ya kompyuta yako na kusimba data kwa server katika eneo mahususi lililochaguliwa, kwa mfano wetu Sofia huko Belarus.
 
 
 
 
 
-- Multi-Hop: huunda muunganisho uliosimbwa kwa njia fiche kutoka kwa kompyuta yako hadi kwa seva mbili za mbali. Huu ni usimbaji fiche maradufu: data yako imesimbwa kwa njia fiche kupitia seva A, kisha kutoka kwa seva A, data imesimbwa tena kwa seva B.
+- Multi-Hop: huunda muunganisho uliosimbwa kwa njia fiche kutoka kwa kompyuta yako hadi kwa server mbili za mbali. Huu ni usimbaji fiche maradufu: data yako imesimbwa kwa njia fiche kupitia server A, kisha kutoka kwa server A, data imesimbwa tena kwa server B.
 
 
 
