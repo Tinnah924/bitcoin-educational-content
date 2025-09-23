@@ -90,9 +90,9 @@ Ili Manjaro ifanye kazi kikamilifu, kompyuta yako lazima itimize mahitaji machac
 
 
 
-- Kichakataji cha biti 64 (x86_64)**
-- RAM ya GB 4 inapendekezwa (angalau GB 2)** (tazama hapa chini)
-- GB 30 ya nafasi ya diski (zaidi ikiwa utaunda kizigeu cha `/home`)**
+- **Kichakataji cha biti 64 (x86_64)**
+- **RAM ya GB 4 inapendekezwa (angalau GB 2)** (tazama hapa chini)
+- **GB 30 ya nafasi ya disk (zaidi ikiwa utaunda kizigeu cha `/home`)**
 
 
 
@@ -164,17 +164,17 @@ Chagua mpangilio wa kibodi. Sehemu ya majaribio inapatikana ili kuangalia kama v
 
 
 
-### Ugawaji wa diski
+### Ugawaji wa disk
 
 
-Una chaguzi mbili za kugawa diski yako.
+Una chaguzi mbili za kugawa disk yako.
 
 
 
 
 
-- Ya kwanza, na rahisi zaidi, ni kufuta diski nzima na kusakinisha Manjaro juu yake.
-- Ya pili inaruhusu ** kugawanya kwa mikono **.
+- Ya kwanza, na rahisi zaidi, ni kufuta disk nzima na kusakinisha Manjaro juu yake.
+- Ya pili inaruhusu **kugawanya kwa mikono**.
 
 
 
@@ -201,7 +201,7 @@ Ikiwa ungependa kusakinisha mfumo mwingine sambamba, unahitaji kugawanya kizigeu
 
 
 
-Unda akaunti ya mtumiaji kwenye mfumo kwa kujaza taarifa zinazohitajika. Hatimaye, weka nenosiri la msimamizi (** mzizi**). Msimamizi huyu ni **mtumiaji bora zaidi** aliye na haki kamili kwenye mfumo na uwezo wa kutekeleza amri za kina.
+Unda akaunti ya mtumiaji kwenye mfumo kwa kujaza taarifa zinazohitajika. Hatimaye, weka nenosiri la msimamizi (**Root**). Msimamizi huyu ni **mtumiaji bora zaidi** aliye na haki kamili kwenye mfumo na uwezo wa kutekeleza amri za kina.
 
 
 
@@ -219,8 +219,8 @@ Manjaro hukuruhusu kuchagua kati ya **FreeOffice** na **LibreOffice**.
 
 
 
-- LibreOffice** imekamilika zaidi, ikiwa na anuwai ya programu na vipengele vya kina.
-- FreeOffice**, kwa upande mwingine, ni nyepesi na inajumuisha tu mambo muhimu: **TextMaker**, PlanMaker** na Presentations**.
+- **LibreOffice** imekamilika zaidi, ikiwa na anuwai ya programu na vipengele vya kina.
+- **FreeOffice**, kwa upande mwingine, ni nyepesi na inajumuisha tu mambo muhimu: **TextMaker**, **PlanMaker** na **Presentations**.
 
 
 
@@ -336,7 +336,7 @@ Usalama ni kipengele muhimu cha usakinishaji wowote wa Linux. Ni muhimu kwako ku
 
 
 
-Manjaro inajumuisha UFW (*Ngome Isiyo ngumu*), programu ya kudhibiti ngome za vichujio vya mtandao, lakini lazima uiwashe mwenyewe:
+Manjaro inajumuisha UFW (*Ngome Isiyo ngumu*), programu ya kudhibiti ngome za firewall, lakini lazima uiwashe mwenyewe:
 
 
 
