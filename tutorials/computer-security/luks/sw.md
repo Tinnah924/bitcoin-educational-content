@@ -1,6 +1,6 @@
 ---
 name: LUKS
-description: Kusimba kiendeshi cha USB flash kwa kutumia LUKS na cryptsetup
+description: Kusimba USB Drive flash kwa kutumia LUKS na cryptsetup
 ---
 ![cover](assets/cover.webp)
 
@@ -22,7 +22,7 @@ ___
 
 
 
-Kusimba fimbo ya USB ni njia nzuri ya kulinda data yako nyeti. **Katika somo hili, tutaangalia jinsi ya kutumia LUKS (*Linux Unified Key Setup*) pamoja na cryptsetup ili kusimba fimbo ya USB kwenye mfumo wa Linux.** Njia hii itakuwezesha kulinda data yako, hasa ikitokea kupoteza au kuibiwa kwa fimbo yako ya USB.
+Kusimba USB  stickni njia nzuri ya kulinda data yako nyeti. **Katika somo hili, tutaangalia jinsi ya kutumia LUKS (*Linux Unified Key Setup*) pamoja na cryptsetup ili kusimba USB stick kwenye mfumo wa Linux.** Njia hii itakuwezesha kulinda data yako, hasa ikitokea kupoteza au kuibiwa kwa USB stick yako.
 
 
 
@@ -36,7 +36,7 @@ Ili kufuata mafunzo haya, utahitaji:
 
 
 
-- ufunguo wa uSB;
+- ufunguo wa USB;
 - mfumo wa Linux ulio na "**cryptsetup**" iliyosakinishwa (mara nyingi inapatikana kwa chaguo-msingi, vinginevyo tutaona jinsi ya kuipata).
 
 
@@ -89,15 +89,15 @@ Kwa kweli, ni matumizi ya "**dm-crypt**" ambayo yatafanya kazi ya usimbaji fiche
 
 
 
-Sasa tutaunda kizigeu kilichosimbwa cha LUKS kwenye fimbo yetu ya USB. Ikiwa bado hujaiunganisha kwenye mfumo wako, sasa ndio wakati wa kufanya hivyo.
+Sasa tutaunda kizigeu kilichosimbwa cha LUKS kwenye USB stick yetu . Ikiwa bado hujaiunganisha kwenye mfumo wako, sasa ndio wakati wa kufanya hivyo.
 
 
 
-Kwa madhumuni ya mafunzo haya, ninasimba fimbo yangu yote ya USB, sio kizigeu kimoja tu. Pia ni muhimu kujua kwamba wakati wa utaratibu huu, **data zote zilizopo zitafutwa kutoka kwa ufunguo **.
+Kwa madhumuni ya mafunzo haya, ninasimba USB stick yangu yote, sio kizigeu kimoja tu. Pia ni muhimu kujua kwamba wakati wa utaratibu huu, **data zote zilizopo zitafutwa kutoka kwa ufunguo**.
 
 
 
-Hatua ya kwanza ni kupata faili ya kifaa inayolingana na fimbo yako ya USB kwenye saraka ya "**/dev/**". Ingiza kijiti chako cha USB na utambue jina la kifaa chake. Unaweza kutumia amri ifuatayo kuorodhesha vifaa vya kuhifadhi:
+Hatua ya kwanza ni kupata faili ya kifaa inayolingana na  USB stick yako kwenye saraka ya "**/dev/**". Ingiza USB stick yako na utambue jina la kifaa chake. Unaweza kutumia amri ifuatayo kuorodhesha vifaa vya kuhifadhi:
 
 
 
@@ -127,11 +127,11 @@ Katika mfano wangu, ufunguo wangu wa USB uko katika "**/dev/sdb**". Ukiona "**/d
 
 
 
-Sasa tutafuta data yote kwenye fimbo yetu ya USB. Uendeshaji unajumuisha kujaza nafasi ya diski kwenye fimbo yetu ya USB na sekunde 0.
+Sasa tutafuta data yote kwenye USB stick yetu. Uendeshaji unajumuisha kujaza nafasi ya diski kwenye USB yetu na sekunde 0.
 
 
 
-**Hakikisha unalenga faili sahihi ya kifaa!
+**Hakikisha unalenga faili sahihi ya kifaa!**
 
 
 
@@ -146,7 +146,7 @@ $ sudo dd if=/dev/zero of=/dev/sdb bs=1M
 
 
 
-Hii inahakikisha kwamba hakutakuwa na data ya matini inayoendelea kwenye ufunguo wetu.
+Hii inahakikisha kwamba hakutakuwa na data ya matini (text data) inayoendelea kwenye ufunguo wetu.
 
 
 
@@ -326,7 +326,7 @@ sr0        11:0    1 1024M  0 rom
 
 
 
-Sasa, kiasi kilichosimbwa cha kiendeshi chetu cha USB flash kinawasilisha kiasi ambacho mfumo wetu wa faili na OS unaweza kutumia, kwa hivyo tutaweka yaliyomo kwenye folda yoyote, kwa mfano "**/home/mickael/mnt**" katika kesi yangu:
+Sasa, kiasi kilichosimbwa cha USB Drive yetu cha USB flash inawasilisha kiasi ambacho mfumo wetu wa faili na OS unaweza kutumia, kwa hivyo tutaweka yaliyomo kwenye folda yoyote, kwa mfano "**/home/mickael/mnt**" katika kesi yangu:
 
 
 
@@ -345,7 +345,7 @@ drwx------  2 root    root    16384 Jun 11 14:38 lost+found
 
 
 
-Hii inamaanisha kuwa tunaweza kufikia data kwenye fimbo yetu ya USB kwa uhuru na kwa uwazi.
+Hii inamaanisha kuwa tunaweza kufikia data kwenye USB stick yetu kwa uhuru na kwa uwazi.
 
 
 
