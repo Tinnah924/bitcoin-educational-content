@@ -5,14 +5,14 @@ description: Kuanzisha VPN iliyolipiwa na bitcoins
 ![cover](assets/cover.webp)
 
 
-VPN ("*Virtual Private Network*") ni huduma inayoanzisha muunganisho salama na uliosimbwa kwa njia fiche kati ya simu au kompyuta yako na seva ya mbali inayodhibitiwa na mtoa huduma wa VPN.
+VPN ("*Virtual Private Network*") ni huduma inayoanzisha muunganisho salama na uliosimbwa kwa njia fiche kati ya simu au kompyuta yako na server ya mbali inayodhibitiwa na mtoa huduma wa VPN.
 
 
-Kitaalam, unapounganisha kwa VPN, trafiki yako ya mtandao inaelekezwa kwingine kupitia handaki iliyosimbwa kwa seva ya VPN. Mchakato huu hufanya iwe vigumu kwa wahusika wengine, kama vile Watoa Huduma za Mtandao (ISPs) au watendaji hasidi, kuingilia au kusoma data yako. Seva ya VPN basi hufanya kama mpatanishi anayeunganisha kwa huduma unayotaka kutumia kwa niaba yako. Inaweka IP mpya Address kwa muunganisho wako, ambayo husaidia kuficha IP yako halisi ya Address kutoka kwa tovuti unazotembelea. Hata hivyo, kinyume na yale ambayo baadhi ya matangazo ya mtandaoni yanaweza kupendekeza, kutumia VPN hakukuruhusu kuvinjari mtandao bila kujulikana, kwani inahitaji kiwango cha uaminifu kwa mtoa huduma wa VPN ambaye anaweza kuona trafiki yako yote.
+Kitaalam, unapounganisha kwa VPN, trafiki yako ya mtandao inaelekezwa kwingine kupitia handaki iliyosimbwa kwa seva ya VPN. Mchakato huu hufanya iwe vigumu kwa wahusika wengine, kama vile Watoa  Internet service providers (ISPs) au watendaji hasidi, kuingilia au kusoma data yako. Seva ya VPN basi hufanya kama mpatanishi anayeunganisha kwa huduma unayotaka kutumia kwa niaba yako. Inaweka IP Address mpya kwa muunganisho wako, ambayo husaidia kuficha IP Address yako halisi   kutoka kwa tovuti unazotembelea. Hata hivyo, kinyume na yale ambayo baadhi ya matangazo ya mtandaoni yanaweza kupendekeza, kutumia VPN hakukuruhusu kuvinjari mtandao bila kujulikana, kwani inahitaji kiwango cha uaminifu kwa mtoa huduma wa VPN ambaye anaweza kuona trafiki yako yote.
 
 ![MULLVAD VPN](assets/fr/01.webp)
 
-Faida za kutumia VPN ni nyingi. Kwanza, huhifadhi ufaragha wa shughuli zako za mtandaoni kutoka kwa Watoa Huduma za Intaneti au serikali, mradi tu mtoa huduma wa VPN hatashiriki maelezo yako. Pili, hulinda data yako, hasa wakati umeunganishwa kwa mitandao ya umma ya Wi-Fi, ambayo inaweza kuathiriwa na mashambulizi ya MITM ("**man-in-the-katikati**"). Tatu, kwa kuficha IP yako Address, VPN hukuruhusu kupita vikwazo vya kijiografia na udhibiti, ili kufikia maudhui ambayo yasingepatikana au kuzuiwa katika eneo lako.
+Faida za kutumia VPN ni nyingi. Kwanza, huhifadhi ufaragha wa shughuli zako za mtandaoni kutoka kwa Watoa Huduma za Intaneti au serikali, mradi tu mtoa huduma wa VPN hatashiriki maelezo yako. Pili, hulinda data yako, hasa wakati umeunganishwa kwa mitandao ya umma ya Wi-Fi, ambayo inaweza kuathiriwa na mashambulizi ya MITM ("**man-in-the-man-in-the-middle**"). Tatu, kwa kuficha IP Address yako, VPN hukuruhusu kupita vikwazo vya kijiografia na udhibiti, ili kufikia maudhui ambayo yasingepatikana au kuzuiwa katika eneo lako.
 
 
 Kama unavyoona, VPN huhamisha hatari ya uchunguzi wa trafiki kwa mtoaji wa VPN. Kwa hiyo, wakati wa kuchagua mtoa huduma wako wa VPN, ni muhimu kuzingatia data ya kibinafsi inayohitajika kwa usajili. Mtoa huduma akiomba maelezo kama vile nambari yako ya simu, barua pepe Address, maelezo ya kadi ya benki, au mbaya zaidi, Address yako ya posta, hatari ya kuhusisha utambulisho wako na trafiki yako huongezeka. Katika tukio la maelewano ya mtoa huduma au kunaswa kisheria, itakuwa rahisi kuhusisha trafiki yako na data yako ya kibinafsi. Kwa hivyo, inashauriwa kuchagua mtoa huduma ambaye hahitaji maelezo yoyote ya kibinafsi na anayekubali malipo yasiyojulikana, kama vile bitcoins.
@@ -27,13 +27,13 @@ Mullvad VPN ni huduma ya Uswidi ambayo inajulikana kwa Commitment yake kwa farag
 
 ![MULLVAD VPN](assets/notext/02.webp)
 
-Kwa malipo, si lazima kutoa maelezo ya kadi ya mkopo, kwa vile Mullvad inakubali malipo ya Bitcoin (onchain pekee kwenye tovuti yao rasmi, lakini kuna njia isiyo rasmi ya kulipa kupitia Umeme). Pia wanakubali malipo ya pesa taslimu kupitia barua.
+Kwa malipo, si lazima kutoa maelezo ya kadi ya mkopo, kwa vile Mullvad inakubali malipo ya Bitcoin (onchain pekee kwenye tovuti yao rasmi, lakini kuna njia isiyo rasmi ya kulipa kupitia lightning). Pia wanakubali malipo ya pesa taslimu kupitia barua.
 
 
 Mullvad VPN pia inajitofautisha kupitia uwazi na usalama wake. Programu zao ni huria, na wao hupitia ukaguzi huru wa usalama mara kwa mara ili kutathmini programu zao na miundombinu, ambayo matokeo yake [yamechapishwa kwenye tovuti yao](https://mullvad.net/fr/blog/tag/audits). Kampuni iliyo nyuma ya Mullvad iko nchini Uswidi, nchi inayojulikana kwa sheria zake kali za faragha. Wanatumia seva zinazojipangisha kibinafsi, na hivyo kuondoa hatari zinazohusiana na kutumia huduma za wingu za watu wengine, kama vile hyperscalers AWS, Google Cloud, au Microsoft Azure.
 
 
-Kwa upande wa vipengele, Mullvad inatoa kila kitu ambacho mtu anatarajia kutoka kwa mteja mzuri wa VPN, ikiwa ni pamoja na swichi ya kuua ambayo inalinda trafiki yako ikiwa VPN itakata muunganisho, chaguo la kuzima VPN kwa programu mahususi, na uwezo wa kuelekeza trafiki yako kupitia seva nyingi za VPN.
+Kwa upande wa vipengele, Mullvad inatoa kila kitu ambacho mtu anatarajia kutoka kwa mteja mzuri wa VPN, ikiwa ni pamoja na switch ya kuua ambayo inalinda trafiki yako ikiwa VPN itakata muunganisho, chaguo la kuzima VPN kwa programu mahususi, na uwezo wa kuelekeza trafiki yako kupitia seva nyingi za VPN.
 
 
 Kwa kawaida, ubora huu wa huduma unakuja kwa gharama, lakini bei ya haki mara nyingi ni kiashiria cha ubora na uaminifu. Inaweza kuashiria kuwa kampuni ina muundo wa biashara bila kuhitaji kuuza data yako ya kibinafsi kwa wahusika wengine. Mullvad VPN inatoa bei isiyobadilika ya euro 5 kwa mwezi, inayotumika kwenye hadi vifaa 5 tofauti.
@@ -54,7 +54,7 @@ Tembelea [tovuti rasmi ya Mullvad](https://mullvad.net/en/download/) na ubofye m
 
 ![MULLVAD VPN](assets/notext/04.webp)
 
-Kwa watumiaji wa Windows au MacOS, pakua programu moja kwa moja kutoka kwa wavuti na ufuate maagizo yaliyotolewa na mchawi wa usanidi ili kukamilisha usakinishaji.
+Kwa watumiaji wa Windows au MacOS, pakua programu moja kwa moja kutoka kwa wavuti na ufuate maagizo yaliyotolewa na wizardi  ya usanidi ili kukamilisha usakinishaji.
 
 ![MULLVAD VPN](assets/notext/05.webp)
 
@@ -131,7 +131,7 @@ Kama ulivyoelewa, Mullvad bado haikubali malipo kupitia Lightning Network. Hata 
 
 ![MULLVAD VPN](assets/notext/20.webp)
 
-Una chaguo 2 tofauti kwenye tovuti hii: unaweza kumwamini msimamizi wa tovuti na uweke nambari ya akaunti yako moja kwa moja, kisha ubofye "*Ingia*" ili kifurushi chako cha Mullvad kithibitishwe kiotomatiki. Au, unaweza kubofya kitufe cha "*Heck yeah!*" ili kununua Vocha ya Umeme, ambayo unaweza kutumia kwenye tovuti rasmi ya Mullvad kupata kifurushi chako. ![MULLVAD VPN](assets/notext/21.webp) Katika hali zote mbili, utaombwa kuchagua muda wa kifurushi chako. Unaweza kuchagua kati ya miezi 6 na mwaka 1. ![MULLVAD VPN](assets/notext/22.webp) Kisha ubofye kitufe cha "*Juu-juu kwa Umeme*". ![MULLVAD VPN](assets/notext/23.webp) Ili kukamilisha ununuzi, lipa Invoice ukitumia Lightning Wallet yako. ![MULLVAD VPN](assets/notext/24.webp) Ikiwa ulichagua kununua Vocha, kwenye tovuti ya Mullvad, chagua "*Vocha*" kati ya njia za malipo zinazopatikana kwenye akaunti yako. Kisha, weka nambari ya Vocha uliyopokea kutoka kwa tovuti ya vpn.sovereign.engineering katika kisanduku kilichoteuliwa. ![MULLVAD VPN](assets/notext/25.webp) ## Jinsi ya kutumia na kusanidi Mullvad VPN?
+Una chaguo 2 tofauti kwenye tovuti hii: unaweza kumwamini msimamizi wa tovuti na uweke nambari ya akaunti yako moja kwa moja, kisha ubofye "*Ingia*" ili kifurushi chako cha Mullvad kithibitishwe kiotomatiki. Au, unaweza kubofya kitufe cha "*Heck yeah!*" ili kununua Vocha ya Umeme, ambayo unaweza kutumia kwenye tovuti rasmi ya Mullvad kupata kifurushi chako. ![MULLVAD VPN](assets/notext/21.webp) Katika hali zote mbili, utaombwa kuchagua muda wa kifurushi chako. Unaweza kuchagua kati ya miezi 6 na mwaka 1. ![MULLVAD VPN](assets/notext/22.webp) Kisha ubofye kitufe cha "*Juu-juu kwa Umeme*". ![MULLVAD VPN](assets/notext/23.webp) Ili kukamilisha ununuzi, lipa Invoice ukitumia Lightning Wallet yako. ![MULLVAD VPN](assets/notext/24.webp) Ikiwa ulichagua kununua Vocha, kwenye tovuti ya Mullvad, chagua "*voucher*" kati ya njia za malipo zinazopatikana kwenye akaunti yako. Kisha, weka nambari ya Vocha uliyopokea kutoka kwa tovuti ya vpn.sovereign.engineering katika kisanduku kilichoteuliwa. ![MULLVAD VPN](assets/notext/25.webp) ## Jinsi ya kutumia na kusanidi Mullvad VPN?
 
 
 Kwa kuwa sasa una akaunti inayotumika na umeweka nambari yako ya akaunti katika programu au programu ya Mullvad, unaweza kufurahia huduma za VPN yako kikamilifu. ![MULLVAD VPN](assets/notext/26.webp) Ili kutenganisha VPN, bofya tu kitufe cha "*Ondoa*". ![MULLVAD VPN](assets/notext/27.webp) Kishale kidogo chekundu karibu na kitufe cha "*Ondoa*" hukuruhusu kubadilisha seva bila kubadilisha eneo la sasa. ![MULLVAD VPN](assets/notext/28.webp) Ikiwa ungependa kubadilisha miji kwa seva yako ya VPN, bofya "*Badilisha eneo*" ili kuchagua eneo jipya. ![MULLVAD VPN](assets/notext/29.webp) Katika sehemu ya juu ya skrini, utaona jina la utani la kifaa chako pamoja na muda uliosalia wa kifurushi chako. ![MULLVAD VPN](assets/notext/30.webp) Kwa kubofya aikoni ya mtoto mdogo, utafikia maelezo ya kina kuhusu akaunti yako. ![MULLVAD VPN](assets/notext/31.webp) Ili kufikia mipangilio, bofya kwenye gurudumu la gia. ![MULLVAD VPN](assets/notext/32.webp) Katika menyu ya "*Mtumiaji Interface*" menyu, unaweza kubinafsisha mipangilio ya programu yako, ikijumuisha lugha ya Interface na tabia yake kwenye mfumo wako. ![MULLVAD VPN](assets/notext/33.webp) Katika menyu ya "*VPN mipangilio*", utapata chaguo zinazohusiana na VPN yako. Ninapendekeza kuwasha chaguo za "*Zindua programu unapoanza*" na "*Unganisha kiotomatiki*" ili muunganisho wako wa VPN uzindue kiotomatiki mashine yako inapoanza.
