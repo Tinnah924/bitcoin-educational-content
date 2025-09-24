@@ -1,13 +1,13 @@
 ---
 name: Linux Mint
 
-description: Sanidi kompyuta kwa shughuli za Bitcoin
+description: Sanidi kompyuta kwa miamala ya Bitcoin
 ---
 
 ![image](assets/cover.webp)
 
 
-## Ni nini kibaya ikiwa unatumia kompyuta ya kawaida?
+## Ni nini shida ikiwa unatumia kompyuta ya kawaida?
 
 
 Unapofanya miamala ya Bitcoin, ni bora ikiwa kompyuta yako haina programu hasidi. Ni wazi.
@@ -16,13 +16,13 @@ Unapofanya miamala ya Bitcoin, ni bora ikiwa kompyuta yako haina programu hasidi
 Ikiwa utaweka maneno yako ya Bitcoin seed (kwa kawaida maneno 12 au 24) kwenye kompyuta na kifaa cha kusaini (kwa mfano, Hardware Wallet - kusudi lake kuu), basi unaweza kufikiri sio muhimu kuwa na kompyuta "safi" - si kweli.
 
 
-Kompyuta iliyoathiriwa na programu hasidi inaweza kusoma anwani zako za Bitcoin, ikionyesha salio lako kwa mshambulizi - haiwezi kuchukua Bitcoin kutokana tu na kujua Address, lakini inaweza kuona ni kiasi gani unacho, na kuhesabu kutokana na hilo ikiwa unalengwa unastahili. Wanaweza pia kusuluhisha mahali unapoishi, kwa mfano, na kung'oa kucha au watoto kutoka kwako ili kukufanya ulipe fidia.
+Kompyuta iliyoathiriwa na programu hasidi inaweza kusoma Address zako za Bitcoin, ikionyesha salio lako kwa mshambulizi - haiwezi kuchukua Bitcoin kutokana tu na kujua Address, lakini inaweza kuona ni kiasi gani unacho, na kuhesabu kutokana na hilo ikiwa unalengwa unastahili. Wanaweza pia kusuluhisha mahali unapoishi, kwa mfano, na kung'oa kucha au watoto kutoka kwako ili kukufanya ulipe fidia.
 
 
 ## Suluhu ni nini?
 
 
-Ninawahimiza wanaBitcoin wengi kutumia kompyuta iliyojitolea isiyo na programu hasidi (iliyo na ufikiaji wa mtandao) kwa kufanya miamala ya Bitcoin. Ninapendekeza watu watumie mfumo wa uendeshaji wa chanzo huria kama vile Linux Mint, lakini tumia Windows au Mac ikiwa ni lazima - hiyo ni bora kuliko kutumia kompyuta ya kawaida, inayotumika vizuri ambayo mara kwa mara ina programu hasidi iliyofichwa ndani yake.
+Ninawahimiza Bitcoiners wengi kutumia kompyuta iliyojitolea isiyo na programu hasidi (iliyo na ufikiaji wa mtandao) kwa kufanya miamala ya Bitcoin. Ninapendekeza watu watumie mfumo wa uendeshaji wa chanzo huria kama vile Linux Mint, lakini tumia Windows au Mac ikiwa ni lazima - hiyo ni bora kuliko kutumia kompyuta ya kawaida, inayotumika vizuri ambayo mara kwa mara ina programu hasidi iliyofichwa ndani yake.
 
 
 Kikwazo kimoja ambacho watu hukutana nacho ni kusakinisha mfumo mpya wa uendeshaji kwenye kompyuta hizo. Mwongozo huu ni wa kusaidia na hilo.
@@ -54,7 +54,7 @@ Epuka:
 
 - Mchanganyiko wowote wa kompyuta kibao, ikiwa ni pamoja na Surface Pro
 - Chromebook - mara nyingi uwezo wa kuhifadhi ni mdogo sana
-- Kompyuta yoyote iliyo na kiendeshi cha eMMC; Ikiwa ina gari la SSD, hiyo ni kamili
+- Kompyuta yoyote iliyo na kiendeshi cha eMMC; Ikiwa ina drive ya SSD, hiyo ni kamili
 - Mac - ni ghali, na vifaa haviendani vizuri na mifumo ya uendeshaji ya Linux katika uzoefu wangu
 - Kitu chochote kilichorekebishwa au mkono wa 2 (sio mvunja mkataba kabisa)
 
@@ -71,37 +71,37 @@ Bei ya hii hapo juu ni nzuri. Vipimo ni vya kutosha. Ina kamera ya ndani ambayo 
 ![image](assets/2.webp)
 
 
-Baadhi ya wale wa bei nafuu wana 64Gb tu ya nafasi ya gari; Sijajaribu kompyuta za mkononi zilizo na viendeshi vidogo hivyo - labda ni sawa kuwa na 64Gb, lakini inaweza kuwa inasukuma.
+Baadhi ya wale wa bei nafuu wana 64Gb tu ya nafasi ya drive; Sijajaribu kompyuta za mkononi zilizo na viendeshi vidogo hivyo - labda ni sawa kuwa na 64Gb, lakini inaweza kuwa inasukuma.
 
 
-## Chaguzi zingine - Mikia
+## Chaguzi zingine - Tails
 
 
-Mikia ni mfumo wa uendeshaji ambao hutoka kwenye gari la kidole cha USB, na huchukua kwa muda vifaa vya kompyuta yoyote. Inatumia miunganisho ya Tor pekee, kwa hivyo utahitaji kuwa na urahisi kutumia Tor. Hakuna data ambayo unaandika kwenye kumbukumbu wakati wa kipindi chako itahifadhiwa kwenye hifadhi (inaanza upya kila wakati) isipokuwa ukibadilisha mipangilio na kuunda chaguo la kudumu la kuhifadhi (kwenye kiendeshi gumba cha USB) - ambacho unakifunga kwa nenosiri.
+Tails ni mfumo wa uendeshaji ambao hutoka kwenye USB drive, na huchukua kwa muda vifaa vya kompyuta yoyote. Inatumia miunganisho ya Tor pekee, kwa hivyo utahitaji kuwa na urahisi kutumia Tor. Hakuna data ambayo unaandika kwenye kumbukumbu wakati wa kipindi chako itahifadhiwa kwenye hifadhi (inaanza upya kila wakati) isipokuwa ukibadilisha mipangilio na kuunda chaguo la kudumu la kuhifadhi (kwenye kiendeshi gumba cha USB) - ambacho unakifunga kwa nenosiri.
 
 
 Sio chaguo mbaya na ni bure, lakini ni kidogo kidogo kwa madhumuni yetu. Kusakinisha programu mpya juu yake sio rahisi. Kipengele kimoja kizuri ni kwamba inakuja na Electrum, lakini upande wa chini wa hii ni kwamba haukuisakinisha mwenyewe. Hakikisha hifadhi ya USB unayotumia ni angalau 8Gb.
 
 
-Unyumbulifu wako hupunguzwa ikiwa unatumia Mikia. Huenda usiweze kufuata miongozo mbalimbali ili kusanidi unachohitaji na kukifanya kifanye kazi ipasavyo. Kwa mfano, ukifuata mwongozo wangu wa kusakinisha Bitcoin Core, kuna marekebisho yanayohitajika ili kuifanya ifanye kazi. Sidhani kama nitakuwa nikitengeneza mwongozo maalum wa Mikia, kwa hivyo utahitaji kujenga ujuzi wako na kuifanya peke yako.
+Unyumbulifu wako hupunguzwa ikiwa unatumia Tails. Huenda usiweze kufuata miongozo mbalimbali ili kusanidi unachohitaji na kukifanya kifanye kazi ipasavyo. Kwa mfano, ukifuata mwongozo wangu wa kusakinisha Bitcoin Core, kuna marekebisho yanayohitajika ili kuifanya ifanye kazi. Sidhani kama nitakuwa nikitengeneza mwongozo maalum wa Tails, kwa hivyo utahitaji kujenga ujuzi wako na kuifanya peke yako.
 
 
-Pia sina uhakika jinsi pochi za vifaa zitaingiliana na OS hii.
+Pia sina uhakika jinsi hardware wallets zitaingiliana na OS hii.
 
 
-Baada ya kusema haya yote, kompyuta ya Tails kwa miamala ya Bitcoin ni chaguo zuri la ziada, na hakika itasaidia ujuzi wako wa faragha kujifunza kutumia Mikia.
+Baada ya kusema haya yote, kompyuta ya Tails kwa miamala ya Bitcoin ni chaguo zuri la ziada, na hakika itasaidia ujuzi wako wa faragha kujifunza kutumia Tails.
 
 
 ## Chaguzi zingine - Boot ya moja kwa moja ya OS
 
 
-Hii ni sawa na Mikia, isipokuwa mfumo wa uendeshaji haujajitolea kwa faragha. Njia ya msingi ya kutumia hii ni kuwasha kiendeshi cha USB na mfumo wa uendeshaji wa Linux ulioupenda na kufanya buti ya kompyuta kutoka hapo badala ya kiendeshi cha ndani. Jinsi ya kufanya hivyo itaelezewa baadaye.
+Hii ni sawa na Tails, isipokuwa mfumo wa uendeshaji haujajitolea kwa faragha. Njia ya msingi ya kutumia hii ni kuwasha USB drive na mfumo wa uendeshaji wa Linux ulioupenda na kufanya buti ya kompyuta kutoka hapo badala ya kiendeshi cha ndani. Jinsi ya kufanya hivyo itaelezewa baadaye.
 
 
 Faida ni kwamba wewe ni mdogo na vikwazo na mambo yatafanya kazi bila tweaks ya juu.
 
 
-Sina hakika jinsi mfumo kama huo unavyotenga programu hasidi kwenye kompyuta iliyopo kutoka kwa kiendeshi cha kuwasha USB unachotumia ambacho kinashikilia mfumo mpya wa uendeshaji. Labda inafanya kazi nzuri na labda sio nzuri kama Mikia. Kwa sababu sijui, upendeleo wangu ni kompyuta ya mkononi iliyojitolea.
+Sina hakika jinsi mfumo kama huo unavyotenga programu hasidi kwenye kompyuta iliyopo kutoka kwa kiendeshi cha kuwasha USB unachotumia ambacho kinashikilia mfumo mpya wa uendeshaji. Labda inafanya kazi nzuri na labda sio nzuri kama Tails. Kwa sababu sijui, upendeleo wangu ni kompyuta ya mkononi iliyojitolea.
 
 Chaguzi zingine - Laptop yako mwenyewe iliyotumika au kompyuta ya mezani
 
@@ -151,7 +151,7 @@ Kutakuwa na "ladha" chache za kuchagua. Nenda na "Cinnamon" ili kufuata pamoja n
 ![image](assets/7.webp)
 
 
-Katika ukurasa unaofuata, unaweza kusogeza chini ili kuona vioo (Vioo ni seva mbalimbali ambazo zinashikilia nakala ya faili tunayotaka). Unaweza kuthibitisha upakuaji kwa kutumia SHA256 na gpg (iliyopendekezwa), lakini nitaruka kuelezea hilo hapa kwani tayari nimeandika miongozo juu ya hili.
+Katika ukurasa unaofuata, unaweza kusogeza chini ili kuona vioo (Vioo ni servers mbalimbali ambazo zinashikilia nakala ya faili tunayotaka). Unaweza kuthibitisha upakuaji kwa kutumia SHA256 na gpg (iliyopendekezwa), lakini nitaruka kuelezea hilo hapa kwani tayari nimeandika miongozo juu ya hili.
 
 
 ![image](assets/8.webp)
@@ -186,7 +186,7 @@ Washa kompyuta ndogo ndogo, na inapowashwa, shikilia kitufe cha BIOS. Hii ni kaw
 Mfano "BiOS key Dell laptops".
 
 
-Kila kompyuta itakuwa na menyu tofauti ya BIOS. Chunguza na utafute ni menyu gani hukuruhusu kusanidi mpangilio wa kuwasha. Kwa madhumuni yetu, tunataka kompyuta ijaribu boot kutoka kwa kifaa kilichounganishwa cha USB (ikiwa kuna moja iliyounganishwa), kabla ya kujaribu boot kutoka kwenye gari la ndani la Hard (vinginevyo Windows itapakia). Baada ya kuweka hiyo, huenda ukahitaji kuhifadhi kabla ya kuondoka au inaweza kuhifadhi kiotomatiki.
+Kila kompyuta itakuwa na menyu tofauti ya BIOS. Chunguza na utafute ni menyu gani hukuruhusu kusanidi mpangilio wa kuwasha. Kwa madhumuni yetu, tunataka kompyuta ijaribu boot kutoka kwa kifaa kilichounganishwa cha USB (ikiwa kuna moja iliyounganishwa), kabla ya kujaribu boot kutoka kwenye Hard drive ya ndani (vinginevyo Windows itapakia). Baada ya kuweka hiyo, huenda ukahitaji kuhifadhi kabla ya kuondoka au inaweza kuhifadhi kiotomatiki.
 
 
 Anzisha tena kompyuta na inapaswa kupakia kutoka kwa kifaa cha kumbukumbu cha USB. Hatuwezi kusakinisha Linux kwenye kiendeshi cha ndani na Windows itaondolewa kabisa.
@@ -246,4 +246,4 @@ sudo apt-get install tor
 **Kidokezo cha Pro:** Unaweza pia kuendesha kuwasha Linux Mint kutoka kwa "OEM install" (Hakikisha kuwa umeunganishwa kwenye intaneti, vinginevyo unaweza kupata hitilafu). Ukifanya hivi, baadaye unahitaji kubofya ikoni ya "meli hadi mtumiaji wa mwisho" ambayo inapaswa kuwa kwenye eneo-kazi. Kisha unawasha upya na kuanza mfumo wa uendeshaji kana kwamba unafungua kompyuta kwa mara ya kwanza.
 
 
-Mwongozo huu ulielezea kwa nini unaweza kuhitaji kompyuta maalum kwa shughuli za Bitcoin, na jinsi ya kusakinisha mfumo mpya wa uendeshaji wa Linux Mint juu yake.
+Mwongozo huu ulielezea kwa nini unaweza kuhitaji kompyuta maalum kwa miamala za Bitcoin, na jinsi ya kusakinisha mfumo mpya wa uendeshaji wa Linux Mint juu yake.
