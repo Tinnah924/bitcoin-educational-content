@@ -6,15 +6,15 @@ description: Ujumbe wa kibinafsi kwa kila mtu
 
 
 
-Olvid ni programu ya Kifaransa ya kutuma ujumbe papo hapo iliyozinduliwa mwaka wa 2019, iliyoundwa ili kutoa kiwango cha juu cha usalama, bila kuathiri faragha. Tofauti na WhatsApp au Signal, Olvid anauliza hakuna data ya kibinafsi kwenye usajili: hakuna nambari ya simu, hakuna barua pepe, hakuna chochote. Utambulisho kati ya watumiaji unategemea Exchange ya funguo, bila seva ya saraka au kitabu cha Address kilichoshirikiwa.
+Olvid ni programu ya Kifaransa ya kutuma ujumbe papo hapo iliyozinduliwa mwaka wa 2019, iliyoundwa ili kutoa kiwango cha juu cha usalama, bila kuathiri faragha. Tofauti na WhatsApp au Signal, Olvid anauliza hakuna data ya kibinafsi kwenye usajili: hakuna nambari ya simu, hakuna barua pepe, hakuna chochote. Utambulisho kati ya watumiaji unategemea Exchange ya funguo, bila server ya saraka au kitabu cha Address kilichoshirikiwa.
 
 
 
-Barua pepe zote zimesimbwa kwa njia fiche kutoka mwanzo hadi mwisho kwa kutumia itifaki asilia ya kriptografia, iliyoundwa ili kulinda metadata pia: hakuna anayejua unazungumza na nani au lini. Msimbo wa mteja ni chanzo huria, lakini seva kuu inayotumiwa kuelekeza ujumbe uliosimbwa inasalia kuwa ya umiliki na inapangishwa kwenye AWS.
+Barua pepe zote zimesimbwa kwa njia fiche kutoka mwanzo hadi mwisho kwa kutumia protocol asilia ya cryptography, iliyoundwa ili kulinda metadata pia: hakuna anayejua unazungumza na nani au lini. Msimbo wa mteja ni chanzo huria, lakini server kuu inayotumiwa kuelekeza ujumbe uliosimbwa inasalia kuwa ya umiliki na inapangishwa kwenye AWS.
 
 Mfumo wa usalama wa Olvid unategemea kanuni muhimu: kutokuwepo kabisa kwa mhusika wa tatu anayeaminika katika kuanzisha utambulisho wa kidijitali. Tofauti na programu nyingi za ujumbe uliofichwa ambazo hutegemea saraka ya kati kudhibiti vitambulisho vya watumiaji, Olvid haitegemei miundombinu yoyote ya kati ili kuhakikisha uadilifu wa mawasiliano. Muundo huu huondoa hatari zinazohusiana na kuathiriwa kwa saraka hiyo.
 
-Hata hivyo, Olvid hutumia seva ya kati kwa ajili ya usambazaji wa ujumbe, lakini jukumu lake limewekewa kikomo kikamilifu kwa vifaa vya ugavi: kuhakikisha usambazaji wa ujumbe uliofichwa kwa njia ya asynchronous. Seva hii haishiriki katika hatua yoyote ya usimbaji, haitambui utambulisho wa watumiaji wala maudhui au metadata ya ujumbe (isipokuwa ufunguo wa umma wa mpokeaji unaohitajika kwa kurutisha). Kwa hivyo, inaweza kuchukuliwa kuwa adui kwa chaguomsingi bila kuhatarisha usalama wa mfumo mzima. Hata kama ikivamiwa, haiwezi kufichua maudhui ya mawasiliano. Olvid inaweka usambazaji wa ujumbe katika mfumo wa kati (kwa sababu za ufanisi na ubora wa huduma), huku ikihakikisha usalama usioathiriwa na miundombinu hiyo.
+Hata hivyo, Olvid hutumia server ya kati kwa ajili ya usambazaji wa ujumbe, lakini jukumu lake limewekewa kikomo kikamilifu kwa vifaa vya ugavi: kuhakikisha usambazaji wa ujumbe uliofichwa kwa njia ya asynchronous. server hii haishiriki katika hatua yoyote ya usimbaji, haitambui utambulisho wa watumiaji wala maudhui au metadata ya ujumbe (isipokuwa ufunguo wa umma wa mpokeaji unaohitajika kwa kurutisha). Kwa hivyo, inaweza kuchukuliwa kuwa adui kwa chaguomsingi bila kuhatarisha usalama wa mfumo mzima. Hata kama ikivamiwa, haiwezi kufichua maudhui ya mawasiliano. Olvid inaweka usambazaji wa ujumbe katika mfumo wa kati (kwa sababu za ufanisi na ubora wa huduma), huku ikihakikisha usalama usioathiriwa na miundombinu hiyo.
 
 
 Olvid hutoa toleo lisilolipishwa na toleo la usajili kwa €4.99 kwa mwezi. Toleo lisilolipishwa hutoa utendakazi kamili, isipokuwa kupiga simu za sauti na video (ingawa inawezekana kuzipokea), na hairuhusu usawazishaji wa akaunti kwenye vifaa vingi. Kwa hivyo ikiwa unapanga kutumia simu yako mahiri pekee, na huhitaji kupiga simu, Olvid ni suluhisho bora.
@@ -24,7 +24,7 @@ Olvid hutoa toleo lisilolipishwa na toleo la usajili kwa €4.99 kwa mwezi. Tole
 Olvid ameidhinishwa na ANSSI (mamlaka ya usalama wa mtandao ya Ufaransa). Programu hii ni mbadala bora kwa huduma za jadi za utumaji ujumbe (WhatsApp, Facebook Messenger, WeChat...) kwa wale wanaotafuta faragha huku wakihifadhi urahisi wa matumizi.
 
 
-| Programu             | E2EE 1:1       | E2EE vikundi   | Usajili wa faragha  | Leseni ya mteja chanzo-huria | Leseni ya seva chanzo-huria | Seva iliyogawanywa       | Mwaka wa uundaji  |
+| Programu             | E2EE 1:1       | E2EE vikundi   | Usajili wa faragha  | Leseni ya mteja chanzo-huria | Leseni ya server chanzo-huria | server iliyogawanywa       | Mwaka wa uundaji  |
 | -------------------- | -------------- | -------------- | ------------------- | ---------------------------- | --------------------------- | ------------------------ | ----------------- |
 | WhatsApp             | ✅              | ✅              | ❌                   | ❌                            | ❌                           | ❌                        | 2009              |
 | WeChat               | ❌              | ❌              | ❌                   | ❌                            | ❌                           | ❌                        | 2011              |
@@ -44,7 +44,7 @@ Olvid ameidhinishwa na ANSSI (mamlaka ya usalama wa mtandao ya Ufaransa). Progra
 | Briar                | ✅              | ✅              | ✅                   | ✅                            | N/A                         | ✅                        | 2018              |
 | Tox                  | ✅              | ✅              | ✅                   | ✅                            | N/A                         | ✅                        | 2013              |
 
-*E2EE = Usimbaji kutoka mwanzo hadi mwisho.*
+*E2EE = End-to-End Encryption.*
 
 
 
@@ -112,13 +112,13 @@ Akaunti yako sasa imeundwa.
 
 Ili kuzuia upotezaji wowote wa ufikiaji wa akaunti yako ya Olvid, tunapendekeza usanidi nakala za kiotomatiki. Ili kufanya hivyo, fungua mipangilio kwa kubofya dots tatu kwenye sehemu ya juu ya kulia ya Interface, kisha uchague "* Mipangilio*".
 
-⚠️ **Tahadhari**: tangu toleo la 3.7 la Olvid, utaratibu wa kuhifadhi nakala za wasifu na anwani zako umebadilishwa na mpya. Mafunzo haya bado yanaonyesha toleo la zamani. Unaweza kugundua toleo jipya katika FAQ zao: [💾 Kuhifadhi nakala za wasifu wako](https://www.olvid.io/faq/sauvegarder-vos-profils/)
+⚠️ **Tahadhari**: tangu toleo la 3.7 la Olvid, utaratibu wa kuhifadhi nakala za wasifu na Address zako umebadilishwa na mpya. Mafunzo haya bado yanaonyesha toleo la zamani. Unaweza kugundua toleo jipya katika FAQ zao: [💾 Kuhifadhi nakala za wasifu wako](https://www.olvid.io/faq/sauvegarder-vos-profils/)
 
 ![Image](assets/fr/06.webp)
 
 
 
-Nenda kwenye menyu ya "*Hifadhi funguo na anwani*".
+Nenda kwenye menyu ya "*Hifadhi funguo na Address*".
 
 
 
@@ -142,7 +142,7 @@ Weka ufunguo huu mahali salama. Unaweza pia kufanya nakala ya karatasi.
 
 
 
-Kisha unaweza kuchagua kuunda nakala ya ndani au chelezo otomatiki kwenye huduma ya wingu. Chaguo hili la pili linapendekezwa sana ili kuhakikisha ufikiaji wa akaunti yako ya Olvid katika hali zote, hata kama utapoteza simu yako.
+Kisha unaweza kuchagua kuunda nakala ya ndani au chelezo otomatiki kwenye huduma ya cloud. Chaguo hili la pili linapendekezwa sana ili kuhakikisha ufikiaji wa akaunti yako ya Olvid katika hali zote, hata kama utapoteza simu yako.
 
 
 
@@ -170,7 +170,7 @@ Unaweza pia kuchunguza mipangilio mingine inayopatikana ili kubinafsisha program
 
 
 
-Ili uweze kutuma ujumbe, lazima kwanza uongeze anwani. Kutoka kwa ukurasa wa nyumbani, bofya kitufe cha bluu "**".
+Ili uweze kutuma ujumbe, lazima kwanza uongeze Address. Kutoka kwa ukurasa wa nyumbani, bofya kitufe cha bluu "**".
 
 
 
@@ -190,7 +190,7 @@ Ili kumwongeza mtu, changanua kitambulisho chake kwa kutumia kamera yako, au uba
 
 
 
-Kitambulisho kikishachanganuliwa, unaweza kufanya mwasiliani wako kuchanganua msimbo wa QR kuonyeshwa, au umtumie ombi la muunganisho wa mbali kwa kubofya "*Anwani ya Mbali*".
+Kitambulisho kikishachanganuliwa, unaweza kufanya mwasiliani wako kuchanganua msimbo wa QR kuonyeshwa, au umtumie ombi la muunganisho wa mbali kwa kubofya "*Address ya Mbali*".
 
 
 
@@ -222,7 +222,7 @@ Kutoka kwa ukurasa wa nyumbani, utapata mazungumzo yako yote.
 
 
 
-Kichupo cha pili kina anwani zako zote.
+Kichupo cha pili kina Address zako zote.
 
 
 
