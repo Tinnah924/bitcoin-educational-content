@@ -1,5 +1,5 @@
 ---
-name: Kikao
+name: Session
 description: Tuma ujumbe uliosimbwa kwa njia fiche, si metadata
 ---
 ![cover](assets/cover.webp)
@@ -10,7 +10,7 @@ Session ni programu ya ujumbe iliyosimbwa kwa njia fiche iliyoundwa mnamo 2020, 
 
 
 
-Kipindi kina sifa za kiufundi zinazovutia: usimbaji fiche kutoka mwisho hadi mwisho, mtandao uliogatuliwa uliopangwa ili kuhakikisha upatikanaji na upungufu, na uelekezaji wa vitunguu ulioongozwa na Tor. Pia, tofauti na WathsApp au Signal, ambayo inahitaji nambari ya simu kwa usajili, Kipindi hakiulizi taarifa za kibinafsi (hakuna nambari, hakuna barua pepe, jozi ya funguo za siri).
+Kipindi kina sifa za kiufundi zinazovutia: usimbaji fiche kutoka mwisho hadi mwisho, mtandao uliogatuliwa uliopangwa ili kuhakikisha upatikanaji na upungufu, na onion routing iliyoongozwa na Tor. Pia, tofauti na WathsApp au Signal, ambayo inahitaji nambari ya simu kwa usajili, Kipindi hakiulizi taarifa za kibinafsi (hakuna nambari, hakuna barua pepe, jozi ya funguo za siri).
 
 
 
@@ -46,7 +46,7 @@ Kipindi kinalenga zaidi ya yote kwa watumiaji wanaoweka usiri katika moyo wa vip
 | Briar                | ✅              | ✅              | ✅                   | ✅                          | N/A                         | ✅                    | 2018              |
 | Tox                  | ✅              | ✅              | ✅                   | ✅                          | N/A                         | ✅                    | 2013              |
 
-*E2EE = Usimbaji fiche kutoka mwisho hadi mwisho*
+*E2EE = End-to-End Encryption*
 
 
 
@@ -99,7 +99,7 @@ Kisha utalazimika kuchagua kati ya njia mbili za usimamizi wa arifa:
 
 
 
-- Hali ya haraka ("*Firebase Cloud Messaging/Apple Push Notification Service*")**: hukuwezesha kupokea arifa za ujumbe katika muda halisi, kutokana na huduma za arifa zinazotolewa na Google au Apple (kulingana na mfumo wako). Ili hili lifanye kazi, IP yako Address na kitambulisho cha kipekee cha arifa hutumwa kwa Google au Apple, na Kitambulisho cha akaunti ya Session pia kimesajiliwa na seva ya STF (kupitia Tor). Hali hii inahusisha (inakubalika kidogo) udhihirisho wa metadata, lakini haiathiri maudhui ya ujumbe au waasiliani, na hairuhusu shughuli yako halisi kufuatiliwa. Kwa hivyo, hali hii ina ufanisi zaidi katika suala la uitikiaji, lakini inategemea muundo msingi na haina ufanisi kidogo katika suala la usiri.
+- Hali ya haraka ("*Firebase Cloud Messaging/Apple Push Notification Service*")**: hukuwezesha kupokea arifa za ujumbe katika muda halisi, kutokana na huduma za arifa zinazotolewa na Google au Apple (kulingana na mfumo wako). Ili hili lifanye kazi, IP Address yako na kitambulisho cha kipekee cha arifa hutumwa kwa Google au Apple, na Kitambulisho cha akaunti ya Session pia kimesajiliwa na seva ya STF (kupitia Tor). Hali hii inahusisha (inakubalika kidogo) udhihirisho wa metadata, lakini haiathiri maudhui ya ujumbe au waasiliani, na hairuhusu shughuli yako halisi kufuatiliwa. Kwa hivyo, hali hii ina ufanisi zaidi katika suala la uitikiaji, lakini inategemea muundo msingi na haina ufanisi kidogo katika suala la usiri.
 
 
 
@@ -151,7 +151,7 @@ https://planb.network/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a
 
 
 
-## Kuanzisha programu ya Kikao
+## Kuanzisha programu ya session
 
 
 
@@ -163,7 +163,7 @@ Ili kufikia mipangilio ya programu, bofya kwenye picha yako ya wasifu iliyo juu 
 
 
 
-Katika menyu ya "*Faragha*", unaweza kuwezesha au kuzima vipengele mbalimbali (tahadhari, vingine vinaweza kufichua IP yako Address). Pia ninapendekeza kuwezesha chaguo la "*Funga Programu*", ambayo inahitaji uthibitishaji ili kufikia programu.
+Katika menyu ya "*Faragha*", unaweza kuwezesha au kuzima vipengele mbalimbali (tahadhari, vingine vinaweza kufichua IP Address yako). Pia ninapendekeza kuwezesha chaguo la "*Funga Programu*", ambayo inahitaji uthibitishaji ili kufikia programu.
 
 
 
