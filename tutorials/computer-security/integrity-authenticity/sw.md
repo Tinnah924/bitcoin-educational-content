@@ -17,7 +17,7 @@ Kuthibitisha uhalisi, kwa upande mwingine, huhakikisha kwamba faili kweli inatok
 Kama ukaguzi huu haujafanywa, kuna hatari ya kusakinisha programu hasidi ambayo inaweza kuwa na msimbo uliorekebishwa. Msimbo huu unaweza kuiba maelezo kama vile funguo zako za faragha au kuzuia ufikiaji wa faili zako. Aina hii ya mashambulizi ni ya kawaida sana, hasa katika muktadha wa programu huria ambapo matoleo ghushi yanaweza kusambazwa.
 
 
-Ili kutekeleza uthibitishaji huu, tutatumia zana mbili: utendakazi wa hashing ili kuthibitisha uadilifu, na GnuPG, zana huria inayotekeleza itifaki ya PGP, ili kuthibitisha uhalisi.
+Ili kutekeleza uthibitishaji huu, tutatumia zana mbili: utendakazi wa hashing ili kuthibitisha uadilifu, na GnuPG, zana huria inayotekeleza protocol ya PGP, ili kuthibitisha uhalisi.
 
 
 ## Masharti
@@ -64,7 +64,7 @@ Kwa **Windows**, ikiwa huna GPG, unaweza kusakinisha programu ya [Gpg4win](https
 ## Inapakua Nyaraka
 
 
-Kuanza, tutahitaji nyaraka mbalimbali. Tembelea tovuti rasmi ya [Sparrow Wallet katika sehemu ya "*Pakua*"](https://sparrowwallet.com/download/). Ikiwa ungependa kuthibitisha programu nyingine, nenda kwenye tovuti ya programu hiyo.
+Kuanza, tutahitaji nyaraka mbalimbali. Tembelea tovuti rasmi ya [Sparrow Wallet katika sehemu ya "*Download*"](https://sparrowwallet.com/download/). Ikiwa ungependa kuthibitisha programu nyingine, nenda kwenye tovuti ya programu hiyo.
 
 
 ![GnuPG](assets/notext/02.webp)
@@ -97,7 +97,7 @@ Pakua saini ya PGP ya faili pia. Hii ni hati katika umbizo la `.asc`.
 Hakikisha umeweka faili hizi zote kwenye folda moja kwa hatua zifuatazo.
 
 
-Hatimaye, utahitaji ufunguo wa umma wa msanidi programu, ambao tutatumia kuthibitisha sahihi ya PGP. Ufunguo huu mara nyingi hupatikana kwenye tovuti ya programu, kwenye hazina ya GitHub ya mradi, wakati mwingine kwenye mitandao ya kijamii ya msanidi programu, au kwenye tovuti maalum kama Keybase. Kwa upande wa Sparrow Wallet, unaweza kupata ufunguo wa umma wa msanidi programu Craig Raw [kwenye Keybase](https://keybase.io/craigraw). Ili kuipakua moja kwa moja kutoka kwa terminal, tekeleza amri:
+Hatimaye, utahitaji ufunguo wa umma wa msanidi programu, ambao tutatumia kuthibitisha sahihi  ya PGP. Ufunguo huu mara nyingi hupatikana kwenye tovuti ya programu, kwenye hazina ya GitHub ya mradi, wakati mwingine kwenye mitandao ya kijamii ya msanidi programu, au kwenye tovuti maalum kama Keybase. Kwa upande wa Sparrow Wallet, unaweza kupata ufunguo wa umma wa msanidi programu Craig Raw [kwenye Keybase](https://keybase.io/craigraw). Ili kuipakua moja kwa moja kutoka kwa terminal, tekeleza amri:
 
 
 ```bash
@@ -179,10 +179,10 @@ Kisha linganisha matokeo na thamani inayolingana katika faili "* sparrow-2.0.0-m
 ![GnuPG](assets/notext/13.webp)
 
 
-Katika kesi yangu, tunaona kwamba heshi mbili zinalingana kikamilifu.
+Katika kesi yangu, tunaona kwamba Hash mbili zinalingana kikamilifu.
 
 
-Kwenye **macOS** na **Linux**, mchakato wa uthibitishaji wa Hash unajiendesha otomatiki. Sio lazima kuangalia kwa mikono mechi kati ya heshi mbili kama kwenye Windows.
+Kwenye **macOS** na **Linux**, mchakato wa uthibitishaji wa Hash unajiendesha otomatiki. Sio lazima kuangalia kwa mikono mechi kati ya Hash mbili kama kwenye Windows.
 
 
 Toa amri hii kwenye **macOS**:
@@ -201,7 +201,7 @@ shasum --check sparrow-2.0.0-manifest.txt --ignore-missing
 ```
 
 
-Ikiwa heshi inalingana, unapaswa kuona matokeo yafuatayo:
+Ikiwa Hash inalingana, unapaswa kuona matokeo yafuatayo:
 
 
 ```bash
@@ -217,7 +217,7 @@ sha256sum --check [file name] --ignore-missing
 ```
 
 
-Na ikiwa heshi inalingana, unapaswa kuona matokeo yafuatayo:
+Na ikiwa Hash inalingana, unapaswa kuona matokeo yafuatayo:
 
 
 ```bash
