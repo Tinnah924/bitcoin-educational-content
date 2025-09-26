@@ -97,7 +97,7 @@ Pakua saini ya PGP ya faili pia. Hii ni hati katika umbizo la `.asc`.
 Hakikisha umeweka faili hizi zote kwenye folda moja kwa hatua zifuatazo.
 
 
-Hatimaye, utahitaji ufunguo wa umma wa msanidi programu, ambao tutatumia kuthibitisha sahihi  ya PGP. Ufunguo huu mara nyingi hupatikana kwenye tovuti ya programu, kwenye hazina ya GitHub ya mradi, wakati mwingine kwenye mitandao ya kijamii ya msanidi programu, au kwenye tovuti maalum kama Keybase. Kwa upande wa Sparrow Wallet, unaweza kupata ufunguo wa umma wa msanidi programu Craig Raw [kwenye Keybase](https://keybase.io/craigraw). Ili kuipakua moja kwa moja kutoka kwa terminal, tekeleza amri:
+Hatimaye, utahitaji ufunguo wa umma wa msanidi programu, ambao tutatumia kuthibitisha signature  ya PGP. Ufunguo huu mara nyingi hupatikana kwenye tovuti ya programu, kwenye hazina ya GitHub ya mradi, wakati mwingine kwenye mitandao ya kijamii ya msanidi programu, au kwenye tovuti maalum kama Keybase. Kwa upande wa Sparrow Wallet, unaweza kupata ufunguo wa umma wa msanidi programu Craig Raw [kwenye Keybase](https://keybase.io/craigraw). Ili kuipakua moja kwa moja kutoka kwa terminal, tekeleza amri:
 
 
 ```bash
