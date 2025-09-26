@@ -11,7 +11,7 @@ Jami ni programu isiyolipishwa ya programu huria ya kutuma ujumbe kutoka kwa wen
 
 
 
-Mnamo 2015, SFLPhone ilipewa jina la Gonga, na kuunganishwa kwa usanifu uliosambazwa ambao hauhitaji tena seva kuu. Mwaka uliofuata, Ring ilijiunga rasmi na mradi wa GNU, ikiimarisha uwekaji wake katika mfumo wa programu huria. Hatimaye, mnamo Desemba 2018, ili kuepuka kuchanganyikiwa na bidhaa za kibiashara kwa kutumia neno la Kiingereza "*Ring*", programu ilipitisha jina lake la sasa: Jami. Tangu wakati huo, imeendelea kubadilika kama jukwaa la mawasiliano lisilolipishwa, lililogatuliwa na linalofaa kwa faragha.
+Mnamo 2015, SFLPhone ilipewa jina la Gonga, na kuunganishwa kwa usanifu uliosambazwa ambao hauhitaji tena  server kuu. Mwaka uliofuata, Ring ilijiunga rasmi na mradi wa GNU, ikiimarisha uwekaji wake katika mfumo wa programu huria. Hatimaye, mnamo Desemba 2018, ili kuepuka kuchanganyikiwa na bidhaa za kibiashara kwa kutumia neno la Kiingereza "*Ring*", programu ilipitisha jina lake la sasa: Jami. Tangu wakati huo, imeendelea kubadilika kama jukwaa la mawasiliano lisilolipishwa, lililogatuliwa na linalofaa kwa faragha.
 
 
 
@@ -50,11 +50,11 @@ Leo, Jami inapatikana kwenye mifumo mingi. Inasifika kwa utendakazi wake, wepesi
 
 
 
-- Ni programu huria na haina malipo kabisa**, kwa hivyo unaweza kuitumia bila gharama yoyote.
-- Kamilisha kwa vipengele muhimu**: programu hii hukuruhusu kuchukua fursa ya chaguo nyingi, kutokana na uwezo wa kuongeza programu jalizi kwa urahisi kutoka kwenye duka. Inawezekana hata kuunda viendelezi vyako vya vipengele vinavyofaa zaidi mahitaji yako.
-- Rahisi kutumia na Interface angavu**: licha ya vipengele vingi vinavyotolewa na Jami, bado ni rahisi sana kufahamu.
-- Usalama thabiti**: Jami inajumuisha algoriti ya hali ya juu ya usimbaji fiche ambayo inahakikisha usalama wa mawasiliano yako huku ikiheshimu faragha yako.
-- Inapatikana kwa kiwango cha juu na haraka**: inatoa mawasiliano rahisi hata wakati kipimo data ni chache, kwa ajili ya kuboresha urafiki wa mtumiaji.
+- **Ni programu huria na haina malipo kabisa**, kwa hivyo unaweza kuitumia bila gharama yoyote.
+- **Kamilisha kwa vipengele muhimu**: programu hii hukuruhusu kuchukua fursa ya chaguo nyingi, kutokana na uwezo wa kuongeza programu jalizi kwa urahisi kutoka kwenye duka. Inawezekana hata kuunda viendelezi vyako vya vipengele vinavyofaa zaidi mahitaji yako.
+- **Rahisi kutumia na Interface angavu**: licha ya vipengele vingi vinavyotolewa na Jami, bado ni rahisi sana kufahamu.
+- **Usalama thabiti**: Jami inajumuisha algoriti ya hali ya juu ya usimbaji fiche ambayo inahakikisha usalama wa mawasiliano yako huku ikiheshimu faragha yako.
+- **Inapatikana kwa kiwango cha juu na haraka**: inatoa mawasiliano rahisi hata wakati kipimo data ni chache, kwa ajili ya kuboresha urafiki wa mtumiaji.
 
 
 
@@ -192,7 +192,7 @@ Mara tu unapoanzisha programu, utakuwa na chaguo la kuunda akaunti au kuendelea 
 
 
 
-Kufungua akaunti ya Jami ni rahisi kiasi. Huhitaji barua pepe ya Address au nambari ya simu: Jami hukusanya maelezo ya chini tu. Ukipenda, unaweza kusajili jina la mtumiaji (pak) linaloelekeza kwenye *Kitambulisho chako cha Jami* (alama ya kidole cha kriptografia). Muungano wa *lakabu ↔ Jami ID* umechapishwa kwenye seva ya jina chaguo-msingi (inayoweza kubadilishwa / inayojipangisha), kwa hivyo lakabu si lazima liwe la lazima.
+Kufungua akaunti ya Jami ni rahisi kiasi. Huhitaji barua pepe ya Address au nambari ya simu: Jami hukusanya maelezo ya chini tu. Ukipenda, unaweza kusajili jina la mtumiaji (pak) linaloelekeza kwenye *Kitambulisho chako cha Jami* (alama ya kidole cha kriptografia). Muungano wa *lakabu ↔ Jami ID* umechapishwa kwenye  server ya jina chaguo-msingi (inayoweza kubadilishwa / inayojipangisha), kwa hivyo lakabu si lazima liwe la lazima.
 
 
 
@@ -308,7 +308,7 @@ Mara tu nenosiri limeingizwa, kifaa kitaunganisha kiotomatiki kwenye akaunti na 
 
 
 
-## Ongeza kiendelezi kwa Jami
+## Ongeza extension kwa Jami
 
 
 
@@ -338,9 +338,9 @@ Jami pia hutoa **vipengele vya hali ya juu** kwa watumiaji wanaotaka kwenda mbal
 
 
 
-- Unda mahali pa kukutana**: Kipengele hiki hukuruhusu kuunda **mahali pa kukutana** kwa mawasiliano yako, muhimu kwa kupanga vipindi salama au ubadilishanaji kati ya watumiaji kadhaa.
-- Unganisha kwenye seva ya Jami**: Unaweza kuunganisha Jami kwenye **seva ya Jami**, ambayo inaweza kuboresha utendakazi au upatikanaji wa mawasiliano, hasa katika mazingira ya kitaaluma.
-- Sanidi akaunti ya SIP**: Unaweza kusanidi **akaunti ya SIP** (Itifaki ya Kuanzisha Kipindi), kukuwezesha kuunganisha Jami na mifumo iliyopo ya simu au kupiga simu.
+- **Unda mahali pa kukutana**: Kipengele hiki hukuruhusu kuunda **mahali pa kukutana** kwa mawasiliano yako, muhimu kwa kupanga vipindi salama au exchange kati ya watumiaji kadhaa.
+- **Unganisha kwenye  server ya Jami**: Unaweza kuunganisha Jami kwenye **server ya Jami**, ambayo inaweza kuboresha utendakazi au upatikanaji wa mawasiliano, hasa katika mazingira ya kitaaluma.
+- **Sanidi akaunti ya SIP**: Unaweza kusanidi **akaunti ya SIP** (Itifaki ya Kuanzisha Kipindi), kukuwezesha kuunganisha Jami na mifumo iliyopo ya simu au kupiga simu.
 
 
 
