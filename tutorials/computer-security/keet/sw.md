@@ -1,12 +1,12 @@
 ---
 name: Keet
-description: Gumzo la rika-kwa-rika
+description: Gumzo la Peer-to-peer
 ---
 ![cover](assets/cover.webp)
 
 
 
-Keet ni programu ya ujumbe wa papo hapo iliyoundwa kufanya kazi bila seva yoyote. Ilizinduliwa mwaka wa 2022 na Holepunch (kampuni inayofadhiliwa na Tether na Bitfinex), programu inategemea kabisa mtandao wa rika-kwa-rika na ina mkabala uliogawanyika kwa kiasi kikubwa: ujumbe, simu na faili hubadilishwa moja kwa moja kati ya watumiaji, bila wapatanishi.
+Keet ni programu ya ujumbe wa papo hapo iliyoundwa kufanya kazi bila seva yoyote. Ilizinduliwa mwaka wa 2022 na Holepunch (kampuni inayofadhiliwa na Tether na Bitfinex), programu inategemea kabisa mtandao wa peer-to-peer na ina mkabala uliogawanyika kwa kiasi kikubwa: ujumbe, simu na faili hubadilishwa moja kwa moja kati ya watumiaji, bila wapatanishi.
 
 
 
@@ -18,7 +18,7 @@ Keet husimba mawasiliano yote kwa njia fiche kutoka mwisho hadi mwisho na hauliz
 
 
 
-Kwa sasa (Aprili 2025), Keet sio chanzo wazi kabisa. Baadhi ya msimbo wa chanzo unapatikana kwenye [hazina ya GitHub ya Holepunch](https://github.com/holepunchto), hasa vipengele vya siri na mtandao, lakini mteja Interface bado. Holepunch, hata hivyo, imetangaza nia yake ya kufanya programu nzima kuwa chanzo wazi hatimaye. Kulingana na wakati utagundua mafunzo haya, hii inaweza kuwa tayari imefanywa.
+Kwa sasa (Aprili 2025), Keet sio chanzo wazi kabisa. Baadhi ya msimbo wa chanzo unapatikana kwenye [hazina ya GitHub ya Holepunch](https://github.com/holepunchto), hasa vipengele vya siri na mtandao, lakini Client Interface bado. Holepunch, hata hivyo, imetangaza nia yake ya kufanya programu nzima kuwa chanzo wazi hatimaye. Kulingana na wakati utagundua mafunzo haya, hii inaweza kuwa tayari imefanywa.
 
 
 
@@ -169,7 +169,7 @@ Bonyeza kitufe cha "*Angalia kifungu cha maneno*" ili kuonyesha maneno yako ya k
 
 
 
-Ili kuwasiliana kwenye Keet, unahitaji kuunda "*Vyumba*". Ili kufanya hivyo, bofya kwenye icon ya penseli kwenye kona ya juu ya kulia ya Interface.
+Ili kuwasiliana kwenye Keet, unahitaji kuunda "*Room*". Ili kufanya hivyo, bofya kwenye icon ya penseli kwenye kona ya juu ya kulia ya Interface.
 
 
 
@@ -185,15 +185,15 @@ Chagua "*Gumzo la kikundi kipya*".
 
 
 
-Chagua jina na maelezo ya "*Chumba* chako", kisha ubofye "*Unda gumzo la kikundi*".
+Chagua jina na maelezo ya "*Room* yako", kisha ubofye "*Unda gumzo la kikundi*".
 
 
-
+a
 ![Image](assets/fr/14.webp)
 
 
 
-"*Chumba*" chako sasa kimeundwa. Bofya aikoni ya "+*" iliyo juu kulia ili kuwaalika washiriki.
+"*Room*" chako sasa kimeundwa. Bofya aikoni ya "+*" iliyo juu kulia ili kuwaalika washiriki.
 
 
 
@@ -209,7 +209,7 @@ Bainisha haki unazotoa kwa wanachama wapya kupitia kiungo cha mwaliko, pamoja na
 
 
 
-Keet ita generate kiungo cha kujiunga na "*Chumba* chako". Unaweza kuinakili na kuishiriki, au msimbo wake wa QR uchanganuliwe na watu unaotaka kuwaalika.
+Keet ita generate kiungo cha kujiunga na "*Chumb* chako". Unaweza kuinakili na kuishiriki, au msimbo wake wa QR uchanganuliwe na watu unaotaka kuwaalika.
 
 
 
@@ -317,7 +317,7 @@ Kwenye kifaa cha pili, kamilisha mchakato kwa kubofya "*Unganisha vifaa*".
 
 
 
-Sasa unaweza kufikia "*Chumba*" na mazungumzo yako yote kutoka kwenye kifaa hiki kipya.
+Sasa unaweza kufikia "*room*" na mazungumzo yako yote kutoka kwenye kifaa hiki kipya.
 
 
 
