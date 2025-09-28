@@ -1,5 +1,5 @@
 ---
-name: open-node
+name: Open Node
 
 description: Sanidi Open Node kwa biashara yako ya mtandaoni
 
