@@ -61,7 +61,7 @@ Picha ya Spinoza
 
 
 
-Kozi hizi zinatokana na insha zangu mbili kuhusu somo, "Dini ya kweli ya Spinoza" na "Bitcoin, injili ya uhuru", inayopatikana katika karatasi ama mtandaoni au moja kwa moja kutoka kwa tovuti yangu, na kidijitali kwenye Amazon Kindle.
+Kozi hizi zinatokana na insha zangu mbili kuhusu somo, "Dini ya kweli ya Spinoza" na "Bitcoin, injili ya uhuru", inayopatikana katika karatasi ama kwenye mtandao au moja kwa moja kutoka kwa tovuti yangu, na kidijitali kwenye Amazon Kindle.
 
 
 
@@ -81,7 +81,7 @@ Kwa njia hii, tunaweza kuunganisha kati ya falsafa hii ya vitendo ya uhuru - au,
 
 
 
-Na hasa katika kipengele chake cha falsafa, ambayo inatufanya kutafakari kwa usahihi juu ya dhana ya uhuru: uhuru wa kufikiri, kujieleza, kuheshimu faragha na, bila shaka, kwa upande wetu, uhuru wa Exchange.
+Na hasa katika kipengele chake cha falsafa, ambayo inatufanya kutafakari kwa usahihi juu ya dhana ya uhuru: uhuru wa kufikiri, kujieleza, kuheshimu faragha na, bila shaka, kwa upande wetu, uhuru wa kubadilishana.
 
 
 
@@ -100,7 +100,7 @@ Kisha tutaona ni nini falsafa hii mpya ya kimantiki kulingana na ambayo "hakuna 
 
 
 
-Ni wazo kwamba tunaweza tu kuelewa ulimwengu na asili ya mwanadamu kwa suala la kiungo cha causal kati ya mambo, kulingana na ambayo, athari daima ina sababu, na sababu hii yenyewe ni athari ya sababu nyingine na kadhalika, njia yote ya kurudi kwenye sababu ya kwanza, ambayo hatuna upatikanaji na ambayo, kulingana na Spinoza, ni Nature.
+Ni wazo kwamba tunaweza tu kuelewa ulimwengu na asili ya mwanadamu kwa suala la kiungo cha causal kati ya mambo, kulingana na ambayo, athari daima ina sababu, na sababu hii yenyewe ni athari ya sababu nyingine na kadhalika, njia yote ya kurudi kwenye sababu ya kwanza, ambayo hatuna upatikanaji na ambayo, kulingana na Spinoza, ni maumbile.
 
 
 
@@ -124,7 +124,7 @@ Kisha tutaangalia Traité théologico-Politique, iliyochapishwa wakati wa uhai w
 
 
 
-Hatimaye, tutaona ni kwa nini Spinozism ni mapinduzi ya mawazo ya Copernican, na jinsi inavyowakilisha ufafanuzi mpya wa ulimwengu na asili ya binadamu, kwa kusoma udanganyifu 3 wa kimsingi ulioshutumiwa na Spinoza: udanganyifu wa hiari, udanganyifu wa sababu za mwisho au mwisho, na udanganyifu wa kitheolojia.
+Hatimaye, tutaona ni kwa nini Spinozism ni mapinduzi ya mawazo ya Copernican, na jinsi inavyowakilisha ufafanuzi mpya wa ulimwengu na asili ya binadamu, kwa kusoma udanganyifu wa 3 wa kimsingi ulioshutumiwa na Spinoza: udanganyifu wa hiari, udanganyifu wa sababu za mwisho au mwisho, na udanganyifu wa kitheolojia.
 
 
 
