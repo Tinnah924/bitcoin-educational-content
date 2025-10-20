@@ -675,7 +675,7 @@ Kwa upande mwingine, itakuwa ni udanganyifu kuamini kwamba matendo ya mhalifu ka
 
 
 
-Mtazamo huu wa uhuru kama uwezo wa kutenda ndio uhusiano tunaoweza kuufanya na falsafa ya Mwangaza ya karne ya 18. Kulingana na mmoja wa mabalozi wak wakuu, mwanafalsafa Mjerumani Immanuel Kant (1724-1804), Mwangaza ulikuwa njia ya kuwaweka huru wanadamu kutoka katika hali ya ulezi, au kama vile Étienne de la Boétie (1530-1563) angesema, kutoka kwa utumwa wa hiari, ambao wao wenyewe waliwajibika.
+Mtazamo huu wa uhuru kama uwezo wa kutenda ndio uhusiano tunaoweza kuufanya na falsafa ya Mwangaza ya karne ya 18. Kulingana na mmoja wa mabalozi wako wakuu, mwanafalsafa Mjerumani Immanuel Kant (1724-1804), Mwangaza ulikuwa njia ya kuwaweka huru wanadamu kutoka katika hali ya ulezi, au kama vile Étienne de la Boétie (1530-1563) angesema, kutoka kwa utumwa wa hiari, ambao wao wenyewe waliwajibika.
 
 
 
