@@ -538,7 +538,7 @@ Kabla yake, falsafa ya kitamaduni ya Uigiriki ilipendekeza maono yaliyoamriwa, y
 
 
 
-Kosmolojia ya kielimu ya Enzi za Kati, kimsingi kuanzia karne ya 12 na kuendelea, ilikuwa mageuzi kuelekea kusababu zaidi ili kuoanisha akili na imani kueleza ulimwengu ambao bado ulikuwa wa daraja, lakini ambao ulilingana vyema na falsafa ya Kikristo.
+Kosmolojia ya kielimu ya enzi za kati, kimsingi kuanzia karne ya 12 na kuendelea, ilikuwa mageuzi kuelekea kusababu zaidi ili kuoanisha akili na imani kueleza ulimwengu ambao bado ulikuwa wa daraja, lakini ambao ulilingana vyema na falsafa ya Kikristo.
 
 
 
@@ -561,7 +561,7 @@ Lakini ili kuelewa kikamilifu Spinozism, tunahitaji pia kuzingatia muktadha wa R
 
 
 
-Licha ya hatari na lawama za Giordano Bruno (1548-1600) na Galileo, Descartes alianza kutofautisha "kweli na uwongo" na kuoanisha theolojia, falsafa na fizikia. Katika kitabu chake maarufu cha Discourse on Method, kilichochapishwa mwaka wa 1637, Descartes alisema kwamba sababu ndiyo msingi wa ujuzi, ambao kupitia huo wanadamu wanaweza kupata uhuru.
+Licha ya hatari na lawama za Giordano Bruno (1548-1600) na Galileo, Descartes alianza kutofautisha "ukweli na uwongo" na kuoanisha theolojia, falsafa na fizikia. Katika kitabu chake maarufu cha Discourse on Method, kilichochapishwa mwaka wa 1637, Descartes alisema kwamba sababu ndiyo msingi wa ujuzi, ambao kupitia huo wanadamu wanaweza kupata uhuru.
 
 
 
@@ -573,7 +573,7 @@ Kwa kuelezea ulimwengu kulingana na sheria za ulimwengu wote badala ya asili ili
 
 
 
-Lakini kama Mkatoliki, Descartes hata hivyo alianzisha uongozi kati ya wanadamu na aina nyingine ya ukomo wa asili, na hasa kuhusu spishi za wanyama, kile alichokiita "wanyama wa mashine". Na kwa kusema kwamba "hakuna nafsi ambayo, ikiongozwa vyema, haiwezi kupata nguvu kamili juu ya matendo na tamaa zake", Descartes hivyo anadai kwamba wanadamu wana uwezo wa kuanzisha kitu bila chochote, na kwamba mwanadamu, kwa maoni yake, "huepuka sheria za asili", kwamba ana uwezo kamili juu ya matendo yake mwenyewe na msingi wa azimio lake peke yake.
+Lakini kama Mkatoliki, Descartes hata hivyo alianzisha uongozi kati ya wanadamu na aina nyingine za ukomo wa asili, na hasa kuhusu spishi za wanyama, kile alichokiita "wanyama wa mashine". Na kwa kusema kwamba "hakuna nafsi ambayo, ikiongozwa vyema, haiwezi kupata nguvu kamili juu ya matendo na tamaa zake", Descartes hivyo anadai kwamba wanadamu wana uwezo wa kuanzisha kitu bila chochote, na kwamba mwanadamu, kwa maoni yake, "huepuka sheria za asili", kwamba ana uwezo kamili juu ya matendo yake mwenyewe na msingi wa azimio lake peke yake.
 
 
 
@@ -643,7 +643,7 @@ Lakini wakati Spinoza anamshukuru Descartes kwa kufungua njia ya udhibiti wa kim
 
 
 
-Spinoza, kwa upande mwingine, inazingatia kwamba ulimwengu wetu unashikamana na umedhamiriwa kikamilifu, na kwamba kila kitu kinachotokea ni muhimu na ni matokeo ya sababu ya mambo, kulingana na ambayo athari daima ina sababu, na sababu hii yenyewe ni athari ya sababu nyingine, na kadhalika.
+Spinoza, kwa upande mwingine, anazingatia kwamba ulimwengu wetu unashikamana na umepangwa kikamilifu, na kwamba kila kitu kinachotokea ni muhimu na ni matokeo ya sababu ya mambo, kulingana na ambayo athari daima ina sababu, na sababu hii yenyewe ni athari ya sababu nyingine, na kadhalika.
 
 
 
@@ -671,11 +671,11 @@ Bila shaka, tatizo linalojitokeza ni wajibu wa binadamu na matendo yao. tunaweza
 
 
 
-Kwa upande mwingine, itakuwa ni udanganyifu kuamini kwamba matendo ya mhalifu kamwe hayahusiani na uamuzi wake mwenyewe. Ingawa si suala la kuwapa udhuru, ni angalau swali la kujaribu kuwaelewa. Kwa hakika, hivi ndivyo haki inavyofanya: zaidi ya kuadhibu vitendo visivyo halali, ina jukumu la kuona kimbele na kulinda siku zijazo, ndiyo maana uhalifu fulani hauadhibiwi tu bali pia hutendewa, kwa kuzingatia historia ya familia, kijamii na kisaikolojia ya mkosaji.
+Kwa upande mwingine, itakuwa ni udanganyifu kuamini kwamba matendo ya mhalifu kamwe hayahusiani na uamuzi wake mwenyewe. Ingawa si suala la kuwapa udhuru, ni angalau swali la kujaribu kuwaelewa. Kwa hakika, hivi ndivyo haki inavyofanya: zaidi ya kuadhibu vitendo visivyo halali, ina jukumu la kuona mbeleni na kulinda siku zijazo, ndiyo maana uhalifu fulani hauadhibiwi tu bali pia hushughulikiwa, kwa kuzingatia historia ya kifamilia, kijamii na kisaikolojia ya mkosaji.
 
 
 
-Mtazamo huu wa uhuru kama uwezo wa kutenda ndio uhusiano tunaoweza kuufanya na falsafa ya Mwangaza ya karne ya 18. Kulingana na mmoja wa mabalozi wayo wakuu, mwanafalsafa Mjerumani Immanuel Kant (1724-1804), Mwangaza ulikuwa njia ya kuwaweka huru wanadamu kutoka katika hali ya ulezi, au kama vile Étienne de la Boétie (1530-1563) angesema, kutoka kwa utumwa wa hiari, ambao wao wenyewe waliwajibika.
+Mtazamo huu wa uhuru kama uwezo wa kutenda ndio uhusiano tunaoweza kuufanya na falsafa ya Mwangaza ya karne ya 18. Kulingana na mmoja wa mabalozi wak wakuu, mwanafalsafa Mjerumani Immanuel Kant (1724-1804), Mwangaza ulikuwa njia ya kuwaweka huru wanadamu kutoka katika hali ya ulezi, au kama vile Étienne de la Boétie (1530-1563) angesema, kutoka kwa utumwa wa hiari, ambao wao wenyewe waliwajibika.
 
 
 
@@ -687,7 +687,7 @@ Wito wa Kant ni "Fikiria mwenyewe" na "Thubutu kujua", Kilatini maarufu "Sapere 
 
 
 
-Kwa hivyo uwezo wa Spinoza wa kutenda ni uwezo ambao wanadamu wanao ndani yao wenyewe kuelewa hali ya wanyama wao wenyewe, na kuelewa asili na matukio yake, iwe chanya au hasi, kwa kuhusisha na sababu za kusudi, ili tusitegemee maelezo ya maadili ambayo ni ya uwongo na ya uwongo, i.e. maelezo yaliyoundwa kulingana na matamanio yetu. Badala yake, inajumuisha kutafuta kuzifafanua kupitia akili, kwa mtazamo kuelekea ukombozi na uhuru.
+Kwa hivyo, uwezo wa Spinoza wa kutenda ni uwezo ambao wanadamu wanao ndani yao wenyewe wa kuelewa hali ya wanyama wao wenyewe, na kuelewa asili na matukio yake, iwe chanya au hasi, kwa kuhusisha na sababu za kusudi, ili tusitegemee maelezo ya maadili ambayo ni ya uongo na ya kupotosha, yaani maelezo yaliyoundwa kulingana na matamanio yetu. Badala yake, inajumuisha kutafuta kuzifafanua kupitia akili, kwa mtazamo kuelekea ukombozi na uhuru.
 
 
 
@@ -736,7 +736,7 @@ Tuliona katika sura iliyotangulia kwamba udanganyifu wa hiari ni kuamini kwamba 
 
 
 
-Lakini kwa Spinoza (1632-1677), mwanadamu si "dola ndani ya himaya", yaani, yeye si, kinyume na kile Descartes alianzisha (1596-1650), ubaguzi wa asili, na kamwe haachiwi kutoka kwa kupanuka kwa mlolongo wa kuamua wa sababu na athari.
+Lakini kwa Spinoza (1632-1677), mwanadamu si "dola ndani ya himaya", yaani, yeye si, kinyume na kile Descartes alianzisha (1596-1650), ubaguzi wa asili "substance dualism", na kamwe haachiwi kutoka kwa kupanuka kwa mlolongo wa kuamua wa sababu na athari.
 
 
 
@@ -744,7 +744,7 @@ Lakini kwa Spinoza (1632-1677), mwanadamu si "dola ndani ya himaya", yaani, yeye
 
 
 
-Na kwa kuwa Nature, anasema Spinoza, haina mwisho uliowekwa kutoka kwa mtazamo wa maadili, na kwa kuwa wanadamu huwa na makosa ya mawazo yao kwa kuelewa, Wanaifasiri kulingana na kile kinachofaa maslahi yao wenyewe. Hadi wanatoa maana kwa vitu vinavyotokana tu na jinsi wanavyovithamini na kuvihusianisha na wao wenyewe.
+Na kwa kuwa maumbile, anasema Spinoza, hayana mwisho uliowekwa kutoka kwa mtazamo wa maadili, na kwa kuwa wanadamu huwa na makosa ya mawazo yao kwa kuelewa, Wanaifasiri kulingana na kile kinachofaa maslahi yao wenyewe. Hadi wanatoa maana kwa vitu vinavyotokana tu na jinsi wanavyovithamini na kuvihusianisha na wao wenyewe.
 
 
 
@@ -784,7 +784,7 @@ Na hivi ndivyo mwanasayansi wa asili wa Ufaransa Jean-Baptiste de Lamarck (1744-
 
 
 
-Lakini kama Spinoza anavyosema, "udanganyifu wa wanaume hauishii hapo", na kati ya mifano yote ya mawazo ya kiteleolojia ya ujinga, na hatimaye ya kufurahisha, mara nyingi tunataja mfano maarufu wa mwanabiolojia Bernardin de Saint-Pierre (1737-1814). Mkurugenzi huyu wa zamani wa Jumba la Makumbusho la Historia ya Asili la Paris alizingatia umalizio wa asili na mashairi, lyricism na naivety fulani, kwa kuzingatia kwamba melon, kwa mfano, iliundwa kwa madhumuni pekee ya kupendeza familia kubwa, kwa kuwa ngozi yake iliyopigwa ilifanya iwe rahisi kukata vipande sawa.
+Lakini kama Spinoza anavyosema, "udanganyifu wa wanaume hauishii hapo", na kati ya mifano yote ya mawazo ya kijinga ya kiteologia, na hatimaye ya kufurahisha, mara nyingi tunataja mfano maarufu wa mwanabiolojia Bernardin de Saint-Pierre (1737-1814). Mkurugenzi huyu wa zamani wa Jumba la Makumbusho la Historia ya Asili la Paris alizingatia umalizio wa asili na mashairi, lyricism na naivety fulani, kwa kuzingatia kwamba melon, kwa mfano, iliundwa kwa madhumuni pekee ya kupendeza familia kubwa, kwa kuwa ngozi yake iliyopigwa ilifanya iwe rahisi kukata vipande sawa.
 
 
 
