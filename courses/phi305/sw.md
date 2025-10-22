@@ -782,8 +782,7 @@ Na hivi ndivyo mwanasayansi wa asili wa Ufaransa Jean-Baptiste de Lamarck (1744-
 
 
 
-Lakini kama Spinoza anavyosema, "udanganyifu wa wanaume hauishii hapo", na kati ya mifano yote ya mawazo ya kijinga ya kiteolojia, na hatimaye ya kufurahisha, mara nyingi tunataja mfano maarufu wa mwanabiolojia Bernardin de Saint-Pierre (1737-1814).
-Mkurugenzi huyu wa zamani wa Jumba la Makumbusho la Historia ya Asili la Paris alichanganya uchunguzi wa asili na mashairi, ushairi wa kihisia na aina fulani ya naïvety, kwa kuzingatia kwamba tikiti, kwa mfano, iliundwa kwa madhumuni pekee ya kupendeza familia kubwa, kwa kuwa ganda lake lililopigwa mistari liliifanya iwe rahisi kukata vipande sawa.
+Lakini kama Spinoza anavyosema, "udanganyifu wa wanaume hauishii hapo", na kati ya mifano yote ya mawazo ya kijinga ya kiteolojia, na hatimaye ya kufurahisha, mara nyingi tunataja mfano maarufu wa mwanabiolojia Bernardin de Saint-Pierre (1737-1814).Mkurugenzi huyu wa zamani wa Jumba la Makumbusho la Historia ya Asili la Paris alichanganya uchunguzi wa asili na mashairi, ushairi wa kihisia na aina fulani ya naïvety, kwa kuzingatia kwamba tikiti, kwa mfano, iliundwa kwa madhumuni pekee ya kupendeza familia kubwa, kwa kuwa ganda lake lililopigwa mistari liliifanya iwe rahisi kukata vipande sawa.
 
 
 
