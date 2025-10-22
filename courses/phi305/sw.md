@@ -20,8 +20,7 @@ Kozi hii inachunguza uhusiano wa kina kati ya falsafa ya kimapinduzi ya Baruch d
 
 
 
-Tutagundua jinsi Spinoza, baba wa falsafa ya Kutaalamika, alivyokuza maadili ya vitendo ili kutuweka huru kutokana na udanganyifu unaotufunga - hiari, umaliziaji na ushirikina wa kitheolojia. Mbinu yake ya kijiometri na nadharia ya athari inatuonyesha jinsi ya kuelewa mahali petu ulimwenguni na kuelekeza uwepo wetu kwa kile kinachoongeza nguvu zetu za kutenda.
-
+Tutagundua jinsi Spinoza, baba wa falsafa ya Kutaalamika, alivyokuza maadili ya vitendo ili kutuweka huru kutokana na udanganyifu unaotufunga kama vile hiari, umaliziaji na ushirikina wa kitheolojia. Mbinu yake ya kijiometri na nadharia ya athari inatuonyesha jinsi ya kuelewa nafasi yetu katika ulimwengu na kuelekeza uwepo wetu kwenye kile kinachoongeza uwezo wetu wa kutenda.
 
 
 Kisha kozi huchota ulinganifu wa kuvutia kati ya mapinduzi haya ya Copernican ya mawazo na Bitcoin: mifumo miwili ambayo haihitaji imani kipofu wala mamlaka kuu, lakini tu matumizi ya akili. Kama vile Spinozism ilivyokomboa mawazo kutoka kwa mafundisho ya kidini, Bitcoin hukomboa pesa kutoka kwa udhibiti wa serikali, ikitoa aina mpya ya uhuru wa kiuchumi unaotokana na hisabati na cryptography.
@@ -342,7 +341,7 @@ Pili, hakuna swali la kufatalism pia, kwani maumbile hayajapewa nia. Radi, kwa m
 
 
 
-Spinoza hivyo inatetea wazo kwamba ukweli, yaani, maisha ya kila siku yenye vipengele vyema na vibaya, inaeleweka kikamilifu, na kwamba hakuna jambo katika asili ambalo halihusiani na sababu. Bila shaka, hii inazua swali la uovu, hasa uovu kabisa, ambao tutaangalia baadaye kidogo.
+Spinoza hivyo anatetea wazo kwamba ukweli, yaani maisha ya kila siku yenye vipengele vyema na vibaya, unaweza kueleweka kikamilifu, na kwamba hakuna jambo katika asili lisilo na sababu. Bila shaka, hili linazua swali kuhusu uovu, hasa ule uovu mkubwa kabisa, ambao tutaangalia baadaye kidogo.
 
 
 
@@ -358,7 +357,7 @@ Kulingana na Gilles Deleuze (1925-1995), profesa maarufu wa falsafa na mtaalamu 
 
 
 
-Na badala ya kuamua ni nini kilicho sawa au kibaya, maadili huanzisha nini ni nzuri au mbaya kwa asili yetu wenyewe na uwezo wetu, anasema Spinoza, kuhifadhi katika nafsi yetu. Kuwa huru. Kwa hivyo, ni etholojia ya kweli, ambayo ni kusema, sayansi ya njia za kuwa, au, kama Gilles Deleuze anavyofafanua zaidi, sanaa ya kukutana vizuri.
+Na badala ya kuamua nini kilicho sawa au kibaya, maadili yanaanzisha kile kilicho chema au kibaya kulingana na asili yetu wenyewe na uwezo wetu, anasema Spinoza, kuhifadhi katika nafsi yetu ili tuwe huru. Kwa hivyo, hii ni etholojia ya kweli, yaani sayansi ya njia za kuwa, au kama Gilles Deleuze anavyofafanua zaidi, sanaa ya kukutana vizuri.
 
 
 
@@ -530,8 +529,7 @@ Anasema kwamba mwanadamu sio "dola ndani ya himaya" na kwamba, kama vile dunia i
 
 
 
-Kabla yake, falsafa ya kitamaduni ya Uigiriki ilipendekeza maono yaliyoamriwa, ya hali ya juu ya ulimwengu kuelezea ulimwengu, ulimwengu na uzoefu wa mwanadamu. Kulingana na masimulizi ya kizushi, kimsingi ilitafuta kueleza asili ya ulimwengu, ikisisitiza juu ya upatano wa ulimwengu, asili na mwanadamu.
-
+Kabla yake, falsafa ya kitamaduni ya Kigiriki ilipendekeza maono ya hali ya juu na yaliyoamriwa ya ulimwengu ili kuelezea ulimwengu na uzoefu wa mwanadamu. Kulingana na masimulizi ya kifalsafa ya kijadi, falsafa hii kimsingi ililenga kueleza asili ya ulimwengu, ikisisitiza upatano kati ya ulimwengu, asili na mwanadamu.
 
 
 ![image](./assets/fr/3.1.3.webp)
@@ -711,7 +709,7 @@ Hatimaye, inafaa kuashiria kwamba wakati vuguvugu la uhuru tunalokaribia kujadil
 
 
 
-Lakini ukweli ni tofauti kabisa, na mkanganyiko unatokana na tatizo la kisemantiki: kwa kutambua uwezo wa binadamu wa kutenda, na kufanya uchaguzi, huku tukikubali uamuzi wa kimantiki ambao wao ndio lengo lake. Wanaliberali wa kwanza ni, kwa kweli, pia warithi wa Spinoza. Wanachofanana na Spinoza ni imani kwamba wanadamu hawako juu ya maumbile lakini badala yake ni matokeo ya mchakato wa mageuzi ambao unawaweka ndani ya uamuzi, historia inayopita zaidi yao, na inawajibika kwa kiasi kikubwa kwa kile binadamu ni na kile anachofanya.
+Lakini ukweli ni tofauti kabisa, na mkanganyiko huu unatokana na tatizo la kisemantiki: tunapotambua uwezo wa binadamu wa kutenda na kufanya uchaguzi, huku tukikubali pia kwamba uamuzi wa kimantiki ndio lengo lake. Wana-liberali wa kwanza, kwa kweli, ni warithi wa Spinoza. Wanachofanana naye ni imani kwamba wanadamu hawako juu ya maumbile, bali ni matokeo ya mchakato wa mageuzi unaowaweka ndani ya muktadha wa uamuzi na historia, ambayo inapita uwezo wao binafsi na kwa kiasi kikubwa inawajibika kwa kile binadamu ni na anachofanya.
 
 
 
@@ -732,7 +730,7 @@ Hatimaye, ikiwa imani katika hiari ni udanganyifu ambao ni vigumu sana kujiondoa
 
 
 
-Tuliona katika sura iliyotangulia kwamba udanganyifu wa hiari ni kuamini kwamba tunaweza kuanza kitu bila chochote, kwamba mapenzi yetu peke yake yatatuwezesha kuelekeza maisha yetu, na kwamba tungekuwa na uwezo usio na kipimo wa uamuzi. Ni wazo kwamba mwanadamu ana uwezo wa kuvuruga utaratibu wa Maumbile kuliko anavyotii.
+Tuliona katika sura iliyotangulia kwamba udanganyifu wa hiari ni kuamini kuwa tunaweza kuanzisha jambo bila msingi wowote, kwamba mapenzi yetu peke yake yanaweza kutuwezesha kuelekeza maisha yetu, na kwamba tunayo uwezo usio na mipaka wa kufanya maamuzi. Ni wazo linalodai kuwa mwanadamu ana uwezo wa kuvuruga utaratibu wa Maumbile kuliko kutii kwake utaratibu huo.
 
 
 
