@@ -782,7 +782,8 @@ Na hivi ndivyo mwanasayansi wa asili wa Ufaransa Jean-Baptiste de Lamarck (1744-
 
 
 
-Lakini kama Spinoza anavyosema, "udanganyifu wa wanaume hauishii hapo", na kati ya mifano yote ya mawazo ya kijinga ya kiteologia, na hatimaye ya kufurahisha, mara nyingi tunataja mfano maarufu wa mwanabiolojia Bernardin de Saint-Pierre (1737-1814). Mkurugenzi huyu wa zamani wa Jumba la Makumbusho la Historia ya Asili la Paris alizingatia umalizio wa asili na mashairi, lyricism na naivety fulani, kwa kuzingatia kwamba melon, kwa mfano, iliundwa kwa madhumuni pekee ya kupendeza familia kubwa, kwa kuwa ngozi yake iliyopigwa ilifanya iwe rahisi kukata vipande sawa.
+Lakini kama Spinoza anavyosema, "udanganyifu wa wanaume hauishii hapo", na kati ya mifano yote ya mawazo ya kijinga ya kiteolojia, na hatimaye ya kufurahisha, mara nyingi tunataja mfano maarufu wa mwanabiolojia Bernardin de Saint-Pierre (1737-1814).
+Mkurugenzi huyu wa zamani wa Jumba la Makumbusho la Historia ya Asili la Paris alichanganya uchunguzi wa asili na mashairi, ushairi wa kihisia na aina fulani ya naïvety, kwa kuzingatia kwamba tikiti, kwa mfano, iliundwa kwa madhumuni pekee ya kupendeza familia kubwa, kwa kuwa ganda lake lililopigwa mistari liliifanya iwe rahisi kukata vipande sawa.
 
 
 
@@ -798,7 +799,7 @@ Kuamini, au kuwafanya wengine waamini, kinyume chake ni sawa na kuota huku macho
 
 
 
-Hata hivyo, tafsiri hii ya upendeleo ya mfumuko wa bei inatufanya kusahau kwamba, ingawa ni muhimu kwa ajili ya kusimamia uchumi kwa muda mfupi, lakini kwa kweli ni kodi iliyofichwa, ambayo inaongoza kwa muda mrefu tu kwa maafa ya kibinadamu na ya mali, na kufanya mataifa kutokuwa na uwezo wa kutotumia vibaya mamlaka yao. Hivi ndivyo Friedrich Hayek (1899-1992) anaelezea vizuri sana katika insha yake The Road to Serfdom, anapoibua utumwa ambao majimbo hayawezi kujiondoa tena.
+Hata hivyo, tafsiri hii ya upendeleo kuhusu mfumuko wa bei inatufanya tusahau kwamba, ingawa ni muhimu kwa usimamizi wa uchumi kwa muda mfupi, kwa hakika ni aina ya kodi iliyofichwa, ambayo kwa muda mrefu hupelekea maafa ya kibinadamu na ya mali, na kuyafanya mataifa kushindwa kujizuia dhidi ya matumizi mabaya ya mamlaka yao. Hivi ndivyo Friedrich Hayek (1899–1992) alivyoeleza vyema katika insha yake The Road to Serfdom, anapoeleza aina ya utumwa ambao mataifa hayawezi tena kujiondoa.
 
 
 
@@ -872,7 +873,7 @@ Hii ni hatua ya kwanza ya udanganyifu wa kitheolojia.
 
 
 
-Lakini licha ya kiburi chetu cha kujiamini kuwa tuko juu ya Asili, na kufikiria kuwa tunaweza kuanza kitu bila chochote, kwa kweli kila wakati tuko chini ya hali ya kuishi ambayo inaonyesha kwamba, mwishowe, hatutaweza "kuondokana nayo", kama profesa wa falsafa Gilles Deleuze (1925-1995) alivyoweka. Sisi ni watu wa kufa, kama wanyama wote, lakini tunajua.
+Lakini licha ya kiburi chetu cha kujiamini kwamba tuko juu ya Asili, na kufikiri kuwa tunaweza kuanza kitu kutoka kwa chochote, kwa hakika kila wakati tuko chini ya hali ya kuishi inayotuonyesha kwamba, mwishowe, hatutaweza “kuikwepa,” kama alivyosema profesa wa falsafa Gilles Deleuze (1925–1995). Sisi ni viumbe wenye kufa, kama wanyama wote, lakini tofauti ni kwamba tunajua hilo.
 
 
 
@@ -892,7 +893,7 @@ Na kwa kuwa "tuna mwelekeo wa kuamini kwa urahisi kile tunachotarajia", anasema 
 
 
 
-Kwa maneno mengine, "mtu mashuhuri" kulingana na Voltaire (1694-1778), ambaye ushirikina haujawahi kuzaliwa kwa sababu, na daima unalingana na imani isiyo na maana au isiyo na msingi, kinyume na aina yoyote ya busara kwa kuhusisha vitu au vitendo nguvu au nguvu za kiroho ambazo hawana.
+Kwa maneno mengine, "mtu mashuhuri" kulingana na Voltaire (1694-1778), ambaye ushirikina haujawahi kuzaliwa kwa sababu, na daima unalingana na imani isiyo na maana au isiyo na msingi, kinyume na aina yoyote ya busara kwa kuhusisha vitu au vitendo vya nguvu au nguvu za kiroho ambazo hawana.
 
 
 
@@ -924,7 +925,7 @@ Lakini jambo jipya ambalo Spinoza analeta kwa TTP, na ambalo linamfanya kwa njia
 
 
 
-Kwani punde tu mawazo yanapopatikana na kuonyeshwa kwa faragha, bila shaka yataenea katika jamii yote, na hakuna marufuku au udhibiti unaoweza kuzuia kuenea kwao. Mawazo, yawe ya kweli au ya uwongo, mazuri au mabaya, yatazunguka kwa vyovyote vile, na kuyapiga marufuku kunaweza tu kusababisha, kwa muda mrefu, kuasi na kupindua serikali kwa jina la uhuru.
+Kwani punde tu mawazo yanapozaliwa na kuonyeshwa kwa faragha, bila shaka yataenea katika jamii nzima, na hakuna marufuku au udhibiti unaoweza kuzuia uenezaji wake. Mawazo—yawe ya kweli au ya uongo, mazuri au mabaya—yataendelea kusambaa kwa namna yoyote ile, na kuyapiga marufuku kunaweza tu kusababisha, kwa muda mrefu, uasi na hatimaye mapinduzi dhidi ya serikali kwa jina la uhuru.
 
 
 
@@ -982,7 +983,7 @@ Wanafalsafa wa kale waliamini kwamba uovu haukuwepo katika asili, na Socrates (4
 
 
 
-Lakini mapokeo ya kielimu, hasa yale ya Mtakatifu Augustino (354-430), ambayo bado yanaathiri maadili ya Kikristo leo, yalisema kwamba uovu haupo tu, kwamba ni ukweli, lakini kwamba unaweza kuelezwa kwa sababu watu wako huru, kwa sababu wana uwezo wa kufanya uchaguzi kati ya mema na mabaya, na kwamba uovu wanaosababisha ni wajibu wao wenyewe.
+Lakini mapokeo ya kielimu, hasa yale ya Mtakatifu Augustino (354–430), ambayo bado yanaathiri maadili ya Kikristo hadi leo, yalisisitiza kwamba uovu haupo tu kama ukweli, bali unaweza kueleweka kwa msingi wa uhuru wa binadamu kwamba watu wana uwezo wa kuchagua kati ya mema na mabaya, na kwamba uovu wanaoufanya ni jukumu lao binafsi.
 
 
 
@@ -1100,7 +1101,7 @@ Spinoza anachukua mfano wa chuki, ambayo anaona kuwa ni athari ya passiv, akageu
 
 
 
-Yaani tukimchukia mgeni ni kwa sababu tunamhusisha huyu mgeni na fikra tulizonazo juu yake, kwa sababu tusiozifahamu, kwa vile ni mgeni na tofauti kimaumbile. Ni wazo hili la sababu ya nje - wazo ambalo, zaidi ya hayo, daima huhamasisha wajinga kuzungumza vibaya juu ya dhana ambayo hawajui.
+Yaani, tukimchukia mgeni ni kwa sababu tunamhusisha huyu mgeni na fikra tulizonazo juu yake, kwa sababu zisizoeleweka kwetu, kwa vile ni mgeni na tofauti kimaumbile. Ni wazo hili la sababu ya nje — wazo ambalo, zaidi ya hayo, daima huhamasisha wajinga kuzungumza vibaya kuhusu dhana ambayo hawajui.
 
 
 
@@ -1112,7 +1113,7 @@ Hii ni kweli hasa, kwa njia, katika uwanja wa cryptocurrencies.
 
 
 
-Spinoza anasema ikiwa tunaondoa wazo hili hasi la sababu ya nje, si kwa maadili, lakini kwa elimu, kwa huruma, kwa sababu, hasa kwa kuzingatia katika kesi hii juu ya sifa za mgeni huyu, au katika kesi ya Bitcoin, juu ya kipengele chake cha vitendo au manufaa, basi hisia inayohusishwa ya huzuni hupotea na, moja kwa moja, hivyo chuki.
+Spinoza anasema kwamba, ikiwa tunaondoa wazo hasi la sababu ya nje—si kwa maadili, bali kwa elimu, kwa huruma, na kwa sababu, hasa tukizingatia katika kesi hii sifa za mgeni huyu, au katika kesi ya Bitcoin, kipengele chake cha vitendo au manufaa—basi hisia inayohusishwa na huzuni hupotea na, moja kwa moja, chuki hupungua.
 
 
 
@@ -1132,8 +1133,7 @@ Huu ni mfano wa umeme. Kwa sababu umeme unapopiga na kuua watu wasio na hatia, w
 
 
 
-Ingawa kwa Spinoza, bila shaka, mawazo haya yote ya kiteleolojia ni ushirikina tu, sawa na ujinga, kwa kadiri katika mfano huu umeme unaopiga haufanyi chochote, anasema, lakini kueleza kiini cha asili yake yenyewe. Ambayo ni kupiga. Bila, bila shaka, nia yoyote ya maadili ya kuadhibu au kumtuza mtu yeyote.
-
+Ingawa kwa Spinoza, bila shaka, mawazo haya yote ya kiteleolojia ni ushirikina tu, sawa na ujinga, hasa kwa kuwa katika mfano huu umeme unaopiga haufanyi chochote, anasema, isipokuwa kueleza kiini cha asili yake yenyewe, ambacho ni kupiga. Bila, bila shaka, nia yoyote ya maadili ya kuadhibu au kumtuza mtu yeyote.
 
 
 Shukrani kwa mfano huu rahisi, tunaelewa kwamba suluhisho pekee la kujikinga na radi - kwa maneno mengine, kujikomboa kutoka kwa utumwa ambao hatari yake imekuwa ikituwekea siku zote - sio kulalamika juu ya bahati mbaya yetu au juu ya dhuluma inayodhaniwa ya kimungu, wala sio kuweka mbele hoja ndogo ya maadili. Hapana, badala yake, hapa tena, kama kwa chuki, ni suala la kutafakari juu ya kile tunaweza kufanya kutoka kwa mtazamo wa maadili.
@@ -1180,8 +1180,7 @@ Na ndiyo maana Spinozism mara nyingi hujulikana kama "falsafa ya furaha".
 
 
 
-Kama unavyojua sasa, uhuru kulingana na Spinoza ni ufahamu wa uamuzi wetu. Chini ya mwongozo wa akili, na shukrani kwa uwezo wetu wa kutenda, tunaweza kuelewa utaratibu wa sababu ya utumwa, ili tuweze kupigana nao, tusiwateseke tena, na tusitende tena dhidi ya maslahi yetu wenyewe.
-
+Kama unavyojua sasa, uhuru kulingana na Spinoza ni ufahamu wa uamuzi wetu. Chini ya mwongozo wa akili, na shukrani kwa uwezo wetu wa kutenda, tunaweza kuelewa utaratibu wa sababu za utumwa, ili tuweze kupigana nazo, tusiwateseke tena, na tusitende tena dhidi ya maslahi yetu wenyewe.
 
 
 Mwishowe, ufahamu huu unamaanisha kutoishi tena katika nihilism iliyoelezewa baadaye na Friedrich Nietzsche (1844-1900), ambayo watu hujipoteza katika maadili ya kiitikadi, i.e. hadithi za kisiasa au za kidini, kwa sababu hiyo wanakana ukweli, wanajifanya watoto wachanga na kujifanya wasiwe na furaha.
@@ -1231,16 +1230,14 @@ Kwa mfano, Waustria wanaamini kwamba serikali inapojipatia, kwa kulazimishwa, uw
 Kwa nini hii? Kwa sababu daima hujikuta katika namna ya utumwa ambayo inamzuia kufanya hivyo, na hivyo kumsukuma, kama Spinoza angesema, "kuona bora zaidi, kupitishwa ... lakini kufanya mabaya zaidi".
 
 
-Kama Spinozist, Hayek anaelezea katika video kwamba "kwa kuwa mamlaka haya hayawezi kuondolewa bila vurugu, kinachoweza kufanywa ni kutumia hila na kuanzisha dhana mpya ya pesa ambayo serikali haziwezi tena kuizuia". Hoja iliyoungwa mkono na Milton Friedman (1912-2006) katika mahojiano, ambapo naye anajadili aina hii mpya ya sarafu ya kidijitali katika muktadha wa mtandao mchanga.
-
+Kama Spinozist, Hayek anaeleza katika video kwamba “kwa kuwa mamlaka haya hayawezi kuondolewa bila vurugu, kinachoweza kufanywa ni kutumia hila na kuanzisha dhana mpya ya pesa ambayo serikali haziwezi tena kuizuia.” Hoja hii inaungwa mkono na Milton Friedman (1912–2006) katika mahojiano, ambako naye anajadili aina hii mpya ya sarafu ya kidijitali katika muktadha wa mtandao ambao ulikuwa bado mchanga.
 
 
 ![image](./assets/fr/4.3.5.webp)
 
 
 
-Hizi ni hoja za kisiasa na kiuchumi zilizotolewa na cypherpunks wa kwanza, Eric Hughes (1953-), katika "ilani yake ya Cypherpunk", au Timothy May (1951-2018) katika "crypto anarchist manifesto", na ambayo Satoshi Nakamoto itachukua tena.
-
+Hizi ni hoja za kisiasa na kiuchumi zilizotolewa na cypherpunks wa mwanzo, Eric Hughes (1953–) katika Ilani ya Cypherpunk, au Timothy May (1951–2018) katika Crypto Anarchist Manifesto, ambazo baadaye zilirudiwa na Satoshi Nakamoto.
 
 
 ![image](./assets/fr/4.3.6.webp)
@@ -1255,15 +1252,14 @@ Hasa alipoandika kichwa cha habari cha Times cha Januari 3, 2009 katika msingi w
 
 
 
-White Paper iliyochapishwa tarehe 31 Oktoba 2008 inawasilisha Bitcoin kama njia ya kubadilishana thamani kwenye Mtandao bila wahusika wengine wanaoaminika, kwa kuzingatia itifaki iliyogatuliwa. Mapinduzi ya "Copernican" ambayo hatimaye yatawezesha watu kurejesha uwezo wao wa kutenda, yaani uhuru wao, uhuru wao wa kufanya biashara, haki yao ya kumiliki mali na heshima kwa faragha yao.
+White Paper iliyochapishwa tarehe 31 Oktoba 2008 inawasilisha Bitcoin kama njia ya kubadilishana thamani kwenye Mtandao bila wahusika wengine wanaoaminika, kwa kuzingatia protocol iliyogatuliwa. Mapinduzi ya "Copernican" ambayo hatimaye yatawezesha watu kurejesha uwezo wao wa kutenda, yaani uhuru wao, uhuru wao wa kufanya biashara, haki yao ya kumiliki mali na heshima kwa faragha yao.
 
 
 Kwa nini? Kwa sababu Bitcoin huturuhusu kujiondoa kutoka kwa utumwa huu kwa njia ya Spinoza, kwa sababu ya sababu, kwa sababu ya lugha ya Galileo ya hisabati. Na, kama Hayek anapendekeza, bila serikali kuwa na uwezo wa kuipinga. Na kwa amani, bila shuruti au kugeuza imani.
 
 
 
-Kwa kweli, hii ni sambamba ya mwisho nitakayoweka kati ya Spinozism na Bitcoin, ili kuonyesha kwamba hakuna maana katika kushawishi mtu yeyote ambaye hajajiunga na dhana ya Copernican au ya usumbufu isipokuwa kwa sababu, uelewa, udadisi au nia nzuri.
-
+Kwa kweli, hii ndiyo sambamba ya mwisho nitakayoweka kati ya Spinozism na Bitcoin, ili kuonyesha kwamba hakuna maana ya kumshawishi mtu yeyote ambaye hajajiunga na dhana ya Copernican au ya usumbufu, isipokuwa kwa njia ya sababu, uelewa, udadisi, au nia njema.
 
 
 Si kwa nguvu, si kwa vurugu. Kwa sababu ukweli ni kwamba Copernicus, Galileo, Newton, Darwin, Einstein, Hayek, Spinoza au Satoshi Nakamoto hawakuwahi kutishia mtu yeyote ambaye hakuamini katika mawazo na maandamano yao.
