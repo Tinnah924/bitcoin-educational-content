@@ -732,7 +732,13 @@
             </div>
         </div>
 
-        <!-- Section 3: Leaderboards -->
+        <!-- Section 3: Last Proofreading Contributions -->
+        <div class="section">
+            <h2>🕒 Last Proofreading Contributions</h2>
+            <div id="recent-contributions-list"></div>
+        </div>
+
+        <!-- Section 4: Leaderboards -->
         <div class="section">
             <h2>🏆 Leaderboards</h2>
 
@@ -775,7 +781,7 @@
         // Embedded proofreading data
         const PROOFREADING_DATA = {
   "metadata": {
-    "generated_at": "2025-11-03T15:17:31.678379+00:00",
+    "generated_at": "2025-11-03T15:40:56.919947+00:00",
     "total_courses": 34,
     "total_tutorials": 278,
     "total_languages": 25,
@@ -65785,7 +65791,99 @@
         "H5RV"
       ]
     }
-  }
+  },
+  "recent_contributions": [
+    {
+      "contributor": "NetworkEffect",
+      "content_id": "biz101",
+      "content_name": "BIZ101",
+      "content_type": "course",
+      "language": "en",
+      "date": "2025-10-31",
+      "status": 2
+    },
+    {
+      "contributor": "2raj2raj",
+      "content_id": "biz101",
+      "content_name": "BIZ101",
+      "content_type": "course",
+      "language": "en",
+      "date": "2025-10-31",
+      "status": 2
+    },
+    {
+      "contributor": "rogerbracket",
+      "content_id": "biz101",
+      "content_name": "BIZ101",
+      "content_type": "course",
+      "language": "nl",
+      "date": "2025-10-31",
+      "status": 1
+    },
+    {
+      "contributor": "ProfScofield21",
+      "content_id": "btc101",
+      "content_name": "BTC101",
+      "content_type": "course",
+      "language": "fr",
+      "date": "2025-10-31",
+      "status": 3
+    },
+    {
+      "contributor": "nrak10",
+      "content_id": "btc101",
+      "content_name": "BTC101",
+      "content_type": "course",
+      "language": "fr",
+      "date": "2025-10-31",
+      "status": 3
+    },
+    {
+      "contributor": "my3rdstory",
+      "content_id": "btc101",
+      "content_name": "BTC101",
+      "content_type": "course",
+      "language": "ko",
+      "date": "2025-10-31",
+      "status": 1
+    },
+    {
+      "contributor": "barakana",
+      "content_id": "btc101",
+      "content_name": "BTC101",
+      "content_type": "course",
+      "language": "rn",
+      "date": "2025-10-31",
+      "status": 1
+    },
+    {
+      "contributor": "TinF0ilHat",
+      "content_id": "btc102",
+      "content_name": "BTC102",
+      "content_type": "course",
+      "language": "it",
+      "date": "2025-10-31",
+      "status": 2
+    },
+    {
+      "contributor": "f205sats ",
+      "content_id": "btc102",
+      "content_name": "BTC102",
+      "content_type": "course",
+      "language": "it",
+      "date": "2025-10-31",
+      "status": 2
+    },
+    {
+      "contributor": "bitcoinindo21",
+      "content_id": "btc102",
+      "content_name": "BTC102",
+      "content_type": "course",
+      "language": "id",
+      "date": "2025-10-31",
+      "status": 1
+    }
+  ]
 };
 
         // Global state
@@ -65817,6 +65915,9 @@
 
             // Setup event listeners
             setupEventListeners();
+
+            // Render recent contributions
+            renderRecentContributions();
 
             // Render leaderboards
             renderCourseContributors();
@@ -66275,6 +66376,43 @@
                         </div>
                     </div>
                     <div class="contribution-count">${contributor.total_contributions}</div>
+                `;
+
+                contentDiv.appendChild(div);
+            });
+        }
+
+        function renderRecentContributions() {
+            const { recent_contributions, languages } = PROOFREADING_DATA;
+            const contentDiv = document.getElementById('recent-contributions-list');
+
+            if (!recent_contributions || recent_contributions.length === 0) {
+                contentDiv.innerHTML = '<div class="empty-state">No recent contributions found</div>';
+                return;
+            }
+
+            contentDiv.innerHTML = '';
+
+            recent_contributions.forEach((contribution) => {
+                const lang = languages.find(l => l.code === contribution.language);
+                const languageName = lang ? lang.name : contribution.language.toUpperCase();
+                const date = new Date(contribution.date);
+                const formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                const statusText = ['Needs Proofreading', 'In Progress (1)', 'In Progress (2)', 'Complete (3+)'][contribution.status];
+
+                const div = document.createElement('div');
+                div.className = 'contribution-item';
+                div.innerHTML = `
+                    <div class="contribution-header">
+                        <div class="contribution-title">${contribution.content_name} (${contribution.content_id})</div>
+                        <span class="status-badge status-${contribution.status}">${statusText}</span>
+                    </div>
+                    <div class="contribution-details">
+                        <span>👤 <strong>${contribution.contributor}</strong></span>
+                        <span>🌐 ${languageName} (${contribution.language.toUpperCase()})</span>
+                        <span>📝 ${contribution.content_type}</span>
+                        <span>📅 ${formattedDate}</span>
+                    </div>
                 `;
 
                 contentDiv.appendChild(div);

@@ -230,6 +230,47 @@ def calculate_language_stats(courses, tutorials):
     return result
 
 
+def get_recent_contributions(courses, tutorials, limit=10):
+    """Get the most recent contributions with dates across all content."""
+    recent_contributions = []
+
+    # Process courses
+    for course in courses:
+        for pr in course['proofreading']:
+            if pr['last_date'] and pr['contributors']:
+                for contributor in pr['contributors']:
+                    if contributor not in EXCLUDED_CONTRIBUTORS:
+                        recent_contributions.append({
+                            'contributor': contributor,
+                            'content_id': course['id'],
+                            'content_name': course['name'],
+                            'content_type': 'course',
+                            'language': pr['language'],
+                            'date': pr['last_date'],
+                            'status': pr['status']
+                        })
+
+    # Process tutorials
+    for tutorial in tutorials:
+        for pr in tutorial['proofreading']:
+            if pr['last_date'] and pr['contributors']:
+                for contributor in pr['contributors']:
+                    if contributor not in EXCLUDED_CONTRIBUTORS:
+                        recent_contributions.append({
+                            'contributor': contributor,
+                            'content_id': tutorial['id'],
+                            'content_name': tutorial['name'],
+                            'content_type': 'tutorial',
+                            'language': pr['language'],
+                            'date': pr['last_date'],
+                            'status': pr['status']
+                        })
+
+    # Sort by date (most recent first) and limit to specified number
+    recent_contributions.sort(key=lambda x: x['date'], reverse=True)
+    return recent_contributions[:limit]
+
+
 def extract_all_data():
     """Extract all proofreading data from courses and tutorials."""
     print("Extracting proofreading data...")
@@ -269,6 +310,9 @@ def extract_all_data():
     # Calculate language statistics
     language_stats = calculate_language_stats(courses, tutorials)
 
+    # Get recent contributions
+    recent_contributions = get_recent_contributions(courses, tutorials, limit=10)
+
     # Prepare languages list
     languages = [{'code': code, 'name': name} for code, name in sorted(LANGUAGE_NAMES.items())]
 
@@ -292,7 +336,8 @@ def extract_all_data():
         'categories': categories,
         'course_contributor_stats': course_contributor_stats,
         'tutorial_contributor_stats': tutorial_contributor_stats,
-        'language_stats': language_stats
+        'language_stats': language_stats,
+        'recent_contributions': recent_contributions
     }
 
     print(f"Extracted {len(courses)} courses and {len(tutorials)} tutorials")
@@ -1041,7 +1086,13 @@ def generate_html(data):
             </div>
         </div>
 
-        <!-- Section 3: Leaderboards -->
+        <!-- Section 3: Last Proofreading Contributions -->
+        <div class="section">
+            <h2>🕒 Last Proofreading Contributions</h2>
+            <div id="recent-contributions-list"></div>
+        </div>
+
+        <!-- Section 4: Leaderboards -->
         <div class="section">
             <h2>🏆 Leaderboards</h2>
 
@@ -1113,6 +1164,9 @@ def generate_html(data):
 
             // Setup event listeners
             setupEventListeners();
+
+            // Render recent contributions
+            renderRecentContributions();
 
             // Render leaderboards
             renderCourseContributors();
@@ -1571,6 +1625,43 @@ def generate_html(data):
                         </div>
                     </div>
                     <div class="contribution-count">${{contributor.total_contributions}}</div>
+                `;
+
+                contentDiv.appendChild(div);
+            }});
+        }}
+
+        function renderRecentContributions() {{
+            const {{ recent_contributions, languages }} = PROOFREADING_DATA;
+            const contentDiv = document.getElementById('recent-contributions-list');
+
+            if (!recent_contributions || recent_contributions.length === 0) {{
+                contentDiv.innerHTML = '<div class="empty-state">No recent contributions found</div>';
+                return;
+            }}
+
+            contentDiv.innerHTML = '';
+
+            recent_contributions.forEach((contribution) => {{
+                const lang = languages.find(l => l.code === contribution.language);
+                const languageName = lang ? lang.name : contribution.language.toUpperCase();
+                const date = new Date(contribution.date);
+                const formattedDate = date.toLocaleDateString('en-US', {{ year: 'numeric', month: 'short', day: 'numeric' }});
+                const statusText = ['Needs Proofreading', 'In Progress (1)', 'In Progress (2)', 'Complete (3+)'][contribution.status];
+
+                const div = document.createElement('div');
+                div.className = 'contribution-item';
+                div.innerHTML = `
+                    <div class="contribution-header">
+                        <div class="contribution-title">${{contribution.content_name}} (${{contribution.content_id}})</div>
+                        <span class="status-badge status-${{contribution.status}}">${{statusText}}</span>
+                    </div>
+                    <div class="contribution-details">
+                        <span>👤 <strong>${{contribution.contributor}}</strong></span>
+                        <span>🌐 ${{languageName}} (${{contribution.language.toUpperCase()}})</span>
+                        <span>📝 ${{contribution.content_type}}</span>
+                        <span>📅 ${{formattedDate}}</span>
+                    </div>
                 `;
 
                 contentDiv.appendChild(div);
