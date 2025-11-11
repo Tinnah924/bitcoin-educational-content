@@ -157,7 +157,6 @@ Kwenye **Windows**, fungua terminal na utekeleze amri ifuatayo:
 CertUtil -hashfile [file path] SHA256 | findstr /v "hash"
 ```
 
-
 Badilisha `[njia ya faili]` na eneo la kisakinishi.
 
 
@@ -173,7 +172,7 @@ Terminal itarudisha Hash ya programu iliyopakuliwa.
 Fahamu, kwa programu fulani, inaweza kuwa muhimu kutumia utendaji tofauti wa Hash kuliko SHA256. Katika kesi hii, badilisha tu jina la kazi ya Hash katika amri.
 
 
-Kisha linganisha matokeo na thamani inayolingana katika faili "* sparrow-2.0.0-manifest.txt*".
+Kisha linganisha matokeo na thamani inayolingana katika faili "*sparrow-2.0.0-manifest.txt*".
 
 
 ![GnuPG](assets/notext/13.webp)
@@ -228,10 +227,10 @@ sparrow_2.0.0-1_amd64.deb: OK
 Sasa umehakikishiwa kuwa programu uliyopakua ni ya kweli na dhabiti. Unaweza kuendelea na usakinishaji wake kwenye mashine yako.
 
 
-Ikiwa umepata mafunzo haya kuwa ya manufaa, ningeshukuru kidole gumba hapa chini. Jisikie huru kushiriki nakala hii kwenye mitandao yako ya kijamii. Asante sana!
+Kama umeona mafunzo haya kuwa ya msaada, nitashukuru sana ukiweka alama ya kupenda hapa chini. Usisite kushiriki makala hii kwenye mitandao yako ya kijamii. Asante sana.
 
 
-Ninapendekeza pia kuangalia mafunzo haya mengine kwenye VeraCrypt, programu ambayo hukuruhusu kusimba na kusimbua vifaa vya kuhifadhi.
+Ninapendekeza pia kuangalia mafunzo haya mengine kwenye VeraCrypt, programu ambayo hukuruhusu kuficha  na kufichua vifaa vya kuhifadhi.
 
 
 https://planb.network/tutorials/computer-security/data/veracrypt-d5ed4c83-7c1c-4181-95ea-963fdf2d83c5
