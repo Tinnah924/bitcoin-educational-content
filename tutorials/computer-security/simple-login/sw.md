@@ -1,218 +1,400 @@
 ---
-name: Simple Login
-description: Utambulisho unaolindwa na lakabu
+name: SimpleX Chat
+description: Sanduku la kwanza la barua bila kitambulisho cha mtumiaji
 ---
 ![cover](assets/cover.webp)
 
-## Ingia = barua pepe = kupoteza faragha
 
 
-Katika ulimwengu wa kidijitali, imekuwa desturi ya kawaida kuwa na akaunti kwa kila jukwaa ambalo mtu anataka kufikia.
+Ilizinduliwa mnamo 2021, SimpleX ni programu ya bure ya ujumbe wa papo hapo yenye mbinu tofauti kabisa ya faragha. Tofauti na WhatsApp, Signal na huduma zingine za kati za kutuma ujumbe, SimpleX ni bora kwa usimamizi wake wa watumiaji: hakuna vitambulisho vya watumiaji, majina bandia, nambari au vitufe vinavyoonekana vya umma. Ukosefu huu wa jumla wa vitambulisho hufanya iwe vigumu kabisa kuhusisha watumiaji, na hivyo kuhakikisha kiwango cha juu cha faragha.
 
-Kila moja ya huduma hizi inahitaji kuingia, kwa kawaida huhusishwa na jozi _jina la mtumiaji_ na _nenosiri_. Mara nyingi, jina la mtumiaji ni barua pepe ya kibinafsi ya mtumiaji.
 
 
-Unapotumia barua pepe ya kibinafsi ya Address kwa kila kuingia, ni rahisi kufikiria tokeo la kwanza: kupoteza usiri, ambayo inakuwa kuu ikiwa Address inaundwa na _name.surname@serviceemail.com_.
+Tofauti na programu nyingi zinazohitaji akaunti au nambari ya simu, SimpleX hukuruhusu kuanzisha mazungumzo kwa kushiriki kiungo au msimbo wa QR wa muda mfupi. Kila kiungo huunda chaneli ya kipekee iliyosimbwa kwa njia fiche, na unaowasiliana nao hawawezi kupata au kuwasiliana tena na mtumaji bila Exchange dhahiri. Ujumbe husimbwa kwa njia fiche kutoka mwisho hadi mwisho, na hupitia server za relay ambazo huzifuta baada ya kutumwa, na usione mtumaji au mpokeaji, wala funguo zao.
 
 
-Wasanidi programu wa zana huria wameunda mfululizo wa vyumba vya programu, vilivyozaliwa kwa usahihi ili kuwafanya watumiaji kurejesha faragha kidogo: bado wataingia, lakini kwa kutumia lakabu badala ya zana inayofichua utambulisho wao wa faragha.
 
+![Image](assets/fr/01.webp)
 
-Rahisi zaidi, kati ya zile ambazo nimejaribu binafsi na bado ninaendelea kujaribu, ni [Simple Login](https://simplelogin.io/).
 
 
-## Lakabu
+Usanifu wa mtandao umegatuliwa kabisa na haujashirikishwa: server hazijuani, hazihifadhi saraka ya kimataifa, na hazipangishi wasifu wowote wa watumiaji. Bora zaidi, kila mtumiaji anaweza kupeleka na kutumia server yake ya relay, huku akibakia kuingiliana na wale walio kwenye mtandao wa umma.
 
 
-Lakabu ya barua pepe inabadilisha kwa urahisi sehemu ya _name.surname_ ya barua pepe yako Address na jina la kubuni. Kwa mtumiaji, hakuna kinachobadilika; huduma ya jina lak hutuma barua pepe kwenda na kutoka kwa Address ya kawaida kama kawaida. Kila mtu anaweza kuendelea kutumia kikasha chake kama anavyofanya siku zote, lakini badala ya kuonyesha jina lake halisi, kitaonyesha mtumiaji asiyetambulika. Huduma hii inahitaji kuwa na ufanisi, na hadi sasa, Kuingia kwa Rahisi kumethibitishwa kuwa hivyo.
 
+SimpleX ni chanzo wazi kabisa (wateja, protocol na server), inapatikana kwenye Android, iOS, Linux, Windows na macOS. Hifadhi yake ya ndani imesimbwa kwa njia fiche na kubebeka, kwa hivyo unaweza kuhamisha wasifu kutoka kwa kifaa kimoja hadi kingine bila kutegemea server ya kati.
 
-Unapotembelea Tovuti Rahisi ya Kuingia kwa mara ya kwanza, lazima uunde akaunti (hapa pia!), Ukitumia barua pepe "rasmi" Address. Hapa, lazima uweke barua pepe, nenosiri, na kutatua captcha.
 
 
-![image](assets/it/02.webp)
+SimpleX inaunganisha vipengele vyote vya kawaida vya programu za kutuma ujumbe. Walakini, ergonomics yake inabaki imara kidogo kuliko ile ya WhatsApp au Signal. Inaweza pia kuwa na vikwazo zaidi kutumia, hasa wakati wa kuongeza Address. Kwa hivyo, kwa maoni yangu, ni mbadala inayofaa kwa WhatsApp au Signal kwa watumiaji wanaoweka usiri katika moyo wa vipaumbele vyao, na ambao wamejitayarisha, kwa sababu hiyo, kufanya makubaliano machache kuhusu faraja ya kila siku ya mtumiaji.
 
 
-Kuingia kwa Rahisi hutuma ujumbe wa uthibitishaji kwa barua pepe iliyoonyeshwa Address. Badala ya kubofya kitufe cha uthibitishaji, inashauriwa kunakili kiungo na kukibandika kwenye upau wa Address.
 
+| Programu             | E2EE 1:1       | E2EE vikundi   | Usajili wa faragha  | Leseni ya mteja chanzo-huria | Leseni ya server chanzo-huria | server iliyogawanywa       | Mwaka wa uundaji  |
+| -------------------- | -------------- | -------------- | ------------------- | ---------------------------- | --------------------------- | ------------------------ | ----------------- |
+| WhatsApp             | ✅              | ✅              | ❌                   | ❌                            | ❌                           | ❌                        | 2009              |
+| WeChat               | ❌              | ❌              | ❌                   | ❌                            | ❌                           | ❌                        | 2011              |
+| Facebook Messenger   | ✅              | 🟡 (chaguo)    | ❌                   | ❌                            | ❌                           | ❌                        | 2011              |
+| Telegram             | 🟡 (chaguo)    | ❌              | 🟡                  | ✅                            | ❌                           | ❌                        | 2013              |
+| LINE                 | ✅              | ✅              | ❌                   | ❌                            | ❌                           | ❌                        | 2011              |
+| Signal               | ✅              | ✅              | ❌                   | ✅                            | ✅                           | ❌                        | 2014              |
+| Threema              | ✅              | ✅              | ✅                   | ✅                            | ❌                           | ❌                        | 2012              |
+| Element (Matrix)     | ✅              | ✅              | ✅                   | ✅                            | ✅                           | 🟡 (shirikiano)         | 2016              |
+| Delta Chat           | ✅              | ✅              | ✅                   | ✅                            | N/A                         | 🟡 (kupitia barua pepe) | 2017              |
+| Conversations (XMPP) | ✅              | ✅              | ✅                   | ✅                            | ✅                           | 🟡 (shirikiano)         | 2014              |
+| Session              | ✅              | ✅              | ✅                   | ✅                            | ✅                           | ✅                        | 2020              |
+| SimpleX              | ✅              | ✅              | ✅                   | ✅                            | ✅                           | ✅                        | 2021              |
+| Olvid                | ✅              | ✅              | ✅                   | ✅                            | ❌                           | 🟡(hakuna saraka)       | 2019              |
+| Keet                 | ✅              | ✅              | ✅                   | ❌                            | N/A                         | ✅                        | 2022              |
+| Jami                 | ✅              | ✅              | ✅                   | ✅                            | N/A                         | ✅                        | 2005              |
+| Briar                | ✅              | ✅              | ✅                   | ✅                            | N/A                         | ✅                        | 2018              |
+| Tox                  | ✅              | ✅              | ✅                   | ✅                            | N/A                         | ✅                        | 2013              |
 
-![image](assets/it/03.webp)
+*E2EE = End-to-End Encryption*
 
 
-![image](assets/it/04.webp)
 
+## Sakinisha programu ya SimpleX Chat
 
-Dashibodi Rahisi ya Kuingia hufunguka mara moja, ikiwa na mafunzo mafupi ya urambazaji.
 
 
-![image](assets/it/05.webp)
+SimpleX Chat inapatikana kwenye majukwaa yote. Unaweza kupakua programu moja kwa moja kutoka kwa duka la programu ya simu yako:
 
 
-Ikumbukwe kwamba Kuingia Rahisi huwasha moja kwa moja usajili kwenye jarida, ambalo linaweza kuzima kutoka kwa amri inayofaa.
 
 
-![image](assets/it/06.webp)
+- [Google Play](https://play.google.com/store/apps/details?id=chat.simplex.app);
+- [Duka la Programu](https://apps.apple.com/us/app/simplex-chat-secure-messenger/id1605771084);
+- [F-Droid](https://simplex.chat/fdroid/).
 
 
-## Mipangilio
 
+Kwenye Android, inawezekana pia [kusakinisha kupitia APK](https://github.com/simplex-chat/simplex-chat/releases).
 
-Unaweza kuangalia _Mipangilio_ mara moja ili kugundua vipengele vya huduma. Kuingia kwa Rahisi kunaanza na chaguo zote zinazotumika, ikijumuisha zile _Premium_, ambazo hubakia kutumika kwa siku 10. Mara tu kipindi cha majaribio kitakapokamilika, utakuwa na uwezekano wa kuunda lakabu 10 ukitumia wasifu huu na unaweza kuunganisha moja kwa moja barua pepe yako ya Protoni, kwani Kuingia kwa Rahisi kumepatikana na mtoa huduma wa barua pepe wa Uswizi.
 
 
-![image](assets/it/07.webp)
+Katika mafunzo haya, tutazingatia toleo la simu, lakini tafadhali kumbuka kuwa [matoleo ya eneo-kazi pia yanapatikana](https://simplex.chat/downloads/) (MacOS, Linux na Windows). Inawezekana kuunganisha toleo la eneo-kazi kwa wasifu uliopo wa mtumiaji wa simu, lakini ili ulandanishi huu ufanye kazi, vifaa vyote viwili lazima viunganishwe kwenye mtandao mmoja wa ndani.
 
 
-Unaweza kuweka mfululizo wa vigezo, au uangalie ikiwa barua pepe yako tayari imeingiliwa katika suala la faragha.
 
+![Image](assets/fr/02.webp)
 
-![image](assets/it/08.webp)
 
 
-Hatimaye, unaweza kuhamisha nakala rudufu ya wasifu wako, au kuagiza kutoka kwa mtoa huduma mwingine.
+## Fungua akaunti kwenye SimpleX Chat
 
 
-![image](assets/it/09.webp)
 
+Unapozindua programu kwa mara ya kwanza, bofya kitufe cha "*Unda wasifu wako*".
 
-### Barua pepe ya Kazi
 
 
-Wale wanaotumia barua pepe zilizo na kikoa cha kibinafsi kama barua pepe ya kazini wanaweza kuweka kikoa chao cha faragha.
+![Image](assets/fr/03.webp)
 
 
-![image](assets/it/10.webp)
 
+Chagua jina la mtumiaji, ambalo linaweza kuwa jina lako halisi au jina bandia, kisha ubofye "*Unda*".
 
-Kutoka kwa paneli kuu, kwa kuchagua _Visanduku vya Barua_, inawezekana hata kuongeza anwani zingine za barua pepe na pia kutumia lakabu ambazo zitaundwa ipasavyo. Katika somo hili, kwa mfano, niliamua kuunda wasifu kwa _gmail.com_ kisanduku cha barua, na kisha kuhusisha _proton.me_ Address.
 
 
-![image](assets/it/11.webp)
+![Image](assets/fr/04.webp)
 
 
-Kuongeza Address mpya, haswa ikiwa ni ya mtoa huduma wa Protoni, utaratibu unaoongozwa unaonyesha uwezekano wa kuingia _sudo_ mode, mtumiaji bora. Kuingia kwa Rahisi kutaomba kuingiza nenosiri la kisanduku hiki cha barua ili kuthibitisha Ownership halali.
 
+Ifuatayo, weka frequency ambayo programu itaangalia ujumbe mpya. Ikiwa muda wa matumizi ya betri ya simu yako si tatizo, chagua "*Papo hapo*" ili upokee ujumbe kwa wakati halisi. Ukipendelea kuhifadhi betri yako na kuzuia programu kufanya kazi chinichini, chagua "*Programu inapotumika*": basi utapokea tu ujumbe wakati programu imefunguliwa. Maelewano yanayoweza kutokea ni kuchagua ukaguzi wa mara kwa mara kila baada ya dakika 10.
 
-⚠️ **Mimi binafsi nashauri dhidi ya kufanya hivi**. ⚠️
 
 
-![image](assets/it/12.webp)
+Mara tu umefanya chaguo lako, bofya "*Tumia gumzo*".
 
 
-**Ni bora kufikia kisanduku cha barua pepe -> nakili kiungo kwa uthibitishaji na ukibandike kwenye upau wa URL -> na upate uthibitishaji bila kufichua nenosiri.**
 
+![Image](assets/fr/05.webp)
 
-![image](assets/it/13.webp)
 
 
-Kati ya anwani mbili zilizoingizwa, moja inakuwa chaguo-msingi na nyingine ni ya pili, lakini zinaweza kubadilishwa kwa urahisi, na mpangilio unaweza kutambulika kwa urahisi kwenye dashibodi.
+Sasa umeunganishwa kwenye SimpleX Chat na uko tayari kuanza kupiga gumzo.
 
 
-![image](assets/it/14.webp)
 
+![Image](assets/fr/06.webp)
 
-Baada ya kuongeza barua pepe ya pili Address (hiari), hebu tuone tunachoweza kufanya na Kuingia kwa Rahisi.
 
 
-## Uundaji wa lakabu
+## Kuanzisha SimpleX Chat
 
 
-Katika paneli, chaguo la kwanza la menyu linaitwa _Alias_, ambapo unaweza kuziunda. Una chaguo la lakabu za generate nasibu kwa kubofya kitufe cha Lakabu Nasibu, ambacho ni kitufe cha Green kinachoonyeshwa kwenye picha inayofuata. Kipengele hiki huunda barua pepe ya kipekee na ya kuvutia Address.
 
+Kwanza kabisa, fikia mipangilio kwa kubofya picha yako ya wasifu kwenye kona ya chini kulia, kisha kwenye "*Mipangilio*".
 
-![image](assets/it/24.webp)
 
 
-Hata hivyo, ikiwa ungependa kutofautisha huduma kwa kuzipa majina tofauti, lazima uchague _Lakabu Jipya Maalum_. Kwa kufanya hivyo, unaweza kumpa jina lak jina la huduma unayotaka kufikia (mitandao ya kijamii, watoa huduma, matukio ya mtandaoni, wageni waliokutana na bahati, nk). Mengine yanashughulikiwa na Kuingia kwa Rahisi.
+![Image](assets/fr/07.webp)
 
-Kwa ajili ya kujifurahisha (lakini si kweli, kusema ukweli) niliamua kuunda lakabu kwa benki na kuiita `BANK`. Ingawa ni kweli kwamba benki yangu inajua kila kitu kunihusu, mimi huona kuwa inafurahisha kuwasiliana nao kwa kutumia barua pepe ya Address ambayo hawaielewi. Kuingia kwa Rahisi kwa kweli hutoa jina nasibu, ambalo linatenganishwa na lile tunalochagua kwa `.`
 
 
-Hapa, barua pepe mpya ya Address inaweza kuwa:
+Mipangilio chaguo-msingi kwa ujumla inafaa kwa watumiaji wengi. Hata hivyo, ninapendekeza uende kwenye menyu ya "*Database passphrase & export*". Hapa ndipo unaweza kuhamisha hifadhidata yako ya akaunti ya SimpleX kwa madhumuni ya kuhifadhi nakala.
 
 
-- bank.breeding123@aleeas.com
-- bank.platter456@slmails.com
-- bank.preoccupy789@8shield.net
-- na kadhalika
 
+Unaweza pia kurekebisha passphrase iliyotumiwa kusimba hifadhidata hii. Kwa chaguo-msingi, huzalishwa kwa nasibu na kuhifadhiwa ndani ya kifaa chako. Ukipenda, unaweza kufafanua passphrase yako mwenyewe na ufute hifadhi rudufu ya ndani ya passphrase: basi itabidi uiweke mwenyewe kila wakati unapofungua programu, na vilevile unapohamia kwenye kifaa kingine.
 
-Mtu anaweza kuchagua zaidi ya kikoa kimoja: za umma zinapatikana kwa mpango usiolipishwa, huku zingine, zikionyeshwa kuwa za faragha (ikiwa ni pamoja na _@simplelogin.com_), panua chaguo kwa watumiaji wanaoamua kujisajili kwa mpango unaolipishwa.
 
 
-![image](assets/it/15.webp)
+**Tafadhali kumbuka**: ukichagua chaguo hili, kupotea kwa passphrase kutasababisha upotevu wa kudumu wa wasifu na ujumbe wako wote wa SimpleX.
 
 
-Mara kiambishi na kikoa nasibu kikishachaguliwa, unaweza kuweka kama hii mpya (na ya ajabu) Address inapaswa kutumika kama lakabu kwa moja tu ya visanduku vya barua pepe vya kibinafsi, au kwa zote. Lakabu huwa tayari na amilifu baada ya kubofya _Create_
 
+![Image](assets/fr/08.webp)
 
-![image](assets/it/16.webp)
 
 
-Barua pepe mpya ya Address iliundwa na sasa inaonekana, tayari kutumwa (kwenye benki!) kwa kuinakili tu.
+Pia ninapendekeza uende kwenye menyu ya "*Faragha na usalama*", ambapo unaweza kuwezesha chaguo la "*SimpleX Lock*". Hii inalinda ufikiaji wa programu na nambari ya lock.
 
 
-![image](assets/it/18.webp)
 
+![Image](assets/fr/09.webp)
 
-Katika hatua hii, unaweza kulenga kuunda lakabu kwa kila huduma au jukwaa unalotaka kufikia na ambapo barua pepe inahitajika kama kigezo muhimu cha kuunda akaunti.
 
 
-![image](assets/it/19.webp)
+Hatimaye, menyu za "*Arifa*" na "*Muonekano*" hukuwezesha kubinafsisha SimpleX Chat ili kukidhi mapendeleo yako.
 
 
-Kwa wanaopenda faragha, kuna chaguo pia la generate kutuma barua pepe ya Address kulingana na itifaki ya UUID (sio kwa majina yanayotambulika), ambayo huunda kitambulisho cha kipekee cha 128-bit ambacho hakidhibitiwi na wahusika wakuu. Kipengele hiki, ambacho ni muhimu kwa akaunti nyeti, kinaweza kupatikana katika menyu ya _Random Alias_.
 
+![Image](assets/fr/10.webp)
 
-![image](assets/it/21.webp)
 
-![image](assets/it/22.webp)
 
+## Tuma ujumbe ukitumia SimpleX Chat
 
-Kama unavyoona, hii ni barua pepe ya Address inayohitaji usimamizi unaofaa.
 
 
-Ukibadilisha nia yako na hutaki tena kutumia lakabu, bofya tu kwenye amri _More_ ya kila lakabu binafsi na uchague _Delete_.
+Ili kuungana na mtu mwingine kwenye SimpleX, una chaguzi mbili:
 
 
-![image](assets/it/23.webp)
 
 
-## Usimamizi wa Alias
+- Tumia kiungo cha matumizi moja;
+- Tumia  Address tuli inayoweza kutumika tena.
 
 
-Kuunda lakabu ni rahisi, kama vile usimamizi wao, ambayo inahitaji tu utunzaji na nidhamu kidogo. Trafiki yote, kwa kweli, bado itapitia kisanduku pokezi cha barua pepe ambacho tumefafanua, mwanzoni, kama kikasha rasmi. Arifa na mawasiliano muhimu kutoka kwa majukwaa yataendelea kuwasili kwenye Gmail, Proton, au chochote ambacho mtoa huduma wa barua pepe ni.
 
+Address tuli huruhusu mtu yeyote anayeijua kuwasiliana nawe kwenye SimpleX. Ni Address inayoendelea, ambayo inaweza kutumika mara kadhaa, na watu tofauti, bila kikomo cha muda. Ni uvumilivu huu unaoifanya iwe hatarini zaidi kwa barua taka. Walakini, tofauti na programu zingine za utumaji ujumbe, kufuta SimpleX Address yako inatosha kukomesha barua taka zote, bila kuathiri mazungumzo yaliyopo. Kwa kweli, hii Address inatumiwa tu kuanzisha uunganisho wa awali, na haihitajiki tena mara tu Exchange imeanza.
 
-Matokeo yake, hata hivyo, ni kwamba tumehifadhi Address kuu ambayo, tangu wakati wa kuundwa kwa lakabu, tuko huru kuamua ni nani wa kuifunua na nani tusimwambie.
 
 
-Lakabu hufanya kazi kwa kupokea na kutuma: mtumiaji mwingine hakika atapokea jibu kutoka kwa alias.preoccupy789@8shield.net, ikiwa hili ndilo jina bandia lililochaguliwa kwa mpokeaji huyo.
+Viungo vya matumizi moja, kwa upande mwingine, vinaweza kutumika mara moja tu, na mtumiaji yeyote. Mara tu mwasiliani akiitumia, kiungo huwa batili. Utahitaji generate mpya kwa kila muunganisho mpya.
 
 
-## Faida
 
+### Na Address tuli
 
-Kwa ujumla, kutumia lakabu ni njia mwafaka ya kulinda utambulisho wako na faragha. Anwani za barua pepe mara nyingi hukusanywa na wakala wa data na tovuti ili kufuatilia tabia na tabia za watumiaji. Ingawa lakabu haikufanyi usitafute kabisa, kutumia moja kwa moja ni hatua chanya kuelekea kulinda maelezo yako. Zaidi ya hayo, katika "kijiji chetu cha kimataifa cha dijitali," ambapo udukuzi, uuzaji wa data na ukiukaji wa usalama ni mambo ya kawaida sana, kuna uwezekano mkubwa kwamba barua pepe unayotumia kujiandikisha kwenye tovuti mbalimbali tayari imeathiriwa au kulenga.
 
 
-Jina bandia la kipekee, linalotumiwa kwa kila kuingia, **mara moja huturuhusu kuelewa ni jukwaa gani linalotuma barua taka (au mbaya zaidi) kwenye kisanduku chetu cha barua, kwa sababu barua pepe hiyo inatambuliwa na lakabu inayohusishwa nayo**. Hujui ni kiasi gani cha barua taka na ulaghai hutoka kwa njia zinazojulikana kama njia za kutegemewa, kwa sababu ni za kitaasisi, hadi uanze kutumia lakabu kwa benki, moja kwa huduma za posta, au maalum kwa huduma fulani za lazima za serikali. Mara tu mtumaji wa barua taka (au mbaya zaidi) atakapotambuliwa, utajua kuwa tovuti imeathiriwa, kwa kuchukua kila tahadhari ili kulinda data yote iliyotolewa (fikiria kuhusu kadi za mkopo!) kwenye tovuti hiyo maalum, ambayo inaweza kutambua ukiukaji wiki baadaye.
+Ikiwa ungependa kutumia Address, bofya kwenye picha yako ya wasifu chini kushoto mwa Interface, kisha uchague "*Unda SimpleX Address*". Kisha bonyeza "*Unda SimpleX Address*" tena.
 
 
-Kuhusu Kuingia Rahisi, chombo hiki kina sifa zifuatazo:
 
+![Image](assets/fr/11.webp)
 
 
-- programu ya simu (pia kutoka kwa F-Droid) na ugani wa kivinjari, ili kudhibiti majina ya bandia katika hali yoyote;
-- uthibitishaji wa sababu mbili kwa kila jina jipya, ambalo huongeza kiwango cha uhuru kutoka kwa huduma yenyewe;
-- Usaidizi wa PGP (kwa watumiaji wa _Premium);
-- uundaji rahisi wa kila aina ya pak (desturi, nasibu, na UUID);
-- kati ya mipango ya bure katika sekta, uwezo wa kutumia aliases na masanduku ya barua pepe zaidi "rasmi". Washindani wengine huweka kikomo kwa mmoja tu.
 
+Address yako inayoweza kutumika tena imeundwa. Unaweza kuishiriki na watu wanaotaka kuwasiliana nawe, ama kwa kuwaonyesha msimbo wa QR, au kwa kuwatumia kiungo.
 
-## Hasara
 
 
-- Lakabu 10 huenda zisitoshe ikiwa unapanga kutumia Kuingia kwa Rahisi kwa upana. Katika kesi hii, mpango uliolipwa, ambao ni wa bei nafuu, ni muhimu kuongeza idadi ya majina ya bandia yanayopatikana.
-- Haiwezekani kuunda lakabu na jina maalum na kikoa. Kiambishi kiambishi nasibu, kilichoongezwa baada ya jina tulilochagua, hutengeneza Address ambayo inaweza kuelezewa kuwa ya ajabu kabisa. Mitandao ya kijamii ya kitamaduni kwa kawaida hukataa kutoa akaunti zilizoundwa na aina hii ya anwani za barua pepe. Nostr anarekebisha hii!
-- Ikiwa unatumia lakabu kutuma ujumbe kwa mtu, ni rahisi kuishia kwenye folda ya barua taka ya mpokeaji. Kama hatua ya kwanza, inashauriwa kutumia jina bandia kupokea, kama vile katika kuunda akaunti, kujiandikisha kwa orodha ya wanaopokea barua pepe, n.k.
+![Image](assets/fr/12.webp)
+
+
+
+Bofya kwenye kitufe cha "*Address settings*". Hapa unaweza kusanidi ruhusa zinazohusiana na Address yako. Chaguo la "*Shiriki na Address*" hufanya Address yako ionekane kwenye wasifu wako wa SimpleX. Watu unaowasiliana nao wataweza kuishauri na kuisambaza kwa watu wengine wanaotaka kuwasiliana nawe.
+
+
+
+Chaguo la "*Kukubali kiotomatiki*" hukubali kiotomatiki miunganisho inayoingia kupitia Address yako. Hii ina maana kwamba mtu yeyote aliye na Address yako ataweza kuona wasifu wako na kukutumia ujumbe, isipokuwa kiwasha chaguo la "*Kubali hali fiche*". Hii huficha jina lako na picha ya wasifu wakati muunganisho mpya unafanywa, na kuzibadilisha na jina bandia la nasibu, tofauti kwa kila mpatanishi.
+
+
+
+![Image](assets/fr/13.webp)
+
+
+
+### Na kiungo kinachoweza kutumika tena
+
+
+
+Njia ya pili ya kuunganishwa na mtu ni kuunda kiungo cha wakati mmoja. Ili kufanya hivyo, bofya aikoni ya penseli katika kona ya chini kulia ya Interface, kisha uchague "*Unda kiungo cha wakati 1*".
+
+
+
+Ikiwa mtu unayewasiliana naye amekutumia kiungo, bofya kwenye "*Changanua / Bandika kiungo*" ili kukichanganua au kukibandika.
+
+
+
+![Image](assets/fr/14.webp)
+
+
+
+SimpleX kisha hutoa kiungo cha matumizi moja. Unaweza kuisambaza kwa mwasiliani wako kwa njia yoyote: Exchange halisi, ujumbe mwingine, n.k.
+
+
+
+![Image](assets/fr/15.webp)
+
+
+
+Unaweza pia kuchagua wasifu utakaohusisha na kiungo hiki cha mwaliko. Ili kufanya hivyo, bofya wasifu wako chini kidogo ya msimbo wa QR. Kisha utaweza:
+
+
+
+
+- chagua moja ya wasifu wako uliopo (tutaona jinsi ya kuunda wasifu kadhaa katika sehemu inayofuata);
+- au uchague modi ya "*Incognito*", ambayo huficha jina lako na picha ya wasifu kwa kutumia jina bandia la mwandishi wako.
+
+
+
+Hapa, ninachagua modi ya "*Incognito*".
+
+
+
+![Image](assets/fr/16.webp)
+
+
+
+Address yangu imetumia kiungo. Kwa upande wake, hakuwasha modi ya "*Incognito*", ndiyo maana naona jina lake la wasifu, "*Bob*". Kwa upande mwingine, Bob haoni jina langu halisi "*Loïc Morel*", lakini jina bandia la nasibu, katika kesi hii "*RealSynergy*".
+
+
+
+![Image](assets/fr/17.webp)
+
+
+
+Ningeweza kuanza kupiga gumzo mara moja, lakini kwanza ningependa kuangalia kama ninazungumza na Bob, na si kwa mtu fulani mbaya ambaye huenda alinasa kiungo au kutekeleza shambulio la MITM.
+
+
+
+Ili kufanya hivyo, tutaangalia kiungo chetu cha usalama **nje ya programu**. Hii ni muhimu, kwa sababu katika tukio la shambulio la MITM, uthibitishaji wa ndani unaweza kuathiriwa. Kwa hivyo tumia mfumo mwingine salama wa kutuma ujumbe, au bora zaidi, angalia misimbo kibinafsi.
+
+
+
+Kwenye gumzo, bofya picha ya Bob, kisha kwenye "*Thibitisha nambari ya kuthibitisha*". Bob anapaswa kufanya vivyo hivyo kwa upande wake.
+
+
+
+![Image](assets/fr/18.webp)
+
+
+
+Ikiwa unafanya kazi kwa mbali, linganisha misimbo kwenye mfumo mwingine salama wa utumaji ujumbe (lazima ziwe sawa). Au bora zaidi, ikiwa unaweza kukutana ana kwa ana, changanua msimbo wa QR wa mtu unayewasiliana naye kwa kubofya "*Scan code*".
+
+
+
+![Image](assets/fr/19.webp)
+
+
+
+Uthibitishaji ukifaulu, ikoni ya ngao iliyo na alama ya kuteua itaonekana karibu na jina la mtu unayewasiliana naye. Huu ni uhakikisho wako kwamba unabadilishana na Bob. Uthibitishaji usipofaulu, arifa ya "*Msimbo wa usalama usio sahihi!*" itaonekana.
+
+
+
+![Image](assets/fr/20.webp)
+
+
+
+Sasa unaweza bila malipo ujumbe, simu na faili za Exchange ukitumia Bob, kulingana na ruhusa ulizoweka kwa mazungumzo haya.
+
+
+
+## Geuza wasifu wako wa SimpleX Chat kukufaa
+
+
+
+Mojawapo ya vipengele vyenye nguvu zaidi vya SimpleX ni uwezo wa kudhibiti wasifu kadhaa tofauti kabisa wa mtumiaji, zote zinapatikana kutoka kwa akaunti moja ya ndani. Hii hukuruhusu kutenganisha utambulisho wako tofauti kwa uzuri, bila kutatiza usimamizi wa ujumbe.
+
+
+
+Kwa mfano, unaweza kuunda:
+
+
+
+
+- Wasifu ulio na jina lako halisi na picha halisi ya kubadilishana kwako kitaaluma;
+- Wasifu ulio na jina lako halisi na picha ya kuchekesha kwa mabadilishano ya familia yako;
+- Wasifu ulio na picha ya uwongo na jina bandia la mazungumzo yako ya kibinafsi;
+- Wasifu mwingine usiojulikana wa kuzungumza na watu usiowajua.
+
+
+
+Hiyo ndiyo tutafanya hapa. Ninaanza kwa kusanidi wasifu wangu mkuu, ule unaohusishwa na utambulisho wangu halisi. Ili kufanya hivyo, bonyeza kwenye picha yangu ya wasifu kwenye kona ya chini ya kulia, kisha kwenye jina langu la mtumiaji.
+
+
+
+![Image](assets/fr/21.webp)
+
+
+
+Kisha mimi bonyeza kwenye picha yangu ya wasifu ili kuibadilisha na kuongeza mpya.
+
+
+
+![Image](assets/fr/22.webp)
+
+
+
+Ili kuongeza wasifu mwingine, bofya kwenye menyu ya "*Wasifu wako wa gumzo*".
+
+
+
+![Image](assets/fr/23.webp)
+
+
+
+Hapa utaona wasifu wako wote. Bofya kwenye "*Ongeza wasifu*" ili kuunda mpya.
+
+
+
+![Image](assets/fr/24.webp)
+
+
+
+Kisha chagua maelezo ya wasifu wako mpya: jina, picha, n.k. Hapa, ninatumia jina bandia na picha tofauti kuficha utambulisho wangu halisi katika Exchange fulani.
+
+
+
+![Image](assets/fr/25.webp)
+
+
+
+Kwa kushikilia kidole chako kwenye wasifu, unaweza kuificha. Hii itafanya isionekane kwenye programu, pamoja na mazungumzo yote yanayohusiana. Unaweza pia kuchagua "*Kunyamazisha*" ili kuacha kupokea arifa.
+
+
+
+![Image](assets/fr/26.webp)
+
+
+
+Baada ya kuunda wasifu wako, unaweza kuzidhibiti kwa kujitegemea. Kutoka kwa ukurasa wa nyumbani, chagua tu wasifu unaotumika kuonyesha.
+
+
+
+![Image](assets/fr/27.webp)
+
+
+
+Unapounda kiungo cha mwaliko au Address tuli, sasa unaweza kuchagua ni wasifu upi wa kuuhusisha. Kwa mfano, nikichagua wasifu "*Satoshi Nakamoto*" kwa kuzalisha kiungo na kuutuma kwa Alice, ataona tu utambulisho wangu usiojulikana "*Satoshi Nakamoto*", bila hata kujua utambulisho wangu halisi "*Loïc Morel*". Kinyume chake, nikimpatia kiungo kutoka kwa wasifu wangu halisi, hatakuwa na njia ya kuunganisha kwa wasifu wangu usiojulikana.
+
+
+
+![Image](assets/fr/28.webp)
+
+
+
+Hongera, sasa uko kwenye kasi ya utumaji ujumbe wa SimpleX, njia mbadala bora ya WathsApp!
+
+
+
+Pia ninapendekeza somo hili lingine, ambalo ninawasilisha Threema, mbadala mwingine wa kuvutia wa programu yako ya kutuma ujumbe:
+
+
+
+https://planb.network/tutorials/computer-security/communication/threema-24382d25-df7b-4e96-b332-6968f748df74
