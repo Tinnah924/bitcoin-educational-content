@@ -566,7 +566,7 @@ Kisha usanidi mtandao wa Interface kwa kuingiza maandishi yafuatayo kwenye termi
 
 
 ```shell
-cat <<EOF > /etc/systemd/network/20-wired.network
+cat <<EOF > /etc/systemd/academy/20-wired.network
 [Match]
 Name=nom_de_l_interface
 
