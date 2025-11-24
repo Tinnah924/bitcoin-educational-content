@@ -289,7 +289,7 @@ WebAuthn credential at index 0:
 Relying party ID:       vault.bitwarden.com
 Relying party name:     Bitwarden
 User ID:                6e315ebabc8b6945a253b1c50116538d
-User name:              tutoplanbnetwork@proton.me
+User name:              tutoplanbacademy@proton.me
 User display name:      PBN
 Creation time:          2
 hmac-secret enabled:    True
@@ -353,4 +353,4 @@ Ningependekeza pia mafunzo haya mengine, ambayo tunaangalia suluhisho lingine la
 
 
 
-https://planb.network/tutorials/computer-security/authentication/security-key-61438267-74db-4f1a-87e4-97c8e673533e
+https://planb.academy/tutorials/computer-security/authentication/security-key-61438267-74db-4f1a-87e4-97c8e673533e
