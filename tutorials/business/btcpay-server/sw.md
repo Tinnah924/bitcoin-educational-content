@@ -15,7 +15,7 @@ BTCpay-server ni kifurushi cha programu huria na huria kilichoundwa na Nicolas D
 
 
 
-BTCPay-server bila shaka ndiyo suluhisho la hali ya juu zaidi kwa wafanyabiashara wanaotaka kukubali bitcoin. Ni programu pana zaidi na thabiti katika suala la usalama, uhuru na usiri. Kwa upande mwingine, pia ni ngumu zaidi kufunga na kudumisha. Pia kuna njia mbadala rahisi zaidi: zingine ni za uhifadhi kabisa, kama OpenNode, wakati zingine hutoa maelewano ya kuvutia kati ya urahisi wa utumiaji na uhuru, kama Uswizi Bitcoin Pay :
+BTCPay Server bila shaka ndiyo suluhisho la hali ya juu zaidi kwa wafanyabiashara wanaotaka kukubali Bitcoin. Ni programu pana zaidi na thabiti katika suala la security, autonomy, na privacy. Kwa upande mwingine, pia ni ngumu zaidi kufunga na kudumisha. Pia kuna njia mbadala rahisi zaidi: zingine ni za fully custodial, kama OpenNode, wakati zingine hutoa maelewano ya kuvutia kati ya ease of use na autonomy, kama Swiss Bitcoin Pay :
 
 
 
@@ -29,11 +29,11 @@ Madhumuni ya somo hili ni kukuongoza hatua kwa hatua usakinishaji, usanidi na ut
 
 
 
-Ufumbuzi wa sehemu ya kati wa Bitcoin wa mauzo, kama vile *OpenNode* kwa mfano, hutoa urahisi wa kutumia, lakini hutegemea kampuni nyingine kwa kuwa haziwezi kujiendesha zenyewe na, mara nyingi, ni za umiliki. Ingawa hurahisisha kuweka malipo, huhusisha ada za kamisheni na kuwaweka watumiaji wao kwenye hatari zaidi kuliko suluhisho kama vile BTCPay-server, katika suala la ulinzi wa fedha na usiri.
+Ufumbuzi wa sehemu ya kati wa Bitcoin kwa ajili ya malipo, kama vile OpenNode kwa mfano, hutoa urahisi wa kutumia lakini hutegemea kampuni nyingine kwa kuwa haziwezi kujiendesha zenyewe na mara nyingi ni za umiliki. Ingawa hurahisisha kupokea malipo, huhusisha ada za kamisheni na kuwaweka watumiaji katika hatari kubwa zaidi kuliko suluhisho kama BTCPay Server, hususan katika ulinzi wa fedha na usiri.
 
 
 
-BTCPay-server inalenga wafanyabiashara wa mtandaoni au halisi, mashirika na mashirika yasiyo ya faida yanayotaka kupokea michango katika bitcoins. Pia ni suluhisho bora kwa wamiliki wa mradi na wasanidi wanaotafuta usaidizi wa moja kwa moja kutoka kwa jumuiya yao.
+BTCPay-server inalenga wafanyabiashara wa mtandaoni au halisi, mashirika na mashirika yasiyo ya faida yanayotaka kupokea michango katika bitcoin. Pia ni suluhisho bora kwa wamiliki wa mradi na wasanidi wanaotafuta usaidizi wa moja kwa moja kutoka kwa jumuiya yao.
 
 
 
@@ -49,7 +49,7 @@ Vipengele maalum vya BTCPay-server ni pamoja na:
 
 
 
-Kwa kuwa kichakataji chako mwenyewe cha malipo, unaondoa utegemezi wowote wa mtu mwingine aliye katikati kati yako na wateja wako. Unaweza kukubali malipo moja kwa moja katika bitcoins na ankara za malipo za generate. Hii inahakikisha kwamba wewe au kampuni yako haiwezi kupigwa marufuku na mtu mwingine yeyote. Unatekeleza jukumu la benki na kichakataji malipo, bila kulazimika kulipa kamisheni kwa mpatanishi kwa kila shughuli.
+Kwa kuwa kichakataji malipo chako mwenyewe, unaondoa utegemezi wowote wa third-party kati yako na wateja wako. Unaweza kukubali malipo moja kwa moja katika Bitcoin na kugenerate ankara za malipo. Hii inahakikisha kwamba wewe au kampuni yako haiwezi banned (kupigwa marufuku) na mtu mwingine yeyote. Unatekeleza jukumu la benki na kichakataji malipo, bila kulazimika kulipa commission kwa mpatanishi kwa kila muamala.
 
 
 
@@ -66,13 +66,14 @@ Kwa kuongeza:
 - Usaidizi wa asili wa **Tor** kwa usiri ulioimarishwa;
 - Msaada kwa **ufadhili wa watu wengi**, **POS** na **vifungo vya malipo**;
 - Sambamba na sarafu nyingi;
-- Malipo ya Bitcoin ya moja kwa moja na ya rika-kwa-rika;
+- Malipo ya Bitcoin ya moja kwa moja na ya peer-to-peer;
 - Udhibiti kamili juu ya funguo zako za kibinafsi;
 - Faragha iliyoimarishwa;
 - Usalama ulioimarishwa;
 - Programu ya kujitegemea;
 - Msaada kwa **SegWit** na **Lightning network** ;
-- Kwingineko ya ndani, yenye msingi wa node, pamoja na ujumuishaji wa jalada la maunzi.
+- Msaada kwa **SegWit** na **Lightning network** ;
+- Kwingineko ya ndani, yenye node ya msingi, pamoja na ujumuishaji wa jalada la maunzi.
 
 
 
@@ -138,7 +139,7 @@ Mara tu unapofungua akaunti yako ya Voltage na kuingia kwa mara ya kwanza, utael
 
 
 
-- Sehemu ya **Miundombinu** ya kudhibiti sehemu za Lightning, Bitcoin Core, BTCPay-server na huduma zingine za Bitcoin katika wingu;
+- Sehemu ya **Miundombinu** ya kudhibiti sehemu za Lightning, Bitcoin Core, BTCPay-server na huduma zingine za Bitcoin katika cloud;
 - na sehemu ya **Malipo** inayokuruhusu kufikia API Lightning ya Voltage ili kujumuisha malipo ya Bitcoin kwenye programu zilizobinafsishwa.
 
 
@@ -247,7 +248,7 @@ Mbele kidogo upande wa kulia, utapata taarifa zote unazohitaji kuhusu fundo lako
 
 
 
-Sasa kwa kuwa tumeanzisha lightning node yetu, wacha turudi kusakinisha server  yetu ya BTCPay. Sasa unaweza kubofya kitufe cha **Unda BTCPay**.
+Sasa kwa kuwa tumeanzisha lightning node yetu, wacha turudi kusakinisha  BTCPay server yetu Sasa unaweza kubofya kitufe cha **Unda BTCPay**.
 
 
 
@@ -345,7 +346,7 @@ Sasa hebu tupate **ufunguo uliopanuliwa wa umma**.
 
 
 
-Ili kupokea malipo yako, unahitaji kuunganisha Bitcoin wallet kwenye duka lako. Ili kufanya hivyo, una chaguzi kadhaa:
+Ili kupokea malipo, unahitaji kuunganisha Bitcoin wallet kwenye duka lako. Ili kufanya hivyo, una chaguzi kadhaa:
 
 
 
@@ -728,7 +729,7 @@ Katika menyu ya **Ripoti**, bofya kwenye **Hamisha**: miamala yako yote itahifad
 
 
 
-Uhuru unaotolewa na BTCPay-server (uhuru kamili juu ya pesa zako) ni nguvu halisi. Lakini kwa uhuru huu huja wajibu mkubwa katika masuala ya usalama. Kwa kudhibiti malipo yako mwenyewe, unachukua jukumu la benki yako mwenyewe. Ndiyo maana ni muhimu kufuata mbinu bora za kulinda fedha zako, data yako na miundombinu yako. Hapa kuna mambo makuu ya kuzingatia.
+Uhuru unaotolewa na BTCPay Server (uhuru kamili juu ya pesa zako) ni nguvu halisi. Lakini kwa uhuru huu huja wajibu mkubwa katika masuala ya usalama. Kwa kudhibiti malipo yako mwenyewe, unachukua jukumu la benki yako mwenyewe. Ndiyo maana ni muhimu kufuata mbinu bora za kulinda fedha zako, data yako, na miundombinu yako. Hapa kuna mambo makuu ya kuzingatia.
 
 
 
