@@ -1,18 +1,18 @@
 ---
 name: Kupanga Bitcoin
-goal: Unda maktaba kamili ya Bitcoin kutoka mwanzo na uelewe misingi ya kriptografia ya Bitcoin
+goal: Unda maktaba kamili ya Bitcoin kutoka mwanzo na uelewe misingi ya cryptography ya Bitcoin
 objectives: 
 
- - Tekeleza shughuli za hesabu za uga zenye kikomo na curve ya mviringo katika Python
- - Jenga na uchanganue miamala ya Bitcoin kiprogramu
- - Unda anwani za Testnet na utangaze miamala kwenye mtandao
+ - Tekeleza shughuli za hesabu za uga zenye kikomo na elliptic Curves katika Python
+ - Jenga na uchambue miamala ya Bitcoin kwa kutumia programu.
+ - Unda Testnet address na utangaze miamala kwenye mtandao
  - Boresha misingi ya hisabati inayotokana na modeli ya usalama ya Bitcoin
 
 ---
 # Safari ya hati na programu za Bitcoin
 
 
-Kozi hii ya kina ya siku mbili, inayofundishwa na Jimmy Song, inakupeleka katika misingi ya kiufundi ya Bitcoin kwa kujenga maktaba kamili ya Bitcoin kuanzia mwanzo hadi mwisho. Kuanzia na hisabati muhimu ya sehemu zenye ukomo na mikondo ya duaradufu, utaendelea kupitia uchanganuzi wa shughuli, utekelezaji wa hati na mawasiliano ya mtandao. Kupitia mazoezi ya uwekaji usimbaji kwa vitendo katika daftari za Jupyter, utaunda Testnet Address yako mwenyewe, utengeneze miamala wewe mwenyewe, na kuzitangaza moja kwa moja kwenye mtandao—yote hayo huku ukipata ufahamu wa kina wa kanuni za siri zinazofanya Bitcoin kuwa salama na Trustless.
+Kozi hii ya kina ya siku mbili inayofundishwa na Jimmy Song inakupeleka katika misingi ya kiufundi ya Bitcoin kwa kujenga maktaba kamili ya Bitcoin kuanzia mwanzo hadi mwisho. Ukianzia na hisabati muhimu ya sehemu zenye ukomo na mikondo ya duaradufu, utaendelea kupitia uchanganuzi wa miamala, utekelezaji wa script na mawasiliano ya mtandao. Kupitia mazoezi ya uwekaji usimbaji kwa vitendo katika daftari za Jupyter, utaunda Testnet Address yako, utengeneze miamala wewe mwenyewe, na kuzitangaza moja kwa moja kwenye mtandao—ukipata ufahamu wa kina wa kanuni za siri zinazofanya Bitcoin kuwa salama na trustless.
 
 
 Furahia ugunduzi wako!
@@ -30,11 +30,11 @@ Furahia ugunduzi wako!
 
 Karibu kwenye kozi PRO 202 _**Programming Bitcoin**_, safari ya kina inayokupeleka kutoka hesabu za uwanja wa mwisho hadi kujenga na kutangaza miamala halisi kwenye Mtandao wa Majaribio wa Bitcoin.
 
-Katika kozi hii, utaunda hatua kwa hatua maktaba ya Bitcoin kwa Python huku ukipata misingi ya usimbaji fiche, itifaki, na programu inayohitajika kuelewa kwa usahihi usalama na utendaji wa ndani wa Bitcoin. Mbinu ya PRO 202 ni ya vitendo kabisa: kila dhana inatekelezwa mara moja katika daftari za Jupyter, kuhakikisha kuwa nadharia na msimbo vinatia nguvu kila kimoja.
+Katika kozi hii, utaunda hatua kwa hatua maktaba ya Bitcoin kwa Python huku ukipata misingi ya usimbaji fiche, protocol, na programu inayohitajika kuelewa kwa usahihi usalama na utendaji wa ndani wa Bitcoin. Mbinu ya PRO 202 ni ya vitendo kabisa: kila dhana inatekelezwa mara moja katika daftari za Jupyter, kuhakikisha kuwa nadharia na msimbo vinatia nguvu kila kimoja.
 
 ### Misingi Muhimu ya Kihisabati kwa Bitcoin
 
-Sehemu hii ya kwanza inaweka msingi wa muhimu wa kihisabati. Utatekeleza hesabu za uga wa mwisho na operesheni za mviringo za elliptic (sheria ya kundi, kuongeza, kuzidisha mara mbili, mizidisho ya skalari...) — masharti ya ECDSA. Lengo ni mara mbili: kuelewa muundo wa algebra unaofanya saini za usimbaji uwezowe na kujenga zana za Python zinazotegemeka kwa kuzidisha hizo.
+Sehemu hii ya kwanza inaweka msingi wa muhimu wa kihisabati. Utatekeleza hesabu za uga wa mwisho na operesheni za Elliptic Curves (sheria ya kundi, kuongeza, kuzidisha mara mbili, mizidisho ya skalari...) — masharti ya ECDSA. Lengo ni mara mbili: kuelewa muundo wa algebra unaofanya saini za usimbaji uwezowe na kujenga zana za Python zinazotegemeka kwa kuzidisha hizo.
 
 Kisha utafafanua kwa undani vipengele vya ECDSA: uundaji wa funguo, muundo wa nukta, hashing, uundaji wa sahihi, na uthibitishaji. Sehemu hii inaunganisha moja kwa moja nadharia na vitendo, ikisisitiza maelezo ya utekelezaji na uimara wa mfano wa usalama wa msingi.
 
@@ -46,9 +46,9 @@ Kisha utaweka mtekelezaji mdogo wa _Script_, kupitia opcodes muhimu, na kuthibit
 
 ### Utendaji wa Ndani wa Mtandao wa Bitcoin
 
-Katika sehemu ya tatu, utaweka muamala ndani ya mfumo mpana zaidi: muundo wa bloku, vichwa, ugumu, na utaratibu wa Proof-of-Work. Utashughulikia ujumbe wa itifaki, vichwa vya bloku, na miti ya Merkle.
+Katika sehemu ya tatu, utaweka muamala ndani ya mfumo mpana zaidi: muundo wa block, vichwa, ugumu, na utaratibu wa Proof-of-Work. Utashughulikia ujumbe wa protocol, vichwa vya block, na Merkle tree.
 
-Hatimaye, utajifunza mawasiliano ya nodi za peer-to-peer, uboreshaji wa ujumbe, na utangulizi wa SegWit.
+Hatimaye, utajifunza mawasiliano ya node za peer-to-peer, uboreshaji wa ujumbe, na utangulizi wa SegWit.
 
 Kama ilivyo kwa kila kozi kwenye Plan ₿ Academy, sehemu ya mwisho inajumuisha tathmini iliyoundwa ili kuimarisha uelewa wako. Uko tayari kugundua jinsi Bitcoin inavyofanya kazi ndani na kuandika msimbo unaoiendesha? Hebu tuanze!
 
@@ -64,7 +64,7 @@ Kama ilivyo kwa kila kozi kwenye Plan ₿ Academy, sehemu ya mwisho inajumuisha 
 ![lecture](https://www.youtube.com/watch?v=OFHNu82g1mI)
 
 
-## Mviringo Curve Cryptography
+## Elliptic Curves Cryptography
 
 <chapterId>fbbaf4e1-e292-5973-aae8-5d4ba593b9fb</chapterId>
 
@@ -90,7 +90,7 @@ Kama ilivyo kwa kila kozi kwenye Plan ₿ Academy, sehemu ya mwisho inajumuisha 
 ![lecture](https://www.youtube.com/watch?v=g1wd-qwbHM8)
 
 
-## Ujenzi wa Muamala na Lipa-kwa-Script Hash
+## Ujenzi wa Muamala na Pay-to-Script Hash
 
 
 <chapterId>860f50fc-0c9d-5767-a2d8-2934bf8181ba</chapterId>
@@ -103,14 +103,14 @@ Kama ilivyo kwa kila kozi kwenye Plan ₿ Academy, sehemu ya mwisho inajumuisha 
 <partId>c058ed10-33b0-58e3-8b81-08e1ebede253</partId>
 
 
-## Vitalu vya Bitcoin na Proof of Work
+## Bitcoin blocks na Proof of Work
 
 <chapterId>12d77b0d-7807-52b8-8d86-8e8570300e6d</chapterId>
 
 ![lecture](https://www.youtube.com/watch?v=lJYSM1iLWQU)
 
 
-## Mawasiliano ya Mtandao na Miti ya Merkle
+## Mawasiliano ya Mtandao na Merkle tree
 
 <chapterId>dc88b974-e09d-5ae5-ab0d-efc139fc7ffe</chapterId>
 
