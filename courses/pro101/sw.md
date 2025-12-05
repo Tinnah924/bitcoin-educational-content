@@ -4,12 +4,12 @@ goal: Pata misingi yote ya kuanza kuendeleza kwenye Bitcoin
 objectives:
 - Kuelewa dhana za msingi na teknolojia inayotegemeza Bitcoin
 - Kupata ujuzi wa vitendo katika usalama wa Bitcoin, utengenezaji wa programu, na utawala wa mtandao
-- Kuendeleza ustadi wa Lightning Network na itifaki zake zinazohusiana
-- Kugundua kanuni za kriptografia zinazotegemeza usalama wa miamala na uadilifu wa mtandao
+- Kuendeleza ustadi wa Lightning Network na protocols zake zinazohusiana
+- Kugundua kanuni za cryptography zinazotegemeza usalama wa miamala na uadilifu wa mtandao
 ---
 # Safari katika kozi za maendeleo ya CUBO+ kwa ajili ya Bitcoin!
 
-Nini kinachohitajika kujenga kwenye Bitcoin? Kozi hii ya masaa 20 inakupeleka chini ya uso wa Bitcoin na Mtandao wa Lightning, ikichunguza itifaki zinazoendesha miundombinu ya kifedha yenye nguvu zaidi duniani. Iwe unataka kuchangia miradi ya chanzo wazi au kujenga kizazi kijacho cha programu za Bitcoin, utapata kina cha kiufundi kinachohitajika kuanza kufanya kazi kwa ujasiri katika mfumo huu ikolojia.
+Nini kinachohitajika kujenga kwenye Bitcoin? Kozi hii ya masaa 20 inakupeleka chini ya uso wa Bitcoin na Mtandao wa Lightning, ikichunguza protocol zinazoendesha miundombinu ya kifedha yenye nguvu zaidi duniani. Iwe unataka kuchangia miradi ya chanzo wazi au kujenga kizazi kijacho cha programu za Bitcoin, utapata kina cha kiufundi kinachohitajika kuanza kufanya kazi kwa ujasiri katika mfumo huu ikolojia.
 
 Iliyorekodiwa wakati wa bootcamp ya CUBO+ 2023 nchini El Salvador, kozi hii inakusanya mitazamo kutoka kwa wasanidi programu wakuu wa Bitcoin na waelimishaji ambao wameunda teknolojia hiyo. Sehemu bora zaidi? Ni bure kabisa, imewezeshwa na Fulgure Venture, Bitcoin Office na DecouvreBitcoin. Ikiwa umekuwa na udadisi kuhusu jinsi Bitcoin inavyofanya kazi kweli katika kiwango cha itifaki, hii ni fursa yako ya kujua.
 +++
@@ -58,13 +58,13 @@ Mhadhara huu, **"Kwa Nini El Salvador Inahitaji Bitcoin,"** unatoa muhtasari wa 
 **Ufafanuzi:**
 
 
-- Protocol  ya _Bitcoin:_ Sheria na muundo unaosimamia jinsi Bitcoin inavyofanya kazi kama sarafu ya kidijitali iliyogatuliwa.
+- _Bitcoin protocol:_ Sheria na muundo unaosimamia jinsi Bitcoin inavyofanya kazi kama sarafu ya kidijitali iliyogatuliwa.
 - _Cypherpunk movement:_ Kundi linalotetea matumizi fiche ili kuhakikisha faragha na uhuru katika nafasi za kidijitali.
 - _Ujumuisho wa kifedha:_ Kutoa ufikiaji wa huduma za kifedha kwa watu ambao wametengwa kutoka kwa mifumo ya kawaida ya benki, ambayo mara nyingi hujulikana kama "isiyo na benki."
 - _Pesa zisizopimwa:_ Pesa ambazo haziwezi kudhibitiwa au kuwekewa vikwazo na serikali au taasisi za fedha.
 #### Asili ya Ricky na Utetezi wa Bitcoin
 
-Safari ya Ricky katika Bitcoin inatokana na kazi yake kama mtetezi wa haki za binadamu. Anaamini kuwa Bitcoin inaweza kuwapa watu binafsi udhibiti wa fedha zao, kuwaruhusu kulinda faragha yao na kuepuka vikwazo vya benki kuu. Ugunduzi wake wa kupitishwa kwa Bitcoin katika maeneo kama El Salvador unaonyesha jinsi teknolojia hii inaweza kuwawezesha watu katika masoko yanayoibukia kupata uhuru wa kifedha.
+Safari ya Ricky katika Bitcoin inatokana na kazi yake kama mtetezi wa haki za binadamu. Anaamini kuwa Bitcoin inaweza kuwapa watu binafsi udhibiti wa fedha zao, kuwaruhusu kulinda faragha yao na kuepuka vikwazo vinavyowekwa na benki kuu. Ugunduzi wake kuhusu kupitishwa kwa Bitcoin katika maeneo kama El Salvador unaonyesha jinsi teknolojia hii inaweza kuwawezesha watu katika masoko yanayoibukia kupata uhuru wa kifedha.
 
 ### Umuhimu wa Kimataifa na Changamoto za Bitcoin
 
@@ -85,7 +85,7 @@ Licha ya uwezo wake, Bitcoin inakabiliwa na changamoto kubwa. Katika maeneo kama
 
 Uamuzi wa El Salvador wa kupitisha Bitcoin kama zabuni ya kisheria unaonyesha uwezo wake wa kuleta mabadiliko. Kwa kutumia Bitcoin, nchi inalenga kuvutia uwekezaji wa kigeni na kuimarisha utulivu wa kifedha. Miradi kama vile **Bitcoin Beach** inaonyesha jinsi uchumi wa ndani unavyoweza kukua kwa kutumia Bitcoin kama njia ya exchange .
 
-Hata hivyo, kupitishwa kwa Bitcoin duniani kote kunakabiliwa na vikwazo kama vile kutojua, upinzani dhidi ya teknolojia mpya, na changamoto katika miundombinu. Njia kuelekea mfumo wa kifedha unaojumuisha zaidi—ambapo Bitcoin inaweza kusaidia kuinua mataifa yanayoendelea—ni ndefu lakini yenye matumaini. Hali ya ugatuzi na chanzo huria cha Bitcoin inatoa matumaini kwa siku zijazo ambapo usawa wa kifedha unapatikana kwa kila mtu.
+Hata hivyo, kupitishwa kwa Bitcoin duniani kote kunakabiliwa na changamoto kama vile ukosefu wa uelewa, upinzani dhidi ya teknolojia mpya, na mapungufu katika miundombinu. Njia kuelekea mfumo wa kifedha jumuishi zaidi—ambapo Bitcoin inaweza kusaidia kuinua mataifa yanayoendelea—ni ndefu lakini yenye matumaini. Uga wa ugatuzi na chanzo huria cha Bitcoin unatoa matarajio ya siku zijazo ambazo usawa wa kifedha unaweza kupatikana kwa kila mtu.
 
 #### Hitimisho
 
@@ -158,7 +158,7 @@ Asante kwa kujihusisha na nyenzo hii!
 
 :::video id=2c008198-7f4e-4e60-87a0-0af17528ad2f:::
 
-Katika mhadhara wa kwanza wa kozi ya 'Jinsi Bitcoin', tulianza kuchunguza msururu wa teknolojia ambayo inasimamia mtandao wa Bitcoin. Tulishughulikia mada kama vile **Hashcash**, **shughuli**, **Blockchain**, **Lightning Network**, na vipengele vingine muhimu vya Protocol ya Bitcoin.
+Katika mhadhara wa kwanza wa kozi ya 'How Bitcoin', tulianza kuchunguza msururu wa teknolojia ambayo inasimamia mtandao wa Bitcoin. Tulishughulikia mada kama vile **Hashcash**, **shughuli**, **Blockchain**, **Lightning Network**, na vipengele vingine muhimu vya Protocol ya Bitcoin.
 
 ### Rafu ya Kiteknolojia ya Bitcoin Sehemu ya 2
 
@@ -170,14 +170,14 @@ Wakati wa mhadhara wa pili wa 'Jinsi Bitcoin', tulifanya uchunguzi wa kina zaidi
 
 Asili za Bitcoin zinatokana na ubunifu kadhaa muhimu, kuanzia **Hashcash ya Adam Back**, mfumo wa Proof-of-Work (PoW) ulioundwa ili kuzuia barua taka za barua pepe na mashambulizi ya kunyimwa huduma kwa kuwahitaji watumaji kukamilisha kazi za kukokotoa. Dhana hii ya PoW ikawa msingi wa usalama wa Bitcoin.
 
-Bitcoin inategemea **sahihi za kidijitali** kwa kutumia ** cryptography ya mkunjo wa duaradufu** ili kulinda na kuthibitisha miamala. **Algorithm ya Sahihi Dijiti ya Elliptic Curve (ECDSA)** huhakikisha kuwa ni mmiliki halali wa Bitcoin pekee ndiye anayeweza kuidhinisha miamala bila kufichua funguo zao za faragha.
+Bitcoin inategemea **digital signatures** kwa kutumia **elliptic curve cryptography** ili kulinda na kuthibitisha miamala. **Algorithm ya Sahihi Dijiti ya Elliptic Curve (ECDSA)** huhakikisha kuwa ni mmiliki halali wa Bitcoin pekee ndiye anayeweza kuidhinisha miamala bila kufichua funguo zao za faragha.
 
 **Satoshi Nakamoto**, muundaji wa jina bandia la Bitcoin, alipanua mawazo haya kwa kubadilisha muundo wa PoW hadi **Blockchain** uliogatuliwa. Hii iliruhusu mtandao uliosambazwa wa node kuthibitisha na kurekodi miamala bila mamlaka kuu, kuashiria mabadiliko makubwa kutoka kwa majaribio ya awali ya sarafu ya digitali.
 
 **Ufafanuzi:**
 
 
-- _Uthibitisho-wa-Kazi (PoW):_ Mfumo ambapo washiriki wanapaswa kutatua mafumbo ya kihesabu ili kuthibitisha miamala na usalama wa mtandao.
+- _Proof-of-Work (PoW):_ Mfumo ambapo washiriki wanapaswa kutatua mafumbo ya kihesabu ili kuthibitisha miamala na usalama wa mtandao.
 - _Elliptic Curve Cryptography:_ Mbinu ya  cryptography inayowezesha sahihi, sahihi za kidijitali.
 ### Mitambo ya Blockchain na Uthibitishaji wa Muamala
 
@@ -187,7 +187,7 @@ Kila **block** katika Blockchain ina kichwa **** (yenye data kama vile Hash ya b
 
 ![Image](assets/en/1/6.webp)
 
-Kabla ya shughuli kujumuishwa kwenye kizuizi, wanakaa katika **Mempool**, ambapo wanangojea uthibitisho. Baada ya kuthibitishwa, shughuli hizi huongezwa kwenye kizuizi kipya cha kuchimbwa na kisha kwa Blockchain.
+Kabla ya muamala kujumuishwa kwenye block, wanakaa katika **Mempool**, ambapo wanangojea uthibitisho. Baada ya kuthibitishwa, shughuli hizi huongezwa kwenye kizuizi kipya cha kuchimbwa na kisha kwa Blockchain.
 
 **Ufafanuzi:**
 
@@ -199,9 +199,9 @@ Kabla ya shughuli kujumuishwa kwenye kizuizi, wanakaa katika **Mempool**, ambapo
 
 Bitcoin inakabiliwa na changamoto zinazohusiana na hatari na faragha. Uwezo mdogo wa muamala wa Blockchain hufanya iwe vigumu kushughulikia viwango vya juu vya muamala. Suluhu kama vile **Lightning Network** Address changamoto hizi kwa kuwezesha miamala ya off-chain kupitia njia za malipo, ambayo huongeza kasi na faragha.
 
-Kuendesha **node iliyokamilika** ni muhimu ili kuhakikisha ugatuaji na usalama, lakini **Njia za Uthibitishaji wa Malipo Rahisi (SPV)** huruhusu ushiriki mwepesi kwa gharama ya usalama fulani.
+Kuendesha **full node** ni muhimu ili kuhakikisha ugatuaji na usalama, lakini **Simplified Payment Verification (SPV) nodes** huruhusu ushiriki mwepesi kwa gharama ya usalama fulani.
 
-Maendeleo ya Bitcoin yamebadilika ili kuboresha utendaji na usalama. Maboresho makubwa yanajumuisha **Shahidi Aliyetenganishwa (SegWit)**, ambayo hushughulikia kutoweza kuharibika kwa miamala na kuongeza ukubwa unaofaa wa kizuizi, na **Taproot**, ambayo huboresha faragha na kuruhusu kandarasi ngumu zaidi kwa kutumia **Miti ya Muhtasari wa Sintaksia ya Merkleized (MAST)**.
+Maendeleo ya Bitcoin yamebadilika ili kuboresha utendaji na usalama. Maboresho makubwa yanajumuisha **Segregated Witness (SegWit (SegWit)**, ambayo hushughulikia kutoweza kuharibika kwa miamala na kuongeza ukubwa unaofaa wa kizuizi, na **Taproot**, ambayo huboresha faragha na kuruhusu kandarasi ngumu zaidi kwa kutumia **Merkleized Abstract Syntax Trees (MAST)**.
 
 **Ufafanuzi:**
 
@@ -230,11 +230,11 @@ Dhana potofu ya mara kwa mara ni kwamba **Bitcoin** na **Blockchain** ni sawa. I
 **Ufafanuzi:**
 
 
-- _Blockchain:_ Teknolojia ya msingi inayotumiwa kurekodi shughuli katika Leja iliyogatuliwa, isiyoweza kubadilika.
+- _Blockchain:_ Teknolojia ya msingi inayotumiwa kurekodi shughuli katika Ledger iliyogatuliwa, isiyoweza kubadilika.
 - _lightning network:_ Suluhisho la pili la safu linaloboresha ufanisi wa muamala wa Bitcoin kwa kuwezesha miamala ya off-chain.
 ### Bitcoin dhidi ya Crypto
 
-Tofauti nyingine kuu ni kwamba **Bitcoin** iliundwa kwa madhumuni ya pekee ya kutoa aina ya pesa iliyogawanywa, inayostahimili udhibiti, isiyodhibitiwa na kampuni au serikali yoyote. Kinyume chake, fedha za siri **shitcoins** mara nyingi huundwa kwa udhibiti wa kati, unaopatikana kimsingi ili kutajirisha kampuni zilizo nyuma yao kupitia mbinu za unyang'anyi, miradi ya kusukuma maji na kutupa, au ulaghai wa moja kwa moja. Tokeni hizi kwa kawaida hazitumiki kwa madhumuni ya kweli zaidi ya kupata faida ya haraka kwa watayarishi wao kwa gharama ya wawekezaji wasio na taarifa. Bitcoin, hata hivyo, inasimama peke yake kama sarafu pekee ya kidijitali iliyogatuliwa kwa kweli na rekodi iliyothibitishwa ya usalama na uthabiti.
+Tofauti nyingine kuu ni kwamba **Bitcoin** iliundwa kwa madhumuni ya pekee ya kutoa aina ya pesa iliyogawanywa, inayostahimili udhibiti, isiyodhibitiwa na kampuni au serikali yoyote. Kinyume chake, fedha za siri **shitcoins** mara nyingi huundwa kwa udhibiti wa kati, Unaopatikana kimsingi ili kutajirisha kampuni zilizo nyuma yao kupitia mbinu za unyang’anyi, miradi ya kusukuma na kutupa, au ulaghai wa moja kwa moja. Tokeni hizi kwa kawaida hazina matumizi ya kweli zaidi ya kuwapatia watayarishi wao faida ya haraka kwa gharama ya wawekezaji wasio na taarifa. Bitcoin, hata hivyo, inasimama peke yake kama sarafu pekee ya kidijitali iliyogatuliwa kwa kweli, ikiwa na rekodi iliyothibitishwa ya usalama na uthabiti.
 
 **Ufafanuzi:**
 
@@ -270,7 +270,7 @@ FUD inayozunguka Bitcoin mara nyingi hutia chumvi wasiwasi kuhusu athari zake kw
 
 Kuelewa hali halisi ya matumizi ya nishati ya Bitcoin, vipengele vya faragha, na jukumu katika kuzuia uhalifu husaidia kuondoa dhana zinazoizunguka. Kwa kupitia FUD, tunaweza kuthamini uwezo wa Bitcoin kama njia ya kimapinduzi ya pesa inayokuza faragha, usalama na ugatuaji.
 
-## Inaendesha Bitcoin
+## Kuendesha Bitcoin
 
 <chapterId>5f638ec9-a6c1-5716-b27f-d837ab896eb1</chapterId>
 
@@ -282,11 +282,11 @@ Kuelewa hali halisi ya matumizi ya nishati ya Bitcoin, vipengele vya faragha, na
 
 Katika hotuba ya kwanza ya moduli ya 4, tulichunguza usanifu wa Bitcoin na usakinishaji wa node ya Bitcoin Core.
 
-### Inaendesha Node ya Bitcoin
+### kuendesha Node ya Bitcoin
 
 **1. Muhtasari wa utangulizi**
 
-Karibu tena! Katika kipindi kilichopita, tulishughulikia dhana za kimsingi nyuma ya usanifu wa Bitcoin, ikijumuisha misingi yake ya   cryptography na muundo wa mtandao wa rika-kwa-rika. Leo, tutahama kutoka kwa nadharia hadi kufanya mazoezi kwa kuonyesha jinsi ya kusakinisha na kusanidi node ya Bitcoin.
+Karibu tena! Katika kipindi kilichopita, tulishughulikia dhana za kimsingi nyuma ya usanifu wa Bitcoin, ikijumuisha misingi yake ya   cryptography na muundo wa mtandao wa peer-to-peer. Leo, tutahama kutoka kwa nadharia hadi kufanya mazoezi kwa kuonyesha jinsi ya kusakinisha na kusanidi node ya Bitcoin.
 
 **2. Muhtasari wa Vitendo wa Kikao**
 
@@ -308,9 +308,9 @@ Kwa kuendesha Bitcoin Core, unapata uwezo wa:
 - **Wasiliana na mtandao wa Bitcoin moja kwa moja**: Kwa kutumia Bitcoin Core, unaweza kuunganisha moja kwa moja kwenye mtandao bila wapatanishi, kuhakikisha unapata data sahihi zaidi.
 - **Faidika kutokana na kuongezeka kwa faragha**: Kama mwendeshaji wa Full node, si lazima uamini huduma za nje, zinazolinda faragha ya muamala wako dhidi ya uangalizi wa nje.
 
-Faida za kuendesha node ya Bitcoin ni kubwa kwa Bitcoiner yoyote aliyejitolea. Sio tu kwamba unasaidia kulinda mtandao na kuimarisha ugatuaji wake, lakini pia unaboresha faragha yako, unahakikisha uadilifu wa muamala wako mwenyewe, na kuchukua jukumu tendaji katika mfumo ikolojia wa Bitcoin. Kuendesha node ni hatua muhimu katika kufikia mamlaka ya kifedha na kukumbatia kikamilifu asili ya ugatuzi ya Bitcoin.
+Faida za kuendesha node ya Bitcoin ni kubwa kwa Bitcoiner yoyote aliyejitolea. Sio tu kwamba unasaidia kulinda mtandao na kuimarisha ugatuzi wake, bali pia unaboresha faragha yako, unahakikisha uadilifu wa muamala wako mwenyewe, na kuchukua jukumu tendaji katika mfumo ikolojia wa Bitcoin. Kuendesha node ni hatua muhimu katika kufikia mamlaka ya kifedha na kukumbatia kikamilifu asili ya ugatuzi ya Bitcoin.
 
-### Amri za Msingi
+### Amri za Msingi 
 
 Hizi ni baadhi ya amri za msingi wakati wa kusanidi node zako:
 
@@ -343,7 +343,7 @@ bitcoin-cli getblockchaininfo
 ```
 
 
-- **Pogoa Blockchain ili kuokoa nafasi ya diski kwa kuweka tu blovks vya hivi karibuni:**:
+- **Pogoa Blockchain ili kuokoa nafasi ya disk kwa kuweka tu blocks za hivi karibuni:**:
 
 ```bash
 prune=550
@@ -601,13 +601,13 @@ Hatimaye, thibitisha hali ya uendeshaji wa node yako kwa kupima miunganisho na k
 lightning-cli getinfo
 ```
 
-Kwa kufuata hatua hizi, utakuwa na usanidi unaofanya kazi kikamilifu wa C-Lightning iliyounganishwa kwenye node yako ya Bitcoin Core, tayari kwa shughuli za Testnet.
+Kwa kufuata hatua hizi, utakuwa na usanidi unaofanya kazi kikamilifu wa C-Lightning iliyounganishwa kwenye node yako ya Bitcoin Core, tayari kwa miamala ya Testnet.
 
 #### Hitimisho & Maswali
 
-Kwa kumalizia, leo tumeshughulikia hatua muhimu za kusakinisha Bitcoin Core, ikifuatiwa na mapitio ya kina ya kusakinisha na kusanidi C-Lightning. Ikiwa una maswali yoyote, tafadhali jisikie huru kuuliza sasa au kuyatayarisha kwa ufafanuzi zaidi katika kipindi chetu kijacho. Kumbuka, matumizi ya vitendo ni muhimu, kwa hivyo tumia usanidi wa Testnet tuliojadili ili kupata maarifa zaidi.
+Kwa kumalizia, leo tumeshughulikia hatua muhimu za kusakinisha Bitcoin Core, ikifuatiwa na mapitio ya kina ya kusakinisha na kusanidi C-Lightning. Ikiwa una maswali yoyote, tafadhali jisikie huru kuyauliza sasa au kuyatayarisha kwa ufafanuzi zaidi katika kipindi kijacho. Kumbuka, matumizi ya vitendo ni muhimu, kwa hivyo tumia usanidi wa Testnet tuliojadili ili kupata uelewa zaidi.
 
-### Usalama na vifaa vya vifaa
+### Usalama na  vifaa vya hardware
 
 :::video id=8b4baf24-1350-46b8-a87b-18678ed219ed:::
 
@@ -617,19 +617,19 @@ Kwa kumalizia, leo tumeshughulikia hatua muhimu za kusakinisha Bitcoin Core, iki
 
 Karibu kwenye mhadhara wetu kuhusu usalama na usanidi wa kifaa kwa Bitcoin. Lengo la leo ni kuelewa utumiaji wa zana za usalama, haswa Specter desktop Wallet na Ledger Hardware Wallet, na jinsi ya kusanidi kwa ufanisi kwa usalama ulioimarishwa wa Bitcoin.
 
-**Zana: Specter Desktop Wallet na Emulator ya Leja**
+**Zana: Specter Desktop Wallet na Emulator ya Ledger**
 
-Specter ni wallet ya eneo-kazi iliyoundwa kuwezesha uundaji na usimamizi wa Bitcoin Wallet, haswa zile zinazotumia vifaa vya maunzi. Kwa onyesho letu, tutatumia emulator ya Leja, ambayo inaiga utendaji wa Ledger Hardware Wallet.
+Specter ni wallet ya eneo-kazi iliyoundwa kuwezesha uundaji na usimamizi wa Bitcoin Wallet, haswa zile zinazotumia vifaa vya maunzi. Kwa onyesho letu, tutatumia emulator ya Ledger, ambayo inaiga utendaji wa Ledger Hardware Wallet.
 
-**Tofauti Kati ya leja Kifaa na Utata wa Kampuni**
+**Tofauti Kati ya Ledger device na Utata wa Kampuni**
 
-Kifaa cha Leja, maarufu Hardware Wallet, kinaadhimishwa kwa usalama wake thabiti. Hata hivyo, kampuni iliyo nyuma ya Leja imekabiliwa na uchunguzi kutokana na mizozo mbalimbali kuhusu faragha ya data ya mtumiaji. Kuelewa tofauti kati ya usalama wa kifaa halisi na mazoea ya kampuni ni muhimu kwa matumizi ya habari.
+Ledger device, maarufu Hardware Wallet, kinaadhimishwa kwa usalama wake thabiti. Hata hivyo, kampuni iliyo nyuma ya Ledger imekabiliwa na uchunguzi kutokana na mizozo mbalimbali kuhusu faragha ya data ya mtumiaji. Kuelewa tofauti kati ya usalama wa kifaa halisi na mazoea ya kampuni ni muhimu kwa matumizi ya habari.
 
 **Miundo ya Usalama: Umuhimu wa wallets za Multiple Signatures na Vifaa Mbalimbali**
 
 Kipengele muhimu cha usalama wa Bitcoin ni kutumia Wallet zenye sahihi nyingi (multi-sig). Wallet za multi-sig zinahitaji funguo nyingi za faragha ili kuidhinisha muamala, na hivyo kuimarisha usalama kwa kiasi kikubwa. Zaidi ya hayo, kutumia aina tofauti za wallet za maunzi hutofautisha hatari na huimarisha mtindo wa usalama.
 
-### Usanidi na upsngaji
+### Usanidi na upangaji
 
 **Kupakua na Kuweka Vipimo**
 
@@ -643,13 +643,13 @@ Ili kusanidi Specter, unahitaji kuiunganisha kwenye server ya Bitcoin Core au El
 
 Kuelewa njia za utokaji ni muhimu kwa usimamizi wa wallet. Njia za utokezi hufafanua jinsi funguo zinatolewa kutoka kwa ufunguo mkuu. Katika Specter, unaweza kupata funguo za umma kwa kuunganisha Hardware Wallet (au emulator) yako na kupitia Wallet Interface. Hakikisha umeandika njia hizi kwa marejeleo ya baadaye.
 
-**Onyesho la Kivitendo: Kutumia Kiigaji cha Leja**
+**Onyesho la Kivitendo: Kutumia Kiigaji cha Ledger**
 
-Sasa tutatumia emulator ya Leja kuleta funguo. Hii inahusisha kuunganisha emulator kwa Specter, kuelekea kwenye sehemu muhimu ya usimamizi, na kuchagua vitufe vinavyofaa kwa uundaji wa wallet.
+Sasa tutatumia emulator ya Ledger kuleta funguo. Hii inahusisha kuunganisha emulator kwa Specter, kuelekea kwenye sehemu muhimu ya usimamizi, na kuchagua vitufe vinavyofaa kwa uundaji wa wallet.
 
 **Kuunda na Kusimamia wallet katika Specter**
 
-Kuunda wallet katika Specter ni moja kwa moja. Fikia uundaji wa Wallet Interface, weka maelezo muhimu, na ujumuishe funguo zako za umma zilizorejeshwa. Baada ya kuundwa, unaweza kudhibiti wallet, kufuatilia miamala na kuhakikisha mbinu thabiti za usalama.
+Kuunda wallet katika Specter ni rahisi na moja kwa moja. Fikia kiolesura cha kuunda wallet, jaza maelezo muhimu, na uingize funguo zako za umma zilizorejeshwa. Baada ya kuundwa, unaweza kudhibiti wallet yako, kufuatilia miamala, na kuhakikisha mbinu thabiti za usalama.
 
 **Kupokea na Kufuatilia Miamala**
 
@@ -699,9 +699,9 @@ Kubali falsafa ya kujitosheleza. Ujuzi wa vitendo na kujifunza binafsi ni muhimu
 
 **Mazingatio ya Faragha**
 
-Dumisha faragha kwa kuepuka huduma zinazofuatilia au kuweka kumbukumbu za miamala. Kutokutaja jina ni muhimu kwa uendeshaji salama wa Bitcoin, na uteuzi makini wa huduma husaidia kulinda utambulisho wako na historia ya muamala.
+Dumisha faragha kwa kuepuka huduma zinazofuatilia au kuhifadhi kumbukumbu za miamala. Kutokutaja jina ni muhimu kwa uendeshaji salama wa Bitcoin, na uteuzi makini wa huduma husaidia kulinda utambulisho wako na historia ya muamala.
 
-Hii inahitimisha mhadhara wetu kuhusu usalama na usanidi wa kifaa kwa Bitcoin kwa kutumia Specter na Leja. Jisikie huru kuuliza maswali yoyote au kutafuta ufafanuzi juu ya mambo yoyote yaliyojadiliwa.
+Hii inahitimisha mhadhara wetu kuhusu usalama na usanidi wa kifaa kwa Bitcoin kwa kutumia Specter na Ledger. Jisikie huru kuuliza maswali yoyote au kutafuta ufafanuzi juu ya mambo yoyote yaliyojadiliwa.
 
 ## Uboreshaji wa Bitcoin
 
@@ -711,17 +711,17 @@ Hii inahitimisha mhadhara wetu kuhusu usalama na usanidi wa kifaa kwa Bitcoin kw
 
 :::video id=6d771eca-3f53-493d-8937-db6ddb2cf172:::
 
-Kwa zaidi ya muongo mmoja, Bitcoin imethibitisha kuwa uvumbuzi wa kuleta mabadiliko katika ulimwengu wa kifedha, ukifanya kazi kwa mafanikio katika kiwango cha kimataifa na kufungua uwezekano mpya katika uchumi wa kidijitali. Hata hivyo, bado inakabiliwa na changamoto zinazohitaji ufumbuzi wa ubunifu na shirikishi. Mageuzi yanayoendelea ya Bitcoin yanatoa fursa ya kipekee kwa wale wanaotaka kuunda mustakabali wa ugatuzi wa fedha.
+Kwa zaidi ya muongo mmoja, Bitcoin imethibitisha kuwa ni uvumbuzi unaobadilisha ulimwengu wa kifedha, ikifanya kazi kwa mafanikio kiwango cha kimataifa na kufungua fursa mpya katika uchumi wa kidijitali. Hata hivyo, bado inakabiliwa na changamoto zinazohitaji ufumbuzi wa ubunifu na ushirikiano. Mageuzi yanayoendelea ya Bitcoin yanatoa fursa za kipekee kwa wale wanaotaka kuunda mustakabali wa ugatuzi wa fedha.
 
 ![Image](assets/en/1/8.webp)
 
 #### Fungua Matatizo katika Utumiaji wa Bitcoin
 
-Bitcoin, licha ya kuwepo kwa zaidi ya muongo mmoja, bado inakabiliana na changamoto kubwa za utumiaji. Zana na violesura vinavyopatikana kwa watumiaji mara nyingi hukosa ukomavu na urafiki wa mtumiaji unaopatikana katika mifumo ya kitamaduni ya kifedha. Hili linaonekana hasa katika maeneo kama vile El Salvador, ambapo kupitishwa kwa Bitcoin kumeidhinishwa na serikali. Suala la msingi hapa ni hitaji la vifupisho bora zaidi vinavyoweza kurahisisha utumiaji, na kufanya Bitcoin ipatikane hata kwa watu binafsi walio na ujuzi mdogo wa kiufundi.
+Bitcoin, licha ya kuwepo kwa zaidi ya muongo mmoja, bado inakabiliwa na changamoto kubwa za utumiaji. Zana na violesura vinavyopatikana kwa watumiaji mara nyingi hukosa ukomavu na urafiki wa mtumiaji unaopatikana katika mifumo ya kifedha ya kitamaduni. Hali hii inaonekana hasa katika maeneo kama El Salvador, ambapo kupitishwa kwa Bitcoin kumeidhinishwa na serikali. Suala la msingi hapa ni hitaji la vifupisho bora zaidi vinavyoweza kurahisisha utumiaji na kufanya Bitcoin ipatikane hata kwa watu binafsi wenye ujuzi mdogo wa kiufundi.
 
 #### Fungua Matatizo katika Scalability
 
-Uwezo wa kupanua umekuwa tatizo linaloendelea katika ukuzaji wa Bitcoin. Uwezo wa mtandao wa kushughulikia kiasi kikubwa cha miamala bado ni mdogo, mara nyingi husababisha ada za juu za On-Chain ambazo zinaweza kuwatenga baadhi ya watumiaji kushiriki. Ingawa suluhisho kama Lightning Network inatoa ahueni kwa kuwezesha miamala ya off-chain, hautoi kikamilifu Address na masuala ya hatari. Haja ya suluhu za kina zaidi zinazoweza kushughulikia ongezeko la kiasi cha miamala bila kuathiri uadilifu wa mtandao ni dhahiri.
+Uwezo wa kupanua umekuwa changamoto endelevu katika maendeleo ya Bitcoin. Mtandao bado una uwezo mdogo wa kushughulikia idadi kubwa ya miamala, jambo ambalo mara nyingi husababisha ada za juu za On-Chain, na hivyo kuwazuia baadhi ya watumiaji kushiriki. Ingawa suluhisho kama Lightning Network hutoa ahueni kwa kuwezesha miamala za off-chain, bado haijatumika kikamilifu kushughulikia masuala ya address na hatari zinazoweza kutokea. Haja ya suluhisho za kina zaidi zinazoweza kushughulikia ongezeko la miamala bila kuathiri uadilifu wa mtandao ni wazi.
 
 #### Fungua Matatizo katika Usalama
 
@@ -741,7 +741,7 @@ Unyumbufu ndani ya protocol ya Bitcoin ni muhimu ili kukuza uboreshaji wa faragh
 
 ![Image](assets/en/1/7.webp)
 
-Juhudi za kuimarisha utumiaji wa Bitcoin mara nyingi huja kwa gharama ya usalama na faragha. Kwa mfano, Wallet za uhifadhi zinazofaa mtumiaji, kama vile Wallet of Satoshi, hutoa Interface inayoweza kufikiwa lakini inaathiri sana usalama na faragha. Mifumo iliyorahisishwa inaweza kuongeza utumiaji lakini inaweza kusababisha masuala kama vile kutumia tena Address, jambo ambalo linadhoofisha faragha. Kwa hivyo,uboresho wowote katika utumiaji lazima upimwe kwa uangalifu dhidi ya uwezekano wa usalama na ubadilishanaji wa faragha.
+Juhudi za kuimarisha utumiaji wa Bitcoin mara nyingi huja kwa gharama ya usalama na faragha. Kwa mfano, wallet za uhifadhi zinazorahisisha matumizi kwa mtumiaji, kama Wallet of Satoshi, hutoa interface rahisi kufikia lakini zinapunguza sana usalama na faragha. Mifumo iliyorahisishwa inaweza kuongeza matumizi, lakini pia inaweza kusababisha matatizo kama kutumia tena address, jambo linalodhoofisha faragha. Kwa hivyo, ubunifu wowote katika utumiaji lazima upimwe kwa uangalifu dhidi ya uwezekano wa kushindwa kwa usalama na kupoteza faragha.
 
 #### uwezo wa kupanua na Biashara ya Faragha
 
@@ -749,11 +749,11 @@ Ubora na faragha mara nyingi hutofautiana katika mtandao wa Bitcoin. uboresho am
 
 ### Mbinu za Faragha
 
-Mbinu tofauti za faragha katika Bitcoin huja na seti zao za ubadilishanaji. Faragha kwa kufichua, ambayo inahusisha kuongeza maelezo zaidi ili kuficha data husika, inaweza kuimarisha faragha lakini inaweza kutatiza mtandao. Mifano ni pamoja na Monero na Zcash. Kwa upande mwingine, ufaragha kwa kutokuwepo, ambao unalenga kupunguza maelezo ya On-Chain, kama inavyoonekana katika Lightning Network, inaweza kuboresha ufaragha na uboreshaji. Kila njia ina faida na hasara zake, na hivyo kuhitaji mbinu tofauti za uboreshaji wa faragha.
+Mbinu tofauti za faragha katika Bitcoin huja na seti zao za exchange. Faragha kwa kufichua, ambayo inahusisha kuongeza maelezo zaidi ili kuficha data husika, inaweza kuimarisha faragha lakini inaweza kutatiza mtandao. Mifano ni pamoja na Monero na Zcash. Kwa upande mwingine, ufaragha kwa kutokuwepo, ambao unalenga kupunguza maelezo ya On-Chain, kama inavyoonekana katika Lightning Network, inaweza kuboresha ufaragha na uboreshaji. Kila njia ina faida na hasara zake, na hivyo kuhitaji mbinu tofauti za uboreshaji wa faragha.
 
 ### Mabadiliko na Changamoto za Makubaliano
 
-Kubadilisha utaratibu wa makubaliano wa Bitcoin ni jitihada adimu na yenye changamoto kutokana na hali ya mtandao kugatuliwa. Mapendekezo kama vile ChISA (ujumlisho wa saini za pembejeo tofauti) na maagano yanalenga kutambulisha sheria changamano zaidi za shughuli, lakini utekelezaji wake umejaa matatizo. Mabadiliko ya maafikiano yanahitaji makubaliano mapana ndani ya jumuiya, na uratibu unaohitajika unaweza kusababisha kufadhaika na kuchoka sana ikiwa mabadiliko yanayopendekezwa hayatakubaliwa. Hii inaangazia hitaji la juhudi makini na shirikishi katika ukuzaji wa Protocol.
+Kubadilisha utaratibu wa makubaliano wa Bitcoin ni jitihada adimu na yenye changamoto kutokana na hali ya mtandao kugatuliwa. Mapendekezo kama vile ChISA (cross-input signature aggregation) na maagano yanalenga kutambulisha sheria changamano zaidi za shughuli, lakini utekelezaji wake umejaa matatizo. Mabadiliko ya maafikiano yanahitaji makubaliano mapana ndani ya jumuiya, na uratibu unaohitajika unaweza kusababisha kufadhaika na kuchoka sana ikiwa mabadiliko yanayopendekezwa hayatakubaliwa. Hii inaangazia hitaji la juhudi makini na shirikishi katika ukuzaji wa Protocol.
 
 ### Ubunifu na Viwango katika Maendeleo ya Bitcoin
 
@@ -761,9 +761,9 @@ Kuzingatia mazoea sanifu katika ukuzaji wa wallet la Bitcoin ni muhimu kwa kuhak
 
 Vishazi vya jadi vya chelezo vya maneno 12, ingawa vinatumika kwa matumizi ya msingi ya Bitcoin, si rahisi kuafiki protocols za off-chain kama vile Lightning Network. Viwango vya hifadhi rudufu vya siku zijazo vinahitaji kubadilika ili kutoa usalama bora na utumiaji wa vipengele hivi vya juu, kuhakikisha kwamba watumiaji wanaweza kudhibiti mali zao kwa usalama katika tabaka tofauti za mfumo ikolojia wa Bitcoin.
 
-Kurahisisha mchakato wa malipo kupitia protocol zilizounganishwa ni muhimu ili kuboresha matumizi ya mtumiaji. protocols zilizopo kama vile BIP70, BIP78, na Payneem hutoa suluhisho mbalimbali, lakini kuna nafasi ya uvumbuzi zaidi. protocol ya malipo iliyoratibiwa zaidi na inayomfaa mtumiaji inaweza kuwezesha kupitishwa kwa mapana na urahisi wa matumizi.
+Kurahisisha mchakato wa malipo kupitia protocol zilizounganishwa ni muhimu ili kuboresha matumizi ya mtumiaji.Protocols zilizopo kama vile BIP70, BIP78, na Payneem hutoa suluhisho mbalimbali, lakini kuna nafasi ya uvumbuzi zaidi. protocol ya malipo iliyoratibiwa zaidi na inayomfaa mtumiaji inaweza kuwezesha kupitishwa kwa mapana na urahisi wa matumizi.
 
-Utengenezaji wa zana bora na maunzi ni muhimu kwa kuboresha utumiaji na usalama wa Bitcoin. Ubunifu kama vile wallet za maunzi (k.m., Ledger na Trezor) hutoa suluhu dhabiti za usalama lakini lazima ziendelee kubadilika hadi vitisho vinavyoibuka vya Address. Zana zilizoboreshwa zinaweza kufanya Bitcoin kufikiwa zaidi na salama kwa hadhira pana.
+Utengenezaji wa zana bora na maunzi ni muhimu kwa kuboresha utumiaji na usalama wa Bitcoin. Ubunifu kama vile hardware wallets (k.m., Ledger na Trezor) hutoa suluhu dhabiti za usalama lakini lazima ziendelee kubadilika hadi vitisho vinavyoibuka vya Address. Zana zilizoboreshwa zinaweza kufanya Bitcoin kufikiwa zaidi na salama kwa hadhira pana.
 
 Kupunguza hatari zinazohusiana na usambazaji wa Hardware Wallet na kuhakikisha uadilifu wao ni muhimu. Mashambulizi ya msururu wa usambazaji yanatishia usalama wa vifaa hivi. Utekelezaji wa hatua kali za usalama na kuhakikisha uwazi katika mchakato wa uzalishaji na usambazaji kunaweza kusaidia kupunguza hatari hizi.
 
@@ -773,7 +773,7 @@ Kuunda nyenzo za kielimu ili kuboresha utumiaji, usalama na faragha ya Bitcoin k
 
 ![Image](assets/en/1/3.webp)
 
-**Mabadiliko ya safu 1 na safu 2 **
+**Mabadiliko ya Layer 1 na Layer 2**
 
 Ubunifu katika msingi wa safu (Layer 1) ni changamoto lakini muhimu kwa mageuzi ya muda mrefu ya Bitcoin. Masuluhisho ya safu 2 (Layer 2), kama vile Lightning Network, yanaruhusu mabadiliko zaidi ya majaribio na yanaweza kubadilika kwa kasi ya Address na masuala ya faragha kwa urahisi zaidi. Tabaka zote mbili zina jukumu muhimu katika maendeleo yanayoendelea ya Bitcoin.
 
@@ -829,7 +829,7 @@ Nchini Guatemala, uwekaji muhuri wa matokeo ya uchaguzi ulikuwa na jukumu muhimu
 
 ### Kutambua na Kupunguza Vitisho Vinavyowezekana
 
-Muundo wa vitisho ni mchakato wa kutambua vitisho vya usalama vinavyoweza kutokea na kuunda mikakati ya kukabiliana navyo. Hii inahusisha kuelewa mazingira ya mfumo, kutambua washambuliaji wanaowezekana, na kuunda protocol salama kulingana na mawazo na uchanganuzi wa uwezekano.
+Muundo wa vitisho ni mchakato wa kutambua vitisho vya usalama vinavyoweza kutokea na kuunda mikakati ya kukabiliana navyo. Hii inajumuisha kuelewa mazingira ya mfumo, kutambua washambuliaji wanaowezekana, na kuunda protocol salama kulingana na tathmini na uchanganuzi wa uwezekano.
 
 #### Kuunda protocol Salama
 
@@ -849,7 +849,7 @@ Kuelewa jukumu la motisha ni muhimu katika kudumisha usalama. Kwa mfano, modeli 
 
 #### Kulinda wallet za Bitcoin
 
-Mikakati ya kupata Wallet za Bitcoin ni pamoja na usanidi wa sahihi nyingi na uhifadhi wa aina mbalimbali. Mbinu hizi huhakikisha kwamba hata kama kijenzi kimoja kimeathiriwa, usalama wa jumla unasalia kuwa sawa.
+Mikakati ya kupata Wallet za Bitcoin ni pamoja na usanidi wa multi-signature na uhifadhi wa aina mbalimbali. Mbinu hizi huhakikisha kwamba hata kama kijenzi kimoja kimeathiriwa, usalama wa jumla unasalia kuwa sawa.
 
 #### Umuhimu wa Uthibitishaji
 
@@ -961,7 +961,7 @@ Katika sehemu hii, tutachunguza matumizi ya dhana hizi katika maendeleo ya ulimw
 
 #### Hitimisho
 
-Katika mhadhara huu, tumechunguza dhana za kimsingi za cryptography ambazo zinasimamia usalama na utendakazi wa Bitcoin. Kuanzia majukumu muhimu ya utendakazi wa Hash, Merkle tree, na Digital Signatures hadi hisabati changamano ya cryptography ya Elliptic Curve, hivi vipengele huunda uti wa mgongo wa mtandao uliogatuliwa wa Bitcoin. Kuelewa dhana hizi sio tu kuhusu kufahamu nadharia—ni kuhusu kutambua athari za vitendo na mitego inayoweza kutokea katika maendeleo ya ulimwengu halisi.
+Katika mhadhara huu, tumechunguza dhana za msingi za cryptography zinazohakikisha usalama na utendaji wa Bitcoin. Kuanzia majukumu muhimu ya hash, Merkle tree, na digital signatures hadi hisabati changamano ya cryptography ya elliptic curve, vipengele hivi huunda uti wa mgongo wa mtandao uliogatuliwa wa Bitcoin. Kuelewa dhana hizi si tu kuhusu nadharia, bali pia ni kutambua athari za vitendo na mitego inayoweza kutokea katika maendeleo ya ulimwengu halisi.
 
 Kama watengenezaji wa Bitcoin, ni muhimu kushughulikia utekelezaji wa cryptography kwa tahadhari na usahihi. Usalama wa mtandao wa Bitcoin unategemea pakubwa matumizi sahihi na salama ya kanuni hizi za cryptography. Iwe unathibitisha miamala, unaunda vipengele vipya, au unahakikisha uadilifu wa Blockchain, ujuzi wa kina wa usimbaji fiche utakuwezesha kuunda suluhu thabiti zaidi, salama na bunifu ndani ya mfumo ikolojia wa Bitcoin.
 
@@ -977,7 +977,7 @@ Kwa kufahamu dhana hizi na kuzingatia mbinu bora zaidi, utakuwa umejitayarisha v
 
 ### Asili ya Bitcoin
 
-Bitcoin ni sarafu ya kidijitali inayofanya kazi kwa protocol ya makubaliano, seti ya sheria zilizokubaliwa na washiriki wa mtandao ili kuhakikisha usawa na utendakazi. Kiini chake, Bitcoin ni Leja iliyogatuliwa inayojulikana kama Blockchain, ambapo miamala hurekodiwa na kuthibitishwa na node za mtandao. Full node, ambazo huhifadhi historia nzima ya Bitcoin Blockchain, zina jukumu muhimu katika kudumisha uadilifu wa Leja hii. Aina zingine za node, kama vile node za kumbukumbu, node zilizokatwa, na node za SPV (Simplified Payment Verification), pia huchangia kwenye mtandao kwa njia mbalimbali. protocol ya makubaliano inahakikisha kwamba node hizi zote zinakubaliana kuhusu hali ya Blockchain, na kufanya Bitcoin kuwa imara dhidi ya udhibiti na ulaghai.
+Bitcoin ni sarafu ya kidijitali inayofanya kazi kwa protocol ya makubaliano, seti ya sheria zilizokubaliwa na washiriki wa mtandao ili kuhakikisha usawa na utendakazi. Kiini chake, Bitcoin ni Ledger iliyogatuliwa inayojulikana kama Blockchain, ambapo miamala hurekodiwa na kuthibitishwa na node za mtandao. Full node, ambazo huhifadhi historia nzima ya Bitcoin Blockchain, zina jukumu muhimu katika kudumisha uadilifu wa Ledger hii. Aina zingine za node, kama vile node za kumbukumbu, node zilizokatwa, na node za SPV (Simplified Payment Verification), pia huchangia kwenye mtandao kwa njia mbalimbali. protocol ya makubaliano inahakikisha kwamba node hizi zote zinakubaliana kuhusu hali ya Blockchain, na kufanya Bitcoin kuwa imara dhidi ya udhibiti na ulaghai.
 
 #### Kuzuia Mabadiliko
 
@@ -1950,7 +1950,7 @@ Kwa muhtasari, utendakazi sahihi wa node huhakikisha malipo ya atomiki, na Light
 
 :::video id=f0d17fe4-d793-4b90-924e-b551db501fbb:::
 
-Mtandao wa Bitcoin unafanya kazi kama mfumo wa Trustless wa thamani wa exchange, unaotumika kimsingi kama suluhu la safu ambapo miamala hurekodiwa kwenye Leja ya umma. Hii inahakikisha usalama na kutobadilika lakini inakuja na vikwazo, haswa katika suala la kasi ya ununuzi na ada. Matokeo yake, Bitcoin inaweza kuwa na ufanisi kwa shughuli ndogo za kila siku.
+Mtandao wa Bitcoin unafanya kazi kama mfumo wa Trustless wa thamani wa exchange, unaotumika kimsingi kama suluhu la safu ambapo miamala hurekodiwa kwenye Ledger ya umma. Hii inahakikisha usalama na kutobadilika lakini inakuja na vikwazo, haswa katika suala la kasi ya ununuzi na ada. Matokeo yake, Bitcoin inaweza kuwa na ufanisi kwa shughuli ndogo za kila siku.
 
 Ingiza Lightning Network, ambayo inafanya kazi kama safu ya pili juu ya Bitcoin Blockchain. Mtandao huu wa malipo umeundwa ili kuwezesha miamala ya haraka na ya gharama nafuu. Kwa kufungua njia ya malipo kati ya pande mbili, wanaweza kufanya shughuli za off-chain, kurekodi tu salio la awali na la mwisho kwenye Bitcoin Blockchain. Hii inapunguza kwa kiasi kikubwa mzigo kwenye mtandao kuu, kuongeza kasi na kufanya shughuli ndogo iwezekanavyo.
 
