@@ -985,11 +985,11 @@ Utawala katika Bitcoin ni muhimu ili kuzuia mabadiliko ya kiholela au hasidi kwa
 
 Utekelezaji wa Msingi wa Bitcoin na mbadala una watunzaji ambao husimamia uundaji na utunzaji wa programu. Wasimamizi hawa wana wajibu wa kuunganisha mabadiliko ya misimbo, kuhakikisha kwamba wanazingatia sheria za maafikiano na hawaanzishi udhaifu.
 
-#### Uma nyororo (Soft fork) vs Uma ngumu (Hard fork)
+#### soft fork  vs Hard fork
 
 Uma nyororo (Soft fork) ni mabadiliko ambayo yanaimarisha sheria zilizopo za protocol ya Bitcoin, na kufanya baadhi ya miamala halali ya awali kuwa batili. Zinaendana nyuma, kumaanisha kuwa node ambazo hazijasasishwa bado zitatambua sheria mpya. Mfano wa Uma nyororo (Soft fork) ni kurekebisha kwa software bug mwaka 2010, ambayo ilizuia kuundwa kwa fedha kutoka kwa hewa nyembamba.
 
-Uma ngumu ni mabadiliko yanayolegeza sheria zilizopo, kuruhusu aina mpya za miamala. Hizi haziambatani na kurudi nyuma, kumaanisha kuwa node ambazo hazijasasishwa hazitatambua sheria mpya. Mfano wa Uma ngumu unaweza kuhitajika kwa tatizo la Mwaka 2106 ili kuhakikisha Bitcoin inaendelea kufanya kazi zaidi ya tarehe hii.
+Hard fork ni mabadiliko yanayolegeza sheria zilizopo, kuruhusu aina mpya za miamala. Hizi haziambatani na kurudi nyuma, kumaanisha kuwa node ambazo hazijasasishwa hazitatambua sheria mpya. Mfano wa Hard fork unaweza kuhitajika kwa tatizo la Mwaka 2106 ili kuhakikisha Bitcoin inaendelea kufanya kazi zaidi ya tarehe hii.
 
 ![Image](assets/en/2/12.webp)
 
@@ -997,13 +997,13 @@ Uma ngumu ni mabadiliko yanayolegeza sheria zilizopo, kuruhusu aina mpya za miam
 
 ### Mifano ya Utawala
 
-Mifano kadhaa za ulimwengu halisi zinaonyesha utawala wa Bitcoin kwa vitendo. Marekebisho ya mdudu yaliyofurika mnamo 2010 ilikuwa Uma nyororo (software) ambayo ilishughulikia dosari muhimu. Tatizo la Mwaka 2106 huenda likahitaji Uma ngumu hadi Address athari zake. Mpito kutoka kwa msururu mrefu hadi msururu wa kazi zaidi unaonyesha uamuzi muhimu wa utawala ambao uliathiri jinsi maafikiano yanavyopatikana.
+Mifano kadhaa za ulimwengu halisi zinaonyesha utawala wa Bitcoin kwa vitendo. Marekebisho ya mdudu yaliyofurika mnamo 2010 ilikuwa soft fork (software) ambayo ilishughulikia dosari muhimu. Tatizo la Mwaka 2106 huenda likahitaji Hard fork hadi Address athari zake. Mpito kutoka kwa msururu mrefu hadi msururu wa kazi zaidi unaonyesha uamuzi muhimu wa utawala ambao uliathiri jinsi maafikiano yanavyopatikana.
 
 Utawala wa Bitcoin pia unashughulikia mabadiliko ya ulimwengu halisi katika matumizi ya protocol. Kwa mfano, utangulizi wa kanuni na maandishi huonyesha jinsi mabadiliko ya protocol yanaweza kushindwa kudhibiti miamala. Vile vile, utekelezaji wa Full RBF (Replace-by-fee) ulibadilisha taratibu za uingizwaji wa miamala bila kubadilisha sheria za makubaliano.
 
 #### Motisha za Mabadiliko na Makubaliano
 
-Mabadiliko kwenye Bitcoin yanaweza kuendeshwa na motisha mbalimbali, kama vile kurekebisha hitilafu muhimu, kuanzisha vipengele vipya, au kupunguza mabadiliko kutokana na sababu za kiuchumi au kisiasa. Motisha hizi mara nyingi husababisha mijadala ndani ya jamii kuhusu kile kinachojumuisha hitilafu dhidi ya kipengele na athari ya jumla kwenye mtandao.
+Mabadiliko katika Bitcoin yanaweza kuchochewa na motisha mbalimbali, kama vile kurekebisha hitilafu muhimu, kuanzisha vipengele vipya, au kupunguza madhara yanayotokana na sababu za kiuchumi au kisiasa. Motisha hizi mara nyingi husababisha mijadala ndani ya jamii kuhusu nini hasa kinapaswa kuchukuliwa kuwa hitilafu na nini ni kipengele, pamoja na athari pana za mabadiliko hayo kwenye mtandao.
 
 Utaratibu wa makubaliano wa Bitcoin unaifanya kuwa ya kisiasa, inayohitaji makubaliano mapana ili mabadiliko yakubalike. Kipengele hiki cha kisiasa ni muhimu kwa kudumisha hali ya ugatuzi wa mtandao na kuhakikisha kuwa marekebisho yoyote ni kwa manufaa ya jumuiya.
 
@@ -1011,7 +1011,7 @@ Node zinazoendesha zinaweza kuthibitisha sheria za Bitcoin na kushiriki katika m
 
 ### Mjadala wa Ukubwa wa kuzuia
 
-Mjadala wa blocksize ulikuwa suala muhimu la utawala, linalohusu kama kuongeza ukubwa wa blocks za Bitcoin. Mzozo huu ulitatuliwa na utekelezaji wa SegWit, Uma nyororo( soft fork)  ambao uliongeza ukubwa wa kuzuia ufanisi na kuwezesha Lightning Network.
+Mjadala wa blocksize ulikuwa suala muhimu la utawala, linalohusu kama kuongeza ukubwa wa blocks za Bitcoin. Mzozo huu ulitatuliwa na utekelezaji wa SegWit,  soft fork  ambao uliongeza ukubwa wa kuzuia ufanisi na kuwezesha Lightning Network.
 
 ![Image](assets/en/2/14.webp)
 
@@ -1019,15 +1019,15 @@ Mjadala wa blocksize ulikuwa suala muhimu la utawala, linalohusu kama kuongeza u
 
 Kumekuwa na majaribio ya kisheria ya kulazimisha wasanidi wa Bitcoin kubadilisha sheria za Blockchain kwa manufaa ya kibinafsi, kama vile mashtaka ya Craig Wright. Majaribio haya yanaangazia changamoto na mazingatio ya kimaadili yanayohusika katika utawala wa Bitcoin.
 
-Katika Bitcoin, utawala wa wengi una jukumu muhimu. Iwapo 60% ya miners watachukua sheria mpya, blocks vyao vitakataliwa na wale wanaoendesha Msingi wa awali wa Bitcoin, na kusababisha mgawanyiko. Mfano wa Uma ngumu iliyoshindwa kutokana na ukosefu wa usaidizi wa jamii ni Maono ya Bitcoin Satoshi (BSV).
+Katika Bitcoin, utawala wa wengi una jukumu muhimu. Iwapo 60% ya miners watachukua sheria mpya, blocks zao zitakataliwa na wale wanaoendesha Msingi wa awali wa Bitcoin, na kusababisha mgawanyiko. Mfano wa Hard fork iliyoshindwa kutokana na ukosefu wa usaidizi wa jamii ni Bitcoin Satoshi's Vision (BSV).
 
 Wacha tupitie kwa ufupi dhana kadhaa muhimu.
 
-**Kulazimishwa kwa uma nyororo: (Forced soft fork)**: Dhana ya kutekeleza sheria zenye vikwazo ili kubadilisha Bitcoin inaweza kusababisha migawanyiko zaidi na masuala ya utawala. Mbinu hii inaonyesha utata na migogoro inayoweza kutokea ndani ya jumuiya ya Bitcoin.
+**Kulazimishwa kwa soft fork: (Forced soft fork)**: Dhana ya kutekeleza sheria zenye vikwazo ili kubadilisha Bitcoin inaweza kusababisha migawanyiko zaidi na masuala ya utawala. Mbinu hii inaonyesha utata na migogoro inayoweza kutokea ndani ya jumuiya ya Bitcoin.
 
 **51% Attack**: 51% Attack linaelezea hali ambapo nguvu nyingi za hashing zinaweza kushambulia Bitcoin kwa blocks tupu za miners. Hii inaweza kuua mtandao ipasavyo isipokuwa jumuiya ipitishe sheria mpya za makubaliano kwa address ya shambulio hilo.
 
-**Check-Lock-Time-Verify (CLTV)**: Check-Lock-Time-Verify (CLTV) ni mfano wa mabadiliko ya utawala yaliyotekelezwa kama Uma nyororo. CLTV huhakikisha kwamba miamala ni halali baada ya muda fulani pekee, ambayo ni muhimu kwa njia za malipo na vitufe vya kuhifadhi nakala. Mabadiliko haya yaliimarisha sheria kwa kutumia opcode ambayo hapo awali haikufanya chochote.
+**Check-Lock-Time-Verify (CLTV)**: Check-Lock-Time-Verify (CLTV) ni mfano wa mabadiliko ya utawala yaliyotekelezwa kama soft fork. CLTV huhakikisha kwamba miamala ni halali baada ya muda fulani pekee, ambayo ni muhimu kwa njia za malipo na vitufe vya kuhifadhi nakala. Mabadiliko haya yaliimarisha sheria kwa kutumia opcode ambayo hapo awali haikufanya chochote.
 
 Kwa kumalizia, mustakabali na mabadiliko ya Bitcoin yanaamuliwa na mapenzi ya pamoja ya watumiaji wake. Mabadiliko makubwa yanahitaji maafikiano mapana, yanayoakisi hali ya ugatuzi na kisiasa ya utawala wa Bitcoin.
 
@@ -1133,12 +1133,12 @@ Udhibiti una jukumu kubwa katika kuunda mazingira ya mining. Kwa mfano, marufuku
 2. **Mipango ya Zawadi**: Mbinu tofauti za zawadi, kama vile Pay-Per-Share (PPS) na zawadi sawia, hutoa wasifu mbalimbali wa hatari na zawadi kwa miners.
 
 
-   - **Lipa kwa kila hisa**: Pay-Per-Share huwatuza miners kwa kila hisa halali wanayowasilisha, bila kujali kama bwawa litapata kizuizi. **Hisa** ni vitengo vya uthibitisho kwamba miners wamekamilisha kazi inayohitajika, na bwawa huthibitisha hisa hizi.
+   - **Lipa kwa kila hisa**: Pay-Per-Share huwatuza miners kwa kila hisa halali wanayowasilisha, bila kujali kama pool itapata block. **Hisa** ni vitengo vya uthibitisho kwamba miners wamekamilisha kazi inayohitajika, na pool huthibitisha hisa hizi.
 
 ![pps](assets/en/bonus/mining/6.webp)
 
 
-   - **Uwiano**: Inategemea bwawa la mining kizuizi ili kusambaza zawadi kwa usawa kwa mchango wa Mchimbaji kwa jumla ya Hashrate ya bwawa.
+   - **Uwiano**: Inategemea pool ya mining block ili kusambaza zawadi kwa usawa kwa mchango wa Miner kwa jumla ya Hashrate ya pool.
 
 ![prop](assets/en/bonus/mining/5.webp)
 
@@ -1154,7 +1154,7 @@ Huduma zilizopangishwa za mining zinaweza kutoa gharama za chini za uendeshaji l
 
 Protocol za usalama za hali ya juu na matumizi ya nishati mbadala sio tu kwamba huongeza faida bali pia huchangia ukuaji endelevu wa mfumo ikolojia wa mining.
 
-Kwa kumalizia, ulimwengu wa mining wa Bitcoin ni kikoa changamano, chenye nyuso nyingi ambacho kinahitaji uelewa wa kina wa mienendo ya kiufundi, kimkakati, udhibiti na soko. Iwe wewe ni Mchimbaji aliyebobea au unaanza tu, kukaa na habari na kubadilika ni ufunguo wa kustawi katika nyanja hii inayoendelea kubadilika. Asante kwa umakini wako, na ninatarajia maswali na mijadala yako.
+Kwa kumalizia, ulimwengu wa mining wa Bitcoin ni kikoa changamano, chenye nyuso nyingi ambacho kinahitaji uelewa wa kina wa mienendo ya kiufundi, kimkakati, udhibiti na soko. Iwe wewe ni Miner aliyebobea au unaanza tu, kukaa na habari na kubadilika ni ufunguo wa kustawi katika nyanja hii inayoendelea kubadilika. Asante kwa umakini wako, na ninatarajia maswali na mijadala yako.
 
 
 # Dhana za Layer Moja
@@ -1992,7 +1992,7 @@ HTLC zina jukumu muhimu katika uelekezaji wa malipo wa mtandao, kuruhusu miamala
 
 #### Ujumbe Maalum
 
-Ujumbe mahususi kama vile `Ada ya Usasishaji` hurekebisha ada za Mchimbaji kwa miamala ya kujitolea, huku ujumbe wa `Kuanzisha Upya wa Kituo` huhakikisha programu zingine zote mbili zinasawazishwa baada ya kukatika.
+Ujumbe mahususi kama vile `Ada ya Usasishaji` hurekebisha ada za Miner kwa miamala ya kujitolea, huku ujumbe wa `Kuanzisha Upya wa Kituo` huhakikisha programu zingine zote mbili zinasawazishwa baada ya kukatika.
 
 #### Kufunga Vituo
 
