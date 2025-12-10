@@ -33,7 +33,7 @@ Chapisho la asili ni lifuatalo:
 ## Kwa nini Electrum?
 
 
-Huu ni mwongozo wa kina wa jinsi ya kutumia Electrum Bitcoin Wallet, ikiwa na suluhu kwa mitego yake yote na mambo ya ajabu -jambo ambalo nimeunda baada ya miaka kadhaa ya matumizi, na kufundisha wanafunzi kuhusu usalama/faragha ya Bitcoin. Electrum sio Bitcoin Wallet bora zaidi kwa mtu ambaye anataka kuweka kila kitu rahisi iwezekanavyo, na akipendelea kubaki katika kiwango cha kwanza. Badala yake, ni kwa mtu ambaye ni, au anatamani kuwa, mtumiaji wa "nguvu".
+Huu ni mwongozo huu wa kina wa jinsi ya kutumia Electrum Bitcoin Wallet, ikiwa na suluhu kwa mitego yake yote na mambo ya ajabu -jambo ambalo nimeunda baada ya miaka kadhaa ya matumizi, na kufundisha wanafunzi kuhusu usalama/faragha ya Bitcoin. Electrum sio Bitcoin Wallet bora zaidi kwa mtu ambaye anataka kuweka kila kitu rahisi iwezekanavyo, na akipendelea kubaki katika kiwango cha kwanza. Badala yake, ni kwa mtu ambaye ni, au anatamani kuwa, mtumiaji wa "nguvu".
 
 
 Kwa Bitcoiner mpya, ni bora ikiwa tu chini ya usimamizi wa mtumiaji mwenye uzoefu kuwaonyesha njia. Iwapo watajifunza kuitumia peke yao, itakuwa salama mradi watachukua muda wao na kuitumia katika mazingira ya majaribio yenye idadi ndogo tu ya Sats mwanzoni. Mwongozo huu unaunga mkono jitihada hiyo, lakini pia ni marejeleo mazuri kwa mtu mwingine yeyote.
