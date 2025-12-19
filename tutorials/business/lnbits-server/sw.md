@@ -1,6 +1,6 @@
 ---
-name: LNbits server
-description: Ufungaji na usanidi wa LNbits server inayojiendesha yenyewe kwenye Ubuntu VPS na Phoenixd au kwenye Umbrel.
+name: LNbits Server
+description: Ufungaji na usanidi wa seva ya LNbits inayojiendesha yenyewe kwenye Ubuntu VPS na Phoenixd au kwenye Umbrel.
 ---
 
 ![cover](assets/cover.webp)

@@ -1,5 +1,5 @@
 ---
-name: BTCpay-server
+name: BTCPay Server
 description: Kukubali malipo ya BTC bila waamuzi
 ---
 

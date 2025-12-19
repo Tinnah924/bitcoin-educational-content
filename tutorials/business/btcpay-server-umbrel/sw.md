@@ -1,6 +1,6 @@
 ---
 name: BTCPay Server - Umbrel
-description: Kusakinisha na kutumia BTPay Server kwenye Umbrel ili kukubali Bitcoin na Lightning
+description: Kusakinisha na kutumia Seva ya BTPay kwenye Umbrel ili kukubali Bitcoin na Umeme
 ---
 
 ![cover](assets/cover.webp)
