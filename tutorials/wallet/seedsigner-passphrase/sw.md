@@ -1,5 +1,5 @@
 ---
-name: BIP-39 seedsigner-passphrase
+name: BIP-39 Passphrase SeedSigner
 description: Je, ninawezaje kuongeza passphrase kwenye jalada langu la SeedSigner?
 ---
 
@@ -7,7 +7,7 @@ description: Je, ninawezaje kuongeza passphrase kwenye jalada langu la SeedSigne
 
 
 
-passphrase BIP39 ni nenosiri la hiari ambalo, pamoja na maneno ya mnemonic, hutoa safu ya ziada ya usalama kwa Bitcoin wallet za kuamua na za daraja. Katika somo hili, tutagundua pamoja jinsi ya kusanidi passphrase kwenye Bitcoin wallet yako inayotumiwa na SeedSigner.
+passphrase BIP39 ni nenosiri la hiari ambalo, pamoja na maneno ya mnemonic, hutoa safu ya ziada ya usalama kwa pochi za Bitcoin za kuamua na za daraja. Katika somo hili, tutagundua pamoja jinsi ya kusanidi passphrase kwenye Bitcoin wallet yako inayotumiwa na SeedSigner.
 
 
 
@@ -25,7 +25,7 @@ Kabla ya kuanza mafunzo haya, ikiwa hujui dhana ya passphrase, jinsi inavyofanya
 
 https://planb.academy/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14-bafdeb1adce7
 
-Kabla ya kuanza mafunzo haya, tafadhali hakikisha umeanzisha SeedSigner yako na kuunda kifungu chako cha kumbukumbu. Ikiwa hujafanya hivyo na SeedSigner yako ni mpya kabisa, fuata mafunzo ya Plan ₿ Academy. Ukikamilisha hatua hii, unaweza kurudi kwenye mafunzo haya.
+Kabla ya kuanza mafunzo haya, tafadhali hakikisha pia kuwa tayari umeanzisha SeedSigner yako na kuunda kifungu chako cha kumbukumbu. Ikiwa hujafanya hivyo, na SeedSigner yako ni mpya kabisa, fuata mafunzo kuhusu Plan ₿ Academy. Ukishakamilisha hatua hii, unaweza kurudi kwenye mafunzo haya:
 
 
 
@@ -35,7 +35,7 @@ https://planb.academy/tutorials/wallet/hardware/seedsigner-2b274bff-6fc8-407a-92
 
 
 
-Kuongeza passphrase kwenye kwingineko yako inayodhibitiwa kupitia SeedSigner hutengeneza jalada jipya kabisa na funguo tofauti kabisa. Kwa hivyo, ikiwa tayari una kwingineko yenye sats, hutaweza tena kuipata kwa kutumia passphrase, kwani passphrase inazalisha kwingineko tofauti kabisa.
+Kuongeza passphrase kwenye kwingineko yako inayodhibitiwa kupitia SeedSigner hutengeneza jalada jipya kabisa, na kutengeneza funguo tofauti kabisa. Kwa hivyo, ikiwa tayari una kwingineko iliyo na satss, hutaweza tena kuipata na passphrase, kwani inazalisha kwingineko tofauti kabisa.
 
 
 
@@ -51,11 +51,11 @@ Bofya kitufe cha `BIP-39 Nenosiri`.
 
 
 
-Kisha ingiza passphrase ya chaguo lako katika sehemu uliyopewa, kwa kutumia kibodi ya skrini. Hakikisha kufanya nakala moja au zaidi za kimwili (karatasi au chuma): hasara ya passphrase hii itasababisha hasara ya kudumu ya upatikanaji wa bitcoins zako. **Ili kurejesha wallet, kumbukumbu na passphrase ni muhimu** Iwapo mojawapo itapotea, bitcoin zako zitazuiwa bila kurudishwa.
+Kisha ingiza passphrase ya chaguo lako katika sehemu uliyopewa, kwa kutumia kibodi ya skrini. Hakikisha kufanya nakala moja au zaidi za kimwili (karatasi au chuma): hasara ya passphrase hii itasababisha hasara ya kudumu ya upatikanaji wa bitcoins zako. **Ili kurejesha wallet, kumbukumbu na passphrase ni muhimu ** Iwapo mojawapo itapotea, bitcoins zako zitazuiwa bila kurudishwa.
 
 
 
-Mara tu unapokamilisha ingizo lako, thibitisha kwa kubofya kitufe cha `KEY3` chini kulia mwa Kiashiria cha Seed .
+Mara tu unapokamilisha ingizo lako, thibitisha kwa kubofya kitufe cha `KEY3` chini kulia mwa Kiashiria cha Mbegu.
 
 
 
@@ -73,10 +73,11 @@ SeedSigner kisha inaonyesha alama ya vidole mpya ya passphrase wallet yako. Teng
 
 
 
-Kwa mfano, ikiwa katika kesi yangu nitaandika kimakosa passphrase `Pba` wakati wa kuanzisha SeedSigner badala ya `pba`, mabadiliko haya madogo ya herufi kutoka ndogo kwenda kubwa yatasababisha kuundwa kwa kwingineko tofauti kabisa na ile unayotaka kufikia.
+Kwa mfano, ikiwa katika kesi yangu nitaandika kimakosa passphrase `Pba` wakati wa kuanzisha SeedSigner badala ya `pba`, mabadiliko haya rahisi kutoka herufi ndogo hadi herufi kubwa yatasababisha kuundwa kwa kwingineko tofauti kabisa na ile ninayotaka kufikia.
 
 
-Alama hii ya vidole haileti hatari yoyote kwa usalama au usiri wa wallet yako. Haifichui habari yoyote, ya umma au ya faragha, kuhusu funguo zako. Kwa hivyo, tofauti na mnemonic na passphrase, unaweza kuhifadhi alama za vidole kwenye njia ya kidijitali. Ninapendekeza uhifadhi nakala zake katika sehemu kadhaa: kwenye karatasi, kwenye meneja wa nenosiri, na nyinginezo.
+
+Alama hii ya vidole haileti hatari yoyote kwa usalama au usiri wa wallet yako. Haifichui habari yoyote, ya umma au ya faragha, kuhusu funguo zako. Kwa hivyo, tofauti na mnemonic na passphrase, unaweza kuhifadhi alama za vidole kwenye njia ya dijiti. Ninapendekeza uweke nakala katika sehemu kadhaa: kwenye karatasi, kwenye meneja wa nenosiri, nk.
 
 
 
@@ -100,7 +101,7 @@ Sasa unaweza kuleta duka la vitufe kwenye Sparrow Wallet na utumie wallet yako k
 
 
 
-Kabla hujatumia wallet yako yenye passphrase, ninapendekeza sana ufanye jaribio kamili la uokoaji tupu. Hii itakuruhusu kuthibitisha kuwa nakala zako za maneno ya mnemonic na passphrase ni sahihi. Ili kujifunza jinsi ya kufanya ukaguzi huu, angalia mafunzo yafuatayo:
+Kabla hujatumia wallet yako na passphrase, ninapendekeza sana ufanye jaribio kamili la uokoaji tupu. Hii itakuruhusu kuthibitisha kuwa nakala zako za maneno ya mnemonic na passphrase ni halali. Ili kujifunza jinsi ya kufanya ukaguzi huu, angalia mafunzo yafuatayo:
 
 
 
