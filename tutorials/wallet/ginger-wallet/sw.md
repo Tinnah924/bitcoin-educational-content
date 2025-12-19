@@ -1,20 +1,20 @@
 ---
-name: Tangawizi Wallet
+name: Ginger-Wallet
 description: Chanzo huria, programu ya kujilinda ya Bitcoin wallet, fork kutoka Wasabi Wallet, ikiunganisha Coinjoins
 ---
 ![cover](assets/cover.webp)
 
 
 
-Tangawizi Wallet ni chanzo huria, kwingineko isiyolindwa ya Bitcoin inayolenga usiri na faragha. Ilianza maisha kama fork kutoka Wasabi Wallet (baada ya toleo la 2.0.7.2 - leseni ya MIT).
+Ginger Wallet ni chanzo huria, kwingineko isiyolindwa ya Bitcoin inayolenga usiri na faragha. Ilianza maisha kama fork kutoka Wasabi Wallet (baada ya toleo la 2.0.7.2 - leseni ya MIT).
 
 
 
-Tangawizi Wallet huhifadhi usanifu wa kiufundi wa Wasabi huku ikiongeza vipengele vichache maalum. Kulingana na [hati ya Tangawizi Wallet](https://docs.gingerwallet.io/why-ginger/difference.html#gingerwallet), Wasabi anasisitiza **uwezo na udhibiti**, huku Tangawizi inazingatia **urahisi wa matumizi, usalama na matumizi yaliyorahisishwa**, na kuifanya iweze kufikiwa na wale wasiofahamu sana vipengele vya kiufundi.
+Ginger Wallet huhifadhi usanifu wa kiufundi wa Wasabi huku ikiongeza vipengele vichache maalum. Kulingana na [hati ya Tangawizi Wallet](https://docs.gingerwallet.io/why-ginger/difference.html#gingerwallet), Wasabi anasisitiza **uwezo na udhibiti**, huku Tangawizi inazingatia **urahisi wa matumizi, usalama na matumizi yaliyorahisishwa**, na kuifanya iweze kufikiwa na wale wasiofahamu sana vipengele vya kiufundi.
 
 
 
-Tangawizi Wallet ni programu ya wallet kwa kompyuta pekee (hakuna programu ya simu).
+Ginger Wallet ni programu ya wallet kwa kompyuta pekee (hakuna programu ya simu).
 
 
 
@@ -22,7 +22,7 @@ Tangawizi Wallet ni programu ya wallet kwa kompyuta pekee (hakuna programu ya si
 
 
 
-**coinjoin** ni muundo maalum wa muamala wa Bitcoin ambao huwaleta pamoja washiriki kadhaa katika muamala mmoja wa ushirikiano. Utaratibu huu unachanganya maingizo ya watumiaji mbalimbali katika shughuli ya kawaida, na kuifanya kuwa vigumu sana - ikiwa si mara nyingi haiwezekani, ikiwa inafanywa vizuri - kufuatilia fedha. Matokeo yake, inakuwa vigumu kwa mwangalizi wa nje kutambua kwa uhakika asili na marudio ya bitcoins zinazohusika, tofauti na shughuli za kawaida za Bitcoin.
+**coinjoin** ni muundo maalum wa muamala wa Bitcoin ambao huwaleta pamoja washiriki kadhaa katika muamala mmoja wa ushirikiano. Utaratibu huu unachanganya maingizo ya watumiaji mbalimbali katika miamala ya kawaida, na kuifanya kuwa vigumu sana - ikiwa si mara nyingi haiwezekani, ikiwa inafanywa vizuri - kufuatilia fedha. Matokeo yake, inakuwa vigumu kwa mwangalizi wa nje kutambua kwa uhakika asili na marudio ya bitcoins zinazohusika, tofauti na shughuli za kawaida za Bitcoin.
 
 
 
