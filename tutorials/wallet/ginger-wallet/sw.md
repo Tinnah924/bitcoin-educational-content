@@ -10,7 +10,7 @@ Ginger Wallet ni chanzo huria, kwingineko isiyolindwa ya Bitcoin inayolenga usir
 
 
 
-Ginger Wallet huhifadhi usanifu wa kiufundi wa Wasabi huku ikiongeza vipengele vichache maalum. Kulingana na [hati ya Tangawizi Wallet](https://docs.gingerwallet.io/why-ginger/difference.html#gingerwallet), Wasabi anasisitiza **uwezo na udhibiti**, huku Tangawizi inazingatia **urahisi wa matumizi, usalama na matumizi yaliyorahisishwa**, na kuifanya iweze kufikiwa na wale wasiofahamu sana vipengele vya kiufundi.
+Ginger Wallet huhifadhi usanifu wa kiufundi wa Wasabi huku ikiongeza vipengele vichache maalum. Kulingana na [hati ya Ginger Wallet](https://docs.gingerwallet.io/why-ginger/difference.html#gingerwallet), Wasabi anasisitiza **uwezo na udhibiti**, huku Ginger inazingatia **urahisi wa matumizi, usalama na matumizi yaliyorahisishwa**, na kuifanya iweze kufikiwa na wale wasiofahamu sana vipengele vya kiufundi.
 
 
 
@@ -40,11 +40,11 @@ Ili kupata maelezo zaidi kuhusu coinjoin, angalia kozi ya BTC 204 ya Plan ₿ Ac
 
 https://planb.academy/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
-## Weka Tangawizi Wallet
+## Weka Ginger Wallet
 
 
 
-Ili kusakinisha Tangawizi Wallet, tembelea tovuti [Tangawizi Wallet](https://gingerwallet.io).
+Ili kusakinisha Ginger Wallet, tembelea tovuti [Ginger Wallet](https://gingerwallet.io).
 
 
 
@@ -81,7 +81,7 @@ Kisha kukimbia programu ya ufungaji.
 
 
 
-Fungua Tangawizi Wallet, chagua lugha unayopendelea.
+Fungua Ginger Wallet, chagua lugha unayopendelea.
 
 
 
@@ -89,7 +89,7 @@ Fungua Tangawizi Wallet, chagua lugha unayopendelea.
 
 
 
-Tangu mwanzo, Tangawizi inakukumbusha kuhusu gharama zinazohusika katika mchakato wa sanjari.
+Tangu mwanzo, Ginger inakukumbusha kuhusu gharama zinazohusika katika mchakato wa sanjari.
 
 
 
@@ -119,7 +119,7 @@ https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a
 
 
 
-Kwa usalama zaidi, Tangawizi Wallet inakupa chaguo la kuongeza passphrase.
+Kwa usalama zaidi, Ginger Wallet inakupa chaguo la kuongeza passphrase.
 
 
 
@@ -137,7 +137,7 @@ passphrase hii, ikishaongezwa, itaombwa kila unapojaribu kufikia kwingineko yako
 
 
 
-Tangawizi huwasha kiotomatiki chaguomsingi **Coinjoin** unapounda kwingineko yako. Umefahamishwa kuhusu hili na kisha unaweza kubinafsisha mpangilio ili kukidhi mahitaji yako.
+Ginger huwasha kiotomatiki chaguomsingi **Coinjoin** unapounda kwingineko yako. Umefahamishwa kuhusu hili na kisha unaweza kubinafsisha mpangilio ili kukidhi mahitaji yako.
 
 
 
@@ -150,7 +150,7 @@ Tangawizi huwasha kiotomatiki chaguomsingi **Coinjoin** unapounda kwingineko yak
 
 
 
-Mara tu unapounda jalada lako la kwanza, utapelekwa kwenye kiolesura cha Tangawizi Wallet.
+Mara tu unapounda jalada lako la kwanza, utapelekwa kwenye kiolesura cha Ginger Wallet.
 
 
 
@@ -158,7 +158,7 @@ Mara tu unapounda jalada lako la kwanza, utapelekwa kwenye kiolesura cha Tangawi
 
 
 
-Washa **Njia ya Busara**, ikiwa unataka kuficha salio kwenye pochi zako.
+Washa **Njia ya Busara**, ikiwa unataka kuficha salio kwenye wallet zako.
 
 
 
@@ -166,7 +166,7 @@ Washa **Njia ya Busara**, ikiwa unataka kuficha salio kwenye pochi zako.
 
 
 
-Unaweza kuunda portfolio nyingi kwenye Tangawizi Wallet. Bonyeza tu kwenye **Ongeza kwingineko**.
+Unaweza kuunda portfolio nyingi kwenye Ginger Wallet. Bonyeza tu kwenye **Ongeza kwingineko**.
 
 
 
@@ -174,7 +174,7 @@ Unaweza kuunda portfolio nyingi kwenye Tangawizi Wallet. Bonyeza tu kwenye **Ong
 
 
 
-Tangawizi inaauni matumizi ya jalada la maunzi kupitia kiolesura cha kawaida cha Bitcoin Core, ingawa ujumuishaji wa moja kwa moja kutoka au kwa kwingineko ya maunzi bado haujapatikana.
+Ginger inaauni matumizi ya jalada la maunzi kupitia kiolesura cha kawaida cha Bitcoin Core, ingawa ujumuishaji wa moja kwa moja kutoka au kwa kwingineko ya maunzi bado haujapatikana.
 
 
 
@@ -254,7 +254,7 @@ Kichupo hiki hukuwezesha kuwezesha Bitcoin Knots kufanya kazi wakati programu in
 
 
 
-Katika kichupo cha Usalama, unaweza kuwezesha uthibitishaji wa sababu mbili, kuwezesha au kuzima Tor na hata kuizima mara tu programu ya Tangawizi imefungwa.
+Katika kichupo cha Usalama, unaweza kuwezesha uthibitishaji wa sababu mbili, kuwezesha au kuzima Tor na hata kuizima mara tu programu ya Ginger imefungwa.
 
 
 
@@ -267,8 +267,8 @@ Katika kichupo cha Usalama, unaweza kuwezesha uthibitishaji wa sababu mbili, kuw
 
 
 
-- Kwa uthibitishaji wa vipengele viwili, hakikisha kwamba programu yako ya uthibitishaji inaauni itifaki ya SHA256 na misimbo yenye tarakimu 8. Tangawizi Wallet inahitaji msimbo wa 2FA wenye tarakimu 8 ili kuimarisha usalama. Umbizo hili refu zaidi hufanya msimbo kuwa mgumu zaidi kukisia au kuafikiana, na kutoa ulinzi mkubwa dhidi ya ufikiaji ambao haujaidhinishwa.
-- Kwa chaguo-msingi, trafiki yote ya mtandao wa Tangawizi hupitia Tor, na kuondoa hitaji la usanidi wa mwongozo. Ikiwa Tor tayari inatumika kwenye mfumo wako, Tangawizi itaipa kipaumbele kiotomatiki.
+- Kwa uthibitishaji wa vipengele viwili, hakikisha kwamba programu yako ya uthibitishaji inaauni itifaki ya SHA256 na misimbo yenye tarakimu 8. Ginger Wallet inahitaji msimbo wa 2FA wenye tarakimu 8 ili kuimarisha usalama. Umbizo hili refu zaidi hufanya msimbo kuwa mgumu zaidi kukisia au kuafikiana, na kutoa ulinzi mkubwa dhidi ya ufikiaji ambao haujaidhinishwa.
+- Kwa chaguo-msingi, trafiki yote ya mtandao wa Ginger hupitia Tor, na kuondoa hitaji la usanidi wa mwongozo. Ikiwa Tor tayari inatumika kwenye mfumo wako, Ginger itaipa kipaumbele kiotomatiki.
 
 
 
@@ -353,7 +353,7 @@ Ili kurudi kwenye usanidi wetu wa kwingineko, mara tu unapobofya vigezo vya kwin
 
 
 
-Ili kupokea bitcoins katika wallet yako kwenye Tangawizi Wallet:
+Ili kupokea bitcoins katika wallet yako kwenye Ginger Wallet:
 
 
 
@@ -426,7 +426,7 @@ Ili kufanya hivi:
 
 
 
-Ni rahisi kununua na kuuza Bitcoin ukitumia Tangawizi Wallet. Katika hatua chache tu, unaweza kutumia bitcoins zako.
+Ni rahisi kununua na kuuza Bitcoin ukitumia Ginger Wallet. Katika hatua chache tu, unaweza kutumia bitcoins zako.
 
 
 
@@ -563,8 +563,8 @@ Watumiaji wa Ginger Wallet wanaweza kuuza Bitcoin. Kitufe cha **Uza** kinaonekan
  - Ukishakubali ofa, utaelekezwa kwenye ukurasa wa mtoa huduma;
  - Fuata maagizo kwenye ukurasa wa muuzaji;
  - Wakati fulani, utapokea anwani ya mpokeaji na kiasi halisi cha kutuma;
- - Kisha rudi kwa Tangawizi Wallet ili kuendelea na mchakato;
- - Ukirudi kwenye Tangawizi Wallet, kisanduku kidadisi kitatokea, kitakachokuruhusu kuendelea kwa kubofya **Tuma**.
+ - Kisha rudi kwa Ginger Wallet ili kuendelea na mchakato;
+ - Ukirudi kwenye Ginger Wallet, kisanduku kidadisi kitatokea, kitakachokuruhusu kuendelea kwa kubofya **Tuma**.
 
 
 
@@ -572,7 +572,7 @@ Hii itafungua skrini ya **Tuma** ikiwa na anwani ya mpokeaji na kiasi kilichojaz
 
 
 
-## Kufanya coinjoin kwenye Tangawizi Wallet
+## Kufanya coinjoin kwenye Ginger Wallet
 
 
 
@@ -580,7 +580,7 @@ Hii itafungua skrini ya **Tuma** ikiwa na anwani ya mpokeaji na kiasi kilichojaz
 
 
 
-Linda usiri wa bitcoins zako kwa **Coinjoin**, iliyounganishwa moja kwa moja kwenye Tangawizi Wallet. wallet hutumia **WabiSabi**, itifaki ya kuunganisha sanjari ya Chaumian iliyoundwa kuwezesha kufikiwa zaidi na kwa ufanisi zaidi.
+Linda usiri wa bitcoins zako kwa **Coinjoin**, iliyounganishwa moja kwa moja kwenye Ginger Wallet. wallet hutumia **WabiSabi**, itifaki ya kuunganisha sanjari ya Chaumian iliyoundwa kuwezesha kufikiwa zaidi na kwa ufanisi zaidi.
 
 
 
@@ -600,11 +600,11 @@ Mchanganyiko kadhaa unaweza kufanywa hadi kiwango kinachohitajika cha kutokujuli
 
 
 
-Kwa chaguo-msingi, Tangawizi hutumia mratibu wake mwenyewe na vigezo vyote vilivyowekwa mapema na ada zilizohakikishwa. Saini za tokeni zenye thamani ya zaidi ya 0.03 BTC hulipa ada ya mratibu wa 0.3% pamoja na ada ya mining. Maingizo ya 0.03 BTC au chini, pamoja na mchanganyiko, hayaruhusiwi kutoka kwa ada za mratibu, hata baada ya muamala mmoja. Kwa hiyo, malipo yaliyofanywa na fedha za Coinjoin inaruhusu mtumaji na mpokeaji kuchanganya sarafu zao bila kulipa ada za mratibu.
+Kwa chaguo-msingi, Ginger hutumia mratibu wake mwenyewe na vigezo vyote vilivyowekwa mapema na ada zilizohakikishwa. Saini za tokeni zenye thamani ya zaidi ya 0.03 BTC hulipa ada ya mratibu wa 0.3% pamoja na ada ya mining. Maingizo ya 0.03 BTC au chini, pamoja na mchanganyiko, hayaruhusiwi kutoka kwa ada za mratibu, hata baada ya muamala mmoja. Kwa hiyo, malipo yaliyofanywa na fedha za Coinjoin inaruhusu mtumaji na mpokeaji kuchanganya sarafu zao bila kulipa ada za mratibu.
 
 
 
-Tangawizi hupendelea miunganisho ya sarafu na washiriki wengi zaidi kwa mizunguko midogo na ya haraka zaidi. Saini kubwa zaidi hutoa kutokujulikana zaidi, gharama ya chini na ufanisi mkubwa wa nafasi ya kuzuia.
+Ginger hupendelea miunganisho ya sarafu na washiriki wengi zaidi kwa mizunguko midogo na ya haraka zaidi. Saini kubwa zaidi hutoa kutokujulikana zaidi, gharama ya chini na ufanisi mkubwa wa nafasi ya kuzuia.
 
 
 
