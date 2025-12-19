@@ -175,7 +175,7 @@ Kiolesura cha IBI kinaonyesha salio lako katika satoshis na sarafu ya ndani (USD
 
 
 
-Ili kupokea satoshi, bonyeza "Pokea". Programu hutengeneza kiotomatiki msimbo wa QR na kuonyesha Lightning Addressiliyobinafsishwa (umbizo la nom@ibi.me). Shiriki Address hii au msimbo wa QR na mtumaji: pesa hufika papo hapo katika akaunti yako ya IBI.
+Ili kupokea satoshi, bonyeza "Pokea". Programu hutengeneza kiotomatiki msimbo wa QR na kuonyesha Lightning Address iliyobinafsishwa (umbizo la nom@ibi.me). Shiriki Address hii au msimbo wa QR na mtumaji: pesa hufika papo hapo katika akaunti yako ya IBI.
 
 
 
