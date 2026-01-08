@@ -16,7 +16,7 @@ objectives:
 Katika kozi hii ya vitendo, ambayo ilirekodiwa wakati wa semina iliyoandaliwa na Fulgur' Ventures mnamo Oktoba 2023, utaendeleza ujuzi wako wa Rust kwa kujenga vipengele na miradi midogo inayolenga Bitcoin. Tutaangazia misingi ya Rust, kwa nini Rust inatumika kwa ajili ya ukuzaji wa Bitcoin (usalama wa kumbukumbu, utendaji, na upatanifu salama), na jinsi ya kuanza na Lightning SDK ili kujenga vipengele vya malipo.
 
 
-Katika sura zote, utafanya mazoezi ya mifumo ya msingi ya Rust (umiliki, maisha, sifa, async), utafanya kazi na vitu vya awali vya Bitcoin (funguo, miamala, hati), na ujumuishe dhana za Umeme hatua kwa hatua (nodi, njia, ankara).
+Katika sura zote, utafanya mazoezi ya mifumo ya msingi ya Rust (umiliki, maisha, sifa, async), utafanya kazi na vitu vya awali vya Bitcoin (funguo, miamala, hati), na ujumuishe dhana za Lightning hatua kwa hatua (node, njia, invoice).
 
 
 Hakuna uundaji wa awali wa Rust au Bitcoin unaohitajika sana, ingawa ujuzi wa programu za msingi husaidia. Kozi hii ni rafiki kwa wanaoanza lakini inafaa vya kutosha kwa wahandisi wanaoingia Bitcoin.
@@ -50,7 +50,7 @@ Mafunzo haya yanakupa fursa ya kukuza ujuzi wako wa programu kwenye Lightning Ne
 
 **Sehemu ya 2: Jifunze kuandika msimbo kwa kutumia Rust**
 
-Katika sehemu hii, utagundua misingi ya Rust kupitia mfululizo wa sura zinazoendelea. Utajifunza kuandika msimbo wa Rust, kuelewa umahususi wake, na kufahamu vipengele vyake muhimu katika sehemu saba zilizo na maelezo. Moduli hii ni muhimu kuelewa kwa nini Rust ni lugha inayopendelewa kwa ajili ya uundaji wa Bitcoin.
+Katika sehemu hii, utagundua misingi ya Rust kupitia mfululizo wa sura zinazoendelea. Utajifunza kuandika msimbo wa Rust, kuelewa umahususi wake, na kufahamu vipengele vyake muhimu kupitia sehemu saba zilizo na maelezo ya kina. Moduli hii ni muhimu ili kuelewa kwa nini Rust ni lugha inayopendelewa kwa ajili ya uundaji wa Bitcoin.
 
 
 **Sehemu ya 3: Rust na Bitcoin**
@@ -60,7 +60,7 @@ Hapa, tutachunguza kwa undani kwa nini Rust ni chaguo linalofaa kwa ajili ya uun
 
 **Sehemu ya 4: Uundaji wa LNP/BP kwa kutumia SDK**
 
-Utajifunza jinsi ya kutengeneza nodi za LN kwa kutumia SDK mbalimbali kama vile Breez SDK na Greenlight kwa Lipa. Utaona jinsi ya kutekeleza programu za Lightning Network kwa kutumia maktaba zilizoundwa ili kurahisisha uundaji wa Bitcoin na Lightning.
+Utajifunza jinsi ya kutengeneza node za LN kwa kutumia SDK mbalimbali kama vile Breez SDK na Greenlight kwa Lipa. Utaona jinsi ya kutekeleza programu za Lightning Network kwa kutumia maktaba zilizoundwa ili kurahisisha uundaji wa Bitcoin na Lightning.
 
 
 Uko tayari kukuza ujuzi wako wa Lightning Network ukitumia Rust? Twende!
