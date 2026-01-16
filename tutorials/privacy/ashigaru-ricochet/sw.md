@@ -24,7 +24,7 @@ Lebo "coinjoined" inaweza kuathiri fungibility ya UTXO. Huluki zinazodhibitiwa, 
 
 
 
-Hapa ndipo mbinu ya Ricochet inapoingia. Ili kufifisha alama iliyoachwa kwa sanjari, Ricochet hutekeleza miamala minne mfululizo ambapo mtumiaji huhamisha pesa zake kwake kwa address tofauti. Baada ya msururu huu wa miamala, zana ya Ricochet hatimaye huelekeza bitcoin hadi mahali pa mwisho, kama vile jukwaa la exchange. Kusudi ni kuunda umbali kati ya miamala ya awali ya sainjoin na kitendo cha mwisho cha matumizi. Kwa njia hii, zana za  zitadhani kuwa labda kumekuwa na uhamishaji wa umiliki baada ya sanjari, na kwa hivyo hakuna haja ya kuchukua hatua dhidi ya mtoaji.
+Hapa ndipo mbinu ya Ricochet inapoingia. Ili kufifisha alama iliyoachwa kwa sanjari, Ricochet hutekeleza miamala minne mfululizo ambapo mtumiaji huhamisha pesa zake kwake kwa address tofauti. Baada ya msururu huu wa miamala, zana ya Ricochet hatimaye huelekeza bitcoin hadi mahali pa mwisho, kama vile jukwaa la exchange. Kusudi ni kuunda umbali kati ya miamala ya awali ya sainjoin na kitendo cha mwisho cha matumizi. Kwa njia hii, zana za Blockchain analysis zitadhani kuwa labda kumekuwa na uhamishaji wa umiliki baada ya sanjari, na kwa hivyo hakuna haja ya kuchukua hatua dhidi ya mtoaji.
 
 
 
@@ -58,7 +58,7 @@ Programu ya Ashigaru inatoa lahaja mbili za Ricochet:
 
 
 
-- Ricochet iliyoimarishwa, au "uwasilishaji kwa kasi", ambayo inatoa faida ya kueneza gharama za huduma za Ashigaru katika miamala mitano mfululizo. Chaguo hili pia huhakikisha kwamba kila shughuli inatangazwa kwa wakati tofauti na kurekodiwa katika kizuizi tofauti, ikiiga kwa karibu iwezekanavyo tabia ya mabadiliko ya umiliki. Ingawa ni polepole, njia hii ni bora kwa wale ambao hawana haraka, kwani huongeza ufanisi wa Ricochet kwa kuimarisha upinzani wake kwa uchambuzi wa mnyororo;
+- Ricochet iliyoimarishwa, au "uwasilishaji kwa kasi", ambayo inatoa faida ya kueneza gharama za huduma za Ashigaru katika miamala mitano mfululizo. Chaguo hili pia huhakikisha kwamba kila shughuli inatangazwa kwa wakati tofauti na kurekodiwa katika kizuizi tofauti, ikiiga kwa karibu iwezekanavyo tabia ya mabadiliko ya umiliki. Ingawa ni polepole, njia hii ni bora kwa wale ambao hawana haraka, kwani huongeza ufanisi wa Ricochet kwa kuimarisha upinzani wake kwa chain analysis;
 
 
 
