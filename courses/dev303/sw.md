@@ -321,24 +321,23 @@ println!("After fee: {} sats", wallet_balance); // 149,000
 ```
 
 
-### Aina za Kamba na Vipande
+### Aina za String na Slices
 
-
-Rust hutofautisha kati ya herufi halisi za mfuatano na aina ya String, ikiakisi mikakati tofauti ya usimamizi wa kumbukumbu na matumizi. Herufi halisi za mfuatano zimepachikwa moja kwa moja kwenye jozi iliyokusanywa na zina aina ya &str (kipande cha mfuatano), inayowakilisha mwonekano katika data ya mfuatano isiyobadilika. Herufi hizi halisi zinafaa kwa sababu hazihitaji mgao wa muda wa utekelezaji, lakini haziwezi kurekebishwa kwa kuwa ni sehemu ya msimbo wa programu.
+Rust hutofautisha kati ya string literals na aina ya String, jambo linaloonyesha mikakati tofauti ya usimamizi wa kumbukumbu (memory) na matumizi yake. String literals hupachikwa moja kwa moja ndani ya binary iliyokusanywa (compiled binary) na huwa na aina ya &str (string slice), ambayo inawakilisha mwonekano (view) wa data ya string isiyobadilika (immutable).
 
 
 Aina ya String, kwa upande mwingine, hudhibiti kumbukumbu inayotengwa kwa njia inayobadilika na inaweza kukua, kupungua, na kubadilishwa wakati wa runtime. Unaweza kuunda String kutoka kwa string literal kwa kutumia String::from() au mbinu zinazofanana, ambazo hutenga kumbukumbu kwenye heap na kunakili maudhui ya literal hiyo. Tofauti hii huruhusu Rust kuboresha utendaji (kwa kutumia string literals inapowezekana) na unyumbufu (kwa kutumia String pale ambapo mabadiliko yanahitajika).
 
-Vipande vya kamba (&str) hutoa ufupisho wenye nguvu wa kufanya kazi na sehemu za nyuzi bila kunakili data. Kipande kina kiashiria cha mwanzo wa data ya nyuzi na urefu, kinachokuruhusu kurejelea nyuzi ndogo kwa ufanisi. Sintaksia ya vipande hutumia masafa (k.m., &s[0..5]) kubainisha sehemu gani ya nyuzi ya kurejelea. Kwa sababu vipande ni marejeleo, vinakabiliwa na sheria za kukopa, kuzuia nyuzi msingi kurekebishwa wakati vipande vipo. Utekelezaji huu wa wakati wa kukusanya huzuia hitilafu za kawaida kama vile kufikia kumbukumbu batili baada ya nyuzi asili kutolewa au kurekebishwa.
+String slices (&str) hutoa ufupisho wenye nguvu wa kufanya kazi na sehemu za strings bila kunakili data. Kipande kina kiashiria cha mwanzo wa data ya strings na urefu, kinachokuruhusu kurejelea strings ndogo kwa ufanisi. Sintaksia ya vipande hutumia masafa (k.m., &s[0..5]) kubainisha sehemu gani ya strings ya kurejelea. Kwa sababu vipande ni marejeleo, vinakabiliwa na sheria za kukopa, kuzuia strings msingi kurekebishwa wakati vipande vipo. Utekelezaji huu wa wakati wa kukusanya huzuia hitilafu za kawaida kama vile kufikia kumbukumbu batili baada ya strings asili kutolewa au kurekebishwa.
 
 
-### Array, Vekta, na Vipande vya Jumla
+### Array, Vekta, na Generic Slices
 
 
-Wazo la kipande linaenea zaidi ya nyuzi hadi kwenye mfuatano wowote wa vipengele, na kutoa njia moja ya kufanya kazi na Array za ukubwa usiobadilika na vekta zinazobadilika. Array katika Rust zina urefu wake uliosimbwa katika aina yake (k.m., [i32; 5] kwa Array ya nambari tano za biti 32, na kuzifanya zifae kwa hali zinazohitaji dhamana ya ukubwa wa muda wa kukusanya. Kazi zinazokubali Array zinaweza kutekeleza mahitaji halisi ya urefu, muhimu kwa shughuli kama kazi za kriptografia zinazohitaji ingizo la ukubwa halisi.
+Wazo la slices linaenea zaidi ya string hadi kwenye mfuatano wowote wa elements, na kutoa njia moja ya kufanya kazi na Array za ukubwa usiobadilika na vekta zinazobadilika. Array katika Rust zina urefu wake uliosimbwa katika aina yake (k.m., [i32; 5] kwa Array ya nambari tano za biti 32, na kuzifanya zifae kwa hali zinazohitaji dhamana ya ukubwa wa muda wa kukusanya. Kazi zinazokubali Array zinaweza kutekeleza mahitaji halisi ya urefu, muhimu kwa shughuli kama kazi za cryptography zinazohitaji ingizo la ukubwa halisi.
 
 
-Vipande (&[T]) hutoa mbadala unaonyumbulika zaidi, unaowakilisha mwonekano katika mfuatano wowote wa vipengele vilivyounganishwa bila kujali hifadhi ya msingi. Unaweza kuunda vipande kutoka kwa array, vekta, au vipande vingine, na kipande hicho hicho kinaweza kurejelea sehemu tofauti za data katika maisha yake yote. Unyumbulifu huu hufanya vipande kuwa bora kwa kazi zinazohitaji kuchakata mfuatano bila kujali utaratibu maalum wa kuhifadhi au ukubwa halisi.
+Slices (&[T]) hutoa mbadala unaonyumbulika zaidi, unaowakilisha mwonekano katika mfuatano wowote wa elements zilizounganishwa bila kujali hifadhi ya msingi. Unaweza kuunda vipande kutoka kwa array, vekta, au vipande vingine, na kipande hicho hicho kinaweza kurejelea sehemu tofauti za data katika maisha yake yote. Unyumbulifu huu hufanya vipande kuwa bora kwa kazi zinazohitaji kuchakata mfuatano bila kujali utaratibu maalum wa kuhifadhi au ukubwa halisi.
 
 
 Uhusiano kati ya aina zinazomilikiwa (String, Vec<T>) na wenzao wa vipande vilivyokopwa (&str, &[T]) hufuata muundo thabiti katika Rust yote. Aina zinazomilikiwa hudhibiti kumbukumbu zao na zinaweza kurekebishwa, huku vipande vikitoa ufikiaji mzuri na wa kusoma pekee wa sehemu za data hiyo. Muundo huu huwezesha API ambazo zinaweza kunyumbulika (kukubali aina mbalimbali za ingizo kupitia vipande) na zenye ufanisi (kuepuka kunakili bila lazima), huku zikidumisha dhamana za usalama za Rust kupitia mfumo wa kukopa.
@@ -358,13 +357,13 @@ Miundo katika Rust hutumika kama msingi wa kuunda aina changamano za data, sawa 
 Rust hufuata kanuni maalum za majina ya miundo ambazo mkusanyaji atatekeleza kupitia maonyo. Majina ya miundo yanapaswa kutumia CamelCase (pia inajulikana kama PascalCase), huku majina ya sehemu ndani ya muundo yanapaswa kutumia snake_case yenye mistari ya chini. Kanuni hii husaidia kudumisha uthabiti katika besi za msimbo za Rust na kufanya msimbo usomeke zaidi kwa wasanidi programu wengine.
 
 
-Kuunda mifano ya miundo kunahitaji kubainisha thamani za sehemu zote kwa kutumia jina la muundo likifuatiwa na vibandiko vilivyopinda vyenye mgawo wa sehemu. Ukishakuwa na mfano wa muundo, unaweza kufikia na kurekebisha sehemu za kibinafsi kwa kutumia nukuu ya nukta, mradi mfano huo umetangazwa kuwa unaoweza kubadilika. Nukuu hii ya nukta hufanya kazi kwa uthabiti katika Rust, tofauti na lugha kama C++ ambapo unaweza kutumia waendeshaji tofauti kwa viashiria dhidi ya vitu vya moja kwa moja.
+Kuunda instances za structs kunahitaji kubainisha thamani za fields zote kwa kutumia jina la struct, likifuatiwa na mabano ya curly yenye ugawaji wa field. Mara tu unapokuwa na instance ya struct, unaweza kufikia na kurekebisha fields za kibinafsi kwa kutumia dot notation, mradi instance hiyo imetangazwa kuwa mutable. Dot notation hii hufanya kazi kwa uthabiti katika Rust, tofauti na lugha kama C++ ambako hutumia waendeshaji tofauti kulingana na kama unafanya kazi na pointers au objects za moja kwa moja.
 
 
-### Kazi za Mjenzi na Njia za Mkato za Sehemu
+### Constructor Functions na Field Shortcuts
 
 
-Rust haina wajenzi waliojengewa ndani kama lugha zingine zinazolenga vitu, lakini unaweza kuunda vitendaji vinavyorudisha mifano ya muundo ili kutumikia kusudi moja. Vitendaji hivi vya wajenzi kwa kawaida huchukua vigezo kwa baadhi au sehemu zote na vinaweza kuweka thamani chaguo-msingi kwa zingine. Wakati wa kuandika vitendaji kama hivyo, Rust hutoa mkato unaofaa: ikiwa kigezo kina jina sawa na sehemu ya muundo, unaweza kuandika jina la sehemu mara moja badala ya kulirudia katika umbizo la `sehemu: thamani`.
+Rust haina constructors waliojengewa ndani kama lugha zingine zinazolenga vitu (object-oriented languages), lakini unaweza kuunda vitendaji vinavyorudisha mifano ya muundo ili kutumikia kusudi moja. Vitendaji hivi vya wajenzi kwa kawaida huchukua vigezo kwa baadhi au sehemu zote na vinaweza kuweka thamani chaguo-msingi kwa zingine. Wakati wa kuandika vitendaji kama hivyo, Rust hutoa mkato unaofaa: ikiwa kigezo kina jina sawa na sehemu ya muundo, unaweza kuandika jina la sehemu mara moja badala ya kulirudia katika umbizo la `sehemu: thamani`.
 
 
 Mifano ya muundo pia inaweza kuundwa kwa kunakili thamani kutoka kwa mifano iliyopo kwa kutumia sintaksia ya sasisho la muundo. Kipengele hiki hukuruhusu kuunda mfano mpya huku ukibainisha sehemu unazotaka kubadilisha pekee, huku sehemu zingine zote zikinakiliwa kutoka kwa mfano uliopo. Hata hivyo, operesheni hii inafuata sheria za umiliki za Rust, ambayo ina maana kwamba aina zisizo za Nakala zitahamishwa kutoka kwa mfano chanzo, na hivyo kufanya sehemu za mfano asili zisiweze kutumika baadaye. Kikusanyaji hufuatilia hatua hizi zisizo kamili kwa busara, na kukuruhusu kuendelea kutumia sehemu ambazo hazikuhamishwa huku zikizuia ufikiaji wa sehemu zilizohamishwa.
@@ -376,7 +375,7 @@ Mifano ya muundo pia inaweza kuundwa kwa kunakili thamani kutoka kwa mifano iliy
 Rust inasaidia miundo ya tuple, ambayo ni miundo yenye sehemu zisizo na majina zinazofikiwa kwa faharasa badala ya jina. Hizi ni muhimu kwa aina rahisi za vifungashio au unapohitaji muundo lakini hazihitaji sehemu zilizopewa majina. Unafikia sehemu za muundo wa tuple kwa kutumia nukuu ya nukta ikifuatiwa na faharasa ya sehemu, kama vile `.0` kwa sehemu ya kwanza, `.1` kwa sehemu ya pili, na kadhalika. Mbinu hii inafanya kazi vizuri kwa miundo inayofunga thamani moja au yenye thamani chache zinazohusiana kwa karibu ambapo majina yanaweza kuwa yasiyo ya lazima.
 
 
-Miundo ya vitengo inawakilisha umbo rahisi zaidi la miundo—haina data kabisa. Ingawa hii inaweza kuonekana haina maana mwanzoni, miundo ya vitengo inakuwa na thamani inapofanya kazi na mfumo wa sifa wa Rust, kwani inaweza kutekeleza tabia bila kuhifadhi data yoyote. Miundo hii tupu hutumika kama alama au vishikilia nafasi katika ruwaza za Rust zilizoendelea zaidi.
+Miundo ya vitengo inawakilisha umbo rahisi zaidi wa structs—haina data kabisa. Ingawa hii inaweza kuonekana haina maana mwanzoni, miundo ya vitengo inakuwa na thamani inapofanya kazi na mfumo wa traits wa Rust, kwani inaweza kutekeleza tabia bila kuhifadhi data yoyote. Miundo hii tupu hutumika kama alama au vishikilia nafasi katika ruwaza za Rust zilizoendelea zaidi.
 
 
 ### Mbinu na Kazi Zinazohusiana
@@ -451,7 +450,7 @@ println!("Payment request: {}", request);
 Hesabu katika Rust zina uwezo zaidi kuliko enum katika lugha zingine nyingi. Ingawa zinaweza kuwakilisha seti rahisi za variables zilivyopewa majina, enum za Rust pia zinaweza kubeba data ndani ya kila lahaja, na kuzifanya zifae kwa hali za uundaji ambapo thamani inaweza kuwa moja ya aina au hali kadhaa tofauti. Kila lahaja ya enum inaweza kuwa na aina na kiasi tofauti cha data, kuanzia kutokuwa na data kabisa hadi miundo changamano yenye sehemu zilizopewa majina.
 
 
-Uwezo wa kuunganisha data kwenye vibadala vya enum huondoa makosa mengi ya kawaida ya programu yanayopatikana katika lugha zingine. Badala ya kudumisha variables tofauti kwa kiashiria cha aina na data inayohusiana—ambayo inaweza kuwa isiyolingana kwa urahisi—enum za Rust huunganisha taarifa za aina na data yenyewe. Muundo huu unahakikisha kwamba data inalingana na kigeu kila wakati, na kuzuia kutolingana ambako kunaweza kusababisha makosa ya wakati wa utekelezaji.
+Uwezo wa kuunganisha data kwenye vibadala vya enum huondoa makosa mengi ya kawaida ya programu yanayojitokeza katika lugha nyingine. Badala ya kudumisha variables tofauti kwa kiashiria cha aina na data inayohusiana—ambayo inaweza kuwa isiyolingana kwa urahisi—enum za Rust huunganisha taarifa za aina na data yenyewe. Muundo huu unahakikisha kwamba data inalingana na kigeu kila wakati, na kuzuia kutolingana ambako kunaweza kusababisha makosa wakati wa utekelezaji.
 
 
 Lahaja za Enum zinaweza kuwa na data katika aina kadhaa: hakuna data ya bendera rahisi, data inayofanana na tuple kwa sehemu zisizo na majina, au data inayofanana na muundo na sehemu zilizotajwa. Unaweza hata kuchanganya mitindo hii ndani ya enum moja, ukichagua umbo linalofaa zaidi kwa kila aina. Unyumbulifu huu hufanya enum zifae kwa ajili ya kuunda dhana changamano za kikoa ambapo kesi tofauti zinahitaji taarifa tofauti.
@@ -469,31 +468,30 @@ Kutumia aina za Chaguo hufanya msimbo wako kuwa imara zaidi kwa sababu mkusanyaj
 Aina ya Chaguo huunganishwa na mfumo wa kulinganisha ruwaza wa Rust, na kukuruhusu kushughulikia visa vyote viwili. Mbinu kama `unwrap_or()` hutoa njia rahisi za kutoa thamani zenye chaguo-msingi za kurudi nyuma, huku mbinu kama `map()` na `and_then()` zikiwezesha ruwaza za programu zinazofanya kazi kwa kufanya kazi na thamani za hiari.
 
 
-### Ulinganishaji wa Mifumo na Misemo Inayolingana
+### Pattern matching (Ulinganishaji wa Mifumo)  na Match Expressions
 
 
 Pattern matching kupitia `match` expressions hutoa njia ya kufanya kazi na enums na aina nyingine za data. `match` expression huchunguza value na kutekeleza msimbo tofauti kulingana na pattern ambayo value inalingana. Kila pattern inaweza ku-destructure muundo wa value inayolingana, ikiunganisha sehemu zake na variables zinazoweza kutumika ndani ya corresponding code block.
 
 
-Misemo ya ulinganishaji lazima iwe kamili, ikimaanisha lazima ishughulikie kila kesi inayowezekana kwa aina inayolinganishwa. Sharti hili huzuia hitilafu ambazo zinaweza kutokea ikiwa kesi fulani zingeachwa bila kushughulikiwa kwa bahati mbaya. Usipotaka kushughulikia kila kesi waziwazi, unaweza kutumia muundo wa wildcard (`_`) kukamata kesi zote zilizobaki, au kufunga kesi ambazo hazijashughulikiwa kwenye kigezo ikiwa unahitaji ufikiaji wa thamani.
+Pattern matching lazima iwe kamili, ikimaanisha lazima ishughulikie kila kesi inayowezekana kwa aina inayolinganishwa. Sharti hili huzuia hitilafu ambazo zinaweza kutokea ikiwa kesi fulani zingeachwa bila kushughulikiwa kwa bahati mbaya. Usipotaka kushughulikia kila kesi waziwazi, unaweza kutumia muundo wa wildcard (`_`) kukamata kesi zote zilizobaki, au kufunga kesi ambazo hazijashughulikiwa kwenye kigezo ikiwa unahitaji ufikiaji wa thamani.
 
 
-Muundo wa `ikiwa let` hutoa njia mbadala iliyofupishwa zaidi ya kulinganisha unapojali tu muundo mmoja maalum. Sintaksia hii ni muhimu sana unapofanya kazi na aina za Chaguo au unapotaka kutekeleza msimbo tu ikiwa thamani inalingana na lahaja fulani ya enum. Muundo wa `ikiwa let` unaweza kujumuisha kifungu cha `else` kwa hali ambapo muundo haulingani, na kuifanya kuwa njia rahisi ya kushughulikia hali rahisi za kulinganisha muundo.
+Muundo wa `if let` hutoa njia mbadala iliyofupishwa zaidi ya kulinganisha unapojali tu muundo mmoja maalum. Sintaksia hii ni muhimu sana unapofanya kazi na aina za Chaguo au unapotaka kutekeleza msimbo tu ikiwa thamani inalingana na lahaja fulani ya enum. Muundo wa `if let` unaweza kujumuisha kifungu cha `else` kwa hali ambapo muundo haulingani, na kuifanya kuwa njia rahisi ya kushughulikia hali rahisi za kulinganisha muundo.
 
 
 #### Mikusanyiko: Kusimamia Vikundi vya Data
 
 
-Maktaba ya kawaida ya Rust hutoa aina kadhaa za ukusanyaji kwa ajili ya kudhibiti makundi ya data zinazohusiana. Makusanyo haya ni ya jumla, ikimaanisha kuwa yanaweza kuhifadhi vipengele vya aina yoyote, na hushughulikia usimamizi wa kumbukumbu kiotomatiki. Makusanyo yanayotumika sana ni vekta kwa orodha zilizopangwa, ramani za hash kwa miunganisho ya thamani muhimu, na mifuatano ya data ya maandishi.
+Maktaba ya kawaida ya Rust hutoa aina kadhaa za makusanyo kwa ajili ya kudhibiti makundi ya data zinazohusiana. Makusanyo haya ni ya jumla, ikimaanisha kuwa yanaweza kuhifadhi vipengele vya aina yoyote, na yanashughulikia usimamizi wa kumbukumbu kiotomatiki. Makusanyo yanayotumika sana ni vekta kwa orodha zilizopangwa, ramani za hash kwa miunganisho ya thamani muhimu, na mifuatano ya data ya maandishi.
 
 
-#### Vekta: Array Zinazobadilika
-
+#### Vekta: Dynamic Arrays
 
 Vekta zinawakilisha array zinazoweza kupandwa ambazo zinaweza kubadilisha ukubwa wakati wa utekelezaji wa programu. Tofauti na array za ukubwa usiobadilika, vekta hugawa kumbukumbu kwenye rundo na zinaweza kupanuka au kupungua inapohitajika. Kuunda vekta mara nyingi kunahitaji ufafanuzi wa aina wazi wakati wa kuanza na vekta tupu, kwa kuwa mkusanyaji anahitaji kujua ni aina gani ya vipengele ambavyo vekta itakuwa navyo.
 
 
-Vekta hutoa njia nyingi za kufikia vipengele, kila moja ikiwa na sifa tofauti za usalama. Nukuu ya faharasa (`vec[0]`) hutoa ufikiaji wa moja kwa moja lakini itaogopa ikiwa faharasa imevuka mipaka. Mbinu ya `get()` hurudisha `Option`, ikikuruhusu kushughulikia ufikiaji wa nje ya mipaka kwa uzuri. Chaguo kati ya mbinu hizi inategemea kama unaweza kuhakikisha faharasa ni halali au unahitaji kushughulikia hitilafu zinazoweza kutokea.
+Vekta hutoa njia nyingi za kufikia elements, kila moja ikiwa na sifa tofauti za usalama. Nukuu ya faharasa (`vec[0]`) hutoa ufikiaji wa moja kwa moja lakini itaogopa ikiwa faharasa imevuka mipaka. Mbinu ya `get()` hurudisha `Option`, ikikuruhusu kushughulikia ufikiaji wa nje ya mipaka kwa uzuri. Chaguo kati ya mbinu hizi inategemea kama unaweza kuhakikisha faharasa ni halali au unahitaji kushughulikia hitilafu zinazoweza kutokea.
 
 
 Sheria za kukopa za Rust zinatumika kwa vekta, kuzuia masuala ya kawaida ya usalama wa kumbukumbu. Ukishikilia marejeleo ya kipengele cha vekta, huwezi kurekebisha vekta hadi marejeleo hayo yatoweke. Hii inazuia hali ambapo marejeleo yanaweza kuelekeza kwenye kumbukumbu iliyosambazwa baada ya shughuli za vekta kama vile kusukuma vipengele vipya au kusafisha vekta.
