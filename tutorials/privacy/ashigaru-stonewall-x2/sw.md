@@ -102,7 +102,7 @@ Hebu tuchukue mfano wa Alice, Bob na Boulanger. Muamala kwenye blockchain ingeon
 
 
 
-Mtazamaji wa nje anayetegemea heuristics ya chain analysis wa kawaida anaweza kuhitimisha kimakosa kwamba "*Alice na Bob zimeungana kidogo, zikiwa na UTXO moja ndani na UTXO mbili kila moja nje*".
+Mtazamaji wa nje anayetegemea heuristics ya chain analysis ya kawaida anaweza kuhitimisha kimakosa kwamba "*Alice na Bob zimeungana kidogo, zikiwa na UTXO moja ndani na UTXO mbili kila moja nje*".
 
 
 
@@ -131,7 +131,7 @@ Hata kama mwangalizi wa nje ataweza kutambua pattern ya muamala wa Stonewall x2,
 
 
 
-Kama ilivyo kwa miamala mingine shirikishi kwenye Ashigaru (*Cahoots*), Stonewall x2 inahusisha ubadilishanaji wa miamala ambayo haijatiwa saini kati ya mtumaji na mshirika. Ubadilishanaji huu unaweza kufanywa wewe mwenyewe, ikiwa uko pamoja na mshirika wako, au ukitumia kiotomatiki itifaki ya mawasiliano ya Soroban.
+Kama ilivyo kwa Collaborative transaction nyingine kwenye Ashigaru (*Cahoots*), Stonewall x2 inahusisha exchange ya miamala ambayo haijatiwa saini kati ya mtumaji na mshirika. Ubadilishanaji huu unaweza kufanywa wewe mwenyewe, ikiwa uko pamoja na mshirika wako, au ukitumia kiotomatiki itifaki ya mawasiliano ya Soroban.
 
 
 
@@ -145,7 +145,7 @@ https://planb.academy/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95
 
 
 
-Ili kutekeleza muamala wa Stonewall x2, bofya kwenye picha ya Paynym yako katika kona ya juu kushoto ya skrini, kisha ufungue menyu ya `Shirikiana`. Mtu anayeshiriki katika shughuli na wewe lazima afanye vivyo hivyo, isipokuwa kama unabadilishana misimbo ya QR ana kwa ana.
+Ili kutekeleza muamala wa Stonewall x2, bofya kwenye picha ya Paynym yako katika kona ya juu kushoto ya skrini, kisha ufungue menyu ya `Collaborate `. Mtu anayeshiriki katika muamala na wewe lazima afanye vivyo hivyo, isipokuwa kama unabadilishana misimbo ya QR ana kwa ana.
 
 
 
@@ -169,7 +169,7 @@ Ikiwa una jukumu la mshiriki, utaratibu ni rahisi sana. Kwa ushirikiano wa mbali
 
 
 
-Kwa upande mwingine, kwa ushirikiano wa ana kwa ana kupitia kuchanganua msimbo wa QR, nenda kwenye ukurasa wa nyumbani wa wallet yako, bonyeza aikoni ya msimbo wa QR juu ya skrini, kisha uchanganue msimbo wa QR uliotolewa na mlipaji anayeanzisha muamala.
+Kwa upande mwingine, kwa ushirikiano wa ana kwa ana kupitia kuchanganua msimbo wa QR, nenda kwenye ukurasa wa nyumbani wa Wallet yako, bonyeza aikoni ya msimbo wa QR juu ya skrini, kisha changanua msimbo wa QR uliotolewa na mlipaji anayeanzisha muamala.
 
 
 
@@ -205,7 +205,7 @@ Kisha unaweza kuchagua kati ya ushirikiano wa mtandaoni (*Cahoots* kupitia *Soro
 
 
 
-Ikiwa umechagua chaguo la `Mkondoni`, basi chagua mshirika wako kutoka kwa Paynyms unazofuata.
+Ikiwa umechagua chaguo la `Online`, basi chagua mshirika wako kutoka kwa Paynyms unazofuata.
 
 
 
@@ -221,7 +221,7 @@ Bofya kwenye `Sanidi muamala`, kisha uchague akaunti ambayo ungependa kufanya ma
 
 
 
-Kwenye ukurasa unaofuata, ingiza maelezo ya shughuli: anwani ya mpokeaji halisi wa malipo, kiasi cha kutumwa na kiwango cha malipo. Kisha bofya kwenye `Kagua usanidi wa muamala`.
+Kwenye ukurasa unaofuata, ingiza maelezo ya muamala: address ya mpokeaji halisi wa malipo, kiasi cha kutumwa na kiwango cha malipo. Kisha bofya kwenye `Kagua usanidi wa muamala`.
 
 
 
@@ -237,7 +237,7 @@ Angalia maelezo kwa makini, hakikisha kuwa mshirika wako anasikiliza maombi ya *
 
 
 
-Subiri hadi washiriki wote wawili wawe wametia saini muamala, kisha uyatangaze kwenye mtandao wa Bitcoin.
+Subiri hadi washiriki wote wawili wawe wametia saini muamala, kisha uyatangaze kwenye Bitcoin network.
 
 
 
@@ -249,7 +249,7 @@ Subiri hadi washiriki wote wawili wawe wametia saini muamala, kisha uyatangaze k
 
 
 
-Iwapo ungependa kufanya ubadilishanaji ana kwa ana, chagua aina ya muamala ya `STONEWALL X2`, kisha uchague chaguo la `Katika Mtu / Mwongozo`.
+Iwapo ungependa kufanya exchange ana kwa ana, chagua aina ya muamala ya `STONEWALL X2`, kisha uchague chaguo la `Katika Mtu / Mwongozo`.
 
 
 
@@ -265,7 +265,7 @@ Bofya kwenye `Sanidi muamala`, kisha uchague akaunti ambayo ungependa kufanya ma
 
 
 
-Kwenye ukurasa unaofuata, ingiza maelezo ya shughuli: anwani ya mpokeaji halisi wa malipo, kiasi cha kutumwa na kiwango cha malipo. Kisha bofya kwenye `Kagua usanidi wa muamala`.
+Kwenye ukurasa unaofuata, ingiza maelezo ya muamala: address ya mpokeaji halisi wa malipo, kiasi cha kutumwa na kiwango cha malipo. Kisha bofya kwenye `Kagua usanidi wa muamala`.
 
 
 
@@ -281,7 +281,7 @@ Angalia maelezo, kisha ubonyeze kitufe cha kijani `BEGIN BEGIN TRANSACTION` ili 
 
 
 
-Ubadilishanaji unafanywa kwa kubadilisha uchanganuzi na mshirika: bofya kwenye `ONYESHA Msimbo wa QR` ili kuonyesha msimbo wako wa QR kwa mshirika wako, ambaye ataichanganua. Kisha atabofya `SHOW QR CODE` ili kuonyesha yake, na utaichanganua kwa `LAUNCH QR Scanner`. Rudia utaratibu huu hadi hatua zote tano za kubadilishana zimekamilika.
+Exchange inafanywa kwa kubadilisha uchanganuzi na mshirika: bofya kwenye `ONYESHA Msimbo wa QR` ili kuonyesha msimbo wako wa QR kwa mshirika wako, ambaye ataichanganua. Kisha atabofya `SHOW QR CODE` ili kuonyesha yake, na utaichanganua kwa `LAUNCH QR Scanner`. Rudia utaratibu huu hadi hatua zote tano za kubadilishana zimekamilika.
 
 
 
@@ -313,11 +313,11 @@ Tunaweza kuchunguza michango miwili kutoka kwa jalada langu, mtawalia `91,869 sa
 
 
 
-Ni wazi, naweza kuelezea muundo huu kwa sababu nilijenga shughuli mwenyewe. Lakini kwa mtazamaji wa nje, kwa ujumla haiwezekani kuamua ni UTXO zipi ni za mshiriki yupi, ama katika pembejeo au matokeo.
+Ni wazi, naweza kuelezea muundo huu kwa sababu nilijenga muamala mwenyewe. Lakini kwa mtazamaji wa nje, kwa ujumla haiwezekani kuamua ni UTXO zipi ni za mshiriki yupi, ama katika pembejeo au matokeo.
 
 
 
-Ili kuongeza ujuzi wako wa usimamizi wa faragha wa onchain kwenye Bitcoin, ninapendekeza uchukue mafunzo yangu ya BTC 204 kuhusu Mpango ₿ Academy :
+Ili kuongeza ujuzi wako wa usimamizi wa faragha wa onchain kwenye Bitcoin, ninapendekeza uchukue mafunzo yangu ya BTC 204 kuhusu Plan ₿ Academy :
 
 
 
