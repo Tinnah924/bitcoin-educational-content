@@ -6,21 +6,21 @@ description: Kuelewa na kutumia miamala ya Stonewall kwenye Ashigaru
 
 
 
-> *Vunja mawazo ya uchanganuzi wa blockchain kwa shaka ya kihisabati kati ya mtumaji na mpokeaji wa miamala yako.*
+> *Vunja mawazo ya blockchain analysis kwa shaka ya kihisabati kati ya mtumaji na mpokeaji wa miamala yako.*
 
 ## Muamala wa Stonewall ni nini?
 
 
 
-Stonewall ni aina mahususi ya muamala wa Bitcoin iliyoundwa ili kuongeza usiri wa watumiaji wakati wa kutumia kwa kuiga muunganiko wa sarafu kati ya watu wawili, bila kuwa mmoja. Kwa kweli, muamala huu haushirikiani. Mtumiaji anaweza kuijenga peke yake, akitumia tu UTXO anazomiliki kama pembejeo. Kwa hivyo unaweza kuunda muamala wa Stonewall kwa hafla yoyote, bila kulazimika kusawazisha na mtumiaji mwingine.
+Stonewall ni aina mahususi ya muamala wa Bitcoin iliyoundwa ili kuongeza usiri wa watumiaji wakati wa kutumia kwa kuiga coinjoin kati ya watu wawili, bila kuwa mmoja. Kwa kweli, muamala huu haushirikiani. Mtumiaji anaweza kuijenga peke yake, akitumia tu UTXO anazomiliki kama pembejeo. Kwa hivyo unaweza kuunda muamala wa Stonewall kwa hafla yoyote, bila kulazimika kusawazisha na mtumiaji mwingine.
 
 
 
-Muamala wa Stonewall hufanya kazi kama ifuatavyo: kama ingizo kwa muamala, mtoaji hutumia 2 UTXO ambayo ni yake. Kwa upande wa pato, shughuli hutoa matokeo 4, 2 ambayo ni ya kiasi sawa. Nyingine 2 zitakuwa fedha za kigeni. Kati ya matokeo 2 ya kiasi sawa, moja tu ndiyo yataenda kwa anayelipwa.
+Muamala wa Stonewall hufanya kazi kama ifuatavyo: kama ingizo kwa muamala, mtoaji hutumia 2 UTXO ambayo ni yake. Kwa upande wa pato, muamala hutoa matokeo 4, 2 ambayo ni ya kiasi sawa. Nyingine 2 zitakuwa fedha za kigeni. Kati ya matokeo 2 ya kiasi sawa, moja tu ndiyo yataenda kwa anayelipwa.
 
 
 
-Kwa hivyo kuna majukumu 2 tu katika shughuli ya Stonewall:
+Kwa hivyo kuna majukumu 2 tu katika miamala ya Stonewall:
 
 
 
@@ -30,7 +30,7 @@ Kwa hivyo kuna majukumu 2 tu katika shughuli ya Stonewall:
 
 
 
-Hebu tuchukue mfano ili kuelewa muundo huu wa shughuli. Alice iko kwa mwokaji mkate ili kununua baguette yake, ambayo inagharimu `4,000 sats`. Anataka kulipa kwa bitcoins, huku akidumisha aina fulani ya usiri kuhusu malipo yake. Kwa hivyo anaamua kujenga shughuli ya Stonewall kwa malipo.
+Hebu tuchukue mfano ili kuelewa muundo huu wa muamala. Alice ako kwa mwokaji mkate ili kununua baguette yake, ambayo inagharimu `4,000 sats`. Anataka kulipa kwa bitcoin, huku akidumisha aina fulani ya usiri kuhusu malipo yake. Kwa hivyo anaamua kujenga muamala wa Stonewall kwa malipo.
 
 
 
