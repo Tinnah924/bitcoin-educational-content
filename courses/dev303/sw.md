@@ -326,7 +326,6 @@ println!("After fee: {} sats", wallet_balance); // 149,000
 
 Rust hutofautisha kati ya string literals na aina ya String, jambo linaloonyesha mikakati tofauti ya usimamizi wa kumbukumbu (memory) na matumizi yake. String literals hupachikwa moja kwa moja ndani ya binary iliyokusanywa (compiled binary) na huwa na aina ya &str (string slice), ambayo inawakilisha mwonekano (view) wa data ya string isiyobadilika (immutable).
 
-
 Aina ya String, kwa upande mwingine, hudhibiti kumbukumbu inayotengwa kwa njia inayobadilika na inaweza kukua, kupungua, na kubadilishwa wakati wa runtime. Unaweza kuunda String kutoka kwa string literal kwa kutumia String::from() au mbinu zinazofanana, ambazo hutenga kumbukumbu kwenye heap na kunakili maudhui ya literal hiyo. Tofauti hii huruhusu Rust kuboresha utendaji (kwa kutumia string literals inapowezekana) na unyumbufu (kwa kutumia String pale ambapo mabadiliko yanahitajika).
 
 String slices (&str) hutoa ufupisho wenye nguvu wa kufanya kazi na sehemu za strings bila kunakili data. Kipande kina kiashiria cha mwanzo wa data ya strings na urefu, kinachokuruhusu kurejelea strings ndogo kwa ufanisi. Sintaksia ya vipande hutumia masafa (k.m., &s[0..5]) kubainisha sehemu gani ya strings ya kurejelea. Kwa sababu vipande ni marejeleo, vinakabiliwa na sheria za kukopa, kuzuia strings msingi kurekebishwa wakati vipande vipo. Utekelezaji huu wa wakati wa kukusanya huzuia hitilafu za kawaida kama vile kufikia kumbukumbu batili baada ya strings asili kutolewa au kurekebishwa.
