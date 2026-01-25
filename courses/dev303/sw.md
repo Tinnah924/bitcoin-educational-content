@@ -323,6 +323,7 @@ println!("After fee: {} sats", wallet_balance); // 149,000
 
 ### Aina za String na Slices
 
+
 Rust hutofautisha kati ya string literals na aina ya String, jambo linaloonyesha mikakati tofauti ya usimamizi wa kumbukumbu (memory) na matumizi yake. String literals hupachikwa moja kwa moja ndani ya binary iliyokusanywa (compiled binary) na huwa na aina ya &str (string slice), ambayo inawakilisha mwonekano (view) wa data ya string isiyobadilika (immutable).
 
 
