@@ -327,7 +327,9 @@ println!("After fee: {} sats", wallet_balance); // 149,000
 Rust hutofautisha kati ya string literals na aina ya String, jambo linaloonyesha mikakati tofauti ya usimamizi wa kumbukumbu (memory) na matumizi yake. String literals hupachikwa moja kwa moja ndani ya binary iliyokusanywa (compiled binary) na huwa na aina ya &str (string slice), ambayo inawakilisha mwonekano (view) wa data ya string isiyobadilika (immutable).
 
 
+
 Aina ya String, kwa upande mwingine, hudhibiti kumbukumbu inayotengwa kwa njia inayobadilika na inaweza kukua, kupungua, na kubadilishwa wakati wa runtime. Unaweza kuunda String kutoka kwa string literal kwa kutumia String::from() au mbinu zinazofanana, ambazo hutenga kumbukumbu kwenye heap na kunakili maudhui ya literal hiyo. Tofauti hii huruhusu Rust kuboresha utendaji (kwa kutumia string literals inapowezekana) na unyumbufu (kwa kutumia String pale ambapo mabadiliko yanahitajika).
+
 
 
 String slices (&str) hutoa ufupisho wenye nguvu wa kufanya kazi na sehemu za strings bila kunakili data. Kipande kina kiashiria cha mwanzo wa data ya strings na urefu, kinachokuruhusu kurejelea strings ndogo kwa ufanisi. Sintaksia ya vipande hutumia masafa (k.m., &s[0..5]) kubainisha sehemu gani ya strings ya kurejelea. Kwa sababu vipande ni marejeleo, vinakabiliwa na sheria za kukopa, kuzuia strings msingi kurekebishwa wakati vipande vipo. Utekelezaji huu wa wakati wa kukusanya huzuia hitilafu za kawaida kama vile kufikia kumbukumbu batili baada ya strings asili kutolewa au kurekebishwa.
@@ -660,7 +662,7 @@ Vipengele vya utendakazi wa programu katika Rust hudumisha kanuni kuu za lugha z
 ### Kuelewa Closures
 
 
-Kufungwa (closures) ni zana muhimu katika Rust zinazoruhusu kutangaza chaguo zisizo na majina ambazo zinaweza kunasa na kutumia vigezo kutoka mazingira yanayozunguka. Ni vizuri kutumia closure pale inapotakiwa — yaani, wakati unahitaji kufanya kazi ndogo, ya mara moja, au kuhamisha tabia kama kipengele cha data. Kufunga kunafanya msimbo uwe mfupi, safi, na unaoweza kubadilika bila kuandika kazi za kawaida za ziada.
+Kufungwa (closures) ni zana muhimu katika Rust zinazoruhusu kutangaza chaguo zisizo na majina ambazo zinaweza kunasa na kutumia vigezo kutoka mazingira yanayozunguka. Katika lugha zingine za programu, hizi mara nyingi huitwa chaguo za lambda. Sifa muhimu ya kufungwa ni uwezo wao wa "kufunga" mazingira yao, ikimaanisha kuwa wanaweza kufikia na kutumia vigezo vilivyopo katika wigo ambapo kufungwa kunafafanuliwa
 
 
 Sintaksia ya closures hutumia herufi za bomba (`|`) badala ya mabano kufafanua vigezo. Kwa kifungashio kisicho na vigezo, unaandika `||`, na kwa vifungashio vyenye vigezo, unaviorodhesha kati ya mabomba kama `|x, y|`. Ikiwa mwili wa kifungashio una usemi mmoja, unaweza kuacha vibandiko vilivyopinda, na kufanya sintaksia iwe fupi sana.
@@ -866,7 +868,7 @@ Msingi huu wa vifungashio, virudiaji, na viashiria mahiri huwapa wasanidi progra
 Kuhesabu marejeleo kunawakilisha aina nyingine ya msingi ya kiashiria mahiri katika Rust, iliyoundwa mahsusi kuwezesha hali nyingi za umiliki. Tofauti na Box, ambayo hufuata sheria za kitamaduni za umiliki mmoja ambapo huluki moja inamiliki data, RC (Reference Counter) inaruhusu sehemu nyingi za msimbo wako kushiriki umiliki wa data sawa kwa wakati mmoja. Mfumo huu wa umiliki wa pamoja hufanya kazi kupitia utaratibu wa kuhesabu unaofuatilia ni marejeleo mangapi yaliyopo kwa kipande fulani cha data.
 
 
-Mfumo wa kuhesabu marejeleo hufanya kazi kwa kudumisha kihesabu cha ndani kinachoongezeka kila unapoongeza thamani mpya kwenye Rc na kupungua unapobadilisha au kuondoa thamani hiyo. Kumbukumbu huachiliwa tu wakati kihesabu hiki kinapofikia sifuri, kuhakikisha kwamba data inabaki halali mradi marejeleo yoyote bado yapo. Mbinu hii huzuia matatizo ya ugawaji wa mapema huku ikiruhusu mifumo rahisi ya kushiriki data ambayo isingewezekana kwa umiliki rahisi wa Box.
+Mfumo wa kuhesabu marejeleo hufanya kazi kwa kudumisha kihesabu cha ndani kinachoongezeka kila unapoongeza thamani mpya kwenye RC na kupunguza wakati RC inapoachwa. Kumbukumbu huachiliwa tu wakati kihesabu hiki kinapofikia sifuri, kuhakikisha kwamba data inabaki halali mradi marejeleo yoyote bado yapo. Mbinu hii huzuia matatizo ya ugawaji wa mapema huku ikiruhusu mifumo rahisi ya kushiriki data ambayo isingewezekana kwa umiliki rahisi wa Box.
 
 
 Mfano wa vitendo ambapo Rc ni muhimu unahusisha kuunda miundo ya data iliyoshirikiwa kama orodha zilizounganishwa, ambapo orodha nyingi zinaweza kurejelea sehemu moja ya mkia. Fikiria kujaribu kuunda orodha mbili tofauti ambazo zote zinarejelea mfuatano wa kawaida. Kwa umiliki wa Box, hii haikuwawezekani kwa sababu kuhamisha sehemu iliyoshirikiwa kwenye orodha ya kwanza kunahamasisha kuhamisha umiliki, na hivyo kuzuia matumizi yake katika orodha ya pili. Rc hutatua hili kwa kukuruhusu kuiga marejeleo badala ya data ya msingi, na kufanya muundo ulioshirikiwa uwezekane huku ukidumisha usalama wa kumbukumbu.
