@@ -164,28 +164,28 @@ Om de vertrouwelijkheid van je verbindingen te verbeteren, kun je verbindingen v
 ## On-chain bitcoins ontvangen 
 
 
-Bij het eerste gebruik heb je de optie om je Phoenix Wallet te laden met On-Chain fondsen. Je kunt deze eerste storting ook direct vanuit Lightning doen (zie volgende sectie), maar in beide gevallen gelden extra kosten voor het openen van je eerste kanaal.
+Bij het eerste gebruik heb je de optie om je Phoenix-wallet te laden met nn-chain fondsen. Je kunt deze eerste storting ook direct vanuit Lightning doen (zie volgende sectie), maar in beide gevallen betaal je extra kosten voor het openen van je eerste kanaal.
 
 
-Klik op de knop "*Ontvangen*".
+Klik op de knop "*Receive*".
 
 
 ![Image](assets/fr/18.webp)
 
 
-Veeg de QR-code naar links om een Bitcoin te onthullen die Address ontvangt. Stuur het bedrag dat je in Phoenix wilt storten naar die Address.
+Veeg de QR-code naar links om een ontvangstadres voor Bitcoin te onthullen. Stuur het bedrag dat je in Phoenix wilt storten naar dat adres.
 
 
 ![Image](assets/fr/19.webp)
 
 
-Het ontvangen bedrag On-Chain verschijnt eerst als 'pending' onder je Wallet saldo. Het duurt 3 bevestigingen voordat het geld beschikbaar is voor gebruik.
+Het ontvangen on-chain bedrag verschijnt in je wallet-saldo eerst als 'pending'. Het duurt 3 bevestigingen voordat het geld beschikbaar is voor gebruik.
 
 
 ![Image](assets/fr/20.webp)
 
 
-Zodra het geld is ontvangen, opent Phoenix automatisch een Lightning-kanaal voor je. Je kunt nu bitcoins verzenden en ontvangen via de Lightning Network.
+Zodra het geld is ontvangen, opent Phoenix automatisch een Lightning-kanaal voor je. Je kunt nu bitcoins verzenden en ontvangen via het Lightning Network.
 
 
 ![Image](assets/fr/21.webp)
@@ -194,31 +194,31 @@ Zodra het geld is ontvangen, opent Phoenix automatisch een Lightning-kanaal voor
 ## Bitcoins ontvangen via Lightning
 
 
-Om Sats via de Lightning Network te ontvangen, klik je op de knop "*Ontvangen*".
+Om sats via het Lightning Network te ontvangen, klik je op de knop "*Receive*".
 
 
 ![Image](assets/fr/22.webp)
 
 
-Phoenix genereert een Lightning Invoice. Je kunt het scannen of opsturen naar de persoon die Sats aan jou wil overdragen.
+Phoenix genereert een Lightning-invoice. Je kunt het scannen of opsturen naar de persoon die sats aan jou wil overdragen.
 
 
 ![Image](assets/fr/23.webp)
 
 
-Door op de "*Edit*" knop te klikken, kun je een omschrijving toevoegen die zichtbaar zal zijn voor de betaler op de Invoice, en een specifiek bedrag definiëren dat de betaler moet overmaken.
+Door op de "*Edit*" knop te klikken, kun je een omschrijving toevoegen die zichtbaar zal zijn voor de betaler op de invoice, en een specifiek bedrag definiëren dat de betaler moet overmaken.
 
 
 ![Image](assets/fr/24.webp)
 
 
-De bovengenoemde klassieke facturen kunnen maar één keer worden gebruikt. Voor een herbruikbare betalingsoptie kun je je herbruikbare QR-code gebruiken, wat een BOLT12-aanbieding is.
+De bovengenoemde klassieke facturen kunnen slechts één keer worden gebruikt. Voor een herbruikbare betalingsoptie kun je je herbruikbare QR-code gebruiken, wat een BOLT12-aanbieding is.
 
 
 ![Image](assets/fr/25.webp)
 
 
-Zodra de Invoice of BOLT12 aanbieding is vereffend, verschijnt de transactie op je Lightning Wallet.
+Zodra de invoice of BOLT12-aanbieding is vereffend, verschijnt de transactie op je Lightning-wallet.
 
 
 ![Image](assets/fr/26.webp)
@@ -227,25 +227,25 @@ Zodra de Invoice of BOLT12 aanbieding is vereffend, verschijnt de transactie op 
 ## Bitcoins versturen via Lightning
 
 
-Nu je Sats op Phoenix hebt, ben je klaar om betalingen via de Lightning Network te doen. Klik eerst op de knop "*Versturen*".
+Nu je sats op Phoenix hebt, ben je klaar om betalingen via het Lightning Network te doen. Klik eerst op de knop "*Send*".
 
 
 ![Image](assets/fr/27.webp)
 
 
-Je hebt verschillende opties tot je beschikking. Door op "*Scan QR code*" te klikken, kun je een Lightning Invoice, een BOLT12 aanbieding of zelfs een ontvangen Address voor On-Chain betaling scannen.
+Je hebt verschillende opties tot je beschikking. Door op "*Scan QR code*" te klikken, kun je een Lightning-invoice, een BOLT12-aanbieding of zelfs een on-chain ontvangstadres scannen om te betalen.
 
 
 ![Image](assets/fr/28.webp)
 
 
-Je kunt deze informatie ook handmatig invoeren via het toetsenbord in het veld bovenaan het scherm, of een Lightning Address (BOLT12 of LNURL) invoeren. Je kunt de informatie ook direct plakken met de knop "*Paste*".
+Je kunt deze informatie ook handmatig invoeren via het toetsenbord in het veld bovenaan het scherm, of een Lightning-adres (BOLT12 of LNURL) invoeren. Je kunt de informatie ook direct plakken met de knop "*Paste*".
 
 
 ![Image](assets/fr/29.webp)
 
 
-In dit voorbeeld heb ik een Invoice gescand voor 10.000 Sats. Om de betaling uit te voeren, klik je op "*Betalen*".
+In dit voorbeeld heb ik een invoice gescand voor 10.000 sats. Om de betaling uit te voeren, klik je op "*Pay*".
 
 
 ![Image](assets/fr/30.webp)
@@ -257,7 +257,7 @@ De transactie is voltooid.
 ![Image](assets/fr/31.webp)
 
 
-Gefeliciteerd, je weet nu hoe je Phoenix moet configureren en gebruiken. Als je deze tutorial nuttig vond, zou ik je dankbaar zijn als je hieronder een Green duim achterlaat. Voel je vrij om dit artikel te delen op je sociale netwerken. Bedankt voor het delen!
+Gefeliciteerd, je weet nu hoe je Phoenix moet configureren en gebruiken. Als je deze tutorial nuttig vond, zou ik je dankbaar zijn als je hieronder een groene duim achterlaat. Voel je vrij om dit artikel te delen op je sociale netwerken. Bedankt voor het delen!
 
 
 Als je nog een stapje verder wilt gaan, bekijk dan deze tutorial over Alby Hub, een andere innovatieve en gebruiksvriendelijke oplossing voor het lanceren van je eigen Lightning-node:
