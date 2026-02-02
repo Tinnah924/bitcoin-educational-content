@@ -2447,7 +2447,7 @@ CoinJoin biedt echter ook de mogelijkheid om de vertrouwelijkheid te versterken 
 ![BTC204](assets/nl/118.webp)
 
 
-In het eerste voorbeeld zagen we hoe de CoinJoin de privacy van een UTXO kan beschermen in relatie tot het verleden, en in het tweede voorbeeld hoe het ook de geschiedenis van een UTXO kan veiligstellen in relatie tot de toekomst. Daarom zei ik dat de CoinJoin gezien moet worden als een eenmalige gebeurtenis die in beide richtingen een deel geschiedenis vastlegt:
+In het eerste voorbeeld zagen we hoe coinjoin de privacy van een munt kan beschermen met betrekking tot haar verleden, en in het tweede voorbeeld hoe het ook de geschiedenis van een munt kan beveiligen met betrekking tot haar toekomst. Daarom heb ik vermeld dat coinjoin moet worden gezien als een eenmalige gebeurtenis die de geschiedenis van een munt in beide richtingen segmenteert:
 
 
 ![BTC204](assets/nl/119.webp)
@@ -2735,7 +2735,7 @@ Exchange-beheermethoden onderscheidden ook de twee implementaties. Met Whirlpool
 ![BTC204](assets/nl/139.webp)
 
 
-Met Wabisabi heeft Wasabi versie 2.0 zijn benadering van coinjoins aangepast aan die van Whirlpool. Hoewel CoinJoin-transacties erg groot blijven, is het nu mogelijk om meerdere opeenvolgende cycli te koppelen, volgens het Whirlpool model. Er is ook speciale aandacht besteed aan het beheer van de exchange (wisselgeld): in tegenstelling tot Wasabi 1.0, waar de exchange direct gekoppeld was aan de input van gebruikers, probeert Wabisabi de exchange onder te verdelen in verschillende kleine bedragen, verdeeld in gelijke denominaties voor alle deelnemers.
+Met Wabisabi heeft versie 2.0 zijn benadering van coinjoins aangepast om dichter bij die van Whirlpool te komen. Hoewel coinjoin-transacties zeer groot blijven, is het nu mogelijk om meerdere opeenvolgende cycli te doorlopen, en zo het Whirlpool-model te volgen. Er is ook bijzondere aandacht besteed aan het beheer van wisselgeld: in tegenstelling tot Wasabi 1.0, waar het wisselgeld rechtstreeks gekoppeld was aan de inputs van gebruikers, probeert Wabisabi het wisselgeld op te splitsen in meerdere kleine bedragen, verdeeld in gelijke denominaties voor alle deelnemers.
 
 
 Laten we dit illustreren met een vereenvoudigd voorbeeld van slechts 2 gebruikers: Alice wil 115.000 sats mengen en Bob, 210.000 sats. Als we de kosten buiten beschouwing laten, zou een CoinJoin-transactie met Wasabi 1.0 3 outputs van 100.000 sats hebben gegenereerd, plus 1 exchange van 15.000 sats voor Alice en 1 exchange van 10.000 sats voor Bob. De exchange-outputs zouden nog steeds gekoppeld zijn aan de inputs:
@@ -3041,7 +3041,7 @@ Aan het einde van deze eerste mixen zal de **premix**-rekening leeg zijn, terwij
 ### Remixen
 
 
-Na de eerste mix worden de UTXO's overgebracht naar het **postmix**-account. Dit account verzamelt UTXO's die al gemengd zijn en UTXO's die nog geremixt moeten worden. Wanneer de Whirlpool-client actief is, zijn UTXO's die zich in het **postmix**-account bevinden automatisch beschikbaar voor remixen en worden willekeurig geselecteerd om deel te nemen aan deze nieuwe cycli.
+Na het uitvoeren van de initiële mix worden de UTXO’s overgebracht naar de **postmix**-rekening. Deze rekening verzamelt zowel reeds gemixte UTXO’s als UTXO’s die wachten op remixing. Wanneer de Whirlpool-client actief is, zijn de UTXO’s in de **postmix**-rekening automatisch beschikbaar voor remixing en worden ze willekeurig geselecteerd om aan deze nieuwe cycli deel te nemen.
 
 
 Ter herinnering, remixen zijn dan 100% gratis: er zijn geen extra servicekosten of mining-kosten nodig. Door UTXO's op de **postmix**-rekening te houden, blijft hun waarde intact en verbetert tegelijkertijd hun anonsets. Daarom is het belangrijk om deze munten deel te laten nemen aan verschillende CoinJoin-cycli. Het kost je helemaal niets en verhoogt hun anonimiteit.
@@ -3263,7 +3263,7 @@ Bijvoorbeeld, een eenvoudige betalingstransactie met 1 input en 2 outputs heeft 
 ![BTC204](assets/nl/165.webp)
 
 
-Aan de andere kant heeft een coinjoin op basis vah het Whirlpool 5x5 model $1.496$ mogelijke combinaties:
+Daarentegen vertoont een coinjoin die is gestructureerd volgens het Whirlpool 5x5-model $1\,496$ mogelijke combinaties:
 
 
 ![BTC204](assets/nl/166.webp)
@@ -3487,7 +3487,7 @@ De Boltzmann score wordt berekend door het aantal interpretaties waarin een bepa
 $$
 \begin{align*}
 \text{Interpretations (IN.0 > OUT.3)} &= 512 \\
-\text{Interpretations totales} &= 1496 \\
+\text{Total interpretations} &= 1496 \\
 \text{Score} &= \frac{512}{1496} \\
 \text{Score} &= 34 \%
 \end{align*}
@@ -4023,7 +4023,7 @@ Deze eenvoudige methode brengt echter een groot vertrouwensrisico met zich mee. 
 ![BTC204](assets/nl/201.webp)
 
 
-Bovendien is er geen garantie dat Alice, eenmaal de privésleutel $B$ van Bob ontvangen, in ruil daarvoor haar privésleutel $A$ zal overdragen. Deze exchange berust dus op overmatig vertrouwen tussen de partijen en is niet effectief om een veilige geheime overdracht van eigenaar te garanderen.
+Bovendien is er geen garantie dat Alice, zodra zij de privésleutel $B$ van Bob heeft ontvangen, in ruil daarvoor haar privésleutel $A$ zal verzenden. Deze uitwisseling berust dus op een enorm vertrouwen tussen de partijen en blijkt inefficiënt te zijn om een geheime eigendomsoverdracht op een veilige manier te waarborgen.
 
 
 ![BTC204](assets/nl/202.webp)

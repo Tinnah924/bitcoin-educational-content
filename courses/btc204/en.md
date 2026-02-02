@@ -1737,7 +1737,7 @@ However, coinjoin also offers the possibility of reinforcing confidentiality fro
 
 ![BTC204](assets/en/118.webp)
 
-In the first example, we saw how the coinjoin can protect a coin's privacy in relation to its past, and in the second example, how it can also secure a room's history in relation to its future. That's why I mentioned that the coinjoin should be seen as a one-off event that segments a UTXO history in both directions:
+In the first example, we saw how coinjoin can protect the privacy of a coin with respect to its past, and in the second example, how it can also secure the history of a coin with respect to its future. This is why I mentioned that coinjoin should be perceived as a one-off event that segments a coin’s history in both directions:
 
 ![BTC204](assets/en/119.webp)
 
@@ -1931,7 +1931,7 @@ Exchange management methods also distinguished the two implementations. With Whi
 
 ![BTC204](assets/en/139.webp)
 
-With Wabisabi, Wasabi version 2.0 has adapted its approach to coinjoins to match that of Whirlpool. Although coinjoin transactions remain very large, it is now possible to chain several successive cycles, following the Whirlpool model. Particular attention has also been paid to exchange management: unlike Wasabi 1.0, where the change was directly linked to user inputs, Wabisabi seeks to subdivide the change into several small sums, divided into equal denominations for all participants.
+With Wabisabi, version 2.0 has adapted its approach to coinjoins to move closer to that of Whirlpool. Although coinjoin transactions remain very large, it is now possible to chain several successive cycles, thus following the Whirlpool model. Particular effort has also been made regarding change management: unlike Wasabi 1.0, where change was directly linked to users’ inputs, Wabisabi seeks to subdivide change into several smaller amounts, distributed in equal denominations among all participants.
 
 Let's illustrate this with a simplified example involving just two users: Alice wishes to mix 115,000 sats, and Bob wishes to mix 210,000 sats. Ignoring fees, with Wasabi 1.0, a coinjoin transaction would have generated 3 outputs of 100,000 sats, plus 1 change of 15,000 sats for Alice and 1 change of 10,000 sats for Bob. The change outputs would still be linked to the inputs:
 
@@ -2143,7 +2143,7 @@ At the end of these first mixes, the **premix** account will be empty, while our
 
 ### Remixes
 
-After the initial mix, the UTXOs are transferred to the **postmix** account. This account collects UTXOs already mixed and those awaiting remixing. When the Whirlpool client is active, UTXOs located in the **postmix** account are automatically available for remixes and will be randomly selected to participate in these new cycles.
+After performing the initial mix, the UTXOs are transferred to the **postmix** account. This account gathers UTXOs that have already been mixed as well as those awaiting remixing. When the Whirlpool client is active, the UTXOs located in the **postmix** account are automatically available for remixing and will be randomly selected to participate in these new cycles.
 
 As a reminder, remixes are then 100% free: no additional service charges or mining fees are required. Keeping UTXOs in the **postmix** account, therefore, preserves their value while also enhancing their anonymity. That's why it's important to allow these coins to participate in several coinjoin cycles. It costs you absolutely nothing and increases their anonymity levels.
 
@@ -2298,7 +2298,7 @@ For example, a simple payment transaction with one input and two outputs will ha
 
 ![BTC204](assets/en/165.webp)
 
-In contrast, a coinjoin structured according to the Whirlpool 5x5 model presents $1\,496$ possible combinations:
+By contrast, a coinjoin structured according to the Whirlpool 5x5 model presents $1\,496$ possible combinations:
 
 ![BTC204](assets/en/166.webp)
 
@@ -2493,9 +2493,9 @@ If we take the example of a Whirlpool 8x8 Surge Cycle coinjoin, the Boltzmann ta
 
 However, in the case of a simple transaction with a single input and 2 outputs, the situation is different:
 
-| Output 0 | Output 1 |
-|----------|----------|
-| Input 0  | 100%     | 100%    |
+| %       | Output 0 | Output 1 |
+|---------|----------|----------|
+| Input 0 | 100%     | 100%     |
 
 
 Here, we see that the probability of each output originating from input #0 is 100%. A lower probability thus reflects greater confidentiality, diluting the direct links between inputs and outputs.
@@ -2847,7 +2847,7 @@ However, this naive method presents a high risk in terms of trust. There's nothi
 
 ![BTC204](assets/en/201.webp)
 
-Furthermore, there is no guarantee that Alice, once she has received Bob's private key $B$, will transmit her private key $A$ in exchange. This exchange, therefore, relies excessively on trust between the parties and is ineffective in ensuring a secure transfer of ownership.
+Furthermore, there is no guarantee that Alice, once she has received Bob's private key $B$, will transmit her private key $A$ in exchange. This exchange therefore relies on massive trust between the parties and proves ineffective for ensuring a secret transfer of ownership in a secure manner.
 
 ![BTC204](assets/en/202.webp)
 
