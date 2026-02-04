@@ -332,10 +332,10 @@ Klik op "*Continue*".
 ![Image](assets/fr/30.webp)
 
 
-Uw Passport zal nu generate je "*Backup Code*" geven. Dit is een reeks getallen die gebruikt kan worden om een back-up van je wallet, opgeslagen op een MicroSD, te ontsleutelen. Dit back-upsysteem, specifiek voor Foundation-apparaten, vormt een extra back-up voor je Mnemonic zin, maar is niet compatibel met andere Bitcoin software.
+Je Passport zal nu je "*Backup Code*" genereren. Dit is een reeks getallen die gebruikt kan worden om een back-up van je wallet, opgeslagen op een MicroSD, te ontsleutelen. Dit back-upsysteem, specifiek voor Foundation-apparaten, vormt een extra back-up voor je mnemonische zin, maar is niet compatibel met andere Bitcoin-software.
 
 
-Als je besluit om deze "*Backup Code*" te gebruiken, zorg er dan voor dat je deze op een andere locatie bewaart dan je MicroSD die de versleutelde back-up van je wallet bevat. U kunt er echter ook voor kiezen om dit systeem niet te gebruiken als je vindt dat een goede back-up van je Mnemonic zin voldoende is.
+Als je besluit om deze "*Backup Code*" te gebruiken, zorg er dan voor dat je deze op een andere locatie bewaart dan je MicroSD die de versleutelde back-up van je wallet bevat. Je kan er echter ook voor kiezen om dit systeem niet te gebruiken als je vindt dat een goede back-up van je mnemonische zin voldoende is.
 
 
 ![Image](assets/fr/31.webp)
@@ -353,16 +353,16 @@ Als er een MicroSD is geplaatst, is de versleutelde back-up van je wallet daar o
 ![Image](assets/fr/33.webp)
 
 
-Je Passport toont je Mnemonic-zin van 12 woorden. Deze Mnemonic geeft je volledige, onbeperkte toegang tot al je bitcoins. Iedereen die in het bezit is van deze zin kan je geld stelen, zelfs zonder fysieke toegang tot je Passport.
+Je Passport toont je mnemonische zin van 12 woorden. Deze mnemonische zin geeft je volledige, onbeperkte toegang tot al je bitcoins. Iedereen die in het bezit is van deze zin kan je geld stelen, zelfs zonder fysieke toegang tot je Passport.
 
 
-De 12-woorden zin herstelt de toegang tot je bitcoins in geval van verlies, diefstal of breuk van je Passport. Het is daarom erg belangrijk om het zorgvuldig te bewaren en op een veilige plaats op te bergen.
+Met 12-woorden zin herstel je de toegang tot je bitcoins als je Passport  kwijtraakt, gestolen wordt of kapotgaat. Het is daarom erg belangrijk om het zorgvuldig te bewaren en op een veilige plaats op te bergen.
 
 
-Je kunt het op het meegeleverde karton schrijven, of voor extra veiligheid raad ik aan om het op een roestvrijstalen basis te graveren om het te beschermen tegen brand, overstroming of instorting.
+Je kunt het op het meegeleverde karton schrijven, of voor extra veiligheid raad ik aan om het op een roestvrijstalen plaat te graveren om het te beschermen tegen brand, overstroming of instorting.
 
 
-Klik op de bevestigingsknop om je Mnemonic zin te zien.
+Klik op de bevestigingsknop om je mnemonische zin te zien.
 
 
 ![Image](assets/fr/34.webp)
