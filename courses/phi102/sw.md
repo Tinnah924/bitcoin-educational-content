@@ -47,7 +47,7 @@ Uko tayari kugundua kwa nini uhuru si tu wazo bora la kimaadili, bali pia suluhi
 
 
 
-Mila ya kiliberali ya Ufaransa, iliyoendelezwa katika karne ya 18 na 19, ni sehemu kubwa ya urithi wa kiakili wa Ufaransa ambao Taasisi ya Coppet inajitahidi kuurekebisha. Mila hii ya kiakili inastahili kuzingatiwa kwa sababu tatu: kuibuka tena kwa mawazo ya uhuru katika mjadala wa kisasa, mizizi yake ya kina katika utamaduni wa kuzungumza Kifaransa, na mtazamo wake wa ulimwengu wote, ambao unamchukulia mwanadamu kama mwanadamu badala ya kama raia wa wakati au nchi fulani. Ushawishi wa wanafikra kama Frédéric Bastiat unaenea zaidi ya mipaka ya Ufaransa, na unabaki kuwa muhimu sana leo.
+Mila ya kiliberali ya Ufaransa, iliyokua na kuimarishwa katika karne ya 18 na 19, ni sehemu muhimu ya urithi wa kiakili wa Ufaransa ambao Taasisi ya Coppet inajitahidi kuirekebisha. Mila hii ya kiakili inastahili kuzingatiwa kwa sababu tatu: kuibuka upya kwa mawazo ya uhuru katika mijadala ya kisasa, mizizi yake ya kina katika utamaduni wa lugha ya Kifaransa, na mtazamo wake wa kimataifa unaomuona mwanadamu kama binadamu wa ulimwengu wote badala ya raia wa nchi au wakati fulani. Ushawishi wa wanafikra kama Frédéric Bastiat umeenea zaidi ya mipaka ya Ufaransa na unabaki kuwa na umuhimu mkubwa hata leo.
 
 
 
@@ -59,9 +59,7 @@ Mjadala wa umma unapinga kwa njia bandia wananadharia, wanaopuuzwa kama wasio na
 
 
 
-Tofauti yenye utata pia imetolewa kati ya uhuru, unaokubaliwa kama thamani ya msingi, na uliberali, ambao mara nyingi hukataliwa kama wa kufikirika sana. Mgawanyiko huu husababisha kuvunjika kwa uhuru katika makundi mema na mabaya: uhuru wa kisiasa unathaminiwa, huku uhuru wa kiuchumi ukiaminika. Hata hivyo, kanuni zinazosimamia uvumilivu wa kidini na haki ya kupiga kura kwa wote - kwa maneno mengine, uwezo wa mtu binafsi wa kuchagua - unapaswa kusababisha kimantiki kutambuliwa kwa uhuru wa kiuchumi pia. Ukosefu huu wa mpangilio hupunguza uhuru kwa kitivo rahisi cha kuchagua bwana wa kisiasa mara kwa mara. Zaidi ya hayo, uchaguzi wa pamoja unaleta mapungufu ya kimuundo: ya muda na ya muda baada ya muda, huondoa chaguzi nyingi za mtu binafsi ambazo zingewezesha kubadilika mara kwa mara kwa hali, uwajibikaji wa moja kwa moja na heshima kwa utofauti wa mapendeleo.
-
-
+Tofauti yenye utata pia imetolewa kati ya uhuru, unaokubaliwa kama thamani ya msingi, na uliberali, ambao mara nyingi hukataliwa kama wa kufikirika sana. Mgawanyiko huu husababisha kuvunjika kwa uhuru katika makundi mema na mabaya: uhuru wa kisiasa unathaminiwa zaidi, huku uhuru wa kiuchumi ukiambiwa kidogo. Hata hivyo, kanuni zinazohakikisha uvumilivu wa kidini na haki ya kupiga kura kwa wote — kwa maneno mengine, uwezo wa mtu binafsi wa kuchagua — zinapaswa kimantiki kusababisha kutambuliwa pia kwa uhuru wa kiuchumi. Ukosefu huu wa mpangilio hupunguza uhuru kuwa uchaguzi rahisi wa mara kwa mara wa bwana wa kisiasa. Zaidi ya hayo, uchaguzi wa pamoja una mapungufu ya kimuundo: mgawanyiko wa muda na wa muda baada ya muda, ambao huondoa chaguzi nyingi za mtu binafsi zinazoweza kuwezesha kubadilika mara kwa mara kulingana na hali, uwajibikaji wa moja kwa moja, na kuheshimu utofauti wa mapendeleo.
 
 ### Wanaitikadi na misingi halisi ya uhuru
 
