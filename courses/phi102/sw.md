@@ -16,7 +16,7 @@ objectives:
 
 
 
-Kozi hii inachunguza uhuru kama mradi wa kijamii, ikitegemea utamaduni tajiri wa kiliberali wa Ufaransa wa karne ya 18 na 19. Kupitia maandishi ya wanafikra kama vile Frédéric Bastiat, Gustave de Molinari, Paul Leroy-Beaulieu, Benjamin Constant, na Charles Dunoyer, utagundua jinsi uhuru si utopia dhahania, bali umejikita sana katika ukweli wa kuwepo kwa mwanadamu.
+Kozi hii inachunguza uhuru kama mradi wa kijamii, ikitegemea utamaduni tajiri wa kiliberali wa Ufaransa wa karne ya 18 na 19. Kupitia maandishi ya Idéologues kama vile Frédéric Bastiat, Gustave de Molinari, Paul Leroy-Beaulieu, Benjamin Constant, na Charles Dunoyer, utagundua jinsi uhuru si utopia dhahania, bali umejikita sana katika ukweli wa kuwepo kwa mwanadamu.
 
 
 
@@ -47,7 +47,7 @@ Uko tayari kugundua kwa nini uhuru si tu wazo bora la kimaadili, bali pia suluhi
 
 
 
-Mila ya kiliberali ya Ufaransa, iliyokua na kuimarishwa katika karne ya 18 na 19, ni sehemu muhimu ya urithi wa kiakili wa Ufaransa ambao Taasisi ya Coppet inajitahidi kuirekebisha. Mila hii ya kiakili inastahili kuzingatiwa kwa sababu tatu: kuibuka upya kwa mawazo ya uhuru katika mijadala ya kisasa, mizizi yake ya kina katika utamaduni wa lugha ya Kifaransa, na mtazamo wake wa kimataifa unaomuona mwanadamu kama binadamu wa ulimwengu wote badala ya raia wa nchi au wakati fulani. Ushawishi wa wanafikra kama Frédéric Bastiat umeenea zaidi ya mipaka ya Ufaransa na unabaki kuwa na umuhimu mkubwa hata leo.
+Mila ya kiliberali ya Ufaransa, iliyokua na kuimarishwa katika karne ya 18 na 19, ni sehemu muhimu ya urithi wa kiakili wa Ufaransa ambao Taasisi ya Coppet inajitahidi kuirekebisha. Mila hii ya kiakili inastahili kuzingatiwa kwa sababu tatu: kuibuka upya kwa mawazo ya uhuru katika mijadala ya kisasa, mizizi yake ya kina katika utamaduni wa lugha ya Kifaransa, na mtazamo wake wa kimataifa unaomuona mwanadamu kama binadamu wa ulimwengu wote badala ya raia wa nchi au wakati fulani. Ushawishi wa Idéologues kama Frédéric Bastiat umeenea zaidi ya mipaka ya Ufaransa na unabaki kuwa na umuhimu mkubwa hata leo.
 
 
 
@@ -65,7 +65,7 @@ Tofauti yenye utata pia imetolewa kati ya uhuru, unaokubaliwa kama thamani ya ms
 
 
 
-Wanaitikadi kama vile Destutt de Tracy, Cabanis, na Volney, waliokuwa wakifanya kazi wakati wa Mapinduzi na Milki, walijaribu kusisitiza nadharia ya uhuru katika uchunguzi wa ukweli. Kinyume na taswira ya mwananadharia asiye na uhusiano, wanafikra hawa pia walikuwa watendaji: Cabanis alikuwa daktari, Destutt de Tracy alikuwa mtaalamu wa kilimo. Napoleon aliwapa jina hili la dharau, lakini alikiri katika St. Helena kwamba yeye mwenyewe hakujua madhumuni ya ushindi wake. Kwa kushangaza, ni Wanaitikadi waliokuwa na uelewa mzuri wa vitendo vya binadamu, huku yule anayeitwa mtaalamu akitenda bila mwelekeo wazi.
+Wanaitikadi kama vile Destutt de Tracy, Cabanis, na Volney, waliokuwa wakifanya kazi wakati wa Mapinduzi na Milki, walijaribu kusisitiza nadharia ya uhuru katika uchunguzi wa ukweli. Kinyume na taswira ya mwananadharia asiye na uhusiano, Idéologues hawa pia walikuwa watendaji: Cabanis alikuwa daktari, Destutt de Tracy alikuwa mtaalamu wa kilimo. Napoleon aliwapa jina hili la dharau, lakini alikiri katika St. Helena kwamba yeye mwenyewe hakujua madhumuni ya ushindi wake. Kwa kushangaza, ni Wanaitikadi waliokuwa na uelewa mzuri wa vitendo vya binadamu, huku yule anayeitwa mtaalamu akitenda bila mwelekeo wazi.
 
 
 
@@ -284,7 +284,7 @@ Haki ya kupiga kura ya wote inategemea ukweli kwamba raha na maumivu ni uzoefu w
 
 
 
-Uhuru wa kiraia pia umejengwa katika ukweli wa msingi. Uhuru wa kujieleza na uvumilivu wa kidini hutokana na ukweli kwamba hukumu hutokana na utu wa mtu binafsi na umiliki wake. Kwa sababu utu hutofautiana, hukumu zitatofautiana - na lazima - pia. Utofauti huu unawezesha ubadilishanaji wa mawazo, ambao ndio nguvu inayoongoza uboreshaji wa binadamu. Badala ya kuwa kikwazo, mitazamo hii mingi ni rasilimali ya kukuzwa.
+Uhuru wa kiraia pia umejengwa katika ukweli wa msingi. Uhuru wa kujieleza na uvumilivu wa kidini hutokana na ukweli kwamba hukumu hutokana na utu wa mtu binafsi na umiliki wake. Kwa sababu utu hutofautiana, hukumu zitatofautiana - na lazima - pia. Utofauti huu unawezesha exchange wa mawazo, ambao ndio nguvu inayoongoza uboreshaji wa binadamu. Badala ya kuwa kikwazo, mitazamo hii mingi ni rasilimali ya kukuzwa.
 
 
 
@@ -311,7 +311,7 @@ Fomula ya Proudhon "mali ni wizi" inaonyesha utata wa ndani wa mifumo ya vikwazo
 
 
 
-Mifumo isiyo ya uhuru inadai unyang'anyi wa asili wa ardhi kwa nguvu, ikifuatiwa na starehe bila kazi. Maono haya yana makosa mawili makubwa ya kweli. Kwanza, yanachukulia urahisi wa moja kwa moja wa utajiri, ikipuuza hatari za mara kwa mara, kazi za kuvunja mgongo na matatizo yanayowakabili wajasiriamali. Pili, kama unyang'anyi huu wa asili ungekuwa kweli, tungetarajia kuona wazao wa wanyang'anyi hawa wa ardhi miongoni mwa familia tajiri zaidi leo. Hata hivyo, ukweli unaonyesha kwamba ubadilishanaji wa ardhi hufanywa kihalali kupitia kazi na ubadilishanaji wa thamani kwa thamani. Mali za leo zimethibitishwa na kazi na ubadilishanaji wa hiari. Zaidi ya hayo, hali ya uzalishaji inabadilika kila mara: ardhi ambazo hapo awali zilikuwa na thamani zinaweza kupoteza thamani yake, huku maeneo ambayo hapo awali yalipuuzwa yanaweza kupata thamani, kama inavyoonyeshwa na ardhi adimu inavyoonyesha.
+Mifumo isiyo ya uhuru inadai unyang'anyi wa asili wa ardhi kwa nguvu, ikifuatiwa na starehe bila kazi. Maono haya yana makosa mawili makubwa ya kweli. Kwanza, yanachukulia urahisi wa moja kwa moja wa utajiri, ikipuuza hatari za mara kwa mara, kazi za kuvunja mgongo na matatizo yanayowakabili wajasiriamali. Pili, kama unyang'anyi huu wa asili ungekuwa kweli, tungetarajia kuona wazao wa wanyang'anyi hawa wa ardhi miongoni mwa familia tajiri zaidi leo. Hata hivyo, ukweli unaonyesha kwamba exchange ya ardhi hufanywa kihalali kupitia kazi na exchange ya thamani kwa thamani. Mali za leo zimethibitishwa na kazi na exchange ya hiari. Zaidi ya hayo, hali ya uzalishaji inabadilika kila mara: ardhi ambazo hapo awali zilikuwa na thamani zinaweza kupoteza thamani yake, huku maeneo ambayo hapo awali yalipuuzwa yanaweza kupata thamani, kama inavyoonyeshwa na ardhi adimu inavyoonyesha.
 
 
 
@@ -358,7 +358,7 @@ Kuhusu mada ya umiliki wa pamoja, Paul Leroy-Beaulieu alielezea kwamba kufurahia
 
 
 
-Hatimaye, kukomeshwa kwa riba ya pesa na udhibiti wa faida ni mashambulizi dhidi ya mifumo ya ubadilishanaji wa hiari. Riba inawakilisha tu bei ya uhamisho kati ya mtoaji na mpokeaji wa mtaji, ikionyesha thamani ya muda na hatari kwa mkopeshaji.
+Hatimaye, kukomeshwa kwa riba ya pesa na udhibiti wa faida ni mashambulizi dhidi ya mifumo ya exchange ya hiari. Riba inawakilisha tu bei ya uhamisho kati ya mtoaji na mpokeaji wa mtaji, ikionyesha thamani ya muda na hatari kwa mkopeshaji.
 
 
 
@@ -383,11 +383,11 @@ Hatimaye, kukomeshwa kwa riba ya pesa na udhibiti wa faida ni mashambulizi dhidi
 
 
 
-Uhuru si hali ya asili isiyobadilika, bali ni muundo wa kihistoria unaoendelea hatua kwa hatua kwa karne nyingi. Tasnifu hii, inayotetewa na wanafikra huria wa karne ya 19, inapingana moja kwa moja na hadithi ya enzi ya dhahabu iliyopita ambapo wanadamu walifurahia uhuru wa asili.
+Uhuru si hali ya asili isiyobadilika, bali ni muundo wa kihistoria unaoendelea hatua kwa hatua kwa karne nyingi. Tasnifu hii, inayotetewa na Idéologues huria wa karne ya 19, inapingana moja kwa moja na hadithi ya enzi ya dhahabu iliyopita ambapo wanadamu walifurahia uhuru wa asili.
 
 
 
-Mjadala kati ya Germaine de Staël na Benjamin Constant unaonyesha upinzani huu wa kimsingi. Staël, katika ukosoaji wake wa Napoleon, alisema kwamba uhuru ulikuwa wa kale na udikteta wa kisasa. Constant alipinga mtazamo huu, akionyesha kwamba uhuru wa kale haukuwa halisi wala kamili. Wanafikra huria wamepanua uchanganuzi huu, wakithibitisha kwamba kila karne huleta maboresho ya kiufundi na kiuchumi ambayo hufanya uhuru uwezekane zaidi. Kuelewa mageuzi haya kunatusaidia kuelewa ni kwa nini uhuru unawezekana zaidi leo kuliko ilivyokuwa zamani.
+Mjadala kati ya Germaine de Staël na Benjamin Constant unaonyesha upinzani huu wa kimsingi. Staël, katika ukosoaji wake wa Napoleon, alisema kwamba uhuru ulikuwa wa kale na udikteta wa kisasa. Constant alipinga mtazamo huu, akionyesha kwamba uhuru wa kale haukuwa halisi wala kamili. Idéologues huria wamepanua uchanganuzi huu, wakithibitisha kwamba kila karne huleta maboresho ya kiufundi na kiuchumi ambayo hufanya uhuru uwezekane zaidi. Kuelewa mageuzi haya kunatusaidia kuelewa ni kwa nini uhuru unawezekana zaidi leo kuliko ilivyokuwa zamani.
 
 
 
@@ -475,7 +475,7 @@ Nguvu hizi za mabadiliko zilisababisha kukomeshwa polepole na mabadiliko ya kuwa
 
 
 
-Kudumisha utumwa nchini Marekani katika karne ya 18 na 19 kulikuwa kitendawili kikubwa cha kihistoria. Wanafikra huru wa Ufaransa, kama vile Gustave de Beaumont, walitambua kwamba utumwa huenda ulikuwa na uhalali fulani hapo zamani, lakini waliushutumu utumwa wa kisasa kama usio na uhalali kabisa na unaodumishwa bandia na mamlaka ya kisiasa.
+Kudumisha utumwa nchini Marekani katika karne ya 18 na 19 kulikuwa kitendawili kikubwa cha kihistoria. Idéologues huru wa Ufaransa, kama vile Gustave de Beaumont, walitambua kwamba utumwa huenda ulikuwa na uhalali fulani hapo zamani, lakini waliushutumu utumwa wa kisasa kama usio na uhalali kabisa na unaodumishwa bandia na mamlaka ya kisiasa.
 
 
 
@@ -739,7 +739,7 @@ Baada ya kuweka masharti haya ya awali, sasa inawezekana kuchunguza vipengele vy
 
 
 
-Kuelewa uhuru wa kiuchumi ni suala kubwa katika tafakari yetu kuhusu uhuru kama mradi wa jamii. Kipimo hiki cha kiuchumi cha uhuru mara nyingi hueleweka vibaya, si kwa sababu ni ngumu kiasili, bali kwa sababu elimu ya kiuchumi bado haitoshi, hasa nchini Ufaransa. Mifumo ya uzalishaji na ubadilishanaji, ingawa ni rahisi kiasi, inahitaji kufafanuliwa ili kuelewa jinsi jamii huria inavyotegemea kimsingi mkataba, ubadilishanaji na uzalishaji wa amani.
+Kuelewa uhuru wa kiuchumi ni suala kubwa katika tafakari yetu kuhusu uhuru kama mradi wa jamii. Kipimo hiki cha kiuchumi cha uhuru mara nyingi hueleweka vibaya, si kwa sababu ni ngumu kiasili, bali kwa sababu elimu ya kiuchumi bado haitoshi, hasa nchini Ufaransa. Mifumo ya uzalishaji na exchange, ingawa ni rahisi kiasi, inahitaji kufafanuliwa ili kuelewa jinsi jamii huria inavyotegemea kimsingi mkataba, exchange na uzalishaji wa amani.
 
 
 
@@ -751,7 +751,7 @@ Uzalishaji unawakilisha ushindi halisi katika historia ya wanadamu. Kwa muda mre
 
 
 
-Adam Smith, miongoni mwa wanafikra wengine, alifanya kosa kubwa katika kutofautisha kati ya wafanyakazi wenye tija na wasio na tija. Jamii isiyo na tija ilijumuisha wanasheria, wasanii na madaktari, kwa misingi kwamba bidhaa zao zingetoweka mara tu baada ya kutolewa. Mtazamo huu una kasoro kubwa. Somo la mwalimu halipotei; linajumuisha kipengele cha uzalishaji wa kiakili na usio wa kimwili ambao athari zake hudumu. Gustave de Molinari alisema kwa usahihi kwamba baadhi ya vitabu ni zana nzuri, akionyesha kwamba uzalishaji unaenea zaidi ya mabadiliko ya nyenzo tu. Kazi, kwa ujumla, ni kuhusu kuunda huduma na huduma mpya. Kuwa wa huduma kwa wengine ndio maana halisi ya uzalishaji.
+Adam Smith, miongoni mwa Idéologues wengine, alifanya kosa kubwa katika kutofautisha kati ya wafanyakazi wenye tija na wasio na tija. Jamii isiyo na tija ilijumuisha wanasheria, wasanii na madaktari, kwa misingi kwamba bidhaa zao zingetoweka mara tu baada ya kutolewa. Mtazamo huu una kasoro kubwa. Somo la mwalimu halipotei; linajumuisha kipengele cha uzalishaji wa kiakili na usio wa kimwili ambao athari zake hudumu. Gustave de Molinari alisema kwa usahihi kwamba baadhi ya vitabu ni zana nzuri, akionyesha kwamba uzalishaji unaenea zaidi ya mabadiliko ya nyenzo tu. Kazi, kwa ujumla, ni kuhusu kuunda huduma na huduma mpya. Kuwa wa huduma kwa wengine ndio maana halisi ya uzalishaji.
 
 
 
@@ -771,7 +771,7 @@ Mwelekeo wa uzalishaji unatii kile kinachojulikana kama sheria ya asili, ambayo 
 
 
 
-Kipengele kikuu kinachoelezea umuhimu wa mkataba na ubadilishanaji kiko katika asili yake kama michezo chanya ya jumla. Ninatengeneza mkataba kwa sababu ni kwa maslahi yangu kufanya hivyo, vinginevyo ningependelea tu kutofanya mkataba. Vile vile, kwa upande wa kiuchumi, nikitengeneza ubadilishanaji, ni kwa sababu ni kwa maslahi yangu kufanya hivyo. Abbé de Saint-Pierre, mwanzoni mwa karne ya 18, alitambua umuhimu wa wazo hili vizuri sana. Katika mradi wake wa amani ya milele, aliandika kwamba mauzo yanapofanywa kati ya wafanyabiashara, muuzaji hupata faida na ndivyo mnunuzi anavyopata, kwani bila faida ya pande zote mbili, hakuna mtu ambaye angeuza kwa bei kama hiyo, wala mwingine hangenunua. Wakati mwingine mmoja wao hufanya makosa, lakini kwa kawaida, kutokana na mahitaji na maslahi yao, wote wawili hupata faida kutokana na ubadilishanaji.
+Kipengele kikuu kinachoelezea umuhimu wa mkataba na exchange kiko katika asili yake kama michezo chanya ya jumla. Ninatengeneza mkataba kwa sababu ni kwa maslahi yangu kufanya hivyo, vinginevyo ningependelea tu kutofanya mkataba. Vile vile, kwa upande wa kiuchumi, nikitengeneza exchange, ni kwa sababu ni kwa maslahi yangu kufanya hivyo. Abbé de Saint-Pierre, mwanzoni mwa karne ya 18, alitambua umuhimu wa wazo hili vizuri sana. Katika mradi wake wa amani ya milele, aliandika kwamba mauzo yanapofanywa kati ya wafanyabiashara, muuzaji hupata faida na ndivyo mnunuzi anavyopata, kwani bila faida ya pande zote mbili, hakuna mtu ambaye angeuza kwa bei kama hiyo, wala mwingine hangenunua. Wakati mwingine mmoja wao hufanya makosa, lakini kwa kawaida, kutokana na mahitaji na maslahi yao, wote wawili hupata faida kutokana na exchange.
 
 
 
@@ -794,7 +794,7 @@ Kutokana na uchambuzi huu, hitimisho la msingi linatokana na: kuongezeka kwa bia
 
 
 
-Historia ya wanadamu inaweza kusomwa kama mabadiliko ya taratibu ya njia ambazo watu binafsi hushindana. Katika siku za mwanzo, ushindani ulitekelezwa hasa kupitia vita na vurugu, huku ukiritimba wa bidhaa na bidhaa za kujikimu zilizopatikana kwa uwindaji, uvuvi au kukusanya. Soko lilibaki dogo sana, na uzalishaji ulikuwa mdogo. Kwa kuwa ulimwengu uliundwa na rasilimali chache, aina fulani ya ushindani kwao haikuwa lazima. Hata hivyo, maendeleo halisi ya ustaarabu yalikuwa katika kubadilisha ushindani huu wa vurugu na ubadilishanaji wa mikataba na hiari. Mageuzi haya yanaashiria hatua ya msingi ya mabadiliko katika upangaji wa jamii za wanadamu, na kuwawezesha watu binafsi kukidhi mahitaji yao bila kutumia nguvu.
+Historia ya wanadamu inaweza kusomwa kama mabadiliko ya taratibu ya njia ambazo watu binafsi hushindana. Katika siku za mwanzo, ushindani ulitekelezwa hasa kupitia vita na vurugu, huku ukiritimba wa bidhaa na bidhaa za kujikimu zilizopatikana kwa uwindaji, uvuvi au kukusanya. Soko lilibaki dogo sana, na uzalishaji ulikuwa mdogo. Kwa kuwa ulimwengu uliundwa na rasilimali chache, aina fulani ya ushindani kwao haikuwa lazima. Hata hivyo, maendeleo halisi ya ustaarabu yalikuwa katika kubadilisha ushindani huu wa vurugu na exchange wa mikataba na hiari. Mageuzi haya yanaashiria hatua ya msingi ya mabadiliko katika upangaji wa jamii za wanadamu, na kuwawezesha watu binafsi kukidhi mahitaji yao bila kutumia nguvu.
 
 
 
@@ -892,7 +892,7 @@ Katika mifumo ya uhuru, maendeleo huzawadiwa kwa njia mbalimbali. Faida za viwan
 
 
 
-Katika jamii huru, ubinafsi husababisha uvumbuzi na maendeleo. Katika mfumo wa kutokuwa na uhuru, ubinafsi huharibiwa na kuvunjika kwa ajili ya maslahi ya kijamii yaliyoainishwa awali. Ubunifu na maendeleo hutazamwa kwa umakinifu, kama ilivyokuwa katika jamii za kale, na inadhaniwa inatosha kufanya kile unachojua kufanya. Jamii za Kikomunisti haziruhusu watu wenye akili, wenye mawazo tofauti ambayo hakuna mtu anayeamini mwanzoni, kufanikisha miradi yao. Mwendo wa uvumbuzi hakika unahusisha kushindwa kwingi, lakini pia mafanikio mengi ambayo, katika mfumo wa uhuru unaotegemea mikataba na ubadilishanaji wa hiari, husababisha ukamilifu huo unaozungumziwa na waliberali wa karne ya kumi na nane.
+Katika jamii huru, ubinafsi husababisha uvumbuzi na maendeleo. Katika mfumo wa kutokuwa na uhuru, ubinafsi huharibiwa na kuvunjika kwa ajili ya maslahi ya kijamii yaliyoainishwa awali. Ubunifu na maendeleo hutazamwa kwa umakinifu, kama ilivyokuwa katika jamii za kale, na inadhaniwa inatosha kufanya kile unachojua kufanya. Jamii za Kikomunisti haziruhusu watu wenye akili, wenye mawazo tofauti ambayo hakuna mtu anayeamini mwanzoni, kufanikisha miradi yao. Mwendo wa uvumbuzi hakika unahusisha kushindwa kwingi, lakini pia mafanikio mengi ambayo, katika mfumo wa uhuru unaotegemea mikataba na exchange wa hiari, husababisha ukamilifu huo unaozungumziwa na waliberali wa karne ya kumi na nane.
 
 
 
@@ -919,7 +919,7 @@ Katika enzi za kwanza za wanadamu, wanadamu walijikuta katika ushindani wa moja 
 
 
 
-### Kuzaliwa kwa ubadilishanaji na uzalishaji wa amani
+### Kuzaliwa kwa exchange na uzalishaji wa amani
 
 
 
@@ -939,7 +939,7 @@ Haja ya amani ya kimataifa inatokana kimantiki na maelewano haya ya kimataifa. K
 
 
 
-Kwa kweli, athari za migogoro kwa jamii zisizopigana zilikuwa dhaifu zaidi hapo awali. Katika karne ya kumi na tano au kumi na sita, migogoro ya silaha barani Afrika au Asia isingeathiri sana idadi ya watu wa Ulaya, kwani nyanja ya ubadilishanaji ilibaki kuwa na vikwazo na jamii ziliishi kwa kujitosheleza. Leo, kuongezeka kwa kutegemeana kunafanya vita kuwa na madhara zaidi kwa kila mtu, jambo ambalo kwa kushangaza linaunda hoja yenye nguvu ya kupendelea amani.
+Kwa kweli, athari za migogoro kwa jamii zisizopigana zilikuwa dhaifu zaidi hapo awali. Katika karne ya kumi na tano au kumi na sita, migogoro ya silaha barani Afrika au Asia isingeathiri sana idadi ya watu wa Ulaya, kwani nyanja ya exchange ilibaki kuwa na vikwazo na jamii ziliishi kwa kujitosheleza. Leo, kuongezeka kwa kutegemeana kunafanya vita kuwa na madhara zaidi kwa kila mtu, jambo ambalo kwa kushangaza linaunda hoja yenye nguvu ya kupendelea amani.
 
 
 
@@ -1052,7 +1052,7 @@ Tofauti ya makini lazima ifanywe kati ya kazi halali za serikali na kazi zake za
 
 
 
-Kwa bahati mbaya, sheria nyingi sana huzuia, huzuia na kudhibiti shughuli za watu binafsi bila kukiuka haki za wengine. Sheria hizi ni sifa chanya za serikali, zikichukua nafasi ya mkataba na ubadilishanaji kwa uamuzi wa wengi na kanuni za utawala. Kwa hivyo watu binafsi huzuiwa katika umiliki wao wa vitu, au katika umiliki wao wenyewe, kwa visingizio vya madhara yasiyo na kikomo na yasiyoelezeka kwa jamii au kwa makundi fulani ya watu.
+Kwa bahati mbaya, sheria nyingi sana huzuia, huzuia na kudhibiti shughuli za watu binafsi bila kukiuka haki za wengine. Sheria hizi ni sifa chanya za serikali, zikichukua nafasi ya mkataba na exchange kwa uamuzi wa wengi na kanuni za utawala. Kwa hivyo watu binafsi huzuiwa katika umiliki wao wa vitu, au katika umiliki wao wenyewe, kwa visingizio vya madhara yasiyo na kikomo na yasiyoelezeka kwa jamii au kwa makundi fulani ya watu.
 
 
 
@@ -1087,7 +1087,7 @@ Tofauti ya msingi kati ya mchango na kodi ni mahali pa kuanzia kwa tafakari yoyo
 
 
 
-Ushuru wa kiholela, kwa upande mwingine, una mizizi katika dhana tofauti kabisa ya uhusiano kati ya mtu binafsi na mamlaka. Mapema mwishoni mwa karne ya 17, wanafikra kama vile Pierre de Boisguilbert walikosoa vikali dhana za ushuru za Ancien Régime, ambapo mtawala alijiona kuwa mmiliki wa ardhi na raia wote. Kupogoa kiholela ni kielelezo kamili cha mantiki hii ya ulezi wa kisiasa, ambapo mtu binafsi ni wa taifa na anadaiwa rasilimali zake kwa matakwa ya wale walio madarakani. Mapinduzi ya Ufaransa yalivunja baadhi ya dhana hizi, lakini hayakuzibadilisha, kwani zilibaki zimekita mizizi sana katika fikira za watu.
+Ushuru wa kiholela, kwa upande mwingine, una mizizi katika dhana tofauti kabisa ya uhusiano kati ya mtu binafsi na mamlaka. Mapema mwishoni mwa karne ya 17, Idéologues kama vile Pierre de Boisguilbert walikosoa vikali dhana za ushuru za Ancien Régime, ambapo mtawala alijiona kuwa mmiliki wa ardhi na raia wote. Kupogoa kiholela ni kielelezo kamili cha mantiki hii ya ulezi wa kisiasa, ambapo mtu binafsi ni wa taifa na anadaiwa rasilimali zake kwa matakwa ya wale walio madarakani. Mapinduzi ya Ufaransa yalivunja baadhi ya dhana hizi, lakini hayakuzibadilisha, kwani zilibaki zimekita mizizi sana katika fikira za watu.
 
 
 
@@ -1213,11 +1213,11 @@ Waandishi hawa walitambua ulinzi wa wafanyakazi kama aina kuu ya ulinzi wa siku 
 
 
 
-Kushindwa kwa ukosefu wa uhuru kuna historia ndefu ya kiakili, kuanzia kwa wanafizikia wa karne ya 18. Wanafikra hawa walifungua mjadala wa msingi kuhusu uwezekano wa jamii ambapo Serikali, kwa kuandaa ukosefu wa uhuru, ingechukua maamuzi badala ya watu binafsi ili kuunda utendaji kazi unaodhaniwa kuwa na usawa zaidi wa kiuchumi na kijamii. Tafakari hii ilijikita katika swali kubwa la nafaka na ngano, rasilimali kuu ya chakula ya wakati huo, ambayo biashara yake ilijadiliwa katika karne nzima.
+Kushindwa kwa ukosefu wa uhuru kuna historia ndefu ya kiakili, kuanzia kwa wanafizikia wa karne ya 18. Idéologues hawa walifungua mjadala wa msingi kuhusu uwezekano wa jamii ambapo Serikali, kwa kuandaa ukosefu wa uhuru, ingechukua maamuzi badala ya watu binafsi ili kuunda utendaji kazi unaodhaniwa kuwa na usawa zaidi wa kiuchumi na kijamii. Tafakari hii ilijikita katika swali kubwa la nafaka na ngano, rasilimali kuu ya chakula ya wakati huo, ambayo biashara yake ilijadiliwa katika karne nzima.
 
 
 
-Wataalamu wa Physiokrati, wakiwemo Louis-Paul Abeille, Turgot, Marquis de Mirabeau na Dupont de Nemours, walitoa hoja za msingi dhidi ya mipango ya serikali. Walionyesha kwamba jaribio la serikali kupanga uzalishaji wa chakula, kupanga bei, kuzuia uhamisho wa rasilimali kati ya mikoa, au kuzuia ubadilishanaji fulani, halingeweza kufanya kazi. Nguvu ya kisiasa haina kile wanachokiita jicho la bwana, uwezo wa kutambua hali halisi ya kiuchumi ambayo watu binafsi pekee wana nayo katika maisha yao ya kila siku. Matukio ya kiuchumi, hasa katika kesi ya bidhaa muhimu kama ngano, hujitokeza kwa mizani kubwa sana na ngumu kwa mamlaka kuu kuelewa ipasavyo.
+Wataalamu wa Physiokrati, wakiwemo Louis-Paul Abeille, Turgot, Marquis de Mirabeau na Dupont de Nemours, walitoa hoja za msingi dhidi ya mipango ya serikali. Walionyesha kwamba jaribio la serikali kupanga uzalishaji wa chakula, kupanga bei, kuzuia uhamisho wa rasilimali kati ya mikoa, au kuzuia exchange fulani, halingeweza kufanya kazi. Nguvu ya kisiasa haina kile wanachokiita jicho la bwana, uwezo wa kutambua hali halisi ya kiuchumi ambayo watu binafsi pekee wana nayo katika maisha yao ya kila siku. Matukio ya kiuchumi, hasa katika kesi ya bidhaa muhimu kama ngano, hujitokeza kwa mizani kubwa sana na ngumu kwa mamlaka kuu kuelewa ipasavyo.
 
 
 
@@ -1282,7 +1282,7 @@ Historia hii ya kiakili na ya kweli ya kushindwa kwa ukosefu wa uhuru ni somo la
 
 
 
-Sehemu ya tano ya kozi hii kuhusu uhuru kama mradi wa jamii inashughulikia swali la msingi: kwa nini ukosefu wa uhuru unaendelea kutawala jamii zetu, ingawa unapingwa na ukweli na unapingana na harakati za kihistoria kuelekea uhuru mkubwa? Jibu liko katika kuwepo kwa ujinga thabiti unaotumika kama msingi wa kiakili wa mifumo ya ukosefu wa uhuru. Wazo la ujinga lina asili yake katika mawazo ya Frédéric Bastiat, mwandishi wa Sophismes économiques maarufu. Bastiat aliamini kwamba wasoshalisti na waingiliaji kati wa siku zake walikuwa wamekosea, lakini kwa nia njema. Kama usemi maarufu katika lugha nyingi unavyotukumbusha, barabara ya kuzimu imejengwa kwa nia njema. Kwa Bastiat, adui wa uliberali si mjinga mwenyewe, bali ujinga kama kosa la kufikiri au la kweli linalohitaji kusahihishwa na sayansi ya kiuchumi.
+Sehemu ya tano ya kozi hii kuhusu uhuru kama mradi wa jamii inashughulikia swali la msingi: kwa nini ukosefu wa uhuru unaendelea kutawala jamii zetu, ingawa unapingwa na ukweli na unapingana na harakati za kihistoria kuelekea uhuru mkubwa? Jibu liko katika kuwepo kwa ujinga thabiti unaotumika kama msingi wa kiakili wa mifumo ya ukosefu wa uhuru. Wazo la ujinga lina asili yake katika mawazo ya Frédéric Bastiat, mwandishi wa Sophismes économiques maarufu. Bastiat aliamini kwamba Socialists na waingiliaji kati wa siku zake walikuwa wamekosea, lakini kwa nia njema. Kama usemi maarufu katika lugha nyingi unavyotukumbusha, barabara ya kuzimu imejengwa kwa nia njema. Kwa Bastiat, adui wa uliberali si mjinga mwenyewe, bali ujinga kama kosa la kufikiri au la kweli linalohitaji kusahihishwa na sayansi ya kiuchumi.
 
 
 
@@ -1298,7 +1298,7 @@ Mila ya kiliberali ya Ufaransa ya karne ya 19 hutoa mfumo imara wa dhana wa kuel
 
 
 
-Kwa kuzingatia ufafanuzi huu mkali, mawazo ya kisiasa pia huficha dhana potofu za uhuru, maarufu zaidi ikiwa ni ile ya Montesquieu: uhuru ni haki ya kufanya chochote kinachoruhusiwa na sheria. Ufafanuzi huu unaoonekana kutokuwa na hatia unageuka kuwa hatari sana, kwani unaruhusu ukiukaji wowote wa uhuru usio na hatia wa mtu binafsi mradi tu umeidhinishwa na sheria. Wanafikra huria wa karne ya kumi na tisa kwa ujumla walimkosoa Montesquieu kuhusu jambo hili. Destutt de Tracy alitoa kazi nzima, Commentaire sur l'Esprit des lois, kurekebisha dhana potofu za mfikiri huyu mkuu. Kinyume na dhana ya Montesquieu, Benjamin Constant aliunda nadharia inayotofautisha wazi nyanja ya kitendo cha mtu binafsi kisicho na hatia, huru kutoka nyanja ya madaraka, ya mwisho ikihakikisha tu utekelezaji wa haki bila kubaini matakwa au matendo ya watu binafsi.
+Kwa kuzingatia ufafanuzi huu mkali, mawazo ya kisiasa pia huficha dhana potofu za uhuru, maarufu zaidi ikiwa ni ile ya Montesquieu: uhuru ni haki ya kufanya chochote kinachoruhusiwa na sheria. Ufafanuzi huu unaoonekana kutokuwa na hatia unageuka kuwa hatari sana, kwani unaruhusu ukiukaji wowote wa uhuru usio na hatia wa mtu binafsi mradi tu umeidhinishwa na sheria. Idéologues huria wa karne ya kumi na tisa kwa ujumla walimkosoa Montesquieu kuhusu jambo hili. Destutt de Tracy alitoa kazi nzima, Commentaire sur l'Esprit des lois, kurekebisha dhana potofu za mfikiri huyu mkuu. Kinyume na dhana ya Montesquieu, Benjamin Constant aliunda nadharia inayotofautisha wazi nyanja ya kitendo cha mtu binafsi kisicho na hatia, huru kutoka nyanja ya madaraka, ya mwisho ikihakikisha tu utekelezaji wa haki bila kubaini matakwa au matendo ya watu binafsi.
 
 
 
@@ -1383,7 +1383,7 @@ Kama sehemu ya utafiti wetu wa uhuru kama mradi wa kijamii, sasa tunageukia mako
 
 
 
-Bastiat alielewa kwamba ili kuanzisha uhuru wa kweli, ilikuwa muhimu kwanza kuharibu mifumo inayoshindana kulingana na hoja potofu. Ingawa makosa haya yanatambuliwa kwa urahisi na jicho lenye utambuzi, idadi ya watu kwa ujumla haiyatambui mara kwa mara. Kwa hivyo, jukumu la mchumi huria ni kuonyesha makosa haya ya kweli na dosari za hoja katika uchambuzi wa jamii, ubadilishanaji na uzalishaji. Kwa Bastiat, ulinzi na ujamaa ziliwakilisha hatua za kurudi nyuma kuelekea dhana za kiuchumi zilizopitwa na wakati, ambazo zilibidi zipigwe vita kwa kuonyesha kwa ukali kutolingana kwao kimantiki.
+Bastiat alielewa kwamba ili kuanzisha uhuru wa kweli, ilikuwa muhimu kwanza kuharibu mifumo inayoshindana kulingana na hoja potofu. Ingawa makosa haya yanatambuliwa kwa urahisi na jicho lenye utambuzi, idadi ya watu kwa ujumla haiyatambui mara kwa mara. Kwa hivyo, jukumu la mchumi huria ni kuonyesha makosa haya ya kweli na dosari za hoja katika uchambuzi wa jamii, exchange na uzalishaji. Kwa Bastiat, ulinzi na ujamaa ziliwakilisha hatua za kurudi nyuma kuelekea dhana za kiuchumi zilizopitwa na wakati, ambazo zilibidi zipigwe vita kwa kuonyesha kwa ukali kutolingana kwao kimantiki.
 
 
 
@@ -1403,7 +1403,7 @@ Waliberali, na hasa Bastiat, wanachukua mtazamo tofauti kabisa, wakizingatia ath
 
 
 
-Uongo mwingine unaomtia wasiwasi Bastiat ni ule wa "kutokana na hilo, kwa hivyo kwa sababu hiyo" hoja, ambayo inashughulikia mabadiliko ya kisababishi na miunganisho ya kimantiki ya uwongo iliyoanzishwa na wasoshalisti na watetezi. Hizo za mwisho huunda hoja za haraka ambazo, kwa uchunguzi wa karibu, makosa dhahiri yanaweza kugunduliwa. Zinadai hitimisho ambazo hazifuati kimantiki kutoka kwa mapendekezo yaliyotangulia, na mara nyingi hujenga kiunzi chao cha kinadharia kwenye misingi ya uwongo au dhana zisizoeleweka vizuri. Kukimbilia upinzani kati ya maslahi ya jumla na mahususi pia ni kisingizio cha mara kwa mara cha kudhoofisha haki na uhuru wa mtu binafsi, kwa kuwasilisha maslahi haya ya jumla kama chombo bora kinachoidhinisha ukiukwaji wote wa uhuru unaochukuliwa kuwa duni.
+Uongo mwingine unaomtia wasiwasi Bastiat ni ule wa "kutokana na hilo, kwa hivyo kwa sababu hiyo" hoja, ambayo inashughulikia mabadiliko ya kisababishi na miunganisho ya kimantiki ya uwongo iliyoanzishwa na Socialists na watetezi. Hizo za mwisho huunda hoja za haraka ambazo, kwa uchunguzi wa karibu, makosa dhahiri yanaweza kugunduliwa. Zinadai hitimisho ambazo hazifuati kimantiki kutoka kwa mapendekezo yaliyotangulia, na mara nyingi hujenga kiunzi chao cha kinadharia kwenye misingi ya uwongo au dhana zisizoeleweka vizuri. Kukimbilia upinzani kati ya maslahi ya jumla na mahususi pia ni kisingizio cha mara kwa mara cha kudhoofisha haki na uhuru wa mtu binafsi, kwa kuwasilisha maslahi haya ya jumla kama chombo bora kinachoidhinisha ukiukwaji wote wa uhuru unaochukuliwa kuwa duni.
 
 
 
@@ -1450,7 +1450,7 @@ Katika jamii za kale kama vile Misri, India, Ugiriki na Roma, matabaka ya kijami
 
 
 
-Tafsiri ya ujamaa na ukomunisti inadai kwamba matabaka ya kijamii yanaendelea katika jamii za kisasa, na kudumisha uhuru mdogo kwa baadhi ya watu. Hata hivyo, tunapochambua kwa makini matabaka ya kijamii ambayo yanaweza kuwa katika wakati huu, tunagundua utata wa msingi. Paul Leroy-Beaulieu, katika kitabu chake "Le Collectivism", anajaribu kuchukua kwa uzito madai ya wasoshalisti na wakomunisti kwa kuchunguza msamiati wao unaopinga wafanyakazi na wafanyakazi kwa wasomi wenye njia za uzalishaji.
+Tafsiri ya ujamaa na ukomunisti inadai kwamba matabaka ya kijamii yanaendelea katika jamii za kisasa, na kudumisha uhuru mdogo kwa baadhi ya watu. Hata hivyo, tunapochambua kwa makini matabaka ya kijamii ambayo yanaweza kuwa katika wakati huu, tunagundua utata wa msingi. Paul Leroy-Beaulieu, katika kitabu chake "Le Collectivism", anajaribu kuchukua kwa uzito madai ya Socialists na wakomunisti kwa kuchunguza msamiati wao unaopinga wafanyakazi na wafanyakazi kwa wasomi wenye njia za uzalishaji.
 
 
 
@@ -1462,7 +1462,7 @@ Dhana hizi ni ngumu sana kuzitumia kivitendo. Wasanii na waimbaji matajiri hawam
 
 
 
-Kinyume na wazo la unyonyaji, baadhi ya makundi yaliyo katika hali ngumu ya kitamaduni hunufaika hasa kutokana na maendeleo ya uchumi wa soko. Paul Leroy-Beaulieu, katika "Le travail des femmes au XIXe siècle", anaonyesha kwamba wanawake hunufaika kutokana na maendeleo ya kibepari. Katika jamii za kale, hali yao haikuwa ya kuonewa wivu, kutokana na nguvu zao duni za uzalishaji na ukosefu wa usalama uliowaadhibu zaidi. Katika jamii za kibepari zinazotegemea ubadilishanaji wa hiari, usalama umeimarika na mikataba inategemea hiari. Kadri kazi inavyozidi kuwa ya kimitambo na kiakili, wanawake wanaweza kupata mishahara bora na kufurahia hadhi inayoonewa wivu zaidi.
+Kinyume na wazo la unyonyaji, baadhi ya makundi yaliyo katika hali ngumu ya kitamaduni hunufaika hasa kutokana na maendeleo ya uchumi wa soko. Paul Leroy-Beaulieu, katika "Le travail des femmes au XIXe siècle", anaonyesha kwamba wanawake hunufaika kutokana na maendeleo ya kibepari. Katika jamii za kale, hali yao haikuwa ya kuonewa wivu, kutokana na nguvu zao duni za uzalishaji na ukosefu wa usalama uliowaadhibu zaidi. Katika jamii za kibepari zinazotegemea exchange wa hiari, usalama umeimarika na mikataba inategemea hiari. Kadri kazi inavyozidi kuwa ya kimitambo na kiakili, wanawake wanaweza kupata mishahara bora na kufurahia hadhi inayoonewa wivu zaidi.
 
 
 
@@ -1474,7 +1474,7 @@ Hali ya watoto pia iliboreka kutokana na mageuzi haya. Kadri kazi ilivyozidi kuw
 
 
 
-Madai ya kijamaa kwamba maskini wanazidi kuwa maskini katika jamii za kibepari yanapingwa na ukweli. Paul Leroy-Beaulieu anaonyesha kwamba mwelekeo halisi katika jamii unaotegemea mikataba na ubadilishanaji wa hiari ni uboreshaji wa mara kwa mara wa hali ya watu wengi. Bidhaa za watumiaji zinapatikana kwa bei za chini zaidi, na tija ya wafanyakazi inaboreka kila mara. Hili linaweza kuthibitishwa kwa urahisi kwa kuchunguza ukubwa wa nyumba, ubora na uboreshaji wa nguo mara kwa mara, na uboreshaji wa chakula.
+Madai ya kijamaa kwamba maskini wanazidi kuwa maskini katika jamii za kibepari yanapingwa na ukweli. Paul Leroy-Beaulieu anaonyesha kwamba mwelekeo halisi katika jamii unaotegemea mikataba na exchange wa hiari ni uboreshaji wa mara kwa mara wa hali ya watu wengi. Bidhaa za watumiaji zinapatikana kwa bei za chini zaidi, na tija ya wafanyakazi inaboreka kila mara. Hili linaweza kuthibitishwa kwa urahisi kwa kuchunguza ukubwa wa nyumba, ubora na uboreshaji wa nguo mara kwa mara, na uboreshaji wa chakula.
 
 
 
@@ -1501,7 +1501,7 @@ Mawazo ya Kisoshalisti na Kikomunisti huchukua msimamo wa kinadharia wa kinzani 
 
 
 
-Kwa upande mwingine, kwa upande mwingine, urithi ni mwendelezo wa kimantiki wa haki ya umiliki. Ikiwa wewe ni mmiliki wa kweli, una uhuru wa kufanya na utajiri wako upendavyo, iwe ni kuutoa, kuuuza au kuukabidhi kwa warithi wako. Ubadilishanaji huru wenyewe unategemea heshima hii ya msingi kwa umiliki wa vitu na umiliki wa mtu mwenyewe. Kupitisha baadhi au utajiri wote wa mtu kwa warithi wa mtu hakuvunji haki sawa za wengine, jambo ambalo hufanya utaratibu huu kuwa halali kikamilifu kutoka kwa mtazamo wa huria.
+Kwa upande mwingine, kwa upande mwingine, urithi ni mwendelezo wa kimantiki wa haki ya umiliki. Ikiwa wewe ni mmiliki wa kweli, una uhuru wa kufanya na utajiri wako upendavyo, iwe ni kuutoa, kuuuza au kuukabidhi kwa warithi wako. exchange huru wenyewe unategemea heshima hii ya msingi kwa umiliki wa vitu na umiliki wa mtu mwenyewe. Kupitisha baadhi au utajiri wote wa mtu kwa warithi wa mtu hakuvunji haki sawa za wengine, jambo ambalo hufanya utaratibu huu kuwa halali kikamilifu kutoka kwa mtazamo wa huria.
 
 
 
@@ -1509,7 +1509,7 @@ Kwa upande mwingine, kwa upande mwingine, urithi ni mwendelezo wa kimantiki wa h
 
 
 
-Ili kuelewa kitendawili kilichopo miongoni mwa wanafikra wa kisoshalisti kati ya kukataa kwao mali binafsi na utetezi wao wa mali ya taifa, tunahitaji kuchambua jinsi mali inavyozaliwa ndani ya mipaka yake ya pamoja na ya kitaifa. Makabila ya mababu na makundi ya wanadamu yalichukua umiliki wa maeneo, wakati mwingine kwa vurugu, lakini mara nyingi kwa ugunduzi wa kwanza wa ardhi mpya. Kazi ya ugunduzi haikuwa rahisi hata kidogo, na iliambatana na juhudi kubwa ya uhifadhi licha ya hatari za mara kwa mara zinazotokana na kutulia katika sehemu mpya.
+Ili kuelewa kitendawili kilichopo miongoni mwa Idéologues wa kisoshalisti kati ya kukataa kwao mali binafsi na utetezi wao wa mali ya taifa, tunahitaji kuchambua jinsi mali inavyozaliwa ndani ya mipaka yake ya pamoja na ya kitaifa. Makabila ya mababu na makundi ya wanadamu yalichukua umiliki wa maeneo, wakati mwingine kwa vurugu, lakini mara nyingi kwa ugunduzi wa kwanza wa ardhi mpya. Kazi ya ugunduzi haikuwa rahisi hata kidogo, na iliambatana na juhudi kubwa ya uhifadhi licha ya hatari za mara kwa mara zinazotokana na kutulia katika sehemu mpya.
 
 
 
@@ -1521,11 +1521,11 @@ Uhamisho wa kundi la wanadamu hadi eneo lisilojulikana ulikuwa na matatizo mengi
 
 
 
-Mkanganyiko huo unakuwa wazi tunapoona kwamba wasoshalisti na wakomunisti wako tayari kabisa kutambua mipaka na mipaka ya makundi ya kitaifa, huku wakikataa mali binafsi. Katika uchanganuzi uliofanywa na warithi wa kisasa wa mikondo hii ya mawazo kuhusu vita vya ushindi au mashambulizi ya nchi moja dhidi ya nyingine, wanajifanya kama watetezi wa mipaka. Lakini mpaka ni nini ikiwa si utambuzi wa mipaka ya umiliki wa pamoja wa kundi la eneo lake? Kwa njia hii, tunatambua kwamba kundi la watu binafsi linastahili heshima iliyohakikishwa kwa mali yake, ikiwa ni pamoja na uingiliaji kati wa kijeshi ili kulinda mipaka hii.
+Mkanganyiko huo unakuwa wazi tunapoona kwamba Socialists na wakomunisti wako tayari kabisa kutambua mipaka na mipaka ya makundi ya kitaifa, huku wakikataa mali binafsi. Katika uchanganuzi uliofanywa na warithi wa kisasa wa mikondo hii ya mawazo kuhusu vita vya ushindi au mashambulizi ya nchi moja dhidi ya nyingine, wanajifanya kama watetezi wa mipaka. Lakini mpaka ni nini ikiwa si utambuzi wa mipaka ya umiliki wa pamoja wa kundi la eneo lake? Kwa njia hii, tunatambua kwamba kundi la watu binafsi linastahili heshima iliyohakikishwa kwa mali yake, ikiwa ni pamoja na uingiliaji kati wa kijeshi ili kulinda mipaka hii.
 
 
 
-Msimamo huu unakuwa mgumu hasa tunaposhuka ngazi ya jamii. Katika mataifa madogo, wasoshalisti pia wanaheshimu mali ya pamoja, lakini ni kwa kiwango gani jamii iliyopunguzwa hadi familia moja inapaswa kuheshimu mali yake? Ngazi ya kwanza, bila shaka, ni mtu binafsi. Ikiwa tunaheshimu mipaka ya mali katika kundi, kwa nini tusiiheshimu katika ngazi ya mtu binafsi? Mantiki hii inaonyesha kwamba bado tuko wafungwa wa dhana za kale za kikabila, ambapo umiliki wa pamoja wa eneo la uwindaji ulikuwa wa makabila mengine yote pekee, bila kudhaniwa kuwa ni wa jamii nzima ya wanadamu.
+Msimamo huu unakuwa mgumu hasa tunaposhuka ngazi ya jamii. Katika mataifa madogo, Socialists pia wanaheshimu mali ya pamoja, lakini ni kwa kiwango gani jamii iliyopunguzwa hadi familia moja inapaswa kuheshimu mali yake? Ngazi ya kwanza, bila shaka, ni mtu binafsi. Ikiwa tunaheshimu mipaka ya mali katika kundi, kwa nini tusiiheshimu katika ngazi ya mtu binafsi? Mantiki hii inaonyesha kwamba bado tuko wafungwa wa dhana za kale za kikabila, ambapo umiliki wa pamoja wa eneo la uwindaji ulikuwa wa makabila mengine yote pekee, bila kudhaniwa kuwa ni wa jamii nzima ya wanadamu.
 
 
 
@@ -1533,11 +1533,11 @@ Msimamo huu unakuwa mgumu hasa tunaposhuka ngazi ya jamii. Katika mataifa madogo
 
 
 
-Tunaweza pia kugeuza hoja ya urithi dhidi ya wasoshalisti kwa kuwauliza kwa nini wanatetea urithi katika aina zake za pamoja. Umiliki wa ardhi kitaifa, kama ule wa Ufaransa, unamaanisha kwamba ni Wafaransa wanaorithi kutoka kwa Wafaransa kila wakati. Kwa nini watu wasiojiweza duniani, wale wanaoishi katika jangwa au hali mbaya ya hewa, pia hawapaswi kurithi? Kwa nini wasigawanye utajiri tena duniani kote? Wasoshalisti hawatakubali hilo, kwa sababu wanatambua kikamilifu umiliki wa mipaka katika ngazi ya kitaifa, lakini wanakataa kuutambua katika ngazi ya mtu binafsi.
+Tunaweza pia kugeuza hoja ya urithi dhidi ya Socialists kwa kuwauliza kwa nini wanatetea urithi katika aina zake za pamoja. Umiliki wa ardhi kitaifa, kama ule wa Ufaransa, unamaanisha kwamba ni Wafaransa wanaorithi kutoka kwa Wafaransa kila wakati. Kwa nini watu wasiojiweza duniani, wale wanaoishi katika jangwa au hali mbaya ya hewa, pia hawapaswi kurithi? Kwa nini wasigawanye utajiri tena duniani kote? socialists hawatakubali hilo, kwa sababu wanatambua kikamilifu umiliki wa mipaka katika ngazi ya kitaifa, lakini wanakataa kuutambua katika ngazi ya mtu binafsi.
 
 
 
-Uchambuzi huu pia unatuwezesha kuelewa jinsi mifumo ya ukosefu wa uhuru inavyodhoofisha uhuru wa mtu binafsi. Kodi, zinapozidi mchango halali wa huduma kwa ajili ya huduma, ni aina ya uchokozi wa eneo dhidi ya mali ya mtu binafsi. Kanuni, pia, inawakilisha aina ya kunyang'anywa mali, kama vile mmiliki wa nyumba anapokatazwa kupaka nyumba yake rangi anayotaka. Hatua hizi zinatunyang'anya mali yetu wenyewe, iwe ni mali yetu wenyewe, ya vitu au ya ardhi. Kwa hivyo, uwongo wa kimataifa unaonyesha utambuzi wa jiometri unaobadilika, ambapo majimbo na mataifa hufaidika na ulinzi wa mali zao za pamoja, huku mtu anayepata bidhaa kupitia kazi na ubadilishanaji akilazimika kuvumilia udhibiti, usimamizi na ulezi.
+Uchambuzi huu pia unatuwezesha kuelewa jinsi mifumo ya ukosefu wa uhuru inavyodhoofisha uhuru wa mtu binafsi. Kodi, zinapozidi mchango halali wa huduma kwa ajili ya huduma, ni aina ya uchokozi wa eneo dhidi ya mali ya mtu binafsi. Kanuni, pia, inawakilisha aina ya kunyang'anywa mali, kama vile mmiliki wa nyumba anapokatazwa kupaka nyumba yake rangi anayotaka. Hatua hizi zinatunyang'anya mali yetu wenyewe, iwe ni mali yetu wenyewe, ya vitu au ya ardhi. Kwa hivyo, uwongo wa kimataifa unaonyesha utambuzi wa jiometri unaobadilika, ambapo majimbo na mataifa hufaidika na ulinzi wa mali zao za pamoja, huku mtu anayepata bidhaa kupitia kazi na exchange akilazimika kuvumilia udhibiti, usimamizi na ulezi.
 
 
 
@@ -1594,7 +1594,7 @@ Mpango thabiti wa uhuru wa kufanya kazi unamaanisha kupambana na wapinzani wake 
 
 
 
-Kutambua uhuru wa kufanya kazi kunamaanisha kutambua ubora wa mfumo kandamizi, unaoadhibu unyanyasaji halisi na ukiukwaji madhubuti wa haki za wengine, kuliko mfumo wa kuzuia, ambao unazuia shughuli za kila mtu kuwa za kipaumbele. Utambuzi huu kwa kawaida husababisha mabadiliko ya huduma zaidi za umma kuwa za kibinafsi, na kuchukua nafasi ya ulezi na uhuru. Matokeo yake ni jamii inayozidi, ikiwa si pekee, kutegemea mkataba na ubadilishanaji wa hiari.
+Kutambua uhuru wa kufanya kazi kunamaanisha kutambua ubora wa mfumo kandamizi, unaoadhibu unyanyasaji halisi na ukiukwaji madhubuti wa haki za wengine, kuliko mfumo wa kuzuia, ambao unazuia shughuli za kila mtu kuwa za kipaumbele. Utambuzi huu kwa kawaida husababisha mabadiliko ya huduma zaidi za umma kuwa za kibinafsi, na kuchukua nafasi ya ulezi na uhuru. Matokeo yake ni jamii inayozidi, ikiwa si pekee, kutegemea mkataba na exchange ya hiari.
 
 
 
@@ -1602,7 +1602,7 @@ Kutambua uhuru wa kufanya kazi kunamaanisha kutambua ubora wa mfumo kandamizi, u
 
 
 
-Uhuru wa benki na kifedha ni matumizi maalum ya uhuru wa kazi, kwa kuwa pesa inawakilisha tu huduma inayotolewa na bidhaa inayobadilishwa sokoni. Wanauchumi wengi wa kiliberali wa Ufaransa, akiwemo Jean-Gustave Courcelle-Seneuil na kitabu chake La Banque libre, walisaidia kufufua nadharia ya kiuchumi iliyo nyuma ya uhuru huu katika karne ya 19. Wanafikra hawa walitoa ukosoaji kamili wa vitendo vya mapema vya fedha vya udanganyifu, kushuka kwa thamani na mfumuko wa bei, kwani historia ya vitendo vya serikali vya pesa ilithibitika kuwa giza sana na kukosolewa kwa urahisi.
+Uhuru wa benki na kifedha ni matumizi maalum ya uhuru wa kazi, kwa kuwa pesa inawakilisha tu huduma inayotolewa na bidhaa inayobadilishwa sokoni. Wanauchumi wengi wa kiliberali wa Ufaransa, akiwemo Jean-Gustave Courcelle-Seneuil na kitabu chake La Banque libre, walisaidia kufufua nadharia ya kiuchumi iliyo nyuma ya uhuru huu katika karne ya 19. Idéologues hawa walitoa ukosoaji kamili wa vitendo vya mapema vya fedha vya udanganyifu, kushuka kwa thamani na mfumuko wa bei, kwani historia ya vitendo vya serikali vya pesa ilithibitika kuwa giza sana na kukosolewa kwa urahisi.
 
 
 
@@ -1625,7 +1625,7 @@ Courcelle-Seneuil alisisitiza tu mawazo ya Mapinduzi ya Ufaransa kuhusu uhuru wa
 
 
 
-Mpango wa kisiasa wa uhuru kama mradi wa jamii kimsingi unategemea kupunguzwa kwa kiasi kikubwa kwa mamlaka ya serikali, hasa yale yanayochukuliwa kuwa ya vimelea. Wazo hili linapitia utamaduni mzima wa kiliberali wa Ufaransa, kuanzia Marquis d'Argenson na wanafizikia katika karne ya 18, pamoja na kanuni yao maarufu ya "laissez faire", hadi wanafikra wakubwa wa karne ya 19 kama vile Paul Leroy-Beaulieu. Ingawa waandishi hawa wanatambua kwamba Serikali ina mamlaka kadhaa muhimu, hasa katika nyanja za polisi, haki na mipango fulani ya matumizi ya ardhi, wote wanakubaliana kuhusu hitaji la kupunguza wigo wake wa utekelezaji.
+Mpango wa kisiasa wa uhuru kama mradi wa jamii kimsingi unategemea kupunguzwa kwa kiasi kikubwa kwa mamlaka ya serikali, hasa yale yanayochukuliwa kuwa ya vimelea. Wazo hili linapitia utamaduni mzima wa kiliberali wa Ufaransa, kuanzia Marquis d'Argenson na wanafizikia katika karne ya 18, pamoja na kanuni yao maarufu ya "laissez faire", hadi Idéologues wakubwa wa karne ya 19 kama vile Paul Leroy-Beaulieu. Ingawa waandishi hawa wanatambua kwamba Serikali ina mamlaka kadhaa muhimu, hasa katika nyanja za polisi, haki na mipango fulani ya matumizi ya ardhi, wote wanakubaliana kuhusu hitaji la kupunguza wigo wake wa utekelezaji.
 
 
 
@@ -1705,7 +1705,7 @@ Uchambuzi wa kiliberali wa ufeministi unategemea utafiti wa kihistoria na wa kib
 
 
 
-Ukombozi wa wanawake ulipatikana kupitia uhuru na kile tunachokiita ubepari, yaani matumizi ya vifaa na mashine ambazo polepole ziliwapa wanawake uwezo wa uzalishaji sawa na, au hata zaidi ya, ule wa wanaume. Maendeleo haya ya kiteknolojia yalisababisha msisitizo mkubwa juu ya uvumilivu na fadhila za kimaadili na kiakili, ilhali jamii za mwanzo zilizingatia nguvu kali. Wazo kuu la ridhaa ni sehemu ya msingi ya muunganiko kati ya ufeministi na uliberali, kwani mkataba na ubadilishanaji huru hutegemea kabisa kanuni hii. Mfumo wa ulezi na vikwazo, kwa upande mwingine, unategemea kutokubaliana au ridhaa ya wengi, ambayo huondoa makubaliano ya kila siku ya mtu binafsi ya kila mtu.
+Ukombozi wa wanawake ulipatikana kupitia uhuru na kile tunachokiita ubepari, yaani matumizi ya vifaa na mashine ambazo polepole ziliwapa wanawake uwezo wa uzalishaji sawa na, au hata zaidi ya, ule wa wanaume. Maendeleo haya ya kiteknolojia yalisababisha msisitizo mkubwa juu ya uvumilivu na fadhila za kimaadili na kiakili, ilhali jamii za mwanzo zilizingatia nguvu kali. Wazo kuu la ridhaa ni sehemu ya msingi ya muunganiko kati ya ufeministi na uliberali, kwani mkataba na exchange huru hutegemea kabisa kanuni hii. Mfumo wa ulezi na vikwazo, kwa upande mwingine, unategemea kutokubaliana au ridhaa ya wengi, ambayo huondoa makubaliano ya kila siku ya mtu binafsi ya kila mtu.
 
 
 
@@ -1713,7 +1713,7 @@ Ukombozi wa wanawake ulipatikana kupitia uhuru na kile tunachokiita ubepari, yaa
 
 
 
-Suala la ubaguzi wa rangi lilikuwa mada ya mijadala mingi katika Société d'économie politique katika karne ya 19, ambayo iliwaleta pamoja wasomi wakuu wa kiliberali wa Ufaransa na kuwakaribisha mara kwa mara wanafikra wa kigeni. Mijadala hii ilishughulikia maonyesho mbalimbali ya ubaguzi wa rangi, kuanzia chuki dhidi ya Wayahudi na hatima ya Wayahudi nchini Romania hadi hali ya Wachina huko California na Australia. Idadi kubwa ya wanachama wa jamii hiyo walichukua mtazamo chanya kuhusu mchanganyiko wa makundi ya wanadamu, wakiamini kwamba ushindani ni wa kuchochea na kwamba kazi ya vizazi, kuchanganya vipengele tofauti vya utamaduni na akili, husababisha maendeleo bora ya ustaarabu, mradi tu hii inafanywa kwa msingi wa mkataba na ushirikiano wa hiari.
+Suala la ubaguzi wa rangi lilikuwa mada ya mijadala mingi katika Société d'économie politique katika karne ya 19, ambayo iliwaleta pamoja wasomi wakuu wa kiliberali wa Ufaransa na kuwakaribisha mara kwa mara Idéologues wa kigeni. Mijadala hii ilishughulikia maonyesho mbalimbali ya ubaguzi wa rangi, kuanzia chuki dhidi ya Wayahudi na hatima ya Wayahudi nchini Romania hadi hali ya Wachina huko California na Australia. Idadi kubwa ya wanachama wa jamii hiyo walichukua mtazamo chanya kuhusu mchanganyiko wa makundi ya wanadamu, wakiamini kwamba ushindani ni wa kuchochea na kwamba kazi ya vizazi, kuchanganya vipengele tofauti vya utamaduni na akili, husababisha maendeleo bora ya ustaarabu, mradi tu hii inafanywa kwa msingi wa mkataba na ushirikiano wa hiari.
 
 
 
@@ -1725,7 +1725,7 @@ Tabia ya ubinafsi ya mafundisho ya uhuru inapingana moja kwa moja na uwakilishi 
 
 
 
-Suala la uhamiaji lazima lishughulikiwe kwa misingi ya uhuru wa umiliki binafsi na umiliki wa vitu. Wakati uhamiaji unategemea ubadilishanaji wa hiari, umiliki halali wa bidhaa na mikataba sawa, uhuru wa uhamiaji lazima utetewe. Gustave de Molinari, mwenyewe mhamiaji wa Ubelgiji aliyeishi Ufaransa, anaeleza msimamo huu kwa ufupi. Msafiri mkubwa aliyesafiri kote Urusi, Marekani na Amerika Kusini, alikuwa mpinzani mkuu wa vikwazo vya uhamiaji vilivyoanza kuonekana katika karne ya 19.
+Suala la uhamiaji lazima lishughulikiwe kwa misingi ya uhuru wa umiliki binafsi na umiliki wa vitu. Wakati uhamiaji unategemea exchange ya hiari, umiliki halali wa bidhaa na mikataba sawa, uhuru wa uhamiaji lazima utetewe. Gustave de Molinari, mwenyewe mhamiaji wa Ubelgiji aliyeishi Ufaransa, anaeleza msimamo huu kwa ufupi. Msafiri mkubwa aliyesafiri kote Urusi, Marekani na Amerika Kusini, alikuwa mpinzani mkuu wa vikwazo vya uhamiaji vilivyoanza kuonekana katika karne ya 19.
 
 
 
@@ -1760,7 +1760,7 @@ Utambuzi huu wa uhuru na uhuru wa mtu binafsi una matokeo muhimu kwa shirika la 
 
 
 
-Jamii huria inategemea ubadilishanaji wa hiari na mkataba, ambao hubadilisha sana uelewa wetu wa taifa na jamii zote. Vyama, biashara na ubadilishanaji wa aina zote lazima viwe vya hiari. Mataifa yenyewe yanapaswa kueleweka kama vyama vikubwa kupitia na ndani yake ambapo watu binafsi hupanga usimamizi wa haki na polisi. Ufafanuzi huu unaweka wazi kwamba mataifa si vyombo bora vinavyotawala au kumiliki watu binafsi.
+Jamii huria inategemea exchange wa hiari na mkataba, ambao hubadilisha sana uelewa wetu wa taifa na jamii zote. Vyama, biashara na exchange wa aina zote lazima viwe vya hiari. Mataifa yenyewe yanapaswa kueleweka kama vyama vikubwa kupitia na ndani yake ambapo watu binafsi hupanga usimamizi wa haki na polisi. Ufafanuzi huu unaweka wazi kwamba mataifa si vyombo bora vinavyotawala au kumiliki watu binafsi.
 
 
 
@@ -1819,7 +1819,7 @@ Uchunguzi wa hali za kihistoria za uhuru unaonyesha kwamba ni mchakato wa tarati
 
 
 
-Sehemu ya tatu ya kozi ilichunguza mifumo halisi ambayo uhuru hutoa athari zake za manufaa. Bei na faida zina jukumu muhimu katika mchakato huu, na kuwezesha ubadilishanaji huru kufikia matokeo ya kuridhisha kwa washiriki wote. Exchange na mkataba huunda msingi wa mfumo huu, kuhakikisha kwamba kila muamala una faida kwa pande zote mbili kwa wote wanaohusika. Kuridhika kwa mahitaji na starehe ya nyenzo na kiakili ambayo kila mtu anatamani kupata utimilifu wake wa asili katika uhuru wa kiuchumi.
+Sehemu ya tatu ya kozi ilichunguza mifumo halisi ambayo uhuru hutoa athari zake za manufaa. Bei na faida zina jukumu muhimu katika mchakato huu, na kuwezesha exchange huru kufikia matokeo ya kuridhisha kwa washiriki wote. Exchange na mkataba huunda msingi wa mfumo huu, kuhakikisha kwamba kila muamala una faida kwa pande zote mbili kwa wote wanaohusika. Kuridhika kwa mahitaji na starehe ya nyenzo na kiakili ambayo kila mtu anatamani kupata utimilifu wake wa asili katika uhuru wa kiuchumi.
 
 
 
