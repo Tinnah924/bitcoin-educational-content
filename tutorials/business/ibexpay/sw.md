@@ -1,6 +1,6 @@
 ---
 name: IbexPay
-description: Kubali malipo katika bitcoins na ubadilishe kuwa fedha za ndani.
+description: Kubali malipo katika bitcoin na ubadilishe kuwa fedha za ndani.
 ---
 ![cover](assets/cover.webp)
 
@@ -14,7 +14,7 @@ Kufanya Bitcoin itumike kwa kila mtu pia inamaanisha kuonyesha manufaa yake na j
 
 
 
-IbexPay ni jukwaa lililotengenezwa na IBEX, mwanzilishi wa huduma za miundombinu ya Umeme. Ili kupata akaunti, nenda kwenye IbexPay [jukwaa rasmi](https://www.ibexpay.io/) na ubofye kitufe cha "**Anza**".
+IbexPay ni jukwaa lililotengenezwa na IBEX, mwanzilishi wa huduma za miundombinu ya Lightning. Ili kupata akaunti, nenda kwenye IbexPay [jukwaa rasmi](https://www.ibexpay.io/) na ubofye kitufe cha "**Anza**".
 
 
 
@@ -62,7 +62,7 @@ Kutoka kwa dashibodi hii, unaweza:
 
 - Tazama historia ya muamala katika kipindi cha kila siku, kila mwezi, mwaka au maalum;
 - Hamisha historia katika umbizo la Excel (CSV) kwa madhumuni ya uhasibu;
-- Angalia jumla ya kiasi cha satoshi ambacho kitatumwa kwa anwani yako ya kibinafsi;
+- Angalia jumla ya kiasi cha satoshi ambacho kitatumwa kwa address yako ya kibinafsi;
 - Angalia sarafu ya nchi inayolingana inayopatikana kwenye akaunti yako.
 
 
@@ -73,11 +73,11 @@ Kutoka kwa dashibodi hii, unaweza:
 
 
 
-Katika menyu ya **Mipangilio**, sanidi maelezo yote muhimu kwa biashara yako: anwani zako za kibinafsi, hati za kampuni, n.k.
+Katika menyu ya **Mipangilio**, sanidi maelezo yote muhimu kwa biashara yako: address zako za kibinafsi, hati za kampuni, n.k.
 
 
 
-Katika sehemu hii, unaweza kusanidi anwani yako ya kupokea bitcoin onchain na anwani yako ya Umeme. Taarifa hizi mbili ni muhimu kwa sababu kila baada ya saa 24, IbexPay itahamisha jumla ya kiasi cha miamala yako kwa siku moja kwa moja hadi kwenye anwani yako ya bitcoin onchain iliyosanidiwa.
+Katika sehemu hii, unaweza kusanidi address yako ya kupokea Bitcoin on-chain na address yako ya Lightning. Taarifa hizi mbili ni muhimu kwa sababu kila baada ya saa 24, IbexPay itahamisha moja kwa moja jumla ya kiasi cha miamala yako ya siku hiyo hadi kwenye address yako ya Bitcoin on-chain iliyosanidiwa.
 
 
 
@@ -85,7 +85,7 @@ Katika sehemu hii, unaweza kusanidi anwani yako ya kupokea bitcoin onchain na an
 
 
 
-Maelezo haya yatathibitishwa na timu ya IbexPay. Baada ya uthibitishaji huu kukamilika, pia una chaguo la kufafanua asilimia ya bitcoin ungependa kupokea pesa taslimu kwa kila ununuzi. Kwa mfano, kwa malipo ya euro 20 kupitia Umeme, ikiwa asilimia yako ya Bitcoin imewekwa kuwa 30%, IbexPay itatuma kiasi hiki kwa euro 6 sawa na bitcoins, kisha euro 14 zinapatikana katika salio lako la FIAT.
+Maelezo haya yatathibitishwa na timu ya IbexPay. Baada ya uthibitishaji huu kukamilika, pia una chaguo la kufafanua asilimia ya bitcoin ungependa kupokea pesa taslimu kwa kila ununuzi. Kwa mfano, kwa malipo ya euro 20 kupitia Lightning, ikiwa asilimia yako ya Bitcoin imewekwa kuwa 30%, IbexPay itatuma kiasi hiki kwa euro 6 sawa na bitcoin, kisha euro 14 zinapatikana katika salio lako la FIAT.
 
 
 
@@ -109,7 +109,7 @@ Ikiwa unamiliki maduka kadhaa, unaweza kufungua akaunti kwa kila duka lako na ku
 
 
 
-Unaweza pia kukabidhi meneja tofauti kwa kila akaunti yako (maduka). Ili kufanya hivyo, katika menyu ya **Wasimamizi**, unda msimamizi wa duka kwa kuingiza jina la msimamizi wa duka na anwani ya barua pepe. Msimamizi huyu atapokea kiotomatiki mwaliko wa barua pepe ili kudhibiti duka ambalo amekabidhiwa.
+Unaweza pia kukabidhi meneja tofauti kwa kila akaunti yako (maduka). Ili kufanya hivyo, katika menyu ya **Wasimamizi**, unda msimamizi wa duka kwa kuingiza jina la msimamizi wa duka na address ya barua pepe. Msimamizi huyu atapokea kiotomatiki mwaliko wa barua pepe ili kudhibiti duka ambalo amekabidhiwa.
 
 
 
@@ -160,8 +160,7 @@ Mara tu kituo chako cha malipo kitakapoundwa, bofya kiungo ili kukuelekeza kweny
 
 
 
-Sasa unaweza kuanza kuunda ankara za umeme ambazo wateja na washirika wako wanaweza kulipa. Kwa kubofya nembo ya IbexPay kwenye kiolesura, unapata msimbo wa QR ambao unaweza kuchanganua kwenye simu yako mahiri ili upate IbexPay POS kwenye kifaa chochote.
-
+Sasa unaweza kuanza kuunda invoice za Lightning ambazo wateja na washirika wako wanaweza kulipa. Kwa kubofya nembo ya IbexPay kwenye kiolesura, unapata msimbo wa QR unaoweza kuchanganuliwa kwenye simu yako mahiri ili upate IbexPay POS kwenye kifaa chochote.
 
 
 ![smartphone](assets/fr/14.webp)
