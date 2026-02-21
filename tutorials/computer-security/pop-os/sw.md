@@ -40,9 +40,9 @@ Kampuni pia inaendeleza:
 
 
 
-- Pop!OS**, mfumo wake endeshi unaotegemea Linux;
-- COSMIC**, mazingira ya kisasa na yenye utendaji wa hali ya juu ya kompyuta ya mezani yanayotumiwa na Pop!OS;
-- Fungua Programu dhibiti**, programu dhibiti huria inayotegemea Coreboot;
+- **Pop!OS**, mfumo wake endeshi unaotegemea Linux;
+- **COSMIC**, mazingira ya kisasa na yenye utendaji wa hali ya juu ya kompyuta ya mezani yanayotumiwa na Pop!OS;
+- **Fungua Programu dhibiti**, programu dhibiti huria inayotegemea Coreboot;
 - zana kwa watengenezaji na wabunifu.
 
 
@@ -89,11 +89,11 @@ Inajumuisha kuweka vigae kiotomatiki, kituo cha programu kilicho wazi na zana ju
 
 
 
-- Utendaji ulioboreshwa** shukrani kwa masasisho ya mara kwa mara.
-- Matoleo mawili ya ISO yanapatikana**: ya kawaida na yaliyoboreshwa na Nvidia.
-- Usalama ulioimarishwa** (Usimbaji fiche wa LUKS unapatikana wakati wa usakinishaji).
-- Interface COSMIC** yenye ergonomic na ya kisasa.
-- Inaoana sana** na programu ya Ubuntu na Flatpak.
+- **Utendaji ulioboreshwa** shukrani kwa masasisho ya mara kwa mara.
+- **Matoleo mawili ya ISO yanapatikana**: ya kawaida na yaliyoboreshwa na Nvidia.
+- vUsalama ulioimarishwa** (Usimbaji fiche wa LUKS unapatikana wakati wa usakinishaji).
+- **Interface COSMIC** yenye ergonomic na ya kisasa.
+- **Inaoana sana** na programu ya Ubuntu na Flatpak.
 
 
 
@@ -115,10 +115,10 @@ Kabla ya kupakua na kusakinisha POP!OS, kuna mambo machache unayohitaji kufanya 
 
 
 
-- Kompyuta inayooana**: Kichakataji cha Intel au AMD, Intel / AMD / Nvidia GPU.
-- Angalau RAM ya GB 4** (GB 8 inapendekezwa kwa matumizi ya starehe).
-- Nafasi ya bure ya GB 20** (inapendekezwa GB 40 au zaidi).
-- Ufunguo wa USB wa angalau GB 4** ili kuunda media ya usakinishaji.
+- **Kompyuta inayooana**: Kichakataji cha Intel au AMD, Intel / AMD / Nvidia GPU.
+- **Angalau RAM ya GB 4** (GB 8 inapendekezwa kwa matumizi ya starehe).
+- **Nafasi ya bure ya GB 20** (inapendekezwa GB 40 au zaidi).
+- **Ufunguo wa USB wa angalau GB 4** ili kuunda media ya usakinishaji.
 
 
 
@@ -218,7 +218,7 @@ Inapendekezwa kwa kompyuta zinazotumia:
 Inapendekezwa kwa kompyuta zilizo na kadi za michoro za Nvidia.
 
 
-Picha hii tayari inajumuisha viendeshi vya Nvidia, na kurahisisha usakinishaji na kupunguza matatizo ya michoro.
+Picha hii tayari inajumuisha drivers za Nvidia, na kurahisisha usakinishaji na kupunguza matatizo ya michoro.
 
 
 
@@ -230,7 +230,7 @@ Picha hii tayari inajumuisha viendeshi vya Nvidia, na kurahisisha usakinishaji n
 
 
 
-Kwa Raspberry Pi 4 na 400 (kichakataji cha ARM).
+Kwa Raspberry Pi 4 na 400 (ARM processor).
 
 
 Imebadilishwa kulingana na usanifu wa ARM, hii ni toleo mahususi kwa kompyuta hizi ndogo.
@@ -385,7 +385,7 @@ Usimbaji fiche wa diski ya mfumo si lazima, lakini unahakikisha usalama wa data 
 
 
 
-Hifadhi inaweza kusimba kwa kutumia nenosiri lako la kuingia kwa kuchagua `Nenosiri la usimbaji fiche ni sawa na nenosiri la akaunti ya mtumiaji`. Unaweza pia kuondoa tiki kwenye kisanduku hiki na kuchagua `Weka Nenosiri` chini. Chagua `Usisimba Fiche` ili kupuuza mchakato wa usimbaji fiche wa diski.
+Hifadhi inaweza kusimba kwa kutumia nenosiri lako la kuingia kwa kuchagua `Nenosiri la usimbaji fiche ni sawa na nenosiri la akaunti ya mtumiaji`. Unaweza pia kuondoa tiki kwenye kisanduku hiki na kuchagua `Weka Nenosiri` chini. Chagua `Usisimba Fiche` ili kupuuza mchakato wa usimbaji fiche wa disk.
 
 
 
@@ -397,7 +397,7 @@ Ukichagua kitufe cha `Weka Nenosiri`, utaona ombi la ziada la kuweka nenosiri la
 
 
 
-Endelea hadi hatua inayofuata katika programu ya usakinishaji. Pop!OS sasa itaanza usakinishaji kwenye diski.
+Endelea hadi hatua inayofuata katika programu ya usakinishaji. Pop!OS sasa itaanza usakinishaji kwenye disk.
 
 
 
@@ -409,7 +409,7 @@ Mara tu usakinishaji utakapokamilika, anzisha upya kompyuta yako na uingie ili k
 
 
 
-Ikiwa umebadilisha mpangilio wa kuwasha ili kutoa kipaumbele kwa ufunguo wako wa USB ya Moja kwa Moja wakati wa kuwasha, zima kompyuta kabisa na uondoe ufunguo wa USB wa usakinishaji. Ikiwa uko katika hali ya kuwasha mara mbili, bonyeza vitufe vinavyofaa ili kufikia usanidi na uchague kiendeshi kilicho na usakinishaji wa Pop!OS.
+Ikiwa umebadilisha mpangilio wa kuwasha ili kutoa kipaumbele kwa ufunguo wako wa USB moja kwa moja wakati wa kuwasha, zima kompyuta kabisa na uondoe ufunguo wa USB wa usakinishaji. Ikiwa uko katika hali ya kuwasha mara mbili, bonyeza vitufe vinavyofaa kufikia usanidi na uchague kiendeshi chenye usakinishaji wa Pop!OS.
 
 
 
@@ -631,7 +631,7 @@ Pop!OS huunganisha zana kama vile Deja Dup kwa ajili ya kuhifadhi nakala rudufu:
 
 
 - Anzisha **Hifadhi Nakala** kutoka kwenye menyu.
-- Chagua diski ya nje au eneo la mtandao.
+- Chagua disk ya nje au eneo la mtandao.
 - Panga nakala rudufu za kawaida.
 
 
@@ -646,9 +646,9 @@ Hapa kuna viendelezi vichache vinavyopendekezwa ili kuboresha uzoefu wa mtumiaji
 
 
 
-- Kimbia hadi Dock**: upau wa programu unaoonekana kila wakati.
-- GSConnect**: usawazishaji na Android.
-- Kiashiria cha Ubao wa Kunakili**: usimamizi wa kina wa ubao wa kunakili.
+- **Kimbia hadi Dock**: upau wa programu unaoonekana kila wakati.
+-**GSConnect**: usawazishaji na Android.
+- **Kiashiria cha Ubao wa Kunakili**: usimamizi wa kina wa ubao wa kunakili.
 
 
 
@@ -712,10 +712,10 @@ Pop!OS, kulingana na Ubuntu, hutumia hasa:
 
 
 
-- Hifadhi rasmi za Ubuntu**: kwa programu nyingi thabiti.
-- Hifadhi za System76**: kwa madereva, programu dhibiti na zana maalum.
-- Flatpak**: fikia aina mbalimbali za programu zilizowekwa kwenye sandbox.
-- Snap** (hiari): umbizo lingine la kifurushi cha ulimwengu wote.
+- **Hifadhi rasmi za Ubuntu**: kwa programu nyingi thabiti.
+- **Hifadhi za System76**: kwa madereva, programu dhibiti na zana maalum.
+- **Flatpak**: fikia aina mbalimbali za programu zilizowekwa kwenye sandbox.
+- **Snap** (hiari): umbizo lingine la kifurushi cha ulimwengu wote.
 
 
 
