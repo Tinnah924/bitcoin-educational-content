@@ -68,7 +68,7 @@ Kuna zana mbalimbali zinazopatikana kwenye mtandao kwa ajili ya kutengeneza fail
 ![Image](assets/en/06.webp)
 
 
-Kama ilivyotajwa juu ya ukurasa, njia hii inaweza kutumika kwa kusakinisha Windows 10 na 11. Katika hatua ya kwanza, tunachagua lugha ya Windows. Ikiwa tunahitaji kuongeza lugha ya pili au hata ya tatu kwenye orodha ya lugha za onyesho na kibodi za Windows, tunaweza kutumia kisanduku kilicho hapa chini:
+Kama ilivyotajwa juu ya ukurasa, njia hii inaweza kutumika kusakinisha Windows 10 na 11. Katika hatua ya kwanza, tunachagua lugha ya Windows. Ikiwa tunahitaji kuongeza lugha ya pili au hata ya tatu kwenye orodha ya lugha za onyesho na kibodi za Windows, tunaweza kutumia kisanduku kilicho hapa chini:
 
 
 ![Image](assets/en/07.webp)
@@ -102,7 +102,7 @@ Hatua inayofuata inahusisha mipangilio ya kizigeu:
 ![Image](assets/en/10.webp)
 
 
-Katika hatua hii, tunaweza kutaja aina ya kizigeu cha kusakinisha Windows, pamoja na mipangilio inayohitajika kwa ajili ya kusakinisha Mazingira ya Urejeshaji Windows. Kwa kuchagua chaguo la kwanza, uteuzi wa kizigeu na kizigeu huahirishwa hadi wakati wa usakinishaji wa Windows, na wakati wa usanidi, maswali haya yataulizwa kama ilivyo katika njia ya kawaida ya usakinishaji.
+Katika hatua hii, tunaweza kubainisha aina ya kizigeu cha kusakinisha Windows pamoja na mipangilio inayohitajika kwa ajili ya kusakinisha Mazingira ya Urejeshaji ya Windows. Kwa kuchagua chaguo la kwanza, uteuzi wa kizigeu huahirishwa hadi wakati wa usakinishaji wa Windows, na wakati wa usanidi, maswali haya yataulizwa kama ilivyo katika njia ya kawaida ya usakinishaji.
 
 
 Katika hatua hii, tunachagua toleo la Windows la kusakinisha:
@@ -234,7 +234,7 @@ Hatimaye, baada ya kutumia mipangilio inayotakiwa, faili ya XML iliyozalishwa in
 ![Image](assets/en/20.webp)
 
 
-Kwa kubofya Pakua Faili ya XML, faili ya autounattend.xml inapakuliwa. Ili kutumia faili hii, weka tu ISO iliyopakuliwa kwenye kiendeshi cha USB, weka faili ya autounattend.xml kwenye saraka ya mizizi, kisha endelea na usakinishaji wa Windows.
+Kwa kubofya Pakua Faili ya XML, faili ya autounattend.xml inapakuliwa. Ili kutumia faili hii, weka tu ISO iliyopakuliwa kwenye kiendeshi cha USB, weka faili ya autounattend.xml kwenye saraka ya roots, kisha endelea na usakinishaji wa Windows.
 
 
 Mojawapo ya zana zinazopatikana kwa ajili ya kuunda kiendeshi cha USB kinachoweza kuendeshwa ni Rufus. Rufus inaweza kutengeneza kiendeshi cha flash cha usakinishaji wa Windows kinachoweza kuendeshwa, ikiwa na faili ya ISO ya usakinishaji wa Windows. Ni haraka na rahisi, unaweza kuipakua [hapa](https://rufus.ie/en/#download)
@@ -249,7 +249,7 @@ Katika programu hii, baada ya kuchagua kiendeshi cha USB kinachohitajika na fail
 ![Image](assets/en/22.webp)
 
 
-Katika hatua hii, tunazima chaguo zote, kwani kuziwezesha kunaweza kusababisha migogoro wakati wa kutumia faili iliyotengenezwa ya Unattend. Baada ya faili kunakiliwa kwenye hifadhi ya USB, tunaweka faili ya autounattend.xml kwenye saraka ya mizizi:
+Katika hatua hii, tunazima chaguo zote, kwani kuziwezesha kunaweza kusababisha migogoro wakati wa kutumia faili iliyotengenezwa ya Unattend. Baada ya faili kunakiliwa kwenye hifadhi ya USB, tunaweka faili ya autounattend.xml kwenye saraka ya roots:
 
 
 ![Image](assets/en/23.webp)
@@ -261,13 +261,13 @@ Katika hatua hii, hifadhi ya USB iko tayari kutumika kusakinisha Windows kiotoma
 ## Uhariri wa ISO
 
 
-Ikiwa unahitaji kusakinisha Windows kwenye mashine pepe, unaweza kutumia programu kuunda na kuhariri faili za ISO. Mojawapo ya programu kama hizo ni AnyBurn. Baada ya kutoa yaliyomo kwenye faili ya ISO iliyopakuliwa kutoka kwa tovuti ya Microsoft, weka faili ya autounattend.xml kwenye saraka ya mizizi. Kisha, kwa kutumia AnyBurn, unda ISO mpya yenye maudhui yaliyosasishwa.
+Ikiwa unahitaji kusakinisha Windows kwenye mashine pepe, unaweza kutumia programu ya kuunda na kuhariri faili za ISO. Mojawapo ya programu hizo ni AnyBurn. Baada ya kutoa yaliyomo kwenye faili ya ISO iliyopakuliwa kutoka kwenye tovuti ya Microsoft, weka faili ya autounattend.xml kwenye saraka ya mzizi. Kisha, kwa kutumia AnyBurn, unda ISO mpya yenye maudhui yaliyosasishwa.
 
 
 AnyBurn ni programu yenye utendaji mwingi kwa ajili ya kufanya kazi na faili za ISO. Inatoa vipengele mbalimbali vya kushughulikia faili za ISO, moja ikiwa ni kuunda picha za ISO zinazoweza kuendeshwa; [hapa](https://www.anyburn.com/download.php) ni tovuti asili.
 
 
-Kwenye ukurasa mkuu wa programu, chagua "Unda Picha kutoka kwa Faili/Folda":
+Kwenye kurasa kuu ya programu, chagua "Unda Picha kutoka kwa Faili/Folda":
 
 
 ![Image](assets/en/24.webp)
