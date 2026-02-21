@@ -1,6 +1,6 @@
 ---
 name: PearPass
-description: Rejesha udhibiti wa manenosiri yako ukitumia kidhibiti cha manenosiri cha ndani, cha rika-kwa-rika, kisicho na wingu
+description: Rejesha udhibiti wa manenosiri yako ukitumia kidhibiti cha manenosiri cha ndani, cha Peer-to-Peer, kisicho na cloud
 ---
 
 ![cover](assets/cover.webp)
@@ -19,7 +19,7 @@ Kuna vidhibiti vingi vya nenosiri tayari, na Plan ₿ Academy inatoa mafunzo kwa
 
 
 
-**PearPass ni msimamizi wa nenosiri wa rika-kwa-rika, local-first na wa chanzo huria, uliobuniwa ili kumrudishia mtumiaji udhibiti kamili wa data zake.**
+**PearPass ni msimamizi wa nenosiri wa Peer-to-Peer, local-first na wa chanzo huria, uliobuniwa ili kumrudishia mtumiaji udhibiti kamili wa data zake.**
 
 
 
@@ -31,15 +31,15 @@ Kuna vidhibiti vingi vya nenosiri tayari, na Plan ₿ Academy inatoa mafunzo kwa
 
 
 
-Kidhibiti cha nenosiri ni programu inayozalisha, kuhifadhi na kupanga nywila zako zote kwa njia salama. Badala ya kukariri au kutumia tena nywila, una siri moja tu ya kulinda: nenosiri kuu, ambalo husimba salama yako yote. Mbinu hii inafanya iwezekane kutumia nywila za kipekee, ndefu, na zisizo za kawaida kwa kila huduma, kupunguza hatari ya kusahau na kuafikiana, huku ikipunguza athari ya uvujaji wowote unaowezekana. Leo, ni zana ya msingi ya TEHAMA ambayo kila mtu anapaswa kutumia.
+Kidhibiti cha nenosiri ni programu inayozalisha, kuhifadhi na kupanga neno siri zako zote kwa njia salama. Badala ya kukariri au kutumia tena nywila, una siri moja tu ya kulinda: nenosiri kuu, ambalo husimba salama yako yote. Mbinu hii inafanya iwezekane kutumia nywila za kipekee, ndefu, na zisizo za kawaida kwa kila huduma, kupunguza hatari ya kusahau na kuafikiana, huku ikipunguza athari ya uvujaji wowote unaowezekana. Leo, ni zana ya msingi ya TEHAMA ambayo kila mtu anapaswa kutumia.
 
 
 
-Kuna aina mbili kuu za kidhibiti cha nenosiri. Kwa upande mmoja, kuna programu ya ndani pekee, ambayo ni salama sana kwani data haihifadhiwi kamwe kwenye seva kuu, lakini si ya vitendo sana, kwani haikuruhusu kusawazisha kwa urahisi sifa zako kati ya vifaa kadhaa (kompyuta, simu mahiri, kompyuta kibao...). Kwa upande mwingine, wasimamizi wa nenosiri wanaotegemea wingu huhifadhi sifa zako kwenye seva zao na kuzisawazisha katika vifaa vyako vyote. Faida yao kuu ni urahisi, lakini inahusisha maelewano kwenye usalama, kwani nywila zako huhifadhiwa kwenye miundombinu ambayo huna udhibiti nayo.
+Kuna aina mbili kuu za kidhibiti cha nenosiri. Kwa upande mmoja, kuna programu ya ndani pekee, ambayo ni vault sana kwani data haihifadhiwi kamwe kwenye server kuu, lakini si ya vitendo sana, kwani haikuruhusu kusawazisha kwa urahisi sifa zako kati ya vifaa kadhaa (kompyuta, simu mahiri, kompyuta kibao...). Kwa upande mwingine, wasimamizi wa nenosiri wanaotegemea cloud huhifadhi sifa zako kwenye server zao na kuzisawazisha katika vifaa vyako vyote. Faida yao kuu ni urahisi, lakini inahusisha maelewano kwenye uvault, kwani nywila zako huhifadhiwa kwenye miundombinu ambayo huna udhibiti nayo.
 
 
 
-PearPass huvunja kimakusudi mifumo yote miwili. Inajiweka kati ya mameneja wa ndani na suluhisho za wingu: inawezesha usawazishaji wa manenosiri yako, huku ikihakikisha kwamba hayahifadhiwi kamwe kwenye seva za mbali. Kwa hivyo, vitambulisho vyako vyote huhifadhiwa ndani ya kifaa chako kwenye vifaa vyako, na usawazishaji kati ya mashine nyingi ni wa peer-to-peer pekee. Usanifu huu huondoa sehemu moja ya hitilafu inayohusiana na hifadhidata kuu: hakuna seva za kuafikiana, na hakuna miundombinu ya mtu mwingine ya kufikia vitambulisho vyako. Mawasiliano kati ya vifaa vyako yamesimbwa kwa njia fiche kuanzia mwanzo hadi mwisho, kuhakikisha kwamba ni funguo ulizonazo pekee zinazoruhusu ufikiaji wa data.
+PearPass huvunja kimakusudi mifumo yote miwili. Inajiweka kati ya mameneja wa ndani na suluhisho za cloud: inawezesha usawazishaji wa manenosiri yako, huku ikihakikisha kwamba hayahifadhiwi kamwe kwenye server za mbali. Kwa hivyo, vitambulisho vyako vyote huhifadhiwa ndani ya kifaa chako kwenye vifaa vyako, na usawazishaji kati ya mashine nyingi ni wa peer-to-peer pekee. Usanifu huu huondoa sehemu moja ya hitilafu inayohusiana na hifadhidata kuu: hakuna server za kuafikiana, na hakuna miundombinu ya mtu mwingine ya kufikia vitambulisho vyako. Mawasiliano kati ya vifaa vyako yamesimbwa kwa njia fiche kuanzia mwanzo hadi mwisho, kuhakikisha kwamba ni funguo ulizonazo pekee zinazoruhusu ufikiaji wa data.
 
 
 
@@ -47,7 +47,7 @@ PearPass huvunja kimakusudi mifumo yote miwili. Inajiweka kati ya mameneja wa nd
 
 
 
-Ili kuwezesha hili, kama jina lake linavyopendekeza, PearPass inategemea **Pears**, mfumo ikolojia wa teknolojia ya rika-kwa-rika uliojitolea kwa uundaji na utekelezaji wa programu zisizo na seva. Pears hutoa mazingira ya utekelezaji, mifumo ya usambazaji na tabaka za mtandao zinazohitajika kuendesha programu zilizogawanywa kikamilifu, zenye uwezo wa kusawazisha moja kwa moja kati ya rika, bila miundombinu yoyote ya kati. Katika kesi ya PearPass, Pears hutoa ugunduzi wa kifaa, uanzishaji wa muunganisho uliosimbwa kwa njia fiche na usawazishaji wa nafasi ya nenosiri kati ya mashine zako. Mbinu hii inahakikisha kwamba PearPass inabaki kufanya kazi, imara na huru kutoka kwa mamlaka yoyote ya nje.
+Ili kuwezesha hili, kama jina lake linavyopendekeza, PearPass inategemea **Pears**, mfumo ikolojia wa teknolojia ya Peer-to-Peer uliojitolea kwa uundaji na utekelezaji wa programu zisizo na server. Pears hutoa mazingira ya utekelezaji, mifumo ya usambazaji na tabaka za mtandao zinazohitajika kuendesha programu zilizogawanywa kikamilifu, zenye uwezo wa kusawazisha moja kwa moja kati ya rika, bila miundombinu yoyote ya kati. Katika kesi ya PearPass, Pears hutoa ugunduzi wa kifaa, uanzishaji wa muunganisho uliosimbwa kwa njia fiche na usawazishaji wa nafasi ya nenosiri kati ya mashine zako. Mbinu hii inahakikisha kwamba PearPass inabaki kufanya kazi, imara na huru kutoka kwa mamlaka yoyote ya nje.
 
 
 
@@ -57,7 +57,7 @@ Zaidi ya usanifu huu bunifu, PearPass ni programu huria kabisa, na kazi zake zot
 
 
 
-Kwa kifupi, pale ambapo wasimamizi wa nenosiri wa kawaida wanapokuomba uamini kampuni na seva zake, PearPass hutumia mantiki ya uhuru: hakuna wingu, hakuna akaunti kuu, hakuna wapatanishi. Una udhibiti wa kipekee wa vitambulisho vyako, huku ukinufaika na usawazishaji kati ya vifaa vyako.
+Kwa kifupi, pale ambapo wasimamizi wa nenosiri wa kawaida wanapokuomba uamini kampuni na server zake, PearPass hutumia mantiki ya uhuru: hakuna cloud, hakuna akaunti kuu, hakuna wapatanishi. Una udhibiti wa kipekee wa vitambulisho vyako, huku ukinufaika na usawazishaji kati ya vifaa vyako.
 
 
 
@@ -73,11 +73,11 @@ PearPass inapatikana kwenye mifumo yote: Windows, Linux, macOS, Android, iOS na 
 
 
 
-Kwenye Windows, PearPass hutolewa kama kisakinishi cha kawaida. Nenda kwenye [ukurasa rasmi wa kupakua](https://pass.pears.com/download), kisha bofya kitufe cha `Pakua kisakinishi cha Windows`.
+Kwenye Windows, PearPass hutolewa kama kisakinishi cha kawaida. Nenda kwenye [ukurasa rasmi wa kupakua](https://pass.pears.com/download), kisha bofya kitufe cha `Pakua Windows installer`.
 
 
 
-Mara tu faili likishapakuliwa, fungua kisakinishi na ufuate hatua zilizoonyeshwa na mchawi. Kisha programu inaweza kufikiwa kutoka kwa `Menyu ya Mwanzo` au kupitia njia ya mkato ya eneo-kazi.
+Mara tu faili likishapakuliwa, fungua kisakinishi na ufuate hatua zilizoonyeshwa na wizard. Kisha programu inaweza kufikiwa kutoka kwa `Menyu ya Mwanzo` au kupitia njia ya mkato ya eneo-kazi.
 
 
 
@@ -89,7 +89,7 @@ Mara tu faili likishapakuliwa, fungua kisakinishi na ufuate hatua zilizoonyeshwa
 
 
 
-Kwenye macOS, PearPass inasambazwa kama picha ya diski (`.dmg`). Nenda kwenye [ukurasa rasmi wa kupakua](https://pass.pears.com/download) na uchague toleo linalolingana na usanifu wa Mac yako (Intel au Apple Silicon). Baada ya kupakua, fungua faili ya `.dmg` na uzindue programu kutoka kwa folda ya `Maombi`.
+Kwenye macOS, PearPass inasambazwa kama picha ya disk (`.dmg`). Nenda kwenye [ukurasa rasmi wa kupakua](https://pass.pears.com/download) na uchague toleo linalolingana na usanifu wa Mac yako (Intel au Apple Silicon). Baada ya kupakua, fungua faili ya `.dmg` na uzindue programu kutoka kwa folda ya `Applications`.
 
 
 
@@ -113,7 +113,7 @@ Kulingana na mazingira yako, huenda ukahitaji kufanya faili iweze kutekelezeka k
 
 
 
-PearPass inatoa kiendelezi cha kivinjari kwa ajili ya kuingia kiotomatiki na ufikiaji wa haraka wa salama yako unapovinjari wavuti. Kiendelezi hiki kinapatikana kwa sasa kwa Google Chrome na vivinjari vinavyooana. Ili kukiweka, nenda kwenye [ukurasa rasmi wa kupakua](https://chromewebstore.google.com/detail/pearpass/pdeffakfmcdnjjafophphgmddmigpejh).
+PearPass inatoa kiendelezi cha kivinjari kwa ajili ya kuingia kiotomatiki na ufikiaji wa haraka wa vault yako unapovinjari wavuti. Kiendelezi hiki kinapatikana kwa sasa kwa Google Chrome na vivinjari vinavyooana. Ili kukiweka, nenda kwenye [ukurasa rasmi wa kupakua](https://chromewebstore.google.com/detail/pearpass/pdeffakfmcdnjjafophphgmddmigpejh).
 
 
 
@@ -134,8 +134,8 @@ Kwenye iPhone na Android, pakua tu programu kutoka duka lako la programu:
 
 
 
-- [Duka la Google Play](https://play.google.com/store/apps/details?id=com.pears.pass);
-- [Duka la Programu](https://apps.apple.com/us/app/pearpass/id6752954830).
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.pears.pass);
+- [App Store](https://apps.apple.com/us/app/pearpass/id6752954830).
 
 
 
@@ -148,9 +148,9 @@ Mbali na mbinu hizi za usakinishaji za kawaida, inawezekana pia kupakua programu
 
 
 
-- [Eneo la Kompyuta](https://github.com/tetherto/pearpass-app-desktop);
+- [Desktop](https://github.com/tetherto/pearpass-app-desktop);
 - [Simu ya Mkononi](https://github.com/tetherto/pearpass-app-mobile);
-- [Kiendelezi cha kivinjari](https://github.com/tetherto/pearpass-app-browser-extension).
+- [Browser extension](https://github.com/tetherto/pearpass-app-browser-extension).
 
 
 
@@ -158,11 +158,11 @@ Mara tu PearPass ikiwa imewekwa kwenye mfumo mmoja au zaidi, unaweza kuendelea n
 
 
 
-## Ninawezaje kuunda salama ya PearPass?
+## Unda kitalu chako cha kwanza?
 
 
 
-Unapozindua PearPass kwa mara ya kwanza kwenye kompyuta yako, programu inakuongoza kupitia hatua mbili: kuweka nenosiri lako kuu, na kisha kuunda salama yako ya kwanza.
+Unapozindua PearPass kwa mara ya kwanza kwenye kompyuta yako, programu inakuongoza kupitia hatua mbili: kuweka nenosiri lako kuu, na kisha kuunda vault yako ya kwanza.
 
 
 
@@ -178,7 +178,7 @@ Programu inapoanzishwa kwa mara ya kwanza kwenye eneo-kazi, bofya kitufe cha `Ru
 
 
 
-Ifuatayo inakuja hatua muhimu ya kuchagua nenosiri lako kuu. Kama tulivyoona katika utangulizi, nenosiri hili ni muhimu sana, kwani linakupa ufikiaji wa manenosiri yako mengine yote yaliyohifadhiwa kwenye kidhibiti. Kitaalamu, hutumika kupata funguo za kriptografia zinazotumika kusimba data yako kwa njia fiche.
+Ifuatayo ni hatua muhimu ya kuchagua nenosiri lako kuu. Kama tulivyoona katika utangulizi, nenosiri hili ni muhimu sana kwa kuwa linakupa ufikiaji wa manenosiri yako mengine yote yaliyohifadhiwa kwenye kidhibiti. Kitaalamu, hutumika kuzalisha funguo za cryptography zinazotumika kusimba data yako kwa njia fiche.
 
 
 
@@ -190,7 +190,7 @@ Ili kupunguza hatari ya kupotea, unaweza kuhifadhi nakala rudufu ya nenosiri lak
 
 
 
-Ili kupunguza hatari ya kuafikiana, nenosiri lako kuu lazima liwe imara. Linapaswa kuwa refu iwezekanavyo, lijumuishe aina mbalimbali za herufi na lichaguliwe kwa njia isiyo rasmi. Mnamo 2025, mapendekezo ya chini kabisa yanahitaji angalau herufi 13 ikijumuisha herufi kubwa na ndogo, nambari na alama, mradi nenosiri ni la nasibu. Hata hivyo, ningependekeza nenosiri la angalau herufi 20, ikiwa si zaidi, na aina zote za herufi, ili kuhakikisha kiwango cha usalama cha kudumu zaidi.
+Ili kupunguza hatari ya kuathiriwa, nenosiri lako kuu lazima liwe imara. Linapaswa kuwa refu iwezekanavyo, lijumuishe aina mbalimbali za herufi na lichaguliwe kwa njia ya nasibu. Mnamo 2025, mapendekezo ya kiwango cha chini yanahitaji angalau herufi 13, zikijumuisha herufi kubwa na ndogo, nambari na alama, mradi nenosiri hilo ni la nasibu. Hata hivyo, ningependekeza nenosiri la angalau herufi 20 au zaidi, likijumuisha aina zote za herufi, ili kuhakikisha kiwango cha usalama cha juu na cha kudumu zaidi.
 
 
 
@@ -210,11 +210,11 @@ Kisha utaelekezwa kwenye skrini ya kuingia: ingiza nenosiri lako kuu ili kuhakik
 
 
 
-### Unda salama yako ya kwanza
+### Unda vault yako ya kwanza
 
 
 
-Ukishaingia, PearPass itakuomba uunde salama yako ya kwanza. Salama ni chombo kilichosimbwa kwa njia fiche ambapo nywila zako, vitambulisho, madokezo salama na taarifa zingine huhifadhiwa. Kila salama imetengwa na inaweza kutambuliwa kwa jina tofauti, ikikuruhusu kupanga data yako kulingana na matumizi yako (miradi ya kibinafsi, ya kitaaluma, na maalum...).
+Ukishaingia, PearPass itakuomba uunde vault yako ya kwanza. vault ni chombo kilichosimbwa kwa njia fiche ambapo nywila zako, vitambulisho, madokezo vault na taarifa zingine huhifadhiwa. Kila vault imetengwa na inaweza kutambuliwa kwa jina tofauti, ikikuruhusu kupanga data yako kulingana na matumizi yako (miradi ya kibinafsi, ya kitaaluma, na maalum...).
 
 
 
@@ -234,7 +234,7 @@ Chagua jina la hifadhi hii, kisha bofya `Unda hifadhi mpya` tena ili kukamilisha
 
 
 
-Sefu yako iko tayari kutumika mara moja. Unaweza kuanza kuongeza manenosiri, kuingia au madokezo salama mara moja.
+Sefu yako iko tayari kutumika mara moja. Unaweza kuanza kuongeza manenosiri, kuingia au madokezo vault mara moja.
 
 
 
@@ -256,7 +256,7 @@ Ukishatengeneza sefu yako, unaweza kuanza kuhifadhi vitu vyako ndani yake. PearP
 - kadi ya mkopo: nambari za kadi yako ya mkopo kwa malipo ya haraka unaponunua mtandaoni;
 - Wi-Fi: manenosiri ya mitandao yako ya Wi-Fi;
 - PassPhrase: kifungu cha siri kilichoundwa na maneno kadhaa (onyo: Ninashauri sana dhidi ya kukitumia kwa vifungu vya mnemonic vya wallet Bitcoin);
-- kumbuka: kuunda madokezo salama;
+- kumbuka: kuunda madokezo vault;
 - maalum: kipengele hiki hukuruhusu kuunda aina ya kipengele maalum, kilichorekebishwa kulingana na mahitaji yako maalum.
 
 
@@ -269,7 +269,7 @@ Anza kwa kufungua PearPass na kuingia kwa kutumia nenosiri lako kuu.
 
 
 
-Chagua salama ambayo unataka kuhifadhi kitambulisho hiki.
+Chagua vault ambayo unataka kuhifadhi kitambulisho hiki.
 
 
 
@@ -317,7 +317,7 @@ Unaweza kurekebisha kipengele kwa urahisi kwa kukibofya, kisha kwenye kitufe cha
 
 
 
-Kwenye simu, mantiki inabaki ile ile, ingawa kiolesura kimebadilishwa. Baada ya kuingia, chagua salama unayotaka, gusa kitufe cha `+`, chagua aina ya kipengee kitakachoundwa, kisha jaza taarifa muhimu.
+Kwenye simu, mantiki inabaki ile ile, ingawa kiolesura kimebadilishwa. Baada ya kuingia, chagua vault unayotaka, gusa kitufe cha `+`, chagua aina ya kipengee kitakachoundwa, kisha jaza taarifa muhimu.
 
 
 
@@ -329,7 +329,7 @@ Kwenye simu, mantiki inabaki ile ile, ingawa kiolesura kimebadilishwa. Baada ya 
 
 
 
-Kama tulivyoona katika sehemu zilizopita, PearPass hukuruhusu kuunda vihifadhi kadhaa tofauti. Hii inafanya iwezekane kutenganisha matumizi tofauti na hufanya kiwango cha kwanza cha mpangilio kwa meneja wako wa nenosiri. Kutoka ukurasa wa nyumbani, unaweza kubadilisha kwa urahisi kutoka kihifadhi kimoja hadi kingine kwa kubofya mshale ulio juu kushoto mwa kiolesura.
+Kama tulivyoona katika sehemu zilizopita, PearPass hukuruhusu kuunda vihifadhi kadhaa tofauti. Hii inafanya iwezekane kutenganisha matumizi mbalimbali na huunda kiwango cha mwanzo cha mpangilio kwa meneja wako wa nenosiri. Kutoka ukurasa wa nyumbani, unaweza kubadilisha kwa urahisi kutoka kihifadhi kimoja hadi kingine kwa kubofya mshale ulio juu kushoto mwa kiolesura.
 
 
 
@@ -389,8 +389,7 @@ Kisha PearPass hutoa kiungo cha mwaliko, ambacho pia kinapatikana kama msimbo wa
 
 
 
-Ikiwa ungependa kusawazisha kwenye kifaa chako cha mkononi, kwanza sakinisha programu, kisha uifungue. Utaulizwa kuunda nenosiri kuu kwa ajili ya meneja wako wa simu. Unaweza kuchagua kutumia nenosiri sawa na lililo kwenye kompyuta yako, au jingine. Katika hali zote, fuata mapendekezo yaleyale: nenosiri thabiti na nasibu lililohifadhiwa kwenye njia halisi.
-
+Ikiwa ungependa kusawazisha kwenye kifaa chako cha mkononi, kwanza sakinisha programu kisha uifungue. Utaulizwa kuunda nenosiri kuu kwa meneja wako wa simu. Unaweza kuchagua kutumia nenosiri sawa na lililo kwenye kompyuta yako, au jingine. Katika hali zote, fuata mapendekezo yale yale: nenosiri thabiti na nasibu lililohifadhiwa kwenye njia halisi.
 
 
 ![Image](assets/fr/25.webp)
@@ -421,7 +420,7 @@ Chagua chaguo la `Pakia vault`, kisha bofya `Changanua Msimbo wa QR` na uchangan
 
 
 
-Vizuizi vyako kwenye kompyuta yako na simu yako sasa vimesawazishwa. Kila kitambulisho kilichoongezwa kwenye kifaa kimoja kitahifadhiwa kwa usalama na kunakiliwa kwenye kifaa kingine.
+Vaults zako kwenye kompyuta yako na simu yako sasa vimesawazishwa. Kila kitambulisho kilichoongezwa kwenye kifaa kimoja kitahifadhiwa kwa usalama na kunakiliwa kwenye kifaa kingine.
 
 
 
@@ -489,7 +488,7 @@ Sasa unaweza kuitumia kuunganisha kwa urahisi kwenye akaunti zako mbalimbali za 
 
 
 
-Sasa unajua jinsi ya kutumia kidhibiti cha nenosiri cha PearPass. Zaidi ya kifaa hiki, usalama wa kidijitali wa kila siku unategemea matumizi sahihi ya suluhisho zinazofaa. Ikiwa ungependa kujifunza jinsi ya kuanzisha mazingira salama, thabiti na yenye ufanisi ya kidijitali, ninakualika ugundue kozi yetu ya mafunzo iliyojitolea kwa mada hii:
+Sasa unajua jinsi ya kutumia kidhibiti cha nenosiri cha PearPass. Zaidi ya kifaa hiki, usalama wa kidijitali wa kila siku unategemea matumizi sahihi ya suluhisho zinazofaa. Ikiwa ungependa kujifunza jinsi ya kuanzisha mazingira vault, thabiti na yenye ufanisi ya kidijitali, ninakualika ugundue kozi yetu ya mafunzo iliyojitolea kwa mada hii:
 
 
 
