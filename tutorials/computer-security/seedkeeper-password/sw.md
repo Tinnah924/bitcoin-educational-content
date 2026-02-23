@@ -1,5 +1,5 @@
 ---
-name: Seedkeeper - Meneja wa Nenosiri
+name: Seedkeeper - Meneja wa Nenosiri (password manager)
 description: Jinsi ya kuhifadhi nywila zako kwa kutumia kadi mahiri ya Seedkeeper?
 ---
 
@@ -7,25 +7,25 @@ description: Jinsi ya kuhifadhi nywila zako kwa kutumia kadi mahiri ya Seedkeepe
 
 
 
-The Seedkeeper ni kadi mahiri iliyotengenezwa na Satochip, kampuni ya Ubelgiji inayobobea katika suluhu za maunzi kwa ajili ya kusimamia na kulinda siri za kidijitali. Satochip, ambayo ni maarufu kwa anuwai ya kadi mahiri za mfumo ikolojia wa Bitcoin, ilipendekeza Mlinzi wa Mbegu kama njia mbadala ya mbinu za kitamaduni za kuhifadhi misemo ya kumbukumbu na siri zingine za kidijitali.
+The Seedkeeper ni kadi mahiri iliyotengenezwa na Satochip, kampuni ya Ubelgiji inayobobea katika suluhu za maunzi kwa ajili ya kusimamia na kulinda siri za kidijitali. Satochip, ambayo ni maarufu kwa anuwai ya kadi mahiri za mfumo ikolojia wa Bitcoin, ilipendekeza Seedkeeper kama njia mbadala ya mbinu za kitamaduni za kuhifadhi misemo ya kumbukumbu na siri zingine za kidijitali.
 
 
 
-Kwa maneno madhubuti, Mlinzi wa Mbegu huchukua umbo la kadi mahiri iliyoidhinishwa na multifunctional, iliyoidhinishwa na EAL6 na kichakataji salama na kumbukumbu isiyoweza kuharibu (kinachojulikana kama "Kipengele Salama"). Kama jina lake linavyopendekeza, jukumu lake ni kuhifadhi kumbukumbu na manenosiri ya kwingineko ya Bitcoin kwa njia iliyosimbwa na kulindwa. Ukiwa na Mlinzi wa mbegu, unaweza generate, kuingiza, kupanga na kuhifadhi siri zako moja kwa moja katika sehemu salama ya kadi.
+Kwa maneno madhubuti, Seedkeeper huchukua umbo la kadi mahiri iliyoidhinishwa na multifunctional, iliyoidhinishwa na EAL6 na kichakataji salama na kumbukumbu isiyoweza kuharibu (kinachojulikana kama "Kipengele Salama"). Kama jina lake linavyopendekeza, jukumu lake ni kuhifadhi kumbukumbu na manenosiri ya kwingineko ya Bitcoin kwa njia iliyosimbwa na kulindwa. Ukiwa na Seedkeeper, unaweza generate, kuingiza, kupanga na kuhifadhi siri zako moja kwa moja katika sehemu salama ya kadi.
 
 
 
-Kwa maoni yangu, Mtunza mbegu ana matumizi mawili makuu, ambayo tutachunguza katika mafunzo 2 tofauti:
+Kwa maoni yangu, Seedkeeper ana matumizi mawili makuu, ambayo tutachunguza katika mafunzo 2 tofauti:
 
 
 
 
-- Bitcoin** hifadhi ya maneno ya mnemonic: badala ya kuandika maneno yako 12 au 24 kwenye karatasi, unaweza kuyaingiza kwenye smartcard na kuyalinda kwa PIN code.
-- Udhibiti wa nenosiri**: unaweza generate manenosiri thabiti kupitia programu ya Seedkeeper na kuyahifadhi moja kwa moja kwenye smartcard, kukupa kidhibiti cha nenosiri kinachofaa na rahisi kutumia nje ya mtandao.
+- **Bitcoin** hifadhi ya maneno ya mnemonic: badala ya kuandika maneno yako 12 au 24 kwenye karatasi, unaweza kuyaingiza kwenye smartcard na kuyalinda kwa PIN code.
+- **Udhibiti wa nenosiri**: unaweza generate manenosiri thabiti kupitia programu ya Seedkeeper na kuyahifadhi moja kwa moja kwenye smartcard, kukupa kidhibiti cha nenosiri kinachofaa na rahisi kutumia nje ya mtandao.
 
 
 
-Kitaalamu, Mtunza mbegu ana uwezo wa baiti 8192, na kuiwezesha kuhifadhi angalau siri 50 tofauti (nambari kamili itategemea saizi yao na metadata inayohusiana na kila moja). Mtunza mbegu anaweza kufikiwa ama [kupitia kisoma kadi mahiri kilichounganishwa](https://satochip.io/accessories/) kwenye kompyuta, au kupitia programu ya simu yenye muunganisho wa NFC. Mfumo mzima unafanya kazi katika hali ya nje ya mtandao, bila muunganisho wa Mtandao, unaohakikisha eneo dogo la mashambulizi.
+Kitaalamu, Seedkeeper ana uwezo wa baiti 8192, na kuiwezesha kuhifadhi angalau siri 50 tofauti (nambari kamili itategemea saizi yao na metadata inayohusiana na kila moja). Seedkeeper anaweza kufikiwa ama [kupitia kisoma kadi mahiri kilichounganishwa](https://satochip.io/accessories/) kwenye kompyuta, au kupitia programu ya simu yenye muunganisho wa NFC. Mfumo mzima unafanya kazi katika hali ya nje ya mtandao, bila muunganisho wa Mtandao, unaohakikisha eneo dogo la mashambulizi.
 
 
 
@@ -33,7 +33,7 @@ Kitaalamu, Mtunza mbegu ana uwezo wa baiti 8192, na kuiwezesha kuhifadhi angalau
 
 
 
-Kipengele cha kuvutia hasa ni uwezo wa kunakili maudhui ya Mkulima mmoja hadi mwingine ili kuunda chelezo. Katika somo hili, tutakuonyesha jinsi ya kufanya hivyo.
+Kipengele cha kuvutia hasa ni uwezo wa kunakili maudhui ya Seedkeeper moja hadi mwingine ili kuunda chelezo. Katika somo hili, tutakuonyesha jinsi ya kufanya hivyo.
 
 
 
@@ -43,19 +43,19 @@ Katika somo hili, tutashughulikia tu matumizi ya SeedKeeper kwa manenosiri ya ki
 
 https://planb.academy/tutorials/wallet/backup/seedkeeper-906dfff8-1826-4837-92d1-8669e216d356
 
-## 1. Je, nitapataje Mtunza Mbegu?
+## 1. Je, nitapataje Seedkeeper?
 
 
 
-Kuna njia kuu mbili za kupata Mkulima wako. Unaweza [kuinunua moja kwa moja kutoka kwa duka rasmi la Satochip](https://satochip.io/product/seedkeeper/) au kutoka kwa muuzaji aliyeidhinishwa. Lakini kwa kuwa [applet ya Mtunza mbegu ni chanzo huria](https://github.com/Toporin/Seedkeeper-Applet), pia una chaguo la kuisakinisha mwenyewe kwenye [kadi mahiri tupu](https://satochip.io/product/blank-javacard-for-diy-project/).
+Kuna njia kuu mbili za kupata Seedkeeper yako. Unaweza [kuinunua moja kwa moja kutoka kwa duka rasmi la Satochip](https://satochip.io/product/seedkeeper/) au kutoka kwa muuzaji aliyeidhinishwa. Lakini kwa kuwa [applet ya Seedkeeper ni chanzo huria](https://github.com/Toporin/Seedkeeper-Applet), pia una chaguo la kuisakinisha mwenyewe kwenye [kadi mahiri tupu](https://satochip.io/product/blank-javacard-for-diy-project/).
 
 
 
-Ikiwa ungependa kutumia utendakazi wa chelezo wa Mlinzi wa mbegu, bila shaka utahitaji kununua kadi mbili mahiri.
+Ikiwa ungependa kutumia utendakazi wa chelezo wa Seedkeeper, bila shaka utahitaji kununua kadi mbili mahiri.
 
 
 
-## 2. Kuweka mteja wa Mkulima
+## 2. Kusakinisha mteja wa Seedkeeper
 
 
 
@@ -67,7 +67,7 @@ Hatua ya kwanza ni kusakinisha programu kwenye kompyuta au smartphone yako. Kwen
 
 
 
-## 3. Uanzishaji wa mkulima
+## 3. Uanzishaji wa Seedkeeper
 
 
 
@@ -79,7 +79,7 @@ Zindua programu na ubofye kitufe cha "*Bofya & Changanua*".
 
 
 
-Utaombwa PIN code kwa ajili ya Mkulima wako. Kwa vile hii ni kadi mpya, hakuna PIN bado iliyofafanuliwa. Weka msimbo wowote ili kuruka hatua hii, kisha ubofye "*Inayofuata*".
+Utaombwa PIN code kwa ajili ya Seedkeeper. Kwa vile hii ni kadi mpya, hakuna PIN bado iliyofafanuliwa. Weka msimbo wowote ili kuruka hatua hii, kisha ubofye "*Inayofuata*".
 
 
 
@@ -87,11 +87,11 @@ Utaombwa PIN code kwa ajili ya Mkulima wako. Kwa vile hii ni kadi mpya, hakuna P
 
 
 
-Kisha weka kadi nyuma ya smartphone yako. Programu itatambua kuwa Mlinzi wa mbegu bado hajaanzishwa, na itakuhimiza kuweka PIN ya kadi yako mahiri, kati ya vibambo 4 na 16 kwa urefu. Kwa usalama wa juu zaidi, chagua msimbo thabiti wa PIN ambao ni mrefu iwezekanavyo, wa nasibu na unaojumuisha aina mbalimbali za vibambo. PIN hii ndiyo kikwazo pekee dhidi ya ufikiaji halisi wa manenosiri yako.
+Kisha weka kadi nyuma ya smartphone yako. Programu itatambua kuwa Seedkeeper bado hajawezeshwa, na itakuhimiza kuweka PIN ya kadi yako mahiri, yenye urefu wa vibambo 4 hadi 16. Kwa usalama wa juu zaidi, chagua PIN thabiti iliyo ndefu iwezekanavyo, ya nasibu na inayojumuisha aina mbalimbali za vibambo. PIN hii ndiyo kinga pekee dhidi ya ufikiaji wa moja kwa moja wa manenosiri yako.
 
 
 
-**Kumbuka pia kuhifadhi PIN hii sasa**, kwa mfano katika kidhibiti cha nenosiri, au kwa njia tofauti ya kimwili. Katika hali ya pili, usiwahi kuweka kifaa kilicho na PIN mahali pamoja na Mtunza mbegu wako, vinginevyo usalama huu hautakuwa na maana. Ni muhimu kuwa na chelezo inayotegemeka: bila PIN, hutaweza kurejesha siri zilizohifadhiwa kwenye Mtunza mbegu wako.
+**Kumbuka pia kuhifadhi PIN hii sasa**, kwa mfano katika kidhibiti cha nenosiri, au kwa njia tofauti ya kimwili. Katika hali ya pili, usiwahi kuweka kifaa kilicho na PIN mahali pamoja na Seedkeeper yako, vinginevyo usalama huu hautakuwa na maana. Ni muhimu kuwa na chelezo inayotegemeka: bila PIN, hutaweza kurejesha siri zilizohifadhiwa kwenye Seedkeeper yako.
 
 
 
@@ -107,7 +107,7 @@ Thibitisha msimbo wako wa PIN kwa mara ya pili.
 
 
 
-Mtunza mbegu wako sasa ameanzishwa. Unaweza kuifungua kwa kuweka msimbo wa PIN ambao umeweka hivi punde.
+Seedkeeper yako sasa imeanzishwa. Unaweza kuifungua kwa kuweka msimbo wa PIN ambao umeweka hivi punde.
 
 
 
@@ -123,11 +123,11 @@ Sasa utapelekwa kwenye ukurasa wako wa usimamizi wa kadi mahiri.
 
 
 
-## 4. Hifadhi nywila kwa Mtunza mbegu
+## 4. Hifadhi nywila kwa Seedkeeper
 
 
 
-Mara Mtunza mbegu wako anapofunguliwa, bofya kitufe cha "+*".
+Mara Seedkeeper yako inapofunguliwa, bofya kitufe cha "+*".
 
 
 
@@ -151,7 +151,7 @@ Kwa upande wetu, tunataka kuhifadhi nenosiri. Bonyeza "*Nenosiri*".
 
 
 
-Weka "*Lebo*" kwa siri hii ili iweze kutambulika kwa urahisi ikiwa utahifadhi taarifa kadhaa kwenye Mtunza mbegu wako. Unaweza pia kuongeza kitambulisho kinachohusishwa na nenosiri na URL ya tovuti.
+Weka "*Lebo*" kwa siri hii ili iweze kutambulika kwa urahisi ikiwa utahifadhi taarifa kadhaa kwenye Seedkeeper yako. Unaweza pia kuongeza kitambulisho kinachohusishwa na nenosiri na URL ya tovuti.
 
 
 
@@ -167,7 +167,7 @@ Chagua urefu na vigezo vya nenosiri lako, kisha ubofye "*Tengeneza*", kisha "*Le
 
 
 
-Weka Mkulima wako nyuma ya simu yako mahiri.
+Weka Seedkeeper yako nyuma ya simu yako mahiri.
 
 
 
@@ -187,7 +187,7 @@ Nenosiri lako limesajiliwa.
 
 
 
-Iwapo ungependa kuangalia nenosiri lako, chukua Mtunza mbegu wako na ubofye kitufe cha "*Bofya na Uchanganue*".
+Iwapo ungependa kuangalia nenosiri lako, chukua Seedkeeper yako na ubofye kitufe cha "*Bofya na Uchanganue*".
 
 
 
@@ -203,7 +203,7 @@ Ingiza msimbo wako wa PIN, kisha ubonyeze "*Next*".
 
 
 
-Weka Mkulima wako nyuma ya simu yako mahiri.
+Weka Seedkeeper yako nyuma ya simu yako mahiri.
 
 
 
@@ -227,7 +227,7 @@ Bonyeza kitufe cha "*Onyesha*".
 
 
 
-Changanua Mkulima wako tena.
+Changanua Seedkeeper yako tena.
 
 
 
@@ -243,15 +243,15 @@ Nenosiri lako lililohifadhiwa awali sasa linaonekana kwenye skrini. Unaweza kuin
 
 
 
-## 6. Kuhifadhi nakala ya Mtunza Mbegu
+## 6. Kuhifadhi nakala ya Seedkeeper
 
 
 
-Sasa tutafanya nakala ya Mtunza Mbegu wangu kwa Mtunza Mbegu wa pili ili tuwe na nakala mbili. Upungufu huu unaweza kuwa sehemu ya mkakati wa kulinda manenosiri yako muhimu zaidi: kwa mfano, kuhifadhi Watunza mbegu wako katika maeneo 2 tofauti ili kupunguza hatari za kimwili, au kukabidhi nakala kwa jamaa unayemwamini.
+Sasa tutafanya nakala ya Seedkeeper yangu kwa Seedkeeper ya pili ili tuwe na nakala mbili. Upungufu huu unaweza kuwa sehemu ya mkakati wa kulinda manenosiri yako muhimu zaidi: kwa mfano, kuhifadhi Seedkeeper yako katika maeneo 2 tofauti ili kupunguza hatari za kimwili, au kukabidhi nakala kwa jamaa unayemwamini.
 
 
 
-Ili kufanya hivyo, chukua pamoja na Mtunza Mbegu wako wa pili (kumbuka kutambua moja kati ya hizo mbili zilizo na alama ili kuepusha mkanganyiko wowote). Anza kwa kuianzisha, kama ilivyoelezwa katika hatua ya 3 ya mafunzo haya. Kwa mara nyingine tena, chagua msimbo thabiti wa PIN. Kulingana na mkakati wako, unaweza kuchagua PIN tofauti au kubaki na PIN ile ile.
+Ili kufanya hivyo, chukua pamoja na Seedkeeper yako wa pili (kumbuka kutambua moja kati ya hizo mbili zilizo na alama ili kuepusha mkanganyiko wowote). Anza kwa kuianzisha, kama ilivyoelezwa katika hatua ya 3 ya mafunzo haya. Kwa mara nyingine tena, chagua msimbo thabiti wa PIN. Kulingana na mkakati wako, unaweza kuchagua PIN tofauti au kubaki na PIN ile ile.
 
 
 
@@ -275,7 +275,7 @@ Hii inakupeleka kwenye ukurasa wa nyumbani, na orodha ya siri zako. Bofya kwenye
 
 
 
-Chagua "* Fanya chelezo *", kisha bonyeza "* Anza*".
+Chagua "*Fanya chelezo*", kisha bonyeza "*Anza*".
 
 
 
@@ -307,7 +307,7 @@ Fanya vivyo hivyo na kadi kuu (Seedkeeper n°1), kisha ubofye "*Fanya nakala rud
 
 
 
-Mtunza mbegu wako n°2 sasa ana siri zote zilizohifadhiwa kwenye Seedkeeper n°1.
+Seedkeeper wako n°2 sasa ana siri zote zilizohifadhiwa kwenye Seedkeeper n°1.
 
 
 
@@ -323,7 +323,7 @@ Unaweza kuchanganua Seedkeeper n°2 yako ili kuangalia kama siri zimenakiliwa.
 
 
 
-Hayo ndiyo yote yaliyopo kwake! Sasa unajua jinsi ya kutumia Seedkeeper kuhifadhi nywila zako. Katika mafunzo yajayo, tutaangalia jinsi ya kutumia Mlinzi wa mbegu kuweka nakala ya Bitcoin wallet. Pia ninakualika ugundue matumizi yake kwa pamoja na SeedSigner :
+Hayo ndiyo yote yaliyopo kwake! Sasa unajua jinsi ya kutumia Seedkeeper kuhifadhi nywila zako. Katika mafunzo yajayo, tutaangalia jinsi ya kutumia Seedkeeper kuweka nakala ya Bitcoin wallet. Pia ninakualika ugundue matumizi yake kwa pamoja na SeedSigner :
 
 
 
