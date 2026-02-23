@@ -11,7 +11,7 @@ Uthibitishaji wa SMS umekuwa lazima kwa huduma nyingi za mtandaoni. Iwe ni kufun
 
 
 
-**SMS4Sats** hujibu tatizo hili kwa kutoa nambari za simu za muda kwa ajili ya kupokea na kutuma ujumbe mfupi. Huduma hii inatofautishwa na mfumo wake wa kutosajili na malipo ya kipekee ya Bitcoin kupitia Lightning Network. Kwa satoshi chache, unapata nambari inayoweza kutumika tena inayokuwezesha kuthibitisha usajili bila hata kufichua nambari yako binafsi.
+**SMS4Sats** hujibu tatizo hili kwa kutoa nambari za simu za muda kwa ajili ya kupokea na kutuma ujumbe mfupi. Huduma hii inatofautishwa na mfumo wake wa kutosajili na malipo ya kipekee ya Bitcoin kupitia Lightning Network. Kwa satoshis chache, unapata nambari inayoweza kutumika tena inayokuwezesha kuthibitisha usajili bila hata kufichua nambari yako binafsi.
 
 
 
@@ -31,7 +31,7 @@ SMS4Sats ni huduma ya mtandaoni inayopatikana katika [sms4sats.com](https://sms4
 
 
 
-Mradi huu umeundwa ili kuhakikisha usiri wa hali ya juu na uhuru wa kifedha. Kwa kutohitaji uundaji wa akaunti na kukubali malipo ya Bitcoin Lightning pekee, SMS4Sats huondoa kabisa hitaji la kutoa data binafsi. Hakuna anwani ya barua pepe, hakuna kadi ya mkopo, hakuna taarifa binafsi zinazohitajika. Malipo ya Lightning pekee ndiyo yanayohitajika ili kufikia huduma.
+Mradi huu umeundwa ili kuhakikisha usiri wa hali ya juu na uhuru wa kifedha. Kwa kutohitaji uundaji wa akaunti na kukubali malipo ya Bitcoin Lightning pekee, SMS4Sats huondoa kabisa hitaji la kutoa data binafsi. Hakuna Address ya barua pepe, hakuna kadi ya mkopo, wala hakuna taarifa binafsi zinazohitajika. Malipo ya Lightning pekee ndiyo yanayohitajika ili kufikia huduma.
 
 
 
@@ -43,7 +43,7 @@ Huduma hii inasaidia zaidi ya tovuti na programu 400 katika takriban nchi 120, i
 
 
 
-SMS4Sats hutumia ankara za umeme zenye masharti (ankara za hodl) kwa utendaji wake wa kupokea SMS. Utaratibu huu unahakikisha kwamba unatozwa tu ikiwa SMS imepokelewa. Ikiwa hakuna ujumbe unaofika ndani ya muda uliopangwa (dakika 20 za juu), malipo hughairiwa kiotomatiki na satoshi hurejeshwa kwenye wallet yako. Dhamana hii haitumiki kwa vipengele vya kutuma na kukodisha, ambavyo havirejeshwi.
+SMS4Sats hutumia invoice za Lightning zenye masharti (invoice za hodl) kwa utendaji wake wa kupokea SMS. Utaratibu huu unahakikisha kwamba unatozwa tu ikiwa SMS imepokelewa. Ikiwa hakuna ujumbe unaofika ndani ya muda uliopangwa (dakika 20 za juu), malipo hughairiwa kiotomatiki na satoshi hurejeshwa kwenye wallet yako. Dhamana hii haitumiki kwa vipengele vya kutuma na kukodisha, ambavyo havirejeshwi.
 
 
 
@@ -75,11 +75,11 @@ Kipengele hiki hukuruhusu kutuma SMS kwa nambari yoyote ya simu bila kufichua ut
 
 
 
-Kwa watumiaji wanaohitaji kupokea ujumbe mfupi wa SMS kwa nambari moja, SMS4Sats hutoa chaguo la kukodisha kwa muda. Chaguo hili hukuruhusu kupokea na kutuma ujumbe kadhaa wakati wa kipindi cha kukodisha.
+Kwa watumiaji wanaohitaji kupokea ujumbe mfupi wa SMS kwa nambari moja, SMS4Sats hutoa chaguo la kukodisha kwa muda. Chaguo hili hukuruhusu kupokea na kutuma ujumbe kadhaa katika kipindi cha kukodisha.
 
 
 
-**Dokezo kuhusu bei**: Bei zinazoonyeshwa katika mafunzo haya ni za kiashiria. Zinatofautiana kulingana na nchi ya nambari, huduma inayolengwa na mahitaji ya sasa. Kwa mfano, SMS kwenda Telegram France inaweza kugharimu kati ya satoshi 1,500 na 5,000, kulingana na masharti. Daima angalia kiasi halisi cha ankara ya Lightning kabla ya kulipa.
+**Dokezo kuhusu bei**: Bei zinazoonyeshwa katika mafunzo haya ni za kiashiria. Zinatofautiana kulingana na nchi ya nambari, huduma inayolengwa na mahitaji ya sasa. Kwa mfano, SMS kwenda Telegram France inaweza kugharimu kati ya satoshi 1,500 na 5,000, kulingana na masharti. Daima angalia kiasi halisi cha invoice ya Lightning kabla ya kulipa.
 
 
 
@@ -107,11 +107,11 @@ Katika mfano huu, tunachagua Ufaransa kama nchi na Telegram kama huduma lengwa. 
 
 
 
-### Hatua ya 2: Lipa ankara ya Lightning
+### Hatua ya 2: Lipa invoice ya Lightning
 
 
 
-Ankara ya Lightning inaonyeshwa katika mfumo wa msimbo wa QR. Kiasi hutofautiana kulingana na nchi na huduma iliyochaguliwa. Changanua msimbo wa QR ukitumia Lightning wallet yako au nakili ankara ili ulipe mwenyewe.
+Invoice ya Lightning inaonyeshwa katika mfumo wa msimbo wa QR. Kiasi hutofautiana kulingana na nchi na huduma iliyochaguliwa. Changanua msimbo wa QR ukitumia Lightning wallet yako au nakili invoice ili ulipe mwenyewe.
 
 
 
@@ -199,7 +199,7 @@ Bonyeza **INAYOFUATA** ili kuendelea na malipo.
 
 
 
-Lipa ankara ya Lightning iliyoonyeshwa. Mara tu malipo yanapothibitishwa, SMS hutumwa mara moja kwa mpokeaji.
+Lipa invoice ya Lightning iliyoonyeshwa. Mara tu malipo yanapothibitishwa, SMS hutumwa mara moja kwa mpokeaji.
 
 
 
@@ -237,13 +237,13 @@ Bonyeza kichupo cha **KODISHA**. Chagua nchi na muda.
 
 
 - Bei hutofautiana kulingana na nchi na muda wa kukaa
-- Kodi hazirejeshwi**, tofauti na ujumbe mfupi wa SMS unaotumika mara moja
+- **Kodi hazirejeshwi**, tofauti na ujumbe mfupi wa SMS unaotumika mara moja
 - Nambari zilizokodishwa kwa ujumla hazifanyi kazi na Telegram
 - Chaguo hili linafaa kwa kujisajili kwa huduma kadhaa mfululizo
 
 
 
-Ukishabofya **NEXT** na kulipa ankara ya Lightning, utapata nambari ambayo unaweza kutumia kwa muda wote wa kipindi cha kukodisha ili kupokea na kutuma ujumbe mfupi.
+Ukishabofya **NEXT** na kulipa invoice ya Lightning, utapata nambari ambayo unaweza kutumia kwa muda wote wa kipindi cha kukodisha ili kupokea na kutuma ujumbe mfupi.
 
 
 
@@ -267,7 +267,7 @@ Ukishabofya **NEXT** na kulipa ankara ya Lightning, utapata nambari ambayo unawe
 
 
 
-**Kurejeshewa pesa kiotomatiki**: Unapopokea ujumbe mfupi wa SMS, mfumo wa ankara za hodl unahakikisha kwamba unalipa tu ikiwa SMS itafika.
+**Kurejeshewa pesa kiotomatiki**: Unapopokea ujumbe mfupi wa SMS, mfumo wa invoice za hodl unahakikisha kwamba unalipa tu ikiwa SMS itafika.
 
 
 
@@ -299,7 +299,7 @@ Ukishabofya **NEXT** na kulipa ankara ya Lightning, utapata nambari ambayo unawe
 
 
 
-SMS4Sats inapatikana kupitia [Tor](sms4sat6y7lkq4vscloomatwyj33cfeddukkvujo2hkdqtmyi465spid.onion). Usanidi huu huficha anwani yako ya IP wakati wa kufikia huduma.
+SMS4Sats inapatikana kupitia [Tor](sms4sat6y7lkq4vscloomatwyj33cfeddukkvujo2hkdqtmyi465spid.onion). Usanidi huu huficha Address yako ya IP wakati wa kufikia huduma.
 
 
 
@@ -307,15 +307,14 @@ SMS4Sats inapatikana kupitia [Tor](sms4sat6y7lkq4vscloomatwyj33cfeddukkvujo2hkdq
 
 
 
-Usitumie nambari inayoweza kutumika tena kwa akaunti zako muhimu (benki, barua pepe kuu). Ikiwa mifumo hii inakuhitaji kuthibitisha upya nambari yako baadaye, utapoteza ufikiaji wa akaunti.
-
+Usitumie nambari inayoweza kutumika tena kwa akaunti zako muhimu (kama benki au barua pepe kuu). Ikiwa mifumo hii itakuhitaji kuthibitisha upya nambari yako baadaye, unaweza kupoteza ufikiaji wa akaunti.
 
 
 ### Tenganisha utambulisho wako wa kidijitali
 
 
 
-Kwa akaunti bandia, changanya nambari ya muda na anwani ya barua pepe inayoweza kutumiwa mara moja na kivinjari kilichotengwa kutoka kwa matumizi yako ya kawaida.
+Kwa akaunti bandia, changanya nambari ya muda na Address ya barua pepe inayoweza kutumiwa mara moja na kivinjari kilichotengwa kutoka kwa matumizi yako ya kawaida.
 
 
 
@@ -331,8 +330,7 @@ Mara tu akaunti yako ikiwa imeundwa, washa suluhisho thabiti zaidi za uthibitish
 
 
 
-SMS4Sats ni suluhisho kamili kwa ajili ya usimamizi wa siri wa SMS. Iwe unataka kupokea msimbo wa uthibitishaji, kutuma ujumbe usiojulikana au kukodisha nambari ya muda, huduma hii inakidhi mahitaji mbalimbali ya usiri, kutokana na malipo katika Bitcoin Lightning.
-
+SMS4Sats ni suluhisho kamili kwa ajili ya usimamizi wa siri wa SMS. Iwe unataka kupokea msimbo wa uthibitishaji, kutuma ujumbe bila kujitambulisha au kukodisha nambari ya muda, huduma hii inakidhi mahitaji mbalimbali ya usiri kupitia malipo ya Bitcoin Lightning.
 
 
 Kumbuka mapungufu yake, hata hivyo: huduma hii haihakikishi kutokujulikana kabisa, na haifai kwa akaunti nyeti au za muda mrefu. Ikitumiwa kwa busara na kwa ufahamu wa mapungufu yake, SMS4Sats ni zana inayofaa ya kurejesha udhibiti wa mawasiliano yako ya simu.
@@ -347,4 +345,4 @@ Kumbuka mapungufu yake, hata hivyo: huduma hii haihakikishi kutokujulikana kabis
 
 - [Tovuti rasmi ya SMS4Sats](https://sms4sats.com)
 - [Maswali Yanayoulizwa Mara kwa Mara kuhusu Huduma](https://sms4sats.com/faq)
-- [Anwani ya Tor](http://sms4sat6y7lkq4vscloomatwyj33cfeddukkvujo2hkdqtmyi465spid.onion)
+- [Address ya Tor](http://sms4sat6y7lkq4vscloomatwyj33cfeddukkvujo2hkdqtmyi465spid.onion)
