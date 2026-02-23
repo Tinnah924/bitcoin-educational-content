@@ -1,6 +1,6 @@
 ---
 name: White Noise
-description: Programu ya kutuma ujumbe ya kibinafsi, iliyogatuliwa kulingana na itifaki za Nostr na MLS
+description: Programu ya kutuma ujumbe ya kibinafsi, iliyogatuliwa kulingana na protocol za Nostr na MLS
 ---
 
 ![cover](assets/cover.webp)
@@ -28,14 +28,14 @@ Kwa maneno ya mwanzilishi wake, Max Hillebrand, yaliyoripotiwa na *Bitcoin Magaz
 
 
 
-White Noise ni programu ya kutuma ujumbe ya chanzo huria iliyotengenezwa na timu isiyo ya faida. Programu hii inakuza usalama, faragha na ugatuzi wa madaraka. Tofauti na programu za kawaida, haihitaji nambari ya simu wala anwani ya barua pepe.
+White Noise ni programu ya kutuma ujumbe ya chanzo huria iliyotengenezwa na timu isiyo ya faida. Programu hii inakuza usalama, faragha na ugatuzi wa madaraka. Tofauti na programu za kawaida, haihitaji nambari ya simu wala address ya barua pepe.
 
 
-White Noise inatofautishwa na ujumuishaji wa itifaki mbili za msingi - Nostr na MLS - ambazo huunda msingi wake wa kiufundi.
+White Noise inatofautishwa na ujumuishaji wa protocol mbili za msingi - Nostr na MLS - ambazo huunda msingi wake wa kiufundi.
 
 
 
-Nostr (Vidokezo na Mambo Mengine Yanayosambazwa na Relays) ni itifaki ya chanzo huria iliyogawanywa katika maeneo mbalimbali iliyoundwa kupinga udhibiti. Itifaki hutumia relays, jozi muhimu na wateja.
+Nostr (Vidokezo na Mambo Mengine Yanayosambazwa na Relays) ni protocol ya chanzo huria iliyogawanywa katika maeneo mbalimbali iliyoundwa kupinga udhibiti. Protocol hutumia relays, jozi muhimu na wateja.
 
 
 
@@ -45,7 +45,7 @@ Kwa kutumia Kelele Nyeupe, unaweza hata kuchagua mipangilio yako mwenyewe ya rel
 
 
 
-Kwa upande mwingine, MLS (Usalama wa Ujumbe wa Layer), ni itifaki ya usalama inayowezesha usimbaji fiche wa ujumbe kutoka mwanzo hadi mwisho. Kwa maneno mengine, ujumbe unapatikana tu kwenye sehemu za mwisho, yaani mtumaji na mpokeaji wa ujumbe. Hii ina maana kwamba uwasilishaji unaohusika katika uelekezaji wa ujumbe hauwezi kufikia maudhui yake.
+Kwa upande mwingine, MLS (Usalama wa Ujumbe wa Layer), ni protocol ya usalama inayowezesha usimbaji fiche wa ujumbe kutoka mwanzo hadi mwisho. Kwa maneno mengine, ujumbe unapatikana tu kwenye sehemu za mwisho, yaani mtumaji na mpokeaji wa ujumbe. Hii ina maana kwamba uwasilishaji unaohusika katika uelekezaji wa ujumbe hauwezi kufikia maudhui yake.
 
 
 
@@ -60,9 +60,9 @@ Hapa kuna ulinganisho wa haraka kati ya White Noise na programu kadhaa zinazojul
 | Usimbaji E2EE / 1:1         | ✅ Ndiyo      | Hiari      | ✅ Ndiyo          | ✅ Ndiyo | ✅ Ndiyo  | ✅ Ndiyo           | ✅ Ndiyo|
 | Usimbaji wa kikundi E2EE    | ✅ Ndiyo      | ❌ Hapana   | ✅ Ndiyo          | ✅ Ndiyo | ✅ Ndiyo  | Hiari             | ✅ Ndiyo|
 | Kuficha utambulisho         | ✅ Ndiyo      | Hiari      | ❌ Hapana         | ✅ Ndiyo | ❌ Hapana | ❌ Hapana          | ❌ Hapana|
-| Seva ya chanzo huria        | ✅ Ndiyo      | ❌ Hapana   | ❌ Hapana         | ✅ Ndiyo | ❌ Hapana | ❌ Hapana          | ✅ Ndiyo|
+| server ya chanzo huria        | ✅ Ndiyo      | ❌ Hapana   | ❌ Hapana         | ✅ Ndiyo | ❌ Hapana | ❌ Hapana          | ✅ Ndiyo|
 | Mteja wa chanzo huria       | ✅ Ndiyo      | ✅ Ndiyo     | ❌ Hapana         | ✅ Ndiyo | ❌ Hapana | ❌ Hapana          | ✅ Ndiyo|
-| Seva iliyogatuliwa          | ✅ Ndiyo      | ❌ Hapana   | ❌ Hapana         | ✅ Ndiyo | ❌ Hapana | ❌ Hapana          | ❌ Hapana|
+| server iliyogatuliwa          | ✅ Ndiyo      | ❌ Hapana   | ❌ Hapana         | ✅ Ndiyo | ❌ Hapana | ❌ Hapana          | ❌ Hapana|
 | Mwaka wa kuundwa            | 2025        | 2013       | 2009            | 2025    | 2011     | 2011             | 2014   |
 
 ## Kuanza na White Noise
@@ -124,8 +124,8 @@ Faili za APK zinazopatikana ni:
 
 
 
-- whitenoise-0.2.1-arm64-v8a.apk** (57.7 MB), inafaa kwa simu za hivi karibuni zenye vichakataji vya biti 64;
-- whitenoise-0.2.1-armeabi-v7a.apk** (47.5 MB) inafaa kwa simu za zamani zenye vichakataji vya biti 32.
+- **whitenoise-0.2.1-arm64-v8a.apk** (57.7 MB), inafaa kwa simu za hivi karibuni zenye vichakataji vya biti 64;
+- **whitenoise-0.2.1-armeabi-v7a.apk** (47.5 MB) inafaa kwa simu za zamani zenye vichakataji vya biti 32.
 
 
 
@@ -244,11 +244,11 @@ Kisha una sehemu ya kwanza yenye menyu ndogo nne (4) kama vile:
 
 
 
-- Rekebisha wasifu**
+- **Rekebisha wasifu**
 
 
 
-Katika menyu hii ndogo, unaweza kurekebisha jina la wasifu, anwani ya Nostr (NIP-05)... Usisahau kubofya **Hifadhi** ili kuhifadhi mabadiliko yako.
+Katika menyu hii ndogo, unaweza kurekebisha jina la wasifu, address ya Nostr (NIP-05)... Usisahau kubofya **Hifadhi** ili kuhifadhi mabadiliko yako.
 
 
 
@@ -258,7 +258,7 @@ Katika menyu hii ndogo, unaweza kurekebisha jina la wasifu, anwani ya Nostr (NIP
 
 
 
-- Funguo za wasifu**
+- **Funguo za wasifu**
 
 
 
@@ -290,7 +290,7 @@ Ili kufanya hivyo, gusa aikoni ya **takataka** mbele ya relay ili kuifuta, au gu
 
 
 
-- Kukata muunganisho**
+- **Kukata muunganisho**
 
 
 
@@ -327,7 +327,7 @@ Hapa unaweza kufafanua mwonekano (mandhari na lugha ya onyesho) wa programu, na 
 
 
 
-Unaweza kuunga mkono timu iliyo nyuma ya White Noise (shirika lisilo la faida) kwa michango kupitia anwani yao ya Lightning au anwani yao ya malipo ya kimya kimya ya Bitcoin.
+Unaweza kuunga mkono timu iliyo nyuma ya White Noise (shirika lisilo la faida) kwa michango kupitia address yao ya Lightning au address yao ya malipo ya kimya kimya ya Bitcoin.
 
 
 
@@ -376,7 +376,7 @@ Kisha bonyeza kitufe cha **Anza mazungumzo** ili kuanza mazungumzo na mwandishi 
 
 
 
-Ujumbe wako wa kwanza kwa mwandishi mpya ni sawa na ombi la mwaliko. Ombi hili lazima likubaliwe na mwandishi wako kabla ya kuwasiliana naye. Ikiwa atakataa, basi, hakuna mazungumzo yanayowezekana.
+Ujumbe wako wa kwanza kwa mwandishi mpya ni sawa na ombi la mwaliko. Ombi hili lazima likubaliwe na mwandishi huyo kabla ya kuwasiliana naye. Ikiwa atalikataa, basi hakuna mazungumzo yatakayowezekana.
 
 
 
@@ -441,7 +441,7 @@ Bonyeza ishara ya mwandishi juu ya skrini ili kufikia "taarifa za mazungumzo" na
 
 
 
-Katika upau wa utafutaji unaoonekana, andika neno unalotaka kutafuta na uanzishe utafutaji. Kisha utaona maneno yako ya utafutaji yameangaziwa kwa herufi nzito**.
+Katika upau wa utafutaji unaoonekana, andika neno unalotaka kutafuta na uanzishe utafutaji. Kisha utaona maneno yako ya utafutaji yameangaziwa kwa herufi nzito.
 
 
 
@@ -530,7 +530,7 @@ Kwenye kiolesura kipya kinachoonekana, **chagua** kikundi unachotaka kumuongeza 
 
 
 
-Kumbuka kwamba msimamizi wa kikundi pekee ndiye anayeweza kurekebisha taarifa za kikundi na kuongeza au kuwafukuza wanachama. Pia, mzunguko wa vitufe huzuia wanachama waliopigwa marufuku kusimbua ujumbe wa siku zijazo.
+Kumbuka kwamba msimamizi wa kikundi pekee ndiye anayeweza kurekebisha taarifa za kikundi na kuongeza au kuwaondoa wanachama. Pia, mzunguko wa vitufe huzuia wanachama waliopigwa marufuku kusimbua ujumbe wa baadaye.
 
 
 
@@ -606,7 +606,7 @@ Kwa sasa, picha pekee ndizo zinazoweza kushirikiwa kati ya watumiaji kwenye Whit
 
 
 
-White Noise inatoa kiwango kizuri cha usiri na usalama wa hali ya juu. Kwa upande mwingine, ni programu ya hivi karibuni sana, haijaenea sana na bado ni changa. Kwa hivyo, bado ni mapema sana kufikia hitimisho lolote linalofanya kazi. Inawezekana kukutana na hitilafu chache wakati wa matumizi.
+White Noise inatoa kiwango kizuri cha usiri na usalama wa hali ya juu. Kwa upande mwingine, ni programu mpya sana, haijaenea sana na bado ni changa. Kwa hivyo, bado ni mapema sana kufikia hitimisho lolote la kuaminika. Inawezekana kukutana na hitilafu chache wakati wa matumizi.
 
 
 
@@ -614,7 +614,7 @@ Kwa sasa, haina utendaji fulani (hakuna simu za sauti au video, hakuna kutuma fa
 
 
 
-Hata hivyo, White Noise inabaki kuwa chaguo la kuvutia kwa mazungumzo ambapo usiri ni muhimu (k.m. na familia, marafiki wa karibu au wanaharakati katika sababu ya pamoja), hata kama inahitaji juhudi kidogo kusakinisha (kupitia maduka mbadala ya programu au faili za APK) na kujifunza (kuelewa kidogo dhana ya jozi muhimu, wateja na relays kwa kutumia itifaki ya Nostr).
+Hata hivyo, White Noise inabaki kuwa chaguo la kuvutia kwa mazungumzo ambapo usiri ni muhimu (k.m. na familia, marafiki wa karibu au wanaharakati katika sababu ya pamoja), hata kama inahitaji juhudi kidogo kusakinisha (kupitia maduka mbadala ya programu au faili za APK) na kujifunza (kuelewa kidogo dhana ya jozi muhimu, wateja na relays kwa kutumia protocol ya Nostr).
 
 
 
@@ -622,7 +622,7 @@ Sasa unajua jinsi ya kutumia White Noise kuwasiliana kwa usalama na marafiki na 
 
 
 
-Tunapendekeza mafunzo yetu kuhusu Tox Chat, programu inayokuruhusu kupiga gumzo bila wapatanishi kupitia itifaki ya Tox iliyotengwa.
+Tunapendekeza mafunzo yetu kuhusu Tox Chat, programu inayokuruhusu kupiga gumzo bila wapatanishi kupitia protocol ya Tox iliyotengwa.
 
 
 
