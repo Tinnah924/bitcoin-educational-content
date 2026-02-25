@@ -13,7 +13,7 @@ Mafunzo haya yanashughulikia [Coin Wallet](https://coin.space/) - mfumo wa siri 
 ## Kuhusu Coin Wallet
 
 
-**Coin Wallet** ni wallet inayojilinda/isiyo ya ulinzi, chanzo huria iliyoundwa na timu ya wapenzi wa Bitcoin mnamo 2015. Ilianza kama programu ya wavuti, ikifuatiwa na programu ya iOS mnamo 2017, na programu ya Android mnamo 2020 - inapatikana kwenye Google Play, Duka la Samsung Galaxy, na Huawei AppGallery.
+**Coin Wallet** ni wallet self-custodial / non-custodial, chanzo huria iliyoundwa na timu ya wapenzi wa Bitcoin mnamo 2015. Ilianza kama programu ya wavuti, ikifuatiwa na programu ya iOS mnamo 2017, na programu ya Android mnamo 2020 - inapatikana kwenye Google Play, Duka la Samsung Galaxy, na Huawei AppGallery.
 
 
 Faida muhimu:
@@ -25,7 +25,7 @@ Faida muhimu:
 - Kuzingatia lengo kuu - kuhifadhi sarafu za kidijitali kwa usalama, bila vipengele visivyo vya lazima
 - Usaidizi wa mifumo mbalimbali: simu (iOS na Android), kompyuta ya mezani, wavuti
 - Usaidizi wa RBF (Badilisha-Kwa-Ada) - ongeza kasi ya miamala iliyokwama wakati wowote
-- Vifaa 2FA vyenye [YubiKey](https://www.yubico.com/works-with-yubikey/catalog/coin-wallet/) / ufunguo wa FIDO2
+- Hardware za 2FA vyenye [YubiKey](https://www.yubico.com/works-with-yubikey/catalog/coin-wallet/) / ufunguo wa FIDO2
 - Usaidizi wa Tor uliojengewa ndani - elekeza trafiki yote kupitia mtandao wa Tor kwa faragha ya juu zaidi
 
 
@@ -38,30 +38,17 @@ Coin Wallet inapatikana kwenye mifumo yote mikubwa.
 
 - [Duka la Programu la iOS](https://apps.apple.com/app/coin-wallet-bitcoin-crypto/id980719434)
 
-
-
 - [Google Play ya Android](https://play.google.com/store/apps/details?id=com.coinspace.app)
-
-
 
 - [Android (Duka la Galaxy)](https://galaxystore.samsung.com/detail/com.coinspace.app)
 
-
-
 - [Android (Huawei AppGallery)](https://appgallery.huawei.com/app/C112183767)
-
-
 
 - [Android (Uptodown)](https://coin-wallet.en.uptodown.com/android)
 
-
-
 - [APK ya Android](https://coin.space/api/v3/download/android-apk/any)
 
-
-
 - [Viungo vyote vya kutolewa](https://github.com/CoinSpace/CoinSpace/releases)
-
 
 Inapatikana pia kwa kompyuta za mezani (Windows, Linux, macOS), kama programu ya wavuti na kupitia Tor.
 
@@ -74,10 +61,10 @@ Inapatikana pia kwa kompyuta za mezani (Windows, Linux, macOS), kama programu ya
 
 wallet imeundwa kwa kutumia passphrase - mfuatano nasibu wa maneno 12 yaliyotenganishwa na nafasi, yaliyotokana na [orodha ya maneno 2048](https://github.com/paulmillr/scure-bip39/blob/main/src/wordlists/english.ts).
 
-Coin Wallet inasaidia manenosiri 12, 15, 18, 21, au 24 yaliyoingizwa kutoka kwa pochi zingine.
+Coin Wallet inasaidia manenosiri 12, 15, 18, 21, au 24 yaliyoingizwa kutoka kwa wallet zingine.
 
 
-passphrase ni umbo linaloweza kusomwa na binadamu la ufunguo mkuu wa faragha. Lazima lihifadhiwe kwa usalama. passphrase ndiyo inayohitajika tu ili kufikia au kurejesha wallet. Ikiwa passphrase itapotea, wallet na fedha zote zitapotea kabisa. passphrase haipaswi kamwe kushirikiwa. Coin Wallet haihifadhi funguo kwenye seva au hifadhidata yoyote.
+passphrase ni umbo linaloweza kusomwa na binadamu la ufunguo mkuu wa faragha. Lazima lihifadhiwe kwa usalama. passphrase ndiyo inayohitajika tu ili kufikia au kurejesha wallet. Ikiwa passphrase itapotea, wallet na fedha zote zitapotea kabisa. passphrase haipaswi kamwe kushirikiwa. Coin Wallet haihifadhi funguo kwenye server au hifadhidata yoyote.
 
 
 **Je, passphrase yenye maneno 12 iko salama?**
@@ -132,11 +119,11 @@ PIN rahisi pekee haina usalama wa kutosha kulinda ufunguo mkuu moja kwa moja, kw
 
 
 
-- PIN hutumwa kwa seva na kubadilishwa kwa token ndefu ya usimbaji fiche.
+- PIN hutumwa kwa server na kubadilishwa kwa token ndefu ya usimbaji fiche.
 - token hii huondoa msimbo wa siri wa ufunguo mkuu uliosimbwa kwa njia fiche uliohifadhiwa kwenye kifaa pekee.
 
 
-Ikiwa PIN imeingizwa vibaya mara tatu, seva hufuta kabisa token. Kitufe kilichohifadhiwa ndani huwa hakitumiki, na njia pekee ya kurejesha wallet ni kwa kuingiza passphrase ya asili.
+Ikiwa PIN imeingizwa vibaya mara tatu, server hufuta kabisa token. Kitufe kilichohifadhiwa ndani huwa hakitumiki, na njia pekee ya kurejesha wallet ni kwa kuingiza passphrase ya asili.
 
 Muundo huu hutoa urahisi na ulinzi imara wa kurudi nyuma.
 
@@ -145,24 +132,24 @@ Muundo huu hutoa urahisi na ulinzi imara wa kurudi nyuma.
 ## 4️⃣ Kupokea ₿itcoin - Aina za Address na Faragha
 
 
-Coin Wallet inasaidia miundo yote mitatu ya anwani ya Bitcoin:
+Coin Wallet inasaidia miundo yote mitatu ya address ya Bitcoin:
 
 
 
-- SegWit Asili (Bech32)** – huanza na **bc1q** – ada za chini kabisa, zinazopendekezwa
-- SegWit iliyo na kiota (P2SH)** – huanza na **3**
-- Legacy (P2PKH)** – huanza na **1**
+- **Native SegWit (Bech32** – huanza na **bc1q** – ada za chini kabisa, zinazopendekezwa
+- **Nested SegWit (P2SH)** – huanza na **3**
+- **Legacy (P2PKH)** – huanza na **1**
 
 
 ![image](assets/en/04.webp)
 
 
-**Kwa nini anwani hubadilika baada ya kila amana?**
+**Kwa nini address hubadilika baada ya kila amana?**
 
-Hii ni kwa makusudi na inalinda faragha. Kila wakati sarafu zinapopokelewa, Coin Wallet hutoa kiotomatiki anwani mpya isiyotumika. Ikiwa anwani hiyo hiyo ingetumika tena (kwa mfano, kwa mshahara wa kila mwezi), mtu yeyote angeweza kujumlisha kwa urahisi miamala yote inayoingia kwenye blockchain explorer na kujua jumla ya mapato.
+Hii ni kwa makusudi na inalinda faragha. Kila wakati sarafu zinapopokelewa, Coin Wallet hutoa kiotomatiki address mpya ambayo haijatumika. Ikiwa address hiyo hiyo ingetumika tena (kwa mfano, kwa mshahara wa kila mwezi), mtu yeyote angeweza kujumlisha kwa urahisi miamala yote inayoingia kupitia blockchain explorer na kujua jumla ya mapato.
 
 
-Anwani za zamani hubaki halali milele - bado unaweza kuzipokea - lakini kutumia anwani mpya kila wakati ndio njia bora ya faragha inayopendekezwa.
+Address za zamani hubaki halali milele - bado unaweza kuzipokea - lakini kutumia address mpya kila wakati ndio njia bora ya faragha inayopendekezwa.
 
 
 **Jinsi ya kupokea Bitcoin:**
@@ -171,9 +158,9 @@ Anwani za zamani hubaki halali milele - bado unaweza kuzipokea - lakini kutumia 
 
 2. Gusa **Pokea**
 
-3. Chagua aina ya anwani unayotaka (ikiwezekana **bc1q** – `Native SegWit`)
+3. Chagua aina ya address unayotaka (ikiwezekana **bc1q** – `Native SegWit`)
 
-4. Onyesha msimbo wa QR au nakili anwani na uitumie kwa mlipaji
+4. Onyesha msimbo wa QR au nakili address na uitumie kwa mlipaji
 
 
 **Si lazima - Mecto (kwa malipo ya ana kwa ana):**
@@ -184,7 +171,7 @@ Unapoiwasha:
 
 
 - Utaulizwa kuingiza jina la utani la **** (gravatar)
-- Eneo lako la sasa na anwani ya kupokea zinashirikiwa kwa muda na watumiaji wengine wa Coin Wallet ambao pia wamewasha Mecto
+- Eneo lako la sasa na address ya kupokea zinashirikiwa kwa muda na watumiaji wengine wa Coin Wallet ambao pia wamewasha Mecto
 - Wanaweza kukugundua kwenye ramani ndogo na kutuma sarafu bila kuandika au kuchanganua
 
 
@@ -204,7 +191,7 @@ Kutuma Bitcoin:
 
 1. Fungua sarafu → gusa **Tuma**
 
-2. Bandika anwani au changanua msimbo wa QR
+2. Bandika address au changanua msimbo wa QR
 
 3. Ingiza kiasi (au gusa **Kiwango cha Juu**)
 
@@ -267,10 +254,10 @@ Zaidi kuhusu Replace-by-fee (RBF): https://bitcoinops.org/en/topics/replace-by-f
 
 2. Sogeza hadi chini ya ukurasa - gusa **Hamisha funguo za faragha**
 
-3. Programu inaonyesha kila anwani yenye salio + ufunguo wake wa faragha katika umbizo la **WIF** (huanza na 5, K, au L) na msimbo wa QR.
+3. Programu inaonyesha kila address yenye salio + ufunguo wake wa faragha katika umbizo la **WIF** (huanza na 5, K, au L) na msimbo wa QR.
 
 
-Anwani zisizo tupu pekee ndizo zinazoonekana.
+Address zisizo tupu pekee ndizo zinazoonekana.
 
 
 **Mfano wa ufunguo wa WIF**
@@ -283,7 +270,7 @@ Anwani zisizo tupu pekee ndizo zinazoonekana.
 
 - Fungua Electrum, Sparrow, BlueWallet au vifaa vyovyote vya wallet
 - Ingiza/Futa ufunguo wa faragha
-- Fedha zote huhamishiwa mara moja kwenye anwani mpya salama chini ya seed yako ya sasa
+- Fedha zote huhamishiwa mara moja kwenye address mpya salama chini ya seed yako ya sasa
 
 
 Usihifadhi ufunguo wa faragha kidijitali katika maandishi wazi. Baada ya kufagia, unaweza kufutwa kwa usalama.
@@ -296,7 +283,7 @@ Kwa mwongozo kamili kuhusu funguo za kibinafsi na njia za uundaji: [Jinsi ya Kuf
 ## 7️⃣ Maelezo ya Kiufundi - BIP39, BIP32 na Njia za Utoaji
 
 
-Coin Wallet inafuata kikamilifu viwango rasmi vya Bitcoin ambavyo hutumiwa na karibu pochi zote kubwa.
+Coin Wallet inafuata kikamilifu viwango rasmi vya Bitcoin ambavyo hutumiwa na karibu wallet zote kubwa.
 
 
 `BIP39` - jinsi passphrase inavyokuwa ufunguo mkuu wa faragha
@@ -304,15 +291,15 @@ Coin Wallet inafuata kikamilifu viwango rasmi vya Bitcoin ambavyo hutumiwa na ka
 
 - Idadi chaguo-msingi ya maneno: 12
 - passphrase/nenosiri la hiari: hakuna ("")
-- Entropi ya awali: biti 128 (maneno 12) → biti 256 (maneno 24)
+- Entropy ya awali: biti 128 (maneno 12) → biti 256 (maneno 24)
 - Utekelezaji wa programu huria: https://github.com/paulmillr/scure-bip39
 - Orodha ya maneno: orodha ya kawaida ya Kiingereza yenye maneno 2048
 - Inasaidia uingizaji wa vifungu vya maneno 12, 15, 18, 21 na 24 kutoka kwa BIP39 wallet nyingine yoyote.
 
 
-`BIP32 + BIP44/BIP49/BIP84` - kizazi cha anwani zote kwa njia ya uhakika
+`BIP32 + BIP44/BIP49/BIP84` - kizazi cha address zote kwa njia ya uhakika
 
-Kutoka kwa ufunguo mmoja mkuu, wallet inaweza kutoa anwani bilioni 82 za generate kwa mpangilio maalum. Hii ndiyo sababu maneno yaleyale 12 yaliyoingizwa katika Electrum, Sparrow, Trezor, Ledger, BlueWallet, n.k. yataonyesha anwani na mizani sawa kabisa.
+Kutoka kwa ufunguo mmoja mkuu, wallet inaweza kutoa address bilioni 82 za generate kwa mpangilio maalum. Hii ndiyo sababu maneno yaleyale 12 yaliyoingizwa katika Electrum, Sparrow, Trezor, Ledger, BlueWallet, n.k. yataonyesha address na mizani sawa kabisa.
 
 
 
@@ -320,7 +307,7 @@ Kutoka kwa ufunguo mmoja mkuu, wallet inaweza kutoa anwani bilioni 82 za generat
 
 **Njia za utokaji zinazotumiwa katika Coin Wallet kwa Bitcoin**
 
-| Aina ya anwani              | Kiwango | Njia ya utokaji       | Huanza kwa | Maoni                              |
+| Aina ya address              | Kiwango | Njia ya utokaji       | Huanza kwa | Maoni                              |
 |---------------------------|----------|-----------------------|-------------|--------------------------------------|
 | SegWit ya Asili (Bech32)    | BIP84    | `m/84'/0'/0'`         | bc1q…       | Muundo wa kisasa, ada za chini           |
 | SegWit iliyoimarishwa (P2SH)      | BIP49    | `m/49'/0'/0'`         | 3…          | Kizungiti cha utangamano kwa huduma za zamani |
@@ -329,8 +316,8 @@ Kutoka kwa ufunguo mmoja mkuu, wallet inaweza kutoa anwani bilioni 82 za generat
 Ndani ya kila njia:
 
 
-- `/0` — mnyororo wa nje (anwani unazoonyesha ili kupokea malipo)
-- `/1` — mnyororo wa ndani (badilisha anwani ambazo wallet hutumia yenyewe)
+- `/0` — mnyororo wa nje (address unazoonyesha ili kupokea malipo)
+- `/1` — mnyororo wa ndani (badilisha address ambazo wallet hutumia yenyewe)
 
 
 Kwa sababu Coin Wallet inafuata viwango hivi vya umma bila mabadiliko yoyote, fedha zako zitabaki kupatikana katika wallet nyingine yoyote inayolingana hata katika miaka 10-20-30.
@@ -341,14 +328,14 @@ Kwa sababu Coin Wallet inafuata viwango hivi vya umma bila mabadiliko yoyote, fe
 
 **Kwa nini utumie Tor katika Coin Wallet**
 
-Tor huficha anwani yako halisi ya IP kutoka kwa nodi za Bitcoin, kubadilishana, na waangalizi.
+Tor huficha address yako halisi ya IP kutoka kwa node za Bitcoin, kubadilishana, na waangalizi.
 
 Trafiki zote (salio, miamala, ubadilishaji) hupitia mtandao wa Tor - hakuna miunganisho ya moja kwa moja, hakuna uvujaji wa IP.
 
 Hii inatekelezwa moja kwa moja katika msimbo chanzo wa programu (tazama [usanidi wa .env](https://github.com/CoinSpace/CoinSpace/blob/master/web/.env#L31)).
 
 
-Coin Wallet ina anwani ya .onion iliyofichwa na, tangu v6.6.3 (Desemba 2024), **Tor iliyojengewa ndani inasaidia moja kwa moja kwenye programu ya simu**.
+Coin Wallet ina address ya .onion iliyofichwa na, tangu v6.6.3 (Desemba 2024), **Tor iliyojengewa ndani inasaidia moja kwa moja kwenye programu ya simu**.
 
 
 ### Jinsi ya kuwezesha Tor kwenye Android na iOS
@@ -375,7 +362,7 @@ Washa **Tumia Tor**
 
 4. **Angalia hali**
 
-Aikoni ya kitunguu cha **zambarau cha Tor** inaonekana kwenye upau wa juu → trafiki yote sasa inapitia Tor
+**Purple Tor onion icon** inaonekana kwenye upau wa juu → trafiki yote sasa inapitia Tor
 
 
 ![image](assets/en/06.webp)
