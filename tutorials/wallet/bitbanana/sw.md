@@ -1,13 +1,13 @@
 ---
 name: BitBanana
-description: Kidhibiti cha rununu cha nodi yako ya Umeme
+description: Kidhibiti cha rununu cha Lightning node yako
 ---
 
 ![cover](assets/cover.webp)
 
 
 
-Katika somo hili, utajifunza jinsi ya kusakinisha na kusanidi BitBanana kwenye Android ili kudhibiti nodi yako ya Umeme kutoka kwa simu yako mahiri. Tutaona jinsi ya kuunganisha programu kwenye miundombinu yako iliyopo (Umbrel, RaspiBlitz, myNode, au nodi yoyote ya LND/Core Lightning), kufanya malipo ya Radi, kudhibiti vituo vyako ukiwa mbali, kuona mapato yako ya uelekezaji, na kuhifadhi nakala za usanidi wako. Pia utajifunza kuhusu mbinu bora za usalama za kulinda ufikiaji wa nodi yako, na jinsi inavyolinganishwa na Zeus, mbadala maarufu.
+Katika somo hili, utajifunza jinsi ya kusakinisha na kusanidi BitBanana kwenye Android ili kudhibiti Lightning node yako kutoka kwa simu yako mahiri. Tutaona jinsi ya kuunganisha programu kwenye miundombinu yako iliyopo (Umbrel, RaspiBlitz, myNode, au node yoyote ya LND/Core Lightning), kufanya malipo ya Radi, kudhibiti vituo vyako ukiwa mbali, kuona mapato yako ya uelekezaji, na kuhifadhi nakala za usanidi wako. Pia utajifunza kuhusu mbinu bora za usalama za kulinda ufikiaji wa node yako, na jinsi inavyolinganishwa na Zeus, mbadala maarufu.
 
 
 
@@ -15,15 +15,15 @@ Katika somo hili, utajifunza jinsi ya kusakinisha na kusanidi BitBanana kwenye A
 
 
 
-BitBanana ni programu huria ya simu ya Android inayogeuza simu mahiri yako kuwa dashibodi kamili kwa udhibiti wa mbali wa nodi yako ya Umeme. Tofauti na pochi za umeme, ambazo hupachika nodi ya ndani kwenye simu, BitBanana inachukua falsafa ya 100% ya udhibiti wa mbali: programu haina satoshi na inaunganisha tu kwa miundombinu yako iliyopo.
+BitBanana ni programu huria ya simu ya Android inayogeuza simu mahiri yako kuwa dashibodi kamili kwa udhibiti wa mbali wa Lightning node yako. Tofauti na ligtning wallet, ambazo hupachika node ya ndani kwenye simu, BitBanana inachukua falsafa ya 100% ya udhibiti wa mbali: programu haina satoshi na inaunganisha tu kwa miundombinu yako iliyopo.
 
 
 
-Iliyoundwa na Michael Wünsch chini ya leseni ya MIT, maombi huhakikisha uwazi kamili na sifuri ukusanyaji wa data ya kibinafsi na miundo iliyothibitishwa inayoweza kuzaa tena. BitBanana kwa asili hutumia LND na Core Lightning kupitia URI za kawaida (`lndconnect://` na `clngrpc://`), ikirahisisha kwa kiasi kikubwa usanidi wa awali. Programu pia inatambua LndHub na Nostr Wallet Connect kwa watumiaji wasio na nodi ya kibinafsi, ingawa njia hizi hufanya kazi kwa uangalifu na utendakazi mdogo.
+Iliyoundwa na Michael Wünsch chini ya leseni ya MIT, maombi huhakikisha uwazi kamili na sifuri ukusanyaji wa data ya kibinafsi na miundo iliyothibitishwa inayoweza kuzaa tena. BitBanana kwa asili hutumia LND na Core Lightning kupitia URI za kawaida (`lndconnect://` na `clngrpc://`), ikirahisisha kwa kiasi kikubwa usanidi wa awali. Programu pia inatambua LndHub na Nostr Wallet Connect kwa watumiaji wasio na node ya kibinafsi, ingawa njia hizi hufanya kazi kwa uangalifu na utendakazi mdogo.
 
 
 
-Kiolesura hutoa ufikiaji kamili wa vipengele vyote muhimu vya nodi zako: kutuma na kupokea malipo (BOLT11, Lightning Address, LNURL, BOLT12, Keysend), usimamizi wa kituo cha umeme (kufungua, kufunga, kurekebisha ada, kusawazisha upya), udhibiti wa juu wa sarafu na usimamizi wa minara. BitBanana pia hutekelezea tabaka kadhaa thabiti za usalama: kufuli kwa kibayometriki, hali ya siri, PIN ya Dharura, na usaidizi wa asili wa Tor ili kuficha miunganisho.
+Kiolesura hutoa ufikiaji kamili wa vipengele vyote muhimu vya node zako: kutuma na kupokea malipo (BOLT11, Lightning Address, LNURL, BOLT12, Keysend), usimamizi wa kituo cha umeme (kufungua, kufunga, kurekebisha ada, kusawazisha upya), udhibiti wa juu wa sarafu na usimamizi wa minara. BitBanana pia hutekelezea tabaka kadhaa thabiti za usalama: kufuli kwa kibayometriki, hali ya siri, PIN ya Dharura, na usaidizi wa asili wa Tor ili kuficha miunganisho.
 
 
 
@@ -39,7 +39,7 @@ BitBanana inapatikana kwa Android 8.0 au matoleo mapya zaidi. Programu haipo kwe
 
 
 
-Kwa kuongezea, mfumo ikolojia wa iOS unawasilisha vikwazo muhimu vya udhibiti na kiufundi kwa programu zisizodhibitiwa za Umeme. Mnamo 2023, Apple ilikataa sasisho la Zeus kwa "ukiukaji wa leseni", na mnamo 2024, Phoenix Wallet iliondoka kwenye Duka la Programu la Merika kutokana na kutokuwa na uhakika wa udhibiti kuhusu watoa huduma wa Umeme. Vikwazo hivi hufafanua kwa nini watengenezaji wengi wa Radi wanapendelea Android, ambayo inatoa sera iliyo wazi zaidi kwa programu zisizodhibiti.
+Kwa kuongezea, mfumo ikolojia wa iOS unawasilisha vikwazo muhimu vya udhibiti na kiufundi kwa programu zisizodhibitiwa za Lightning. Mnamo 2023, Apple ilikataa sasisho la Zeus kwa "ukiukaji wa leseni", na mnamo 2024, Phoenix Wallet iliondoka kwenye Duka la Programu la Merika kutokana na kutokuwa na uhakika wa udhibiti kuhusu watoa huduma wa Lightning. Vikwazo hivi hufafanua kwa nini watengenezaji wengi wa Radi wanapendelea Android, ambayo inatoa sera iliyo wazi zaidi kwa programu zisizodhibiti.
 
 
 
@@ -55,7 +55,7 @@ Tovuti rasmi ya bitbanana.app (kushoto) inajivunia "Kujitunza kwa 100% na ukusan
 
 
 
-Programu inaomba ruhusa: mtandao (muunganisho wa nodi), kamera (misimbo ya QR), NFC (LNURL), huduma za usuli (arifa), bayometriki (usalama), na WireGuard VPN. Hakuna vifuatiliaji, ukusanyaji wa data sufuri. Washa nenosiri au kufunga kwa kibayometriki ili kupata ufikiaji salama.
+Programu inaomba ruhusa: mtandao (muunganisho wa node), kamera (misimbo ya QR), NFC (LNURL), huduma za usuli (arifa), bayometriki (usalama), na WireGuard VPN. Hakuna vifuatiliaji, ukusanyaji wa data sufuri. Washa nenosiri au kufunga kwa kibayometriki ili kupata ufikiaji salama.
 
 
 
@@ -67,11 +67,11 @@ Programu inaomba ruhusa: mtandao (muunganisho wa nodi), kamera (misimbo ya QR), 
 
 
 
-Ili kuunganisha BitBanana kwenye nodi yako ya LND (Umbrel, RaspiBlitz, myNode), pata `lndconnect` URI au msimbo wa QR ulio na anwani, cheti cha TLS na macaroon ya uthibitishaji.
+Ili kuunganisha BitBanana kwenye node yako ya LND (Umbrel, RaspiBlitz, myNode), pata `lndconnect` URI au msimbo wa QR ulio na address, cheti cha TLS na macaroon ya uthibitishaji.
 
 
 
-Kwa somo hili, tunatumia nodi ya LND kupitia mwavuli. Kwa maelezo zaidi, tafadhali tazama mafunzo yetu maalum:
+Kwa somo hili, tunatumia node ya LND kupitia mwavuli. Kwa maelezo zaidi, tafadhali tazama mafunzo yetu maalum:
 
 
 
@@ -82,7 +82,7 @@ https://planb.academy/tutorials/node/lightning-network/umbrel-lnd-b12e0b5b-12ff-
 
 
 
-Kwenye programu ya Njia ya Umeme, fikia menyu iliyo upande wa juu kulia na uchague "Unganisha wallet".
+Kwenye programu ya Njia ya Lightning, fikia menyu iliyo upande wa juu kulia na uchague "Unganisha wallet".
 
 
 
@@ -98,23 +98,23 @@ Chagua **gRPC (Tor)** ili kuunganisha kupitia Tor (inapendekezwa). Msimbo wa QR 
 
 
 
-Katika BitBanana, bonyeza "CONNECT NODE", changanua msimbo wa QR au ubandike URI. Idhinisha ufikiaji wa kamera, kisha uangalie anwani ya .onion inayoonyeshwa kabla ya kuthibitisha.
+Katika BitBanana, bonyeza "CONNECT NODE", changanua msimbo wa QR au ubandike URI. Idhinisha ufikiaji wa kamera, kisha uangalie address ya .onion inayoonyeshwa kabla ya kuthibitisha.
 
 
 
-** Muunganisho wa Umeme wa Msingi **
+**Muunganisho wa Lightning wa Msingi**
 
 
 
-Ukitumia Core Lightning (CLN) badala ya LND, mchakato utasalia kuwa sawa, na URI `clngrpc://` iliyo na cheti cha pamoja cha TLS. Core Lightning asilia inaweza kutumia BOLT12 (ofa), kuwezesha ankara zinazoweza kutumika tena na malipo ya mara kwa mara hayapatikani kwenye LND.
+Ukitumia Core Lightning (CLN) badala ya LND, mchakato utasalia kuwa sawa, na URI `clngrpc://` iliyo na cheti cha pamoja cha TLS. Core Lightning asilia inaweza kutumia BOLT12 (ofa), kuwezesha invoice zinazoweza kutumika tena na malipo ya mara kwa mara hayapatikani kwenye LND.
 
 
 
-**Muunganisho bila nodi ya kibinafsi (LNbits/imepangishwa)**
+**Muunganisho bila node ya kibinafsi (LNbits/imepangishwa)**
 
 
 
-Ikiwa huna nodi ya Umeme, BitBanana inaweza kuunganisha kwa huduma zinazopangishwa kupitia LndHub (itifaki inayotumiwa na BlueWallet na LNbits) au Nostr Wallet Connect (NWC). Tafadhali kumbuka: njia hizi zinafanya kazi katika hali ya uhifadhi (huduma hupangisha pesa zako) na utendakazi mdogo. Hutaweza kudhibiti vituo au kusanidi ada za uelekezaji, na utaweza kutuma na kupokea malipo ya Umeme pekee.
+Ikiwa huna Lightning node, BitBanana inaweza kuunganisha kwa huduma zinazopangishwa kupitia LndHub (itifaki inayotumiwa na BlueWallet na LNbits) au Nostr Wallet Connect (NWC). Tafadhali kumbuka: njia hizi zinafanya kazi katika hali ya uhifadhi (huduma hupangisha pesa zako) na utendakazi mdogo. Hutaweza kudhibiti vituo au kusanidi ada za uelekezaji, na utaweza kutuma na kupokea malipo ya Lightning pekee.
 
 
 
@@ -134,7 +134,7 @@ https://planb.academy/tutorials/node/others/umbrel-nostr-7ae147e8-f5cd-46e1-861b
 
 
 
-Skrini ya kwanza huonyesha salio lako la Umeme, na menyu iliyo juu kushoto ikipeana ufikiaji wa sehemu zifuatazo: Vituo, Uelekezaji, Saini/Thibitisha, Nodi, Anwani, Mipangilio, Hifadhi Nakala. Aikoni ya saa (juu kulia) inafungua historia ya muamala. Vifungo vya "Tuma" na "Pokea" chini hukuruhusu kutuma na kupokea satoshi zako.
+Skrini ya kwanza huonyesha salio lako la Lightning, na menyu iliyo juu kushoto ikipeana ufikiaji wa sehemu zifuatazo: Vituo, Uelekezaji, Saini/Thibitisha, Node, Address, Mipangilio, Hifadhi Nakala. Aikoni ya saa (juu kulia) inafungua historia ya muamala. Vifungo vya "Tuma" na "Pokea" chini hukuruhusu kutuma na kupokea satoshi zako.
 
 
 
@@ -142,7 +142,7 @@ Skrini ya kwanza huonyesha salio lako la Umeme, na menyu iliyo juu kushoto ikipe
 
 
 
-### Umeme na malipo ya on-chain
+### Lightning na malipo ya on-chain
 
 
 
@@ -150,19 +150,19 @@ Skrini ya kwanza huonyesha salio lako la Umeme, na menyu iliyo juu kushoto ikipe
 
 
 
-**Tuma malipo:** Bonyeza kitufe cha "Tuma" kutoka kwenye skrini ya kwanza. Skrini ya malipo (kushoto) hukupa kubandika anwani au data ya malipo kwenye sehemu ya "Address au data ya malipo", na kichanganuzi cha QR juu kulia kwa misimbo ya kuchanganua. Unaweza pia kuchagua anwani iliyohifadhiwa katika sehemu ya Anwani ili kuepuka kulazimika kuchanganua kila wakati.
+**Tuma malipo:** Bonyeza kitufe cha "Tuma" kutoka kwenye skrini ya kwanza. Skrini ya malipo (kushoto) hukupa kubandika address au data ya malipo kwenye sehemu ya "Address au data ya malipo", na kichanganuzi cha QR juu kulia kwa misimbo ya kuchanganua. Unaweza pia kuchagua address iliyohifadhiwa katika sehemu ya Address ili kuepuka kulazimika kuchanganua kila wakati.
 
 
 
-BitBanana inatambua kwa akili miundo yote ya malipo: ankara za kawaida za Umeme (mistari ya herufi inayoanza na `lnbc`), Lightning Address (muundo wa barua pepe kama vile `utilisateur@domaine.com`), misimbo ya lipa ya LNURL kwa malipo yanayobadilika, toa LNURL kwa kutoa pesa, na hata ufunguo wa Keysend wa malipo ya umma moja kwa moja. Programu hutekeleza maazimio muhimu ya LNURL kiotomatiki chinichini.
+BitBanana inatambua kwa akili miundo yote ya malipo: invoice za kawaida za Lightning (mistari ya herufi inayoanza na `lnbc`), Lightning Address (muundo wa barua pepe kama vile `utilisateur@domaine.com`), misimbo ya lipa ya LNURL kwa malipo yanayobadilika, toa LNURL kwa kutoa pesa, na hata ufunguo wa Keysend wa malipo ya umma moja kwa moja. Programu hutekeleza maazimio muhimu ya LNURL kiotomatiki chinichini.
 
 
 
-Baada ya ankara kupakiwa, BitBanana huonyesha maelezo kamili: kiasi kamili, makadirio ya ada za uelekezaji, maelezo ya malipo (ikiwa yametolewa na mpokeaji), na tarehe ya mwisho wa matumizi ya ankara. Baada ya uthibitisho, malipo yatapitishwa kupitia chaneli zako za Umeme. Kisha unaweza kutazama njia iliyochukuliwa hop by hop na gharama zinazolipwa katika maelezo ya muamala.
+Baada ya invoice kupakiwa, BitBanana huonyesha maelezo kamili: kiasi kamili, makadirio ya ada za uelekezaji, maelezo ya malipo (ikiwa yametolewa na mpokeaji), na tarehe ya mwisho wa matumizi ya invoice. Baada ya uthibitisho, malipo yatapitishwa kupitia chaneli zako za Lightning. Kisha unaweza kutazama njia iliyochukuliwa hop by hop na gharama zinazolipwa katika maelezo ya muamala.
 
 
 
-**Pokea malipo:** Bonyeza kitufe cha "Pokea". Kiteuzi (skrini ya kulia) hukuwezesha kuchagua kati ya Umeme (malipo ya papo hapo kupitia chaneli zako) na On-Chain. Kwa risiti ya umeme, weka kiasi unachotaka katika satoshis (au acha saa 0 ili kuunda ankara isiyo na kiasi maalum ili mlipaji akamilishe), na uongeze maelezo ya hiari ili yaonekane kwenye ankara. BitBanana hutengeneza ankara ya Umeme papo hapo yenye msimbo wa QR ili kuchanganua. Unaweza pia kunakili ankara kama maandishi na kuituma kwa barua pepe. Mara tu malipo yanapopokelewa, arifa kutoka kwa programu inakuarifu na muamala huonekana mara moja kwenye historia pamoja na maelezo yake yote.
+**Pokea malipo:** Bonyeza kitufe cha "Pokea". Kiteuzi (skrini ya kulia) hukuwezesha kuchagua kati ya Lightning (malipo ya papo hapo kupitia chaneli zako) na On-Chain. Kwa risiti ya umeme, weka kiasi unachotaka katika satoshis (au acha saa 0 ili kuunda invoice isiyo na kiasi maalum ili mlipaji akamilishe), na uongeze maelezo ya hiari ili yaonekane kwenye invoice. BitBanana hutengeneza invoice ya Lightning papo hapo yenye msimbo wa QR ili kuchanganua. Unaweza pia kunakili invoice kama maandishi na kuituma kwa barua pepe. Mara tu malipo yanapopokelewa, arifa kutoka kwa programu inakuarifu na muamala huonekana mara moja kwenye historia pamoja na maelezo yake yote.
 
 
 
@@ -182,7 +182,7 @@ Sehemu ya Uelekezaji (skrini ya kati) inaonyesha mapato ya usambazaji kulingana 
 
 
 
-Saini/Thibitisha (skrini ya kulia) hukuruhusu kusaini/kuthibitisha ujumbe kwa njia fiche ili kuthibitisha udhibiti wa nodi.
+Saini/Thibitisha (skrini ya kulia) hukuruhusu kusaini/kuthibitisha ujumbe kwa njia fiche ili kuthibitisha udhibiti wa node.
 
 
 
@@ -194,11 +194,11 @@ Saini/Thibitisha (skrini ya kulia) hukuruhusu kusaini/kuthibitisha ujumbe kwa nj
 
 
 
-**Dhibiti Nodi**: huorodhesha nodi zako, na vitufe vya kuongeza wewe mwenyewe, kuchanganua QR, au kugeuza kati ya nodi. Hasa, unaweza kuanzisha aina tofauti za uunganisho kwenye node sawa: LAN, VPN au Tor.
+**Dhibiti Node**: huorodhesha node zako, na vitufe vya kuongeza wewe mwenyewe, kuchanganua QR, au kugeuza kati ya node. Hasa, unaweza kuanzisha aina tofauti za uunganisho kwenye node sawa: LAN, VPN au Tor.
 
 
 
-**Dhibiti Anwani**: huhifadhi anwani zako za Umeme kwa malipo ya haraka.
+**Dhibiti Address**: huhifadhi Lightning address yako kwa malipo ya haraka.
 
 
 
@@ -215,8 +215,8 @@ Saini/Thibitisha (skrini ya kulia) hukuruhusu kusaini/kuthibitisha ujumbe kwa nj
 
 
 
-- Jumla ya uhamaji: dhibiti nodi yako ya Umeme kutoka popote
-- Utendaji kamili: malipo (LNURL, Lightning Address, BOLT 12), usimamizi wa chaneli, udhibiti wa sarafu, minara, nodi nyingi
+- Jumla ya uhamaji: dhibiti Lightning node yako kutoka popote
+- Utendaji kamili: malipo (LNURL, Lightning Address, BOLT 12), usimamizi wa chaneli, udhibiti wa sarafu, minara, node nyingi
 - Usalama: PIN/bayometriki, hali ya siri, PIN ya Dharura, Tor asili, kuzuia picha za skrini
 - Bure, chanzo wazi (MIT), tume sifuri, ukusanyaji wa data sifuri
 
@@ -227,9 +227,9 @@ Saini/Thibitisha (skrini ya kulia) hukuruhusu kusaini/kuthibitisha ujumbe kwa nj
 
 
 
-- Inahitaji nodi ya Umeme inayotumika (au LNbits katika hali ya uhifadhi)
+- Inahitaji node ya Lightning inayotumika (au LNbits katika hali ya uhifadhi)
 - Hakuna toleo la iOS lililopangwa
-- Kupata ufikiaji wa simu ni muhimu (msimamizi wa macaroon = ufikiaji kamili wa nodi)
+- Kupata ufikiaji wa simu ni muhimu (msimamizi wa macaroon = ufikiaji kamili wa node)
 
 
 
@@ -242,7 +242,7 @@ Saini/Thibitisha (skrini ya kulia) hukuruhusu kusaini/kuthibitisha ujumbe kwa nj
 
 
 
-- Washa kifunga PIN/kibayometriki (huzuia ufikiaji usioidhinishwa wa nodi)
+- Washa kifunga PIN/kibayometriki (huzuia ufikiaji usioidhinishwa wa node)
 - Sanidi PIN ya Dharura (hufuta data nyeti ikiwa kuna shinikizo)
 - Kamwe usishiriki URI yako ya kuingia au macaroon
 - Hali ya siri katika mazingira ya uhasama
@@ -272,7 +272,7 @@ Hatimaye, kuna menyu ya "Chelezo", ambayo hukuwezesha kuhifadhi usanidi wako kwa
 
 
 
-**Muhimu:** Hifadhi rudufu HAINA seed au chelezo za chaneli (ya kufanya kwenye nodi). Ina: usanidi wa nodi (anwani, vyeti, macaroons), maandiko, mawasiliano, vigezo. Kitufe cha kurejesha hukuruhusu kuleta nakala rudufu iliyopo. Uthibitishaji unahitajika kabla ya kuhifadhi.
+**Muhimu:** Hifadhi rudufu HAINA seed au chelezo za chaneli (ya kufanya kwenye node). Ina: usanidi wa node (address, vyeti, macaroons), maandiko, mawasiliano, vigezo. Kitufe cha kurejesha hukuruhusu kuleta nakala rudufu iliyopo. Uthibitishaji unahitajika kabla ya kuhifadhi.
 
 
 
@@ -292,11 +292,11 @@ Ingiza nenosiri la usimbaji fiche (skrini ya kulia). Mfumo hufungua kiteuzi cha 
 
 
 
-Ikiwa unachunguza programu za simu za kudhibiti nodi ya Umeme, unaweza kukutana na Zeus, mbadala maarufu wa BitBanana. Tofauti na BitBanana, ambayo inalenga pekee udhibiti wa kijijini wa nodi iliyopo, Zeus inachukua mbinu ya kina zaidi, ikitoa njia mbili za uendeshaji: nodi ya Umeme iliyopachikwa moja kwa moja kwenye programu (modi iliyopachikwa na LND iliyounganishwa) na unganisho la mbali kwa nodi ya nje, kama BitBanana.
+Ikiwa unachunguza programu za simu za kudhibiti Lightning node, unaweza kukutana na Zeus, mbadala maarufu wa BitBanana. Tofauti na BitBanana, ambayo inalenga pekee udhibiti wa kijijini wa node iliyopo, Zeus inachukua mbinu ya kina zaidi, ikitoa njia mbili za uendeshaji: Lightning node iliyopachikwa moja kwa moja kwenye programu (modi iliyopachikwa na LND iliyounganishwa) na unganisho la mbali kwa node ya nje, kama BitBanana.
 
 
 
-Utendaji huu wa pande mbili hufanya Zeus kuvutia haswa kwa wanaoanza wanaotaka kujaribu Umeme bila miundombinu yoyote ya hapo awali. Hali iliyopachikwa huwezesha uanzishaji mara moja kwa nodi kamili ya rununu, wakati watumiaji wa hali ya juu wanaweza kubadili hadi muunganisho wa mbali mara tu nodi zao za kibinafsi zitakaposanidiwa. Zeus pia inasaidia LND na Core Radi kwa unganisho la mbali, kama vile BitBanana.
+Utendaji huu wa pande mbili hufanya Zeus kuvutia haswa kwa wanaoanza wanaotaka kujaribu Lightning bila miundombinu yoyote ya hapo awali. Hali iliyopachikwa huwezesha uanzishaji mara moja kwa node kamili ya rununu, wakati watumiaji wa hali ya juu wanaweza kubadili hadi muunganisho wa mbali mara tu node zao za kibinafsi zitakaposanidiwa. Zeus pia inasaidia LND na Core Radi kwa unganisho la mbali, kama vile BitBanana.
 
 
 
@@ -304,7 +304,7 @@ Faida nyingine kuu ya Zeus ni upatikanaji wake kwenye mfumo mtambuka (iOS na And
 
 
 
-Hata hivyo, BitBanana huhifadhi uwezo wake mahususi: kiolesura rahisi zaidi, kilichorahisishwa zaidi, matumizi bora ya mtumiaji (UX) kutokana na umakini wake wa kipekee wa udhibiti wa mbali, na mbinu ya elimu yenye maelezo ya muktadha. Zeus hutoa utendaji zaidi, lakini kwa gharama ya interface ngumu zaidi. Programu bado inafaa kwa watumiaji wanaotaka kudhibiti nodi kutoka kwa mbali pekee, bila utendakazi wa uhifadhi.
+Hata hivyo, BitBanana huhifadhi uwezo wake mahususi: kiolesura rahisi zaidi, kilichorahisishwa zaidi, matumizi bora ya mtumiaji (UX) kutokana na umakini wake wa kipekee wa udhibiti wa mbali, na mbinu ya elimu yenye maelezo ya muktadha. Zeus hutoa utendaji zaidi, lakini kwa gharama ya interface ngumu zaidi. Programu bado inafaa kwa watumiaji wanaotaka kudhibiti node kutoka kwa mbali pekee, bila utendakazi wa uhifadhi.
 
 
 
@@ -320,7 +320,7 @@ https://planb.academy/tutorials/wallet/mobile/zeus-embedded-advanced-3e89603c-50
 
 
 
-BitBanana hugeuza simu yako mahiri ya Android kuwa dashibodi kamili ya Umeme, inayotoa uhamaji usio na kifani kwa waendeshaji wa nodi. Programu inashughulikia utendakazi wote: malipo (miundo yote), usimamizi wa chaneli, udhibiti wa sarafu, minara ya kutazama, nodi nyingi, na usalama ulioimarishwa (PIN/bayometriki, Tor, PIN ya Dharura).
+BitBanana hugeuza simu yako mahiri ya Android kuwa dashibodi kamili ya Lightning, inayotoa uhamaji usio na kifani kwa waendeshaji wa node. Programu inashughulikia utendakazi wote: malipo (miundo yote), usimamizi wa chaneli, udhibiti wa sarafu, minara ya kutazama, node nyingi, na usalama ulioimarishwa (PIN/bayometriki, Tor, PIN ya Dharura).
 
 
 
