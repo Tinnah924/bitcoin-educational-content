@@ -11,11 +11,10 @@ Uhamisho wa mali za Bitcoin ni mojawapo ya changamoto zinazopuuzwa zaidi na wami
 
 
 
-Katika mafunzo haya ya pili ya Bitcoin Keeper, tunachunguza vipengele vya ubora vilivyowekwa kwa ajili ya upangaji wa mirathi. Programu hii inatoa zana za hali ya juu za kuunda Vizuizi Vilivyoimarishwa, pamoja na mifumo ya ulinzi iliyopangwa kwa wakati kutokana na Miniscript, pamoja na hati zinazoambatana nazo ili kuwaongoza wapendwa wako.
+Katika mafunzo haya ya pili ya Bitcoin Keeper, tunachunguza vipengele vya ubora vilivyowekwa kwa ajili ya upangaji wa mirathi. Programu hii inatoa zana za hali ya juu za kuunda Vizuizi Vilivyoimarishwa, pamoja na mifumo ya ulinzi iliyopangwa kwa wakati inayotokana na Miniscript, pamoja na hati zinazoambatana nazo ili kuwaongoza wapendwa wako.
 
 
-
-Mwongozo huu unadhania kwamba tayari umeelewa misingi ya Bitcoin Keeper (uundaji wa kwingineko, multisig ya kawaida, kuongeza funguo za maunzi) kama ilivyoelezwa katika mafunzo yetu ya kwanza:
+Mwongozo huu unadhania kwamba tayari umeelewa misingi ya Bitcoin Keeper (uundaji wa kwingineko, multisig ya kawaida, kuongeza hardware keys) kama ilivyoelezwa katika mafunzo yetu ya kwanza:
 
 
 
@@ -37,15 +36,15 @@ Bitcoin Keeper inafanya kazi kwenye modeli ya freemium yenye viwango vitatu vya 
 
 
 
-Mpango wa **Pleb** (bila malipo) hutoa ufikiaji wa vitu muhimu: uundaji usio na kikomo wa pochi za funguo moja na funguo nyingi, utangamano na pochi zote kuu za vifaa (Coldcard, Trezor, Ledger, Jade, Tapsigner...), udhibiti wa sarafu, uwekaji lebo, na muunganisho kwa seva ya kibinafsi ya Electrum. Mpango huu unatosha kwa matumizi ya kawaida na hata kwa usanidi wa kawaida wa multi-sig.
+**Pleb plan** (bila malipo) hutoa ufikiaji wa vitu muhimu: uundaji usio na kikomo wa wallets za funguo moja na funguo nyingi, utangamano na hardware wallets zote (Coldcard, Trezor, Ledger, Jade, Tapsigner...), udhibiti wa sarafu, uwekaji lebo, na muunganisho kwa server ya kibinafsi ya Electrum. Mpango huu unatosha kwa matumizi ya kawaida na hata kwa usanidi wa kawaida wa multi-sig.
 
 
 
-Mpango wa **Hodler** (€9.99/mwezi, na mwezi 1 bila malipo ikiwa utalipwa kila mwaka) unajumuisha vipengele vyote vya Pleb na huongeza nakala rudufu zilizosimbwa kwa njia fiche kwenye wingu (iCloud au Google Drive) ili kurejesha salama zako kwenye kifaa chochote, Ufunguo wa Seva ili kuongeza sera za matumizi kiotomatiki na 2FA juu ya kizingiti fulani, na Canary Pochi ili kugundua ufikiaji usioidhinishwa wa funguo zako.
+Mpango wa **Hodler** (€9.99/mwezi, na mwezi 1 bila malipo ikiwa utalipwa kila mwaka) unajumuisha vipengele vyote vya Pleb na huongeza nakala rudufu zilizosimbwa kwa njia fiche kwenye cloud (iCloud au Google Drive) ili kurejesha salama zako kwenye kifaa chochote, Ufunguo wa Server ili kuongeza sera za matumizi kiotomatiki na 2FA juu ya kizingiti fulani, na Canary wallets ili kugundua ufikiaji usioidhinishwa wa funguo zako.
 
 
 
-Mpango wa **Diamond Hands** (€29.99/mwezi, na mwezi 1 bila malipo ikiwa unalipwa kila mwaka) ndio kifurushi kamili cha upangaji wa mirathi. Unajumuisha mpango mzima wa Hodler na unafungua Ufunguo wa Urithi (uanzishaji ulioahirishwa), Ufunguo wa Dharura (ufunguo wa dharura wa kurejesha ikiwa utapotea), zana na hati za Upangaji wa Urithi, na simu ya usaidizi na timu ya Concierge ili kuthibitisha usanidi wako. Huu ni ofa kwa watumiaji wa bitcoin wanaotaka kupitisha urithi wao kwa vizazi kadhaa.
+Mpango wa **Diamond Hands** (€29.99/mwezi, na mwezi 1 bila malipo ikiwa unalipwa kila mwaka) ndio kifurushi kamili cha upangaji wa mirathi. Unajumuisha mpango mzima wa Hodler na unafungua Inheritance Key (uanzishaji ulioahirishwa), Emergency Key (Emergency Key wa kurejesha ikiwa utapotea), zana na hati za Upangaji wa Urithi, na simu ya usaidizi na timu ya Concierge ili kuthibitisha usanidi wako. Huu ni ofa kwa watumiaji wa bitcoin wanaotaka kupitisha urithi wao kwa vizazi kadhaa.
 
 
 
@@ -53,11 +52,11 @@ Jambo muhimu: vibanda ulivyounda vitabaki kufikiwa hata ukirejea kwenye mpango w
 
 
 
-## Nyaraka za urithi
+## Inheritance Documents
 
 
 
-Mara tu unapowasha usajili wako wa Diamond Hands, fikia sehemu ya **Nyaraka za Urithi** kutoka kwenye kichupo cha Zaidi. Bitcoin Keeper hutoa hati tano za sampuli ili kupanga mpango wako wa mirathi, pamoja na sehemu ya vidokezo:
+Mara tu unapowasha usajili wako wa Diamond Hands, fikia sehemu ya **Inheritance Documents** kutoka kwenye kichupo cha Zaidi. Bitcoin Keeper hutoa hati tano za sampuli ili kupanga mpango wako wa mirathi, pamoja na sehemu ya vidokezo:
 
 
 
@@ -67,11 +66,11 @@ Mara tu unapowasha usajili wako wa Diamond Hands, fikia sehemu ya **Nyaraka za U
 
 
 
-- Kiolezo cha Maneno ya Mbegu**: kiolezo cha kuandika kwa uangalifu misemo yako ya urejeshaji kwa njia iliyopangwa
-- Mawasiliano Yanayoaminika**: kiolezo cha kuorodhesha maelezo ya mawasiliano ya watu wanaoaminika wanaohusika katika mpango wako (mthibitishaji, wakili, warithi, watunzaji wakuu)
-- Ufunguo wa Ziada wa Kushiriki**: hati inayoelezea taarifa za kiufundi kwa kila ufunguo: Msimbo wa PIN, njia ya uondoaji, eneo halisi, aina ya kifaa, na taarifa nyingine yoyote muhimu kwa kutambua na kutumia ufunguo.
-- Maagizo ya Kurejesha**: maagizo ya hatua kwa hatua kwa mrithi au mnufaika kurejesha fedha
-- Barua kwa Wakili**: barua iliyojazwa tayari ambayo inaweza kubadilishwa kwa ajili ya wakili wako au mthibitishaji
+- **Kiolezo cha Seed phrase**: kiolezo cha kuandika kwa uangalifu misemo yako ya urejeshaji kwa njia iliyopangwa
+- **Mawasiliano Yanayoaminika**: kiolezo cha kuorodhesha maelezo ya mawasiliano ya watu wanaoaminika wanaohusika katika mpango wako (mthibitishaji, wakili, warithi, watunzaji wakuu)
+- **Ufunguo wa Ziada wa Kushiriki**: hati inayoelezea taarifa za kiufundi kwa kila ufunguo: Msimbo wa PIN, njia ya uondoaji, eneo halisi, aina ya kifaa, na taarifa nyingine yoyote muhimu kwa kutambua na kutumia ufunguo.
+- **Maagizo ya Kurejesha**: maagizo ya hatua kwa hatua kwa mrithi au mnufaika kurejesha fedha
+- **Barua kwa Wakili**: barua iliyojazwa tayari ambayo inaweza kubadilishwa kwa ajili ya wakili wako au mthibitishaji
 
 
 
@@ -83,11 +82,11 @@ Badilisha hati hizi ili ziendane na hali yako, na uziweke mahali salama, tofauti
 
 
 
-## Kusanidi Hifadhi Nakala ya Wingu
+## Kusanidi Hifadhi Nakala ya Cloud
 
 
 
-Kabla ya kuunda hifadhi yako ya zamani, washa hifadhi ya wingu ili kulinda faili zako za usanidi. Kutoka kwenye kichupo cha Zaidi, bonyeza **Hifadhi ya Wingu ya Kibinafsi**.
+Kabla ya kuunda hifadhi yako ya zamani, washa hifadhi ya cloud ili kulinda faili zako za usanidi. Kutoka kwenye kichupo cha Zaidi, bonyeza **Hifadhi ya Cloud ya Kibinafsi**.
 
 
 
@@ -99,7 +98,7 @@ Chagua nenosiri thabiti ili kusimba nakala rudufu zako kwa njia fiche. Nenosiri 
 
 
 
-## Ingiza funguo zako za maunzi
+## Ingiza hardware keys zako
 
 
 
@@ -140,11 +139,11 @@ Mara funguo zako zote zitakapoingizwa, utazipata kwenye kichupo cha Funguo zenye
 
 
 
-## Unda wallet ya zamani
+## Unda legacy wallet
 
 
 
-Tuendelee kwenye uundaji wa shina. Kutoka kwenye kichupo cha **Pochi**, bonyeza **Ongeza Wallet**, chagua **Bitcoin Wallet**, kisha **Unda Wallet**.
+Tuendelee kwenye uundaji wa shina. Kutoka kwenye kichupo cha **Wallets**, bonyeza **Ongeza Wallet**, chagua **Bitcoin Wallet**, kisha **Unda Wallet**.
 
 
 
@@ -165,8 +164,8 @@ Katika dirisha ibukizi la Chaguzi za Usalama Zilizoimarishwa, chagua:
 
 
 
-- Ufunguo wa Urithi**: ufunguo wa ziada ambao utaongezwa kwenye akidi baada ya muda uliowekwa
-- Ufunguo wa Dharura**: ufunguo wenye udhibiti kamili ulioahirishwa ili kurejesha pesa iwapo ufunguo utapotea
+- **Inheritance Key**: ufunguo wa ziada ambao utaongezwa kwenye akidi baada ya muda uliowekwa
+- **Emergency Key**: ufunguo wenye udhibiti kamili ulioahirishwa ili kurejesha pesa iwapo ufunguo utapotea
 
 
 
@@ -178,7 +177,7 @@ Bonyeza **Hifadhi Mabadiliko**. Kisha chagua funguo 3 zitakazounda wallet yako k
 
 
 
-Skrini inayofuata hukuruhusu kusanidi Ufunguo wa Dharura na Ufunguo wa Urithi. Hapa ndipo unapofafanua ucheleweshaji unaosimamia uanzishaji wa funguo hizi maalum.
+Skrini inayofuata hukuruhusu kusanidi Emergency Key na Inheritance Key. Hapa ndipo unapofafanua ucheleweshaji unaosimamia uanzishaji wa funguo hizi maalum.
 
 
 
@@ -186,11 +185,11 @@ Skrini inayofuata hukuruhusu kusanidi Ufunguo wa Dharura na Ufunguo wa Urithi. H
 
 
 
-Kwa Ufunguo wa Dharura**, chagua kitufe cha maunzi ambacho kitatumika kama nakala rudufu ya mwisho (hapa Coldcard MK4) na uchague ucheleweshaji wa uanzishaji (katika mfano wetu: miaka 2). Tofauti na Ufunguo wa Urithi, Ufunguo wa Dharura hauongezi kwenye akidi: hukuruhusu **kupuuza multisig** kabisa, na kukupa udhibiti kamili wa fedha baada ya muda kuisha. Ni suluhisho lako la mwisho: ikiwa funguo kadhaa zinapotea au kuharibiwa, ufunguo huu mmoja hukuruhusu kurejesha kila kitu. Kwa hivyo lazima ulindwe kwa ukali mkubwa.
+Kwa Emergency Key**, chagua kitufe cha maunzi ambacho kitatumika kama nakala rudufu ya mwisho (hapa Coldcard MK4) na uchague ucheleweshaji wa uanzishaji (katika mfano wetu: miaka 2). Tofauti na Inheritance Key, Emergency Key hauongezi kwenye akidi: hukuruhusu **kupuuza multisig** kabisa, na kukupa udhibiti kamili wa fedha baada ya muda kuisha. Ni suluhisho lako la mwisho: ikiwa funguo kadhaa zinapotea au kuharibiwa, ufunguo huu mmoja hukuruhusu kurejesha kila kitu. Kwa hivyo lazima ulindwe kwa ukali mkubwa.
 
 
 
-Kwa **Ufunguo wa Urithi**, chagua ufunguo uliokusudiwa mrithi (hapa Coldcard MK4SP) na uchague kuchelewa (katika mfano wetu: mwaka 1). Baada ya mwaka mmoja bila kusogea, ufunguo huu **utaongezwa kwenye akidi ya sahihi**. Kwa maneno ya vitendo, wallet yako 2-ya-3 itakuwa wallet 2-ya-4 mara tu kipindi hiki kitakapopita, na kumwezesha mrithi kushiriki katika sahihi pamoja na funguo zilizopo.
+Kwa **Inheritance Key**, chagua ufunguo uliokusudiwa mrithi (hapa Coldcard MK4SP) na uchague kuchelewa (katika mfano wetu: mwaka 1). Baada ya mwaka mmoja bila kusogea, ufunguo huu **utaongezwa kwenye akidi ya sahihi**. Kwa maneno ya vitendo, wallet yako 2-ya-3 itakuwa wallet 2-ya-4 mara tu kipindi hiki kitakapopita, na kumwezesha mrithi kushiriki katika sahihi pamoja na funguo zilizopo.
 
 
 
@@ -202,7 +201,7 @@ Bitcoin Keeper hutumia **timu za muda zilizokamilika** (CLTV - CheckLockTimeVeri
 
 
 
-Kwa maneno halisi, ukitengeneza wallet leo ukitumia Ufunguo wa Urithi wa mwaka 1, tarehe ya uanzishaji itakuwa "leo + mwaka 1". Fedha zote zilizowekwa katika wallet hii, bila kujali tarehe yao ya amana, zitapatikana kupitia Ufunguo wa Urithi katika tarehe hiyo hiyo.
+Kwa maneno halisi, ukitengeneza wallet leo ukitumia Inheritance Key wa mwaka 1, tarehe ya uanzishaji itakuwa "leo + mwaka 1". Fedha zote zilizowekwa katika wallet hii, bila kujali tarehe yao ya amana, zitapatikana kupitia Inheritance Key katika tarehe hiyo hiyo.
 
 
 
@@ -218,7 +217,7 @@ Ili kuzuia uanzishaji wa funguo maalum wakati wa maisha yako, lazima "ujifunze u
 
 
 
-Bitcoin Keeper hurahisisha mchakato huu kwa kutumia kitendakazi cha kuburudisha kilichojumuishwa. Programu hushughulikia kiotomatiki ugumu ulio chinichini: unafuata tu hatua zilizoongozwa, bila kulazimika kuunda wallet mpya au kuhamisha fedha mwenyewe. Panga operesheni hii mara kwa mara, muda mrefu kabla ya muda mfupi zaidi uliowekwa kuisha. Kwa mfano, ukiwa na Ufunguo wa Urithi wa mwaka 1, burudisha kila baada ya miezi 9-10 ili kudumisha kiwango cha usalama.
+Bitcoin Keeper hurahisisha mchakato huu kwa kutumia kitendakazi cha kuburudisha kilichojumuishwa. Programu hushughulikia kiotomatiki ugumu ulio chinichini: unafuata tu hatua zilizoongozwa, bila kulazimika kuunda wallet mpya au kuhamisha fedha mwenyewe. Panga operesheni hii mara kwa mara, muda mrefu kabla ya muda mfupi zaidi uliowekwa kuisha. Kwa mfano, ukiwa na Inheritance Key wa mwaka 1, burudisha kila baada ya miezi 9-10 ili kudumisha kiwango cha usalama.
 
 
 
@@ -239,14 +238,14 @@ Bonyeza **Hifadhi Rudufu ya Faili ya Urejeshaji ya Wallet**. Chaguzi kadhaa za u
 
 
 
-- Usafirishaji wa PDF**: hutoa hati kamili yenye taarifa zote za wallet
-- Onyesha QR**: huonyesha msimbo wa QR ili kuingiza usanidi kwenye kifaa kingine
-- AirDrop / Usafirishaji wa Faili**: huhamisha faili kupitia chaguo za kushiriki
-- NFC**: shiriki kupitia NFC na kifaa kinachooana
+- **Usafirishaji wa PDF**: hutoa hati kamili yenye taarifa zote za wallet
+- **Onyesha QR**: huonyesha msimbo wa QR ili kuingiza usanidi kwenye kifaa kingine
+- **AirDrop / Usafirishaji wa Faili**: huhamisha faili kupitia chaguo za kushiriki
+- **NFC**: shiriki kupitia NFC na kifaa kinachooana
 
 
 
-Zidisha nakala: moja kwa mthibitishaji wako, moja kwenye sefu ya benki, toleo moja la kidijitali lililosimbwa kwa njia fiche. wallet yako mpya sasa inaonekana kwenye kichupo cha Pochi ikiwa na lebo "Multi-key", "2 kati ya 3", "Inheritance key" na "Emergency key".
+Zidisha nakala: moja kwa mthibitishaji wako, moja kwenye sefu ya benki, toleo moja la kidijitali lililosimbwa kwa njia fiche. wallet yako mpya sasa inaonekana kwenye kichupo cha Wallets ikiwa na lebo "Multi-key", "2 kati ya 3", "Inheritance key" na "Emergency key".
 
 
 
@@ -262,7 +261,7 @@ Canary Wallet ni mfumo wa tahadhari ya mapema. Wazo: kila ufunguo unaotumika kat
 
 
 
-Kuna njia mbili za kusanidi Wallet Canary. Kutoka kwenye kichupo cha **Zaidi**, bonyeza **Canary Pochi** katika sehemu ya "Funguo na Pochi". Skrini inaelezea kanuni: ikiwa mtu atafikia moja ya funguo zako na kupata pesa katika ufunguo mmoja wa wallet unaohusiana, atajaribu kuziondoa, ambazo zitakuarifu.
+Kuna njia mbili za kusanidi Wallet Canary. Kutoka kwenye kichupo cha **Zaidi**, bonyeza **Canary Wallets** katika sehemu ya "Funguo na Wallets". Skrini inaelezea kanuni: ikiwa mtu atafikia moja ya funguo zako na kupata pesa katika ufunguo mmoja wa wallet unaohusiana, atajaribu kuziondoa, ambazo zitakuarifu.
 
 
 
@@ -286,7 +285,7 @@ Weka kiasi kidogo (satoshi elfu chache) kwenye kila Canary Wallet. Ikiwa fedha h
 
 
 
-**Sambaza funguo kwa busara**. Kwa Wasajili wa Tap, zikabidhi kwenye bahasha iliyofungwa na PIN imewasilishwa kando (k.m. katika barua ya Maagizo ya Urejeshaji iliyohifadhiwa mahali pengine). Kwa pochi za vifaa vya kawaida, weka kifaa na mtu wa tatu anayeaminika na seed kwenye karatasi au chuma na wewe au mtu mwingine wa tatu. Andika alama ya kidole ya kila ufunguo na jina lake katika faili ya usanidi ili kuepuka mkanganyiko.
+**Sambaza funguo kwa busara**. Kwa Wasajili wa Tap, zikabidhi kwenye bahasha iliyofungwa na PIN imewasilishwa kando (k.m. katika barua ya Maagizo ya Urejeshaji iliyohifadhiwa mahali pengine). Kwa hardware wallets za kawaida, weka kifaa na mtu wa tatu anayeaminika na seed kwenye karatasi au chuma na wewe au mtu mwingine wa tatu. Andika alama ya kidole ya kila ufunguo na jina lake katika faili ya usanidi ili kuepuka mkanganyiko.
 
 
 
@@ -314,11 +313,11 @@ Licha ya nguvu ya zana hizi, ni muhimu kutambua mapungufu yake ili kuyadhibiti k
 
 
 
-**Utegemezi wa programu** unafaa kuzingatiwa. Ingawa msimbo huu ni chanzo huria na unategemea viwango huria (Miniscript, BSMS), utendaji fulani hutegemea mfumo ikolojia wa Mwekaji. Weka nakala ya programu (Android APK au iOS IPA) na uandike katika barua zako ili urithi uwezekano wa kutumia pochi zingine zinazolingana na Miniscript (kama vile Liana) ili kurejesha pesa.
+**Utegemezi wa programu** unafaa kuzingatiwa. Ingawa msimbo huu ni chanzo huria na unategemea viwango huria (Miniscript, BSMS), utendaji fulani hutegemea mfumo ikolojia wa Mwekaji. Weka nakala ya programu (Android APK au iOS IPA) na uandike katika barua zako ili urithi uwezekano wa kutumia wallets zingine zinazolingana na Miniscript (kama vile Liana) ili kurejesha pesa.
 
 
 
-Madalali wanaoaminika** huleta hatari kwa binadamu. Nini kitatokea ikiwa jamaa asiye na nia mbaya atatumia ufunguo aliokabidhiwa kabla ya tarehe ya mwisho? Au ikiwa wakili atapoteza hati zako? Chagua watu hawa kwa uangalifu, eleza majukumu yao waziwazi, na uwe na mpango B. Pochi za Canary, nakala rudufu na muundo wa multisig unabaki kuwa ulinzi wako bora dhidi ya hatari hizi.
+Madalali wanaoaminika** huleta hatari kwa binadamu. Nini kitatokea ikiwa jamaa asiye na nia mbaya atatumia ufunguo aliokabidhiwa kabla ya tarehe ya mwisho? Au ikiwa wakili atapoteza hati zako? Chagua watu hawa kwa uangalifu, eleza majukumu yao waziwazi, na uwe na mpango B. wallets za Canary, nakala rudufu na muundo wa multisig unabaki kuwa ulinzi wako bora dhidi ya hatari hizi.
 
 
 
@@ -326,7 +325,7 @@ Madalali wanaoaminika** huleta hatari kwa binadamu. Nini kitatokea ikiwa jamaa a
 
 
 
-Bitcoin Keeper, pamoja na mpango wake wa Diamond Hands, inatoa kisanduku kamili cha zana za kupanga mirathi: Vaults Zilizoboreshwa zenye funguo zilizopangwa kwa wakati, hati zinazoambatana, Pochi za Canary, na usaidizi wa kibinafsi.
+Bitcoin Keeper, pamoja na mpango wake wa Diamond Hands, inatoa kisanduku kamili cha zana za kupanga mirathi: Vaults Zilizoboreshwa zenye funguo zilizopangwa kwa wakati, hati zinazoambatana, wallets za Canary, na usaidizi wa kibinafsi.
 
 
 
