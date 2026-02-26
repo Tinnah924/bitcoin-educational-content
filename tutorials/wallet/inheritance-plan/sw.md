@@ -1,5 +1,5 @@
 ---
-name: Mpango wa urithi Bitcoin
+name: Inheritance-plan Bitcoin
 description: Jinsi ya kuhamisha bitcoins kwa wapendwa wako
 ---
 
@@ -7,35 +7,33 @@ description: Jinsi ya kuhamisha bitcoins kwa wapendwa wako
 
 
 
-Usambazaji wa bitcoins unawakilisha changamoto kubwa ya kiufundi ambayo wamiliki wengi hupuuza. Tofauti na mali za benki za kitamaduni, ambapo taasisi ya kifedha inaweza kuwasilisha fedha hizo kwa wamiliki halali, Bitcoin inafanya kazi bila wapatanishi. Wapendwa wako hawataweza kamwe kupata fedha zako bila taarifa muhimu za kiufundi, bila kujali uhalali wao wa kisheria.
+Usambazaji wa bitcoin unawakilisha changamoto kubwa ya kiufundi ambayo wamiliki wengi hupuuza. Tofauti na mali za benki za kitamaduni, ambapo taasisi ya kifedha inaweza kuwasilisha fedha hizo kwa wamiliki halali, Bitcoin inafanya kazi bila wapatanishi. Wapendwa wako hawataweza kamwe kupata fedha zako bila taarifa muhimu za kiufundi, bila kujali uhalali wao wa kisheria.
 
 
 
-Mafunzo haya yanakuongoza katika uundaji wa mpango wa kiufundi wa urithi. Utajifunza jinsi mifumo ya on-chain ya uwasilishaji otomatiki inavyofanya kazi, jinsi ya kurekodi usanidi wako, na jinsi ya kuchagua suluhisho sahihi ili kuhakikisha kuwa urithi wako wa Bitcoin unaendelea kufikiwa na wapendwa wako.
+Mafunzo haya yanakuongoza katika uundaji wa mpango wa kiufundi wa heritage. Utajifunza jinsi mifumo ya on-chain ya uwasilishaji wa kiotomatiki inavyofanya kazi, jinsi ya kurekodi usanidi wako, na jinsi ya kuchagua suluhisho sahihi ili kuhakikisha kuwa heritage wako wa Bitcoin unaendelea kufikiwa na wapendwa wako.
 
 
 
-## Kwa nini mpango wa urithi wa kiufundi ni muhimu
+## Kwa nini Inheritance-plan wa kiufundi ni muhimu
 
 
 
 Bitcoin inategemea kanuni ya msingi ya usimbaji fiche: yeyote anayeshikilia funguo za kibinafsi anadhibiti fedha. Uhuru huu unakuwa udhaifu mkubwa wakati mmiliki anapotea bila kusambaza taarifa muhimu.
 
 
-
-Mpango wa urithi wa Bitcoin lazima utimize malengo mawili yanayoonekana kupingana: kuruhusu wapendwa wako kupata fedha zako wakati utakapofika, huku ukimzuia mtu mwingine yeyote kuzipata mapema. Usawa huu maridadi unategemea uwezo asilia wa programu wa Bitcoin.
-
-
-
-Ugumu wa kiufundi huongeza ugumu zaidi. Warithi wako watalazimika kubadilisha dhana kama vile misemo ya urejeshaji, maelezo ya kwingineko, au njia za uundaji. Bila maandalizi ya kutosha, hata mrithi mwenye nia njema ana hatari ya kufanya makosa yasiyoweza kurekebishwa.
+Inheritance-plan ya Bitcoin lazima utimize malengo mawili yanayoonekana kupingana: kuruhusu wapendwa wako kupata fedha zako wakati utakapofika, huku ukimzuia mtu mwingine yeyote kuzipata mapema. Usawa huu maridadi unategemea uwezo asilia wa programu wa Bitcoin.
 
 
 
-## Jinsi urithi wa on-chain unavyofanya kazi
+Ugumu wa kiufundi huongeza changamoto zaidi. Warithi wako watalazimika kuelewa dhana kama vile misemo ya urejeshaji, maelezo ya wallet, au njia za uundaji. Bila maandalizi ya kutosha, hata mrithi mwenye nia njema yuko katika hatari ya kufanya makosa yasiyoweza kurekebishwa.
+
+
+## Jinsi Inheritance wa on-chain unavyofanya kazi
 
 
 
-Bitcoin hutumia lugha yake ya uandishi wa hati ili kusimba masharti ya matumizi moja kwa moja katika miamala. Urithi wa on-chain hutumia uwezo huu wa upangaji programu kuunda njia mbadala za urejeshaji zinazoamilishwa kiotomatiki.
+Bitcoin hutumia lugha yake ya uandishi wa hati ili kusimba masharti ya matumizi moja kwa moja katika miamala. Inheritance wa on-chain hutumia uwezo huu wa upangaji programu kuunda njia mbadala za urejeshaji zinazoamilishwa kiotomatiki.
 
 
 
@@ -43,7 +41,7 @@ Bitcoin hutumia lugha yake ya uandishi wa hati ili kusimba masharti ya matumizi 
 
 
 
-Kufunga kwa muda ndio utaratibu wa msingi wa urithi wa Bitcoin. Huwezesha fedha kufungwa hadi sharti la muda litimizwe.
+Kufunga kwa muda ndio utaratibu wa msingi wa Inheritance ya Bitcoin. Huwezesha fedha kufungwa hadi sharti la muda litimizwe.
 
 
 
@@ -59,7 +57,7 @@ Kufunga kwa muda ndio utaratibu wa msingi wa urithi wa Bitcoin. Huwezesha fedha 
 
 
 
-Kwingineko ya urithi huchanganya njia kadhaa za matumizi katika kila anwani:
+Kwingineko ya heritage huchanganya njia kadhaa za matumizi katika kila address:
 
 
 
@@ -78,11 +76,11 @@ Kila muamala unaofanywa na mmiliki "huburudisha" UTXO, na kuunda matokeo mapya y
 
 
 
-**Miniscript** ni lugha iliyopangwa iliyoundwa na Andrew Poelstra, Pieter Wuille na Sanket Kanjalkar ambayo hurahisisha kuandika na kuchanganua hati changamano za Bitcoin. Inakuwezesha kutunga masharti ya matumizi yanayoweza kusomeka na kuthibitishwa, muhimu kwa usanidi wa urithi unaohusisha funguo nyingi na muda wa kufunga.
+**Miniscript** ni lugha iliyopangwa iliyoundwa na Andrew Poelstra, Pieter Wuille na Sanket Kanjalkar ambayo hurahisisha kuandika na kuchanganua hati changamano za Bitcoin. Inakuwezesha kutunga masharti ya matumizi yanayoweza kusomeka na kuthibitishwa, muhimu kwa usanidi wa Inheritance unaohusisha funguo nyingi na muda wa kufunga.
 
 
 
-**Taproot** (iliyoamilishwa mnamo Novemba 2021) inaboresha kwa kiasi kikubwa urithi wa on-chain. Shukrani kwa muundo wake wa mti (MAST), ni hali ya matumizi tu inayotumika ndiyo inayofunuliwa kwenye blockchain. Ikiwa mmiliki anatumia fedha zake kawaida, hali ya urithi hubaki bila kuonekana. Usiri huu pia hupunguza gharama za miamala kwa njia changamano.
+**Taproot** (iliyoamilishwa mnamo Novemba 2021) inaboresha kwa kiasi kikubwa heritage wa on-chain. Shukrani kwa muundo wake wa mti (MAST), ni hali ya matumizi tu inayotumika ndiyo inayofunuliwa kwenye blockchain. Ikiwa mmiliki anatumia fedha zake kawaida, hali ya heritage hubaki bila kuonekana. Usiri huu pia hupunguza gharama za miamala kwa njia changamano.
 
 
 
@@ -113,7 +111,7 @@ Hebu tuchambue mfano huu:
 
 
 
-- `wsh()` : Hati ya Shahidi Hash, inaonyesha aina ya anwani (P2WSH)
+- `wsh()` : Hati ya Shahidi Hash, inaonyesha aina ya address (P2WSH)
 - or_d()`: "au" sharti lenye tawi chaguo-msingi
 - pk([alama ya vidole/njia]xpub...)`: Ufunguo mkuu wa umma wenye alama za vidole na njia ya uondoaji
 - na_v()`: "na" hali inayochanganya ufunguo wa kurejesha na muda wa kufunga
@@ -121,15 +119,15 @@ Hebu tuchambue mfano huu:
 
 
 
-**Bila kielezi, hata kwa vifungu vyote vya urejeshaji, warithi wako hawataweza kujenga upya jalada hilo.** Jalada la kawaida linaweza kurejeshwa tu kutoka seed kwa sababu linafuata njia sanifu za uondoaji (BIP44, BIP84). Jalada la zamani, kwa upande mwingine, hutumia hati maalum ambazo haziwezi kukisiwa. Hifadhi nakala rudufu ya kielezi (au faili ya usanidi inayosafirishwa na programu yako) lazima iambatane na vifungu vya urejeshaji katika mpango wako wa urithi.
+**Bila kielezi, hata kwa vifungu vyote vya urejeshaji, warithi wako hawataweza kujenga upya wallet hiyo.** Jalada la kawaida linaweza kurejeshwa tu kutoka seed kwa sababu linafuata njia sanifu za uondoaji (BIP44, BIP84). Legacy wallet, kwa upande mwingine, hutumia hati maalum ambazo haziwezi kukisiwa. Hifadhi nakala rudufu ya kielezi (au faili ya usanidi inayosafirishwa na programu yako) lazima iambatane na vifungu vya urejeshaji katika mpango wako wa heritage.
 
 
 
-## Vipengele vya hati vya mpango wa urithi
+## Vipengele vya hati vya Inheritance-plan
 
 
 
-Zaidi ya mifumo ya kiufundi, mpango wa zamani unaofaa unategemea nguzo tatu za uandishi wa hati.
+Zaidi ya mifumo ya kiufundi, mpango wa legacy unaofaa unategemea nguzo tatu za uandishi wa hati.
 
 
 
@@ -158,7 +156,7 @@ Barua hii pia ina maelezo ya mawasiliano ya mthibitishaji wako na eneo la wosia 
 
 
 
-### Saraka ya anwani zinazoaminika
+### Saraka ya address zinazoaminika
 
 
 
@@ -183,12 +181,12 @@ Kwa kila kwingineko, hati:
 
 
 
-- Aina ya kwingineko**: vifaa, programu, usanidi (sig moja, sig nyingi, legacy)
-- Mahali pa kifaa**: eneo halisi la vifaa vya wallet
-- Eneo la faili la Descriptor/usanidi**: muhimu kwa jalada za hali ya juu
-- Mahali pa kifungu cha urejeshaji**: tofauti na kielezi
-- Misimbo ya ufikiaji**: ambapo PIN na manenosiri huhifadhiwa
-- Ucheleweshaji uliowekwa**: wakati njia za kurejesha zinapowashwa
+- **Aina ya kwingineko**: vifaa, programu, usanidi (sig moja, sig nyingi, legacy)
+- **Mahali pa kifaa**: eneo halisi la vifaa vya wallet
+- **Eneo la faili la Descriptor/usanidi**: muhimu kwa jalada za hali ya juu
+- **Mahali pa kifungu cha urejeshaji**: tofauti na kielezi
+- **Misimbo ya ufikiaji**: ambapo PIN na manenosiri huhifadhiwa
+- **Ucheleweshaji uliowekwa**: wakati njia za kurejesha zinapowashwa
 
 
 
@@ -216,7 +214,7 @@ Liana ni programu ya kompyuta (Linux, macOS, Windows) inayotumia Miniscript kuun
 
 
 
-**Ujumuishaji wa vifaa vya wallet**: BitBox02, Blockstream Jade, Coldcard, Ledger, Specter DIY, na vifaa vingine vinaoana kwa ajili ya kusaini miamala.
+**Ujumuishaji wa hardware wallet**: BitBox02, Blockstream Jade, Coldcard, Ledger, Specter DIY, na vifaa vingine vinaoana kwa ajili ya kusaini miamala.
 
 
 
@@ -230,7 +228,7 @@ Bitcoin Keeper ni programu ya simu (iOS, Android) inayochanganya multisig na tim
 
 
 
-**Usanifu wa kiufundi**: Vaults Zilizoboreshwa hutumia Miniscript kuunda usanidi wa multisig ambapo funguo za ziada huamilishwa baada ya ucheleweshaji uliobainishwa. Ufunguo wa Urithi huongeza kwenye akidi iliyopo, huku Ufunguo wa Dharura ukiweza kukwepa multisig kabisa.
+**Usanifu wa kiufundi**: Vaults Zilizoboreshwa hutumia Miniscript kuunda usanidi wa multisig ambapo funguo za ziada huamilishwa baada ya ucheleweshaji uliobainishwa. Ufunguo wa Heritage huongeza kwenye akidi iliyopo, huku Ufunguo wa Dharura ukiweza kukwepa multisig kabisa.
 
 
 
@@ -246,7 +244,7 @@ https://planb.academy/tutorials/wallet/mobile/bitcoin-keeper-7f2a160b-10b6-4cc5-
 
 https://planb.academy/tutorials/wallet/backup/bitcoin-keeper-inheritance-c656a201-9587-4bf2-8cdb-acbd3c3631b4
 
-### Urithi
+### Heritage
 
 
 
@@ -254,7 +252,7 @@ Heritage ni programu ya kompyuta ya mezani inayotumia hati za Taproot kusimba ma
 
 
 
-**Usanifu wa kiufundi**: Kila anwani ya Urithi huunganisha njia kuu na njia mbadala kwa kila mrithi, pamoja na muda unaoendelea. Muundo wa kihierarkia hufanya iwezekane kufafanua nakala rudufu ya kibinafsi akiwa na miezi 6 na warithi wa familia akiwa na miezi 12-15.
+**Usanifu wa kiufundi**: Kila address ya Heritage huunganisha njia kuu na njia mbadala kwa kila mrithi, pamoja na muda unaoendelea. Muundo wa kihierarkia hufanya iwezekane kufafanua nakala rudufu ya kibinafsi akiwa na miezi 6 na warithi wa familia akiwa na miezi 12-15.
 
 
 
@@ -282,7 +280,7 @@ Mrithi anahitaji:
 1. **Faili ya maelezo au usanidi** wa jalada asilia (JSON au umbizo la maandishi, kulingana na programu)
 
 
-2. **Kifungu chake cha urejeshaji** (kile kinachohusishwa na ufunguo wake wa urithi, kwa kawaida maneno 12 au 24)
+2. **Kifungu chake cha urejeshaji** (kile kinachohusishwa na ufunguo wake wa heritage, kwa kawaida maneno 12 au 24)
 
 
 3. **Programu inayooana** (Liana, Bitcoin Keeper, Heritage, au Sparrow/Specter kwa maelezo ya kawaida)
@@ -299,10 +297,10 @@ Mrithi anahitaji:
 1. **Sakinisha programu** kwenye kifaa salama na usanidi muunganisho kwenye mtandao wa Bitcoin (nodi ya kibinafsi au seva ya Electrum)
 
 
-2. **Ingiza kielezi** ili kujenga upya muundo wa kwingineko. Programu itabadilisha kiotomatiki anwani zote zinazotumika kuwa generate
+2. **Ingiza kielezi** ili kujenga upya muundo wa kwingineko. Programu itabadilisha kiotomatiki address zote zinazotumika kuwa generate
 
 
-3. **Rejesha ufunguo wa urithi** kutoka kwa kifungu cha urejeshaji. Programu itahakikisha kwamba ufunguo huu unalingana na mojawapo ya funguo zilizoidhinishwa katika maelezo
+3. **Rejesha ufunguo wa heritage** kutoka kwa kifungu cha urejeshaji. Programu itahakikisha kwamba ufunguo huu unalingana na mojawapo ya funguo zilizoidhinishwa katika maelezo
 
 
 4. **Sawazisha kwingineko** ili kugundua UTXO zote na masharti ya matumizi yake
@@ -311,14 +309,14 @@ Mrithi anahitaji:
 5. **Angalia muda wa kufunga muda**: programu itaonyesha kwa kila UTXO ikiwa njia ya kurejesha data inafanya kazi
 
 
-6. **Unda muamala wa kurejesha** kwa anwani inayodhibitiwa pekee na mrithi (ikiwezekana wallet mpya)
+6. **Unda muamala wa kurejesha** kwa address inayodhibitiwa pekee na mrithi (ikiwezekana wallet mpya)
 
 
 7. **Saini na utangaze** muamala kwenye mtandao wa Bitcoin
 
 
 
-Ikiwa muda wa kufunga haujaisha, mrithi atalazimika kusubiri. Programu itaonyesha tarehe au kizuizi ambacho urejeshaji unawezekana. Katika kipindi hiki cha kusubiri, fedha hubaki salama kwenye blockchain.
+Ikiwa muda wa kufunga haujaisha, mrithi atalazimika kusubiri. Programu itaonyesha tarehe au block ambayo urejeshaji unawezekana. Katika kipindi hiki cha kusubiri, fedha hubaki salama kwenye blockchain.
 
 
 
@@ -331,10 +329,10 @@ Mrithi lazima azingatie hasa:
 
 
 
-- Angalia uhalisi wa programu iliyopakuliwa** (checksums, sahihi)
-- Kamwe usishiriki neno lako la kurejesha uwezo** na mtu yeyote anayetoa msaada
-- Wasiliana na angalau watu wawili unaowaamini** kabla ya kufanya uponaji
-- Hamisha fedha kwenye jalada rahisi** ambalo anadhibiti kikamilifu baada ya kurejesha pesa.
+- **Angalia uhalisi wa programu iliyopakuliwa** (checksums, sahihi)
+- **Kamwe usishiriki neno lako la kurejesha uwezo** na mtu yeyote anayetoa msaada
+- **Wasiliana na angalau watu wawili unaowaamini** kabla ya kufanya uponaji
+- **Hamisha fedha kwenye jalada rahisi** ambalo anadhibiti kikamilifu baada ya kurejesha pesa.
 
 
 
@@ -346,16 +344,14 @@ Mrithi lazima azingatie hasa:
 
 
 
-Usihifadhi taarifa zote mahali pamoja. Kielezi lazima kitenganishwe na vifungu vya urejeshaji, ambavyo hutenganishwa na misimbo ya PIN. Usambazaji huu unachanganya ufikiaji wa mshambuliaji huku ukibaki unapatikana tena na warithi wako halali.
-
+Usihifadhi taarifa zote mahali pamoja. Descriptor lazima itenganishwe na misemo ya urejeshaji, ambayo inapaswa kutenganishwa na misimbo ya PIN. Usambazaji huu unachanganya ufikiaji wa mshambuliaji huku ukibaki unapatikana tena kwa warithi wako halali.
 
 
 ### Vipimo vya kupona
 
 
 
-Kabla ya kuweka pesa nyingi, jaribu mchakato mzima wa urejeshaji kwa kiasi kidogo. Thibitisha kwamba unaweza kurejesha kwingineko kutoka kwa maelezo na vifungu vya urejeshaji kwenye kifaa tupu. Andika hatua kwa warithi wako.
-
+Kabla ya kuweka pesa nyingi, jaribu mchakato mzima wa urejeshaji kwa kiasi kidogo. Thibitisha kwamba unaweza kurejesha wallet kutoka kwa descriptor na misemo ya urejeshaji kwenye kifaa tupu. Andika hatua kwa warithi wako.
 
 
 ### Matengenezo ya muda
@@ -386,15 +382,15 @@ Chaguo kati ya suluhisho tofauti hutegemea wasifu wako wa kiufundi na mahitaji y
 
 
 
-**Bitcoin Keeper** inalenga watumiaji wa simu wanaotafuta kiolesura angavu chenye hati zilizounganishwa. Programu hii inatoa aina mbili za ufunguo maalum: Ufunguo wa Urithi (ambao huongeza idadi ya watu wanaohitajika) na Ufunguo wa Dharura (ambao hupita kabisa). Muda kamili wa kufunga (CLTV) huruhusu muda wa kuongoza kwa zaidi ya miezi 15, huku kipengele cha urekebishaji jumuishi kikirahisisha uboreshaji. Mpango wa Diamond Hands hufungua vipengele vya hali ya juu vya zamani.
+**Bitcoin Keeper** inalenga watumiaji wa simu wanaotafuta kiolesura angavu chenye hati zilizounganishwa. Programu hii inatoa aina mbili za ufunguo maalum: Ufunguo wa Heritage (ambao huongeza idadi ya watu wanaohitajika) na Ufunguo wa Dharura (ambao hupita kabisa). Muda kamili wa kufunga (CLTV) huruhusu muda wa kuongoza kwa zaidi ya miezi 15, huku kipengele cha urekebishaji jumuishi kikirahisisha uboreshaji. Mpango wa Diamond Hands hufungua vipengele vya hali ya juu vya zamani.
 
 
 
-**Urithi** unalenga watumiaji wa kiufundi wanaothamini usiri wa Taproot na urithi wa kihierarkia pamoja na ucheleweshaji unaoendelea. Muundo wa mti wa Taproot huficha hali za urithi wakati wa miamala ya kawaida, na kufichua tu hali inayotumika wakati wa urejeshaji.
+**Heritage** unalenga watumiaji wa kiufundi wanaothamini usiri wa Taproot na heritage wa kihierarkia pamoja na ucheleweshaji unaoendelea. Muundo wa mti wa Taproot huficha hali za heritage wakati wa miamala ya kawaida, na kufichua tu hali inayotumika wakati wa urejeshaji.
 
 
 
-Suluhisho zote tatu zina kitu kimoja kinachofanana: zinahitaji kusasisha mara kwa mara ili kuzuia uanzishaji wa njia za kurejesha mapema. Kizuizi hiki ni bei na dhamana ya urithi usioaminika wa on-chain. Panga vikumbusho vya mara kwa mara na ufanye matengenezo haya kuwa sehemu ya utaratibu wako wa usimamizi wa Bitcoin.
+Suluhisho zote tatu zina kitu kimoja kinachofanana: zinahitaji kusasisha mara kwa mara ili kuzuia uanzishaji wa njia za kurejesha mapema. Kizuizi hiki ni bei na dhamana ya heritage usioaminika wa on-chain. Panga vikumbusho vya mara kwa mara na ufanye matengenezo haya kuwa sehemu ya utaratibu wako wa usimamizi wa Bitcoin.
 
 
 
@@ -418,13 +414,13 @@ Anza kwa kuchagua suluhisho la kiufundi linalofaa wasifu wako, jaribu kwa kiasi 
 
 
 
-### Kiolezo cha mpango wa urithi
+### Kiolezo cha Inheritance-plan
 
 
 
 
 
-- [Kiolezo cha Mpango wa Urithi wa Bitcoin (PDF)](https://github.com/PlanB-Network/bitcoin-educational-content/blob/dev/resources/bet/seed-management-tools/assets/Bitcoin-Inheritance-Plan-Template.pdf) - Kiolezo cha Nyaraka cha Plan ₿ Academy
+- [Kiolezo cha Inheritance-plan ya Bitcoin (PDF)](https://github.com/PlanB-Network/bitcoin-educational-content/blob/dev/resources/bet/seed-management-tools/assets/Bitcoin-Inheritance-Plan-Template.pdf) - Kiolezo cha Nyaraka cha Plan ₿ Academy
 
 
 
@@ -448,4 +444,4 @@ Anza kwa kuchagua suluhisho la kiufundi linalofaa wasifu wako, jaribu kwa kiasi 
 
 - [Liana Wallet](https://wizardsardine.com/liana/) - Wizardsardine
 - [Bitcoin Keeper](https://bitcoinkeeper.app/) - Bithyve
-- [Urithi Wallet](https://btc-heritage.com/) - Crypto7
+- [Heritage Wallet](https://btc-heritage.com/) - Crypto7
