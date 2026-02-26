@@ -1,6 +1,6 @@
 ---
 name: Seedkeeper x SeedSigner
-description: Je, ninawezaje kutumia Mtunza mbegu kwa SeedSigner yangu?
+description: Je, ninawezaje kutumia Seedkeeper kwa SeedSigner yangu?
 ---
 
 ![cover](assets/cover.webp)
@@ -21,7 +21,7 @@ Mbinu hii, hata hivyo, inatoa hatari kubwa: seed lazima ibaki kupatikana kwa maa
 
 
 
-Ili kuondokana na udhaifu huu, SeedSigner inaweza kuunganishwa na [**Seedkeeper**](https://satochip.io/product/seedkeeper/), kadi mahiri iliyotengenezwa na Satochip. Hii huwezesha misemo ya mnemonic (au siri nyingine) kuhifadhiwa katika secure element inayolindwa na msimbo wa PIN. Appleti ya Mtunza mbegu ni chanzo huria, na secure element yake ina uthibitisho wa EAL6+. Ikitumiwa pamoja na SeedSigner, inatoa kipengele cha usalama kinachovutia sana: funguo zako zitabaki kusimamiwa nje ya mtandao, unatia sahihi miamala yako kwenye skrini inayoaminika, na seed inalindwa kimwili katika smartcard inayostahimili mashambulizi ya kimwili.
+Ili kuondokana na udhaifu huu, SeedSigner inaweza kuunganishwa na [**Seedkeeper**](https://satochip.io/product/seedkeeper/), kadi mahiri iliyotengenezwa na Satochip. Hii huwezesha misemo ya mnemonic (au siri nyingine) kuhifadhiwa katika secure element inayolindwa na msimbo wa PIN. Appleti ya Seedkeeper ni chanzo huria, na secure element yake ina uthibitisho wa EAL6+. Ikitumiwa pamoja na SeedSigner, inatoa kipengele cha usalama kinachovutia sana: funguo zako zitabaki kusimamiwa nje ya mtandao, unatia sahihi miamala yako kwenye skrini inayoaminika, na seed inalindwa kimwili katika smartcard inayostahimili mashambulizi ya kimwili.
 
 
 
@@ -32,7 +32,7 @@ Unachohitaji kukamilisha usakinishaji ni vitu vifuatavyo:
 
 - Vifaa vya kawaida vinavyohitajika kwa SeedSigner ya kawaida: Raspberry Pi Zero, skrini ya Waveshare inchi 1.3, kamera inayooana na kadi ya microSD (utapata maelezo zaidi katika mafunzo ya SeedSigner hapa chini);
 - SeedSigner extension kit, inapatikana [kwenye duka rasmi la Satochip](https://satochip.io/product/seedsigner-extension-kit/), ambayo hukuwezesha kusoma na kuandika kwa smartcard moja kwa moja kutoka kwa SeedSigner yako. Chaguo jingine ni kutumia kisoma kadi mahiri cha nje, ambacho kinaweza kuunganishwa kwa kebo kwenye bandari ndogo ya USB kwenye Raspberry Pi. Walakini, sijajaribu suluhisho hili mwenyewe;
-- Mlinzi wa Mbegu, au pengine kadi mahiri tupu ambayo kwayo unaweza kusakinisha programu-jalizi ya Seedkeeper (kifaa cha upanuzi kinachouzwa na Satochip tayari kinajumuisha smartcard tupu).
+- SeedKeeper, au pengine kadi mahiri tupu ambayo kwayo unaweza kusakinisha programu-jalizi ya Seedkeeper (kifaa cha upanuzi kinachouzwa na Satochip tayari kinajumuisha smartcard tupu).
 
 
 
@@ -56,7 +56,7 @@ https://planb.academy/tutorials/wallet/hardware/seedsigner-2b274bff-6fc8-407a-92
 
 
 
-Ili kutumia SeedSigner yako na Mtunza Mbegu, unahitaji kusakinisha programu mbadala, tofauti na ile ya SeedSigner asili, ili kusaidia usomaji wa kadi mahiri. Kwa hili, [ninapendekeza kutumia fork kutoka "*3rdIteration*"](https://github.com/3rdIteration/seedsigner). Pakua [toleo jipya zaidi la picha](https://github.com/3rdIteration/seedsigner/releases) (`.zip`) inayolingana na muundo wa Raspberry Pi unaotumia.
+Ili kutumia SeedSigner yako na seedkeeper, unahitaji kusakinisha programu mbadala, tofauti na ile ya SeedSigner asili, ili kusaidia usomaji wa kadi mahiri. Kwa hili, [ninapendekeza kutumia fork kutoka "*3rdIteration*"](https://github.com/3rdIteration/seedsigner). Pakua [toleo jipya zaidi la picha](https://github.com/3rdIteration/seedsigner/releases) (`.zip`) inayolingana na muundo wa Raspberry Pi unaotumia.
 
 
 
@@ -99,7 +99,7 @@ https://planb.academy/tutorials/wallet/hardware/seedsigner-2b274bff-6fc8-407a-92
 
 
 
-Anza kwa kusakinisha kamera kwenye Raspberry Pi Zero, ukiiingiza kwa makini kwenye pini ya kamera na kuifunga kwa kichupo cheusi. Kisha weka Pi kwenye sehemu ya chini ya kipochi, hakikisha kwamba milango imelinganishwa na fursa zinazolingana.
+Anza kwa kusakinisha kamera kwenye Raspberry Pi Zero, ukiiingiza kwa makini kwenye pini ya kamera na kuifunga kwa kichupo cheusi. Kisha weka Pi kwenye sehemu ya chini ya wallet, hakikisha kwamba milango imelinganishwa na fursa zinazolingana.
 
 
 
@@ -139,7 +139,7 @@ Hatimaye, ingiza kadi ya microSD iliyo na firmware kwenye bandari ya upande kwen
 
 
 
-Sasa unaweza kuunganisha SeedSigner yako kupitia bandari ndogo ya USB ya Raspberry Pi Zero, au kupitia mlango wa USB-C wa kiendelezi. Chaguzi zote mbili zinafanya kazi. Subiri sekunde chache kwa kuanza, kisha unapaswa kuona skrini ya kukaribisha ikionekana.
+Sasa unaweza kuunganisha SeedSigner yako kupitia bandari ndogo ya USB ya Raspberry Pi Zero, au kupitia mlango wa USB-C wa kiendelezi. Chaguzi zote mbili zinafanya kazi. Subiri sekunde chache ili ianze, kisha unapaswa kuona skrini ya kukaribisha ikionekana.
 
 
 
@@ -161,7 +161,7 @@ https://planb.academy/tutorials/wallet/hardware/seedsigner-2b274bff-6fc8-407a-92
 
 
 
-Ikiwa tayari unamiliki Mtunza Mbegu, unaweza kuruka hatua hii na kwenda moja kwa moja hadi hatua ya 4. Katika sehemu hii, tutaangalia jinsi ya kusakinisha programu-jalizi ya Mtunza mbegu kwenye kadi mahiri tupu (njia ya DIY).
+Ikiwa tayari unamiliki seedkeeper, unaweza kuruka hatua hii na kwenda moja kwa moja hadi hatua ya 4. Katika sehemu hii, tutaangalia jinsi ya kusakinisha programu-jalizi ya Seedkeeper kwenye kadi mahiri tupu (njia ya DIY).
 
 
 
@@ -213,7 +213,7 @@ Mara tu applet imesakinishwa kwa ufanisi, unaweza kuendelea hadi hatua ya 4.
 
 
 
-Kwa kuwa sasa Mtunza mbegu wako anafanya kazi, unaweza kuhifadhi kumbukumbu yako ya Bitcoin wallet kwenye kadi mahiri. Ili kuanza, washa SeedSigner yako kama kawaida, kisha changanua *SeedQR* ya wallet yako ili kuipakia kwenye kifaa. Mara baada ya seed kuingizwa, chagua tu `Nimemaliza`.
+Kwa kuwa sasa Seedkeeper yako inafanya kazi, unaweza kuhifadhi kumbukumbu yako ya Bitcoin wallet kwenye kadi mahiri. Ili kuanza, washa SeedSigner yako kama kawaida, kisha changanua *SeedQR* ya wallet yako ili kuipakia kwenye kifaa. Mara baada ya seed kuingizwa, chagua tu `Nimemaliza`.
 
 
 
@@ -245,7 +245,7 @@ Kisha SeedSigner itakuuliza uweke PIN msimbo wa Mkulima wako. Kwa vile hii ni ka
 
 
 
-SeedSigner hugundua kuwa Mtunza mbegu bado hajaanzishwa (yaani, hakuna nenosiri lililowekwa). Bofya `Naelewa` ili kuendelea.
+SeedSigner hugundua kuwa Seedkeeper bado hajaanzishwa (yaani, hakuna nenosiri lililowekwa). Bofya `Naelewa` ili kuendelea.
 
 
 
@@ -257,7 +257,7 @@ Sasa chagua PIN yako mpya ya Seedkeeper, kati ya herufi 4 na 16. Kwa usalama uli
 
 
 
-Kumbuka kuhifadhi PIN hii mara tu inapoundwa, ama katika kidhibiti kinachotegemewa cha nenosiri, au kwa njia tofauti ya kimwili kulingana na mkakati wako. Katika kesi ya pili, hakikisha kuwa huhifadhi kifaa chenye PIN mahali pamoja na Mtunza mbegu wako, vinginevyo ulinzi hautatumika. Ni muhimu kuwa na nakala mbadala: **Bila PIN hii, hutaweza kufikia seed yako, na bitcoins zako zitapotea**.
+Kumbuka kuhifadhi PIN hii mara tu inapoundwa, ama katika kidhibiti kinachotegemewa cha nenosiri, au kwa njia tofauti ya kimwili kulingana na mkakati wako. Katika kesi ya pili, hakikisha kuwa huhifadhi kifaa chenye PIN mahali pamoja na Seedkeeper yako, vinginevyo ulinzi hautatumika. Ni muhimu kuwa na nakala mbadala: **Bila PIN hii, hutaweza kufikia seed yako, na bitcoins zako zitapotea**.
 
 
 
@@ -265,7 +265,7 @@ Kumbuka kuhifadhi PIN hii mara tu inapoundwa, ama katika kidhibiti kinachotegeme
 
 
 
-Kisha unaweza kufafanua `Lebo` inayohusishwa na kishazi chako cha kumbukumbu. Lebo hii ni muhimu ikiwa utahifadhi siri kadhaa kwenye Mtunza mbegu, ili uweze kuzitambua kwa urahisi.
+Kisha unaweza kufafanua `Lebo` inayohusishwa na kishazi chako cha kumbukumbu. Lebo hii ni muhimu ikiwa utahifadhi siri kadhaa kwenye Seedkeeper, ili uweze kuzitambua kwa urahisi.
 
 
 
@@ -286,19 +286,19 @@ Kwa upande wa mkakati wa usalama, mbinu kadhaa zinawezekana, kulingana na mahita
 
 
 
-- Hii ni mara ya kwanza kwa kadi mahiri, ambazo unaweza kuziweka kwa urahisi kwa shughuli za kila siku, kama vile kuthibitisha anwani au kutia saini miamala. Njia hii ni ya vitendo (kama tutakavyoona katika sehemu ya 5) na inasalia kuwa salama kutokana na ulinzi unaotolewa na msimbo wa PIN, ili uweze kuifanya ipatikane bila hatari kubwa;
-- Nakala ya pili ya kifungu chako cha maneno cha mafumbo ambacho hakijasimbwa, kinachotumika kama hifadhi rudufu ya mwisho ya kwingineko yako, itatumika tu katika tukio la hasara au wizi wa Mlinzi wa Mbegu. Kwa vile toleo hili halijasimbwa, ni lazima liwekwe mahali tofauti, salama zaidi, ili kuzuia maelewano ya wakati mmoja ya nakala 2.
+- Hii ni mara ya kwanza kwa kadi mahiri, ambazo unaweza kuziweka kwa urahisi kwa shughuli za kila siku, kama vile kuthibitisha address au kutia saini miamala. Njia hii ni ya vitendo (kama tutakavyoona katika sehemu ya 5) na inasalia kuwa salama kutokana na ulinzi unaotolewa na msimbo wa PIN, ili uweze kuifanya ipatikane bila hatari kubwa;
+- Nakala ya pili ya kifungu chako cha maneno cha mafumbo ambacho hakijasimbwa, kinachotumika kama hifadhi rudufu ya mwisho ya kwingineko yako, itatumika tu katika tukio la hasara au wizi wa SeedKeeper. Kwa vile toleo hili halijasimbwa, ni lazima liwekwe mahali tofauti, salama zaidi, ili kuzuia maelewano ya wakati mmoja ya nakala 2.
 
 
 
-Kulingana na mkakati wako wa ulinzi na wasifu wa hatari, unaweza pia kunakili seed kwenye Watunza mbegu kadhaa tofauti, au kuunda nakala kadhaa halisi za kumbukumbu. Ili kujifunza zaidi kuhusu mazoea haya, angalia mafunzo yafuatayo:
+Kulingana na mkakati wako wa ulinzi na wasifu wa hatari, unaweza pia kunakili seed kwenye Seedkeeper kadhaa tofauti, au kuunda nakala kadhaa halisi za kumbukumbu. Ili kujifunza zaidi kuhusu mazoea haya, angalia mafunzo yafuatayo:
 
 
 
 https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
 
 
-## 5. Kupakia seed kutoka kwa Mtunza Mbegu
+## 5. Kupakia seed kutoka kwa seedkeeper
 
 
 
@@ -330,7 +330,7 @@ Ingiza Seedkeeper yako kwenye kisoma kadi mahiri, kisha uweke PIN yako ili kuifu
 
 
 
-Mtunza mbegu anaweza kuwa na siri kadhaa, kwa hivyo SeedSigner kisha inakuomba uchague ile unayotaka kupakia. Lebo iliyoonyeshwa inalingana na jina ulilofafanua katika hatua ya 4. Ikiwa, kama ilivyo kwangu, umesajili seed moja tu, chaguo moja tu litapatikana.
+Seedkeeper anaweza kuwa na siri kadhaa, kwa hivyo SeedSigner kisha inakuomba uchague ile unayotaka kupakia. Lebo iliyoonyeshwa inalingana na jina ulilofafanua katika hatua ya 4. Ikiwa, kama ilivyo kwangu, umesajili seed moja tu, chaguo moja tu litapatikana.
 
 
 
@@ -338,7 +338,7 @@ Mtunza mbegu anaweza kuwa na siri kadhaa, kwa hivyo SeedSigner kisha inakuomba u
 
 
 
-seed yako sasa imepakiwa. Hakikisha kuwa hii ndiyo wallet sahihi kwa kulinganisha alama ya vidole inayoonyeshwa kwenye skrini na ile iliyobainishwa katika mipangilio yako ya Sparrow Wallet. Alama hii ya vidole pia ilitolewa wakati wallet ilipoundwa mara ya kwanza.
+Seed yako sasa imepakiwa. Hakikisha kuwa hii ndiyo wallet sahihi kwa kulinganisha alama ya vidole inayoonyeshwa kwenye skrini na ile iliyobainishwa katika mipangilio yako ya Sparrow Wallet. Alama hii ya vidole pia ilitolewa wakati wallet ilipoundwa mara ya kwanza.
 
 
 
@@ -350,17 +350,17 @@ Ikiwa unatumia passphrase, unaweza kuitumia katika hatua hii (ona sehemu ya 6 ya
 
 
 
-Kisha unaweza kutumia wallet yako kama kawaida: angalia anwani zako za kuletewa na utie sahihi miamala, kama vile ulivyotumia SeedSigner ya kawaida. Ili kujua zaidi jinsi ya kuitumia, angalia mafunzo maalum:
+Kisha unaweza kutumia wallet yako kama kawaida: angalia address zako za kuletewa na utie sahihi miamala, kama vile ulivyotumia SeedSigner ya kawaida. Ili kujua zaidi jinsi ya kuitumia, angalia mafunzo maalum:
 
 
 
 https://planb.academy/tutorials/wallet/hardware/seedsigner-2b274bff-6fc8-407a-92d7-f6ec4d1fadfb
 
-## 6. Kutumia Mtunza mbegu mwenye passphrase BIP39
+## 6. Kutumia Seedkeeper mwenye passphrase BIP39
 
 
 
-Je, unatumia passphrase kulinda kwingineko yako ya Bitcoin? Unaweza pia kuisajili katika Mtunza mbegu wako, pamoja na seed yako. Suluhisho hili litakuwezesha kupakia kwa haraka wallet yako kwenye SeedSigner, bila kulazimika kuingiza mwenyewe passphrase kwenye vitufe vidogo kila wakati unapoitumia.
+Je, unatumia passphrase kulinda wallet yako ya Bitcoin? Unaweza pia kuisajili katika Seedkeeper yako, pamoja na seed yako. Suluhisho hili litakuwezesha kupakia kwa haraka wallet yako kwenye SeedSigner, bila kulazimika kuingiza mwenyewe passphrase kwenye vitufe vidogo kila wakati unapoitumia.
 
 
 
@@ -369,7 +369,7 @@ Ninaona njia hii ya kuvutia hasa, kwani inakuwezesha kufaidika na manufaa ya usa
 
 
 
-- Weka seed yako na passphrase kwenye Mtunza Mbegu, umelindwa na msimbo thabiti wa PIN (hii ni muhimu). Hifadhi rudufu hii itakuwezesha kutumia wallet yako kwa urahisi kila siku. Ukipenda, unaweza kunakili habari hii kwa Mtunza Mbegu wa pili;
+- Weka seed yako na passphrase kwenye seedkeeper, umelindwa na msimbo thabiti wa PIN (hii ni muhimu). Hifadhi rudufu hii itakuwezesha kutumia wallet yako kwa urahisi kila siku. Ukipenda, unaweza kunakili habari hii kwa seedkeeper wa pili;
 - Pia weka nakala wazi ya mnemonic yako na passphrase, kwenye karatasi au chuma. Hii ndiyo chaguo lako la mwisho ikiwa utapoteza Mkulima wako au PIN yake. Hakikisha kuhifadhi nakala hizi katika maeneo tofauti, ili zisiweze kuathiriwa kwa wakati mmoja.
 
 
@@ -378,7 +378,7 @@ Katika usanidi huu, ikiwa mtu atapata mkono wako kwenye maandishi yako ya kawaid
 
 
 
-Hatimaye, mtu akifanikiwa kupata ufikiaji wa kimwili kwa Mtunza mbegu wako aliye na seed na passphrase, hataweza kutoa chochote bila kujua PIN code. Tofauti na passphrase, msimbo huu hauwezi kulazimishwa kwa ukatili, kwani smartcard hujifunga kiotomatiki baada ya majaribio 5 batili.
+Hatimaye, mtu akifanikiwa kupata ufikiaji wa kimwili kwa Seedkeeper yako iliyo na seed na passphrase, hataweza kutoa chochote bila kujua PIN code. Tofauti na passphrase, msimbo huu hauwezi kulazimishwa kwa ukatili, kwani smartcard hujifunga kiotomatiki baada ya majaribio 5 batili.
 
 
 
@@ -387,8 +387,8 @@ Kwa hivyo usalama wa usanidi huu unategemea mambo mawili muhimu:
 
 
 
-- **passphrase yenye nguvu**: lazima iwe ndefu, nasibu na iwe na aina mbalimbali za wahusika. Ugumu wake sio shida kwako, kwani itabidi uiingize mara moja kwenye kibodi wakati wa uanzishaji; baadaye, itasambazwa na Mtunza Mbegu;
-- **Msimbo thabiti wa PIN** wa Mtunza mbegu: pia bila mpangilio na unajumuisha herufi 16.
+- **passphrase yenye nguvu**: lazima iwe ndefu, nasibu na iwe na aina mbalimbali za wahusika. Ugumu wake sio shida kwako, kwani itabidi uiingize mara moja kwenye kibodi wakati wa uanzishaji; baadaye, itasambazwa na seedkeeper;
+- **Msimbo thabiti wa PIN** wa Seedkeeper: pia bila mpangilio na unajumuisha herufi 16.
 
 
 
@@ -406,7 +406,7 @@ Mara tu kwingineko yako iliyo na passphrase imepakiwa kwa usahihi kwenye SeedSig
 
 
 
-Kisha ubofye `Backup Seed`, ingiza Kiweka Mbegu kwenye kiendeshi, na uchague `To SeedKeeper`.
+Kisha ubofye `Backup Seed`, ingiza SeedKeeper kwenye kiendeshi, na uchague `To SeedKeeper`.
 
 
 
@@ -414,7 +414,7 @@ Kisha ubofye `Backup Seed`, ingiza Kiweka Mbegu kwenye kiendeshi, na uchague `To
 
 
 
-Weka PIN yako ili kumfungulia Mtunza mbegu, kisha weka lebo kwa siri hii. Unaweza kuacha alama ya kidole kama lebo ili kudumisha aina fulani ya ukanusho unaokubalika, au sema kwa uwazi `Nenosiri Wallet`, kwa mfano.
+Weka PIN yako ili kumfungulia Seedkeeper, kisha weka lebo kwa siri hii. Unaweza kuacha alama ya kidole kama lebo ili kudumisha kiwango fulani cha ukanusho unaokubalika, au sema kwa uwazi Nenosiri Wallet, kwa mfano.
 
 
 
@@ -430,7 +430,7 @@ Malipo yako ya passphrase sasa yamesajiliwa kwenye Seedkeeper.
 
 
 
-Wakati mwingine unapoanzisha, ingiza tu Mtunza mbegu wako kwenye hifadhi, kisha uende kwenye `Seeds > From SeedKeeper`.
+Wakati mwingine unapoanzisha, ingiza tu Seedkeeper yako kwenye hifadhi, kisha uende kwenye `Seeds > From SeedKeeper`.
 
 
 
@@ -490,9 +490,9 @@ Katika menyu ya `Zana > Zana za Smartcard`, utapata chaguzi kadhaa za kudhibiti 
 
 
 - Katika menyu ya `Zana za DIY`, unaweza:
- - Kukusanya applet ya Mtunza mbegu;
+ - Kukusanya applet ya Seedkeeper;
  - Sakinisha applet kwenye kadi tupu;
- - Futa applet ya Mtunza mbegu ili kuiweka upya na kuifanya iwe wazi tena.
+ - Futa applet ya Seedkeeper ili kuiweka upya na kuifanya iwe wazi tena.
 
 
 
