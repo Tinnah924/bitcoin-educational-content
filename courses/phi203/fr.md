@@ -16,7 +16,7 @@ objectives:
 
 
 
-Ce cours explore la liberté en tant que projet social, en s'appuyant sur la riche tradition libérale française des XVIIIe et XIXe siècles. A travers les écrits de penseurs tels que Frédéric Bastiat, Gustave de Molinari, Paul Leroy-Beaulieu, Benjamin Constant et Charles Dunoyer, vous découvrirez comment la liberté n'est pas une utopie abstraite, mais est profondément enracinée dans les faits de l'existence humaine.
+Ce cours explore la liberté en tant que projet social, en s'appuyant sur la riche tradition libérale française des XVIIIe et XIXe siècles. À travers les écrits de penseurs tels que Frédéric Bastiat, Gustave de Molinari, Paul Leroy-Beaulieu, Benjamin Constant et Charles Dunoyer, vous découvrirez comment la liberté n'est pas une utopie abstraite, mais est profondément enracinée dans les faits de l'existence humaine.
 
 
 
@@ -44,7 +44,7 @@ Prêt à découvrir pourquoi la liberté n'est pas seulement un idéal moral, ma
 Bienvenue dans ce nouveau cours, je suis heureux que vous ayez pu le suivre.
 
 
-Pourquoi intituler ce cours *La liberté en tant que projet social* ? Parce que **la liberté n'est pas une utopie abstraite imaginée par des théoriciens déconnectés. La tradition libérale française des XVIIIe et XIXe siècles, des physiocrates et de Turgot à Frédéric Bastiat, Gustave de Molinari, Benjamin Constant et Paul Leroy-Beaulieu, a construit un édifice intellectuel extraordinaire sur cette idée. Leurs œuvres, longtemps enfouies sous des décennies de consensus interventionniste, méritent d'être redécouvertes.
+Pourquoi intituler ce cours *La liberté en tant que projet social* ? Parce que **la liberté n'est pas une utopie abstraite imaginée par des théoriciens déconnectés.** La tradition libérale française des XVIIIe et XIXe siècles, des physiocrates et de Turgot à Frédéric Bastiat, Gustave de Molinari, Benjamin Constant et Paul Leroy-Beaulieu, a construit un édifice intellectuel extraordinaire sur cette idée. Leurs œuvres, longtemps enfouies sous des décennies de consensus interventionniste, méritent d'être redécouvertes.
 
 
 Ce cours, développé par l'Institut Coppet et présenté par Benoît Malbranc, vous invite à un voyage à travers les fondements, l'histoire et les mécanismes pratiques de la liberté. Nous ne nous contenterons pas de définir la liberté dans l'abstrait, nous l'ancrerons dans les réalités concrètes de l'existence humaine, nous retracerons sa conquête progressive à travers les siècles et nous confronterons les sophismes qui ont été déployés pour justifier sa suppression.
@@ -58,10 +58,10 @@ Pourquoi consacrer du temps à l'étude des penseurs libéraux français des XVI
 
 
 - Lorsque quelqu'un affirme que l'État devrait réglementer les prix, protéger les industries ou redistribuer les richesses, vous serez en mesure d'identifier les coûts cachés et les sophismes derrière ces propositions, en utilisant la méthode de Bastiat de *ce qu'on voit et ce qu'on ne voit pas*.
-- Comprendre l'origine de vos droits** La propriété, la liberté d'expression, la liberté de travail : ce ne sont pas des cadeaux de l'État. Vous découvrirez qu'ils découlent de faits observables sur la nature humaine, des faits qu'aucun décret ne peut annuler.
+- **Comprendre l'origine de vos droits.** La propriété, la liberté d'expression, la liberté de travail : ce ne sont pas des cadeaux de l'État. Vous découvrirez qu'ils découlent de faits observables sur la nature humaine, des faits qu'aucun décret ne peut annuler.
 - Les politiciens et les intellectuels ont toujours utilisé des sophismes pour justifier l'expansion de leur pouvoir à vos dépens. Ce cours répertorie les plus courants et vous apprend à les démonter.
 - La marche de l'esclavage et du servage vers la liberté individuelle est l'histoire centrale de la civilisation humaine. Comprendre cette trajectoire vous permet d'évaluer si une politique proposée nous fait avancer ou reculer.
-- Appliquer les principes libéraux dans la pratique.** Du droit des contrats et de la banque libre à l'éducation et au commerce international, les penseurs de ce cours ont proposé des alternatives concrètes qui restent remarquablement pertinentes aujourd'hui.
+- **Appliquer les principes libéraux dans la pratique.** Du droit des contrats et de la banque libre à l'éducation et au commerce international, les penseurs de ce cours ont proposé des alternatives concrètes qui restent remarquablement pertinentes aujourd'hui.
 
 
 En bref, ce cours vous dote d'une boîte à outils intellectuelle pour naviguer dans les débats politiques, économiques et sociaux de notre époque, fondée non pas sur l'idéologie mais sur des faits observés et un raisonnement rigoureux.
@@ -73,19 +73,19 @@ En bref, ce cours vous dote d'une boîte à outils intellectuelle pour naviguer 
 Le cours est organisé en cinq parties :
 
 
-**Nous commençons par les faits humains qui donnent naissance à la liberté et à la propriété : l'existence corporelle, la finitude des ressources, l'individualité des perceptions, la propriété de soi et les limites naturelles de la raison. De ces faits découlent la liberté de pensée, la liberté de la presse, la liberté du travail, le principe de non-agression et les contradictions internes de tous les systèmes de contrainte.
+**Nous commençons par les faits humains qui donnent naissance à la liberté et à la propriété : l'existence corporelle, la finitude des ressources, l'individualité des perceptions, la propriété de soi et les limites naturelles de la raison. De ces faits découlent la liberté de pensée, la liberté de la presse, la liberté du travail, le principe de non-agression et les contradictions internes de tous les systèmes de contrainte.**
 
 
-**Nous retracerons ensuite la longue marche de la liberté depuis le communisme préhistorique jusqu'à l'abolition de l'esclavage et du servage, en examinant comment le progrès technique et intellectuel a progressivement remplacé l'autorité par le contrat. Nous verrons pourquoi l'histoire des civilisations est, au fond, l'histoire de l'émancipation.
+**Nous retracerons ensuite la longue marche de la liberté depuis le communisme préhistorique jusqu'à l'abolition de l'esclavage et du servage, en examinant comment le progrès technique et intellectuel a progressivement remplacé l'autorité par le contrat. Nous verrons pourquoi l'histoire des civilisations est, au fond, l'histoire de l'émancipation.**
 
 
-**Nous explorons ici les mécanismes concrets d'une société libre : l'autogestion, la production et l'échange, le rôle des profits et des prix, l'harmonie des intérêts et les échecs structurels de la non-liberté, de la fiscalité et du protectionnisme à l'effondrement programmé de la planification centrale.
+**Nous explorons ici les mécanismes concrets d'une société libre : l'autogestion, la production et l'échange, le rôle des profits et des prix, l'harmonie des intérêts et les échecs structurels de la non-liberté, de la fiscalité et du protectionnisme à l'effondrement programmé de la planification centrale.**
 
 
-**Les ennemis de la liberté ne s'appuient pas uniquement sur la force, ils s'appuient sur des sophismes. Nous disséquerons les sophismes intellectuels, démocratiques, économiques, sociaux et internationaux qui soutiennent les systèmes de contrainte, en suivant la méthode dévastatrice de Bastiat qui consiste à exposer ce qui est vu et ce qui n'est pas vu.
+**Les ennemis de la liberté ne s'appuient pas uniquement sur la force, ils s'appuient sur des sophismes. Nous disséquerons les sophismes intellectuels, démocratiques, économiques, sociaux et internationaux qui soutiennent les systèmes de contrainte, en suivant la méthode dévastatrice de Bastiat qui consiste à exposer ce qui est vu et ce qui n'est pas vu.**
 
 
-**Enfin, nous esquissons un programme de liberté : liberté de contrat et d'emploi, réduction des pouvoirs de l'État, alternatives libérales à l'État-providence, autonomie individuelle, droit de sécession et voie vers une sécurité internationale fondée sur le droit plutôt que sur la domination.
+**Enfin, nous esquissons un programme de liberté : liberté de contrat et d'emploi, réduction des pouvoirs de l'État, alternatives libérales à l'État-providence, autonomie individuelle, droit de sécession et voie vers une sécurité internationale fondée sur le droit plutôt que sur la domination.**
 
 
 Tout au long de ces leçons, nous laisserons les grands penseurs s'exprimer avec leurs propres mots. Bastiat, Molinari, Constant, Tocqueville, Leroy-Beaulieu, Destutt de Tracy, leurs arguments restent aussi puissants aujourd'hui que lorsqu'ils ont été écrits. Les défis qu'ils ont relevés, le protectionnisme, la fiscalité excessive, le despotisme démocratique, l'illusion de la planification centrale, sont précisément les défis auxquels nous sommes confrontés au XXIe siècle.
@@ -94,16 +94,16 @@ Tout au long de ces leçons, nous laisserons les grands penseurs s'exprimer avec
 Plongeons dans le vif du sujet.
 
 
-## A propos de l'auteur et des références
+## À propos de l'auteur et des références
 
 
 <chapterId>37f4b0d0-7aaa-4009-836a-d401c3c12907</chapterId>
 
 
-### A propos de l'auteur du cours
+### À propos de l'auteur du cours
 
 
-Ce cours a été développé par **[Benoît Malbranque](https://planb.academy/professors/benoit-malbranque)**, directeur de l'Institut Coppet, la principale institution consacrée à la redécouverte et à la publication de la tradition libérale française. Au cours de la dernière décennie, l'Institut Coppet a réédité des dizaines d'ouvrages des XVIIIe et XIXe siècles qui étaient tombés dans un oubli quasi total. Malbranque est l'auteur du [*Dictionnaire de la tradition libérale française*] (https://planb.academy/resources/books/dictionnaire-tradition-liberale-francaise-0b3b933f-4305-4c07-86ef-e64ff97a4851) et l'éditeur de nombreuses éditions critiques de Bastiat, Molinari, Leroy-Beaulieu et d'autres. Sa profonde familiarité avec ces sources primaires confère à ce cours une authenticité unique : vous n'apprendrez pas seulement "sur" ces penseurs, vous les lirez dans leurs propres mots.
+Ce cours a été développé par **[Benoît Malbranque](https://planb.academy/professors/benoit-malbranque)**, directeur de l'Institut Coppet, la principale institution consacrée à la redécouverte et à la publication de la tradition libérale française. Au cours de la dernière décennie, l'Institut Coppet a réédité des dizaines d'ouvrages des XVIIIe et XIXe siècles qui étaient tombés dans un oubli quasi total. Malbranque est l'auteur du [*Dictionnaire de la tradition libérale française*](https://planb.academy/resources/books/dictionnaire-tradition-liberale-francaise-0b3b933f-4305-4c07-86ef-e64ff97a4851) et l'éditeur de nombreuses éditions critiques de Bastiat, Molinari, Leroy-Beaulieu et d'autres. Sa profonde familiarité avec ces sources primaires confère à ce cours une authenticité unique : vous n'apprendrez pas seulement "sur" ces penseurs, vous les lirez dans leurs propres mots.
 
 
 ![Benoît Malbranque, Dictionnaire de la tradition libérale française](assets/en/076.webp)
@@ -132,64 +132,64 @@ Le cours s'appuie sur un ensemble remarquable de sources primaires, presque excl
 
 
 
-- [Lettre d'un négociant sur la nature du commerce des grains (1763)] (https://planb.academy/resources/books/lettre-negociant-commerce-grains-c9ae04c1-d19d-409d-aa37-d6498aafde59)
+- [Lettre d'un négociant sur la nature du commerce des grains (1763)](https://planb.academy/resources/books/lettre-negociant-commerce-grains-c9ae04c1-d19d-409d-aa37-d6498aafde59)
 
 
 **Frédéric Bastiat** (1801-1850)
 
 
 
-- [Oeuvres Complètes (7 volumes)] (https://planb.academy/resources/books/bastiat-oeuvres-completes-765be39c-134a-4333-8b4b-e45a4fff7e73)
-- [Sophismes économiques (1845)] (https://planb.academy/resources/books/sophismes-economiques-9ccb727f-d253-4188-9cc6-74c1e6ce6a16)
-- [Harmonies économiques (1850)] (https://planb.academy/resources/books/harmonies-economiques-66561d29-feb2-495c-815d-cea521b1930c)
-- [Ce qu'on voit et ce qu'on ne voit pas (1850)] (https://planb.academy/resources/books/ce-quon-voit-et-ce-quon-ne-voit-pas-8eaa83b8-738a-49b9-a29e-fb48b8668fcf)
+- [Oeuvres Complètes (7 volumes)](https://planb.academy/resources/books/bastiat-oeuvres-completes-765be39c-134a-4333-8b4b-e45a4fff7e73)
+- [Sophismes économiques (1845)](https://planb.academy/resources/books/sophismes-economiques-9ccb727f-d253-4188-9cc6-74c1e6ce6a16)
+- [Harmonies économiques (1850)](https://planb.academy/resources/books/harmonies-economiques-66561d29-feb2-495c-815d-cea521b1930c)
+- [Ce qu'on voit et ce qu'on ne voit pas (1850)](https://planb.academy/resources/books/ce-quon-voit-et-ce-quon-ne-voit-pas-8eaa83b8-738a-49b9-a29e-fb48b8668fcf)
 - [La Loi (1850)](https://planb.academy/resources/books/la-loi-3f2e33c3-3d68-4561-b02c-84ecc94dd1a0)
 - [Cobden et la Ligue (1845)](https://planb.academy/resources/books/cobden-et-la-ligue-292d6271-1829-496a-992b-c0ca08138110)
-- [Le Libre-Échange] (https://planb.academy/resources/books/le-libre-echange-a5e85b0e-ca10-4210-afa5-19016bc35799)
+- [Le Libre-Échange](https://planb.academy/resources/books/le-libre-echange-a5e85b0e-ca10-4210-afa5-19016bc35799)
 
 
 **Henri Baudrillart**
 
 
 
-- [La Liberté du Travail] (https://planb.academy/resources/books/la-liberte-du-travail-baudrillart-d529a769-833f-4d4a-94ea-71482d8680c7)
-- [La Liberté du Travail, l'Association et la Démocratie] (https://planb.academy/resources/books/la-liberte-du-travail-association-democratie-b5164580-430f-4491-95f3-9ad3fabd51a0)
+- [La Liberté du Travail](https://planb.academy/resources/books/la-liberte-du-travail-baudrillart-d529a769-833f-4d4a-94ea-71482d8680c7)
+- [La Liberté du Travail, l'Association et la Démocratie](https://planb.academy/resources/books/la-liberte-du-travail-association-democratie-b5164580-430f-4491-95f3-9ad3fabd51a0)
 
 
 **Nicolas Baudeau**
 
 
 
-- [Oeuvres] (https://planb.academy/resources/books/baudeau-oeuvres-ef3e25fd-b0b6-439d-9bf9-461772abce26)
+- [Oeuvres](https://planb.academy/resources/books/baudeau-oeuvres-ef3e25fd-b0b6-439d-9bf9-461772abce26)
 
 
 **Gustave de Beaumont** (1802-1866)
 
 
 
-- [Marie ou l'Esclavage aux États-Unis] (https://planb.academy/resources/books/marie-esclavage-etats-unis-db2d05b6-24ae-4d47-b252-493d6c3c09ef)
+- [Marie ou l'Esclavage aux États-Unis](https://planb.academy/resources/books/marie-esclavage-etats-unis-db2d05b6-24ae-4d47-b252-493d6c3c09ef)
 
 
 **Pierre de Boisguilbert** (1646-1714)
 
 
 
-- [Écrits Économiques / Détail de la France (1695)] (https://planb.academy/resources/books/detail-de-la-france-bc806d78-d4dd-4fab-9a6c-0274092a9f50)
+- [Écrits Économiques / Détail de la France (1695)](https://planb.academy/resources/books/detail-de-la-france-bc806d78-d4dd-4fab-9a6c-0274092a9f50)
 
 
 **P.J.G. Cabanis**
 
 
 
-- [Rapports du Physique et du Moral de l'Homme (1802)] (https://planb.academy/resources/books/rapports-physique-moral-homme-7010e4d4-fe97-4672-91bf-6e3938464b1d)
+- [Rapports du Physique et du Moral de l'Homme (1802)](https://planb.academy/resources/books/rapports-physique-moral-homme-7010e4d4-fe97-4672-91bf-6e3938464b1d)
 
 
 **Charles-Irénée Castel de Saint-Pierre** (1658-1743)
 
 
 
-- [Projet pour rendre la paix perpétuelle en Europe (1713)] (https://planb.academy/resources/books/projet-paix-perpetuelle-europe-a9a43e52-3bab-4835-901a-f359c21afc87)
-- [Projet pour perfectionner le commerce (1735)] (https://planb.academy/resources/books/projet-perfectionner-commerce-f4123249-b5ca-446e-8514-aedef76dbdf3)
+- [Projet pour rendre la paix perpétuelle en Europe (1713)](https://planb.academy/resources/books/projet-paix-perpetuelle-europe-a9a43e52-3bab-4835-901a-f359c21afc87)
+- [Projet pour perfectionner le commerce (1735)](https://planb.academy/resources/books/projet-perfectionner-commerce-f4123249-b5ca-446e-8514-aedef76dbdf3)
 
 
 **Charles Comte** (1782-1837)
@@ -197,63 +197,63 @@ Le cours s'appuie sur un ensemble remarquable de sources primaires, presque excl
 
 
 - [Traité de Législation (1827)](https://planb.academy/resources/books/traite-de-legislation-90216321-9a58-49d9-b4d8-f78c61b1cb68)
-- [Traité de la Propriété (1834)] (https://planb.academy/resources/books/traite-de-la-propriete-80de2b10-5ea1-4fb6-b9c7-b52b312bfa05)
-- [Cours de droit naturel (~1830)] (https://planb.academy/resources/books/cours-droit-naturel-78a371b6-796b-4ebe-bb8a-54cc64f38b57)
+- [Traité de la Propriété (1834)](https://planb.academy/resources/books/traite-de-la-propriete-80de2b10-5ea1-4fb6-b9c7-b52b312bfa05)
+- [Cours de droit naturel (~1830)](https://planb.academy/resources/books/cours-droit-naturel-78a371b6-796b-4ebe-bb8a-54cc64f38b57)
 
 
 **Condorcet** (1743-1794)
 
 
 
-- [Esquisse d'un Tableau Historique des Progrès de l'Esprit Humain] (https://planb.academy/resources/books/esquisse-tableau-historique-progres-esprit-humain-ab87cd62-445d-4620-a3ad-7af31ba17c3f)
+- [Esquisse d'un Tableau Historique des Progrès de l'Esprit Humain](https://planb.academy/resources/books/esquisse-tableau-historique-progres-esprit-humain-ab87cd62-445d-4620-a3ad-7af31ba17c3f)
 
 
 **Benjamin Constant** (1767-1830)
 
 
 
-- [Principes de politique applicables à tous les gouvernements (1815)] (https://planb.academy/resources/books/principes-de-politique-282bc3de-f218-4103-903a-5280d7b99108)
-- [De la liberté des anciens comparée à celle des modernes (1819)] (https://planb.academy/resources/books/liberte-anciens-modernes-dbb9dcca-de4e-4d41-a7bf-4d26f26eba83)
-- [Commentaire sur l'ouvrage de Filangieri (1822)] (https://planb.academy/resources/books/commentaire-filangieri-8c7eb7d7-a94f-4a7c-b2d2-846e6052ad14)
+- [Principes de politique applicables à tous les gouvernements (1815)](https://planb.academy/resources/books/principes-de-politique-282bc3de-f218-4103-903a-5280d7b99108)
+- [De la liberté des anciens comparée à celle des modernes (1819)](https://planb.academy/resources/books/liberte-anciens-modernes-dbb9dcca-de4e-4d41-a7bf-4d26f26eba83)
+- [Commentaire sur l'ouvrage de Filangieri (1822)](https://planb.academy/resources/books/commentaire-filangieri-8c7eb7d7-a94f-4a7c-b2d2-846e6052ad14)
 
 
 **Charles Coquelin** (1802-1852)
 
 
 
-- [Du crédit et des banques (1848)] (https://planb.academy/resources/books/du-credit-et-des-banques-4a34b98d-feda-4228-bf48-e14df159cf11)
-- [Dictionnaire de l'Économie Politique (1852)] (https://planb.academy/resources/books/dictionnaire-economie-politique-133b07d0-a058-44cb-a1fa-b58609e9b4a5)
+- [Du crédit et des banques (1848)](https://planb.academy/resources/books/du-credit-et-des-banques-4a34b98d-feda-4228-bf48-e14df159cf11)
+- [Dictionnaire de l'Économie Politique (1852)](https://planb.academy/resources/books/dictionnaire-economie-politique-133b07d0-a058-44cb-a1fa-b58609e9b4a5)
 
 
 **Courcelle-Seneuil**
 
 
 
-- [La Banque libre (1867)] (https://planb.academy/resources/books/la-banque-libre-cddc59e1-3778-4feb-b2c2-735dc18433b2)
+- [La Banque libre (1867)](https://planb.academy/resources/books/la-banque-libre-cddc59e1-3778-4feb-b2c2-735dc18433b2)
 
 
 **Antoine Destutt de Tracy** (1754-1836)
 
 
 
-- [Traité de la Volonté et de ses Effets (1815)] (https://planb.academy/resources/books/traite-volonte-effets-2b6c8688-ecd7-412a-96d9-e8efaabb81b8)
-- [De l'amour] (https://planb.academy/resources/books/de-lamour-destutt-de-tracy-daf11bb0-4959-4cf6-9456-1a86d941a4ef)
-- [Commentaire sur l'Esprit des lois (1819)] (https://planb.academy/resources/books/commentaire-esprit-des-lois-7f3a37a4-e731-4415-8308-21daf4a689c7)
+- [Traité de la Volonté et de ses Effets (1815)](https://planb.academy/resources/books/traite-volonte-effets-2b6c8688-ecd7-412a-96d9-e8efaabb81b8)
+- [De l'amour](https://planb.academy/resources/books/de-lamour-destutt-de-tracy-daf11bb0-4959-4cf6-9456-1a86d941a4ef)
+- [Commentaire sur l'Esprit des lois (1819)](https://planb.academy/resources/books/commentaire-esprit-des-lois-7f3a37a4-e731-4415-8308-21daf4a689c7)
 
 
 **Charles Dunoyer** (1786-1862)
 
 
 
-- [L'industrie et la morale considérées dans leurs rapports avec la liberté (1825)] (https://planb.academy/resources/books/industrie-morale-liberte-0ce13a70-e72b-4c5c-b527-fdb9b0a60aae)
-- [De la liberté du travail (1845)] (https://planb.academy/resources/books/de-la-liberte-du-travail-edf7f393-d110-4a18-96f4-fcc477f0b49c)
+- [L'industrie et la morale considérées dans leurs rapports avec la liberté (1825)](https://planb.academy/resources/books/industrie-morale-liberte-0ce13a70-e72b-4c5c-b527-fdb9b0a60aae)
+- [De la liberté du travail (1845)](https://planb.academy/resources/books/de-la-liberte-du-travail-edf7f393-d110-4a18-96f4-fcc477f0b49c)
 
 
 **Pierre Samuel Du Pont de Nemours** (1739-1817)
 
 
 
-- [Recueil d'œuvres] (https://planb.academy/resources/books/dupont-de-nemours-oeuvres-d4f27f13-3547-471d-a973-e08d3a95ede7)
+- [Recueil d'œuvres](https://planb.academy/resources/books/dupont-de-nemours-oeuvres-d4f27f13-3547-471d-a973-e08d3a95ede7)
 
 
 **Yves Guyot** (1843-1928)
@@ -261,107 +261,107 @@ Le cours s'appuie sur un ensemble remarquable de sources primaires, presque excl
 
 
 - [L'Inventeur (1867)](https://planb.academy/resources/books/linventeur-778169ff-cf16-4c9f-9be9-62c783c810bb)
-- [La Propriété : Origine et Évolution (1895)] (https://planb.academy/resources/books/la-propriete-origine-evolution-72a0dd96-c0ed-4120-ba81-6c60ceb27b56)
-- [La Tyrannie collectiviste (1893)] (https://planb.academy/resources/books/la-tyrannie-collectiviste-ebe666d6-3a27-4b6e-8fd3-74729817652c)
+- [La Propriété : Origine et Évolution (1895)](https://planb.academy/resources/books/la-propriete-origine-evolution-72a0dd96-c0ed-4120-ba81-6c60ceb27b56)
+- [La Tyrannie collectiviste (1893)](https://planb.academy/resources/books/la-tyrannie-collectiviste-ebe666d6-3a27-4b6e-8fd3-74729817652c)
 
 
 **Édouard Laboulaye**
 
 
 
-- [Le Parti libéral] (https://planb.academy/resources/books/le-parti-liberal-d4b76768-dd14-4f21-8a18-23598ed0cca3)
-- [La Liberté d'enseignement] (https://planb.academy/resources/books/la-liberte-denseignement-5669d523-5702-44fc-9ce4-4ed3515917fa)
+- [Le Parti libéral](https://planb.academy/resources/books/le-parti-liberal-d4b76768-dd14-4f21-8a18-23598ed0cca3)
+- [La Liberté d'enseignement](https://planb.academy/resources/books/la-liberte-denseignement-5669d523-5702-44fc-9ce4-4ed3515917fa)
 
 
 **Paul Leroy-Beaulieu** (1843-1916)
 
 
 
-- [Le travail des femmes au XIXe siècle (1873)] (https://planb.academy/resources/books/travail-femmes-xixe-siecle-54948668-2c21-4343-9c31-3c8dfd9a7dfc)
-- [Essai sur la répartition des richesses (1881)] (https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99)
-- [Le Collectivisme : Examen critique du nouveau socialisme (1883)] (https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c)
-- [L'État moderne et ses fonctions (1889)] (https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621)
+- [Le travail des femmes au XIXe siècle (1873)](https://planb.academy/resources/books/travail-femmes-xixe-siecle-54948668-2c21-4343-9c31-3c8dfd9a7dfc)
+- [Essai sur la répartition des richesses (1881)](https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99)
+- [Le Collectivisme : Examen critique du nouveau socialisme (1883)](https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c)
+- [L'État moderne et ses fonctions (1889)](https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621)
 
 
 **Benoît Malbranque**
 
 
 
-- [Dictionnaire de la tradition libérale française] (https://planb.academy/resources/books/dictionnaire-tradition-liberale-francaise-0b3b933f-4305-4c07-86ef-e64ff97a4851)
+- [Dictionnaire de la tradition libérale française](https://planb.academy/resources/books/dictionnaire-tradition-liberale-francaise-0b3b933f-4305-4c07-86ef-e64ff97a4851)
 
 
 **Arthur Mangin**
 
 
 
-- [De la liberté de la pharmacie] (https://planb.academy/resources/books/liberte-de-la-pharmacie-184d9f35-2aac-418f-9486-aec9584491c6)
+- [De la liberté de la pharmacie](https://planb.academy/resources/books/liberte-de-la-pharmacie-184d9f35-2aac-418f-9486-aec9584491c6)
 
 
 **Ernest Martineau**
 
 
 
-- [Oeuvres] (https://planb.academy/resources/books/martineau-oeuvres-f54d54fe-604b-4f70-9f1f-e83f1e29ebd3)
+- [Oeuvres](https://planb.academy/resources/books/martineau-oeuvres-f54d54fe-604b-4f70-9f1f-e83f1e29ebd3)
 
 
 **Gustave de Molinari** (1819-1912)
 
 
 
-- [Oeuvres Complètes] (https://planb.academy/resources/books/molinari-oeuvres-completes-8a3dbdd8-2053-45bc-9203-dd3b7f3edfee)
-- [Cours d'économie politique (1855)] (https://planb.academy/resources/books/cours-economie-politique-molinari-75b4a66d-8127-4cf9-8a0a-53d8e353b203)
+- [Oeuvres Complètes](https://planb.academy/resources/books/molinari-oeuvres-completes-8a3dbdd8-2053-45bc-9203-dd3b7f3edfee)
+- [Cours d'économie politique (1855)](https://planb.academy/resources/books/cours-economie-politique-molinari-75b4a66d-8127-4cf9-8a0a-53d8e353b203)
 - [La Morale Économique](https://planb.academy/resources/books/la-morale-economique-8b419025-3d46-48a8-9d8f-0254596406f8)
-- [L'Évolution économique du XIXe siècle : Théorie du Progrès] (https://planb.academy/resources/books/evolution-economique-xixe-siecle-65ba2491-1595-452b-a8f6-3e86fe385808)
-- [L'Évolution politique et la Révolution (1884)] (https://planb.academy/resources/books/evolution-politique-revolution-d3be9345-dc7e-4b4d-8824-5f009ac314c4)
+- [L'Évolution économique du XIXe siècle : Théorie du Progrès](https://planb.academy/resources/books/evolution-economique-xixe-siecle-65ba2491-1595-452b-a8f6-3e86fe385808)
+- [L'Évolution politique et la Révolution (1884)](https://planb.academy/resources/books/evolution-politique-revolution-d3be9345-dc7e-4b4d-8824-5f009ac314c4)
 - Économie de l'histoire (1888)
-- [Questions d'économie politique et de droit public (1861)] (https://planb.academy/resources/books/questions-economie-politique-964f1fe1-606f-49f4-a7e8-187cbf39d41f)
-- [Grandeur et décadence de la guerre (1898)] (https://planb.academy/resources/books/grandeur-decadence-guerre-3bf120be-1536-4b6e-aa85-4a2a62edca7e)
-- [Les Lois naturelles de l'économie politique] (https://planb.academy/resources/books/lois-naturelles-economie-politique-4a4c1f91-b31b-43c1-93aa-16772f9bda1f)
+- [Questions d'économie politique et de droit public (1861)](https://planb.academy/resources/books/questions-economie-politique-964f1fe1-606f-49f4-a7e8-187cbf39d41f)
+- [Grandeur et décadence de la guerre (1898)](https://planb.academy/resources/books/grandeur-decadence-guerre-3bf120be-1536-4b6e-aa85-4a2a62edca7e)
+- [Les Lois naturelles de l'économie politique](https://planb.academy/resources/books/lois-naturelles-economie-politique-4a4c1f91-b31b-43c1-93aa-16772f9bda1f)
 
 
 **Nicolas Oresme** (1320-1382)
 
 
 
-- [Traictié de la première invention des monnoies (c. 1360)] (https://planb.academy/resources/books/traictie-premiere-invention-monnoies-0d91d52c-ed04-4cdd-baa6-590b3544d40a)
+- [Traictié de la première invention des monnoies (c. 1360)](https://planb.academy/resources/books/traictie-premiere-invention-monnoies-0d91d52c-ed04-4cdd-baa6-590b3544d40a)
 
 
 **Frédéric Passy** (1822-1912)
 
 
 
-- [Leçons d'économie politique (1860)] (https://planb.academy/resources/books/lecons-economie-politique-9eac36cc-15d5-4312-8ecc-2c57ac146e77)
+- [Leçons d'économie politique (1860)](https://planb.academy/resources/books/lecons-economie-politique-9eac36cc-15d5-4312-8ecc-2c57ac146e77)
 
 
 **Jean-Baptiste Say** (1767-1832)
 
 
 
-- [Traité d'économie politique (1803)] (https://planb.academy/resources/books/traite-economie-politique-5e4bc84a-a7e4-4466-bfeb-d87a12e3b6c1)
+- [Traité d'économie politique (1803)](https://planb.academy/resources/books/traite-economie-politique-5e4bc84a-a7e4-4466-bfeb-d87a12e3b6c1)
 
 
 **Jules Simon** (1814-1896)
 
 
 
-- [La Liberté civile] (https://planb.academy/resources/books/la-liberte-civile-53b5dadb-e838-4802-acca-b00f8c4b00d7)
+- [La Liberté civile](https://planb.academy/resources/books/la-liberte-civile-53b5dadb-e838-4802-acca-b00f8c4b00d7)
 - [La Liberté (1859)](https://planb.academy/resources/books/la-liberte-simon-8166fd17-86ec-4e1f-9928-77155f0e3d88)
-- [La Liberté Politique] (https://planb.academy/resources/books/la-liberte-politique-666a6abb-7e04-41a0-88e8-c09fabef65d8)
-- [Le Devoir] (https://planb.academy/resources/books/le-devoir-ec7d9a69-8d1c-4ea1-9035-eff8f91d438b)
+- [La Liberté Politique](https://planb.academy/resources/books/la-liberte-politique-666a6abb-7e04-41a0-88e8-c09fabef65d8)
+- [Le Devoir](https://planb.academy/resources/books/le-devoir-ec7d9a69-8d1c-4ea1-9035-eff8f91d438b)
 
 
 **Adam Smith**
 
 
 
-- [La richesse des nations] (https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289)
+- [La richesse des nations](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289)
 
 
 **Alexis de Tocqueville** (1805-1859)
 
 
 
-- [De la démocratie en Amérique (1835-1840)] (https://planb.academy/resources/books/de-la-democratie-en-amerique-7bc2962c-d9b7-4e34-9637-d704a90dfaf4)
+- [De la démocratie en Amérique (1835-1840)](https://planb.academy/resources/books/de-la-democratie-en-amerique-7bc2962c-d9b7-4e34-9637-d704a90dfaf4)
 - L'Ancien Régime et la Révolution (1856)
 
 
@@ -369,14 +369,14 @@ Le cours s'appuie sur un ensemble remarquable de sources primaires, presque excl
 
 
 
-- [Œuvres complètes] (https://planb.academy/resources/books/turgot-oeuvres-completes-37fa0489-cabd-413c-9240-34d1663d0720)
+- [Œuvres complètes](https://planb.academy/resources/books/turgot-oeuvres-completes-37fa0489-cabd-413c-9240-34d1663d0720)
 
 
 **Collectif / Anthologies**
 
 
 
-- [La Société d'économie politique : Une anthologie libérale (1841-1928)] (https://planb.academy/resources/books/societe-economie-politique-anthologie-3a48e3b5-ef74-4822-b1d9-b030e327b84e)
+- [La Société d'économie politique : Une anthologie libérale (1841-1928)](https://planb.academy/resources/books/societe-economie-politique-anthologie-3a48e3b5-ef74-4822-b1d9-b030e327b84e)
 
 
 Avec ces bases posées et ces guides à vos côtés, embarquons pour le voyage.
@@ -474,7 +474,7 @@ Lorsque nous nous tournons du monde extérieur vers l'être humain lui-même, no
 ![Destutt de Tracy, Traite de la Volonte et de ses Effets (1815)](assets/en/006.webp)
 
 
-Les décisions fondées sur une perception personnelle directe contiennent des informations que les décisions collectives ne peuvent pas reproduire. **Les décisions fondées sur une perception personnelle directe contiennent des informations que les décisions collectives ne peuvent pas reproduire.** Si j'ai faim et que j'agis pour satisfaire ma faim, les effets sont immédiats et précisément adaptés à ma situation. En revanche, une décision collective concernant la nourriture doit agréger les perceptions de nombreux individus, chacun ayant des besoins différents en termes de délai, d'intensité et de préférence. Ses résultats seront inévitablement moins adaptés à la situation réelle de chaque personne.
+**Les décisions fondées sur une perception personnelle directe contiennent des informations que les décisions collectives ne peuvent pas reproduire.** Si j'ai faim et que j'agis pour satisfaire ma faim, les effets sont immédiats et précisément adaptés à ma situation. En revanche, une décision collective concernant la nourriture doit agréger les perceptions de nombreux individus, chacun ayant des besoins différents en termes de délai, d'intensité et de préférence. Ses résultats seront inévitablement moins adaptés à la situation réelle de chaque personne.
 
 
 De cette individualité des sensations naît également ce qu'Adam Smith appelait la "sympathie", la capacité à ressentir, de manière atténuée, les sensations des autres, et la nécessité de la coopération humaine, puisque même l'individu le plus autosuffisant dépend de l'échange et de l'entraide.
@@ -489,7 +489,7 @@ La sensation mène à la volonté, et la volonté est la première forme de libe
 Destutt de Tracy, dans ses *Éléments d'idéologie* (1815), a exprimé cette idée avec une clarté remarquable :
 
 
-> "Il semble, à entendre certains philosophes et certains législateurs, qu'à un moment précis, on ait spontanément et sans raison imaginé de dire 'à moi' et 'à toi', et qu'on aurait pu et même dû s'en passer. Mais le " tiens " et le " mien " n'ont jamais été inventés ; ils ont été reconnus le jour où l'on a pu dire " tu " et " je " Et l'idée de "moi" et de "toi", ou plutôt de "moi" et d'"autre que moi", est née, sinon le jour même où l'être sensible a éprouvé des impressions, du moins le jour où, en conséquence de ces impressions, il a éprouvé le sentiment de vouloir, la possibilité d'agir qui en découle, et une résistance à ce sentiment et à cet acte"
+> "Il semble, à entendre certains philosophes et certains législateurs, qu'à un moment précis, on ait spontanément et sans raison imaginé de dire 'à moi' et 'à toi', et qu'on aurait pu et même dû s'en passer. Mais le " tiens " et le " mien " n'ont jamais été inventés ; ils ont été reconnus le jour où l'on a pu dire " tu " et " je ". Et l'idée de "moi" et de "toi", ou plutôt de "moi" et d'"autre que moi", est née, sinon le jour même où l'être sensible a éprouvé des impressions, du moins le jour où, en conséquence de ces impressions, il a éprouvé le sentiment de vouloir, la possibilité d'agir qui en découle, et une résistance à ce sentiment et à cet acte."
 
 ![P.J.G. Cabanis, Rapports du Physique et du Moral de l’Homme (1802)](assets/en/007.webp)
 
@@ -503,7 +503,7 @@ En d'autres termes, **la propriété et la liberté ne sont pas des inventions d
 La nature ne produit pas des êtres identiques. Dès les premières observations de nouveau-nés, on constate une grande diversité de capacités physiques, de tempéraments et d'inclinations. Cabanis, le médecin des Idéologues, a beaucoup étudié ces différences physiologiques : un individu de faible constitution n'aura pas les mêmes désirs, les mêmes loisirs, les mêmes ambitions qu'un individu doté d'une grande énergie et d'une grande vigueur physique.
 
 
-**Cette diversité naturelle a des conséquences directes sur la liberté : les individus ont des volontés différentes et doivent donc avoir la liberté d'agir selon leurs propres inclinations. Cela vaut pour l'éducation : les enfants doivent être éduqués en fonction de leurs aptitudes et de leurs goûts, et non de manière uniforme. Il en va de même pour la liberté de travail : on ne peut pas hériter par tradition du métier de son père ou de son grand-père s'il ne correspond pas à ses propres capacités. Il en va de même pour la liberté de choix dans la consommation, car la satisfaction que procurent les biens et les services dépend de cette diversité irréductible.
+**Cette diversité naturelle a des conséquences directes sur la liberté : les individus ont des volontés différentes et doivent donc avoir la liberté d'agir selon leurs propres inclinations. Cela vaut pour l'éducation : les enfants doivent être éduqués en fonction de leurs aptitudes et de leurs goûts, et non de manière uniforme. Il en va de même pour la liberté de travail : on ne peut pas hériter par tradition du métier de son père ou de son grand-père s'il ne correspond pas à ses propres capacités. Il en va de même pour la liberté de choix dans la consommation, car la satisfaction que procurent les biens et les services dépend de cette diversité irréductible.**
 
 
 ![Portrait of Rene Descartes](assets/en/008.webp)
@@ -530,13 +530,13 @@ Dans les leçons qui suivent, nous reviendrons sur ces fondements factuels de la
 ### Le fait humain de la pensée
 
 
-Nous avons établi dans le chapitre précédent que la liberté repose sur des faits observables de la nature humaine : le corps, l'occupation de l'espace, l'appropriation des choses, l'individualité des perceptions. Mais l'être humain n'est pas seulement un corps, il est aussi, et peut-être surtout, un esprit. **De ce seul fait découlent la tolérance religieuse, la liberté d'expression, la liberté de la presse et la gratuité de l'enseignement
+Nous avons établi dans le chapitre précédent que la liberté repose sur des faits observables de la nature humaine : le corps, l'occupation de l'espace, l'appropriation des choses, l'individualité des perceptions. Mais l'être humain n'est pas seulement un corps, il est aussi, et peut-être surtout, un esprit. **De ce seul fait découlent la tolérance religieuse, la liberté d'expression, la liberté de la presse et la liberté de l'enseignement.**
 
 
 ![A worn volume from the French liberal tradition](assets/en/009.webp)
 
 
-Charles Comte (1782-1837), dans ses [*Cours de droit naturel*] (https://planb.academy/resources/books/cours-droit-naturel-78a371b6-796b-4ebe-bb8a-54cc64f38b57), une série de conférences prononcées à Lausanne vers 1830 et dont nous possédons encore le manuscrit, l'affirme dès la première leçon : un être humain dépourvu de capacités cognitives ne serait guère reconnu comme humain. Nous tissons des liens avec les autres précisément parce qu'ils sont des êtres pensants, parce qu'ils ont des sentiments, des idées, des convictions que nous pouvons partager et dont nous pouvons débattre.
+Charles Comte (1782-1837), dans ses [*Cours de droit naturel*](https://planb.academy/resources/books/cours-droit-naturel-78a371b6-796b-4ebe-bb8a-54cc64f38b57), une série de conférences prononcées à Lausanne vers 1830 et dont nous possédons encore le manuscrit, l'affirme dès la première leçon : un être humain dépourvu de capacités cognitives ne serait guère reconnu comme humain. Nous tissons des liens avec les autres précisément parce qu'ils sont des êtres pensants, parce qu'ils ont des sentiments, des idées, des convictions que nous pouvons partager et dont nous pouvons débattre.
 
 
 
@@ -546,13 +546,13 @@ Cette capacité de penser s'accompagne d'un élément qu'aucun récit matériali
 ### De la pensée à l'expression : la chaîne de la liberté
 
 
-La pensée est une manifestation de la volonté. Nous ressentons, nous concevons des projets et des idées, et nous souhaitons naturellement les transmettre. **Si nous sommes libres de vouloir et de penser (puisque aucune puissance sur terre ne peut nous empêcher de penser), alors il y a une forte présomption naturelle en faveur de la libre expression. Pour briser la chaîne entre la sensation, la volonté, la pensée et son expression matérielle, il faut des arguments très puissants.
+La pensée est une manifestation de la volonté. Nous ressentons, nous concevons des projets et des idées, et nous souhaitons naturellement les transmettre. **Si nous sommes libres de vouloir et de penser (puisque aucune puissance sur terre ne peut nous empêcher de penser), alors il y a une forte présomption naturelle en faveur de la libre expression. Pour briser la chaîne entre la sensation, la volonté, la pensée et son expression matérielle, il faut des arguments très puissants.**
 
 
 ![Benjamin Constant, Principes de politique (1814-1815)](assets/en/010.webp)
 
 
-Nous rencontrons ici une idée fondamentale : l'inviolabilité de la conscience. On peut brûler un homme pour ses opinions, cela a été fait, mais on ne peut pas brûler sa pensée. **Aucune autorité n'a jamais eu de pouvoir sur la pensée elle-même ; elle ne peut atteindre que son expression matérielle. Nous sommes libres de changer nos idées, de les poursuivre jusqu'à leur terme, d'abandonner une intuition pour en adopter une autre. Cette liberté n'est pas un don de la législation. C'est un fait de notre nature.
+Nous rencontrons ici une idée fondamentale : l'inviolabilité de la conscience. On peut brûler un homme pour ses opinions, cela a été fait, mais on ne peut pas brûler sa pensée. **Aucune autorité n'a jamais eu de pouvoir sur la pensée elle-même ; elle ne peut atteindre que son expression matérielle. Nous sommes libres de changer nos idées, de les poursuivre jusqu'à leur terme, d'abandonner une intuition pour en adopter une autre. Cette liberté n'est pas un don de la législation. C'est un fait de notre nature.**
 
 
 ### Benjamin Constant et la propriété sacrée de la pensée
@@ -575,13 +575,13 @@ En d'autres termes, l'individu étant le seul propriétaire de sa pensée, la su
 Pourquoi, au-delà de la simple reconnaissance d'un droit naturel, devrions-nous valoriser activement la liberté d'expression ? La réponse se trouve dans une grande idée que le mouvement philosophique du XVIIIe siècle a fait mûrir : *la perfectibilité humaine*.
 
 
-Nicolas de Condorcet (1743-1794), au carrefour des philosophes des Lumières et des économistes physiocrates, ami proche de Turgot, a écrit son œuvre maîtresse, l'[*Esquisse d'un tableau historique des progrès de l'esprit humain*] (https://planb.academy/resources/books/esquisse-tableau-historique-progres-esprit-humain-ab87cd62-445d-4620-a3ad-7af31ba17c3f), dans des circonstances extraordinaires. Dans la clandestinité, sur le point d'être arrêté et exécuté pendant la Terreur, sans livres, il a composé dans une seule pièce une vision globale du progrès humain à travers les âges.
+Nicolas de Condorcet (1743-1794), au carrefour des philosophes des Lumières et des économistes physiocrates, ami proche de Turgot, a écrit son œuvre maîtresse, l'[*Esquisse d'un tableau historique des progrès de l'esprit humain*](https://planb.academy/resources/books/esquisse-tableau-historique-progres-esprit-humain-ab87cd62-445d-4620-a3ad-7af31ba17c3f), dans des circonstances extraordinaires. Dans la clandestinité, sur le point d'être arrêté et exécuté pendant la Terreur, sans livres, il a composé dans une seule pièce une vision globale du progrès humain à travers les âges.
 
 
 ![Portrait of Gustave de Molinari (1819-1912), Belgian-French economist](assets/en/012.webp)
 
 
-La thèse centrale était révolutionnaire : contrairement à la doctrine chrétienne de la chute, qui postule une descente de la perfection originelle, la civilisation humaine est ascendante. Chaque génération transmet ses découvertes à la suivante, et l'humanité progresse de siècle en siècle. **Les idées nouvelles, audacieuses, pionnières, souvent rejetées dans un premier temps, doivent être librement communiquées. Le découvreur doit pouvoir enseigner ses conceptions aux autres, à ses descendants, à la société dans son ensemble, afin que ce qui était considéré comme trop audacieux soit testé, accepté et mis en pratique.
+La thèse centrale était révolutionnaire : contrairement à la doctrine chrétienne de la chute, qui postule une descente de la perfection originelle, la civilisation humaine est ascendante. Chaque génération transmet ses découvertes à la suivante, et l'humanité progresse de siècle en siècle. **Les idées nouvelles, audacieuses, pionnières, souvent rejetées dans un premier temps, doivent être librement communiquées. Le découvreur doit pouvoir enseigner ses conceptions aux autres, à ses descendants, à la société dans son ensemble, afin que ce qui était considéré comme trop audacieux soit testé, accepté et mis en pratique.**
 
 
 Le débat d'idées fonctionne comme la concurrence économique : parmi de nombreux marchands concurrents, c'est celui qui produit le mieux et au moindre coût qui réussit. De même, sur le marché des idées, la confrontation permet aux conceptions les mieux fondées de s'imposer, car chacun peut en observer les effets et juger de leur concordance avec les faits. La variété naturelle des êtres humains, que nous avons déjà évoquée, est elle-même à l'origine de cette variété d'idées. Des individus nés avec des constitutions différentes, élevés dans des environnements différents, développeront inévitablement des perceptions différentes, des sensibilités différentes, des jugements différents. **Le libre débat n'est donc pas un luxe facultatif** ; c'est le mécanisme indispensable qui permet aux idées les plus fondées d'atteindre leur public et de faire progresser la civilisation.
@@ -590,7 +590,7 @@ Le débat d'idées fonctionne comme la concurrence économique : parmi de nombre
 ### Liberté de la presse : le tribunal de l'opinion publique
 
 
-La liberté de la presse étend le principe de la liberté d'expression au domaine politique. Les actions humaines, et en particulier les actions collectives et gouvernementales, produisent des effets qui sont ressentis différemment par différentes personnes. Une réglementation affectant un secteur particulier cause à ceux qui en font partie des souffrances que d'autres peuvent ne pas percevoir du tout. Chaque individu doit pouvoir exprimer et rendre publiques les conséquences qu'il observe : "Cette institution me fait du tort, et voici comment"
+La liberté de la presse étend le principe de la liberté d'expression au domaine politique. Les actions humaines, et en particulier les actions collectives et gouvernementales, produisent des effets qui sont ressentis différemment par différentes personnes. Une réglementation affectant un secteur particulier cause à ceux qui en font partie des souffrances que d'autres peuvent ne pas percevoir du tout. Chaque individu doit pouvoir exprimer et rendre publiques les conséquences qu'il observe : "Cette institution me fait du tort, et voici comment."
 
 
 L'abbé de Saint-Pierre, au début du XVIIIe siècle, comparait les institutions politiques à des horloges qu'il faut remonter de temps en temps. En effet, les lois et les institutions se périment et nécessitent des réformes périodiques. Mais **la réforme exige une opinion publique éclairée, et une opinion publique éclairée exige une presse libre**.
@@ -605,10 +605,10 @@ L'histoire de France illustre de manière frappante ce qui se passe en l'absence
 La presse libre, en revanche, agit comme ce que les libéraux appelaient "le tribunal de l'opinion publique", un mécanisme à la fois libre et rapide. Les citoyens observent les effets des lois et des institutions, formulent leurs jugements et les communiquent publiquement. Ce tribunal ne coûte rien, il fonctionne en continu et il prépare le terrain pour les réformes, de sorte que les bouleversements violents deviennent inutiles. Il s'agit, en quelque sorte, d'une entreprise rentable : les journaux et revues privés se maintiennent économiquement tout en remplissant la fonction civique essentielle de la critique démocratique.
 
 
-### L'éducation gratuite : une conclusion inéluctable
+### La liberté d'enseignement : une conclusion inéluctable
 
 
-Nous en arrivons à l'éducation gratuite, la liberté qui, logiquement, ne devrait pas nécessiter de défense distincte, mais qui rencontre la plus grande résistance.
+Nous en arrivons à la liberté d'enseignement, la liberté qui, logiquement, ne devrait pas nécessiter de défense distincte, mais qui rencontre la plus grande résistance.
 
 
 Réfléchissez : si nous acceptons la liberté d'expression, n'en découle-t-il pas que nous acceptons la liberté d'enseigner ? Si nous acceptons la liberté de la presse, le droit de communiquer ses idées par le biais de l'imprimé, comment pouvons-nous refuser le droit de communiquer ces mêmes idées dans une salle de classe ? Et si nous acceptons la liberté religieuse, la liberté non seulement de prier silencieusement à la maison (ce qui existe sous toutes les tyrannies) mais aussi de pratiquer le culte publiquement, de fonder des églises, de propager sa foi, alors **nous devons accepter la liberté d'éduquer ses enfants selon ses croyances**.
@@ -618,7 +618,7 @@ Réfléchissez : si nous acceptons la liberté d'expression, n'en découle-t-il 
 Édouard Laboulaye (1811-1883), l'un des grands défenseurs de la liberté d'enseignement à l'époque des réformes de Jules Ferry, a mené ce combat avec passion, et l'a malheureusement perdu. Les libéraux perdront à nouveau de manière plus décisive dans les décennies suivantes. Pourtant, les arguments restent irréfutables.
 
 
-L'argument contre le monopole de l'État en matière d'éducation repose sur deux faits. D'abord, le fait naturel de l'amour parental. **L'Etat, une succession de partis politiques, élus dans des moments d'enthousiasme, sur de vastes programmes dont la plupart des électeurs ignorent les détails, est un substitut artificiel à cette tutelle naturelle. Bien sûr, il peut y avoir des cas d'abus où le recours à un tuteur alternatif est nécessaire. Mais fabriquer à l'avance, et pour tous les enfants, un tuteur de substitution, pour remplacer le parent par défaut, n'est ni logique ni fondé sur les faits de l'existence humaine.
+L'argument contre le monopole de l'État en matière d'éducation repose sur deux faits. D'abord, le fait naturel de l'amour parental. **L'État, une succession de partis politiques, élus dans des moments d'enthousiasme, sur de vastes programmes dont la plupart des électeurs ignorent les détails, est un substitut artificiel à cette tutelle naturelle. Bien sûr, il peut y avoir des cas d'abus où le recours à un tuteur alternatif est nécessaire. Mais fabriquer à l'avance, et pour tous les enfants, un tuteur de substitution, pour remplacer le parent par défaut, n'est ni logique ni fondé sur les faits de l'existence humaine.**
 
 
 Deuxièmement, le fait de la diversité humaine, que nous avons rencontré à maintes reprises. Les enfants ne sont pas identiques. Dès la naissance, ils diffèrent par leurs capacités physiques, leurs tempéraments, leurs aptitudes et leurs inclinations. **Enseigner les mêmes choses de la même manière à des enfants que la nature a rendus différents**, c'est postuler quelque chose qui n'existe pas, l'uniformité des êtres humains. Seule la liberté pédagogique, avec la concurrence des écoles, des méthodes, des rythmes et des programmes, peut accueillir cette diversité irréductible et permettre à chacun de s'épanouir selon sa propre nature.
@@ -647,7 +647,7 @@ Nous passons maintenant des libertés civiles aux libertés économiques, propri
 ![Jules Simon, collected works: La Liberte Civile, Le Devoir, La Liberte Politique](assets/en/014.webp)
 
 
-Jules Simon (1814-1896), philosophe et homme d'État, a démontré dans une remarquable série d'ouvrages, notamment [*La Liberté civile*] (https://planb.academy/resources/books/la-liberte-civile-53b5dadb-e838-4802-acca-b00f8c4b00d7) et [*La Liberté*] (https://planb.academy/resources/books/la-liberte-simon-8166fd17-86ec-4e1f-9928-77155f0e3d88) (1859), que les notions économiques les plus complexes, telles que le capital ou la liberté du travail, reposent en définitive sur des faits humains simples : la libre réflexion et la propriété de sa propre pensée. De la sensation au jugement, du jugement à l'action, de l'action à la production, la chaîne est ininterrompue et la propriété de soi en est le premier maillon.
+Jules Simon (1814-1896), philosophe et homme d'État, a démontré dans une remarquable série d'ouvrages, notamment [*La Liberté civile*](https://planb.academy/resources/books/la-liberte-civile-53b5dadb-e838-4802-acca-b00f8c4b00d7) et [*La Liberté*](https://planb.academy/resources/books/la-liberte-simon-8166fd17-86ec-4e1f-9928-77155f0e3d88) (1859), que les notions économiques les plus complexes, telles que le capital ou la liberté du travail, reposent en définitive sur des faits humains simples : la libre réflexion et la propriété de sa propre pensée. De la sensation au jugement, du jugement à l'action, de l'action à la production, la chaîne est ininterrompue et la propriété de soi en est le premier maillon.
 
 
 
@@ -738,7 +738,7 @@ Nicolas Baudeau (1730-1792), économiste physiocrate, a tiré la conséquence ul
 ![Nicolas Baudeau, Oeuvres, Institut Coppet edition](assets/en/019.webp)
 
 
-Le libre-échange est le prolongement logique de tous ces principes. Si je suis le propriétaire légitime d'un bien, acquis par mon travail ou par un échange antérieur, qui a le pouvoir de m'empêcher de l'échanger contre un autre bien qui me plaît davantage ? **Les économistes libéraux des XVIIIe et XIXe siècles n'ont pas inventé de théorie, ils ont observé des faits de la nature humaine et en ont tiré les conséquences avec une cohérence rigoureuse.
+Le libre-échange est le prolongement logique de tous ces principes. Si je suis le propriétaire légitime d'un bien, acquis par mon travail ou par un échange antérieur, qui a le pouvoir de m'empêcher de l'échanger contre un autre bien qui me plaît davantage ? **Les économistes libéraux des XVIIIe et XIXe siècles n'ont pas inventé de théorie, ils ont observé des faits de la nature humaine et en ont tiré les conséquences avec une cohérence rigoureuse.**
 
 
 
@@ -758,7 +758,7 @@ Qu'est-ce qui définit la limite de la liberté d'une personne ? La réponse com
 ![Gustave de Molinari and his work La Morale Economique (Institut Coppet edition)](assets/en/020.webp)
 
 
-Gustave de Molinari (1819-1912), l'un des penseurs les plus profonds de la tradition libérale française, dont la carrière s'étend sur près d'un siècle, de l'époque de Louis-Philippe à la veille de la Première Guerre mondiale, a développé une deuxième dimension de cette analyse dans sa [*Morale économique*] (https://planb.academy/resources/books/la-morale-economique-8b419025-3d46-48a8-9d8f-0254596406f8). Au-delà de la douleur, il y a la peur : l'anticipation du mal et l'inhibition de l'action qui en découle. Lorsque d'autres empiètent sur nos droits ou représentent une menace crédible, nous sommes contraints de reconsidérer et d'ajuster nos plans. Nous ne pouvons pas agir comme nous l'aurions fait en l'absence de menace. **Notre liberté effective est diminuée, avant même qu'une agression physique ne se produise
+Gustave de Molinari (1819-1912), l'un des penseurs les plus profonds de la tradition libérale française, dont la carrière s'étend sur près d'un siècle, de l'époque de Louis-Philippe à la veille de la Première Guerre mondiale, a développé une deuxième dimension de cette analyse dans sa [*Morale économique*](https://planb.academy/resources/books/la-morale-economique-8b419025-3d46-48a8-9d8f-0254596406f8). Au-delà de la douleur, il y a la peur : l'anticipation du mal et l'inhibition de l'action qui en découle. Lorsque d'autres empiètent sur nos droits ou représentent une menace crédible, nous sommes contraints de reconsidérer et d'ajuster nos plans. Nous ne pouvons pas agir comme nous l'aurions fait en l'absence de menace. **Notre liberté effective est diminuée, avant même qu'une agression physique ne se produise.**
 
 
 Toutefois, et c'est là une distinction essentielle, toutes les nuisances ne sont pas du même ordre. Imaginons un boulanger dans une petite ville ; un concurrent ouvre une boutique de l'autre côté de la rue. Le premier boulanger subit une véritable nuisance économique. S'agit-il pour autant d'une agression que la loi doit sanctionner ? Il est clair que non. Le concurrent n'a porté atteinte à la personne ou à la propriété de personne, il n'a fait qu'exercer sa propre liberté.
@@ -838,7 +838,7 @@ Les systèmes de non-liberté postulent une spoliation originelle : toutes les m
 D'abord, elle suppose une facilité d'enrichissement qui contredit toute expérience. La vision marxiste, et elle est présente de manière frappante dans toute la pensée socialiste, imagine que les profits tombent automatiquement du capital, comme s'il suffisait d'investir et d'encaisser. Il n'y a pas de faillites dans ce tableau, pas de nuits blanches d'inquiétude, pas d'entreprises qui échouent parce qu'elles ne reproduisent pas en valeur ce qu'elles ont coûté. Il s'agit là d'un fantasme, pas d'une réalité.
 
 
-Deuxièmement, si la spoliation originelle était réelle, on s'attendrait à voir les descendants de ces anciens pillards parmi les familles les plus riches d'aujourd'hui. Mais où sont-ils ? Au fil du temps, les échanges se font légitimement, valeur contre valeur, travail contre travail. **De plus, les conditions de production évoluent constamment : des terres considérées comme extrêmement précieuses peuvent perdre toute leur valeur, tandis que des territoires autrefois négligés, comme l'illustre la course actuelle aux terres rares minerals, peuvent devenir immensément précieux. L'idée que toutes les richesses ont été fixées et saisies à l'origine n'est pas seulement une erreur morale ; elle est contraire aux faits de l'histoire économique.
+Deuxièmement, si la spoliation originelle était réelle, on s'attendrait à voir les descendants de ces anciens pillards parmi les familles les plus riches d'aujourd'hui. Mais où sont-ils ? Au fil du temps, les échanges se font légitimement, valeur contre valeur, travail contre travail. **De plus, les conditions de production évoluent constamment : des terres considérées comme extrêmement précieuses peuvent perdre toute leur valeur, tandis que des territoires autrefois négligés, comme l'illustre la course actuelle aux terres rares, peuvent devenir immensément précieux. L'idée que toutes les richesses ont été fixées et saisies à l'origine n'est pas seulement une erreur morale ; elle est contraire aux faits de l'histoire économique.**
 
 
 ### Contradictions contre la nature humaine
@@ -850,7 +850,7 @@ Les lois uniformes et la centralisation administrative sont en contradiction dir
 ![Slide image from chapter 1.5](assets/en/025.webp)
 
 
-L'affaiblissement de l'intérêt personnel est une autre contradiction fondamentale. Chaque être humain naît avec une personnalité distincte qui s'approfondit tout au long de la vie. La liberté permet à l'intérêt personnel de trouver ses propres satisfactions, volontairement et paisiblement, à son rythme. **La non-liberté impose des satisfactions standardisées qui ne correspondent aux besoins réels de personne
+L'affaiblissement de l'intérêt personnel est une autre contradiction fondamentale. Chaque être humain naît avec une personnalité distincte qui s'approfondit tout au long de la vie. La liberté permet à l'intérêt personnel de trouver ses propres satisfactions, volontairement et paisiblement, à son rythme. **La non-liberté impose des satisfactions standardisées qui ne correspondent aux besoins réels de personne.**
 
 
 Le rejet de l'amour parental dans l'éducation est particulièrement grave. L'éducation publique remplace les sentiments naturels de la mère et du père, leur connaissance intime de la personnalité de leur enfant, leur investissement émotionnel, par la tutelle administrative froide d'un appareil politique qui change à chaque cycle électoral. L'État n'a aucun sentiment, aucune appréciation de la personnalité unique de chaque enfant. Le substituer aux tuteurs naturels n'est pas un progrès, c'est une contradiction avec les données les plus fondamentales de l'attachement humain.
@@ -865,7 +865,7 @@ Les tentatives de contrôle de la pensée prennent de multiples formes : presse 
 ![Slide image from chapter 1.5](assets/en/026.webp)
 
 
-Cela révèle un profond malentendu. **Les systèmes qui imposent une orthodoxie intellectuelle finissent par étouffer l'innovation et le progrès dont dépend l'avancement de la civilisation.
+Cela révèle un profond malentendu. **Les systèmes qui imposent une orthodoxie intellectuelle finissent par étouffer l'innovation et le progrès dont dépend l'avancement de la civilisation.**
 
 
 ### L'impossible lutte contre les faits économiques
@@ -877,7 +877,7 @@ La concurrence est une donnée fondamentale de l'existence humaine, rendue inél
 L'aspiration à l'abolition de la loi de l'offre et de la demande est tout aussi vaine. Paul Leroy-Beaulieu (1843-1916), l'un des rares libéraux élus à l'Assemblée nationale, racontait avoir assisté à des réunions publiques socialistes où on lui reprochait d'avoir "voté" la loi de l'offre et de la demande, comme s'il s'agissait d'un acte législatif ! Or **la loi de l'offre et de la demande n'est que l'expression naturelle de la libre action humaine** : lorsqu'un prix augmente, les individus réduisent leur consommation ; lorsqu'il baisse, ils l'augmentent. Ce comportement est universel, il découle de la structure des sensations et des choix humains. Aucun décret ne peut l'abolir.
 
 
-Le rêve d'abolir la propriété privée se heurte à une contradiction similaire. Leroy-Beaulieu, dans [*Le Collectivisme*] (https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c), l'expliquait avec force aux ouvriers et aux paysans séduits par l'idéal de la collectivisation : la jouissance de la propriété commune est profondément appauvrie par rapport à la propriété privée. Chaque citoyen est théoriquement propriétaire d'un soixante-cinq millionième d'une forêt nationale ou d'un monument public, mais lorsqu'il le visite (s'il a le droit de le faire), il se sent à peine propriétaire. **La collectivisation détruit ce que les libéraux appelaient "l'œil du maître "**, cette attention particulière, cette incitation personnelle à l'amélioration et à l'entretien, que seul le véritable propriétaire possède. Le résultat inévitable est la négligence et l'utilisation sous-optimale des ressources.
+Le rêve d'abolir la propriété privée se heurte à une contradiction similaire. Leroy-Beaulieu, dans [*Le Collectivisme*](https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c), l'expliquait avec force aux ouvriers et aux paysans séduits par l'idéal de la collectivisation : la jouissance de la propriété commune est profondément appauvrie par rapport à la propriété privée. Chaque citoyen est théoriquement propriétaire d'un soixante-cinq millionième d'une forêt nationale ou d'un monument public, mais lorsqu'il le visite (s'il a le droit de le faire), il se sent à peine propriétaire. **La collectivisation détruit ce que les libéraux appelaient "l'œil du maître"**, cette attention particulière, cette incitation personnelle à l'amélioration et à l'entretien, que seul le véritable propriétaire possède. Le résultat inévitable est la négligence et l'utilisation sous-optimale des ressources.
 
 
 Enfin, l'abolition de l'intérêt sur l'argent et la réglementation des profits sont des attaques contre les mécanismes d'échange volontaire. L'intérêt est simplement le prix auquel le capital est transmis de celui qui le possède à celui qui en a besoin, reflétant le temps, le risque et le sacrifice du prêteur. Le supprimer, comme l'ont tenté les interdictions médiévales sur l'usure, n'élimine pas la nécessité de la transmission du capital ; cela ne fait que la contraindre à la clandestinité, créant des solutions de rechange et des injustices, comme l'illustre tragiquement le rôle imposé aux prêteurs juifs au Moyen-Âge.
@@ -959,7 +959,7 @@ Cette propriété collective ne doit pas être confondue avec le communisme au s
 ### "Libre ! Libre de faire quoi ?"
 
 
-Charles Dunoyer (1786-1862), dans son remarquable ouvrage [*L'industrie et la morale considérées dans leurs rapports avec la liberté*] (https://planb.academy/resources/books/industrie-morale-liberte-0ce13a70-e72b-4c5c-b527-fdb9b0a60aae) (1825), puis dans [*De la liberté du travail*] (https://planb.academy/resources/books/de-la-liberte-du-travail-edf7f393-d110-4a18-96f4-fcc477f0b49c) (1845), a montré que **la liberté est une construction progressive**. Nous sommes plus libres dans les sociétés industrielles que dans les sociétés féodales, plus libres sous la féodalité que sous l'esclavage ancien, et plus libres sous l'esclavage que dans la préhistoire. Mais qu'est-ce que l'homme préhistorique était libre de faire ? Rien, car l'existence humaine était soumise à toutes les contraintes imaginables.
+Charles Dunoyer (1786-1862), dans son remarquable ouvrage [*L'industrie et la morale considérées dans leurs rapports avec la liberté*](https://planb.academy/resources/books/industrie-morale-liberte-0ce13a70-e72b-4c5c-b527-fdb9b0a60aae) (1825), puis dans [*De la liberté du travail*](https://planb.academy/resources/books/de-la-liberte-du-travail-edf7f393-d110-4a18-96f4-fcc477f0b49c) (1845), a montré que **la liberté est une construction progressive**. Nous sommes plus libres dans les sociétés industrielles que dans les sociétés féodales, plus libres sous la féodalité que sous l'esclavage ancien, et plus libres sous l'esclavage que dans la préhistoire. Mais qu'est-ce que l'homme préhistorique était libre de faire ? Rien, car l'existence humaine était soumise à toutes les contraintes imaginables.
 
 
 ![French liberal tradition book cover](assets/en/031.webp)
@@ -1069,7 +1069,7 @@ Nous allons maintenant examiner les éléments spécifiques qui, à travers l'hi
 Commençons par les transformations de la production elle-même. Dans les premiers temps de l'histoire humaine, **la production était à proprement parler une destruction plutôt qu'une création**. La chasse, la pêche, la cueillette puisaient dans les réserves de la nature sans rien y ajouter. Les groupes humains ne créaient pas de nourriture, ils se contentaient de saisir ce qu'ils trouvaient. Les limites sont sévères : le gibier doit se reproduire, les arbres fruitiers doivent être suffisamment nombreux, et lorsqu'un territoire est épuisé, il faut attendre une saison entière ou partir. Les déplacements nomades ont modifié l'espace dans lequel ces groupes opéraient, mais ils restaient fondamentalement dans une logique de destruction et de saisie, et non de production.
 
 
-Nous retrouvons ici Rousseau et sa fameuse image de l'homme qui, le premier, a enclos un terrain, devenant ainsi le premier spoliateur d'une terre supposée commune. Paul Leroy-Beaulieu (1843-1916), dans [*Le Collectivisme*] (https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c), a démontré que cette image est fausse. La terre n'était pas commune à toute l'humanité ; elle était commune à l'intérieur d'un petit groupe humain, la tribu ou la famille, mais elle était considérée comme la propriété de ce groupe. Les conflits entre tribus étaient importants et réguliers. Personne n'imaginait que la terre appartenait en commun à tous les différents groupes ; ils se comportaient comme des animaux défendant leur territoire.
+Nous retrouvons ici Rousseau et sa fameuse image de l'homme qui, le premier, a enclos un terrain, devenant ainsi le premier spoliateur d'une terre supposée commune. Paul Leroy-Beaulieu (1843-1916), dans [*Le Collectivisme*](https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c), a démontré que cette image est fausse. La terre n'était pas commune à toute l'humanité ; elle était commune à l'intérieur d'un petit groupe humain, la tribu ou la famille, mais elle était considérée comme la propriété de ce groupe. Les conflits entre tribus étaient importants et réguliers. Personne n'imaginait que la terre appartenait en commun à tous les différents groupes ; ils se comportaient comme des animaux défendant leur territoire.
 
 
 ![Slide image from chapter 2.3](assets/en/036.webp)
@@ -1207,7 +1207,7 @@ Le grand défaut des systèmes autoritaires d'éducation et de pensée est qu'il
 ![Paul Leroy-Beaulieu, Essai sur la repartition des richesses (1883)](assets/en/041.webp)
 
 
-Paul Leroy-Beaulieu, dans son [*Essai sur la répartition des richesses*] (https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99), est l'un des auteurs libéraux français qui a le mieux analysé ces nouvelles circonstances et leurs implications futures. Il a montré que le caractère de plus en plus intellectuel du travail enrichit de nouvelles couches de la société, et transforme en particulier la situation des femmes. À mesure que le travail devient plus intellectuel, la valeur et la contribution productive des femmes augmentent de façon spectaculaire. On ne peut plus les confiner au ménage et à la famille sans priver la société de l'intelligence de la moitié de l'humanité, intelligence nécessaire à l'innovation, aux améliorations techniques et technologiques et au progrès général de la production.
+Paul Leroy-Beaulieu, dans son [*Essai sur la répartition des richesses*](https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99), est l'un des auteurs libéraux français qui a le mieux analysé ces nouvelles circonstances et leurs implications futures. Il a montré que le caractère de plus en plus intellectuel du travail enrichit de nouvelles couches de la société, et transforme en particulier la situation des femmes. À mesure que le travail devient plus intellectuel, la valeur et la contribution productive des femmes augmentent de façon spectaculaire. On ne peut plus les confiner au ménage et à la famille sans priver la société de l'intelligence de la moitié de l'humanité, intelligence nécessaire à l'innovation, aux améliorations techniques et technologiques et au progrès général de la production.
 
 
 ### L'abondance de nouvelles ressources
@@ -1285,7 +1285,7 @@ Au-delà de ces deux principes protecteurs, il existe une troisième exigence : 
 ![French liberal tradition book cover](assets/en/045.webp)
 
 
-Charles Dunoyer (1786-1862), économiste politique, journaliste et proche collaborateur de Charles Comte, a passé la majeure partie de sa carrière à défendre l'idée que le développement moral et intellectuel était le véritable moteur du progrès de la civilisation. Son œuvre majeure, [*L'industrie et la morale considérées dans leurs rapports avec la liberté*] (https://planb.academy/resources/books/industrie-morale-liberte-0ce13a70-e72b-4c5c-b527-fdb9b0a60aae) (1825), reste l'une des tentatives les plus ambitieuses pour fonder la théorie de la liberté sur les faits observables de la nature humaine. Il écrit, vers l'ouverture de cet ouvrage :
+Charles Dunoyer (1786-1862), économiste politique, journaliste et proche collaborateur de Charles Comte, a passé la majeure partie de sa carrière à défendre l'idée que le développement moral et intellectuel était le véritable moteur du progrès de la civilisation. Son œuvre majeure, [*L'industrie et la morale considérées dans leurs rapports avec la liberté*](https://planb.academy/resources/books/industrie-morale-liberte-0ce13a70-e72b-4c5c-b527-fdb9b0a60aae) (1825), reste l'une des tentatives les plus ambitieuses pour fonder la théorie de la liberté sur les faits observables de la nature humaine. Il écrit, vers l'ouverture de cet ouvrage :
 
 
 > "La liberté n'est pas un don que les sociétés reçoivent tout fait des mains de la nature ou des législateurs. C'est une conquête, lente et douloureuse, qui exige des hommes qu'ils gouvernent leurs passions, disciplinent leurs impulsions et se soumettent au long apprentissage de la maîtrise de soi. Le sauvage n'est pas libre au sens propre du terme ; il est simplement ingouverné. Pour être vraiment libre, il faut être capable de se gouverner soi-même"
@@ -1308,7 +1308,7 @@ Que se passe-t-il lorsque la liberté est exercée sans cette discipline intéri
 Plus généralement, l'intempérance et toutes les actions ou habitudes qui dépravent, énervent ou brutalisent nos facultés sont des obstacles à la véritable liberté. Plus ces comportements altèrent nos capacités, moins nous sommes libres d'en faire un usage éclairé, voire un usage tout court. Dunoyer a décrit cette diminution auto-infligée avec une précision caractéristique :
 
 
-> "L'intempérance, la licence, l'oisiveté ne sont pas seulement des fautes morales aux yeux du prédicateur. Ce sont, au sens le plus rigoureux du terme, des destructions de capital. L'homme qui gaspille sa santé, ses facultés et son temps ne pèche pas seulement contre son âme ; il s'appauvrit de la façon la plus littérale et la plus matérielle, se privant des instruments mêmes avec lesquels il aurait pu gagner une plus grande indépendance
+> "L'intempérance, la licence, l'oisiveté ne sont pas seulement des fautes morales aux yeux du prédicateur. Ce sont, au sens le plus rigoureux du terme, des destructions de capital. L'homme qui gaspille sa santé, ses facultés et son temps ne pèche pas seulement contre son âme ; il s'appauvrit de la façon la plus littérale et la plus matérielle, se privant des instruments mêmes avec lesquels il aurait pu gagner une plus grande indépendance."
 
 En d'autres termes, **le libertin qui croit exprimer sa liberté la contracte**, heure après heure, jusqu'à ce qu'il ne reste plus rien du moi souverain qu'il s'imaginait être.
 
@@ -1378,10 +1378,10 @@ La compréhension de la liberté économique est un enjeu majeur dans notre réf
 ![Jean-Baptiste Say and his Traite d'economie politique (1803, Institut Coppet edition)](assets/en/047.webp)
 
 
-Jean-Baptiste Say (1767-1832), le fils du négociant en coton lyonnais qui devint l'économiste le plus lu au monde au cours des premières décennies du XIXe siècle, plaça la production au centre de son monumental [*Traité d'économie politique*] (https://planb.academy/resources/books/traite-economie-politique-5e4bc84a-a7e4-4466-bfeb-d87a12e3b6c1) (1803). Say avait compris que l'analyse de la richesse ne devait pas commencer par la distribution mais par la création : comment les êtres humains produisent-ils les utilités qui constituent leur bien-être ? Sa réponse a jeté les bases de tout ce qui a suivi :
+Jean-Baptiste Say (1767-1832), le fils du négociant en coton lyonnais qui devint l'économiste le plus lu au monde au cours des premières décennies du XIXe siècle, plaça la production au centre de son monumental [*Traité d'économie politique*](https://planb.academy/resources/books/traite-economie-politique-5e4bc84a-a7e4-4466-bfeb-d87a12e3b6c1) (1803). Say avait compris que l'analyse de la richesse ne devait pas commencer par la distribution mais par la création : comment les êtres humains produisent-ils les utilités qui constituent leur bien-être ? Sa réponse a jeté les bases de tout ce qui a suivi :
 
 
-> "Produire n'est pas créer de la matière, car la matière est indestructible et aucune puissance humaine ne peut la faire naître du néant. Produire, c'est donner à la matière une forme, un lieu, un temps où elle est utile aux hommes. L'agriculteur qui récolte son blé, le marchand qui le transporte vers la ville affamée, le meunier qui le transforme en farine : chacun d'eux produit, car chacun d'eux rend un service qui n'existerait pas sans son intervention"
+> "Produire n'est pas créer de la matière, car la matière est indestructible et aucune puissance humaine ne peut la faire naître du néant. Produire, c'est donner à la matière une forme, un lieu, un temps où elle est utile aux hommes. L'agriculteur qui récolte son blé, le marchand qui le transporte vers la ville affamée, le meunier qui le transforme en farine : chacun d'eux produit, car chacun d'eux rend un service qui n'existerait pas sans son intervention."
 
 En d'autres termes, **la production est la création d'utilité, pas la création de substance**. Cette distinction apparemment simple a des conséquences considérables : elle signifie que tout service qui rend la vie plus facile ou plus riche est du travail productif, et que la hiérarchie traditionnelle plaçant l'industrie manufacturière au-dessus du commerce et le commerce au-dessus du travail intellectuel est totalement dénuée de fondement.
 
@@ -1392,7 +1392,7 @@ En effet, l'intuition de Say libère l'analyse économique du préjugé tyranniq
 La production elle-même représente une véritable conquête dans l'histoire de l'humanité. Pendant longtemps, les sociétés humaines se sont contentées de récolter des denrées alimentaires sans apport créatif particulier, par la chasse, la pêche et la cueillette, où l'activité productive de l'homme restait minime.
 
 
-### L'erreur des travailleurs "productifs" et "improductifs
+### L'erreur des travailleurs "productifs" et "improductifs"
 
 
 Adam Smith, parmi d'autres penseurs, a commis une erreur importante en faisant la distinction entre les travailleurs productifs et improductifs. Dans la catégorie "improductive", il plaçait les avocats, les artistes et les médecins, au motif que leur produit disparaîtrait immédiatement après avoir été livré. Mais cette distinction tient-elle la route ? Prenons un exemple : un avocat qui obtient l'exécution d'un contrat crée une utilité qui dure pendant toute la durée de ce contrat. Un médecin qui guérit un patient crée une utilité qui persiste pour le reste de la vie de ce patient. L'erreur est évidente.
@@ -1404,9 +1404,9 @@ Adam Smith, parmi d'autres penseurs, a commis une erreur importante en faisant l
 Gustave de Molinari (1819-1912), économiste d'origine belge qui s'installa à Paris et devint, au cours d'une longue et prolifique carrière, l'une des voix les plus originales et les plus combatives de la tradition libérale française, a immédiatement perçu cette confusion. Dans son [*Cours d'économie politique*](https://planb.academy/resources/books/cours-economie-politique-molinari-75b4a66d-8127-4cf9-8a0a-53d8e353b203) (1855), il écrit :
 
 
-> "Quels bons outils que certains livres ! La *Richesse des nations*, par exemple, a généré plus de richesses réelles au cours des deux siècles qui ont suivi sa publication que la plupart des usines ne pourraient prétendre en avoir produites au cours de leur existence. N'est-ce pas là de la production ? Dire le contraire, c'est confondre le médium et le message, la forme et le fond"
+> "Quels bons outils que certains livres ! La *Richesse des nations*, par exemple, a généré plus de richesses réelles au cours des deux siècles qui ont suivi sa publication que la plupart des usines ne pourraient prétendre en avoir produites au cours de leur existence. N'est-ce pas là de la production ? Dire le contraire, c'est confondre le médium et le message, la forme et le fond."
 
-En d'autres termes, **la production matérielle n'est pas une moindre forme de production** : c'est souvent la plus conséquente, puisque les idées se multiplient sans être consommées, diffusant leur utilité à un nombre indéfiniment grand de bénéficiaires.
+En d'autres termes, **la production immatérielle n'est pas une moindre forme de production** : c'est souvent la plus conséquente, puisque les idées se multiplient sans être consommées, diffusant leur utilité à un nombre indéfiniment grand de bénéficiaires.
 
 
 Gustave de Molinari a observé à juste titre que le détaillant, en transférant des denrées alimentaires et en les mettant à la disposition du consommateur de manière accessible et organisée, rend un véritable service. Ce transfert d'un lieu à un autre constitue une véritable production, pour laquelle le consommateur est prêt à payer. Le travail, d'une manière générale, consiste à créer de nouvelles utilités et à rendre des services. Être au service des autres, c'est ce que signifie véritablement la production.
@@ -1421,7 +1421,7 @@ Quelles sont les conditions qui rendent la production possible ? Les économiste
 La première condition est un choix approprié des moyens et des fins, ce qui implique une liberté éclairée et un sens de l'autonomie. Il faut être propriétaire de soi-même et être capable de choisir judicieusement parmi les différentes options qui s'offrent à nous. Cette capacité de choix implique la liberté de pensée et la liberté d'action. Say l'exprimait simplement :
 
 
-> "L'homme qui ne choisit pas ne produit pas, il ne fait qu'exécuter. La production commence par le jugement que cette fin vaut la peine d'être poursuivie et que ce moyen est le meilleur disponible pour la poursuivre. Si l'on supprime la liberté de choix, on ne modifie pas seulement la forme de la production, on en détruit le principe moteur"
+> "L'homme qui ne choisit pas ne produit pas, il ne fait qu'exécuter. La production commence par le jugement que cette fin vaut la peine d'être poursuivie et que ce moyen est le meilleur disponible pour la poursuivre. Si l'on supprime la liberté de choix, on ne modifie pas seulement la forme de la production, on en détruit le principe moteur."
 
 ![French liberal tradition book cover](assets/en/049.webp)
 
@@ -1435,7 +1435,7 @@ En d'autres termes, **les trois conditions de la production sont la liberté, la
 La direction de la production obéit à ce que les économistes ont appelé la "loi naturelle", selon laquelle la production de toutes choses s'organise, en temps, en lieu et de la manière la plus utile. Les agents économiques recherchent leur propre intérêt, non pas un intérêt étroit et égoïste, mais un intérêt large et éclairé. Motivés par la recherche du profit et de la sécurité de leurs ressources, ils gravitent autour des branches de production qui génèrent des profits. Les prix et les profits sont donc **les signaux qui guident naturellement la production**, sans qu'il soit nécessaire de recourir à une organisation gouvernementale ou réglementaire.
 
 
-### Exchange en tant que jeu à somme positive
+### L'échange en tant que jeu à somme positive
 
 
 L'élément central qui explique l'importance du contrat et de l'échange est leur nature de jeux à somme positive. Je passe un contrat parce qu'il est dans mon intérêt de le faire ; sinon, je préférerais simplement ne pas passer de contrat. De même, en termes économiques, si je fais un échange, c'est parce que je le trouve avantageux ; sinon, je m'abstiens.
@@ -1444,7 +1444,7 @@ L'élément central qui explique l'importance du contrat et de l'échange est le
 L'abbé de Saint-Pierre, au début du XVIIIe siècle, a été l'un des premiers à reconnaître toute l'importance de ce principe. Dans son [*Projet pour perfectionner le commerce*](https://planb.academy/resources/books/projet-perfectionner-commerce-f4123249-b5ca-446e-8514-aedef76dbdf3) (1735), il l'exprime avec une clarté caractéristique :
 
 
-> "Lorsqu'une vente est faite entre marchands, le vendeur y gagne et l'acheteur aussi ; car sans un gain réciproque, réel ou apparent, ni le vendeur ne vendrait à tel prix, ni l'acheteur de son côté n'achèterait à tel prix. Quelquefois l'un des deux se trompe ; mais ordinairement, eu égard à leurs besoins et à leurs intérêts, tous deux gagnent à l'échange, quelquefois également, mais le plus souvent inégalement. D'où il suit que multiplier les échanges ou les ventes entre marchands, entre sujets d'une nation, et entre nation et nation, c'est contribuer à leur enrichissement ; diminuer le commerce, diminuer le nombre des échanges, des ventes, des achats entre marchands, c'est diminuer leur profit et leur revenu"
+> "Lorsqu'une vente est faite entre marchands, le vendeur y gagne et l'acheteur aussi ; car sans un gain réciproque, réel ou apparent, ni le vendeur ne vendrait à tel prix, ni l'acheteur de son côté n'achèterait à tel prix. Quelquefois l'un des deux se trompe ; mais ordinairement, eu égard à leurs besoins et à leurs intérêts, tous deux gagnent à l'échange, quelquefois également, mais le plus souvent inégalement. D'où il suit que multiplier les échanges ou les ventes entre marchands, entre sujets d'une nation, et entre nation et nation, c'est contribuer à leur enrichissement ; diminuer le commerce, diminuer le nombre des échanges, des ventes, des achats entre marchands, c'est diminuer leur profit et leur revenu."
 
 En d'autres termes, **chaque échange volontaire crée de la valeur pour les deux parties simultanément**. C'est ce qui distingue le commerce pacifique de la guerre et du vol : ces méthodes redistribuent les richesses existantes ; l'échange crée de nouvelles richesses. On ne saurait trop insister sur l'importance de cette distinction pour l'ensemble de la philosophie sociale.
 
@@ -1455,7 +1455,7 @@ En effet, de cette analyse découle une conclusion fondamentale. Plus il y a de 
 Say lui-même a été explicite sur ce point :
 
 
-> "Le commerce n'est pas, comme certains l'ont supposé, un combat dans lequel l'une des parties doit être vaincue pour que l'autre triomphe. C'est, au contraire, une forme de coopération dans laquelle les deux parties apportent ce qu'elles ont en trop et reçoivent ce qui leur manque. Le commerçant n'est pas l'ennemi du producteur, il est son allié le plus nécessaire, le lien indispensable entre le lieu de production et le lieu de consommation"
+> "Le commerce n'est pas, comme certains l'ont supposé, un combat dans lequel l'une des parties doit être vaincue pour que l'autre triomphe. C'est, au contraire, une forme de coopération dans laquelle les deux parties apportent ce qu'elles ont en trop et reçoivent ce qui leur manque. Le commerçant n'est pas l'ennemi du producteur, il est son allié le plus nécessaire, le lien indispensable entre le lieu de production et le lieu de consommation."
 
 
 ## Le rôle des profits et des prix
@@ -1471,7 +1471,7 @@ Say lui-même a été explicite sur ce point :
 L'histoire de l'humanité peut se lire comme une transformation progressive des modes de concurrence entre les individus. Dans les premiers temps, la concurrence s'exerçait principalement par la guerre et la violence : l'appropriation des biens et des produits de subsistance obtenus par la chasse, la pêche et la cueillette. Le marché était extrêmement restreint et la production limitée. Le monde étant composé de ressources limitées, une certaine forme de concurrence pour celles-ci était inévitable. Mais le véritable progrès de la civilisation consistait à **remplacer cette concurrence violente par le contrat et l'échange volontaire**.
 
 
-Frédéric Bastiat (1801-1850), l'économiste et pamphlétaire gascon qui a compilé plus de clarté en moins de pages que presque n'importe quel auteur dans l'histoire de l'économie, a décrit cette transformation avec sa précision habituelle dans les [*Harmonies économiques*] (https://planb.academy/resources/books/harmonies-economiques-66561d29-feb2-495c-815d-cea521b1930c) (1850) :
+Frédéric Bastiat (1801-1850), l'économiste et pamphlétaire gascon qui a compilé plus de clarté en moins de pages que presque n'importe quel auteur dans l'histoire de l'économie, a décrit cette transformation avec sa précision habituelle dans les [*Harmonies économiques*](https://planb.academy/resources/books/harmonies-economiques-66561d29-feb2-495c-815d-cea521b1930c) (1850) :
 
 
 > "Il y a deux façons pour l'homme de satisfaire ses besoins : la production et le pillage. Certains hommes travaillent, d'autres attendent le fruit de leur travail et se l'approprient par la force. Il ne s'agit pas d'une alternative imaginaire, construite pour l'effet rhétorique. C'est le choix fondamental auquel sont confrontées toutes les sociétés humaines depuis le début de l'histoire. Et la civilisation n'est rien d'autre que l'œuvre lente, douloureuse, jamais achevée, de la substitution de la production au pillage"
@@ -1488,7 +1488,7 @@ En effet, l'interventionnisme et le socialisme représentent un pas en arrière 
 ### La loi de l'offre et de la demande : rien d'autre que la liberté elle-même
 
 
-Charles Coquelin (1802-1852), brillant économiste et contributeur au [*Dictionnaire de l'économie politique*] (https://planb.academy/resources/books/dictionnaire-economie-politique-133b07d0-a058-44cb-a1fa-b58609e9b4a5) publié par Guillaumin en 1852, est mort prématurément avant d'avoir pu développer toutes les implications de son travail, mais il a laissé derrière lui des articles d'une clarté remarquable. Dans son article sur la concurrence, il exprime une vérité fondamentale qui est au cœur de la conception libérale des marchés :
+Charles Coquelin (1802-1852), brillant économiste et contributeur au [*Dictionnaire de l'économie politique*](https://planb.academy/resources/books/dictionnaire-economie-politique-133b07d0-a058-44cb-a1fa-b58609e9b4a5) publié par Guillaumin en 1852, est mort prématurément avant d'avoir pu développer toutes les implications de son travail, mais il a laissé derrière lui des articles d'une clarté remarquable. Dans son article sur la concurrence, il exprime une vérité fondamentale qui est au cœur de la conception libérale des marchés :
 
 
 > "La loi de l'offre et de la demande n'est pas une convention arbitraire, ni une règle imposée par les économistes, ni un dispositif inventé par les théoriciens pour la commodité de leurs systèmes. C'est simplement une description de ce qui se passe lorsque des hommes libres sont laissés libres de poursuivre leurs propres intérêts de leur propre manière. Si l'on supprime cette liberté, on supprime la loi. Vous ne la remplacez pas par une meilleure loi ; vous la remplacez par la volonté arbitraire de quiconque détient le pouvoir"
@@ -1496,7 +1496,7 @@ Charles Coquelin (1802-1852), brillant économiste et contributeur au [*Dictionn
 ![Coquelin and Guillaumin, Dictionnaire de l'economie politique (1852)](assets/en/051.webp)
 
 
-En d'autres termes, la loi de l'offre et de la demande n'est rien d'autre que le fonctionnement de la liberté économique elle-même**. Sans liberté, cette loi ne peut tout simplement pas fonctionner. Imaginez un citoyen recevant des tickets de rationnement : il n'a pas la possibilité de réduire ou d'augmenter sa demande en fonction de ses préférences. De même, les entreprises soumises à des décisions politiques de production ne peuvent pas faire varier leur offre en fonction des circonstances.
+En d'autres termes, **la loi de l'offre et de la demande n'est rien d'autre que le fonctionnement de la liberté économique elle-même**. Sans liberté, cette loi ne peut tout simplement pas fonctionner. Imaginez un citoyen recevant des tickets de rationnement : il n'a pas la possibilité de réduire ou d'augmenter sa demande en fonction de ses préférences. De même, les entreprises soumises à des décisions politiques de production ne peuvent pas faire varier leur offre en fonction des circonstances.
 
 
 Dans une économie libre, le prix joue un rôle essentiel de signal. Dans un vaste marché à forte population, les agents économiques ont besoin d'une boussole pour les guider dans la production : que produire, quand le produire, où le produire et comment le produire. Le prix fournit précisément cette information cruciale, en attribuant une valeur aux différentes combinaisons productives et, à mesure qu'il augmente ou diminue, en orientant l'intérêt personnel des individus vers les actions qui leur permettront d'obtenir une satisfaction maximale tout en répondant aux besoins réels de la société.
@@ -1597,7 +1597,7 @@ En effet, l'innovation et le progrès sont la réponse aux circonstances changea
 Mais l'État innove-t-il ? Il n'innove pas du tout. Et ce fait est d'une importance considérable pour toute la question de la politique économique.
 
 
-Les sociétés anciennes comme l'Egypte, où les métiers se transmettaient de père en fils, illustrent le phénomène des sociétés figées. L'Etat reproduit cette non-innovation par sa nature même de bureaucratie. Il repose sur l'activité de fonctionnaires qui n'ont **aucune initiative personnelle et aucune rémunération proportionnelle à leur innovation**. Tout est réglementé, il n'y a ni volonté ni intérêt à innover, et le système lui-même n'est pas conçu pour l'innovation.
+Les sociétés anciennes comme l'Egypte, où les métiers se transmettaient de père en fils, illustrent le phénomène des sociétés figées. L'État reproduit cette non-innovation par sa nature même de bureaucratie. Il repose sur l'activité de fonctionnaires qui n'ont **aucune initiative personnelle et aucune rémunération proportionnelle à leur innovation**. Tout est réglementé, il n'y a ni volonté ni intérêt à innover, et le système lui-même n'est pas conçu pour l'innovation.
 
 
 Paul Leroy-Beaulieu a anticipé en 1883, avec une précision extraordinaire, le fonctionnement concret des expériences communistes :
@@ -1647,10 +1647,10 @@ La notion d'harmonie des intérêts est un pilier fondamental de la pensée lib�
 ![Frederic Bastiat, Harmonies Economiques, Institut Coppet edition](assets/en/056.webp)
 
 
-C'est précisément à cette question que Frédéric Bastiat a consacré le dernier et le plus grand ouvrage de sa vie tragiquement courte. Il meurt de la tuberculose en 1850, à l'âge de 49 ans, laissant les [*Harmonies économiques*] (https://planb.academy/resources/books/harmonies-economiques-66561d29-feb2-495c-815d-cea521b1930c) inachevées. Mais ce qu'il a achevé suffit à établir sa thèse : les conflits d'intérêts apparents qui remplissent les livres d'histoire ne sont pas la condition naturelle des hommes libres ; ils sont le produit de systèmes de privilèges, de monopoles et d'appropriation politique. Il écrit, dans les fameuses premières pages :
+C'est précisément à cette question que Frédéric Bastiat a consacré le dernier et le plus grand ouvrage de sa vie tragiquement courte. Il meurt de la tuberculose en 1850, à l'âge de 49 ans, laissant les [*Harmonies économiques*](https://planb.academy/resources/books/harmonies-economiques-66561d29-feb2-495c-815d-cea521b1930c) inachevées. Mais ce qu'il a achevé suffit à établir sa thèse : les conflits d'intérêts apparents qui remplissent les livres d'histoire ne sont pas la condition naturelle des hommes libres ; ils sont le produit de systèmes de privilèges, de monopoles et d'appropriation politique. Il écrit, dans les fameuses premières pages :
 
 
-> "Si les tendances naturelles de l'humanité sont si mauvaises qu'il n'est pas sûr de permettre aux gens d'être libres, comment se fait-il que les tendances de ces organisateurs soient toujours bonnes ? Les législateurs et les agents qu'ils ont désignés n'appartiennent-ils pas eux aussi à la race humaine ? Ou bien croient-ils qu'ils sont eux-mêmes faits d'une argile plus fine que le reste de l'humanité ?
+> "Si les tendances naturelles de l'humanité sont si mauvaises qu'il n'est pas sûr de permettre aux gens d'être libres, comment se fait-il que les tendances de ces organisateurs soient toujours bonnes ? Les législateurs et les agents qu'ils ont désignés n'appartiennent-ils pas eux aussi à la race humaine ? Ou bien croient-ils qu'ils sont eux-mêmes faits d'une argile plus fine que le reste de l'humanité ?"
 
 En d'autres termes, le **pessimisme sur la nature humaine qui justifie l'intervention se réfute de lui-même** : si les hommes sont trop méchants pour qu'on leur confie la liberté, ils sont également trop méchants pour qu'on leur confie le pouvoir. L'harmonie des intérêts n'est pas une affirmation que les hommes sont des anges ; c'est une affirmation que le libre échange aligne leur intérêt personnel avec le bénéfice social de manière plus fiable que n'importe quelle autre alternative.
 
@@ -1733,7 +1733,7 @@ Le libéralisme se présente ainsi comme **une grande chaîne harmonieuse d'éch
 Après avoir examiné les fondements de la liberté dans les faits de l'existence humaine, retracé l'évolution historique de la liberté et de la contrainte, et analysé le fonctionnement de l'économie libre, nous devons maintenant nous tourner vers les systèmes de non-liberté. Pourquoi échouent-ils ? Et pourquoi les sociétés modernes doivent-elles s'orienter résolument vers des solutions fondées sur la liberté ?
 
 
-**Le communisme primitif, qui organisait le partage de la terre et des outils au sein de petits groupes, était une réponse aux conditions de production et de sécurité des premières sociétés humaines. Dans sa forme moderne, le communisme représente une tentative de retour à cette condition archaïque, où l'individu ne comptait pour rien.
+**Le communisme primitif, qui organisait le partage de la terre et des outils au sein de petits groupes, était une réponse aux conditions de production et de sécurité des premières sociétés humaines. Dans sa forme moderne, le communisme représente une tentative de retour à cette condition archaïque, où l'individu ne comptait pour rien.**
 
 
 ![French liberal tradition book cover](assets/en/058.webp)
@@ -1750,7 +1750,7 @@ En effet, la forme extrême de la non-liberté se manifeste par l'assujettisseme
 L'analyse de Leroy-Beaulieu s'est avérée prophétique. Des décennies avant l'expérience soviétique, il a expliqué comment les systèmes communistes fonctionneraient en pratique :
 
 
-> "Spoliation organisée à l'échelle nationale : c'est la seule description honnête du système. Chaque homme devra livrer le fruit de son travail à l'administration centrale, qui décidera ensuite, selon des critères qu'elle définira et que personne ne pourra contester, de la part que chacun recevra en retour. C'est, en substance, de l'esclavage. L'esclave avait au moins la sécurité de l'intérêt de son maître ; le citoyen de l'État communiste n'a aucune garantie de ce genre
+> "Spoliation organisée à l'échelle nationale : c'est la seule description honnête du système. Chaque homme devra livrer le fruit de son travail à l'administration centrale, qui décidera ensuite, selon des critères qu'elle définira et que personne ne pourra contester, de la part que chacun recevra en retour. C'est, en substance, de l'esclavage. L'esclave avait au moins la sécurité de l'intérêt de son maître ; le citoyen de l'État communiste n'a aucune garantie de ce genre."
 
 En d'autres termes, le communisme ne se contente pas d'appauvrir matériellement ses sujets ; **il détruit la structure même de l'individualité**, remplaçant la personne autodirigée par une unité administrative à traiter par la machine collective.
 
@@ -1795,7 +1795,7 @@ Gustave de Molinari, avec sa verve habituelle, a montré que dans beaucoup de ce
 En d'autres termes, ce qui se présente comme une réglementation est souvent, en substance, **une forme de propriété partielle**. L'État régulateur n'est pas simplement un arbitre ; il est un participant, extrayant des rentes de chaque transaction qu'il supervise.
 
 
-En effet, la liberté ne peut être dissociée de la propriété ou de l'égalité, car ces notions sont profondément imbriquées. Frédéric Bastiat l'a dit sans ambages : *la liberté, c'est la propriété** : **Être libre, c'est faire l'usage que l'on veut de ses biens, de soi-même et des choses que l'on possède légitimement. L'homme dont la propriété est vraiment respectée est vraiment libre, puisqu'il peut disposer de lui-même, de ses forces et de ses facultés pour le travail, de ce qu'il possède pour le commerce, de ses facultés intellectuelles pour la libre pensée et l'expression.
+En effet, la liberté ne peut être dissociée de la propriété ou de l'égalité, car ces notions sont profondément imbriquées. Frédéric Bastiat l'a dit sans ambages : **la liberté, c'est la propriété.** Être libre, c'est faire l'usage que l'on veut de ses biens, de soi-même et des choses que l'on possède légitimement. L'homme dont la propriété est vraiment respectée est vraiment libre, puisqu'il peut disposer de lui-même, de ses forces et de ses facultés pour le travail, de ce qu'il possède pour le commerce, de ses facultés intellectuelles pour la libre pensée et l'expression.
 
 
 ### Liberté, propriété et égalité : des principes indissociables
@@ -1834,10 +1834,10 @@ En d'autres termes, l'**universalisme des principes libéraux n'admet aucune exc
 L'État a fait l'objet d'une remarquable mythologisation, notamment au cours du XIXe siècle sous l'influence des écrivains allemands. Ces auteurs l'ont présenté comme une sorte de divinité terrestre : un être intangible, supérieur, dépourvu de défauts humains, doté d'une capacité de prévision et de direction qu'aucun individu ne peut posséder.
 
 
-![Paul Leroy-Beaulieu, L'Etat moderne et ses fonctions (1889), Institut Coppet edition](assets/en/062.webp)
+![Paul Leroy-Beaulieu, L'État moderne et ses fonctions (1889), Institut Coppet edition](assets/en/062.webp)
 
 
-Paul Leroy-Beaulieu, qui avait étudié en Allemagne dans sa jeunesse et connaissait intimement cette littérature, l'a affrontée de front dans [*L'État moderne et ses fonctions*] (https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621) (1890). À cette vision idéalisée, il oppose une analyse beaucoup plus terre à terre de ce qu'est l'État moderne :
+Paul Leroy-Beaulieu, qui avait étudié en Allemagne dans sa jeunesse et connaissait intimement cette littérature, l'a affrontée de front dans [*L'État moderne et ses fonctions*](https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621) (1890). À cette vision idéalisée, il oppose une analyse beaucoup plus terre à terre de ce qu'est l'État moderne :
 
 
 > "L'État n'est pas un roi philosophe, doté d'une sagesse surnaturelle et libéré de toute faiblesse humaine. C'est un groupe d'hommes, choisis par des méthodes qui n'ont aucun rapport nécessaire avec la compétence, exerçant des fonctions pour lesquelles ils ont rarement été formés, sous la pression d'intérêts souvent incompatibles avec le bien-être général. Parler de l'État comme s'il était un agent rationnel supérieur aux individus qui le composent, c'est commettre la plus élémentaire des erreurs sociologiques"
@@ -1845,7 +1845,7 @@ Paul Leroy-Beaulieu, qui avait étudié en Allemagne dans sa jeunesse et connais
 En d'autres termes, l'État démocratique ne fonctionne pas comme l'Ancien Régime, où le pouvoir découlait d'une lignée familiale héréditaire : sa réalité est bien plus humble. Des hommes organisés en partis se disputent la possession du pouvoir politique. Ces partis exercent un monopole d'autant plus néfaste qu'il est temporaire : jouissance hâtive des avantages du pouvoir, gaspillage des ressources publiques, lois élaborées par des individus qui ne sont pas toujours adaptés aux fonctions qu'ils assument.
 
 
-En effet, la **mythologisation de l'Etat n'est pas une simple erreur intellectuelle, c'est un danger politique**. Car plus l'autorité attribuée à l'État est grande, moins le citoyen se sent en droit de résister à ses empiétements. La tradition philosophique allemande, de Hegel à l'école historique de l'économie, a rendu un mauvais service à la liberté en consacrant l'État comme la plus haute expression de la raison humaine.
+En effet, la **mythologisation de l'État n'est pas une simple erreur intellectuelle, c'est un danger politique**. Car plus l'autorité attribuée à l'État est grande, moins le citoyen se sent en droit de résister à ses empiétements. La tradition philosophique allemande, de Hegel à l'école historique de l'économie, a rendu un mauvais service à la liberté en consacrant l'État comme la plus haute expression de la raison humaine.
 
 
 ### Le processus électoral face à la délibération individuelle
@@ -1854,7 +1854,7 @@ En effet, la **mythologisation de l'Etat n'est pas une simple erreur intellectue
 Le processus électoral diffère fondamentalement du processus de jugement individuel. Quelle est la véritable nature de cette différence ? Ce n'est pas seulement une question d'échelle ou de complexité, c'est une question de qualité de la délibération.
 
 
-Lorsqu'une personne prend une décision privée, qu'il s'agisse de conclure un contrat, d'effectuer un échange ou d'entreprendre une activité professionnelle, elle fait des observations et réfléchit attentivement avant d'agir. Cette délibération se déroule lentement et paisiblement au sein de son propre esprit. Dans la sphère politique, au contraire, les décisions émergent de l'agitation et de la fièvre électorale, dans un climat de court-termisme peu propice au jugement éclairé qu'exigeraient les questions complexes que l'Etat prétend traiter.
+Lorsqu'une personne prend une décision privée, qu'il s'agisse de conclure un contrat, d'effectuer un échange ou d'entreprendre une activité professionnelle, elle fait des observations et réfléchit attentivement avant d'agir. Cette délibération se déroule lentement et paisiblement au sein de son propre esprit. Dans la sphère politique, au contraire, les décisions émergent de l'agitation et de la fièvre électorale, dans un climat de court-termisme peu propice au jugement éclairé qu'exigeraient les questions complexes que l'État prétend traiter.
 
 
 ![Slide image from chapter 4.2](assets/en/063.webp)
@@ -1868,10 +1868,10 @@ Leroy-Beaulieu a décrit ce contraste avec une grande précision :
 L'État démocratique sacrifie aussi **systématiquement les intérêts des minorités**. Comme les décisions émanent d'une majorité, celle-ci a naturellement tendance, en l'absence de contraintes constitutionnelles suffisantes, à empiéter sur les droits individuels des citoyens minoritaires. Pire encore, les générations futures se retrouvent taxées à l'avance, héritant de dettes et d'intérêts sur des dépenses auxquelles elles n'ont jamais consenti.
 
 
-### Attributions nécessaires et parasitaires de l'Etat
+### Attributions nécessaires et parasitaires de l'État
 
 
-Il faut bien distinguer **les fonctions légitimes de l'Etat de ses fonctions parasitaires**. Les lois qui garantissent la protection des individus par un système judiciaire et policier établissent la sécurité nécessaire aux échanges et aux contrats. C'est ce que Leroy-Beaulieu appelait les attributions "négatives" de l'Etat, c'est-à-dire des attributions qui se contentent de protéger sans intervenir sur le fond des choix individuels.
+Il faut bien distinguer **les fonctions légitimes de l'État de ses fonctions parasitaires**. Les lois qui garantissent la protection des individus par un système judiciaire et policier établissent la sécurité nécessaire aux échanges et aux contrats. C'est ce que Leroy-Beaulieu appelait les attributions "négatives" de l'État, c'est-à-dire des attributions qui se contentent de protéger sans intervenir sur le fond des choix individuels.
 
 
 Bastiat a exprimé cette distinction avec son économie de langage habituelle :
@@ -1882,7 +1882,7 @@ Bastiat a exprimé cette distinction avec son économie de langage habituelle :
 ![Slide image from chapter 4.2](assets/en/064.webp)
 
 
-Malheureusement, beaucoup trop de lois entravent, empêchent et réglementent les activités des individus qui ne portent pas atteinte aux droits d'autrui. Ce sont les attributions "positives" de l'Etat, qui remplace le contrat et l'échange par la décision majoritaire et la réglementation administrative. L'individu est entravé dans sa propriété des choses, ou dans sa propriété de lui-même, sous prétexte d'un préjudice indéfini et indéfinissable à la société ou à certaines catégories de personnes.
+Malheureusement, beaucoup trop de lois entravent, empêchent et réglementent les activités des individus qui ne portent pas atteinte aux droits d'autrui. Ce sont les attributions "positives" de l'État, qui remplace le contrat et l'échange par la décision majoritaire et la réglementation administrative. L'individu est entravé dans sa propriété des choses, ou dans sa propriété de lui-même, sous prétexte d'un préjudice indéfini et indéfinissable à la société ou à certaines catégories de personnes.
 
 
 En effet, c'est précisément ce **remplacement du contrat par la politique qui constitue le mécanisme central de la non-liberté**. La question n'est pas de savoir si l'État a des fonctions ; bien sûr qu'il a des fonctions, et des fonctions nécessaires. La question est de savoir si ces fonctions doivent se développer sans limite, en colonisant des domaines qui étaient auparavant organisés par le libre accord entre les individus.
@@ -1967,7 +1967,7 @@ Dans la logique de la domination politique, l'argent cesse d'être une marchandi
 ![Nicole Oresme, Traictie de la premiere invention des monnoies, Institut Coppet edition](assets/en/067.webp)
 
 
-Nicolas Oresme (1320-1382), évêque normand et polymathe qui fut le précepteur du futur roi Charles V de France, s'est penché sur ces questions au XIVe siècle avec une clarté qui reste étonnante. Son [*Traictié de la première invention des monnoies*] (https://planb.academy/resources/books/traictie-premiere-invention-monnoies-0d91d52c-ed04-4cdd-baa6-590b3544d40a) (vers 1360) est le premier traité systématique sur la théorie monétaire dans la tradition occidentale. Il écrit en s'adressant directement au roi :
+Nicolas Oresme (1320-1382), évêque normand et polymathe qui fut le précepteur du futur roi Charles V de France, s'est penché sur ces questions au XIVe siècle avec une clarté qui reste étonnante. Son [*Traictié de la première invention des monnoies*](https://planb.academy/resources/books/traictie-premiere-invention-monnoies-0d91d52c-ed04-4cdd-baa6-590b3544d40a) (vers 1360) est le premier traité systématique sur la théorie monétaire dans la tradition occidentale. Il écrit en s'adressant directement au roi :
 
 
 > "La monnaie appartient à la communauté qui l'utilise, et non au prince qui la frappe. Le prince a le droit d'en réglementer l'usage ; il n'a pas le droit d'en altérer le contenu à son profit. Lorsqu'il avilit la monnaie, il commet un vol : un vol au détriment de tous ceux qui détiennent la monnaie, un vol diffusé à l'ensemble de la communauté, et donc un vol plus difficile à identifier et à combattre que le simple pillage d'un individu. C'est pour cette raison que l'avilissement monétaire est le plus dangereux de tous les abus du pouvoir politique"
@@ -1975,7 +1975,7 @@ Nicolas Oresme (1320-1382), évêque normand et polymathe qui fut le précepteur
 En d'autres termes, la manipulation monétaire n'est pas une question technique mais politique : **un instrument par lequel le dirigeant extrait la richesse** de la population sans la visibilité et la résistance que l'imposition directe provoquerait.
 
 
-L'avilissement monétaire produit de l'inflation et déstabilise les prix, car le signal monétaire devient incertain lorsque le maître des mesures de valeur peut en modifier arbitrairement le contenu. **Les lettres de change et les billets de banque, inventés au Moyen-Âge, et aujourd'hui monnaies privées, offrent aux parties contractantes des moyens d'échange volontairement acceptés, plutôt qu'une monnaie sans valeur intrinsèque utilisée principalement pour financer le pouvoir politique.
+L'avilissement monétaire produit de l'inflation et déstabilise les prix, car le signal monétaire devient incertain lorsque le maître des mesures de valeur peut en modifier arbitrairement le contenu. **Les lettres de change et les billets de banque, inventés au Moyen-Âge, et aujourd'hui monnaies privées, offrent aux parties contractantes des moyens d'échange volontairement acceptés, plutôt qu'une monnaie sans valeur intrinsèque utilisée principalement pour financer le pouvoir politique.**
 
 
 L'intuition d'Oresme a été reprise par les libéraux français du XIXe siècle, qui ont identifié le papier-monnaie de la période des assignats comme l'exemple moderne le plus extrême de spoliation monétaire :
@@ -2022,7 +2022,7 @@ Les constitutions modernes proclament une république une et indivisible, interd
 Le protectionnisme est l'une des manifestations les plus significatives de la non-liberté, et l'une des plus durables. Pour le comprendre, il faut rappeler que la concurrence est naturellement imposée aux êtres humains par la finitude des ressources disponibles. Cette rareté crée un besoin d'acquisition et de distribution, qui peut être réalisé soit par le contrat, soit par la politique.
 
 
-Bastiat a identifié la nature fondamentale du protectionnisme avec une précision dévastatrice dans ses [*Sophismes économiques*] (https://planb.academy/resources/books/sophismes-economiques-9ccb727f-d253-4188-9cc6-74c1e6ce6a16) (1845) :
+Bastiat a identifié la nature fondamentale du protectionnisme avec une précision dévastatrice dans ses [*Sophismes économiques*](https://planb.academy/resources/books/sophismes-economiques-9ccb727f-d253-4188-9cc6-74c1e6ce6a16) (1845) :
 
 
 > "L'argument protectionniste, dépouillé de ses fioritures, se résume à ceci : nous voulons vendre sans acheter. Nous voulons recevoir sans donner. Nous voulons produire sans consommer, nous enrichir sans enrichir les autres. En un mot, nous voulons violer la loi fondamentale de l'échange, qui veut que les deux parties gagnent, en faisant en sorte que l'une gagne sans l'autre. Ce n'est pas une politique, c'est un souhait. Et c'est un souhait que, heureusement, la nature des choses fera toujours échouer"
@@ -2036,7 +2036,7 @@ Le protectionnisme apparaît comme une réponse à cette concurrence des méthod
 En d'autres termes, **le protectionnisme n'est pas une politique pour les pauvres ; c'est une politique pour les bien établis, aux dépens des pauvres**. Il augmente les prix pour tous les consommateurs afin de préserver les profits de certains producteurs. La démocratie, en donnant le pouvoir aux masses, tend naturellement à produire ce protectionnisme, car les masses sont généralement peu enclines au progrès. La réponse typique à l'innovation est un dédaigneux "à quoi ça sert ?" Cette tendance s'accompagne souvent d'une hostilité envers les riches, alimentée par l'envie et la conviction qu'ils ne méritent pas leur richesse.
 
 
-En effet, Bastiat a identifié ce qu'il a appelé **le vu et le non-vu" comme la clé pour comprendre le raisonnement protectionniste.** L'usine protégée est vue ; les usines qui n'existent pas parce que la protection a augmenté les coûts et réduit l'investissement ne sont pas vues. Les travailleurs qui conservent leur emploi sont vus ; les consommateurs qui paient des prix plus élevés pour des produits de qualité inférieure et les travailleurs d'autres secteurs qui supportent le coût de la protection ne sont pas vus.
+En effet, Bastiat a identifié ce qu'il a appelé **"le vu et le non-vu"** comme la clé pour comprendre le raisonnement protectionniste. L'usine protégée est vue ; les usines qui n'existent pas parce que la protection a augmenté les coûts et réduit l'investissement ne sont pas vues. Les travailleurs qui conservent leur emploi sont vus ; les consommateurs qui paient des prix plus élevés pour des produits de qualité inférieure et les travailleurs d'autres secteurs qui supportent le coût de la protection ne sont pas vus.
 
 
 ### L'oreiller de la protection douanière
@@ -2093,7 +2093,7 @@ Une application moderne du protectionnisme concerne la restriction de l'immigrat
 ![La Societe d'economie politique: Une anthologie liberale (1841-1928)](assets/en/072.webp)
 
 
-La [*Société d'économie politique*] (https://planb.academy/resources/books/societe-economie-politique-anthologie-3a48e3b5-ef74-4822-b1d9-b030e327b84e), qui réunissait les grands libéraux français du XIXe siècle lors de ses dîners mensuels à Paris, s'est intéressée de près aux lois anti-immigration qui émergeaient dans les sociétés anglo-saxonnes. Ces pays, après avoir dominé les populations autochtones, se retranchent et refusent la concurrence d'autres peuples qui souhaitent participer non par la conquête mais par le contrat et l'échange. Molinari a été l'un des critiques les plus virulents de cette tendance :
+La [*Société d'économie politique*](https://planb.academy/resources/books/societe-economie-politique-anthologie-3a48e3b5-ef74-4822-b1d9-b030e327b84e), qui réunissait les grands libéraux français du XIXe siècle lors de ses dîners mensuels à Paris, s'est intéressée de près aux lois anti-immigration qui émergeaient dans les sociétés anglo-saxonnes. Ces pays, après avoir dominé les populations autochtones, se retranchent et refusent la concurrence d'autres peuples qui souhaitent participer non par la conquête mais par le contrat et l'échange. Molinari a été l'un des critiques les plus virulents de cette tendance :
 
 
 > "La loi anti-immigration est la forme suprême du protectionnisme du travail. Elle dit au travailleur étranger : ton travail ne peut pas concurrencer le nôtre, sous peine d'expulsion. Il s'agit en fait d'une loi de guilde étendue aux frontières de la nation. Son effet est identique à celui des anciennes guildes : il augmente le prix du travail pour ceux qui sont admis et réduit la quantité de production pour tous. La nation qui exclut les travailleurs étrangers s'appauvrit aussi sûrement que la guilde qui excluait les maîtres étrangers"
@@ -2121,7 +2121,7 @@ L'échec de la non-liberté a une longue histoire intellectuelle. Dès le milieu
 ![Louis-Paul Abeille, Ecrits physiocratiques, Institut Coppet edition](assets/en/073.webp)
 
 
-Louis-Paul Abeille (1719-1807), économiste et administrateur breton qui a joué un rôle clé dans le mouvement physiocratique avant de devenir administrateur financier sous l'Ancien Régime et au début de la Révolution, a exprimé l'idée centrale de l'école dans sa [*Lettre d'un négociant sur la nature du commerce des grains*] (https://planb.academy/resources/books/lettre-negociant-commerce-grains-c9ae04c1-d19d-409d-aa37-d6498aafde59) (1763) :
+Louis-Paul Abeille (1719-1807), économiste et administrateur breton qui a joué un rôle clé dans le mouvement physiocratique avant de devenir administrateur financier sous l'Ancien Régime et au début de la Révolution, a exprimé l'idée centrale de l'école dans sa [*Lettre d'un négociant sur la nature du commerce des grains*](https://planb.academy/resources/books/lettre-negociant-commerce-grains-c9ae04c1-d19d-409d-aa37-d6498aafde59) (1763) :
 
 
 > "Il y a mille circonstances qui déterminent le prix, le lieu et le moment où le grain doit être vendu. Le fermier qui l'a produit et le marchand qui désire l'acheter connaissent ces circonstances ; le fonctionnaire qui cherche à réglementer la transaction n'en connaît aucune. Il ne voit que la moyenne ; ils voient le particulier. Il agit sur la base des informations d'hier ; ils agissent sur la base de celles d'aujourd'hui. Il agit sur un principe général ; ils agissent sur un fait particulier. Le résultat de son intervention est donc nécessairement pire que le résultat de leur libre accord, non pas parce qu'il est moins intelligent, mais parce qu'il est moins informé"
@@ -2129,7 +2129,7 @@ Louis-Paul Abeille (1719-1807), économiste et administrateur breton qui a joué
 En d'autres termes, l'argument des physiocrates contre la réglementation des céréales n'était pas fondamentalement un argument moral, bien qu'ils aient également avancé des arguments moraux ; il s'agissait d'un argument épistémique. Les **informations nécessaires pour diriger efficacement la production sont dispersées entre des millions d'individus** et ne peuvent être rassemblées par aucune autorité centrale.
 
 
-En effet, cet héritage intellectuel des physiocrates a été transmis aux libéraux français et à tous les économistes libéraux des XIXe et XXe siècles. Leur réflexion se cristallise autour de la grande question des grains : le blé est la ressource alimentaire majeure de l'époque, sa production et son commerce sont débattus tout au long du siècle. L'État fixe les prix, interdit les transferts entre régions, contrôle les agents économiques et tente d'organiser la distribution de cette denrée essentielle. Le résultat, comme l'ont montré les physiocrates, est toujours le même : **la rareté, la famine et le désordre social
+En effet, cet héritage intellectuel des physiocrates a été transmis aux libéraux français et à tous les économistes libéraux des XIXe et XXe siècles. Leur réflexion se cristallise autour de la grande question des grains : le blé est la ressource alimentaire majeure de l'époque, sa production et son commerce sont débattus tout au long du siècle. L'État fixe les prix, interdit les transferts entre régions, contrôle les agents économiques et tente d'organiser la distribution de cette denrée essentielle. Le résultat, comme l'ont montré les physiocrates, est toujours le même : **la rareté, la famine et le désordre social.**
 
 
 Turgot, le plus brillant des alliés des physiocrates au gouvernement, résume la leçon dans sa célèbre lettre au jeune Louis XVI :
@@ -2140,13 +2140,13 @@ Turgot, le plus brillant des alliés des physiocrates au gouvernement, résume l
 ### La prophétie de Leroy-Beaulieu : "l'esclavage sans le pécule"
 
 
-La tradition libérale française a prolongé cette analyse au XIXe siècle, notamment grâce à Paul Leroy-Beaulieu et à son ouvrage majeur [*Le Collectivisme*] (https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c) (1883). Leroy-Beaulieu s'est attaché à analyser à l'avance le fonctionnement réel d'une société communiste, les théoriciens du communisme, au premier rang desquels Karl Marx, ayant été remarquablement avares de détails sur la société appelée à remplacer le capitalisme.
+La tradition libérale française a prolongé cette analyse au XIXe siècle, notamment grâce à Paul Leroy-Beaulieu et à son ouvrage majeur [*Le Collectivisme*](https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c) (1883). Leroy-Beaulieu s'est attaché à analyser à l'avance le fonctionnement réel d'une société communiste, les théoriciens du communisme, au premier rang desquels Karl Marx, ayant été remarquablement avares de détails sur la société appelée à remplacer le capitalisme.
 
 
 La conclusion de Leroy-Beaulieu est dévastatrice. Selon lui, le communisme constituerait **une forme d'esclavage pire que l'esclavage traditionnel lui-même**
 
 
-> "C'est un esclavage sans pécule, sans possibilité de rachat. L'esclave de l'Antiquité pouvait, dans certains systèmes, acheter sa liberté ; l'homme industrieux pouvait accumuler le prix de sa propre libération. Le citoyen de l'État communiste n'a pas cette possibilité. Il est privé de liberté, sans voie de libération, sans perspective de propriété personnelle, d'autonomie individuelle ou de liberté d'agir selon ses propres idées. Il est, au sens le plus littéral du terme, la propriété de l'État ; et contrairement au propriétaire d'esclaves, l'État est un propriétaire qui ne s'intéresse pas au bien-être de la personne qu'il possède
+> "C'est un esclavage sans pécule, sans possibilité de rachat. L'esclave de l'Antiquité pouvait, dans certains systèmes, acheter sa liberté ; l'homme industrieux pouvait accumuler le prix de sa propre libération. Le citoyen de l'État communiste n'a pas cette possibilité. Il est privé de liberté, sans voie de libération, sans perspective de propriété personnelle, d'autonomie individuelle ou de liberté d'agir selon ses propres idées. Il est, au sens le plus littéral du terme, la propriété de l'État ; et contrairement au propriétaire d'esclaves, l'État est un propriétaire qui ne s'intéresse pas au bien-être de la personne qu'il possède."
 
 ![Slide image from chapter 4.5](assets/en/074.webp)
 
@@ -2191,7 +2191,7 @@ Le vingtième siècle a apporté une confirmation éclatante aux prédictions de
 Leroy-Beaulieu avait écrit, en 1883 :
 
 
-> "L'expérience communiste, lorsqu'elle sera faite, ne réfutera pas notre analyse, elle la confirmera. Elle montrera qu'une société sans propriété privée ne peut ni calculer, ni innover, ni se gouverner démocratiquement. Elle montrera que la tentative d'imposer l'égalité des conditions produit nécessairement, non pas l'égalité, mais une nouvelle hiérarchie : la hiérarchie de ceux qui contrôlent l'Etat contre ceux qui sont contrôlés par lui. Et il montrera que cette nouvelle hiérarchie se révélera bien plus résistante aux réformes que les anciennes hiérarchies de la naissance et de la richesse, parce qu'elle sera armée de tout le pouvoir de l'État et sanctifiée par la rhétorique du bien commun"
+> "L'expérience communiste, lorsqu'elle sera faite, ne réfutera pas notre analyse, elle la confirmera. Elle montrera qu'une société sans propriété privée ne peut ni calculer, ni innover, ni se gouverner démocratiquement. Elle montrera que la tentative d'imposer l'égalité des conditions produit nécessairement, non pas l'égalité, mais une nouvelle hiérarchie : la hiérarchie de ceux qui contrôlent l'État contre ceux qui sont contrôlés par lui. Et il montrera que cette nouvelle hiérarchie se révélera bien plus résistante aux réformes que les anciennes hiérarchies de la naissance et de la richesse, parce qu'elle sera armée de tout le pouvoir de l'État et sanctifiée par la rhétorique du bien commun"
 
 Dans un système libéral, les contrats s'établissent librement entre producteurs et consommateurs dans une relation harmonieuse et pacifique. Le système collectiviste organise, au contraire, **une mise sous tutelle complète de l'individu, remplaçant la libre direction de soi par soi** par les décisions réglementaires et arbitraires d'un pouvoir politique, élu ou non.
 
@@ -2331,7 +2331,7 @@ L'erreur de la tutelle des tutelles est l'une des contradictions les plus remarq
 Quel est exactement le principe de cette tutelle publique ? Il s'agit d'un postulat précis et rarement énoncé : **que les citoyens sont fondamentalement incapables de se gouverner eux-mêmes et qu'ils ont besoin d'une supervision préventive** pour éviter des actes potentiellement nuisibles. Plutôt que de réprimer les véritables violations des droits d'autrui, le système préfère anticiper et superviser, en partant du principe que les individus laissés à eux-mêmes feront des choix inappropriés, mal informés ou contradictoires avec leurs propres intérêts.
 
 
-Bastiat a dénoncé l'absurdité de cette position avec un esprit caractéristique. Dans [*Ce qu'on voit et ce qu'on ne voit pas*] (https://planb.academy/resources/books/ce-quon-voit-et-ce-quon-ne-voit-pas-8eaa83b8-738a-49b9-a29e-fb48b8668fcf) (1850), il observe :
+Bastiat a dénoncé l'absurdité de cette position avec un esprit caractéristique. Dans [*Ce qu'on voit et ce qu'on ne voit pas*](https://planb.academy/resources/books/ce-quon-voit-et-ce-quon-ne-voit-pas-8eaa83b8-738a-49b9-a29e-fb48b8668fcf) (1850), il observe :
 
 
 > Il est étonnant que des hommes qui ne songeraient jamais à dire à leur voisin ce qu'il doit manger pour le dîner n'hésitent pas à dire à une nation entière quelles industries elle doit cultiver, quels salaires elle doit accepter, quels prix elle doit pratiquer et quels contrats elle doit conclure. La même pudeur qui les retient dans la vie privée les abandonne totalement lorsqu'ils entrent dans le domaine de la législation.
@@ -2361,7 +2361,7 @@ Dans nos décisions de consommation, nous comparons quotidiennement les satisfac
 Le marché politique présente des caractéristiques radicalement différentes. Les décisions sont espacées dans le temps et leurs conséquences sont collectives et donc difficiles à examiner pour un individu donné. Une mesure politique peut toucher des personnes totalement invisibles pour l'électeur, ce qui ne permet pas de saisir toutes les implications de son choix. Les élections sont des moments de fièvre collective, où les décisions portent sur des programmes entiers, complexes et difficiles à évaluer dans leur globalité. Sur le marché économique, si je ne suis pas satisfait d'un achat, je peux changer immédiatement de fournisseur. Sur le marché politique, je dois attendre des années et accepter les conséquences de choix que je n'aurais peut-être jamais voulus. **S'il existe une incapacité à choisir judicieusement, c'est précisément dans la sphère politique que cette incapacité devrait se manifester le plus fortement**.
 
 
-Leroy-Beaulieu le précise dans [*L'État moderne et ses fonctions*] (https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621) (1890) :
+Leroy-Beaulieu le précise dans [*L'État moderne et ses fonctions*](https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621) (1890) :
 
 
 > Le législateur qui prétend savoir mieux que le consommateur ce dont celui-ci a besoin est dans la position d'un médecin qui n'a jamais examiné son patient mais qui prescrit des médicaments sur la base de la moyenne statistique de tous les patients du pays. Le consommateur connaît ses propres besoins, goûts et circonstances avec une intimité qu'aucune autorité centrale ne pourra jamais approcher. Le marché n'est pas un mécanisme d'exploitation, c'est un mécanisme de connaissance.
@@ -2376,10 +2376,10 @@ Alexis de Tocqueville (1805-1859), aristocrate normand devenu sociologue politiq
 ![Portrait of Alexis de Tocqueville (1805-1859), French political thinker](assets/en/101.webp)
 
 
-L'analyse de Tocqueville est remarquable par sa prescience. Écrivant dans les années 1830, il observait déjà les seed d'un despotisme doux dans la démocratie la plus réussie de son époque :
+L'analyse de Tocqueville est remarquable par sa prescience. Écrivant dans les années 1830, il observait déjà les germes d'un despotisme doux dans la démocratie la plus réussie de son époque :
 
 
-> Je vois une multitude innombrable d'hommes, semblables et égaux, qui tournent sans cesse en rond à la poursuite des plaisirs mesquins et banals dont ils gavent leur âme. Chacun d'eux, replié sur lui-même, ignore presque tout du sort des autres. Sur ces derniers s'élève une puissance immense, tutélaire, qui se charge seule d'assurer leur jouissance et de veiller sur leur sort. Cette puissance est absolue, infime, régulière, prévoyante et douce. Elle ressemblerait à l'autorité parentale si, comme elle, elle avait pour objet de préparer les hommes à la virilité ; elle cherche, au contraire, à les maintenir dans une perpétuelle enfance.
+> Je vois une multitude innombrable d'hommes, semblables et égaux, qui tournent sans cesse en rond à la poursuite des plaisirs mesquins et banals dont ils gavent leur âme. Chacun d'eux, replié sur lui-même, ignore presque tout du sort des autres. Sur ces derniers s'élève une puissance immense, tutélaire, qui se charge seule d'assurer leur jouissance et de veiller sur leur sort. Cette puissance est absolue, minutieuse, régulière, prévoyante et douce. Elle ressemblerait à l'autorité parentale si, comme elle, elle avait pour objet de préparer les hommes à la virilité ; elle cherche, au contraire, à les maintenir dans une perpétuelle enfance.
 
 En d'autres termes, Tocqueville prévoyait que **le plus grand danger de la démocratie n'était pas une révolution violente mais un doux étouffement** : le lent remplacement de l'initiative individuelle par l'administration collective, jusqu'à ce que les citoyens perdent la capacité même d'auto-gouvernance que la démocratie présuppose.
 
@@ -2445,12 +2445,12 @@ Si ces sophismes sont facilement reconnaissables par un œil averti, le grand pu
 L'un des principaux sophismes économiques identifiés par Bastiat concerne l'inversion fondamentale entre le travail comme fin et le travail comme moyen. Mais quelle est précisément l'erreur ?
 
 
-Les protectionnistes présentent le travail comme une fin en soi : ils cherchent à le défendre et à faire travailler davantage les gens. Cette perspective les conduit à valoriser le travail comme une dépense de force et d'énergie, sans se préoccuper des résultats concrets de cette activité. Ils célèbrent le coût pour l'individu, plutôt que de s'interroger sur ce qu'il accomplit. Dans [*Sophismes économiques*] (https://planb.academy/resources/books/sophismes-economiques-9ccb727f-d253-4188-9cc6-74c1e6ce6a16), Bastiat fait la satire de cette logique avec une précision dévastatrice :
+Les protectionnistes présentent le travail comme une fin en soi : ils cherchent à le défendre et à faire travailler davantage les gens. Cette perspective les conduit à valoriser le travail comme une dépense de force et d'énergie, sans se préoccuper des résultats concrets de cette activité. Ils célèbrent le coût pour l'individu, plutôt que de s'interroger sur ce qu'il accomplit. Dans [*Sophismes économiques*](https://planb.academy/resources/books/sophismes-economiques-9ccb727f-d253-4188-9cc6-74c1e6ce6a16), Bastiat fait la satire de cette logique avec une précision dévastatrice :
 
 
 > Protéger l'industrie, c'est empêcher l'échange. Empêcher l'échange, c'est obliger les hommes à produire plus laborieusement ce qu'ils pourraient obtenir plus facilement. Forcer les hommes à produire plus laborieusement, ce n'est pas créer de la richesse, c'est créer de la pauvreté. Le protectionniste, qui défend le travail en tant que tel, est comme un médecin qui prescrit la maladie comme un remède.
 
-Les libéraux adoptent une perspective radicalement différente, **en se concentrant sur les effets du travail plutôt que sur le travail lui-même**. Le véritable objectif est d'obtenir pour les travailleurs le maximum de satisfaction en échange d'une même quantité de travail, et non de maximiser le travail en perdant de vue sa finalité. Leroy-Beaulieu l'affirme avec force dans [*Essai sur la répartition des richesses*] (https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1881) :
+Les libéraux adoptent une perspective radicalement différente, **en se concentrant sur les effets du travail plutôt que sur le travail lui-même**. Le véritable objectif est d'obtenir pour les travailleurs le maximum de satisfaction en échange d'une même quantité de travail, et non de maximiser le travail en perdant de vue sa finalité. Leroy-Beaulieu l'affirme avec force dans [*Essai sur la répartition des richesses*](https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1881) :
 
 
 > La question n'est pas de savoir combien les hommes ont travaillé, mais combien ils ont obtenu pour leur travail. La civilisation ne consiste pas à multiplier le travail humain, elle consiste à diminuer le travail nécessaire pour satisfaire un besoin donné. Chaque invention, chaque amélioration de méthode, chaque extension du commerce est une réduction de la quantité de travail que la vie exige de nous. C'est cela le progrès.
@@ -2462,7 +2462,7 @@ En d'autres termes, **le protectionniste célèbre l'effort, le libéral célèb
 ### Faux liens logiques et opposition fictive d'intérêts
 
 
-Un autre sophisme qui a beaucoup préoccupé Bastiat est le raisonnement qu'il résume par *post hoc, ergo propter hoc* : "après ceci, donc à cause de cela" Cela recouvre les inversions causales et les fausses connexions logiques établies par les socialistes et les protectionnistes :
+Un autre sophisme qui a beaucoup préoccupé Bastiat est le raisonnement qu'il résume par *post hoc, ergo propter hoc* : "après ceci, donc à cause de cela." Cela recouvre les inversions causales et les fausses connexions logiques établies par les socialistes et les protectionnistes :
 
 
 > Ils observent que dans le pays A, où les droits de douane sont élevés, l'industrie est florissante. Ils en concluent que les droits de douane sont la cause de cette prospérité. Mais ils oublient de poser la question suivante : l'industrie n'aurait-elle pas été encore plus florissante sans les droits de douane ? Ils oublient de demander : qu'est-ce qui a été détruit ou empêché ailleurs par les ressources détournées vers les industries protégées ? Ils voient l'usine protégée, ils ne voient pas l'atelier à naître.
@@ -2475,7 +2475,7 @@ Dans son œuvre maîtresse inachevée [*Les Harmonies économiques*](https://pla
 
 > Je m'engage à prouver que les intérêts des hommes, dans une société libre, sont harmonieux et non contradictoires. Je m'engage à prouver que l'intérêt commun des producteurs et des consommateurs n'est pas de se priver, mais d'échanger. Ce qui est bon pour l'acheteur est bon pour le vendeur ; ce qui est bon pour la France est bon pour l'Angleterre ; ce qui crée la richesse dans un pays n'en appauvrit pas un autre. Telles sont les harmonies que le sophisme a occultées.
 
-En d'autres termes, **tout l'édifice de la pensée protectionniste et socialiste repose sur l'hypothèse que la vie sociale est un jeu à somme nulle**, dans lequel mon gain doit être votre perte. Bastiat démontre qu'il s'agit là d'une relique de la pensée tribale archaïque, et non d'une analyse de la société commerciale moderne. En effet, lorsque les individus échangent et concluent des contrats volontaires, les deux parties en profitent. L'opposition des intérêts appartient aux conceptions du passé le plus lointain, où les conditions de production créaient effectivement des conflits, comme entre deux tribus se disputant le même terrain de chasse. Cette vision archaïque perdure malheureusement dans la pensée économique contemporaine, à travers la notion de balance commerciale ou l'idée qu'il ne faut pas "enrichir ses ennemis" Dans les relations entre clients et fournisseurs, le vocabulaire des ennemis et de l'enrichissement au détriment des autres n'a tout simplement pas sa place.
+En d'autres termes, **tout l'édifice de la pensée protectionniste et socialiste repose sur l'hypothèse que la vie sociale est un jeu à somme nulle**, dans lequel mon gain doit être votre perte. Bastiat démontre qu'il s'agit là d'une relique de la pensée tribale archaïque, et non d'une analyse de la société commerciale moderne. En effet, lorsque les individus échangent et concluent des contrats volontaires, les deux parties en profitent. L'opposition des intérêts appartient aux conceptions du passé le plus lointain, où les conditions de production créaient effectivement des conflits, comme entre deux tribus se disputant le même terrain de chasse. Cette vision archaïque perdure malheureusement dans la pensée économique contemporaine, à travers la notion de balance commerciale ou l'idée qu'il ne faut pas "enrichir ses ennemis." Dans les relations entre clients et fournisseurs, le vocabulaire des ennemis et de l'enrichissement au détriment des autres n'a tout simplement pas sa place.
 
 
 
@@ -2525,7 +2525,7 @@ En d'autres termes, **l'existence de classes sociales oppressives n'est pas une 
 L'interprétation socialiste et communiste affirme que les classes sociales persistent dans les sociétés modernes, en maintenant moins de liberté pour certaines parties de la population. Mais lorsque nous analysons rigoureusement ce que les classes sociales signifient réellement dans le présent, nous découvrons des contradictions fondamentales.
 
 
-Paul Leroy-Beaulieu (1843-1916), dont la productivité est légendaire, ayant produit au cours de sa longue carrière plus de quarante volumes sur l'économie, la politique coloniale et les questions sociales, tente dans [*Le Collectivisme*](https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c) (1884) de prendre au sérieux les revendications des socialistes en examinant leur vocabulaire opposant les "travailleurs" à l'élite détentrice des "moyens de production" Son analyse est dévastatrice :
+Paul Leroy-Beaulieu (1843-1916), dont la productivité est légendaire, ayant produit au cours de sa longue carrière plus de quarante volumes sur l'économie, la politique coloniale et les questions sociales, tente dans [*Le Collectivisme*](https://planb.academy/resources/books/le-collectivisme-d79dc3a7-7b77-4698-89e6-440312e2da2c) (1884) de prendre au sérieux les revendications des socialistes en examinant leur vocabulaire opposant les "travailleurs" à l'élite détentrice des "moyens de production." Son analyse est dévastatrice :
 
 
 > Les socialistes nous demandent de diviser l'humanité en deux groupes : ceux qui possèdent les moyens de production et ceux qui ne les possèdent pas. Mais qui, précisément, appartient au premier groupe ? Le grand propriétaire d'usine, certes. Mais aussi l'artisan qui possède ses outils, le paysan qui possède sa charrue, le médecin qui possède ses instruments médicaux, l'avocat qui possède sa bibliothèque. Et qui appartient au deuxième groupe ? L'ouvrier d'usine, dit-on. Mais aussi, selon la même logique, le grand artiste qui n'a pas d'atelier, le journaliste distingué qui écrit pour le compte d'autrui, le savant célèbre qui travaille dans un laboratoire universitaire. Cette classification produit des absurdités à tout bout de champ.
@@ -2536,7 +2536,7 @@ Paul Leroy-Beaulieu (1843-1916), dont la productivité est légendaire, ayant pr
 Ces notions s'avèrent extrêmement difficiles à appliquer dans la pratique. Les artistes et chanteurs fortunés ne possèdent pas les moyens de production. Un grand footballeur serait logiquement un prolétaire, puisque même le ballon n'appartient pas aux joueurs. Un journaliste, un grand scientifique ou un avocat seraient également des prolétaires, puisqu'ils travaillent avec leurs mains et leur intellect sans posséder les outils de leur métier.
 
 
-Dans son [*Essai sur la répartition des richesses*] (https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1881), Leroy-Beaulieu démontre que les sociétés modernes sont organisées autour du travail : nous devons constamment racheter nos richesses par le travail, et le développement du capital est lui-même un travail quotidien d'analyse du marché et d'investissement :
+Dans son [*Essai sur la répartition des richesses*](https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1881), Leroy-Beaulieu démontre que les sociétés modernes sont organisées autour du travail : nous devons constamment racheter nos richesses par le travail, et le développement du capital est lui-même un travail quotidien d'analyse du marché et d'investissement :
 
 
 > La distinction entre capitaliste et travailleur est beaucoup moins stable dans une société libre que ne l'imagine le socialiste. Le travailleur d'aujourd'hui devient le petit épargnant de demain ; le petit épargnant devient l'investisseur ; l'investisseur devient l'entrepreneur. Cette mobilité, si caractéristique des sociétés libres, est précisément ce que le socialisme veut supprimer. En la supprimant, il supprimerait le mécanisme même par lequel les hommes passent de la pauvreté à la prospérité.
@@ -2551,7 +2551,7 @@ En d'autres termes, **les catégories marxistes, qui avaient un sens approximati
 Contrairement à l'idée d'exploitation, certains groupes traditionnellement défavorisés bénéficient particulièrement du développement de l'économie de marché. Mais les faits confirment-ils cette affirmation ? Oui, et les penseurs libéraux du dix-neuvième siècle les ont documentées avec un soin remarquable.
 
 
-Leroy-Beaulieu, dans [*Le travail des femmes au XIXe siècle*] (https://planb.academy/resources/books/travail-femmes-xixe-siecle-54948668-2c21-4343-9c31-3c8dfd9a7dfc) (1873), montre que les femmes sont parmi les plus grands bénéficiaires du progrès capitaliste :
+Leroy-Beaulieu, dans [*Le travail des femmes au XIXe siècle*](https://planb.academy/resources/books/travail-femmes-xixe-siecle-54948668-2c21-4343-9c31-3c8dfd9a7dfc) (1873), montre que les femmes sont parmi les plus grands bénéficiaires du progrès capitaliste :
 
 
 > Dans les sociétés anciennes, la position de la femme était celle d'un être fait pour le service, dépendant de la volonté arbitraire d'un père ou d'un mari. Son moindre pouvoir de production et l'insécurité générale de la vie la pénalisaient de manière disproportionnée. Dans la société commerciale moderne, fondée sur le contrat volontaire et l'État de droit, deux choses changent fondamentalement : la sécurité s'améliore, de sorte que la force physique devient moins décisive ; et comme le travail devient de plus en plus mécanique et intellectuel, la différence de capacité physique entre les hommes et les femmes perd de son importance économique. Le marché ne se préoccupe pas du sexe, il se préoccupe du service rendu.
@@ -2575,7 +2575,7 @@ L'affirmation socialiste selon laquelle les pauvres deviennent de plus en plus p
 ![Portrait of Paul Leroy-Beaulieu (1843-1916), French economist](assets/en/085.webp)
 
 
-Leroy-Beaulieu démontre dans [*Essai sur la répartition des richesses*] (https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1881) que la tendance réelle des sociétés fondées sur le contrat et l'échange volontaire est l'amélioration constante de la condition des masses :
+Leroy-Beaulieu démontre dans [*Essai sur la répartition des richesses*](https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1881) que la tendance réelle des sociétés fondées sur le contrat et l'échange volontaire est l'amélioration constante de la condition des masses :
 
 
 > Les critiques de l'ordre existant soulignent le luxe des riches comme preuve de l'exploitation. Mais ils négligent d'observer que les marchandises autrefois réservées aux rois sont aujourd'hui à la portée du travailleur ordinaire. La chemise en coton, la fenêtre en verre, le livre imprimé, l'outil en métal : c'étaient des luxes au Moyen-Âge. Ce sont des nécessités aujourd'hui. Voilà ce que le progrès de l'industrie et des échanges a accompli. Il n'a pas enrichi les riches aux dépens des pauvres ; il a enrichi les uns et les autres, et les pauvres proportionnellement plus, puisqu'ils ont eu accès à des biens qu'aucune richesse n'aurait pu acheter auparavant.
@@ -2583,7 +2583,7 @@ Leroy-Beaulieu démontre dans [*Essai sur la répartition des richesses*] (https
 **Les biens de consommation sont disponibles à des prix de plus en plus bas et la productivité du travail augmente continuellement**. Pour s'en convaincre, il suffit d'observer la taille des logements, la qualité et le renouvellement fréquent des vêtements, ainsi que l'amélioration de l'alimentation.
 
 
-Cependant, les auteurs libéraux font également preuve d'une forte sensibilité à l'égard de la pauvreté et des faibles, héritée du siècle des Lumières. La lutte de Turgot pour la liberté du travail visait précisément à permettre à chacun de vivre de son travail, y compris les femmes exclues des guildes masculines. Bastiat, au XIXe siècle, a mené son combat pour la liberté du commerce explicitement en faveur des pauvres. Dans [*Sophismes économiques*] (https://planb.academy/resources/books/sophismes-economiques-9ccb727f-d253-4188-9cc6-74c1e6ce6a16), il s'adresse directement aux protectionnistes :
+Cependant, les auteurs libéraux font également preuve d'une forte sensibilité à l'égard de la pauvreté et des faibles, héritée du siècle des Lumières. La lutte de Turgot pour la liberté du travail visait précisément à permettre à chacun de vivre de son travail, y compris les femmes exclues des guildes masculines. Bastiat, au XIXe siècle, a mené son combat pour la liberté du commerce explicitement en faveur des pauvres. Dans [*Sophismes économiques*](https://planb.academy/resources/books/sophismes-economiques-9ccb727f-d253-4188-9cc6-74c1e6ce6a16), il s'adresse directement aux protectionnistes :
 
 
 > Vous dites défendre le travailleur. Mais le travailleur est aussi un consommateur. Chaque tarif qui augmente le prix du fer augmente le prix de ses outils. Chaque tarif qui augmente le prix du blé augmente le prix de son pain. Toute restriction à l'échange est une taxe payée par le plus grand nombre au profit de quelques-uns. Si vous vous souciez vraiment des pauvres, vous les libérerez de ces fardeaux.
@@ -2608,12 +2608,12 @@ La pensée socialiste et communiste adopte une position théorique particulière
 ![Charles Comte, Traite de la propriete (1834)](assets/en/086.webp)
 
 
-Charles Comte, dans son [*Traité de la propriété*] (https://planb.academy/resources/books/traite-de-la-propriete-80de2b10-5ea1-4fb6-b9c7-b52b312bfa05) (1834), répond à cette attaque de front en fondant les droits de propriété sur les faits naturels de l'existence humaine :
+Charles Comte, dans son [*Traité de la propriété*](https://planb.academy/resources/books/traite-de-la-propriete-80de2b10-5ea1-4fb6-b9c7-b52b312bfa05) (1834), répond à cette attaque de front en fondant les droits de propriété sur les faits naturels de l'existence humaine :
 
 
 > La propriété n'est pas une invention des législateurs, ni une convention des citoyens. Elle est une conséquence de la nature de l'homme et de sa condition sur terre. L'homme doit manger pour vivre ; pour manger, il doit produire ; pour produire, il doit avoir l'usage de la terre et des outils ; pour faire un usage continu de la terre et des outils, il doit avoir l'assurance qu'il n'en sera pas dépossédé. La propriété n'est rien d'autre que cette assurance, élevée au rang de droit. La détruire, c'est détruire non pas l'inégalité, mais la production elle-même.
 
-En effet, la critique s'étend naturellement à l'héritage, considéré comme une transmission injuste de la richesse qui devrait être organisée politiquement plutôt que laissée à la libre décision des individus. Mais cette critique repose sur une confusion fondamentale. Pour les libéraux, **l'héritage est le prolongement logique du droit de propriété**. Si je suis vraiment propriétaire, j'ai la liberté de faire ce que je veux de mon patrimoine : le donner, le vendre ou le transmettre à mes héritiers. Guyot le dit avec une franchise caractéristique dans [*La Tyrannie collectiviste*] (https://planb.academy/resources/books/la-tyrannie-collectiviste-ebe666d6-3a27-4b6e-8fd3-74729817652c) (1893) :
+En effet, la critique s'étend naturellement à l'héritage, considéré comme une transmission injuste de la richesse qui devrait être organisée politiquement plutôt que laissée à la libre décision des individus. Mais cette critique repose sur une confusion fondamentale. Pour les libéraux, **l'héritage est le prolongement logique du droit de propriété**. Si je suis vraiment propriétaire, j'ai la liberté de faire ce que je veux de mon patrimoine : le donner, le vendre ou le transmettre à mes héritiers. Guyot le dit avec une franchise caractéristique dans [*La Tyrannie collectiviste*](https://planb.academy/resources/books/la-tyrannie-collectiviste-ebe666d6-3a27-4b6e-8fd3-74729817652c) (1893) :
 
 
 > Nier le droit d'héritage, c'est nier le droit de propriété. Car qu'est-ce que la propriété, sinon le pouvoir de disposer d'une chose à sa guise, y compris après sa mort ? Un droit de propriété qui s'éteint avec son titulaire n'est pas un droit de propriété, c'est un bail à vie accordé par l'État, révocable selon le bon vouloir du législateur. Appelez-le comme vous voulez, mais ne l'appelez pas propriété.
@@ -2628,7 +2628,7 @@ En d'autres termes, **le libre échange lui-même repose sur ce respect fondamen
 Pour comprendre le paradoxe entre le rejet socialiste de la propriété privée et la défense de la propriété nationale, il faut analyser comment la propriété naît à l'intérieur de ses frontières collectives et nationales. Mais d'où vient le droit d'une nation sur son territoire ?
 
 
-Comte, dans son [*Traité de la propriété*] (https://planb.academy/resources/books/traite-de-la-propriete-80de2b10-5ea1-4fb6-b9c7-b52b312bfa05), retrace l'origine de la propriété territoriale à travers une analyse historique minutieuse. Les tribus et groupes humains ancestraux **ont pris possession des territoires, parfois par la violence, mais souvent simplement par la première découverte de nouvelles terres**. Ce travail de découverte n'était pas simple : il s'accompagnait d'un effort considérable de conservation face aux dangers constants que représentait l'installation dans un lieu inconnu.
+Comte, dans son [*Traité de la propriété*](https://planb.academy/resources/books/traite-de-la-propriete-80de2b10-5ea1-4fb6-b9c7-b52b312bfa05), retrace l'origine de la propriété territoriale à travers une analyse historique minutieuse. Les tribus et groupes humains ancestraux **ont pris possession des territoires, parfois par la violence, mais souvent simplement par la première découverte de nouvelles terres**. Ce travail de découverte n'était pas simple : il s'accompagnait d'un effort considérable de conservation face aux dangers constants que représentait l'installation dans un lieu inconnu.
 
 
 Le transfert d'un groupe humain vers une nouvelle région est semé d'embûches. Les hommes doivent survivre dans des conditions inconnues alors qu'ils savaient auparavant où puiser leurs moyens de subsistance. Il faut lutter contre le climat, les animaux de proie, l'incertitude d'un sol inconnu. Ce travail de prise de possession se paye souvent au prix de la vie. Comme l'observe Comte :
@@ -2704,15 +2704,15 @@ Quel est l'élément fondamental des sociétés libres ? C'est le contrat : **l'
 Charles Dunoyer (1786-1862), le grand économiste libéral et l'un des fondateurs de la *Revue encyclopédique*, l'a compris avec une profondeur particulière. Ami intime de Charles Comte et infatigable défenseur de la société industrielle contre les vestiges des privilèges féodaux, il écrit dans son [*De la liberté du travail*](https://planb.academy/resources/books/de-la-liberte-du-travail-edf7f393-d110-4a18-96f4-fcc477f0b49c) (1845) :
 
 
-> "Le Contract n'est pas une simple formalité juridique. C'est le tissu vivant de la société civilisée. Là où le contrat gouverne, les hommes traitent entre eux d'égal à égal ; là où le commandement gouverne, une partie est l'instrument de la volonté d'une autre. Toute l'histoire du progrès est l'histoire de l'avance du contrat sur le commandement"
+> "Le Contrat n'est pas une simple formalité juridique. C'est le tissu vivant de la société civilisée. Là où le contrat gouverne, les hommes traitent entre eux d'égal à égal ; là où le commandement gouverne, une partie est l'instrument de la volonté d'une autre. Toute l'histoire du progrès est l'histoire de l'avance du contrat sur le commandement"
 
 En effet, le contrat volontaire est aussi le ciment de la société elle-même. La société peut être définie comme la multiplicité des échanges entre les individus : sans échange ni contrat, elle n'existe qu'en fait, comme une agrégation brute de corps en proximité. Elle ne prend forme, véritablement, que par le contrat et l'association volontaire. Ce fonctionnement contractuel est le fondement de l'harmonie et de la paix sociale, car il repose sur des relations mutuellement avantageuses et librement négociées. Lorsqu'une personne choisit de conclure un contrat, c'est précisément parce qu'elle trouve un avantage à effectuer la transaction plutôt qu'à s'abstenir. En d'autres termes, **tout échange volontaire est déjà la preuve que les deux parties y ont gagné** : l'acte même de contracter réfute l'idée d'exploitation.
 
 
-Frédéric Bastiat (1801-1850), l'économiste de Mugron dont les [*Harmonies économiques*] (https://planb.academy/resources/books/harmonies-economiques-66561d29-feb2-495c-815d-cea521b1930c) restent l'une des plus puissantes défenses du marché libre jamais écrites, l'a exprimé avec l'élégance qui le caractérise :
+Frédéric Bastiat (1801-1850), l'économiste de Mugron dont les [*Harmonies économiques*](https://planb.academy/resources/books/harmonies-economiques-66561d29-feb2-495c-815d-cea521b1930c) restent l'une des plus puissantes défenses du marché libre jamais écrites, l'a exprimé avec l'élégance qui le caractérise :
 
 
-> "Le Exchange est la société elle-même. C'est le lien de sympathie qui unit les hommes entre eux, le grand moteur de la civilisation, puisque par lui chacun se met au service de tous, et tous au service de chacun. Restreindre l'échange, c'est restreindre la société ; abolir l'échange, c'est ramener l'humanité à la barbarie"
+> "L'échange est la société elle-même. C'est le lien de sympathie qui unit les hommes entre eux, le grand moteur de la civilisation, puisque par lui chacun se met au service de tous, et tous au service de chacun. Restreindre l'échange, c'est restreindre la société ; abolir l'échange, c'est ramener l'humanité à la barbarie"
 
 En d'autres termes, **la propriété et la liberté, loin de s'opposer à la solidarité, en sont la condition même**. Le contrat n'est pas le froid instrument de calcul que ses détracteurs imaginent ; il est la forme que prend la coopération humaine volontaire lorsqu'elle respecte l'égale dignité des deux parties.
 
@@ -2726,7 +2726,7 @@ Le travail est l'un des actes humains les plus fondamentaux, et sa liberté couv
 ![Slide image from chapter 6.1](assets/en/088.webp)
 
 
-Charles Dunoyer, dont les trois volumes [*De la liberté du travail*] (https://planb.academy/resources/books/de-la-liberte-du-travail-edf7f393-d110-4a18-96f4-fcc477f0b49c) constituent le traitement le plus systématique de cette question dans toute la tradition libérale française, a écrit :
+Charles Dunoyer, dont les trois volumes [*De la liberté du travail*](https://planb.academy/resources/books/de-la-liberte-du-travail-edf7f393-d110-4a18-96f4-fcc477f0b49c) constituent le traitement le plus systématique de cette question dans toute la tradition libérale française, a écrit :
 
 
 > "Il n'y a peut-être pas de question d'économie politique plus importante ou moins bien comprise que celle de la liberté du travail. Les hommes parlent volontiers de la liberté dans l'abstrait ; ils sont beaucoup moins disposés à la reconnaître dans le domaine concret de l'industrie, du commerce et du travail. Et pourtant, c'est précisément là que la liberté est la plus nécessaire, la plus bénéfique et la plus constamment violée par les législateurs qui se croient ses amis"
@@ -2754,15 +2754,15 @@ La liberté bancaire et monétaire est une application particulière de la liber
 ![Courcelle-Seneuil, La Banque libre, Institut Coppet edition](assets/en/089.webp)
 
 
-Courcelle-Seneuil, dans son ouvrage [*La Banque libre*] (https://planb.academy/resources/books/la-banque-libre-cddc59e1-3778-4feb-b2c2-735dc18433b2) (1867), énonce le principe fondamental avec une franchise caractéristique :
+Courcelle-Seneuil, dans son ouvrage [*La Banque libre*](https://planb.academy/resources/books/la-banque-libre-cddc59e1-3778-4feb-b2c2-735dc18433b2) (1867), énonce le principe fondamental avec une franchise caractéristique :
 
 
-> "La monnaie n'est pas un instrument de souveraineté, c'est un instrument d'échange. L'Etat n'a pas plus créé la monnaie qu'il n'a créé la langue ou les poids et mesures que le commerce a spontanément adoptés bien avant que les rois ne songent à les réglementer. Accorder à l'État le monopole de la création monétaire, c'est donc confisquer à la société un outil qui lui appartient, et mettre au service du pouvoir ce que la nature a conçu pour le service de tous"
+> "La monnaie n'est pas un instrument de souveraineté, c'est un instrument d'échange. L'État n'a pas plus créé la monnaie qu'il n'a créé la langue ou les poids et mesures que le commerce a spontanément adoptés bien avant que les rois ne songent à les réglementer. Accorder à l'État le monopole de la création monétaire, c'est donc confisquer à la société un outil qui lui appartient, et mettre au service du pouvoir ce que la nature a conçu pour le service de tous"
 
-En effet, Courcelle-Seneuil affirme les idées de la Révolution française sur la liberté du travail et de la propriété, expliquant qu'il n'y a aucune raison de justifier un monopole public de la monnaie. **La gratuité rendrait les services bancaires et monétaires accessibles à un plus grand nombre de personnes**, y compris les paysans qui étaient exclus du système à l'époque. Comme en Écosse et dans certains États américains de l'époque, la liberté bancaire et monétaire encourage l'innovation et le progrès, poussés par l'intérêt personnel qui motive les acteurs du marché à développer de nouvelles solutions pour satisfaire les consommateurs.
+En effet, Courcelle-Seneuil affirme les idées de la Révolution française sur la liberté du travail et de la propriété, expliquant qu'il n'y a aucune raison de justifier un monopole public de la monnaie. **La liberté bancaire rendrait les services bancaires et monétaires accessibles à un plus grand nombre de personnes**, y compris les paysans qui étaient exclus du système à l'époque. Comme en Écosse et dans certains États américains de l'époque, la liberté bancaire et monétaire encourage l'innovation et le progrès, poussés par l'intérêt personnel qui motive les acteurs du marché à développer de nouvelles solutions pour satisfaire les consommateurs.
 
 
-Charles Coquelin, dans son [*Du crédit et des banques*] (https://planb.academy/resources/books/du-credit-et-des-banques-4a34b98d-feda-4228-bf48-e14df159cf11) (1848), a renforcé l'argument sous un angle historique :
+Charles Coquelin, dans son [*Du crédit et des banques*](https://planb.academy/resources/books/du-credit-et-des-banques-4a34b98d-feda-4228-bf48-e14df159cf11) (1848), a renforcé l'argument sous un angle historique :
 
 
 > "Tout examen historique de la monnaie conduit à la même conclusion : les crises monétaires sont les enfants du monopole. Là où les banques se font librement concurrence, chacune est contrainte par la nécessité de maintenir la confiance ; là où une seule banque détient le privilège d'émission, elle n'est contrainte par rien, si ce n'est par l'intervention occasionnelle et tardive des gouvernements qui se retrouvent, en fin de compte, victimes du monstre même qu'ils ont créé."
@@ -2781,7 +2781,7 @@ En d'autres termes, **la liberté monétaire n'est pas une position théorique e
 ### La réduction des pouvoirs de l'État
 
 
-Le programme politique de la liberté repose fondamentalement sur une réduction drastique des pouvoirs de l'Etat, notamment ceux considérés comme parasitaires. Cette idée traverse toute la tradition libérale française, depuis le marquis d'Argenson (1694-1757), qui écrivait dans ses "Considérations sur le gouvernement ancien et présent de la France" que "pour mieux gouverner, il faut moins gouverner", jusqu'aux physiocrates du XVIIIe siècle, avec leur célèbre principe du "laissez faire", en passant par les grands penseurs du XIXe siècle, dont le programme politique est fondé sur la réduction des pouvoirs de l'État, avec leur célèbre principe du "laissez faire", aux grands penseurs du XIXe siècle comme Paul Leroy-Beaulieu (1843-1916), rédacteur de "L'Économiste français" et auteur du monumental [*L'État moderne et ses fonctions*] (https ://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621) (1890). Si ces auteurs reconnaissent à l'État un certain nombre de pouvoirs nécessaires, notamment en matière de police, de justice et de certains aspects de l'exécution des contrats, ils s'accordent tous sur la nécessité de limiter strictement son champ d'action.
+Le programme politique de la liberté repose fondamentalement sur une réduction drastique des pouvoirs de l'État, notamment ceux considérés comme parasitaires. Cette idée traverse toute la tradition libérale française, depuis le marquis d'Argenson (1694-1757), qui écrivait dans ses "Considérations sur le gouvernement ancien et présent de la France" que "pour mieux gouverner, il faut moins gouverner", jusqu'aux physiocrates du XVIIIe siècle, avec leur célèbre principe du "laissez faire", en passant par les grands penseurs du XIXe siècle comme Paul Leroy-Beaulieu (1843-1916), rédacteur de "L'Économiste français" et auteur du monumental [*L'État moderne et ses fonctions*](https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621) (1890). Si ces auteurs reconnaissent à l'État un certain nombre de pouvoirs nécessaires, notamment en matière de police, de justice et de certains aspects de l'exécution des contrats, ils s'accordent tous sur la nécessité de limiter strictement son champ d'action.
 
 
 ![Slide image from chapter 6.2](assets/en/090.webp)
@@ -2790,7 +2790,7 @@ Le programme politique de la liberté repose fondamentalement sur une réduction
 Quelle est la distinction fondamentale autour de laquelle tourne ce débat ? C'est **la distinction entre l'État en tant que gardien des droits et l'État en tant que producteur de services**. Tous les libéraux reconnaissent la légitimité du premier rôle. Le second fait l'objet d'un examen minutieux. D'un côté, il y a les attributions nécessaires : principalement l'établissement d'un État de droit, la protection de la liberté contractuelle, l'exécution des contrats et la défense des droits individuels contre les violations. D'autre part, il y a des fonctions auxiliaires, dont beaucoup sont parfaitement adaptées à l'initiative privée, à la libre association et à l'économie de marché. L'histoire montre, comme l'a démontré Leroy-Beaulieu à l'aide de nombreuses preuves empiriques, que les routes et les ponts, les canaux et les ouvrages hydrauliques ont souvent été construits et gérés par le secteur privé dans de nombreuses sociétés, avec d'excellents résultats.
 
 
-Leroy-Beaulieu écrit dans [*L'État moderne et ses fonctions*] (https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621) avec l'assurance d'un homme qui a étudié les statistiques d'une douzaine de nations :
+Leroy-Beaulieu écrit dans [*L'État moderne et ses fonctions*](https://planb.academy/resources/books/letat-moderne-fonctions-7f41f6c6-8cf6-4902-b931-7ce9bf132621) avec l'assurance d'un homme qui a étudié les statistiques d'une douzaine de nations :
 
 
 > "Plus on examine l'histoire des travaux publics, plus on constate que l'entreprise privée a précédé et dépassé l'action de l'État dans pratiquement tous les domaines. L'État est généralement intervenu là où le capital privé avait déjà démontré la rentabilité de l'entreprise, et il l'a fait à un coût plus élevé et avec moins d'efficacité. Il ne s'agit pas d'un accident, mais d'une caractéristique structurelle de toute organisation qui est à l'abri de la discipline de la concurrence et de la sanction du profit et de la perte"
@@ -2810,15 +2810,15 @@ L'État, dans toutes ses manifestations économiques, est un mécanisme déficie
 Leroy-Beaulieu, dans son [*Essai sur la répartition des richesses*](https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1883), a saisi le mécanisme avec précision :
 
 
-> "L'agent de l'État ne perd pas son propre argent lorsqu'il se trompe, il perd l'argent des autres. Il ne gagne pas lorsqu'il réussit au-delà des espérances ; il ne gagne que son salaire fixe. Il n'y a pas de relation directe et personnelle entre ses efforts et ses récompenses. C'est pourquoi l'Etat, quelles que soient les bonnes intentions de ses serviteurs, produira toujours à un coût plus élevé et avec moins d'inventivité que la libre entreprise qui place la fortune de chaque homme dans la dépendance directe de son intelligence, de son énergie et de son jugement"
+> "L'agent de l'État ne perd pas son propre argent lorsqu'il se trompe, il perd l'argent des autres. Il ne gagne pas lorsqu'il réussit au-delà des espérances ; il ne gagne que son salaire fixe. Il n'y a pas de relation directe et personnelle entre ses efforts et ses récompenses. C'est pourquoi l'État, quelles que soient les bonnes intentions de ses serviteurs, produira toujours à un coût plus élevé et avec moins d'inventivité que la libre entreprise qui place la fortune de chaque homme dans la dépendance directe de son intelligence, de son énergie et de son jugement"
 
-En effet, il est important de souligner que ce n'est pas l'individu seul qui remplace l'État, mais la libre association et la coordination des forces individuelles sur la base de l'échange et du contrat. L'individualisme ne remplace pas isolément le socialisme : c'est la libre entreprise et la coopération volontaire qui prennent le relais de manière bien plus efficace. L'erreur de certains critiques du libéralisme est d'imaginer que la réduction de l'Etat signifie l'abandon des individus à leur sort. En d'autres termes, **le choix n'est pas entre l'Etat et l'individu isolé, mais entre l'Etat et la vaste capacité créatrice et auto-organisatrice de la société civile libre**.
+En effet, il est important de souligner que ce n'est pas l'individu seul qui remplace l'État, mais la libre association et la coordination des forces individuelles sur la base de l'échange et du contrat. L'individualisme ne remplace pas isolément le socialisme : c'est la libre entreprise et la coopération volontaire qui prennent le relais de manière bien plus efficace. L'erreur de certains critiques du libéralisme est d'imaginer que la réduction de l'État signifie l'abandon des individus à leur sort. En d'autres termes, **le choix n'est pas entre l'État et l'individu isolé, mais entre l'État et la vaste capacité créatrice et auto-organisatrice de la société civile libre**.
 
 
 ### La décentralisation n'est pas la solution
 
 
-Le programme de réduction des pouvoirs de l'Etat ne doit pas être confondu avec une simple décentralisation. Voici une distinction trop rarement faite : **la décentralisation transfère la localisation du pouvoir, elle n'en réduit pas la nature**. Si cette dernière a le mérite de reconnaître la variété de l'existence humaine et de rapprocher la prise de décision des personnes concernées, l'Etat local n'a pas plus de légitimité que l'Etat central pour intervenir de manière abusive et contraire aux libertés individuelles. Le simple transfert de compétences de l'État central vers les collectivités locales n'est pas une solution satisfaisante.
+Le programme de réduction des pouvoirs de l'État ne doit pas être confondu avec une simple décentralisation. Voici une distinction trop rarement faite : **la décentralisation transfère la localisation du pouvoir, elle n'en réduit pas la nature**. Si cette dernière a le mérite de reconnaître la variété de l'existence humaine et de rapprocher la prise de décision des personnes concernées, l'État local n'a pas plus de légitimité que l'État central pour intervenir de manière abusive et contraire aux libertés individuelles. Le simple transfert de compétences de l'État central vers les collectivités locales n'est pas une solution satisfaisante.
 
 
 Bastiat, avec la lucidité qui le caractérise, a observé :
@@ -2826,19 +2826,19 @@ Bastiat, avec la lucidité qui le caractérise, a observé :
 
 > "Un conseil municipal qui m'interdit d'ouvrir une boulangerie dans ma rue n'est pas moins tyrannique qu'une ordonnance royale qui l'interdit dans tout le royaume. Le tyran qui parle avec un accent local n'en est pas moins un tyran. La décentralisation est un changement de maître, pas une récupération de la liberté"
 
-En d'autres termes, **ce que les libéraux recherchent n'est pas une redistribution du pouvoir de l'Etat mais sa réduction radicale** : non pas un transfert de ces pouvoirs à la commune ou au canton, mais leur transfert au domaine de l'activité privée, à l'individu, à la libre association et à l'entreprise.
+En d'autres termes, **ce que les libéraux recherchent n'est pas une redistribution du pouvoir de l'État mais sa réduction radicale** : non pas un transfert de ces pouvoirs à la commune ou au canton, mais leur transfert au domaine de l'activité privée, à l'individu, à la libre association et à l'entreprise.
 
 
 ### Éducation et santé : le paradoxe de la monopolisation
 
 
-L'éducation et les soins de santé sont des exemples parfaits des effets pervers de la monopolisation de l'État. Le paradoxe est le suivant : l'État déclare que ces services sont si essentiels, si précieux, qu'il ne peut les laisser aux seules forces du marché. Et pourtant, la conséquence même de cette monopolisation est de dévaloriser précisément ceux qui fournissent ces services essentiels. Paul Leroy-Beaulieu, dans son [*Essai sur la répartition des richesses*] (https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1885), prévoyait que les grands médecins et les professeurs d'élite deviendraient les privilégiés de demain dans une société fondée sur le contrat. La vie devenant de plus en plus précieuse pour les individus dans une civilisation avancée, ceux qui la protègent et l'enrichissent verront leur valeur reconnue à sa juste valeur.
+L'éducation et les soins de santé sont des exemples parfaits des effets pervers de la monopolisation de l'État. Le paradoxe est le suivant : l'État déclare que ces services sont si essentiels, si précieux, qu'il ne peut les laisser aux seules forces du marché. Et pourtant, la conséquence même de cette monopolisation est de dévaloriser précisément ceux qui fournissent ces services essentiels. Paul Leroy-Beaulieu, dans son [*Essai sur la répartition des richesses*](https://planb.academy/resources/books/essai-repartition-richesses-c5b307dc-eed4-493f-a76a-b23321a81c99) (1885), prévoyait que les grands médecins et les professeurs d'élite deviendraient les privilégiés de demain dans une société fondée sur le contrat. La vie devenant de plus en plus précieuse pour les individus dans une civilisation avancée, ceux qui la protègent et l'enrichissent verront leur valeur reconnue à sa juste valeur.
 
 
 Écrivait Leroy-Beaulieu, avec une perspicacité que deux siècles d'expérience n'ont fait que confirmer :
 
 
-> "Dans une société libre, le médecin qui guérit, le professeur qui forme les esprits, l'ingénieur qui construit, l'architecte qui crée la beauté, voilà la véritable aristocratie du talent, l'élite naturelle à laquelle le marché attribue spontanément une rémunération proportionnée aux services qu'elle rend. C'est l'Etat qui, en monopolisant leurs professions et en fixant leurs salaires par décret administratif, les condamne à une médiocrité incompatible avec la dignité de leur mission"
+> "Dans une société libre, le médecin qui guérit, le professeur qui forme les esprits, l'ingénieur qui construit, l'architecte qui crée la beauté, voilà la véritable aristocratie du talent, l'élite naturelle à laquelle le marché attribue spontanément une rémunération proportionnée aux services qu'elle rend. C'est l'État qui, en monopolisant leurs professions et en fixant leurs salaires par décret administratif, les condamne à une médiocrité incompatible avec la dignité de leur mission"
 
 La réalité actuelle révèle une situation paradoxale. Les professionnels de l'éducation et de la santé, qui produisent des services extrêmement précieux, sont en fait les premiers sacrifiés par le système de service public, qui dévalorise leur travail et les empêche d'acquérir la place qui devrait être la leur dans la société. L'État considère ces branches comme si essentielles qu'il doit les monopoliser, mais c'est précisément parce qu'elles sont si utiles qu'elles seraient très appréciées dans un régime de liberté. En d'autres termes, **la justification la plus fervente de l'État pour ses monopoles est en même temps l'argument le plus puissant contre eux**.
 
@@ -2860,21 +2860,21 @@ La perspective libérale sur les questions sociales repose sur une conception pa
 ![French liberal tradition book cover](assets/en/092.webp)
 
 
-Gustave de Molinari (1819-1912), économiste d'origine belge qui a fait carrière à Paris et dont l'audace intellectuelle reste inégalée dans la tradition libérale, l'a bien compris. Dans ses [*Questions d'économie politique et de droit public*] (https://planb.academy/resources/books/questions-economie-politique-964f1fe1-606f-49f4-a7e8-187cbf39d41f) (1861), il écrit :
+Gustave de Molinari (1819-1912), économiste d'origine belge qui a fait carrière à Paris et dont l'audace intellectuelle reste inégalée dans la tradition libérale, l'a bien compris. Dans ses [*Questions d'économie politique et de droit public*](https://planb.academy/resources/books/questions-economie-politique-964f1fe1-606f-49f4-a7e8-187cbf39d41f) (1861), il écrit :
 
 
-> "Il faut avoir une bien piètre opinion de l'humanité pour croire que, laissés libres d'organiser leur propre assistance, les hommes laisseraient leurs semblables périr de misère et de besoin. L'histoire des peuples libres montre précisément le contraire : partout où l'Etat n'a pas étouffé la charité volontaire en lui substituant la charité obligatoire, la solidarité volontaire s'est épanouie sous des formes d'une variété et d'une efficacité extraordinaires. Les sociétés de secours mutuels, les hôpitaux libres, les fondations charitables sont les produits naturels d'une société qui respecte l'initiative humaine"
+> "Il faut avoir une bien piètre opinion de l'humanité pour croire que, laissés libres d'organiser leur propre assistance, les hommes laisseraient leurs semblables périr de misère et de besoin. L'histoire des peuples libres montre précisément le contraire : partout où l'État n'a pas étouffé la charité volontaire en lui substituant la charité obligatoire, la solidarité volontaire s'est épanouie sous des formes d'une variété et d'une efficacité extraordinaires. Les sociétés de secours mutuels, les hôpitaux libres, les fondations charitables sont les produits naturels d'une société qui respecte l'initiative humaine"
 
 En effet, cette organisation sociale permet l'émergence de solidarités volontaires qui peuvent prendre des proportions considérables. Les sociétés de secours mutuels qui se sont développées au XIXe siècle en sont une parfaite illustration. Ces organisations sont en fait les ancêtres de l'État-providence et des systèmes de sécurité sociale actuels, à la différence près qu'elles fonctionnaient sur la base de la concurrence et non du monopole d'État. Cette concurrence entre les établissements et les méthodes a permis une amélioration continue des pratiques, favorisant le succès des formes les plus efficaces et l'abandon de celles qui échouaient. En d'autres termes, **ils étaient soumis à la même discipline d'excellence que celle qui régit toutes les sphères de l'activité libre**.
 
 
-Le pouvoir de la libre association mérite une reconnaissance particulière. L'individu isolé s'est toujours trouvé en position de faiblesse face aux aléas de la vie et à l'évolution de ses capacités productives. C'est précisément pour cette raison que les êtres humains ont vécu en société depuis l'époque des tribus. L'association et l'entreprise privée, et non l'individu seul, doivent être la solution au déclin des pouvoirs de l'Etat. **L'assistance privée, contrairement à l'assistance publique réglementaire et bureaucratique, élève l'homme** en respectant son individualité et en le poussant au progrès, alors que l'assistance publique tend à le dégrader et à le maintenir dans une tutelle comparable à celle d'un serf.
+Le pouvoir de la libre association mérite une reconnaissance particulière. L'individu isolé s'est toujours trouvé en position de faiblesse face aux aléas de la vie et à l'évolution de ses capacités productives. C'est précisément pour cette raison que les êtres humains ont vécu en société depuis l'époque des tribus. L'association et l'entreprise privée, et non l'individu seul, doivent être la solution au déclin des pouvoirs de l'État. **L'assistance privée, contrairement à l'assistance publique réglementaire et bureaucratique, élève l'homme** en respectant son individualité et en le poussant au progrès, alors que l'assistance publique tend à le dégrader et à le maintenir dans une tutelle comparable à celle d'un serf.
 
 
 ![French liberal tradition book cover](assets/en/095.webp)
 
 
-Frédéric Passy (1822-1912), économiste et militant pacifiste qui partagea le premier prix Nobel de la paix en 1901, a exprimé cette conviction avec éloquence dans ses [*Leçons d'économie politique*] (https://planb.academy/resources/books/lecons-economie-politique-9eac36cc-15d5-4312-8ecc-2c57ac146e77) (1860) :
+Frédéric Passy (1822-1912), économiste et militant pacifiste qui partagea le premier prix Nobel de la paix en 1901, a exprimé cette conviction avec éloquence dans ses [*Leçons d'économie politique*](https://planb.academy/resources/books/lecons-economie-politique-9eac36cc-15d5-4312-8ecc-2c57ac146e77) (1860) :
 
 
 > "La charité obligatoire est une contradiction dans les termes. La charité extorquée par la loi à ceux qui ne l'auraient pas donnée librement n'est plus de la charité, c'est de l'impôt. Et l'impôt, aussi noble que soit son objectif déclaré, ne produit pas chez le contribuable les habitudes de générosité et de solidarité qui font une société véritablement humaine. La vraie solidarité naît de la liberté et non de la contrainte"
@@ -2902,7 +2902,7 @@ L'émancipation des femmes s'est faite par la liberté et par ce que nous appelo
 ### La position libérale sur le racisme et l'immigration
 
 
-La question du racisme a fait l'objet de nombreux débats au sein de la [*Société d'économie politique*] (https://planb.academy/resources/books/societe-economie-politique-anthologie-3a48e3b5-ef74-4822-b1d9-b030e327b84e) au XIXe siècle, qui réunissait les principaux intellectuels libéraux français sous la présidence de personnalités telles que Michel Chevalier (1806-1879) et Gustave de Molinari. Ces débats abordent les différentes manifestations du racisme, de l'antisémitisme et du sort des Juifs en Roumanie à la situation des travailleurs chinois en Californie et en Australie. La grande majorité des membres de la société voit d'un bon œil le mélange des groupes humains, estimant que la compétition est propulsive et que le travail des générations, combinant différents éléments de culture et d'intelligence, conduit au meilleur développement possible de la civilisation, à condition qu'il s'accomplisse sur la base d'un contrat et d'une coopération volontaire.
+La question du racisme a fait l'objet de nombreux débats au sein de la [*Société d'économie politique*](https://planb.academy/resources/books/societe-economie-politique-anthologie-3a48e3b5-ef74-4822-b1d9-b030e327b84e) au XIXe siècle, qui réunissait les principaux intellectuels libéraux français sous la présidence de personnalités telles que Michel Chevalier (1806-1879) et Gustave de Molinari. Ces débats abordent les différentes manifestations du racisme, de l'antisémitisme et du sort des Juifs en Roumanie à la situation des travailleurs chinois en Californie et en Australie. La grande majorité des membres de la société voit d'un bon œil le mélange des groupes humains, estimant que la compétition est propulsive et que le travail des générations, combinant différents éléments de culture et d'intelligence, conduit au meilleur développement possible de la civilisation, à condition qu'il s'accomplisse sur la base d'un contrat et d'une coopération volontaire.
 
 
 ![Slide image from chapter 6.3](assets/en/094.webp)
@@ -2916,7 +2916,7 @@ Molinari, qui avait observé la question raciale en Amérique et en Europe, a ex
 Le caractère individualiste des doctrines de la liberté contredit directement les représentations collectives des races ou des nations en tant que groupes homogènes. La question de l'immigration doit être abordée à partir des fondements libéraux de la propriété de soi et de la propriété des choses. Lorsque l'immigration est fondée sur l'échange volontaire, l'appropriation légitime des biens et l'égalité des contrats, la liberté d'immigration doit être affirmée. Gustave de Molinari, lui-même immigré belge ayant fait sa carrière en France, incarne cette position. Avec la grande majorité des libéraux français de son époque, il voit l'immigration d'un bon œil, reconnaissant que **la lutte contre l'immigration constitue une nouvelle forme de protectionnisme** : un protectionnisme du travail comparable à celui des industriels qui protègent leurs profits de la concurrence internationale.
 
 
-En d'autres termes, de même que les industriels souhaitaient se réserver un marché national au détriment des consommateurs, les travailleurs et leurs représentants politiques, dans le cadre du suffrage universel, considéraient la concurrence des travailleurs étrangers comme une gêne qu'il fallait faire disparaître par la loi. **Le programme social-libéral ne se limitait donc pas aux questions économiques** mais englobait le recul de l'Etat au profit du contrat et du libre-échange, dans une perspective parfaitement compatible avec les convictions féministes et antiracistes que le libéralisme génère par sa propre logique interne.
+En d'autres termes, de même que les industriels souhaitaient se réserver un marché national au détriment des consommateurs, les travailleurs et leurs représentants politiques, dans le cadre du suffrage universel, considéraient la concurrence des travailleurs étrangers comme une gêne qu'il fallait faire disparaître par la loi. **Le programme social-libéral ne se limitait donc pas aux questions économiques** mais englobait le recul de l'État au profit du contrat et du libre-échange, dans une perspective parfaitement compatible avec les convictions féministes et antiracistes que le libéralisme génère par sa propre logique interne.
 
 
 
@@ -2936,12 +2936,12 @@ La doctrine de la liberté repose sur un principe qui mérite d'être énoncé a
 ![French liberal tradition book cover](assets/en/096.webp)
 
 
-Benjamin Constant (1767-1830), le grand libéral franco-suisse, né à Lausanne et façonné par les bouleversements de la Révolution et de l'Empire, a consacré une grande partie de sa carrière à préciser les implications de ce fondement individualiste. Dans ses [*Principes de politique applicables à tous les gouvernements*] (https://planb.academy/resources/books/principes-de-politique-282bc3de-f218-4103-903a-5280d7b99108) (1815), il écrit avec la précision d'un homme qui a vu ce qui se passe quand le collectif engloutit l'individuel :
+Benjamin Constant (1767-1830), le grand libéral franco-suisse, né à Lausanne et façonné par les bouleversements de la Révolution et de l'Empire, a consacré une grande partie de sa carrière à préciser les implications de ce fondement individualiste. Dans ses [*Principes de politique applicables à tous les gouvernements*](https://planb.academy/resources/books/principes-de-politique-282bc3de-f218-4103-903a-5280d7b99108) (1815), il écrit avec la précision d'un homme qui a vu ce qui se passe quand le collectif engloutit l'individuel :
 
 
 > "Il y a une partie de l'existence humaine qui, par nécessité, reste individuelle et indépendante, et qui est, de droit, en dehors de toute compétence sociale. La souveraineté n'existe que de manière limitée et relative. La juridiction de la société s'arrête là où commence l'indépendance individuelle. Si la société franchit cette limite, elle est aussi coupable de tyrannie que le despote qui n'a d'autre titre que le glaive"
 
-Cette reconnaissance a des conséquences importantes sur l'organisation politique. La non-liberté se manifeste presque toujours par l'asservissement de l'individu au nom d'un prétendu intérêt collectif : la nation, la race, la classe, la volonté générale. Les lois doivent donc être fondées sur la reconnaissance des droits de l'homme et des libertés fondamentales, tout en encadrant cette liberté de manière à ce qu'elle ne porte pas atteinte aux libertés similaires d'autrui. Constant, dans son [*Commentaire sur l'ouvrage de Filangieri*] (https://planb.academy/resources/books/commentaire-filangieri-8c7eb7d7-a94f-4a7c-b2d2-846e6052ad14) (1822), insiste sur le nécessaire silence de la loi lorsque l'individu fait un usage juste et légitime de sa liberté et de ses biens.
+Cette reconnaissance a des conséquences importantes sur l'organisation politique. La non-liberté se manifeste presque toujours par l'asservissement de l'individu au nom d'un prétendu intérêt collectif : la nation, la race, la classe, la volonté générale. Les lois doivent donc être fondées sur la reconnaissance des droits de l'homme et des libertés fondamentales, tout en encadrant cette liberté de manière à ce qu'elle ne porte pas atteinte aux libertés similaires d'autrui. Constant, dans son [*Commentaire sur l'ouvrage de Filangieri*](https://planb.academy/resources/books/commentaire-filangieri-8c7eb7d7-a94f-4a7c-b2d2-846e6052ad14) (1822), insiste sur le nécessaire silence de la loi lorsque l'individu fait un usage juste et légitime de sa liberté et de ses biens.
 
 
 En d'autres termes, **la loi n'a pas de voix légitime sur ce que je fais de mon propre corps, de mon propre temps et de mes propres biens**, tant que je ne porte préjudice à personne d'autre. Ce silence de la loi est un principe essentiel : la seule limitation admissible de la liberté individuelle réside dans la protection des libertés d'autrui.
@@ -2964,7 +2964,7 @@ Quels sont les véritables fondements de l'unité nationale ? L'histoire nous en
 ![French liberal tradition book cover](assets/en/097.webp)
 
 
-Molinari, réfléchissant à la question de la nationalité dans son [*Cours d'économie politique*] (https://planb.academy/resources/books/cours-economie-politique-molinari-75b4a66d-8127-4cf9-8a0a-53d8e353b203) (1863), a écrit :
+Molinari, réfléchissant à la question de la nationalité dans son [*Cours d'économie politique*](https://planb.academy/resources/books/cours-economie-politique-molinari-75b4a66d-8127-4cf9-8a0a-53d8e353b203) (1863), a écrit :
 
 
 > "Qu'est-ce qu'une nation, si on l'examine sans préjugés ? Une société, une très grande société, constituée à l'origine pour se défendre mutuellement contre les agressions extérieures et les désordres intérieurs. Comme toutes les sociétés, elle n'est légitime que dans la mesure où l'on y adhère librement et où l'on en sort librement. Dès qu'elle place l'individu dans une condition analogue à celle d'un serf lié à la terre de son maître, elle cesse d'être une société pour devenir une prison"
@@ -2992,13 +2992,13 @@ Dans son analyse du conflit, Molinari pose la question à laquelle le libéralis
 ### Vers une sécurité internationale fondée sur le droit
 
 
-Dès 1713, l'abbé de Saint-Pierre (1658-1743) a identifié le besoin d'une sécurité internationale organisée, esquissant dans son [*Projet pour rendre la paix perpétuelle en Europe*] (https://planb.academy/resources/books/projet-paix-perpetuelle-europe-a9a43e52-3bab-4835-901a-f359c21afc87) les grandes lignes de ce à quoi pourrait ressembler une fédération de nations. C'était un visionnaire : il avait compris que **la paix n'est pas un état naturel de l'humanité mais une construction**, nécessitant le même type de cadre institutionnel que celui qui rend possible la paix intérieure au sein des nations.
+Dès 1713, l'abbé de Saint-Pierre (1658-1743) a identifié le besoin d'une sécurité internationale organisée, esquissant dans son [*Projet pour rendre la paix perpétuelle en Europe*](https://planb.academy/resources/books/projet-paix-perpetuelle-europe-a9a43e52-3bab-4835-901a-f359c21afc87) les grandes lignes de ce à quoi pourrait ressembler une fédération de nations. C'était un visionnaire : il avait compris que **la paix n'est pas un état naturel de l'humanité mais une construction**, nécessitant le même type de cadre institutionnel que celui qui rend possible la paix intérieure au sein des nations.
 
 
 Historiquement, la sécurité s'est établie progressivement : d'abord entre tribus, puis à l'échelle nationale avec la fin du servage et la création de vastes États. Aujourd'hui, la proportion des relations humaines menées sur une base internationale s'est considérablement accrue, rendant plus impératif encore l'établissement de la sécurité sur des frontières très larges. Le commerce, la correspondance et les voyages ont tissé une toile d'interdépendance humaine qu'aucun État ne peut englober.
 
 
-Molinari, dans son [*La Grandeur et décadence de la guerre*] (https://planb.academy/resources/books/grandeur-decadence-guerre-3bf120be-1536-4b6e-aa85-4a2a62edca7e) (1898), écrit avec l'assurance d'un homme qui a consacré une longue vie à la réflexion sur l'économie de la paix :
+Molinari, dans son [*La Grandeur et décadence de la guerre*](https://planb.academy/resources/books/grandeur-decadence-guerre-3bf120be-1536-4b6e-aa85-4a2a62edca7e) (1898), écrit avec l'assurance d'un homme qui a consacré une longue vie à la réflexion sur l'économie de la paix :
 
 
 > "La guerre est la plus coûteuse de toutes les entreprises humaines et la moins productive. Chaque coup de canon représente une quantité de capital détruit, chaque soldat tué représente une quantité d'intelligence, d'énergie et de capacité productive anéantie à jamais. Les nations qui se consacrent à la guerre s'appauvrissent ; celles qui se consacrent au commerce s'enrichissent. La leçon de l'histoire est claire : l'avenir appartient aux arts pacifiques et aux institutions qui les rendent possibles"
@@ -3023,10 +3023,10 @@ Ce cours sur la liberté comme projet de société repose sur une conviction fon
 Que révèle l'examen des conditions historiques ? Il révèle un processus progressif et lent, plein de revirements et de détours, mais orienté dans une direction que la tradition libérale a toujours identifiée. Les sociétés anciennes vivaient dans des conditions de risque extrême et de danger permanent, fonctionnant selon des modes de production fondés sur la violence et l'appropriation collective des richesses plutôt que sur la création de nouvelles valeurs. Or **l'histoire montre une remarquable tendance au remplacement de l'autorité par le contrat**, ce qui montre bien que les solutions socialistes et interventionnistes sont en fait rétrogrades. Le communisme apparaît comme la forme la plus régressive de cette tendance, nous ramenant au temps des tribus à l'échelle nationale et internationale.
 
 
-Alexis de Tocqueville (1805-1859), dont le [*De la démocratie en Amérique*] (https://planb.academy/resources/books/de-la-democratie-en-amerique-7bc2962c-d9b7-4e34-9637-d704a90dfaf4) (1835-1840) reste l'un des monuments de l'analyse politique libérale, a saisi ce mouvement avec sa double vision caractéristique, à la fois pleine d'espoir et de prudence :
+Alexis de Tocqueville (1805-1859), dont le [*De la démocratie en Amérique*](https://planb.academy/resources/books/de-la-democratie-en-amerique-7bc2962c-d9b7-4e34-9637-d704a90dfaf4) (1835-1840) reste l'un des monuments de l'analyse politique libérale, a saisi ce mouvement avec sa double vision caractéristique, à la fois pleine d'espoir et de prudence :
 
 
-> "Les nations de notre temps ne peuvent empêcher l'égalité des conditions ; mais il dépend d'elles-mêmes que l'égalité les conduise à la servitude ou à la liberté, à la connaissance ou à la barbarie, à la prospérité ou à la misère. La marche est irrésistible, mais la destination n'est pas fixée d'avance. Cela dépend de nous
+> "Les nations de notre temps ne peuvent empêcher l'égalité des conditions ; mais il dépend d'elles-mêmes que l'égalité les conduise à la servitude ou à la liberté, à la connaissance ou à la barbarie, à la prospérité ou à la misère. La marche est irrésistible, mais la destination n'est pas fixée d'avance. Cela dépend de nous."
 
 ### La liberté fonctionne, la non-liberté échoue
 
@@ -3043,7 +3043,7 @@ Pour se maintenir malgré ses échecs répétés, la non-liberté doit s'appuyer
 ### La réforme, pas la révolution ; l'opinion, pas la force
 
 
-Le programme de liberté qui émerge de cette analyse doit être audacieux, car il est fondé sur les vrais principes de la nature humaine : la propriété de soi, l'autonomie individuelle et le contrat. Il implique une réduction des pouvoirs de l'Etat et une transformation des services publics en services privés, en s'appuyant de plus en plus sur le libre échange. Mais la tradition libérale française enseigne d'une seule voix qu'il faut préférer les **réformes aux révolutions**. Tocqueville a magistralement démontré dans *L'Ancien Régime et la Révolution* (1856) que les bouleversements révolutionnaires coûtent cher sans transformer la société autant qu'ils le promettent, et qu'ils aboutissent souvent à la consolidation du pouvoir centralisateur qu'ils veulent détruire.
+Le programme de liberté qui émerge de cette analyse doit être audacieux, car il est fondé sur les vrais principes de la nature humaine : la propriété de soi, l'autonomie individuelle et le contrat. Il implique une réduction des pouvoirs de l'État et une transformation des services publics en services privés, en s'appuyant de plus en plus sur le libre échange. Mais la tradition libérale française enseigne d'une seule voix qu'il faut préférer les **réformes aux révolutions**. Tocqueville a magistralement démontré dans *L'Ancien Régime et la Révolution* (1856) que les bouleversements révolutionnaires coûtent cher sans transformer la société autant qu'ils le promettent, et qu'ils aboutissent souvent à la consolidation du pouvoir centralisateur qu'ils veulent détruire.
 
 
 ![Portrait of Richard Cobden (1804-1865), British statesman and free-trade advocate](assets/en/102.webp)
