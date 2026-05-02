@@ -1420,7 +1420,7 @@ Teknologi pencetakan koin dengan tangan secara individual kemungkinan besar berp
 Pada Abad Pertengahan, ada juga tren penyebaran koin, membuatnya lebih lebar dan tipis. Salah satu alasannya adalah agar lebih mudah untuk menguji suaranya, yang sering digunakan sebagai indikator keasliannya. Dengan menyebarkan perak, frekuensi yang berbeda dihasilkan, sehingga orang dapat memvalidasi kemurnian koin hanya dengan mendengarkannya. Praktik ini melahirkan istilah "uang suara". Dalam konteks uang suara, berat standar ditentukan dengan menggunakan timbangan atau "trebuchet" untuk menimbang. Dengan demikian, evolusi berlanjut dari koin kecil dan bulat menjadi koin yang sedikit lebih tipis dan lebih lebar.
 
 
-## Pendulum striking
+### Pemukulan pendulum
 
 
 Teknologi terakhir yang muncul di akhir Abad Pertengahan, di awal era modern, adalah gagasan tentang pemukul pendulum. Ini adalah semacam sekrup yang dikencangkan untuk memukul koin, sehingga menghasilkan koin dengan bentuk pemukulan yang baru ini. Yang menarik dari perkembangan ini adalah kemampuan untuk mengukir pola pada permukaan koin untuk mengatasi masalah pemotongan. Pemotongan melibatkan pemindahan sebagian koin untuk mendapatkan kembali perak yang berharga, yang kemudian dapat digunakan untuk mencetak koin lain atau disimpan sebagai sumber daya.

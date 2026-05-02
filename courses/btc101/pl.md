@@ -103,6 +103,8 @@ https://planb.academy/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 
 # Pieniądze
 
+<partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
+
 ## Pieniądze na przestrzeni historii
 
 <chapterId>c838e64d-d59f-5703-8c74-ea5e8c4fdd31</chapterId>
@@ -1228,7 +1230,7 @@ https://planb.academy/tutorials/wallet/mobile/bull-bitcoin-2c72127c-a228-4f50-b8
 https://planb.academy/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
 
 
-## Konkretne zastosowania: co wreszcie stało się możliwe dzięki sieci Lightning
+### Konkretne zastosowania: co wreszcie stało się możliwe dzięki sieci Lightning
 
 Sieć Lightning daje wiele możliwości, które wcześniej były niepraktyczne lub wręcz niemożliwe przy użyciu wyłącznie transakcji on-chain w sieci Bitcoin.
 
