@@ -1,9 +1,9 @@
-question: Milline on Milton Friedmani vaatenurga kohaselt peamine probleem, kui sotsiaalpoliitikat hinnatakse pigem selle väljendatud eesmärkide kui tegelike tulemuste põhjal?
-answer: Heade kavatsustega poliitika toob sageli kaasa soovimatuid tagajärgi, mis on vastuolus selle algsete eesmärkidega, näiteks tekitab sõltuvust või turumoonutusi
+question: "Miks kritiseeris Rothbard libertääride arusaama inimloomusest ja millise alternatiivi ta pakkus?"
+answer: "Ta süüdistas neid naiivses 'õilsa metslase' käsitluses ning väitis, et ühiskond peab kasutama eraomandit ja häid stiimuleid, et suunata omakasupüüdlikku käitumist"
 wrong_answers:
-  - Poliitikud esitavad oma tegelikke kavatsusi teadlikult valesti, et varjata avalikkuse eest oma tegelikku tegevuskava ja vältida vastutust
-  - Head kavatsused on oma olemuselt vigased, sest need peegeldavad pigem isiklikke eelarvamusi kui sotsiaalsete probleemide objektiivset teaduslikku analüüsi
-  - Püstitatud eesmärgid on tavaliselt liiga ambitsioonikad ja ebarealistlikud, et neid piiratud riigieelarve ja -ressursside raames saavutada
-explanation: |
-  Friedmani kriitika keskendub kavatsuste ja tulemuste erinevusele, mitte eesmärkide siirusele või teostatavusele. Ta väidab, et poliitika, mis on kavandatud
-  abiks mõeldud poliitika sageli tagasilöögi tõttu, kuna inimeste stiimuleid ja majandusmehhanisme ei mõisteta piisavalt. Küsimus ei ole mitte ebaaususes, erapoolikuses või eelarvepiirangutes, vaid pigem selles, et head kavatsused ei taga häid tulemusi. Seetõttu pooldab ta struktuurseid määratlusi, mis uurivad pigem seda, kuidas süsteemid tegelikult toimivad, kui seda, mida nad väidavad saavutada.
+  - "Ta kiitis nende arusaama inimkoostööst, kuid väitis, et lepingute jõustamiseks on siiski vajalik minimaalne riik"
+  - "Ta nõustus, et inimesed on loomult head, kuid rõhutas, et ainult vabad turud suudavad selle headuse tootlikuks tegevuseks suunata"
+  - "Ta lükkas tagasi nende rõhuasetuse individuaalsetele õigustele ja väitis selle asemel, et kogukonnad peaksid moraalistandardid kollektiivselt määratlema"
+explanation: >-
+  Rothbard kritiseeris libertääre selle eest, et nad võtsid omaks naiivse, Rousseau'likku inimloomuse käsitluse, mille järgi inimene on loomult hea. Tema väitel juhib inimesi hoopis omakasu ning ühiskond tuleb korraldada nii, et head stiimulid suunaksid käitumist. See nõuab eraomandi tunnustamist ja tagamist. Riigi kaotamine ei tähenda selle funktsioonide kaotamist; politseid ja õigusemõistmist peaks vabal turul korraldama konkurents.
+reviewed: false

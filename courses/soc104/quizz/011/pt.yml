@@ -1,8 +1,9 @@
-question: De acordo com o diagrama político, o que é que o eixo y representa?
-answer: Liberdades pessoais e sociais
+question: "O que a categoria de liberdade econômica inclui?"
+answer: "O que você faz como produtor e consumidor: comprar, vender, produzir, trabalhar, contratar e administrar seu dinheiro"
 wrong_answers:
-  - Liberdades económicas e comerciais
-  - O nível de intervenção do Estado na economia
-  - Preferências fiscais e regulamentares
-explanation: |
-  O eixo y (vertical) representa as liberdades pessoais e sociais, que incluem a liberdade de movimento, de opinião e de auto-determinação. Estas liberdades dizem respeito ao que fazemos nas nossas relações privadas, às nossas opiniões e crenças, bem como a tudo o que fazemos com o nosso próprio corpo e mente. O eixo x (horizontal) representa as liberdades económicas. Esta distinção permite-nos classificar a maioria das questões políticas em duas categorias fundamentais.
+  - "Suas crenças religiosas, relações pessoais e liberdade de expressão"
+  - "Seu direito de votar, participar de eleições e filiar-se a partidos políticos"
+  - "Sua capacidade de viajar livremente, escolher sua residência e cruzar fronteiras nacionais"
+explanation: >-
+  A liberdade econômica abrange o que você faz como produtor e consumidor: o que você pode comprar, vender ou produzir; onde trabalha; quem contrata; e o que faz com seu dinheiro. Relações pessoais, crenças religiosas e liberdade de movimento se enquadram na categoria de liberdade pessoal, não na econômica.
+reviewed: false

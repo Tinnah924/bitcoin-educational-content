@@ -1,8 +1,9 @@
-question: Which political family would most likely support both the elimination of minimum wage laws AND the complete privatization of healthcare while opposing all environmental regulations?
-answer: Libertarians, as they consistently oppose government intervention in markets across all sectors
+question: "Quelle est la position socialiste sur la santé ?"
+answer: "L'accès aux soins de santé est un droit fondamental, et l'État doit garantir un système universel financé publiquement pour tous, quel que soit le revenu"
 wrong_answers:
-  - Conservatives, as they favor market solutions but accept some government regulation when necessary
-  - Centristes, as they seek balanced approaches combining market mechanisms with targeted government intervention
-  - Socialists, as they strongly support government intervention to protect workers and provide universal services
-explanation: |
-  Libertarians are the only political family that consistently advocates for minimal government intervention across all economic sectors. They view minimum wage laws as market distortions that create unemployment, support complete healthcare privatization as more efficient than government programs, and oppose environmental regulations as violations of economic freedom. Conservatives might support some of these positions but would accept limited regulation for strategic purposes. Centristes seek pragmatic balance between market freedom and government oversight. Socialists fundamentally oppose all three positions, viewing them as harmful to social justice and collective welfare.
+  - "La santé devrait être un système mixte avec une couverture de base assurée par l'État, complétée par des options d'assurance privée"
+  - "Les marchés privés fournissent des soins de santé plus innovants, donc les individus devraient choisir librement leur propre système"
+  - "L'État devrait fournir des soins de santé uniquement aux citoyens les plus pauvres, tandis que l'assurance privée couvrirait tous les autres"
+explanation: >-
+  Pour les socialistes, l'accès aux soins de santé est un droit fondamental, et non une marchandise. L'État doit garantir un système de santé universel financé publiquement afin que chacun ait accès aux soins, quel que soit son revenu. Cela reflète la préoccupation socialiste pour l'égalité, la justice sociale et l'importance de l'État dans l'organisation des services d'intérêt général. Le système mixte décrit la vision centriste, tandis que les approches fondées sur le choix reflètent les positions libertarienne et conservatrice.
+reviewed: false

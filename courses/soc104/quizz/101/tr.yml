@@ -1,9 +1,9 @@
-question: Liberteryen felsefeye göre, siyasi ideolojileri ayırt etmenin temel ölçütü nedir?
-answer: Bireylerin kendi kararlarını kendilerinin mi verdiği yoksa başkaları tarafından kendilerine dayatılan kararlara mı sahip oldukları
+question: "Cypherpunklar neden anonim özelliklere sahip bir dijital para biriminin gerekli olduğunu savundu?"
+answer: "Çünkü başlıca anonim işlem sistemi olan nakit, dijital toplumda ortadan kaybolmaktadır ve aynı mahremiyet özelliklerine sahip bir dijital ikame icat edilmelidir"
 wrong_answers:
-  - Ekonomi politikalarının servetin yeniden dağılımını mı yoksa birikimini mi desteklediği
-  - Toplumsal değerlerin geleneksel aile yapılarını mı yoksa ilerici idealleri mi vurguladığı
-  - Yönetişim yapılarının ulusal egemenliğe mi yoksa uluslararası işbirliğine mi öncelik verdiği
-explanation: |
-  Metin, gerçek siyasi bölünmenin sol, sağ veya merkez arasında değil, daha ziyade temel felsefi ilkelere dayandığını açıkça belirtmektedir: zorlamaya karşı özgürlük, kısıtlamaya karşı gönüllü rıza ve kolektiviteye karşı bireysel sorumluluk.
-  Kilit soru, hayatınızla ilgili önemli kararları kendiniz mi almak istiyorsunuz yoksa bunları sizin yerinize bir başkasının almasını mı istiyorsunuz sorusudur. Bu, ekonomik yeniden dağıtım, sosyal değerler veya yönetim yapılarına dayalı geleneksel siyasi sınıflandırmalardan bir sapmayı temsil etmekte, bunun yerine bireylerin yaşamlarını etkileyen kararları alma yetkisinin kimde olduğu temel sorusuna odaklanmaktadır.
+  - "Çünkü mevcut dijital ödeme sistemleri çok yavaş ve pahalıydı; çevrimiçi ticaret için daha hızlı ve daha ucuz bir alternatif gerekiyordu"
+  - "Çünkü hükümetler anonim işlemlerin tüm biçimlerini çoktan yasaklamıştı ve bu yasaları yalnızca yeni bir teknoloji aşabilirdi"
+  - "Çünkü geleneksel bankalar belirli nüfuslara hizmet vermeyi reddediyordu; bu da evrensel olarak erişilebilir bir dijital ödeme sistemini ekonomik bir zorunluluk hâline getiriyordu"
+explanation: >-
+  Cypherpunk manifestosu, açık toplumda gizliliğin anonim işlem sistemleri gerektirdiğini belirtir. Dijital çağa kadar nakit bu türün başlıca sistemi olarak hizmet etti. Fakat nakdin ortadan kaybolduğu dijital bir toplumda, aynı anonimlik özelliklerine sahip bir dijital para birimi icat edilmelidir. Bu vizyon Bitcoin'in başaracağı şeyi doğrudan öngörmüştür.
+reviewed: false

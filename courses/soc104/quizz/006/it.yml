@@ -1,11 +1,9 @@
-question: Quali sono le cinque sezioni identificate nel diagramma politico Nolan Chart?
-answer: Statalismo (in basso), socialismo (a sinistra), conservatorismo (a destra), libertarismo (in alto) e centrismo (al centro)
+question: "Perché l'asse verticale (alto-basso) è considerato più fondamentale dell'asse orizzontale (sinistra-destra) nel diagramma di Nolan?"
+answer: "Perché rivela la vera divisione tra chi difende le massime libertà individuali e chi favorisce il massimo controllo statale"
 wrong_answers:
-  - Autoritarismo (in basso), Liberalismo (a sinistra), Nazionalismo (a destra), Anarchismo (in alto) e Populismo (al centro)
-  - Totalitarismo (in basso), progressismo (a sinistra), tradizionalismo (a destra), capitalismo (in alto) e moderatismo (al centro)
-  - Fascismo (in basso), comunismo (a sinistra), repubblicanesimo (a destra), democrazia (in alto) e pragmatismo (al centro)
-explanation: |
-  Il diagramma di Nolan divide specificamente lo spettro politico in cinque sezioni distinte basate sulla libertà economica e personale. Lo statalismo rappresenta
-  lo statalismo rappresenta il massimo controllo governativo in basso, mentre il libertarismo in alto rappresenta la massima libertà in entrambe le dimensioni. Il socialismo (a sinistra) sostiene la libertà personale
-  libertà personale ma si oppone alla libertà economica, mentre il conservatorismo (destra) sostiene la libertà economica ma limita la libertà personale. Il centrismo occupa la terra di mezzo,
-  mescolando elementi di entrambe le libertà con una certa regolamentazione.
+  - "Perché misura la produzione economica in modo più accurato di quanto l'asse orizzontale misuri le politiche sociali"
+  - "Perché la maggior parte dei conflitti politici nella storia ha riguardato l'identità culturale piuttosto che la governance"
+  - "Perché l'asse orizzontale si applica solo alle democrazie moderne mentre l'asse verticale è universale"
+explanation: >-
+  L'asse fondamentale è quello verticale perché cattura la domanda politica essenziale: in che misura lo stato dovrebbe controllare l'azione umana? L'asse sinistra-destra riflette soltanto sensibilità diverse (giustizia sociale contro tradizione), ma entrambe le parti possono occupare la stessa posizione sull'asse verticale come stataliste. L'asse verticale rivela se qualcuno vuole imporre la propria visione con la forza o rispetta la libertà individuale.
+reviewed: false

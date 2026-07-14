@@ -1,9 +1,9 @@
-question: De acordo com a filosofia de Satoshi Nakamoto, que problema fundamental das moedas convencionais é que Bitcoin tenta resolver?
-answer: A confiança excessiva exigida em instituições centralizadas que historicamente violam essa confiança através da desvalorização da moeda
+question: "Qual é o problema fundamental das moedas fiat identificado por Satoshi Nakamoto?"
+answer: "Elas exigem confiança de que o banco central não desvalorizará a moeda, mas a história das moedas fiat está cheia de violações dessa confiança"
 wrong_answers:
-  - A ineficácia técnica dos sistemas tradicionais de processamento de pagamentos, que provocam atrasos nas transacções internacionais
-  - O impacto ambiental da produção física de moeda e a pegada de carbono das infra-estruturas bancárias tradicionais
-  - A complexidade matemática da atual política monetária, que dificulta a compreensão das decisões económicas por parte dos cidadãos
-explanation: |
-  Satoshi Nakamoto afirmou explicitamente que "o problema de raiz da moeda convencional é toda a confiança que é necessária para a fazer funcionar" e que "a história das moedas fiduciárias está cheia de quebras dessa confiança".
-  Esta citação revela o objetivo central do Bitcoin: eliminar a necessidade de confiar nos bancos centrais para não desvalorizarem a moeda. A referência do bloco Genesis aos resgates bancários reforça esta crítica das falhas institucionais. As respostas erradas centram-se em questões técnicas, ambientais ou de complexidade que, embora sejam preocupações potencialmente válidas, não foram a motivação filosófica fundamental por detrás da criação do Bitcoin, tal como articulada pelo seu criador.
+  - "Elas são difíceis demais de usar em transações cotidianas porque o dinheiro físico se desgasta rapidamente e é caro de produzir"
+  - "Elas não podem ser transferidas internacionalmente porque cada país tem padrões monetários e regulamentações incompatíveis"
+  - "Elas são lastreadas por reservas de ouro insuficientes para cobrir a oferta total de dinheiro em circulação"
+explanation: >-
+  Satoshi Nakamoto afirmou que o problema fundamental das moedas convencionais é a confiança exigida para que elas funcionem. Moedas fiat não são lastreadas por uma mercadoria, mas repousam inteiramente sobre a autoridade institucional. Quando uma instituição detém controle total sobre o dinheiro, a tentação de abusar é forte demais, e a história mostrou isso repetidamente por meio da desvalorização monetária.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Theo triết lý tự do, tiêu chí chính để xác định tính hợp pháp của một hệ thống tổ chức xã hội là gì?
-answer: Liệu nó xuất phát từ sự tương tác tự nguyện và sự đồng thuận cá nhân hơn là sự cưỡng ép hay không.
+question: "Vì sao khóa học mô tả Bitcoin là một đồng tiền thị trường đối lập với tiền nhà nước, thay vì một dự án cánh hữu hay cánh tả?"
+answer: "Vì Bitcoin là một đồng tiền được chấp nhận tự nguyện, khó sản xuất, phi tập trung và giữ được giá trị, tương phản với tiền pháp định mang tính cưỡng chế, tập trung và mất giá, khiến sự phân chia nằm ở thị trường đối lập nhà nước hơn là hệ tư tưởng chính trị"
 wrong_answers:
-  - Liệu điều đó có tối đa hóa hiệu quả kinh tế và giảm chi phí giao dịch cho tất cả các bên tham gia hay không?
-  - Liệu điều đó có thể hiện ý chí dân chủ của đa số đồng thời bảo vệ quyền của thiểu số hay không.
-  - Liệu nó có cân bằng giữa tự do cá nhân với trách nhiệm và nghĩa vụ xã hội tập thể hay không?
-explanation: |
-  Văn bản nhấn mạnh rằng sự phân chia chính trị cơ bản nằm giữa tự do và cưỡng chế, sự đồng thuận tự nguyện và sự ràng buộc.
-  Những người theo chủ nghĩa tự do tin rằng tổ chức xã hội nên xuất hiện một cách tự phát từ các tương tác tự nguyện hơn là được lên kế hoạch và áp đặt một cách có chủ đích bởi các nhà chức trách chính trị. Nguyên tắc về sự xuất hiện tự nguyện so với sự áp đặt cưỡng chế là điều phân biệt triết học tự do với chính trị cánh tả-cánh hữu truyền thống, vốn đều giả định một mức độ can thiệp và kiểm soát nào đó của nhà nước đối với các lựa chọn cá nhân.
+  - "Vì Bitcoin được tạo ra bởi một nhà phát triển ẩn danh cố ý tránh đưa ra bất kỳ tuyên bố chính trị nào về mục đích hoặc triết lý dự định của nó"
+  - "Vì thuật toán đào của Bitcoin bảo đảm phân phối đồng coin mới ngang bằng cho tất cả các đảng chính trị, ngăn mọi thiên kiến hệ tư tưởng trong hệ thống tiền tệ"
+  - "Vì Bitcoin vận hành giống hệt các đồng tiền pháp định hiện có nhưng hoạt động trên một mạng thanh toán nhanh hơn, khiến các phân biệt chính trị trở nên không liên quan"
+explanation: >-
+  Bitcoin được mô tả như một cuộc nổi dậy hòa bình chống lại việc chính trị hóa tiền. Tiền nhà nước hay tiền pháp định là một hệ thống cưỡng chế, tập trung, có xu hướng mất giá. Tiền thị trường, trong lịch sử là vàng và hiện nay là Bitcoin, là đồng tiền lành mạnh, khó sản xuất, xuất hiện một cách tự nguyện và giữ giá trị trong dài hạn. Sự đối lập thực sự không phải là tả đối lập hữu mà là thị trường đối lập nhà nước, khiến Bitcoin trở thành một đứt gãy chính trị vượt qua các phe hệ tư tưởng truyền thống.
+reviewed: false

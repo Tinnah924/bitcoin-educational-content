@@ -1,9 +1,9 @@
-question: Prema libertarijanskoj ideologiji, najdosledniji pristup rešavanju sukoba između pristalica tradicionalnog braka i zagovornika istopolnih brakova je omogućavanje slobode izbora i individualnih prava, bez državnog uplitanja u lične odnose.
-answer: Potpuna privatizacija braka uklanjanjem učešća vlade i omogućavanje privatnim organizacijama da definišu i priznaju brakove prema sopstvenim standardima
+question: "Zašto su totalitarni režimi opisivani kao „sekularne religije” i šta to otkriva o uslovima neophodnim da totalitarizam postoji?"
+answer: "Oni zahtevaju kvazireligijsku veru militanata i koriste strah protiv protivnika, a totalitarizam zahteva sve karakteristike istovremeno: ukinute slobode, jednopartijsku vlast, nasilnu revoluciju i usmeravanu ekonomiju"
 wrong_answers:
-  - Vlada bi trebalo da legalizuje brakove istog pola, uz zaštitu verskih izuzetaka za tradicionalne institucije koje se tome protive.
-  - Vlada bi trebalo da zadrži tradicionalnu definiciju braka, ali da stvori posebne kategorije građanskih zajednica sa ekvivalentnim pravima za istopolne parove.
-  - Vlada bi trebalo da održi nacionalne referendume o definicijama braka kako bi demokratska većina odlučila, dok bi zaštitila prava manjina kroz ustavne amandmane.
-explanation: |
-  Libertarijanska pozicija zalaže se za potpuno razdvajanje braka i države, omogućavajući privatnim organizacijama (crkvama, sekularnim grupama, itd.) da definišu brak prema svojim vrednostima. 
-  Ovaj pristup poštuje i prava vlasništva i individualnu slobodu bez prisiljavanja bilo koje strane da prihvati definiciju druge strane. Pogrešni odgovori svi uključuju nastavak vladinog učešća u definisanju braka, što je u suprotnosti sa libertarijanskim principom minimiziranja državne intervencije u lične odnose i privatne institucije.
+  - "Oni zamenjuju tradicionalno bogosluženje državnim ceremonijama, a totalitarizam zahteva samo harizmatičnog vođu i vojnu kontrolu"
+  - "Oni koriste verske institucije za sprovođenje državne ideologije, a totalitarizam može nastati kad god jedna politička partija dominira parlamentom"
+  - "Oni obećavaju duhovno spasenje kroz političko delovanje, a totalitarizam postoji kad god država kontroliše ekonomiju bez obzira na političke slobode"
+explanation: >-
+  Raymond Aron je primetio da totalitarni režimi funkcionišu po dva principa: veri militanata i strahu protivnika. Taj kvazireligijski fanatizam karakteriše ih iznad njihovih različitih motivacija, zbog čega su nazvani sekularnim religijama. Presudno je to što totalitarizam zahteva sve definišuće karakteristike istovremeno: ukinute slobode, neograničenu vlast kroz jednu partiju, nasilnu revoluciju i usmeravanu ekonomiju. Moderne demokratije mogu pokazivati neke od tih osobina, ali totalitarizam je prisutan samo kada su sve sastavljene zajedno.
+reviewed: false

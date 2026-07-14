@@ -1,9 +1,9 @@
-question: Mikä erottaa kulttuurikonservatismin poliittisesta konservatismista?
-answer: Kulttuurikonservatismi on henkilökohtaista sitoutumista perinteisiin arvoihin ja viisauteen, kun taas poliittinen konservatismi pyrkii järjestämään yhteiskunnan kiinteän järjestyksen mukaan
+question: "Miten kulttuurisesti konservatiivinen libertaristi suhtautuu käyttäytymiseen, jota hän moraalisesti paheksuu?"
+answer: "Hän vastustaa ja hillitsee tällaista käyttäytymistä suostuttelun ja esimerkin avulla, mutta turvautumatta lain pakkovoimaan"
 wrong_answers:
-  - Kulttuurikonservatismi keskittyy hallituksen politiikkaan, kun taas poliittinen konservatismi korostaa henkilökohtaisia uskomuksia ja perheen perinteitä
-  - Kulttuurikonservatismi vastustaa kaikkea muutosta, kun taas poliittinen konservatismi mukauttaa perinteiset arvot nykyaikaisiin hallintorakenteisiin
-  - Kulttuurikonservatismi edellyttää moraalinormien oikeudellista täytäntöönpanoa, kun taas poliittinen konservatismi perustuu perinteiden vapaaehtoiseen noudattamiseen
-explanation: |
-  Kulttuurikonservatismi edustaa henkilökohtaista elämänfilosofiaa, joka perustuu perinteisiin moraalisiin arvoihin, estetiikkaan ja metafysiikkaan, jotka ovat periytyneet sivilisaatioilta
-  kuten kreikkalais-roomalainen tai juutalais-kristillinen perinne. Siinä on kyse yksilöllisestä viisaudesta ja henkisestä kohottamisesta, ei poliittisesta järjestäytymisestä. Poliittisessa konservatismissa on kuitenkin kyse nimenomaan yhteiskunnan jäsentämisestä kiinteän järjestyksen mukaan ja edistyksen tai muutoksen vastustamisesta. Keskeinen ero on se, että kulttuurikonservatismi on henkilökohtaista ja filosofista, kun taas poliittinen konservatismi koskee valtiollista ja yhteiskunnallista organisaatiota.
+  - "Hän kannattaa paikallishallinnon kieltoja tällaiselle käyttäytymiselle mutta vastustaa liittovaltiotason kieltoja"
+  - "Hän vaikenee tällaisesta käyttäytymisestä täysin, koska uskoo kaiken paheksunnan rikkovan yksilönvapautta"
+  - "Hän kannattaa yhteisötribunaaleja, jotka voivat rangaista tällaisesta käyttäytymisestä muodollisen oikeusjärjestelmän ulkopuolella"
+explanation: >-
+  Kulttuurisesti konservatiivinen libertaristi voi paheksua moraalisesti tiettyä käyttäytymistä, mutta ei kannata yhteisymmärrykseen perustuvien, ei-aggressiivisten tekojen laillista kieltoa. Hän voi inhota tällaisia tekoja, vastustaa niitä ja aktiivisesti hillitä niitä, mutta aina suostuttelun, kasvatuksen ja esimerkin kautta eikä lain pakkovoiman avulla. Tässä ei ole kyse vaikenemisesta tai vaihtoehtoisten täytäntöönpanomekanismien luomisesta.
+reviewed: false

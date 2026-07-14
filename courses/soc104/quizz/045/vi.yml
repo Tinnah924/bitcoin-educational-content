@@ -1,8 +1,9 @@
-question: Theo phân tích của Hayek, phương pháp cơ bản nào phân biệt hệ tư tưởng xã hội chủ nghĩa với triết học kinh tế tự do?
-answer: Chủ nghĩa kiến tạo - niềm tin rằng nhà nước nên chủ động xây dựng và định hình xã hội theo kế hoạch hợp lý.
+question: "Karl Marx đã phân biệt như thế nào giữa chủ nghĩa xã hội không tưởng và chủ nghĩa xã hội khoa học?"
+answer: "Ông cáo buộc các nhà xã hội chủ nghĩa Pháp thời kỳ đầu đề xuất các giải pháp tưởng tượng, trong khi chủ nghĩa xã hội khoa học của ông đặt nền trên chủ nghĩa duy vật lịch sử và đấu tranh giai cấp"
 wrong_answers:
-  - Trật tự tự phát - niềm tin rằng xã hội nên phát triển một cách tự nhiên thông qua các tương tác thị trường cá nhân.
-  - Chủ nghĩa tập thể - niềm tin rằng tất cả tài sản tư nhân nên bị xóa bỏ ngay lập tức thông qua các biện pháp cách mạng.
-  - Chủ nghĩa phân phối lại - niềm tin rằng của cải chỉ nên được chuyển giao thông qua các tổ chức từ thiện tự nguyện.
-explanation: |
-  Hayek xác định chủ nghĩa kiến tạo là nguyên tắc cốt lõi của chủ nghĩa xã hội, trong đó nhà nước chủ động thiết kế và xây dựng xã hội thông qua quy hoạch và can thiệp, trái ngược với quan niệm tự do về trật tự tự phát, nơi xã hội phát triển một cách tự nhiên thông qua hành động của các cá nhân. Cách tiếp cận theo chủ nghĩa kiến tạo này phản ánh niềm tin của chủ nghĩa xã hội vào kỹ thuật xã hội dựa trên lý trí và sự chỉ đạo của nhà nước đối với hoạt động của con người, thay vì cho phép các lực lượng thị trường và sự lựa chọn của cá nhân định hình kết quả xã hội một cách hữu cơ.
+  - "Ông lập luận rằng chủ nghĩa xã hội không tưởng quá tập trung vào kinh tế, trong khi chủ nghĩa xã hội khoa học ưu tiên chuyển hóa văn hóa và nghệ thuật"
+  - "Ông ca ngợi các nhà xã hội chủ nghĩa không tưởng vì các thử nghiệm thực tiễn của họ và phê phán chủ nghĩa xã hội khoa học là quá trừu tượng và lý thuyết"
+  - "Ông tuyên bố rằng chủ nghĩa xã hội không tưởng là bạo lực và cách mạng, trong khi chủ nghĩa xã hội khoa học ủng hộ cải cách dân chủ ôn hòa"
+explanation: >-
+  Marx cáo buộc các nhà xã hội chủ nghĩa Pháp thời kỳ đầu như Proudhon, Saint-Simon và Fourier là những người không tưởng, những người đề xuất các giải pháp hoàn toàn tưởng tượng. Chủ nghĩa xã hội khoa học của ông dựa trên chủ nghĩa duy vật lịch sử: ý tưởng rằng lịch sử tiến triển thông qua đấu tranh giai cấp và sự chiếm hữu các tư liệu sản xuất, trong đó mọi biểu hiện văn hóa đều bị quy định bởi lực lượng sản xuất và quan hệ sản xuất.
+reviewed: false

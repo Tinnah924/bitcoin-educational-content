@@ -1,8 +1,9 @@
-question: Kulingana na falsafa ya kiuchumi ya ujamaa, ni nini sababu kuu ya udhibiti mkubwa wa serikali juu ya uchumi?
-answer: Kuhakikisha usawa kwa kuwezesha kila mtu kukidhi mahitaji yake ya msingi kupitia ugawaji upya wa utajiri
+question: "Karl Marx alitoa tofauti gani kati ya usoshalisti wa kiutopia na usoshalisti wa kisayansi?"
+answer: "Aliwatuhumu wanasoshalisti wa mwanzo wa Kifaransa kwa kupendekeza suluhisho za kufikirika, ilhali usoshalisti wake wa kisayansi ulijengwa juu ya uyakinifu wa kihistoria na mapambano ya kitabaka"
 wrong_answers:
-  - Kuongeza uhuru wa kiuchumi wa mtu binafsi na kukuza mienendo ya soko yenye ushindani
-  - Kuondoa aina zote za uingiliaji kati wa serikali na kuunda utaratibu wa soko wa hiari
-  - Kukusanya utajiri miongoni mwa watu wenye tija zaidi katika jamii kwa ajili ya ufanisi
-explanation: |
-  Falsafa ya kiuchumi ya Kijamaa hupa kipaumbele usawa kuliko ufanisi, ikiona udhibiti imara wa serikali kama muhimu ili kugawanya utajiri upya na kuhakikisha kila mtu anaweza kukidhi mahitaji yake ya msingi. Wajamaa hawaamini masoko huria, wakiona kama mifumo inayowaruhusu wenye nguvu kuwanyonya walio dhaifu. Hii inatofautiana sana na falsafa ya kiuchumi huria, ambayo inapendelea uingiliaji kati mdogo wa serikali na mpangilio wa soko wa hiari. Majibu yasiyo sahihi yanaonyesha mbinu za huria au za kibepari ambazo wajamaa wanakataa waziwazi, kwani wanaamini mifumo hii inaendeleza ukosefu wa usawa badala ya kuushughulikia.
+  - "Alisema kwamba usoshalisti wa kiutopia ulijikita kupita kiasi katika uchumi, ilhali usoshalisti wa kisayansi ulitanguliza mabadiliko ya kitamaduni na kisanaa"
+  - "Aliwasifu wanasoshalisti wa kiutopia kwa majaribio yao ya kivitendo na akaukosoa usoshalisti wa kisayansi kwa kuwa wa kinadharia na wa kufikirika kupita kiasi"
+  - "Alidai kwamba usoshalisti wa kiutopia ulikuwa wa vurugu na kimapinduzi, ilhali usoshalisti wa kisayansi ulipendelea mageuzi ya amani ya kidemokrasia"
+explanation: >-
+  Marx aliwatuhumu wanasoshalisti wa mwanzo wa Kifaransa kama Proudhon, Saint-Simon, na Fourier kuwa watu wa kiutopia waliopendekeza suluhisho za kufikirika tu. Usoshalisti wake wa kisayansi uliegemea uyakinifu wa kihistoria: wazo kwamba historia husonga mbele kupitia mapambano ya kitabaka na utwaaji wa njia za uzalishaji, ambapo uwakilishi wote wa kitamaduni huwekewa masharti na nguvu za uzalishaji na mahusiano ya uzalishaji.
+reviewed: false

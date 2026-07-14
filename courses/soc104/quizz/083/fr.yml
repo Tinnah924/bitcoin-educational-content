@@ -1,8 +1,9 @@
-question: According to Hayek's theory of dispersed knowledge, why do centrally planned economies fail to achieve efficient resource allocation compared to free market systems?
-answer: Central planners cannot access the fragmented, localized knowledge that only individual market participants possess about their specific needs, preferences, and circumstances
+question: "Qu'est-ce que le constructivisme en tant que conviction politique partagée ?"
+answer: "La croyance qu'un gouvernement central peut créer, par la force de la loi, un ordre social qui est bon pour le plus grand nombre"
 wrong_answers:
-  - Central planners lack the computational power and advanced algorithms necessary to process all the economic data required for optimal resource allocation
-  - Central planners are inherently corrupt and self-interested, prioritizing their personal gain over the welfare of society as a whole
-  - Central planners are ideologically biased and refuse to implement market-based solutions even when they recognize their superior efficiency
-explanation: |
-  Hayek's fundamental insight about dispersed knowledge reveals that information about individual preferences, local conditions, and subjective valuations exists only in fragmented form across millions of individuals. This knowledge cannot be centrally collected or aggregated because it is tacit, constantly changing, and often contradictory. Free markets solve this through the price mechanism, which spontaneously coordinates this dispersed information through voluntary exchanges. The other options incorrectly focus on technical limitations, moral failings, or ideological bias rather than the core epistemological problem that no central authority can possess the distributed knowledge necessary for efficient coordination.
+  - "La croyance que la société devrait être organisée par la coopération volontaire entre individus sans ingérence de l'État"
+  - "La croyance que seuls les marchés libres peuvent déterminer la distribution optimale des ressources dans la société"
+  - "La croyance que l'autorité politique devrait être distribuée également entre tous les citoyens par la démocratie directe"
+explanation: >-
+  Le constructivisme unit centristes, conservateurs et socialistes autour d'une conviction partagée : la supériorité du processus politique sur le processus de marché. C'est la croyance qu'un gouvernement central peut créer, par la force de la loi, un ordre social bon pour le plus grand nombre. Cela s'oppose directement à la défense libertarienne de l'ordre spontané émergent des interactions volontaires.
+reviewed: false

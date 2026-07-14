@@ -1,9 +1,9 @@
-question: Hayeki hajutatud teadmiste teooria kohaselt, miks ei suuda tsentraalne plaanimajandus saavutada tõhusat ressursside jaotust võrreldes vabaturusüsteemidega?
-answer: Kesksed planeerijad ei pääse ligi killustatud ja kohalikele teadmistele, mida omavad ainult üksikud turuosalised oma konkreetsete vajaduste, eelistuste ja asjaolude kohta
+question: "Kuidas moodustavad vaba turu kolm olemuslikku funktsiooni, nagu libertaarid neid kirjeldavad, üheskoos nii tõhusa kui ka eetilise ühiskonnakorralduse süsteemi?"
+answer: "Hinnad annavad otsustele kompassi, turg paljastab pakkumise ja nõudluse kaudu autentsed eelistused ning vaba vahetus võimaldab indiviididel korraldada oma asju isiklike väärtuste järgi, ühendades informatsioonilise tõhususe moraalse autonoomiaga"
 wrong_answers:
-  - Keskplaneerijatel puudub arvutusvõimsus ja täiustatud algoritmid, mis on vajalikud kõigi optimaalseks ressursside jaotamiseks vajalike majandusandmete töötlemiseks
-  - Keskplaneerijad on loomupäraselt korrumpeerunud ja omakasupüüdlikud, seades oma isikliku kasu esikohale ühiskonna kui terviku heaolu ees
-  - Kesksed planeerijad on ideoloogiliselt kallutatud ja keelduvad turupõhiste lahenduste rakendamisest isegi siis, kui nad tunnistavad nende paremat tõhusust
-explanation: |
-  Hayeki põhiline arusaam hajutatud teadmistest näitab, et teave individuaalsete eelistuste, kohalike tingimuste ja subjektiivsete väärtushinnangute kohta on miljonite inimeste seas olemas ainult killustatud kujul. Neid teadmisi ei saa tsentraalselt koguda ega koondada, sest need on vaikivad, pidevalt muutuvad ja sageli vastuolulised. Vabad turud lahendavad selle probleemi hinnamehhanismi kaudu, mis kooskõlastab spontaanselt seda hajutatud teavet vabatahtliku vahetuse kaudu.
-  Teised võimalused keskenduvad ebaõigesti tehnilistele piirangutele, moraalsetele puudustele või ideoloogilistele eelarvamustele, mitte aga peamisele epistemoloogilisele probleemile, et ükski keskne asutus ei saa omada tõhusaks koordineerimiseks vajalikke hajutatud teadmisi.
+  - "Turg maksimeerib kogurikkuse, hoiab loomuliku konkurentsi kaudu ära monopolid ja tagab ressursside võrdse jaotuse, ühendades tootlikkuse sotsiaalse õiglusega"
+  - "Vabad turud vähendavad valitsuse kulutusi, ergutavad tehnoloogilist innovatsiooni ja loovad töövõimalusi, ühendades eelarvelise vastutuse majanduskasvuga"
+  - "Turud langetavad tarbijahindu, suurendavad konkurentsi kaudu toodete kvaliteeti ja laiendavad rahvusvahelist kaubandust, ühendades kodumaise jõukuse globaalse koostööga"
+explanation: >-
+  Libertaarne argument vaba turu kasuks tugineb kolmele omavahel seotud funktsioonile. Esiteks toimivad hinnad usaldusväärsete näitajatena, mis suunavad majanduslikke ja sotsiaalseid otsuseid (kompass). Teiseks paljastab turg pakkumise ja nõudluse kaudu autentsed individuaalsed eelistused. Kolmandaks võimaldab vaba vahetus tegutsejatel korraldada oma asju isiklike väärtuste järgi. Hayek näitas, et vabad turud koordineerivad hajutatud informatsiooni paremini kui keskne planeerimine (tõhusus), samas kui vastastikune nõusolek austab inimväärikust rohkem kui sund (õiglus).
+reviewed: false

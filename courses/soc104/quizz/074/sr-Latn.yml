@@ -1,8 +1,9 @@
-question: Koja politička porodica bi najverovatnije podržala i ukidanje zakona o minimalnoj zaradi i potpunu privatizaciju zdravstvenih sistema?
-answer: Libertarijanci, jer smatraju da su i minimalna zarada i javno zdravstvo nelegitimne vladine intervencije na slobodnim tržištima
+question: "Šta je koncept „moralnog hazarda” u kontekstu rasprave o subvencijama i koja politička porodica iznosi tu brigu?"
+answer: "Moralni hazard je podsticaj ka neodgovornosti kada se kompanije sprečavaju da propadnu putem subvencija, jer na kraju plaća poreski obveznik; tu brigu iznose libertarijanci"
 wrong_answers:
-  - Konzervativci, jer dosledno se protive svim oblicima vladine regulative u ekonomskim pitanjima
-  - Centristi, jer favorizuju rešenja zasnovana na tržištu dok održavaju određene socijalne zaštite
-  - Socijalisti, jer daju prednost ekonomskoj slobodi nad programima socijalne zaštite
-explanation: |
-  Libertarijanci su jedina politička porodica koja kategorički se protivi i zakonima o minimalnoj zaradi (smatrajući ih kršenjem ugovorne slobode koje stvara nezaposlenost) i javnom zdravstvu (posmatrajući zdravstvo kao uslugu poput svake druge koja bi trebala biti prepuštena privatnim tržištima). Konzervativci podržavaju tržišne mehanizme, ali mogu tolerisati minimalnu zaradu ako ne šteti konkurentnosti i preferiraju privatno zdravstvo dok prihvataju minimalnu ulogu države za siromašne. Centristi eksplicitno podržavaju održavanje minimalne zarade i favorizuju mešovite zdravstvene sisteme. Socijalisti snažno brane i minimalnu zaradu kao alat socijalne pravde i javno zdravstvo kao osnovna prava.
+  - "Moralni hazard je rizik da će se subvencionisane kompanije preseliti u zemlje sa nižim porezima, noseći radna mesta sa sobom; tu brigu iznose konzervativci"
+  - "Moralni hazard je opasnost da će vladini službenici postati korumpirani birajući koje kompanije dobijaju subvencije; tu brigu iznose centristi"
+  - "Moralni hazard je etički problem kompanija koje iskorišćavaju radnike nakon dobijanja javnih sredstava; tu brigu iznose socijalisti"
+explanation: >-
+  Libertarijanci tvrde da subvencije i spasavanja stvaraju moralni hazard: kada se kompanije sprečavaju da propadnu, to podstiče neodgovornost i nepromišljenost jer nema posledica za loše odluke. Na kraju plaća poreski obveznik, što libertarijanci smatraju duboko nepravednim. Taj koncept se razlikuje od briga o preseljenju kompanija, korupciji službenika ili iskorišćavanju radnika koje iznose druge političke porodice.
+reviewed: false

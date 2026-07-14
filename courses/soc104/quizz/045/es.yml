@@ -1,9 +1,9 @@
-question: Según el análisis de Hayek, ¿qué planteamiento fundamental distingue la ideología socialista de la filosofía económica liberal?
-answer: "Constructivismo: la creencia de que el Estado debe construir y moldear activamente la sociedad de acuerdo con una planificación racional"
+question: "¿Qué distinción trazó Karl Marx entre el socialismo utópico y el socialismo científico?"
+answer: "Acusó a los primeros socialistas franceses de proponer soluciones imaginarias, mientras que su socialismo científico se basaba en el materialismo histórico y la lucha de clases"
 wrong_answers:
-  - "Orden espontáneo: la creencia de que la sociedad debe desarrollarse de forma natural a través de las interacciones individuales del mercado"
-  - "Colectivismo: la creencia de que toda propiedad privada debe ser abolida inmediatamente por medios revolucionarios"
-  - "Redistribucionismo: la creencia de que la riqueza sólo debe transferirse a través de organizaciones benéficas voluntarias"
-explanation: |
-  Hayek identificó el constructivismo como el principio socialista básico, en el que el Estado diseña y construye activamente la sociedad mediante la planificación y la intervención,
-  que contrasta con el concepto liberal de orden espontáneo en el que la sociedad se desarrolla de forma natural a través de las acciones individuales. Este enfoque constructivista refleja la fe socialista en la ingeniería social basada en la razón y en la dirección estatal de la actividad humana, en contraposición a permitir que las fuerzas del mercado y las elecciones individuales configuren los resultados sociales de forma orgánica.
+  - "Argumentó que el socialismo utópico estaba demasiado centrado en la economía, mientras que el socialismo científico priorizaba la transformación cultural y artística"
+  - "Elogió a los socialistas utópicos por sus experimentos prácticos y criticó al socialismo científico por ser demasiado abstracto y teórico"
+  - "Afirmó que el socialismo utópico era violento y revolucionario, mientras que el socialismo científico favorecía la reforma democrática pacífica"
+explanation: >-
+  Marx acusó a los primeros socialistas franceses como Proudhon, Saint-Simon y Fourier de ser utópicos que proponían soluciones puramente imaginarias. Su socialismo científico descansaba en el materialismo histórico: la idea de que la historia progresa mediante la lucha de clases y la apropiación de los medios de producción, donde todas las representaciones culturales están condicionadas por las fuerzas productivas y las relaciones de producción.
+reviewed: false

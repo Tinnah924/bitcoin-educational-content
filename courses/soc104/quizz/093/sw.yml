@@ -1,9 +1,9 @@
-question: Kulingana na falsafa ya Satoshi Nakamoto, ni tatizo gani la msingi kuhusu sarafu za kawaida ambalo Bitcoin inalenga kutatua?
-answer: Uaminifu mkubwa unaohitajika katika taasisi kuu ambazo kihistoria huvunja uaminifu huo kupitia kushushwa kwa sarafu
+question: "Ni nguzo gani tatu za dola ya ustawi ambazo Bitcoin huzipa changamoto?"
+answer: "Mfumo wa fedha za umma, ukiritimba wa fedha wa kufadhili matumizi kupitia deni, na ufuatiliaji wa miamala ili kuzuia matumizi ya sarafu mbadala"
 wrong_answers:
-  - Udhaifu wa kiufundi wa mifumo ya malipo ya jadi ambayo husindika miamala polepole sana kwa biashara ya kimataifa
-  - Athari za kimazingira za uzalishaji wa sarafu halisi na athari ya kaboni kwenye miundombinu ya benki
-  - Vikwazo vya kijiografia vya sarafu za kitaifa vinavyozuia biashara na biashara ya kimataifa isiyo na mshono
-explanation: |
-  Satoshi ilisema waziwazi kwamba 'tatizo kuu la sarafu ya kawaida ni uaminifu wote unaohitajika ili kuifanya ifanye kazi' na ikabainisha kwamba 'historia ya sarafu za fiat imejaa uvunjaji wa uaminifu huo.'
-  Bitcoin iliundwa kama mfumo usioaminika ili kuondoa utegemezi kwa benki kuu ambazo zina sarafu zilizoharibika kihistoria. Chaguzi zingine, ingawa zinaweza kuwa na wasiwasi halali, hazikuwa motisha ya msingi ya kifalsafa nyuma ya uundaji wa Bitcoin kama ilivyoelezwa na muundaji wake.
+  - "Bajeti ya kijeshi, mfumo wa elimu ya umma, na miundombinu ya afya inayodhibitiwa na serikali"
+  - "Mfumo wa mahakama, mchakato wa kutunga sheria, na utekelezaji wa kanuni za biashara na mamlaka ya utendaji"
+  - "Mfumo wa hifadhi ya jamii, sheria ya kima cha chini cha mshahara, na muundo wa kodi ya mapato unaopanda kadiri mapato yanavyoongezeka"
+explanation: >-
+  Bitcoin huzipa changamoto nguzo tatu ambazo dola ya ustawi hutegemea. Kwanza, mfumo wa fedha za umma ambao hautoshi kufunika matumizi. Pili, ukiritimba wa fedha, yaani uwezo wa kutoa pesa ili kufadhili matumizi kupitia deni. Tatu, ufuatiliaji wa miamala, uwezo wa kuwazuia watu kutumia sarafu yoyote isipokuwa Fiat iliyolazimishwa na dola. Bitcoin hudhoofisha nguzo zote tatu kwa wakati mmoja.
+reviewed: false

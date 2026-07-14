@@ -1,8 +1,9 @@
-question: According to Hannah Arendt's analysis, what is the primary objective of totalitarian education systems?
-answer: To destroy the human capacity to form independent convictions and beliefs
+question: "Pourquoi les régimes totalitaires ont-ils été décrits comme des « religions séculières », et que cela révèle-t-il sur les conditions nécessaires à l'existence du totalitarisme ?"
+answer: "Ils exigent une foi quasi religieuse de la part des militants et utilisent la peur contre les opposants, et le totalitarisme exige simultanément toutes ses caractéristiques : libertés supprimées, parti unique, révolution violente et économie dirigée"
 wrong_answers:
-  - "To indoctrinate citizens with the regime's specific political ideology and values"
-  - To create a highly educated workforce capable of advancing state economic goals
-  - To eliminate illiteracy and promote scientific knowledge that serves the state
-explanation: |
-  Hannah Arendt argued that totalitarian education's goal was never to instill specific convictions, but rather to destroy people's ability to form any independent beliefs whatsoever. This distinguishes totalitarianism from mere authoritarianism or propaganda - it seeks to eliminate the very cognitive capacity for independent thought. The other options represent more conventional forms of political indoctrination or state-directed education, but miss Arendt's crucial insight that totalitarianism aims at the complete negation of human agency and independent judgment, not just the promotion of particular ideologies.
+  - "Ils remplacent le culte traditionnel par des cérémonies d'État, et le totalitarisme ne nécessite qu'un chef charismatique et un contrôle militaire"
+  - "Ils utilisent les institutions religieuses pour imposer l'idéologie d'État, et le totalitarisme peut émerger chaque fois qu'un seul parti politique domine le parlement"
+  - "Ils promettent le salut spirituel par l'action politique, et le totalitarisme existe chaque fois que l'État contrôle l'économie, indépendamment des libertés politiques"
+explanation: >-
+  Raymond Aron a observé que les régimes totalitaires fonctionnent selon deux principes : la foi des militants et la peur des opposants. Ce fanatisme quasi religieux les caractérise au-delà de leurs motivations différentes, ce qui leur vaut l'étiquette de religions séculières. Point crucial, le totalitarisme exige simultanément toutes ses caractéristiques définitoires : libertés supprimées, autorité illimitée par l'intermédiaire d'un parti unique, révolution violente et économie dirigée. Les démocraties modernes peuvent présenter certains de ces traits, mais le totalitarisme n'est présent que lorsqu'ils sont tous réunis.
+reviewed: false

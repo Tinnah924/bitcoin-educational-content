@@ -1,9 +1,9 @@
-question: Eric Hughesin Cypherpunk-manifestin mukaan mikä on ensisijainen vastuu yksityisyyden puolustamisesta avoimessa sähköisessä yhteiskunnassa?
-answer: Yksilöiden on aktiivisesti puolustettava omaa yksityisyyttään sen sijaan, että he luottavat siihen, että hallitukset tai yritykset huolehtivat siitä
+question: "Miksi cypherpunkit väittivät, että anonyymeillä ominaisuuksilla varustettu digitaalinen valuutta oli välttämätön?"
+answer: "Koska käteinen, ensisijainen anonyymi maksutapahtumajärjestelmä, on katoamassa digitaalisessa yhteiskunnassa, ja on keksittävä digitaalinen korvaaja, jolla on samat yksityisyysominaisuudet"
 wrong_answers:
-  - Hallitusten olisi laadittava kattavat yksityisyyden suojaa koskevat säännökset kansalaisten suojelemiseksi yritysten valvonnalta
-  - Yritysten on otettava käyttöön vapaaehtoisia yksityisyydensuojastandardeja ja säänneltävä itse tiedonkeruukäytäntöjään
-  - Kansainvälisten järjestöjen olisi luotava sitovia sopimuksia, jotka velvoittavat yksityisyyden suojaa kaikissa valtioissa
-explanation: |
-  Eric Hughes totesi Cypherpunk-manifestissa nimenomaisesti, että "emme voi odottaa hallitusten, yritysten tai muiden suurten anonyymien organisaatioiden takaavan meille luottamuksellisuutta...". Tärkein tavoitteeni Cypherpunksissa on saada ihmiset puolustamaan luottamuksellisuuttaan sen sijaan, että he luottaisivat siihen, että joku muu takaa sen
-  Tämä filosofia korostaa yksilön vastuuta ja omatoimisuutta kryptografisten työkalujen avulla ja hylkää riippuvuuden ulkoisista instituutioista yksityisyyden suojaamiseksi, minkä vuoksi cypherpunksit kehittivät hajautettuja kryptografisia järjestelmiä.
+  - "Koska olemassa olevat digitaaliset maksujärjestelmät olivat liian hitaita ja kalliita, mikä edellytti nopeampaa ja halvempaa vaihtoehtoa verkkokaupalle"
+  - "Koska valtiot olivat jo kieltäneet kaikki anonyymien maksutapahtumien muodot ja vain uusi teknologia voisi kiertää nämä lait"
+  - "Koska perinteiset pankit kieltäytyivät palvelemasta tiettyjä väestöryhmiä, mikä teki yleisesti saavutettavasta digitaalisesta maksujärjestelmästä taloudellisen välttämättömyyden"
+explanation: >-
+  Cypherpunk-manifesti toteaa, että luottamuksellisuus avoimessa yhteiskunnassa edellyttää anonyymejä maksutapahtumajärjestelmiä. Digitaaliseen aikaan asti käteinen toimi ensisijaisena tämän tyyppisenä järjestelmänä. Mutta digitaalisessa yhteiskunnassa, jossa käteinen katoaa, on keksittävä digitaalinen valuutta, jolla on samat anonymiteetin ominaisuudet. Tämä visio ennakoi suoraan sitä, mitä Bitcoin saavuttaisi.
+reviewed: false

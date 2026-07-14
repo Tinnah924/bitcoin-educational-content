@@ -1,9 +1,9 @@
-question: Enligt Eric Hughes Cypherpunk Manifesto, vilken är den primära metoden som cypherpunks bör använda för att uppnå sina mål om integritet och frihet?
-answer: Skriva kod för att bygga kryptografiska system som gör politiska skiljelinjer irrelevanta
+question: "Varför hävdade cypherpunks att en digital valuta med anonyma egenskaper var nödvändig?"
+answer: "Eftersom kontanter, det primära anonyma transaktionssystemet, håller på att försvinna i det digitala samhället, och en digital ersättning med samma integritetsegenskaper måste uppfinnas"
 wrong_answers:
-  - Lobbyverksamhet för att få regeringar att anta starkare lagar och förordningar om integritetsskydd
-  - Organisera massprotester och civila olydnadskampanjer mot övervakning
-  - Skapa utbildningsprogram för att öka allmänhetens medvetenhet om rätten till digital integritet
-explanation: |
-  Eric Hughes angav uttryckligen "Cypherpunks write code" som sin grundläggande strategi. I manifestet betonas att cypherpunks inte finner tröst i förhoppningar och önskningar, utan aktivt ingriper genom att bygga anonyma system med hjälp av kryptografi.
-  Detta omvandlar abstrakta idéer om frihet till konkret ekonomisk och samhällelig verklighet, vilket gör politiska uppdelningar godtyckliga och onödiga. De andra alternativen representerar traditionell politisk aktivism, vilket strider mot cypherpunkfilosofin om tekniska lösningar framför institutionella reformer.
+  - "Eftersom befintliga digitala betalningssystem var för långsamma och dyra, vilket krävde ett snabbare och billigare alternativ för näthandel"
+  - "Eftersom regeringar redan hade förbjudit alla former av anonyma transaktioner och endast en ny teknik kunde kringgå dessa lagar"
+  - "Eftersom traditionella banker vägrade betjäna vissa befolkningsgrupper, vilket gjorde ett universellt tillgängligt digitalt betalningssystem till en ekonomisk nödvändighet"
+explanation: >-
+  Cypherpunk-manifestet säger att konfidentialitet i ett öppet samhälle kräver anonyma transaktionssystem. Fram till den digitala tidsåldern fungerade kontanter som det primära systemet av detta slag. Men i ett digitalt samhälle där kontanter håller på att försvinna måste en digital valuta med samma anonymitetsegenskaper uppfinnas. Denna vision föregrep direkt vad Bitcoin skulle uppnå.
+reviewed: false

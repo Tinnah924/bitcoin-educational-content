@@ -1,8 +1,9 @@
-question: Co reprezentuje oś y na diagramie politycznym?
-answer: Wolności osobiste i społeczne
+question: "Które emblematyczne postacie są kojarzone z maksymalną wolnością gospodarczą na diagramie Nolana?"
+answer: "Margaret Thatcher, Ronald Reagan i Javier Milei"
 wrong_answers:
-  - Swobody gospodarcze i handlowe
-  - Poziom interwencji rządu w gospodarkę
-  - Preferencje podatkowe i regulacyjne
-explanation: |
-  Oś y (pionowa) reprezentuje wolności osobiste i społeczne, które obejmują swobodę przemieszczania się, wyrażania opinii i samostanowienia. Wolności te dotyczą prywatnych relacji, opinii i przekonań, a także wszystkiego, co robisz z własnym ciałem i umysłem. Oś x (pozioma) reprezentuje wolności ekonomiczne. To rozróżnienie pozwala nam zaklasyfikować większość kwestii politycznych do dwóch podstawowych kategorii.
+  - "Franklin D. Roosevelt, Jean Jaurès i Bernie Sanders"
+  - "Nelson Mandela, Simone Veil i Noam Chomsky"
+  - "Vladimir Putin, Xi Jinping i Joseph de Maistre"
+explanation: >-
+  Thatcher, Reagan i Milei są przywoływani jako emblematyczne postacie maksymalnej wolności gospodarczej, sprzyjające mniejszej interwencji państwa, mniejszej liczbie regulacji i niższym podatkom. Roosevelt, Jaurès i Sanders reprezentują przeciwny kraniec, sprzyjający kontroli państwa nad gospodarką. Mandela, Veil i Chomsky reprezentują maksymalną wolność osobistą. Putin, Xi Jinping i de Maistre reprezentują maksymalną kontrolę państwa nad życiem osobistym.
+reviewed: false

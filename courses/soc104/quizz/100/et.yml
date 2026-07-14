@@ -1,9 +1,9 @@
-question: Milline on Eric Hughesi Cypherpunk manifesti kohaselt esmane kohustus kaitsta eraelu puutumatust avatud elektroonilises ühiskonnas?
-answer: Üksikisikud peavad aktiivselt kaitsma oma eraelu puutumatust, mitte lootma valitsustele või korporatsioonidele, kes seda tagavad
+question: "Kuidas seostub cypherpunki filosoofia tsentraliseerimise kohta libertaarse põhimõttega, et nõusolek on õigluse põhinorm?"
+answer: "Cypherpunks'id näevad kogu tsentraliseerimist rajatuna pigem sunnile kui nõusolekule, kajastades libertaarset seisukohta, et miski ei saa olla õiglane, kui see kehtestatakse tsentraliseeritud võimu poolt jõu abil"
 wrong_answers:
-  - Valitsused peaksid kehtestama põhjalikud eraelu puutumatuse eeskirjad, et kaitsta kodanikke ettevõtete jälgimise eest
-  - Ettevõtted peavad rakendama vabatahtlikke eraelu puutumatuse standardeid ja isereguleerima oma andmekogumistavasid
-  - Rahvusvahelised organisatsioonid peaksid looma siduvaid lepinguid, mis kohustavad kõiki riike kaitsma eraelu puutumatust
-explanation: |
-  Eric Hughes ütles Cypherpunk manifestis selgesõnaliselt, et "Me ei saa oodata, et valitsused, korporatsioonid või teised suured anonüümsed organisatsioonid tagavad meile konfidentsiaalsuse... Minu peamine eesmärk Cypherpunks'i jaoks on panna inimesed kaitsma oma konfidentsiaalsust, selle asemel, et loota, et keegi teine seda tagab
-  See filosoofia rõhutab individuaalset vastutust ja enesekindlust krüptograafiliste vahendite abil, lükates tagasi sõltuvuse välistest institutsioonidest privaatsuse kaitsmisel, mistõttu cypherpunks arendas välja detsentraliseeritud krüptograafilised süsteemid.
+  - "Cypherpunks'id usuvad, et tsentraliseerimine on vastuvõetav, kui selle kiidab heaks demokraatlik enamus, mis sobitub libertaarse austusega põhiseadusliku valitsemise vastu"
+  - "Cypherpunks'id toetavad hädaolukordades ajutist tsentraliseerimist, peegeldades libertaarset vaadet, et üksikisiku õigused võib peatada, kui kollektiiv on ohus"
+  - "Cypherpunks'id vastustavad tsentraliseerimist ainult tehnoloogiasüsteemides, aktsepteerides samal ajal poliitilist tsentraliseerimist kui vajalikku omandiõiguste ja lepingute jõustamiseks"
+explanation: >-
+  Cypherpunks'id usaldavad tsentraliseeritud institutsioonide asemel detsentraliseeritud krüptograafilisi süsteeme. Kogu tsentraliseerimist tajutakse rajatuna pigem sunnile kui nõusolekule. See kajastab otseselt libertaarset filosoofiat, mille järgi nõusolek on õigluse põhinorm. Miski ei saa olla õiglane, kui seda kehtestab tsentraliseeritud võim jõu abil, mistõttu nad püüdsid ehitada detsentraliseeritud võrke, kus ükski üksik üksus ei saaks oma tahet peale suruda.
+reviewed: false

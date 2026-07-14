@@ -1,8 +1,9 @@
-question: Prema Fridmanovoj perspektivi, koji je primarni problem sa ocenjivanjem socijalnih politika na osnovu njihovih izjavljenih namera umesto stvarnih ishoda?
-answer: Dobronamerne politike često proizvode nenameravane posledice koje protivreče njihovim originalnim ciljevima, kao što su stvaranje zavisnosti ili tržišne distorzije.
+question: "Kako socijalizam različito tretira slobode u društvenoj i ekonomskoj sferi?"
+answer: "Socijalizam favorizuje snažne slobode u društvenoj sferi, ali slabe slobode u ekonomskoj sferi"
 wrong_answers:
-  - Namere su previše teške za objektivno merenje u poređenju sa ishodima, što čini evaluaciju politika nemogućom za istraživače i analitičare.
-  - Političari namerno koriste lažne namere kako bi obmanuli birače, što čini neophodnim fokusiranje isključivo na merljive ekonomske pokazatelje.
-  - Namere se prečesto menjaju tokom sprovođenja politike, dok ishodi ostaju konstantni i pružaju bolju dugoročnu smernicu.
-explanation: |
-  Friedman tvrdi da politike motivisane velikodušnim namerama mogu imati nepredviđene ili štetne posledice ako nisu zasnovane na rigoroznoj analizi ljudskog ponašanja i podsticaja. Tekst posebno pominje da programi označeni kao pomoć siromašnima često imaju suprotne efekte od onih koje njihovi dobronamerni sponzori žele, stvarajući izopačene efekte poput ekonomske zavisnosti. Ovo ilustruje zašto strukturne definicije koje se fokusiraju na uočljive karakteristike i merljive rezultate treba da imaju prednost nad namernim definicijama zasnovanim na deklarisanim motivacijama.
+  - "Socijalizam jednako ograničava sve slobode u društvenoj i ekonomskoj sferi"
+  - "Socijalizam favorizuje snažne ekonomske slobode, ali ograničava društvene slobode radi održavanja društvenog poretka"
+  - "Socijalizam daje neograničene slobode u obe sfere i oslanja se na dobrovoljnu saradnju za održavanje ravnoteže"
+explanation: >-
+  U socijalističkoj misli postoji fundamentalna dihotomija između društvenih i ekonomskih sloboda. Društvene slobode su snažne, ali ekonomske slobode su slabe zbog naglaska na državnoj kontroli, planiranju i preraspodeli bogatstva. Treći pogrešan odgovor opisuje libertarijanski ideal, dok drugi opisuje konzervativni obrazac, koji je ogledalska slika socijalizma.
+reviewed: false

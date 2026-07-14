@@ -1,9 +1,9 @@
-question: Mikä poliittinen perhe tukee todennäköisimmin sekä minimipalkkalakien poistamista että terveydenhuollon täydellistä yksityistämistä ja vastustaa samalla kaikkia ympäristösäännöksiä?
-answer: Libertaristit, koska he vastustavat johdonmukaisesti valtion puuttumista markkinoihin kaikilla aloilla
+question: "Mikä on konservatiivinen kanta maahanmuuttoon?"
+answer: "Valtiolla on suvereeni oikeus kontrolloida rajojaan kansallisen turvallisuuden ja kulttuurisen identiteetin suojelemiseksi"
 wrong_answers:
-  - Konservatiivit, koska he suosivat markkinaratkaisuja mutta hyväksyvät tarvittaessa jonkin verran valtion sääntelyä
-  - Keskustalaiset, jotka pyrkivät tasapainoiseen lähestymistapaan, jossa yhdistyvät markkinamekanismit ja kohdennetut valtion toimet
-  - Sosialistit, koska he kannattavat voimakkaasti hallituksen toimia työntekijöiden suojelemiseksi ja yleisten palvelujen tarjoamiseksi
-explanation: |
-  Libertaristit ovat ainoa poliittinen ryhmä, joka johdonmukaisesti kannattaa hallituksen minimaalista puuttumista kaikkiin talouden aloihin.
-  He pitävät minimipalkkalakeja työttömyyttä aiheuttavina markkinavääristyminä, kannattavat terveydenhuollon täydellistä yksityistämistä, koska se on tehokkaampaa kuin valtion ohjelmat, ja vastustavat ympäristösäännöksiä taloudellisen vapauden loukkauksina. Konservatiivit saattaisivat kannattaa joitakin näistä kannoista, mutta hyväksyisivät rajoitetun sääntelyn strategisiin tarkoituksiin. Keskustalaiset pyrkivät pragmaattiseen tasapainoon markkinoiden vapauden ja hallituksen valvonnan välillä. Sosialistit vastustavat pohjimmiltaan kaikkia kolmea kantaa, koska he pitävät niitä haitallisina sosiaaliselle oikeudenmukaisuudelle ja kollektiiviselle hyvinvoinnille.
+  - "Rajojen tulisi olla ehdoitta avoimet, koska syrjivät rajoitukset rikkovat ihmisoikeuksia"
+  - "Maahanmuuton tulisi määräytyä markkinakysynnän perusteella siten, että kansalaiset päättävät sopimuksellisesti suhteistaan ulkomaalaisiin"
+  - "Maahanmuuttopolitiikan tulisi tasapainottaa taloudellisia tarpeita ja onnistunutta kotoutumista asiantuntija-arvioinnin perusteella"
+explanation: >-
+  Konservatiivit katsovat, että järjestyksen, identiteetin ja kansallisen suvereniteetin on oltava etusijalla ulkomaalaisten tai pakolaisten rajoittamattomaan vastaanottamiseen nähden. Rajat ja selkeästi määritelty väestö ovat osa sivistyneitä arvoja. Väärät vastaukset edustavat sosialistista kantaa (avoimet rajat ihmisoikeuksina), libertaarista kantaa (markkinaperustainen maahanmuutto) ja keskustalaista kantaa (tasapainoinen, asiantuntijavetoinen lähestymistapa).
+reviewed: false

@@ -1,9 +1,9 @@
-question: Secondo la filosofia libertaria, qual è la principale giustificazione per opporsi sia alle imposte sul reddito che alle leggi sul salario minimo?
-answer: Entrambi rappresentano violazioni governative della libertà individuale e di accordi contrattuali volontari tra privati
+question: "In che modo le posizioni conservatrice e libertaria sul salario minimo differiscono nel loro ragionamento, pur favorendone entrambe l'abolizione?"
+answer: "I conservatori accettano un certo coinvolgimento dello Stato nella determinazione dei salari se non ostacola la competitività, mentre i libertari vedono il salario minimo come un'imposizione morale sulla libertà di assumere e fare impresa"
 wrong_answers:
-  - Entrambi creano inefficienze economiche che danneggiano principalmente le grandi aziende e i ricchi investitori
-  - Entrambi sono esempi di politiche che dovrebbero essere gestite dai governi locali piuttosto che dalle autorità federali
-  - Entrambe rappresentano teorie economiche superate che sono state dimostrate inefficaci dalla moderna ricerca economica
-explanation: |
-  I libertari si oppongono costantemente sia alle imposte sul reddito che alle leggi sul salario minimo, sulla base del principio fondamentale che l'intervento del governo viola la libertà individuale e i meccanismi del libero mercato.
-  Considerano le imposte sul reddito come un "furto" che viola i diritti di proprietà e le leggi sul salario minimo come distorsioni artificiali del mercato che violano la libertà dei datori di lavoro e dei dipendenti di negoziare volontariamente i contratti. Questa coerenza filosofica distingue le posizioni libertarie da quelle di altre famiglie politiche che possono sostenere una politica e opporsi all'altra sulla base di motivazioni pragmatiche piuttosto che di principio.
+  - "I conservatori si oppongono al salario minimo perché crea inflazione, mentre i libertari vi si oppongono perché dà troppo potere ai sindacati"
+  - "I conservatori vogliono salari fissati da istituzioni religiose e comunitarie, mentre i libertari vogliono salari determinati da studi di mercato approvati dal governo"
+  - "I conservatori credono che i salari minimi dovrebbero variare per regione, mentre i libertari credono che un unico salario fisso dovrebbe applicarsi a livello nazionale"
+explanation: >-
+  Entrambi favoriscono la riduzione o l'abolizione del salario minimo, ma il loro ragionamento differisce fondamentalmente. I conservatori accettano un certo coinvolgimento dello Stato nella determinazione dei salari, insistendo però che rimanga minimo e dipendente dal contesto, con attenzione alla competitività. I libertari assumono una posizione morale più forte: un salario minimo è un'imposizione sulla libertà di assumere e fare impresa. Quando i libertari dicono "il mercato", intendono il contratto, negoziato liberamente tra due parti senza interferenze dello Stato.
+reviewed: false

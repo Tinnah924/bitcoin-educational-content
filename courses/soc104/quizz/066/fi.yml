@@ -1,9 +1,9 @@
-question: Mikä on libertaristisen ideologian mukaan johdonmukaisin tapa ratkaista perinteisen avioliiton kannattajien ja samaa sukupuolta olevien avioliiton kannattajien väliset ristiriidat?
-answer: Avioliiton täydellinen yksityistäminen poistamalla valtion osallistuminen ja antamalla yksityisten organisaatioiden määritellä ja tunnustaa avioliitot omien standardiensa mukaisesti
+question: "Miten konservatiivien ja libertaarien kannat vähimmäispalkkaan eroavat perusteluiltaan, vaikka molemmat kannattavat sen poistamista?"
+answer: "Konservatiivit hyväksyvät jonkinasteisen valtion osallistumisen palkkojen määrittelyyn, jos se ei haittaa kilpailukykyä, kun taas libertaarit pitävät vähimmäispalkkaa moraalisena pakkona palkkaamisen ja liiketoiminnan vapaudelle"
 wrong_answers:
-  - Hallituksen pitäisi laillistaa samaa sukupuolta olevien avioliitto ja suojella samalla uskonnollisia poikkeuksia perinteisille instituutioille, jotka vastustavat sitä
-  - Hallituksen olisi säilytettävä perinteinen avioliiton määritelmä, mutta luotava erilliset siviiliunionit, joilla on vastaavat lailliset oikeudet samaa sukupuolta oleville pareille
-  - Hallituksen olisi järjestettävä kansalliset kansanäänestykset avioliiton määritelmistä, jotta demokraattinen enemmistö voisi päättää ja samalla suojella vähemmistöjen oikeuksia perustuslain muutoksilla
-explanation: |
-  Libertaristinen kanta kannattaa avioliiton ja valtion täydellistä erottamista toisistaan, jolloin yksityiset organisaatiot (kirkot, maalliset ryhmät jne.) voivat määritellä avioliiton omien arvojensa mukaisesti.
-  Tässä lähestymistavassa kunnioitetaan sekä omistusoikeuksia että yksilönvapautta pakottamatta kumpaakaan osapuolta hyväksymään toisen määritelmää. Väärät vastaukset edellyttävät kaikki valtion jatkuvaa osallistumista avioliiton määrittelyyn, mikä on ristiriidassa libertaarisen periaatteen kanssa, jonka mukaan valtion puuttuminen henkilökohtaisiin suhteisiin ja yksityisiin instituutioihin on minimoitava.
+  - "Konservatiivit vastustavat vähimmäispalkkaa, koska se aiheuttaa inflaatiota, kun taas libertaarit vastustavat sitä, koska se antaa liikaa valtaa ammattiliitoille"
+  - "Konservatiivit haluavat uskonnollisten ja yhteisöllisten instituutioiden määrittävän palkat, kun taas libertaarit haluavat palkkojen määräytyvän hallituksen hyväksymien markkinatutkimusten perusteella"
+  - "Konservatiivit uskovat, että vähimmäispalkkojen pitäisi vaihdella alueittain, kun taas libertaarit uskovat, että yhden yhtenäisen palkan pitäisi koskea koko maata"
+explanation: >-
+  Molemmat kannattavat vähimmäispalkan alentamista tai poistamista, mutta niiden perustelut eroavat perustavasti. Konservatiivit hyväksyvät jonkinasteisen valtion osallistumisen palkkojen määrittelyyn, mutta vaativat sen pysyvän vähäisenä ja kontekstista riippuvaisena sekä keskittyvät kilpailukykyyn. Libertaarit ottavat vahvemman moraalisen kannan: vähimmäispalkka on pakko palkkaamisen ja liiketoiminnan vapaudelle. Kun libertaarit sanovat "markkinat", he tarkoittavat sopimusta, joka neuvotellaan vapaasti kahden osapuolen välillä ilman valtion puuttumista.
+reviewed: false

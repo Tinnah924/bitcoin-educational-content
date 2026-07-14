@@ -1,9 +1,9 @@
-question: Ni ibihe bice bibiri bikora igishushanyo ca Nolan?
-answer: Umwidegemvyo mu vy'ubutunzi n'umwidegemvyo w'umuntu ku giti ciwe
+question: "Kubera iki umurongo uhagaze (hejuru-hasi) ufatwa nk'uw'ishimikiro kuruta umurongo utambitse (ibubamfu-iburyo) ku gishushanyo ca Nolan?"
+answer: "Kubera ko ugaragaza igaburwa ry'ukuri hagati y'abashigikira umwidegemvyo mwinshi ushoboka w'umuntu ku giti ciwe n'abashigikira igenzura rinini rishoboka rya leta"
 wrong_answers:
-  - Ibubamfu-iburyo n'ubutegetsi bw'agahomerabunwa-demokarasi
-  - Abanyagihugu-abanyagihugu n'isoko rya Leta
-  - Umuntu ku giti ciwe-rusangi n'imigenzo-itera imbere
-explanation: |
-  Igishushanyo ca Nolan cubatswe ku nzira zibiri zitandukanye: umwidegemvyo mu vy’ubutunzi (ubushobozi bwo guhitamwo mu vy’ubutunzi ata Leta yivangamwo) n’umwidegemvyo w’umuntu ku giti ciwe . 
-  (umwidegemvyo w’umuntu ku giti ciwe mu bibazo vy’umuntu ku giti ciwe). Ubwo buryo bw’ingero zibiri buratuma umuntu ashobora guserukira neza ivyicaro vya politike kuruta uko vyari bimeze nk’uko vyari bisanzwe bigaragazwa n’umurongo umwe w’ibubamfu n’iburyo. Ibindi bihitamwo bigereranya ivyiyumviro bitandukanye vya politike ariko si vyo bikoreshwa mu guhingura urutonde rw’ibintu vyihariye vya Nolan.
+  - "Kubera ko upima umwimbu w'ubutunzi neza kuruta uko umurongo utambitse upima amapolitike y'ikibano"
+  - "Kubera ko amakimbirane menshi ya politike muri kahise yari yerekeye akaranga k'imico kuruta ubutegetsi"
+  - "Kubera ko umurongo utambitse ukora gusa kuri demokarasi za none, mu gihe umurongo uhagaze ari rusangi hose"
+explanation: >-
+  Umurongo w'ishimikiro ni uwuhagaze kubera ko ufata ikibazo nyamukuru ca politike: leta ikwiye kugenzura ibikorwa vy'umuntu ku rugero rungana iki? Umurongo ibubamfu-iburyo werekana gusa inyiyumvo zitandukanye (ubutungane bw'ikibano ku ruhande rumwe, imigenzo ku rundi), ariko impande zompi zishobora kuba ku kibanza kimwe ku murongo uhagaze nk'abashigikira ububasha bwa leta. Umurongo uhagaze ugaragaza nimba umuntu ashaka guhata abandi kwakira ivyo abona akoresheje inguvu canke yubaha umwidegemvyo w'umuntu ku giti ciwe.
+reviewed: false

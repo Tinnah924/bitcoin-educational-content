@@ -1,8 +1,9 @@
-question: Ifølge Gustave Molinaris analyse i "Les Soirées de la rue Saint Lazare" (Les Soirées de la rue Saint Lazare), hvilke grunnleggende likhetstrekk er det mellom konservative og sosialister som skiller dem fra liberalister?
-answer: Både konservative og sosialister søker å påtvinge sin samfunnsvisjon gjennom statlig inngripen, til tross for at de har ulike visjoner
+question: "I Gustave de Molinaris dialoger fra 1849, hvilken figur forsvarer frihet som et grunnleggende prinsipp i stedet for å underordne den andre mål?"
+answer: "Økonomen, som behandler frihet som et prinsipp som ikke er underordnet noe annet mål"
 wrong_answers:
-  - Både konservative og sosialister ser på frihet som et absolutt prinsipp snarere enn et spørsmål om muligheter eller pragmatisme
-  - Både konservative og sosialister avviser begrepet privat eiendom og går inn for kollektivt eierskap av ressurser
-  - Både konservative og sosialister er tilhengere av minimal statlig inngripen og foretrekker markedsbaserte løsninger på sosiale problemer
-explanation: |
-  Molinaris hovedinnsikt var at konservative og sosialister, til tross for deres tilsynelatende ideologiske forskjeller, har en felles tilnærming: De bruker begge statsmakt for å påtvinge sine respektive visjoner om hvordan samfunnet bør organiseres. Konservative ønsker å bevare tradisjonelle strukturer gjennom statlig håndhevelse, mens sosialister ønsker å omforme samfunnet i henhold til sine idealer, også gjennom statlig handling. Dette står i skarp kontrast til libertarianere, som motsetter seg å bruke statsmakten til å påtvinge noen bestemt samfunnsvisjon og i stedet tar til orde for å maksimere individuell frihet og minimere statlig inngripen.
+  - "Sosialisten, som forsvarer frihet gjennom progressive reformer rettet mot sosial likhet"
+  - "Den konservative, som opprettholder frihet ved å bevare tradisjonell sosial orden og stabilitet"
+  - "Alle tre figurene forsvarer frihet likt, men er uenige om hvordan den skal gjennomføres"
+explanation: >-
+  I Molinaris dialoger fra Les Soirees de la rue Saint-Lazare står økonomen i permanent uenighet med både sosialisten og den konservative. Han er den eneste som forsvarer frihet som et grunnleggende prinsipp. Sosialisten underordner frihet progressive idealer, og den konservative underordner den bevaring av orden, noe som gjør økonomen unik i sitt ubetingede forsvar av frihet.
+reviewed: false

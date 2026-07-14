@@ -1,8 +1,9 @@
-question: Segundo a análise de Molinari em "Les Soirées de la rue Saint Lazare", que semelhança fundamental existe entre conservadores e socialistas que os distingue dos libertários?
-answer: Tanto os conservadores como os socialistas procuram impor a sua visão da sociedade através do poder do Estado, apesar de terem visões diferentes
+question: "O que tem precedência sobre a liberdade na filosofia política conservadora?"
+answer: "A ordem e a tradição, que devem estar firmemente estabelecidas antes que a liberdade possa ser valorizada"
 wrong_answers:
-  - Tanto os conservadores como os socialistas rejeitam os direitos de propriedade individuais e favorecem a propriedade colectiva dos recursos
-  - Tanto os conservadores como os socialistas vêem a liberdade como um princípio absoluto que nunca deve ser comprometido ou limitado
-  - Tanto os conservadores como os socialistas apoiam uma intervenção mínima do governo e opõem-se a todas as formas de engenharia social
-explanation: |
-  A principal conclusão de Molinari foi que, apesar da sua aparente oposição, conservadores e socialistas partilham uma metodologia comum: utilizar o poder do Estado para impor as suas respectivas visões sociais. Os conservadores querem obrigar as pessoas a manter as raízes e estruturas tradicionais, enquanto os socialistas querem obrigar as pessoas a abandoná-las, mas ambos recorrem à coação do Estado. Isto distingue-os dos libertários, que se opõem à utilização do poder do Estado para impor qualquer visão social e defendem, em vez disso, acordos voluntários baseados na escolha individual e nos direitos de propriedade.
+  - "A justiça social e a igualdade, que devem ser garantidas antes que os indivíduos possam ser verdadeiramente livres"
+  - "A eficiência econômica e os resultados pragmáticos, que determinam quando a liberdade é apropriada"
+  - "Os direitos de propriedade individuais, que devem ser protegidos antes que qualquer outra liberdade seja concedida"
+explanation: >-
+  Para os conservadores, a ordem e a tradição têm precedência sobre a liberdade. Eles argumentam que liberdade demais gera caos e desordem social, de modo que a liberdade só pode ser valorizada depois que a ordem estiver firmemente estabelecida. Isso contrasta com a visão socialista que prioriza a justiça, ou com o foco centrista na eficiência.
+reviewed: false

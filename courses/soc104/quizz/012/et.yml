@@ -1,9 +1,9 @@
-question: Mida kujutab kahemõõtmelisel poliitilisel diagrammil majandustelje parem pool (100 suunas)?
-answer: Eelistab majanduslikku vabadust, vähem riigipoolset sekkumist, madalamaid makse ja vabu turge
+question: "Mida hõlmab majandusliku vabaduse kategooria?"
+answer: "Seda, mida teete tootja ja tarbijana: ostmine, müümine, tootmine, töötamine, palkamine ja oma raha haldamine"
 wrong_answers:
-  - Riigi tugeva sekkumise eelistamine koos kõrgete maksude ja ulatuslike avalike teenustega
-  - Individuaalsete vabaduste ja sallivuse eelistamine isiklikes ja sotsiaalsetes küsimustes
-  - Eelistus traditsioonilistele väärtustele, korrale ja turvalisusele, mida toetab riik
-explanation: |
-  Majandustelje parempoolne pool esindab majanduslikku vabadust, mida iseloomustab riigi minimaalne sekkumine majandusse, vähendatud reguleerimine,
-  madalamad maksud ning ettevõtete ja üksikisikute suurem vabadus toota, vahetada ja tarbida. See positsioon rõhutab vabu turge, eraomandit ja konkurentsi kui jõukuse edasiviivaid tegureid. Teised valikud kirjeldavad kas majandustelje vasakpoolset osa (tugev riiklik sekkumine) või seisukohti isikuvabaduste teljel (individuaalsed vabadused või traditsioonilised väärtused), mis on selles poliitilises raamistikus eraldi mõõtmed.
+  - "Teie usulisi veendumusi, isiklikke suhteid ja väljendusvabadust"
+  - "Teie õigust hääletada, osaleda valimistel ja liituda poliitiliste parteidega"
+  - "Teie võimet vabalt reisida, valida elukohta ja ületada riigipiire"
+explanation: >-
+  Majanduslik vabadus hõlmab seda, mida teete tootja ja tarbijana: mida saate osta, müüa või toota; kus töötate; keda palkate; ja mida oma rahaga teete. Isiklikud suhted, usulised veendumused ja liikumisvabadus kuuluvad isikliku vabaduse kategooriasse, mitte majanduslikku kategooriasse.
+reviewed: false

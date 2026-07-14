@@ -1,9 +1,9 @@
-question: Theo triết lý tự do, sự khác biệt cơ bản giữa tiền nhà nước (tiền pháp định) và tiền thị trường như Bitcoin là gì?
-answer: Tiền nhà nước mang tính cưỡng chế và tập trung, trong khi tiền thị trường xuất hiện một cách tự nguyện và duy trì giá trị lâu dài.
+question: "Nguyên tắc cypherpunk 'Cypherpunks write code' cho thấy điều gì về cách tiếp cận của phong trào nhằm đạt được tự do?"
+answer: "Rằng con đường đến tự do đi qua việc chủ động xây dựng các hệ thống ẩn danh, sử dụng mã như công cụ căn bản để biến các ý tưởng trừu tượng về tự do thành hiện thực"
 wrong_answers:
-  - Tiền nhà nước ổn định và được quản lý chặt chẽ hơn, trong khi tiền thị trường dễ biến động và khó dự đoán.
-  - Tiền nhà nước phục vụ các mục tiêu phúc lợi xã hội, trong khi tiền thị trường chỉ mang lại lợi ích cho các nhà đầu tư giàu có.
-  - Tiền nhà nước mang tính dân chủ và minh bạch, trong khi tiền thị trường lại do các nhà phát triển ẩn danh kiểm soát.
-explanation: |
-  Chương này phân biệt rõ ràng giữa tiền nhà nước (tiền pháp định) như một hệ thống tập trung, mang tính cưỡng chế và có xu hướng mất giá, với tiền thị trường như Bitcoin, loại tiền xuất hiện một cách tự nguyện, tự phát và giữ được giá trị lâu dài.
-  Điều này phản ánh nguyên tắc tự do rộng hơn về hệ thống tự nguyện so với hệ thống cưỡng chế. Các câu trả lời sai đã xuyên tạc phê bình của chủ nghĩa tự do bằng cách tập trung vào các lập luận kinh tế thông thường thay vì sự phân biệt triết học giữa hệ thống tiền tệ tự nguyện và cưỡng chế.
+  - "Rằng cypherpunks chủ yếu là các nhà phát triển phần mềm viết ứng dụng thương mại để tài trợ cho các chiến dịch hoạt động chính trị của họ"
+  - "Rằng phong trào tin vào việc giáo dục công chúng thông qua các tuyên ngôn viết và ấn phẩm học thuật thay vì hành động trực tiếp"
+  - "Rằng cypherpunks tập trung vào việc hack các hệ thống chính phủ hiện có để phơi bày các chương trình giám sát và buộc cải cách lập pháp"
+explanation: >-
+  Công thức "Cypherpunks write code" phản ánh cam kết của phong trào đối với can thiệp chủ động thay vì chỉ hy vọng. Đối với Eric Hughes, con đường đến tự do đi qua việc chủ động xây dựng các hệ thống ẩn danh khiến các phân chia chính trị tùy tiện trở nên không liên quan. Mã trở thành công cụ căn bản để biến các ý tưởng trừu tượng về tự do thành hiện thực, đó là lý do Satoshi Nakamoto đã viết toàn bộ mã Bitcoin trước cả khi viết white paper.
+reviewed: false

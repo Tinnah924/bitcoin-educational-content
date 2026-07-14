@@ -1,8 +1,9 @@
-question: Vilken historisk utveckling förklarar bäst varför anhängare av klassisk liberalism i USA började använda termen "libertarian" från och med 1960-talet?
-answer: Amerikanska liberaler hade anammat statlig interventionism och Big Government-politik, vilket stred mot klassiska liberala principer
+question: "Vad är begreppet 'spontaneous order' enligt Friedrich Hayek?"
+answer: "Sociala regler och normer bör växa fram ur fria individuella interaktioner snarare än påtvingas genom auktoritär planering"
 wrong_answers:
-  - Europeiska liberaler började använda termen "libertarian" först, vilket ledde till att amerikanerna antog samma terminologi
-  - Det republikanska partiet förbjöd officiellt användningen av "liberal" terminologi inom konservativa politiska rörelser
-  - Klassiska liberaler ville skilja sig från europeiska socialdemokratiska partier som fick inflytande i Amerika
-explanation: |
-  Texten förklarar tydligt att amerikanska "liberaler" hade utvecklats till att stödja omfattande statliga ingripanden genom program som FDR:s New Deal och LBJ:s Great Society, vilket innebar en grundläggande förändring bort från den klassiska liberalismens laissez-faire-principer. Detta tvingade sanna klassiska liberaler att anta "libertarian" för att skilja sig från denna statstrogna utveckling. De andra alternativen är felaktiga eftersom europeiskt inflytande, republikanska partiets politik eller europeiska socialdemokratiska partier inte nämns som faktorer i denna terminologiska förändring.
+  - "Marknader tenderar naturligt mot monopol om inte staten ingriper för att upprätthålla konkurrensbalans"
+  - "Demokratiska val är den enda legitima mekanismen för att fastställa de lagar som styr samhället"
+  - "Ekonomiska kriser uppstår spontant och kräver omedelbar statlig intervention för att återställa stabilitet"
+explanation: >-
+  Hayeks begrepp spontaneous order innebär att de regler som styr samhället inte bör påtvingas uppifrån genom central planering utan bör växa fram ur det fria spelet mellan individuella viljor, kontrakt och frivilliga relationer. Detta är en grundläggande axel i libertarianskt tänkande. Det antyder inte att marknader tenderar mot monopol eller att kriser kräver statlig intervention.
+reviewed: false

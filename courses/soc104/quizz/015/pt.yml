@@ -1,9 +1,9 @@
-question: O que é que o lado direito do eixo económico (em direção a 100) representa no diagrama político bidimensional?
-answer: Preferência pela liberdade económica com menos intervenção do Estado, impostos mais baixos e mercados livres
+question: "O que caracteriza a parte inferior do eixo de liberdade pessoal no diagrama de Nolan?"
+answer: "Preferência por ordem, segurança, valores tradicionais e pelo Estado regulando a moral e mantendo a ordem pública"
 wrong_answers:
-  - Preferência por uma forte intervenção do Estado, com impostos elevados e serviços públicos alargados
-  - Apoio à nacionalização de indústrias e a políticas de redistribuição da riqueza
-  - Ênfase na regulamentação governamental e no controlo das actividades empresariais
-explanation: |
-  O lado direito do eixo económico representa uma preferência pela liberdade económica, caracterizada por uma intervenção mínima do Estado na economia,
-  a direita do eixo económico representa uma preferência pela liberdade económica, caracterizada por uma intervenção mínima do Estado na economia, regulamentação reduzida, impostos mais baixos e maior liberdade para as empresas e os indivíduos produzirem, trocarem e consumirem. Esta posição enfatiza os mercados livres, a propriedade privada e a concorrência como factores de prosperidade. As respostas erradas descrevem posições encontradas no lado esquerdo do eixo económico, que favorecem uma forte intervenção do Estado, impostos elevados para os serviços públicos, nacionalização e redistribuição da riqueza para reduzir as desigualdades.
+  - "Preferência por autonomia individual, tolerância e mínima interferência estatal nas escolhas de vida pessoal"
+  - "Preferência por desregulamentação econômica, livre comércio e abolição de tarifas e subsídios"
+  - "Preferência por redistribuição de riqueza, impostos elevados e nacionalização de setores-chave"
+explanation: >-
+  A parte inferior do eixo de liberdade pessoal representa o controle estatal máximo sobre a vida pessoal, caracterizado por uma preferência por ordem, segurança e valores tradicionais. O Estado regula a moral, mantém a ordem pública e pode defender uma visão específica de moralidade ou tradição. O topo do eixo representa o oposto: liberdade individual e tolerância. As políticas econômicas são medidas no eixo horizontal separado.
+reviewed: false

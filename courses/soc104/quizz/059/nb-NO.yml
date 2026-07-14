@@ -1,9 +1,9 @@
-question: Hva er, ifølge keynesiansk økonomisk teori, den primære rollen til statlige inngrep i økonomien?
-answer: Å bruke finans- og pengepolitikken til å stabilisere økonomiske sykluser ved å stimulere etterspørselen i nedgangstider og kjøle den ned ved overoppheting
+question: "Hva er John Rawls' to rettferdighetsprinsipper?"
+answer: "Lik frihet for alle, og forskjellsprinsippet som tillater ulikheter bare hvis de gagner de mest vanskeligstilte"
 wrong_answers:
-  - Å erstatte markedsmekanismer fullstendig med sentralisert statlig planlegging og eliminere alle former for privat virksomhet
-  - Å opprettholde en streng laissez-faire-politikk og la markedene regulere seg selv uten noen form for statlig innblanding
-  - Å fokusere utelukkende på pengepolitikk og unngå finanspolitiske inngrep eller justeringer av offentlige utgifter
-explanation: |
-  Keynesiansk teori tar til orde for aktiv statlig inngripen gjennom både finanspolitikk (offentlige utgifter, beskatning) og pengepolitikk (renter) for å styre konjunktursyklene.
-  Dette representerer en "tredje vei" mellom ren laissez-faire-kapitalisme og fullstendig statlig kontroll, der man søker balanse ved å stimulere etterspørselen i nedgangstider og dempe den i overopphetingsperioder, noe som er i tråd med sentrumsorienterte pragmatiske tilnærminger til økonomisk styring.
+  - "Allmenn stemmerett for alle borgere, og progressiv beskatning for å finansiere offentlige tjenester"
+  - "Ytringsfrihet uten begrensning, og obligatorisk omfordeling av rikdom for å oppnå likhet"
+  - "Beskyttelse av private eiendomsrettigheter, og ikke-aggresjonsprinsippet anvendt på alle statlige handlinger"
+explanation: >-
+  Rawls foreslår to prinsipper: for det første lik frihet for alle (demokratiets grunnlag), og for det andre forskjellsprinsippet, som tillater ulikheter bare hvis de gagner de mest vanskeligstilte medlemmene av samfunnet. Dette betyr at man har rett til å bli rik, forutsatt at omfordeling gjør at de minst begunstigede også får nytte. De andre alternativene blander elementer fra ulike politiske filosofier.
+reviewed: false

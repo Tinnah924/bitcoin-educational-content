@@ -1,8 +1,9 @@
-question: According to Hannah Arendt's analysis, what is the primary goal of totalitarian education?
-answer: To destroy people's ability to form independent convictions rather than to instill specific beliefs
+question: "Que révèle la déclaration de Mussolini de 1920, « Tout dans l'État, rien hors de l'État, rien contre l'État », à propos du totalitarisme ?"
+answer: "Il n'y a plus de séparation entre l'espace public et l'espace privé, car l'État absorbe entièrement la société"
 wrong_answers:
-  - "To efficiently transmit the regime's ideology and core political values to the population"
-  - "To create a highly educated workforce capable of supporting the state's economic objectives"
-  - To eliminate illiteracy and establish universal access to basic educational opportunities
-explanation: |
-  Hannah Arendt argued that totalitarian education's purpose was not to inculcate convictions but to destroy the faculty of forming any independent ones. This distinguishes totalitarian systems from other authoritarian regimes that simply want to impose their ideology. By destroying critical thinking abilities, totalitarian regimes create populations incapable of independent political action, which serves their goal of total control over society and eliminates potential opposition.
+  - "L'État se concentre exclusivement sur la puissance militaire tout en laissant l'économie à l'entreprise privée"
+  - "Les citoyens sont libres de s'organiser en privé tant qu'ils ne critiquent pas ouvertement le gouvernement"
+  - "Le gouvernement contrôle seulement l'activité politique tandis que la vie culturelle et religieuse reste autonome"
+explanation: >-
+  La déclaration de Mussolini saisit l'essence du totalitarisme : la totalité. Tout est absorbé dans l'État, ce qui signifie qu'il n'y a pas de séparation entre l'espace public et l'espace privé. La société perd toute forme d'autonomie, jusque dans les activités les plus banales comme ouvrir un club de sport. Cela va bien au-delà du contrôle des seules sphères militaire, politique ou économique.
+reviewed: false

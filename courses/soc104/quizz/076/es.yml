@@ -1,8 +1,9 @@
-question: Según el análisis de Gustave Molinari en "Les Soirées de la rue Saint Lazare" (Las veladas de la calle San Lázaro), ¿qué similitud fundamental existe entre conservadores y socialistas que los distinga de los libertarios?
-answer: Tanto conservadores como socialistas pretenden imponer su visión de la sociedad a través de la intervención del Estado, a pesar de tener visiones diferentes
+question: "En los diálogos de Gustave de Molinari de 1849, ¿qué personaje defiende la libertad como principio fundamental en lugar de subordinarla a otros objetivos?"
+answer: "El economista, que trata la libertad como un principio que no está subordinado a ningún otro objetivo"
 wrong_answers:
-  - Tanto conservadores como socialistas ven la libertad como un principio absoluto y no como una cuestión de oportunidad o pragmatismo
-  - Tanto conservadores como socialistas rechazan el concepto de propiedad privada y abogan por la propiedad colectiva de los recursos
-  - Tanto conservadores como socialistas apoyan una intervención mínima del gobierno y prefieren soluciones de mercado a los problemas sociales
-explanation: |
-  La idea clave de Molinari era que, a pesar de sus aparentes diferencias ideológicas, conservadores y socialistas comparten un enfoque común: ambos utilizan el poder del Estado para imponer sus respectivas visiones de cómo debe organizarse la sociedad. Los conservadores quieren preservar las estructuras tradicionales mediante la imposición estatal, mientras que los socialistas quieren remodelar la sociedad según sus ideales, también mediante la acción estatal. Esto contrasta fuertemente con los libertarios, que se oponen a utilizar el poder del Estado para imponer cualquier visión social particular y, en cambio, abogan por maximizar la libertad individual y minimizar la intervención del Estado.
+  - "El socialista, que defiende la libertad mediante reformas progresistas orientadas a la igualdad social"
+  - "El conservador, que sostiene la libertad preservando el orden social tradicional y la estabilidad"
+  - "Los tres personajes defienden la libertad por igual, pero discrepan sobre cómo implementarla"
+explanation: >-
+  En los diálogos de Molinari de Les Soirees de la rue Saint-Lazare, el economista está en desacuerdo permanente tanto con el socialista como con el conservador. Es el único que defiende la libertad como principio fundamental. El socialista subordina la libertad a ideales progresistas, y el conservador la subordina a la preservación del orden, lo que hace único al economista en su defensa incondicional de la libertad.
+reviewed: false

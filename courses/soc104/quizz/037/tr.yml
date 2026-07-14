@@ -1,9 +1,9 @@
-question: Friedman'ın bakış açısına göre, sosyal politikaları gerçek sonuçlarından ziyade beyan edilen niyetlerine göre değerlendirmenin temel sorunu nedir?
-answer: İyi niyetli politikalar genellikle ekonomik bağımlılık ve piyasa çarpıklıkları gibi asıl hedefleriyle çelişen istenmeyen sonuçlar yaratır
+question: "Rothbard libertaire'lerin insan doğası vizyonunu neden eleştirdi ve hangi alternatifi önerdi?"
+answer: "Onları naif bir 'soylu vahşi' görüşe sahip olmakla suçladı ve toplumun, çıkarcı davranışı yönlendirmek için özel mülkiyet ve iyi teşvikler kullanması gerektiğini savundu"
 wrong_answers:
-  - Politika çıktıları ve sonuçlarının doğrudan değerlendirilmesine kıyasla niyetlerin objektif olarak ölçülmesi çok zordur
-  - Politikacılar gerçek niyetleri konusunda kamuoyunu kasıtlı olarak yanıltmakta, bu da niyete dayalı değerlendirmeyi temelde güvenilmez ve aldatıcı hale getirmektedir
-  - Niyetler, politikanın uygulanması sırasında çok sık değişir ve bu da onları uzun vadeli politika değerlendirmesi için istikrarsız bir temel haline getirir
-explanation: |
-  Friedman, cömert niyetli politikaların, hedeflerinin tam tersi sapkın etkiler yaratabileceğini, örneğin politikaların uygulandığı kişiler arasında bağımlılık yaratabileceğini savunmaktadır
-  yardım etmeyi amaçlamaktadır. Mesele ölçüm zorluğu, siyasi aldatma veya niyetlerin değişmesi değil, iyi niyetin olumlu sonuçları garanti etmemesi. Bu nedenle, gözlemlenebilir özelliklere ve ölçülebilir sonuçlara odaklanan yapısal tanımlar, belirtilen motivasyonlara dayanan kasıtlı tanımlara tercih edilir.
+  - "İnsan işbirliğine ilişkin anlayışlarını övdü, ancak sözleşmeleri uygulamak için asgari bir devletin hâlâ gerekli olduğunu savundu"
+  - "İnsanların doğal olarak iyi olduğu konusunda onlarla hemfikir oldu, ancak yalnızca serbest piyasaların bu iyiliği üretken faaliyete yönlendirebileceğinde ısrar etti"
+  - "Bireysel haklara yaptıkları vurguyu reddetti ve bunun yerine toplulukların ahlaki standartları kolektif olarak tanımlaması gerektiğini savundu"
+explanation: >-
+  Rothbard, libertaire'leri insan doğasına, doğal olarak iyi olduğuna dair naif, Rousseau'cu bir vizyon benimsemekle eleştirdi. Bunun yerine insanların özçıkar tarafından yönlendirildiğini ve toplumun, iyi teşviklerin davranışı yönlendireceği şekilde örgütlenmesi gerektiğini savundu. Bu, özel mülkiyetin tanınmasını ve güvence altına alınmasını gerektirir. Devleti ortadan kaldırmak, onun işlevlerini ortadan kaldırmak anlamına gelmez; polis ve adalet, rekabet yoluyla serbest piyasa tarafından yönetilmelidir.
+reviewed: false

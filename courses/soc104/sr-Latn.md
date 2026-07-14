@@ -1,22 +1,18 @@
 ---
-name: Nemam političko opredeljenje.
-goal: Razumite složenost modernog političkog spektra kako biste identifikovali sopstvenu sklonost i smestili glavne ideološke porodice izvan podele na levicu i desnicu.
+name: Koja je vaša politička orijentacija?
+goal: Razumeti složenost savremenog političkog spektra kako biste prepoznali sopstvenu tendenciju i smestili glavne ideološke porodice izvan podele na levicu i desnicu.
 objectives: 
-  - Razumevanje da je politička tipologija složenija od jednostavne levo/desno ose
-  - Identifikujte dve glavne dimenzije koje strukturiraju politički spektar
-  - Karakterizujte četiri glavne političke porodice
-  - Istraživanje pozicioniranja bitkoinera na političkom spektru
-
+  - Razumeti da je politička tipologija nijansiranija od jednostavne ose levo/desno
+  - Prepoznati dve glavne dimenzije koje strukturiraju politički spektar
+  - Okarakterisati četiri glavne političke porodice
+  - Istražiti pozicioniranje bitcoinera u političkom spektru
 
 
 ---
 
-Da li se vaše političko opredeljenje svodi na desno ili levo? Ovaj kurs nudi revolucionarni pristup razumevanju političkog spektra kroz fundamentalnu osu Sloboda-Prisiljavanje. Koristeći Nolanov dijagram, analiziramo političke porodice-socijaliste, konzervativce, centriste i libertarijance-ne prema njihovim izjavljenim namerama, već prema stepenu poverenja u kontrolu vlade. Otkrijte logiku spontanog poretka, istražite stvarna filozofska pitanja (individualizam naspram kolektivizma) i naučite da definišete sopstvene vrednosti bez upadanja u zamke tradicionalnih etiketa.
+Da li se vaše političko pozicioniranje svodi na desno ili levo? Ovaj kurs predlaže drugačiji okvir: fundamentalnu osu Sloboda-Prinuda. Koristeći Nolanov dijagram, analiziramo političke porodice (socijaliste, konzervativce, centriste i libertarijance) ne prema njihovim proklamovanim namerama, već prema njihovom poverenju u državnu kontrolu. **Otkrijte logiku spontanog poretka, istražite stvarne filozofske linije razdvajanja i naučite da definišete sopstvene vrednosti izvan tradicionalnih etiketa.**
 
-
-
-Ovaj kurs će takođe otkriti zašto je Bitcoin više od samo valute: to je politički projekat nasleđen od Cypherpunks-a. Daleko od toga da se može klasifikovati na linearnoj osi, Bitcoin je decentralizujuća sila koja se suprotstavlja državnoj valuti, nudeći miran beg od inflacije i nadzora. Ograničavanjem centralizovane moći nad novcem, Bitcoin redefiniše suštinsko političko pitanje: Da li ti odlučuješ o svom životu, ili neko drugi? Uroni u ovu analizu kako bi izoštrio svoj ideološki kompas i razumeo dubok politički uticaj ove tehnologije na tvoju individualnu slobodu.
-
+Ovaj kurs takođe otkriva zašto je Bitcoin politički projekat nasleđen od Cypherpunks-a. Kao decentralizujuća sila koja se suprotstavlja državnom novcu, Bitcoin redefiniše suštinsko političko pitanje: **da li o svom životu odlučujete vi, ili neko drugi?**
 
 
 
@@ -25,1906 +21,1608 @@ Ovaj kurs će takođe otkriti zašto je Bitcoin više od samo valute: to je poli
 # Uvod
 
 
-
 <partId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</partId>
 
 
+## Pregled kursa
 
-## Zamka desnog-levog razdora
+<chapterId>2209cf28-29ab-4092-88bd-9ffdc7942972</chapterId>
 
+### Dobro došli
+
+Dobro došli na ovaj kurs o velikim političkim porodicama. Da li ste levičar, desničar, libertarijanac, konzervativac, socijalista, centrista? Većina nas je naučena da na ovo pitanje odgovara pomoću jednostavne horizontalne linije koja ide od krajnje levice do krajnje desnice. Problem je u tome što ta linija, nasleđena iz Francuske revolucije 1789, više ne opisuje političku stvarnost. Zapravo je nikada nije ni opisivala.
+
+Ovaj kurs, koji je razvio Damien Theillier, predlaže drugačiji okvir: osu sloboda-prinuda. Umesto da pitamo gde se nalazite između levice i desnice, postavljamo temeljnije pitanje: da li verujete pojedincima da sami organizuju svoje živote, ili verujete da centralizovana vlast mora to da uradi umesto njih? Ova jedna promena perspektive menja način na koji čitate vesti, procenjujete političke predloge i razumete sopstvena uverenja.
+
+### Šta ćete naučiti
+
+Do kraja ovog kursa moći ćete da:
+
+- **Prozrete iluziju levo-desno.** Razumećete zašto ova klasifikacija, i dalje dominantna u medijima, više skriva nego što otkriva, i zašto mislioci poput Frederica Bastiata ili inovacije poput Bitcoina jednostavno ne mogu biti smešteni na tu liniju.
+- **Mapirate politički spektar u dve dimenzije.** Koristeći Nolanov dijagram, naučićete da razlikujete ekonomsku slobodu od lične slobode i da prepoznate četiri velike političke porodice koje proizlaze iz te razlike: socijaliste, konzervativce, libertarijance i centriste.
+- **Analizirate političke pozicije prema njihovoj strukturi, a ne prema sloganima.** Političari obećavaju pravdu, poredak, napredak ili ravnotežu. Naučićete da gledate iza izrečenih namera i da ispitate stvarni mehanizam na koji se svaka porodica oslanja: redistribuciju, tradiciju, dobrovoljnu razmenu ili pragmatični kompromis.
+- **Prepoznate filozofske korene iza političkih neslaganja.** Sloboda kao princip nasuprot slobodi kao prilici, spontani poredak nasuprot konstruisanom poretku, individualizam nasuprot kolektivizmu: to su stvarne linije razdvajanja, a ovaj kurs vas osposobljava da ih prepoznate u svakoj raspravi.
+- **Razumete zašto je Bitcoin politički projekat.** Daleko od toga da je neutralna tehnologija, Bitcoin nasleđuje cypherpunk tradiciju i postavlja najosnovnije političko pitanje našeg vremena: ko kontroliše novac, a time i ko kontroliše vaš život?
+- **Precizno definišete sopstveni politički identitet.** Umesto da prihvatite etiketu koju vam daje komentator ili kviz, izgradićete sopstvenu poziciju iz prvih principa, tačno razumevajući gde stojite i zašto.
+
+### Program
+
+Kurs je organizovan u šest delova:
+
+**Deo 1, Zamka podele na desnicu i levicu.** Počinjemo razgradnjom tradicionalne političke ose. Kroz slučajeve Frederica Bastiata i Bitcoina pokazujemo da se najvažnije političke ideje našeg vremena ne mogu obuhvatiti linijom koja ide sleva nadesno.
+
+**Deo 2, Ka novoj podeli: sloboda-prinuda.** Uvodimo Nolanov dijagram i njegove dve dimenzije, ekonomsku slobodu i ličnu slobodu, koje otkrivaju mnogo bogatiji politički pejzaž. Otkrićete gde konzervativci, socijalisti, libertarijanci i centristi zaista stoje, i zašto etikete poput „krajnja desnica” ili „krajnja levica” više zamagljuju nego što razjašnjavaju.
+
+**Deo 3, Političke porodice pod mikroskopom.** Svaku porodicu ispitujemo detaljno: njene intelektualne izvore, ključne mislioce, unutrašnje tenzije i slepe tačke. Od demokratskog socijalizma do anarho-kapitalizma, od burkeovskog konzervativizma do rawlsovskog centrizma, videćete svaki pravac iznutra.
+
+**Deo 4, Društvena i ekonomska pitanja.** Naš okvir primenjujemo na konkretne rasprave: legalizaciju droga, imigraciju, posedovanje oružja, zdravstvenu zaštitu, oporezivanje, subvencije, minimalnu zaradu. Svako pitanje se razmatra kroz prizmu sve četiri političke porodice.
+
+**Deo 5, Filozofske razlike između političkih porodica.** Idemo dublje u intelektualne temelje: sloboda kao princip nasuprot slobodi kao prilici, spontani poredak nasuprot konstruisanom poretku, individualizam nasuprot kolektivizmu. Te razlike otkrivaju zašto se političke porodice koje se slažu oko ciljeva tako često ne slažu oko sredstava.
+
+**Deo 6, Politička tendencija među bitcoinerima.** Završavamo ispitivanjem Bitcoina kao političkog projekta, prateći njegove korene do cypherpunk pokreta i postavljajući pitanje koje se provlači kroz ceo kurs: ko treba da odlučuje?
+
+Počnimo.
+
+### O autoru kursa
+
+Ovaj kurs je razvio **[Damien Theillier](https://planb.academy/professors/damien-theillier)**, profesor filozofije u Parizu i diplomac Sorbonne Paris IV. Theillier je osnivač Institut Coppet i Ecole de la Liberte, dve institucije posvećene ponovnom otkrivanju i širenju francuske liberalne tradicije. Koautor je priručnika za pripremne razrede *General Culture* (Pearson, 2013) i *A Path to Freedom, the Philosophy from Antiquity to Our Days* (Berg International, 2013). Njegovo duboko poznavanje istorije političke filozofije daje ovom kursu retku kombinaciju pojmovne strogosti i praktične relevantnosti.
+
+
+## Zamka podele na desnicu i levicu
 
 
 <chapterId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=j_Ji4d7UiPY)
+Dobro došli na ovaj kurs o velikim političkim porodicama. Počinjemo likom Sokrata, oca zapadne filozofije, koji nas je učio da sumnjamo i preispitujemo sopstvena mišljenja. Jedno od najdublje ukorenjenih mišljenja u našem modernom razmišljanju jeste podela na levicu i desnicu. Ovaj kurs nas poziva da ponovo procenimo svoje političke klasifikacije i da se usredsredimo na razliku temeljniju od levice nasuprot desnici: razliku između slobode i prinude.
 
+![Sokratova smrt](./assets/en/001.webp)
 
+### Zamka podele levo-desno
 
-Mnogi veruju da je najupečatljivija podela na Zapadu danas između političke levice i političke desnice. Mediji posvećuju veliki deo svojih diskusija ovom sukobu, koji se predstavlja kao presudan za budućnost civilizacije.
+Mnogi veruju da je najupadljivija podela na Zapadu danas ona između političke levice i političke desnice. Mediji veliki deo svoje pažnje posvećuju tom sukobu, koji se predstavlja kao presudan za budućnost civilizacije. Da bismo odredili političke sklonosti pojedinca, smeštamo ga na jednostavnu horizontalnu liniju: krajnja levica, levica, centar, desnica, krajnja desnica.
 
+![Politički spektar](./assets/en/002.webp)
 
+Ova podela potiče iz 1789. Tokom Francuske revolucije, u raspravama iz avgusta i septembra 1789, poslanici koji su podržavali očuvanje kraljeve moći sedeli su desno od predsednika Skupštine, dok su oni koji su želeli da ograniče njegova ovlašćenja sedeli levo. Problem je u tome što je **ova kategorizacija u našem vremenu postala uglavnom neupotrebljiva**.
 
-Dakle, da bismo identifikovali političke sklonosti pojedinca, postavljamo ih na jednostavnu horizontalnu liniju. Pozicioniramo se na krajnju levicu, levicu, centar, desnicu i krajnju desnicu linije, u skladu sa različitim tendencijama.
+![Francuska narodna skupština](./assets/en/003.webp)
 
+Tradicionalno, levica se vidi kao reformistička, a desnica kao konzervativna. Ali to je postalo upitno, pošto se socijaldemokratska levica sada bori da očuva stečene povlastice, što je iz te perspektive zapravo čini konzervativnom. Većina pojedinaca koji se nalaze između dva ekstrema nazivaju se centristima, ali i ta etiketa pojednostavljuje njihovu poziciju.
 
+Da li ste ikada osetili da levica ili desnica, socijalista ili konzervativac, ne opisuju tačno vaša mišljenja? Pozicija neke osobe na političkom spektru nije statična i često zavisi od pitanja o kojem se govori. Ako neko podržava ekonomsku slobodu, ali i pravo na imigraciju, gde biste ga smestili na jednostavnoj liniji levo-desno?
 
-![Political spectrum](./assets/fr/001.webp)
+Osnovni problem ove ose jeste to što **ne ostavlja prostor za klasičnu liberalnu misao**, koja se ne može svrstati ni uz egalitarizam levice ni uz nacionalizam desnice. Gde smeštamo figure poput Thomasa Jeffersona, Alexisa de Tocquevillea, Frédérica Bastiata, Rona Paula ili Javiera Mileija? Klasični liberali i libertarijanci ponekad se pogrešno izjednačavaju s desnicom, pa čak i s krajnjom desnicom. Ali najčešće oni jednostavno ne postoje u ovom referentnom okviru.
 
+### Slučaj Frédérica Bastiata
 
+Frédéric Bastiat (1801-1850), amblematična figura francuske liberalne škole, bio je poslanik u Narodnoj skupštini. Imao je sasvim osoben pristup: govorio je da je ponekad glasao s levicom, ponekad s desnicom, u zavisnosti od zakona o kojem se raspravljalo.
 
-Neki naginju ka onima za koje se red mora očuvati i nametnuti po svaku cenu, to je **desnica**. Drugi naginju ka onima za koje se jednakost mora primeniti po svaku cenu, čak i ako to znači reformisanje svega - to je **levica**.
+![Frédéric Bastiat](./assets/en/004.webp)
 
+To nije ukazivalo na centristički oportunizam. Bastiat nije mogao da sedi s rojalistima na desnici, jer je i sam bio republikanac; niti je želeo da sedi sa socijalistima na levici. Njegovi glasovi bili su vođeni fundamentalnim principom: **promocijom individualnih i ekonomskih sloboda i smanjenjem državnog mešanja**. Bio je uveren da društveni poredak i prosperitet mogu nastati kroz privatnu inicijativu i individualnu odgovornost, uz minimum zakona.
 
+Za Bastiata, stvarna linija razgraničenja nije bila između levice i desnice, već između onih koji veruju u prinudnu moć države i onih koji veruju u slobodu i dobrovoljno udruživanje. Glasao bi s levicom kada su njeni predlozi imali za cilj ukidanje privilegija, garantovanje građanskih sloboda ili protivljenje ratu; i s desnicom kada su njeni predlozi štitili privatnu svojinu ili smanjivali poreze.
 
-Međutim, ova kategorizacija je često previše pojednostavljena i neefikasna. Tradicionalno, na primer, levica se smatra reformističkom, dok je desnica konzervativnija. Ali ovo je postalo upitno u naše vreme, jer se levica sada bori da očuva stečene prednosti, što je čini, sa te tačke gledišta, konzervativnom.
+### Slučaj Bitcoina
 
+Bitcoin je fascinantan savremeni primer inovacije koja prevazilazi tradicionalnu podelu. Nesumnjivo je **politički projekat koji raskida sa sadašnjom monetarnom politikom**, ali ga je nemoguće smestiti na jednostavnu linearnu osu koja ide od krajnje levice do krajnje desnice.
 
 
-Većina pojedinaca koji se nalaze između dve krajnosti često se nazivaju centristima, ali ova oznaka takođe pojednostavljuje njihov položaj.
+Pristalice Bitcoina nalazimo duž celog političkog spektra:
 
+- Za liberalnu desnicu, Bitcoin predstavlja sredstvo zaštite od državnog mešanja, garantujući privatnu svojinu i monetarnu slobodu.
+- Za neke na levici, Bitcoin predstavlja kritiku tradicionalnog bankarskog sistema i sredstvo za demokratizaciju finansija izvan uspostavljenih institucija.
+- Nezavisno od bilo koje političke ideologije, mnoge tehnofile i investitore privlači njegova decentralizovana priroda i njegov disruptivni potencijal.
 
+U stvarnosti, tradicionalna dihotomija između levice i desnice neadekvatna je i neprikladna za pravilno smeštanje Bitcoina. Jednostavna linearna osa ne funkcioniše dobro, pošto ideologije poput fašizma i komunizma dele totalitarne karakteristike koje nisu vidljive na takvoj osi.
 
-Uzmimo primer: ako je neko za ekonomsku slobodu, ali i za pravo na imigraciju, gde biste ga smestili na jednostavnu levu-desnu liniju? Položaj osobe na političkom spektru nije statičan i često zavisi od konkretne teme.
+![Potkovičasti politički spektar](./assets/en/005.webp)
 
+### Lažna podela
 
+Iako levica i desnica deluju potpuno suprotstavljeno, **one dele niz fundamentalnih zajedničkih tačaka**. Oba tabora redovno kritikuju slobodno tržište: kao izvor nejednakosti (levica) ili kao pretnju suverenitetu (desnica). Oba dele sklonost ka državnoj intervenciji, bilo kroz „stratešku državu” ili „emancipatorsku državu”. Uprkos prividnim razlikama, sve političke stranke, bilo leve, desne ili centrističke, brane pravo države da upravlja životima ljudi i da interveniše u svim oblastima kroz propise i poreze.
 
-Mnogi ljudi se ne uklapaju, misleći da levo ili desno, socijalista ili konzervativac, ne opisuje tačno njihova mišljenja.
+Upravo zato je opozicija levo-desno na kraju iluzija. Da bismo to ilustrovali, razmotrimo sledeća pitanja:
 
+**Društvena pitanja**
 
-
-Da li ste ikada osetili da nije uvek dovoljno opisati nijanse i složenost političkih mišljenja? Mnogi ljudi ne pronalaze svoje mesto u tome i misle da levo ili desno, socijalista ili konzervativac ne opisuju tačno njihova mišljenja.
-
-
-
-Iako ovaj kriterijum pozicioniranja ostaje koristan za označavanje političkih senzibiliteta, nije sposoban da konceptualno objasni raznolikost ideoloških debata i pozicija.
-
-
-
-Problem sa levim-desnim osi je što ne ostavlja prostora za klasično liberalno razmišljanje, koje se ne može svrstati ni uz egalitarizam levice ni uz nacionalizam desnice.
-
-
-
-Zaista, gde na levo-desnom spektru smestiti ljude poput Tomasa Džefersona, Aleksisa de Tokvila, Frederika Bastijata, Rona Pola, Ilona Maska, Havijera Mileija?
-
-
-
-Šta je sa klasičnim liberalima i savremenim školama mišljenja kao što su libertarijanci? Ponekad se pogrešno poistovećuju sa desnicom, ili čak krajnjom desnicom. Ali češće nego ne, oni ne postoje u ovom okviru reference.
-
-
-
-U svoje vreme, ekonomista i član parlamenta Frédéric Bastiat rekao je da je ponekad glasao sa levicom, ponekad sa desnicom, u zavisnosti od zakona o kojem se raspravljalo.
-
-
-
-![Frédéric Bastiat](./assets/fr/002.webp)
-
-
-
-Ovo nije značilo da je bio centrista ili socijaldemokrata. Bastiat je bio čvrsto protiv bilo kakvog oblika statizma, protiv bilo kakvog oblika intervencionizma države. Zalagao se za maksimalne ekonomske i lične slobode koje su kompatibilne sa poštovanjem drugih, jer je verovao da društveni poredak može da proizađe odozdo, kroz privatnu inicijativu, društvenu saradnju i individualnu odgovornost, uz minimum zakona.
-
-
-
-Hajde da uzmemo drugi primer: **Da li je Bitcoin desno ili levo?
-
-
-
-![Bitcoin](./assets/fr/003.webp)
-
-
-
-Nesumnjivo, Bitcoin je projekat koji se kosi sa trenutnom monetarnom politikom. Dakle, to je politički projekat. Ali je teško smestiti Bitcoin na jednostavnu linearnu osu koja se proteže od krajnje levice do krajnje desnice.
-
-
-
-Za početak, sama definicija desnice i levice je složena i menja se tokom vremena, što otežava strogu klasifikaciju. Ali pre svega Bitcoin, kao decentralizovana tehnologija, prevazilazi tradicionalne političke podele, privlačeći pristalice iz različitih političkih pozadina, sa levice i desnice, uključujući anarhiste i ljude koji sebe smatraju apolitičnim.
-
-
-
-
-
-- Desničarske ličnosti mogu videti Bitcoin kao alternativu monetarnim politikama centralne banke.
-- Levičarske ličnosti su takođe prisutne, posebno zbog potencijala Bitcoin za finansijsku inkluziju i kao alat protiv cenzure.
-
-
-
-U stvarnosti, tradicionalna dihotomija između desnice i levice je neadekvatna, proizvoljna i neprikladna za pravilno pozicioniranje Bitcoin, koja je javna valuta koju svako može usvojiti, bez obzira na njihova politička opredeljenja.
-
-
-
-Štaviše, jednostavna linearna osa koja ide s leva na desno ne funkcioniše dobro, jer ideologije poput fašizma i komunizma imaju sličnosti (totalitarizam) koje nisu očigledne na takvoj osi.
-
-
-
-![Spectre politique en fer à cheval](./assets/fr/004.webp)
-
-
-
-Štaviše, iako je desnica nesumnjivo ekonomski liberalnija od levice, oba tabora dele nepoverenje prema slobodnom tržištu, slobodi ugovaranja i privatnoj svojini, kao i sklonost ka državnom intervencionizmu. Za one na vlasti, bilo na desnici ili levici, svaki problem se rešava novom regulacijom ili porezom, umesto samoregulacijom individualnih interakcija.
-
-
-
-Zanimljivo je primetiti da određene političke pozicije mogu preći tradicionalne podele na desnicu i levicu. Na primer, protekcionizam, koji često brani levica, može se lako pomiriti sa nacionalizmom, vrednošću koja se tradicionalno povezuje sa desnicom. Slično tome, seljaštvo, iako vezano za zemlju i porodične tradicije - vrednosti desnice - ne okleva da žustro demonstrira kako bi zahtevalo državne subvencije, pristup koji je u skladu sa socijalističkom logikom.
-
-
-
-Konačno, zar ova partizanska polarizacija ne prikriva mnogo dublju i drevniju podelu: onu koja je vekovima razdvajala one koji vladaju od onih kojima se vlada?
-
-
-
-Tokom pandemije Covid-a, većina zapadnih država uvela je totalitarne kontrole, i iako su mnoge od njih ukinute, jaz između vladajuće klase i prosečnog građanina se produbio.
-
-
-
-Sa državnim zaduživanjem i inflacijom, svedoci smo modernog oblika porobljavanja kroz gubitak kupovne i štedne moći ljudi.
-
-
-Zapravo, sistem fiat novca koristi najbogatijim ljudima i najmoćnijim finansijskim entitetima, posebno vladama, koje su najveći zajmoprimci. Zaduživanjem, oni podstiču banke da štampaju novi novac. Rezultujuća inflacija je mehanizam koji podmuklo obezvređuje novac, uništavajući štednju ljudi.
-
-
-
-Fiat valuta je kamen temeljac ove ekspanzije državne moći. Omogućava vladama da finansiraju neograničenu potrošnju, eliminišući budžetska ograničenja koja su postojala pod zlatnim standardom. Ovo moderno ropstvo održava elita odlučna da sačuva svoje privilegije, dok oslabljena populacija, razoružana pred državnom ekspanzijom, postepeno vidi kako svaka sfera njenog postojanja pada pod kontrolu.
-
-
-
-Na ovom kursu ćemo videti da je politički pejzaž mnogo bogatiji i složeniji od samo dve kategorije levice i desnice, zahvaljujući vizuelnom modelu koji će nam pomoći da bolje razumemo različite političke porodice.
-
-
-
-Pre nego što počnete ovaj kurs, voleo bih da vas pozovem da uradite kratak kviz. Pokušajte da odgovorite na sledeća pitanja:
-
-
-
-**Društveni problemi**
-
-
-
-
-- Da li bi vlada trebalo da poseduje ili kontroliše novine, radio ili televiziju?
-- Da li bi vlada trebalo da reguliše seksualne aktivnosti između odraslih osoba koje pristaju, uključujući prostituciju?
-- Da li bi droge poput marihuane, kokaina i heroina trebalo legalizovati?
-- Da li bi trebalo da bude legalno da ljudi putuju ili ulaze i izlaze iz zemlje bez ograničenja?
-- Da li bi vlada trebalo da pošalje trupe da intervenišu u poslovima drugih zemalja?
-- Da li bi deca trebalo da budu zakonski obavezna da idu u školu?
-- Da li roditeljima treba dozvoliti da podučavaju svoju decu kod kuće?
-- Da li bi vlasništvo nad oružjem trebalo biti ograničeno zakonom?
-- Kakva bi trebala biti politika vlade prema životnoj sredini?
-- Da li nam je potrebna javna institucija da osigura da su lekovi bezbedni i efikasni?
-
-
+- Da li vlada treba da poseduje ili kontroliše novine, radio ili televiziju?
+- Da li vlada treba da reguliše seksualnu aktivnost između odraslih koji pristaju, uključujući prostituciju?
+- Da li droge poput marihuane, kokaina i heroina treba legalizovati?
+- Da li ljudima treba zakonski omogućiti da putuju ili ulaze i izlaze iz zemlje bez ograničenja?
+- Da li vlada treba da šalje trupe da intervenišu u poslovima drugih zemalja?
+- Da li deca treba zakonski da budu obavezna da idu u školu?
+- Da li roditeljima treba dozvoliti da školuju svoju decu kod kuće?
+- Da li posedovanje oružja treba ograničiti zakonom?
+- Kakva treba da bude vladina politika prema životnoj sredini?
+- Da li nam je potrebna javna institucija koja osigurava da su lekovi bezbedni i delotvorni?
 
 **Ekonomska pitanja**
 
-
-
-
-- Da li bi vlada trebalo da subvencioniše farmere i reguliše šta uzgajaju?
-- Da li vlada treba da uvede tarife, kvote, embarga ili druga ograničenja na međunarodnu trgovinu?
-- Da li bi vlada trebalo da uvede obaveznu minimalnu zaradu?
-- Da li je oporezivanje jedini način za plaćanje neophodnih javnih usluga?
-- Da li vlada treba da pomaže kompanijama u teškim ekonomskim vremenima niskokamatnim kreditima ili subvencijama?
-- Koji je najbolji način za upravljanje današnjim ogromnim budžetskim deficitima?
-- Kako možemo rešiti problem deficita sistema socijalnog osiguranja?
+- Da li vlada treba da subvencioniše poljoprivrednike i reguliše šta uzgajaju?
+- Da li vlada treba da nameće carine, kvote, embargo ili druga ograničenja međunarodne trgovine?
+- Da li vlada treba da uvede obaveznu minimalnu zaradu?
+- Da li je oporezivanje jedini način da se plate neophodne javne usluge?
+- Da li vlada treba da pomaže kompanijama u teškim ekonomskim vremenima zajmovima s niskom kamatom ili subvencijama?
+- Koji je najbolji način da se upravlja današnjim ogromnim budžetskim deficitima?
+- Kako možemo rešiti problem deficita sistema socijalne sigurnosti?
 - Da li vlada treba da šalje finansijsku pomoć drugim zemljama?
-- Šta bi vlada trebalo da uradi povodom rasta troškova zdravstvene zaštite?
-- Kakva bi trebala biti politika vlade prema nuklearnoj energiji?
+- Šta vlada treba da uradi povodom rastućih troškova zdravstvene zaštite?
+- Kakva treba da bude vladina politika prema nuklearnoj energiji?
+
+U svim ovim pitanjima pojavljuje se jedno centralno pitanje: **koji stepen državne kontrole ste spremni da tolerišete?** I da li ste manje ili više primorani da učestvujete u finansiranju te kontrole? Temeljno političko pitanje glasi: ko treba da odlučuje? Da li važne odluke o svom ličnom i društvenom životu donosite vi, ili ih neko drugi donosi umesto vas?
+
+### Oni koji vladaju i oni kojima se vlada
+
+Ova partijska polarizacija prikriva mnogo dublju i stariju podelu: **onu koja vekovima razdvaja one koji vladaju od onih kojima se vlada**. S jedne strane su ljudi, koji trpe inflaciju, fiskalni pritisak i finansijski nadzor; s druge strane tehnokratska i politička elita, koja troši tuđi novac, i to vrlo često uz štamparsku presu, odnosno fiat valutu, navodno za dobro naroda.
+
+![Porezi](./assets/en/006.webp)
+
+Sistem fiat novca koristi najbogatijim pojedincima i najmoćnijim finansijskim entitetima, naročito vladama, koje su najveći dužnici. Zaduživanjem guraju banke da štampaju novi novac. Posledična inflacija podmuklo obezvređuje novac, uništavajući štednju ljudi. Fiat valuta je kamen temeljac tog širenja državne moći: omogućava vladama da finansiraju neograničenu potrošnju, uklanjajući budžetska ograničenja koja su postojala pod zlatnim standardom.
+
+Kao što je Frédéric Bastiat primetio u devetnaestom veku:
+
+> „U svim revolucijama uvek su postojale samo dve suprotstavljene stranke: ona ljudi koji žele da žive od sopstvenog rada, i ona onih koji bi živeli od rada drugih.”
+
+Drugim rečima: oni koji proizvode bogatstvo i oni koji ga oduzimaju da bi ga preraspodelili svojim pristalicama.
+
+### Kontrolori i oni koji ne kontrolišu
+
+Da zaključimo ovaj uvod, okrenimo se naučnofantastičnom romanu iz 1960-ih. U *The Moon is a Harsh Mistress* (1966), Robert Heinlein je briljantno sažeo ono što čini stvarnu političku liniju razdvajanja:
+
+![The Moon is a Harsh Mistress](./assets/en/007.webp)
+
+> „Ljudska rasa se politički deli na one koji žele da ljudi budu kontrolisani i na one koji nemaju takvu želju.”
+
+![Citat Roberta Heinleina](./assets/en/008.webp)
+
+„Kontrolori” obuhvataju sve one koji, bez obzira na svoju deklarisanu ideologiju, od krajnje levice do krajnje desnice, veruju da država ili neka viša instanca mora da reguliše, usmerava i nameće ponašanja za dobro društva. Oni daju prednost rešenjima odozgo nadole, planiranju i prinudi.
+
+„Oni koji ne kontrolišu”, nasuprot tome, jesu oni koji ne žele da vrše moć nad drugima i koji se zalažu za maksimalnu individualnu slobodu. Oni cene ličnu odgovornost, dobrovoljno udruživanje i spontanost društvenog poretka, minimizirajući državno mešanje. Tu nalazimo figure poput Frédérica Bastiata, ili principe decentralizacije koje utelovljuje Bitcoin.
+
+U ovom kursu videćemo da je **politički pejzaž mnogo bogatiji i složeniji od levice i desnice**, zahvaljujući vizuelnom modelu koji će nam pomoći da bolje razumemo različite političke porodice i gde se svako od nas nalazi.
 
 
 
-U svim ovim pitanjima, pojavljuje se jedno centralno i odlučujuće pitanje: stepen kontrole vlade koji možete tolerisati, a samim tim i stepen finansiranja u kojem ste više ili manje primorani da učestvujete.
-
-
-
-Dakle, osnovno političko pitanje je: **Ko treba da odlučuje?** Da postavimo to na drugi način: **Da li vi donosite važne odluke o svom ličnom i društvenom životu, ili ih neko drugi donosi umesto vas?**
-
-
-
-Godine 1966, u *Pobuni na Moon* (Moon je surova gospodarica), romanopisac Robert Heinlein razvija ideju da vlade uvek završavaju akumuliranjem moći i kontrolisanjem građana, što on naziva neizbežnom bolešću ljudskih bića.
-
-
-
-![The Moon is a Harsh Mistress](./assets/fr/005.webp)
-
-
-
-On primećuje da je čovečanstvo politički podeljeno između onih koji žele da kontrolišu živote drugih i onih koji to ne žele.
-
-
-
-> Ljudska rasa se politički deli na one koji žele da ljudi budu kontrolisani i one koji nemaju takvu želju.
-
-![The Moon is a Harsh Mistress quote](./assets/fr/006.webp)
-
-
-
-Danas sve političke stranke, bilo leve, centrističke ili desne, brane pravo države da upravlja životima ljudi i interveniše u svim pitanjima putem regulativa i poreza. U mejnstrim medijima nalazimo isto: okvir referencije je etatistički.
-
-
-
-Dakle, treba li prevazići tradicionalni politički model levice naspram desnice? I ako da, u korist kog drugog modela?
-
-
-
-
-# Ka novoj podeli: sloboda-prisiljavanje
-
+# Ka novoj podeli: sloboda-prinuda
 
 <partId>fb5cb390-67ad-41f3-903d-c208b84e6a0c</partId>
 
 
 
-
 ## Nolanov dijagram
-
 
 <chapterId>7b3aa120-6eee-45a1-9e46-856e26403e08</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=rN4fA3ImJjE)
+### Od jedne dimenzije ka dve
 
+Umesto da političke doktrine delimo duž ose desno/levo, mnogo je smislenije posmatrati stvari kroz prizmu slobode. Klasična predstava političkog spektra jeste horizontalna linija koja ide sleva nadesno.
 
+![Linearni politički spektar](./assets/en/009.webp)
 
-Umesto da se političke doktrine dele duž desne/leve ose, imalo bi više smisla posmatrati stvari kroz prizmu slobode. Tada bismo imali osu sloboda-moć, tako da bi klasična liberalna misao konačno našla svoje mesto na političkoj šahovskoj tabli.
+Ovaj model previše pojednostavljuje složenost političkih ideologija i, pre svega, izostavlja suštinski kriterijum: **stepen državne intervencije**. Kao što smo govorili u uvodu, temeljno pitanje glasi: ko odlučuje? Da li ste to vi, ili neko drugi?
 
+To nas vodi ka odbacivanju jednodimenzionalnog modela u korist dvodimenzionalnog. David Nolan, osnivač Libertarian Party 1971. i bivši student MIT-a (Massachusetts Institute of Technology), osmislio je grafikon koji mnogo bolje predstavlja složenost političkog spektra. Njegov dijagram koristi dve ose:
 
+1. Vertikalnu osu koja meri **lične slobode**
+2. Horizontalnu osu koja meri **ekonomske slobode**
 
-Pravi način da se posmatraju stvari, dakle, bio bi da se uporede branioci slobode sa braniocima Države—oni koji veruju u sposobnost pojedinaca da se organizuju odgovorno, i oni koji žele jaku vlast da ih umiri i kontroliše živote drugih.
+![Nolanov dijagram](./assets/en/010.webp)
 
+Što ste bliže nultoj tački (dole levo), to vaša ideološka pozicija više favorizuje državnu intervenciju. Obrnuto, što se više pomerate ka suprotnom uglu (gore desno), to više favorizujete minimalnu državnu intervenciju i maksimalne individualne slobode. Iz ove perspektive, tradicionalna levica i desnica se relativizuju: levica teži da favorizuje lične slobode na štetu ekonomskih sloboda, dok klasična desnica favorizuje ekonomsku slobodu na štetu ličnih sloboda.
 
-David Nolan, osnivač Libertarijanske partije 1971. godine i autor sada već poznatog Nolanovog grafikona, razumeo je ovo. Kao alumnus Massachusetts Institute of Technology (MIT), dizajnirao je grafikon koji verovatno bolje predstavlja složenost političkog spektra.
+![Dvodimenzionalni politički spektar sa osama lične i ekonomske slobode](./assets/en/011.webp)
 
+### Pet kvadranata
 
+Kada se dijagram predstavi u obliku dijamanta, možemo prepoznati pet kvadranata koji precizno smeštaju različite političke filozofije:
 
-Njegova ideja je da doda levo-desnoj osi drugu osu slobode/moći koja ide od statizma na dnu (tačka nula) do libertarijanizma na vrhu. Što dalje od tačke nula, to je ideološko pozicioniranje više libertarijansko.
+![Nolanov dijamant](./assets/en/012.webp)
 
+- **Etatizam** (dole): Najautoritarnija, čak totalitarna pozicija. Oni koji podržavaju veoma malo ekonomske ili lične slobode.
+- **Socijalizam** (levo): Oni koji podržavaju manje ekonomske slobode, ali veću ličnu slobodu.
+- **Konzervativizam** (desno): Oni koji podržavaju veću ekonomsku slobodu, ali manju ličnu slobodu.
+- **Libertarijanizam** (gore): Suprotnost etatizmu. Oni koji podržavaju najveću ekonomsku i ličnu slobodu.
+- **Centrizam** (sredina): Pragmatična zona za one koji podržavaju mešavinu slobode i regulacije, što podrazumeva žrtvovanje određenih individualnih prava.
 
+**Fundamentalna osa je, dakle, vertikalna**: između onih koji brane maksimalne individualne slobode (na vrhu) i onih koji favorizuju maksimalnu državnu kontrolu i intervenciju u živote ljudi (na dnu).
 
-![Graphique](./assets/fr/007.webp)
+### Nijanse unutar svake porodice
 
+![Nijanse i unutrašnje tenzije unutar svake političke porodice](./assets/en/013.webp)
 
+Stvari nisu jednostavne i uvek je teško braniti potpuno monolitnu političku poziciju. Unutar svake političke porodice postoje tenzije i razilaženja:
 
-![Graphique](./assets/fr/008.webp)
+- Među **socijalistima**, većina su demokrate privržene izborima, građanskim slobodama i određenom stepenu tržišne ekonomije. Ali neki odbacuju demokratiju i zagovaraju revoluciju, potpuno ukidanje kapitalizma i centralno ekonomsko planiranje.
+- Među **konzervativcima**, neki se snažno protive porezima i socijalnim programima, što ih približava libertarijanskom vrhu. Drugi imaju autoritarnije tendencije i favorizuju ekonomsku regulaciju; ovde se može pomisliti na kontroverzu oko Donalda Trumpa.
+- Među **libertarijancima**, neki žele da potpuno ukinu državu i zamene je privatnim uslugama (anarho-kapitalisti), dok drugi preferiraju minimalnu državu koja zadržava svoje osnovne suverene funkcije („minarhisti”).
 
+![Libertarijanske nijanse na Nolanovom dijagramu](./assets/en/014.webp)
 
+- **Zeleni** su verovatno veoma nisko na dijagramu. Oni smatraju da **individualni interes ne sme imati prednost nad kolektivnim interesom planete**. U izvesnom smislu, Zeleni su marksističku klasnu borbu zamenili borbom između čoveka i prirode, i teže da brane ekonomsku kontrolu, pa čak i ukidanje privatne svojine u ime planetarne dobrobiti.
 
-Dijagram je kvadrat podeljen na pet delova, sa oznakom dodeljenom svakom od sledećih delova:
-
-
-
-
-- Dno: najautoritarniji, čak totalitarni oblik statizma, koji odgovara onima koji podržavaju vrlo malo ekonomske i lične slobode.
-- Sa leve strane: socijalisti. Oni koji podržavaju manje ekonomskih sloboda i više ličnih sloboda.
-- Sa desne strane: konzervativci. Oni koji podržavaju visok nivo ekonomske slobode i nizak nivo ličnih sloboda.
-- Vrh: libertarijanci, suprotnost tvrdokornom etatizmu. Ovo su ljudi koji podržavaju veću ekonomsku i ličnu slobodu.
-- U sredini: centristi. Ovo je pragmatična zona, za one koji su za sistem koji meša malo ekonomske i lične slobode sa željom za određenom regulacijom tržišta, što podrazumeva žrtvovanje određenih individualnih prava.
-
-
-
-Ovo čini dvodimenzionalni pristup Nolanovog dijagrama daleko tačnijim prikazom političkog spektra od tipične jednodimenzionalne linije s leva na desno na koju se većina političkih analitičara poziva.
-
-
+![Zelene partije pozicionirane u autoritarnom sektoru Nolanovog dijagrama](./assets/en/015.webp)
 
 ## Dve fundamentalne dimenzije
-
 
 <chapterId>e41d903d-26c9-425e-8a92-6aec48838b61</chapterId>
 
 
 
-Dijagram predstavlja ekonomske slobode (nivoe poreza, slobodno tržište, privatne usluge) na x-osi, i lične slobode (sloboda kretanja, mišljenja, samoodređenja) na y-osi.
 
-
-
-Ova šema se zasniva na ideji da se većina političkih pitanja može podeliti u dve široke kategorije: ekonomska i lična (ili društvena).
-
-
+Dijagram predstavlja ekonomske slobode (nivoe poreza, slobodno tržište, privatne usluge) na horizontalnoj osi, a lične slobode (sloboda kretanja, mišljenja, samoodređenja) na vertikalnoj osi. Ova shema zasniva se na ideji da se većina političkih pitanja može podeliti u dve široke kategorije: ekonomska i lična (ili društvena).
 
 ### Ekonomske slobode
 
+**Kategorija ekonomske slobode obuhvata ono što radite kao proizvođač i potrošač**: šta možete kupiti, prodati ili proizvesti; gde radite; koga zapošljavate; i šta radite sa svojim novcem.
 
-Kategorija Ekonomska sloboda uključuje ono što radite kao proizvođač i potrošač - šta možete kupiti, prodati ili proizvesti. Gde radite, koga zapošljavate ili šta radite sa svojim novcem.
+![Ekonomske slobode: šta radite kao proizvođač i potrošač](./assets/en/016.webp)
 
+*Primeri ekonomske aktivnosti:* pokretanje firme, kupovina kuće, izgradnja zgrade, ulaganje štednje, zapošljavanje ili otpuštanje zaposlenih.
 
+![Primeri ekonomskih aktivnosti na Nolanovom dijagramu](./assets/en/017.webp)
 
-Primeri ekonomske aktivnosti: pokretanje biznisa; kupovina kuće; izgradnja zgrade; kupovina; rad u kancelariji.
+- **Desno od ose** (ka maksimalnoj ekonomskoj slobodi): sklonost ka manjoj državnoj intervenciji u ekonomiji, manjem broju propisa, nižim porezima i većoj slobodi kompanija i pojedinaca da proizvode, trguju i troše. Naglasak je na slobodnom tržištu, privatnoj svojini i konkurenciji kao motorima prosperiteta.
+  - *Amblematične figure:* Margaret Thatcher (UK), Ronald Reagan (USA), Javier Milei (Argentina).
 
+![Nolanov dijamant: osa ekonomske slobode](./assets/en/018.webp)
 
+- **Levo od ose** (ka maksimalnoj državnoj kontroli ekonomije): sklonost ka regulaciji, visokim porezima za finansiranje javnih usluga (zdravstvo, obrazovanje, transport), nacionalizaciji i preraspodeli bogatstva. Cilj je često smanjenje nejednakosti i garantovanje određenog stepena socijalne pravde.
+  - *Amblematične figure:* Franklin D. Roosevelt (USA), Jean Jaurès (France), Bernie Sanders, Barack Obama.
 
-
-
-- Desno od ose (ka 100 na skali ekonomskih pitanja): preferencija za ekonomsku slobodu. Ovo znači manje državne intervencije u ekonomiji, manje regulacija, niže poreze i veću slobodu za kompanije i pojedince da proizvode, trguju i konzumiraju. Naglasak je na slobodnom tržištu, privatnoj svojini i konkurenciji kao pokretačima prosperiteta.
- - Emblematične figure:* Margaret Thatcher (UK), Ronald Reagan (USA), Javier Milei (Argentina).
-
-
-
-![Right Graphique](./assets/fr/009.webp)
-
-
-
-
-
-- Levo od ose (ka 0 na skali ekonomskih pitanja): preferencija za snažnu državnu intervenciju u ekonomiji. Ovo podrazumeva regulaciju, visoke poreze za finansiranje javnih usluga (zdravstvo, obrazovanje, transport), nacionalizaciju i redistribuciju bogatstva. Cilj je često smanjenje nejednakosti i garantovanje određenog stepena socijalne pravde.
-  - Emblematične figure:* Franklin D. Roosevelt (SAD), Jean Jaurès (Francuska), Bernie Sanders, Barack Obama.
-
-
-
-![Left Graphique](./assets/fr/010.webp)
-
-
+![Nolanov dijamant: levičarski etatizam](./assets/en/019.webp)
 
 ### Lične i društvene slobode
 
+**Kategorija lične slobode obuhvata ono što radite u svojim privatnim odnosima**, sa svojim mišljenjima i uverenjima. Uopšteno, to je sve što radite sa sopstvenim telom i umom.
+
+![Lične slobode: šta radite u svojim privatnim odnosima](./assets/en/020.webp)
+
+*Primeri ličnih aktivnosti:* brak, izbor knjiga koje čitate i filmova koje gledate, hrane, lekova i droga koje odlučujete da konzumirate, vaši verski izbori, organizacije kojima se pridružujete, ljudi s kojima birate da se družite.
+
+![Primeri ličnih i društvenih sloboda na Nolanovom dijagramu](./assets/en/021.webp)
+
+- **Vrh ose** (ka maksimalnoj ličnoj slobodi): sklonost ka individualnoj slobodi i toleranciji. Država treba što manje da se meša u životne izbore pojedinaca (sloboda izražavanja, legalizacija određenih supstanci, sloboda kretanja itd.). Cenimo autonomiju i raznolikost.
+  - *Amblematične figure:* Nelson Mandela, Simone Veil, Noam Chomsky.
+
+![Nolanov dijamant: osa ličnih sloboda](./assets/en/022.webp)
+
+- **Dno ose** (ka maksimalnoj državnoj kontroli ličnog života): sklonost ka poretku, bezbednosti i tradicionalnim vrednostima. Država ima ulogu u regulisanju morala, održavanju javnog reda i ponekad u odbrani određene vizije moralnosti ili tradicije. Tu spadaju pozicije u korist smrtne kazne, ograničenja imigracije ili državnog promovisanja tradicionalne porodice.
+  - *Amblematične figure:* Joseph de Maistre (francuski kontrarevolucionarni filozof), i savremeni autoritarni lideri poput Vladimira Putina i Xi Jinpinga.
+
+![Nolanov dijamant: autoritarna osa](./assets/en/023.webp)
 
 
-Kategorija Lične Slobode uključuje ono što radite u svojim privatnim odnosima, sa svojim mišljenjima i uverenjima. Uopšteno, to je sve što radite sa svojim telom i umom.
-
-
-
-*Primeri ličnih aktivnosti:* brak; izbor knjiga koje čitate i filmova koje gledate; hrana, lekovi i droge koje odlučite da konzumirate; sportovi; vaš verski izbor; organizacije kojima se pridružujete; ljudi sa kojima odlučite da se družite.
-
-
-
-
-
-- Vrh ose** (prema 100 na skali društvenih pitanja): preferencija za **individualnu slobodu** i toleranciju. Država bi trebalo da se što manje meša u životne izbore pojedinaca (prava na abortus, LGBTQ+ prava, sloboda izražavanja, legalizacija određenih supstanci, itd.). Cenimo autonomiju i raznolikost.
-  - Emblematične figure:* Nelson Mandela, Simone Veil, Noam Chomsky.
-
-
-
-
-![Left Libertes Graphique](./assets/fr/011.webp)
-
-
-
-
-
-- Na dnu ose** (ka 0 na skali društvenih pitanja): preferencija za **red, sigurnost i tradicionalne vrednosti**. Država ima ulogu u regulisanju morala, održavanju javnog reda, i ponekad u odbrani određene vizije morala ili tradicije, uključujući i kroz nasilje. Ovo uključuje stavove u korist smrtne kazne, ograničenja imigracije, ili promociju tradicionalne porodice pod vođstvom vlade.
-  - Emblematične figure:* Joseph de Maistre (francuski kontrarevolucionarni filozof) - zbog svojih ideja o božanskom poretku i autoritetu. Savremeni autoritarni lideri kao što su Vladimir Putin u Rusiji i Xi Jinping u Kini.
-
-
-
-
-![Libertes Graphique](./assets/fr/012.webp)
-
-
-
-## Da li si desničarski ili levičarski statista?
-
+## Da li ste desničarski ili levičarski etatista?
 
 
 <chapterId>06d903fc-9453-47d4-b0b1-38b6b82ccf99</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=AskWWBXom3Y)
+### Etatizam kao zajedničko tlo
 
+Suprotno prividu, levica i desnica nisu toliko suprotstavljene koliko izgledaju. Vrlo često dele zajedničku želju za kontrolom: ono što možemo nazvati etatizmom. Naravno, njihove motivacije, vrednosti i prioriteti se razlikuju.
 
+Levica je manje zaokupljena tradicionalnim moralnim zahtevima, ali daje prednost socijalnoj pravdi i jednakosti, naročito na ekonomskom planu. To je izvor njenog neprijateljstva prema ekonomskoj slobodi, kapitalizmu i slobodnom tržištu: **levica želi da zakonski uređuje i reguliše ekonomiju**.
 
-Osoba može biti levičar po pitanju ekonomije (u korist preraspodele), ali desničar po društvenim pitanjima (veoma vezana za red i tradiciju). I obrnuto! Model u obliku dijamanta obuhvata ovu složenost.
+Desnica, sa svoje strane, daje prednost ličnom moralu i tradicionalnim vrednostima. Smatra da je civilizacija izgrađena na određenim tradicionalnim institucijama i društvenim hijerarhijama, i da se to nasleđe mora sačuvati. Naklonjenija je ekonomskoj slobodi jer brani moralnost privatne svojine i individualne odgovornosti, ali **želi da zakonski uređuje moral i religiju**.
 
+### Vertikalna osa otkriva istinu
 
+Centralna ideja Nolanovog dijagrama jeste da je glavna razlika između političkih filozofija stepen državne kontrole nad ljudskim delanjem, bilo u ličnoj ili ekonomskoj sferi. Drugim rečima, ne postoji samo osa levo-desno koja odražava vaše lične senzibilitete, već i osa gore-dole koja odražava vašu spremnost da koristite silu kako biste primorali druge da slede vaše vrednosti.
 
-Levičari se tradicionalno definišu kao povezani sa socijalizmom, sistemom u kojem država ima značajnu moć nad pojedincima i organizacijom društva, posebno u smislu preraspodele prihoda. Desnica se može smatrati suprotnom, situacijom u kojoj država nema značajnu moć, što bi je definisalo kao liberalnu. Međutim, stvarnost je složenija, i desnica nije jednostavno suprotnost etatističkoj levici.
+![Levi i desni etatizam](./assets/en/024.webp)
 
+Iz ove perspektive, levica i desnica dele isti politički cilj: osvojiti vlast kako bi organizovale društvo prema svojoj viziji sveta i nametnule je svima. To je sama definicija etatizma: korišćenje zakonodavstva za kontrolu i oblikovanje društva. Za jedne, to je u ime odbrane civilizacije; za druge, u ime odbrane radničke klase, prirode ili potlačenih. A i centristi to odobravaju kada im odgovara.
 
-
-Zaista, politike koje su sprovodile vlade desnice i levice tokom poslednjih nekoliko decenija nisu bile suštinski različite, i nijedna nije bila istinski liberalna u klasičnom, evropskom smislu te reči.
-
-
-
-Centralna ideja Nolanovog dijagrama je da je glavna razlika između političkih filozofija, pravi odlučujući faktor, stepen vladine kontrole nad ljudskim delovanjem u ličnoj i ekonomskoj sferi.
-
-
-
-Drugim rečima, ne postoji samo leva-desna osa koja odražava vaše lične vrednosti, već i gornja-donja osa koja odražava vašu spremnost da upotrebite silu kako biste naterali druge da slede vaše vrednosti.
-
-
-
-Iz ove perspektive, desnica i levica imaju isti politički cilj: osvojiti vlast kako bi mogli organizovati društvo prema svojoj viziji sveta i nametnuti je svima.
-
-
-
-Ovo je sama definicija statizma: korišćenje zakonodavstva za kontrolu i oblikovanje društva.
-
-
-
-Zato možemo reći da su neki **desničarski etatisti**, dok su drugi **levičarski etatisti** ili skloni centru.
-
-
-
-![Libertes Graphique](./assets/fr/013.webp)
-
-
-
-Za neke je to u ime odbrane civilizacije, za druge u ime odbrane radničke klase, prirode ili potlačenih. A centristi to takođe odobravaju, kada im odgovara.
-
-
-
-Desničari veruju da je lični moral najvažnija stvar, pa su spremni da dozvole slobodu u pitanjima imovine i ekonomije. S druge strane, žele da donose zakone o moralu i religiji u isto vreme.
-
-
-
-Sa svoje strane, levica ne pridaje mnogo značaja tradicionalnim moralnim i religijskim zahtevima. Manje zabrinuta za božansku pravdu, prvenstveno je fokusirana na socijalnu pravdu, ili možda na ideju da bi božanska pravda *bila* socijalna pravda. Za nju se odgovarajuća raspodela nagrada u društvu smatra pitanjem za sudsku ili političku odluku. Shodno tome, politička levica je neprijateljski nastrojena prema ekonomskoj slobodi i slobodnom tržištu, koje ne deluju kao da raspodeljuju bogatstvo i nagrade prema individualnim potrebama.
-
-
+Zato možemo reći da **neki jesu desničarski etatisti, dok su drugi levičarski etatisti**. Pravo političko pitanje, dakle, nije toliko da li ste levo ili desno, već u kojoj meri želite da država interveniše u oblikovanju društva prema vašim vrednostima. Želite li da namećete sopstvene senzibilitete drugima, ili više volite da **svaka osoba bude slobodna da odlučuje za sebe**?
 
 ## Da li ste kulturni konzervativac ili politički konzervativac?
-
 
 <chapterId>bef3d6f1-390a-472d-8f18-a559d38aea54</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=4DDAZGjQk2Q)
+### Dva različita konzervativizma
 
+![Razlika između kulturnog i političkog konzervativizma](./assets/en/025.webp)
 
+Izraz „konzervativizam” može izazvati zabunu. Moramo apsolutno **razlikovati kulturni konzervativizam, koji pripada sferi vrednosti**, od političkog konzervativizma, koji je politička filozofija koja se oslanja na nametanje tih vrednosti celom društvu.
 
-Kulturni konzervativizam je lična privrženost takozvanim tradicionalnim moralnim vrednostima, antropologiji, estetici i metafizici, sve nasleđeno iz prošlosti. To je mudrost života, vođena principima predaka, bilo da su oni grčko-rimski ili judeo-hrišćanski. **To nije politička filozofija.**
+**Politički konzervativizam** je ideologija, često predstavljena u desničarskim ili krajnje desničarskim političkim partijama. Cilj mu je da očuva uspostavljene političke institucije i društveni poredak, suprotstavljajući se svakom velikom strukturnom preokretu. Njegovi zagovornici žele da koriste vlast i zakon kako bi zaštitili svoje nasleđe. U Francuskoj, ova tradicija seže do kontrarevolucionarnih mislilaca poput Josepha de Maistrea i Louisa de Bonalda, a novije do Raymonda Arona u dvadesetom veku.
 
+**Kulturni konzervativizam**, s druge strane, jeste životna mudrost: lična privrženost porodičnim, moralnim, estetskim i metafizičkim vrednostima nasleđenim iz prošlosti, bilo grčko-rimske ili judeo-hrišćanske. To nije politička filozofija. Kulturni konzervativac veruje da je čoveku, da bi bio srećan, potrebna uzvišenost duše, duhovne vrednosti i određena plemenitost osećanja. Te vrednosti se ne nameću drugima; one se žive kao lični, a ponekad i porodični izbor.
 
+### Možete biti kulturni konzervativac i libertarijanac
 
-Ako ste kulturni konzervativac, vi ste za tradicionalnu porodicu, etiku vrlina i veru u Boga. Kulturni konzervativac veruje da čovek, da bi bio srećan, treba uzdizanje duše, duhovne vrednosti i izvesnu plemenitost osećanja.
+Ove dve grane, iako različite, ponekad se mešaju jer mogu biti usvojene istovremeno ili odvojeno. **Možete biti kulturni konzervativac a da ne budete politički konzervativac.** Pojedinac može braniti kulturne tradicije (porodicu, religiju, lokalne običaje) u svom ličnom ili zajedničkom životu, dok se zalaže za ograničenu vladu koja te vrednosti ne nameće zakonom. Takva osoba podstiče konzervativne norme ubeđivanjem, obrazovanjem i primerom, poštujući pravo drugih da žive drugačije.
 
+Kulturno konzervativni libertarijanac može moralno ne odobravati određena ponašanja, ali **ne zagovara zakonsku zabranu dobrovoljnih, nenasilnih radnji**. On ih može ne voleti, protiviti im se i aktivno ih obeshrabrivati, ali uvek bez pribegavanja prinudnoj sili zakona.
 
+Ova sinteza između libertarijanizma i kulturnog konzervativizma u Sjedinjenim Državama dobila je naziv „paleo-libertarijanizam”. Ovaj pravac se razlikuje od neo-libertarijanizma (struje naklonjenije egalitarizmu i društvenim promenama 1970-ih) time što kombinuje **odbacivanje države kao institucionalnog izvora prinude** sa jačanjem tradicionalnih institucija i preferencijom za dobrovoljne društvene strukture u odnosu na državnu vlast. Drugim rečima, paleo-libertarijanac se ne protivi postojanju socijalističkih ili komunitarnih zajednica; ono što odbija jeste da takve zajednice silom zakona nameću svoje vrednosti svima. Dve velike figure utelovljuju ovaj pristup:
 
-S druge strane, **politički konzervativizam** je način organizovanja društva prema fiksnom poretku. Zbog toga su konzervativci protiv napretka. Oni žele da zamrznu društvo u stanju koje je dostiglo u trenutku kada govore, i veruju da bi svaka promena bila na gore.
+![Paleo-libertarijanizam: kulturni konzervativizam kombinovan sa libertarijanskim principima](./assets/en/026.webp)
 
+- **Murray Rothbard**, ekonomista i filozof koji je razvio libertarijansku teoriju, istovremeno priznajući važnost tradicionalnih vrednosti, a da nikada nije zagovarao njihovo nametanje putem države.
+- **Ron Paul**, kongresmen iz Teksasa tokom više decenija, koji se kandidovao za republikansku predsedničku nominaciju. Lično konzervativan u svojim vrednostima, dosledno je branio viziju ograničene vlade koja poštuje individualne slobode. Na primer, Ron Paul je uvek savetovao protiv upotrebe droga, ali se istovremeno protivio zabrani droga. Lično se protivio abortusu, ali je dosledno tvrdio da izbor treba prepustiti saveznim državama, umesto da bude nametnut odozgo.
 
+![Konzervativne i libertarijanske pozicije](./assets/en/027.webp)
 
-Politički, kulturni konzervativci često se pridružuju redovima političkog konzervativizma. Ali to nije uvek slučaj. Dva konzervativizma nisu nužno nerazdvojiva. **Možete biti kulturni konzervativac i libertarijanac.**
-
-
-
-Na primer, pojedinac može braniti kulturne tradicije (kao što su porodica, religija ili lokalni običaji) u svom ličnom ili zajedničkom životu, dok zagovara ograničenu vladu koja ne nameće ove vrednosti zakonom. Ovakva osoba može podsticati konzervativne norme kroz ubeđivanje, obrazovanje ili vođenje primerom, dok poštuje pravo drugih da žive drugačije, u skladu sa libertarijanskim principima.
-
-
-
-Kulturno konzervativni libertarijanac može moralno ne odobravati određena ponašanja, ali **ne zalaže se za zakonsku zabranu ili zatvaranje** ljudi koji se upuštaju u dobrovoljne, neagresivne radnje. Može ne voleti takve radnje, protiviti im se, boriti se protiv njih i aktivno odvraćati ljude od upuštanja u njih, ali uvek **bez pribegavanja prinudnoj sili zakona**.
-
-
-
-U praksi, ličnosti poput Rona Paula ili mislioci poput Rothbarda i Hoppea u SAD-u pokušali su da pomire ove dve vizije, braneći i tradicionalne vrednosti i maksimalnu individualnu slobodu.
-
-
-
-![Libertes Graphique](./assets/fr/014.webp)
-
-
-
-## Da li si liberal ili libertarijanac?
-
+## Da li ste liberal ili libertarijanac?
 
 <chapterId>d382c40b-78ce-416f-9f63-6ad43768406b</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=pPA2uyoaBrE)
+### Transatlantska konfuzija
 
+![Transatlantska konfuzija između liberalizma i libertarijanizma](./assets/en/028.webp)
 
+Izrazi koji se koriste za označavanje političkih porodica nisu nepromenljivi. Mogu varirati prema geografskom i istorijskom kontekstu, stvarajući veliki izvor zabune. Kada se postavi pitanje „da li ste liberal ili libertarijanac?”, Evropljanin bi mogao odgovoriti da je to isto. Ali u anglosaksonskoj upotrebi, to su radikalno različiti koncepti.
 
-Izrazi koji se koriste za označavanje političkih porodica nisu nepromenljivi. Oni mogu varirati u zavisnosti od geografskog i istorijskog konteksta. Ovo može dovesti do zabune.
+U Evropi, izraz *liberalizam* ostao je relativno stabilan kroz vreme: povezuje se s laissez-faire ekonomskim politikama, smanjenom državnom intervencijom i odbranom individualnih sloboda. Pozicija koja se uglavnom klasifikuje kao desna.
 
+![Različita značenja liberalizma u Evropi naspram Sjedinjenih Država](./assets/en/029.webp)
 
+U Sjedinjenim Državama, ista reč doživela je dramatičan pomak značenja. **Američki *liberals* postali su zagovornici državne intervencije i *Big Government***. Ovaj razvoj može se pratiti kroz ključne trenutke:
 
-U Evropi i Sjedinjenim Američkim Državama, određene reči više nemaju isto značenje. Takav je slučaj sa rečju liberalizam.
+- Tokom 1930-ih, *New Deal* Franklina D. Roosevelta označio je prvi veliki intervencionistički zaokret kao odgovor na Veliku depresiju: javni radovi, javno zapošljavanje, subvencije. Značenje *liberalizma* počelo je da klizi ka etatističkoj paradigmi.
+- Tokom 1960-ih, *Great Society* Lyndona B. Johnsona proširilo je to na socijalne programe i federalnu intervenciju.
+- Danas su američki *liberals* uglavnom demokrate koji brane javno zdravstveno osiguranje i programe protiv siromaštva. Neko poput Bernieja Sandersa, koji sebe opisuje kao socijalistu ili socijaldemokratu, polaže pravo na liberalnu etiketu, ali za njega je ona sinonim za državnu intervenciju radi emancipacije pojedinaca.
 
+Vrlo smo daleko od evropskog značenja tog pojma.
 
+![Istorijska evolucija američkog liberalizma ka intervencionizmu](./assets/en/030.webp)
 
-U Severnoj Americi, *liberalizam* je klasifikovan na levici i izjednačen sa progresivizmom. Zaista, američki *liberali* su postali zagovornici državne intervencije i *Velike Vlade*. Ova istorijska evolucija je u oštroj suprotnosti sa stalnim značenjem pojmova liberal i konzervativac u Evropi.
+### Pojava libertarijanizma
 
+Suočeni s ovim jezičkim pomeranjem, pristalice klasičnog liberalizma u Sjedinjenim Državama počele su od 1960-ih nadalje da sebe nazivaju *libertarians*, upravo da bi se razlikovali od američkih *liberals*. Oni su naslednici evropskog klasičnog liberalizma devetnaestog veka.
 
+![Pojava libertarijanizma kao odgovor na skretanje američkog liberalizma](./assets/en/031.webp)
 
-Zaista, u mnogim zemljama, posebno u Evropi, termin liberalizam se povezuje sa laissez-faire ekonomskim politikama i smanjenom državnom intervencijom.
+Fundamentalna osa libertarijanizma jeste pojam **spontanog poretka, koji se naročito duguje Friedrichu Hayeku** i austrijskoj školi ekonomije. Prema Hayeku, pravila i norme koje upravljaju društvom ne treba da budu nametnute odozgo autoritarnim planiranjem, već treba da izrastu iz slobodne igre individualnih volja, ugovora i slobodno prihvaćenih odnosa između odraslih.
 
+### Ključne intelektualne figure
 
+![Ključne intelektualne figure libertarijanizma: Rothbard i Nozick](./assets/en/032.webp)
 
-Ovo je razlog zašto je termin *liberali* zbunjujući za Evropljanina. Američka liberalna politika, od 20. veka, može se opisati kao pomak ka etatističkom, autoritarnom paradigmom, što je izobličilo značenje reči *liberalizam*.
+Nekoliko mislilaca oblikovalo je libertarijanski pokret:
 
+- **Murray Rothbard**, koga smo već pomenuli u vezi s kulturnim konzervativizmom, takođe je teoretičar anarho-kapitalizma. U svojoj knjizi iz 1973. *For a New Liberty*, zagovarao je **ukidanje države i potpunu privatizaciju društvenih aktivnosti**, suprotstavljajući se i ekonomskom i vojnom intervencionizmu.
+- **Robert Nozick**, profesor političke filozofije na Harvardu, odgovorio je na *A Theory of Justice* Johna Rawlsa knjigom *Anarchy, State, and Utopia* (1974). Nozick je branio minimalnu državu u lockeovskoj tradiciji, a njegov strogi analitički stil značajno je doprineo legitimisanju libertarijanske misli u akademskim krugovima.
 
+### Institucionalna struktura
 
-Istorijski gledano, američki *liberalizam* je podržavao značajnu državnu intervenciju (Franklin Delano Rooseveltov *New Deal* i Lyndon B. Johnsonovo *Great Society*), uključujući preraspodelu bogatstva i socijalne programe. U SAD-u se termin *liberal* stoga povezuje sa levičarskim ili socijaldemokratskim politikama, kao što su javno zdravstveno osiguranje i javni planovi za borbu protiv siromaštva.
+![Institucionalna struktura libertarijanskog pokreta](./assets/en/033.webp)
 
+**Libertarijanski pokret se progresivno organizovao**:
 
+- **Cato Institute** (1977), think tank sa sedištem u Washingtonu, radi na predlozima javnih politika.
+- **Mises Institute** (1982), u Auburnu, Alabama, fokusira se na obrazovanje, a ne na političko lobiranje, funkcionišući kao neka vrsta online univerziteta sa konferencijama i ponovo objavljenim delima.
+- **Libertarian Party** (1971), uprkos proseku od oko 2% na izborima, čini treću najveću američku političku stranku. Tih 2% može prelomiti izbore, dajući stranci uticaj daleko veći od njenog izbornog rezultata.
 
-Od 1960-ih nadalje, pristalice klasičnog liberalizma u SAD-u počele su sebe nazivati *libertarijancima* kako bi se razlikovali od američkih liberala. Oni su naslednici evropskog klasičnog liberalizma iz 19. veka.
+### Libertarijanci i konzervativci: složen savez
 
+Libertarijanci se radikalno suprotstavljaju američkim *liberals* u modernom smislu pojma. U tom pogledu dele određeno zajedničko tlo s konzervativcima: privrženost ograničenoj vladi Očeva osnivača, odbacivanje prisilnog egalitarizma, protivljenje javnom dugu i odbranu prava saveznih država od federalne vlasti. Ron Paul najjasnije utelovljuje ovu konvergenciju, iako je ostao manjinski glas unutar Republikanske partije.
 
+Ipak, fundamentalna razilaženja opstaju. Libertarijanci odbacuju vojni intervencionizam neokonzervativaca (pomislimo na Georgea W. Busha i rat u Iraku), protive se konzervativnim društvenim politikama i subvencijama (bilo preduzećima ili porodicama u ime saosećanja), osuđuju zabranu droga kao ne samo neefikasnu već i nemoralnu, i odbacuju protekcionizam. Po ovoj poslednjoj tački, na primer, **Trumpove carinske politike izazvale su oštre kritike libertarijanaca** koji su ih videli kao izdaju principa slobodne trgovine. Savez između konzervativaca i libertarijanaca je, dakle, stvaran ali inherentno napet, ujedinjen zajedničkom kritikom američkog *liberalizma*, a podeljen oko pravilnog obima državne moći.
 
-## Da li si libertarijanac ili libertaire/anarhista (na francuskom libertaire)?
-
+## Da li ste libertarijanac ili libertaire/anarhista (u francuskom libertaire)?
 
 <chapterId>fc761194-249f-4009-a20f-1f98b7226cf2</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=qi6HPBmrJkg)
+### Fundamentalna nekompatibilnost
 
+![Libertarian naspram libertaire: fundamentalna nekompatibilnost](./assets/en/034.webp)
 
+Ovo dvoje nije kompatibilno. Postoji veliki izvor zabune između ovih pojmova, naročito u automatskim prevodima gde se anglosaksonsko *libertarian* često prevodi kao *libertaire*. Ipak, **ove političke filozofije, uprkos nekim površnim sličnostima, pokazuju fundamentalne razlike**.
 
-Termin **libertarian** ponekad se prevodi kao libertarijanac ili libertinac, što je velika zabluda.
+### Socijalistički anarhizam (*libertaires*)
 
+![Libertaires: naslednici socijalističkog anarhizma](./assets/en/035.webp)
 
+Francuski *libertaires* naslednici su socijalističkog anarhizma, grane socijalizma istorijski povezane s misliocima kao što su Pierre-Joseph Proudhon i Mikhail Bakunin. Njihovi fundamentalni principi su:
 
-Francuski termin libertaire potiče iz anarhističke tradicije 19. veka, koja je izvedena iz socijalizma. Ova tradicija je istorijski povezana sa misliocima kao što su Pjer-Žozef Prudon i Mihail Bakunjin. Anarhizam je politička doktrina koja tvrdi da su svi oblici vlasti nepotrebni, represivni i da ih treba ukinuti.
+- Država mora biti ukinuta, jer je opresivna struktura.
+- Privatna svojina i kapitalizam takođe moraju biti ukinuti, jer je u anarhističkoj doktrini država zaštitnik privatne svojine i bogatih. Otuda Proudhonova čuvena formula: „Svojina je krađa.” (Treba napomenuti da je i sam Proudhon evoluirao po tom pitanju: rani Proudhon bio je žestoko antikapitalistički, ali **kasniji Proudhon se približio klasičnom liberalizmu** i počeo da vidi privatnu svojinu kao garanciju slobode.)
+- Oni favorizuju povratak ekonomiji trampe i egalitarnom društvu u kojem dobra pripadaju svima.
 
+Anarhisti poput Bakunina i Kropotkina (koji je bio strogi anarho-komunista, odbacujući čak i plate kao povratak kapitalizmu) videli su privatnu svojinu i državu kao blizanačke izvore ugnjetavanja. Zagovarali su samoupravne komune, zadruge i antihijerarhijske pokrete. Njihova ekonomska vizija počiva na radnoj teoriji vrednosti; osuđuju najamni sistem, odbacuju profit i kamatne stope i žele **radikalni nestanak novca i banaka**.
 
+### Libertarijanizam: svojina kao temelj slobode
 
-Za socijalističke i komunističke anarhiste, svojina je krađa. Oni žele da vide nestanak novca i banaka, i povratak na lokalnu ekonomiju zasnovanu na trampi. Teže ka egalitarnom društvu gde se individualna sloboda ostvaruje unutar kolektivnog okvira, bez dominacije.
+![Libertarijanizam: privatna svojina kao temelj slobode](./assets/en/036.webp)
 
+Libertarijanci se potpuno razilaze sa *libertaires* po tome što brane privatnu svojinu kao sam temelj slobode. Za njih privatna svojina nije puka društvena konvencija zaštićena državom: **ona je prirodno pravo koje prethodi zakonu i državi**. Ako pojedinac poseduje sopstveno telo, onda poseduje i svoj rad i plodove svog rada. Vlasništvo nad materijalnim dobrima shvata se kao produžetak samovlasništva.
 
+Iz toga sledi da se oporezivanje razume kao agresija slična krađi, jer primorava pojedinca da ustupi deo svoje imovine za usluge koje nije nužno izabrao. Dobrovoljni pristanak čini moralni temelj libertarijanizma.
 
-Za razliku od libertarijanaca, anarhisti su često antikapitalisti, zalažući se za ekonomske oblike kao što su mutualizam, kolektivizam ili libertarijanski komunizam.
+Što se tiče nasilja, libertarijanska doktrina odbacuje sve oblike agresivnog nasilja. Međutim, kao legitimno priznaje odbrambeno nasilje: samoodbranu i otpor ugnjetavanju.
 
+### Strategije za ukidanje države
 
-Socijalistički anarhisti poput Mihaila Bakunjina i Pjera Kropotkina smatrali su privatnu svojinu i državu dvostrukim izvorima ugnjetavanja i predlagali njihovo ukidanje.
+Ovde leži još jedna fundamentalna razlika. *Libertaires* istorijski zagovaraju uništenje države i kapitalizma kroz nasilje, bilo kolektivno ili individualno. Ovaj pristup istorijski počiva na teroru i ciljanim (ili neciljanim) napadima, kao što se videlo u Rusiji, a kasnije u Španiji tokom građanskog rata.
 
+Za libertarijance, agresivno nasilje nije legitimno. Glavna strategija počiva na **delegitimisanju države kroz formiranje kolektivnih uverenja**: argumentaciju, debatu, raspravu i obrazovanje. Libertarijanci zagovaraju građansku neposlušnost ili radnje koje se sastoje u namernom ignorisanju države.
 
+### Anarho-kapitalizam: istorijski koreni
 
-Anarhista bi mogao zagovarati samoupravne komune, zadruge ili antihijerarhijske pokrete, dok odbacuje državnu vlast i kapitalističke strukture.
+![Istorijski koreni anarho-kapitalizma: Molinari, Spooner i Tucker](./assets/en/037.webp)
 
+Anarho-kapitalizam nije skorašnja doktrina. Njegovi koreni leže u devetnaestom veku:
 
+- **Gustave de Molinari**, belgijski ekonomista koji je radio u Parizu uz Frédérica Bastiata, napisao je 1849. članak pod naslovom „The Production of Security”, u kojem je tvrdio da nijedna vlada ne treba da ima pravo da spreči drugu da joj konkuriše, niti da zahteva od potrošača bezbednosti da se za taj proizvod obraćaju isključivo njoj.
+- **Lysander Spooner** i **Benjamin Tucker** u Sjedinjenim Državama bili su individualistički anarhisti koji su snažno tvrdili da je slobodno tržište sposobno da preuzme suverene funkcije države, naročito bezbednost i pravdu.
 
-Oni su za ukidanje države, ali su se odrekli nasilne akcije protiv države zbog nedostatka efikasnosti. S druge strane, nisu se odrekli upotrebe nasilja protiv privatnih preduzeća. Podržavaju javne monopole, prihvataju radnu teoriju vrednosti, osuđuju sistem plata i smatraju da su profit i kamatne stope eksploatacija. Malo levičarskih anarhista, poput Pjera-Žozefa Prudona, aktivno je vodilo kampanju protiv oporezivanja.
+![Murray Rothbard i sveobuhvatna teorija anarho-kapitalizma](./assets/en/038.webp)
 
+U dvadesetom veku, Murray Rothbard je preuzeo baklju i sveobuhvatno teorijski razradio anarho-kapitalizam, naročito u *Man, Economy, and State* i *For a New Liberty*. Njegova misao počiva na dva principa: principu neagresije (nelegitimno je inicirati fizičku silu protiv drugog pojedinca ili njegove imovine, što je filozofski prevod zlatnog pravila: ne čini drugima ono što ne želiš da oni čine tebi) i potpunom ukidanju države, shvaćene kao glavnog agresora.
 
+Rothbard je kritikovao *libertaires* zbog usvajanja naivne i nerealne vizije ljudske prirode, slične Rousseauovom „plemenitom divljaku”. Za Rothbarda, ljudi nisu prirodno dobri, već ih vode njihovi interesi. Društvo zato mora biti organizovano tako da dobri podsticaji usmeravaju ponašanje, što zahteva da privatna svojina bude priznata i garantovana. **Ukidanje države ne znači ukidanje funkcija države**: policija i pravda ne smeju biti eliminisane, već njima mora upravljati slobodno tržište na osnovu konkurencije.
 
-Za libertarijance, naprotiv, jedini način da se osigura individualna sloboda je da se garantuje privatna svojina. Suštinska razlika između libertarijanaca i anarhista stoga se odnosi na pojam individualne svojine i ugovorne slobode. Štaviše, doktrina libertarijanaca o nasilju je odbrambena: samoodbrana i otpor ugnjetavanju.
+### Napomena o libertinima
 
+![Libertarijanci, libertaires i libertini: izbegavanje zabune](./assets/en/039.webp)
 
-
-Libertini su aktivisti seksualne slobode. To nije toliko politička filozofija koliko lični način života, zasnovan na nesputanom moralu suprotnom buržoaskom moralu. Politički, često se poistovećuju sa levičarskim anarhistima, odnosno sa anarhistima.
-
+Ne treba mešati libertarijance sa *libertaires* ili libertinima. Libertini su zagovornici seksualne slobode. To je manje politička filozofija nego lični način života, zasnovan na moralu bez tabua suprotstavljenom buržoaskom moralu. Politički, libertini često gravitiraju ka levičarskom anarhizmu, to jest ka *libertaires*. Ipak, neko može biti i libertin i libertarijanac, jer za libertarijance **svaka osoba ima pravo da živi kako želi bez agresije prema drugima**. Suprotno tome, libertin koji bi nastojao da svoj moral nametne drugima zakonom, samim tim bi prestao da bude libertarijanac.
 
 
 # Političke porodice pod mikroskopom
 
-
 <partId>2e1183f6-95d4-4d3c-9274-843993210624</partId>
 
 
-
-## Strukturne i namerne definicije
-
+## Strukturne i intencionalne definicije
 
 <chapterId>ec5b13b7-4104-46a9-9c39-a810959a69ee</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=7r7KNK5YnIk)
 
 
+Sada ulazimo u srce naše analize političkih porodica. Pre nego što svaku ispitamo detaljno, međutim, moramo se pozabaviti fundamentalnim pitanjem: kako treba definisati politički sistem? Uzmimo socijalizam kao primer. 
 
-Hajde sada da detaljnije pogledamo različite političke filozofije. Dno okvira će biti tretirano donekle marginalno, jer strogo govoreći nije politička ideologija, već društveni sistem koji teži ka totalitarizmu.
+![Političke porodice pod mikroskopom: strukturna analiza](./assets/en/040.webp)
 
+Da li treba da ga definišemo prema njegovim deklarisanim namerama (pravda, blagostanje, emancipacija), ili umesto toga prema njegovoj fundamentalnoj strukturi, naime **da li primat daje pojedincu ili državi**?
 
+### Zamka intencionalnih definicija
 
-Ali prvo, moramo objasniti važnu razliku.
+![Milton Friedman o prosuđivanju politika prema rezultatima, a ne namerama](./assets/en/041.webp)
 
+Milton Friedman je napisao:
 
+> Jedna od najvećih grešaka jeste prosuđivati politike i programe prema njihovim namerama, a ne prema njihovim rezultatima. Svi znamo za poznati put popločan dobrim namerama. [...] Programi označeni kao programi za siromašne ili za one kojima je potrebna pomoć gotovo uvek imaju efekte upravo suprotne od onih koje njihovi dobronamerni sponzori žele da postignu.
 
-Milton Friedman je napisao
+Drugim rečima, Friedman daje prednost onome što bismo mogli nazvati empirijskom analizom: usredsređivanju na vidljive posledice sistema, a ne na politička obećanja i programe. To odjekuje onim što je Frederic Bastiat učio kada je tvrdio da je dobar ekonomista onaj koji vidi efekte neke politike ne samo kratkoročno već i dugoročno, i ne samo na jednu posebnu grupu već na celo stanovništvo.
 
+Friedman nas upozorava na opasnost oslanjanja isključivo na namere. Politike motivisane plemenitim namerama mogu imati nepredviđene ili štetne posledice **kada zanemare rigoroznu analizu ljudskih podsticaja i ponašanja**. Na primer, programi socijalne pomoći koje finansira država (to jest poreski obveznik) rizikuju da proizvedu perverzne efekte: ne stvaraju podsticaj za rad, generišu ekonomsku zavisnost i predstavljaju oblik otimačine jer novac najpre mora biti uzet od onih koji su proizveli bogatstvo. Za Friedmana, merljivi rezultati, poput ekonomskog rasta, smanjenja siromaštva ili efikasnosti, moraju imati prednost nad namerama, jer ove druge, koliko god plemenite, ne garantuju uspeh.
 
-> Jedna od najvećih grešaka je procenjivati politike i programe na osnovu njihovih namera, a ne rezultata. Svi znamo za čuveni put popločan dobrim namerama. [...] Programi označeni kao da su za siromašne ili za one u potrebi gotovo uvek imaju efekte potpuno suprotne od onoga što njihovi dobronamerni sponzori žele da postignu.
+### Strukturni pristup
 
-Zaista, politike, često motivisane velikodušnim namerama, mogu imati nepredviđene ili štetne posledice ako nisu zasnovane na rigoroznoj analizi ljudskih podsticaja i ponašanja. Na primer, socijalna politika usmerena na pomoć siromašnima često stvara perverzne efekte kao što su ekonomska zavisnost ili distorzija tržišta.
+**Strukturne ili praktične definicije usredsređuju se na to kako politički sistemi zaista funkcionišu** i na njihove uočljive karakteristike. Socijalizam, na primer, karakteriše sveprisutnost države, koja reguliše, planira i kontroliše. To je činjenica, i ona je mnogo važnija od deklarisanih namera bratstva ili solidarnosti. Libertarijanizam se, s druge strane, definiše minimalnom državnom intervencijom u ekonomiju i privatni život, težeći primatu individualne slobode i slobodnog tržišta.
 
+Nasuprot tome, **intencionalne definicije oslanjaju se na deklarisane motivacije, ciljeve ili namere** pojedinaca ili grupa. Socijalizam se predstavlja kao težnja ka „socijalnoj pravdi” i solidarnosti. Ali ako se oslonimo na namere, stvari postaju zamagljene, jer svako tvrdi da podržava pravdu; svako priziva suverenitet naroda. Ipak, „narod” ostaje izuzetno apstraktan pojam, i upravo tu leži zamka.
 
+Naša analiza će zato dati prednost strukturnom pristupu, koji omogućava **objektivniju procenu političkih sistema zasnovanu na njihovim merljivim rezultatima** i konkretnim sredstvima, a ne na proklamovanim namerama. Na Nolanovom dijagramu, dno okvira (čisti etatizam, koji teži totalitarizmu) biće obrađeno donekle odvojeno, pošto je to manje politička ideologija nego društveni sistem. Tri kvadranta iznad (socijalizam levo, centrizam u sredini, konzervativizam desno) i libertarijanizam na vrhu biće svaki ispitani kroz ovu strukturnu prizmu.
 
-Za Friedmana, merljivi rezultati - kao što su ekonomski rast, smanjenje siromaštva ili efikasnost - moraju imati prednost nad namerama, jer potonje, iako plemenite, ne garantuju uspeh.
+### Iza namera
 
+![Strukturna analiza političkih porodica: socijalizam naspram libertarijanizma](./assets/en/042.webp)
 
-
-**Strukturalne ili praktične definicije** fokusiraju se na to kako politički sistemi funkcionišu u praksi i na njihove uočljive karakteristike. Na primer, socijalizam karakteriše težnja države da preuzme kontrolu, reguliše i planira sve. S druge strane, libertarijanizam je definisan primatom koji se daje pojedincu i njegovoj slobodi, teži ka minimalnoj intervenciji države u ekonomiji i drugim oblastima.
-
-
-
-Nasuprot tome, **namerne definicije** zasnivaju se na navedenim motivacijama, ciljevima ili namerama pojedinaca ili grupa. Na primer, socijalizam ima socijalnu pravdu kao svoj cilj. Međutim, ako se oslanjamo na namere, stvari postaju zamagljene, jer su svi za pravdu. Zato preferiramo korišćenje strukturnih definicija za jasniju, objektivniju analizu.
-
-
-
-Sledeća poglavlja objašnjavaju kako strukturno definisati političke porodice.
-
+Strukturna analiza služi kao kritički alat. Omogućava nam da političke sisteme procenjujemo prema njihovim stvarnim rezultatima, a ne prema njihovim obećanjima. Intencionalne definicije, nasuprot tome, stvaraju pojmovnu konfuziju u kojoj svi sistemi tvrde da teže sličnim ciljevima (pravdi, pravičnosti, slobodi), zbog čega ih je nemoguće razlikovati jedne od drugih. Zato moramo obratiti pažnju na **empirijske, merljive posledice političkog sistema**, kao i na sredstva koja koristi. Kroz njih se otkriva prava priroda političkog sistema, iza retorike namera ili programa.
 
 
 ## Socijalisti
 
-
 <chapterId>1ef34d7b-f813-458c-934c-1d404f882150</chapterId>
 
+Socijalizam je politički i ekonomski pokret, a zapravo i doktrina, koji se pojavio u devetnaestom veku kroz kritiku društvenih nejednakosti i otuđenja radnika u velikoj industriji. Od samih početaka, on je takođe jasno antikapitalistički pokret, iako su, kao što ćemo videti, moderni socijalisti postepeno unosili ublažavanja i kompromise u svoje principe.
+
+![Socijalisti: principi i varijante](./assets/en/043.webp)
 
 
-![video](https://www.youtube.com/watch?v=-JBJDQqgH_k)
+### Slobode u socijalističkom okviru
 
+U socijalističkoj misli, slobode se ne posmatraju jednako. Uočava se **fundamentalna dihotomija između društvene i ekonomske sfere**:
 
+- **Slobode:** snažne u društvenoj sferi, ali slabe u ekonomskoj sferi.
+- **Kardinalne vrednosti:** jednakost, napredak, socijalna pravda, solidarnost.
+- **Filozofija i principi:** Primat kolektivne organizacije. Socijalizam je praksa ukorenjena u holističkoj viziji društva (holizam), izraženoj kroz državu. Izraz „holizam” potiče od grčkog *holos*, što znači „celina”. Socijalistička država nastoji da maksimalno preuzme i usmerava ljudsku aktivnost. Socijalisti imaju gotovo neograničenu veru u mogućnost izgradnje novog društvenog poretka zasnovanog na razumu, onoga što je Hayek nazvao „konstruktivizmom”.
+- **Politika:** Socijalisti zagovaraju zdravstvene programe, regulatorno zarobljavanje, povećanje poreza i subvencije kako bi garantovali pravičnost. To podrazumeva ekonomsko i društveno državno usmeravanje, planiranje (organizaciju proizvodnje unapred). Najradikalniji i potpuno ostvareni socijalizam je totalitaran, jer država preuzima svu ljudsku aktivnost.
+- **Ekonomija:** Socijalizam podrazumeva snažnu državnu kontrolu ekonomije, u korist pravičnosti. Socijalisti su sumnjičavi prema slobodnim tržištima, koja vide kao slepe, instinktivne sile. Favorizuju preraspodelu bogatstva, centralizovane socijalne programe i progresivno oporezivanje koje se proporcionalno povećava s prihodom i postaje kazneno za one koji zarađuju ili proizvode bogatstvo.
 
-![Socialistes Graphique](./assets/fr/015.webp)
+![Nolanov dijagram koji prikazuje socijalizam pozicioniran sa snažnim društvenim slobodama, ali slabim ekonomskim slobodama](./assets/en/044.webp)
 
+### Istorijska evolucija
 
+Koncept socijalizma prvi je sistematski upotrebio Francuz Pierre Leroux 1833. godine, u članku za *Revue Encyclopedique*, izričito suprotstavljajući ga individualizmu. Izraz je zatim primenjen na doktrine Saint-Simona, Fouriera i Owena sredinom devetnaestog veka, pre nego što ga je Marx preuzeo za svoje potrebe. Značajno je da je i reč „komunizam”, koju će Marx prihvatiti, potekla od francuskog socijaliste po imenu Etienne Cabet.
 
+Do kraja devetnaestog veka pojavila se potpuna ruptura između marksizma i anarhizma. Od početka dvadesetog veka nadalje, **fundamentalna podela razdvojila je revolucionarne socijaliste od reformističkih socijalista**:
 
+1. **Revolucionarni socijalisti** protive se pravima svojine i nastoje da unište kapitalističko buržoasko društvo. Cilj im je da osvoje vlast nasiljem ili diktaturom proletarijata. Ova struja iznedrila je marksistički komunizam i, na kraju, najgore totalitarne režime.
 
-- Slobode:** prilično jake u društvenoj sferi, ali slabe u ekonomskoj sferi.
-- Kardinalne vrednosti:** jednakost, napredak, socijalna pravda, solidarnost.
-- Filozofija i principi:** Primat kolektivne organizacije. Socijalizam je praksa zasnovana na društvu u celini (holizam) i izražava se kroz državu. Socijalistička država ima za cilj da preuzme i usmeri ljudsku aktivnost do maksimuma. Socijalisti imaju gotovo neograničeno poverenje u mogućnost izgradnje novog društvenog poretka zasnovanog na razumu.
-- Politika:** Socijalisti zagovaraju zdravstvene programe, povećanje poreza i subvencije kako bi se garantovala jednakost. Ovo podrazumeva ekonomsku i socijalnu državnu upravu, planiranje (organizacija proizvodnje unapred). Hajek govori o konstruktivizmu, tj. ideji da je na državi da izgradi društvo i da mu da određeni oblik, za razliku od liberalnog poretka gde se društvo samo izgrađuje (spontani poredak). Najradikalniji i najuspešniji socijalizam je totalitarni, jer država preuzima odgovornost za sve ljudske aktivnosti.
-- Ekonomija:** Socijalizam podrazumeva snažnu državnu kontrolu ekonomije, u korist jednakosti (omogućavajući svima da se izdržavaju). Socijalisti su sumnjičavi prema slobodnim tržištima, koja vide kao sistem koji omogućava jakima da iskorišćavaju ranjive. Oni favorizuju preraspodelu bogatstva i centralizovane socijalne programe finansirane visokim porezima i prihodima.
+2. **Reformistički socijalisti** nisu skloni nasilju; razumeli su da frontalno suprotstavljanje državi ne donosi uspeh. Teže socijalnoj pravdi kroz demokratske izbore i oporezivanje, koristeći resurse koje stvara tržišna ekonomija. Drugim rečima, privremeno prihvataju kapitalizam kako bi ga upotrebili protiv njega samog. Ovu tradiciju predstavljaju Jean Jaures, Leon Blum, Olof Palme (Švedska), Willy Brandt (Nemačka) i Francois Mitterrand (Francuska).
 
+### Marx i revolucionarna grana
 
+![Karl Marx i razlika između utopijskog i naučnog socijalizma](./assets/en/045.webp)
 
-**Tipovi socijalista:**
+Karl Marx je povukao ključnu razliku između utopijskog socijalizma i naučnog socijalizma. Optuživao je rane francuske socijaliste (Proudhona, Saint-Simona, Fouriera) da su utopisti, što znači da predlažu čisto imaginarna rešenja bez istinskih teorijskih ili praktičnih temelja.
 
+Marxov naučni socijalizam počiva na istorijskom materijalizmu: ideji da **istorija napreduje kroz klasnu borbu i prisvajanje sredstava za proizvodnju**. Prema ovom pristupu, sve kulturne predstave (pravo, političke institucije, religije) uslovljene su razvojem proizvodnih snaga i proizvodnih odnosa. Država, pravo, pa i sama kultura, samo su izrazi interesa vladajuće klase. Upravo je taj materijalistički okvir naveo Marxa da tvrdi da proletarijat mora postati svestan svoje potlačenosti i osloboditi se kroz revoluciju, eliminisanjem ugnjetačke klase.
 
-Koncept socijalizma je neologizam koji je prvi put sistematski korišćen sa preciznim značenjem od strane Francuza Pjera Lerua 1833. godine. Unutar modernog socijalizma mogu se razlikovati dve tradicije:
+### Demokratski socijalizam i reformistička tradicija
 
+![Jean Jaures i temelji demokratskog socijalizma](./assets/en/046.webp)
 
-1.  **Revolucionarni socijalisti** su protivnici prava vlasništva i žele da unište kapitalističko buržoasko društvo. Oni slede stope anarhista iz 19. veka kao što je Bakunjin. Ovaj anarhizam je kasnije doveo do marksističkog komunizma.
+Jean Jaures je jedna od velikih figura demokratskog socijalizma. Filozof po obrazovanju koji je u politiku ušao na prelazu u dvadeseti vek, Jaures je osnovao novine *L'Humanite*. Njegova definicija socijalizma bila je legitimna intervencija društva i vlasti u ljudski život, naročito u radne odnose, kako bi se ostvarila individualna sloboda i pravičnost. Drugim rečima, **Jaures je postavio teorijske temelje za opravdavanje državne intervencije u ime jednakosti**.
 
+![Emile Durkheim i sociološki temelji socijalizma](./assets/en/047.webp)
 
-2.  **Reformistički socijalisti** nisu skloni nasilju. Oni nisu napustili svoj cilj socijalne pravde, ali se ovaj cilj ostvaruje kroz demokratske izbore i oporezivanje, koristeći resurse generisane tržišnom ekonomijom. Takav je bio slučaj Žana Žoresa, Leona Bluma, Olafa Palmea (Švedska), Vilija Branta (Nemačka) i Fransoa Miterana (Francuska).
+Emile Durkheim, osnivač katedre za sociologiju na Sorboni 1913. i Jauresov prijatelj, objasnio je da je socijalizam protest protiv postojećeg ekonomskog stanja stvari koji zahteva transformaciju kroz organizaciju ekonomskih snaga. I Jaures i Durkheim delili su izrazito ekonomsku koncepciju socijalizma: ekonomija ne sme biti prepuštena tržišnim silama (koje su smatrali slepim i instinktivnim), već njome treba racionalno upravljati.
 
+![Moderni demokratski socijalizam od New Deal-a do nordijske socijaldemokratije](./assets/en/048.webp)
 
+Moderni socijalizam mnogo duguje i Rooseveltu i New Deal-u. Tokom 1930-ih, Franklin Delano Roosevelt sproveo je skup reformi nakon Velike depresije koje predstavljaju glavnu referencu za sve savremene branioce demokratskog socijalizma:
 
-Novi dil Frenklina Delana Ruzvelta igrao je ulogu u formiranju američkog demokratskog socijalizma (Bernie Sanders).
-
-
-
-
-
-- Kreiranje socijalnog osiguranja
-- Uvođenje savezne minimalne plate
-- Postavljanje osiguranja za slučaj nezaposlenosti
+- Stvaranje Social Security
+- Uvođenje federalne minimalne zarade
+- Uspostavljanje osiguranja za nezaposlene
 - Federalni programi javnog zapošljavanja
 
+Posle rata, Ujedinjeno Kraljevstvo usvojilo je slične reforme (nacionalizacije, državu blagostanja), nemačke socijaldemokrate su progresivno napustile marksističke reference u korist socijalne tržišne ekonomije, a nordijske zemlje razvile su model koji kombinuje tržišnu ekonomiju, progresivno oporezivanje i univerzalne javne usluge. Bernie Sanders, savremeni američki političar koji se identifikuje kao socijaldemokrata, **često navodi Francusku kao primer uspeha ovog modela**, naročito njen sistem socijalne sigurnosti.
 
+### Holistički princip: primat kolektiva
 
-Prema Bernie Sandersu, *ove reforme su postale društveno tkivo nacije i temelj američke srednje klase*.
+Socijalizam karakteriše holistička vizija društva, koje se smatra nedeljivom celinom, a ne prostim zbirom pojedinaca. Postoje različiti načini predstavljanja ovog kolektiva: društvena klasa (marksistički pristup), nacija (kao u fašizmu, koji podređuje pojedinca nacionalnom interesu), rasa (kao u nacionalsocijalizmu), ili rod (kao u određenim savremenim pristupima). U svakom slučaju, **pojedinac više ne definiše samog sebe; on je definisan pripadanjem grupi**.
 
+### Green New Deal: savremena sinteza
 
+![Green New Deal kao savremena sinteza ekoloških i društvenih ciljeva](./assets/en/049.webp)
 
+Green New Deal predstavlja noviju evoluciju demokratskog socijalizma, spajajući ekološke brige sa društvenim ciljevima. Politički, ekologija se poravnava s levicom, pa čak i s krajnjom levicom. Ovaj program kombinuje ekološku tranziciju sa socijalnom pravdom, garancijama zaposlenja i ojačanim javnim uslugama. U svakom slučaju, **individualni interes je podređen kolektivnom interesu, definisanom planetarnim zdravljem** i izazovom klimatskih promena. U osnovi, to je jednostavno novo retoričko pakovanje koje opravdava državnu intervenciju i konfiskaciju privatnih prihoda, više ne samo u ime pravičnosti i socijalne pravde, već i u ime životne sredine.
 
-> Socijalizam je metoda koja zamenjuje individualno vlasništvo nad sredstvima proizvodnje i razmene društvenim vlasništvom.  - Léon Blum, "Na ljudskoj skali", 1945.
+### Socijalistička misao u citatima
+
+![Socijalistička misao u citatima](./assets/en/050.webp)
+
+> Došli smo do jasnog uvida da istinska individualna sloboda ne može postojati bez ekonomske sigurnosti i nezavisnosti. Ljudi u nuždi nisu slobodni ljudi.
+> Franklin D. Roosevelt, 1944
+
+> Cilj socijalizma je ekonomska emancipacija svih ljudi.
+> Leon Blum, *On a Human Scale*, 1945
+
+> Socijalizam je doktrina koja uči da društvo mora biti organizovano tako da obezbedi blagostanje svih svojih članova.
+> Emile Durkheim, *Socialism*, 1928
+
+> Za mene, socijalizam znači da ljudi rade zajedno kako bi stvorili društvo koje funkcioniše za sve nas, a ne samo za nekolicinu bogatih.
+> Bernie Sanders, 2015
+
+Ovi citati ilustruju plemenite namere iza socijalističke misli. Ipak, **fundamentalno pitanje ostaje: koja su sredstva i gde je granica?** Ako se ekonomska emancipacija ostvaruje prinudom i moći, nije li to protivrečnost u samim pojmovima?
 
 ## Konzervativci
-
 
 <chapterId>4e068cd8-a5c3-44f8-ac77-309f249a59eb</chapterId>
 
 
-
-![video](https://www.youtube.com/watch?v=G-9CnoEcfqQ)
-
+Kao i svaka politička porodica, konzervativizam nije jedinstvena doktrina. Prilagođavao se različitim epohama i različitim kulturama, i postoje značajne razlike između anglosaksonskog konzervativizma i njegovog kontinentalnoevropskog pandana.
 
 
-![Conservateurs Graphique](./assets/fr/016.webp)
+![Nolanov dijagram koji prikazuje konzervativizam pozicioniran sa snažnim ekonomskim slobodama, ali slabim društvenim slobodama](./assets/en/051.webp)
 
+![Konzervativizam: principi, vrednosti i evolucija](./assets/en/052.webp)
 
+### Slobode u konzervativnoj viziji
 
+Kao što Nolanov dijagram pokazuje, konzervativizam pokazuje snažnu dihotomiju između društvenih i ekonomskih sloboda, ogledalsku sliku onoga što smo videli kod socijalista:
 
+- **Slobode:** snažne u ekonomskoj sferi, ali slabe u društvenoj sferi. U ekonomskom domenu, konzervativci brane slobodno tržište, preduzetništvo i privatnu svojinu, uglavnom iz pragmatičnih razloga i u snažnoj opoziciji prema socijalizmu. U društvenom domenu, ograničenja se opravdavaju **očuvanjem tradicionalnih moralnih normi i društvene stabilnosti**.
+- **Kardinalne vrednosti:** vrlina, poredak, tradicija, civilizacija.
+- **Filozofija i principi:** Konzervativci veruju da su stvari uglavnom dobre takve kakve jesu i da bi ih svaka promena mogla pogoršati. U srcu ove filozofije leži duboka vezanost za korene, za prošlost i strah od previše brutalne promene. Imaju duboko poštovanje prema dugo uspostavljenim društvenim institucijama, koje vide kao ključnu zaštitu od haosa i ekscesa modernosti. Sve što već postoji i što se tokom vremena dokazalo smatra se dobrim samo po sebi. Kako kaže jedna američka enciklopedija konzervativizma: konzervativizam je filozofija koja nastoji da održava i obogaćuje društva kroz poštovanje nasleđenih institucija, uverenja i praksi, u kojima pojedinci razvijaju dobar karakter sarađujući jedni s drugima u primarnim i lokalnim udruženjima kao što su porodice, crkve i društvene grupe. Tocqueville je ovu dinamiku uočio u *Democracy in America*: religija i lokalne zajednice služile su kao snažne protivteže rizicima individualizma.
 
-- Slobode:** one su snažne u ekonomskoj sferi, ali slabe u društvenoj sferi.
+![Konzervativne kardinalne vrednosti: vrlina, poredak, tradicija i civilizacija](./assets/en/053.webp)
 
+![Savremena definicija konzervativizma: obogaćivanje društava kroz nasleđene institucije](./assets/en/054.webp)
 
+- **Politika:** Nacionalna država smatra se glavnom osom politike. Konzervativci zagovaraju tradicionalne društvene kontrole, snažnu nacionalnu odbranu i šira policijska ovlašćenja. Protive se svim oblicima socijalizma ili komunizma, koje optužuju za kvarenje i slabljenje društva.
+- **Ekonomija:** Ekonomija ostaje alat za jačanje uspostavljenog poretka i nacionalne moći. Konzervativci podržavaju slobodno preduzetništvo, nisko oporezivanje i minimalnu regulaciju poslovanja. Ali strahuju da bi **previše individualne slobode moglo proizvesti nemoral ili civilizacijski pad**. Kako je Otto von Bismarck rekao: „Ekonomija je najsigurniji put ka nacionalnoj veličini.” Iako su pristalice slobodnog tržišta, konzervativci ekonomsku slobodu ne vide kao cilj po sebi, već kao polugu za održavanje snažne države.
 
+![Konzervativne političke i ekonomske pozicije](./assets/en/055.webp)
 
+### Kratka istorija konzervativizma
 
-- Kardinalne vrednosti:** vrlina, red, tradicija, civilizacija.
+Doktrina svoje filozofske korene nalazi u osamnaestom veku, rođena kao reakcija na Francusku revoluciju. Edmund Burke se često navodi kao osnivačka figura ove opozicije, zagovarajući očuvanje institucija i tradicija nasuprot radikalnoj promeni. Burke je zastupao razboritost: čak i ako je mogao prihvatiti određene principe Revolucije, verovao je da društvo treba da napreduje ne pravljenjem čistog lista, već kroz postepene reforme.
 
+![Istorijska evolucija konzervativne misli](./assets/en/056.webp)
 
+![Evropski konzervativizam u devetnaestom veku](./assets/en/057.webp)
 
+U Evropi devetnaestog veka, konzervativizam se često manifestovao kao podrška monarhiji, Crkvi i uspostavljenom društvenom poretku suočenom s rastućim liberalizmom i nacionalizmom. Figure poput Josepha de Maistrea u Francuskoj predstavljale su duboko reakcionarnu struju. De Maistre je gajio apsolutno neprijateljstvo prema razumu, verujući da ljudi nisu bića razuma i da se **društvom može upravljati samo pozivanjem na duboke instinkte**, otuda presudna važnost religije. Ti reakcionari zagovarali su povratak feudalnom, agrarnom i zanatskom društvu, gledajući na industrijalizaciju kao na pretnju tradicionalnom društvenom poretku.
 
+![Anglosaksonski konzervativizam i koncept uređene slobode](./assets/en/058.webp)
 
-- Filozofija i principi:** Konzervativci veruju da su stvari uglavnom dobre takve kakve jesu i da bi svaka promena mogla da ih pogorša. Oni teže očuvanju onoga što već postoji, braneći to kao dobro samo po sebi, i protive se promenama u sistemu za koji smatraju da se pokazao efikasnim. U srcu tradicionalne koncepcije konzervativizma leži duboko poštovanje prema dugogodišnjim društvenim institucijama, koje se vide kao suštinske zaštite protiv haosa, nepravde i okrutnosti. Ove društvene građevine održavaju solidarnost, sigurnost i snagu koje čovečanstvu trebaju da se odupru preteranostima modernosti.
+U dvadesetom veku, naročito u Sjedinjenim Državama, konzervativizam se razvio oko ideala individualne slobode, ograničene vlade, slobodnih tržišta i hrišćanskih vrednosti, često u opoziciji prema progresivnim politikama New Deal-a. Ovaj anglosaksonski konzervativizam bio je mnogo moderniji, pošto je potpuno prihvatio naučni i tehnološki napredak, istovremeno pokušavajući da pomiri zajednicu i pojedinca, slobodu i odgovornost. U Britaniji, Margaret Thatcher je oličila ovu tendenciju kroz svoje protivljenje sindikatima i centralizovanom planiranju, uvek s osnovnim ciljem **obnavljanja moralnih i verskih vrednosti kao bedema protiv ekscesa progresivizma**.
 
+### Veliki mislioci konzervativizma
 
+- **Edmund Burke (1729-1797):** Često smatran ocem modernog konzervativizma, Burke je insistirao na postepenoj, organskoj promeni, a ne na revolucionarnom raskidu. Njegove *Reflections on the Revolution in France* (1790) postavile su intelektualne temelje anglosaksonskog konzervativizma.
+- **Michael Oakeshott (1901-1990):** Britanski filozof poznat po kritici racionalizma u politici, Oakeshott je branio **koncepciju konzervativizma kao temperamenta, a ne sistematske ideologije**. Njegov esej *On Being Conservative* (1956) ostaje ključna referenca koja je uticala i na Friedricha Hayeka.
+- **Roger Scruton (1944-2020):** Savremeni britanski filozof koji je razvio sofisticiranu odbranu konzervativnih vrednosti u kontekstu kasne modernosti, naročito u svojoj knjizi *The Meaning of Conservatism*.
 
+![Veliki mislioci konzervativizma: Burke, Oakeshott i Scruton](./assets/en/059.webp)
 
+### Problematična fleksibilnost
 
-- Politika:** Konzervativci zagovaraju tradicionalne društvene kontrole i državnu intervenciju kako bi sproveli društvene i moralne standarde (red, sigurnost, vrednosti). Oni podržavaju snažnu nacionalnu odbranu. Skloni su podržavanju opsežnijih policijskih ovlašćenja. Socijalizam se percipira kao brutalan prekid sa zapadnom civilizacijom. Konzervativci su igrali odlučujuću ulogu u borbi protiv komunizma i odbacivanju prekomernog državnog intervencionizma.
+![Problematična fleksibilnost konzervativnih principa](./assets/en/060.webp)
 
+Konzervativizam ponekad pokazuje uznemirujuću fleksibilnost u pogledu principa. Tokom finansijske krize 2008, George W. Bush je izjavio: „Napustio sam principe slobodnog tržišta da bih spasao sistem slobodnog tržišta.” Sledeće godine dodao je: „Delovao sam protiv svojih instinkata slobodnog tržišta i odobrio privremenu državnu intervenciju.” Intervenišući kako bi spasao velike banke, Bush je preuzeo **konzervativnu ulogu države kao krajnjeg garanta nacionalne ekonomije**, stavljajući moć i kontinuitet nacije iznad apstraktnih principa tržišta. Ista logika može se pronaći u protekcionističkim trgovinskim politikama Donalda Trumpa, vođenim u ime nacionalnog interesa uz rizik podsticanja korporatizma i klijentelističkog kapitalizma.
 
+### Pojava neokonzervativizma
 
+![Pojava neokonzervativizma i paleokonzervativna reakcija](./assets/en/061.webp)
 
+Od 2000-ih nadalje, neokonzervativci su se sve više uključivali u opravdavanje vojnog intervencionizma radi usađivanja demokratije širom sveta, naročito posle napada 11. septembra 2001. Ta politika „nation-building” raskinula je s tradicionalnom razboritošću konzervativaca u pitanjima spoljne politike. Kao reakciju, tradicionalni konzervativci preuzeli su etiketu „paleokonzervativac” kako bi se razlikovali od neokonzervativaca. Kritikuju vojni intervencionizam, brane izolacionističkiju spoljnu politiku i **stavljaju veći naglasak na pitanja nacionalnog i kulturnog identiteta**.
 
-- Ekonomija:** Konzervativci podržavaju niske poreze i minimalnu regulaciju poslovanja. Oni podržavaju pošteno preduzetništvo i slobodno tržište, kao i pojedince koji naporno rade kako bi akumulirali bogatstvo. Ali strahuju da će previše individualne slobode dovesti do nemoralnosti ili civilizacijskog pada.
+### Konzervativna misao u citatima
 
+> Konzervativac je neko ko veruje da ništa nikada nije urađeno prvi put.
+> Benjamin Disraeli
 
+> Konzervativizam nije krut sistem mišljenja, već dispozicija, stav prema životu, tradicija.
+> Michael Oakeshott
 
-**Tipovi konzervativaca:**
+> Konzervativizam je uverenje da postoji moralna istina koju nismo mi izmislili i koju ne možemo ukinuti.
+> Roger Scruton
 
-
-u Evropi 19. veka, konzervativci su reakcionari. Oni zagovaraju povratak starom feudalnom, poljoprivrednom i zanatskom društvu. Žele da pobegnu iz današnjeg društva i vrate se u prošlost, pre evolucije koju smatraju štetnom: naučnog i tehnološkog napretka, sa njegovim posledicama po ekonomiju i društvo.
-
-
-
-U anglosaksonskim zemljama, konzervativizam je sličan desničarskoj politici u latinoameričkim zemljama. Empirijski, ovaj konzervativizam je definisan svojim protivljenjem progresivizmu New Deal-a, koji je u Sjedinjenim Državama dobio naziv *liberalizam*. Primeri uključuju dela Russella Kirka, Michaela Oakeshotta i Rogera Scrutona.
-
-
-
-#### Međutim, moramo razlikovati dve vrste konzervativizma.
-
-
-
-
-1.  **Tradicionalni američki konzervativizam** zasniva se na ideji "uređene slobode", koja ima za cilj da spoji ponekad kontradiktorne težnje zajednice i pojedinca, individualne slobode i odgovornosti, ograničene vlade i slobodnih tržišta. Nakon Drugog svetskog rata, američki konzervativizam se iznova definisao, pokušavajući da pomiri tradicionalne liberalne i konzervativne vrednosti. Protivili su se komunizmu, ali i prekomernom širenju američke savezne vlade, tvrdeći da se problemi koje je stvorila ne mogu rešiti samo poboljšanjem njenog upravljanja, već i obnavljanjem moralnih i religijskih vrednosti.
-
-
-
-2.  **U Sjedinjenim Državama**, od 2000-ih nadalje, neokonzervativci su se sve više uključivali u opravdavanje vojne intervencije radi uspostavljanja demokratije u svetu, posebno nakon 11. septembra 2001. godine, što je izazvalo mnogo kritika od strane tradicionalnih konzervativaca.
-
-
-
-Neki sada sebe nazivaju "paleokonzervativcima", kako bi se razlikovali od neokonzervativaca.
-
+Ovaj poslednji citat je fundamentalan za razumevanje snažnog protivljenja konzervativaca progresivcima. Konzervativci smatraju da postoji ljudska priroda i da iz te prirode proizlaze moralna pravila. Ta pravila nisu proizvoljna; nastaju iz onoga što ljudsko biće fundamentalno jeste. Shodno tome, svaki pokušaj da se izmeni ljudska priroda ne samo da je osuđen na neuspeh, već je, pre svega, nemoralan.
 
 
 
 ## Libertarijanci
 
-
 <chapterId>9ca743de-537b-42fb-87d2-212d5f478b22</chapterId>
 
+Libertarijanska porodica se od svih drugih političkih filozofija razlikuje na fundamentalan način: **u svoje središte ne stavlja ekonomiju, već etiku i pravo**. Kada libertarijanci brane tržišnu ekonomiju, to je manje zbog njene sposobnosti da proizvodi bogatstvo, a više zbog promovisanja individualne slobode i odgovornosti.
 
 
-![video](https://www.youtube.com/watch?v=ftE1NG34yno)
+![Nolanov dijagram koji prikazuje libertarijanizam na vrhu sa snažnim slobodama i u društvenom i u ekonomskom domenu](./assets/en/062.webp)
 
+![Libertarijanska politička porodica](./assets/en/063.webp)
 
+### Slobode i fundamentalne vrednosti
 
-![Libertariens Graphique](./assets/fr/017.webp)
+Kao što Nolanov dijagram odmah pokazuje, libertarijanci se nalaze na vrhu okvira jer ne prihvataju nikakva ograničenja u odbrani sloboda, bilo društvenih ili ekonomskih. Upravo ih to razlikuje od svake druge političke porodice:
 
+- **Slobode:** snažne i u društvenoj i u ekonomskoj sferi. Na društvenom nivou, libertarijanci brane maksimalnu individualnu slobodu, obuhvatajući dekriminalizaciju određenih supstanci, slobodu izbora obrazovanja i nemešanje države u privatne živote građana. Na ekonomskom nivou, to se proširuje na slobodu preduzetništva, zapošljavanja, određivanja plata i, pre svega, **pravo da se sopstveni novac troši kako se smatra prikladnim** i da se trguje bez ograničenja ili nadzora.
+- **Kardinalne vrednosti:** legitimna privatna svojina, individualna sloboda, pristanak, odgovornost. Te vrednosti su intimno povezane i potpuno nerazdvojive jedna od druge.
+- **Filozofija i principi:** Libertarijanizam je pre svega filozofija prava. Fundamentalna ideja, prisutna već u sedamnaestom veku kod Johna Lockea, jeste da svaki pojedinac poseduje neotuđiva prava na život, slobodu i svojinu. Ta prava ne dodeljuje vlada, već su intrinzična ljudskom biću. Samovlasništvo je koncept po kojem je svaki pojedinac zakoniti vlasnik sopstvenog tela i života. Kao što je Bastiat napisao, čovek je najpre vlasnik samog sebe, zatim vlasnik stvari koje je stekao. Princip laissez-faire nije odsustvo normi; on je **fundamentalna norma koja se mora braniti, uključujući i silom**.
+- **Politika:** Princip neagresije postulira da je osoba slobodna da deluje kako želi sve dok ne počini nasilje protiv života, slobode ili imovine drugoga. Ova formulacija podseća na zlatno pravilo prisutno u svim civilizacijama i religijama: ne čini drugima ono što ne želiš da oni čine tebi. Libertarijanci odbijaju da državi daju posebno dopuštenje da čini dela koja bi većina ljudi smatrala nemoralnim kada bi ih činili pojedinci. Ukratko, **postoji jedan moralni kodeks koji važi za sve, bez izuzetaka**. To prirodno proizvodi duboku sumnjičavost prema moći, naročito državnoj moći, koja može legalno vršiti prinudu, uključujući monopol monetarne kontrole. Oporezivanje se kvalifikuje kao krađa ili iznuda, jer se sastoji od oduzimanja tuđe imovine bez pristanka, u suprotnosti s principom neagresije.
+![Libertarijanska filozofija: samovlasništvo, neagresija i laissez-faire](./assets/en/064.webp)
 
+- **Ekonomija:** Sloboda preduzetništva i razmene neposredno proizlazi iz samovlasništva i vlasništva nad plodovima sopstvenog rada. Sloboda proizvodi spontani poredak, pravedniji i efikasniji jer proizlazi iz individualnog delovanja i odgovornosti. Slobodno tržište stoji nasuprot korporatizmu (sistemu u kojem država sarađuje s organizovanim grupama kako bi regulisala ekonomiju, stvarajući monopole i regulatorne zaštite). **Slobodno tržište je prirodni proces kroz koji pojedinci mirno stupaju u interakciju**, bez oslanjanja na silu zakona radi sticanja prednosti.
 
+### Istorijska evolucija
 
+![Istorijska evolucija libertarijanske misli od klasičnog liberalizma](./assets/en/065.webp)
 
-- Slobode:** one su snažne i u društvenim i u ekonomskim oblastima.
+Libertarijanske ideje sežu u osamnaesti vek, do klasičnog liberalizma. Fiziokrati (Vincent de Gournay, Turgot, Quesnay), zatim Condillac, Jean-Baptiste Say i Frederic Bastiat jasno su formulisali ove principe. Tokom dvadesetog veka, **došlo je do fundamentalnog pomaka s progresivnim napuštanjem laissez-faire principa** u korist države blagostanja i sve regulisanijeg društva. Kao odgovor, klasični liberali u Sjedinjenim Državama počeli su da sebe nazivaju „libertarians” kako bi se razlikovali od američkog „liberalism”, koji je kooptiran rastućim državnim intervencionizmom. Ti libertarijanci prepoznali su se u [austrijskoj školi ekonomije](https://planb.academy/resources/glossary/austrian-school), čiji su glavni mislioci Ludwig von Mises, Friedrich Hayek i Murray Rothbard.
 
+### Tipovi libertarijanaca
 
+![Minarhisti naspram anarho-kapitalista: dve tendencije unutar libertarijanizma](./assets/en/066.webp)
 
+U dvadesetom veku pojavile su se dve glavne tendencije, iako razilaženja među njima počivaju više na empirijskim pitanjima nego na fundamentalnim etičkim neslaganjima:
 
+![Libertarijanski politički principi: neagresija, sumnja prema moći i odbacivanje oporezivanja](./assets/en/067.webp)
 
-- Kardinalne vrednosti:** individualna sloboda, odgovornost, privatna svojina, pristanak.
+1. **Minarhisti** smatraju da ovlašćenja države treba strogo ograničiti na odbranu individualnih sloboda. To je režim minimalne države („država noćni čuvar”), u kojem je vlast legitimna samo radi obezbeđivanja osnovnih funkcija policije, pravde i teritorijalne odbrane. Ron Paul je istaknuta figura ove tendencije: lekar i američki kongresmen koji je decenijama predstavljao Teksas, dosledno je glasao protiv svakog zakona koji je odstupao od Ustava, protivio se svim oblicima stranog intervencionizma i **zalagao se za denacionalizaciju novca**, ideju koju je zagovarao Friedrich Hayek. Paul tvrdi da je Federal Reserve odgovoran za inflaciju i ekonomske cikluse kroz manipulaciju fiat novcem, i u Bitcoinu je video prirodnu potvrdu svoje kritike centralnog bankarstva.
 
+![Minarhistička doktrina Rona Paula i principi zdravog novca](./assets/en/068.webp)
 
+2. **Anarho-kapitalisti** smatraju da državne funkcije treba privatizovati i u potpunosti prepustiti tržištu. To nije društvo bez pravila, autoriteta ili zakona, već **društvo u kojem bi pravila bila uspostavljena kroz dobrovoljno pristupanje i pristanak**. Mogle bi postojati vlade i funkcije nalik državnim, ali ne bi postojao monopol; konkurentska preduzeća nudila bi svoje usluge klijentima. Ključni mislioci uključuju Murraya Rothbarda (*For a New Liberty*, 1973), Davida Friedmana (sina Miltona Friedmana, koji zauzima pragmatičniji, utilitaristički pristup tvrdeći da tržište može efikasnije pružiti sve usluge, uključujući pravo i poredak) i Hansa-Hermanna Hoppea (Rothbardovog učenika koji razvija pristup zasnovan na argumentacionoj etici).
 
+![Ključni mislioci anarho-kapitalizma: Rothbard, Friedman i Hoppe](./assets/en/069.webp)
 
+### Libertarijanska misao u citatima
 
-- Filozofija i principi:** primat individualne slobode. Istorijski gledano, klasični liberalizam je pre svega filozofija prava. Osnovna ideja je da svaka individua poseduje neotuđiva prava na život, slobodu i imovinu. Ta prava nisu data od strane vlade, već su intrinzična ljudskom biću. Samosuverenitet (ili samovlasništvo) je koncept da je svaka individua zakoniti vlasnik svog tela i života, i ima pravo da donosi odluke o njima bez spoljne prinude, sve dok ne krši prava drugih.
+> Libertarijanac ne vidi protivrečnost u tome da bude „levo” po nekim pitanjima i „desno” po drugim. Naprotiv, on svoju poziciju smatra jedinom doslednom u praksi, sa stanovišta slobode svakog pojedinca.
+> Murray Rothbard, *For a New Liberty*, 1973
 
+> Ako nemate pravo da opljačkate svog komšiju, ne bi trebalo da šaljete vladu da pljačka umesto vas.
+> Ron Paul, 2008
 
+![Libertarijanska misao u citatima](./assets/en/070.webp)
 
-
-
-- Politika:** Libertarijanci veruju da niko, niti bilo koja grupa (uključujući vladu), nema pravo da inicira ili preti fizičkom silom protiv druge osobe ili njihove imovine. Ovo je princip nenapadanja. To znači da su prevara, krađa i prinuda moralno za osudu. Upotreba sile je opravdana samo u samoodbrani.
-
-
-
-Libertarijanci odbijaju da daju državi posebnu dozvolu da čini dela koja bi većina ljudi smatrala nemoralnim, nezakonitim ili kriminalnim ako ih počine pojedinci ili grupe u društvu. Ukratko, libertarijanci insistiraju da svi treba da budu podložni istom moralnom kodeksu, bez izuzetaka za bilo koju grupu ili pojedinca.
-
-
-
-Libertarijanci su duboko sumnjičavi prema bilo kojoj koncentraciji moći, bilo političkoj ili ekonomskoj. Državna moć se smatra posebno opasnom jer može legalno primenjivati prinudu.
-
-
-
-
-
-- Ekonomija:** Slobodna trgovina i sloboda preduzetništva su ekonomski izrazi poštovanja prava pojedinaca da poseduju sebe i svoju robu, i da ih slobodno razmenjuju. Sloboda proizvodi spontani, pravedni poredak, jer je rezultat individualne akcije i odgovornosti, putem međusobne razmene i ugovora.
-
-
-
-**Tipovi libertarijanaca:**
-
-
-U 20. veku pojavila su se dva glavna trenda:
-
-
-1.  **Minarhista:** koji smatra da ovlašćenja države treba strogo ograničiti na odbranu individualnih sloboda. To je režim minimalne države (*Noćni čuvar*), gde je vlast legitimna samo da obezbedi osnovne funkcije policije, pravde i oružane odbrane teritorije.
-
-
-2.  **Drugi anarho-kapitalista:** koji veruje da bi državne funkcije trebalo privatizovati i upravljati tržištem.
-
-
-Međutim, oboje se slažu oko fundamentalnog principa individualnog suvereniteta. Libertarijanske ideje su izražene još u 18. veku od strane fiziokrata, posebno Vensana de Gurnea i Turgota, a razvijali su ih Kondijak, Žan-Batist Sej i Frederik Bastija. U 20. veku, te ideje su preuzete i razvijene od strane [austrijske škole ekonomije](https://planb.academy/resources/glossary/austrian-school), čiji su glavni autori Ludvig fon Mizes, Fridrih Hajek i Mari Rotbard.
-
+Drugim rečima, Rothbard naglašava da libertarijanizam prevazilazi tradicionalnu podelu levo-desno, a Paul ističe odbacivanje države kao alata prinude. **Zabrana krađe ne važi samo za pojedince već i za državu.**
 
 
 
 
 ## Centristi
 
-
 <chapterId>d4f5c100-a791-45cf-bc7c-6e2353dc7a48</chapterId>
 
 
+Centrizam je više od jednostavne srednje pozicije jednako udaljene od svih ostalih. To je stvarna politička filozofija, metod upravljanja koji tvrdi da je prilagođen savremenim pluralističkim društvima. To je pristup koji **privileguje efikasnost, pragmatizam i teži ka obliku tehnokratije**: vlast treba poveriti stručnjacima koji moraju usmeravati ekonomiju i voditi monetarnu politiku.
 
-![video](https://www.youtube.com/watch?v=ZJVwYWhdhrU)
+![Nolanov dijagram koji prikazuje centrizam u sredini sa umerenim slobodama u oba domena](./assets/en/071.webp)
 
+![Centristička politička porodica](./assets/en/072.webp)
 
+### Slobode i kardinalne vrednosti
 
-![Centristes Graphique](./assets/fr/018.webp)
+Centristički pristup karakteriše stalna potraga za ravnotežom između javne vlasti i privatne autonomije:
 
+- **Slobode:** umerene i u društvenoj i u ekonomskoj sferi. U društvenom domenu, centristi teže da pomire vladinu kontrolu i individualni izbor, favorizujući odmerenu državnu intervenciju uz očuvanje fundamentalnih sloboda. U ekonomskom domenu, slobode su garantovane, ali uvek ublažene brigom za socijalnu pravdu. Centristi su vrlo kritični prema laissez-faire, ali ostaju i pro-business i naklonjeni ispravljanju nejednakosti. Ovde se mora napraviti važna razlika: biti pro-business (kao što centristi teže da budu) znači favorizovati **neku vrstu saveza između velikih preduzeća i države**, što se razlikuje od pozicije pro-market.
+- **Kardinalne vrednosti:** umerenost, kompromis, prilagođavanje, javna korist.
+![Centristička filozofija: pragmatizam i tehnokratija](./assets/en/073.webp)
 
+- **Filozofija:** Pragmatizam je politička filozofija koja privileguje prilagođavanje posebnim kontekstima umesto krute primene ideoloških principa. Ovo pragmatično mišljenje zasniva se na ideji da su samo tehnokrate sposobne da donesu ispravne odluke za postizanje najboljih socioekonomskih rezultata. U modelu tehnokratskog upravljanja, političke odluke proizlaze iz racionalnosti i ekspertize, a ne iz ideologije ili partijske rasprave. Da bi se izračunala korisnost neke odluke, mora se moći izmeriti sve njene posledice, a to zahteva ekspertizu: sofisticirane proračune, statistiku, ankete, verovatnoće. Ipak, ovde postoji paradoks: **sam ovaj pragmatizam počiva na obliku dogmatizma** (naime, da su samo stručnjaci kompetentni da usmeravaju društvo), uverenju koje ostaje nevidljivo i neizrečeno.
+- **Politika:** Centristi nastoje da prevaziđu tradicionalne podele (levica naspram desnice) kroz koaliciono upravljanje, ujedinjujući umerene partije od konzervativne desnice do socijaldemokratske i ekološke levice u centralnu grupu koja **prevazilazi istorijske rascepe između levice i desnice**. Ovaj metod odgovara modernim društvima obeleženim raznolikošću. Bill Clinton u Sjedinjenim Državama bio je priznat po sposobnosti da donosi zakone osvajajući glasove i republikanaca i demokrata; Emmanuel Macron u Francuskoj izabran je dva puta formirajući široki centar sastavljen od svih umerenih.
+- **Ekonomija:** Centristi prihvataju tržišne mehanizme, istovremeno priznajući potrebu za odgovarajućom stručnom kontrolom i regulacijom. Zagovaraju regulisanu tržišnu ekonomiju u kojoj se konkurencija odvija unutar okvira koji štiti opšti interes. To bi se moglo nazvati „mekim dirigizmom”, jer ne nastoji da potpuno planira ekonomiju, već da ograniči bonuse, reguliše prakse i upravlja tržištem u ime društvenog mira.
 
+### Ciljani socijalni programi
 
+![Centristički ekonomski dirigizam: regulisana slobodna trgovina i ciljani socijalni programi](./assets/en/074.webp)
 
-- Slobode:** Oni su umereni zagovornici individualnih i ekonomskih sloboda.
+Centrizam priznaje važnost **ciljanih socijalnih programa za ispravljanje nejednakosti bez stvaranja preterane zavisnosti** od države. Ovaj sistem preraspodele bogatstva manje teži dogmatskom egalitarizmu, a više društvenom miru i „zajedničkom životu”.
 
+### Da li je kejnzijanizam ekonomski centrizam?
 
+![Amblematične centrističke figure: Macron i Blair](./assets/en/075.webp)
 
+![Tony Blair i Third Way kao centristički model](./assets/en/076.webp)
 
+John Maynard Keynes, veliki engleski ekonomista dvadesetog veka koji je do danas dominirao ekonomskom mišlju i praksom u zapadnim društvima, zaista se može videti kao predstavnik jednog oblika centrizma. Njegov pristup nastoji da uspostavi ravnotežu između klasičnog liberalizma (slobodnog tržišta) i dirigističkog socijalizma (maksimalnog planiranja).
 
-- Kardinalne vrednosti:** umerenost, kompromis, prilagođavanje, javna korist.
+Umesto da pusti tržišta da se sama regulišu, Keynes je tvrdio da država treba da koristi fiskalne i monetarne politike (javnu potrošnju, oporezivanje, kamatne stope) kako bi stimulisala agregatnu tražnju u vremenima recesije ili je obuzdala tokom perioda ekonomskog pregrevanja. On je začetnik dobro poznate ideje da je potrošnja dobra za rast.
 
+![Kejnzijanizam kao treći put između klasičnog liberalizma i dirigističkog socijalizma](./assets/en/077.webp) Ali da bi ovaj mehanizam funkcionisao, **potrebni su stručnjaci koji manipulišu pravim polugama**: monetarnim polugama poput kamatnih stopa i stvaranja novca. Da bi finansirala socijalnu potrošnju, država mora moći da se zadužuje, a da bi zaduživanje bilo izvodljivo, novac mora biti dostupan i ne preskup, otuda važnost centralnih banaka u održavanju određene stope inflacije.
 
+### John Rawls: filozofska dimenzija
 
+![John Rawls i filozofski temelji centrističke pravde](./assets/en/078.webp)
 
+John Rawls, znameniti politički filozof i autor *A Theory of Justice* (1971), predstavlja teorijsku dimenziju centrizma. Njegova koncepcija socijalne pravde predlaže **pragmatičnu ravnotežu između individualnih sloboda i korektivnih intervencija protiv nejednakosti**.
 
-- Filozofija:** Centristi izbegavaju ekstreme i favorizuju pragmatična rešenja. Razmišljaju o problemima pojedinačno, a ne u smislu principa. Priroda centrizma je često da pristupa temi tražeći pragmatičnu ravnotežu između tačaka gledišta. Pragmatizam je politička filozofija koja favorizuje prilagođavanje određenim kontekstima, a ne rigidnu primenu ideoloških principa. To je politički pristup zasnovan na umerenosti i kompromisu. Ovo pragmatično razmišljanje zasniva se na ideji da su samo tehnokrate sposobne da donesu prave odluke kako bi postigli najbolje socio-ekonomske rezultate.
+Rawls predlaže dva principa pravde:
 
+1. **Jednaka sloboda za sve:** temelj demokratije, kao što je Tocqueville pokazao.
+2. **Princip razlike:** dopuštanje nejednakosti samo ako koriste najugroženijima. Drugim rečima, neko ima pravo da se obogati, pod uslovom da preraspodela omogući korist i najmanje povlašćenima.
 
+Pojam **preklapajućeg konsenzusa takođe je centralan za Rawlsovu misao**, naročito u njegovoj knjizi *Political Liberalism* (1993):
 
+> Preklapajući konsenzus postiže se kada građani, iako se pridržavaju različitih sveobuhvatnih, verskih ili filozofskih doktrina, ipak konvergiraju oko skupa političkih principa pravde koje svi mogu podržati iz sopstvenih perspektiva.
 
+Ovaj pristup savršeno ilustruje centristički metod: traženje racionalnih, umerenih dogovora uprkos raznolikosti mišljenja unutar pluralističkog društva, što je sama suština centrističke filozofije.
 
-- Politika:** žele da kombinuju kontrolu vlade i individualni izbor za stabilan, umeren pristup. To je fleksibilan, prilagodljiv oblik državne intervencije. U ovom tehnokratskom obliku upravljanja, političke odluke se zasnivaju na racionalnosti i stručnosti, umesto na ideologiji ili stranačkim raspravama.
+### Centristička misao u citatima
 
+> Važno za vladu nije da radi stvari koje pojedinci već rade, i da ih radi malo bolje ili malo gore; već da radi one stvari koje se trenutno uopšte ne rade.
+> John Maynard Keynes, *The End of Laissez-Faire*, 1926
 
-
-
-
-- Ekonomija:** Centristi prihvataju tržišne mehanizme, dok prepoznaju potrebu za odgovarajućom stručnom kontrolom i regulacijom. Oni zagovaraju kontrolisanu tržišnu ekonomiju, gde se konkurencija odvija unutar regulatornog okvira koji štiti opšti interes.
-
-
-
-Centrizam takođe prepoznaje važnost ciljanih socijalnih programa za ispravljanje nejednakosti bez stvaranja prekomerne zavisnosti od države. Ovaj sistem preraspodele bogatstva manje je usmeren na dogmatski egalitarizam, a više na socijalni mir i "zajednički život".
-
-
-
-**Tipovi centriste:** Centristi mogu naginjati ka socijalizmu, konzervativizmu, libertarijanizmu ili autoritarizmu, ne iz principa, već iz pragmatizma ili političkog oportunizma.
-
-
-
-
-- Emmanuel Macron (Francuska):** njegovo pozicioniranje je i desno i levo. Sa liberalnim ekonomskim reformama (ekonomska desnica) i podrškom za određene društvene slobode (socijalna levica), traži srednji put.
-- Tony Blair (UK):** sa svojim konceptom "Treći put". Pokušao je pomiriti tržišne politike sa ciljevima socijalne pravde, izdvajajući se od tradicionalnih socijalista i konzervativaca.
-
-
-
-Kejnzijanizam je ekonomska teorija koja zagovara aktivnu intervenciju vlade radi stabilizacije ekonomije.
-
-
-
-Umesto da dozvoli tržištima da se sama regulišu, Kejnz je tvrdio da država treba da koristi fiskalne i monetarne politike - kao što su javna potrošnja, oporezivanje i kamatne stope - kako bi stimulisala agregatnu tražnju u vreme recesije, ili je obuzdala u vreme ekonomskog pregrevanja.
-
-
-
-Keynes nije zagovarao ni apsolutni laissez-faire (kao čisti pro-tržišni zagovornici) niti potpunu državnu kontrolu (kao u planskoj privredi).
-
-
-
-Ovaj pristup predstavlja ekonomsku "treću opciju", tražeći ravnotežu između klasičnog liberalizma, koji želi slobodno tržište, i državnog planskog socijalizma, koji želi maksimalno planiranje.
-
-
-Filozofski gledano, možemo se pozvati na poznatog političkog filozofa Džona Rolsa, autora *Teorije pravde* (1971).
-
-
-
-Njegova dva principa pravde (jednaka sloboda za sve i princip razlike, koji dopušta nejednakosti samo ako koriste najugroženijima) oličavaju ovaj pokušaj da se sintetizuju liberalizam i egalitarizam.
-
-
-
-Koncept **preklapajućeg konsenzusa** je takođe centralan u razmišljanju Džona Rolsa, naročito u njegovoj knjizi *Politički liberalizam* (1993). Evo citata koji ilustruje ovaj koncept:
-
-
-
-> Preklapanje konsenzusa se postiže kada građani, dok se pridržavaju različitih sveobuhvatnih, religijskih ili filozofskih doktrina, ipak konvergiraju ka skupu političkih principa pravde koje svi mogu podržati iz svojih perspektiva.
-
-Njegov cilj je da pokaže da je moguće pomiriti nespojive fundamentalne doktrine oko zajedničkih principa pravde, što je sama suština centrističke filozofije.
-
+Keynes ovde misli da postoje tržišni neuspesi (krize hiperprodukcije, nestašice, spekulacije), a kada krize nastupe, samo je država u poziciji da interveniše. **Tržište nije sposobno za samoregulaciju**, pa mora biti zaštićeno, što pada na državu, a time i na stručnjake i tehnokrate.
 
 
 ## Totalitarni režimi
 
-
 <chapterId>7a5e9f5a-2be1-4497-892a-3da5f015faa0</chapterId>
 
+Našu analizu velikih političkih porodica zaključujemo totalitarnim režimima, ali ovde se bavimo nečim fundamentalno drugačijim. Totalitarizam, strogo govoreći, nije politička filozofija; **on je pre negacija svake političke filozofije**. To nam pokazuje Hannah Arendt kada pravi razliku između klasičnog despotizma i totalitarizma.
+
+![Totalitarni režimi: kontrola i prinuda nad svim aspektima života](./assets/en/079.webp)
+
+### Uvid Hannah Arendt
+
+U svom velikom delu *The Origins of Totalitarianism* (1951), Arendt piše: „Totalitarizam ne teži da ljude podvrgne despotskim pravilima, već sistemu u kojem su ljudi suvišni.” Ono što time misli jeste da totalitarni režim nije jednostavno klasični režim koji teži tiraniji ili despotizmu (kao što je monarhija ponekad činila, ili čak demokratija, kako je Tocqueville upozoravao). To je nešto sasvim drugo.
+
+Prema Arendt, **totalitarizam nije politička porodica, već sama negacija politike**, sistem u kojem su ljudska bića učinjena nesposobnim za nezavisno delanje. Politika je, u njenoj koncepciji, sposobnost naroda da uzme svoju sudbinu u svoje ruke i da deluje. U totalitarnim režimima, ta sposobnost je uništena.
+
+![Nolanov dijagram koji prikazuje totalitarne režime na dnu sa ukinutim slobodama u oba domena](./assets/en/080.webp)
+
+### Definicija i fundamentalne karakteristike
+
+![Zajednička matrica totalitarizma: izvan opozicije levo-desno](./assets/en/081.webp)
+
+Mussolini je 1920. izjavio: „Sve u Državi, ništa izvan Države, ništa protiv Države.” To precizno otkriva šta znači „totalitarno”: totalitet. Sve je apsorbovano u državu, što znači da **više nema nikakvog razdvajanja između javnog i privatnog prostora**. Država potpuno apsorbuje društvo, koje u tom trenutku gubi svaki oblik autonomije. Ako želite da otvorite klub stonog tenisa, potrebna vam je dozvola partije. A to se proteže na apsolutno sve, uključujući intimni život porodice.
+
+- **Slobode:** ukinute. Totalitarni režimi nameću snažnu vladinu kontrolu i nad ličnim i nad ekonomskim životom. Totalitarizam postoji kada država kontroliše sve u društvu i raspolaže neograničenom moći, eliminišući sve oblike opozicije političkom policijom.
+- **Filozofija:** Totalitarna društva razlikuju se po upotrebi ideologije, obećanju „raja” (kraja istorije za komunizam ili rasne čistote za nacizam). Partija ujedinjuje mase protiv neprijatelja koji je i spoljašnji i unutrašnji (kapitalistička buržoazija za komunizam, Jevrejin za nacizam).
+- **Politika:** jednopartijski sistem u kojem sićušna manjina kontroliše celokupno stanovništvo kroz ideologiju i teror. **Svi totalitarni režimi došli su na vlast nasilnom revolucijom**, revolucijom koja opravdava nasilje pravljenjem čistog lista od prethodnog sistema.
+- **Ekonomija:** totalitarni režimi mogu tolerisati privatno preduzetništvo ako je primorano da služi interesima države, ili mogu zahtevati da država kontroliše sva sredstva za proizvodnju. Slobodno tržište vide kao pretnju opštem poretku, jer idealna društva vlasti moraju planirati.
+
+### Stubovi totalitarne kontrole
+
+![Definicija i fundamentalne karakteristike totalitarizma](./assets/en/082.webp)
+
+Totalitarizam je prisutan kada su **sve sledeće karakteristike istovremeno sastavljene**: ukinute slobode, neograničena vlast zasnovana na jednoj partiji i kultu vođe, nasilna revolucija i usmeravana ekonomija. To je već bio slučaj s Francuskom revolucijom, zbog čega su neki istoričari u njoj prepoznali totalitarnu dimenziju. Važno je napomenuti da moderne demokratije mogu pokazivati neke od ovih karakteristika, ali nikada sve istovremeno (barem, srećom, ne do sada).
+
+### Dva modela, jedan metod: Hitler naspram Staljina
+
+![Hitler naspram Staljina: dva modela koja dele identične metode](./assets/en/083.webp)
+
+Razlike između nacizma i komunizma više su prividne nego stvarne. Uprkos njihovom istorijskom antagonizmu, Hitler i Staljin koristili su identične metode: kult ličnosti, totalnu društvenu kontrolu kroz nadzor, cenzuru, indoktrinaciju i političku policiju, i **sistematsko eliminisanje svih oblika opozicije ili neslaganja**. Kao što je Raymond Aron, pronicljivi posmatrač totalitarnih režima dvadesetog veka, napisao: „Nacistički ili komunistički totalitarizmi funkcionišu na isti način, po dva principa: veri militanata i strahu protivnika.” O „veri” govori u kvazireligijskom smislu; totalitarni režimi nazvani su sekularnim religijama, religijama bez Boga. Neka vrsta fanatizma karakteriše ih iznad njihovih različitih motivacija.
+
+- **Hitler (Nacizam):** iako nacistički režim nije formalno ukinuo privatnu svojinu, postojao je privid tržišne ekonomije dok je privatni sektor bio potpuno podređen ciljevima države (ratu i ponovnom naoružavanju). Nametnuta je ekonomska autarkija, što znači da nije bilo slobodne trgovine. Postojalo je centralizovano ekonomsko planiranje u službi ciljeva režima.
+
+- **Staljin (Komunizam):** Staljinizam oličava potpunu državnu kontrolu ekonomije. Sva privatna svojina nad sredstvima za proizvodnju bila je ukinuta, ekonomija je bila potpuno planirana (petogodišnji planovi), kolektivizacija je bila prisilna, a država je kontrolisala apsolutno sve aspekte proizvodnje i distribucije.
+
+Kao što piše Thierry Wolton, koji je opsežno proučavao poređenje ova dva režima: „Blizanaštvo sovjetskog komunizma i nacizma je istorijska činjenica. Dva totalitarizma liče jedan na drugi po načinu funkcionisanja i političkoj praksi: **mržnja prema demokratiji, humanističkim vrednostima, individualnoj slobodi** zajedničke su crte oba.”
+
+### Totalitarna misao u citatima
+
+![Totalitarna misao: odbacivanje individualne slobode u korist centralizovane vlasti](./assets/en/084.webp)
+
+> Narodu nije potrebna sloboda, jer je sloboda jedan od oblika buržoaske diktature.
+> Vladimir Lenin, *What Is to Be Done?*, 1902
+
+> Nemački narod neće voditi rezonovanje, već vođa koji utelovljuje volju naroda.
+> Adolf Hitler, *Mein Kampf*, 1925
+
+> Nacizam i komunizam dele zajedničko protivljenje liberalnoj demokratiji i onome što nazivaju „kapitalističkom buržoazijom”. [...] Obe ideologije tvrde da su socijalističke i koriste tu sliku jedna protiv druge.
+> Francois Furet, *The Passing of an Illusion*, 1995
+
+Ovi citati otkrivaju zajedničku logiku totalitarnih režima: **odbacivanje individualne slobode u korist apsolutne centralizovane vlasti**, bilo komunističke ili fašističke. Zaista, samo ime nacističke partije (nacionalsocijalizam) signalizira ovu zajedničku ideološku matricu, iako su se dva pokreta međusobno mrzela.
 
 
-![video](https://www.youtube.com/watch?v=0ueywR4vzHs)
-
-
-
-Važno je napomenuti da se termin totalitarizam odnosi na politički sistem, a ne na političku ideologiju u smislu konzervativizma ili centrizma. Totalitarni režim karakteriše opsežna, prinudna kontrola države nad svim aspektima javnog i privatnog života.
-
-
-
-![regimes totalitaires Graphique](./assets/fr/019.webp)
-
-
-
-
-
-- Slobode:** totalitarni režimi podržavaju snažnu kontrolu vlade nad ličnim i ekonomskim životom. Totalitarizam postoji kada država kontroliše sve u društvu i ima neograničenu moć.
-- Filozofija:** Totalitaristi veruju da je centralizovana vlast jedini način da se garantuje red i pravednost, dok je sloboda faktor nereda. Oni žele da država kontroliše sve aspekte ekonomskog i ličnog života, verujući da će takva kontrola verovatnije proizvesti idealno društvo. Oni su revolucionarni režimi koji opravdavaju nasilje na osnovu toga da je prethodni sistem bio potpuno pogrešan i da se novi model mora uspostaviti brisanjem postojećeg. Ne mogu tolerisati prekomernu raznolikost mišljenja ili bilo kakav izraz koji izaziva njihov autoritet.
-- Politika:** totalitarizam se odnosi na sistem jedne partije. Prema Hani Arent, totalitarizam nije politička porodica, niti despotski politički režim. To je sama negacija politike: sistem u kojem su ljudi onemogućeni da deluju samostalno. Prema njenim rečima, cilj totalitarističkog obrazovanja nikada nije bio da usadi uverenja, već da uništi sposobnost formiranja bilo kojih drugih (Izvori totalitarizma, 1951). Zaista, totalitarna društva se odlikuju upotrebom ideologije, obećanjem *raja*, kao što je kraj istorije ili rasna čistoća. Shodno tome, eliminišu sve oblike opozicije kroz političku policiju i upotrebu terora.
-- Ekonomija:** totalitarni režimi mogu tolerisati privatno preduzetništvo ako je primorano da služi interesima države, ili zahtevati da država kontroliše sva sredstva proizvodnje. Oni vide slobodno tržište kao pretnju opštem redu, jer idealna društva moraju biti planirana od strane vlasti.
-
-
-
-**Postoje dve opšte kategorije totalitarnih režima**: levičarski totalitarni (komunizam, nacionalni socijalizam) i desničarski totalitarni (vojne diktature, fašizam). Ali ove kategorije gube svoje značenje ako shvatimo da je matrica ista. To je slučaj sa Hitlerom i Staljinom. Uprkos njihovom istorijskom antagonizmu, nalazimo isti kult vođe, regrutovanje mladih, cenzuru, nadzor, represiju svake opozicije, politički progon i gušenje svake individualne slobode.
-
-
-
-
-
-- Hitler (Nacizam/Fašizam): iako nacizam nije formalno ukinuo privatnu svojinu, nacistička država je vršila ogromnu kontrolu nad ekonomijom. Proizvodnja, alokacija resursa i (čak i privatna) preduzeća su svi bili podređeni ciljevima države (ponovno naoružavanje, autarkija). Postojalo je centralizovano ekonomsko planiranje kako bi se služilo ciljevima režima.
-
-
-
-
-
-- Staljin (Komunizam/Staljinizam): Staljinizam predstavlja totalnu državnu kontrolu nad ekonomijom. Svo privatno vlasništvo nad sredstvima za proizvodnju je ukinuto, ekonomija je bila potpuno planirana (petogodišnji planovi), a država je apsolutno kontrolisala sve aspekte proizvodnje i distribucije.
-
-
-
-# Društveni problemi
-
+# Društvena i ekonomska pitanja
 
 <partId>ab160ddd-5c3a-436b-a77a-76d7089f1611</partId>
 
 
-
-## Društveni problemi
-
+## Društvena pitanja
 
 <chapterId>bb2156da-7e10-4f0b-89c3-f6d53f5a79ef</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=tq09pDLHioQ)
+
+![Komparativna analiza društvenih rasprava kroz političke porodice](./assets/en/085.webp)
+
+Nakon analize glavnih političkih porodica, sada se okrećemo nizu rasprava o društvenim pitanjima, a zatim ekonomskim pitanjima. Cilj je ovde ponuditi komparativnu analizu socijalističkih, konzervativnih, libertarijanskih i centrističkih pozicija o pet fundamentalnih pitanja društva: braku, imigraciji, vatrenom oružju, drogama i porezu na zaslađena pića.
+
+Društvena pitanja nisu pitanja novca. Ona se tiču izbora koje pravimo o tome šta čitamo, jedemo, pijemo, pušimo, nosimo, ili s kim biramo da se družimo, spavamo ili venčamo. Za svako pitanje u nastavku ispitaćemo kratak odgovor tipičan za svaku političku porodicu. Ti brzi odgovori nude samo uvid u svaku tačku gledišta, i pošto ne misle svi isto, pozicije koje im se pripisuju prirodno su otvorene za raspravu. Ipak, pokušao sam da budem pravičan i da tačno predstavim ono što bi većina pristalica svake porodice rekla.
 
 
+### Brak
 
-Evo nekoliko često postavljanih pitanja o političkim pitanjima. Svako pitanje prati kratak odgovor tipičan za socijalistu, konzervativca, libertarijanca i centristu.
+![Rasprava o braku kroz političke porodice](./assets/en/086.webp)
 
-
-
-Naravno, ovi brzi odgovori nude samo uvid u svaku tačku gledišta. Pošto ne misle svi na isti način, odgovori koji im se pripisuju su prirodno otvoreni za debatu. Međutim, pokušao sam da budem fer i tačno predstavim ono što bi većina mogla reći.
-
+**Pitanje:** Da li vlada treba da legalizuje gej brak na isti način kao tradicionalni brak?
 
 
-Društveni problemi nisu vezani za novac, već za izbore koje donosimo o tome šta čitamo, jedemo, pijemo, pušimo, nosimo ili s kim odlučujemo da se družimo, spavamo ili venčavamo.
+### Socijalistička pozicija: da
 
+Za socijaliste, svi građani moraju biti jednako tretirani pred zakonom, bez diskriminacije na osnovu seksualne orijentacije. Drugim rečima, inkluzivna koncepcija ukorenjena u principu nediskriminacije. Socijalisti osuđuju **ugnjetavanje homoseksualne manjine od strane heteroseksualne većine** koja joj odbija pristup braku. Ovde nalazimo pogled na svet koji se provlači kroz mnoge socijalističke pozicije: društvo je strukturirano sukobom između dominantnih i potčinjenih, ugnjetača i ugnjetenih. Ovaj okvir se reprodukuje u brojnim domenima. Može se primeniti na rodne odnose između muškaraca i žena, ili između homoseksualaca i heteroseksualaca. Može se primeniti na odnose između rasnih grupa, pa čak i na odnos između čovečanstva i prirode. Legalizacija gej braka je, dakle, u njihovim očima čin socijalne pravde.
 
+### Konzervativna pozicija: ne
 
-### Venčanje
+Za konzervativce, tradicionalni brak je fundamentalna institucija koja traje 2.500 godina, definisana kao zajednica muškarca i žene. Ta definicija nije proizvoljna. Ona počiva na biološkoj stvarnosti: **prirodnoj sposobnosti za rađanje, koja je primarno pozvanje porodice**. Ako želimo da zaštitimo društveni poredak i sačuvamo samu budućnost čovečanstva (pošto je rađanje ono što obezbeđuje opstanak vrste), onda brak mora biti rezervisan za muškarca i ženu na osnovu same svoje definicije. Drugim rečima, ono što konzervativci žele da zaštite jeste sama tradicionalna definicija braka.
 
+### Libertarijanska pozicija: mešovita
 
-**Pitanje:** Da li bi vlada trebalo da legalizuje gej brak na isti način kao tradicionalni brak?
+Za libertarijance, pitanje je fundamentalno pogrešno postavljeno jer je postavljeno u etatističkim terminima: kome država odobrava da se venča? Država, tvrde oni, nema šta da se meša u privatne živote pojedinaca. Dosledan libertarijanski pristup je zato da se brani odvajanje braka od države. **Nametanjem jedne definicije braka, država stvara sukobe.** Privatizacija braka poštuje i one koji podržavaju tradicionalni brak i one koji brane istopolni brak. Rešenje: ukinuti obavezni građanski brak i prepustiti tu ulogu privatnim udruženjima, crkvama, sinagogama, džamijama ili sekularnim organizacijama. Neka pojedinci, udruženja i religije sami definišu brak.
 
+### Centristička pozicija: da
 
-
-
-
-- Socijalisti:** Da, oni vide heteroseksualnu većinu koja ugnjetava homoseksualnu manjinu uskraćivanjem braka, i stoga prirodno podržavaju reformu. Socijalisti žele da nametnu jedinstvenu koncepciju građanskog braka, uključujući homoseksualnost, na štetu onih koji smatraju da je brak samo između muškarca i žene. Legalizacija gej braka je stoga čin socijalne pravde koji promoviše inkluzivnije i tolerantnije društvo. Ona osigurava da istopolni parovi uživaju ista pravna prava (nasleđivanje, oporezivanje, filijacija, itd.) i zaštite kao heteroseksualni parovi, čime se premošćuje de facto nejednakost. U srcu argumenta leži uverenje da svi građani treba da budu jednako tretirani pred zakonom, bez obzira na seksualnu orijentaciju. Uskraćivanje braka istopolnim parovima se smatra neprihvatljivom diskriminacijom.
-
-
-
-
-
-- Konzervativci:** Ne. Oni vide tradicionalni brak kao fundamentalnu instituciju zapadne civilizacije, koja datira unazad 2.500 godina i istorijski je definisana kao zajednica između muškarca i žene. Ova definicija nije proizvoljna, već počiva na biološkim (sposobnost prirodnog razmnožavanja) i kulturnim/religijskim temeljima. Radikalno redefinisanje braka se smatra pretnjom civilizovanom društvu. Legalizacija gej braka bi značila denaturisanje ili redefinisanje ove svete i fundamentalne institucije, lišavajući je njenog originalnog značenja i primarne vokacije, koja je prokreacija i osnivanje porodice u njenom prirodnom obliku. Brze promene društvenih normi često se posmatraju sa sumnjom, jer mogu dovesti do raspuštanja referentnih tačaka i gubitka kulturnog ili nacionalnog identiteta. Brak se vidi kao stub ovog poretka.
-
-
-
-
-
-- Libertarijanci:** Da i ne. Dosledan libertarijanski pristup je odbrana privatizacije braka, tj. braka potpuno oslobođenog od državne intervencije. Brak je nedržavna institucija i država nema pravo da prisiljava druge da priznaju tradicionalni ili gej brak. Rešenje? Osloboditi se obaveznog građanskog braka i prepustiti ovu ulogu privatnim udruženjima: crkvama, sinagogama, džamijama ili privatnim sekularnim organizacijama. Ovo političko rešenje, koje poštuje prava vlasništva i individualnu slobodu, moglo bi se nazvati razdvajanjem braka i države.
-
-
-
-
-
-- Centristi:** Da. Centristi bi prepoznali da je društvo evoluiralo i da značajan deo populacije želi da istopolni parovi budu priznati. Oni se pridržavaju principa nediskriminacije i veruju da pojedinci imaju pravo da vode živote koje izaberu, uključujući i pravne zajednice. Bili bi osetljivi na argument da istopolni parovi treba da uživaju ista pravna prava i zaštite (nasleđivanje, socijalna zaštita, oporezivanje) kao i heteroseksualni parovi. Za centriste, država mora odražavati raznolikost svojih građana i modernizaciju zakona, dok održava određenu društvenu koheziju.
-
+Centristi priznaju evoluciju društva i smatraju da se princip nediskriminacije mora primeniti. Zakon mora odražavati raznolikost građana i prilagoditi se svom dobu. Istopolni parovi treba da uživaju ista zakonska prava i zaštite (nasleđivanje, socijalnu zaštitu, oporezivanje) kao heteroseksualni parovi. Ovde nalazimo **centristički ideal konsenzusa, pragmatičnog prilagođavanja i modernizacije zakona**.
 
 
 ### Imigracija
 
+![Rasprava o imigraciji kroz političke porodice](./assets/en/087.webp)
 
-**Pitanje:** Da li bi vlada trebalo da otvori granice za sve i bezuslovno pusti one koji žele da imigriraju?
-
-
-
+**Pitanje:** Da li vlada treba bezuslovno da otvori granice?
 
 
-- Socijalisti:** Da. Oni vide ilegalne imigrante kao potlačenu grupu, a domaće belce, neprijateljski nastrojene prema imigrantima, kao njihove tlačitelje. Štaviše, ograničenja zasnovana na nacionalnosti ili religiji su diskriminatorna i suprotna ljudskim pravima. Država ima dužnost da prihvati ljude u nevolji i da promoviše raznolikost i integraciju.
+### Socijalistička pozicija: da
 
+Za socijaliste, diskriminatorna ograničenja suprotna su ljudskim pravima. Država ima dužnost da primi ljude u potrebi i da promoviše raznolikost. Ovde ponovo nalazimo ideje socijalne pravde, jednakosti i nediskriminacije koje karakterišu socijalističku porodicu. **Ograničenja zasnovana na nacionalnosti ili religiji vide se kao oblici ugnjetavanja**, u skladu s gore opisanim okvirom dominantnih/potčinjenih.
 
+### Konzervativna pozicija: ne
 
+Država ima suvereno pravo da kontroliše svoje granice radi zaštite nacionalne bezbednosti i kulturnog identiteta. Za konzervativce, **poredak, identitet i nacionalni suverenitet moraju imati prednost** nad neograničenim prihvatom stranaca ili izbeglica. Granice i jasno definisano stanovništvo deo su civilizovanih vrednosti.
 
+### Libertarijanska pozicija: mešovita
 
-- Konzervativci:** Ne. Država ima suvereno pravo da kontroliše svoje granice i da bira ko ulazi na njenu teritoriju. Restrikcije mogu biti neophodne za zaštitu nacionalne bezbednosti, kulturnog identiteta ili sposobnosti društva da se integriše. Oni strahuju da će dozvoljavanje imigracije uništiti identitet nacija i dodatno potkopati rad čak i najskromnijih građana. Granice i dobro definisana populacija su deo civilizovanih vrednosti.
+Da tržišnoj imigraciji i ne državnoj imigraciji. Zašto? Zato što je u izrazito etatističkom svetu imigracija subvencionisana i stvara potraživanja nad radom drugih. Drugim rečima, pada na poreske obveznike, koji moraju da plate zdravstvenu zaštitu, stanovanje i druge troškove. Iz perspektive ose sloboda/prinuda, otvorene granice daju pojedincima mogućnost da glasaju nogama, da slobodno biraju svoju vladu. Ali **imigracija ne može stvarati prava nad radom drugih**. Čovek ima pravo da se nastani u drugoj zemlji pod uslovom da ne postane teret njenim stanovnicima. Rešenje je, kao i uvek za libertarijance, tržište: neka građani ugovorno odlučuju o svojim odnosima sa strancima. Svaka imigracija koja je nametnuta i prisilna nespojiva je sa slobodom.
 
+### Centristička pozicija: da
 
-
-
-
-- Libertarijanci:** Da i ne. Da za tržišnu imigraciju i ne za državnu imigraciju. Jer u svetu sa jakim državnim sponzorstvom, imigracija je uvek subvencionisana i stvara nesrećnu tvrdnju na rad drugih, to jest, veštačko pravo, oblik ekonomske preraspodele. Međutim, sa stanovišta ose sloboda/prisiljavanje, otvorena granica daje pojedincu izbor vlade i mogućnost da glasa svojim nogama. Zato bi najbolja imigraciona politika bila smanjenje državnog učešća i omogućavanje građanima da sami odlučuju.
-
-
-
-
-
-- Centristi:** Vlada mora upravljati imigracijom na uravnotežen način. Iako su ograničenja zasnovana na religiji generalno neprihvatljiva, ona zasnovana na nacionalnosti ili veštinama mogu biti neophodna kako bi se zadovoljile ekonomske potrebe i osigurala uspešna integracija, uz poštovanje međunarodnih konvencija i ljudskih prava.
-
+Imigracija omogućava poslodavcima da zapošljavaju radnike u sektorima koji se suočavaju s manjkom, a otvorena imigracija omogućava primenu međunarodnih konvencija o izbeglicama. Vlada mora upravljati imigracijom uravnoteženo, **pomirujući ekonomske potrebe, uspešnu integraciju i poštovanje međunarodnih konvencija**.
 
 
 ### Vatreno oružje
 
+![Rasprava o vatrenom oružju kroz političke porodice](./assets/en/088.webp)
+
+**Pitanje:** Da li građani koji poštuju zakon treba da mogu da poseduju vatreno oružje bez stroge regulacije?
 
 
-**Pitanje:** Da li bi građani koji poštuju zakon trebalo da mogu da poseduju vatreno oružje bez strogih propisa?
+### Socijalistička pozicija: ne
 
+Javna bezbednost mora imati prednost nad slobodom posedovanja oružja. Stroga regulacija je neophodna za smanjenje nasilja i garantovanje kolektivne bezbednosti, pošto država ima ustavnu dužnost da zaštiti sve svoje građane. Socijalisti takođe naglašavaju nejednakosti koje bi mogle proizaći iz slobode vatrenog oružja i ranjivost koju bi ona stvorila za najkrhkije članove društva. Na kraju, **samo državi treba poveriti upotrebu sile**, pod uslovima koji poštuju javni interes.
 
+### Konzervativna pozicija: mešovita
 
+Pravo na posedovanje oružja za samoodbranu važna je vrednost. Međutim, propisi koji garantuju bezbednost i javni red takođe su neophodni, i **ti propisi moraju poticati od javne vlasti** zadužene za očuvanje opšteg dobra. Za razliku od libertarijanskog pogleda, konzervativac insistira da pravila koja uređuju oružje moraju dolaziti odozgo, od legitimne vlasti odgovorne za javni red.
 
+### Libertarijanska pozicija: da
 
-- Socijalisti:** Ne. Javna bezbednost mora imati prednost nad slobodom posedovanja oružja. Stroga regulacija je neophodna kako bi se smanjilo nasilje i garantovala sigurnost svih, jer država ima dužnost da štiti svoje građane.
+Pravo na naoružanje je suštinska komponenta prava na otpor agresiji. Država ne treba da ima monopol nad silom, a pojedinci treba da mogu slobodno da se štite u slučajevima legitimne samoodbrane. Libertarijanizam, treba napomenuti, nije odsustvo pravila kako se često veruje. Libertarijanci se slažu s konzervativcima da je neki oblik regulacije potreban za nošenje oružja, baš kao što je potrebna vozačka dozvola ili lovačka dozvola. Ali presudna razlika leži u tome ko uspostavlja ta pravila. Za libertarijance, **regulacija treba da nastane od onih kojih se neposredno tiče**: stručnjaka za bezbednost, udruženja građana i tržišne konkurencije, a ne iz vladinog naloga odozgo nadole.
 
+### Centristička pozicija: ne
 
-
-
-
-- Konzervativci:** Delimično da, pravo na posedovanje oružja za samoodbranu je važna vrednost. Međutim, propisi za garantovanje bezbednosti i javnog reda su takođe neophodni, ali moraju poštovati ovo fundamentalno pravo.
-
-
-
-
-
-- Libertarians:** Da, pravo na naoružavanje je suštinska komponenta prava na samoodbranu. Država ne bi trebalo da ima monopol na silu, i pojedinci bi trebalo da mogu da se zaštite bez prepreka. Ali regulisanje nošenja oružja treba prepustiti tržištu, profesionalcima i udruženjima građana.
-
-
-
-
-
-- Centristi:** Ne, regulacija je neophodna. Iako pravo na posedovanje vatrenog oružja može postojati za određene svrhe, javna bezbednost i smanjenje nasilja zahtevaju stroge kontrole (dozvole, provere prošlosti, tip oružja) kako bi se postigla ravnoteža između slobode i reda.
-
+Regulacija je neophodna. Iako pravo na posedovanje vatrenog oružja može postojati za određene namene, **javna bezbednost i smanjenje nasilja zahtevaju stroge kontrole od države**, koja drži monopol nad silom: dozvole, provere prošlosti i ograničenja tipova oružja koji su dopušteni.
 
 
 ### Droge
 
+![Rasprava o legalizaciji droga kroz političke porodice](./assets/en/089.webp)
+
+**Pitanje:** Da li odraslima treba dozvoliti da slobodno koriste droge u rekreativne svrhe?
 
 
-**Pitanje:** Da li bi odraslima trebalo dozvoliti slobodno korišćenje droga u rekreativne svrhe?
+### Socijalistička pozicija: da
+
+Za socijaliste, kažnjavanje stvara više problema nego što rešava. Legalizacija pod državnom kontrolom omogućila bi bolje upravljanje kvalitetom, generisala javne prihode i dala prednost zdravstvenoj prevenciji nad represijom. Vredi primetiti oštru dihotomiju koja postoji unutar socijalističkog mišljenja između ekonomskih i društvenih pitanja. **Po ovom društvenom pitanju, socijalisti se pokazuju mnogo liberalnijim od konzervativaca**, favorizujući individualnu slobodu potrošnje uz zadržavanje državnog nadzora nad procesom.
+
+### Konzervativna pozicija: ne
+
+Čak su i takozvane lake droge štetne po zdravlje i društveni poredak. Zaista, upotreba droga stvara probleme zavisnosti, ali i porodične poremećaje i teškoće na radnom mestu. Država mora čvrsto održavati zakon kako bi zaštitila građane i očuvala integritet nacije i porodice. Konzervativci takođe ističu da **zabrana nosi ogroman trošak za poreskog obveznika**, pošto uključuje borbu protiv krijumčara, bandi i kartela, ali smatraju taj trošak opravdanim imperativom održavanja reda.
+
+### Libertarijanska pozicija: mešovita
+
+Da, ali samo pod uslovom da se uloga države u društvu smanji. Prvo, država nema šta da se meša u lične odluke pojedinaca. Drugo, zabrana rađa crna tržišta i kriminalitet. Ali rešenje za probleme zavisnosti i štete koje ona stvara i pojedincu i društvu leži u privatnoj inicijativi: dobrovoljnoj podršci koju pružaju pojedinci, porodice i udruženja, a ne u državnoj brizi. Drugim rečima, **liberalizacija droga je poželjna, ali ne ako je preuzme država**. Građaninu se mora vratiti odgovornost za donošenje izbora i snošenje njihovih posledica. Ako neko odluči da koristi droge i postane zavisan ili bolestan, ta osoba mora preuzeti odgovornost umesto da traži od države da obezbedi brigu. Ništa ne sprečava dobrotvorna udruženja da ponude pomoć i podršku onima kojima je potrebna.
+
+### Centristička pozicija: ni da ni ne
+
+Centristi žele sa sigurnošću da znaju da li bi liberalizacija rasteretila pravosudni sistem ili poboljšala javno zdravlje. U praksi se oslanjaju na studije i procene stručnjaka kako bi informisali svoje odluke. **Zahtevaju konkretne dokaze delotvornosti** pre nego što se obavežu na bilo kakvu promenu politike, pozivajući na rigorozne studije i o zdravstvenim i o ekonomskim uticajima.
 
 
+### Porez na zaslađena pića
+
+![Rasprava o porezu na zaslađena pića kroz političke porodice](./assets/en/090.webp)
+
+**Pitanje:** Da li vlada treba da oporezuje zaslađena pića kako bi smanjila gojaznost?
 
 
+### Socijalistička pozicija: da
 
-- Socijalisti:** Da, penalizacija je neefikasna. Legalizacija omogućava kontrolu i generisanje prihoda.
-- Konzervativci:** Ne. Konzumacija je štetna za zdravlje i društveni poredak.
-- Libertarijanci:** Da, pod uslovom da se uloga države u društvu smanji. Država nema šta da se meša u lične odluke sve dok one direktno ne štete drugima.
-- Centristi:** Kompleksna debata. Dekriminalizacija moguća, ali stroga regulacija imperativ.
+Problem gojaznosti je, u socijalističkom pogledu, problem proizvođača koji profitiraju od zavisnosti od šećera na štetu javnog zdravlja. Postoji čitava prehrambena industrija koja iskorišćava tu zavisnost i ranjivost prisutnu u stanovništvu, naročito među onima koji su najmanje zaštićeni i najmanje obrazovani. **Porez na gazirana pića ima za cilj da spreči industrijalce da profitiraju od gojaznosti** i problema zavisnosti.
 
+### Konzervativna pozicija: ne
 
+Konzervativci su naklonjeniji ličnoj odgovornosti i obrazovanju. Zadatak obrazovanja dece o ovim pitanjima treba najpre poveriti roditeljima: prevencija, a ne oporezivanje. Zaista, **konzervativci oporezivanje često smatraju ne samo neefikasnim već i pozitivno štetnim**, pošto će kompanije jednostavno nastojati da održe svoje marže podizanjem cena svojih proizvoda, prebacujući teret na potrošače.
 
+### Libertarijanska pozicija: ne
 
-### Zdravlje
+Fundamentalni princip libertarijanizma jeste da je nepravedno štititi ljude od njih samih. Ovde je argument manje ekonomska kalkulacija, a u osnovi više moralni argument. Građani su odrasli, nisu deca; imaju pravo da donose sopstvene odluke, čak i ako im te odluke mogu naškoditi. Problem gojaznosti zato mora rešavati privatna inicijativa. To ne znači poricanje da je gojaznost ozbiljan društveni problem. Naprotiv, znači **vraćanje pojedincima odgovornosti da donose izbore i snose njihove posledice**. Ako je potrebna pomoć, tržište, građansko društvo, pojedinci i porodice najbolje su pozicionirani da je pruže, a ne država.
 
+### Centristička pozicija: ni da ni ne
 
-
-**Pitanje:** Da li bi vlada trebalo da oporezuje zaslađene napitke kako bi smanjila gojaznost?
-
-
-
-
-
-- Socijalisti:** Da. Problem gojaznosti je problem proizvođača koji reklamiraju gazirane napitke. Porez na gazirane napitke je socijalistički predlog za borbu protiv proizvođača ili prodavaca zaslađenih pića optuženih za ostvarivanje profita na račun javnog zdravlja.
-
-
-
-
-
-- Konzervativci:** U principu, da. Misija vlade je da osigura zdravlje svojih građana. Ali konzervativci generalno preferiraju rešenja zasnovana na ličnoj odgovornosti i obrazovanju. Uvođenje poreza na zaslađena pića bi se smatralo prekomernim mešanjem vlade u lične odluke građana.
-
-
-
-
-
-- Libertarijanci:** Ne. Osnovni princip libertarijanizma je da je nepravedno štititi ljude od njih samih. Građani su odrasli, a ne deca. Pokušaji da se nametnu bolje zdravstvene navike prinudnim sredstvima smatraju se skupim, neefikasnim i na kraju kontraproduktivnim. Problem gojaznosti mora se rešavati privatnom inicijativom.
-
-
-
-
-
-- Centristi:** Da, bili bi otvoreni za ideju poreza ako bi se dokazalo da je efikasan i ako bi se mogli ublažiti njegovi socijalni i ekonomski nedostaci. Videli bi ga kao deo šireg, integrisanog rešenja, a ne kao izolovanu meru.
-
-
-
-# Ekonomska pitanja
-
-
-<partId>465e0e6b-17e9-4f07-9a41-b3e88af0e83f</partId>
-
+Da, ako je delotvornost dokazana. Drugim rečima, centristi zahtevaju konkretne dokaze da bi porez funkcionisao pre nego što ga uvedu. Žele rigorozne studije o zdravstvenim i ekonomskim uticajima. **Njihova odluka počiva na stručnoj proceni, a ne na principu**, što je karakteristično za centristički pristup u svim ovim raspravama.
 
 
 ## Ekonomska pitanja
-
 
 <chapterId>f1d6c5de-fa05-4fb7-9d2e-73cc9791ea23</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=8MM2cFzPtRg)
 
+![Komparativna analiza ekonomskih rasprava kroz političke porodice](./assets/en/091.webp)
 
-
-Ekonomska pitanja se tiču novca, kao što su zapošljavanje, kupovina i prodaja, investicije i komercijalne transakcije. Odabrao sam pet pitanja kako bih predstavio odgovore svake političke porodice. Očigledno, ovi brzi odgovori nude samo uvid u svaku tačku gledišta.
-
+Posle društvenih pitanja, sada se okrećemo ekonomskim pitanjima. Ona se tiču novca: zaposlenja, kupovine i prodaje, investicija, trgovinskih transakcija, ali i zakona. Ispitaćemo odgovore svake velike političke porodice na pet fundamentalnih pitanja: poreze, minimalnu zaradu, zdravstvenu zaštitu, životnu sredinu i subvencije. Kao i ranije, ovi brzi odgovori nude samo uvid u svaku tačku gledišta.
 
 
 ### Porezi
 
+![Rasprava o oporezivanju kroz političke porodice](./assets/en/092.webp)
+
+**Pitanje:** Da li poreze na dohodak treba smanjiti ili zameniti jednostavnijim, nižim oblicima oporezivanja?
 
 
-**Pitanje:** Da li bi porez na dohodak trebalo smanjiti ili zameniti jednostavnijim, nižim oblicima oporezivanja?
+### Socijalistička pozicija: ne
 
+Progresivni porezi na dohodak fundamentalni su alat za preraspodelu bogatstva i finansiranje javnih usluga (zdravstva, obrazovanja, socijalne zaštite). Stoga su ključni za socijalnu pravdu. Drugim rečima, **progresivnost je mehanizam kroz koji država ispravlja nejednakost** i finansira kolektivnu infrastrukturu koju socijalisti smatraju neophodnom.
 
+### Konzervativna pozicija: da
 
+Niži porezi podstiču investicije, otvaranje radnih mesta i ekonomski rast. Favorizuju individualnu inicijativu i smanjuju rasipanje javnog sektora od strane vlade. U konzervativnom pogledu, **porezi moraju biti pravedni i niski** kako bi nagrađivali trud i preduzetništvo, a ne kažnjavali uspeh.
 
+### Libertarijanska pozicija: da
 
-- Socijalisti:** Ne. Progresivni porezi na dohodak su osnovni alat za preraspodelu bogatstva i finansiranje javnih usluga (zdravstvo, obrazovanje, socijalna zaštita). Oni su ključni za socijalnu pravdu.
-- Konzervativci:** Da. Niži porezi podstiču investicije, otvaranje radnih mesta i ekonomski rast. Oni podstiču individualnu inicijativu i smanjuju rasipanje vlade. Porezi moraju biti pravedni i niski.
+Oporezivanje je oblik državne krađe i prepreka privatnoj svojini. Treba ga drastično smanjiti ili ukinuti u korist potpuno privatnih usluga. Libertarijanci teže minimalnoj državi, ili čak nultoj državi. Za njih, vlada treba da bude ograničena na strogo suverene funkcije (odbrana, pravda), što bi opravdalo mnogo manje poreza nego što trenutno postoji. Drugim rečima, **libertarijanski prigovor oporezivanju je moralan pre nego ekonomski**: ono je kršenje prava svojine.
 
+### Centristička pozicija: mešovita
 
-
-
-
-- Libertarijanci:** Da. Porezi su oblik državne krađe i prepreka privatnom vlasništvu. Trebalo bi ih drastično smanjiti ili ukinuti u korist dobrovoljnog oporezivanja ili potpuno privatnih usluga.
-
-
-
-
-
-- Centristi:** Poreski sistem mora biti uravnotežen. Određeni stepen progresivnosti je neophodan za solidarnost, ali previše visoki porezi mogu obeshrabriti investicije. Cilj je sistem koji finansira osnovne usluge bez gušenja ekonomije.
-
+Određeni stepen progresivnosti neophodan je za solidarnost, ali previsoki porezi mogu obeshrabriti investicije. Centristi se ne oslanjaju na fiksni princip, već na procenu posledica. Za to su im potrebni stručnjaci. Zato se centrizam često povezuje s oblikom tehnokratije: **pravi nivo oporezivanja mora biti određen empirijskom analizom**, a ne ideološkom posvećenošću.
 
 
 ### Minimalna zarada
 
+![Rasprava o minimalnoj zaradi kroz političke porodice](./assets/en/093.webp)
+
+**Pitanje:** Da li zakone o minimalnoj zaradi treba ukinuti kako bi se omogućilo slobodno pregovaranje između poslodavaca i radnika?
 
 
-**Pitanje:** Da li bi zakone o minimalnoj zaradi trebalo ukinuti kako bi se omogućilo slobodno pregovaranje između poslodavaca i radnika?
+### Socijalistička pozicija: ne
 
+Minimalna zarada je suštinska za garantovanje dostojanstvenog života radnicima, smanjenje nejednakosti i borbu protiv siromaštva. Ona je alat socijalne pravde koji štiti najranjivije. U socijalističkom okviru, **država mora intervenisati da ispravi neravnotežu moći** svojstvenu odnosu poslodavac-zaposleni.
 
+### Konzervativna pozicija: da, ali
 
+U principu, tržište mora igrati svoju ulogu regulatora. Minimalna zarada može biti podnošljiva, ali samo ako ne ometa konkurentnost kompanija, i ne sme biti generalizovana. Najvažniji su individualna odgovornost i otvaranje radnih mesta, a ne zavisnost od subvencija. Za razliku od libertarijanske pozicije, **konzervativci prihvataju određenu umešanost države u određivanje plata**, insistirajući da ostane minimalna i zavisna od konteksta.
 
+### Libertarijanska pozicija: da
 
-- Socijalisti:** Ne. Minimalna plata je neophodna za garantovanje dostojanstvenog života radnika, smanjenje nejednakosti i borbu protiv siromaštva. To je alat socijalne pravde koji štiti najugroženije.
+Minimalna zarada iskrivljuje tržište rada, stvara nezaposlenost i krši slobodu ugovaranja. Tržište treba da određuje plate kroz slobodno pregovaranje između poslodavca i zaposlenog. Zašto minimalna zarada stvara nezaposlenost? To je tehnički problem, ali za libertarijance je najvažnije to što je odgovor pre svega moralan. **Minimalna zarada je nametanje slobodi zapošljavanja i poslovanja.** Kada libertarijanci kažu „tržište”, misle na ugovor, slobodno pregovaran između dve strane bez državnog mešanja.
 
+### Centristička pozicija: mešovita
 
-
-
-
-- Konzervativci:** U principu, ne, tržište mora igrati svoju ulogu kao regulator. Međutim, minimalna plata može biti prihvatljiva ako ne ometa previše konkurentnost kompanija. Ono što je važno je individualna odgovornost i kreiranje radnih mesta, a ne zavisnost od subvencija.
-
-
-
-
-
-- Libertarijanci:** Da. Minimalna plata je veštačka intervencija koja iskrivljuje tržište rada, stvara nezaposlenost i krši slobodu ugovaranja. Tržište bi trebalo da određuje plate kroz pregovore.
-
-
-
-
-
-- Centristi:** Ne, minimalna plata ima važnu društvenu ulogu. Mora postojati, ali njen nivo mora biti pragmatično prilagođen kako bi se izbeglo uništavanje radnih mesta, uzimajući u obzir konkurentnost preduzeća i kupovnu moć radnika.
-
+Za centriste, odluka mora počivati na tehničkoj analizi. Da, ako minimalna zarada ne uništava radna mesta; da, ako podstiče rast; ali ne ako ne. Minimalna zarada ima važnu društvenu ulogu, ali **njen nivo mora biti pragmatično prilagođen**, uzimajući u obzir konkurentnost kompanija i kupovnu moć radnika.
 
 
 ### Zdravstvena zaštita
 
+![Rasprava o zdravstvenoj zaštiti kroz političke porodice](./assets/en/094.webp)
+
+**Pitanje:** Da li zdravstvenu zaštitu treba poveriti privatnim tržištima umesto državnim programima?
 
 
-**Pitanje:** Da li bi zdravstvenu zaštitu trebalo poveriti privatnim tržištima umesto državnim programima?
+### Socijalistička pozicija: ne
+
+Pristup zdravstvenoj zaštiti je fundamentalno pravo, a ne roba. Država mora garantovati univerzalni, javno finansirani zdravstveni sistem kako bi svako imao pristup nezi, bez obzira na prihod. Ovde ponovo nalazimo **socijalističku brigu za jednakost, socijalnu pravdu i važnost države** u organizovanju i planiranju usluga u opštem interesu.
+
+### Konzervativna pozicija: da
+
+Privatna tržišta mogu biti efikasnija i smanjiti poresko opterećenje. Država može igrati minimalnu ulogu za najsiromašnije, ali individualna odgovornost i privatno osiguranje su poželjniji. U konzervativnom pristupu uvek postoji **ideja kombinovanja tržišnih mehanizama sa ograničenim državnim delovanjem**, umesto biranja jednog uz isključenje drugog.
+
+### Libertarijanska pozicija: da
+
+Privatno tržište je efikasnije i inovativnije, ali pre svega (i to je fundamentalni moralni argument), pojedinci imaju pravo da izaberu sopstveni sistem. Reč je o individualnom suverenitetu i potvrdi prava privatne svojine. Drugim rečima, **libertarijanska pozicija je naglašenija jer počiva na moralnom principu**: pravu da se potpuno izađe iz sistema socijalne sigurnosti, a ne samo na zagovaranju većeg privatnog učešća uz državne programe.
+
+### Centristička pozicija: mešovita
+
+Mešovit sistem često je najbolji pristup. Država garantuje univerzalni pristup i solidarnost (osnovno pokriće), dok privatni sektor može doprineti diverzifikaciji i inovacijama. Idealno, bilo bi potrebno pomalo od oba: **mešavina pažljivo kalibrisana od strane stručnjaka** radi optimizacije efikasnosti i kvaliteta.
 
 
+### Životna sredina
+
+![Rasprava o životnoj sredini kroz političke porodice](./assets/en/095.webp)
+
+**Pitanje:** Da li ekološke propise treba ograničiti kako bi se kompanijama omogućila samoregulacija?
 
 
+### Socijalistička pozicija: ne
 
-- Socijalisti:** Ne. Pristup zdravstvenoj zaštiti je osnovno pravo, a ne roba. Država mora garantovati univerzalni, javno finansirani zdravstveni sistem, kako bi svi imali pristup nezi, bez obzira na prihod.
+Država mora nametnuti stroga pravila kako bi zaštitila životnu sredinu i borila se protiv klimatskih promena. Tržište samo ne može rešiti te probleme, koji zahtevaju kolektivnu akciju i planiranje. Zaista, postoji i ideološkija dimenzija: ne samo da tržište ne može rešiti klimatske promene, već je **u socijalističkom pogledu samo tržište odgovorno za zagađenje** i ekološku štetu koju vidimo. Subvencije se smatraju neophodnim za obezbeđivanje ekološke tranzicije, a međunarodna slobodna trgovina mora biti regulisana radi zaštite životne sredine.
 
+### Konzervativna pozicija: mešovita
 
+U principu, da, jer je sloboda preduzetništva važna. Međutim, određeni nivo regulacije je neophodan da bi se životna sredina zaštitila kao nasleđe i resurs. Kao što je često slučaj kod konzervativaca, **princip mora biti nijansiran prema kontekstu**: ekonomska sloboda se ceni, ali ne po cenu uništenja nasleđenog prirodnog patrimonijuma.
 
+### Libertarijanska pozicija: da
 
+Ekološki propisi su prepreka ekonomskoj slobodi i pravima svojine. Libertarijanci smatraju da je najbolji način zaštite životne sredine kroz privatnu svojinu, a ne kroz birokratske organizacije. Zaista, **vlasnici će verovatnije brinuti o svojoj imovini nego bilo koja birokratija**. Ekološki problemi mogu se rešiti tržištem, individualnom odgovornošću i pravima svojine. Zagađivači moraju odgovarati za štetu koju nanose; to je pitanje pravde, a ne regulacije.
 
-- Konzervativci:** Uglavnom, da. Privatna tržišta mogu biti efikasnija i smanjiti poresko opterećenje. Država može igrati minimalnu ulogu za najsiromašnije, ali individualna odgovornost i privatno osiguranje su poželjniji.
+### Centristička pozicija: ne
 
-
-
-
-
-- Libertarians:** Da. Zdravstvena zaštita je usluga kao i svaka druga. Privatno tržište je efikasnije, inovativnije i nudi potrošačima više izbora. Vladina intervencija vodi ka neefikasnosti i birokratiji. Ali iznad svega, pojedinci imaju pravo da sami odluče da li žele da se isključe iz sistema socijalnog osiguranja.
-
-
-
-
-
-- Centristi:** Mešoviti sistem je često najbolji pristup. Država mora garantovati univerzalni pristup i solidarnost (osnovno pokriće), dok ostavlja prostor privatnom sektoru da diversifikuje ponudu i inovira, kako bi optimizovao efikasnost i kvalitet.
-
-
-
-### Okruženje
-
-
-
-**Pitanje:** Da li bi ekološke regulative trebalo ograničiti kako bi se kompanijama omogućilo samoregulaciju?
-
-
-
-
-
-- Socijalisti:** Ne. Država mora nametnuti stroge propise kako bi zaštitila životnu sredinu i borila se protiv klimatskih promena. Samo tržište ne može rešiti ove probleme, koji zahtevaju kolektivnu akciju i planiranje. Subvencije se smatraju neophodnim kako bi se osigurala ekološka tranzicija. Štaviše, međunarodna slobodna trgovina mora biti regulisana kako bi se zaštitila životna sredina.
-
-
-
-
-
-- Konzervativci:** U principu, da, jer je sloboda preduzetništva važna. Međutim, određeni nivo regulacije je neophodan kako bi se zaštitila životna sredina kao nasleđe i resurs, ali bez gušenja ekonomije.
-
-
-
-
-
-- Libertarijanci:** Da. Ekološki propisi su prepreka ekonomskoj slobodi i vlasništvu nad imovinom. Oni veruju da je najbolji način za zaštitu životne sredine kroz privatno vlasništvo, a ne kroz birokratske organizacije. Dodaju da su vlasnici verovatnije skloni da brinu o svojoj imovini, jer imaju lični interes u očuvanju njene vrednosti. Ekološki problemi mogu se rešiti tržištem, individualnom odgovornošću i pravima vlasništva. Zagađivači moraju biti odgovorni za štetu koju nanose životnoj sredini.
-
-
-
-
-
-- Centristi:** Ne, samoregulacija nije dovoljna. Ekološki propisi su neophodni za zaštitu planete i javnog zdravlja. Međutim, moraju biti dizajnirani tako da ne kažnjavaju prekomerno konkurentnost preduzeća i da podstiču zelenu inovaciju.
-
-
+Samoregulacija nije dovoljna. Ekološki propisi su neophodni za zaštitu planete i javnog zdravlja. Međutim, **moraju biti dizajnirani tako da ne kažnjavaju preterano poslovnu konkurentnost** i da podstiču zelene inovacije. Centristička pozicija, kao i uvek, nastoji da uravnoteži suprotstavljene imperative kroz pažljivo dizajniranu politiku.
 
 
 ### Subvencije
 
+![Rasprava o subvencijama kroz političke porodice](./assets/en/096.webp)
+
+**Pitanje:** Da li kompanije treba lišiti subvencija i planova spasavanja?
 
 
-**Pitanje:** Da li bi kompanije trebalo lišiti subvencija i planova spasavanja?
+### Socijalistička pozicija: ne
 
+Subvencije podržavaju inovacije, štite radna mesta i razvijaju strateške sektore. **Država je suštinski ekonomski akter i planer**, a njena uloga je da usmerava ekonomiju ka kolektivno definisanim prioritetima, uključujući ekološku tranziciju. Uklanjanje subvencija značilo bi prepuštanje najranjivijih sektora i radnika hirovima tržišta.
 
+### Konzervativna pozicija: da, ali
 
+U principu, da, radi podsticanja slobodne konkurencije i individualne korporativne odgovornosti. Međutim, izuzeci su mogući za strateške nacionalne industrije. Pomislimo, na primer, na naoružanje, farmaceutsku industriju ili obrazovanje. Za razliku od libertarijanske pozicije, **konzervativci prihvataju ciljanu državnu intervenciju kada su nacionalna bezbednost ili strateški interesi u pitanju**.
 
+### Libertarijanska pozicija: da
 
-- Socijalisti:** Ne. Subvencije mogu biti neophodne za podršku inovacijama, zaštitu radnih mesta, razvoj strateških sektora ili osiguranje ekološke tranzicije. Uloga države je da bude ekonomski igrač i planer.
+Subvencije i spasavanja iskrivljuju tržište, favorizuju neke kompanije u odnosu na druge i stvaraju zavisnost od države. Kompanije koje propadnu treba da bankrotiraju. Ovde ponovo postoje moralna razmatranja poštovanja suvereniteta i privatne svojine, ali i razmatranja efikasnosti. Kada se kompanije sprečavaju da propadnu putem subvencija, **to stvara ono što je poznato kao moralni hazard**: podsticaj ka neodgovornosti i nepromišljenosti. Na kraju plaća poreski obveznik, što je duboko nepravedno.
 
+### Centristička pozicija: ciljano
 
-
-
-
-- Konzervativci:** U principu, da, kako bi se podstakla slobodna konkurencija i individualna korporativna odgovornost. Međutim, izuzeci se mogu napraviti za strateške ili nacionalne industrije koje su od vitalnog značaja za bezbednost zemlje ili zapošljavanje.
-
-
-
-
-
-- Libertarijanci:** Da. Subvencije i paketi pomoći iskrivljuju tržište, favorizuju neke kompanije u odnosu na druge i stvaraju zavisnost od države. Kompanije koje propadnu treba da bankrotiraju.
-
-
-
-
-
-- Centristi:** Uopšteno, da, ali sa izuzecima. Subvencije treba da budu ciljane i privremene, opravdane opštim interesom (inovacije, ekološka tranzicija, strateški sektori). Spasavanja treba razmatrati samo u slučaju velike sistemske pretnje ekonomiji.
-
+Subvencije treba da budu ciljane i privremene, opravdane opštim interesom (inovacije, ekološka tranzicija, strateški sektori). Spasavanja treba razmatrati samo u slučaju velike sistemske pretnje ekonomiji. Na primer, moglo bi biti neophodno spasiti banke, jer bi se inače stvorili uslovi za opštu paniku i recesiju. **Centristički pristup zahteva da se svaki slučaj procenjuje prema sopstvenim zaslugama**, uz subvencije opravdane dokazanom nužnošću, a ne ideološkom preferencijom.
 
 
 
 # Filozofske razlike između političkih porodica
 
-
 <partId>a4c96533-ae9a-45be-8dc2-e0c2534eb89d</partId>
 
 
-
 ## Filozofske razlike između političkih porodica
-
 
 <chapterId>e48cff63-15d9-4789-ab6c-f1df06683fce</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=Qznu_mAOji8)
 
+![Filozofska razilaženja između političkih porodica](./assets/en/097.webp)
 
+Kada uporedimo različite političke porodice, tačke konvergencije svakako se pojavljuju, ali isto tako i duboke nekompatibilnosti. To je naročito vidljivo kada libertarijance postavimo uz druge ideološke profile: konzervativce, socijaliste, centriste. U ovom delu kursa istražićemo niz filozofskih razilaženja koja otkrivaju prave linije rascepa koje prolaze kroz političku misao.
 
-Ako uporedimo različite političke porodice, možemo videti da postoje moguće sličnosti, ali i tačke nekompatibilnosti. Ovo je posebno tačno kada uporedimo libertarijance sa drugim ideološkim profilima. Hajde da analiziramo ove razlike koristeći nekoliko filozofskih koncepata.
-
+Počnimo od najfundamentalnijeg pitanja: same prirode slobode.
 
 
 ### Sloboda: princip ili prilika?
 
 
+Da bismo razumeli šta libertarijance razdvaja od svih drugih političkih porodica, moramo početi od razlike koju je uveo jedan od velikih francuskih liberalnih mislilaca. U svom delu iz 1849. *Les Soirees de la rue Saint-Lazare*, Gustave de Molinari, učenik Frederica Bastiata, postavlja dijalog između tri lika, od kojih svaki predstavlja jednu političku porodicu: socijalistu, konzervativca i ekonomistu.
 
-Da razjasnimo ovu konfuziju, izložićemo 3 shvatanja slobode.
+![Tri Molinarijeve političke figure: socijalista, konzervativac i ekonomista](./assets/en/098.webp)
+
+Ono što Molinari pokazuje kroz ove dijaloge jeste upečatljivo. **Ekonomista je u stalnom neslaganju i sa socijalistom i sa konzervativcem.** On je jedini koji brani slobodu kao fundamentalni princip, onaj koji nije podređen nijednom drugom cilju. Socijalista želi da reformiše društvo prema progresivnim idealima; konzervativac želi da očuva društvo u njegovom sadašnjem stanju. Obojica su spremna da ograniče slobode i pozovu državu da nametne njihove odgovarajuće programe.
+
+Molinarijeva vizija pokazala se proročkom. Od njegovog vremena, sredinom devetnaestog veka, konzervativci i socijalisti su se smenjivali na vlasti i činili upravo ono što je opisao: **instrumentalizovali slobodu u službi političkih ciljeva.**
+
+### Konzervativni pogled: poredak pre slobode
+
+![Konzervativna koncepcija slobode uslovljene poretkom i tradicijom](./assets/en/099.webp)
+
+Za konzervativce, poredak i tradicija imaju prednost nad slobodom. Previše slobode, tvrde oni, stvara haos i društveni nered. Sloboda može biti cenjena, ali tek kada je poredak čvrsto uspostavljen.
+
+U praksi to znači da **sloboda mora biti ograničena i ne može biti ostavljena da deluje sama.** Postaje opasna kad god ugrožava društvenu stabilnost, porodicu ili nasleđene kulturne vrednosti. Sloboda preduzetništva ili posedovanja imovine se brani, ali uvek pod uslovom poštovanja tradicionalnih vrednosti i dužnosti prema zajednici. To podrazumeva ulogu države ne samo u društvenim pitanjima, već i u ekonomskom domenu, gde sloboda mora ostati nadzirana.
+
+### Socijalistički pogled: pravda pre slobode
+
+![Socijalistička koncepcija slobode povezana sa socijalnom pravdom i jednakošću](./assets/en/100.webp)
+
+Za socijaliste, socijalna pravda dolazi pre individualne slobode. Sloboda se ne razume kao nezavisnost od ograničenja, već kao sposobnost delovanja, sposobnost koja pretpostavlja pravične materijalne i društvene uslove.
+
+Drugim rečima, **čovek nije istinski slobodan ako mu nedostaje hrana ili pristup osnovnim uslugama.** Politički prioritet zato pada na izjednačavanje uslova. Sloboda je intrinzično povezana sa socijalnom pravdom i jednakošću; manifestuje se kroz emancipaciju od ekonomskih i društvenih ograničenja kao što su siromaštvo ili isključenost. Ova logika redovno zahteva državnu intervenciju radi garantovanja socijalnih prava i preraspodele bogatstva.
+
+### Centristički pogled: efikasnost pre slobode
+
+![Centristička instrumentalna koncepcija slobode](./assets/en/101.webp)
+
+Centristi brane određene slobode, ali na oportunistički i kontekstualan način, bez primene bilo kakvog opšteg principa odlučivanja. Prilagođavaju svoje pozicije prema specifičnim izazovima i kompromisima potrebnim za efikasno postizanje rezultata.
+
+Razmotrimo, na primer, Green New Deal: centristi mogu snažno gurati subvencije za vetroenergiju i podršku zelenim preduzećima, ne iz principijelne posvećenosti slobodi ili čak ekologiji, već zato što se takve politike uklapaju u preovlađujuće trendove. **Ovaj pragmatični pristup otkriva instrumentalnu koncepciju slobode** koja se na kraju približava pristupima i konzervativaca i socijalista. Sloboda se uvek priziva, ali je uvek podređena.
+
+### Libertarijanski pogled: sloboda kao aksiom
+
+![Libertarijanski pogled na slobodu kao bezuslovni princip](./assets/en/102.webp)
+
+Libertarijanci definišu slobodu kao opšti, bezuslovni princip delovanja i odlučivanja. Ona funkcioniše kao aksiom iz kojeg sve ostalo sledi. Sloboda mora biti postavljena na samom početku kao fundamentalno pravo i, istovremeno, kao dužnost: **pravo da se ne bude izložen agresiji i odgovornost da se ne vrši agresija nad drugima**, uz restituciju zahtevanu u slučajevima krivice.
+
+Libertarijanci brane potpunu zaštitu individualne slobode i prava svojine, uz minimum državne intervencije. Protive se konstruktivizmu (centralnom planiranju), i bez obzira na to gde se nalaze na libertarijanskom spektru, od klasičnih liberala do anarho-kapitalista, dele cilj privatizacije svega što može biti privatizovano.
+
+### Konvergencija oko ciljeva, razilaženje oko sredstava
+
+Ovde leži presudna nijansa. Libertarijanci se mogu slagati sa socijalistima, konzervativcima i centristima oko određenih ciljeva: odbrane potlačenih, zaštite civilizacije, promovisanja društvene kohezije. Neslaganje nije oko ciljeva, već oko sredstava.
+
+**Libertarijanci odbacuju sva prinudna rešenja koja nastoje da uniformišu prakse, zakone i propise.** Protive se preraspodeli bogatstva, nametnutim minimalnim zaradama i rastućoj težini države u ekonomiji. Kao alternativu, brane moć izbora i princip odgovorne slobode kroz tržišni proces: slobodnu, decentralizovanu razmenu zasnovanu na dobrovoljnim ugovorima.
 
 
-
-1. Za konzervativce, sloboda je dobra stvar, ali previše slobode stvara haos i nered. Zato sloboda mora biti ograničena i uokvirena.
-
-
-
-Za njih sloboda nije fundamentalni princip, već pitanje svrsishodnosti. Na primer, konzervativac koji osuđuje zakone koji kažnjavaju homofobični govor neće nužno biti za legalizaciju droga ili ukidanje porodičnih subvencija.
-
-
-
-2. Socijalisti takođe mogu zagovarati uvođenje ove ili one slobode na ad hoc, oportunističkoj i selektivnoj osnovi. Ali za njih, ovo nije primena opšteg principa donošenja odluka. Oni mogu nastojati da primoraju pojedince da napuste svoje korene, baš kao što konzervativci nastoje da ih primoraju da ostanu.
-
-
-
-3. Za libertarijance, sloboda je opšti princip odlučivanja i delovanja. Libertarijanac je radikalni branilac individualne slobode i prava vlasništva, koji nastoji da minimizira državnu intervenciju i suprotstavlja se svim oblicima državom nametnutog socijalnog konstruktivizma. Iako snaga principa slobode može varirati između anarho-kapitalista (koji odbijaju da se povinuju bilo kakvim pravilima) i klasičnih liberala (koji imaju nijansiraniji diskurs), princip je uvek isti: privatizovati sve što se može privatizovati.
-
-
-
-Ova opozicija između političkih porodica već je bila prisutna - u različitim rečima - u delu Gustava Molinarija Les Soirées de la rue Saint Lazare. Ova knjiga, koju je 1849. godine objavio učenik Frederika Bastijata, sadrži tri lika: socijalistu, konzervativca i ekonomistu. Lik poznat kao ekonomista je zapravo liberal, u klasičnom smislu te reči; danas bismo rekli libertarijanac.
-
-
-
-U ovim dijalozima koje je osmislio Molinari, ekonomista (liberal/libertarijanac) uvek se suprotstavlja socijalisti i konzervativcu. On insistira na pokazivanju da njihove pozicije nisu suštinski različite. Zaista, za Molinarija, konzervativci i socijalisti imaju jednu zajedničku stvar: oni nastoje da nametnu svoju viziju društva putem države.
-
-
-
-## Spontani naspram konstruisanog reda
-
+## Spontani naspram konstruisanog poretka
 
 <chapterId>504aa7da-ecd5-4177-87d9-c8792f58c8e3</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=jh-FDJftOf0)
 
+![Spontani poredak naspram konstruisanog poretka](./assets/en/103.webp)
 
+Još jedna velika linija rascepa deli one koji veruju da je politički proces superioran tržišnom procesu od onih koji imaju suprotno gledište. Prva grupa brani konstruisani poredak, osmišljen odozgo nadole. Druga brani spontani poredak, koji nastaje odozdo nagore. Ova razlika je fundamentalna za razumevanje političkih senzibiliteta i postavlja libertarijance protiv gotovo svake druge porodice.
 
-Koncepti *spontanog reda* i *konstruisanog reda* su ključni za razumevanje razlika između različitih političkih senzibiliteta, uključujući libertarijanizam i konstruktivizme desnice (konzervativizam) i levice (socijalizam).
+### Konstruktivizam: transpartijski konsenzus
 
+![Konstruktivizam kao zajedničko uverenje među centristima, konzervativcima i socijalistima](./assets/en/104.webp)
 
+Konstruktivizam nije monopol nijednog političkog tabora. On ujedinjuje centriste, konzervativce i socijaliste oko zajedničkog uverenja: **superiornosti političkog procesa nad tržišnim procesom.** Za sve ove struje, država je bolje opremljena da organizuje društvo na pravedan i efikasan način. One privileguju centralno planiranje, iako u različitim stepenima zavisno od porodice.
 
-Konstruktivizam se odnosi na želju da se oblikuje društvo prema određenom planu. To je pristup koji nastoji da nametne unapred uspostavljenu viziju društva kroz delovanje države ili drugih entiteta (sindikati, NVO, interesne grupe ili međunarodne organizacije).
+Ako konstruktivizam sažmemo u jednoj rečenici: to je uverenje da centralna vlada može silom zakona stvoriti društveni poredak koji je dobar za najveći broj.
 
+### Hayekova analiza konstruktivizma
 
+![Hayekova kritika konstruktivizma i centralnog planiranja](./assets/en/105.webp)
 
-Suprotno od konstruktivizma je spontani poredak, koji prirodno proizilazi iz slobodnih interakcija pojedinaca, dok je konstruisani poredak rezultat namerne, planirane intervencije da se oblikuje društvo prema određenoj viziji, bilo konzervativnoj (fiksnoj) ili progresivnoj (transformisanoj).
+Da bismo razumeli šta je u pitanju, možemo pratiti analizu Friedricha Hayeka. Konstruktivisti čvrsto veruju da je moguće izgraditi društvo koje odgovara njihovim željama i idealima. Smatraju da je namerna, planirana intervencija neophodna kako bi se društvo oblikovalo prema njihovoj viziji, bilo konzervativnoj ili progresivnoj.
 
+Iza ovog uverenja leži starija pretpostavka, koja se može pratiti do Platona i njegove teorije filozofa-kralja: **ideja da su određeni ljudi bolje opremljeni da usmeravaju druge i organizuju društvo.** To je fundamentalno verovanje u superiornost jednih nad drugima.
 
+Ali Hayek pokazuje da, mimo ovog filozofskog pitanja, postoji praktična nemogućnost.
 
-Konstruktivisti veruju da je moguće izgraditi društvo koje odgovara njihovim željama. Libertarijanci, s druge strane, veruju da se društvo gradi samo od sebe na nepredvidiv način kroz procese međusobne koordinacije pojedinaca.
+### Spontani poredak: organizacija odozdo
 
+![Spontani poredak kao proizvod slobodnih individualnih interakcija](./assets/en/106.webp)
 
-Spontani red je glavni koncept izveden iz rada Hajeka. Definiše se kao proizvod slobodnih interakcija pojedinaca u društvu. To je rezultat ljudske akcije, a ne namerne ljudske svesti, i nije planiran ili nametnut od strane centralne vlasti: *Proizvod ljudske akcije, a ne ljudskog dizajna*, ponavljao je Fridrih Hajek, citirajući Adama Fergusona.
+Spontani poredak nije argument protiv organizacije. Naprotiv, za Hayeka, to je jedan od najmoćnijih motora ekonomskog i društvenog napretka. Definiše se kao proizvod slobodnih interakcija pojedinaca u društvu, rezultat ljudskog delovanja, ali ne i namernog ljudskog dizajna.
 
+Pravila, institucije i prakse koje nastaju spontano nisu planirane niti nametnute od centralne vlasti. Razmotrimo sledeće primere:
 
+Jezik: francuski, engleski, nemački, nijedan od njih nije konstruisan u nekom birou gde su se intelektualci okupili da odluče o pravilima gramatike i pravopisa. **Oni su plod spore, organske organizacije izgrađene kroz istorijske interakcije.**
 
-Opisujući mehanizam nevidljive ruke, Adam Smit je napisao: *Tražeći samo svoj sopstveni interes, [pojedinac] često radi efikasnije za interes društva, nego da mu je cilj zaista raditi za njega.*
+Društveni kodeksi: moral, učtivost, običaji, i oni su proizvod spontane koordinacije koja se progresivno razvijala kroz ljudsku interakciju.
 
+Robni novac: od školjki do metala, zlato se pojavilo kao najbolji novac koji je izabralo tržište, a ne bilo koja centralna vlast, kroz iskustvo, konkurenciju i subjektivne procene pojedinaca.
 
+### Problem znanja
 
-Prema Hayeku, svaka pretenzija da se društvo i tržište naučno organizuju vodi ka pogoršanju problema umesto njihovom rešavanju. Kao što je Burke istakao, sledeći stope Škotlanđana Smitha i Humea, istorija proizvodi institucije koje su složenije i bolje prilagođene nego bilo šta što razum može svesno osmisliti.
+![Raspršena priroda znanja prema Hayeku](./assets/en/107.webp)
 
+Hayekov fundamentalni argument u korist spontanog poretka počiva na prirodi informacija. U članku iz 1945, *The Use of Knowledge in Society*, napisao je:
 
+> Znanje nikada ne postoji u koncentrisanom ili integrisanom obliku, već samo kao raspršeni fragmenti nepotpunog i često protivrečnog znanja koje poseduju svi različiti pojedinci.
 
-Zaista, pravila, institucije, prakse i drugi društveni fenomeni nisu rezultat namernog planiranja od strane centralne vlasti.
+Tržište zavisi od informacija, ali samo različiti pojedinci mogu znati koje su njihove potrebe i koliko stvari koštaju. Vrednost počiva u subjektivnoj proceni, u umovima pojedinaca. **Ona ne može biti autoritativno ili centralno propisana.** Vrednost je subjektivna, zbog čega je poznata samo na ograničen, fragmentaran i lokalan način.
 
+Sistem cena omogućava milionima ljudi koji se ne poznaju da koordiniraju svoje znanje i veštine. Na slobodnom tržištu, cene prenose informacije o potrebama i kompetencijama svakog učesnika. Omogućavaju ljudima da stupaju u odnose i razmenjuju. To su, naravno, tržišne cene, uspostavljene kroz dobrovoljno pregovaranje između pojedinaca.
 
-*Mnoge od najvećih stvari koje je čovečanstvo postiglo nisu rezultat svesno usmerenog razmišljanja, a još manje namerno koordinisanog napora mnogih ljudi, već procesa u kojem pojedinac igra ulogu koju nikada neće u potpunosti razumeti.* F. Hajek.
+Centralni planer, sedeći u ministarstvu ili kancelariji, nema znanje o stvarnoj ceni stvari jer nije uključen u interakciju i razmenu. Tako **svaka pretenzija na naučno organizovanje društva paradoksalno pogoršava probleme umesto da ih rešava.**
 
+Kada država fiksira cene, zato što zna samo mali deo potrošačkih preferencija i lokalnih specifičnosti, izaziva krize. Razmotrimo kontrolu renti: kada se rente ograniče, stanodavcima postaje neisplativo da nude svoje nekretnine za iznajmljivanje, i nastaje nestašica stanova.
 
+### Slobodno tržište kao istinska regulacija
 
-Jezici, na primer, ili običaji, su stvari koje je stvorio čovek. Ali nijedna od njih nije osmišljena od strane ljudskog bića. Sve su nastale neplanirano. Isto važi i za stare valute, kao što su metalni novčići, ili za novu valutu kao što je Bitcoin. Ovo su *inovacije bez dozvole* koje je tržište izabralo.
+![Slobodno tržište kao pravi regulator društva](./assets/en/108.webp)
 
+Za libertarijance, prava regulacija društva nije demokratija (koja ima svoje koristi kao način određivanja predstavnika) **već pre svega slobodno tržište**.
 
+Tržište služi tri suštinske funkcije:
 
-**Raspršeno znanje
+1. **Bez slobodnog tržišta nema kompasa.** Cene su pouzdani pokazatelji za usmeravanje ekonomskih i društvenih odluka.
+2. **Tržište otkriva preferencije.** Ono je optimalan mehanizam za otkrivanje i agregiranje autentičnih individualnih preferencija. Cene odražavaju ponudu i potražnju.
+3. **Tržište omogućava puno ostvarivanje prava na odlučivanje.** Akteri mogu slobodno određivati svoje poslove prema svojim ličnim vrednostima. Ovde postoji etička dimenzija: pustiti svaku osobu da bude akter sopstvenog života i da donosi sopstvene izbore.
 
+### Pro-business naspram pro-market
 
+![Razlika između pro-business i pro-market pozicija](./assets/en/109.webp)
 
-> Znanje nikada ne postoji u koncentrisanom ili integrisanom obliku, već samo kao raspršeni fragmenti nepotpunog i često kontradiktornog znanja koje poseduju svi različiti pojedinci.
->
+Važno je jasno razlikovati pro-business i pro-market, dve pozicije koje se često mešaju.
 
+Među socijalistima, centristima i konzervativcima podjednako, nalazi se mnogo pro-business političara. Za njih, konkurencija je instrument upravljanja za postizanje ekonomskih ciljeva. Dobija se kroz propise koji garantuju navodno pravednu konkurenciju: antimonopolske zakone, sektorske i ekološke norme. Planovi stimulusa i subvencije opravdavaju se društvenim posledicama kao što su sprečavanje gubitka radnih mesta i recesije. **U pro-business pogledu, tržište je krhko i potrebna mu je država da ga spase.**
 
-> F. Hayek, Upotreba znanja u društvu, 1945
+Za zagovornike pro-market, konkurencija je prirodni rezultat slobodnog preduzetništva, koje isključuje centralizovanu moć države. To podrazumeva deregulaciju (uklanjanje prepreka slobodi i propisa koji ograničavaju privatnu svojinu) i dopuštanje preduzećima da propadnu, jer **neuspeh omogućava tržištu da se prirodno reorganizuje i otvara prostor sposobnijim akterima.** Ako preduzeće propadne, donelo je loše odluke i mora snositi posledice.
 
-Tržište je alat za saradnju, jer pruža informacije o stvarnom stanju potreba i veština. To je procedura za otkrivanje informacija i mobilizaciju raspršenog znanja o vrednostima i potrebama. U suštini, tržište je mesto susreta individualnih preferencija, što dovodi do formiranja cena. Sistem cena je stoga mehanizam koji spontano proizlazi iz ugovora kako bi se koordinisale razmene. Kada se cene slobodno raspravljaju, one odražavaju raznolikost mišljenja i preferencija potrošača.
+Razlika je značajna. Zagovornici pro-business često traže savez s velikim korporacijama na štetu manjih aktera. To je kapitalizam privida koji u stvarnosti znatno smanjuje slobodu kroz veru u konstruktivizam i planiranje.
 
+### Libertarijanska pozicija
 
+![Libertarijanska odbrana dobrovoljne razmene nad organizovanom prinudom](./assets/en/110.webp)
 
-Samo pojedinci mogu znati troškove i koristi dobara, jer su oni subjektivni. U centralizovanom, planskom sistemu, s druge strane, država postavlja cene, ali pošto poznaje samo deo potrošačkih preferencija i lokalnih specifičnosti, ona iskrivljuje tržište. Samo decentralizovani trgovinski sistem, sa slobodno pregovaranim cenama, može izneti ovo raspršeno znanje.
+U zaključku, libertarijanci se nalaze donekle sami naspram drugih političkih porodica, koje su sve konstruktivističke. Libertarijanci smatraju da se **društvo prirodno organizuje kroz spontane mehanizme koordinacije**, i da dobrovoljna saradnja ostaje superiorna organizovanoj prinudi, čak i kada je dobronamerna, za izgradnju pravednog i prosperitetnog društva.
 
+Politička klasa generalno nije naklonjena spontanom poretku jer on ugrožava njenu moć. Bilo da ste konzervativni, centristički ili socijalistički političar, težićete neprijateljstvu prema spontanom poretku i tržištu jer želite da kontrolišete stvari. Ali za libertarijance, prava moć za poboljšanje društva ne leži u političkoj moći, već u moći izbora: slobodnoj i dobrovoljnoj razmeni, tržištu.
 
+Dva aspekta moraju se držati zajedno. Efikasnost: **slobodna tržišta bolje koordiniraju raspršene informacije nego centralno planiranje**, kao što je Hayek pokazao. I pravda: međusobni pristanak više poštuje ljudsko dostojanstvo nego što prinuda i konstruktivizam ikada mogu.
 
-Libertarijanci su stoga protiv i socijalista i konzervativaca, tj. protiv dve kategorije konstruktivista: socijalisti žele da reformišu društvo, konzervativci žele da ga održe kakvo jeste. Dakle, postoje levi konstruktivisti i desni konstruktivisti.
+Sve to, međutim, zahteva da prava i dužnosti budu jasno definisani. Tržište može biti spontan proces, ali mora biti u skladu sa zakonom, naročito pravima svojine, i zahteva neintervenciju države u ekonomske i društvene poslove. Država treba da se ograniči na sprovođenje fundamentalnih prava kao što su prava svojine i da se uzdrži od intervencije u sve ostalo.
 
 
-
-
-**Politika ili tržište?**
-
-
-Konstruktivisti, centriste, konzervativci i socijalisti se svi slažu u jednoj ključnoj tački: smatraju da je politički proces efikasniji od tržišnog procesa.
-
-
-
-
-
-- Pod političkim procesom mislim na sposobnost centralne vlade da stvori, snagom zakona, društveni poredak koji je i pravedan i stabilan za najveći broj ljudi.
-
-
-
-
-
-- A pod tržišnim procesom, mislim na slobodnu i dobrovoljnu razmenu kao način interakcije i mehanizam za saradnju.
-
-
-
-Filozofski, libertarijanac se može složiti sa nekim ciljevima konzervativaca i socijalista, ali empirijski će se ne složiti sa njihovim sredstvima.
-
-
-Dakle, libertarijanac će se složiti sa socijalistima oko pomaganja potlačenim radnicima, ali neće misliti da minimalna plata može postići ovaj cilj, barem ne uniformna minimalna plata nametnuta svuda.
-
-
-
-Ironično, dok mnogi zagovornici socijalizma brane ekonomsku jednakost, istorija je pokazala da kada zemlje pokušavaju da iskorene spontani proces stvaranja bogatstva povezan sa slobodnim tržištima, stvaraju najgoru moguću vrstu nejednakosti: društvo u kojem mase gladuju dok centralni planeri žive kao kraljevi.
-
-
-
-Centralno planiranje ne može funkcionisati, jer pokušava da zameni sveznajuću inteligenciju za distribuirani, fragmentirani sistem sa lokalizovanim, ali povezanim znanjem.
-
-
-Slično tome, libertarijanac će se složiti sa konzervativnom idejom da civilizaciju treba braniti, ali se neće složiti sa donošenjem zakona i propisa koji povećavaju ograničenja, potrošnju i teret vlade. Naprotiv, braniće jedino sredstvo koje je i pravedno i efikasno: moć izbora ili princip odgovorne slobode, tj. tržišni proces.
-
-
-
-Libertarijanci veruju da su ekonomski i društveni poredak samoorganizujući, pod uslovom da su prava i dužnosti pojedinaca jasno definisani. Njihov pristup se zasniva na poštovanju prava vlasništva i neintervenciji države, ostavljajući društvu da se samo organizuje.
-
-
-Za libertarijance, prava regulacija društva nije demokratija, koja ima svoju svrhu kao sredstvo za imenovanje predstavnika, već pre svega slobodno tržište. Bez slobodnog tržišta, nema kompasa. Jer tržište je najbolji pokazatelj ličnih preferencija. Na slobodnom tržištu, učesnici u potpunosti ostvaruju svoje pravo da odlučuju o sopstvenim poslovima.
-
-
-
-## Individualizam vs. kolektivizam
-
+## Individualizam naspram kolektivizma
 
 <chapterId>ba205097-37f8-4503-9c1e-97eb31e7678c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=PsEfNf5xHdk)
 
+![Individualizam naspram kolektivizma](./assets/en/111.webp)
 
+Dalja linija rascepa između političkih porodica tiče se odnosa između pojedinca i društva. Da li je kolektiv cilj ili sredstvo za pojedinca? I obrnuto, da li je pojedinac cilj ili sredstvo za kolektiv? Ova dva pitanja definišu opoziciju između individualizma i kolektivizma.
 
-Individualizam i kolektivizam predstavljaju dve suštinski suprotstavljene vizije odnosa između pojedinca i društva.
+### Individualizam prema Misesu
 
+Austrijski ekonomista Ludwig von Mises dao je presudno razjašnjenje ovog pitanja. Napisao je: *Samo pojedinac misli, samo on rezonuje, samo on deluje.*
 
-Austrijski ekonomista Ludwig von Mises je govorio: Samo pojedinac misli, samo on rasuđuje, samo on deluje.
+To znači da individualizam, pravilno shvaćen, osporava pojam da društveni entiteti poput „društva” ili „nacije” mogu postojati nezavisno od pojedinaca koji ih čine. **Kolektiv nema sopstveno postojanje izvan delanja svojih pojedinačnih članova.** Ne možemo smisleno govoriti o delanju države, zemlje, kompanije ili sindikata. Zašto? Jednostavno zato što ti entiteti nemaju sopstvenu volju ili misao. Deluju samo posredstvom pojedinaca.
 
+Razmotrimo jezik: francuski, engleski, nemački. Svaki postoji samo kroz one koji ga govore. Ako ga niko ne govori, prestaje da postoji. Isti princip važi za sva društvena tela.
 
+### Moralna dimenzija
 
-Kao rezultat toga, kolektiv nema postojanje ili stvarnost, osim kroz akcije pojedinaca koji su njegovi članovi. Društvo nema volju, nema misao. Sve kolektivne akcije moraju biti objašnjene u terminima njihovih individualnih komponenti. Ne možemo govoriti o "akciji države, zemlje, kompanije, sindikata": uvek su pojedinci ti koji deluju.
+Ovo metodološko gledište može se preneti u moralnu i političku sferu. **Jedini moralni akter je pojedinac.** Pojedinac se može kvalifikovati kao dobar ili loš, pravedan ili nepravedan. Ne postoji pravedno ili nepravedno društvo samo po sebi; moraju se ispitati odnosi između pojedinaca. Da bismo moralno sudili, moramo se pozivati na delujuće pojedince, a ne na kolektivitete.
 
+Još jedna tačka koju Mises naglašava: pojedinac nije izolovani atom. Individualizam ne treba mešati sa samodovoljnošću ili mizantropijom. Ljudsko biće je društveno stvorenje. Individualizam promoviše saradnju i udruživanje, **pod uslovom da počivaju na slobodnom pristanku učesnika.** Ljudsko biće može razviti svoj puni potencijal samo u odnosu s drugima, pod uslovom da je ta saradnja dobrovoljna.
 
+### Kant i moralna autonomija
 
-Bilo koje društveno telo stoga postoji samo preko posrednika onih koji tvrde da su deo njega kroz svoje akcije. Ako ga niko ne bi tvrdio, prestalo bi da postoji. Isto tako, jezik postoji samo kroz pojedince koji ga govore. Ako prestanu da ga govore, prestaje da postoji.
+![Kant i prosvetiteljski princip moralne autonomije](./assets/en/112.webp)
 
+Ovaj individualizam ima duboke korene, koji se mogu pratiti do hrišćanstva, grčke i rimske filozofije. Ali navedimo prosvetiteljskog filozofa Immanuela Kanta. Za njega, individualizam brani sposobnost i pravo pojedinaca da sude sami za sebe, da biraju sopstvene ciljeve i da u skladu s tim deluju.
 
+To je neotuđivo pravo svakog bića da ostane gospodar i vlasnik svoje osobe i dobara koja je legitimno steklo, i **da bude u poziciji da definiše sopstvene ciljeve i vrednosti.** To vodi ka potvrdi da je ljudsko biće cilj po sebi, a ne puko sredstvo. Olovka je puko sredstvo, odbačeno kada više nije potrebna. Samo biće obdareno razumom jeste cilj po sebi.
 
-Sa etičke i pravne tačke gledišta, pojedinac je jedini moralni agent. Ne postoji druga referenca za definisanje dobra i zla. Pojmovi ispravnog i pogrešnog, prava i dužnosti, imaju smisla samo za pojedince, ne za zajednice, države ili čak životinje.
+To je i antropološki princip (utemeljen u ljudskoj sposobnosti za autonomiju i samoupravljanje) i moralni princip. Kantova čuvena formula, *Sapere aude* („Usudi se da misliš sam”), preuzeta od pesnika Horacija, postala je moto Prosvetiteljstva u njegovom eseju iz 1784. *What is Enlightenment?* Ona simbolizuje izlazak iz maloletnosti: stanja u kojem su ljudi nesposobni da koriste svoj razum bez vođstva nadređene klase ili autoriteta.
 
+Kant podstiče ljude da se emancipuju, da misle sami, da preuzmu punu odgovornost za svoje mišljenje. Jedna od prepreka toj autonomiji, primećuje Kant, jeste lenjost i kukavičluk: **iskušenje da se skloni u gotove misli**, što je takođe ono što vodi ka kolektivizmu.
 
+Posledica po institucije je jasna: one postoje da služe procvatu pojedinaca, njihovoj zaštiti i ostvarenju njihovog punog potencijala. Društvo je sredstvo, a ne cilj.
 
-Osnovni antropološki princip koji je u osnovi ovog dobro shvaćenog individualizma jasno je postavio Immanuel Kant u 18. veku: *Usudi se misliti svojom glavom*.
+### Kolektivistička filozofija
 
+Kolektivizam se delom pojavljuje zato što nudi neku vrstu lakoće, zaštite, sigurnosti koja je mnogima zavodljiva. Individualizam koji potvrđuje autonomiju svake osobe može delovati zastrašujuće. Da li je svako spreman da preuzme punu odgovornost za svoje postojanje? Ne uvek, i **ponekad je jednostavnije osloniti se na autoritet koji nameće način života.**
 
+U kolektivističkoj koncepciji, privatni interesi pojedinaca moraju biti sistematski podređeni odlukama donetim u ime superiornog entiteta koji navodno utelovljuje opšti interes ili opšte dobro. Taj entitet može biti država, nacija, crkva, ali danas, sa socijaldemokratijom, to je pre svega demokratska većina. Pravilo većine određuje ispravno i pogrešno, istinito i lažno.
 
-Ova zapovest, prvobitno preuzeta iz poslanice Horacija objavljene dvadeset godina pre naše ere, preuzeta je i popularizovana od strane Immanuela Kanta u njegovom eseju *Šta je* prosvetiteljstvo? objavljenom 1784. godine. Za Kanta, ova fraza je moto prosvetiteljstva, simbolizujući čovekovo izlazak iz njegove manjine, stanja nesposobnosti da koristi svoje razumevanje bez vođstva drugih, za koje je sam odgovoran, kroz lenjost i kukavičluk.
+Kolektivitet postaje prioritet. Kolektivni ciljevi nadmašuju individualne ciljeve, a institucije služe društvu čak i na štetu osoba.
 
+### Marx i istorijski materijalizam
 
+![Marx i primat društvenog postojanja nad individualnom svešću](./assets/en/113.webp)
 
-Ljudska bića nisu samo životinje niti robovi. On pripada samom sebi i obdaren je slobodnom voljom, sposobnošću izbora vođenog razumom. Ukratko, ljudska bića su ciljevi sami po sebi, a ne sredstva za druge. To je ono što mu daje njegov moralni dignitet.
+Veliki mislilac kolektivizma je Karl Marx, koji je superiornost kolektiva nad pojedincem opravdavao onim što je nazvao istorijskim materijalizmom:
 
+> Nije svest ljudi ta koja određuje njihovo postojanje; naprotiv, njihovo društveno postojanje određuje njihovu svest.
 
+Svest nije primarna već sekundarna, određena društvenim postojanjem: stanjem ekonomskih i društvenih odnosa, opozicijom između klasa. **Pojedinac je ništa izvan te stvarnosti.** On misli kroz svoju društvenu klasu, živi, ponaša se i deluje onako kako mu klasa nalaže, ali nesvesno. Otuda marksistički imperativ da se postane svestan interesa sopstvene klase kako bi se oni ostvarili.
 
-Ali osnaživanjem ljudskih bića na ovaj način, individualizam ipak mnogima može delovati kao zastrašujuće iskustvo. Jesmo li spremni preuzeti odgovornost za sopstvene živote?
+### Mnoga lica kolektivizma
 
+Kao što je Mises primetio: *Ne postoji jedinstvena kolektivistička ideologija, već mnoge kolektivističke doktrine. Svaka uzdiže drugačiji kolektivni entitet.*
 
+Kolektivizme možemo klasifikovati u dve grupe. Desničarski kolektivizmi, poput nacionalsocijalizma i Mussolinijevog fašizma, uzdižu naciju i rasu kao entitete superiorne pojedincu. Levičarski kolektivizmi, komunizam i socijalizam, daju prednost radničkoj klasi i socijalnoj jednakosti, tretirajući društvenu klasu kao vrhovni entitet koji definiše pojedinca.
 
-Kolektivizam, bilo ekonomski ili politički, je filozofija koja se oslanja na autoritet izvan pojedinca - državu ili većinu - da nametne određeni način života i ekonomsko stanje pojedincu. Odluke se donose u ime ovog nadređenog entiteta. Privatni interesi pojedinaca stoga moraju biti podređeni njemu.
+Spektar se proteže od socijaldemokratije do nacionalsocijalizma, ali **ove doktrine konvergiraju u zajedničkom neprijateljstvu prema individualnoj slobodi i opravdavanju nasilja.**
 
+### Popperova otvorena i zatvorena društva
 
+![Razlika Karla Poppera između otvorenih i zatvorenih društava](./assets/en/114.webp)
 
-Kolektivizam tako stavlja kolektivitet, bilo nacionalni, kulturni ili verski, u prvi plan, posmatrajući pojedince kao sredstva za jačanje i obezbeđivanje trajnosti ovog vrhovnog entiteta. Ciljevi kolektiviteta, bilo nacije, države ili crkve, su superiorniji od ciljeva pojedinca. Iz ovog ugla gledanja, primarna funkcija institucija je da služe društvu, čak i na štetu pojedinaca.
+Karl Popper, filozof rođen u Austriji koji je emigrirao najpre na Novi Zeland, a zatim u Britaniju, analizirao je ove opozicije s posebnom jasnoćom u *The Open Society and Its Enemies*:
 
+> Zatvorenim društvom nazivam magijsko ili plemensko društvo, a otvorenim društvom ono u kojem su pojedinci suočeni s ličnim odlukama.
 
+Dva modela društva, dva principa društvene organizacije potpuno suprotstavljena jedan drugom. Zatvoreno društvo je kolektivističko, počiva na plemenskom mentalitetu: odbijanju kritičke slobode, spoljašnjih razmena i napretka, i idealizaciji statičnog poretka. **Otvoreno društvo priznaje pravo pojedinca da sudi sam za sebe**, dajući primat slobodnom izboru vrednosti, uverenja i odnosa.
 
-Za Karla Marksa: "nije svest ljudi ta koja određuje njihovo postojanje; naprotiv, njihovo društveno postojanje određuje njihovu svest". Marks je tako naglasio da je pojedinac duboko ukorenjen u društvenoj stvarnosti i da je njegova svest određena tom stvarnošću. Drugim rečima, pojedinac je stvaran samo u meri u kojoj je član društva, a njegovo individualno postojanje ima smisla samo u kontekstu klasne borbe za opšte dobro.
+### Totalitarizam kao moderno zatvoreno društvo
 
+![Totalitarizam kao radikalni moderni oblik zatvorenog društva](./assets/en/115.webp)
 
+Totalitarizam je moderni izraz zatvorenog društva. Predstavlja najradikalniji oblik, oslanjajući se na dogmatsku ideologiju koja vodi ka sistematskoj cenzuri, državnoj propagandi, kultu vođe i mehanizmima kontrole i nadzora. Pojedinac ne postoji kao takav; postoji **oblik dehumanizacije u kojem pojedinac gubi svoje korene**, svoje pamćenje i svoja uverenja, postajući potpuno apsorbovan zajednicom i zato lako manipulisiv.
 
-Prema Misesu: *Ne postoji jedinstvena kolektivistička ideologija, već mnoge kolektivističke doktrine. Svaka uzdiže različit kolektivni entitet i zahteva da mu se svi pristojni ljudi pokore. Svaka sekta obožava sopstveni idol i netolerantna je prema suparničkim idolima* (Teorija i istorija).
+### Krhkost otvorenog društva
 
+![Urođena krhkost otvorenog društva](./assets/en/116.webp)
 
+Popper s velikom pronicljivošću naglašava da **otvoreno društvo ostaje inherentno krhko.** Ovo društvo koje favorizuje kritičko mišljenje, individualnu slobodu i odgovornost može lako skliznuti u kolektivizam kroz fascinaciju autoritetom.
 
-Za Misesa, postoje desničarski i levičarski kolektivizmi. Nacionalsocijalizam, zajedno sa Musolinijevim fašizmom, su desničarski kolektivizmi. Komunizam i socijalizam su levičarski kolektivizmi. Za njega, nema velike razlike između Hitlerovog nacizma i Staljinovog komunizma. Čak i ako su motivacije različite, u oba slučaja postoji mržnja prema individualnoj slobodi i opravdanje nasilja.
+Zašto? Možda zbog nedostatka sigurnosti. Odgovornost koju individualizam podrazumeva može delovati zastrašujuće i rizično. Čovek mora donositi sopstvene izbore i može pogrešiti. Pojavljuje se iskušenje da se potraži utočište u zajedničkoj zaštiti ili u nostalgičnim tendencijama ka idealizovanoj prošlosti. Otvoreno društvo suočava se sa izazovima koji ga i danas ugrožavaju, naročito komunitarnim impulsima koje vidimo da se razvijaju u naše vreme, i ponavljajućim iskušenjem nasilja.
 
 
-
-Na osnovu ove distinkcije, političke porodice se mogu analizirati na sledeći način:
-
-
-*Dve suprotstavljene koncepcije društva uvek će ostati nepomirljive: individualistička koncepcija - za koju je čovek biće razuma i slobode, sposobno da organizuje svoje odnose sa drugim ljudima - i kolektivistička koncepcija, prema kojoj **društvo** postoji nezavisno od ljudi koji ga čine, njihovih želja i volja. Kolektivistička koncepcija je doživela neke od svojih najmonstruoznijih konkretizacija u marksističkom totalitarizmu, ali, uprkos pojavama, ona je takođe povezana sa socijaldemokratijom.* Pascal Salin, Libéralisme.
-
-
-
-Slično tome, filozof Karl Popper je napisao u svojoj knjizi iz 1945. godine The Open Society and its Enemies: *Zatvoreno društvo nazivam magijskim ili plemenskim društvom, a otvoreno društvo onim u kojem se pojedinci suočavaju sa ličnim odlukama.* (Tome I, str.199).
-
-
-Prema Karlu Poperu, otvoreno društvo i zatvoreno društvo su fundamentalni koncepti koji opisuju radikalno različite principe društvene organizacije, bez mogućnosti sinteze između njih:
-
-
-
-
-  - Zatvoreno društvo je društvo koje, po principu, odbacuje kritičku slobodu pojedinaca, razmene sa spoljnim svetom, kao i napredak i raznolikost koji iz toga proizlaze. To je društveni model ukorenjen u kolektivnoj mentalitetu koji se plaši promene, odbacuje kritiku i individualnu odgovornost, i idealizuje statički, harmoničan, često plemenski poredak.
-  - Otvoreno društvo karakteriše sposobnost čoveka da primeni kritičko rasuđivanje i individualnu odgovornost. Sa njim dolazi novi princip društvene organizacije zasnovan na primatu odgovornosti, slobodnom izboru vrednosti, uverenja, razmena i odnosa, u okviru apstraktnih pravila ispravnog ponašanja.
-
-
-
-Totalitarizam je politički oblik koji ovo zatvoreno društvo poprima kada se sprovodi na radikalan, moderan način, oslanjajući se na ideologiju sigurnosti i koristeći mehanizme državne kontrole (cenzura, propaganda, kult vođe) kako bi nametnuo prisilnu stabilnost, na štetu individualnih sloboda i kritičkog mišljenja. Njegova opsesija je očuvanje hijerarhijskog poretka i pokoravanje nepromenljivim tradicijama i kolektivnim verovanjima. U tim društvima, društvena kontrola poprima oblik stalnog i bliskog međusobnog nadzora, dok pojedinac ne postoji kao takav, već je potčinjen i obuhvaćen zajednicom.
-
-
-Glavna razlika između dva modela društva leži u njihovom stavu prema znanju, promenama i političkoj organizaciji:
-
-
-
-
-
-- Otvoreno društvo je dinamično, kritično i fokusirano na individualnu slobodu i mogućnost reformisanja normi.
-- Zatvoreno društvo je statično, dogmatično i totalitarno, tražeći stabilnost kroz kontrolu i povratak na prošli, idealizovani poredak.
-
-
-
-Ova opozicija ističe fundamentalnu nekompatibilnost između modela zasnovanog na individualnoj slobodi i kritičkom razumu, i drugog utemeljenog na organskom jedinstvu, iracionalnosti i kolektivnoj pokornosti.
-
-
-
-Ali otvoreno društvo je krhko, uvek nedovršeno i neprestano dovedeno u pitanje. Suočava se sa nostalgičnim tendencijama, gubitkom osećaja sigurnosti koji je plemenska zajednica pružala svojim članovima, i željom da se obnovi izvorni komunalni poredak, moguće kroz nasilje.
-
-
-
-
-# Politički trend među bitkoinerima
-
+# Politička tendencija među bitcoinerima
 
 <partId>c0de3201-5c74-4854-b872-15a27165d228</partId>
 
 
-
-## Politički trend među bitkoinerima
-
+## Politička tendencija među bitcoinerima
 
 <chapterId>89b42c72-bd73-465d-b420-e35d7c5de07c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=ml33z_RYTEk)
 
+![Bitcoin kao politički projekat](./assets/en/117.webp)
 
-
-Na kraju ovog kursa, smatramo da je neophodno osvrnuti se na političko pozicioniranje Bitcoin i bitkoinera.
-
-
+U ovom završnom delu kursa okrećemo se Bitcoinu. Kakva je njegova priroda? Da li je to politički projekat? Da li je desničarski, levičarski ili nešto sasvim drugo? I kakva je politička tendencija onih koji ga koriste? To su pitanja kojima se sada moramo pozabaviti.
 
 ### Da li je Bitcoin politički projekat?
 
+Bitcoin je decentralizovana [kriptovaluta](https://planb.academy/resources/glossary/cryptocurrency), koju je Satoshi Nakamoto stvorio 2008. godine, a koja omogućava [P2P](https://planb.academy/resources/glossary/peertopeer-p2p) finansijske transakcije bez potrebe za poverenjem u bilo kog posrednika.
 
+Njime upravlja softverski protokol [otvorenog koda](https://planb.academy/resources/glossary/foss). Nema CEO-a, nema sedište, nema marketinški plan, nema određenu vlast. **Iza Bitcoina ne stoji nijedna kompanija, niti ga kontroliše bilo koji politički entitet ili vlada.**
 
-Bitcoin je decentralizovana [kriptovaluta](https://planb.academy/resources/glossary/cryptocurrency), koju je kreirao Satoshi Nakamoto 2008. godine, koja omogućava nepouzdane, [peer-to-peer](https://planb.academy/resources/glossary/peertopeer-p2p) finansijske transakcije.
+#### Naizgled neutralna tehnologija
 
+![Decentralizovana priroda Bitcoina: bez CEO-a, open source, peer-to-peer](./assets/en/118.webp)
 
-Bitcoin je kontrolisan softverskim protokolom [otvorenog koda](https://planb.academy/resources/glossary/foss), bez generalnog direktora, centralne kancelarije, marketinškog budžeta i određene vlasti. To znači da nijedan politički entitet ili vlada nema kontrolu nad njim.
+Ova decentralizovana priroda može stvoriti utisak da je Bitcoin jednostavno tehnološka inovacija, neutralna i apolitična, uporediva s Internetom u dvadesetom veku ili štamparskom presom u četrnaestom. Ipak, već znamo da su i Internet i štamparska presa, uprkos tome što su tehnološke inovacije, **imali duboke društvene, ekonomske i političke posledice**.
 
+Isto važi i za Bitcoin, a Satoshi Nakamoto nam je ostavio poruke kako bi jasno pokazao svoju nameru.
 
+#### Mana fiat sistema
 
-Ova neutralnost je za neke uznemirujuća i može navesti na pomisao da je ovo apolitična tehnologija, poput Interneta u 20. veku ili štamparske prese u 14. veku.
+> Fundamentalni problem sa konvencionalnim valutama jeste poverenje koje mora biti položeno u njih da bi funkcionisale. Morate verovati centralnoj banci da neće obezvrediti valutu, ali istorija fiat valuta puna je kršenja tog poverenja.
 
+Ovaj citat Satoshija Nakamota ključan je za razumevanje filozofije iza Bitcoina. Fiat valute su valute koje nisu pokrivene robom, nečim stvarnim i fizičkim. One su papirni novac koji u potpunosti počiva na autoritetu institucije koja ih nameće, pa samim tim i na poverenju. **Kada neka institucija ima potpunu kontrolu nad novcem, iskušenje zloupotrebe je prejako.** Istorija je to više puta pokazala.
 
+#### Poruka genesis bloka
 
-Iako Bitcoin sam po sebi nije ni desničarski ni levičarski, niti pripada bilo kojoj religiji, ipak je izmišljen da reši problem - problem poverenja u finansijske razmene i centralizovane entitete. A to je samo po sebi politički problem.
+**Bitcoin je rođen kao direktna reakcija na finansijsku krizu 2008.** i monetarni intervencionizam koji je usledio. U prvi ikada iskopani blok, Satoshi Nakamoto je uneo simbolični naslov iz londonskog Times-a:
 
+> The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout.
 
+![Naslov Genesis Block-a](./assets/en/119.webp)
 
-![Bitcoin Whitepaper Abstract](./assets/fr/020.webp)
+Namera je nepogrešiva: ponuditi alternativu centralizovanim bankarskim sistemima.
 
+#### Razorne posledice monetarnog intervencionizma
 
+![Razorne posledice monetarne inflacije i kriza fiat valuta](./assets/en/120.webp)
 
-Čitajući Satoshi Nakamoto [White Paper](https://planb.academy/resources/glossary/white-paper), možemo videti da je Bitcoin dizajniran da ponudi inovativnu zaštitu protiv dve glavne savremene pretnje: široko rasprostranjeno nadgledanje i ubrzanje stvaranja veštačkog novca.
+Svaki put kada kriza potrese finansijski svet, ili kada udari globalni događaj poput pandemije Covid-19, stvaraju se milijarde i milijarde dolara i evra kako bi se spasile banke, preduzeća ili pojedinci. Ti planovi spasavanja imaju razorne posledice.
 
+Ubrizgavanje novca u sistem (monetarna inflacija) pretvara se u obezvređivanje valute. Sa istom količinom novca može se kupiti sve manje, jer taj sveži novac ne odražava stvarni ekonomski rast. **Ova inflacija je skriveni porez, nametnut bez pristanka građana.** Većina ljudi ne vidi da je vladina politika dovela do rasta cena, koje su jednostavno odraz obezvređivanja valute. To je ravno legalnoj krađi, institucionalizovanoj otimačini.
 
+Posledice logično slede: osiromašenje srednje klase (dok bogati mogu zahvatiti novi novac koji ulazi u sistem preko banaka i plasirati ga u spekulativnu imovinu), strah od budućnosti, društvene i političke tenzije, nesigurnost i, šire, gubitak poverenja u tradicionalne institucije. Ova poplava novca može takođe hraniti političku i finansijsku korupciju, klijentelizam između države i velikih korporacija i rastuću birokratiju.
 
-1. Iako nije potpuno anoniman, Bitcoin značajno poboljšava privatnost ograničavanjem finansijskog nadzora nad pojedincima. Ova mogućnost omogućava, na primer, disidentu u diktaturi da drži i razmenjuje vrednost putem interneta bez straha od konfiskacije ili cenzure. Iako se ovo može činiti dalekim za građane demokratija, to je ključan korak napred za individualne slobode.
+![Sažetak Bitcoin Whitepaper-a](./assets/en/121.webp)
 
+### Bitcoin kao projekat društvene transformacije
 
+![Bitcoin kao alat za ograničavanje državne moći i emancipaciju pojedinaca](./assets/en/122.webp)
 
-2. Bitcoin omogućava svima da zaštite svoju ušteđevinu od pljačke privatne svojine utelovljene u monetarnoj [inflaciji](https://planb.academy/resources/glossary/inflation). To je pokušaj da se ospori kontrola države nad upravljanjem novcem kao instrumentom razmene, i tako da se takmiči sa državom. Finansijska kriza iz 2008. godine i pandemija Covid 19 istakle su nedostatke u trenutnom sistemu. Bilioni dolara odštampani ni iz čega kako bi se sprečilo dalje urušavanje ekonomije imali su razorne efekte, koje i dalje plaćamo.
+**Bitcoin, dakle, ide daleko izvan jednostavne finansijske ili tehnološke inovacije.** Zamišljen je sa tri cilja:
 
+1. **Da ograniči moć vlada nad novcem**, sprečavajući institucije da koriste valutu za političke ciljeve kao što su javna potrošnja, ratovi i ideološka kontrola.
+2. **Da emancipuje pojedinca**, vraćajući kontrolu nad sopstvenom imovinom i sopstvenim životom. Vlada može uzeti evre sa vašeg bankovnog računa, vašu kuću, vaše akcije, vaše zlato. Ali ne može uzeti vaše bitcoine, jer Bitcoin, kroz svoju decentralizovanu prirodu, izmiče nadzoru i kontroli. Držite ga sami, bez zavisnosti od pouzdane treće strane.
+3. **Da zaštiti od [inflacije](https://planb.academy/resources/glossary/inflation).** Bitcoin je deflatorna valuta; njegova ponuda ograničena je na 21 milion jedinica, i nijedna institucija, banka ili vlada ne može stvoriti više. Njegova vrednost proizlazi i iz njegove korisnosti i iz njegove oskudnosti.
 
+#### Bitcoin kao individualni suverenitet
 
-![Bitcoin Counterflow Abstract](./assets/fr/021.webp)
+![Bitcoin individualni suverenitet](./assets/en/123.webp)
 
+U tradicionalnim finansijama, čovek ne može zaista posedovati sopstvenu imovinu. Ono što držimo uvek su potraživanja prema finansijskim posrednicima. **U potpunosti zavisimo od bankarskih institucija.** Sa Bitcoinom imamo direktno i suvereno vlasništvo nad svojim sredstvima. To je jednostavno čin da budete sopstveni bankar, da držite privatne ključeve koji daju pristup vašim bitcoinima. Ako držimo sopstvene ključeve, niko ih ne može konfiskovati, jer se nalaze u našim umovima.
 
+#### Pretnja državi blagostanja
 
-Dakle, Bitcoin je mnogo više od finansijske tehnologije, to je projekat za promenu sveta, za njegovo unapređenje. To je ambiciozan politički projekat za redefinisanje odnosa moći između pojedinaca i institucija:
+![Bitcoin kao izazov fiskalnom i monetarnom monopolu države blagostanja](./assets/en/124.webp)
 
+Bitcoin takođe predstavlja izazov državi blagostanja: državi koja troši više od svojih prihoda kako bi zadovoljila zahteve za ekonomskim i socijalnim pravima (socijalna sigurnost, naknade za nezaposlenost, penzije). Bitcoin dovodi u pitanje tri stuba na kojima ovaj sistem počiva:
 
+1. **Fiskalni sistem**, koji je nedovoljan da pokrije sve rashode.
+2. **Monetarni monopol**, sposobnost izdavanja novca radi finansiranja potrošnje kroz dug.
+3. **Nadzor transakcija**, sposobnost da se ljudima zabrani upotreba bilo koje valute osim državom nametnutog fiata.
 
-> Osnovni problem sa konvencionalnim valutama je poverenje koje mora biti ukazano kako bi one funkcionisale. Morate verovati centralnoj banci da neće devalvirati valutu, ali istorija fiat valuta je puna kršenja ovog poverenja.
+Razmotrimo alegoriju pećine, ažuriranu za naše monetarno doba. Duboko u pećini, zatvorenici posmatraju senke na zidu i vide evro, zamišljajući ga kao jedinu moguću valutu, verujući autoritetu koji ga izdaje. Zatim neki zatvorenici pobegnu na otvoreno i otkriju Bitcoin. **Bitcoin je izlaz, sredstvo emancipacije iz pećine monetarnih iluzija.**
 
-Ovaj citat iz Satoshi Nakamoto je ključan za razumevanje filozofije iza Bitcoin. Satoshi ističe nedostatke Fiat sistema zasnovanog na poverenju u centralizovane institucije i predlaže Bitcoin kao alternativu bez poverenja.
+#### Zaštita za disidente i žrtve ugnjetavanja
 
+Bitcoin takođe služi kao zaštita za disidente i žrtve ugnjetavanja u zemljama koje doživljavaju rat, diktaturu ili hiperinflaciju. To može delovati udaljeno onima među nama koji žive u modernim demokratijama, ali **ova sposobnost otpornosti na cenzuru i ojačane privatnosti dragocen je napredak** za individualne slobode.
 
+### Moralni projekat s političkim posledicama
 
-Polazna tačka intelektualnog pristupa Satoshi Nakamota je stoga prekomerno poverenje ljudi u fiat valutu i lažno uverenje da država može rešiti krize. Zaista, u prvom rudarenom bloku u priči Bitcoin, Satoshi Nakamoto je ubacio simboličnu rečenicu iz članka na naslovnoj strani London Tajmsa:
+![Bitcoin kao moralni projekat: svojina, rad i privatnost](./assets/en/125.webp)
 
+Za zaključak: **Bitcoin nije dizajniran da ljude učini bogatima, već da ih učini slobodnima.** On nije desničarski ni levičarski. Pre svega je moralni projekat s političkim posledicama. Čovek može prihvatiti Bitcoin bez obzira na političku pripadnost, jer nije vezan ni za jednu ideologiju, nijednu zemlju, nijednu religiju.
 
+Bitcoin ostvaruje tri stvari. Prvo, omogućava efektivnu svojinu, što je fundamentalni podsticaj individualnoj odgovornosti: kada neko nešto poseduje, o tome brine. Drugo, štiti vrednost stvorenu radom: kada neko poseduje plodove svog rada, podstaknut je da radi i da pruži najbolje od sebe. Treće, čuva poverljivost i privatnost, fundamentalno pravo, jer kada čovek može otkriti samo ono što sam izabere da otkrije, živi bez straha i može uspostaviti istinske odnose poverenja.
 
-> The Times 03/Jan/2009 Kancelar na ivici drugog spasavanja banaka.
+Ne tvrdeći izričito pripadnost bilo kom političkom taboru, **Bitcoin u sebi nosi seme tihe revolucije**, one koja je prvo moralna, a tek potom politička.
 
-![Genesis Block Title](./assets/fr/022.webp)
+Ali Bitcoin se nije pojavio niotkuda. Počiva na naprecima u matematici, fizici, računarstvu i filozofiji. Satoshi Nakamoto, iako briljantan, gradio je na idejama koje su već bile u vazduhu. Među najvažnijima od njih bile su ideje [cypherpunk](https://planb.academy/resources/glossary/cypherpunks) pokreta.
 
 
-
-Uključivanje ovog naslova u [blok geneze](https://planb.academy/resources/glossary/genesis-block) je otvoreno za interpretaciju. Ali može se pojaviti kao komentar Satoshi na neuspehe tradicionalnih finansijskih institucija, i kao izjava cilja Bitcoin: da ponudi alternativu centralizovanim bankarskim sistemima.
-
-
-
-Kada država nameće strogu kontrolu nad svim transakcijama (na primer, ograničavanjem gotovine ili uvođenjem centralizovane digitalne valute), ona ima potpunu kontrolu nad ekonomijom, na štetu slobode izbora i suvereniteta pojedinaca. Praćenjem svih transakcija, država može bolje identifikovati nove izvore oporezivanja i nametnuti stroge propise.
-
-
-
-Ipak, Bitcoin je dizajniran da funkcioniše bez intervencije centralnih banaka ili drugih državnih finansijskih posrednika. Zbog svoje decentralizovane, pseudonimne prirode i otpornosti na manipulaciju, mogao bi oslabiti temelje države blagostanja smanjenjem njene kontrole nad novcem, oporezivanjem i finansijskim sistemom.
-
-
-
-Dakle, jedno od suštinskih svojstava Bitcoin je sposobnost da posedujete sebe. U svetu tradicionalnih finansija, ne možete posedovati sebe. Uvek su to finansijski posrednici koji su spremni da vam daju pristup računu.
-
-
-
-Bitcoin je dizajniran da ograniči moć vlada nad valutom.
-
-
-Sprečava korišćenje novca u političke svrhe kao što su: javna potrošnja, ratovi, ideološko formatiranje i kontrola mišljenja.
-
-
-
-
-- Vlada može uzeti eure sa vašeg bankovnog računa.
-- Može uzeti vašu kuću i vašu zemlju.
-- Može preuzeti vaše akcije.
-- Može uzeti tvoje zlato.
-- Može ti oduzeti sve.
-
-
-
-Ali vlada ne može uzeti vaše bitkoine, jer ne može konfiskovati sadržaj vašeg uma.
-
-
-
-Zato je Bitcoin izgrađen na fundamentalnoj filozofskoj pretpostavci: sloboda znači posedovati sebe, plodove svog rada i svoj privatni život.
-
-
-
-U tom smislu, pokreće ga vizija sveta koja je i moralna i politička. Kada država ima monopol na novac, nalazite se u etatističkom sistemu, bilo desničarskom ili levičarskom. Projekat Bitcoin je da ponudi svima slobodno tržište novca.
-
-
-
-Ali Bitcoin nije se pojavio niotkuda. Zasniva se na napretku u matematici, fizici, računarstvu i filozofiji. Satoshi Nakamoto, iako briljantan, izgradio je na idejama drugih inovatora. Među njima, pioniri [sajferpank](https://planb.academy/resources/glossary/cypherpunks) pokreta.
-
-
-
-## Ko su cypherpunks?
-
+## Ko su cypherpunk-ovi?
 
 <chapterId>dc18ba9a-c242-472a-a717-531a5f125737</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=IjiyWVW_5Os)
 
+![Cypherpunks: pioniri digitalne slobode](./assets/en/126.webp)
 
+Cypherpunk-ovi su pioniri pokreta koji brani ljudsku slobodu u digitalnom dobu. Intelektualni koreni Bitcoina ne mogu se razumeti bez njih.
 
-Ovaj pokret je nastao početkom 1990-ih iz zabrinutosti za ljudsku slobodu suočenu sa nadzorom vlade u digitalnom dobu.
+### Kontekst 1990-ih
 
+![Pojava cypherpunk pokreta u digitalnoj revoluciji 1990-ih](./assets/en/127.webp)
 
+Početkom 1990-ih, kontekst je bio osoben. Preduzeća i vlade počinjali su da vrše sve veću kontrolu nad informacionim tehnologijama i nastajućim Internetom. Ovaj period obeležio je brz razvoj tih tehnologija, ali i rastuću zabrinutost zbog masovnog nadzora i sistematskog kršenja privatnosti građana.
 
-Oni se pojavljuju u kontekstu gde se informacione i komunikacione tehnologije brzo razvijaju, ali gde vlade i korporacije takođe počinju da vrše veću kontrolu nad tim tehnologijama. To je pokret koji se preseca sa libertarijanskim i anarhističkim misliocima. Motivisan je zabrinutošću zbog masovnog nadzora i kršenja privatnosti.
+Suočeni s tom zabrinutošću, libertarijanski i anarhistički mislioci okupili su se da deluju. Njihova vizija bila je jasna: **učiniti anonimnost i finansijsku slobodu dostupnim svima kroz digitalne kriptografske alate**, čime se izmiče državnoj kontroli. Krenuli su da razvijaju tehnologije koje bi građanima omogućile da očuvaju svoju privatnost i autonomiju u svakodnevnim online aktivnostima.
 
+#### Mailing lista i manifest
 
+![Cypherpunk vizija: anonimnost, sloboda i kriptografski otpor](./assets/en/128.webp)
 
-Ideja je bila da se anonimnost i finansijska sloboda učine dostupnim svima, zahvaljujući digitalnim kriptografskim alatima. Na ovaj način, vladine vlasti ne bi imale kontrolu nad aktivnostima na mreži.
+Godine 1992, Tim May i Eric Hughes pokrenuli su prvu Cypherpunk mailing listu. Ova platforma brzo je postala nervni centar pokreta, okupljajući developere, kriptografe i zagovornike digitalne slobode. Na toj istoj listi Satoshi Nakamoto će prvi put podeliti Bitcoin [White Paper](https://planb.academy/resources/glossary/white-paper) 2008. godine.
 
+U martu 1993, Eric Hughes je objavio *A Cypherpunk's Manifesto*, relativno kratak ali temeljan tekst:
 
-
-Prva Cypherpunk mejling lista, čiji je član bio Satoshi i gde je prvi put podelio Bitcoin beli papir, pokrenuta je 1992. godine od strane Tima Maja i Erika Hjuza. Njihov cilj je bio podrška kreiranju novog softvera za zaštitu privatnosti.
-
-
-
-Manifest Cypherpunk, koji je napisao Erik Hjuz 1993. godine, sažima njihovu filozofiju:
-
-
-
-> Privatnost je suštinska za otvoreno društvo u elektronskom dobu (...) Ne možemo očekivati da vlade, korporacije ili druge velike anonimne organizacije garantuju našu privatnost (...) Moj glavni cilj za Cypherpunks je da nateram ljude da brane svoju privatnost, umesto da se oslanjaju na nekog drugog da im je obezbedi.
+> Privatnost je suštinska za otvoreno društvo u elektronskom dobu. Ne možemo očekivati da vlade, korporacije ili druge velike organizacije garantuju našu privatnost.
 >
 
+> Eric Hughes, A Cypherpunk's Manifesto, March 23, 1993.
 
-> Eric Hughes - Cypherpunk Mailinglista, 23. mart 1993.
+![Osnivači cypherpunk-a i manifest iz 1993](./assets/en/129.webp)
 
-I dodaje:
+Fundamentalna motivacija je jasna: **poverljivost je ključni element slobode i moraju je graditi sami pojedinci**, a ne čekati je kao poklon od korporacija ili vlada.
 
+#### Filozofija: [kriptografija](https://planb.academy/resources/glossary/cryptography) iznad institucija
 
+Cypherpunk-ovi svoje poverenje polažu u decentralizovane kriptografske sisteme, a ne u centralizovane institucije poput banaka ili vlada. To je princip koji se direktno ponovo pojavljuje u dizajnu Bitcoina Satoshija Nakamota.
 
-> povjerljivost u otvorenom društvu zahtijeva anonimne transakcione sisteme. Do sada je gotovina bila glavni sistem ovog tipa.
+Politički, nastoje da izgrade decentralizovane mreže u kojima se odluke donose kolektivno, bez mogućnosti da bilo koji pojedinačni entitet nametne svoju volju. **Svaka centralizacija doživljava se kao zasnovana na prinudi, a ne na pristanku.** To odjekuje libertarijanskom filozofijom po kojoj je pristanak fundamentalna norma pravde. Ništa ne može biti pravedno ako ga centralizovana vlast nameće silom.
 
-Zato će se [kriptografija](https://planb.academy/resources/glossary/cryptography) koristiti kao alat otpora protiv svih oblika državne i korporativne kontrole. Ona osigurava da svaka strana u transakciji zna samo ono što je strogo neophodno za tu transakciju.
+Manifest takođe navodi da poverljivost u otvorenom društvu zahteva anonimne sisteme transakcija. Do sada je gotovina bila primarni sistem tog tipa. Ali u digitalnom društvu u kojem gotovina nestaje, **mora se izumeti digitalna valuta s istim svojstvima anonimnosti.** I upravo to će doći sa Bitcoinom.
 
+#### „Cypherpunk-ovi pišu kod”
 
+Cypherpunk-ovi se ne zadovoljavaju nadama. Aktivno intervenišu kako bi stvorili prostore slobode i autonomije. Otuda formula kojom se manifest zaključuje:
 
-Cypherpunks veruju u moć kriptografije da stvore prostore slobode i individualne autonomije, omogućavajući ljudima da komuniciraju i interaguju sigurno i anonimno.
+> Cypherpunk-ovi pišu kod.
 
+Za Erica Hughesa, put ka slobodi prolazi kroz aktivnu izgradnju anonimnih sistema koji proizvoljne političke podele čine irelevantnim. **Kod postaje fundamentalni alat za pretvaranje apstraktne ideje slobode u stvarnost.** Zato će Satoshi Nakamoto reći da je napisao celokupan Bitcoin kod pre nego što je uopšte napisao white paper.
 
+### Nasleđe: Bitcoin kao cypherpunk postignuće
 
-Oni zagovaraju model u kojem se poverenje polaže u decentralizovane kriptografske sisteme, a ne u centralizovane institucije kao što su banke, korporacije ili vlade.
+![Cypherpunk nasleđe i Bitcoin](./assets/en/130.webp)
 
+Od 2008. nadalje, Bitcoin je postao prva uspešna konkretizacija elektronske valute koja je necenzurabilna i suverena. Nudi decentralizovanu, pseudonimnu monetarnu alternativu koju vlasti teško kontrolišu. Bilo da ga usvajaju desničarski ili levičarski aktivisti, branitelji slobode ili jednakosti, ili jednostavno štediše bez političke etikete, **svakom pojedincu daje mogućnost da se emancipuje od tradicionalnog finansijskog sistema** i povrati kontrolu nad svojim novcem, a time i nad svojom slobodom.
 
+Iz ove tačke gledišta, bez izričitog polaganja prava na pripadnost bilo kom političkom taboru, Bitcoin nosi seme tihe revolucije i pridružuje se vrhu brojčanika u Nolanovom dijagramu.
 
-#### Metod sajferpankera
-
-
-
-> Cypherpunks pišu kod
-
-proklamuje Éric Hughes, zaključujući svoj manifest.
-
-
-
-Za njega, put napred leži u aktivnoj izgradnji anonimnih sistema koji čine proizvoljne političke podele irelevantnim i nepotrebnim. Kod se zasniva na primeni kriptografije kako bi se apstraktna ideja slobode transformisala u novu ekonomsku i društvenu stvarnost.
-
+![Bitcoin na političkom dijagramu](./assets/en/131.webp)
 
 
-Cypherpunks ne pronalaze utehu u nadama i željama. Oni aktivno intervenišu u tok događaja i oblikuju svoju sopstvenu sudbinu.
-
-
-
-Politički, oni nastoje da izgrade decentralizovane mreže gde se odluke donose kolektivno i nijedan entitet ne može nametnuti svoju volju. Sva centralizacija se zasniva na prinudi, a ne na pristanku, drugim rečima, tretira pojedince kao decu nesposobnu za autonomiju, koja moraju biti kažnjena ako počnu da odlučuju o svojoj sudbini.
-
-
-
-Ova filozofija slobode i aktivne konstrukcije, nasleđena od Cypherpunks-a, bila je oličena od strane Satoshi Nakamoto-a 2008. godine, sa izumom Bitcoin. On je bio prvi koji je sproveo u praksu ideju necenzurisane, suverene elektronske valute.
-
-
-
-![Cypherpunk Diagramme](./assets/fr/023.webp)
-
-
-
-Bitcoin ograničava državnu moć nudeći decentralizovanu, pseudonimnu i teško kontrolisanu monetarnu alternativu. Bilo da je usvojen od strane desničarskih ili levičarskih aktivista, branitelja slobode ili jednakosti, ili jednostavno od strane štediša bez političke etikete, pruža pojedincima priliku da se emancipuju od tradicionalnog finansijskog sistema i povrate kontrolu nad svojim novcem.
-
-
-
-Sa ove tačke gledišta, bez eksplicitnog tvrdjenja da pripada političkom taboru, Bitcoin nosi seme tihe revolucije i pridružuje se vrhu brojčanika u Nolanovom dijagramu.
-
-
-
-![Politique Diagramme](./assets/fr/024.webp)
-
-
-
-## Ko treba da odluči?
-
+## Ko treba da odlučuje?
 
 <chapterId>cfc7688e-d647-4af1-880d-c70d3ae7d823</chapterId>
 
 
+Tokom ovog kursa pokušao sam da pokažem da stvarna podela nije između levice, desnice i centra, koji svi dele etatističku pretpostavku. Na kraju, sve klasične političke porodice dele nepoverenje prema slobodnom tržištu i sklonost ka državnom intervencionizmu.
 
-U ovom kursu sam pokušao da pokažem da prava podela nije između levice, desnice ili centra, koji su svi preuzeli statistički postulat. U konačnici, sve klasične političke porodice dele nepoverenje prema slobodnom tržištu i sklonost ka državnom intervencionizmu.
+Ali šta je sa onima koji žele manje vlade i manje centralizacije? Korisnicima Bitcoina, na primer, koji žele da okončaju monopol nad stvaranjem novca. Kako ih smeštamo na politički spektar?
 
+### Stvarna podela
 
+U stvari, **stvarna politička podela leži u fundamentalnim filozofskim principima**: slobodi ili prinudi, dobrovoljnom pristanku ili prisili, odgovornom pojedincu ili kolektivu.
 
-Ali šta je sa onima koji žele manje vlade i manje centralizacije? Na primer, korisnici Bitcoin, koji žele da okončaju monopol na stvaranje novca. Kako njih da postavimo u ovaj politički spektar?
+Pravi način razmišljanja o politici jeste početi od etičkih principa, a ne od etiketa. Političko pitanje tada postaje: *da li želite da važne odluke u svom životu donosite sami, ili želite da ih neko drugi donosi umesto vas?*
 
+Na opštijem nivou, filozofsko pitanje je ovo: *da li društvena organizacija treba da bude proizvod namernog plana koji osmišljava i nameće politička klasa, ili rezultat slobodne evolucije koja nastaje iz dobrovoljnih interakcija svih aktera ekonomskog i društvenog života?*
 
-Zapravo, prava politička podela leži u fundamentalnim filozofskim principima: sloboda ili prisila, dobrovoljni pristanak ili prisila, odgovoran pojedinac ili kolektiv.
+#### Ignorisana politička porodica: libertarijanci
 
+Ova nova politička podela, zasnovana na suprotstavljenosti principa, iznosi na svetlo političku porodicu koja je veoma stvarna, ali je šira javnost često ignoriše: libertarijance.
 
-
-Pravi način razmišljanja o politici je da se krene od etičkih principa, a ne od etiketa.
-
-
-
-Od tada, političko pitanje više nije bilo: *da li želiš da donosiš važne odluke u svom životu, ili želiš da ih neko drugi donosi umesto tebe?*
-
-
-
-Na opštijem nivou, filozofsko pitanje glasi: *da li društvena organizacija treba da bude proizvod promišljenog plana koji je osmislila i nametnula politička klasa, ili rezultat slobodne evolucije koja proizilazi iz dobrovoljnih interakcija između svih učesnika u ekonomskoj i društvenoj sferi?*
-
-
-
-**Ignorisana politička porodica: libertarijanci**
-
-
-
-Ova nova politička podela, zasnovana na suprotstavljanju principa, osvetljava političku porodicu koja je veoma stvarna, ali često zanemarena od strane šire javnosti: libertarijance.
-
-
-
-Iz libertarijanske perspektive, pojedinci imaju i pravo i odgovornost da donose sopstvene odluke. Nasuprot tome, konvencionalne političke porodice, od levice do desnice, veruju da vlada treba da donosi neke ili mnoge važne odluke u životu pojedinca i u ekonomskom životu uopšte.
-
-
+Iz libertarijanske tačke gledišta, **pojedinci imaju i pravo i odgovornost da donose sopstvene odluke.** Nasuprot tome, konvencionalne političke porodice, od levice do desnice, veruju da vlada treba da donosi neke ili mnoge važne odluke u životu pojedinca i u ekonomskom životu uopšte.
 
 Ali zašto bi neki nametali svoj način života i pogled na svet drugima?
 
+#### Sloboda kao okvir za suživot
 
-U pravom režimu slobode, oni koji se pridržavaju ideala levice mogu živeti prema svojim principima. Slobodni su da se odreknu svoje imovine, da podele sredstva za proizvodnju koja poseduju, ili da doniraju svoje plate organizaciji po svom izboru, koja bi mogla preraspodeliti ta sredstva najugroženijima ili podržati kulturne inicijative i preduzeća koja promovišu zapošljavanje.
+U istinskom režimu slobode, oni koji se pridržavaju ideala levice mogu živeti prema svojim principima. Slobodni su da se odreknu svoje imovine, da dele sredstva za proizvodnju koja poseduju, ili da doniraju svoje plate organizaciji po svom izboru, koja bi ta sredstva mogla preraspodeliti najugroženijima ili podržati kulturne inicijative i preduzeća koja promovišu zapošljavanje.
 
+Isto tako, oni koji dele desničarske vrednosti imaju pravo da žive prema svojim uverenjima: da marljivo rade, da štede, da prenose porodične i nacionalne vrednosti svojoj deci, da izbegavaju sadržaj suprotan njihovom moralu, ili da biraju koga će zaposliti. **Niko ne treba da nameće svoj način života drugima.** Kroz slobodu tržišta i moć izbora naši ciljevi mogu biti postignuti mirno.
 
+Ukratko, fundamentalno razilaženje između političkih trendova leži u ulozi centralizovane države: socijalisti i konzervativci koriste državu da nametnu svoju viziju društva, dok libertarijanci zagovaraju decentralizaciju, ostavljajući pojedincima i privatnim zajednicama da definišu i organizuju društvo prema svojim preferencijama i u skladu s pravima svojine.
 
-Prema istom token, u ovom režimu slobode, oni koji dele desničarske vrednosti imaju pravo da žive u skladu sa svojim uverenjima: da vredno rade, štede, prenose porodične i nacionalne vrednosti svojoj deci, izbegavaju sadržaje suprotne njihovim moralima, ili da odluče da ne zaposle ovu ili onu vrstu radnika. Niko ne bi trebalo da nameće svoj način života drugima. Kroz slobodu tržišta i moć izbora naši ciljevi mogu biti postignuti mirno.
+### A šta je sa Bitcoinom?
 
+Zato je Bitcoin takođe politički raskid. To je mirna pobuna protiv politizacije novca i njegove konfiskacije od strane male manjine. Bitcoin nije pitanje desnice i levice. Naprotiv, **on je tržišna valuta suprotstavljena državnom novcu.**
 
+Državni ili fiat novac jeste prinudan, centralizovan sistem koji se lako stvara, jeftin je i ima nesrećnu tendenciju da gubi vrednost. Suprotno tome, tržišni novac, istorijski ilustrovan zlatom, a danas Bitcoinom, zdrava je valuta koju je teško proizvesti, koja nastaje dobrovoljno, spontano i zadržava svoju vrednost tokom dugog roka.
 
-Ukratko, osnovna razlika između političkih trendova leži u ulozi centralizovane države: socijalisti i konzervativci koriste državu da nametnu svoju viziju društva, dok libertarijanci zagovaraju decentralizaciju, prepuštajući pojedincima i privatnim zajednicama da definišu i organizuju društvo, prema svojim preferencijama i u skladu sa pravima vlasništva.
+Tako Bitcoin, zahvaljujući svojoj fiksnoj ponudi i decentralizovanoj prirodi, **predstavlja najzdraviji oblik valute ikada izmišljen**, nudeći potencijalnu alternativu širenju državne moći i neograničenom finansiranju ratova.
 
-
-
-**A šta je sa Bitcoin?**
-
-
-
-Zato je Bitcoin takođe politički raskid. To je mirna pobuna protiv politizacije novca i njegove konfiskacije od strane male manjine. Bitcoin nije o desnici i levici. Naprotiv, to je tržišna valuta koja se suprotstavlja državnom novcu.
-
+Konačno, Bitcoin nije klasičan politički projekat u smislu državne ili prinudne inicijative. To je tehnologija koja pojedincima omogućava da odlučuju sami za sebe, što paradoksalno ima dalekosežne političke posledice u ograničavanju centralizovanih, dominirajućih moći.
 
 
-Državni ili fiat novac je prinudni, centralizovani sistem koji je lako stvoriti, jeftin je i ima nesrećnu tendenciju da gubi vrednost.
-
-
-
-Nasuprot tome, tržišni novac, istorijski ilustrovan zlatom, a trenutno Bitcoin, je zdrava, teško proizvediva valuta koja nastaje dobrovoljno, spontano i zadržava svoju vrednost na duži rok.
-
-
-
-Tako Bitcoin, zahvaljujući svojoj fiksnoj ponudi i decentralizovanoj prirodi, predstavlja najzdraviji oblik valute ikada izumljen, nudeći potencijalnu alternativu širenju državne moći i neograničenom finansiranju ratova.
-
-
-
-Konačno, Bitcoin nije klasičan politički projekat, u smislu državne ili prinudne inicijative. To je tehnologija koja omogućava pojedincima da sami odlučuju, što paradoksalno ima dalekosežne političke posledice u ograničavanju centralizovanih, dominantnih moći.
-
-
-
-![Leonard Read Quote](./assets/fr/025.webp)
-
+![Citat Leonarda Reada o slobodi i autoritarizmu](./assets/en/132.webp)
 
 
 # Završni deo
 
 
-
 <partId>d886a919-12b0-4e38-86de-7159b98b1864</partId>
 
 
-
-## Proceni ovaj kurs
-
+## Ocenite ovaj kurs
 
 
 <chapterId>f0b8398c-7c15-417e-83b0-42e7aab533dc</chapterId>
-
 
 
 <isCourseReview>true</isCourseReview>
@@ -1932,9 +1630,7 @@ Konačno, Bitcoin nije klasičan politički projekat, u smislu državne ili prin
 ## Završni ispit
 
 
-
-<chapterId>230ddc56-ceb8-11f0-bf47-6f8dd2541da1</chapterId>
-
+<chapterId>f776853b-8303-47d9-8327-d925c594564d</chapterId>
 
 
 <isCourseExam>true</isCourseExam>
@@ -1942,8 +1638,6 @@ Konačno, Bitcoin nije klasičan politički projekat, u smislu državne ili prin
 ## Zaključak
 
 
-
 <chapterId>1dfe6e4a-47d5-48e1-94d0-6ac29b31e161</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>

@@ -1,8 +1,9 @@
-question: Hayek'in dağınık bilgi teorisine göre, merkezi planlama bir ekonomik koordinasyon mekanizması olarak neden temelden kusurludur?
-answer: Bilginin sadece bireyler arasında dağınık parçalar halinde bulunması, merkezi planlamacıların etkin koordinasyon için gereken eksiksiz bilgiye erişimini imkansız hale getirmektedir
+question: "İş dünyası yanlısı olmak ile piyasa yanlısı olmak arasındaki temel ayrım nedir?"
+answer: "İş dünyası yanlıları belirli şirketleri başarısızlıktan korumak için devlet müdahalesi ararken, piyasa yanlıları deregülasyonu destekler ve piyasanın doğal biçimde yeniden örgütlenebilmesi için işletmelerin başarısız olmasına izin verir"
 wrong_answers:
-  - Merkezi planlamacılar, tam piyasa bilgisine sahip olsalar bile, başkaları adına karar verme konusunda ahlaki yetkiden yoksundurlar
-  - Siyasi yozlaşma ve kişisel çıkarlar, merkezi planlamacıların gerekli tüm verilere erişebilmelerine rağmen ekonomik açıdan en uygun çözümleri uygulamalarını engeller
-  - Merkezi planlama, Hayek'in zamanında mevcut olmayan ancak bugün işe yarayabilecek çok fazla hesaplama gücü ve teknoloji gerektirir
-explanation: |
-  Hayek'in merkezi planlama eleştirisi ahlaki ya da teknolojik değil, epistemolojiktir. Hayek, bilginin hiçbir zaman yoğunlaştırılmış bir biçimde var olmadığını, sadece 'tüm farklı bireylerin sahip olduğu eksik ve sıklıkla çelişkili bilginin dağınık parçaları' olarak var olduğunu savunmuştur Bu dağınık bilgi sorunu, merkezi planlamacıların sadece bireylerin sahip olduğu öznel maliyetlere, faydalara ve yerel tercihlere erişemeyeceği anlamına gelir ve niyetleri veya hesaplama yetenekleri ne olursa olsun verimli ekonomik koordinasyonu imkansız hale getirir.
+  - "İş dünyası yanlıları büyük şirketlere odaklanırken, piyasa yanlıları yalnızca küçük işletmeleri ve startup'ları desteklemeye odaklanır"
+  - "İş dünyası yanlılığı işçi kooperatiflerini tercih eden sol kanat bir konumken, piyasa yanlılığı özel mülkiyeti tercih eden sağ kanat bir konumdur"
+  - "İş dünyası yanlıları tüm rekabeti reddederken, piyasa yanlıları onaylanmış işletmeler arasında hükümetçe düzenlenen rekabeti destekler"
+explanation: >-
+  İş dünyası yanlısı konum, rekabeti düzenlemeler yoluyla elde edilen bir yönetim aracı olarak görür ve iş kayıplarını önlemek için sübvansiyonları ve kurtarmaları meşrulaştırır. İş dünyası yanlısı görüşte piyasa kırılgandır ve devlet tarafından kurtarılmaya ihtiyaç duyar. Piyasa yanlıları ise rekabeti serbest girişimin doğal sonucu olarak görür; bu da deregülasyonu ve işletmelerin başarısız olmasına izin vermeyi ima eder, çünkü başarısızlık piyasanın doğal biçimde yeniden örgütlenmesine izin verir ve alanı daha yetkin aktörlere açar.
+reviewed: false

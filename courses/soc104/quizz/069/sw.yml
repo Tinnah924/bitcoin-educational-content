@@ -1,8 +1,9 @@
-question: Ni itikadi gani ya kisiasa inaweyoza kuunga mkono ubinafsishaji kamili wa taasisi za ndoa, na kuondoa ushiriki wote wa serikali katika utambuzi wa ndoa?
-answer: Wanaharakati wa uhuru, ambao wanatetea kutenganisha ndoa na serikali na kuruhusu vyama vya kibinafsi kushughulikia utambuzi wa ndoa
+question: "Kuhusu suala la udhibiti wa silaha za moto, tofauti muhimu kati ya misimamo ya kihafidhina na kilibertaria ni ipi?"
+answer: "Wote hukubali kiwango fulani cha udhibiti, lakini wahafidhina wanataka kanuni zitoke kwa mamlaka halali ya umma huku walibertaria wakitaka kanuni zitokane na wale wanaohusika moja kwa moja, kama vyama vya raia na ushindani wa soko"
 wrong_answers:
-  - Wasoshalisti, ambao wanataka kupanua ndoa inayotambuliwa na serikali ili kujumuisha mwelekeo wote wa kijinsia kwa ajili ya haki ya kijamii
-  - Wahafidhina, wanaotaka serikali ihifadhi fasili za ndoa za kitamaduni ili kulinda taasisi za kistaarabu
-  - Watetezi wa kati, wanaounga mkono utambuzi wa serikali wa aina mbalimbali za ndoa huku wakidumisha mshikamano wa kijamii
-explanation: |
-  Wanaharakati wa uhuru wanapendekeza kipekee kubinafsisha ndoa kabisa, wakisema serikali haipaswi kulazimisha utambuzi wa aina yoyote ya ndoa. Wanatetea makanisa, masinagogi, misikiti, au mashirika ya kidunia kushughulikia ndoa, wakiita hii 'mgawanyiko wa ndoa na serikali'. Wasoshalisti wanataka utambuzi uliopanuliwa wa serikali kwa usawa, wahafidhina wanataka ulinzi wa serikali kwa ndoa ya kitamaduni, na wakazi wa kati wanaunga mkono utambuzi jumuishi wa serikali unaoonyesha utofauti wa kijamii.
+  - "Wahafidhina hupinga udhibiti wote wa silaha za moto huku walibertaria wakikubali udhibiti mkali wa serikali kwa ajili ya usalama wa umma"
+  - "Wahafidhina wanataka kupiga marufuku silaha za moto kabisa huku walibertaria wakiunga mkono upatikanaji usio na mipaka wa silaha zote"
+  - "Wahafidhina hujenga msimamo wao juu ya haki za mtu binafsi huku walibertaria wakijenga wao juu ya wajibu wa pamoja"
+explanation: >-
+  Wahafidhina na walibertaria wote hukubaliana kwamba aina fulani ya udhibiti wa kubeba silaha ni muhimu. Tofauti muhimu iko katika nani anaweka kanuni hizo. Wahafidhina husisitiza kwamba kanuni lazima zitoke kwa mamlaka ya umma iliyopewa jukumu la kulinda manufaa ya wote (kutoka juu kwenda chini). Walibertaria husema kwamba udhibiti unapaswa kutoka kwa wale wanaohusika moja kwa moja: wataalamu wa usalama, vyama vya raia, na ushindani wa soko (kutoka chini kwenda juu).
+reviewed: false

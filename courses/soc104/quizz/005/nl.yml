@@ -1,11 +1,9 @@
-question: Wat is volgens het hoofdstuk het grootste probleem met het traditionele links-rechts politieke spectrum?
-answer: Er is geen plaats voor klassiek liberaal denken, dat noch bij links egalitarisme noch bij rechts nationalisme past
+question: "Wat zijn de twee assen van het Nolan-diagram?"
+answer: "Een verticale as die persoonlijke vrijheden meet en een horizontale as die economische vrijheden meet"
 wrong_answers:
-  - Het oversimplificeert de politiek door slechts twee extreme standpunten te hebben zonder enige gematigde of centristische opties
-  - Het houdt geen rekening met economische verschillen tussen socialistische en kapitalistische ideologieën in moderne democratieën
-  - Er wordt geen goed onderscheid gemaakt tussen democratische en autoritaire regeringsstructuren
-explanation: |
-  Het hoofdstuk stelt specifiek dat de links-rechts as geen plaats biedt aan het klassieke liberale gedachtegoed, dat niet past bij het egalitarisme van links of het nationalisme van rechts
-  van links of het nationalisme van rechts. Dit wordt geïllustreerd aan de hand van voorbeelden van figuren als Thomas Jefferson, Frédéric Bastiat en hedendaagse libertariërs
-  libertariërs die niet netjes in één van beide categorieën passen. De andere opties hebben weliswaar betrekking op de beperkingen van politieke spectrums, maar niet op de specifieke kritiek die in het hoofdstuk wordt geuit op het klassieke nationalisme van rechts
-  kritiek in het hoofdstuk over klassiek liberalisme dat buiten dit kader valt.
+  - "Een horizontale as van links naar rechts en een verticale as van autoritair naar democratisch"
+  - "Een verticale as die rijkdom meet en een horizontale as die opleidingsniveaus meet"
+  - "Een horizontale as van socialisme naar kapitalisme en een verticale as van traditie naar vooruitgang"
+explanation: >-
+  David Nolan ontwierp zijn diagram met twee specifieke assen: persoonlijke vrijheden (verticaal) en economische vrijheden (horizontaal). Deze tweedimensionale aanpak vervangt de oververeenvoudigde links-rechtslijn en vat de complexiteit van politieke ideologieën beter door de twee hoofdcategorieën van vrijheid van elkaar te scheiden.
+reviewed: false

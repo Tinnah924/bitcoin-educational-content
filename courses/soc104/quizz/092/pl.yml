@@ -1,9 +1,9 @@
-question: Zgodnie z filozofią Satoshi Nakamoto, jaki fundamentalny problem z konwencjonalnymi walutami próbuje rozwiązać Bitcoin?
-answer: Nadmierne zaufanie wymagane w scentralizowanych instytucjach, które w przeszłości naruszały to zaufanie poprzez obniżanie wartości waluty
+question: "Jakie trzy filary państwa opiekuńczego podważa Bitcoin?"
+answer: "System fiskalny, monopol monetarny służący finansowaniu wydatków przez dług oraz nadzór nad transakcjami, aby uniemożliwić używanie alternatywnych walut"
 wrong_answers:
-  - Nieefektywność techniczna tradycyjnych systemów przetwarzania płatności, która powoduje opóźnienia w transakcjach międzynarodowych
-  - Wpływ fizycznej produkcji waluty na środowisko i ślad węglowy tradycyjnej infrastruktury bankowej
-  - Matematyczna złożoność obecnej polityki pieniężnej, która utrudnia obywatelom zrozumienie decyzji gospodarczych
-explanation: |
-  Satoshi Nakamoto wyraźnie stwierdził, że "głównym problemem z konwencjonalną walutą jest zaufanie, które jest wymagane, aby działała" oraz że "historia walut fiducjarnych jest pełna naruszeń tego zaufania".
-  Ten cytat ujawnia główny cel Bitcoin: wyeliminowanie potrzeby zaufania bankom centralnym, by nie debetowały waluty. Odniesienie bloku Genesis do ratowania banków wzmacnia tę krytykę błędów instytucjonalnych. Błędne odpowiedzi koncentrują się na kwestiach technicznych, środowiskowych lub złożoności, które, choć potencjalnie ważne, nie były podstawową filozoficzną motywacją stojącą za stworzeniem Bitcoin, tak jak wyraził to jego twórca.
+  - "Budżet wojskowy, system edukacji publicznej oraz kontrolowaną przez rząd infrastrukturę opieki zdrowotnej"
+  - "System sądowniczy, proces legislacyjny oraz wykonawcze egzekwowanie regulacji wobec przedsiębiorstw"
+  - "System zabezpieczenia społecznego, ustawodawstwo dotyczące płacy minimalnej oraz progresywną strukturę podatku dochodowego"
+explanation: >-
+  Bitcoin podważa trzy filary, na których opiera się państwo opiekuńcze. Po pierwsze, system fiskalny, który jest niewystarczający do pokrycia wydatków. Po drugie, monopol monetarny, czyli zdolność emitowania pieniądza w celu finansowania wydatków przez dług. Po trzecie, nadzór nad transakcjami, zdolność powstrzymywania ludzi od używania jakiejkolwiek waluty innej niż narzucone przez państwo fiat. Bitcoin podważa wszystkie trzy jednocześnie.
+reviewed: false

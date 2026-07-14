@@ -1,8 +1,9 @@
-question: Selon Milton Friedman, pourquoi les programmes sociaux destinés aux pauvres échouent-ils souvent à atteindre leurs objectifs?
-answer: Parce qu'ils créent des effets pervers comme la dépendance économique et les distorsions de marché
+question: "Pourquoi Rothbard a-t-il critiqué la vision libertaire de la nature humaine, et quelle alternative a-t-il proposée ?"
+answer: "Il les a accusés d'avoir une vision naïve du 'bon sauvage' et a soutenu que la société doit utiliser la propriété privée et de bonnes incitations pour guider les comportements intéressés"
 wrong_answers:
-  - Parce que leurs sponsors manquent de bonnes intentions et de générosité envers les nécessiteux
-  - "Parce qu'ils ne disposent pas de financements suffisants pour répondre aux besoins réels"
-  - Parce que les bénéficiaires ne comprennent pas comment utiliser efficacement ces programmes
-explanation: |
-  Friedman souligne que les politiques sociales, malgré leurs intentions généreuses, échouent souvent car elles ne prennent pas en compte l'analyse rigoureuse des incitations et des comportements humains. Ces programmes créent des effets pervers non anticipés comme la dépendance économique ou la distorsion des marchés, produisant des résultats opposés aux objectifs initiaux.
+  - "Il a salué leur compréhension de la coopération humaine mais a soutenu qu'un État minimal restait nécessaire pour faire respecter les contrats"
+  - "Il était d'accord pour dire que les humains sont naturellement bons mais insistait sur le fait que seuls les marchés libres pouvaient canaliser cette bonté vers une activité productive"
+  - "Il a rejeté leur insistance sur les droits individuels et a plutôt soutenu que les communautés devraient définir collectivement les normes morales"
+explanation: >-
+  Rothbard a critiqué les libertaires pour avoir adopté une vision naïve, de type rousseauiste, de la nature humaine comme naturellement bonne. Il a plutôt soutenu que les gens sont guidés par leur intérêt personnel, et que la société doit être organisée de sorte que de bonnes incitations guident les comportements. Cela exige de reconnaître et de garantir la propriété privée. Abolir l'État ne signifie pas abolir ses fonctions ; la police et la justice devraient être gérées par le marché libre à travers la concurrence.
+reviewed: false

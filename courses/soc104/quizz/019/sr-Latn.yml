@@ -1,8 +1,9 @@
-question: Prema Nolanovom dijagramu, ključni faktor koji razlikuje političke filozofije je odnos prema ličnim i ekonomskim slobodama.
-answer: Stepen vladine kontrole nad ljudskim delovanjem u ličnim i ekonomskim sferama
+question: "Šta pojam 'liberal' znači u evropskoj političkoj tradiciji?"
+answer: "Pristalica laissez-faire ekonomije, smanjenog državnog mešanja i individualnih sloboda"
 wrong_answers:
-  - Razlika između socijalističkih i kapitalističkih ekonomskih sistema
-  - Razlika između tradicionalnih moralnih vrednosti i progresivnih društvenih pogleda
-  - Nivo podrške za preraspodelu bogatstva i socijalne programe
-explanation: |
-  Centralna ideja Nolanovog dijagrama je da je glavna razlika između političkih filozofija stepen vladine kontrole nad ljudskim delovanjem u ličnoj i ekonomskoj sferi. Ovo stvara dvodimenzionalni model umesto jednostavne levo-desno ose. Ostale opcije predstavljaju tradicionalne načine kategorizacije politike, ali propuštaju ključni uvid da i levica i desnica mogu biti etatističke - samo žele da koriste moć vlade u različitim oblastima. Dijagram otkriva da je prava razlika između onih koji žele da koriste silu za nametanje svojih vrednosti (bilo levo ili desno) i onih koji preferiraju manju vladinu kontrolu uopšte.
+  - "Zagovornik državne intervencije, javnog zdravstvenog osiguranja i programa protiv siromaštva"
+  - "Radikalni anarhista koji traži potpuno ukidanje vlade i privatne svojine"
+  - "Centrista koji jednako uravnotežuje socijalističke i konzervativne pozicije u svim oblastima politike"
+explanation: >-
+  U Evropi je liberalizam ostao povezan sa laissez-faire ekonomskim politikama, smanjenim državnim mešanjem i odbranom individualnih sloboda. Prvi pogrešan odgovor opisuje američke liberale, koji su značenje tog pojma pomerili ka intervencionizmu. Evropski liberalizam nije ni anarhizam ni centrizam.
+reviewed: false

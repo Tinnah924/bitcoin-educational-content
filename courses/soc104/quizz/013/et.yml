@@ -1,9 +1,9 @@
-question: Mida tähistab paigutus majandustelje paremal pool (100 suunas)?
-answer: Eelistab majanduslikku vabadust, vähem riigipoolset sekkumist, madalamaid makse ja vabu turge
+question: "Milliseid sümboolseid tegelasi seostatakse Nolani diagrammil maksimaalse majandusliku vabadusega?"
+answer: "Margaret Thatcher, Ronald Reagan ja Javier Milei"
 wrong_answers:
-  - Riigi tugeva sekkumise eelistamine koos kõrgete maksude ja ulatuslike avalike teenustega
-  - Keskenduda isiklikele vabadustele, nagu sõnavabadus ja individuaalsed elustiilivalikud
-  - Rõhuasetus traditsioonilistele väärtustele, turvalisusele ja avaliku korra säilitamisele autoriteedi kaudu
-explanation: |
-  Majandustelje parempoolne pool esindab majandusvabaduse eelistamist, mida iseloomustab väiksem riiklik sekkumine majandusse, vähem regulatsioone,
-  madalamad maksud ning ettevõtete ja üksikisikute suurem vabadus toota, vahetada ja tarbida. See positsioon rõhutab vabu turge, eraomandit ja konkurentsi kui jõukuse edasiviivaid tegureid. Teised valikud kirjeldavad majandustelje vasakpoolset osa (tugev riigipoolne sekkumine) või vertikaalset telge, mis käsitleb pigem isiklikke/ühiskondlikke vabadusi kui majanduspoliitikat.
+  - "Franklin D. Roosevelt, Jean Jaures ja Bernie Sanders"
+  - "Nelson Mandela, Simone Veil ja Noam Chomsky"
+  - "Vladimir Putin, Xi Jinping ja Joseph de Maistre"
+explanation: >-
+  Thatcherit, Reaganit ja Mileid nimetatakse maksimaalse majandusliku vabaduse sümboolsete tegelastena, kes eelistavad väiksemat riiklikku sekkumist, vähem regulatsioone ja madalamaid makse. Roosevelt, Jaures ja Sanders esindavad vastaspoolust, mis eelistab riiklikku kontrolli majanduse üle. Mandela, Veil ja Chomsky esindavad maksimaalset isiklikku vabadust. Putin, Xi Jinping ja de Maistre esindavad maksimaalset riiklikku kontrolli isikliku elu üle.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Enligt Eric Hughes Cypherpunk Manifesto, vilket är det primära ansvaret för att försvara integriteten i ett öppet elektroniskt samhälle?
-answer: Individer måste aktivt försvara sin egen integritet i stället för att förlita sig på att regeringar eller företag ska tillhandahålla den
+question: "Hur hänger cypherpunk-filosofin om centralisering samman med den libertarianska principen om samtycke som rättvisans grundläggande norm?"
+answer: "Cypherpunks ser all centralisering som grundad på tvång snarare än samtycke, vilket återspeglar den libertarianska ståndpunkten att ingenting kan vara rättvist om det påtvingas av en centraliserad auktoritet genom våld"
 wrong_answers:
-  - Regeringar bör införa omfattande sekretessbestämmelser för att skydda medborgarna från företagsövervakning
-  - Företag måste införa frivilliga integritetsstandarder och självreglera sina metoder för datainsamling
-  - Internationella organisationer bör skapa bindande avtal som föreskriver integritetsskydd i alla länder
-explanation: |
-  Eric Hughes sade uttryckligen i Cypherpunk-manifestet att "Vi kan inte förvänta oss att regeringar, företag eller andra stora anonyma organisationer ska garantera oss sekretess ... Mitt huvudmål för Cypherpunks är att få människor att försvara sin sekretess, snarare än att förlita sig på att någon annan ska tillhandahålla den
-  Denna filosofi betonar individuellt ansvar och självtillit genom kryptografiska verktyg och avvisar beroendet av externa institutioner för integritetsskydd, vilket är anledningen till att Cypherpunks utvecklade decentraliserade kryptografiska system.
+  - "Cypherpunks anser att centralisering är acceptabel när den godkänns genom demokratisk majoritetsomröstning, i linje med libertariansk respekt för konstitutionellt styre"
+  - "Cypherpunks stöder tillfällig centralisering under nödsituationer, vilket återspeglar den libertarianska synen att individuella rättigheter kan upphävas när kollektivet hotas"
+  - "Cypherpunks motsätter sig centralisering endast i tekniska system, samtidigt som de accepterar politisk centralisering som nödvändig för att upprätthålla äganderätt och kontrakt"
+explanation: >-
+  Cypherpunks sätter sin tillit till decentraliserade kryptografiska system snarare än centraliserade institutioner. All centralisering uppfattas som grundad på tvång snarare än samtycke. Detta återspeglar direkt den libertarianska filosofin att samtycke är rättvisans grundläggande norm. Ingenting kan vara rättvist om det påtvingas av en centraliserad auktoritet genom våld, vilket är anledningen till att de försökte bygga decentraliserade nätverk där ingen enskild aktör kunde påtvinga sin vilja.
+reviewed: false

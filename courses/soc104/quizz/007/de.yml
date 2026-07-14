@@ -1,10 +1,9 @@
-question: Welche beiden Achsen werden im Nolan-Diagramm zur Darstellung politischer Ideologien verwendet?
-answer: Wirtschaftliche Freiheit und persönliche Freiheit
+question: "Welche Position befindet sich im Nolan-Rhombus ganz oben und steht für maximale Freiheit?"
+answer: "Libertarismus, der die größtmögliche wirtschaftliche und persönliche Freiheit unterstützt"
 wrong_answers:
-  - Linke Politik und rechte Politik
-  - Sozialismus und Kapitalismus
-  - Demokratie und Autoritarismus
-explanation: |
-  Das Nolan-Diagramm verwendet zwei Dimensionen: wirtschaftliche Freiheit und persönliche Freiheit, wodurch ein nuancierteres politisches Spektrum als die traditionelle Links-Rechts-Achse entsteht.
-  Dieser zweidimensionale Ansatz ermöglicht eine bessere Positionierung verschiedener Ideologien wie Libertarismus (hohe wirtschaftliche und persönliche Freiheit), Sozialismus
-  (geringe wirtschaftliche, hohe persönliche Freiheit) und Konservatismus (hohe wirtschaftliche, geringe persönliche Freiheit). Die traditionelle Links-Rechts-Achse wird von Nolan als unzureichend angesehen, da sie die Komplexität der politischen Positionen nicht erfasst, insbesondere die Einordnung des klassischen Liberalismus in die politische Landschaft.
+  - "Konservatismus, der traditionelle Werte und wirtschaftliche Freiheit unterstützt"
+  - "Zentrismus, der alle politischen Positionen auf pragmatische Weise ausbalanciert"
+  - "Sozialismus, der persönliche Freiheit und soziale Gleichheit unterstützt"
+explanation: >-
+  Libertarismus nimmt im Nolan-Rhombus die obere Position als Gegenpol zum Etatismus ein. Er steht für diejenigen, die den größtmöglichen Grad sowohl wirtschaftlicher als auch persönlicher Freiheit unterstützen. Konservatismus liegt rechts (hohe wirtschaftliche, geringe persönliche Freiheit), Sozialismus links (hohe persönliche, geringe wirtschaftliche Freiheit) und Zentrismus in der Mitte.
+reviewed: false

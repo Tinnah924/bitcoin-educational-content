@@ -1,10 +1,9 @@
-question: Miks on teksti kohaselt raske liigitada Bitcoin traditsioonilisel parem-vasakpoolsel poliitilisel teljel?
-answer: Kuna Bitcoin ületab traditsioonilisi eraldusjooni ja meelitab ligi erineva poliitilise taustaga toetajaid
+question: "Kust pärineb vasak-parem poliitiline jaotus?"
+answer: "Istumiskorraldusest Prantsuse revolutsiooni 1789. aasta arutelude ajal"
 wrong_answers:
-  - Sest Bitcoin toetavad eranditult majandusliberaalsust pooldavad parempoolsed isiksused.
-  - Sest Bitcoin on peamiselt vasakpoolsete poolt toetatud selle finantskaasamise potentsiaali tõttu.
-  - Sest Bitcoin on neutraalne tehnoloogia, millel puudub poliitiline mõõde.
-explanation: |
-  Tekstis selgitatakse, et Bitcoin on raske klassifitseerida parem-vasak teljel, kuna see detsentraliseeritud tehnoloogia meelitab poolehoidjaid erinevatest poliitilistest
-  taustaga inimesi, sealhulgas parempoolseid, vasakpoolseid, anarhiste ja isegi apoliitilisi isikuid. Erinevalt teistest võimalustest ei ole Bitcoin piiratud ühe poliitilise leeri jaoks,
-  vaid ületab traditsioonilisi eraldusjooni, mistõttu ei ole parem-vasakpoolne dihhotoomia selle õigeks paigutamiseks piisav.
+  - "Karl Marxi ja Adam Smithi kirjutistest üheksateistkümnendal sajandil"
+  - "Ameerika kodusõjast põhja- ja lõunaosariikide vahel"
+  - "Valgustusajastu filosoofidest, kes eraldasid mõistuse traditsioonist"
+explanation: >-
+  Vasak-parem jaotus ulatub tagasi 1789. aastasse, kui Prantsuse Rahvusassamblee saadikud, kes pooldasid kuninga võimu säilitamist, istusid presidendist paremal, samal ajal kui need, kes tahtsid tema võimu piirata, istusid vasakul. See ei pärinenud Marxilt ja Smithilt, Ameerika kodusõjast ega valgustusfilosoofiast.
+reviewed: false

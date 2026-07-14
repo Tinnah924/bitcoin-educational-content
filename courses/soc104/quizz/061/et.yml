@@ -1,9 +1,9 @@
-question: Mis on Hannah Arendti analüüsi kohaselt totalitaarse kasvatuse peamine eesmärk?
-answer: Hävitada inimeste võimet kujundada iseseisvaid veendumusi, mitte sisendada konkreetseid uskumusi
+question: "Mida näitab Mussolini 1920. aasta avaldus „Kõik riigis, mitte midagi väljaspool riiki, mitte midagi riigi vastu“ totalitarismi kohta?"
+answer: "Avaliku ja privaatse ruumi vahel ei ole enam mingit eraldust, sest riik neelab ühiskonna täielikult endasse"
 wrong_answers:
-  - Tõhusalt edastada elanikkonnale režiimi ideoloogiat ja poliitilisi põhiväärtusi
-  - Luua kõrgelt haritud tööjõud, mis on võimeline toetama riigi majanduslikke eesmärke
-  - Likvideerida kirjaoskamatus ja luua üldine juurdepääs põhihariduse võimalustele
-explanation: |
-  Hannah Arendt väitis, et totalitaarse kasvatuse eesmärk ei olnud mitte veendumuste juurutamine, vaid iseseisva veendumuse kujundamise võime hävitamine.
-  See eristab totalitaarsed süsteemid teistest autoritaarsetest režiimidest, mis tahavad lihtsalt oma ideoloogiat peale suruda. Kriitilise mõtlemisvõime hävitamisega loovad totalitaarsed režiimid elanikkonna, kes ei ole võimeline iseseisvaks poliitiliseks tegevuseks, mis teenib nende eesmärki saavutada täielik kontroll ühiskonna üle ja likvideerib võimaliku opositsiooni.
+  - "Riik keskendub eranditult sõjalisele võimule, jättes majanduse eraettevõtlusele"
+  - "Kodanikud võivad vabalt eraviisiliselt organiseeruda, kuni nad valitsust avalikult ei kritiseeri"
+  - "Valitsus kontrollib ainult poliitilist tegevust, samal ajal kui kultuuriline ja religioosne elu jäävad autonoomseks"
+explanation: >-
+  Mussolini avaldus tabab totalitarismi olemust: totaalsust. Kõik neelatakse riiki, mis tähendab, et avaliku ja privaatse ruumi vahel ei ole mingit eraldust. Ühiskond kaotab igasuguse autonoomia, kuni kõige argisemate tegevusteni nagu spordiklubi avamine. See läheb palju kaugemale üksnes sõjalise, poliitilise või majandusliku sfääri kontrollimisest.
+reviewed: false

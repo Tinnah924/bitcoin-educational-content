@@ -1,9 +1,9 @@
-question: Was ist nach der libertären Philosophie der grundlegende Unterschied zwischen staatlichem Geld (fiat) und Marktgeld wie Bitcoin im Hinblick auf die soziale Organisation?
-answer: Staatliches Geld stellt eine zwangsweise Zentralisierung dar, während Marktgeld aus freiwilligen dezentralisierten Interaktionen entsteht
+question: "Wie verbindet sich die Cypherpunk-Philosophie über Zentralisierung mit dem libertären Prinzip der Zustimmung als grundlegender Norm der Gerechtigkeit?"
+answer: "Cypherpunks betrachten jede Zentralisierung als auf Zwang statt auf Zustimmung gegründet und spiegeln damit die libertäre Position wider, dass nichts gerecht sein kann, wenn es von einer zentralisierten Autorität durch Gewalt auferlegt wird"
 wrong_answers:
-  - Staatliches Geld bietet demokratische Kontrolle, während Marktgeld eine oligarchische Konzentration des Reichtums schafft
-  - Staatliches Geld gewährleistet wirtschaftliche Stabilität, während Marktgeld zu gefährlicher Volatilität und Spekulation führt
-  - Staatliches Geld ermöglicht die Umverteilung von Sozialleistungen, während Marktgeld kollektive Solidaritätsmechanismen verhindert
-explanation: |
-  Im Text wird dargelegt, dass die libertäre Philosophie die grundlegende politische Kluft zwischen Zwang und freiwilliger Zustimmung sowie zwischen Zentralisierung und Dezentralisierung sieht.
-  Staatliches Geld (fiat) wird als ein zentralisiertes Zwangssystem beschrieben, das leicht von einer kleinen Minderheit geschaffen und manipuliert werden kann und das die Auferlegung politischer Kontrolle über monetäre Entscheidungen darstellt. Im Gegensatz dazu entsteht Marktgeld wie Bitcoin spontan aus freiwilligen Interaktionen, ist dezentralisiert und erlaubt es dem Einzelnen, seine eigenen monetären Entscheidungen ohne staatlichen Zwang zu treffen. Die anderen Optionen stellen die libertäre Perspektive falsch dar, indem sie sich auf traditionelle politische Links-Rechts-Belange konzentrieren und nicht auf das Kernprinzip der freiwilligen Organisation im Gegensatz zu Zwangsmaßnahmen.
+  - "Cypherpunks halten Zentralisierung für akzeptabel, wenn sie durch demokratische Mehrheitsabstimmung gebilligt wird, was mit dem libertären Respekt vor verfassungsmäßiger Regierungsführung übereinstimmt"
+  - "Cypherpunks unterstützen vorübergehende Zentralisierung in Notfällen, was die libertäre Ansicht widerspiegelt, dass individuelle Rechte ausgesetzt werden können, wenn das Kollektiv bedroht ist"
+  - "Cypherpunks lehnen Zentralisierung nur in Technologiesystemen ab, während sie politische Zentralisierung als notwendig akzeptieren, um Eigentumsrechte und Verträge durchzusetzen"
+explanation: >-
+  Die Cypherpunks setzen ihr Vertrauen in dezentrale kryptographische Systeme statt in zentralisierte Institutionen. Jede Zentralisierung wird als auf Zwang statt auf Zustimmung gegründet wahrgenommen. Dies entspricht direkt der libertären Philosophie, dass Zustimmung die grundlegende Norm der Gerechtigkeit ist. Nichts kann gerecht sein, wenn es von einer zentralisierten Autorität durch Gewalt auferlegt wird; deshalb wollten sie dezentrale Netzwerke bauen, in denen keine einzelne Entität ihren Willen aufzwingen konnte.
+reviewed: false

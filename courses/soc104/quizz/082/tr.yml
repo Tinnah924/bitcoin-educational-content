@@ -1,8 +1,9 @@
-question: Hayek'in dağınık bilgi teorisine göre, merkezi planlı ekonomiler serbest piyasa sistemlerine kıyasla kaynakları verimli bir şekilde tahsis etmekte neden başarısız olmaktadır?
-answer: Merkezi planlamacılar, bireylerin kendi özel ihtiyaçları, tercihleri ve koşulları hakkında sahip oldukları parçalı ve yerel bilgiye erişemezler, bu da optimal kaynak tahsisini imkansız hale getirir.
+question: "Aşağıdakilerden hangisi Hayek'in tanımladığı kendiliğinden düzene bir örnektir?"
+answer: "Entelektüeller tarafından bir büroda tasarlanmaktan ziyade tarihsel etkileşimler yoluyla organik biçimde gelişen dil"
 wrong_answers:
-  - Merkezi planlamacılar, optimum kaynak tahsisi kararları için gereken tüm ekonomik verileri işlemek için yeterli hesaplama gücüne ve gelişmiş algoritmalara sahip değildir.
-  - Merkezi planlamacılar doğaları gereği yozlaşmış ve çıkarcıdır; ekonomik kararlar alırken toplumun ihtiyaçlarından ziyade kendi refahlarına öncelik verirler.
-  - Merkezi planlamacılar uzun vadeli stratejik hedeflere çok fazla odaklanırken, bireysel vatandaşların anlık tüketim ihtiyaçlarını ve tercihlerini ihmal etmektedir.
-explanation: |
-  Hayek'in temel anlayışı, bilginin yalnızca 'tüm farklı bireylerin sahip olduğu eksik ve sıklıkla çelişkili bilginin dağınık parçaları' olarak var olduğudur Piyasanın fiyat sistemi, gönüllü mübadeleler yoluyla bu dağınık bilgiyi harekete geçiren bir keşif mekanizması olarak hizmet eder. Merkezi planlamacılar, niyetleri veya yetenekleri ne olursa olsun, bireylerin maliyetler, faydalar ve tercihler hakkında sahip oldukları öznel, yerelleştirilmiş bilgilere erişemezler. Bu durum, kendiliğinden oluşan piyasa koordinasyonuna kıyasla merkezi planlamayı doğası gereği verimsiz kılan temel 'bilgi sorununu' yaratır.
+  - "Toplumsal kuralları oluşturmak için seçilmiş temsilciler tarafından dikkatle kaleme alınan ulusal anayasa"
+  - "Ekonomik faaliyeti koordine etmek için iktisatçılar tarafından tasarlanan bir hükümet teşvik planı"
+  - "Bilgiye evrensel erişimi sağlamak için yasa koyucular tarafından oluşturulan kamu eğitim sistemi"
+explanation: >-
+  Hayek kendiliğinden düzeni, toplumdaki özgür etkileşimlerin ürünü olarak; insan eyleminden doğan fakat bilinçli insan tasarımından doğmayan bir şey olarak tanımlar. Dil bunun başlıca örneğidir: Fransızca, İngilizce ve Almanca, entelektüellerin gramer kurallarını belirlemesiyle inşa edilmemiş, tarihsel etkileşimlerle kurulmuş yavaş, organik bir örgütlenmenin meyvesi olarak ortaya çıkmıştır.
+reviewed: false

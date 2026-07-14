@@ -1,8 +1,9 @@
-question: Proč podle Miltona Friedmana sociální programy pro chudé často nedosahují svých cílů?
-answer: Protože vytvářejí škodlivé účinky, jako je ekonomická závislost a narušení trhu
+question: "Před čím Milton Friedman varoval při posuzování politických opatření?"
+answer: "Politiky by měly být posuzovány podle svých výsledků, nikoli podle svých záměrů"
 wrong_answers:
-  - Protože jejich sponzoři nemají dobré úmysly a velkorysost vůči potřebným
-  - Protože nemají dostatek finančních prostředků na uspokojení skutečných potřeb
-  - Protože příjemci nerozumí tomu, jak tyto programy účinně využívat
-explanation: |
-  Friedman poukazuje na to, že sociální politiky navzdory svým velkorysým záměrům často selhávají, protože neberou v úvahu důkladnou analýzu lidských podnětů a chování. Tyto programy vytvářejí nepředvídané zvrácené účinky, jako je ekonomická závislost nebo narušení trhu, což vede k výsledkům, které jsou v rozporu s původními cíli.
+  - "Politiky by měly být posuzovány podle morálního charakteru politiků, kteří je navrhují"
+  - "Politiky by měly být posuzovány podle toho, jak jsou populární u široké voličské veřejnosti"
+  - "Politiky by měly být posuzovány podle toho, zda jsou v souladu s původní ústavou země"
+explanation: >-
+  Friedman napsal, že jednou z největších chyb je posuzovat politiky podle jejich záměrů, nikoli podle jejich výsledků, a poznamenal, že programy označované jako programy pro chudé téměř vždy vytvářejí účinky opačné k tomu, co jejich sponzoři zamýšleli. To odráží Bastiatovo učení, že dobrý ekonom zvažuje krátkodobé i dlouhodobé účinky na celou populaci.
+reviewed: false

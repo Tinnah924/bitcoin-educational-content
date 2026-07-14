@@ -1,8 +1,9 @@
-question: According to Keynesian economic theory, what is the primary role of government intervention in the economy?
-answer: To use fiscal and monetary policies to stabilize the economy by stimulating demand during recessions and cooling it during overheating
+question: "Quels sont les deux principes de justice de John Rawls ?"
+answer: "Une liberté égale pour tous, et le principe de différence qui n'autorise les inégalités que si elles bénéficient aux plus défavorisés"
 wrong_answers:
-  - To completely eliminate free market mechanisms and replace them with centralized state planning for all economic sectors
-  - To maintain absolute laissez-faire policies and allow markets to self-regulate without any government interference whatsoever
-  - To focus exclusively on reducing government spending and taxation while minimizing all forms of public sector involvement
-explanation: |
-  Keynesian theory represents a centrist 'third way' approach that rejects both pure laissez-faire capitalism and complete state control. Keynes advocated for active government intervention through fiscal policies (spending and taxation) and monetary policies (interest rates) to manage economic cycles. This approach seeks balance between market freedom and state guidance, stimulating aggregate demand during downturns and restraining it during economic overheating, embodying the centrist philosophy of pragmatic moderation.
+  - "Le suffrage universel pour tous les citoyens, et une fiscalité progressive pour financer les services publics"
+  - "La liberté d'expression sans restriction, et une redistribution obligatoire des richesses pour atteindre l'égalité"
+  - "La protection des droits de propriété privée, et le principe de non-agression appliqué à toutes les actions de l'État"
+explanation: >-
+  Rawls propose deux principes : d'abord, une liberté égale pour tous (le fondement de la démocratie), et ensuite le principe de différence, qui n'autorise les inégalités que si elles bénéficient aux membres les plus défavorisés de la société. Cela signifie que l'on a le droit de s'enrichir, à condition que la redistribution permette aussi aux moins favorisés d'en bénéficier. Les autres options mélangent des éléments issus de différentes philosophies politiques.
+reviewed: false

@@ -1,9 +1,9 @@
-question: ¿Qué distingue el concepto de "consenso superpuesto" de John Rawls de otros enfoques del acuerdo político?
-answer: Ciudadanos con creencias fundamentales diferentes pueden acordar principios de justicia comunes manteniendo sus distintas visiones del mundo
+question: "¿Cuál es la distinción importante entre ser pro-empresa y ser pro-mercado?"
+answer: "Ser pro-empresa significa favorecer una alianza entre grandes empresas y el Estado, mientras que ser pro-mercado significa apoyar la libre competencia sin favoritismo estatal"
 wrong_answers:
-  - Todos los ciudadanos deben abandonar sus creencias personales para adoptar una ideología estatal unificada en aras de la armonía política
-  - El consenso político requiere un acuerdo total sobre todas las cuestiones morales y filosóficas antes de cualquier cooperación
-  - Sólo los expertos técnicos pueden determinar principios justos, ya que los ciudadanos de a pie carecen de la capacidad racional necesaria
-explanation: |
-  El consenso superpuesto de Rawls demuestra la esencia de la filosofía centrista al mostrar cómo personas con doctrinas religiosas, filosóficas o morales incompatibles pueden, aun así, converger en principios políticos de justicia compartidos.
-  Cada persona respalda estos principios desde su propia perspectiva, sin exigir a nadie que abandone sus creencias fundamentales. Esto difiere de los enfoques totalitarios que exigen uniformidad ideológica, de las teorías perfeccionistas que requieren un acuerdo moral completo, o de los modelos tecnocráticos que excluyen la participación ciudadana en favor de un gobierno experto.
+  - "Ser pro-empresa significa apoyar a las pequeñas empresas, mientras que ser pro-mercado significa apoyar a las corporaciones multinacionales"
+  - "Ser pro-empresa significa oponerse por completo a la regulación, mientras que ser pro-mercado significa aceptar una regulación moderada"
+  - "Ser pro-empresa se centra en la industria nacional, mientras que ser pro-mercado se centra en el comercio internacional"
+explanation: >-
+  Los centristas tienden a ser pro-empresa, lo que significa que favorecen una especie de alianza entre las grandes empresas y el Estado, algo distinto de ser pro-mercado. Ser pro-mercado apoya la libre competencia sin favoritismo estatal ni proteccionismo corporativo. Esta distinción es crucial porque las políticas pro-empresa pueden crear monopolios y protecciones regulatorias que en realidad socavan la competencia de libre mercado.
+reviewed: false

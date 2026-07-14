@@ -1,8 +1,9 @@
-question: Koji istorijski pomak objašnjava zašto su klasični liberali u Sjedinjenim Državama počeli da se nazivaju 'libertarijancima' počevši od 1960-ih?
-answer: Američki liberali su evoluirali da podržavaju veliku vladu i državnu intervenciju, suprotno klasičnim liberalnim principima.
+question: "Šta je koncept 'spontanog poretka' kako ga opisuje Friedrich Hayek?"
+answer: "Društvena pravila i norme treba da nastaju iz slobodnih individualnih interakcija, a ne da budu nametnute autoritarnim planiranjem"
 wrong_answers:
-  - Evropski liberali su prvi usvojili termin 'libertarijanac', primoravajući Amerikance da razlikuju svoj pokret.
-  - Republikanska stranka je zaštitila termin 'liberal' i sprečila klasične liberale da ga koriste.
-  - Klasični liberali želeli su da istaknu svoju podršku socijalnim programima poput New Deala i Great Society.
-explanation: |
-  Tačan odgovor odražava istorijsku evoluciju opisanu u tekstu. Američki 'liberali' su postepeno prešli sa klasičnih liberalnih principa ka podršci opsežnoj državnoj intervenciji, uključujući programe poput FDR-ovog New Deal-a i LBJ-ovog Great Society-a. Ovo je predstavljalo fundamentalno odstupanje od naglaska klasičnog liberalizma na ograničenu vladu i laissez-faire ekonomiju. Da bi izbegli zabunu sa ovim novim značenjem 'liberalnog' u Americi, pristalice klasičnih liberalnih principa usvojile su termin 'libertarijanac' 1960-ih kako bi jasno razlikovale svoju filozofiju minimalne državne intervencije od intervencionističkih politika koje su američki 'liberali' počeli da prihvataju.
+  - "Tržišta prirodno teže monopolu osim ako država ne interveniše da održi konkurentsku ravnotežu"
+  - "Demokratski izbori su jedini legitiman mehanizam za uspostavljanje zakona koji upravljaju društvom"
+  - "Ekonomske krize nastaju spontano i zahtevaju neposrednu intervenciju vlade kako bi se obnovila stabilnost"
+explanation: >-
+  Hayekov koncept spontanog poretka drži da pravila koja upravljaju društvom ne treba da budu nametnuta odozgo centralnim planiranjem, već treba da nastaju iz slobodne igre individualnih volja, ugovora i dobrovoljnih odnosa. To je temeljna osa libertarijanske misli. On ne podrazumeva da tržišta teže monopolu niti da krize zahtevaju intervenciju vlade.
+reviewed: false

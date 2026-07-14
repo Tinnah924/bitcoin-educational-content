@@ -1,9 +1,9 @@
-question: Kulingana na Chati ya Nolan, ni msimamo mgani wa kisiasa unaoonyeshwa kwa kuunga mkono uhuru mkubwa wa kiuchumi lakini uhuru mdogo wa kibinafsi?
-answer: Wahafidhina
+question: "Wakijani wako wapi kwenye mchoro wa Nolan, na kwa nini?"
+answer: "Chini sana kwenye mchoro, kwa sababu wanaona kwamba maslahi ya mtu binafsi hayapaswi kutangulia maslahi ya pamoja ya sayari"
 wrong_answers:
-  - Wasoshalisti
-  - Wanaliberali
-  - Wakuu wa Kati
-explanation: |
-  Katika Chati ya Nolan, wahafidhina wamewekwa upande wa kulia na hufafanuliwa kama wale wanaounga mkono uhuru mkubwa wa kiuchumi lakini uhuru mdogo wa kibinafsi.
-  Hii inawatofautisha na wasoshalisti (wanaounga mkono uhuru mdogo wa kiuchumi lakini uhuru mkubwa wa kibinafsi), waliberali (wanaounga mkono uhuru mkubwa wa kiuchumi na kibinafsi), na wa katikati (wanaounga mkono viwango vya wastani vya aina zote mbili za uhuru). Msimamo wa kihafidhina unaonyesha msimamo wa jadi wa mrengo wa kulia wa kupendelea masoko huria huku ukidumisha udhibiti mkali wa kijamii.
+  - "Juu ya mchoro, kwa sababu wanatanguliza uhuru wa binafsi na ufahamu wa mazingira kwa usawa"
+  - "Katikati ya mchoro, kwa sababu wanasawazisha ukuaji wa kiuchumi na ulinzi wa mazingira"
+  - "Upande wa kulia kabisa, kwa sababu wanaunga mkono suluhisho za kimazingira zinazotegemea soko"
+explanation: >-
+  Wakijani wako chini sana kwenye mchoro wa Nolan kwa sababu wanapendelea udhibiti mkubwa wa dola juu ya maamuzi ya kiuchumi na ya binafsi kwa jina la ustawi wa sayari. Wamebadilisha mapambano ya kitabaka ya Kimarx kwa mapambano kati ya binadamu na maumbile, na huwa wanatetea udhibiti wa kiuchumi na hata kufutwa kwa umiliki binafsi. Hili linawaweka katika sekta ya kimamlaka, si juu au katikati.
+reviewed: false

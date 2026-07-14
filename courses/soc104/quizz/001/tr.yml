@@ -1,10 +1,9 @@
-question: Metne göre, Bitcoin'ı geleneksel sağ-sol siyasi ekseninde sınıflandırmak neden zordur?
-answer: Çünkü Bitcoin geleneksel ayrımları aşıyor ve farklı siyasi geçmişlerden gelen destekçileri kendine çekiyor
+question: "Sol-sağ siyasi ayrımının kökeni nereye dayanır?"
+answer: "1789 Fransız Devrimi tartışmaları sırasındaki oturma düzenine"
 wrong_answers:
-  - Çünkü Bitcoin sadece ekonomik liberalizm yanlısı sağcı şahsiyetler tarafından desteklenmektedir.
-  - Çünkü Bitcoin, finansal kapsayıcılık potansiyeli nedeniyle çoğunlukla sol tarafından savunulmaktadır.
-  - Çünkü Bitcoin siyasi boyutu olmayan tarafsız bir teknolojidir.
-explanation: |
-  Metin, Bitcoin'in sağ-sol ekseninde sınıflandırılmasının zor olduğunu, çünkü bu merkezi olmayan teknolojinin farklı siyasi görüşlerden destekçileri cezbettiğini açıklıyor
-  sağcılar, solcular, anarşistler ve hatta apolitik bireyler de dahil olmak üzere. Diğer seçeneklerin aksine, Bitcoin tek bir siyasi kampla sınırlı değildir,
-  ancak geleneksel ayrımları aşarak sağ-sol ikilemini doğru konumlandırmak için yetersiz kılmaktadır.
+  - "Karl Marx ve Adam Smith'in on dokuzuncu yüzyıldaki yazılarına"
+  - "Kuzey ve Güney eyaletleri arasındaki Amerikan İç Savaşı'na"
+  - "Aklı gelenekten ayıran Aydınlanma filozoflarına"
+explanation: >-
+  Sol-sağ ayrımı 1789'a dayanır; Fransız Ulusal Meclisi'nde kralın gücünü korumaktan yana olan milletvekilleri başkanın sağında, yetkilerini sınırlamak isteyenler ise solunda oturuyordu. Kökeni Marx ve Smith'e, Amerikan İç Savaşı'na ya da Aydınlanma felsefesine dayanmaz.
+reviewed: false

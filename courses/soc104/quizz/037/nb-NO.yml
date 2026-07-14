@@ -1,9 +1,9 @@
-question: Hva er hovedproblemet med å bedømme sosialpolitikk ut fra dens erklærte intensjoner snarere enn dens faktiske resultater, ifølge Friedmans perspektiv?
-answer: Velmenende politikk skaper ofte utilsiktede konsekvenser som økonomisk avhengighet og markedsvridninger som er i strid med de opprinnelige målene
+question: "Hvilken advarsel ga Milton Friedman om å bedømme politiske tiltak?"
+answer: "Tiltak bør bedømmes etter resultatene sine heller enn etter intensjonene sine"
 wrong_answers:
-  - Intensjoner er for vanskelige å måle objektivt sammenlignet med en enkel vurdering av utfall og resultater av politikken
-  - Politikerne villeder bevisst offentligheten om sine egentlige intensjoner, noe som gjør intensjonsbasert evaluering grunnleggende upålitelig og villedende
-  - Intensjonene endres for ofte under implementeringen av politikken, noe som gjør dem til et ustabilt grunnlag for langsiktig evaluering av politikken
-explanation: |
-  Friedman hevder at en politikk med sjenerøse intensjoner kan ha uheldige virkninger som går på tvers av målsettingene, for eksempel ved å skape avhengighet blant dem den skal hjelpe
-  de som skal hjelpes. Problemet er ikke målevansker, politisk bedrag eller skiftende intensjoner, men snarere at gode intensjoner ikke garanterer positive resultater. Derfor er strukturelle definisjoner som fokuserer på observerbare egenskaper og målbare resultater, å foretrekke fremfor intensjonelle definisjoner som baserer seg på uttalte motivasjoner.
+  - "Tiltak bør bedømmes etter den moralske karakteren til politikerne som foreslår dem"
+  - "Tiltak bør bedømmes etter hvor populære de er blant den brede stemmeberettigede offentligheten"
+  - "Tiltak bør bedømmes etter om de er i tråd med landets opprinnelige grunnlov"
+explanation: >-
+  Friedman skrev at en av de største feilene er å bedømme tiltak etter intensjonene deres heller enn resultatene deres, og bemerket at programmer som merkes som å være for de fattige, nesten alltid produserer virkninger som er motsatt av det sponsorene deres hadde til hensikt. Dette gir gjenklang av Bastiats lære om at en god økonom vurderer både kortsiktige og langsiktige virkninger på hele befolkningen.
+reviewed: false

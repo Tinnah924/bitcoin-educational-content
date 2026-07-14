@@ -1,8 +1,9 @@
-question: Siyasi diyagrama göre, y ekseni neyi temsil ediyor?
-answer: Kişisel ve sosyal özgürlükler
+question: "Nolan diyagramında liberteryenler arasında hangi iç gerilim vardır?"
+answer: "Bazıları devleti tamamen ortadan kaldırmak ister (anarko-kapitalistler), bazıları ise çekirdek egemen işlevleri koruyan minimal bir devleti tercih eder (minarşistler)"
 wrong_answers:
-  - Ekonomik ve ticari özgürlükler
-  - Devletin ekonomiye müdahale düzeyi
-  - Vergi ve mevzuat tercihleri
-explanation: |
-  Y ekseni (dikey) hareket, fikir ve kendi kaderini tayin özgürlüğünü içeren kişisel ve toplumsal özgürlükleri temsil eder. Bu özgürlükler, özel ilişkilerinizde, fikir ve inançlarınızla ve kendi bedeniniz ve zihninizle yaptığınız her şeyle ilgilidir. X ekseni (yatay) ekonomik özgürlükleri temsil etmektedir. Bu ayrım, siyasi meselelerin çoğunu iki temel kategoride sınıflandırmamızı sağlar.
+  - "Bazıları güçlü ekonomik düzenleme isterken bazıları tüm sektörlerin düzenlemelerden tamamen arındırılmasını tercih eder"
+  - "Bazıları demokratik seçimleri desteklerken bazıları kalıtsal bir yönetim sistemini tercih eder"
+  - "Bazıları ilerici sosyal politikaları savunurken bazıları katı biçimde geleneksel ahlaki değerleri savunur"
+explanation: >-
+  Liberteryen aile içinde devletin rolü konusunda temel bir anlaşmazlık vardır. Anarko-kapitalistler tüm devlet işlevlerini özel hizmetlerle değiştirmek isterken minarşistler savunma ve mahkemeler gibi çekirdek egemen işlevleri koruyan minimal bir devleti kabul eder. Her iki grup da liberteryen zirveyi paylaşır; fakat herhangi bir devletin var olup olmaması gerektiği konusunda ayrılır.
+reviewed: false

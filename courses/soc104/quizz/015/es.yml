@@ -1,9 +1,9 @@
-question: ¿Qué representa el lado derecho del eje económico (hacia 100) en el diagrama político bidimensional?
-answer: Preferencia por la libertad económica con menos intervención estatal, impuestos más bajos y mercados libres
+question: "¿Por qué sostiene el modelo bidimensional que la mayoría de las cuestiones políticas pueden dividirse en categorías económicas y personales?"
+answer: "Porque las cuestiones económicas tratan de lo que haces como productor y consumidor, mientras que las cuestiones personales tratan de tus relaciones privadas, creencias y autonomía corporal"
 wrong_answers:
-  - Preferencia por una fuerte intervención estatal con impuestos elevados y amplios servicios públicos
-  - Apoyo a la nacionalización de las industrias y a las políticas de redistribución de la riqueza
-  - Énfasis en la regulación y el control gubernamental de las actividades empresariales
-explanation: |
-  El lado derecho del eje económico representa una preferencia por la libertad económica, caracterizada por una intervención mínima del Estado en la economía,
-  una menor regulación, impuestos más bajos y mayor libertad para que las empresas y los individuos produzcan, intercambien y consuman. Esta postura hace hincapié en el libre mercado, la propiedad privada y la competencia como motores de la prosperidad. Las respuestas erróneas describen posiciones que se encuentran en el lado izquierdo del eje económico, que favorecen una fuerte intervención estatal, impuestos elevados para los servicios públicos, nacionalización y redistribución de la riqueza para reducir las desigualdades.
+  - "Porque todos los debates políticos se reducen en última instancia a desacuerdos sobre niveles de impuestos y prácticas religiosas"
+  - "Porque históricamente los gobiernos solo regulan dos cosas: el mercado y el ejército"
+  - "Porque los filósofos políticos siempre han separado las preocupaciones materiales de las espirituales desde la Antigüedad"
+explanation: >-
+  El modelo bidimensional se basa en la idea de que las cuestiones políticas se dividen en dos grandes categorías. Las libertades económicas cubren producción, consumo, comercio, empleo y gestión del dinero. Las libertades personales cubren relaciones privadas, opiniones, creencias y elecciones sobre tu propio cuerpo y mente. Esta separación permite un mapeo mucho más matizado de las posiciones políticas que un único eje izquierda-derecha.
+reviewed: false

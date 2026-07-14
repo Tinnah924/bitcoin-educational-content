@@ -1,9 +1,9 @@
-question: David Nolan'ın siyasi diyagramını oluşturmak için kullandığı iki eksen nedir?
-answer: Bir sol-sağ ekseni ve bir özgürlük-güç ekseni
+question: "Nolan diyagramında dikey eksen (üst-alt) neden yatay eksenden (sol-sağ) daha temel kabul edilir?"
+answer: "Çünkü azami bireysel özgürlükleri savunanlar ile azami devlet denetimini tercih edenler arasındaki gerçek ayrımı ortaya koyar"
 wrong_answers:
-  - Bir muhafazakar-liberal eksen ve bir ekonomik eksen
-  - Bir sosyal eksen ve bir hükümet kontrolü ekseni
-  - Bir bireycilik ekseni ve bir kolektivizm ekseni
-explanation: |
-  David Nolan'ın diyagramı iki farklı eksene dayanıyor: geleneksel sol-sağ siyasi eksen ve özgürlüğe karşı gücü ölçen ikinci bir eksen
-  (ya da devletçilik). Bu özgürlük-iktidar ekseni en alttaki devletçilikten (sıfır noktası) en üstteki özgürlükçülüğe doğru dikey olarak uzanır. Bu iki boyutlu yaklaşım, ekonomik ve kişisel özgürlükleri ayrı ayrı ayırt edebildiğinden, siyasi pozisyonların basit sol-sağ spektrumundan daha incelikli bir şekilde temsil edilmesini sağlar. Diğer seçenekler siyasi analizle ilgili olabilecek kavramlardan bahseder ancak Nolan'ın ünlü tablosunda kullandığı spesifik eksenler değildir.
+  - "Çünkü ekonomik çıktıyı, yatay eksenin sosyal politikaları ölçmesinden daha doğru ölçer"
+  - "Çünkü tarih boyunca siyasi çatışmaların çoğu yönetişimden ziyade kültürel kimlik hakkında olmuştur"
+  - "Çünkü yatay eksen yalnızca modern demokrasiler için geçerliyken dikey eksen evrenseldir"
+explanation: >-
+  Temel eksen dikey olandır; çünkü esas siyasi soruyu yakalar: devlet insan eylemini hangi dereceye kadar denetlemelidir? Sol-sağ ekseni yalnızca farklı hassasiyetleri (sosyal adalet ve gelenek) yansıtır; fakat iki taraf da dikey eksende devletçi olarak aynı konumda bulunabilir. Dikey eksen, birinin vizyonunu güç kullanarak dayatmak mı istediğini yoksa bireysel özgürlüğe saygı mı duyduğunu ortaya koyar.
+reviewed: false

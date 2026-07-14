@@ -1,8 +1,9 @@
-question: "Menurut analisis Gustave Molinari dalam 'Les Soirées de la rue Saint Lazare' (bahasa Inggris: Evenings on Saint Lazarus Street), kesamaan mendasar apa yang ada di antara kaum konservatif dan sosialis yang membedakan mereka dari kaum libertarian?"
-answer: "Baik kaum konservatif maupun sosialis berusaha memaksakan visi mereka tentang masyarakat melalui intervensi negara, meskipun memiliki visi yang berbeda"
+question: "Apa yang dimaksud Ludwig von Mises ketika ia menulis bahwa hanya individu yang berpikir, bernalar, dan bertindak?"
+answer: "Bahwa kolektivitas seperti negara atau bangsa tidak memiliki keberadaan sendiri di luar tindakan para anggota individualnya"
 wrong_answers:
-  - "Baik kaum konservatif maupun sosialis memandang kebebasan sebagai prinsip absolut, bukan sebagai pertimbangan praktis"
-  - "Baik kaum konservatif maupun sosialis menentang hak milik pribadi dan mendukung kepemilikan kolektif atas sumber daya"
-  - "Baik konservatif maupun sosialis mendukung intervensi pemerintah yang minimal dan otonomi individu yang maksimal"
-explanation: |
-  Wawasan utama Molinari adalah bahwa terlepas dari perbedaan ideologis mereka, kaum konservatif dan sosialis memiliki pendekatan yang sama: mereka berdua ingin menggunakan kekuasaan negara untuk memaksakan visi khusus mereka tentang bagaimana masyarakat seharusnya diatur. Kaum konservatif ingin memaksa masyarakat untuk mempertahankan struktur tradisional, sementara kaum sosialis ingin memaksa masyarakat untuk masuk ke dalam tatanan sosial yang baru. Kaum libertarian, yang diwakili oleh karakter 'ekonom', menentang keduanya karena mereka menolak menggunakan paksaan negara untuk memaksakan visi sosial apa pun, dan lebih memilih pengaturan sukarela dan pilihan individu.
+  - "Bahwa individu harus menghindari pembentukan kelompok atau asosiasi karena tindakan kolektif selalu berbahaya"
+  - "Bahwa hanya individu berbakat tertentu yang mampu berpikir rasional sementara kebanyakan orang mengikuti insting"
+  - "Bahwa berpikir dan bernalar adalah aktivitas pribadi yang tidak boleh pernah dibagikan atau dibahas di publik"
+explanation: >-
+  Mises menjelaskan bahwa individualisme menentang gagasan bahwa entitas sosial seperti masyarakat atau bangsa dapat ada secara independen dari individu-individu yang menyusunnya. Suatu kolektivitas tidak memiliki keberadaan sendiri di luar tindakan para anggota individualnya. Kita tidak dapat berbicara secara bermakna tentang tindakan negara atau perusahaan karena entitas-entitas ini tidak memiliki kehendak atau pikiran sendiri dan hanya bertindak melalui individu.
+reviewed: false

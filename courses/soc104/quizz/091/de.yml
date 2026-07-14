@@ -1,9 +1,9 @@
-question: Was ist laut Satoshi Nakamotos fundamentaler Kritik das Kernproblem herkömmlicher Fiat-Währungen, das Bitcoin lösen sollte?
-answer: Das übermäßige Vertrauen in zentralisierte Institutionen, die dieses Vertrauen in der Vergangenheit wiederholt durch die Entwertung von Währungen missbraucht haben
+question: "Welche Botschaft fügte Satoshi Nakamoto in den ersten jemals geminten Bitcoin-Block ein?"
+answer: "Eine Schlagzeile der London Times darüber, dass der Schatzkanzler am Rande eines zweiten Bankenrettungspakets stand"
 wrong_answers:
-  - Die fehlende digitale Infrastruktur und die im Vergleich zu modernen Zahlungssystemen langsamen Bearbeitungszeiten für Transaktionen
-  - Die Unmöglichkeit, internationale Transaktionen ohne teure Vermittler und Währungsumrechnungsgebühren durchzuführen
-  - Die Anfälligkeit für Fälschungen und physischen Diebstahl aufgrund der Abhängigkeit von Papiergeld und physischer Lagerung
-explanation: |
-  Satoshi Nakamoto erklärte ausdrücklich, dass "das Grundproblem bei konventionellen Währungen das Vertrauen ist, das erforderlich ist, damit sie funktionieren" und dass "die Geschichte der Fiat-Währungen voll von Verstößen gegen dieses Vertrauen ist"
-  Diese philosophische Grundlage war ausschlaggebend für das Design von Bitcoin als vertrauensloses System, das kein Vertrauen in Zentralbanken oder Regierungen benötigt, um die Geldstabilität aufrechtzuerhalten, und das sich direkt mit dem historischen Muster der Geldentwertung durch exzessives Gelddrucken auseinandersetzt.
+  - "Ein Zitat von Friedrich Hayek über die Gefahren zentraler Planung und staatlicher Kontrolle über Geld"
+  - "Eine Unabhängigkeitserklärung von allen Formen von Regierung und Finanzregulierung weltweit"
+  - "Ein mathematischer Beweis, der zeigt, dass dezentrale Währung effizienter ist als Fiatgeld"
+explanation: >-
+  Im Genesis-Block fügte Satoshi Nakamoto eine symbolische Schlagzeile der London Times ein: "The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout." Dies war ein direkter Verweis auf die Finanzkrise von 2008 und den darauf folgenden monetären Interventionismus und machte Bitcoins Absicht als Alternative zu zentralisierten Bankensystemen unmissverständlich.
+reviewed: false

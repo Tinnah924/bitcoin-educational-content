@@ -1,9 +1,9 @@
-question: De acordo com a teoria do conhecimento disperso de Hayek, porque é que as economias de planeamento central têm dificuldades em fixar os preços em comparação com os mercados livres?
-answer: Os planeadores centrais não podem aceder ao conhecimento subjetivo e localizado dos custos, benefícios e preferências individuais que só os participantes no mercado possuem
+question: "O que Ludwig von Mises quis dizer quando escreveu que apenas o indivíduo pensa, raciocina e age?"
+answer: "Que coletividades como o estado ou uma nação não têm existência própria para além das ações de seus membros individuais"
 wrong_answers:
-  - Os planeadores centrais não dispõem de poder computacional suficiente e de algoritmos avançados para processar todos os dados económicos de que dispõem
-  - Os planeadores centrais são intrinsecamente corruptos e fixam os preços para benefício próprio e não da sociedade, ao contrário dos participantes no mercado que são altruístas
-  - Os planeadores centrais concentram-se demasiado na estabilidade económica a longo prazo em vez de responderem às flutuações imediatas da oferta e da procura
-explanation: |
-  A principal ideia de Hayek é que o conhecimento existe apenas como "fragmentos dispersos de conhecimentos incompletos e frequentemente contraditórios possuídos por todos os indivíduos distintos" Este conhecimento é subjetivo e localizado - apenas os indivíduos conhecem os seus próprios custos, benefícios e preferências. Os mercados livres, através da troca voluntária e da negociação de preços, permitem que este conhecimento disperso surja e coordene a atividade económica.
-  Os planeadores centrais, independentemente das suas intenções ou capacidades, não podem aceder a esta informação subjectiva e dispersa que existe na mente de milhões de indivíduos, tornando impossível uma fixação de preços eficaz.
+  - "Que os indivíduos devem evitar formar grupos ou associações porque a ação coletiva é sempre prejudicial"
+  - "Que apenas certos indivíduos dotados são capazes de pensamento racional, enquanto a maioria das pessoas segue o instinto"
+  - "Que pensar e raciocinar são atividades privadas que nunca devem ser compartilhadas ou discutidas em público"
+explanation: >-
+  Mises esclareceu que o individualismo se opõe à noção de que entidades sociais, como a sociedade ou a nação, poderiam existir independentemente dos indivíduos que as compõem. Uma coletividade não tem existência própria para além das ações de seus membros individuais. Não podemos falar de modo significativo da ação do estado ou de uma empresa porque essas entidades não têm vontade nem pensamento próprios e agem apenas por meio de indivíduos.
+reviewed: false

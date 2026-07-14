@@ -1,8 +1,9 @@
-question: Která politická rodina by s největší pravděpodobností podpořila jak zrušení zákonů o minimální mzdě, tak úplnou privatizaci zdravotnictví?
-answer: Libertariáni považují minimální mzdu i veřejnou zdravotní péči za nelegitimní zásahy státu do volného trhu
+question: "Jaký konzistentní vzorec odlišuje centristickou metodu od postojů jiných politických rodin napříč všemi pěti ekonomickými debatami (daně, minimální mzda, zdravotnictví, životní prostředí, dotace)?"
+answer: "Centristé se odmítají zavázat k pevnému principu a místo toho vyžadují empirickou analýzu a expertní hodnocení k určení politiky případ od případu, což činí jejich přístup ze své podstaty technokratickým"
 wrong_answers:
-  - Konzervativci se důsledně staví proti všem formám státní regulace v ekonomických otázkách
-  - Centristé, protože upřednostňují tržní řešení při zachování určité sociální ochrany
-  - Socialisté, protože upřednostňují ekonomickou svobodu před sociálními programy
-explanation: |
-  Libertariáni jsou jedinou politickou rodinou, která kategoricky odmítá jak zákony o minimální mzdě (považuje je za porušení smluvní svobody, které způsobuje nezaměstnanost), tak veřejné zdravotnictví (považuje zdravotní péči za službu jako každou jinou, která by měla být ponechána soukromému trhu). Konzervativci podporují tržní mechanismy, ale mohou tolerovat minimální mzdu, pokud nepoškozuje konkurenceschopnost, a dávají přednost soukromé zdravotní péči, přičemž akceptují minimální roli státu pro chudé. Centristé výslovně podporují zachování minimální mzdy a upřednostňují smíšené systémy zdravotní péče. Socialisté důrazně hájí jak minimální mzdu jako nástroj sociální spravedlnosti, tak veřejné zdravotnictví jako základní právo.
+  - "Centristé vždy zaujímají střední pozici mezi socialistickým a konzervativním postojem a v každé otázce rovným dílem rozdělují rozdíl"
+  - "Centristé důsledně upřednostňují ekonomický růst před sociálním blahobytem, v daňové politice se staví na stranu libertariánů a v regulaci souhlasí se socialisty"
+  - "Centristé přenechávají všechna ekonomická rozhodnutí mezinárodním organizacím a obchodním dohodám, místo aby vytvářeli nezávislou národní politiku"
+explanation: >-
+  Napříč všemi pěti ekonomickými debatami sleduje centristický přístup stejný vzorec: místo aby se zavázali k pevnému ideologickému principu, centristé před rozhodnutím vyžadují empirické důkazy a expertní hodnocení. U daní musí být správná úroveň určena analýzou. U minimální mzdy musí být její úroveň pragmaticky upravena. U zdravotnictví je ideální směs kalibrovaná experty. U životního prostředí musí politika vyvažovat konkurenceschopnost. U dotací musí být každý případ hodnocen podle vlastních zásluh. To činí centrismus inherentně technokratickým, což se liší od pouhého rozdělení rozdílu nebo odkládání rozhodnutí na mezinárodní orgány.
+reviewed: false

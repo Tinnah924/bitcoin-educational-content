@@ -1,9 +1,9 @@
-question: Según la filosofía libertaria, ¿cuál es la diferencia fundamental entre el dinero estatal y el dinero de mercado en cuanto a su aparición y características?
-answer: El dinero estatal es coercitivo y centralizado, y su fácil creación conlleva una pérdida de valor, mientras que el dinero de mercado surge voluntariamente y mantiene el valor a largo plazo
+question: "Considerando el argumento completo de este curso, ¿cómo encarna Bitcoin simultáneamente la crítica libertaria del constructivismo, el compromiso cypherpunk con la acción y la defensa individualista de la autonomía moral?"
+answer: "Bitcoin sustituye el dinero planificado centralmente por un orden de mercado espontáneo (anticonstructivismo), transforma el ideal abstracto de la libertad financiera en código funcional (acción cypherpunk) y restaura la propiedad soberana y la privacidad al individuo (autonomía moral)"
 wrong_answers:
-  - El dinero del Estado está controlado democráticamente y es estable, mientras que el dinero del mercado está manipulado por intereses privados y es muy volátil
-  - El dinero del Estado está al servicio del bienestar público a través de mecanismos de redistribución, mientras que el dinero del mercado sólo beneficia a los inversores ricos y a los pioneros
-  - El dinero del Estado proporciona seguridad económica gracias al respaldo gubernamental, mientras que el dinero del mercado crea incertidumbre por la falta de apoyo institucional
-explanation: |
-  El texto distingue claramente entre el dinero estatal (fiduciario) como sistema coercitivo y centralizado, fácil de crear y que tiende a perder valor, y el dinero de mercado (como el oro históricamente y el Bitcoin actualmente), que surge de forma voluntaria y espontánea y conserva su valor a largo plazo.
-  Esto refleja el principio libertario más amplio que favorece los sistemas voluntarios y descentralizados frente a los impuestos y centralizados. Las respuestas erróneas reflejan ideas equivocadas sobre las ventajas del control estatal frente a los mecanismos de mercado.
+  - "Bitcoin usa gobernanza democrática para fijar la política monetaria (anticonstructivismo), publica contenido educativo sobre la libertad financiera (acción cypherpunk) y permite a los individuos votar sobre cambios del protocolo (autonomía moral)"
+  - "Bitcoin elimina toda regulación financiera (anticonstructivismo), crea una comunidad de desarrolladores que presionan por la desregulación (acción cypherpunk) y da a los individuos ricos más control sobre la política monetaria (autonomía moral)"
+  - "Bitcoin descentraliza la infraestructura de servidores en múltiples países (anticonstructivismo), usa licencias de código abierto para compartir tecnología libremente (acción cypherpunk) y proporciona plataformas de redes sociales anónimas para la disidencia política (autonomía moral)"
+explanation: >-
+  Bitcoin se sitúa en la intersección de tres tradiciones intelectuales exploradas en el curso. Encarna el argumento anticonstructivista al sustituir el dinero fiat planificado centralmente por un orden monetario espontáneo y descentralizado que ningún planificador central puede controlar. Cumple el imperativo cypherpunk de escribir código al convertir ideales abstractos de libertad financiera y privacidad en tecnología funcional. Y sirve a la defensa individualista de la autonomía moral al permitir la propiedad soberana, proteger los frutos del trabajo y preservar la privacidad, dejando que cada persona sea dueña de su propia vida.
+reviewed: false

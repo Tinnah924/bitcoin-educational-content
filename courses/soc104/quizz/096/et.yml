@@ -1,9 +1,9 @@
-question: Milline on Eric Hughesi Cypherpunk manifesti kohaselt peamine meetod, mida salapärastajad peaksid kasutama, et saavutada oma privaatsuse ja vabaduse eesmärke?
-answer: Koodi kirjutamine krüptograafiliste süsteemide loomiseks, mis muudavad poliitilised erimeelsused ebaoluliseks
+question: "Miks väitsid cypherpunks'id, et anonüümsete omadustega digitaalne valuuta on vajalik?"
+answer: "Sest sularaha, peamine anonüümsete tehingute süsteem, on digitaalses ühiskonnas kadumas ning tuleb leiutada digitaalne asendus, millel on samad privaatsusomadused"
 wrong_answers:
-  - Valitsuste lobitöö, et nad võtaksid vastu rangemad eraelu puutumatuse kaitse seadused ja määrused
-  - Massimeeleavalduste ja kodanikuallumatuse kampaaniate korraldamine jälgimise vastu
-  - Haridusprogrammide loomine, et tõsta üldsuse teadlikkust digitaalsete privaatsusõiguste kohta
-explanation: |
-  Eric Hughes sõnas selgesõnaliselt, et "Cypherpunks kirjutavad koodi" on nende põhiline lähenemine. Manifestis rõhutatakse, et cypherpunks ei leia lohutust lootustes ja soovides, vaid sekkuvad aktiivselt, ehitades krüptograafia abil anonüümseid süsteeme.
-  See muudab abstraktsed vabaduse ideed konkreetseks majanduslikuks ja ühiskondlikuks reaalsuseks, muutes poliitilised jaotused meelevaldseks ja ebavajalikuks. Teised valikud esindavad traditsioonilist poliitilist aktivismi, mis on vastuolus cypherpunki filosoofiaga, mille kohaselt on tehnoloogilised lahendused tähtsamad kui institutsioonilised reformid.
+  - "Sest olemasolevad digitaalsed maksesüsteemid olid liiga aeglased ja kallid, nõudes veebikaubanduse jaoks kiiremat ja odavamat alternatiivi"
+  - "Sest valitsused olid juba keelanud kõik anonüümsete tehingute vormid ja ainult uus tehnoloogia suutis neist seadustest mööda minna"
+  - "Sest traditsioonilised pangad keeldusid teatud elanikkonnarühmi teenindamast, muutes universaalselt ligipääsetava digitaalse maksesüsteemi majanduslikuks vajaduseks"
+explanation: >-
+  Cypherpunki manifest ütleb, et konfidentsiaalsus avatud ühiskonnas nõuab anonüümsete tehingute süsteeme. Kuni digiajastuni oli sularaha seda tüüpi peamine süsteem. Kuid digitaalses ühiskonnas, kus sularaha on kadumas, tuleb leiutada digitaalne valuuta, millel on samad anonüümsuse omadused. See visioon nägi otseselt ette seda, mida Bitcoin hiljem saavutaks.
+reviewed: false

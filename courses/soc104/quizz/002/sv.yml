@@ -1,11 +1,9 @@
-question: Vad är enligt texten det största problemet med det traditionella politiska spektrumet vänster-höger?
-answer: Den lämnar inget utrymme för klassiskt liberalt tänkande
+question: "Vilken vägledande princip styrde Frederic Bastiats röster i nationalförsamlingen?"
+answer: "Främjandet av individuella och ekonomiska friheter och minskningen av statlig inblandning"
 wrong_answers:
-  - Den gynnar centristiska och moderata ståndpunkter i alltför hög grad
-  - Han överbetonar extremistpartier
-  - Han förenklar debatterna genom att reducera allt till ekonomi
-explanation: |
-  I kapitlet klargörs att huvudproblemet med vänster-högeraxeln är att den inte kan klassificera klassiskt liberalt tänkande, som varken motsvarar
-  varken vänsterns egalitarism eller högerns nationalism. Gestalter som Thomas Jefferson, Frédéric Bastiat eller rörelser som Bitcoin överskrider
-  dessa traditionella kategorier. De andra alternativen är felaktiga, eftersom texten inte kritiserar centrism som sådan, inte fokuserar på extremism och tar upp
-  många andra aspekter än ekonomi.
+  - "Försvaret av kunglig auktoritet och bevarandet av monarkiska traditioner"
+  - "Främjandet av socialistisk politik för att omfördela välstånd mer jämlikt"
+  - "En centristisk kompromissstrategi mellan vänster- och högerfraktionerna"
+explanation: >-
+  Bastiat röstade utifrån en grundläggande princip: att främja individuella och ekonomiska friheter samtidigt som statlig inblandning minskades. Han var inte en centristisk opportunist, och inte heller rojalist eller socialist. Han röstade med den sida som föreslog åtgärder i linje med frihet och begränsad statsmakt.
+reviewed: false

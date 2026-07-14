@@ -1,8 +1,9 @@
-question: Theo nội dung bài viết, tại sao cách phân chia truyền thống giữa cánh hữu và cánh tả lại không đủ để phân loại Bitcoin?
-answer: Vì Bitcoin vượt qua những ranh giới truyền thống và thu hút những người ủng hộ từ nhiều quan điểm chính trị khác nhau.
+question: "Hệ thống tiền pháp định (Fiat) củng cố sự phân chia giữa người cai trị và người bị cai trị như thế nào?"
+answer: "Nó cho phép các chính phủ tài trợ cho chi tiêu không giới hạn thông qua việc tạo tiền, làm mất giá tiền tiết kiệm qua lạm phát"
 wrong_answers:
-  - Vì Bitcoin chỉ được hỗ trợ bởi các nhân vật cánh hữu ủng hộ thị trường tự do.
-  - Vì Bitcoin chủ yếu được cánh tả áp dụng nhằm mục đích thúc đẩy hòa nhập tài chính cho các tầng lớp dân cư thiệt thòi.
-  - Bởi vì Bitcoin là một công nghệ trung lập, không mang tính chính trị hay ý thức hệ.
-explanation: |
-  Văn bản giải thích rằng Bitcoin, với tư cách là một công nghệ phi tập trung, thu hút những người ủng hộ từ nhiều quan điểm chính trị khác nhau, bao gồm cả những người cánh hữu và cánh tả, cũng như những người theo chủ nghĩa vô chính phủ và những cá nhân không quan tâm đến chính trị. Sự đa dạng về người ủng hộ này cho thấy Bitcoin không thể bị xếp vào một thể loại chính trị truyền thống, không giống như các phản hồi khác cho thấy sự tuân thủ hạn chế đối với một phe phái chính trị duy nhất hoặc sự trung lập hoàn toàn.
+  - "Nó trao cho công dân quyền kiểm soát trực tiếp chính sách tiền tệ thông qua bầu cử dân chủ và trưng cầu dân ý"
+  - "Nó ngăn chính phủ vay nợ, buộc họ chỉ dựa vào thuế để có nguồn thu"
+  - "Nó phân phối số tiền mới được tạo ra một cách bình đẳng cho mọi công dân để kích thích tăng trưởng kinh tế"
+explanation: >-
+  Tiền pháp định (Fiat) được mô tả là nền tảng của sự mở rộng quyền lực nhà nước vì nó cho phép chính phủ vay và thúc đẩy các ngân hàng in tiền mới. Lạm phát phát sinh từ đó làm mất giá tiền tiết kiệm của người dân, mang lại lợi ích cho các thực thể giàu có và quyền lực nhất. Nó không trao cho công dân quyền kiểm soát tiền tệ, cũng không ngăn việc vay nợ hay phân phối tiền một cách bình đẳng.
+reviewed: false

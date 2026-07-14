@@ -1,9 +1,9 @@
-question: Prema osnovnoj kritici Satoshi Nakamota, koji je glavni problem konvencionalnih fiat valutnih sistema?
-answer: Oni zahtevaju prekomerno poverenje u centralizovane institucije koje su istorijski narušavale to poverenje kroz devalvaciju valute.
+question: "Zašto su Sajferpankovi tvrdili da je digitalna valuta s anonimnim svojstvima neophodna?"
+answer: "Zato što gotovina, primarni sistem anonimnih transakcija, nestaje u digitalnom društvu, pa se mora izmisliti digitalna zamena s istim svojstvima privatnosti"
 wrong_answers:
-  - Nedostaje im dovoljno tehnološke infrastrukture za efikasno i sigurno upravljanje modernim digitalnim transakcijama.
-  - Oni stvaraju previše volatilnosti u deviznim kursevima, što čini međunarodnu trgovinu nepredvidivom i skupom.
-  - Oni generate prekomerne naknade za transakcije koje čine mikrouplate ekonomski neodrživim za svakodnevne korisnike.
-explanation: |
-  Satoshi Nakamoto je eksplicitno naveo da je 'osnovni problem sa konvencionalnom valutom sav taj poverenje koje je potrebno da bi funkcionisala' i da je 'istorija fiat valuta puna kršenja tog poverenja.' 
-  Njegova kritika je bila usmerena na fundamentalnu zavisnost od centralnih banaka da ne obezvrede valutu, što one više puta nisu uspele da održe. Druge opcije, iako potencijalno validne zabrinutosti o tradicionalnim sistemima, propuštaju Nakamotovu suštinsku filozofsku primedbu na monetarne sisteme zasnovane na poverenju i njegovu motivaciju za stvaranje alternativnog sistema bez poverenja.
+  - "Zato što su postojeći digitalni platni sistemi bili previše spori i skupi, pa je bila potrebna brža i jeftinija alternativa za onlajn trgovinu"
+  - "Zato što su vlade već zabranile sve oblike anonimnih transakcija, pa je samo nova tehnologija mogla da zaobiđe te zakone"
+  - "Zato što su tradicionalne banke odbijale da opslužuju određene populacije, čineći univerzalno dostupan digitalni platni sistem ekonomskom nužnošću"
+explanation: >-
+  Sajferpank manifest navodi da poverljivost u otvorenom društvu zahteva sisteme anonimnih transakcija. Do digitalnog doba, gotovina je služila kao primarni sistem te vrste. Ali u digitalnom društvu u kojem gotovina nestaje, mora se izmisliti digitalna valuta s istim svojstvima anonimnosti. Ova vizija je direktno nagovestila ono što će Bitcoin ostvariti.
+reviewed: false

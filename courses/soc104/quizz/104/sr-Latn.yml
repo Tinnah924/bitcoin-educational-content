@@ -1,9 +1,9 @@
-question: Prema libertarijanskoj filozofiji, osnovna razlika između državnog novca (fiat) i tržišnog novca poput Bitcoin leži u načinu njihovog stvaranja i kontrole. Državni novac izdaje i reguliše centralna vlast, dok tržišni novac nastaje kroz slobodne tržišne procese i nije pod kontrolom države.
-answer: Državni novac je prinudan i centralizovan dok tržišni novac nastaje dobrovoljno i održava dugoročnu vrednost
+question: "Uzimajući u obzir ceo argument ovog kursa, kako Bitcoin istovremeno otelovljuje libertarijansku kritiku konstruktivizma, sajferpank posvećenost delovanju i individualističku odbranu moralne autonomije?"
+answer: "Bitcoin zamenjuje centralno planirani novac spontanim tržišnim poretkom (anti-konstruktivizam), pretvara apstraktni ideal finansijske slobode u funkcionalni kod (sajferpank delovanje) i vraća suverenu svojinu i privatnost pojedincu (moralna autonomija)"
 wrong_answers:
-  - Državni novac je stabilniji i regulisaniji, dok je tržišni novac nestabilan i nepredvidiv.
-  - Državni novac služi ciljevima socijalne dobrobiti dok tržišni novac koristi samo bogatim investitorima
-  - Državni novac je demokratski i odgovoran, dok je tržišni novac pod kontrolom anonimnih programera.
-explanation: |
-  Poglavlje jasno razlikuje državne novce (fiat) kao prinudni, centralizovani sistem koji teži da gubi vrednost, naspram tržišnog novca poput Bitcoin koji nastaje dobrovoljno, spontano i čuva vrednost dugoročno. 
-  Ovo odražava širi libertarijanski princip dobrovoljnih naspram prinudnih sistema. Pogrešni odgovori pogrešno predstavljaju libertarijansku kritiku fokusirajući se na konvencionalne ekonomske argumente umesto na filozofsku razliku između dobrovoljnih i prinudnih monetarnih sistema.
+  - "Bitcoin koristi demokratsko upravljanje za određivanje monetarne politike (anti-konstruktivizam), objavljuje obrazovni sadržaj o finansijskoj slobodi (sajferpank delovanje) i omogućava pojedincima da glasaju o promenama protokola (moralna autonomija)"
+  - "Bitcoin uklanja svu finansijsku regulaciju (anti-konstruktivizam), stvara zajednicu programera koji lobiraju za deregulaciju (sajferpank delovanje) i daje bogatim pojedincima veću kontrolu nad monetarnom politikom (moralna autonomija)"
+  - "Bitcoin decentralizuje serversku infrastrukturu kroz više zemalja (anti-konstruktivizam), koristi open-source licenciranje za slobodno deljenje tehnologije (sajferpank delovanje) i pruža anonimne platforme društvenih mreža za političko neslaganje (moralna autonomija)"
+explanation: >-
+  Bitcoin se nalazi na preseku tri intelektualne tradicije istražene u kursu. On otelovljuje anti-konstruktivistički argument zamenjujući centralno planirani fiat novac spontanim, decentralizovanim monetarnim poretkom koji nijedan centralni planer ne može kontrolisati. Ispunjava sajferpank imperativ pisanja koda pretvarajući apstraktne ideale finansijske slobode i privatnosti u funkcionalnu tehnologiju. I služi individualističkoj odbrani moralne autonomije omogućavanjem suverene svojine, zaštitom plodova rada i očuvanjem privatnosti, dopuštajući svakoj osobi da bude gospodar sopstvenog života.
+reviewed: false

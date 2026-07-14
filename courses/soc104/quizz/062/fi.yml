@@ -1,9 +1,9 @@
-question: Mikä on Hannah Arendtin analyysin mukaan totalitaaristen koulutusjärjestelmien ensisijainen tavoite?
-answer: Tuhota ihmisten kyky muodostaa itsenäisiä vakaumuksia sen sijaan, että iskostettaisiin tiettyjä uskomuksia
+question: "Miten kaikki totalitaariset hallinnot nousivat valtaan?"
+answer: "Väkivaltaisen vallankumouksen kautta, joka oikeutti aiemman järjestelmän pyyhkimisen pois ja aloittamisen puhtaalta pöydältä"
 wrong_answers:
-  - Kansalaisia indoktrinoidaan hallinnon ideologiaan ja varmistetaan ehdoton lojaalisuus valtiolle
-  - Luoda korkeasti koulutettua työvoimaa, joka kykenee edistämään kansakunnan taloudellisia tavoitteita
-  - Poistaa luokkaerot ja luoda yhtenäinen yhteiskunta, joka perustuu yhteisiin vallankumouksellisiin periaatteisiin
-explanation: |
-  Hannah Arendt väitti, että totalitaarisen kasvatuksen tarkoituksena ei ollut opettaa vakaumuksia vaan tuhota kyky muodostaa itsenäisiä vakaumuksia.
-  Tämä erottaa totalitarismin pelkästä autoritaarisuudesta - se ei halua vain mukautua, vaan pyrkii poistamaan kyvyn itsenäiseen ajatteluun. Muut vaihtoehdot edustavat tavanomaisempia poliittisen valvonnan tai sosiaalisen suunnittelun muotoja, mutta niistä puuttuu Arendtin ratkaiseva oivallus totalitarismin ainutlaatuisesta hyökkäyksestä itse inhimillistä toimijuutta vastaan.
+  - "Asteittaisen lainsäädäntöuudistuksen kautta olemassa olevien demokraattisten instituutioiden sisällä"
+  - "Vieraiden valtojen alueellisen kontrollin tavoittelemiseksi järjestämien sotilasvallankaappausten kautta"
+  - "Rauhanomaisten joukkoliikkeiden kautta, jotka voittivat kansanvaalit suurilla marginaaleilla"
+explanation: >-
+  Kaikki totalitaariset hallinnot nousivat valtaan väkivaltaisen vallankumouksen kautta. Tällä vallankumouksella on kaksoistarkoitus: se tuhoaa fyysisesti vanhan järjestyksen ja oikeuttaa ideologisesti väkivallan käytön välttämättömänä uuden yhteiskunnan rakentamiselle. Tämä erottaa totalitaariset vallanotot demokraattisista siirtymistä, ulkovaltojen tukemista vallankaappauksista tai rauhanomaisista vaalivoitoista.
+reviewed: false

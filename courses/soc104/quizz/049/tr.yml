@@ -1,9 +1,9 @@
-question: Geleneksel Amerikan muhafazakârlığını diğer siyasi ideolojilerden ayıran temel felsefi ilke nedir?
-answer: Bireysel özgürlüğü toplumsal sorumluluk ve sınırlı hükümet ile dengelemeyi amaçlayan düzenli özgürlük kavramı
+question: "Liberteryenler siyaset felsefelerinin merkezine neyi yerleştirir?"
+answer: "Etik ve hukuk"
 wrong_answers:
-  - Sınırsız bireysel özgürlük ilkesi ile sosyal konularda azami devlet müdahalesi
-  - Feodal tarım toplumunu yeniden kurmak ve tüm teknolojik ilerlemeyi reddetmek için devrimci değişime olan inanç
-  - Önleyici savaş yoluyla demokrasiyi dünya çapında yaymak için askeri müdahalecilik doktrini
-explanation: |
-  Geleneksel Amerikan muhafazakârlığı temelde, toplum ve bireysel ihtiyaçlar, kişisel özgürlük ve sorumluluk ile sınırlı hükümet ve serbest piyasa gibi bazen birbiriyle çelişen istekleri uzlaştırmaya çalışan 'düzenli özgürlüğe' dayanmaktadır.
-  Yanlış cevaplar, geleneksel Amerikan muhafazakâr düşüncesini tanımlayan dengeli yaklaşımdan ziyade birbiriyle çelişen ilkeleri (maksimum müdahale ile sınırsız özgürlük), Avrupa gerici muhafazakârlığını (feodal restorasyon) ya da neo-muhafazakâr ideolojiyi (askeri müdahalecilik) temsil etmektedir.
+  - "Ekonomik büyüme ve servet yaratımı"
+  - "Toplumsal eşitlik ve kolektif refah"
+  - "Ulusal kimlik ve kültürel koruma"
+explanation: >-
+  Liberteryenler, ekonomiyi değil etik ve hukuku felsefelerinin merkezine yerleştirerek diğer tüm siyasi ailelerden ayrılır. Piyasa ekonomisini savunduklarında, bunu servet üretme kapasitesinden çok bireysel özgürlüğü ve sorumluluğu teşvik ettiği için yaparlar. Ekonomik büyüme ikincil bir faydadır, temel ilke değildir.
+reviewed: false

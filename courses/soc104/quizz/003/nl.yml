@@ -1,12 +1,9 @@
-question: Wat is volgens de tekst het grootste probleem met het traditionele links-rechts politieke spectrum?
-answer: Er is geen plaats voor klassiek liberaal denken, dat noch bij links egalitarisme noch bij rechts nationalisme past
+question: "Waarom wordt de links-rechtsas als ontoereikend beschouwd om klassiek-liberale denkers zoals Bastiat of Ron Paul te plaatsen?"
+answer: "Omdat klassiek liberalisme zowel economische als persoonlijke vrijheden waardeert, die noch links noch rechts volledig omarmen"
 wrong_answers:
-  - Het oversimplificeert de politiek door slechts twee extreme standpunten te hebben zonder enige gematigde of centristische opties
-  - Het gaat er ten onrechte van uit dat links in de moderne tijd altijd hervormingsgezind is en rechts altijd conservatief
-  - Het houdt geen rekening met het feit dat de meeste mensen hun politieke standpunten in de loop der tijd vaak veranderen
-explanation: |
-  De tekst stelt specifiek: "Het probleem met de links-rechts as is dat deze geen ruimte laat voor het klassieke liberale gedachtegoed, dat noch met het egalitarisme van links, noch met het nationalisme van rechts over één kam geschoren kan worden
-  noch met het egalitarisme van links noch met het nationalisme van rechts op één hoop kan worden gegooid Dit wordt geïllustreerd door voorbeelden als Frédéric Bastiat,
-  die soms met links en soms met rechts stemde, afhankelijk van de specifieke kwestie, en Bitcoin, die aanhangers van verschillende
-  politieke achtergronden. De klassieke liberale traditie, die voorstander is van maximale economische en persoonlijke vrijheden met minimale staatsinterventie, past eenvoudigweg niet in de traditionele linkse traditie
-  past niet in het traditionele links-rechts categoriseringssysteem.
+  - "Omdat klassieke liberalen zich altijd aansluiten bij rechts economisch beleid en alle linkse standpunten afwijzen"
+  - "Omdat klassieke liberalen centristen zijn die gematigde versies van zowel linkse als rechtse ideologieën overnemen"
+  - "Omdat klassieke liberalen zich verzetten tegen alle vormen van overheid, waardoor ze anarchisten zijn in plaats van politieke denkers"
+explanation: >-
+  De links-rechtsas schiet tekort voor klassieke liberalen omdat ze geen positie kan bevatten die tegelijk economische vrijheid (typisch rechts) en persoonlijke vrijheid (typisch links) verdedigt. Klassieke liberalen zijn geen centristen die naar compromissen zoeken, en ook geen anarchisten of puur rechts. Ze passen simpelweg niet op een eendimensionaal spectrum.
+reviewed: false

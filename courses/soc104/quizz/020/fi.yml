@@ -1,9 +1,9 @@
-question: Mikä on timanttimallin mukaan keskeinen ero vasemmistolaisten ja oikeistolaisten valtioihmisten välillä?
-answer: Molemmat pyrkivät käyttämään valtion valtaa, mutta eri arvojen ja prioriteettien mukaisesti
+question: "Mitä poliittinen konservatismi on?"
+answer: "Ideologia, joka pyrkii säilyttämään vakiintuneet poliittiset instituutiot ja yhteiskuntajärjestyksen ja vastustaa suuria rakenteellisia mullistuksia"
 wrong_answers:
-  - Vasemmistolaiset valtiomiehet haluavat enemmän hallintoa, kun taas oikeistolaiset valtiomiehet haluavat vähemmän hallintoa
-  - Oikeistolaiset valtiomiehet kannattavat taloudellista vapautta, kun taas vasemmistolaiset valtiomiehet vastustavat kaikkia vapauksia
-  - Vasemmistolaiset valtiomiehet ovat liberaaleja, kun taas oikeistolaiset valtiomiehet ovat määritelmän mukaan konservatiivisia
-explanation: |
-  Luvussa selitetään, että sekä vasemmisto että oikeisto ovat valtiovallan muotoja - molemmat haluavat käyttää valtiovallan voimaa saadakseen näkemyksensä läpi yhteiskunnassa.
-  Ero piilee niiden prioriteeteissa: oikeistostatistit keskittyvät moraalin ja perinteiden säätämiseen sallien samalla jonkin verran taloudellista vapautta, kun taas vasemmistostatistit pitävät ensisijaisina sosiaalista oikeudenmukaisuutta ja vaurauden uudelleenjakoa, mutta eivät ole yhtä huolissaan perinteisistä moraalisista vaatimuksista. Molemmat pyrkivät viime kädessä hallitsemaan yhteiskuntaa lainsäädännön avulla, mikä tekee heistä pikemminkin erityyppisiä valtiomiehiä kuin vastakohtia yksinkertaisella vasemmisto-oikeisto -spektrillä.
+  - "Henkilökohtainen sitoutuminen perinteisiin perhearvoihin ja uskonnollisiin käytäntöihin ilman pyrkimystä pakottaa niitä muille"
+  - "Filosofia, joka edistää nopeaa yhteiskunnallista muutosta demokraattisen reformin ja edistyksellisen lainsäädännön kautta"
+  - "Talousteoria, joka puolustaa vapaita markkinoita, vähäistä verotusta ja kaupan esteiden poistamista"
+explanation: >-
+  Poliittinen konservatismi on ideologia, jota usein edustavat oikeistolaiset tai äärioikeistolaiset puolueet ja joka pyrkii säilyttämään vakiintuneet poliittiset instituutiot ja yhteiskuntajärjestyksen samalla, kun se vastustaa suuria rakenteellisia mullistuksia. Sen kannattajat haluavat käyttää valtaa ja lakia perintönsä suojelemiseen. Tämä eroaa kulttuurikonservatismista, joka on henkilökohtainen elämäntapavalinta eikä poliittinen ohjelma.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Según el diagrama político, ¿qué representa el eje y?
-answer: Libertades personales y sociales
+question: "¿Qué incluye la categoría de libertad económica?"
+answer: "Lo que haces como productor y consumidor: comprar, vender, producir, trabajar, contratar y gestionar tu dinero"
 wrong_answers:
-  - Libertades económicas y comerciales
-  - El nivel de intervención pública en la economía
-  - Preferencias fiscales y reglamentarias
-explanation: |
-  El eje y (vertical) representa las libertades personales y sociales, que incluyen la libertad de movimiento, opinión y autodeterminación. Estas libertades se refieren a lo que haces en tus relaciones privadas, con tus opiniones y creencias, así como todo lo que haces con tu propio cuerpo y mente. El eje x (horizontal) representa las libertades económicas. Esta distinción nos permite clasificar la mayoría de las cuestiones políticas en dos categorías fundamentales.
+  - "Tus creencias religiosas, relaciones personales y libertad de expresión"
+  - "Tu derecho a votar, participar en elecciones y unirte a partidos políticos"
+  - "Tu capacidad de viajar libremente, elegir tu residencia y cruzar fronteras nacionales"
+explanation: >-
+  La libertad económica cubre lo que haces como productor y consumidor: lo que puedes comprar, vender o producir; dónde trabajas; a quién contratas; y qué haces con tu dinero. Las relaciones personales, las creencias religiosas y la libertad de movimiento pertenecen a la categoría de libertad personal, no a la económica.
+reviewed: false

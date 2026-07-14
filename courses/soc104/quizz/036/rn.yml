@@ -1,8 +1,9 @@
-question: Nk’uko Milton Friedman abivuga, ni kubera iki porogarama zo gufasha abakene akenshi zidashika ku ntumbero zazo?
-answer: Kuko zituma habaho ingaruka mbi nk’ugushingira ku bukungu no guhindura isoko .
+question: "Insiguro y'imiterere y'umugwi wa politike yibanda ku ki?"
+answer: "Ukuntu uwo mugwi ukora vy'ukuri n'ibiranga bishobora kwihwezwa, nk'urugero rw'ubugenzuzi bwa Leta"
 wrong_answers:
-  - Kuko ababatera inkunga babuze imigambi myiza n’ubugwaneza ku bakene .
-  - Kuko nta mahera ahagije bafise yo gushitsa ivyo bakeneye vy’ukuri .
-  - Kubera ko abaronka iyo porogarama badatahura ingene bokoresha neza izo porogarama .
-explanation: |
-  Friedman yerekana ko politike z’imibano, naho zifise imigambi y’ubugwaneza, akenshi zitazoshika kubera ko zitazirikana icegeranyo gikomeye c’ibintu bitera intege n’inyifato vy’abantu. Izo porogarama zituma haba ingaruka mbi zitari zitezwe, nk’ugushingira ku butunzi canke uguhindura isoko, bikazana ingaruka ziteye kubiri n’intumbero z’intango.
+  - "Intumbero zivugwa n'imigambi myiza yatangajwe n'abashinze uwo mugwi n'abawurongoye"
+  - "Inkomoko zo mu mateka z'uwo mugwi wa politike n'ubuzima bw'abiyumvirizi bawo bakuru"
+  - "Igitigiri c'imigambwe ya politike yemerewe n'incuro amatora ya demokarasi aba"
+explanation: >-
+  Insiguro z'imiterere zibanda ku kuntu imigwi ya politike ikora vy'ukuri no ku biranga bishobora kwihwezwa. Nk'akarorero, sosiyalizimu mu miterere yayo irangwa n'ukuba Leta iri hose. Ubu buryo burahushanye n'insiguro zishingiye ku migambi, zubakira ku mvo n'intumbero zivugwa. Uburyo bw'imiterere butuma habaho isuzuma rirushirije kuba iritagira aho rihengamiye, rishingiye ku bivamwo bipimika.
+reviewed: false

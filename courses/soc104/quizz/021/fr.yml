@@ -1,8 +1,9 @@
-question: What is the main characteristic that distinguishes cultural conservatism from political conservatism?
-answer: Cultural conservatism is a personal adherence to traditional values and is not a political philosophy
+question: "Qu'est-ce que le conservatisme culturel ?"
+answer: "Une adhésion personnelle à des valeurs familiales, morales, esthétiques et métaphysiques héritées du passé, et non une philosophie politique"
 wrong_answers:
-  - Cultural conservatism requires government enforcement of traditional values while political conservatism does not
-  - Cultural conservatism focuses on economic policies while political conservatism focuses on social issues
-  - Cultural conservatism opposes all forms of change while political conservatism accepts gradual reform
-explanation: |
-  The chapter clearly states that cultural conservatism is a personal adherence to traditional moral values, anthropology, aesthetics, and metaphysics inherited from the past, and explicitly notes that 'it is not a political philosophy.' In contrast, political conservatism is described as a way of organizing society according to a fixed order. This distinction is crucial because it shows that one can hold traditional values personally without necessarily wanting to impose them through political means or government force.
+  - "Une idéologie politique qui utilise le pouvoir de l'État pour imposer des valeurs traditionnelles à toute la société par la législation"
+  - "Un mouvement qui rejette toutes les formes de modernité et cherche à ramener la société à un mode de vie préindustriel"
+  - "Une doctrine économique qui protège les industries nationales et s'oppose au libre-échange avec les pays étrangers"
+explanation: >-
+  Le conservatisme culturel est défini comme une sagesse de vie : l'adhésion personnelle à des valeurs familiales, morales, esthétiques et métaphysiques héritées du passé, qu'elles soient gréco-romaines ou judéo-chrétiennes. Ce n'est explicitement pas une philosophie politique. Il diffère du conservatisme politique, qui vise à préserver les institutions politiques et l'ordre social par le pouvoir de l'État. Il ne s'agit pas non plus de rejeter la modernité ou de défendre le protectionnisme économique.
+reviewed: false

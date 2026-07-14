@@ -1,9 +1,9 @@
-question: Secondo la filosofia libertaria, qual è il criterio principale per determinare se un sistema di organizzazione sociale è legittimo?
-answer: Se emerge da interazioni volontarie e dal consenso individuale piuttosto che da una coercizione imposta
+question: "In che modo la filosofia cypherpunk sulla centralizzazione si collega al principio libertario del consenso come norma fondamentale della giustizia?"
+answer: "I cypherpunk vedono ogni centralizzazione come fondata sulla coercizione anziché sul consenso, riecheggiando la posizione libertaria secondo cui nulla può essere giusto se imposto con la forza da un'autorità centralizzata"
 wrong_answers:
-  - Se massimizza l'efficienza economica e riduce i costi di transazione per tutti i partecipanti
-  - Se rappresenta la volontà democratica della maggioranza, proteggendo al contempo i diritti delle minoranze
-  - Se è in grado di bilanciare le libertà individuali con le responsabilità e i doveri sociali collettivi
-explanation: |
-  Il testo sottolinea che la divisione politica fondamentale è tra libertà e coercizione, consenso volontario e costrizione.
-  I libertari credono che l'organizzazione sociale debba emergere spontaneamente dalle interazioni volontarie, anziché essere deliberatamente pianificata e imposta dalle autorità politiche. Questo principio dell'emergere volontario rispetto all'imposizione coercitiva è ciò che distingue la filosofia libertaria dalle politiche tradizionali di destra e sinistra, che presuppongono tutte un certo grado di intervento e controllo dello Stato sulle scelte individuali.
+  - "I cypherpunk credono che la centralizzazione sia accettabile quando approvata dal voto della maggioranza democratica, allineandosi al rispetto libertario per la governance costituzionale"
+  - "I cypherpunk sostengono la centralizzazione temporanea durante le emergenze, riflettendo la visione libertaria secondo cui i diritti individuali possono essere sospesi quando il collettivo è minacciato"
+  - "I cypherpunk si oppongono alla centralizzazione solo nei sistemi tecnologici, accettando invece la centralizzazione politica come necessaria per far rispettare diritti di proprietà e contratti"
+explanation: >-
+  I cypherpunk ripongono fiducia nei sistemi crittografici decentralizzati anziché nelle istituzioni centralizzate. Ogni centralizzazione è percepita come fondata sulla coercizione anziché sul consenso. Questo riecheggia direttamente la filosofia libertaria secondo cui il consenso è la norma fondamentale della giustizia. Nulla può essere giusto se è imposto con la forza da un'autorità centralizzata, ed è per questo che cercarono di costruire reti decentralizzate in cui nessuna singola entità potesse imporre la propria volontà.
+reviewed: false

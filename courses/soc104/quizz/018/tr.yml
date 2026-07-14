@@ -1,9 +1,9 @@
-question: Elmas modeline göre, sağcı ve solcu devletçiler arasındaki temel fark nedir?
-answer: Devlet gücünü farklı değerleri empoze etmek için kullanırlar ancak her ikisi de toplumu kontrol etmeye çalışır
+question: "Nolan diyagramının dikey ekseni gerçek siyasi soru hakkında neyi açığa çıkarır?"
+answer: "Kendi hassasiyetlerinizi devlet aracılığıyla başkalarına dayatmak mı istediğinizi, yoksa herkesin kendi adına karar vermekte özgür olmasını mı tercih ettiğinizi açığa çıkarır"
 wrong_answers:
-  - Sağcı devletçiler her türlü hükümet müdahalesine karşı çıkarken, solcular bunu destekliyor
-  - Sağcı devletçiler ekonomik özgürlük isterken, solcular kişisel özgürlük istiyor
-  - Sağcı devletçiler liberal, solcu devletçiler ise otoriterdir
-explanation: |
-  Bu bölüm, hem sağcı hem de solcu devletçilerin aynı siyasi hedefi paylaştığını açıklamaktadır: toplumu kendi çıkarlarına göre düzenlemek için iktidarı ele geçirmek
-  kendi dünya görüşlerini herkese empoze etmektir. Bu devletçiliğin tam tanımıdır - toplumu kontrol etmek ve şekillendirmek için yasaları kullanmak. Aralarındaki fark değerlerinde yatmaktadır: sağ kanat devletçiler kişisel ahlak ve geleneklere öncelik verirken, sol kanat devletçiler sosyal adalet ve yeniden dağıtıma odaklanmaktadır. Ancak her ikisi de kendi vizyonlarını empoze etmek için devlet gücünü kullanmakta, bu da onları doğaları gereği eşit derecede devletçi yapmaktadır.
+  - "Demokratik yönetimi mi desteklediğinizi yoksa tek bir liderin otoriter yönetimini mi tercih ettiğinizi açığa çıkarır"
+  - "İlerici toplumsal hareketlerle mi yoksa geleneksel dini kurumlarla mı özdeşleştiğinizi açığa çıkarır"
+  - "Birincil kaygınızın ulusal güvenlik mi yoksa ekonomik refah mı olduğunu açığa çıkarır"
+explanation: >-
+  Dikey eksen gerçek siyasi soruyu ortaya koyar: solcu mu sağcı mı olduğunuz değil, devletin toplumu sizin değerlerinize göre şekillendirmeye ne ölçüde müdahale etmesini istediğiniz. Hassasiyetlerinizi başkalarına dayatmak mı istiyorsunuz, yoksa herkesin kendi adına karar vermekte özgür olmasını mı tercih ediyorsunuz? Bu çerçeve sol-sağ ayrımını aşar ve iki kampın da eşit derecede devletçi olabileceğini gösterir.
+reviewed: false

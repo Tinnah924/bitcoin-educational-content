@@ -1,9 +1,9 @@
-question: Hvilket grunnleggende prinsipp skiller, ifølge Eric Hughes' Cypherpunk Manifesto, cypherpunks fra dem som bare håper på beskyttelse av privatlivet?
-answer: Cypherpunks skriver aktivt kode for å bygge anonyme systemer i stedet for å vente på at institusjoner skal sørge for personvern
+question: "Hvorfor beskrives monetær inflasjon som en skjult skatt pålagt uten borgernes samtykke?"
+answer: "Fordi statlig pengeskaping devaluerer valutaen slik at folk kan kjøpe mindre med samme beløp, men de fleste innser ikke at stigende priser gjenspeiler statlig politikk snarere enn naturlige markedskrefter"
 wrong_answers:
-  - Cypherpunks fokuserer på politisk lobbyvirksomhet og juridiske reformer for å etablere personvernrettigheter gjennom demokratiske prosesser
-  - Cypherpunks tror på å jobbe innenfor eksisterende finansinstitusjoner for gradvis å forbedre personvernet deres
-  - Cypherpunks prioriterer å opplyse publikum om personvernrisikoer fremfor å utvikle tekniske løsninger
-explanation: |
-  I manifestet står det eksplisitt at "Cypherpunks skriver kode", og det understrekes at de ikke finner trøst i håp og ønsker, men at de aktivt griper inn i hendelser.
-  Hughes hevdet at folk ikke kan forvente at myndigheter, selskaper eller andre store organisasjoner skal garantere personvernet, så cypherpunks må bygge kryptografiske systemer selv. Denne aktive, tekniske tilnærmingen gjennom kodeutvikling skiller dem fra passive tilnærminger som lobbyvirksomhet, arbeid innenfor eksisterende systemer eller bare å utdanne andre uten å skape konkrete teknologiske løsninger.
+  - "Fordi sentralbanker hemmelig belaster gebyrer på hver transaksjon som behandles gjennom banksystemet uten å opplyse kontoinnehaverne om det"
+  - "Fordi myndigheter trykker penger og distribuerer dem bare til velstående personer, mens de skattlegger fattige gjennom høyere omsetningsavgifter på nødvendige varer"
+  - "Fordi inflasjon skyldes at private selskaper øker prisene for å øke profitten, noe som fungerer som en uoffisiell skatt på forbrukere"
+explanation: >-
+  Injeksjonen av penger i systemet oversettes til valutadevaluering, der samme beløp kjøper mindre fordi de nye pengene ikke gjenspeiler ekte økonomisk vekst. De fleste ser ikke at statlig politikk førte til stigende priser, som ganske enkelt er uttrykket for valutadevaluering. Dette utgjør lovlig tyveri og institusjonalisert plyndring, og gjør middelklassen fattigere mens de velstående fanger opp nye penger gjennom spekulative aktiva.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Kulingana na Ilani ya Cypherpunk ya Eric Hughes, ni jukumu gani kuu la kutetea faragha katika jamii ya kielektroniki iliyo wazi?
-answer: Watu binafsi lazima watetee faragha yao wenyewe badala ya kutegemea serikali au mashirika kutoa
+question: "Falsafa ya cypherpunk kuhusu uwekaji madaraka katikati inaunganishwaje na kanuni ya libertarian ya ridhaa kama kipimo cha msingi cha haki?"
+answer: "Cypherpunks huona uwekaji wote wa madaraka katikati kuwa umejengwa juu ya ulazimishaji badala ya ridhaa, jambo linalorudia msimamo wa libertarian kwamba hakuna kitu kinachoweza kuwa cha haki ikiwa kinalazimishwa kwa nguvu na mamlaka ya kati"
 wrong_answers:
-  - Serikali zinapaswa kuanzisha kanuni kamili za faragha ili kuwalinda raia kutokana na ufuatiliaji wa makampuni
-  - Mashirika lazima yatekeleze viwango vya faragha vya hiari na kujidhibiti wenyewe kwa vitendo vyao vya ukusanyaji wa data
-  - Mashirika ya kimataifa yanapaswa kuunda mikataba inayofungamana inayoamuru ulinzi wa faragha katika mataifa yote
-explanation: |
-  Eric Hughes alisema waziwazi katika Ilani ya Cypherpunk kwamba 'Hatuwezi kutarajia serikali, mashirika, au mashirika mengine makubwa yasiyojulikana kutuhakikishia usiri... Lengo langu kuu kwa Wacypherpunks ni kuwafanya watu watetee usiri wao, badala ya kumtegemea mtu mwingine kutoa.'
-  Falsafa hii inasisitiza uwajibikaji wa mtu binafsi na kujitegemea kupitia zana za kriptografia, ikikataa utegemezi wa taasisi za nje kwa ajili ya ulinzi wa faragha, ndiyo maana Wacypherpunks waliunda mifumo ya kriptografia iliyogawanywa.
+  - "Cypherpunks huamini kwamba uwekaji madaraka katikati unakubalika unapothibitishwa na kura ya wengi ya kidemokrasia, sambamba na heshima ya libertarian kwa utawala wa kikatiba"
+  - "Cypherpunks huunga mkono uwekaji wa muda wa madaraka katikati wakati wa dharura, ikiakisi mtazamo wa libertarian kwamba haki za mtu binafsi zinaweza kusitishwa wakati jumuiya inapotishiwa"
+  - "Cypherpunks hupinga uwekaji madaraka katikati katika mifumo ya teknolojia pekee, huku wakikubali uwekaji wa madaraka ya kisiasa katikati kama muhimu kwa kutekeleza haki za umiliki na mikataba"
+explanation: >-
+  Cypherpunks huweka imani yao katika mifumo ya kriptografia iliyogatuliwa badala ya taasisi zenye mamlaka ya kati. Uwekaji wote wa madaraka katikati huonekana kuwa umejengwa juu ya ulazimishaji badala ya ridhaa. Hili linarudia moja kwa moja falsafa ya libertarian kwamba ridhaa ndiyo kipimo cha msingi cha haki. Hakuna kitu kinachoweza kuwa cha haki ikiwa kinalazimishwa kwa nguvu na mamlaka ya kati, ndiyo maana walitafuta kujenga mitandao iliyogatuliwa ambapo hakuna huluki moja inayoweza kulazimisha matakwa yake.
+reviewed: false

@@ -1,10 +1,9 @@
-question: Kulingana na falsafa ya uhuru, ni kigezo kipi cha msingi cha kutofautisha itikadi za kisiasa?
-answer: Ikiwa watu binafsi hufanya maamuzi yao wenyewe au wamelazimishwa na wengine kufanya maamuzi juu yao
+question: "Kozi inatambua nini kama mgawanyiko halisi wa kisiasa, zaidi ya wigo wa jadi wa kushoto-kulia-katikati?"
+answer: "Mgawanyiko kati ya kanuni za msingi za kifalsafa: uhuru au ulazimishaji, ridhaa ya hiari au kulazimishwa, mtu binafsi anayewajibika au jumuiya"
 wrong_answers:
-  - Kama sera za kiuchumi zinapendelea ugawaji upya au mkusanyiko wa utajiri
-  - Kama maadili ya kijamii yanasisitiza miundo ya familia ya kitamaduni au maadili ya kimaendeleo
-  - Ikiwa miundo ya utawala inapa kipaumbele uhuru wa kitaifa au ushirikiano wa kimataifa
-explanation: |
-  Maandishi yanasema wazi kwamba mgawanyiko halisi wa kisiasa si kati ya kushoto, kulia, au katikati, bali unategemea kanuni za msingi za kifalsafa: uhuru dhidi ya kulazimishwa, ridhaa ya hiari dhidi ya vikwazo, na uwajibikaji wa mtu binafsi dhidi ya umoja.
-  
-  Swali muhimu linakuwa kama unataka kufanya maamuzi muhimu kuhusu maisha yako mwenyewe, au kama unataka mtu mwingine ayafanye kwa ajili yako. Hii inawakilisha kuondoka kutoka kwa uainishaji wa kisiasa wa kitamaduni kulingana na ugawaji upya wa kiuchumi, maadili ya kijamii, au miundo ya utawala, badala yake ikizingatia swali la msingi la nani ana mamlaka ya kufanya maamuzi yanayoathiri maisha ya watu binafsi.
+  - "Mgawanyiko kati ya mataifa tajiri na maskini kuhusu udhibiti wa mikataba ya biashara ya kimataifa na taasisi za kifedha za kimataifa"
+  - "Mgawanyiko kati ya wakazi wa mijini na vijijini kuhusu vipaumbele vya matumizi ya serikali na uwekezaji wa miundombinu"
+  - "Mgawanyiko kati ya tamaduni za kimaendeleo na za jadi kuhusu kanuni za kijamii, thamani za familia, na elimu ya kidini"
+explanation: >-
+  Kozi inadai kwamba mgawanyiko halisi wa kisiasa haupo katika lebo za jadi za kushoto-kulia-katikati bali katika kanuni za msingi za kifalsafa: uhuru au ulazimishaji, ridhaa ya hiari au kulazimishwa, mtu binafsi anayewajibika au jumuiya. Njia sahihi ya kufikiri kuhusu siasa ni kuanzia kwenye kanuni za kimaadili badala ya lebo.
+reviewed: false

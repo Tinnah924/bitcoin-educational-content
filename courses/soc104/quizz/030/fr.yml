@@ -1,8 +1,9 @@
-question: Why did supporters of classical liberalism in the United States adopt the term 'libertarian' starting in the 1960s?
-answer: To distinguish themselves from American liberals who had embraced state intervention and big government policies
+question: "Quel terrain commun les libertariens et les conservateurs partagent-ils, et qu'est-ce qui les divise ?"
+answer: "Ils partagent l'attachement à un gouvernement limité et le rejet de l'égalitarisme forcé, mais divergent sur l'interventionnisme militaire et les politiques sociales"
 wrong_answers:
-  - To align themselves with European progressive movements and social democratic policies of the era
-  - To better reflect their support for New Deal programs and Great Society welfare initiatives
-  - To emphasize their commitment to government redistribution of wealth and public healthcare systems
-explanation: |
-  Classical liberals in America adopted 'libertarian' because the term 'liberal' had been co-opted by progressives who supported extensive state intervention, contrary to classical liberal principles of laissez-faire economics and limited government. American 'liberals' became associated with New Deal and Great Society programs, representing the opposite of what classical liberalism historically stood for. The other options incorrectly suggest libertarians supported big government policies, when they actually opposed such interventionist approaches.
+  - "Ils partagent le soutien aux politiques commerciales protectionnistes et à la défense nationale, mais divergent sur le rôle de la religion dans la vie publique"
+  - "Ils partagent un engagement envers l'imposition progressive et les programmes d'aide sociale, mais divergent sur la politique d'immigration"
+  - "Ils partagent l'opposition au libre-échange et à la légalisation des drogues, mais divergent sur la taille du gouvernement fédéral"
+explanation: >-
+  Les libertariens et les conservateurs défendent tous deux un gouvernement limité, rejettent l'égalitarisme forcé, s'opposent à la dette publique et défendent les droits des États. Cependant, les libertariens rejettent l'interventionnisme militaire des néoconservateurs, s'opposent aux politiques sociales conservatrices et aux subventions, condamnent la prohibition des drogues et rejettent le protectionnisme. L'alliance est réelle, mais intrinsèquement tendue.
+reviewed: false

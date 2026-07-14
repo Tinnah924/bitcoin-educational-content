@@ -1,8 +1,9 @@
-question: What is the fundamental disagreement between libertarians and libertaires regarding economic organization?
-answer: Libertarians support private property and free markets, while libertaires oppose capitalism and advocate for collective ownership
+question: "Sur quoi une définition structurelle d'un système politique se concentre-t-elle ?"
+answer: "Sur la manière dont le système fonctionne réellement et sur ses caractéristiques observables, comme le degré de contrôle étatique"
 wrong_answers:
-  - Libertarians favor government regulation of markets, while libertaires support complete economic deregulation
-  - Libertarians oppose all forms of property, while libertaires defend individual ownership rights within capitalism
-  - Libertarians support state-controlled economies, while libertaires advocate for privatization of all public services
-explanation: |
-  The core economic divide stems from their opposing views on property and capitalism. Libertarians believe private property rights and free market capitalism are essential for individual freedom, while libertaires (anarchist socialists) view private property as theft and capitalism as inherently oppressive. Libertaires instead advocate for alternative economic models like mutualism, collectivism, or libertarian communism, rejecting both state control and private ownership in favor of collective arrangements.
+  - "Les objectifs déclarés et les nobles intentions proclamées par les fondateurs et les dirigeants du système"
+  - "Les origines historiques du mouvement politique et les biographies de ses penseurs clés"
+  - "Le nombre de partis politiques autorisés et la fréquence des élections démocratiques organisées"
+explanation: >-
+  Les définitions structurelles se concentrent sur la manière dont les systèmes politiques fonctionnent réellement et sur leurs caractéristiques observables. Par exemple, le socialisme est structurellement caractérisé par l'omniprésence de l'État. Cette approche contraste avec les définitions intentionnelles, qui reposent sur les motivations et objectifs déclarés. L'approche structurelle permet une évaluation plus objective fondée sur des résultats mesurables.
+reviewed: false

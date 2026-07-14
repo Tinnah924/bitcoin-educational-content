@@ -1,9 +1,9 @@
-question: De acordo com a teoria do conhecimento disperso de Hayek, por que razão as economias centralmente planificadas não conseguem uma afetação eficiente dos recursos em comparação com os sistemas de mercado livre?
-answer: Os planeadores centrais não podem aceder ao conhecimento fragmentado e localizado que apenas os participantes individuais no mercado possuem sobre as suas necessidades, preferências e circunstâncias específicas
+question: "Qual é a distinção central entre ser pró-empresas e ser pró-mercado?"
+answer: "Defensores pró-empresas buscam intervenção estatal para proteger empresas específicas do fracasso, enquanto defensores pró-mercado apoiam a desregulamentação e permitem que empresas fracassem para que o mercado possa se reorganizar naturalmente"
 wrong_answers:
-  - Os planeadores centrais não dispõem da capacidade de cálculo e dos algoritmos avançados necessários para processar todos os dados económicos exigidos para uma afetação óptima dos recursos
-  - Os planeadores centrais são inerentemente corruptos e egoístas, dando prioridade ao seu ganho pessoal em detrimento do bem-estar da sociedade como um todo
-  - Os planeadores centrais são ideologicamente tendenciosos e recusam-se a implementar soluções baseadas no mercado, mesmo quando reconhecem a sua eficiência superior
-explanation: |
-  A visão fundamental de Hayek sobre o conhecimento disperso revela que a informação sobre as preferências individuais, as condições locais e as avaliações subjectivas existe apenas de forma fragmentada em milhões de indivíduos. Este conhecimento não pode ser recolhido ou agregado de forma centralizada porque é tácito, está em constante mudança e é frequentemente contraditório. Os mercados livres resolvem este problema através do mecanismo de preços, que coordena espontaneamente esta informação dispersa através de trocas voluntárias.
-  As outras opções centram-se incorretamente em limitações técnicas, falhas morais ou preconceitos ideológicos, em vez do problema epistemológico central de que nenhuma autoridade central pode possuir o conhecimento distribuído necessário para uma coordenação eficiente.
+  - "Defensores pró-empresas se concentram em grandes corporações, enquanto defensores pró-mercado se concentram exclusivamente em apoiar pequenas empresas e startups"
+  - "Pró-empresas é uma posição de esquerda que favorece cooperativas de trabalhadores, enquanto pró-mercado é uma posição de direita que favorece a propriedade privada"
+  - "Defensores pró-empresas rejeitam toda concorrência, enquanto defensores pró-mercado apoiam a concorrência regulada pelo governo entre empresas aprovadas"
+explanation: >-
+  A posição pró-empresas vê a concorrência como um instrumento de governança obtido por meio de regulamentações e justifica subsídios e resgates para evitar perdas de empregos. Na visão pró-empresas, o mercado é frágil e precisa de resgate estatal. Defensores pró-mercado veem a concorrência como o resultado natural da livre iniciativa, implicando desregulamentação e permitindo que empresas fracassem, porque o fracasso permite que o mercado se reorganize naturalmente e abre espaço para atores mais capazes.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Mikä on Hannah Arendtin analyysin mukaan totalitaarisen kasvatuksen ensisijainen tavoite?
-answer: Tuhota ihmisten kyky muodostaa itsenäisiä vakaumuksia sen sijaan, että iskostettaisiin tiettyjä uskomuksia
+question: "Mitä Mussolinin vuoden 1920 julistus 'Kaikki valtiossa, ei mitään valtion ulkopuolella, ei mitään valtiota vastaan' paljastaa totalitarismista?"
+answer: "Julkisen ja yksityisen tilan välillä ei enää ole eroa, koska valtio sulauttaa yhteiskunnan kokonaan itseensä"
 wrong_answers:
-  - Hallituksen ideologian ja keskeisten poliittisten arvojen tehokas välittäminen väestölle
-  - Luoda korkeasti koulutettua työvoimaa, joka kykenee tukemaan valtion taloudellisia tavoitteita
-  - Lukutaidottomuuden poistaminen ja peruskoulutusmahdollisuuksien tarjoaminen kaikille
-explanation: |
-  Hannah Arendt väitti, että totalitaarisen kasvatuksen tarkoituksena ei ollut opettaa vakaumuksia vaan tuhota kyky muodostaa itsenäisiä vakaumuksia.
-  Tämä erottaa totalitaariset järjestelmät muista autoritaarisista järjestelmistä, jotka haluavat vain tyrkyttää ideologiaansa. Tuhoamalla kriittisen ajattelun kyvyt totalitaariset järjestelmät luovat väestöä, joka ei kykene itsenäiseen poliittiseen toimintaan, mikä palvelee niiden tavoitetta yhteiskunnan täydellisestä hallinnasta ja eliminoi mahdollisen opposition.
+  - "Valtio keskittyy yksinomaan sotilaalliseen voimaan ja jättää talouden yksityiselle yritystoiminnalle"
+  - "Kansalaiset voivat järjestäytyä yksityisesti vapaasti, kunhan he eivät arvostele hallitusta avoimesti"
+  - "Hallitus kontrolloi vain poliittista toimintaa, kun taas kulttuurinen ja uskonnollinen elämä pysyvät autonomisina"
+explanation: >-
+  Mussolinin julistus tiivistää totalitarismin ytimen: totaalisuuden. Kaikki sulautetaan valtioon, mikä tarkoittaa, ettei julkisen ja yksityisen tilan välillä ole eroa. Yhteiskunta menettää kaiken autonomian muodon aina arkisimpiin toimintoihin, kuten urheiluseuran perustamiseen, asti. Tämä menee paljon pidemmälle kuin pelkkien sotilaallisten, poliittisten tai taloudellisten alueiden kontrollointi.
+reviewed: false

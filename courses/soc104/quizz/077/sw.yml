@@ -1,8 +1,9 @@
-question: Kulingana na uchambuzi wa Molinari katika 'Les Soirées de la rue Saint Lazare' (Kiingereza. Evenings on Saint Lazarus Street), kuna kufanana gani kwa msingi kati ya wahafidhina na wasoshalisti kunakowatofautisha na watetezi wa uhuru?
-answer: Wahafidhina na wasoshalisti wote hutafuta kulazimisha maono yao ya jamii kupitia nguvu za serikali, licha ya kuwa na maono tofauti
+question: "Mtazamo wa kilibertari kuhusu uhuru unatofautianaje na mtazamo wa watu wa msimamo wa kati?"
+answer: "Walibertari huchukulia uhuru kama aksiomu isiyo na masharti, ilhali watu wa msimamo wa kati hutetea uhuru kwa fursa kulingana na muktadha na ufanisi"
 wrong_answers:
-  - Wahafidhina na wasoshalisti wanakataa haki za mali za mtu binafsi na wanapendelea umiliki wa pamoja wa rasilimali
-  - Wahafidhina na wasoshalisti wote wanaona uhuru kama kanuni kamili ambayo haipaswi kamwe kuathiriwa au kuwekewa mipaka
-  - Wahafidhina na wasoshalisti wanaunga mkono uingiliaji kati mdogo wa serikali na wanapinga aina zote za uhandisi wa kijamii
-explanation: |
-  Ufahamu muhimu wa Molinari ulikuwa kwamba licha ya upinzani wao dhahiri, wahafidhina na wasoshalisti wanashiriki mbinu moja: kutumia mamlaka ya serikali kulazimisha maono yao ya kijamii. Wahafidhina wanataka kuwalazimisha watu kudumisha mizizi na miundo ya kitamaduni, huku wasoshalisti wakitaka kuwalazimisha watu kuwaacha, lakini wote wanategemea kulazimishwa na serikali. Hii inawatofautisha na wapenda uhuru, ambao wanapinga kutumia mamlaka ya serikali kulazimisha maono yoyote ya kijamii na badala yake wanatetea mipango ya hiari kulingana na chaguo la mtu binafsi na haki za mali.
+  - "Walibertari huruhusu dola kulinda uhuru kwa kuchagua, ilhali watu wa msimamo wa kati hukataa ushiriki wowote wa dola katika kulinda haki za mtu binafsi"
+  - "Walibertari huuelekeza uhuru kwenye masuala ya kiuchumi pekee, ilhali watu wa msimamo wa kati hutumia uhuru kwa upana katika nyanja za kijamii na kitamaduni"
+  - "Walibertari na watu wa msimamo wa kati wana mtazamo uleule wa uhuru lakini hawakubaliani kuhusu ukubwa wa serikali unaohitajika kuutekeleza"
+explanation: >-
+  Walibertari hufafanua uhuru kama kanuni ya jumla isiyo na masharti inayofanya kazi kama aksiomu. Kinyume chake, watu wa msimamo wa kati hutetea baadhi ya uhuru kwa njia ya fursa na kimuktadha bila kutumia kanuni yoyote ya jumla. Njia ya watu wa msimamo wa kati inaonyesha dhana ya uhuru kama chombo, daima ukiwekwa chini ya malengo ya kiutendaji kama ufanisi, jambo ambalo walibertari hulikataa kimsingi.
+reviewed: false

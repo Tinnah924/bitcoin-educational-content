@@ -1,8 +1,9 @@
-question: De acordo com a perspetiva do economista austríaco Ludwig von Mises sobre o individualismo metodológico, qual é a limitação fundamental da atribuição de acções a entidades colectivas?
-answer: Apenas os indivíduos possuem a capacidade de pensar, raciocinar e agir, tornando as entidades colectivas meras abstracções sem existência ou realidade independentes
+question: "Como a distinção de Karl Popper entre sociedades abertas e fechadas se relaciona ao debate entre individualismo e coletivismo?"
+answer: "A sociedade aberta reconhece o direito do indivíduo de julgar por si mesmo por meio de decisões pessoais, enquanto a sociedade fechada é coletivista, repousando na mentalidade tribal e na recusa da liberdade crítica"
 wrong_answers:
-  - As entidades colectivas podem pensar e agir, mas as suas decisões são sempre inferiores às escolhas individuais devido a ineficiências democráticas
-  - As entidades colectivas possuem propriedades emergentes que transcendem as capacidades individuais, mas não têm autoridade moral para se sobreporem à autonomia pessoal
-  - As entidades colectivas podem tomar decisões racionais através da sabedoria agregada, mas devem ser limitadas por restrições constitucionais que protejam os direitos individuais
-explanation: |
-  O individualismo metodológico de Mises sustenta que "apenas o indivíduo pensa, apenas o indivíduo raciocina, apenas o indivíduo age" Isto significa que as entidades colectivas não têm existência ou realidade para além das acções dos seus membros individuais. A sociedade não tem vontade ou pensamento próprio - todas as acções colectivas têm de ser explicadas através das suas componentes individuais. As outras opções assumem incorretamente que as entidades colectivas possuem alguma forma de pensamento independente ou capacidade de decisão, o que contradiz a premissa fundamental de Mises de que apenas os indivíduos podem verdadeiramente pensar e agir.
+  - "A sociedade aberta é aquela que permite livre comércio através de fronteiras nacionais, enquanto a sociedade fechada impõe tarifas e políticas econômicas protecionistas"
+  - "A sociedade aberta é governada por democracia direta, na qual todo cidadão vota, enquanto a sociedade fechada é governada por um único monarca hereditário"
+  - "A sociedade aberta publica todos os documentos governamentais de forma transparente, enquanto a sociedade fechada classifica informações como segredos de estado"
+explanation: >-
+  Popper definiu a sociedade fechada como a sociedade mágica ou tribal, e a sociedade aberta como aquela em que os indivíduos são confrontados com decisões pessoais. A sociedade fechada é coletivista, repousando na mentalidade tribal, com uma recusa da liberdade crítica e a idealização de uma ordem estática. A sociedade aberta dá primazia à livre escolha de valores, crenças e relações, incorporando diretamente princípios individualistas.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Prema manifestu Cypherpunk Erika Hjuza, osnovni princip koji razlikuje sajferpankere od onih koji samo nadaju zaštiti privatnosti je aktivno delovanje. Sajferpankeri ne čekaju da im privatnost bude data; oni je sami stvaraju kroz razvoj i korišćenje kriptografskih tehnologija.
-answer: Cypherpunks aktivno pišu kod kako bi izgradili anonimne sisteme umesto da čekaju da institucije obezbede privatnost
+question: "Koja tri stuba države blagostanja Bitcoin dovodi u pitanje?"
+answer: "Fiskalni sistem, monetarni monopol za finansiranje potrošnje kroz dug i nadzor transakcija radi sprečavanja upotrebe alternativnih valuta"
 wrong_answers:
-  - Cypherpunks se fokusiraju na političko lobiranje i pravne reforme kako bi uspostavili prava na privatnost kroz demokratske procese
-  - Cypherpunks veruju u rad unutar postojećih finansijskih institucija kako bi postepeno poboljšali njihovu zaštitu privatnosti
-  - Cypherpunks daju prednost edukaciji javnosti o rizicima po privatnost pre nego razvoju tehničkih rešenja.
-explanation: |
-  Manifest jasno navodi 'Cypherpunks pišu kod' i naglašava da ne pronalaze utehu u nadama i željama, već aktivno intervenišu u događajima. 
-  Hughes je tvrdio da ljudi ne mogu očekivati da će vlade, korporacije ili druge velike organizacije garantovati privatnost, pa cypherpunks moraju sami izgraditi kriptografske sisteme. Ovaj aktivni, tehnički pristup kroz razvoj koda ih razlikuje od pasivnih pristupa kao što su lobiranje, rad unutar postojećih sistema ili samo edukacija drugih bez stvaranja konkretnih tehnoloških rešenja.
+  - "Vojni budžet, sistem javnog obrazovanja i zdravstvena infrastruktura pod državnom kontrolom"
+  - "Pravosudni sistem, zakonodavni proces i izvršno sprovođenje regulacija nad preduzećima"
+  - "Sistem socijalnog osiguranja, zakonodavstvo o minimalnoj zaradi i progresivnu strukturu poreza na dohodak"
+explanation: >-
+  Bitcoin dovodi u pitanje tri stuba na kojima počiva država blagostanja. Prvo, fiskalni sistem koji nije dovoljan da pokrije rashode. Drugo, monetarni monopol, što znači sposobnost izdavanja novca radi finansiranja potrošnje kroz dug. Treće, nadzor transakcija, sposobnost sprečavanja ljudi da koriste bilo koju valutu osim fiata nametnutog od države. Bitcoin potkopava sva tri istovremeno.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Zgodnie z wykresem Nolana, które stanowisko polityczne charakteryzuje się wspieraniem wysokiej wolności gospodarczej, ale niskiej wolności osobistej?
-answer: Konserwatyści
+question: "Jak system pieniądza fiat wzmacnia podział między rządzącymi a rządzonymi?"
+answer: "Pozwala rządom finansować nieograniczone wydatki poprzez kreację pieniądza, która obniża wartość oszczędności przez inflację"
 wrong_answers:
-  - Socjaliści
-  - Libertarianie
-  - Centryści
-explanation: |
-  Na wykresie Nolana konserwatyści znajdują się po prawej stronie i są zdefiniowani jako ci, którzy popierają wysoką wolność gospodarczą, ale niską wolność osobistą.
-  Odróżnia ich to od socjalistów (którzy popierają niską wolność gospodarczą, ale wysoką wolność osobistą), libertarian (którzy popierają zarówno wysoką wolność gospodarczą, jak i osobistą) oraz centrystów (którzy popierają umiarkowane poziomy obu rodzajów wolności). Konserwatywne stanowisko odzwierciedla tradycyjną prawicową postawę faworyzowania wolnych rynków przy jednoczesnym utrzymaniu ściślejszej kontroli społecznej.
+  - "Daje obywatelom bezpośrednią kontrolę nad polityką monetarną poprzez demokratyczne wybory i referenda"
+  - "Uniemożliwia rządom zaciąganie pożyczek, zmuszając je do polegania wyłącznie na opodatkowaniu jako źródle dochodów"
+  - "Rozdziela nowo utworzony pieniądz równo między wszystkich obywateli, aby stymulować wzrost gospodarczy"
+explanation: >-
+  Waluta fiat jest opisana jako kamień węgielny ekspansji władzy państwa, ponieważ pozwala rządom pożyczać i skłaniać banki do drukowania nowego pieniądza. Wynikająca z tego inflacja obniża wartość oszczędności ludzi, przynosząc korzyść najbogatszym i najpotężniejszym podmiotom. Nie daje obywatelom kontroli monetarnej, nie zapobiega zaciąganiu pożyczek ani nie rozdziela pieniędzy równo.
+reviewed: false

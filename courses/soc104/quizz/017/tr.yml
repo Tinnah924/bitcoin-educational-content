@@ -1,9 +1,9 @@
-question: Nolan diyagramı kavramına göre, farklı siyasi felsefeleri birbirinden ayıran temel faktör nedir?
-answer: Kişisel ve ekonomik alanlarda insan eylemleri üzerindeki hükümet kontrolünün derecesi
+question: "Friedrich Hayek'in tanımladığı şekliyle 'kendiliğinden düzen' kavramı nedir?"
+answer: "Toplumsal kurallar ve normlar, otoriter planlama tarafından dayatılmak yerine özgür bireysel etkileşimlerden doğmalıdır"
 wrong_answers:
-  - Geleneksel değerler ya da ilerici sosyal değişim tercihi
-  - Servetin yeniden dağıtılması ve sosyal refah programlarına verilen destek düzeyi
-  - Bireysel haklara ya da kolektif sorumluluğa bağlılık
-explanation: |
-  Nolan diyagramının ana fikri, siyasi felsefeler arasındaki temel farkın, insan eylemleri üzerindeki hükümet kontrolünün derecesi olduğudur
-  hem kişisel hem de ekonomik alanlarda. Bu da basit bir sol-sağ spektrumundan ziyade iki boyutlu bir model yaratmaktadır. Diğer seçenekler siyaseti kategorize etmenin geleneksel yollarını temsil etmekte, ancak hem solun hem de sağın devletçi olabileceğine dair temel kavrayışı gözden kaçırmaktadır - hükümet kontrolünü istedikleri alanlarda farklılık gösterirler, ancak her ikisi de kendi vizyonlarını topluma empoze etmek için devlet gücünü kullanmaya çalışırlar.
+  - "Devlet rekabetçi dengeyi korumak için müdahale etmediği sürece piyasalar doğal olarak tekele yönelir"
+  - "Demokratik seçimler, toplumu yöneten yasaları oluşturmanın tek meşru mekanizmasıdır"
+  - "Ekonomik krizler kendiliğinden ortaya çıkar ve istikrarı yeniden sağlamak için derhal hükümet müdahalesi gerektirir"
+explanation: >-
+  Hayek'in kendiliğinden düzen kavramı, toplumu yöneten kuralların merkezi planlama yoluyla yukarıdan dayatılmaması, bireysel iradelerin, sözleşmelerin ve gönüllü ilişkilerin serbest işleyişinden doğması gerektiğini savunur. Bu, liberteryen düşüncenin temel bir eksenidir. Piyasaların tekele yöneldiğini ya da krizlerin hükümet müdahalesi gerektirdiğini ima etmez.
+reviewed: false

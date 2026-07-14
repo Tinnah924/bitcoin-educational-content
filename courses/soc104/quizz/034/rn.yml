@@ -1,9 +1,9 @@
-question: Ni itandukaniro irihe ry’ishimikiro riri hagati y’abaharanira umwidegemvyo n’abaharanira umwidegemvyo ku bijanye n’itunga n’imitunganirize y’ubutunzi?
-answer: Abaharanira umwidegemvyo barwanira umutungo w’umuntu ku giti ciwe nk’ingenzi ku mwidegemvyo w’umuntu ku giti ciwe, mu gihe abaharanira umwidegemvyo babona ko umutungo ari ubusuma kandi bagashigikira ivyitegererezo vy’ubutunzi rusangi .
+question: "Ni kubera iki insiguro zishingiye ku migambi y'imigwi ya politike zifatwa nk'iziteye ingorane mu gusesengura?"
+answer: "Zitera urujijo rw'ivyiyumviro kuko imigwi yose ivuga ko ikurikirana intumbero zisa nk'ubutungane, uburinganire, n'umwidegemvyo"
 wrong_answers:
-  - Iyo mitwe yompi irashigikira umutungo w’abantu ku giti cabo ariko iratandukanye ku ruhara rw’amategeko ya Leta mu kuwukingira .
-  - Abanyagihugu b’abanyagihugu bashigikiye umutungo w’abantu ku giti cabo ukingiwe na Leta, mu gihe abanyagihugu b’abanyagihugu bakunda umutungo utagira amategeko .
-  - Bompi banse umutungo w'abantu ariko abaharanira umwidegemvyo bakunda ubusosiyalisimu bw'isoko mu gihe abaharanira umwidegemvyo bakunda ubusosiyalisimu bwa Leta .
-explanation: |
-  Ico gice gishingira intahe neza ko abaharanira umwidegemvyo babona ko umutungo w’umuntu ku giti ciwe ari wo buryo bwonyene bwo kuronka umwidegemvyo w’umuntu ku giti ciwe, mu gihe abaharanira umwidegemvyo, 
-  biva mu migenzo y’abanyagihugu b’abanyagitugu, bakurikize ingingo ngenderwako y’uko ‘itunga ari ubusuma Abanyagihugu b’abanyagihugu bashigikira ubundi buryo bw’ubutunzi nk’ubumwe, ubumwe, canke ubukomunisimu bw’ubwigenge, mu vy’ukuri barwanya imibumbe y’abanyagihugu. Ivyo bigereranya amacakubiri nyamukuru y’ingengabitekerezo hagati y’izo filozofiya zibiri za politike zikunda gutera urujijo kubera amajambo asa.
+  - "Zirasobanutse cane kandi zirakomeye cane, ntizisigira ikibanza ihinduka risanzwe ry'imigwi ya politike uko igihe kigenda"
+  - "Zishira cane imbere ivyavuye mu butunzi maze zikibagira imice y'umuco n'imibano mu buzima bwa politike"
+  - "Zishingiye ku nyandiko za Leta zagizwe ibanga zidashobora kuboneka kenshi ku bashakashatsi bigenga"
+explanation: >-
+  Insiguro zishingiye ku migambi zubakira ku mvo n'intumbero zivugwa, ariko buri mugwi wa politike uvuga ko ukurikirana ubutungane, uburinganire, n'umwidegemvyo. Ivyo bituma bidashoboka gutandukanya imigwi. Isesengura ry'imiterere, ku rundi ruhande, risuzuma imigwi hakurikijwe ingaruka zigaragara, zipimika, n'uburyo ikoresha, rigahishura kamere yayo nyakuri irenze imvugo nziza.
+reviewed: false

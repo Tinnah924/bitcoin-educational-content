@@ -1,9 +1,9 @@
-question: Mikä on sosialistisen talousfilosofian mukaan ensisijainen peruste talouden voimakkaalle valtionvalvonnalle?
-answer: Varallisuuden uudelleenjaon avulla varmistetaan oikeudenmukaisuus siten, että jokainen voi tyydyttää perustarpeensa
+question: "Miten Green New Deal edustaa demokraattisen sosialismin nykyistä kehitystä?"
+answer: "Se käyttää ympäristöhuolia uutena perusteluna valtion väliintulolle ja yksityisten tulojen konfiskoinnille, alistaen yksilön edun kollektiiviselle planetaariselle terveydelle"
 wrong_answers:
-  - Maksimoidaan yksilön taloudelliset vapaudet ja edistetään markkinoiden kilpailudynamiikkaa
-  - Poistetaan kaikenlainen valtion puuttuminen ja luodaan spontaani markkinajärjestys
-  - Varallisuuden keskittäminen yhteiskunnan tuottavimmille jäsenille tehokkuuden vuoksi
-explanation: |
-  Sosialistinen talousfilosofia asettaa oikeudenmukaisuuden tehokkuuden edelle ja pitää vahvaa valtionvalvontaa välttämättömänä varallisuuden uudelleen jakamiseksi ja sen varmistamiseksi, että jokainen
-  että jokainen voi tyydyttää perustarpeensa. Sosialistit suhtautuvat epäluuloisesti vapaisiin markkinoihin, sillä he pitävät niitä järjestelminä, joiden avulla vahvat voivat käyttää hyväkseen haavoittuvia. Tämä on jyrkässä ristiriidassa liberaalin talousfilosofian kanssa, joka suosii vähäistä valtion väliintuloa ja spontaania markkinajärjestystä. Väärät vastaukset heijastavat liberaalia tai kapitalistista lähestymistapaa, jonka sosialistit nimenomaisesti torjuvat, koska heidän mielestään nämä järjestelmät pikemminkin ylläpitävät eriarvoisuutta kuin puuttuvat siihen.
+  - "Se hylkää perinteisen sosialistisen taloustieteen kokonaan ja suosii vapaiden markkinoiden ratkaisuja ympäristöongelmiin hiilikaupan kautta"
+  - "Se torjuu valtion väliintulon ja tukeutuu sen sijaan vapaaehtoiseen yksilölliseen toimintaan ja yksityisen sektorin innovaatioihin ilmastonmuutoksen ratkaisemiseksi"
+  - "Se merkitsee irtiottoa sosialismista asettamalla ympäristönsuojelun kaikkien sosiaalisen oikeudenmukaisuuden ja työllisyyden huolten edelle"
+explanation: >-
+  Green New Deal yhdistää ympäristöhuolet sosiaalisiin tavoitteisiin, yhdistäen ekologisen siirtymän sosiaaliseen oikeudenmukaisuuteen, työllisyystakuihin ja vahvistettuihin julkisiin palveluihin. Yksilön etu alistetaan kollektiiviselle edulle, joka määritellään planetaarisen terveyden kautta. Ytimeltään se tarjoaa uuden retorisen kuoren, joka oikeuttaa valtion väliintulon ja yksityisten tulojen konfiskoinnin, ei enää yksinomaan sosiaalisen oikeudenmukaisuuden vaan myös ympäristön nimissä.
+reviewed: false

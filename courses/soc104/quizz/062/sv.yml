@@ -1,9 +1,9 @@
-question: Enligt Hannah Arendts analys, vad är det primära målet med totalitära utbildningssystem?
-answer: Att förstöra människors förmåga att bilda självständiga övertygelser snarare än att inpränta specifika trosuppfattningar
+question: "Hur kom alla totalitära regimer till makten?"
+answer: "Genom våldsam revolution som rättfärdigade att göra rent hus med det tidigare systemet"
 wrong_answers:
-  - Att indoktrinera medborgarna med regimens ideologi och säkerställa absolut lojalitet mot staten
-  - Att skapa en högutbildad arbetskraft som kan främja landets ekonomiska mål
-  - Att eliminera klasskillnader och skapa ett enat samhälle baserat på gemensamma revolutionära principer
-explanation: |
-  Hannah Arendt hävdade att syftet med totalitär utbildning inte var att ingjuta övertygelser utan att förstöra förmågan att bilda självständiga sådana.
-  Detta skiljer totalitarism från ren auktoritarism - den vill inte bara ha efterlevnad, utan försöker eliminera själva förmågan till självständigt tänkande. De andra alternativen representerar mer konventionella former av politisk kontroll eller social ingenjörskonst, men missar Arendts avgörande insikt om totalitarismens unika angrepp på själva det mänskliga handlandet.
+  - "Genom gradvis lagstiftningsreform inom befintliga demokratiska institutioner"
+  - "Genom militärkupper organiserade av främmande makter som sökte regional kontroll"
+  - "Genom fredliga massrörelser som vann folkval med bred marginal"
+explanation: >-
+  Alla totalitära regimer kom till makten genom våldsam revolution. Denna revolution tjänar ett dubbelt syfte: den förstör fysiskt den gamla ordningen och rättfärdigar ideologiskt användningen av våld som nödvändig för att bygga det nya samhället. Detta skiljer totalitära maktövertaganden från demokratiska övergångar, utlandsstödda kupper eller fredliga valsegrar.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Mis eristab kultuurikonservatismi poliitilisest konservatiivsusest?
-answer: Kultuurikonservatism on isiklik kinnipidamine traditsioonilistest väärtustest ja tarkusest, samas kui poliitiline konservatism püüab korraldada ühiskonda kindla korra kohaselt
+question: "Kuidas käitub kultuuriliselt konservatiivne libertaarlane käitumistega, mida ta moraalselt taunib?"
+answer: "Ta vastustab ja heidutab neid käitumisi veenmise ja eeskuju kaudu, kuid ilma seaduse sunnijõudu kasutamata"
 wrong_answers:
-  - Kultuurikonservatism keskendub valitsuse poliitikale, samas kui poliitiline konservatism rõhutab isiklikke tõekspidamisi ja peretraditsioone
-  - Kultuurikonservatism on vastu igasugusele muutusele, samas kui poliitiline konservatism kohandab traditsioonilisi väärtusi kaasaegsetele valitsemisstruktuuridele
-  - Kultuurikonservatism nõuab moraalinormide õiguslikku jõustamist, samas kui poliitiline konservatism tugineb traditsioonide vabatahtlikule järgimisele
-explanation: |
-  Kultuurikonservatism esindab isiklikku elufilosoofiat, mis põhineb tsivilisatsioonidest päritud traditsioonilistel moraalsetel väärtustel, esteetikal ja metafüüsikal
-  nagu kreeka-rooma või juudi-kristlikud traditsioonid. Tegemist on individuaalse tarkuse ja vaimse ülestõusuga, mitte poliitilise organiseerimisega. Poliitiline konservatism aga seisneb konkreetselt ühiskonna struktureerimises kindla korra järgi ja vastuseisus progressile või muutustele. Peamine erinevus seisneb selles, et kultuurikonservatism on isiklik ja filosoofiline, samas kui poliitiline konservatism käsitleb valitsemist ja ühiskonnakorraldust.
+  - "Ta toetab nende käitumiste keelamist kohaliku omavalitsuse tasandil, vastustades samal ajal föderaaltasandi keelde"
+  - "Ta vaikib nende käitumiste suhtes täielikult, uskudes, et igasugune taunimine rikub üksikisiku vabadust"
+  - "Ta pooldab kogukondlikke tribunale, mis võivad neid käitumisi karistada väljaspool formaalset õigussüsteemi"
+explanation: >-
+  Kultuuriliselt konservatiivne libertaarlane võib teatud käitumisi moraalselt taunida, kuid ei poolda konsensuslike ja mitteagressiivsete tegude seaduslikku keelamist. Ta võib selliseid tegusid mitte sallida, neid vastustada ja aktiivselt heidutada, kuid alati veenmise, hariduse ja eeskuju kaudu, mitte seaduse sunnijõuga. See ei tähenda vaikimist ega alternatiivsete jõustamismehhanismide loomist.
+reviewed: false

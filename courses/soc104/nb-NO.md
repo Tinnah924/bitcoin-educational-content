@@ -1,22 +1,18 @@
 ---
-name: Hva er din politiske legning?
-goal: Forstå kompleksiteten i det moderne politiske spekteret for å identifisere din egen tendens og plassere de store ideologiske familiene utenfor høyre-venstre-skillet.
+name: Hva er din politiske orientering?
+goal: Forstå kompleksiteten i det moderne politiske spekteret for å identifisere din egen tendens og plassere de store ideologiske familiene bortenfor høyre-venstre-skillet.
 objectives: 
-  - Forståelse for at politisk typologi er mer nyansert enn en enkel høyre/venstre-akse
+  - Forstå at politisk typologi er mer nyansert enn en enkel høyre/venstre-akse
   - Identifisere de to hoveddimensjonene som strukturerer det politiske spekteret
-  - Karakteriser de fire viktigste politiske familiene
-  - Utforsker bitcoinernes posisjonering i det politiske spekteret
-
+  - Karakterisere de fire viktigste politiske familiene
+  - Utforske plasseringen av bitcoinere i det politiske spekteret
 
 
 ---
 
-Er ditt politiske ståsted et spørsmål om høyre eller venstre? Dette kurset tilbyr en revolusjonerende tilnærming til å forstå det politiske spekteret gjennom den grunnleggende frihet-tvang-aksen. Ved hjelp av Nolan-diagrammet analyserer vi politiske familier - sosialister, konservative, sentrumsorienterte og libertarianere - ikke i henhold til deres uttalte intensjoner, men i henhold til deres grad av tillit til statlig kontroll. Oppdag logikken i spontan orden, utforsk de virkelige filosofiske spørsmålene (individualisme vs. kollektivisme), og lær deg å definere dine egne verdier uten å gå i fellene til tradisjonelle merkelapper.
+Koker din politiske plassering ned til høyre eller venstre? Dette kurset foreslår et annet rammeverk: den grunnleggende Frihet-Tvang-aksen. Ved hjelp av Nolan-diagrammet analyserer vi politiske familier (sosialister, konservative, sentrister og libertarianere) ikke etter deres uttalte intensjoner, men etter deres tillit til statlig kontroll. **Oppdag logikken i spontan orden, utforsk de virkelige filosofiske skillelinjene, og lær å definere dine egne verdier bortenfor tradisjonelle merkelapper.**
 
-
-
-Kurset vil også avsløre hvorfor Bitcoin er mer enn bare en valuta: det er et politisk prosjekt som er arvet fra Cypherpunks. Bitcoin er langt fra å kunne klassifiseres på en lineær akse, men er en desentraliserende kraft som motsetter seg statlig valuta, og tilbyr en fredelig flukt fra inflasjon og overvåkning. Ved å begrense den sentraliserte makten over penger redefinerer Bitcoin det essensielle politiske spørsmålet: Bestemmer du over livet ditt, eller er det noen andre som gjør det? Dykk ned i denne analysen for å skjerpe det ideologiske kompasset ditt og forstå den dyptgripende politiske innvirkningen denne teknologien har på din individuelle frihet.
-
+Dette kurset viser også hvorfor Bitcoin er et politisk prosjekt arvet fra Cypherpunkerne. Som en desentraliserende kraft som står imot statlig valuta, omdefinerer Bitcoin det avgjørende politiske spørsmålet: **bestemmer du over ditt liv, eller gjør noen andre det?**
 
 
 
@@ -25,1906 +21,1609 @@ Kurset vil også avsløre hvorfor Bitcoin er mer enn bare en valuta: det er et p
 # Innledning
 
 
-
 <partId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</partId>
 
 
+## Kursoversikt
 
-## Fellen med høyre-venstre-skillet
+<chapterId>2209cf28-29ab-4092-88bd-9ffdc7942972</chapterId>
 
+### Velkommen
+
+Velkommen til dette kurset om de store politiske familiene. Er du venstreorientert, høyreorientert, libertarianer, konservativ, sosialist, sentrist? De fleste av oss er blitt opplært til å svare på dette spørsmålet ved hjelp av en enkel horisontal linje som går fra ytterste venstre til ytterste høyre. Problemet er at denne linjen, arvet fra den franske revolusjonen i 1789, ikke lenger beskriver politisk virkelighet. Det gjorde den egentlig aldri.
+
+Dette kurset, utviklet av Damien Theillier, foreslår et annet rammeverk: frihet-tvang-aksen. I stedet for å spørre hvor du befinner deg mellom venstre og høyre, stiller vi et mer grunnleggende spørsmål: stoler du på at individer kan organisere sine egne liv, eller mener du at en sentralisert myndighet må gjøre det for dem? Dette ene perspektivskiftet forandrer måten du leser nyhetene på, vurderer politiske forslag og forstår dine egne overbevisninger.
+
+### Hva du vil lære
+
+Ved slutten av dette kurset vil du kunne:
+
+- **Gjennomskue høyre-venstre-illusjonen.** Du vil forstå hvorfor denne klassifikasjonen, som fortsatt dominerer i mediene, skjuler mer enn den avslører, og hvorfor tenkere som Frederic Bastiat eller innovasjoner som Bitcoin ganske enkelt ikke kan plasseres på denne linjen.
+- **Kartlegge det politiske spekteret i to dimensjoner.** Ved hjelp av Nolan-diagrammet vil du lære å skille økonomisk frihet fra personlig frihet og identifisere de fire store politiske familiene som springer ut av dette skillet: sosialister, konservative, libertarianere og sentrister.
+- **Analysere politiske standpunkter etter deres struktur, ikke slagordene deres.** Politikere lover rettferdighet, orden, fremskritt eller balanse. Du vil lære å se forbi uttalte intensjoner og undersøke den faktiske mekanismen hver familie bygger på: omfordeling, tradisjon, frivillig utveksling eller pragmatisk kompromiss.
+- **Gjenkjenne de filosofiske røttene bak politiske uenigheter.** Frihet som prinsipp versus frihet som mulighet, spontan orden versus konstruert orden, individualisme versus kollektivisme: dette er de virkelige skillelinjene, og dette kurset gjør deg i stand til å identifisere dem i enhver debatt.
+- **Forstå hvorfor Bitcoin er et politisk prosjekt.** Langt fra å være en nøytral teknologi arver Bitcoin cypherpunk-tradisjonen og stiller vår tids mest grunnleggende politiske spørsmål: hvem kontrollerer pengene, og dermed hvem kontrollerer livet ditt?
+- **Definere din egen politiske identitet presist.** I stedet for å akseptere en merkelapp du får fra en kommentator eller en quiz, vil du bygge din egen posisjon fra første prinsipper, og forstå nøyaktig hvor du står og hvorfor.
+
+### Læreplan
+
+Kurset er organisert i seks deler:
+
+**Del 1, Fellen i høyre-venstre-skillet.** Vi begynner med å demontere den tradisjonelle politiske aksen. Gjennom tilfellene Frederic Bastiat og Bitcoin viser vi at vår tids viktigste politiske ideer ikke kan fanges av en linje som går fra venstre til høyre.
+
+**Del 2, Mot et nytt skille: frihet-tvang.** Vi introduserer Nolan-diagrammet og dets to dimensjoner, økonomisk frihet og personlig frihet, som avdekker et langt rikere politisk landskap. Du vil oppdage hvor konservative, sosialister, libertarianere og sentrister faktisk står, og hvorfor merkelapper som «ytterste høyre» eller «ytterste venstre» skjuler mer enn de klargjør.
+
+**Del 3, Politiske familier under mikroskopet.** Vi undersøker hver familie i dybden: deres intellektuelle opphav, nøkkeltenkere, interne spenninger og blindsoner. Fra demokratisk sosialisme til anarkokapitalisme, fra burkeansk konservatisme til rawlsiansk sentrisme, vil du se hver strømning innenfra.
+
+**Del 4, Samfunnsmessige og økonomiske spørsmål.** Vi bruker rammeverket vårt på konkrete debatter: legalisering av narkotika, innvandring, våpeneierskap, helsevesen, skatt, subsidier, minstelønn. Hvert spørsmål undersøkes gjennom linsen til alle fire politiske familier.
+
+**Del 5, Filosofiske forskjeller mellom politiske familier.** Vi går dypere inn i de intellektuelle grunnlagene: frihet som prinsipp versus som mulighet, spontan orden versus konstruert orden, individualisme versus kollektivisme. Disse skillene viser hvorfor politiske familier som er enige om mål, så ofte er uenige om midler.
+
+**Del 6, Den politiske tendensen blant bitcoinere.** Vi avslutter med å undersøke Bitcoin som politisk prosjekt, spore røttene til cypherpunk-bevegelsen og stille spørsmålet som går gjennom hele kurset: hvem bør bestemme?
+
+La oss begynne.
+
+### Om kursforfatteren
+
+Dette kurset ble utviklet av **[Damien Theillier](https://planb.academy/professors/damien-theillier)**, filosofiprofessor i Paris og uteksaminert fra Sorbonne Paris IV. Theillier er grunnleggeren av Institut Coppet og Ecole de la Liberte, to institusjoner viet til gjenoppdagelsen og formidlingen av den franske liberale tradisjonen. Han er medforfatter av håndboken for forberedende klasser *General Culture* (Pearson, 2013) og *A Path to Freedom, the Philosophy from Antiquity to Our Days* (Berg International, 2013). Hans dype kjennskap til den politiske filosofiens historie gir dette kurset en sjelden kombinasjon av begrepsmessig strenghet og praktisk relevans.
+
+
+## Fellen i høyre-venstre-skillet
 
 
 <chapterId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=j_Ji4d7UiPY)
+Velkommen til dette kurset om de store politiske familiene. Vi begynner med skikkelsen Sokrates, den vestlige filosofiens far, som lærte oss å tvile og stille spørsmål ved våre egne meninger. En av de mest dypt rotfestede meningene i vår moderne tenkning er høyre-venstre-skillet. Dette kurset inviterer oss til å revurdere våre politiske klassifikasjoner og fokusere på et skille som er mer grunnleggende enn venstre versus høyre: skillet mellom frihet og tvang.
 
+![Sokrates' død](./assets/en/001.webp)
 
+### Fellen i høyre-venstre-skillet
 
-Mange mener at den mest markante skillelinjen i Vesten i dag går mellom den politiske venstresiden og den politiske høyresiden. Mediene bruker mye av sin omtale på denne konfrontasjonen, som fremstilles som avgjørende for sivilisasjonens fremtid.
+Mange mener at det mest slående skillet i Vesten i dag er mellom den politiske venstresiden og den politiske høyresiden. Mediene vier mye av sin dekning til denne konfrontasjonen, som fremstilles som avgjørende for sivilisasjonens fremtid. For å identifisere en persons politiske tilbøyeligheter plasserer vi vedkommende på en enkel horisontal linje: ytterste venstre, venstre, sentrum, høyre, ytterste høyre.
 
+![Det politiske spekteret](./assets/en/002.webp)
 
+Dette skillet går tilbake til 1789. Under den franske revolusjonen, i debattene i august og september 1789, satt representanter som ønsket å bevare kongens makt til høyre for forsamlingens president, mens de som ønsket å begrense hans makt satt til venstre. Problemet er at **denne kategoriseringen i stor grad er blitt ubrukelig i vår tid**.
 
-For å identifisere en persons politiske tilbøyeligheter plotter vi dem inn på en enkel horisontal linje. Vi plasserer oss ytterst til venstre, til venstre, i midten, til høyre og til høyre på linjen, i henhold til de ulike tendensene.
+![Den franske nasjonalforsamlingen](./assets/en/003.webp)
 
+Tradisjonelt blir venstresiden sett som reformistisk og høyresiden som konservativ. Men dette er blitt tvilsomt, siden den sosialdemokratiske venstresiden nå kjemper for å bevare opparbeidede fordeler, noe som fra dette synspunktet faktisk gjør den konservativ. De fleste individer som faller mellom de to ytterpunktene kalles sentrister, men også denne merkelappen forenkler deres posisjon.
 
+Har du noen gang følt at venstre eller høyre, sosialist eller konservativ, ikke beskriver meningene dine presist? En persons posisjon på det politiske spekteret er ikke statisk, og avhenger ofte av saken det gjelder. Hvis noen er for økonomisk frihet, men også for retten til å innvandre, hvor ville du plassere dem på en enkel venstre-høyre-linje?
 
-![Political spectrum](./assets/fr/001.webp)
+Det grunnleggende problemet med denne aksen er at **den ikke gir rom for klassisk liberal tenkning**, som ikke kan slås sammen verken med venstresidens egalitarisme eller høyresidens nasjonalisme. Hvor plasserer vi skikkelser som Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul eller Javier Milei? Klassiske liberalere og libertarianere blir noen ganger feilaktig likestilt med høyresiden, eller til og med ytterste høyre. Men som oftest eksisterer de rett og slett ikke i denne referanserammen.
 
+### Tilfellet Frédéric Bastiat
 
+Frédéric Bastiat (1801-1850), den franske liberale skolens emblematiske skikkelse, var representant i nasjonalforsamlingen. Han hadde en helt særegen tilnærming: han sa at han stemte noen ganger med venstresiden, noen ganger med høyresiden, avhengig av lovforslaget som var til behandling.
 
-Noen lener seg mot dem for hvem orden må bevares og innføres for enhver pris, det er **høyre**. Andre lener seg mot dem som mener at likhet må innføres for enhver pris, selv om det betyr at alt må reformeres - dette er **venstre**.
+![Frédéric Bastiat](./assets/en/004.webp)
 
+Dette uttrykte ikke sentristisk opportunisme. Bastiat kunne ikke sitte sammen med rojalistene på høyresiden, fordi han selv var republikaner; og han ønsket heller ikke å sitte sammen med sosialistene på venstresiden. Stemmene hans ble styrt av et grunnleggende prinsipp: **fremme av individuelle og økonomiske friheter og reduksjon av statlig innblanding**. Han var overbevist om at sosial orden og velstand kunne oppstå gjennom privat initiativ og individuelt ansvar, med et minimum av lover.
 
+For Bastiat var den virkelige skillelinjen ikke mellom venstre og høyre, men mellom dem som trodde på statens tvingende makt og dem som stolte på frihet og frivillig sammenslutning. Han stemte med venstresiden når dens forslag hadde som mål å avskaffe privilegier, garantere sivile friheter eller motsette seg krig; og med høyresiden når dens forslag beskyttet privat eiendom eller reduserte skatter.
 
-Denne kategoriseringen er imidlertid ofte for forenklet og ineffektiv. Tradisjonelt blir for eksempel venstresiden sett på som reformistisk, mens høyresiden er mer konservativ. Men dette har blitt tvilsomt i vår tid, siden venstresiden nå kjemper for å bevare opparbeidede fordeler, noe som gjør den, fra det synspunktet, konservativ.
+### Tilfellet Bitcoin
 
+Bitcoin er et fascinerende aktuelt eksempel på en innovasjon som overskrider det tradisjonelle skillet. Det er unektelig **et politisk prosjekt som bryter med dagens pengepolitikk**, men det er umulig å plassere på en enkel lineær akse fra ytterste venstre til ytterste høyre.
 
 
-De fleste som befinner seg mellom de to ytterpunktene, omtales ofte som sentrumsorienterte, men denne merkelappen forenkler også deres posisjon.
+Vi finner tilhengere av Bitcoin over hele det politiske spekteret:
 
+- For den liberale høyresiden representerer Bitcoin et verktøy for beskyttelse mot statlig innblanding, som garanterer privat eiendom og monetær frihet.
+- For noen på venstresiden representerer Bitcoin en kritikk av det tradisjonelle banksystemet og et middel til å demokratisere finans utenfor etablerte institusjoner.
+- Uavhengig av enhver politisk ideologi tiltrekkes mange teknofile og investorer av dets desentraliserte natur og disruptive potensial.
 
+I virkeligheten er den tradisjonelle dikotomien mellom venstre og høyre utilstrekkelig og dårlig egnet til å plassere Bitcoin riktig. En enkel lineær akse fungerer ikke godt, siden ideologier som fascisme og kommunisme deler totalitære trekk som ikke fremgår av en slik akse.
 
-La oss ta et eksempel: Hvis noen er for økonomisk frihet, men også for retten til å innvandre, hvor vil du plassere dem på en enkel venstre-høyre-linje? En persons posisjon på det politiske spekteret er ikke statisk, og avhenger ofte av den aktuelle saken.
+![Hesteskoens politiske spektrum](./assets/en/005.webp)
 
+### Et falskt skille
 
+Selv om venstre og høyre virker fullstendig motsatte, **deler de en rekke grunnleggende fellestrekk**. Begge leirer kritiserer jevnlig det frie markedet: som en kilde til ulikhet (venstresiden) eller som en trussel mot suverenitet (høyresiden). Begge deler en preferanse for statlig intervensjon, enten gjennom den «strategiske staten» eller den «frigjørende staten». Til tross for sine tilsynelatende forskjeller forsvarer alle politiske partier, enten venstre, høyre eller sentrum, statens rett til å styre menneskers liv og gripe inn på alle områder gjennom reguleringer og skatter.
 
-Mange mennesker passer ikke inn, og tenker at venstre eller høyre, sosialist eller konservativ, ikke beskriver meningene deres på en presis måte.
-
-
-
-Har du noen gang følt at det ikke alltid er nok å beskrive nyansene og kompleksiteten i politiske meninger? Mange mennesker finner ikke sin plass i det, og tenker at venstre eller høyre, sosialistisk eller konservativ ikke beskriver meningene deres på en presis måte.
-
-
-
-Selv om dette posisjoneringskriteriet fortsatt er nyttig for å utpeke politiske sensibiliteter, er det ikke i stand til å gjøre rede for mangfoldet av ideologiske debatter og posisjoner.
-
-
-
-Problemet med venstre-høyre-aksen er at den ikke gir rom for klassisk liberal tenkning, som ikke kan settes i bås med verken venstresidens egalitarisme eller høyresidens nasjonalisme.
-
-
-
-Hvor på venstre-høyre-spekteret plasserer vi slike som Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul, Elon Musk, Javier Milei?
-
-
-
-Hva med klassiske liberale og moderne retninger som libertarianere? Noen ganger blir de feilaktig sidestilt med høyresiden, eller til og med ytre høyre. Men som oftest eksisterer de ikke i denne referanserammen.
-
-
-
-Økonomen og parlamentsmedlemmet Frédéric Bastiat sa i sin tid at han noen ganger stemte med venstresiden, andre ganger med høyresiden, avhengig av hvilket lovforslag som var til behandling.
-
-
-
-![Frédéric Bastiat](./assets/fr/002.webp)
-
-
-
-Dette betydde ikke at han var sentrumsorienterte eller sosialdemokrater. Bastiat var en sterk motstander av enhver form for statisme, av enhver form for statlig intervensjonisme. Han var tilhenger av et maksimum av økonomisk og personlig frihet som var forenlig med respekt for andre, fordi han mente at samfunnsorden kunne vokse frem nedenfra, gjennom privat initiativ, sosialt samarbeid og individuelt ansvar, med et minimum av lover.
-
-
-
-La oss ta et annet eksempel: **Er Bitcoin høyre eller venstre?
-
-
-
-![Bitcoin](./assets/fr/003.webp)
-
-
-
-Bitcoin er unektelig et prosjekt som bryter med dagens pengepolitikk. Så det er et politisk prosjekt. Men det er vanskelig å plassere Bitcoin på en enkel lineær akse som går fra ytterste venstre til ytterste høyre.
-
-
-
-For det første er selve definisjonen av høyre og venstre kompleks og utvikler seg over tid, noe som gjør det vanskelig å foreta en streng klassifisering. Men fremfor alt overskrider Bitcoin, som en desentralisert teknologi, tradisjonelle politiske skillelinjer og tiltrekker seg tilhengere med ulik politisk bakgrunn, fra både høyre- og venstresiden, inkludert anarkister og folk som anser seg selv som apolitiske.
-
-
-
-
-
-- Personligheter på høyresiden kan se Bitcoin som et alternativ til sentralbankens pengepolitikk.
-- Venstreorienterte personligheter er også til stede, særlig på grunn av Bitcoins potensial for økonomisk inkludering og som et verktøy mot sensur.
-
-
-
-I virkeligheten er den tradisjonelle dikotomien mellom høyre- og venstresiden utilstrekkelig, vilkårlig og dårlig egnet til å plassere Bitcoin, som er en offentlig valuta som alle kan ta i bruk, uavhengig av politisk ståsted.
-
-
-
-En enkel lineær akse fra venstre mot høyre fungerer heller ikke så godt, ettersom ideologier som fascisme og kommunisme har likheter (totalitarisme) som ikke kommer til syne på en slik akse.
-
-
-
-![Spectre politique en fer à cheval](./assets/fr/004.webp)
-
-
-
-Selv om høyresiden utvilsomt er mer økonomisk liberal enn venstresiden, deler begge leire en mistillit til det frie markedet, kontraktsfrihet og privat eiendomsrett, og en dragning mot statlig intervensjonisme. For makthaverne, enten de er på høyre- eller venstresiden, løses ethvert problem ved hjelp av nye reguleringer eller skatter, snarere enn ved selvregulering av individuelle interaksjoner.
-
-
-
-Det er interessant å merke seg at visse politiske standpunkter kan gå på tvers av de tradisjonelle skillelinjene mellom høyre- og venstresiden. For eksempel kan proteksjonisme, som ofte forsvares av venstresiden, lett forenes med nasjonalisme, en verdi som tradisjonelt forbindes med høyresiden. På samme måte nøler ikke bøndene, selv om de er knyttet til jorda og familietradisjoner - høyreorienterte verdier - med å demonstrere heftig for å kreve statlige subsidier, en tilnærming som er i tråd med sosialistisk logikk.
-
-
-
-Til slutt, skjuler ikke denne partipolitiske polariseringen en mye dypere og eldre splittelse: den som har skilt de som styrer fra de som blir styrt i århundrer?
-
-
-
-Under covid-19-pandemien innførte de fleste vestlige stater totalitær kontroll, og selv om mange av disse ble opphevet, økte avstanden mellom den herskende klassen og gjennomsnittsborgeren.
-
-
-
-Med statlig gjeld og inflasjon er vi vitne til en moderne form for slaveri gjennom tap av folks kjøpekraft og sparekraft.
-
-
-Faktisk er fiat-pengesystemet til fordel for de rikeste menneskene og de mektigste finansielle enhetene, særlig regjeringer, som er de største låntakerne. Ved å låne presser de bankene til å trykke nye penger. Inflasjonen som oppstår, er en mekanisme som på snikende vis devaluerer pengene og ødelegger folks sparepenger.
-
-
-
-Fiat-valuta er hjørnesteinen i denne utvidelsen av statens makt. Den gjør det mulig for myndighetene å finansiere ubegrensede utgifter, og eliminerer de budsjettmessige begrensningene som eksisterte under gullstandarden. Dette moderne slaveriet opprettholdes av en elite som er fast bestemt på å bevare sine privilegier, mens en svekket befolkning, som er avvæpnet i møte med statens ekspansjon, gradvis ser alle sfærer av sin tilværelse falle under kontroll.
-
-
-
-I dette kurset skal vi se at det politiske landskapet er langt rikere og mer komplekst enn bare de to kategoriene venstre og høyre, takket være en visuell modell som vil hjelpe oss å forstå de ulike politiske familiene bedre.
-
-
-
-Før du begynner på dette kurset, vil jeg gjerne invitere deg til å ta en kort quiz. Prøv å svare på følgende spørsmål:
-
-
+Det er nettopp derfor venstre-høyre-motsetningen til syvende og sist er en illusjon. For å illustrere dette poenget, vurder følgende spørsmål:
 
 **Sosiale spørsmål**
 
-
-
-
 - Bør staten eie eller kontrollere aviser, radio eller fjernsyn?
-- Bør myndighetene regulere seksuell aktivitet mellom samtykkende voksne, inkludert prostitusjon?
+- Bør staten regulere seksuell aktivitet mellom samtykkende voksne, inkludert prostitusjon?
 - Bør narkotika som marihuana, kokain og heroin legaliseres?
-- Bør det være lovlig for folk å reise eller reise inn og ut av et land uten begrensninger?
-- Bør regjeringen sende tropper for å gripe inn i andre lands anliggender?
-- Bør barn ha lovfestet skoleplikt?
+- Bør det være lovlig for mennesker å reise eller å komme inn i og forlate et land uten begrensning?
+- Bør staten sende tropper for å gripe inn i andre lands anliggender?
+- Bør barn være juridisk forpliktet til å gå på skole?
 - Bør foreldre få lov til å undervise barna sine hjemme?
-- Bør våpenbesittelse begrenses ved lov?
-- Hva bør regjeringens miljøpolitikk være?
-- Trenger vi en offentlig institusjon for å sikre at legemidlene er trygge og effektive?
-
-
+- Bør våpeneierskap begrenses ved lov?
+- Hva bør statens miljøpolitikk være?
+- Trenger vi en offentlig institusjon for å sikre at legemidler er trygge og effektive?
 
 **Økonomiske spørsmål**
 
-
-
-
-- Bør myndighetene subsidiere bønder og regulere hva de dyrker?
-- Bør myndighetene innføre toll, kvoter, embargoer eller andre restriksjoner på internasjonal handel?
-- Bør myndighetene innføre en obligatorisk minstelønn?
-- Er skatt den eneste måten å betale for nødvendige offentlige tjenester på?
-- Bør staten hjelpe bedrifter i vanskelige økonomiske tider med lavrentelån eller subsidier?
+- Bør staten subsidiere bønder og regulere hva de dyrker?
+- Bør staten innføre toll, kvoter, embargoer eller andre restriksjoner på internasjonal handel?
+- Bør staten innføre en obligatorisk minstelønn?
+- Er beskatning den eneste måten å betale for nødvendige offentlige tjenester på?
+- Bør staten hjelpe selskaper i vanskelige økonomiske tider med lavrentelån eller subsidier?
 - Hva er den beste måten å håndtere dagens enorme budsjettunderskudd på?
 - Hvordan kan vi løse problemet med underskuddet i trygdesystemet?
-- Bør myndighetene sende økonomisk bistand til andre land?
-- Hva bør myndighetene gjøre med de økende helsekostnadene?
-- Hva bør regjeringens atomenergipolitikk være?
+- Bør staten sende økonomisk bistand til andre land?
+- Hva bør staten gjøre med økende helsekostnader?
+- Hva bør statens atomenergipolitikk være?
 
+I alle disse spørsmålene dukker ett sentralt tema opp: **hvilken grad av statlig kontroll er du villig til å tolerere?** Og er du mer eller mindre tvunget til å delta i finansieringen av denne kontrollen? Det grunnleggende politiske spørsmålet er: hvem bør bestemme? Tar du de viktige beslutningene om ditt personlige og sosiale liv, eller tar noen andre dem for deg?
 
+### Herskere og styrte
 
-I alle disse spørsmålene er det ett sentralt og avgjørende spørsmål som dukker opp: graden av statlig kontroll du kan tolerere, og dermed også graden av finansiering du er mer eller mindre tvunget til å delta i.
+Denne partipolitiske polariseringen skjuler et langt dypere og eldre skille: **skillet som i århundrer har skilt dem som styrer fra dem som blir styrt**. På den ene siden folket, som utholder inflasjon, skattetrykk og finansiell overvåkning; på den andre siden den teknokratiske og politiske eliten, som bruker andres penger, og svært ofte seddelpressen, det vil si fiat-valuta, angivelig til folkets beste.
 
+![Skatter](./assets/en/006.webp)
 
+Fiatpengesystemet gagner de rikeste individene og de mektigste finansielle enhetene, særlig stater, som er de største låntakerne. Ved å låne presser de bankene til å trykke nye penger. Inflasjonen som følger, devaluerer pengene snikende og ødelegger folks sparing. Fiat-valuta er hjørnesteinen i denne utvidelsen av statsmakten: den lar regjeringer finansiere ubegrenset forbruk og fjerner budsjettbegrensningene som fantes under en gullstandard.
 
-Så det grunnleggende politiske spørsmålet er: ** Hvem skal bestemme? ** For å si det på en annen måte: **Tar du de viktige beslutningene om ditt personlige og sosiale liv, eller er det noen andre som tar dem for deg?
+Som Frédéric Bastiat bemerket i det nittende århundre:
 
+> «I alle revolusjoner har det alltid bare vært to motstående partier: partiet til folket som vil leve av sitt eget arbeid, og partiet til dem som vil leve av andres arbeid.»
 
+Med andre ord: dem som produserer rikdom og dem som beslaglegger den for å omfordele den til sine støttespillere.
 
-I *Revolt on the Moon* (The Moon is a Harsh Mistress) fra 1966 utvikler forfatteren Robert Heinlein ideen om at regjeringer alltid ender opp med å akkumulere makt og kontrollere innbyggerne, noe han kaller menneskets uunngåelige sykdom.
+### Kontrollører og ikke-kontrollører
 
+For å avslutte denne innledningen, la oss vende oss til en science fiction-roman fra 1960-tallet. I *The Moon is a Harsh Mistress* (1966) sammenfattet Robert Heinlein glimrende hva den sanne politiske skillelinjen består i:
 
+![The Moon is a Harsh Mistress](./assets/en/007.webp)
 
-![The Moon is a Harsh Mistress](./assets/fr/005.webp)
+> «Menneskeslekten deler seg politisk i dem som vil at mennesker skal kontrolleres, og dem som ikke har noe slikt ønske.»
 
+![Robert Heinlein-sitat](./assets/en/008.webp)
 
+«Kontrollørene» omfatter alle dem som, uavhengig av uttalt ideologi, fra ytterste venstre til ytterste høyre, mener at staten eller en høyere enhet må regulere, dirigere og påtvinge atferd til samfunnets beste. De foretrekker løsninger ovenfra og ned, planlegging og tvang.
 
-Han konstaterer at menneskeheten er politisk splittet mellom dem som ønsker å kontrollere andres liv, og dem som ikke ønsker det.
+«Ikke-kontrollørene» er derimot dem som ikke ønsker å utøve makt over andre, og som taler for maksimal individuell frihet. De verdsetter personlig ansvar, frivillig sammenslutning og den sosiale ordenens spontanitet, og minimerer statlig innblanding. Det er her vi finner skikkelser som Frédéric Bastiat, eller prinsippene for desentralisering som Bitcoin legemliggjør.
 
-
-
-> Menneskeheten deler seg politisk i dem som ønsker at mennesker skal kontrolleres, og dem som ikke har et slikt ønske.
-
-![The Moon is a Harsh Mistress quote](./assets/fr/006.webp)
-
-
-
-I dag forsvarer alle politiske partier, enten de er til venstre, i sentrum eller til høyre, statens rett til å styre folks liv og gripe inn i alle forhold gjennom reguleringer og skatter. I mainstream-mediene finner vi det samme: referanserammen er statlig.
-
-
-
-Så bør den tradisjonelle politiske modellen med høyre og venstre overvinnes? Og i så fall til fordel for hvilken annen modell?
-
+I dette kurset vil vi se at **det politiske landskapet er langt rikere og mer komplekst enn venstre og høyre**, takket være en visuell modell som vil hjelpe oss å forstå de ulike politiske familiene bedre og hvor hver av oss står.
 
 
 
 # Mot et nytt skille: frihet-tvang
 
-
 <partId>fb5cb390-67ad-41f3-903d-c208b84e6a0c</partId>
-
 
 
 
 ## Nolan-diagrammet
 
-
 <chapterId>7b3aa120-6eee-45a1-9e46-856e26403e08</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=rN4fA3ImJjE)
+### Fra én dimensjon til to
 
+I stedet for å dele politiske doktriner langs en høyre/venstre-akse, gir det langt mer mening å se på ting gjennom frihetens prisme. Den klassiske fremstillingen av det politiske spekteret er en horisontal linje som går fra venstre til høyre.
 
+![Det lineære politiske spekteret](./assets/en/009.webp)
 
-I stedet for å dele politiske doktriner langs en høyre/venstre-akse, ville det gi mer mening å se på ting gjennom frihetens prisme. Da ville vi fått en frihet-makt-akse, slik at klassisk liberal tenkning endelig ville funnet sin plass på det politiske sjakkbrettet.
+Denne modellen overforenkler kompleksiteten i politiske ideologier, og fremfor alt utelater den et vesentlig kriterium: **graden av statlig intervensjon**. Som vi diskuterte i innledningen, er det grunnleggende spørsmålet: hvem bestemmer? Er det du, eller er det noen andre?
 
+Dette leder oss til å forkaste den éndimensjonale modellen til fordel for en todimensjonal. David Nolan, grunnlegger av Libertarian Party i 1971 og tidligere student ved MIT (Massachusetts Institute of Technology), utformet et diagram som langt bedre representerer kompleksiteten i det politiske spekteret. Diagrammet hans bruker to akser:
 
+1. En vertikal akse som måler **personlige friheter**
+2. En horisontal akse som måler **økonomiske friheter**
 
-Den riktige måten å se det på er derfor å sette frihetsforkjemperne opp mot statsforkjemperne - de som stoler på enkeltmenneskets evne til å organisere seg selv på en ansvarlig måte, og de som ønsker en sterk autoritet til å berolige dem og kontrollere andres liv.
+![Nolan-diagrammet](./assets/en/010.webp)
 
+Jo nærmere du er nullpunktet (nederst til venstre), desto mer favoriserer din ideologiske posisjon statlig intervensjon. Omvendt, jo lenger du beveger deg mot det motsatte hjørnet (øverst til høyre), desto mer favoriserer du minimal statlig intervensjon og maksimale individuelle friheter. Fra dette perspektivet relativiseres den tradisjonelle venstresiden og høyresiden: venstresiden tenderer mot å favorisere personlige friheter på bekostning av økonomiske friheter, mens den klassiske høyresiden favoriserer økonomisk frihet på bekostning av personlige friheter.
 
-David Nolan, grunnleggeren av Libertarian Party i 1971 og forfatter av det nå berømte Nolan-diagrammet, forsto dette. Han har studert ved Massachusetts Institute of Technology (MIT) og har laget et diagram som sannsynligvis vil representere kompleksiteten i det politiske spekteret på en bedre måte.
+![Det todimensjonale politiske spekteret med akser for personlig og økonomisk frihet](./assets/en/011.webp)
 
+### De fem kvadrantene
 
+Når diagrammet presenteres i diamantform, kan vi identifisere fem kvadranter som presist plasserer de ulike politiske filosofiene:
 
-Hans idé er å legge til en ny frihets- og maktakse til venstre-høyre-aksen, som går fra statisme i bunnen (nullpunktet) til libertarianisme i toppen. Jo lenger vekk fra nullpunktet, desto mer libertær er den ideologiske posisjoneringen.
+![Nolan-diamanten](./assets/en/012.webp)
 
+- **Statisme** (nederst): Den mest autoritære, til og med totalitære posisjonen. De som støtter svært lite økonomisk eller personlig frihet.
+- **Sosialisme** (venstre): De som støtter mindre økonomisk frihet, men større personlig frihet.
+- **Konservatisme** (høyre): De som støtter større økonomisk frihet, men mindre personlig frihet.
+- **Libertarianisme** (øverst): Det motsatte av statisme. De som støtter størst økonomisk og personlig frihet.
+- **Sentrisme** (midten): En pragmatisk sone for dem som foretrekker en blanding av frihet og regulering, noe som innebærer at visse individuelle rettigheter ofres.
 
+**Den grunnleggende aksen er derfor den vertikale**: mellom dem som forsvarer maksimale individuelle friheter (øverst) og dem som foretrekker maksimal statlig kontroll og intervensjon i menneskers liv (nederst).
 
-![Graphique](./assets/fr/007.webp)
+### Nyanser innen hver familie
 
+![Nyanser og interne spenninger innen hver politiske familie](./assets/en/013.webp)
 
+Ting er ikke enkle, og det er alltid vanskelig å forsvare en helt monolittisk politisk posisjon. Innen hver politiske familie finnes det spenninger og divergenser:
 
-![Graphique](./assets/fr/008.webp)
+- Blant **sosialister** er de fleste demokrater som er knyttet til valg, sivile friheter og en viss grad av markedsøkonomi. Men noen avviser demokrati og taler for revolusjon, fullstendig avskaffelse av kapitalismen og sentral økonomisk planlegging.
+- Blant **konservative** er noen sterkt imot skatter og sosiale programmer, noe som plasserer dem nærmere den libertarianske toppen. Andre har mer autoritære tendenser og favoriserer økonomisk regulering; man kan her tenke på kontroversen rundt Donald Trump.
+- Blant **libertarianere** ønsker noen å avskaffe staten helt og erstatte den med private tjenester (anarkokapitalister), mens andre foretrekker en minimal stat som beholder sine sentrale suverene funksjoner («minarkister»).
 
+![Libertarianske nyanser på Nolan-diagrammet](./assets/en/014.webp)
 
+- **De grønne** sitter trolig svært lavt i diagrammet. De mener at **individuelle interesser ikke må gå foran planetens kollektive interesse**. På en måte har De grønne erstattet den marxistiske klassekampen med en kamp mellom mennesket og naturen, og de tenderer mot å forsvare økonomisk kontroll og til og med avskaffelse av privat eiendom i planetens velværes navn.
 
-Diagrammet er en firkant som er delt inn i fem seksjoner, med en etikett til hver av de følgende seksjonene:
-
-
-
-
-- Nederst: den mest autoritære, til og med totalitære formen for statsdannelse, som tilsvarer de som støtter svært lite økonomisk og personlig frihet.
-- På venstresiden: sosialister. De som støtter mindre økonomisk frihet og mer personlig frihet.
-- På høyresiden: de konservative. De som støtter høye nivåer av økonomisk frihet og lave nivåer av personlig frihet.
-- Øverst: libertarianere, motsatsen til hardlinjet statisme. Dette er de som støtter større økonomisk og personlig frihet.
-- I midten: sentralistene. Dette er en pragmatisk sone, for dem som er tilhengere av et system som blander litt økonomisk og personlig frihet med ønsket om en viss markedsregulering, noe som innebærer at visse individuelle rettigheter ofres.
-
-
-
-Dette gjør Nolan-diagrammets todimensjonale tilnærming til en langt mer nøyaktig representasjon av det politiske spekteret enn den typiske endimensjonale venstre-høyre-linjen som de fleste politiske analytikere refererer til.
-
-
+![Grønne partier plassert i den autoritære sektoren av Nolan-diagrammet](./assets/en/015.webp)
 
 ## De to grunnleggende dimensjonene
-
 
 <chapterId>e41d903d-26c9-425e-8a92-6aec48838b61</chapterId>
 
 
 
-Diagrammet representerer økonomiske friheter (skattenivå, fritt marked, private tjenester) på x-aksen, og personlige friheter (bevegelsesfrihet, meningsfrihet, selvbestemmelse) på y-aksen.
 
-
-
-Denne ordningen er basert på ideen om at de fleste politiske spørsmål kan deles inn i to brede kategorier: økonomiske og personlige (eller samfunnsmessige).
-
-
+Diagrammet representerer økonomiske friheter (skattenivå, fritt marked, private tjenester) på den horisontale aksen, og personlige friheter (bevegelsesfrihet, meningsfrihet, selvbestemmelse) på den vertikale aksen. Dette skjemaet bygger på ideen om at de fleste politiske spørsmål kan deles inn i to brede kategorier: økonomiske og personlige (eller samfunnsmessige).
 
 ### Økonomiske friheter
 
+**Kategorien økonomisk frihet omfatter det du gjør som produsent og forbruker**: hva du kan kjøpe, selge eller produsere; hvor du arbeider; hvem du ansetter; og hva du gjør med pengene dine.
 
-Kategorien økonomisk frihet omfatter hva du gjør som produsent og forbruker - hva du kan kjøpe, selge eller produsere. Hvor du jobber, hvem du ansetter eller hva du gjør med pengene dine.
+![Økonomiske friheter: hva du gjør som produsent og forbruker](./assets/en/016.webp)
 
+*Eksempler på økonomisk aktivitet:* starte en bedrift, kjøpe et hus, bygge en bygning, investere sparepenger, ansette eller si opp ansatte.
 
+![Eksempler på økonomiske aktiviteter på Nolan-diagrammet](./assets/en/017.webp)
 
-Eksempler på økonomisk aktivitet: starte en bedrift, kjøpe et hus, bygge en bygning, handle, jobbe på et kontor.
+- **Til høyre for aksen** (mot maksimal økonomisk frihet): preferanse for mindre statlig intervensjon i økonomien, færre reguleringer, lavere skatter og større frihet for selskaper og individer til å produsere, handle og konsumere. Vekten ligger på det frie markedet, privat eiendom og konkurranse som motorer for velstand.
+  - *Emblematiske skikkelser:* Margaret Thatcher (Storbritannia), Ronald Reagan (USA), Javier Milei (Argentina).
 
+![Nolan-diamant: aksen for økonomisk frihet](./assets/en/018.webp)
 
+- **Til venstre for aksen** (mot maksimal statlig kontroll over økonomien): preferanse for regulering, høye skatter for å finansiere offentlige tjenester (helse, utdanning, transport), nasjonalisering og omfordeling av rikdom. Målet er ofte å redusere ulikheter og garantere en viss grad av sosial rettferdighet.
+  - *Emblematiske skikkelser:* Franklin D. Roosevelt (USA), Jean Jaurès (Frankrike), Bernie Sanders, Barack Obama.
 
+![Nolan-diamant: venstreorientert statisme](./assets/en/019.webp)
 
+### Personlige og sosiale friheter
 
-- Til høyre på aksen** (mot 100 på Economic Issues-skalaen): preferanse for **økonomisk frihet**. Dette betyr mindre statlig innblanding i økonomien, færre reguleringer, lavere skatter og større frihet for bedrifter og enkeltpersoner til å produsere, handle og forbruke. Hovedvekten legges på det frie markedet, privat eiendom og konkurranse som drivkraft for velstand.
- - Symbolske skikkelser:* Margaret Thatcher (Storbritannia), Ronald Reagan (USA), Javier Milei (Argentina).
+**Kategorien personlig frihet omfatter det du gjør i dine private relasjoner**, med dine meninger og overbevisninger. Generelt er det alt du gjør med din egen kropp og ditt eget sinn.
 
+![Personlige friheter: hva du gjør i dine private relasjoner](./assets/en/020.webp)
 
+*Eksempler på personlige aktiviteter:* ekteskap, valg av bøkene du leser og filmene du ser, maten, medisinene og rusmidlene du velger å konsumere, dine religiøse valg, organisasjonene du slutter deg til, menneskene du velger å omgås.
 
-![Right Graphique](./assets/fr/009.webp)
+![Eksempler på personlige og samfunnsmessige friheter på Nolan-diagrammet](./assets/en/021.webp)
 
+- **Øverst på aksen** (mot maksimal personlig frihet): preferanse for individuell frihet og toleranse. Staten bør gripe inn så lite som mulig i individers livsvalg (ytringsfrihet, legalisering av visse stoffer, bevegelsesfrihet osv.). Vi verdsetter autonomi og mangfold.
+  - *Emblematiske skikkelser:* Nelson Mandela, Simone Veil, Noam Chomsky.
 
+![Nolan-diamant: aksen for personlige friheter](./assets/en/022.webp)
 
+- **Nederst på aksen** (mot maksimal statlig kontroll over privatlivet): preferanse for orden, sikkerhet og tradisjonelle verdier. Staten har en rolle i å regulere moral, opprettholde offentlig orden og noen ganger forsvare en bestemt visjon om moral eller tradisjon. Dette inkluderer posisjoner til fordel for dødsstraff, restriksjoner på innvandring eller statlig fremme av den tradisjonelle familien.
+  - *Emblematiske skikkelser:* Joseph de Maistre (fransk kontrarevolusjonær filosof), og samtidige autoritære ledere som Vladimir Putin og Xi Jinping.
 
-
-- Til venstre på aksen** (mot 0 på Economic Issues-skalaen): preferanse for **sterk statlig inngripen i økonomien**. Dette innebærer regulering, høye skatter for å finansiere offentlige tjenester (helse, utdanning, transport), nasjonalisering og omfordeling av rikdom. Målet er ofte å redusere ulikheter og garantere en viss grad av sosial rettferdighet.
-  - Symbolske skikkelser:* Franklin D. Roosevelt (USA), Jean Jaurès (Frankrike), Bernie Sanders, Barack Obama.
-
-
-
-![Left Graphique](./assets/fr/010.webp)
-
-
-
-### Personlig og sosial frihet
-
-
-
-Kategorien Personlig frihet omfatter det du gjør i dine private relasjoner, med dine meninger og overbevisninger. Generelt sett er det alt du gjør med din egen kropp og ditt eget sinn.
-
-
-
-*Eksempler på personlige aktiviteter: * Ekteskap, valg av bøker du leser og filmer du ser på, mat, medisiner og legemidler du velger å innta, sport, religiøse valg, organisasjoner du melder deg inn i, mennesker du velger å omgås.
+![Nolan-diamant: autoritær akse](./assets/en/023.webp)
 
 
-
-
-
-- Øverst på aksen** (mot 100 på Social Issues-skalaen): preferanse for **individuell frihet** og toleranse. Staten bør blande seg minst mulig inn i enkeltmenneskers livsvalg (abortrettigheter, LHBTQ+-rettigheter, ytringsfrihet, legalisering av visse stoffer osv.) Vi verdsetter autonomi og mangfold.
-  - Symbolske skikkelser:* Nelson Mandela, Simone Veil, Noam Chomsky.
-
-
-
-
-![Left Libertes Graphique](./assets/fr/011.webp)
-
-
-
-
-
-- Nederst på aksen** (mot 0 på Social Issues-skalaen): preferanse for **orden, sikkerhet og tradisjonelle verdier**. Staten har en rolle å spille når det gjelder å regulere moral, opprettholde offentlig orden og noen ganger forsvare et bestemt syn på moral eller tradisjon, også ved hjelp av vold. Dette inkluderer holdninger som går inn for dødsstraff, restriksjoner på innvandring eller statlig styring av den tradisjonelle familien.
-  - Symbolske skikkelser:* Joseph de Maistre (fransk kontrarevolusjonær filosof) - for sine ideer om guddommelig orden og autoritet. Moderne autoritære ledere som Vladimir Putin i Russland og Xi Jinping i Kina.
-
-
-
-
-![Libertes Graphique](./assets/fr/012.webp)
-
-
-
-## Er du en høyre- eller venstreorientert statist?
-
+## Er du en høyreorientert eller venstreorientert statist?
 
 
 <chapterId>06d903fc-9453-47d4-b0b1-38b6b82ccf99</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=AskWWBXom3Y)
+### Statisme som felles grunn
 
+I motsetning til hvordan det kan se ut, er venstre og høyre ikke så motsatte som de virker. De deler svært ofte et felles ønske om kontroll: det vi kan kalle statisme. Selvsagt er deres motivasjoner, verdier og prioriteringer forskjellige.
 
+Venstresiden er mindre opptatt av tradisjonelle moralske krav, men prioriterer sosial rettferdighet og likhet, særlig på det økonomiske nivået. Dette er kilden til dens fiendtlighet mot økonomisk frihet, kapitalisme og det frie markedet: **venstresiden ønsker å lovregulere og regulere økonomien**.
 
-En person kan være venstreorientert i økonomiske spørsmål (for omfordeling), men høyreorientert i samfunnsspørsmål (veldig opptatt av orden og tradisjon). Og vice versa! Den diamantformede modellen fanger opp denne kompleksiteten.
+Høyresiden prioriterer på sin side personlig moral og tradisjonelle verdier. Den mener at sivilisasjonen er bygget på bestemte tradisjonelle institusjoner og sosiale hierarkier, og at denne arven må bevares. Den er mer positiv til økonomisk frihet fordi den forsvarer moralen i privat eiendom og individuelt ansvar, men **den ønsker å lovregulere moral og religion**.
 
+### Den vertikale aksen avslører sannheten
 
+Den sentrale ideen i Nolan-diagrammet er at den viktigste forskjellen mellom politiske filosofier er graden av statlig kontroll over menneskelig handling, enten i den personlige eller økonomiske sfæren. Med andre ord finnes det ikke bare en venstre-høyre-akse som gjenspeiler dine personlige sympatier, men også en topp-bunn-akse som gjenspeiler din vilje til å bruke makt for å tvinge andre til å følge dine verdier.
 
-Venstresiden er tradisjonelt definert som forbundet med sosialisme, et system der staten har betydelig makt over individene og organiseringen av samfunnet, særlig når det gjelder omfordeling av inntekt. Høyresiden kan ses på som det motsatte, en situasjon der staten ikke har noen betydelig makt, noe som vil definere den som liberal. Virkeligheten er imidlertid mer sammensatt, og høyresiden er ikke bare det motsatte av den statsorienterte venstresiden.
+![Venstre- og høyrestatisme](./assets/en/024.webp)
 
+Fra dette perspektivet deler venstre og høyre det samme politiske målet: å vinne makt for å organisere samfunnet etter sitt verdensbilde og påtvinge det alle. Dette er selve definisjonen av statisme: å bruke lovgivning til å kontrollere og forme samfunnet. For noen skjer det i sivilisasjonens forsvars navn; for andre i arbeiderklassens, naturens eller de undertryktes forsvars navn. Og sentristene godkjenner også dette når det passer dem.
 
+Derfor kan vi si at **noen er høyreorienterte statister, mens andre er venstreorienterte statister**. Det sanne politiske spørsmålet er derfor ikke så mye om du er venstre eller høyre, men heller i hvilken grad du vil at staten skal gripe inn i utformingen av samfunnet etter dine verdier. Ønsker du å påtvinge andre dine egne følsomheter, eller foretrekker du at **hver person er fri til å bestemme for seg selv**?
 
-Politikken som har vært ført av høyre- og venstreregjeringer de siste tiårene, har ikke vært grunnleggende forskjellig, og ingen av dem har vært virkelig liberale i klassisk, europeisk forstand.
-
-
-
-Den sentrale ideen i Nolans diagram er at den største forskjellen mellom politiske filosofier, den virkelig avgjørende faktoren, er graden av statlig kontroll over menneskelige handlinger i den personlige og økonomiske sfæren.
-
-
-
-Med andre ord finnes det ikke bare en venstre-høyre-akse som gjenspeiler dine personlige verdier, men også en topp-bunn-akse som gjenspeiler din vilje til å bruke makt for å tvinge andre til å følge dine verdier.
-
-
-
-Slik sett har høyre- og venstresiden det samme politiske målet: å vinne makt slik at de kan organisere samfunnet i henhold til sin verdensanskuelse og påtvinge den på alle.
-
-
-
-Dette er selve definisjonen på statisme: å bruke lovgivning til å kontrollere og forme samfunnet.
-
-
-
-Det er derfor vi kan si at noen er **høyreorienterte statister**, mens andre er **venstreorienterte statister** eller sentrumsorienterte.
-
-
-
-![Libertes Graphique](./assets/fr/013.webp)
-
-
-
-For noen er det for å forsvare sivilisasjonen, for andre er det for å forsvare arbeiderklassen, naturen eller de undertrykte. Og også dette er noe sentrumsfløyene bifaller, når det passer dem.
-
-
-
-Høyresiden mener at personlig moral er det viktigste, så de er villige til å tillate frihet i eiendoms- og økonomiske spørsmål. På den annen side ønsker de å lovfeste moral og religion samtidig.
-
-
-
-Venstresiden på sin side legger ikke så stor vekt på tradisjonelle moralske og religiøse krav. De er mindre opptatt av guddommelig rettferdighet, men først og fremst av sosial rettferdighet, eller kanskje av tanken om at guddommelig rettferdighet *ville* være sosial rettferdighet. For den politiske venstresiden er den riktige fordelingen av belønninger i samfunnet et spørsmål om rettslige eller politiske beslutninger. Følgelig er den politiske venstresiden fiendtlig innstilt til økonomisk frihet og det frie markedet, som ikke ser ut til å fordele rikdom og belønning i henhold til individuelle behov.
-
-
-
-## Er du kulturkonservativ eller politisk konservativ?
-
+## Er du en kulturell konservativ eller en politisk konservativ?
 
 <chapterId>bef3d6f1-390a-472d-8f18-a559d38aea54</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=4DDAZGjQk2Q)
+### To ulike konservatismer
 
+![Skillet mellom kulturell og politisk konservatisme](./assets/en/025.webp)
 
+Begrepet «konservatisme» kan skape forvirring. Vi må absolutt **skille mellom kulturell konservatisme, som hører til verdienes område**, og politisk konservatisme, som er en politisk filosofi som bygger på å påtvinge disse verdiene hele samfunnet.
 
-Kulturkonservatisme er en personlig tilslutning til såkalte tradisjonelle moralske verdier, antropologi, estetikk og metafysikk, som alle er nedarvet fra fortiden. Det er en livsvisdom, styrt av forfedrenes prinsipper, enten de er gresk-romerske eller jødisk-kristne. **Det er ikke en politisk filosofi
+**Politisk konservatisme** er en ideologi, ofte representert i høyreorienterte eller ytterliggående høyrepartier. Den har som mål å bevare etablerte politiske institusjoner og sosial orden, og motsetter seg enhver større strukturell omveltning. Dens tilhengere ønsker å bruke makt og lov for å beskytte arven sin. I Frankrike går denne tradisjonen tilbake til kontrarevolusjonære tenkere som Joseph de Maistre og Louis de Bonald, og mer nylig til Raymond Aron i det tjuende århundre.
 
+**Kulturell konservatisme** er derimot en livsvisdom: den personlige tilslutningen til familieverdier, moralske, estetiske og metafysiske verdier arvet fra fortiden, enten gresk-romerske eller jødisk-kristne. Det er ikke en politisk filosofi. Den kulturelle konservative mener at mennesket, for å være lykkelig, trenger sjelens opphøyelse, åndelige verdier og en viss følelsenes adel. Disse verdiene påtvinges ikke andre; de leves som et personlig og noen ganger familiært valg.
 
+### Du kan være kulturelt konservativ og libertarianer
 
-Hvis du er kulturkonservativ, er du for den tradisjonelle familien, dydsetikk og gudstro. Den kulturkonservative mener at mennesket, for å være lykkelig, trenger sjelelig opphøyelse, åndelige verdier og en viss følelsesmessig adel.
+Disse to grenene, selv om de er ulike, forveksles noen ganger fordi de kan adopteres samtidig eller hver for seg. **Du kan være kulturelt konservativ uten å være politisk konservativ.** Et individ kan forsvare kulturelle tradisjoner (familie, religion, lokale skikker) i sitt personlige eller lokale fellesskapsliv, samtidig som han eller hun taler for begrenset statsmakt som ikke påtvinger disse verdiene ved lov. En slik person oppmuntrer konservative normer gjennom overtalelse, utdanning og eksempel, samtidig som han respekterer andres rett til å leve annerledes.
 
+Den kulturelt konservative libertarianeren kan moralsk mislike visse former for atferd, men **taler ikke for juridisk forbud mot samtykkende, ikke-aggressive handlinger**. Han kan mislike slike handlinger, motsette seg dem og aktivt fraråde dem, men alltid uten å ty til lovens tvingende makt.
 
+Denne syntesen mellom libertarianisme og kulturell konservatisme har fått navnet «paleo-libertarianisme» i USA. Denne strømningen skiller seg fra neo-libertarianisme (en retning som er mer sympatisk innstilt til egalitarisme og de sosiale utviklingene på 1970-tallet) ved å kombinere **avvisningen av staten som den institusjonelle kilden til tvang** med en styrking av tradisjonelle institusjoner og en preferanse for frivillige sosiale strukturer fremfor statlig autoritet. Med andre ord motsetter ikke paleo-libertarianeren seg eksistensen av sosialistiske eller kommunitære fellesskap; det han avviser er at slike fellesskap påtvinger alle sine verdier ved lovens makt. To store skikkelser legemliggjør denne tilnærmingen:
 
-På den annen side er **politisk konservatisme** en måte å organisere samfunnet på i henhold til en fast orden. Det er derfor konservative er motstandere av fremskritt. De ønsker å fryse samfunnet i den tilstanden det har nådd i det øyeblikket de snakker, og mener at enhver endring vil være verre.
+![Paleo-libertarianisme: kulturell konservatisme kombinert med libertarianske prinsipper](./assets/en/026.webp)
 
+- **Murray Rothbard**, en økonom og filosof som utviklet libertariansk teori samtidig som han anerkjente betydningen av tradisjonelle verdier, uten noen gang å tale for at staten skulle påtvinge dem.
+- **Ron Paul**, en kongressrepresentant fra Texas i flere tiår som stilte som kandidat til republikanernes presidentnominasjon. Personlig konservativ i sine verdier forsvarte han konsekvent en visjon om begrenset statsmakt som respekterer individuelle friheter. For eksempel frarådet Ron Paul alltid narkotikabruk, men motsatte seg samtidig narkotikaforbud. Han var personlig imot abort, men argumenterte konsekvent for at valget burde overlates til delstatene i stedet for å påtvinges ovenfra.
 
-
-Politisk sett slutter kulturkonservative seg ofte til den politiske konservatismen. Men dette er ikke alltid tilfelle. De to konservatismene er ikke nødvendigvis uatskillelige. **Man kan være kulturkonservativ og libertarianer
-
-
-
-En person kan for eksempel forsvare kulturelle tradisjoner (som familie, religion eller lokale skikker) i sitt personlige liv eller i samfunnet, samtidig som han eller hun går inn for en begrenset stat som ikke pålegger disse verdiene ved lov. Denne typen person kan oppmuntre til konservative normer gjennom overtalelse, utdanning eller ved å gå foran med et godt eksempel, samtidig som han eller hun respekterer andres rett til å leve annerledes, i tråd med libertarianske prinsipper.
-
-
-
-Den kulturkonservative libertarianeren kan moralsk mislike visse former for atferd, men han **tar ikke til orde for lovforbud eller fengsling** av mennesker som engasjerer seg i samtykkende, ikke-aggressive handlinger. Han kan mislike slike handlinger, motsette seg dem, bekjempe dem og aktivt avskrekke folk fra å delta i dem, men alltid **uten å ty til lovens tvangsmakt**.
-
-
-
-I praksis har personer som Ron Paul eller tenkere som Rothbard og Hoppe i USA forsøkt å forene disse to visjonene ved å forsvare både tradisjonelle verdier og maksimal individuell frihet.
-
-
-
-![Libertes Graphique](./assets/fr/014.webp)
-
-
+![Konservative og libertarianske posisjoner](./assets/en/027.webp)
 
 ## Er du liberal eller libertarianer?
-
 
 <chapterId>d382c40b-78ce-416f-9f63-6ad43768406b</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=pPA2uyoaBrE)
+### En transatlantisk forvirring
 
+![Den transatlantiske forvirringen mellom liberalisme og libertarianisme](./assets/en/028.webp)
 
+Begrepene som brukes for å betegne politiske familier er ikke uforanderlige. De kan variere etter geografisk og historisk kontekst, noe som skaper en stor kilde til forvirring. Når spørsmålet stilles: «er du liberal eller libertarianer?», kan en europeer svare at det er det samme. Men i angelsaksisk bruk er dette radikalt forskjellige begreper.
 
-Begrepene som brukes for å betegne politiske familier er ikke uforanderlige. De kan variere avhengig av geografisk og historisk kontekst. Dette kan føre til forvirring.
+I Europa har begrepet *liberalisme* holdt seg relativt stabilt over tid: det forbindes med laissez-faire-økonomisk politikk, redusert statlig intervensjon og forsvar av individuelle friheter. En posisjon som vanligvis klassifiseres på høyresiden.
 
+![De ulike betydningene av liberalisme i Europa versus USA](./assets/en/029.webp)
 
+I USA har det samme ordet gjennomgått en dramatisk betydningsforskyvning. **Amerikanske *liberals* er blitt talsmenn for statlig intervensjon og *Big Government***. Denne utviklingen kan spores gjennom nøkkeløyeblikk:
 
-I Europa og USA er det enkelte ord som ikke lenger har samme betydning. Det gjelder for eksempel ordet liberalisme.
+- På 1930-tallet markerte Franklin D. Roosevelts *New Deal* en første stor intervensjonistisk vending som svar på den store depresjonen: offentlige arbeider, offentlig sysselsetting, subsidier. Betydningen av *liberalisme* begynte å gli mot et statisme-paradigme.
+- På 1960-tallet utvidet Lyndon B. Johnsons *Great Society* dette til sosiale programmer og føderal intervensjon.
+- I dag er amerikanske *liberals* i stor grad demokrater som forsvarer offentlig helseforsikring og planer mot fattigdom. En person som Bernie Sanders, som beskriver seg selv som sosialist eller sosialdemokrat, gjør krav på den liberale merkelappen, men for ham er den synonym med statlig intervensjon for å frigjøre individer.
 
+Vi er svært langt fra den europeiske betydningen av begrepet.
 
+![Den historiske utviklingen av amerikansk liberalisme mot intervensjonisme](./assets/en/030.webp)
 
-I Nord-Amerika plasseres *liberalisme* på venstresiden og sidestilles med progressivisme. Amerikanske *liberale* er blitt tilhengere av statlig intervensjon og *Big Government*. Denne historiske utviklingen står i sterk kontrast til den betydningen begrepene liberal og konservativ fortsatt har i Europa.
+### Fremveksten av libertarianisme
 
+Stilt overfor denne språklige glidningen begynte tilhengere av klassisk liberalisme i USA å kalle seg *libertarians* fra 1960-tallet og fremover, nettopp for å skille seg fra amerikanske *liberals*. De er arvingene til europeisk klassisk liberalisme fra det nittende århundre.
 
+![Fremveksten av libertarianisme som svar på glidningen i amerikansk liberalisme](./assets/en/031.webp)
 
-I mange land, særlig i Europa, forbindes begrepet liberalisme med laissez-faire økonomisk politikk og redusert statlig inngripen.
+En grunnleggende akse i libertarianismen er begrepet **spontan orden, særlig knyttet til Friedrich Hayek** og den østerrikske økonomiske skolen. Ifølge Hayek bør reglene og normene som styrer samfunnet ikke påtvinges ovenfra gjennom autoritær planlegging, men oppstå fra det frie spillet mellom individuelle viljer, kontrakter og fritt samtykkede relasjoner mellom voksne.
 
+### Sentrale intellektuelle skikkelser
 
+![Sentrale intellektuelle skikkelser i libertarianismen: Rothbard og Nozick](./assets/en/032.webp)
 
-Dette er grunnen til at begrepet *liberaler* er misvisende for en europeer. Amerikansk liberal politikk kan siden 1900-tallet beskrives som en dreining mot et statsautoritært paradigme, noe som har forvrengt betydningen av ordet *liberalisme*.
+Flere tenkere formet den libertarianske bevegelsen:
 
+- **Murray Rothbard**, som vi allerede har nevnt i forbindelse med kulturell konservatisme, er også anarkokapitalismens teoretiker. I boken *For a New Liberty* fra 1973 talte han for **avskaffelse av staten og fullstendig privatisering av sosiale aktiviteter**, og motsatte seg både økonomisk og militær intervensjonisme.
+- **Robert Nozick**, professor i politisk filosofi ved Harvard, svarte på John Rawls' *A Theory of Justice* med *Anarchy, State, and Utopia* (1974). Nozick forsvarte en minimal stat i den lockeanske tradisjonen, og hans strenge analytiske stil bidro sterkt til å legitimere libertariansk tenkning i akademiske kretser.
 
+### Institusjonell struktur
 
-Historisk sett har amerikansk *liberalisme* støttet betydelig statlig intervensjonisme (Franklin Delano Roosevelts *New Deal* og Lyndon B. Johnsons *Great Society*), inkludert omfordeling av rikdom og sosiale programmer. I USA assosieres derfor begrepet *liberal* med venstreorientert eller sosialdemokratisk politikk, som offentlig helseforsikring og offentlige fattigdomsbekjempelse.
+![Den libertarianske bevegelsens institusjonelle struktur](./assets/en/033.webp)
 
+**Den libertarianske bevegelsen organiserte seg gradvis**:
 
+- **Cato Institute** (1977), en tenketank med base i Washington, arbeider med forslag til offentlig politikk.
+- **Mises Institute** (1982), i Auburn, Alabama, fokuserer på utdanning snarere enn politisk lobbyvirksomhet, og fungerer som et slags nettuniversitet med konferanser og nyutgitte verk.
+- **Libertarian Party** (1971), til tross for et gjennomsnitt på rundt 2 % i valg, utgjør det tredje største amerikanske politiske partiet. Disse 2 % kan vippe et valg, noe som gir partiet innflytelse langt utover valgresultatet.
 
-Fra 1960-tallet begynte tilhengere av klassisk liberalisme i USA å kalle seg *libertarianere* for å skille seg fra de amerikanske liberalistene. De er arvtakere av 1800-tallets europeiske klassiske liberalisme.
+### Libertarianere og konservative: en kompleks allianse
 
+Libertarianere er radikalt imot amerikanske *liberals* i ordets moderne betydning. I denne henseenden deler de et visst felles grunnlag med konservative: tilknytning til Founding Fathers' begrensede stat, avvisning av tvungen egalitarisme, motstand mot offentlig gjeld og forsvar av delstaters rettigheter mot føderal makt. Ron Paul legemliggjør denne konvergensen tydeligst, selv om han forble en minoritetsstemme i det republikanske partiet.
 
+Likevel består grunnleggende divergenser. Libertarianere avviser neokonservatives militære intervensjonisme (man tenker på George W. Bush og Irak-krigen), motsetter seg konservativ sosialpolitikk og subsidier (enten til bedrifter eller til familier i medfølelsens navn), fordømmer narkotikaforbud som ikke bare ineffektivt, men umoralsk, og avviser proteksjonisme. På dette siste punktet møtte for eksempel **Trumps tollpolitikk skarp kritikk fra libertarianere**, som så den som et svik mot frihandelsprinsippene. Alliansen mellom konservative og libertarianere er altså reell, men iboende anstrengt, forent av en felles kritikk av amerikansk *liberalism*, men splittet i synet på statsmaktens rette omfang.
 
 ## Er du libertarianer eller libertaire/anarkist (på fransk libertaire)?
-
 
 <chapterId>fc761194-249f-4009-a20f-1f98b7226cf2</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=qi6HPBmrJkg)
+### En grunnleggende inkompatibilitet
+
+![Libertarianer versus libertaire: en grunnleggende inkompatibilitet](./assets/en/034.webp)
+
+De to er ikke kompatible. Det finnes en stor kilde til forvirring mellom disse begrepene, særlig i automatiske oversettelser der det angelsaksiske *libertarian* ofte gjengis som *libertaire*. Likevel **har disse politiske filosofiene, til tross for enkelte overfladiske likheter, grunnleggende forskjeller**.
+
+### Sosialistisk anarkisme (*libertaires*)
+
+![Libertaires: arvinger etter sosialistisk anarkisme](./assets/en/035.webp)
+
+De franske *libertaires* er arvingene etter sosialistisk anarkisme, en gren av sosialismen historisk knyttet til tenkere som Pierre-Joseph Proudhon og Mikhail Bakunin. Deres grunnleggende prinsipper er:
+
+- Staten må avskaffes, ettersom den er en undertrykkende struktur.
+- Privat eiendom og kapitalisme må også avskaffes, fordi staten i anarkistisk doktrine er beskytteren av privat eiendom og de rike. Derav Proudhons berømte formel: «Eiendom er tyveri.» (Det bør bemerkes at Proudhon selv utviklet seg på dette punktet: den tidlige Proudhon var voldsomt antikapitalistisk, men **den senere Proudhon beveget seg nærmere klassisk liberalisme** og kom til å se privat eiendom som en garanti for frihet.)
+- De foretrekker en retur til bytteøkonomi og et egalitært samfunn der goder tilhører alle.
+
+Anarkister som Bakunin og Kropotkin (som var en streng anarkokommunist og avviste til og med lønn som en retur til kapitalismen) så privat eiendom og staten som tvillingkilder til undertrykkelse. De talte for selvstyrte kommuner, kooperativer og anti-hierarkiske bevegelser. Deres økonomiske visjon hviler på arbeidsverditeorien; de fordømmer lønnssystemet, avviser profitt og renter og ønsker **den radikale forsvinningen av penger og banker**.
+
+### Libertarianisme: eiendom som frihetens grunnlag
+
+![Libertarianisme: privat eiendom som frihetens grunnlag](./assets/en/036.webp)
+
+Libertarianere skiller seg fullstendig fra *libertaires* ved at de forsvarer privat eiendom som selve grunnlaget for frihet. For dem er privat eiendom ikke en ren sosial konvensjon beskyttet av staten: **den er en naturlig rett som går forut for loven og staten**. Hvis et individ eier sin egen kropp, eier det også sitt arbeid og fruktene av sitt arbeid. Eierskap til materielle goder forstås som en forlengelse av selveierskap.
+
+Av dette følger at beskatning forstås som aggresjon beslektet med tyveri, siden den tvinger et individ til å avstå en del av sin eiendom for tjenester det ikke nødvendigvis har valgt. Frivillig samtykke utgjør det moralske grunnlaget for libertarianismen.
+
+Når det gjelder vold, avviser libertariansk doktrine alle former for aggressiv vold. Den innrømmer imidlertid defensiv vold som legitim: selvforsvar og motstand mot undertrykkelse.
+
+### Strategier for å avskaffe staten
+
+Her ligger enda en grunnleggende forskjell. *Libertaires* har historisk talt tatt til orde for ødeleggelsen av staten og kapitalismen gjennom vold, enten kollektiv eller individuell. Denne tilnærmingen hviler historisk på terror og målrettede (eller ikke-målrettede) angrep, slik man så i Russland og senere i Spania under borgerkrigen.
+
+For libertarianere er aggressiv vold ikke legitim. Hovedstrategien hviler på **delegitimering av staten gjennom dannelsen av kollektive overbevisninger**: argumentasjon, debatt, diskusjon og utdanning. Libertarianere taler for sivil ulydighet eller handlinger som består i bevisst å ignorere staten.
+
+### Anarkokapitalisme: historiske røtter
+
+![Anarkokapitalismens historiske røtter: Molinari, Spooner og Tucker](./assets/en/037.webp)
+
+Anarkokapitalisme er ikke en ny doktrine. Dens røtter ligger i det nittende århundre:
+
+- **Gustave de Molinari**, en belgisk økonom som arbeidet i Paris sammen med Frédéric Bastiat, skrev i 1849 en artikkel med tittelen «The Production of Security», der han argumenterte for at ingen regjering skulle ha rett til å hindre en annen i å konkurrere med den, eller kreve at sikkerhetsforbrukere utelukkende skulle henvende seg til den for dette produktet.
+- **Lysander Spooner** og **Benjamin Tucker** i USA var individualistiske anarkister som kraftfullt argumenterte for at det frie markedet var i stand til å overta statens suverene funksjoner, særlig sikkerhet og rettsvesen.
+
+![Murray Rothbard og den omfattende teorien om anarkokapitalisme](./assets/en/038.webp)
+
+I det tjuende århundre tok Murray Rothbard opp arven og teoretiserte anarkokapitalismen omfattende, særlig i *Man, Economy, and State* og *For a New Liberty*. Hans tenkning hviler på to prinsipper: ikke-aggresjonsprinsippet (det er illegitimt å initiere fysisk makt mot et annet individ eller dets eiendom, en filosofisk oversettelse av den gylne regel: gjør ikke mot andre det du ikke vil at de skal gjøre mot deg) og fullstendig avskaffelse av staten, forstått som den viktigste aggressoren.
+
+Rothbard kritiserte *libertaires* for å adoptere et naivt og urealistisk syn på menneskets natur, beslektet med Rousseaus «edle villmann». For Rothbard er mennesker ikke naturlig gode, men de ledes av sine interesser. Samfunnet må derfor organiseres slik at gode insentiver styrer atferd, noe som krever at privat eiendom anerkjennes og garanteres. **Å avskaffe staten betyr ikke å avskaffe statens funksjoner**: politi og rettsvesen må ikke elimineres, men forvaltes av det frie markedet på grunnlag av konkurranse.
+
+### En merknad om libertinere
+
+![Libertarianere, libertaires og libertinere: unngå forvirring](./assets/en/039.webp)
+
+Man bør ikke forveksle libertarianere med *libertaires* eller med libertinere. Libertinere er tilhengere av seksuell frihet. Det er mindre en politisk filosofi enn en personlig livsstil, grunnlagt på en moral uten tabuer i opposisjon til borgerlig moral. Politisk graviterer libertinere ofte mot venstreanarkisme, det vil si mot *libertaires*. Likevel kan man også være både libertiner og libertarianer, siden for libertarianere **har hver person rett til å leve som de vil uten å utøve aggresjon mot andre**. Omvendt ville en libertiner som søkte å påtvinge andre sin moral gjennom lov, ved nettopp den handlingen slutte å være libertarianer.
 
 
-
-Begrepet **libertarian** oversettes av og til med libertarian eller libertin, noe som er en stor misforståelse.
-
-
-
-Det franske begrepet libertaire kommer fra 1800-tallets anarkistiske tradisjon, som er avledet av sosialismen. Denne tradisjonen er historisk knyttet til tenkere som Pierre-Joseph Proudhon og Mikhail Bakunin. Anarkisme er den politiske doktrinen som hevder at alle former for styresett er unødvendige, undertrykkende og må avskaffes.
-
-
-
-For sosialistiske og kommunistiske anarkister er eiendom tyveri. De ønsker at penger og banker skal forsvinne, og at man skal gå tilbake til en lokal økonomi basert på byttehandel. De ønsker et egalitært samfunn der individuell frihet utøves innenfor en kollektiv ramme, uten dominans.
-
-
-
-I motsetning til libertarianere er anarkister ofte antikapitalistiske, og går inn for økonomiske former som mutualisme, kollektivisme eller frihetlig kommunisme.
-
-
-Sosialistiske anarkister som Mikhail Bakunin og Pierre Kropotkin så på privat eiendom og staten som to kilder til undertrykkelse, og foreslo å avskaffe dem.
-
-
-
-En anarkist kan gå inn for selvstyrte kommuner, kooperativer eller antihierarkiske bevegelser, samtidig som han eller hun avviser statlig autoritet og kapitalistiske strukturer.
-
-
-
-De går inn for å avskaffe staten, men har tatt avstand fra voldelige aksjoner mot staten på grunn av manglende effektivitet. På den annen side har de ikke tatt avstand fra bruk av vold mot private foretak. De støtter offentlige monopoler, aksepterer arbeidets verditeori, fordømmer lønnssystemet og ser på profitt og renter som utbytting. Få venstreorienterte anarkister, som Pierre-Joseph Proudhon, kjempet aktivt mot beskatning.
-
-
-
-For libertarianere er den eneste måten å sikre individuell frihet på å garantere privat eiendom. Den vesentlige forskjellen mellom libertarianere og anarkister dreier seg derfor om forestillingen om individuell eiendom og kontraktsfrihet. Libertarianernes voldslære er dessuten defensiv: selvforsvar og motstand mot undertrykkelse.
-
-
-
-Libertinere er aktivister for seksuell frihet. Det er ikke så mye en politisk filosofi som en personlig livsstil, basert på en hemningsløs moral som står i motsetning til borgerlig moral. Politisk er de ofte på linje med venstreorienterte anarkister, det vil si med anarkister.
-
-
-
-# Politiske familier under lupen
-
+# Politiske familier under mikroskopet
 
 <partId>2e1183f6-95d4-4d3c-9274-843993210624</partId>
 
 
-
 ## Strukturelle og intensjonelle definisjoner
-
 
 <chapterId>ec5b13b7-4104-46a9-9c39-a810959a69ee</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=7r7KNK5YnIk)
 
+Vi går nå inn i kjernen av analysen vår av politiske familier. Før vi undersøker hver enkelt i detalj, må vi imidlertid ta opp et grunnleggende spørsmål: hvordan bør vi definere et politisk system? Ta sosialisme som eksempel. 
 
+![Politiske familier under mikroskopet: strukturell analyse](./assets/en/040.webp)
 
-La oss nå se nærmere på de ulike politiske filosofiene. Bunnen av rammen vil bli behandlet noe marginalt, ettersom det strengt tatt ikke er en politisk ideologi, men snarere et samfunnssystem som tenderer mot totalitarisme.
+Bør vi definere den etter dens uttalte intensjoner (rettferdighet, velferd, frigjøring), eller bør vi i stedet definere den etter dens grunnleggende struktur, nemlig **om den gir forrang til individet eller til staten**?
 
+### Fellen i intensjonelle definisjoner
 
+![Milton Friedman om å bedømme politikk etter resultater snarere enn intensjoner](./assets/en/041.webp)
 
-Men først må vi forklare en viktig forskjell.
+Milton Friedman skrev:
 
+> En av de største feilene er å bedømme politikk og programmer etter deres intensjoner snarere enn etter deres resultater. Vi kjenner alle en berømt vei brolagt med gode intensjoner. [...] Programmer som merkes som å være for de fattige eller for dem som trenger hjelp, har nesten alltid virkninger som er nøyaktig motsatt av det deres velmenende sponsorer håper å oppnå.
 
+Med andre ord gir Friedman prioritet til det vi kunne kalle empirisk analyse: å fokusere på de synlige konsekvensene av et system snarere enn på politiske løfter og programmer. Dette gir gjenklang av det Frederic Bastiat lærte da han hevdet at den gode økonomen er den som ser virkningene av en politikk ikke bare på kort sikt, men også på lang sikt, og ikke bare på en bestemt gruppe, men på hele befolkningen.
 
-Milton Friedman skrev
+Friedman advarer oss mot faren ved å stole utelukkende på intensjoner. Politikk motivert av generøse intensjoner kan få uforutsette eller skadelige konsekvenser **når den forsømmer en streng analyse av menneskelige insentiver og atferd**. For eksempel risikerer sosiale hjelpeprogrammer finansiert av staten (det vil si av skattebetaleren) å produsere perverse virkninger: de skaper intet insentiv til å arbeide, de skaper økonomisk avhengighet, og de utgjør en form for plyndring siden pengene først må tas fra dem som produserte rikdommen. For Friedman må målbare resultater, som økonomisk vekst, fattigdomsreduksjon eller effektivitet, gå foran intensjoner, fordi sistnevnte, hvor edle de enn er, ikke garanterer suksess.
 
+### Den strukturelle tilnærmingen
 
-> En av de største feilene er å bedømme politikk og programmer ut fra intensjonene snarere enn resultatene. Vi kjenner alle til en berømt vei brolagt med gode intensjoner. [...] Programmer som er stemplet som for de fattige eller for dem som trenger det, har nesten alltid motsatt effekt av det de velmenende sponsorene håper å oppnå.
+**Strukturelle eller praktiske definisjoner fokuserer på hvordan politiske systemer faktisk fungerer** og på deres observerbare kjennetegn. Sosialisme, for eksempel, kjennetegnes av statens allestedsnærvær, som regulerer, planlegger og kontrollerer. Det er et faktum, og det betyr langt mer enn de erklærte intensjonene om brorskap eller solidaritet. Libertarianisme, derimot, defineres av minimal statlig intervensjon i økonomien og i privatlivet, med en tendens mot forrang for individuell frihet og det frie markedet.
 
-Politikk, som ofte er motivert av sjenerøse intensjoner, kan få uforutsette eller skadelige konsekvenser hvis den ikke er basert på en grundig analyse av menneskelige insentiver og atferd. For eksempel kan en sosialpolitikk som tar sikte på å hjelpe de fattige, ofte skape perverse effekter som økonomisk avhengighet eller markedsvridning.
+I kontrast **bygger intensjonelle definisjoner på de uttalte motivasjonene, målene eller intensjonene** til individer eller grupper. Sosialisme presenterer seg selv som å forfølge «sosial rettferdighet» og solidaritet. Men hvis vi bygger på intensjoner, blir ting uklare, fordi alle hevder å være for rettferdighet; alle påberoper seg folkets suverenitet. Likevel forblir «folket» et svært abstrakt begrep, og der ligger fellen.
 
+Analysen vår vil derfor prioritere den strukturelle tilnærmingen, som åpner for **en mer objektiv vurdering av politiske systemer basert på deres målbare resultater** og konkrete midler snarere enn deres proklamerte intensjoner. På Nolan-diagrammet vil den nederste delen av rammen (ren statisme, som tenderer mot totalitarisme) behandles noe separat, siden den er mindre en politisk ideologi enn et sosialt system. De tre kvadrantene over (sosialisme til venstre, sentrisme i midten, konservatisme til høyre) og libertarianismen på toppen vil hver bli undersøkt gjennom denne strukturelle linsen.
 
+### Bortenfor intensjoner
 
-For Friedman må målbare resultater - som økonomisk vekst, fattigdomsreduksjon eller effektivitet - gå foran intensjoner, fordi sistnevnte, selv om de er edle, ikke er noen garanti for suksess.
+![Strukturell analyse av politiske familier: sosialisme versus libertarianisme](./assets/en/042.webp)
 
-
-
-De **strukturelle eller praktiske definisjonene** fokuserer på hvordan politiske systemer fungerer i praksis, og på deres observerbare kjennetegn. Sosialisme kjennetegnes for eksempel av statens tendens til å ta ansvar for, regulere og planlegge alt. Libertarianisme, på den annen side, kjennetegnes av at individet og dets frihet settes i høysetet, med en tendens til minimal statlig inngripen i økonomien og andre områder.
-
-
-
-I motsetning til dette er **intensjonelle definisjoner** basert på enkeltpersoners eller gruppers uttalte motivasjoner, mål eller intensjoner. Sosialisme har for eksempel sosial rettferdighet som mål. Men hvis vi baserer oss på intensjoner, blir ting uklare, fordi alle er for rettferdighet. Derfor foretrekker vi å bruke strukturelle definisjoner for å få en klarere og mer objektiv analyse.
-
-
-
-I de følgende kapitlene forklarer vi hvordan vi kan definere politiske familier strukturelt.
-
+Strukturell analyse fungerer som et kritisk verktøy. Den lar oss evaluere politiske systemer etter deres virkelige resultater, ikke deres løfter. Intensjonelle definisjoner skaper derimot en begrepsmessig forvirring der alle systemer hevder å forfølge lignende mål (rettferdighet, likhet, frihet), noe som gjør dem umulige å skille fra hverandre. Vi må derfor rette oppmerksomheten mot **de empiriske, målbare konsekvensene av et politisk system**, samt midlene det bruker. Det er gjennom disse at et politisk systems sanne natur åpenbarer seg, bortenfor intensjonenes eller programmenes retorikk.
 
 
 ## Sosialistene
 
-
 <chapterId>1ef34d7b-f813-458c-934c-1d404f882150</chapterId>
 
+Sosialisme er en politisk og økonomisk bevegelse, og faktisk en doktrine, som oppsto i det nittende århundre med kritikken av sosiale ulikheter og arbeidernes fremmedgjøring i storindustrien. Fra sitt aller første opphav er den også klart en antikapitalistisk bevegelse, selv om moderne sosialister, som vi skal se, gradvis har innført moderasjoner og kompromisser i prinsippene sine.
+
+![Sosialistene: prinsipper og varianter](./assets/en/043.webp)
 
 
-![video](https://www.youtube.com/watch?v=-JBJDQqgH_k)
+### Friheter i det sosialistiske rammeverket
 
+I sosialistisk tenkning betraktes ikke friheter ensartet. Man observerer **en grunnleggende dikotomi mellom den samfunnsmessige og den økonomiske sfæren**:
 
+- **Friheter:** sterke i den samfunnsmessige sfæren, men svake i den økonomiske sfæren.
+- **Kardinalverdier:** likhet, fremskritt, sosial rettferdighet, solidaritet.
+- **Filosofi og prinsipper:** Forrang for kollektiv organisering. Sosialisme er en praksis forankret i en holistisk visjon om samfunnet (holisme), uttrykt gjennom staten. Begrepet «holisme» kommer fra gresk *holos*, som betyr «helheten». Den sosialistiske staten har som mål å ta hånd om og dirigere menneskelig aktivitet i størst mulig grad. Sosialister har en nesten ubegrenset tro på muligheten for å bygge en ny sosial orden basert på fornuft, det Hayek kalte «konstruktivisme».
+- **Politikk:** Sosialister taler for helseprogrammer, regulatory capture, skatteøkninger og subsidier for å garantere likhet. Dette innebærer økonomisk og sosial statlig styring, planlegging (organisering av produksjonen oppstrøms). Den mest radikale og fullt realiserte sosialismen er totalitær, ettersom staten tar hånd om all menneskelig aktivitet.
+- **Økonomi:** Sosialisme innebærer sterk statlig kontroll over økonomien, til fordel for likhet. Sosialister er mistenksomme overfor frie markeder, som de ser som blinde, instinktive krefter. De foretrekker omfordeling av rikdom, sentraliserte sosiale programmer og progressiv beskatning som øker proporsjonalt med inntekt og blir straffende for dem som tjener eller produserer rikdom.
 
-![Socialistes Graphique](./assets/fr/015.webp)
+![Nolan-diagram som viser sosialisme plassert med sterke samfunnsmessige friheter, men svake økonomiske friheter](./assets/en/044.webp)
 
+### Historisk utvikling
 
+Begrepet sosialisme ble først brukt systematisk av franskmannen Pierre Leroux i 1833, i en artikkel for *Revue Encyclopedique*, eksplisitt i opposisjon til individualisme. Begrepet ble deretter brukt om doktrinene til Saint-Simon, Fourier og Owen mot midten av det nittende århundre, før Marx tok det i bruk for sine egne formål. Det er verdt å merke seg at ordet «kommunisme», som Marx skulle omfavne, også oppsto hos en fransk sosialist ved navn Etienne Cabet.
 
+Ved slutten av det nittende århundre oppsto et fullstendig brudd mellom marxisme og anarkisme. Fra begynnelsen av det tjuende århundre skilte **en grunnleggende deling revolusjonære sosialister fra reformistiske sosialister**:
 
+1. **Revolusjonære sosialister** motsetter seg eiendomsrett og søker å ødelegge det kapitalistiske borgerlige samfunnet. De tar sikte på å gripe makten gjennom vold eller proletariatets diktatur. Denne strømningen ga opphav til marxistisk kommunisme og til slutt til de verste totalitære regimene.
 
-- Friheter:** ganske sterke på det samfunnsmessige området, men svake på det økonomiske området.
-- Kardinale verdier:** likhet, fremskritt, sosial rettferdighet, solidaritet.
-- Filosofi og prinsipper:** Den kollektive organisasjonens forrang. Sosialismen er en praksis som tar utgangspunkt i samfunnet som helhet (holisme) og kommer til uttrykk gjennom staten. Den sosialistiske staten har som mål å overta og styre menneskelig aktivitet maksimalt. Sosialister har en nesten ubegrenset tro på muligheten for å bygge en ny samfunnsorden basert på fornuft.
-- Politikk:** Sosialister går inn for helseprogrammer, skatteøkninger og subsidier for å garantere likhet. Dette innebærer økonomisk og sosial statlig styring, planlegging (organisering av produksjonen oppstrøms). Hayek snakker om konstruktivisme, dvs. ideen om at det er opp til staten å bygge samfunnet og gi det en bestemt form, i motsetning til den liberale orden der samfunnet bygger seg selv (spontan orden). Den mest radikale og vellykkede sosialismen er totalitær, ettersom staten overtar styringen av all menneskelig aktivitet.
-- Økonomi:** Sosialisme innebærer sterk statlig kontroll over økonomien, til fordel for rettferdighet (slik at alle kan forsørge seg selv). Sosialister er skeptiske til frie markeder, som de ser på som et system som gjør det mulig for de sterke å utnytte de sårbare. De går inn for omfordeling av rikdom og sentraliserte sosiale programmer finansiert av høye skatter og inntekter.
+2. **Reformistiske sosialister** er ikke tilbøyelige til vold; de har forstått at frontal motstand mot staten ikke lønner seg. De forfølger sosial rettferdighet gjennom demokratiske valg og beskatning, ved å bruke ressursene som markedsøkonomien genererer. Med andre ord aksepterer de midlertidig kapitalismen for å bruke den mot seg selv. Denne tradisjonen representeres av Jean Jaures, Leon Blum, Olof Palme (Sverige), Willy Brandt (Tyskland) og Francois Mitterrand (Frankrike).
 
+### Marx og den revolusjonære grenen
 
+![Karl Marx og skillet mellom utopisk og vitenskapelig sosialisme](./assets/en/045.webp)
 
-**Typer sosialister:**
+Karl Marx trakk et avgjørende skille mellom utopisk sosialisme og vitenskapelig sosialisme. Han anklaget de tidlige franske sosialistene (Proudhon, Saint-Simon, Fourier) for å være utopister, noe som betyr at de foreslo rent imaginære løsninger uten ekte teoretisk eller praktisk grunnlag.
 
+Marx' vitenskapelige sosialisme hviler på historisk materialisme: ideen om at **historien skrider frem gjennom klassekamp og tilegnelse av produksjonsmidlene**. Ifølge denne tilnærmingen er alle kulturelle representasjoner (rett, politiske institusjoner, religioner) betinget av utviklingen av produktivkreftene og produksjonsforholdene. Staten, loven, selv kulturen er bare uttrykk for den dominerende klassens interesser. Det er dette materialistiske rammeverket som ledet Marx til å hevde at proletariatet må bli bevisst sin undertrykkelse og frigjøre seg gjennom revolusjon, ved å eliminere den undertrykkende klassen.
 
-Begrepet sosialisme er en neologisme som først ble brukt systematisk og med en presis betydning av franskmannen Pierre Leroux i 1833. Innenfor den moderne sosialismen kan man skille mellom to tradisjoner:
+### Demokratisk sosialisme og den reformistiske tradisjonen
 
+![Jean Jaures og grunnlaget for demokratisk sosialisme](./assets/en/046.webp)
 
-1.  **Revolusjonære sosialister** er motstandere av eiendomsretten, og ønsker å ødelegge det kapitalistiske borgerlige samfunnet. De følger i fotsporene til 1800-tallets anarkister som Bakunin. Denne anarkismen ga senere opphav til den marxistiske kommunismen.
+Jean Jaures står som en av de store tenkerne innen demokratisk sosialisme. Som utdannet filosof som gikk inn i politikken ved begynnelsen av det tjuende århundre, grunnla Jaures avisen *L'Humanite*. Hans definisjon av sosialisme var samfunnets og maktens legitime inngripen i menneskelivet, særlig i arbeidsrelasjoner, for å realisere individuell frihet og likhet. Med andre ord **la Jaures det teoretiske grunnlaget for å rettferdiggjøre statlig intervensjon i likhetens navn**.
 
+![Emile Durkheim og sosialismens sosiologiske grunnlag](./assets/en/047.webp)
 
-2.  **Reformistiske sosialister** er ikke tilbøyelige til å bruke vold. De har ikke gitt opp målet om sosial rettferdighet, men dette målet forfølges gjennom demokratiske valg og beskatning, ved hjelp av ressursene som genereres av markedsøkonomien. Dette var tilfellet med Jean Jaurès, Leon Blum, Olof Palme (Sverige), Willy Brandt (Tyskland) og François Mitterrand (Frankrike).
+Emile Durkheim, grunnlegger av sosiologiprofessoratet ved Sorbonne i 1913 og en venn av Jaures, forklarte at sosialisme er en protest mot den nåværende økonomiske tilstanden som krever en transformasjon gjennom organiseringen av økonomiske krefter. Både Jaures og Durkheim delte en slående økonomisk oppfatning av sosialisme: økonomien må ikke overlates til markedskrefter (som de betraktet som blinde og instinktive), men bør i stedet styres rasjonelt.
 
+![Moderne demokratisk sosialisme fra New Deal til nordisk sosialdemokrati](./assets/en/048.webp)
 
+Moderne sosialisme skylder også Roosevelt og New Deal mye. På 1930-tallet gjennomførte Franklin Delano Roosevelt et sett reformer etter den store depresjonen som utgjør en viktig referanse for alle samtidige forsvarere av demokratisk sosialisme:
 
-Franklin Delano Rossevelts New Deal spilte en rolle i dannelsen av den amerikanske demokratiske sosialismen (Bernie Sanders).
-
-
-
-
-
-- Opprettelsen av folketrygden
+- Opprettelse av Social Security
 - Innføring av føderal minstelønn
 - Etablering av arbeidsledighetsforsikring
 - Føderale offentlige sysselsettingsprogrammer
 
+Etter krigen innførte Storbritannia lignende reformer (nasjonaliseringer, velferdsstaten), Tysklands sosialdemokrater forlot gradvis marxistiske referanser til fordel for en sosial markedsøkonomi, og de nordiske landene utviklet en modell som kombinerer markedsøkonomi, progressiv beskatning og universelle offentlige tjenester. Bernie Sanders, en samtidig amerikansk politiker som identifiserer seg som sosialdemokrat, **siterer ofte Frankrike som et eksempel på denne modellens suksess**, særlig dets trygdesystem.
 
+### Det holistiske prinsippet: kollektivets forrang
 
-Ifølge Bernie Sanders har *disse reformene blitt nasjonens sosiale struktur og grunnlaget for den amerikanske middelklassen*.
+Sosialisme kjennetegnes av en holistisk visjon om samfunnet, betraktet som en udelelig helhet snarere enn en enkel sum av individer. Det finnes ulike måter å representere dette kollektivet på: den sosiale klassen (den marxistiske tilnærmingen), nasjonen (som i fascismen, som underordner individet nasjonalinteressen), rasen (som i nasjonalsosialismen) eller kjønn (som i visse samtidige tilnærminger). I hvert tilfelle **definerer individet ikke lenger seg selv; det defineres av sin tilhørighet til en gruppe**.
 
+### Green New Deal: en samtidig syntese
 
+![Green New Deal som en samtidig syntese av økologiske og sosiale mål](./assets/en/049.webp)
 
+Green New Deal representerer en nylig utvikling av demokratisk sosialisme, som smelter miljøbekymringer sammen med sosiale mål. Politisk plasserer økologi seg sammen med venstresiden og til og med ytterste venstre. Dette programmet kombinerer økologisk omstilling med sosial rettferdighet, sysselsettingsgarantier og forsterkede offentlige tjenester. I alle tilfeller **underordnes individuell interesse den kollektive interessen, definert av planetens helse** og utfordringen klimaendringene utgjør. I bunnen er dette ganske enkelt en ny retorisk innpakning som rettferdiggjør statlig intervensjon og konfiskering av privat inntekt, ikke lenger bare i likhetens og sosial rettferdighets navn, men også i miljøets navn.
 
-> Sosialisme er den metoden som erstatter individuelt eierskap av produksjons- og byttemidler med sosialt eierskap.  - Léon Blum, "I menneskelig målestokk", 1945.
+### Sosialistisk tenkning i sitater
+
+![Sosialistisk tenkning i sitater](./assets/en/050.webp)
+
+> Vi har kommet til en klar erkjennelse av at sann individuell frihet ikke kan eksistere uten økonomisk trygghet og uavhengighet. Nødlidende mennesker er ikke frie mennesker.
+> Franklin D. Roosevelt, 1944
+
+> Sosialismens mål er den økonomiske frigjøringen av alle mennesker.
+> Leon Blum, *On a Human Scale*, 1945
+
+> Sosialisme er doktrinen som lærer at samfunnet må organiseres på en slik måte at alle dets medlemmer sikres velferd.
+> Emile Durkheim, *Socialism*, 1928
+
+> For meg handler sosialisme om at mennesker arbeider sammen for å skape et samfunn som fungerer for oss alle, ikke bare for noen få rike mennesker.
+> Bernie Sanders, 2015
+
+Disse sitatene illustrerer de edle intensjonene bak sosialistisk tenkning. Likevel **gjenstår det grunnleggende spørsmålet: hva er midlene, og hvor går grensen?** Hvis man forfølger økonomisk frigjøring gjennom tvang og makt, er ikke det en selvmotsigelse?
 
 ## Konservative
-
 
 <chapterId>4e068cd8-a5c3-44f8-ac77-309f249a59eb</chapterId>
 
 
-
-![video](https://www.youtube.com/watch?v=G-9CnoEcfqQ)
-
+Som enhver politisk familie er konservatisme ikke en enhetlig doktrine. Den har tilpasset seg ulike epoker og kulturer, og det finnes betydelige forskjeller mellom angelsaksisk konservatisme og dens kontinentaleuropeiske motpart.
 
 
-![Conservateurs Graphique](./assets/fr/016.webp)
+![Nolan-diagram som viser konservatisme plassert med sterke økonomiske friheter, men svake samfunnsmessige friheter](./assets/en/051.webp)
 
+![Konservatisme: prinsipper, verdier og utvikling](./assets/en/052.webp)
 
+### Friheter i den konservative visjonen
 
+Som Nolan-diagrammet viser, utviser konservatisme en sterk dikotomi mellom samfunnsmessige og økonomiske friheter, speilbildet av det vi observerte hos sosialistene:
 
+- **Friheter:** sterke i den økonomiske sfæren, men svake i den samfunnsmessige sfæren. På det økonomiske området forsvarer konservative det frie markedet, entreprenørskap og privat eiendom, i stor grad av pragmatiske grunner og i sterk opposisjon til sosialisme. På det samfunnsmessige området rettferdiggjøres restriksjoner med **bevaringen av tradisjonelle moralske normer og sosial stabilitet**.
+- **Kardinalverdier:** dyd, orden, tradisjon, sivilisasjon.
+- **Filosofi og prinsipper:** Konservative tror at ting generelt er gode slik de er, og at enhver endring kan gjøre dem verre. I hjertet av denne filosofien ligger en dyp tilknytning til røtter, til fortiden og en frykt for for brå endring. De har en dyp respekt for lenge etablerte sosiale institusjoner, sett som avgjørende vern mot kaos og modernitetens utskeielser. Alt som allerede eksisterer og har bevist seg over tid, betraktes som godt i seg selv. Som et amerikansk konservatisme-leksikon uttrykker det: konservatisme er en filosofi som søker å opprettholde og berike samfunn gjennom respekt for nedarvede institusjoner, trosforestillinger og praksiser, der individer utvikler god karakter ved å samarbeide med hverandre.
 
-- Friheter:** De er sterke på det økonomiske området, men svake på det samfunnsmessige området.
+![Konservative kardinalverdier: dyd, orden, tradisjon og sivilisasjon](./assets/en/053.webp)
 
+![Samtidig definisjon av konservatisme: å berike samfunn gjennom nedarvede institusjoner](./assets/en/054.webp)
 
+- **Politikk:** Nasjonalstaten betraktes som politikkens viktigste akse. Konservative taler for tradisjonell sosial kontroll, sterkt nasjonalt forsvar og mer omfattende politimakt. De motsetter seg alle former for sosialisme eller kommunisme, som de anklager for å korrumpere og svekke samfunnet.
+- **Økonomi:** Økonomien forblir et verktøy for å styrke den etablerte ordenen og nasjonal makt. Konservative støtter fri næringsvirksomhet, lav beskatning og minimal regulering av næringslivet. Men de frykter at **for mye individuell frihet kan skape umoral eller sivilisatorisk forfall**. Som Otto von Bismarck uttrykte det: «Økonomien er den sikreste veien til nasjonal storhet.» Selv som tilhengere av det frie markedet ser konservative økonomisk frihet ikke som et mål i seg selv, men som et virkemiddel for å opprettholde en sterk stat.
 
+![Konservative politiske og økonomiske posisjoner](./assets/en/055.webp)
 
+### En kort historie om konservatismen
 
-- Kardinale verdier:** dyd, orden, tradisjon, sivilisasjon.
+Doktrinen finner sine filosofiske røtter i det attende århundre, født som reaksjon på den franske revolusjonen. Edmund Burke nevnes ofte som grunnleggeren av denne opposisjonen, og han talte for bevaring av institusjoner og tradisjoner mot radikal endring. Burke forsvarte klokskap: selv om han kunne omfavne visse prinsipper fra revolusjonen, mente han at samfunnet ikke burde gå frem ved å gjøre rent bord, men gjennom gradvise reformer.
 
+![Den historiske utviklingen av konservativ tenkning](./assets/en/056.webp)
 
+![Europeisk konservatisme i det nittende århundre](./assets/en/057.webp)
 
+I det nittende århundrets Europa manifesterte konservatisme seg ofte som støtte til monarkiet, kirken og den etablerte sosiale ordenen i møte med voksende liberalisme og nasjonalisme. Skikkelser som Joseph de Maistre i Frankrike representerte en dypt reaksjonær retning. De Maistre nærte en absolutt fiendtlighet mot fornuften, og mente at mennesker ikke er fornuftsvesener og at **samfunnet bare kan styres ved å appellere til dype instinkter**, derav religionens avgjørende betydning. Disse reaksjonære talte for en tilbakevending til et føydalt, jordbruksbasert og håndverksmessig samfunn, og så industrialisering som en trussel mot den tradisjonelle sosiale ordenen.
 
+![Angelsaksisk konservatisme og begrepet ordnet frihet](./assets/en/058.webp)
 
-- Filosofi og prinsipper:** Konservative mener at ting generelt sett er bra som de er, og at enhver endring kan gjøre dem verre. De søker å bevare det som allerede eksisterer, og forsvarer det som godt i seg selv, og er motvillige til endringer i et system som de mener har vist seg å være effektivt. Kjernen i den tradisjonelle oppfatningen av konservatisme er en dyp respekt for veletablerte samfunnsinstitusjoner, som ses på som et viktig vern mot kaos, urettferdighet og grusomhet. Disse sosiale byggverkene opprettholder den solidariteten, tryggheten og styrken som menneskeheten trenger for å motstå modernitetens utskeielser.
+I det tjuende århundre, særlig i USA, utviklet konservatismen seg rundt idealene om individuell frihet, begrenset stat, frie markeder og kristne verdier, ofte i opposisjon til New Deals progressive politikk. Denne angelsaksiske konservatismen var langt mer moderne, etter å ha fullt ut akseptert vitenskapelig og teknologisk fremskritt samtidig som den forsøkte å forsone fellesskap og individ, frihet og ansvar. I Storbritannia eksemplifiserte Margaret Thatcher denne tendensen gjennom sin motstand mot fagforeninger og sentralisert planlegging, alltid med det underliggende målet om **å gjenopprette moralske og religiøse verdier som et bolverk mot progressivismens utskeielser**.
 
+### Store konservative tenkere
 
+- **Edmund Burke (1729-1797):** Ofte betraktet som den moderne konservatismens far, insisterte Burke på gradvis, organisk endring snarere enn revolusjonært brudd. Hans *Reflections on the Revolution in France* (1790) la det intellektuelle grunnlaget for angelsaksisk konservatisme.
+- **Michael Oakeshott (1901-1990):** En britisk filosof kjent for sin kritikk av rasjonalisme i politikken, Oakeshott forsvarte **en oppfatning av konservatisme som temperament snarere enn systematisk ideologi**. Hans essay *On Being Conservative* (1956) forblir en avgjørende referanse som også påvirket Friedrich Hayek.
+- **Roger Scruton (1944-2020):** En samtidig britisk filosof som utviklet et sofistikert forsvar for konservative verdier i senmodernitetens kontekst, særlig i boken *The Meaning of Conservatism*.
 
+![Store konservative tenkere: Burke, Oakeshott og Scruton](./assets/en/059.webp)
 
+### En problematisk fleksibilitet
 
-- Politikk:** Konservative går inn for tradisjonell sosial kontroll og statlig inngripen for å håndheve sosiale og moralske standarder (orden, sikkerhet, verdier). De støtter et sterkt nasjonalt forsvar. De støtter gjerne mer omfattende politimyndigheter. Sosialisme oppfattes som et brutalt brudd med den vestlige sivilisasjonen. Konservative spilte en avgjørende rolle i kampen mot kommunismen og avvisningen av overdreven statlig intervensjonisme.
+![Den problematiske fleksibiliteten i konservative prinsipper](./assets/en/060.webp)
 
+Konservatisme viser noen ganger en urovekkende fleksibilitet med hensyn til prinsipper. Under finanskrisen i 2008 erklærte George W. Bush: «Jeg har forlatt frimarkedsprinsipper for å redde frimarkedssystemet.» Året etter la han til: «Jeg har gått imot mine frimarkedsinstinkter og godkjent en midlertidig statlig intervensjon.» Ved å gripe inn for å redde de store bankene tok Bush på seg **statens konservative rolle som den nasjonale økonomiens siste garantist**, og satte nasjonens makt og kontinuitet over markedets abstrakte prinsipper. Den samme logikken finnes i Donald Trumps proteksjonistiske handelspolitikk, ført i nasjonalinteressens navn med fare for å nøre opp under korporatisme og kameratkapitalisme.
 
+### Neokonservatismens fremvekst
 
+![Neokonservatismens fremvekst og den paleokonservative reaksjonen](./assets/en/061.webp)
 
+Fra 2000-tallet og fremover ble neokonservative stadig mer involvert i å rettferdiggjøre militær intervensjonisme for å implantere demokrati rundt om i verden, særlig etter angrepene 11. september 2001. Denne politikken med «nation-building» brøt med konservatives tradisjonelle klokskap i utenrikspolitikk. Som reaksjon gjorde tradisjonelle konservative krav på merkelappen «paleokonservativ» for å skille seg fra neokonservative. De kritiserer militær intervensjonisme, forsvarer en mer isolasjonistisk utenrikspolitikk og **legger større vekt på spørsmål om nasjonal og kulturell identitet**.
 
-- Økonomi:** Konservative støtter lav beskatning og minimal regulering av næringslivet. De støtter ærlig entreprenørskap og fri næringsvirksomhet, og individer som jobber hardt for å opparbeide seg rikdom. Men de frykter at for mye individuell frihet vil føre til umoral eller sivilisatorisk forfall.
+### Konservativ tenkning i sitater
 
+> En konservativ er en som tror at ingenting noen gang er blitt gjort for første gang.
+> Benjamin Disraeli
 
+> Konservatisme er ikke et rigid tankesystem, men en disposisjon, en holdning til livet, en tradisjon.
+> Michael Oakeshott
 
-**Typer konservative:**
+> Konservatisme er overbevisningen om at det finnes en moralsk sannhet som vi ikke har oppfunnet og som vi ikke kan avskaffe.
+> Roger Scruton
 
-
-i 1800-tallets Europa er de konservative reaksjonære. De tar til orde for en tilbakevending til det gamle føydale, jordbruks- og håndverkssamfunnet. De ønsker seg bort fra dagens samfunn og tilbake til fortiden, før den utviklingen de anser som skadelig: den vitenskapelige og teknologiske utviklingen, med dens konsekvenser for økonomi og samfunn.
-
-
-
-I anglosaksiske land ligner konservatismen på høyrepolitikken i latinske land. Empirisk defineres denne konservatismen av motstanden mot progressivismen fra New Deal, som i USA har fått navnet *liberalisme*. Eksempler på dette er verkene til Russell Kirk, Michael Oakeshott og Roger Scruton.
-
-
-
-#### Vi må imidlertid skille mellom to typer konservatisme.
-
-
-
-
-1.  **Tradisjonell amerikansk konservatisme** bygger på ideen om "ordnet frihet", som tar sikte på å forene de til tider motstridende ambisjonene om fellesskap og individ, individuell frihet og ansvar, begrenset styring og frie markeder. Etter andre verdenskrig gjenoppfant den amerikanske konservatismen seg selv og forsøkte å forene tradisjonelle liberale og konservative verdier. De motsatte seg kommunismen, men også den amerikanske føderale regjeringens overdrevne ekspansjon, og hevdet at problemene den skapte, ikke bare kunne løses ved å forbedre forvaltningen, men også ved å gjenopprette moralske og religiøse verdier.
-
-
-
-2.  **I USA** ble nykonservative fra 2000-tallet og utover i økende grad involvert i å rettferdiggjøre militær intervensjon for å innføre demokrati i verden, særlig etter 11. september 2001, noe som førte til mye kritikk fra tradisjonalistiske konservative.
-
-
-
-Noen kaller seg nå "paleokonservative", for å skille seg fra de nykonservative.
-
+Dette siste sitatet er grunnleggende for å forstå konservatives sterke motstand mot progressive. Konservative mener at det finnes en menneskelig natur, og at det fra denne naturen oppstår moralske regler. Disse reglene er ikke vilkårlige; de springer ut av det mennesket grunnleggende er. Følgelig er ethvert forsøk på å endre menneskets natur ikke bare dømt til å mislykkes, men er fremfor alt umoralsk.
 
 
 
 ## Libertarianere
 
-
 <chapterId>9ca743de-537b-42fb-87d2-212d5f478b22</chapterId>
 
+Den libertarianske familien skiller seg fra alle andre politiske filosofier på en grunnleggende måte: **den setter ikke økonomien, men etikk og rett i sentrum**. Når libertarianere forsvarer markedsøkonomien, er det mindre for dens evne til å produsere rikdom enn for dens fremme av individuell frihet og ansvar.
 
 
-![video](https://www.youtube.com/watch?v=ftE1NG34yno)
+![Nolan-diagram som viser libertarianisme plassert øverst med sterke friheter i både samfunnsmessige og økonomiske områder](./assets/en/062.webp)
 
+![Den libertarianske politiske familien](./assets/en/063.webp)
 
+### Friheter og grunnleggende verdier
 
-![Libertariens Graphique](./assets/fr/017.webp)
+Som Nolan-diagrammet straks viser, sitter libertarianere øverst i rammen fordi de ikke aksepterer noen begrensning på forsvaret av friheter, enten samfunnsmessige eller økonomiske. Det er nettopp dette som skiller dem fra alle andre politiske familier:
 
+- **Friheter:** sterke i både den samfunnsmessige og den økonomiske sfæren. På samfunnsnivå forsvarer libertarianere maksimal individuell frihet, inkludert avkriminalisering av visse stoffer, frihet til å velge utdanning og statens ikke-innblanding i borgernes privatliv. På det økonomiske nivået omfatter dette friheten til å starte virksomhet, ansette, fastsette lønn, og fremfor alt **retten til å bruke sine penger slik man selv finner det passende** og handle uten restriksjon eller overvåkning.
+- **Kardinalverdier:** legitim privat eiendom, individuell frihet, samtykke, ansvar. Disse verdiene er nært forbundet og helt uatskillelige fra hverandre.
+- **Filosofi og prinsipper:** Libertarianisme er først og fremst en rettsfilosofi. Den grunnleggende ideen, som finnes allerede i det syttende århundre hos John Locke, er at hvert individ har umistelige rettigheter til liv, frihet og eiendom. Disse rettighetene gis ikke av staten, men er iboende i mennesket. Selveierskap er begrepet om at hvert individ er den rettmessige eieren av sin egen kropp og sitt eget liv. Som Bastiat skrev, er mennesket først eier av seg selv, deretter eier av de tingene det har tilegnet seg. Laissez-faire-prinsippet er ikke fravær av normer; det er **en grunnleggende norm som må forsvares, om nødvendig med makt**.
+- **Politikk:** Ikke-aggresjonsprinsippet postulerer at en person er fri til å handle som han eller hun ønsker, så lenge ingen voldshandlinger begås mot en annens liv, frihet eller eiendom. Denne formuleringen minner om den gylne regel som finnes i alle sivilisasjoner og religioner: gjør ikke mot andre det du ikke vil at de skal gjøre mot deg. Libertarianere nekter å gi staten særskilt tillatelse til å begå handlinger som de fleste ville anse som umoralske hvis de ble begått av individer. Kort sagt, **det finnes én moralsk kodeks som gjelder for alle, uten unntak**. Dette skaper naturlig en dyp mistenksomhet overfor makt, særlig statsmakt, som lovlig kan utøve tvang, inkludert gjennom monopolet på monetær kontroll. Beskatning regnes derfor som en form for tvang og plyndring.
+![Libertariansk filosofi: selveierskap, ikke-aggresjon og laissez-faire](./assets/en/064.webp)
 
+- **Økonomi:** Frihet til virksomhet og utveksling følger direkte av selveierskap og av eierskap til fruktene av ens arbeid. Frihet produserer en spontan orden, mer rettferdig og mer effektiv fordi den springer ut av individuell handling og ansvar. Det frie markedet står i opposisjon til korporatisme (et system der staten samarbeider med organiserte grupper for å regulere økonomien, skape monopoler og regulatoriske beskyttelser). **Det frie markedet er den naturlige prosessen der individer samhandler fredelig**, uten å støtte seg på lovens makt for å oppnå fordeler.
 
+### Historisk utvikling
 
+![Den historiske utviklingen av libertariansk tenkning fra klassisk liberalisme](./assets/en/065.webp)
 
-- Friheter:** De står sterkt både på det samfunnsmessige og det økonomiske området.
+Libertarianske ideer går tilbake til det attende århundre med klassisk liberalisme. Fysiokratene (Vincent de Gournay, Turgot, Quesnay), deretter Condillac, Jean-Baptiste Say og Frederic Bastiat formulerte disse prinsippene klart. I løpet av det tjuende århundre skjedde **et grunnleggende skifte med den gradvise forlatelsen av laissez-faire-prinsipper** til fordel for velferdsstaten og et stadig mer regulert samfunn. Som svar begynte klassiske liberalere i USA å kalle seg «libertarians» for å skille seg fra amerikansk «liberalism», som var blitt overtatt av voksende statlig intervensjonisme. Disse libertarianerne gjenkjente seg selv i den [østerrikske økonomiske skolen](https://planb.academy/resources/glossary/austrian-economics).
 
+### Typer libertarianere
 
+![Minarkister versus anarkokapitalister: to tendenser innen libertarianismen](./assets/en/066.webp)
 
+I det tjuende århundre oppsto to store tendenser, selv om divergensene mellom dem hviler mer på empiriske spørsmål enn på grunnleggende etiske uenigheter:
 
+![Libertarianske politiske prinsipper: ikke-aggresjon, mistenksomhet overfor makt og avvisning av beskatning](./assets/en/067.webp)
 
-- Kardinale verdier:** Individuell frihet, ansvar, privat eiendom, samtykke.
+1. **Minarkister** mener at statens makt bør være strengt begrenset til forsvaret av individuelle friheter. Det er et minimalt statsregime («nattevekterstaten»), der makt bare er legitim for å sikre kjernefunksjonene politi, rettsvesen og territorialt forsvar. Ron Paul er en fremtredende skikkelse i denne tendensen: en lege og amerikansk kongressrepresentant som representerte Texas i flere tiår, han stemte konsekvent mot ethvert lovforslag som avvek fra grunnloven, motsatte seg alle former for utenlandsk intervensjonisme og **forsvarte denasjonalisering av penger**, en idé Friedrich Hayek talte for. Paul hevder at Federal Reserve er ansvarlig for inflasjon og økonomiske sykluser gjennom manipulering av fiat-penger, og han har sett i Bitcoin en praktisk illustrasjon av monetær konkurranse.
 
+![Ron Pauls minarkistiske doktrine og prinsipper om sunne penger](./assets/en/068.webp)
 
+2. **Anarkokapitalister** mener at statlige funksjoner bør privatiseres og forvaltes helt av markedet. Dette er ikke et samfunn uten regler, autoritet eller lover, men **et samfunn der regler ville etableres gjennom frivillig tilslutning og samtykke**. Det kunne finnes regjeringer og statslignende funksjoner, men det ville ikke finnes noe monopol; konkurrerende bedrifter ville tilby sine tjenester til kunder. Nøkkeltenkere inkluderer Murray Rothbard (*For a New Liberty*, 1973), David Friedman (Milton Friedmans sønn, som inntar en mer pragmatisk, utilitaristisk tilnærming og argumenterer for at markedet kan levere alle tjenester mer effektivt, inkludert lov og orden), og Hans-Hermann Hoppe (en elev av Rothbard som utvikler en tilnærming basert på argumentasjonsetikk).
 
+![Nøkkeltenkere i anarkokapitalisme: Rothbard, Friedman og Hoppe](./assets/en/069.webp)
 
+### Libertariansk tenkning i sitater
 
-- Filosofi og prinsipper:** Den individuelle frihetens forrang. Historisk sett er den klassiske liberalismen først og fremst en rettsfilosofi. Grunntanken er at hvert enkelt individ har umistelige rettigheter til liv, frihet og eiendom. Disse rettighetene er ikke gitt av myndighetene, men er iboende i mennesket. Selvsuverenitet (eller selveierskap) er ideen om at hvert enkelt individ er den rettmessige eieren av sin egen kropp og sitt eget liv, og har rett til å ta beslutninger om dette uten ytre tvang, så lenge han eller hun ikke krenker andres rettigheter.
+> Libertarianeren ser ingen motsetning i å være «venstre» i noen spørsmål og «høyre» i andre. Tvert imot anser han sin posisjon som den eneste konsistente i praksis, ut fra hvert individs frihet.
+> Murray Rothbard, *For a New Liberty*, 1973
 
+> Hvis du ikke har rett til å rane naboen din, bør du ikke sende staten for å rane på dine vegne.
+> Ron Paul, 2008
 
+![Libertariansk tenkning i sitater](./assets/en/070.webp)
 
-
-
-- Politikk:** Libertarianere mener at ingen, heller ikke noen gruppe (inkludert myndighetene), har rett til å initiere eller true med fysisk makt mot en annen person eller deres eiendom. Dette er prinsippet om ikke-aggresjon. Det betyr at svindel, tyveri og tvang er moralsk forkastelig. Bruk av makt kan bare rettferdiggjøres i selvforsvar.
-
-
-
-Libertarianere nekter å gi staten spesiell tillatelse til å begå handlinger som folk flest ville ansett som umoralske, ulovlige eller kriminelle dersom de ble begått av enkeltpersoner eller grupper i samfunnet. Kort sagt insisterer libertarianere på at alle skal være underlagt den samme moralkodeksen, uten unntak for noen grupper eller individer.
-
-
-
-Libertarianere er dypt skeptiske til enhver form for maktkonsentrasjon, enten den er politisk eller økonomisk. Statsmakten anses som spesielt farlig fordi den lovlig kan utøve tvang.
-
-
-
-
-
-- Økonomi:** Frihandel og næringsfrihet er økonomiske uttrykk for respekten for individets rett til å eie seg selv og sine varer, og til å bytte dem fritt. Frihet skaper en spontan, rettferdig orden, fordi den er et resultat av individuell handling og ansvar, via samspillet mellom frivillig bytte og kontrakter.
-
-
-
-**Typer libertarianere:**
-
-
-I det 20. århundret vokste det frem to store trender:
-
-
-1.  **Minarkist:** som mener at statens makt bør være strengt begrenset til forsvaret av individuelle friheter. Det er et minimalstatsregime (*Nattvekterstaten*), der makten kun er legitim for å sikre kjernefunksjonene politi, rettsvesen og væpnet forsvar av territoriet.
-
-
-2.  **Den andre anarkokapitalisten:** som mener at statens funksjoner bør privatiseres og styres av markedet.
-
-
-Begge er imidlertid enige om det grunnleggende prinsippet om individuell suverenitet. Libertarianske ideer ble uttrykt så tidlig som på 1700-tallet av fysiokratene, særlig Vincent de Gournay og Turgot, og utviklet av Condillac, Jean-Baptiste Say og Frédéric Bastiat. På 1900-tallet ble de tatt opp og videreutviklet av [den østerrikske økonomiske skolen](https://planb.academy/resources/glossary/austrian-school), med Ludwig von Mises, Friedrich Hayek og Murray Rothbard som hovedforfattere.
+Med andre ord understreker Rothbard at libertarianismen overskrider det tradisjonelle venstre-høyre-skillet, og Paul fremhever avvisningen av staten som et tvangsverktøy. **Forbudet mot tyveri gjelder ikke bare individer, men også staten.**
 
 
 
 
-
-## Sentrumsbevegelsen
-
+## Sentristene
 
 <chapterId>d4f5c100-a791-45cf-bc7c-6e2353dc7a48</chapterId>
 
 
+Sentrisme er mer enn en enkel midtposisjon like langt fra alle andre. Det er en genuin politisk filosofi, en styringsmetode som hevder å være tilpasset samtidige pluralistiske samfunn. Det er en tilnærming som **prioriterer effektivitet, pragmatisme og tenderer mot en form for teknokrati**: makten bør betros eksperter som må styre økonomien og føre pengepolitikken.
 
-![video](https://www.youtube.com/watch?v=ZJVwYWhdhrU)
+![Nolan-diagram som viser sentrisme plassert i midten med moderate friheter i begge områder](./assets/en/071.webp)
 
+![Den sentristiske politiske familien](./assets/en/072.webp)
 
+### Friheter og kardinalverdier
 
-![Centristes Graphique](./assets/fr/018.webp)
+Den sentristiske tilnærmingen kjennetegnes av en konstant søken etter balanse mellom offentlig autoritet og privat autonomi:
 
+- **Friheter:** moderate i både den samfunnsmessige og den økonomiske sfæren. På det samfunnsmessige området ønsker sentrister å forene statlig kontroll og individuelle valg, og foretrekker målt statlig intervensjon samtidig som grunnleggende friheter bevares. På det økonomiske området garanteres friheter, men alltid dempet av hensynet til sosial rettferdighet. Sentrister er svært kritiske til laissez-faire, men de forblir både næringslivsvennlige og positive til å korrigere ulikheter. Her må det gjøres et viktig skille: å være næringslivsvennlig (slik sentrister tenderer til å være) betyr å foretrekke **en slags allianse mellom store foretak og staten**, noe som skiller seg fra å være pro-market.
+- **Kardinalverdier:** moderasjon, kompromiss, tilpasning, offentlig nytte.
+![Sentristisk filosofi: pragmatisme og teknokrati](./assets/en/073.webp)
 
+- **Filosofi:** Pragmatisme er en politisk filosofi som prioriterer tilpasning til bestemte kontekster fremfor rigid anvendelse av ideologiske prinsipper. Denne pragmatiske tenkningen bygger på ideen om at bare teknokrater er i stand til å ta de riktige beslutningene for å oppnå de beste sosioøkonomiske resultatene. I en teknokratisk styringsmodell oppstår politiske beslutninger fra rasjonalitet og ekspertise snarere enn ideologi eller partipolitisk debatt. For å beregne nytten av en beslutning må man kunne måle alle dens konsekvenser, og dette krever ekspertise: sofistikerte beregninger, statistikk, undersøkelser, sannsynligheter. Likevel finnes det et paradoks her: **denne pragmatismen hviler selv på en form for dogmatisme** (nemlig at bare eksperter er kompetente til å styre samfunnet).
+- **Politikk:** Sentrister søker å overskride tradisjonelle skiller (venstre versus høyre) gjennom koalisjonsstyring, ved å forene moderate partier fra den konservative høyresiden til den sosialdemokratiske og økologiske venstresiden i en sentral gruppe som **overskrider de historiske kløftene mellom venstre og høyre**. Denne metoden passer moderne samfunn kjennetegnet av mangfold. Bill Clinton i USA ble anerkjent for sin evne til å vedta lover ved å vinne stemmer fra både republikanere og demokrater; Emmanuel Macron i Frankrike ble valgt to ganger ved å danne et bredt sentrum bestående av alle moderatene.
+- **Økonomi:** Sentrister aksepterer markedsmekanismer samtidig som de anerkjenner behovet for passende ekspertkontroll og regulering. De taler for en regulert markedsøkonomi der konkurransen finner sted innenfor et rammeverk som beskytter allmenninteressen. Man kunne kalle dette en «myk dirigisme», siden den ikke søker å planlegge økonomien fullstendig, men heller å sette tak på bonuser, regulere praksiser og styre markedet i sosial freds navn.
 
+### Målrettede sosiale programmer
 
+![Sentristisk økonomisk dirigisme: regulert frihandel og målrettede sosiale programmer](./assets/en/074.webp)
 
-- Frihet:** De er moderate tilhengere av individuell og økonomisk frihet.
+Sentrisme anerkjenner betydningen av **målrettede sosiale programmer for å korrigere ulikheter uten å skape overdreven avhengighet** av staten. Dette systemet for omfordeling av rikdom sikter mindre mot dogmatisk egalitarisme enn mot sosial fred og «å leve sammen».
 
+### Er keynesianisme en økonomisk sentrisme?
 
+![Emblematiske sentristiske skikkelser: Macron og Blair](./assets/en/075.webp)
 
+![Tony Blair og Third Way som sentristisk modell](./assets/en/076.webp)
 
+John Maynard Keynes, den store engelske økonomen i det tjuende århundre som har dominert økonomisk tenkning og praksis i vestlige samfunn til i dag, kan faktisk ses som representant for en form for sentrisme. Hans tilnærming søker en balanse mellom klassisk liberalisme (det frie markedet) og dirigistisk sosialisme (maksimal planlegging).
 
-- Kardinale verdier:** måtehold, kompromiss, tilpasning, allmennytte.
+I stedet for å la markedene regulere seg selv, argumenterte Keynes for at staten burde bruke finans- og pengepolitikk (offentlige utgifter, skattlegging, renter) for å stimulere samlet etterspørsel i nedgangstider eller dempe den under perioder med økonomisk overoppheting. Han er opphavsmannen til den velkjente ideen om at forbruk er bra for vekst.
 
+![Keynesianisme som en tredje vei mellom klassisk liberalisme og dirigistisk sosialisme](./assets/en/077.webp) Men for at denne mekanismen skal fungere, **trengs eksperter til å manipulere de riktige spakene**: monetære spaker som renter og pengeskaping. For å finansiere sosiale utgifter må staten kunne låne, og for at låning skal være mulig, må penger være tilgjengelige og ikke for dyre, derav sentralbankenes betydning for å opprettholde en viss inflasjonsrate.
 
+### John Rawls: den filosofiske dimensjonen
 
+![John Rawls og det filosofiske grunnlaget for sentristisk rettferdighet](./assets/en/078.webp)
 
+John Rawls, den fremragende politiske filosofen og forfatter av *A Theory of Justice* (1971), representerer den teoretiske dimensjonen ved sentrisme. Hans oppfatning av sosial rettferdighet foreslår **en pragmatisk balanse mellom individuelle friheter og korrigerende inngrep mot ulikheter**.
 
-- Filosofi:** Sentrumsorienterte unngår ytterpunkter og foretrekker pragmatiske løsninger. De tenker på problemer fra sak til sak, ikke i form av prinsipper. Sentrumsfilosofien går ofte ut på å nærme seg et tema ved å søke en pragmatisk balanse mellom ulike synspunkter. Pragmatisme er en politisk filosofi som favoriserer tilpasning til bestemte kontekster fremfor en rigid anvendelse av ideologiske prinsipper. Det er en politisk tilnærming basert på moderasjon og kompromiss. Denne pragmatiske tankegangen er basert på ideen om at bare teknokrater er i stand til å ta de riktige beslutningene for å oppnå de beste samfunnsøkonomiske resultatene.
+Rawls foreslår to rettferdighetsprinsipper:
 
+1. **Lik frihet for alle:** demokratiets grunnlag slik Tocqueville hadde vist.
+2. **Forskjellsprinsippet:** tillater ulikheter bare hvis de gagner de mest vanskeligstilte. Med andre ord har man rett til å bli rik, forutsatt at omfordeling også lar de minst favoriserte dra nytte av det.
 
+Begrepet **overlappende konsensus er også sentralt i Rawls' tenkning**, særlig i boken *Political Liberalism* (1993):
 
+> En overlappende konsensus oppnås når borgere, selv om de slutter seg til ulike omfattende, religiøse eller filosofiske doktriner, likevel konvergerer om et sett politiske rettferdighetsprinsipper som de alle kan støtte fra sine egne perspektiver.
 
+Denne tilnærmingen illustrerer perfekt den sentristiske metoden: å søke rasjonelle, moderate avtaler til tross for mangfoldet av meninger i et pluralistisk samfunn, selve essensen i sentristisk filosofi.
 
-- Politikk:** De ønsker å kombinere statlig kontroll og individuelle valg for å oppnå en stabil, moderat tilnærming. Det er en fleksibel form for statlig inngripen fra sak til sak. I denne teknokratiske styreformen er politiske beslutninger basert på rasjonalitet og ekspertise, snarere enn ideologi eller partipolitisk debatt.
+### Sentristisk tenkning i sitater
 
+> Det viktige for staten er ikke å gjøre ting som individer allerede gjør, og gjøre dem litt bedre eller litt dårligere; men å gjøre de tingene som for tiden ikke gjøres i det hele tatt.
+> John Maynard Keynes, *The End of Laissez-Faire*, 1926
 
-
-
-
-- Økonomi:** Sentrumsorienterte aksepterer markedsmekanismer, samtidig som de anerkjenner behovet for passende ekspertkontroll og regulering. De går inn for en kontrollert markedsøkonomi, der konkurransen foregår innenfor et regelverk som beskytter allmennhetens interesser.
-
-
-
-Sentrismen anerkjenner også betydningen av målrettede sosiale programmer for å rette opp ulikheter uten å skape overdreven avhengighet av staten. Dette systemet for omfordeling av rikdom er mindre rettet mot dogmatisk egalitarisme enn mot sosial fred og "å leve sammen".
-
-
-
-**Sentrumsorienterte kan lene seg mot sosialisme, konservatisme, libertarianisme eller autoritarisme, ikke av prinsipp, men av pragmatisme eller politisk opportunisme.
-
-
-
-
-- Emmanuel Macron (Frankrike):** Han posisjonerer seg både til høyre og venstre. Med liberale økonomiske reformer (økonomisk høyre) og støtte til visse samfunnsmessige friheter (sosialt venstre), søker han en middelvei.
-- Tony Blair (Storbritannia):** med sitt "tredje vei"-konsept. Han forsøkte å forene markedspolitikk med mål om sosial rettferdighet, og skilte seg dermed fra tradisjonelle sosialister og konservative.
-
-
-
-Keynesianisme er en økonomisk teori som tar til orde for aktiv statlig inngripen for å stabilisere økonomien.
-
-
-
-I stedet for å la markedene regulere seg selv, argumenterte Keynes for at staten burde bruke finans- og pengepolitikk - som offentlige utgifter, skatter og renter - for å stimulere den samlede etterspørselen i nedgangstider, eller dempe den i tider med overoppheting av økonomien.
-
-
-
-Keynes gikk verken inn for absolutt laissez-faire (som rene markedsøkonomer) eller total statlig kontroll (som i en planøkonomi).
-
-
-
-Denne tilnærmingen representerer en økonomisk "tredje vei", som søker en balanse mellom klassisk liberalisme, som ønsker et fritt marked, og statsplanlagt sosialisme, som ønsker maksimal planlegging.
-
-
-Filosofisk sett kan vi henvise til den berømte politiske filosofen John Rawls, forfatteren av *The Theory of Justice* (1971).
-
-
-
-De to rettferdighetsprinsippene (lik frihet for alle og prinsippet om forskjell, som innebærer at ulikheter bare tillates dersom de kommer de dårligst stilte til gode) er uttrykk for dette forsøket på å forene liberalisme og egalitarisme.
-
-
-
-Begrepet **overlappende konsensus** er også sentralt i John Rawls' tenkning, særlig i hans bok *Politisk liberalisme* (1993). Her er et sitat som illustrerer dette konseptet:
-
-
-
-> En overlappende konsensus oppnås når borgerne, selv om de har ulike omfattende, religiøse eller filosofiske doktriner, likevel konvergerer mot et sett politiske rettferdighetsprinsipper som de alle kan slutte seg til ut fra sine egne perspektiver.
-
-Hans mål er å vise at det er mulig å forene uforenlige grunnleggende doktriner rundt felles rettferdighetsprinsipper, selve kjernen i sentrumsfilosofien.
-
+Det Keynes mener her, er at det finnes markedssvikt (overproduksjonskriser, knapphet, spekulasjon), og når kriser oppstår, er bare staten i posisjon til å gripe inn. **Markedet er ikke i stand til selvregulering**, og derfor må det beskyttes, noe som tilfaller staten og dermed eksperter og teknokrater.
 
 
 ## Totalitære regimer
 
-
 <chapterId>7a5e9f5a-2be1-4497-892a-3da5f015faa0</chapterId>
 
+Vi avslutter analysen vår av de store politiske familiene med totalitære regimer, men her har vi å gjøre med noe grunnleggende annerledes. Totalitarisme er strengt tatt ikke en politisk filosofi; **det er snarere negasjonen av all politisk filosofi**. Det er dette Hannah Arendt viser oss når hun trekker skillet mellom klassisk despoti og totalitarisme.
+
+![Totalitære regimer: kontroll og tvang over alle livets aspekter](./assets/en/079.webp)
+
+### Hannah Arendts innsikt
+
+I sitt hovedverk *The Origins of Totalitarianism* (1951) skriver Arendt: «Totalitarisme tenderer ikke mot å underkaste mennesker despotiske regler, men et system der mennesker er overflødige.» Det hun mener, er at et totalitært regime ikke bare er et klassisk regime som tenderer mot tyranni eller despoti (slik monarkiet noen ganger gjorde, eller til og med demokratiet, som Tocqueville advarte mot). Det er noe helt annet.
+
+Ifølge Arendt er **totalitarisme ikke en politisk familie, men selve negasjonen av politikk**, et system der mennesker gjøres ute av stand til uavhengig handling. Politikk er i hennes oppfatning et folks evne til å ta sin skjebne i egne hender og handle. I totalitære regimer ødelegges denne evnen.
+
+![Nolan-diagram som viser totalitære regimer nederst med undertrykte friheter i begge områder](./assets/en/080.webp)
+
+### Definisjon og grunnleggende kjennetegn
+
+![Totalitarismens felles matrise: bortenfor venstre-høyre-motsetningen](./assets/en/081.webp)
+
+Mussolini erklærte i 1920: «Alt i staten, ingenting utenfor staten, ingenting mot staten.» Dette avslører presist hva «totalitær» betyr: totalitet. Alt absorberes inn i staten, noe som betyr at **det ikke lenger finnes noe skille mellom offentlig og privat rom**. Staten absorberer samfunnet fullstendig, som på dette tidspunktet mister all form for autonomi. Hvis du vil åpne en bordtennisklubb, trenger du partiets autorisasjon. Og dette strekker seg til absolutt alt, inkludert familiens intime liv.
+
+- **Friheter:** undertrykt. Totalitære regimer påtvinger sterk statlig kontroll over både personlig og økonomisk liv. Totalitarisme eksisterer når staten kontrollerer alt i samfunnet og utøver ubegrenset makt, og eliminerer alle former for opposisjon gjennom politisk politi.
+- **Filosofi:** Totalitære samfunn kjennetegnes ved bruken av en ideologi, løftet om et «paradis» (historiens slutt for kommunismen, eller raserenhet for nazismen). Partiet forener massene mot en fiende både ekstern og intern (det kapitalistiske borgerskapet for kommunismen, jøden for nazismen).
+- **Politikk:** et ettpartisystem der en bitteliten minoritet kontrollerer hele befolkningen gjennom ideologi og terror. **Alle totalitære regimer kom til makten gjennom voldelig revolusjon**, en revolusjon som rettferdiggjør vold ved å gjøre rent bord med det tidligere systemet.
+- **Økonomi:** totalitære regimer kan tolerere privat næringsvirksomhet hvis den tvinges til å tjene statens interesser, eller de kan kreve at staten kontrollerer alle produksjonsmidler. De ser det frie markedet som en trussel mot den generelle ordenen, fordi idealsamfunn må planlegges av myndighetene.
+
+### Pilarene i totalitær kontroll
+
+![Definisjon og grunnleggende kjennetegn ved totalitarisme](./assets/en/082.webp)
+
+Totalitarisme er til stede når **alle følgende kjennetegn er samlet samtidig**: undertrykte friheter, ubegrenset autoritet grunnlagt på ettpartiet og lederkulten, voldelig revolusjon og en dirigert økonomi. Dette var allerede tilfellet med den franske revolusjonen, og derfor har noen historikere identifisert en totalitær dimensjon i den. Det er viktig å merke seg at moderne demokratier kan vise noen av disse kjennetegnene, men aldri alle samtidig (i det minste, heldigvis, ikke til nå).
+
+### To modeller, én metode: Hitler versus Stalin
+
+![Hitler versus Stalin: to modeller som deler identiske metoder](./assets/en/083.webp)
+
+Forskjellene mellom nazisme og kommunisme er mer tilsynelatende enn reelle. Til tross for sin historiske antagonisme brukte Hitler og Stalin identiske metoder: personkult, total sosial kontroll gjennom overvåkning, sensur, indoktrinering og politisk politi, og **systematisk eliminering av alle former for opposisjon eller dissens**. Som Raymond Aron, en skarpsindig observatør av det tjuende århundrets totalitære regimer, skrev: «Nazistiske eller kommunistiske totalitarismer fungerer på samme måte, etter to prinsipper: de militantes tro og motstandernes frykt.» Han taler om «tro» i en kvasi-religiøs betydning; totalitære regimer er blitt kalt sekulære religioner, religioner uten Gud. En slags fanatisme kjennetegner dem bortenfor deres ulike ideologiske innhold.
+
+- **Hitler (nazisme):** selv om naziregimet ikke formelt avskaffet privat eiendom, fantes det et skinn av markedsøkonomi mens privat sektor var fullstendig underordnet statens mål (krig og gjenopprustning). Økonomisk autarki ble påtvunget, noe som betydde at det ikke fantes frihandel. Det var sentralisert økonomisk planlegging for å tjene regimets mål.
+
+- **Stalin (kommunisme):** Stalinismen eksemplifiserer total statlig kontroll over økonomien. All privat eiendom til produksjonsmidlene ble avskaffet, økonomien var fullt planlagt (femårsplaner), kollektiviseringen ble tvunget gjennom, og staten kontrollerte absolutt alle aspekter ved produksjon og distribusjon.
+
+Som Thierry Wolton, som har studert sammenligningen mellom disse to regimene inngående, skriver: «Tvillingskapet mellom sovjetkommunisme og nazisme er et historisk faktum. De to totalitarismene ligner hverandre i sin funksjonsmåte og politiske praksis: **hat mot demokrati, mot humanistiske verdier, mot individuell frihet** er trekk som er felles for begge.»
+
+### Totalitær tenkning i sitater
+
+![Totalitær tenkning: avvisning av individuell frihet til fordel for sentralisert autoritet](./assets/en/084.webp)
+
+> Folket trenger ikke frihet, for frihet er en av formene for borgerlig diktatur.
+> Vladimir Lenin, *What Is to Be Done?*, 1902
+
+> Det tyske folket skal ikke ledes av resonnement, men av en leder som legemliggjør folkets vilje.
+> Adolf Hitler, *Mein Kampf*, 1925
+
+> Nazisme og kommunisme deler en felles motstand mot liberalt demokrati og det de kaller det «kapitalistiske borgerskapet». [...] Begge ideologiene hevder å være sosialistiske og bruker dette bildet mot hverandre.
+> Francois Furet, *The Passing of an Illusion*, 1995
+
+Disse sitatene avslører den felles logikken i totalitære regimer: **avvisningen av individuell frihet til fordel for absolutt sentralisert autoritet**, enten kommunistisk eller fascistisk. Faktisk signaliserer nazistpartiets selve navn (nasjonalsosialisme) denne felles ideologiske matrisen, selv om de to bevegelsene hatet hverandre.
 
 
-![video](https://www.youtube.com/watch?v=0ueywR4vzHs)
 
-
-
-Det er viktig å merke seg at begrepet totalitarisme refererer til et politisk system, ikke til en politisk ideologi i betydningen konservatisme eller sentrisme. Et totalitært regime kjennetegnes av omfattende, statlig tvangskontroll over alle aspekter av det offentlige og private liv.
-
-
-
-![regimes totalitaires Graphique](./assets/fr/019.webp)
-
-
-
-
-
-- Friheter:** Totalitære regimer støtter sterk statlig kontroll over det personlige og økonomiske livet. Totalitarisme eksisterer når staten kontrollerer alt i samfunnet og har ubegrenset makt.
-- Filosofi:** Totalitarister mener at sentralisert autoritet er den eneste måten å garantere orden og rettferdighet på, mens frihet er en faktor for uorden. De ønsker at staten skal kontrollere alle aspekter av det økonomiske og personlige livet, i den tro at en slik kontroll med større sannsynlighet vil føre til et idealsamfunn. De er revolusjonære regimer som begrunner vold med at det tidligere systemet var helt feil, og at en ny modell må etableres ved å viske tavlen ren. De tolererer ikke for stort meningsmangfold eller ytringer som utfordrer deres autoritet.
-- Politikk:** totalitarisme refererer til et ettpartisystem. Ifølge Hannah Arendt er totalitarisme verken en politisk familie eller et despotisk politisk regime. Det er selve negasjonen av politikk: et system der mennesket er gjort ute av stand til å handle selvstendig. Ifølge henne har målet med totalitær oppdragelse aldri vært å innpode overbevisninger, men å ødelegge evnen til å danne seg andre (The Origins of Totalitarianism, 1951). Totalitære samfunn kjennetegnes nettopp ved at de bruker en ideologi, løftet om et *paradis*, som for eksempel historiens slutt eller rasemessig renhet. Følgelig eliminerer de alle former for opposisjon gjennom politisk kontroll og bruk av terror.
-- Økonomi:** Totalitære regimer kan tolerere privat virksomhet hvis den tvinges til å tjene statens interesser, eller kreve at staten kontrollerer alle produksjonsmidler. De ser det frie markedet som en trussel mot den allmenne orden, fordi idealsamfunnet må planlegges av myndighetene.
-
-
-
-**Det finnes to generelle kategorier av totalitære regimer**: venstretotalitære (kommunisme, nasjonalsosialisme) og høyretotalitære (militærdiktaturer, fascisme). Men disse kategoriene mister sin mening hvis vi forstår at matrisen er den samme. Dette er tilfellet med Hitler og Stalin. Til tross for deres historiske motsetninger finner vi den samme lederkulten, ungdomsrekruttering, sensur, overvåkning, undertrykkelse av all opposisjon, politisk forfølgelse og knusing av all individuell frihet.
-
-
-
-
-
-- Hitler (nazisme/fascisme): Selv om nazismen ikke formelt avskaffet privat eiendom, utøvde nazistaten overveldende kontroll over økonomien. Produksjon, ressursallokering og (til og med privat) næringsvirksomhet ble underordnet statens mål (opprustning, autarki). Den økonomiske planleggingen var sentralisert for å tjene regimets mål.
-
-
-
-
-
-- Stalin (kommunisme/stalinisme): Stalinismen er et eksempel på total statlig kontroll over økonomien. All privat eiendomsrett til produksjonsmidlene ble avskaffet, økonomien ble fullstendig planlagt (femårsplaner), og staten kontrollerte absolutt alle aspekter ved produksjon og distribusjon.
-
-
-
-# Samfunnsspørsmål
-
+# Samfunnsmessige og økonomiske spørsmål
 
 <partId>ab160ddd-5c3a-436b-a77a-76d7089f1611</partId>
 
 
-
-## Samfunnsspørsmål
-
+## Samfunnsmessige spørsmål
 
 <chapterId>bb2156da-7e10-4f0b-89c3-f6d53f5a79ef</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=tq09pDLHioQ)
+
+![Komparativ analyse av samfunnsdebatter på tvers av politiske familier](./assets/en/085.webp)
+
+Etter å ha analysert de store politiske familiene vender vi oss nå til en serie debatter om samfunnsmessige spørsmål, etterfulgt av økonomiske spørsmål. Målet her er å tilby en komparativ analyse av sosialistiske, konservative, libertarianske og sentristiske posisjoner om fem grunnleggende samfunnsspørsmål: ekteskap, innvandring, skytevåpen, narkotika og avgiften på sukkerholdige drikker.
+
+Samfunnsmessige spørsmål handler ikke om penger. De gjelder valgene vi tar om hva vi leser, spiser, drikker, røyker, bruker, eller hvem vi velger å omgås, sove med eller gifte oss med. For hvert spørsmål nedenfor vil vi undersøke et kort svar som er typisk for hver politiske familie. Disse raske svarene gir bare et glimt av hvert synspunkt, og siden ikke alle tenker likt, er posisjonene som tilskrives dem naturligvis åpne for debatt. Jeg har likevel forsøkt å være rettferdig og å representere presist hva de fleste tilhengere av hver familie ville si.
 
 
+### Ekteskap
 
-Her er noen ofte stilte spørsmål om politiske spørsmål. Hvert spørsmål etterfølges av et kort svar som er typisk for en sosialist, en konservativ, en liberalist og en sentrumspolitiker.
+![Ekteskapsdebatten på tvers av politiske familier](./assets/en/086.webp)
 
-
-
-Disse kjappe svarene gir selvfølgelig bare et glimt av de ulike synspunktene. Siden ikke alle tenker på samme måte, kan svarene som tilskrives dem, naturligvis diskuteres. Jeg har imidlertid forsøkt å være rettferdig og gi en korrekt fremstilling av hva de fleste ville ha sagt.
-
+**Spørsmål:** Bør staten legalisere likekjønnet ekteskap på samme måte som tradisjonelt ekteskap?
 
 
-Samfunnsspørsmål handler ikke om penger, men om de valgene vi tar når det gjelder hva vi leser, spiser, drikker, røyker, kler oss i eller hvem vi velger å omgås, sove eller gifte oss med.
+### Den sosialistiske posisjonen: ja
 
+For sosialister må alle borgere behandles likt under loven, uten diskriminering basert på seksuell orientering. Med andre ord en inkluderende oppfatning forankret i prinsippet om ikke-diskriminering. Sosialister fordømmer **undertrykkelsen av en homoseksuell minoritet av et heteroseksuelt flertall** som nekter dem tilgang til ekteskap. Her finner vi et verdensbilde som går gjennom mange sosialistiske posisjoner: samfunnet er strukturert av en konflikt mellom dominerende og dominerte, undertrykkere og undertrykte. Dette rammeverket reproduseres på mange områder. Det kan gjelde kjønnsrelasjoner mellom menn og kvinner, eller mellom homoseksuelle og heteroseksuelle. Det kan gjelde relasjoner mellom rasegrupper, og til og med forholdet mellom menneskeheten og naturen. Å legalisere likekjønnet ekteskap blir da en måte å rette opp en strukturell urett på.
 
+### Den konservative posisjonen: nei
 
-### Bryllupet
+For konservative er tradisjonelt ekteskap en grunnleggende institusjon som strekker seg over 2500 år, definert som foreningen mellom en mann og en kvinne. Denne definisjonen er ikke vilkårlig. Den hviler på en biologisk realitet: **den naturlige evnen til å forplante seg, som er familiens primære kall**. Hvis vi vil beskytte den sosiale ordenen og sikre menneskehetens egen fremtid (siden forplantning er det som sikrer artens overlevelse), må ekteskapet forbeholdes en mann og en kvinne i kraft av selve definisjonen. Med andre ord er det konservative søker å beskytte, selve den tradisjonelle definisjonen av ekteskap.
 
+### Den libertarianske posisjonen: blandet
 
-**Spørsmål:** Bør myndighetene legalisere homofile ekteskap på samme måte som tradisjonelle ekteskap?
+For libertarianere er spørsmålet grunnleggende feil stilt fordi det formuleres i statsorienterte termer: hvem autoriserer staten til å gifte seg? Staten, hevder de, har ingenting å gjøre i individers privatliv. Den konsistente libertarianske tilnærmingen er derfor å forsvare skillet mellom ekteskap og stat. **Ved å påtvinge én enkelt definisjon av ekteskap skaper staten konflikter.** Privatisering av ekteskap respekterer både dem som støtter tradisjonelt ekteskap og dem som forsvarer likekjønnet ekteskap. Løsningen: kvitt deg med obligatorisk sivilt ekteskap og overlat denne rollen til private foreninger, kirker, synagoger, moskeer eller sekulære organisasjoner. La individer, foreninger og religioner definere ekteskap for seg selv.
 
+### Den sentristiske posisjonen: ja
 
-
-
-
-- Sosialister:** Ja, de ser at en heterofil majoritet undertrykker en homofil minoritet ved å nekte dem å gifte seg, og støtter derfor naturlig nok reformen. Sosialister ønsker å innføre en felles oppfatning av det borgerlige ekteskapet, inkludert homofili, på bekostning av dem som mener at ekteskapet kun er mellom mann og kvinne. Å legalisere homofilt ekteskap er derfor en sosial rettferdighetshandling som fremmer et mer inkluderende og tolerant samfunn. Det sikrer at likekjønnede par får de samme juridiske rettighetene (arv, beskatning, arverett osv.) og den samme beskyttelsen som heterofile par, og bygger dermed bro over en de facto ulikhet. Kjernen i argumentet er at alle borgere bør behandles likt i henhold til loven, uavhengig av seksuell legning. Å nekte likekjønnede par å inngå ekteskap anses som uakseptabel diskriminering.
-
-
-
-
-
-- De konservative:** Nei. De ser på det tradisjonelle ekteskapet som en grunnleggende institusjon i den vestlige sivilisasjonen, som går 2500 år tilbake i tid og historisk sett er definert som foreningen mellom en mann og en kvinne. Denne definisjonen er ikke vilkårlig, men hviler på et biologisk (evnen til naturlig forplantning) og kulturelt/religiøst grunnlag. En radikal omdefinering av ekteskapet blir sett på som en trussel mot det siviliserte samfunnet. Å legalisere homofilt ekteskap ville være å denaturere eller omdefinere denne hellige og fundamentale institusjonen, og tømme den for dens opprinnelige mening og primære oppgave, som er forplantning og grunnleggelse av en familie i sin naturlige form. Raskt skiftende sosiale normer blir ofte sett på med mistenksomhet, fordi de kan føre til at referansepunkter oppløses og kulturell eller nasjonal identitet går tapt. Ekteskapet blir sett på som en bærebjelke i denne ordenen.
-
-
-
-
-
-- Libertarianere:** Ja og nei. Den konsekvente libertarianske tilnærmingen er å forsvare privatisering av ekteskapet, det vil si ekteskap helt uten statlig innblanding. Ekteskapet er en ikke-statlig institusjon, og staten har ingen rett til å tvinge andre til å anerkjenne tradisjonelle eller homofile ekteskap. Løsningen? Bli kvitt det tvungne sivile ekteskapet og overlate denne rollen til private sammenslutninger: kirker, synagoger, moskeer eller private sekulære organisasjoner. Denne politiske løsningen, som respekterer eiendomsretten og den individuelle friheten, kan kalles separasjon av ekteskap og stat.
-
-
-
-
-
-- Sentrumsorienterte:** Ja. Sentrumsorienterte vil anerkjenne at samfunnet har utviklet seg, og at en betydelig del av befolkningen ønsker at likekjønnede par skal anerkjennes. De er tilhengere av prinsippet om ikke-diskriminering og mener at individer har rett til å leve de livene de ønsker, også i lovlige partnerskap. De vil være lydhøre for argumentet om at likekjønnede par bør ha de samme juridiske rettighetene og beskyttelsen (arv, sosial beskyttelse, skatt) som heterofile par. Sentrumsorienterte mener at staten må gjenspeile mangfoldet blant innbyggerne og moderniseringen av loven, samtidig som den må opprettholde et visst sosialt samhold.
-
+Sentrister anerkjenner samfunnets utvikling og mener at prinsippet om ikke-diskriminering må gjelde. Loven må gjenspeile borgernes mangfold og tilpasse seg sin tid. Likekjønnede par bør ha de samme juridiske rettighetene og beskyttelsene (arv, sosial beskyttelse, skattlegging) som heteroseksuelle par. Her finner vi **det sentristiske idealet om konsensus, pragmatisk tilpasning og modernisering av loven**.
 
 
 ### Innvandring
 
+![Innvandringsdebatten på tvers av politiske familier](./assets/en/087.webp)
 
-**Spørsmål:** Bør myndighetene åpne grensene for alle og betingelsesløst slippe inn de som ønsker å innvandre?
-
-
-
+**Spørsmål:** Bør staten åpne grensene ubetinget?
 
 
-- Sosialister:** Ja. De ser illegale innvandrere som en undertrykt gruppe, og hvite innfødte, som er fiendtlig innstilt til innvandrere, som deres undertrykkere. Dessuten er restriksjoner basert på nasjonalitet eller religion diskriminerende og i strid med menneskerettighetene. Staten har en plikt til å ta imot mennesker i nød og til å fremme mangfold og integrering.
+### Den sosialistiske posisjonen: ja
 
+For sosialister er diskriminerende restriksjoner i strid med menneskerettighetene. Staten har plikt til å ta imot mennesker i nød og fremme mangfold. Her finner vi igjen ideene om sosial rettferdighet, likhet og ikke-diskriminering som kjennetegner den sosialistiske familien. **Restriksjoner basert på nasjonalitet eller religion ses som former for undertrykkelse**, i tråd med rammeverket dominerende/dominert beskrevet ovenfor.
 
+### Den konservative posisjonen: nei
 
+Staten har suveren rett til å kontrollere sine grenser for å beskytte nasjonal sikkerhet og kulturell identitet. For konservative må **orden, identitet og nasjonal suverenitet prioriteres** over ubegrenset mottak av utlendinger eller flyktninger. Grenser og en klart definert befolkning er en del av siviliserte verdier.
 
+### Den libertarianske posisjonen: blandet
 
-- Staten har den suverene retten til å kontrollere sine grenser og til å velge hvem som skal få komme inn på territoriet. Restriksjoner kan være nødvendige for å beskytte nasjonal sikkerhet, kulturell identitet eller samfunnets evne til å integrere seg. De frykter at det å tillate innvandring vil ødelegge nasjonenes identitet og ytterligere undergrave arbeidet til selv de mest beskjedne borgerne. Grenser og en veldefinert befolkning er en del av siviliserte verdier.
+Ja til markedsinnvandring og nei til statlig innvandring. Hvorfor? Fordi i en sterkt statisme-preget verden subsidieres innvandring og skaper krav på andres arbeid. Med andre ord faller det på skattebetalere, som må betale for helsevesen, bolig og andre utgifter. Fra frihet/tvang-aksens perspektiv gir åpne grenser individer muligheten til å stemme med føttene, til å velge sin regjering fritt. Men **innvandring kan ikke skape rettigheter over andres arbeid**. Man har rett til å bosette seg i et annet land på betingelse av at man ikke blir en byrde for dets innbyggere. Løsningen, som alltid for libertarianere, er markedet: la borgere beslutte kontraktsmessig om sine relasjoner til utlendinger. Enhver innvandring som påtvinges og tvinges gjennom av staten, er inkonsistent med frihet.
 
+### Den sentristiske posisjonen: ja
 
-
-
-
-- Libertarianere:** Ja og nei. Ja til markedsinnvandring og nei til statlig innvandring. For i en sterkt statsstøttet verden er innvandring alltid subsidiert og skaper et uheldig krav på andres arbeidskraft, det vil si en kunstig rettighet, en form for økonomisk overføring. Men sett fra frihets-/tvangsaksens ståsted gir en åpen grense den enkelte mulighet til å velge regjering og til å stemme med føttene. Derfor vil den beste innvandringspolitikken være å redusere statens engasjement og la borgerne bestemme selv.
-
-
-
-
-
-- Sentrumsorienterte:** Myndighetene må styre innvandringen på en balansert måte. Mens restriksjoner basert på religion generelt er uakseptable, kan restriksjoner basert på nasjonalitet eller kompetanse være nødvendige for å møte økonomiske behov og sikre vellykket integrering, samtidig som internasjonale konvensjoner og menneskerettigheter respekteres.
-
+Innvandring gjør det mulig for arbeidsgivere å ansette arbeidere i sektorer med mangel, og åpen innvandring muliggjør anvendelsen av internasjonale konvensjoner om flyktninger. Staten må forvalte innvandring på en balansert måte, **ved å forene økonomiske behov, vellykket integrering og respekt for internasjonale konvensjoner**.
 
 
 ### Skytevåpen
 
+![Skytevåpendebatten på tvers av politiske familier](./assets/en/088.webp)
+
+**Spørsmål:** Bør lovlydige borgere kunne eie skytevåpen uten streng regulering?
 
 
-**Bør lovlydige borgere kunne eie skytevåpen uten strenge reguleringer?
+### Den sosialistiske posisjonen: nei
+
+Offentlig sikkerhet må gå foran friheten til å eie våpen. Streng regulering er nødvendig for å redusere vold og garantere kollektiv sikkerhet, siden staten har en konstitusjonell plikt til å beskytte alle sine borgere. Sosialister fremhever også ulikhetene som kunne følge av våpenfrihet og sårbarheten det ville skape for samfunnets mest skjøre medlemmer. Til syvende og sist **bør bare staten betros bruk av makt**, under betingelser som respekterer allmenninteressen.
+
+### Den konservative posisjonen: blandet
+
+Retten til å eie et våpen for selvforsvar er en viktig verdi. Reguleringer for å garantere sikkerhet og offentlig orden er imidlertid også nødvendige, og **disse reguleringene må komme fra en offentlig myndighet** som har ansvar for å verne fellesgodet. I kontrast til det libertarianske synet insisterer den konservative på at regler for våpen må utgå ovenfra, fra en legitim myndighet som er ansvarlig for offentlig orden.
+
+### Den libertarianske posisjonen: ja
+
+Retten til å bevæpne seg er en vesentlig komponent i retten til å motstå aggresjon. Staten bør ikke ha monopol på makt, og individer bør fritt kunne beskytte seg selv i tilfeller av legitimt selvforsvar. Libertarianisme, bør det bemerkes, er ikke fravær av regler slik man ofte tror. Libertarianere er enige med konservative i at en form for regulering er nødvendig for å bære våpen, akkurat som et førerkort eller jaktkort kreves. Men den avgjørende forskjellen ligger i hvem som etablerer disse reglene. For libertarianere bør **regulering oppstå fra dem som er direkte berørt**: sikkerhetsfagfolk, borgerforeninger og markedskonkurranse, ikke fra et statlig mandat ovenfra.
+
+### Den sentristiske posisjonen: nei
+
+Regulering er avgjørende. Selv om retten til å eie skytevåpen kan eksistere for visse bruksområder, **krever offentlig sikkerhet og reduksjon av vold strenge kontroller fra staten**, som har maktmonopolet: tillatelser, bakgrunnssjekker og begrensninger på hvilke våpentyper som tillates.
 
 
+### Narkotika
 
-
-
-- Sosialister:** Nei. Offentlig sikkerhet må gå foran friheten til å eie våpen. Streng regulering er nødvendig for å redusere volden og garantere sikkerheten til alle, fordi staten har en plikt til å beskytte sine borgere.
-
-
-
-
-
-- Høyre:** Delvis ja, retten til å eie våpen til selvforsvar er en viktig verdi. Men det er også nødvendig med reguleringer for å garantere sikkerhet og offentlig orden, men de må respektere denne grunnleggende rettigheten.
-
-
-
-
-
-- Libertarianere:** Ja, retten til å bevæpne seg er en viktig del av retten til selvforsvar. Staten skal ikke ha voldsmonopol, og den enkelte skal kunne beskytte seg selv uhindret. Men regulering av våpenbæring bør overlates til markedet, profesjonelle aktører og borgerforeninger.
-
-
-
-
-
-- Sentrumsorienterte:** Nei, regulering er avgjørende. Selv om retten til å eie skytevåpen kan eksistere for visse bruksområder, krever offentlig sikkerhet og reduksjon av vold strenge kontroller (tillatelser, bakgrunnssjekker, våpentyper) for å finne en balanse mellom frihet og orden.
-
-
-
-### Legemidlene
-
-
+![Debatten om legalisering av narkotika på tvers av politiske familier](./assets/en/089.webp)
 
 **Spørsmål:** Bør voksne få lov til å bruke narkotika fritt til rekreasjonsformål?
 
 
+### Den sosialistiske posisjonen: ja
+
+For sosialister skaper straff flere problemer enn det løser. En statskontrollert legalisering ville gi bedre kvalitetsstyring, generere offentlige inntekter og favorisere helseforebygging fremfor undertrykkelse. Det er verdt å merke seg den skarpe dikotomien som finnes i sosialistisk tenkning mellom økonomiske og samfunnsmessige spørsmål. **I dette samfunnsspørsmålet viser sosialister seg langt mer liberale enn konservative**, og favoriserer individuell forbruksfrihet samtidig som de opprettholder statlig tilsyn med prosessen.
+
+### Den konservative posisjonen: nei
+
+Selv såkalte myke rusmidler er skadelige for helse og sosial orden. Narkotikabruk skaper nemlig avhengighetsproblemer, men også familieoppløsning og vanskeligheter i arbeidslivet. Staten må fast håndheve loven for å beskytte borgere og bevare nasjonens og familiens integritet. Konservative påpeker også at **forbud medfører en enorm kostnad for skattebetaleren**, siden det innebærer kamp mot smuglere, gjenger og karteller, men de anser denne kostnaden som rettferdiggjort av imperativet om å opprettholde orden.
+
+### Den libertarianske posisjonen: blandet
+
+Ja, men bare på betingelse av at statens rolle i samfunnet reduseres. For det første har staten ingenting med å blande seg inn i individers personlige beslutninger. For det andre skaper forbud svarte markeder og kriminalitet. Men løsningen på problemene med avhengighet, og skadene den skaper både for individet og samfunnet, ligger i privat initiativ: frivillig støtte gitt av individer, familier og foreninger, ikke i statlig drevet omsorg. Med andre ord er **liberalisering av narkotika ønskelig, men ikke hvis den overtas av staten**. Borgeren må få tilbake ansvaret for å ta valg og bære konsekvensene av dem. Hvis noen velger å bruke narkotika og blir avhengig eller syk, må denne personen ta ansvar i stedet for å be staten om å sosialisere kostnadene.
+
+### Den sentristiske posisjonen: verken ja eller nei
+
+Sentrister vil vite med sikkerhet om liberalisering ville avlaste rettssystemet eller forbedre folkehelsen. I praksis bygger de på studier og ekspertvurderinger for å informere beslutningene sine. **De krever konkret bevis for effektivitet** før de forplikter seg til noen politisk endring, og etterlyser grundige studier av både helsemessige og økonomiske virkninger.
 
 
+### Avgift på sukkerholdige drikker
 
-- Sosialister:** Ja Straff er ineffektivt. Legalisering muliggjør kontroll og inntektsgenerering.
-- Konservative:** Nei. Forbruk er skadelig for helsen og samfunnsordenen.
-- Libertarianere:** Ja, forutsatt at statens rolle i samfunnet reduseres. Staten skal ikke blande seg inn i personlige beslutninger så lenge de ikke direkte skader andre.
-- Sentrumsorienterte:** Kompleks debatt. Avkriminalisering mulig, men streng regulering nødvendig.
+![Debatten om avgift på sukkerholdige drikker på tvers av politiske familier](./assets/en/090.webp)
 
-
+**Spørsmål:** Bør staten skattlegge sukkerholdige drikker for å redusere fedme?
 
 
-### Helse
+### Den sosialistiske posisjonen: ja
 
+Fedmeproblemet er, i det sosialistiske synet, et problem med produsenter som tjener på sukkeravhengighet på bekostning av folkehelsen. Det finnes en hel matindustri som utnytter denne avhengigheten og sårbarheten som finnes i befolkningen, særlig blant dem som er minst beskyttet og minst utdannet. **Brusavgiften har som mål å hindre industrifolk i å tjene på fedme** og avhengighetsproblemet.
 
+### Den konservative posisjonen: nei
 
-**Spørsmål:** Bør myndighetene skattlegge sukkerholdig drikke for å redusere fedme?
+Konservative er mer positive til personlig ansvar og utdanning. Oppgaven med å utdanne barn om disse spørsmålene bør først overlates til foreldre: forebygging fremfor beskatning. Faktisk **anser konservative ofte beskatning som ikke bare ineffektiv, men positivt skadelig**, siden selskaper ganske enkelt vil forsøke å opprettholde marginene sine ved å øke prisen på produktene og overføre byrden til forbrukerne.
 
+### Den libertarianske posisjonen: nei
 
+Et grunnleggende prinsipp i libertarianismen er at det er urettferdig å beskytte mennesker mot seg selv. Her er argumentet mindre en økonomisk beregning enn et moralsk argument, grunnleggende sett. Borgere er voksne, ikke barn; de har rett til å ta sine egne beslutninger, selv om disse beslutningene kan skade dem. Fedmeproblemet må derfor håndteres av privat initiativ. Dette betyr ikke å benekte at fedme er et alvorlig samfunnsproblem. Snarere betyr det **å gjenopprette individers ansvar for å ta valg og bære konsekvensene av dem**. Hvis hjelp trengs, er markedet, sivilsamfunnet, individer og familier best plassert til å gi den, ikke staten.
 
+### Den sentristiske posisjonen: verken ja eller nei
 
-
-- Sosialister: ** Ja. Problemet med fedme er problemet til produsentene som markedsfører brus. Brusavgiften er et sosialistisk forslag for å bekjempe produsenter eller selgere av sukkerholdig drikke som beskyldes for å tjene penger på bekostning av folkehelsen.
-
-
-
-
-
-- Høyre: ** I prinsippet, ja. Myndighetenes oppgave er å sikre innbyggernes helse. Men konservative foretrekker generelt løsninger basert på personlig ansvar og utdanning. Å innføre en avgift på sukkerholdig drikke vil bli sett på som en overdreven statlig innblanding i borgernes personlige beslutninger.
-
-
-
-
-
-- Libertarianere:** Nei. Et grunnleggende prinsipp i libertarianismen er at det er urettferdig å beskytte folk mot seg selv. Borgere er voksne, ikke barn. Forsøk på å påtvinge folk bedre helsevaner ved hjelp av tvang anses som kostbart, ineffektivt og i siste instans kontraproduktivt. Fedmeproblemet må løses på privat initiativ.
-
-
-
-
-
-- Sentrumsorienterte:** Ja, de ville være åpne for en skatt hvis den viste seg å være effektiv, og hvis de sosiale og økonomiske ulempene kunne reduseres. De ville se den som en del av en bredere, integrert løsning, snarere enn et isolert tiltak.
-
-
-
-# Økonomiske spørsmål
-
-
-<partId>465e0e6b-17e9-4f07-9a41-b3e88af0e83f</partId>
-
+Ja, hvis effektiviteten er bevist. Med andre ord krever sentrister konkrete bevis for at avgiften ville virke før den innføres. De ønsker grundige studier av de helsemessige og økonomiske virkningene. **Deres beslutning hviler på ekspertvurdering snarere enn på prinsipp**, noe som kjennetegner den sentristiske tilnærmingen gjennom disse debattene.
 
 
 ## Økonomiske spørsmål
-
 
 <chapterId>f1d6c5de-fa05-4fb7-9d2e-73cc9791ea23</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=8MM2cFzPtRg)
+
+![Komparativ analyse av økonomiske debatter på tvers av politiske familier](./assets/en/091.webp)
+
+Etter de samfunnsmessige spørsmålene vender vi oss nå til økonomiske spørsmål. Disse gjelder penger: sysselsetting, kjøp og salg, investeringer, kommersielle transaksjoner og loven også. Vi vil undersøke svarene fra hver store politiske familie på fem grunnleggende spørsmål: skatter, minstelønn, helsevesen, miljøet og subsidier. Som før gir disse raske svarene bare et glimt av hvert synspunkt.
 
 
+### Skatter
 
-Økonomiske spørsmål handler om penger, for eksempel om arbeid, kjøp og salg, investeringer og handelstransaksjoner. Jeg har valgt ut fem spørsmål for å presentere svarene fra hver av de politiske familiene. Disse raske svarene gir selvsagt bare et glimt av hvert enkelt synspunkt.
+![Skattedebatten på tvers av politiske familier](./assets/en/092.webp)
 
-
-
-### Skatter og avgifter
-
+**Spørsmål:** Bør inntektsskatter reduseres eller erstattes av enklere, lavere former for beskatning?
 
 
-**Spørsmål:** Bør inntektsskatten reduseres eller erstattes av enklere, lavere former for beskatning?
+### Den sosialistiske posisjonen: nei
 
+Progressive inntektsskatter er et grunnleggende verktøy for å omfordele rikdom og finansiere offentlige tjenester (helse, utdanning, sosial beskyttelse). De er derfor avgjørende for sosial rettferdighet. Med andre ord er **progressivitet mekanismen som staten bruker for å korrigere ulikhet** og finansiere den kollektive infrastrukturen som sosialister anser som uunnværlig.
 
+### Den konservative posisjonen: ja
 
+Lavere skatter oppmuntrer til investeringer, jobbskaping og økonomisk vekst. De favoriserer individuelt initiativ og reduserer statlig sløsing i offentlig sektor. I det konservative synet **må skatter være rettferdige og lave** for å belønne innsats og entreprenørskap snarere enn å straffe suksess.
 
+### Den libertarianske posisjonen: ja
 
-- Progressive inntektsskatter er et grunnleggende verktøy for å omfordele velstand og finansiere offentlige tjenester (helse, utdanning, sosial beskyttelse). De er avgjørende for sosial rettferdighet.
-- Konservative:** Ja. Lavere skatter oppmuntrer til investeringer, jobbskaping og økonomisk vekst. De oppmuntrer til individuelt initiativ og reduserer offentlig sløsing. Skattene må være rettferdige og lave.
+Beskatning er en form for statlig tyveri og en hindring for privat eiendom. Den bør reduseres drastisk eller avskaffes til fordel for helt private tjenester. Libertarianere tenderer mot minimal stat, eller til og med null stat. For dem bør staten begrenses til strengt suverene funksjoner (forsvar, rettsvesen), noe som ville rettferdiggjøre langt færre skatter enn det som finnes i dag. Med andre ord er **den libertarianske innvendingen mot beskatning moralsk før den er økonomisk**: det er et brudd på eiendomsretten.
 
+### Den sentristiske posisjonen: blandet
 
-
-
-
-- Libertarianere:** Ja. Skatt er en form for statlig tyveri og en hindring for privat eiendom. Den bør reduseres drastisk eller avskaffes til fordel for frivillig beskatning eller helt private tjenester.
-
-
-
-
-
-- Sentrumsorienterte:** Et skattesystem må være balansert. En viss grad av progressivitet er nødvendig for solidariteten, men for høye skatter kan virke investeringshemmende. Målet er et system som finansierer viktige tjenester uten å kvele økonomien.
-
+En viss grad av progressivitet er nødvendig for solidaritet, men for høye skatter kan motvirke investeringer. Sentrister bygger ikke på et fast prinsipp, men snarere på en vurdering av konsekvenser. Til dette trenger de eksperter. Derfor forbindes sentrisme ofte med en form for teknokrati: **det riktige nivået av beskatning må bestemmes ved empirisk analyse**, ikke ved ideologisk forpliktelse.
 
 
 ### Minstelønn
 
+![Minstelønnsdebatten på tvers av politiske familier](./assets/en/093.webp)
+
+**Spørsmål:** Bør minstelønnslover avskaffes for å tillate fri forhandling mellom arbeidsgivere og arbeidere?
 
 
-**Spørsmål:** Bør minstelønnslover avskaffes for å tillate frie forhandlinger mellom arbeidsgivere og arbeidstakere?
+### Den sosialistiske posisjonen: nei
+
+Minstelønnen er avgjørende for å garantere arbeidere et verdig liv, redusere ulikheter og bekjempe fattigdom. Den er et verktøy for sosial rettferdighet som beskytter de mest sårbare. I det sosialistiske rammeverket **må staten gripe inn for å korrigere maktubalansen** som ligger i arbeidsgiver-arbeidstaker-forholdet.
+
+### Den konservative posisjonen: ja, men
+
+I prinsippet må markedet spille sin rolle som regulator. En minstelønn kan være tolererbar, men bare hvis den ikke hindrer bedrifters konkurranseevne, og den må ikke gjøres generell. Det som betyr mest, er individuelt ansvar og jobbskaping snarere enn avhengighet av subsidier. I kontrast til den libertarianske posisjonen **aksepterer konservative noe statlig involvering i lønnsfastsettelse**, samtidig som de insisterer på at den forblir minimal og kontekstavhengig.
+
+### Den libertarianske posisjonen: ja
+
+Minstelønnen forvrenger arbeidsmarkedet, skaper arbeidsledighet og krenker kontraktsfriheten. Markedet bør bestemme lønninger gjennom fri forhandling mellom arbeidsgiver og arbeidstaker. Hvorfor skaper minstelønnen arbeidsledighet? Dette er et teknisk problem, men det som betyr mest, er at for libertarianere er svaret først og fremst moralsk. **En minstelønn er et inngrep i friheten til å ansette og drive forretning.** Når libertarianere sier «markedet», mener de kontrakten, fritt forhandlet mellom to parter uten statlig innblanding.
+
+### Den sentristiske posisjonen: blandet
+
+For sentrister må beslutningen hvile på teknisk analyse. Ja, hvis minstelønnen ikke ødelegger arbeidsplasser; ja, hvis den fremmer vekst; men nei hvis den ikke gjør det. Minstelønnen har en viktig sosial rolle, men **nivået må justeres pragmatisk**, med hensyn til bedriftenes konkurranseevne og arbeidernes kjøpekraft.
 
 
+### Helsevesen
+
+![Helsevesendebatten på tvers av politiske familier](./assets/en/094.webp)
+
+**Spørsmål:** Bør helsevesenet overlates til private markeder snarere enn statlige programmer?
 
 
+### Den sosialistiske posisjonen: nei
 
-- Minstelønn er avgjørende for å garantere et verdig liv for arbeidstakere, redusere ulikheter og bekjempe fattigdom. Det er et verktøy for sosial rettferdighet som beskytter de mest sårbare.
+Tilgang til helsevesen er en grunnleggende rettighet, ikke en vare. Staten må garantere et universelt, offentlig finansiert helsesystem slik at alle har tilgang til behandling, uavhengig av inntekt. Her finner vi igjen **det sosialistiske hensynet til likhet, sosial rettferdighet og statens betydning** i organisering og planlegging av tjenester i allmennhetens interesse.
 
+### Den konservative posisjonen: ja
 
+Private markeder kan være mer effektive og redusere skattebyrden. Staten kan spille en minimal rolle for de fattigste, men individuelt ansvar og private forsikringer er å foretrekke. Det finnes alltid, i den konservative tilnærmingen, **ideen om å kombinere markedsmekanismer med begrenset statlig handling**, snarere enn å velge det ene og utelukke det andre.
 
+### Den libertarianske posisjonen: ja
 
+Det private markedet er mer effektivt og innovativt, men fremfor alt (og dette er det grunnleggende moralske argumentet) har individer rett til å velge sitt eget system. Det er et spørsmål om individuell suverenitet og bekreftelse av private eiendomsrettigheter. Med andre ord er **den libertarianske posisjonen mer ettertrykkelig fordi den hviler på et moralsk prinsipp**: retten til å melde seg helt ut av trygdesystemet, snarere enn bare å tale for mer privat involvering ved siden av statlige programmer.
 
-- Høyre: ** I prinsippet nei, markedet må spille sin rolle som regulator. Men en minstelønn kan være akseptabel hvis den ikke i for stor grad hindrer bedriftenes konkurranseevne. Det viktige er individuelt ansvar og jobbskaping, ikke avhengighet av subsidier.
+### Den sentristiske posisjonen: blandet
 
-
-
-
-
-- Libertarianere:** Ja. Minstelønn er et kunstig inngrep som forvrenger arbeidsmarkedet, skaper arbeidsledighet og bryter med avtalefriheten. Markedet bør bestemme lønningene gjennom forhandlinger.
-
-
-
-
-
-- Sentrumsdemokrater:** Nei, minstelønnen har en viktig sosial rolle. Den må eksistere, men nivået må justeres på en pragmatisk måte for å unngå å ødelegge arbeidsplasser, og ta hensyn til bedriftenes konkurranseevne og arbeidstakernes kjøpekraft.
-
-
-
-### Helsevesenet
-
-
-
-**Spørsmål:** Bør helsevesenet overlates til private markeder i stedet for offentlige programmer?
-
-
-
-
-
-- Tilgang til helsetjenester er en grunnleggende rettighet, ikke en handelsvare. Staten må garantere et universelt, offentlig finansiert helsevesen, slik at alle har tilgang til behandling, uavhengig av inntekt.
-
-
-
-
-
-- Konservative:** For det meste, ja. Private markeder kan være mer effektive og redusere skattetrykket. Staten kan spille en minimal rolle for de fattigste, men individuelt ansvar og private forsikringer er å foretrekke.
-
-
-
-
-
-- Libertarianere:** Ja. Helsetjenester er en tjeneste som alle andre. Det private markedet er mer effektivt, innovativt og gir forbrukerne flere valgmuligheter. Statlig inngripen fører til ineffektivitet og byråkrati. Men først og fremst har den enkelte rett til å velge selv om han eller hun vil melde seg ut av trygdesystemet.
-
-
-
-
-
-- Sentrumsorienterte:** Et blandet system er ofte den beste tilnærmingen. Staten må garantere universell tilgang og solidaritet (grunnleggende dekning), samtidig som den gir rom for den private sektoren til å diversifisere tilbudet og innovere for å optimalisere effektivitet og kvalitet.
-
+Et blandet system er ofte den beste tilnærmingen. Staten garanterer universell tilgang og solidaritet (grunnleggende dekning), mens privat sektor kan bidra med diversifisering og innovasjon. Ideelt sett ville man trenge litt av begge: **en blanding nøye kalibrert av eksperter** for å optimalisere effektivitet og kvalitet.
 
 
 ### Miljøet
 
+![Miljødebatten på tvers av politiske familier](./assets/en/095.webp)
+
+**Spørsmål:** Bør miljøreguleringer begrenses for å la selskaper selvregulere?
 
 
-**Spørsmål:** Bør miljøreguleringer begrenses slik at selskaper kan regulere seg selv?
+### Den sosialistiske posisjonen: nei
+
+Staten må pålegge strenge regler for å beskytte miljøet og bekjempe klimaendringer. Markedet alene kan ikke løse disse problemene, som krever kollektiv handling og planlegging. Det finnes faktisk også en mer ideologisk dimensjon: ikke bare kan markedet ikke løse klimaendringer, men **i det sosialistiske synet er markedet selv ansvarlig for forurensningen** og miljøskadene vi observerer. Subsidier anses som nødvendige for å sikre den økologiske omstillingen, og internasjonal frihandel må reguleres for å beskytte miljøet.
+
+### Den konservative posisjonen: blandet
+
+I prinsippet ja, fordi frihet til næringsvirksomhet er viktig. Et visst nivå av regulering er imidlertid nødvendig for å beskytte miljøet som arv og ressurs. Som ofte er tilfellet med konservative, **må et prinsipp nyanseres etter kontekst**: økonomisk frihet verdsettes, men ikke på bekostning av å ødelegge den nedarvede naturarven.
+
+### Den libertarianske posisjonen: ja
+
+Miljøreguleringer er en hindring for økonomisk frihet og eiendomsrett. Libertarianere mener at den beste måten å beskytte miljøet på er gjennom privat eiendom, ikke gjennom byråkratiske organisasjoner. Faktisk er **eiere mer tilbøyelige til å ta vare på sin eiendom enn noe byråkrati**. Miljøproblemer kan løses av markedet, individuelt ansvar og eiendomsrett. Forurensere må holdes ansvarlige for skaden de forårsaker; dette er et spørsmål om rettferdighet, ikke regulering.
+
+### Den sentristiske posisjonen: nei
+
+Selvregulering er ikke nok. Miljøreguleringer er nødvendige for å beskytte planeten og folkehelsen. Imidlertid **må de utformes slik at de ikke straffer næringslivets konkurranseevne overdrevent** og slik at de oppmuntrer grønn innovasjon. Den sentristiske posisjonen søker, som alltid, å balansere konkurrerende imperativer gjennom nøye utformet politikk.
 
 
+### Subsidier
+
+![Subsidiedebatten på tvers av politiske familier](./assets/en/096.webp)
+
+**Spørsmål:** Bør selskaper fratas subsidier og redningspakker?
 
 
+### Den sosialistiske posisjonen: nei
 
-- Staten må innføre strenge reguleringer for å beskytte miljøet og bekjempe klimaendringene. Markedet alene kan ikke løse disse problemene, som krever kollektiv handling og planlegging. Subsidier anses som nødvendige for å sikre den økologiske omstillingen. Dessuten må internasjonal frihandel reguleres for å beskytte miljøet.
+Subsidier støtter innovasjon, beskytter arbeidsplasser og utvikler strategiske sektorer. **Staten er en vesentlig økonomisk aktør og planlegger**, og dens rolle er å styre økonomien mot kollektivt definerte prioriteringer, inkludert den økologiske omstillingen. Å fjerne subsidier ville bety å overlate de mest sårbare sektorene og arbeiderne til markedets luner.
 
+### Den konservative posisjonen: ja, men
 
+I prinsippet ja, for å oppmuntre fri konkurranse og individuelt bedriftsansvar. Unntak er imidlertid mulige for strategiske nasjonale industrier. Man tenker for eksempel på våpen, legemiddelindustrien eller utdanning. I kontrast til den libertarianske posisjonen **aksepterer konservative målrettet statlig intervensjon når nasjonal sikkerhet eller strategiske interesser står på spill**.
 
+### Den libertarianske posisjonen: ja
 
+Subsidier og redningspakker forvrenger markedet, favoriserer noen selskaper fremfor andre og skaper avhengighet av staten. Selskaper som mislykkes, bør gå konkurs. Her finnes det igjen moralske hensyn til respekt for suverenitet og privat eiendom, men også hensyn til effektivitet. Når selskaper hindres i å mislykkes gjennom subsidier, **skaper dette det som kalles moral hazard**: et insentiv til uansvarlighet og dumdristighet. Til slutt er det skattebetaleren som betaler, noe som er dypt urettferdig.
 
-- Høyre:** I prinsippet ja, fordi næringsfrihet er viktig. Men en viss grad av regulering er nødvendig for å beskytte miljøet som arv og ressurs, men uten å kvele økonomien.
+### Den sentristiske posisjonen: målrettet
 
-
-
-
-
-- Libertarianere:** Ja. Miljøreguleringer er en hindring for økonomisk frihet og eiendomsrett. De mener at den beste måten å beskytte miljøet på er gjennom privat eiendom, ikke gjennom byråkratiske organisasjoner. De legger til at det er mer sannsynlig at eiere vil ta vare på eiendommen sin, ettersom de har en egeninteresse i å bevare dens verdi. Miljøproblemer kan løses ved hjelp av markedet, individuelt ansvar og eiendomsrett. Forurensere må holdes ansvarlige for den skaden de påfører miljøet.
-
-
-
-
-
-- Sentrumsbevegelsen:** Nei, selvregulering er ikke nok. Miljøreguleringer er nødvendige for å beskytte planeten og folkehelsen. De må imidlertid utformes på en slik måte at de ikke straffer næringslivets konkurranseevne i for stor grad, og slik at de oppmuntrer til grønn innovasjon.
-
-
-
-
-### Tilskudd
-
-
-
-**Spørsmål:** Bør selskaper fratas subsidier og redningsplaner?
-
-
-
-
-
-- Subsidier kan være nødvendige for å støtte innovasjon, beskytte arbeidsplasser, utvikle strategiske sektorer eller sikre den økologiske omstillingen. Statens rolle er å være en økonomisk aktør og planlegger.
-
-
-
-
-
-- Høyre:** I prinsippet ja, for å oppmuntre til fri konkurranse og individuelt bedriftsansvar. Det kan imidlertid gjøres unntak for strategiske eller nasjonale næringer som er avgjørende for landets sikkerhet eller sysselsetting.
-
-
-
-
-
-- Libertarianere:** Ja. Subsidier og redningspakker forvrenger markedet, favoriserer noen selskaper fremfor andre og skaper avhengighet av staten. Selskaper som mislykkes, bør gå konkurs.
-
-
-
-
-
-- Sentrumsorienterte:** Generelt ja, men med unntak. Subsidier bør være målrettede og midlertidige, begrunnet i en allmenn interesse (innovasjon, økologisk omstilling, strategiske sektorer). Redningspakker bør bare vurderes i tilfelle en stor systemisk trussel mot økonomien.
-
+Subsidier bør være målrettede og midlertidige, rettferdiggjort av en allmenn interesse (innovasjon, økologisk omstilling, strategiske sektorer). Redningspakker bør bare vurderes ved en større systemisk trussel mot økonomien. For eksempel kan det være nødvendig å redde banker, fordi dette ellers ville skape forutsetningene for generell panikk og resesjon. **Den sentristiske tilnærmingen krever at hvert tilfelle vurderes på egne meritter**, med subsidier rettferdiggjort av demonstrert nødvendighet snarere enn ideologisk preferanse.
 
 
 
 # Filosofiske forskjeller mellom politiske familier
 
-
 <partId>a4c96533-ae9a-45be-8dc2-e0c2534eb89d</partId>
 
 
-
 ## Filosofiske forskjeller mellom politiske familier
-
 
 <chapterId>e48cff63-15d9-4789-ab6c-f1df06683fce</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=Qznu_mAOji8)
 
+![Filosofiske divergenser mellom politiske familier](./assets/en/097.webp)
 
+Når vi sammenligner de ulike politiske familiene, dukker det riktignok opp konvergenspunkter, men også dype inkompatibiliteter. Dette er særlig synlig når vi setter libertarianere ved siden av andre ideologiske profiler: konservative, sosialister, sentrister. I denne delen av kurset vil vi utforske en serie filosofiske divergenser som avdekker de sanne skillelinjene som går gjennom politisk tenkning.
 
-Hvis vi sammenligner de ulike politiske familiene, ser vi at det finnes mulige likheter, men også punkter som er uforenlige. Dette gjelder særlig når vi sammenligner libertarianere med andre ideologiske profiler.  La oss analysere disse forskjellene ved hjelp av noen filosofiske begreper.
-
+La oss begynne med det mest grunnleggende spørsmålet: frihetens natur selv.
 
 
 ### Frihet: prinsipp eller mulighet?
 
 
+For å forstå hva som skiller libertarianere fra alle andre politiske familier, må vi begynne med et skille introdusert av en av de store franske liberale tenkerne. I sitt verk *Les Soirees de la rue Saint-Lazare* fra 1849 iscenesetter Gustave de Molinari, en disippel av Frederic Bastiat, en dialog mellom tre karakterer, hver representerende en politisk familie: sosialisten, den konservative og økonomen.
 
-For å rydde opp i denne forvirringen vil vi skissere tre oppfatninger av frihet.
+![Molinaris tre politiske figurer: sosialisten, den konservative og økonomen](./assets/en/098.webp)
 
+Det Molinari demonstrerer gjennom disse dialogene, er slående. **Økonomen står i permanent uenighet med både sosialisten og den konservative.** Han er den eneste som forsvarer frihet som et grunnleggende prinsipp, et prinsipp som ikke underordnes noe annet mål. Sosialisten vil reformere samfunnet etter progressive idealer; den konservative vil bevare samfunnet i dets nåværende tilstand. Begge er villige til å begrense friheter og påkalle staten for å påtvinge sine respektive agendaer.
 
+Molinaris visjon viste seg profetisk. Siden hans tid, midt på det nittende århundre, har konservative og sosialister vekslet ved makten og gjennomført nettopp det han beskrev: **instrumentaliseringen av frihet i politiske måls tjeneste.**
 
-1. For konservative er frihet et gode, men for mye frihet skaper kaos og uorden. Derfor må friheten begrenses og rammes inn.
+### Det konservative synet: orden før frihet
 
+![Den konservative oppfatningen av frihet betinget av orden og tradisjon](./assets/en/099.webp)
 
+For konservative går orden og tradisjon foran frihet. For mye frihet, argumenterer de, skaper kaos og sosial uorden. Frihet kan verdsettes, men først når orden er fast etablert.
 
-For dem er ikke frihet et grunnleggende prinsipp, men et spørsmål om hensiktsmessighet. En konservativ som fordømmer lover som straffer homofobiske ytringer, vil for eksempel ikke nødvendigvis være for legalisering av narkotika eller avskaffelse av familiestøtte.
+I praksis betyr dette at **frihet må begrenses og ikke kan overlates til å virke på egen hånd.** Den blir farlig når den truer sosial stabilitet, familien eller nedarvede kulturelle verdier. Friheten til å drive virksomhet eller eie eiendom forsvares, men alltid betinget av respekt for tradisjonelle verdier og plikter overfor fellesskapet. Dette innebærer en rolle for staten ikke bare i samfunnssaker, men også på det økonomiske området, der friheten må forbli under tilsyn.
 
+### Det sosialistiske synet: rettferdighet før frihet
 
+![Den sosialistiske oppfatningen av frihet knyttet til sosial rettferdighet og likhet](./assets/en/100.webp)
 
-2. Sosialister kan også gå inn for å innføre den ene eller andre friheten på ad hoc-basis, opportunistisk og selektivt. Men for dem er ikke dette anvendelsen av et generelt beslutningsprinsipp. De kan forsøke å tvinge individer til å forlate sine røtter, på samme måte som konservative forsøker å tvinge dem til å bli.
+For sosialister kommer sosial rettferdighet før individuell frihet. Frihet forstås ikke som uavhengighet fra begrensning, men som evnen til å handle, en evne som forutsetter rettferdige materielle og sosiale forhold.
 
+Med andre ord **er man ikke virkelig fri hvis man mangler mat eller tilgang til essensielle tjenester.** Den politiske prioriteten faller derfor på utjevning av vilkår. Frihet er uløselig knyttet til sosial rettferdighet og likhet; den manifesterer seg gjennom frigjøring fra økonomiske og sosiale begrensninger som fattigdom eller ekskludering. Denne logikken krever jevnlig statlig intervensjon for å garantere sosiale rettigheter og omfordele rikdom.
 
+### Det sentristiske synet: effektivitet før frihet
 
-3. For libertarianere er frihet et generelt prinsipp for beslutninger og handlinger. En libertarianer er en radikal forsvarer av individuell frihet og eiendomsrett, som søker å minimere statlig inngripen og motsetter seg alle former for statlig påtvunget sosialkonstruktivisme. Selv om styrken i frihetsprinsippet kan variere mellom anarkokapitalister (som nekter å tøye noen regler) og klassiske liberalister (som har en mer nyansert diskurs), er prinsippet alltid det samme: privatiser alt som kan privatiseres.
+![Den sentristiske instrumentelle oppfatningen av frihet](./assets/en/101.webp)
 
+Sentrister forsvarer visse friheter, men på en opportunistisk og kontekstuell måte, uten å anvende noe generelt beslutningsprinsipp. De tilpasser posisjonene sine etter bestemte utfordringer og kompromissene som kreves for å oppnå resultater effektivt.
 
+Tenk for eksempel på Green New Deal: sentrister kan presse hardt på for subsidier til vindenergi og støtte til grønne bedrifter, ikke ut fra et prinsippfast engasjement for frihet eller engang for økologi, men fordi slik politikk stemmer med rådende trender. **Denne pragmatiske tilnærmingen avslører en instrumentell oppfatning av frihet** som til slutt konvergerer med tilnærmingene til både konservative og sosialister. Frihet påberopes alltid, men underordnes alltid.
 
-Denne motsetningen mellom de politiske familiene var allerede til stede - med andre ord - i Gustave Molinaris Les Soirées de la rue Saint Lazare. Denne boken, som ble utgitt i 1849 av en av Frédéric Bastiats disipler, har tre karakterer: sosialisten, den konservative og økonomen. Økonomen er i virkeligheten en liberalist, i klassisk forstand; i dag ville vi sagt en libertarianer.
+### Det libertarianske synet: frihet som aksiom
 
+![Det libertarianske synet på frihet som et ubetinget prinsipp](./assets/en/102.webp)
 
+Libertarianere definerer frihet som et generelt, ubetinget prinsipp for handling og beslutning. Den fungerer som et aksiom som alt annet følger av. Frihet må stilles opp fra begynnelsen som en grunnleggende rett og samtidig som en plikt: **retten til ikke å bli utsatt for aggresjon, og ansvaret for ikke å utøve aggresjon mot andre**, med erstatning påkrevd i tilfeller av skyld.
 
-I disse dialogene som Molinari har utformet, står økonomen (liberal/libertarianeren) alltid i opposisjon til sosialisten og den konservative. Han insisterer på å vise at deres posisjoner ikke er fundamentalt forskjellige. For Molinari har konservative og sosialister én ting til felles: De søker å påtvinge samfunnet sin visjon gjennom staten.
+Libertarianere forsvarer den integrale beskyttelsen av individuell frihet og eiendomsrett, med et minimum av statlig intervensjon. De motsetter seg konstruktivisme (sentral planlegging), og uavhengig av hvor de befinner seg på det libertarianske spekteret, fra klassiske liberalere til anarkokapitalister, deler de målet om å privatisere alt som kan privatiseres.
+
+### Konvergens om mål, divergens om midler
+
+Her ligger en avgjørende nyanse. Libertarianere kan være enige med sosialister, konservative og sentrister om visse mål: å forsvare de undertrykte, beskytte sivilisasjonen, fremme sosial samhørighet. Uenigheten handler ikke om mål, men om midler.
+
+**Libertarianere avviser alle tvangsløsninger som søker å ensrette praksiser, lover og reguleringer.** De motsetter seg omfordeling av rikdom, pålagte minstelønninger og statens voksende vekt i økonomien. Som alternativ forsvarer de valgfrihetens makt og prinsippet om ansvarlig frihet gjennom markedsprosessen: fri, desentralisert utveksling grunnlagt på frivillige kontrakter.
 
 
 
 ## Spontan vs. konstruert orden
 
-
 <chapterId>504aa7da-ecd5-4177-87d9-c8792f58c8e3</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=jh-FDJftOf0)
 
+![Spontan orden versus konstruert orden](./assets/en/103.webp)
 
+En annen stor skillelinje deler dem som mener at den politiske prosessen er overlegen markedsprosessen, fra dem som mener det motsatte. Den første gruppen forsvarer en konstruert orden, utformet ovenfra og ned. Den andre forsvarer en spontan orden, som vokser frem nedenfra og opp. Dette skillet er grunnleggende for å forstå politiske følsomheter, og det plasserer libertarianere mot praktisk talt alle andre familier.
 
-Begrepene *spontan orden* og *konstruert orden* er grunnleggende for å forstå forskjellene mellom ulike politiske retninger, inkludert libertarianismen og konstruktivismen på høyresiden (konservatismen) og venstresiden (sosialismen).
+### Konstruktivisme: en transpartisan konsensus
 
+![Konstruktivisme som en delt overbevisning blant sentrister, konservative og sosialister](./assets/en/104.webp)
 
+Konstruktivisme er ikke monopolet til noen enkelt politisk leir. Den forener sentrister, konservative og sosialister rundt en delt overbevisning: **den politiske prosessens overlegenhet over markedsprosessen.** For alle disse strømningene er staten bedre rustet til å organisere samfunnet på en rettferdig og effektiv måte. De prioriterer sentral planlegging, om enn i varierende grad avhengig av familien.
 
-Konstruktivisme refererer til ønsket om å forme samfunnet i henhold til en bestemt plan. Det er en tilnærming som søker å påtvinge en forhåndsbestemt visjon av samfunnet gjennom statens eller andre enheters (fagforeninger, frivillige organisasjoner, pressgrupper eller internasjonale organisasjoner) handlinger.
+Hvis vi oppsummerer konstruktivisme i én setning: det er troen på at en sentral regjering kan skape, ved lovens makt, en sosial orden som er god for flest mulig.
 
+### Hayeks analyse av konstruktivisme
 
+![Hayeks kritikk av konstruktivisme og sentral planlegging](./assets/en/105.webp)
 
-Motsatsen til konstruktivisme er spontan orden, som oppstår naturlig fra individers frie samspill, mens konstruert orden er resultatet av bevisste, planlagte inngrep for å forme samfunnet i henhold til en bestemt visjon, enten den er konservativ (fastlåst) eller progressiv (transformert).
+For å forstå hva som står på spill, kan vi følge Friedrich Hayeks analyse. Konstruktivister tror fast at det er mulig å bygge et samfunn som samsvarer med deres ønsker og idealer. De anser bevisst, planlagt intervensjon som nødvendig for å forme samfunnet etter sin visjon, enten den er konservativ eller progressiv.
 
+Bak denne troen ligger en eldre antakelse, sporbar til Platon og hans teori om filosofkongen: **ideen om at visse mennesker er bedre rustet til å dirigere andre og organisere samfunnet.** Dette er en grunnleggende tro på noens overlegenhet over andre.
 
+Men Hayek viser at det bortenfor dette filosofiske spørsmålet finnes en praktisk umulighet.
 
-Konstruktivister mener at det er mulig å bygge et samfunn som er i samsvar med deres ønsker. Libertarianere, derimot, mener at et samfunn bygger seg selv uforutsigbart gjennom interindividuelle koordineringsprosesser.
+### Spontan orden: organisering nedenfra
 
+![Spontan orden som produktet av frie individuelle interaksjoner](./assets/en/106.webp)
 
-Spontan orden er et viktig begrep som stammer fra Hayeks arbeider. Den defineres som et produkt av individenes frie samspill i samfunnet. Den er et resultat av menneskelig handling, ikke av bevisst menneskelig bevissthet, og den er ikke planlagt eller påtvunget av en sentral myndighet: *The product of human action, not of human design*, gjentok Friedrich Hayek, og siterte Adam Ferguson.
+Spontan orden er ikke et argument mot organisering. Tvert imot er den for Hayek en av de mektigste motorene for økonomisk og sosial fremgang. Den defineres som produktet av individers frie interaksjoner i samfunnet, resultatet av menneskelig handling, men ikke av bevisst menneskelig design.
 
+Regler, institusjoner og praksiser som oppstår spontant, planlegges ikke eller påtvinges av en sentral autoritet. Tenk på følgende eksempler:
 
+Språk: fransk, engelsk, tysk, ingen av disse ble konstruert i et kontor der intellektuelle samlet seg for å bestemme grammatikk- og rettskrivningsreglene. **De er frukten av en langsom, organisk organisering bygget gjennom historiske interaksjoner.**
 
-Adam Smith beskrev den usynlige hånds mekanisme, og skrev i sin tur *Ved bare å søke sin egeninteresse arbeider [individet] ofte mer effektivt for samfunnets interesser, enn om hans mål virkelig var å arbeide for det.*
+Sosiale koder: moral, høflighet, skikker, også disse er produktet av spontan koordinering som utviklet seg gradvis gjennom menneskelig interaksjon.
 
+Varepenge: fra skjell til metaller oppsto gull som den beste pengen valgt av markedet, ikke av noen sentral myndighet, gjennom erfaring, konkurranse og individers subjektive verdsettinger.
 
+### Kunnskapsproblemet
 
-Ifølge Hayek fører enhver pretensjon om vitenskapelig organisering av samfunnet og markedet til at man forverrer problemene snarere enn å avhjelpe dem. Som Burke påpekte, i skottene Smiths og Humes fotspor, produserer historien institusjoner som er mer komplekse og bedre tilpasset enn noe fornuften bevisst kan forestille seg.
+![Kunnskapens spredte natur ifølge Hayek](./assets/en/107.webp)
 
+Hayeks grunnleggende argument til fordel for spontan orden hviler på informasjonens natur. I en artikkel fra 1945, *The Use of Knowledge in Society*, skrev han:
 
+> Kunnskap eksisterer aldri i konsentrert eller integrert form, men bare som spredte fragmenter av ufullstendig og ofte motstridende kunnskap som besittes av alle ulike individer.
 
-Regler, institusjoner, praksiser og andre sosiale fenomener er nemlig ikke et resultat av intensjonell planlegging fra en sentral myndighet.
+Markedet avhenger av informasjon, men bare ulike individer kan vite hva deres behov er og hva ting koster. Verdi hviler i subjektiv vurdering, i individers sinn. **Den kan ikke fastsettes autoritativt eller sentralt.** Verdi er subjektiv, og derfor er den kjent bare på en begrenset, fragmentert og lokal måte.
 
+Det er prissystemet som gjør det mulig for millioner av mennesker som ikke kjenner hverandre, å koordinere sin kunnskap og sine ferdigheter. I et fritt marked formidler priser informasjon om hver deltakers behov og kompetanse. De gjør det mulig for mennesker å inngå relasjoner og utveksle. Dette er selvfølgelig markedspriser, etablert gjennom frivillig forhandling mellom individer.
 
-*Mange av de største tingene menneskeheten har oppnådd, er ikke et resultat av en bevisst styrt tanke, og enda mindre av en bevisst koordinert innsats fra mange mennesker, men av en prosess der den enkelte spiller en rolle som han eller hun aldri vil forstå fullt ut.* F. Hayek.
+Den sentrale planleggeren, som sitter i et departement eller kontor, har ingen kunnskap om tingenes sanne pris fordi han ikke er engasjert i interaksjon og utveksling. Dermed vil **enhver pretensjon om å organisere samfunnet vitenskapelig paradoksalt nok forverre problemene snarere enn å avhjelpe dem.**
 
+Når staten fastsetter priser, fordi den bare kjenner en liten del av forbrukerpreferanser og lokale særegenheter, fremkaller den kriser. Tenk på husleiekontroll: når husleier settes med tak, finner utleiere det ulønnsomt å tilby eiendommene sine til leie, og boligmangel følger.
 
+### Det frie markedet som genuin regulering
 
-Språk, for eksempel, eller skikker, er ting som er skapt av mennesker. Men ingen av dem ble unnfanget av et menneske. De har alle oppstått uten at det var planlagt. Det samme gjelder gamle valutaer, som metalliske mynter, eller en ny valuta som Bitcoin. Dette er *innovasjoner uten tillatelse* som har blitt valgt av markedet.
+![Det frie markedet som samfunnets sanne regulator](./assets/en/108.webp)
 
+For libertarianere er samfunnets sanne regulering ikke demokrati (som har sin nytte som en måte å utpeke representanter på), **men først og fremst det frie markedet**.
 
+Markedet tjener tre vesentlige funksjoner:
 
-**Spredt kunnskap
+1. **Uten et fritt marked finnes det ikke noe kompass.** Priser er pålitelige indikatorer for å veilede økonomiske og sosiale beslutninger.
+2. **Markedet avdekker preferanser.** Det er en optimal mekanisme for å oppdage og aggregere autentiske individuelle preferanser. Priser gjenspeiler tilbud og etterspørsel.
+3. **Markedet muliggjør full utøvelse av retten til å bestemme.** Aktører kan fritt bestemme sine egne anliggender i samsvar med sine personlige verdier. Det finnes en etisk dimensjon her: å la hver person være aktøren i sitt eget liv og ta sine egne valg.
 
+### Pro-business versus pro-market
 
+![Skillet mellom pro-business- og pro-market-posisjoner](./assets/en/109.webp)
 
-> Kunnskap eksisterer aldri i en konsentrert eller integrert form, men kun som spredte fragmenter av ufullstendig og ofte motstridende kunnskap som alle enkeltindivider besitter.
->
+Det er viktig å skille klart mellom pro-business og pro-market, to posisjoner som ofte forveksles.
 
+Blant sosialister, sentrister og konservative finner man mange pro-business-politikere. For dem er konkurranse et styringsinstrument for å oppnå økonomiske mål. Den oppnås gjennom reguleringer som skal garantere angivelig rettferdig konkurranse: antimonopollover, sektorielle og miljømessige normer. Stimulanspakker og subsidier rettferdiggjøres av sosiale konsekvenser som å forhindre jobbtap og resesjon. **I pro-business-synet er markedet skjørt og trenger staten til å redde det.**
 
-> F. Hayek, The Use of Knowledge in Society, 1945
+For pro-market-forkjempere er konkurranse det naturlige resultatet av fri næringsvirksomhet, som utelukker statens sentraliserte makt. Dette innebærer deregulering (å fjerne hindringer for frihet og reguleringer som begrenser privat eiendom) og å la bedrifter mislykkes, fordi **fiasko lar markedet reorganisere seg naturlig og åpner feltet for mer kapable aktører.** Hvis en bedrift mislykkes, tok den dårlige valg og må bære konsekvensene.
 
-Markedet er et verktøy for samarbeid, ettersom det gir informasjon om de reelle behovene og ferdighetene. Det er en prosedyre for å finne informasjon og mobilisere spredt kunnskap om verdier og behov. Markedet er i realiteten en møteplass for individuelle preferanser, noe som fører til prisdannelse. Prissystemet er derfor en mekanisme som oppstår spontant fra kontrakter for å koordinere utvekslinger. Når prisene debatteres fritt, gjenspeiler de mangfoldet av forbrukernes meninger og preferanser.
+Forskjellen er betydelig. Pro-business-forkjempere søker ofte en allianse med store selskaper på bekostning av mindre aktører. Dette er en tilsynelatende kapitalisme som i virkeligheten reduserer friheten betydelig gjennom sin tro på konstruktivisme og planlegging.
 
+### Den libertarianske posisjonen
 
+![Det libertarianske forsvaret av frivillig utveksling fremfor organisert tvang](./assets/en/110.webp)
 
-Det er bare enkeltindivider som kan kjenne kostnadene og fordelene ved et gode, fordi de er subjektive. I et sentralisert, planlagt system, derimot, fastsetter staten prisene, men siden den bare kjenner en del av forbrukernes preferanser og lokale særegenheter, forvrenger den markedet. Bare et desentralisert handelssystem, med fritt forhandlede priser, kan få frem denne spredte kunnskapen.
+Avslutningsvis står libertarianere nokså alene mot de andre politiske familiene, som alle er konstruktivistiske. Libertarianere mener at **samfunnet organiserer seg naturlig gjennom spontane koordineringsmekanismer**, og at frivillig samarbeid forblir overlegent organisert tvang, selv når den er velment, for å bygge et rettferdig og velstående samfunn.
 
+Den politiske klassen generelt er ikke positiv til spontan orden fordi den truer deres makt. Enten du er en konservativ, sentristisk eller sosialistisk politiker, vil du tendere mot å være fiendtlig til spontan orden og markedet fordi du ønsker å kontrollere anliggender. Men for libertarianere ligger den sanne makten til å forbedre samfunnet ikke i politisk makt, men i valgfrihetens makt: fri og frivillig utveksling, markedet.
 
+To aspekter må holdes sammen. Effektivitet: **frie markeder koordinerer spredt informasjon bedre enn sentralisert planlegging**, som Hayek viste. Og rettferdighet: gjensidig samtykke respekterer menneskelig verdighet mer enn tvang og konstruktivisme noen gang kan.
 
-Libertarianere står derfor i motsetning til både sosialister og konservative, det vil si til to kategorier konstruktivister: Sosialister vil reformere samfunnet, konservative vil bevare det slik det er. Det finnes altså venstrekonstruktivister og høyrekonstruktivister.
-
-
-
-
-**Politikk eller marked?
-
-
-Konstruktivister, sentrumsorienterte, konservative og sosialister er alle enige om ett viktig punkt: De anser den politiske prosessen for å være mer effektiv enn markedsprosessen.
-
-
-
-
-
-- Med politisk prosess mener jeg en sentralregjerings evne til å skape en samfunnsorden som er både rettferdig og stabil for flest mulig, ved hjelp av lov.
-
-
-
-
-
-- Og med markedsprosess mener jeg fri og frivillig utveksling som interaksjonsform og mekanisme for samarbeid.
-
-
-
-Filosofisk sett kan libertarianeren være enig i noen av de konservatives og sosialistenes mål, men empirisk sett vil han eller hun være uenig i virkemidlene deres.
-
-
-Så libertarianeren vil være enig med sosialistene i at man må hjelpe undertrykte arbeidere, men han vil ikke tro at minstelønn kan oppnå dette målet, i hvert fall ikke en ensartet minstelønn som innføres overalt.
-
-
-
-Ironisk nok forsvarer mange av sosialismens talsmenn økonomisk likhet, men historien har vist at når land forsøker å utrydde den spontane verdiskapingsprosessen som er forbundet med frie markeder, skaper de den verst tenkelige formen for ulikhet: et samfunn der massene sulter, mens sentralplanleggerne lever som konger.
-
-
-
-Sentral planlegging kan ikke fungere, fordi den forsøker å erstatte allvitende intelligens med et distribuert, fragmentert system med lokal, men sammenkoblet kunnskap.
-
-
-På samme måte vil libertarianeren være enig i den konservative ideen om at sivilisasjonen må forsvares, men vil ikke være enig i å lage lover og reguleringer som øker restriksjonene, utgiftene og den offentlige byrden. Tvert imot vil libertarianeren forsvare det eneste middelet som er både rettferdig og effektivt: valgfriheten eller prinsippet om ansvarlig frihet, det vil si markedsprosessen.
-
-
-
-Libertarianere mener at den økonomiske og sosiale orden er selvorganiserende, forutsatt at individets rettigheter og plikter er klart definert. Deres tilnærming er basert på respekt for eiendomsretten og ikke-innblanding fra statens side, slik at samfunnet kan organisere seg selv.
-
-
-For libertarianere er den sanne reguleringen av samfunnet ikke demokratiet, som har sin berettigelse som et middel til å utpeke representanter, men først og fremst det frie markedet. Uten et fritt marked finnes det ikke noe kompass. For markedet er den beste indikatoren på personlige preferanser. I et fritt marked utøver aktørene sin rett til å bestemme over sine egne anliggender fullt ut.
-
+Alt dette krever imidlertid at rettigheter og plikter er klart definert. Markedet kan være en spontan prosess, men det må samsvare med loven, særlig eiendomsrettigheter, og det krever statens ikke-inngripen i økonomiske og sosiale anliggender. Staten bør begrense seg til å håndheve grunnleggende rettigheter som eiendomsrett og avstå fra å gripe inn i alt annet.
 
 
 ## Individualisme vs. kollektivisme
-
 
 <chapterId>ba205097-37f8-4503-9c1e-97eb31e7678c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=PsEfNf5xHdk)
 
+![Individualisme versus kollektivisme](./assets/en/111.webp)
 
+En videre skillelinje mellom politiske familier gjelder forholdet mellom individet og samfunnet. Er kollektivet et mål eller et middel for individet? Og omvendt, er individet et mål eller et middel for kollektivet? Disse to spørsmålene definerer motsetningen mellom individualisme og kollektivisme.
 
-Individualisme og kollektivisme representerer to fundamentalt motsatte syn på forholdet mellom individ og samfunn.
+### Individualisme ifølge Mises
 
+Den østerrikske økonomen Ludwig von Mises ga en avgjørende avklaring av dette spørsmålet. Han skrev: *Bare individet tenker, bare han resonnerer, bare han handler.*
 
-Den østerrikske økonomen Ludwig von Mises pleide å si Bare individet tenker, bare han resonnerer, bare han handler.
+Dette betyr at individualisme, riktig forstått, motsetter seg forestillingen om at sosiale enheter som «samfunnet» eller «nasjonen» kan eksistere uavhengig av individene som utgjør dem. **Et kollektiv har ingen egen eksistens utover handlingene til sine individuelle medlemmer.** Vi kan ikke meningsfullt snakke om statens, et lands, et selskaps eller en fagforenings handling. Hvorfor? Ganske enkelt fordi disse enhetene ikke har noen egen vilje eller tanke. De handler bare gjennom individer som mellomledd.
 
+Tenk på et språk: fransk, engelsk, tysk. Hvert eksisterer bare gjennom dem som snakker det. Hvis ingen snakker det, slutter det å eksistere. Det samme prinsippet gjelder for alle sosiale legemer.
 
+### Den moralske dimensjonen
 
-Resultatet er at et kollektiv ikke har noen eksistens eller virkelighet, annet enn handlingene til individene som er dets medlemmer. Samfunnet har ingen vilje, ingen tanke. Alle kollektive handlinger må forklares ut fra deres individuelle bestanddeler. Vi kan ikke snakke om "statens, et lands, en bedrifts eller en fagforenings handlinger": Det er alltid enkeltindivider som handler.
+Dette metodologiske synspunktet kan overføres til den moralske og politiske sfæren. **Den eneste moralske aktøren er individet.** Det er individet som kan kvalifiseres som godt eller dårlig, rettferdig eller urettferdig. Det finnes ikke noe rettferdig eller urettferdig samfunn i seg selv; man må undersøke relasjonene mellom individer. For å dømme moralsk må man henvise til handlende individer, ikke til kollektiver.
 
+Et annet poeng Mises fremhever: individet er ikke et isolert atom. Individualisme bør ikke forveksles med selvtilstrekkelighet eller misantropi. Mennesket er et sosialt vesen. Individualisme fremmer samarbeid og sammenslutning, **forutsatt at de hviler på deltakernes frie samtykke.** Mennesket kan bare utvikle sitt fulle potensial i relasjon med andre, på betingelse av at dette samarbeidet er frivillig.
 
+### Kant og moralsk autonomi
 
-Ethvert sosialt organ eksisterer derfor bare gjennom de som i sine handlinger gjør krav på å være en del av det. Hvis ingen gjorde krav på det, ville det opphøre å eksistere. På samme måte eksisterer et språk bare gjennom de individene som snakker det. Hvis de slutter å snakke det, opphører det å eksistere.
+![Kant og opplysningstidens prinsipp om moralsk autonomi](./assets/en/112.webp)
 
+Denne individualismen har dype røtter, sporbare til kristendommen, til gresk og romersk filosofi. Men la oss sitere opplysningsfilosofen Immanuel Kant. For ham forsvarer individualisme individers evne og rett til å dømme for seg selv, velge sine egne mål og handle deretter.
 
+Dette er hvert vesens umistelige rett til å forbli herre og eier over sin person og over godene han legitimt har tilegnet seg, og **til å være i stand til å definere sine egne mål og verdier.** Dette leder til bekreftelsen av at mennesket er et mål i seg selv, ikke bare et middel. En penn er bare et middel, kastet når den ikke lenger trengs. Bare et vesen utrustet med fornuft er et mål i seg selv.
 
-Fra et etisk og juridisk synspunkt er individet den eneste moralske aktøren. Det finnes ingen annen referanse for å definere hva som er godt og ondt. Forestillinger om rett og galt, om rettigheter og plikter, gir bare mening for enkeltindivider, ikke for samfunn, land eller til og med dyr.
+Dette er både et antropologisk prinsipp (forankret i menneskets evne til autonomi og selvstyre) og et moralsk prinsipp. Kants berømte formel, *Sapere aude* («Våg å tenke selv»), hentet fra dikteren Horats, ble opplysningstidens motto i hans essay *What is Enlightenment?* fra 1784. Den symboliserer utgangen fra umyndighet: en tilstand der mennesker er ute av stand til å bruke sin forstand uten ledelse fra en overordnet klasse eller autoritet.
 
+Kant oppmuntrer mennesker til å frigjøre seg, tenke selv, ta fullt ansvar for sin tenkning. En av hindringene for denne autonomien, bemerker Kant, er latskap og feighet: **fristelsen til å søke tilflukt i ferdigtenkning**, som også er det som leder til kollektivisme.
 
+Konsekvensen for institusjoner er klar: de eksisterer for å tjene individers blomstring, deres beskyttelse og realiseringen av deres fulle potensial. Samfunnet er et middel, ikke et mål.
 
-Det grunnleggende antropologiske prinsippet som ligger til grunn for denne velforståtte individualismen, ble klart formulert av Immanuel Kant på 1700-tallet: *Våg å tenke selv*.
+### Den kollektivistiske filosofien
 
+Kollektivisme oppstår delvis fordi den tilbyr en form for lettelse, beskyttelse og trygghet som virker forførende på mange. Individualismen som bekrefter hver persons autonomi, kan virke skremmende. Er alle klare til å påta seg fullt ansvar for sin eksistens? Ikke alltid, og **det er noen ganger enklere å støtte seg på en autoritet som påtvinger en livsform.**
 
+I den kollektivistiske oppfatningen må individers private interesser systematisk underordnes beslutninger tatt i navnet til en overordnet enhet som angivelig legemliggjør allmenninteressen eller fellesgodet. Denne enheten kan være staten, nasjonen, kirken, men i dag, med sosialdemokratiet, er den fremfor alt det demokratiske flertallet. Flertallsregelen bestemmer rett og galt, sant og usant.
 
-Dette påbudet, opprinnelig hentet fra en epistel av Horats som ble publisert tjue år før vår tidsregning, ble tatt opp og popularisert av Immanuel Kant i essayet *Hva er* opplysningstiden? som ble publisert i 1784. For Kant er denne setningen opplysningstidens motto, og symboliserer menneskets vei ut av sin minoritet, en tilstand av manglende evne til å bruke sin forstand uten veiledning fra andre, som det selv er ansvarlig for, på grunn av latskap og feighet.
+Kollektivet blir prioriteten. Kollektive mål overgår individuelle mål, og institusjoner tjener samfunnet selv på bekostning av personer.
 
+### Marx og historisk materialisme
 
+![Marx og den sosiale eksistensens forrang over individuell bevissthet](./assets/en/113.webp)
 
-Mennesket er verken et dyr eller en slave. Mennesket tilhører seg selv og er utstyrt med en fri vilje, en evne til å foreta valg basert på fornuft. Kort sagt er mennesket et mål i seg selv, ikke et middel for andre. Det er dette som gir mennesket dets moralske verdighet.
+En stor kollektivistisk tenker er Karl Marx, som rettferdiggjorde kollektivets overlegenhet over individet gjennom det han kalte historisk materialisme:
 
+> Det er ikke menneskenes bevissthet som bestemmer deres eksistens; tvert imot er det deres sosiale eksistens som bestemmer deres bevissthet.
 
+Bevissthet er ikke primær, men sekundær, bestemt av sosial eksistens: tilstanden i økonomiske og sosiale relasjoner, motsetningen mellom klasser. **Individet er ingenting utenfor denne virkeligheten.** Det tenker gjennom sin sosiale klasse, lever, oppfører seg og handler slik klassen dikterer, men ubevisst. Derav det marxistiske imperativet om å bli bevisst sin klasses interesser for å realisere dem.
 
-Men ved å gi mennesker denne makten kan individualismen likevel virke skremmende for mange. Er vi klare til å ta ansvar for våre egne liv?
+### Kollektivismens mange ansikter
 
+Som Mises observerte: *Det finnes ingen enhetlig kollektivistisk ideologi, men mange kollektivistiske doktriner. Hver opphøyer en annen kollektiv enhet.*
 
+Vi kan klassifisere kollektivismer i to grupper. Høyreorienterte kollektivismer, som nasjonalsosialisme og Mussolinis fascisme, opphøyer nasjonen og rasen som enheter overlegne individet. Venstreorienterte kollektivismer, kommunisme og sosialisme, gir forrang til arbeiderklassen og sosial likhet, og behandler sosial klasse som den øverste enheten som definerer individet.
 
-Kollektivisme, enten den er økonomisk eller politisk, er en filosofi som baserer seg på at en autoritet utenfor individet - staten eller majoriteten - skal påtvinge individet en bestemt levemåte og økonomiske tilstander. Beslutninger tas i navnet til denne overordnede enheten. Individets private interesser må derfor underordnes denne.
+Spekteret strekker seg fra sosialdemokrati til nasjonalsosialisme, men **disse doktrinene konvergerer i en delt fiendtlighet mot individuell frihet og en rettferdiggjøring av vold.**
 
+### Poppers åpne og lukkede samfunn
 
+![Karl Poppers skille mellom åpne og lukkede samfunn](./assets/en/114.webp)
 
-Kollektivismen setter altså kollektivet, enten det er nasjonalt, kulturelt eller religiøst, i forgrunnen, og ser på individet som et middel til å styrke og sikre denne overordnede enhetens eksistens. Kollektivets mål, enten det er nasjonen, staten eller kirken, er overordnet individets. Slik sett er institusjonenes primære funksjon å tjene samfunnet, selv på bekostning av enkeltindividet.
+Karl Popper, den østerrikskfødte filosofen som først emigrerte til New Zealand og deretter til Storbritannia, analyserte disse motsetningene med særlig klarhet i *The Open Society and Its Enemies*:
 
+> Jeg kaller det lukkede samfunn det magiske eller stammemessige samfunnet, og det åpne samfunn det der individer konfronteres med personlige beslutninger.
 
+To samfunnsmodeller, to prinsipper for sosial organisering som står helt i motsetning til hverandre. Det lukkede samfunnet er kollektivistisk, hvilende på stammementalitet: en avvisning av kritisk frihet, ytre utveksling og fremskritt, og idealiseringen av en statisk orden. **Det åpne samfunnet anerkjenner individets rett til å dømme for seg selv**, og gir forrang til fritt valg av verdier, overbevisninger og relasjoner.
 
-For Karl Max: "Det er ikke menneskenes bevissthet som bestemmer deres eksistens; tvert imot er det deres sosiale eksistens som bestemmer deres bevissthet". Marx understreket altså at individet er dypt forankret i den sosiale virkeligheten, og at dets bevissthet er bestemt av denne virkeligheten. Individet er med andre ord bare virkelig i den grad det er medlem av samfunnet, og dets individuelle eksistens har bare mening i sammenheng med klassekampen for det felles beste.
+### Totalitarisme som det moderne lukkede samfunnet
 
+![Totalitarisme som den radikale moderne formen for det lukkede samfunnet](./assets/en/115.webp)
 
+Totalitarisme er det moderne uttrykket for det lukkede samfunnet. Det representerer den mest radikale formen, bygget på dogmatisk ideologi som leder til systematisk sensur, statlig propaganda, lederkult og mekanismer for kontroll og overvåkning. Individet eksisterer ikke som sådan; det finnes **en form for avhumanisering der individet mister sine røtter**, sitt minne og sine overbevisninger, og blir fullstendig absorbert av fellesskapet og derfor lett å manipulere.
 
-Ifølge Mises *Det finnes ingen enhetlig kollektivistisk ideologi, men mange kollektivistiske doktriner. Hver av dem opphøyer en annen kollektiv enhet og krever at alle anstendige mennesker underkaster seg den. Hver sekt dyrker sitt eget idol og er intolerant overfor rivaliserende idoler* (Theory and History).
+### Det åpne samfunnets skjørhet
 
+![Det åpne samfunnets iboende skjørhet](./assets/en/116.webp)
 
+Popper understreker med stor treffsikkerhet at **det åpne samfunnet forblir iboende skjørt.** Dette samfunnet, som favoriserer kritisk tenkning, individuell frihet og ansvar, kan lett gli inn i kollektivisme gjennom en fascinasjon for autoritet.
 
-For Mises finnes det høyreorienterte og venstreorienterte kollektivismer. Nasjonalsosialismen, sammen med Mussolinis fascisme, er høyrekollektivismer. Kommunisme og sosialisme er venstreorienterte kollektivismer. For ham er det ingen stor forskjell mellom Hitlers nazisme og Stalins kommunisme. Selv om motivasjonen er forskjellig, er det i begge tilfeller snakk om et hat mot individuell frihet og en rettferdiggjøring av vold.
+Hvorfor? Kanskje gjennom mangel på trygghet. Ansvaret som individualismen innebærer, kan virke skremmende og risikabelt. Man må ta sine egne valg og kan mislykkes. Fristelsen oppstår til å søke tilflukt i kollektiv beskyttelse eller i nostalgiske tendenser mot en idealisert fortid. Det åpne samfunnet står overfor utfordringer som truer det fortsatt i dag, særlig de kommunitære impulsene vi ser utvikle seg i vår tid, og den tilbakevendende fristelsen til vold.
 
 
-
-Basert på dette skillet kan de politiske familiene analyseres på følgende måte:
-
-
-*To motstridende samfunnsoppfatninger vil alltid være uforsonlige: den individualistiske - for hvilken mennesket er et fornufts- og frihetsvesen som er i stand til å organisere sine egne relasjoner til andre mennesker - og den kollektivistiske, ifølge hvilken **samfunnet** eksisterer uavhengig av menneskene som utgjør det, deres ønsker og viljer. Den kollektivistiske oppfatningen har fått noen av sine mest uhyrlige konkretiseringer i den marxistiske totalitarismen, men det er også den som sosialdemokratiet tilsynelatende er knyttet til*, Pascal Salin, Libéralisme.
-
-
-
-Filosofen Karl Popper skrev i 1945 i sin bok Det åpne samfunn og dets fiender *Jeg kaller det lukkede samfunnet for det magiske eller stammesamfunnet, og det åpne samfunnet for det samfunnet der individene konfronteres med personlige beslutninger* (Tome I, s. 199).
-
-
-Ifølge Karl Popper er det åpne og det lukkede samfunnet grunnleggende begreper som beskriver radikalt forskjellige prinsipper for samfunnsorganisering, uten mulighet for syntese mellom dem:
-
-
-
-
-  - Det lukkede samfunnet er et samfunn som av prinsipp avviser individets kritiske frihet, utveksling med omverdenen og det fremskrittet og mangfoldet som følger av dette. Det er en samfunnsmodell som er forankret i en kollektiv mentalitet som frykter forandring, avviser kritikk og individuelt ansvar, og som idealiserer en statisk, harmonisk og ofte stammebasert orden.
-  - Det åpne samfunnet kjennetegnes av menneskets evne til å utøve kritisk dømmekraft og individuelt ansvar. Med det følger et nytt prinsipp for sosial organisering basert på ansvarets forrang, fritt valg av verdier, overbevisninger, utvekslinger og relasjoner, innenfor rammen av abstrakte regler for riktig oppførsel.
-
-
-
-Totalitarisme er den politiske formen dette lukkede samfunnet tar når det implementeres på en radikal, moderne måte, basert på en ideologi om sikkerhet og ved hjelp av statlige kontrollmekanismer (sensur, propaganda, lederkult) for å påtvinge tvungen stabilitet, på bekostning av individuelle friheter og kritisk tenkning. De er besatt av å opprettholde sin hierarkiske orden og underkaste seg sine uforanderlige tradisjoner og kollektive overbevisninger. I disse samfunnene tar den sosiale kontrollen form av en konstant og tett gjensidig overvåkning, mens individet ikke eksisterer som sådan, men domineres og omsluttes av fellesskapet.
-
-
-Hovedforskjellen mellom de to samfunnsmodellene ligger i deres holdning til kunnskap, endring og politisk organisering:
-
-
-
-
-
-- Det åpne samfunnet er dynamisk, kritisk og fokusert på individuell frihet og muligheten for å reformere normer.
-- Det lukkede samfunnet er statisk, dogmatisk og totalitært, og søker stabilitet gjennom kontroll og en tilbakevending til en fortidig, idealisert orden.
-
-
-
-Denne motsetningen understreker den grunnleggende uforenligheten mellom en modell som bygger på individuell frihet og kritisk fornuft, og en annen som bygger på organisk enhet, irrasjonalitet og kollektiv underkastelse.
-
-
-
-Men det åpne samfunnet er skjørt, alltid uferdig og blir stadig satt spørsmålstegn ved. Det konfronteres med nostalgiske tendenser, tapet av den trygghetsfølelsen som stammesamfunnet representerte for sine medlemmer, og ønsket om å gjenopprette den opprinnelige samfunnsordenen, eventuelt med vold.
-
-
-
-
-# Den politiske trenden blant bitcoinere
-
+# Den politiske tendensen blant bitcoinere
 
 <partId>c0de3201-5c74-4854-b872-15a27165d228</partId>
 
 
-
-## Den politiske trenden blant bitcoinere
-
+## Den politiske tendensen blant bitcoinere
 
 <chapterId>89b42c72-bd73-465d-b420-e35d7c5de07c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=ml33z_RYTEk)
 
+![Bitcoin som politisk prosjekt](./assets/en/117.webp)
 
-
-På slutten av dette kurset mener vi det er viktig å ta opp den politiske posisjoneringen til Bitcoin og bitcoinere.
-
-
+I denne siste delen av kurset vender vi oss til Bitcoin. Hva er dets natur? Er det et politisk prosjekt? Er det høyreorientert, venstreorientert eller noe helt annet? Og hva er den politiske tendensen blant dem som bruker det? Dette er spørsmålene vi nå må ta opp.
 
 ### Er Bitcoin et politisk prosjekt?
 
+Bitcoin er en desentralisert [kryptovaluta](https://planb.academy/resources/glossary/cryptocurrency), skapt av Satoshi Nakamoto i 2008, som muliggjør [peer-to-peer](https://planb.academy/resources/glossary/peertopeer-p2p) finansielle transaksjoner uten å kreve tillit til noen mellommann.
 
+Det styres av en programvareprotokoll med [åpen kildekode](https://planb.academy/resources/glossary/foss). Det finnes ingen CEO, intet hovedkontor, ingen markedsføringsplan, ingen utpekt autoritet. **Intet selskap står bak Bitcoin, og ingen politisk enhet eller regjering kontrollerer det.**
 
-Bitcoin er en desentralisert [kryptovaluta](https://planb.academy/resources/glossary/cryptocurrency), opprettet av Satoshi Nakamoto i 2008, som muliggjør upålitelige, [peer-to-peer](https://planb.academy/resources/glossary/peertopeer-p2p)-finansielle transaksjoner.
+#### En tilsynelatende nøytral teknologi
 
+![Bitcoins desentraliserte natur: ingen CEO, open source, peer-to-peer](./assets/en/118.webp)
 
-Bitcoin styres av en programvareprotokoll med [åpen kildekode](https://planb.academy/resources/glossary/foss), uten administrerende direktør, uten hovedkontor, uten markedsføringsbudsjett og uten noen utpekt myndighet. Dette betyr at ingen politisk enhet eller myndighet har kontroll over det.
+Denne desentraliserte naturen kan skape inntrykk av at Bitcoin ganske enkelt er en teknologisk innovasjon, nøytral og apolitisk, sammenlignbar med Internett i det tjuende århundre eller trykkpressen i det fjortende. Likevel vet vi allerede at både Internett og trykkpressen, til tross for å være teknologiske innovasjoner, **hadde dype sosiale, økonomiske og politiske konsekvenser**.
 
+Det samme gjelder Bitcoin, og Satoshi Nakamoto etterlot oss meldinger for å gjøre intensjonen sin klar.
 
+#### Feilen i fiat-systemet
 
-Denne nøytraliteten kan virke foruroligende på noen, og kan få en til å tro at dette er en upolitisk teknologi, som Internett på 1900-tallet eller boktrykkerkunsten på 1300-tallet.
+> Det grunnleggende problemet med konvensjonelle valutaer er tilliten som må plasseres i dem for at de skal fungere. Du må stole på at sentralbanken ikke devaluerer valutaen, men historien til fiat-valutaer er full av brudd på denne tilliten.
 
+Dette sitatet fra Satoshi Nakamoto er avgjørende for å forstå filosofien bak Bitcoin. Fiat-valutaer er valutaer som ikke er støttet av en vare, av noe virkelig og fysisk. De er papirpenger som hviler helt på autoriteten til institusjonen som påtvinger dem, og dermed på tillit. **Når en institusjon har total kontroll over penger, blir fristelsen til misbruk for sterk.** Historien har vist dette gjentatte ganger.
 
+#### Genesis block-meldingen
 
-Selv om Bitcoin i seg selv verken er høyre- eller venstreorientert, og heller ikke tilhører noen religion, ble den likevel oppfunnet for å løse et problem - nemlig tilliten til finansielle børser og sentraliserte enheter. Og det er i seg selv et politisk problem.
+**Bitcoin ble født i direkte reaksjon på finanskrisen i 2008** og den monetære intervensjonismen som fulgte. I den første blokken som noen gang ble utvunnet, la Satoshi Nakamoto inn en symbolsk overskrift fra London Times:
 
+> The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout.
 
+![Genesis Block-tittel](./assets/en/119.webp)
 
-![Bitcoin Whitepaper Abstract](./assets/fr/020.webp)
+Intensjonen er umiskjennelig: å tilby et alternativ til sentraliserte banksystemer.
 
+#### De ødeleggende konsekvensene av monetær intervensjonisme
 
+![De ødeleggende konsekvensene av monetær inflasjon og fiat-valutakriser](./assets/en/120.webp)
 
-Når vi leser Satoshi Nakamotos [hvitbok](https://planb.academy/resources/glossary/white-paper), ser vi at Bitcoin ble utformet for å tilby innovativ beskyttelse mot to store trusler i samtiden: utbredt overvåkning og akselerasjon av kunstig pengeskaping.
+Hver gang en krise ryster finansverdenen, eller en global hendelse som Covid-19-pandemien rammer, skapes milliarder på milliarder av dollar og euro for å redde banker, bedrifter eller individer. Disse redningsplanene har ødeleggende konsekvenser.
 
+Injeksjonen av penger i systemet (monetær inflasjon) oversettes til en devaluering av valutaen. Med samme pengemengde kan man kjøpe mindre og mindre, fordi disse friske pengene ikke gjenspeiler genuin økonomisk vekst. **Denne inflasjonen er en skjult skatt, pålagt uten borgernes samtykke.** De fleste ser ikke at det er statlig politikk som førte til stigende priser, som ganske enkelt er uttrykk for valutadevaluering. Det utgjør lovlig tyveri, institusjonalisert plyndring.
 
+Konsekvensene følger logisk: utarming av middelklassen (mens de rike kan fange opp nye penger som kommer inn i systemet gjennom banker og plassere dem i spekulative aktiva), frykt for fremtiden, sosiale og politiske spenninger, utrygghet og mer generelt tap av tillit til tradisjonelle institusjoner. Denne flommen av penger kan også nære politisk og finansiell korrupsjon, kameraderi mellom staten og store selskaper, og voksende byråkrati.
 
-1. Selv om Bitcoin ikke er helt anonymt, forbedrer det personvernet betraktelig ved å begrense den økonomiske overvåkingen av enkeltpersoner. Denne muligheten gjør det for eksempel mulig for en dissident i et diktatur å oppbevare og utveksle verdier på nettet uten frykt for konfiskering eller sensur. Selv om dette kan virke langt unna for borgere i demokratier, er det et avgjørende skritt fremover for den individuelle friheten.
+![Bitcoin Whitepaper-sammendrag](./assets/en/121.webp)
 
+### Bitcoin som et prosjekt for sosial transformasjon
 
+![Bitcoin som verktøy for å begrense statsmakt og frigjøre individer](./assets/en/122.webp)
 
-2. Bitcoin gjør det mulig for alle å beskytte sparepengene sine mot den plyndringen av privat eiendom som pengeinflasjonen innebærer. Det er et forsøk på å utfordre statens kontroll over forvaltningen av penger som byttemiddel, og dermed å konkurrere med staten. Finanskrisen i 2008 og covid-19-pandemien har satt søkelyset på svakhetene i det nåværende systemet. De billioner av dollar som ble trykket ut av løse luften for å hindre økonomien i å kollapse ytterligere, hadde ødeleggende virkninger som vi fortsatt betaler for.
+**Bitcoin går derfor langt utover en enkel finansiell eller teknologisk innovasjon.** Det ble unnfanget med tre mål:
 
+1. **Å begrense staters makt over penger**, ved å hindre institusjoner i å bruke valuta til politiske formål som offentlige utgifter, kriger og ideologisk kontroll.
+2. **Å frigjøre individet**, ved å gjenopprette kontroll over ens formue og liv. En regjering kan ta euroene fra bankkontoen din, huset ditt, aksjene dine, gullet ditt. Men den kan ikke ta bitcoinene dine, fordi Bitcoin gjennom sin desentraliserte natur unnslipper overvåkning og kontroll. Du holder det selv, uten å være avhengig av noen betrodd tredjepart.
+3. **Å beskytte mot [inflasjon](https://planb.academy/resources/glossary/inflation).** Bitcoin er en deflatorisk valuta; tilbudet er begrenset til 21 millioner enheter, og ingen institusjon, bank eller regjering kan skape mer. Verdien kommer både fra nytten og knappheten.
 
+#### Bitcoin som individuell suverenitet
 
-![Bitcoin Counterflow Abstract](./assets/fr/021.webp)
+![Bitcoin individuell suverenitet](./assets/en/123.webp)
 
+I tradisjonell finans kan man ikke virkelig eie sine egne aktiva. Det vi har, er alltid krav på finansielle mellommenn. **Vi er helt avhengige av bankinstitusjoner.** Med Bitcoin har vi direkte og suverent eierskap til beholdningene våre. Det er ganske enkelt handlingen å være sin egen bank, å holde de private nøklene som gir tilgang til ens bitcoins. Hvis vi holder våre egne nøkler, kan ingen konfiskere dem, fordi de bor i våre sinn.
 
+#### En trussel mot velferdsstaten
 
-Bitcoin er altså mye mer enn en finansiell teknologi, det er et prosjekt for å forandre verden, for å forbedre den. Det er et ambisiøst politisk prosjekt for å omdefinere maktforholdene mellom individer og institusjoner:
+![Bitcoin som en utfordring mot velferdsstatens fiskale og monetære monopol](./assets/en/124.webp)
 
+Bitcoin representerer også en utfordring for velferdsstaten: en stat som bruker mer enn inntektene sine for å tilfredsstille krav om økonomiske og sosiale rettigheter (trygd, arbeidsledighetstrygd, pensjoner). Bitcoin setter spørsmålstegn ved de tre pilarene dette systemet hviler på:
 
+1. **Det fiskale systemet**, som er utilstrekkelig til å dekke alle utgifter.
+2. **Det monetære monopolet**, evnen til å utstede penger for å finansiere utgifter gjennom gjeld.
+3. **Overvåkning av transaksjoner**, evnen til å hindre mennesker i å bruke noen annen valuta enn statens påtvungne fiat.
 
-> Det grunnleggende problemet med konvensjonelle valutaer er tilliten man må ha til dem for at de skal fungere. Man må stole på at sentralbanken ikke devaluerer valutaen, men fiat-valutaenes historie er full av brudd på denne tilliten.
+Tenk på hulelignelsen, oppdatert for vår monetære tidsalder. Dypt inne i hulen ser fanger skygger på veggen og ser euroen, og forestiller seg at den er den eneste mulige valutaen, og stoler på autoriteten som utsteder den. Så rømmer noen fanger ut i friluft og oppdager Bitcoin. **Bitcoin er en vei ut, et middel til frigjøring fra hulen av monetære illusjoner.**
 
-Dette sitatet fra Satoshi Nakamoto er grunnleggende for å forstå filosofien bak Bitcoin. Satoshi fremhever feilene i Fiat-systemet, som er basert på tillit til sentraliserte institusjoner, og foreslår Bitcoin som et tillitsløst alternativ.
+#### Beskyttelse for dissidenter og ofre for undertrykkelse
 
+Bitcoin tjener også som beskyttelse for dissidenter og ofre for undertrykkelse i land som opplever krig, diktatur eller hyperinflasjon. Dette kan virke fjernt for oss i moderne demokratier, men **denne evnen til sensurmotstand og forsterket personvern er et verdifullt fremskritt** for individuelle friheter.
 
+### Et moralsk prosjekt med politiske konsekvenser
 
-Utgangspunktet for Satoshi Nakamotos intellektuelle tilnærming er derfor folks overdrevne tillit til fiat-valuta og den falske troen på at staten kan løse kriser. I den første utvunnede blokken i Bitcoin-historien satte Satoshi Nakamoto inn en symbolsk setning fra en forsideartikkel i London Times:
+![Bitcoin som moralsk prosjekt: eiendom, arbeid og personvern](./assets/en/125.webp)
 
+Til slutt: **Bitcoin ble ikke designet for å gjøre mennesker rike, men for å gjøre dem frie.** Det er ikke høyreorientert eller venstreorientert. Det er først og fremst et moralsk prosjekt med politiske konsekvenser. Man kan omfavne Bitcoin uavhengig av politisk tilhørighet, fordi det ikke er knyttet til noen ideologi, noe land, noen religion.
 
+Bitcoin oppnår tre ting. For det første muliggjør det effektiv eiendom, som er et grunnleggende insentiv til individuelt ansvar: når man eier noe, tar man vare på det. For det andre beskytter det verdien som skapes av arbeid: når man eier fruktene av sitt arbeid, oppmuntres man til å arbeide og yte sitt beste. For det tredje bevarer det konfidensialitet og personvern, en grunnleggende rett, fordi når man bare kan avsløre det man velger å avsløre, lever man uten frykt og kan etablere ekte tillitsforhold.
 
-> The Times 03/Jan/2009 Forbundskansleren på randen av en ny redningsaksjon for bankene.
+Uten eksplisitt å gjøre krav på noen politisk leir, **bærer Bitcoin i seg frøene til en stille revolusjon**, en som først er moralsk og deretter politisk.
 
-![Genesis Block Title](./assets/fr/022.webp)
+Men Bitcoin dukket ikke opp fra intet. Det hviler på fremskritt i matematikk, fysikk, informatikk og filosofi. Satoshi Nakamoto, selv om han var briljant, bygget på ideer som allerede var i luften. Blant de viktigste av disse var ideene til [cypherpunk](https://planb.academy/resources/glossary/cypherpunks)-bevegelsen.
 
 
-
-Det er åpent for tolkning hvorfor denne tittelen er tatt med i [genesis-blokken](https://planb.academy/resources/glossary/genesis-block). Men den kan fremstå som Satoshis kommentar til de tradisjonelle finansinstitusjonenes fiasko, og som et uttrykk for Bitcoins mål: å tilby et alternativ til sentraliserte banksystemer.
-
-
-
-Når staten innfører streng kontroll over alle transaksjoner (for eksempel ved å begrense kontanter eller innføre en sentralisert digital valuta), har den total kontroll over økonomien, på bekostning av individers valgfrihet og suverenitet. Ved å overvåke alle transaksjoner kan staten bedre identifisere nye skattekilder og innføre strenge reguleringer.
-
-
-
-Likevel ble Bitcoin utviklet for å fungere uten innblanding fra sentralbanker eller andre statskontrollerte finansielle mellomledd. På grunn av sin desentraliserte, pseudonyme natur og motstand mot manipulasjon kunne den svekke grunnlaget for velferdsstaten ved å redusere dens kontroll over penger, beskatning og det finansielle systemet.
-
-
-
-En av de viktigste egenskapene ved Bitcoin er altså evnen til å eie seg selv. I den tradisjonelle finansverdenen kan du ikke eie deg selv. Det er alltid finansielle mellommenn som er villige til å gi deg tilgang til en konto.
-
-
-
-Bitcoin ble utformet for å begrense myndighetenes makt over valutaen.
-
-
-Den forhindrer bruk av penger til politiske formål som offentlige utgifter, kriger, ideologisk formatering og meningskontroll.
-
-
-
-
-- Myndighetene kan ta euroene fra bankkontoen din.
-- Den kan ta huset ditt og landet ditt.
-- Den kan ta aksjene dine.
-- Den kan ta gullet ditt.
-- Den kan ta alt fra deg.
-
-
-
-Men myndighetene kan ikke ta bitcoinsene dine, fordi de ikke kan konfiskere innholdet i tankene dine.
-
-
-
-Derfor bygger Bitcoin på en grunnleggende filosofisk forutsetning: Frihet betyr å eie seg selv, fruktene av sitt arbeid og sitt privatliv.
-
-
-
-Slik sett er den drevet av et verdensbilde som både er moralsk og politisk. Når staten har monopol på penger, befinner man seg i et statssystem, enten man er høyre- eller venstreorientert. Bitcoins prosjekt er å tilby alle et fritt pengemarked.
-
-
-
-Men Bitcoin dukket ikke opp ut av intet. Den er basert på fremskritt innen matematikk, fysikk, informatikk og filosofi. Satoshi Nakamoto, selv om han var genial, bygde på ideene til andre innovatører. Blant dem pionerene i [cypherpunk](https://planb.academy/resources/glossary/cypherpunks)-bevegelsen.
-
-
-
-## Hvem er cypherpunks?
-
+## Hvem er cypherpunkerne?
 
 <chapterId>dc18ba9a-c242-472a-a717-531a5f125737</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=IjiyWVW_5Os)
 
+![Cypherpunkerne: pionerer for digital frihet](./assets/en/126.webp)
 
+Cypherpunkerne er pionerene i en bevegelse som forsvarer menneskelig frihet i den digitale tidsalderen. Bitcoins intellektuelle røtter kan ikke forstås uten dem.
 
-Denne bevegelsen ble født på begynnelsen av 1990-tallet av bekymring for menneskers frihet i møte med statlig overvåking i den digitale tidsalderen.
+### Konteksten på 1990-tallet
 
+![Fremveksten av cypherpunk-bevegelsen i 1990-tallets digitale revolusjon](./assets/en/127.webp)
 
+På begynnelsen av 1990-tallet var konteksten særpreget. Bedrifter og stater begynte å utøve økende kontroll over informasjonsteknologier og det fremvoksende Internett. Denne perioden markerte den raske utviklingen av disse teknologiene, men også en voksende uro for masseovervåkning og systematiske brudd på borgernes personvern.
 
-De vokser frem i en kontekst der informasjons- og kommunikasjonsteknologien utvikler seg raskt, men der myndigheter og selskaper også begynner å utøve større kontroll over denne teknologien. Det er en bevegelse som har berøringspunkter med libertarianske og anarkistiske tenkere. Den er motivert av bekymring for masseovervåkning og krenkelse av personvernet.
+Stilt overfor denne uroen kom libertarianske og anarkistiske tenkere sammen for å handle. Deres visjon var klar: **å gjøre anonymitet og finansiell frihet tilgjengelig for alle gjennom digitale kryptografiske verktøy**, og dermed unnslippe statlig kontroll. De satte seg fore å utvikle teknologier som ville gjøre borgere i stand til å bevare sitt personvern og sin autonomi i sine daglige aktiviteter på nettet.
 
+#### E-postlisten og manifestet
 
+![Cypherpunk-visjonen: anonymitet, frihet og kryptografisk motstand](./assets/en/128.webp)
 
-Tanken var å gjøre anonymitet og økonomisk frihet tilgjengelig for alle, takket være digitale kryptografiske verktøy. På denne måten ville myndighetene ikke ha noen kontroll over aktiviteter på nettet.
+I 1992 lanserte Tim May og Eric Hughes den første Cypherpunk-e-postlisten. Denne plattformen ble raskt bevegelsens nervesenter, og samlet utviklere, kryptografer og forkjempere for digital frihet. Det var på den samme listen Satoshi Nakamoto skulle dele Bitcoin [White Paper](https://planb.academy/resources/glossary/white-paper) for første gang i 2008.
 
+I mars 1993 publiserte Eric Hughes *A Cypherpunk's Manifesto*, en relativt kort, men grunnleggende tekst:
 
-
-Den første e-postlisten Cypherpunk, som Satoshi var medlem av, og hvor han først delte Bitcoin-hvitboken, ble lansert i 1992 av Tim May og Eric Hughes. Målet var å støtte utviklingen av ny programvare for å beskytte personvernet.
-
-
-
-Cypherpunk Manifesto, skrevet av Eric Hughes i 1993, oppsummerer filosofien deres:
-
-
-
-> Personvern er avgjørende for et åpent samfunn i den elektroniske tidsalderen (...) Vi kan ikke forvente at myndigheter, selskaper eller andre store anonyme organisasjoner skal garantere personvernet vårt (...) Mitt hovedmål for Cypherpunks er å få folk til å forsvare personvernet sitt, i stedet for å stole på at noen andre skal sørge for det.
+> Privacy is essential to an open society in the electronic age. We cannot expect governments, corporations, or other large organizations to guarantee our privacy.
 >
 
+> Eric Hughes, A Cypherpunk's Manifesto, March 23, 1993.
 
-> Eric Hughes - Cypherpunk Mailingliste, 23. mars 1993.
+![Cypherpunk-grunnleggerne og manifestet fra 1993](./assets/en/129.webp)
 
-Og han legger til:
+Den grunnleggende motivasjonen er klar: **konfidensialitet er et nøkkelelement i frihet, og den må bygges av individer selv**, ikke ventes som en gave fra selskaper eller regjeringer.
 
+#### Filosofi: [kryptografi](https://planb.academy/resources/glossary/cryptography) over institusjoner
 
+Cypherpunkerne setter sin lit til desentraliserte kryptografiske systemer snarere enn til sentraliserte institusjoner som banker eller regjeringer. Dette er et prinsipp som kommer direkte tilbake i Satoshi Nakamotos design for Bitcoin.
 
-> konfidensialitet i et åpent samfunn krever anonyme transaksjonssystemer. Frem til nå har kontanter vært det viktigste systemet av denne typen.
+Politisk søker de å bygge desentraliserte nettverk der beslutninger tas kollektivt, uten at én enkelt enhet kan påtvinge sin vilje. **All sentralisering oppfattes som grunnlagt på tvang snarere enn på samtykke.** Dette gir gjenklang av den libertarianske filosofien om at samtykke er rettferdighetens grunnleggende norm. Ingenting kan være rettferdig hvis det påtvinges av en sentralisert autoritet gjennom makt.
 
-Det er derfor [kryptografi](https://planb.academy/resources/glossary/cryptography) vil bli brukt som et motstandsverktøy mot alle former for statlig og korporativ kontroll. Den sikrer at hver part i en transaksjon bare vet det som er strengt nødvendig for transaksjonen.
+Manifestet sier også at konfidensialitet i et åpent samfunn krever anonyme transaksjonssystemer. Til nå har kontanter vært det primære systemet av denne typen. Men i et digitalt samfunn der kontanter forsvinner, **må en digital valuta med de samme egenskapene for anonymitet oppfinnes.** Og det er nettopp det som skulle komme med Bitcoin.
 
+#### «Cypherpunks write code»
 
+Cypherpunkerne nøyer seg ikke med håp. De griper aktivt inn for å skape rom for frihet og autonomi. Derav formelen som avslutter manifestet:
 
-Cypherpunks tror på kryptografiens evne til å skape rom for frihet og individuell autonomi, slik at folk kan kommunisere og samhandle sikkert og anonymt.
+> Cypherpunks write code.
 
+For Eric Hughes går veien til frihet gjennom aktiv konstruksjon av anonyme systemer som gjør vilkårlige politiske skiller irrelevante. **Kode blir det grunnleggende verktøyet for å omforme en abstrakt frihetsidé til virkelighet.** Det er derfor Satoshi Nakamoto skulle si at han skrev hele Bitcoin-koden før han i det hele tatt skrev white paper.
 
+### Arven: Bitcoin som cypherpunk-prestasjon
 
-De tar til orde for en modell der tilliten plasseres i desentraliserte kryptografiske systemer i stedet for i sentraliserte institusjoner som banker, selskaper eller myndigheter.
+![Cypherpunk-arv og Bitcoin](./assets/en/130.webp)
 
+Fra 2008 og fremover ble Bitcoin den første vellykkede konkretiseringen av en elektronisk valuta som er usensurerbar og suveren. Den tilbyr et desentralisert, pseudonymt monetært alternativ som er vanskelig for myndigheter å kontrollere. Enten det tas i bruk av høyre- eller venstreorienterte aktivister, av frihets- eller likhetsforkjempere, eller ganske enkelt av sparere uten politisk merkelapp, **gir det hvert individ muligheten til å frigjøre seg fra det tradisjonelle finanssystemet** og gjenvinne herredømme over pengene sine, og dermed over sin frihet.
 
+Fra dette synspunktet, uten eksplisitt å hevde tilhørighet til noen politisk leir, bærer Bitcoin frøene til en stille revolusjon og slutter seg til toppen av skiven i Nolan-diagrammet.
 
-#### Cypherpunk-metoden
-
-
-
-> Cypherpunks skriver kode
-
-proklamerer Éric Hughes avslutningsvis i manifestet sitt.
-
-
-
-For ham ligger veien videre i en aktiv konstruksjon av anonyme systemer som gjør vilkårlige politiske skillelinjer irrelevante og unødvendige. Koden er basert på anvendelsen av kryptografi for å forvandle den abstrakte ideen om frihet til en ny økonomisk og samfunnsmessig virkelighet.
-
+![Bitcoin på det politiske diagrammet](./assets/en/131.webp)
 
 
-Cypherpunks finner ingen trøst i håp og ønsker. De griper aktivt inn i begivenhetenes gang og former sin egen skjebne.
-
-
-
-Politisk søker de å bygge desentraliserte nettverk der beslutninger tas kollektivt og ingen enkeltaktør kan påtvinge sin vilje. All sentralisering er basert på tvang, ikke samtykke, med andre ord behandles individer som barn som ikke er i stand til å bestemme selv, og som må straffes hvis de begynner å bestemme over sin egen skjebne.
-
-
-
-Denne filosofien om frihet og aktiv konstruksjon, som er arvet fra Cypherpunks, ble legemliggjort av Satoshi Nakamoto i 2008, med oppfinnelsen av Bitcoin. Han var den første til å sette ideen om en usensurert, suveren elektronisk valuta ut i livet.
-
-
-
-![Cypherpunk Diagramme](./assets/fr/023.webp)
-
-
-
-Bitcoin begrenser statens makt ved å tilby et desentralisert, pseudonymt og vanskelig kontrollerbart monetært alternativ. Enten det er høyre- eller venstreaktivister, frihets- eller likestillingsforkjempere, eller bare sparere uten politisk tilhørighet, gir det enkeltmennesker muligheten til å frigjøre seg fra det tradisjonelle finanssystemet og gjenvinne kontrollen over pengene sine.
-
-
-
-Slik sett bærer Bitcoin kimen til en stille revolusjon i seg, uten at den eksplisitt gjør krav på å tilhøre en politisk leir, og slutter seg til toppen av skiven i Nolans diagram.
-
-
-
-![Politique Diagramme](./assets/fr/024.webp)
-
-
-
-## Hvem skal bestemme?
-
+## Hvem bør bestemme?
 
 <chapterId>cfc7688e-d647-4af1-880d-c70d3ae7d823</chapterId>
 
 
+Gjennom dette kurset har jeg forsøkt å vise at det virkelige skillet ikke går mellom venstre, høyre og sentrum, som alle deler et statisme-postulat. Til syvende og sist deler alle de klassiske politiske familiene en mistillit til det frie markedet og en hang til statlig intervensjonisme.
 
-I dette kurset har jeg forsøkt å vise at det virkelige skillet ikke går mellom venstresiden, høyresiden eller sentrum, som alle har tatt utgangspunkt i et etatistisk postulat. Til syvende og sist deler alle de klassiske politiske familiene en mistillit til det frie markedet og en forkjærlighet for statlig intervensjonisme.
+Men hva med dem som ønsker mindre stat og mindre sentralisering? Bitcoin-brukere, for eksempel, som vil avslutte monopolet på pengeskaping. Hvordan plasserer vi dem på det politiske spekteret?
 
+### Det virkelige skillet
 
+Faktisk ligger **det virkelige politiske skillet i grunnleggende filosofiske prinsipper**: frihet eller tvang, frivillig samtykke eller tvangsmakt, det ansvarlige individet eller kollektivet.
 
-Men hva med dem som ønsker mindre stat og mindre sentralisering? Bitcoin-brukere, for eksempel, som ønsker å avslutte monopolet på pengeskaping. Hvordan plasserer vi dem i dette politiske spekteret?
+Den riktige måten å tenke politikk på er å begynne med etiske prinsipper snarere enn merkelapper. Det politiske spørsmålet blir da: *vil du ta de viktige beslutningene i livet ditt, eller vil du at noen andre skal ta dem for deg?*
 
+På et mer generelt nivå er det filosofiske spørsmålet dette: *bør sosial organisering være produktet av en bevisst plan utformet og påtvunget av den politiske klassen, eller resultatet av en fri utvikling som vokser frem fra frivillige interaksjoner mellom alle aktørene i økonomisk og sosialt liv?*
 
-Den virkelige politiske skillelinjen ligger i grunnleggende filosofiske prinsipper: frihet eller tvang, frivillig samtykke eller tvang, det ansvarlige individet eller kollektivet.
+#### En oversett politisk familie: libertarianerne
 
+Dette nye politiske skillet, basert på motsetningen mellom prinsipper, bringer frem i lyset en politisk familie som er svært reell, men ofte oversett av allmennheten: libertarianerne.
 
+Fra et libertariansk synspunkt **har individer både retten og ansvaret til å ta sine egne beslutninger.** I kontrast mener konvensjonelle politiske familier, fra venstre til høyre, at staten bør ta noen eller mange av de viktige beslutningene i et individs liv og i økonomisk liv generelt.
 
-Den riktige måten å tenke politikk på er å ta utgangspunkt i etiske prinsipper i stedet for merkelapper.
+Men hvorfor skulle noen påtvinge andre sin livsstil og sitt verdensbilde?
 
+#### Frihet som rammeverk for sameksistens
 
+I et genuint frihetsregime kan de som slutter seg til venstresidens idealer leve etter sine prinsipper. De står fritt til å gi fra seg eiendelene sine, dele produksjonsmidlene de eier, eller donere lønnen sin til en organisasjon de velger, som kunne omfordele disse midlene til de mest vanskeligstilte eller støtte kulturelle initiativer og bedrifter som fremmer sysselsetting.
 
-Fra da av var det politiske spørsmålet ikke lenger *vil du selv ta de viktige avgjørelsene i livet ditt, eller vil du at noen andre skal ta dem for deg?
+På samme måte har de som deler høyreorienterte verdier rett til å leve etter sin overbevisning: å arbeide hardt, spare, overføre familie- og nasjonale verdier til barna sine, unngå innhold som strider mot deres moral, eller velge hvem de vil ansette. **Ingen bør påtvinge andre sin livsform.** Det er gjennom markedets frihet og valgets makt at våre mål kan oppnås fredelig.
 
+Kort sagt ligger den grunnleggende divergensen mellom politiske trender i den sentraliserte statens rolle: sosialister og konservative bruker staten til å påtvinge sin visjon om samfunnet, mens libertarianere taler for desentralisering, og overlater til individer og private fellesskap å definere og organisere samfunnet etter sine preferanser og i tråd med eiendomsrettigheter.
 
+### Og hva med Bitcoin?
 
-På et mer generelt nivå er det filosofiske spørsmålet dette: *skal den sosiale organiseringen være et produkt av en bevisst plan utarbeidet og pålagt av den politiske klassen, eller et resultat av en fri utvikling som springer ut av et frivillig samspill mellom alle aktørene i det økonomiske og sosiale livet?
+Det er derfor Bitcoin også er et politisk brudd. Det er et fredelig opprør mot politiseringen av penger og deres konfiskering av en liten minoritet. Bitcoin handler ikke om høyre og venstre. Tvert imot **er det en markedsvaluta i opposisjon til statspenger.**
 
+Statlige penger eller fiat-penger er et tvingende, sentralisert system som er lett å skape, billig og har en uheldig tendens til å tape verdi. Omvendt er markedspenger, historisk illustrert av gull og nå av Bitcoin, en sunn valuta som er vanskelig å produsere, som oppstår frivillig og spontant, og som bevarer sin verdi over lang tid.
 
+Dermed representerer Bitcoin, takket være sitt faste tilbud og sin desentraliserte natur, **den sunneste formen for valuta som noen gang er oppfunnet**, og tilbyr et potensielt alternativ til utvidelsen av statsmakt og den ubegrensede finansieringen av kriger.
 
-**En ignorert politisk familie: libertarianerne**
-
-
-
-Denne nye politiske skillelinjen, basert på prinsipielle motsetninger, bringer frem i lyset en politisk familie som er høyst reell, men som ofte ignoreres av allmennheten: libertarianerne.
-
-
-
-Fra et libertariansk synspunkt har individet både rett og plikt til å ta sine egne beslutninger. I motsetning til dette mener konvensjonelle politiske familier, fra venstre til høyre, at myndighetene bør ta noen eller mange av de viktige beslutningene i enkeltmenneskets liv og i det økonomiske livet generelt.
-
-
-
-Men hvorfor skal noen påtvinge andre sin livsstil og sitt verdensbilde?
-
-
-I et ekte frihetsregime kan de som er tilhengere av venstresidens idealer, leve i tråd med sine prinsipper. De kan gi fra seg sine eiendeler, dele på produksjonsmidlene de eier, eller donere lønnen sin til en organisasjon etter eget valg, som kan omfordele disse midlene til de dårligst stilte eller støtte kulturelle initiativer og virksomheter som fremmer sysselsetting.
+Til slutt er Bitcoin ikke et klassisk politisk prosjekt i betydningen et statlig eller tvingende initiativ. Det er en teknologi som lar individer bestemme for seg selv, noe som paradoksalt nok har vidtrekkende politiske konsekvenser ved å begrense sentraliserte, dominerende makter.
 
 
-
-I dette frihetsregimet har de som deler høyresidens verdier rett til å leve i samsvar med sin overbevisning: å arbeide hardt, å spare, å videreføre familieverdier og nasjonale verdier til sine barn, å unngå innhold som strider mot deres moral, eller å velge å ikke ansette den ene eller andre typen arbeidstaker. Ingen skal påtvinge andre sin egen livsstil. Det er gjennom markedets frihet og valgfrihet at vi kan nå våre mål på en fredelig måte.
-
+![Leonard Read-sitat om frihet og autoritarisme](./assets/en/132.webp)
 
 
-Kort sagt ligger den grunnleggende forskjellen mellom de politiske retningene i den sentraliserte statens rolle: Sosialister og konservative bruker staten til å påtvinge sin samfunnsvisjon, mens libertarianere går inn for desentralisering og overlater til enkeltmennesker og private fellesskap å definere og organisere samfunnet i tråd med sine egne preferanser og i tråd med eiendomsretten.
-
-
-
-**Og hva med Bitcoin?
-
-
-
-Derfor er Bitcoin også et politisk brudd. Det er et fredelig opprør mot politiseringen av penger og en liten minoritets konfiskering av dem. Bitcoin handler ikke om høyre og venstre. Tvert imot, det er en markedsvaluta som står i motsetning til statlige penger.
-
-
-
-Statlige penger eller fiat-penger er et sentralisert tvangssystem som er enkelt å skape, billig og har en uheldig tendens til å miste verdi.
-
-
-
-Markedspenger, historisk illustrert ved gull og i dag ved Bitcoin, er derimot en sunn valuta som er vanskelig å produsere, som oppstår frivillig og spontant, og som beholder sin verdi på lang sikt.
-
-
-
-Bitcoin er dermed den sunneste formen for valuta som noensinne er oppfunnet, takket være sin faste forsyning og desentraliserte natur, og utgjør et potensielt alternativ til ekspansjon av statsmakt og ubegrenset finansiering av kriger.
-
-
-
-Endelig er Bitcoin ikke et klassisk politisk prosjekt, i betydningen et statlig eller tvangsmessig initiativ. Det er en teknologi som lar enkeltpersoner bestemme selv, noe som paradoksalt nok har vidtrekkende politiske konsekvenser ved at det begrenser sentraliserte, dominerende krefter.
-
-
-
-![Leonard Read Quote](./assets/fr/025.webp)
-
-
-
-# Siste del
-
+# Avsluttende seksjon
 
 
 <partId>d886a919-12b0-4e38-86de-7159b98b1864</partId>
 
 
-
 ## Evaluer dette kurset
 
 
-
 <chapterId>f0b8398c-7c15-417e-83b0-42e7aab533dc</chapterId>
-
 
 
 <isCourseReview>true</isCourseReview>
@@ -1932,9 +1631,7 @@ Endelig er Bitcoin ikke et klassisk politisk prosjekt, i betydningen et statlig 
 ## Avsluttende eksamen
 
 
-
-<chapterId>230ddc56-ceb8-11f0-bf47-6f8dd2541da1</chapterId>
-
+<chapterId>f776853b-8303-47d9-8327-d925c594564d</chapterId>
 
 
 <isCourseExam>true</isCourseExam>
@@ -1942,8 +1639,6 @@ Endelig er Bitcoin ikke et klassisk politisk prosjekt, i betydningen et statlig 
 ## Konklusjon
 
 
-
 <chapterId>1dfe6e4a-47d5-48e1-94d0-6ac29b31e161</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>

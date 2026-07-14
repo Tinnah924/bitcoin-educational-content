@@ -1,8 +1,9 @@
-question: Milline ajalooline areng seletab kõige paremini, miks klassikalise liberalismi toetajad Ameerika Ühendriikides võtsid alates 1960. aastatest kasutusele termini "libertaarne"?
-answer: Ameerika liberaalid olid omaks võtnud riikliku sekkumise ja suure valitsuse poliitika, mis oli vastuolus klassikaliste liberaalsete põhimõtetega
+question: "Mida tähendab Friedrich Hayeki kirjeldatud 'spontaanse korra' mõiste?"
+answer: "Sotsiaalsed reeglid ja normid peaksid kujunema vabade individuaalsete interaktsioonide tulemusena, mitte olema autoritaarse planeerimisega peale surutud"
 wrong_answers:
-  - Euroopa liberaalid hakkasid esimesena kasutama terminit "libertarian", mis ajendas ameeriklasi kasutama sama terminoloogiat
-  - Vabariiklik partei keelas ametlikult "liberaalse" terminoloogia kasutamise konservatiivsetes poliitilistes liikumistes
-  - Klassikalised liberaalid tahtsid end eristada Euroopa sotsiaaldemokraatlikest erakondadest, mis saavutasid mõju Ameerikas
-explanation: |
-  Tekstis selgitatakse selgelt, et Ameerika "liberaalid" olid arenenud nii, et toetasid ulatuslikku riiklikku sekkumist selliste programmide kaudu nagu FDRi New Deal ja LBJ Great Society, mis kujutab endast põhimõttelist eemaldumist klassikalise liberalismi laissez-faire'i põhimõtetest. See sundis tõelisi klassikalisi liberaalid võtma kasutusele sõna "liberaal", et eristada end sellest statistilisest arengust. Teised valikud on ebaõiged, sest Euroopa mõju, vabariikliku partei poliitikat või Euroopa sotsiaaldemokraatlikke parteisid ei mainita selle terminoloogilise nihke teguritena.
+  - "Turud kalduvad loomupäraselt monopoli poole, kui riik ei sekku konkurentsitasakaalu säilitamiseks"
+  - "Demokraatlikud valimised on ainus legitiimne mehhanism ühiskonda valitsevate seaduste kehtestamiseks"
+  - "Majanduskriisid tekivad spontaanselt ja nõuavad stabiilsuse taastamiseks viivitamatut valitsuse sekkumist"
+explanation: >-
+  Hayeki spontaanse korra mõiste järgi ei tohiks ühiskonda valitsevaid reegleid ülevalt keskse planeerimisega peale suruda, vaid need peaksid kujunema üksikisikute vabade tahete, lepingute ja vabatahtlike suhete vabast mängust. See on libertaarse mõtte üks põhitelgi. See ei tähenda, et turud kalduksid monopoli poole või et kriisid nõuaksid valitsuse sekkumist.
+reviewed: false

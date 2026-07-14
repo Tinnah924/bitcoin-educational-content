@@ -1,8 +1,9 @@
-question: Which political family would most likely support both the elimination of minimum wage laws AND the complete privatization of healthcare systems?
-answer: Libertarians, as they view both minimum wage and public healthcare as illegitimate government interventions in free markets
+question: "Qu'est-ce que le concept d'« aléa moral » dans le contexte du débat sur les subventions, et quelle famille politique soulève cette préoccupation ?"
+answer: "L'aléa moral est l'incitation à l'irresponsabilité lorsque les entreprises sont empêchées de faire faillite par des subventions, parce que c'est finalement le contribuable qui paie ; cette préoccupation est soulevée par les libertariens"
 wrong_answers:
-  - Conservatives, as they consistently oppose all forms of government regulation in economic matters
-  - Centristes, as they favor market-based solutions while maintaining some social protections
-  - Socialists, as they prioritize economic freedom over social welfare programs
-explanation: |
-  Libertarians are the only political family that categorically opposes both minimum wage laws (viewing them as violations of contractual freedom that create unemployment) and public healthcare (considering healthcare a service like any other that should be left to private markets). Conservatives support market mechanisms but may tolerate minimum wage if it doesn't harm competitiveness and prefer private healthcare while accepting minimal state role for the poor. Centrists explicitly support maintaining minimum wage and favor mixed healthcare systems. Socialists strongly defend both minimum wage as social justice tools and public healthcare as fundamental rights.
+  - "L'aléa moral est le risque que les entreprises subventionnées se délocalisent vers des pays où les impôts sont plus faibles, emportant les emplois avec elles ; cette préoccupation est soulevée par les conservateurs"
+  - "L'aléa moral est le danger que les responsables gouvernementaux deviennent corrompus en choisissant quelles entreprises reçoivent des subventions ; cette préoccupation est soulevée par les centristes"
+  - "L'aléa moral est le problème éthique des entreprises qui exploitent les travailleurs après avoir reçu des fonds publics ; cette préoccupation est soulevée par les socialistes"
+explanation: >-
+  Les libertariens soutiennent que les subventions et les renflouements créent un aléa moral : lorsque les entreprises sont empêchées de faire faillite, cela incite à l'irresponsabilité et à l'imprudence parce qu'il n'y a pas de conséquences aux mauvaises décisions. Au bout du compte, c'est le contribuable qui paie, ce que les libertariens considèrent comme profondément injuste. Ce concept se distingue des préoccupations concernant la délocalisation des entreprises, la corruption des responsables publics ou l'exploitation des travailleurs soulevées par d'autres familles politiques.
+reviewed: false

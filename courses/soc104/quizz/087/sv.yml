@@ -1,9 +1,9 @@
-question: Enligt texten, vilken grundläggande princip skiljer Karl Poppers begrepp om ett öppet samhälle från ett slutet samhälle?
-answer: Öppna samhällen gör det möjligt för individer att utöva kritiskt omdöme och personligt ansvar, medan slutna samhällen förkastar individuell frihet till kritik och externa utbyten
+question: "Varför betonar Mises att individualism inte bör förväxlas med självförsörjning eller misantropi?"
+answer: "Eftersom individualism främjar samarbete och association, förutsatt att de vilar på deltagarnas fria samtycke, och erkänner att människor utvecklar sin fulla potential genom frivilliga relationer med andra"
 wrong_answers:
-  - Öppna samhällen prioriterar ekonomisk frihet och marknadsmekanismer, medan slutna samhällen betonar statlig kontroll över produktion och distribution
-  - Öppna samhällen bygger på demokratiska röstsystem och majoritetsstyre, medan slutna samhällen bygger på auktoritärt ledarskap och hierarkiska kommandostrukturer
-  - Öppna samhällen främjar teknisk utveckling och vetenskapliga framsteg, medan slutna samhällen upprätthåller traditionella metoder och motverkar innovation
-explanation: |
-  Poppers distinktion handlar om den grundläggande inställningen till individuellt kritiskt tänkande och personligt beslutsfattande.
-  Öppna samhällen kännetecknas av individernas förmåga till kritiskt tänkande och personligt ansvarstagande, och de bejakar förändring, mångfald och externa utbyten. Slutna samhällen, däremot, avvisar individens kritiska frihet, fruktar förändring och upprätthåller statiska, tribala mentaliteter som undertrycker individuellt ansvar till förmån för kollektiv konformitet och traditionell ordning.
+  - "Eftersom individualism kräver att människor går med i obligatoriska medborgarorganisationer för att säkerställa att de bidrar till det gemensamma bästa"
+  - "Eftersom individualism betyder att varje person måste förlita sig helt på staten för tjänster de inte kan tillhandahålla själva"
+  - "Eftersom individualism kräver att människor konkurrerar med varandra på alla områden för att bevisa sin personliga överlägsenhet"
+explanation: >-
+  Mises betonar att människan är en social varelse. Individualism betyder inte isolering. Den främjar samarbete och association på villkor att de vilar på deltagarnas fria samtycke. Människan kan bara utveckla sin fulla potential i relation till andra, men detta samarbete måste vara frivilligt snarare än påtvingat av kollektiv auktoritet.
+reviewed: false

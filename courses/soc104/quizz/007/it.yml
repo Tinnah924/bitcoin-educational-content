@@ -1,10 +1,9 @@
-question: Secondo il diagramma di Nolan, quali sono i due assi utilizzati per rappresentare le ideologie politiche?
-answer: Libertà economica e libertà personale
+question: "Quale punto in comune condividono i partiti politici di sinistra e di destra nonostante la loro apparente opposizione?"
+answer: "Entrambi difendono il diritto dello stato di governare la vita delle persone tramite regolamenti e tasse"
 wrong_answers:
-  - Politica di sinistra e politica di destra
-  - Socialismo e capitalismo
-  - Democrazia e autoritarismo
-explanation: |
-  Il diagramma di Nolan utilizza due dimensioni: libertà economica e libertà personale, creando uno spettro politico più sfumato rispetto al tradizionale asse sinistra-destra.
-  Questo approccio bidimensionale consente di posizionare meglio le diverse ideologie come il libertarismo (alta libertà economica e personale), il socialismo (bassa libertà economica, alta libertà personale) e il conservatorismo (alta libertà economica, bassa libertà personale)
-  (bassa libertà economica e personale), il socialismo (bassa libertà economica e personale) e il conservatorismo (alta libertà economica e personale). L'asse tradizionale sinistra-destra è considerato insufficiente da Nolan perché non riesce a cogliere la complessità delle posizioni politiche, in particolare la collocazione del liberalismo classico nel panorama politico.
+  - "Entrambi sostengono l'abolizione completa dell'intervento statale in materia economica"
+  - "Entrambi danno priorità alla libertà individuale rispetto all'organizzazione collettiva della società"
+  - "Entrambi rifiutano l'uso della politica monetaria come strumento per la spesa pubblica"
+explanation: >-
+  Pur sembrando opposte, sinistra e destra condividono una preferenza per l'intervento statale. Entrambe criticano il libero mercato e difendono il diritto dello stato di governare la vita delle persone tramite regolamenti e tasse. La sinistra critica i mercati come fonte di disuguaglianza, mentre la destra li vede come una minaccia alla sovranità, ma entrambe si rivolgono allo stato per le soluzioni.
+reviewed: false

@@ -1,8 +1,9 @@
-question: According to libertarian philosophy, what is the fundamental difference between state money (fiat) and market money like Bitcoin?
-answer: State money is coercive and centralized while market money emerges voluntarily and maintains long-term value
+question: "En considérant l'argument complet de ce cours, comment Bitcoin incarne-t-il simultanément la critique libertarienne du constructivisme, l'engagement cypherpunk envers l'action et la défense individualiste de l'autonomie morale ?"
+answer: "Bitcoin remplace la monnaie planifiée centralement par un ordre de marché spontané (anti-constructivisme), transforme l'idéal abstrait de liberté financière en code fonctionnel (action cypherpunk), et restitue à l'individu la propriété souveraine et la vie privée (autonomie morale)"
 wrong_answers:
-  - State money is more stable and regulated while market money is volatile and unpredictable
-  - State money serves social welfare goals while market money only benefits wealthy investors
-  - State money is democratic and accountable while market money is controlled by anonymous developers
-explanation: |
-  The chapter clearly distinguishes between state money (fiat) as a coercive, centralized system that tends to lose value, versus market money like Bitcoin which emerges voluntarily, spontaneously, and preserves value long-term. This reflects the broader libertarian principle of voluntary versus coercive systems. The wrong answers misrepresent the libertarian critique by focusing on conventional economic arguments rather than the philosophical distinction between voluntary and coercive monetary systems.
+  - "Bitcoin utilise la gouvernance démocratique pour définir la politique monétaire (anti-constructivisme), publie du contenu éducatif sur la liberté financière (action cypherpunk), et permet aux individus de voter sur les changements de protocole (autonomie morale)"
+  - "Bitcoin élimine toute réglementation financière (anti-constructivisme), crée une communauté de développeurs qui font pression pour la dérégulation (action cypherpunk), et donne aux individus fortunés plus de contrôle sur la politique monétaire (autonomie morale)"
+  - "Bitcoin décentralise l'infrastructure serveur dans plusieurs pays (anti-constructivisme), utilise des licences open-source pour partager librement la technologie (action cypherpunk), et fournit des plateformes de réseaux sociaux anonymes pour la dissidence politique (autonomie morale)"
+explanation: >-
+  Bitcoin se situe à l'intersection de trois traditions intellectuelles explorées dans le cours. Il incarne l'argument anti-constructiviste en remplaçant la monnaie fiat planifiée centralement par un ordre monétaire spontané et décentralisé qu'aucun planificateur central ne peut contrôler. Il accomplit l'impératif cypherpunk d'écrire du code en transformant des idéaux abstraits de liberté financière et de vie privée en technologie fonctionnelle. Et il sert la défense individualiste de l'autonomie morale en permettant la propriété souveraine, en protégeant les fruits du travail et en préservant la vie privée, laissant chaque personne être maîtresse de sa propre vie.
+reviewed: false

@@ -1,10 +1,9 @@
-question: Miksi tekstin mukaan Bitcoin:ta on vaikea luokitella perinteiselle oikeisto-vasemmisto -akselille?
-answer: Koska Bitcoin ylittää perinteiset jakolinjat ja houkuttelee kannattajia erilaisista poliittisista taustoista
+question: "Mistä vasemmisto–oikeisto-poliittinen jako on peräisin?"
+answer: "Istumajärjestyksestä Ranskan vallankumouksen väittelyissä vuonna 1789"
 wrong_answers:
-  - Koska Bitcoin:ta kannattavat yksinomaan talousliberalismia kannattavat oikeistopersoonat.
-  - Koska Bitcoin:n puolesta puhuvat pääasiassa vasemmisto, koska se voi edistää taloudellista osallisuutta.
-  - Koska Bitcoin on neutraali teknologia, jolla ei ole poliittista ulottuvuutta.
-explanation: |
-  Tekstissä selitetään, että Bitcoin:tä on vaikea luokitella oikeisto-vasemmisto -akselille, koska tämä hajautettu teknologia houkuttelee kannattajia erilaisista poliittisista ryhmistä
-  taustoista, mukaan lukien oikeisto, vasemmisto, anarkistit ja jopa epäpoliittiset henkilöt. Toisin kuin muut vaihtoehdot, Bitcoin ei rajoitu yhteen poliittiseen leiriin,
-  vaan se ylittää perinteiset jakolinjat, minkä vuoksi oikeisto-vasemmisto ei riitä sen oikeaan sijoittamiseen.
+  - "Karl Marxin ja Adam Smithin kirjoituksista 1800-luvulla"
+  - "Yhdysvaltain sisällissodasta pohjoisten ja eteläisten osavaltioiden välillä"
+  - "Valistusfilosofeista, jotka erottivat järjen perinteestä"
+explanation: >-
+  Vasemmisto–oikeisto-jako juontaa vuoteen 1789, jolloin Ranskan kansalliskokouksen edustajat, jotka kannattivat kuninkaan vallan säilyttämistä, istuivat puhemiehen oikealla puolella, kun taas ne, jotka halusivat rajoittaa hänen valtaansa, istuivat vasemmalla. Se ei saanut alkuaan Marxista ja Smithistä, Yhdysvaltain sisällissodasta eikä valistusfilosofiasta.
+reviewed: false

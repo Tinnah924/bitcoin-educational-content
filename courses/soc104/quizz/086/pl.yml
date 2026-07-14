@@ -1,9 +1,9 @@
-question: Zgodnie z analizą Misesa, jaką fundamentalną cechę łączy zarówno lewicowy kolektywizm (komunizm/socjalizm), jak i prawicowy kolektywizm (nazizm/faszyzm), pomimo ich odmiennych motywacji?
-answer: Obaj wykazują nienawiść do indywidualnej wolności i usprawiedliwiają przemoc w celu podporządkowania prywatnych interesów zbiorowym podmiotom
+question: "Co Ludwig von Mises miał na myśli, gdy pisał, że tylko jednostka myśli, rozumuje i działa?"
+answer: "Że zbiorowości takie jak państwo albo naród nie mają własnego istnienia poza działaniami swoich indywidualnych członków"
 wrong_answers:
-  - Obie przedkładają równość ekonomiczną nad wolność polityczną, zachowując szacunek dla indywidualnego sumienia i dobrowolnego zrzeszania się
-  - Oba dążą do zachowania tradycyjnych hierarchii społecznych poprzez demokratyczny konsensus, jednocześnie chroniąc prawa mniejszości i różnorodność kulturową
-  - Oba kładą nacisk na racjonalną debatę i krytyczne myślenie, aby osiągnąć wspólne cele przy jednoczesnym zachowaniu podziału władzy i ograniczeń konstytucyjnych
-explanation: |
-  Mises argumentuje, że pomimo politycznego przeciwieństwa, zarówno lewicowe, jak i prawicowe kolektywizmy zasadniczo odrzucają indywidualną autonomię i stosują przymus, aby służyć swoim kolektywnym idolom.
-  Niezależnie od tego, czy podmiotem zbiorowym jest naród (prawica), czy proletariat (lewica), oba systemy podporządkowują indywidualną wolę tożsamości grupowej za pomocą siły. Błędne odpowiedzi błędnie sugerują, że systemy te zachowują prawa jednostki, procesy demokratyczne lub racjonalny dyskurs - cechy, które Mises identyfikuje jako niezgodne z ideologią kolektywistyczną, która z natury wymaga tłumienia indywidualnego osądu na rzecz władzy zbiorowej.
+  - "Że jednostki powinny unikać tworzenia grup albo stowarzyszeń, ponieważ działanie zbiorowe jest zawsze szkodliwe"
+  - "Że tylko niektóre uzdolnione jednostki są zdolne do racjonalnego myślenia, podczas gdy większość ludzi kieruje się instynktem"
+  - "Że myślenie i rozumowanie są czynnościami prywatnymi, które nigdy nie powinny być dzielone ani omawiane publicznie"
+explanation: >-
+  Mises wyjaśnił, że indywidualizm sprzeciwia się pojęciu, jakoby byty społeczne takie jak społeczeństwo albo naród mogły istnieć niezależnie od jednostek, które je tworzą. Zbiorowość nie ma własnego istnienia poza działaniami swoich indywidualnych członków. Nie możemy sensownie mówić o działaniu państwa albo firmy, ponieważ te byty nie mają własnej woli ani myśli i działają wyłącznie za pośrednictwem jednostek.
+reviewed: false

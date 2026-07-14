@@ -1,8 +1,9 @@
-question: According to the chapter, what is the main problem with the traditional left-right political spectrum?
-answer: It leaves no place for classical liberal thought, which fits neither with left-wing egalitarianism,nor right-wing nationalism
+question: "Comment le système de monnaie fiat renforce-t-il le clivage entre gouvernants et gouvernés ?"
+answer: "Il permet aux gouvernements de financer des dépenses illimitées par la création monétaire, ce qui dévalorise l'épargne par l'inflation"
 wrong_answers:
-  - It oversimplifies politics by only having two extreme positions without any moderate or centrist options
-  - It fails to account for economic differences between socialist and capitalist ideologies in modern democracies
-  - "It doesn't properly distinguish between democratic and authoritarian forms of government structures"
-explanation: |
-  The chapter specifically states that the left-right axis cannot accommodate classical liberal thought, which doesn't align with either the egalitarianism of the left or the nationalism of the right. This is illustrated through examples of figures like Thomas Jefferson, Frédéric Bastiat, and contemporary libertarians who don't fit neatly into either category. The other options, while touching on limitations of political spectrums, don't capture the specific critique made in the chapter about classical liberalism being excluded from this framework.
+  - "Il donne aux citoyens un contrôle direct sur la politique monétaire par des élections démocratiques et des référendums"
+  - "Il empêche les gouvernements d'emprunter, les forçant à dépendre uniquement de l'impôt pour leurs recettes"
+  - "Il distribue la monnaie nouvellement créée de manière égale entre tous les citoyens afin de stimuler la croissance économique"
+explanation: >-
+  La monnaie fiat est décrite comme la pierre angulaire de l'expansion du pouvoir de l'État, parce qu'elle permet aux gouvernements d'emprunter et de pousser les banques à imprimer de la nouvelle monnaie. L'inflation qui en résulte dévalorise l'épargne des gens, au bénéfice des entités les plus riches et les plus puissantes. Elle ne donne pas aux citoyens le contrôle monétaire, pas plus qu'elle n'empêche l'emprunt ou ne distribue la monnaie de manière égale.
+reviewed: false

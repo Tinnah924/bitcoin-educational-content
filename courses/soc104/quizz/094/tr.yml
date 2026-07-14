@@ -1,9 +1,9 @@
-question: Satoshi Nakamoto'nun temel eleştirisine göre, geleneksel itibari para sistemlerinin temel sorunu nedir?
-answer: Tarihsel olarak paranın değerini düşürerek bu güveni ihlal etmiş olan merkezi kurumlara aşırı güven duyulmasını gerektirirler
+question: "Bitcoin refah devletinin hangi üç sütununa meydan okur?"
+answer: "Mali sistem, harcamaları borç yoluyla finanse etmeye yarayan parasal tekel ve alternatif para birimlerinin kullanımını engellemek için işlemlerin gözetimi"
 wrong_answers:
-  - Modern dijital işlemlerin verimli ve güvenli bir şekilde gerçekleştirilmesi için yeterli teknolojik altyapıya sahip olmamaları
-  - Döviz kurlarında çok fazla dalgalanma yaratarak uluslararası ticareti öngörülemez ve maliyetli hale getirirler
-  - generate Mikro ödemeleri günlük kullanıcılar için ekonomik açıdan uygunsuz hale getiren aşırı işlem ücretleri
-explanation: |
-  Satoshi Nakamoto açıkça 'geleneksel para biriminin temel sorununun, işlemesi için gereken güven olduğunu' ve 'itibari para birimlerinin tarihinin bu güvenin ihlal edilmesiyle dolu olduğunu' ifade etmiştir
-  Eleştirisi, merkez bankalarının defalarca başarısızlığa uğradıkları para biriminin değerini düşürmeme konusundaki temel güvene odaklanmıştır. Diğer seçenekler, geleneksel sistemlerle ilgili potansiyel olarak geçerli endişeler olsa da, Nakamoto'nun güvene dayalı parasal sistemlere yönelik temel felsefi itirazını ve güvensiz bir alternatif yaratma motivasyonunu gözden kaçırmaktadır.
+  - "Askerî bütçe, kamu eğitim sistemi ve devlet kontrolündeki sağlık altyapısı"
+  - "Yargı sistemi, yasama süreci ve işletmelere yönelik düzenlemelerin yürütme tarafından uygulanması"
+  - "Sosyal güvenlik sistemi, asgari ücret mevzuatı ve artan oranlı gelir vergisi yapısı"
+explanation: >-
+  Bitcoin, refah devletinin dayandığı üç sütuna meydan okur. Birincisi, harcamaları karşılamaya yetmeyen mali sistemdir. İkincisi, harcamaları borç yoluyla finanse etmek için para çıkarma kapasitesi anlamına gelen parasal tekeldir. Üçüncüsü, işlemlerin gözetimidir; yani insanların devlet tarafından dayatılan fiat paradan başka herhangi bir para birimi kullanmasını engelleme yeteneğidir. Bitcoin üçünü de aynı anda zayıflatır.
+reviewed: false

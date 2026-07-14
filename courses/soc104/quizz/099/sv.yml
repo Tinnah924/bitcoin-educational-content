@@ -1,9 +1,9 @@
-question: Enligt Eric Hughes Cypherpunk Manifesto, vilket grundläggande synsätt skiljer cypherpunks från dem som bara hoppas på integritetsskydd?
-answer: De skriver aktivt kod för att bygga kryptografiska system i stället för att vänta på att institutioner ska tillhandahålla integritet
+question: "Vilka tre pelare i välfärdsstaten utmanar Bitcoin?"
+answer: "Skattesystemet, det monetära monopolet för att finansiera utgifter genom skuld, och övervakningen av transaktioner för att förhindra användning av alternativa valutor"
 wrong_answers:
-  - De fokuserar på politisk lobbying och juridiska reformer för att etablera konstitutionella integritetsrättigheter
-  - De prioriterar att utbilda allmänheten om övervakningsrisker genom akademisk forskning och publikationer
-  - De arbetar inom befintliga finansinstitut för att gradvis implementera integritetsskyddande teknik
-explanation: |
-  Eric Hughes angav uttryckligen att "Cypherpunks skriver kod" som deras definierande metod. I manifestet betonas att cypherpunks inte väntar på att regeringar, företag eller andra organisationer ska tillhandahålla integritetsskydd.
-  Istället vidtar de direkta åtgärder genom att skapa kryptografiska verktyg och decentraliserade system. Denna aktiva byggmetod, snarare än passivt hopp eller institutionella reformer, blev grunden för innovationer som Bitcoin, som förkroppsligade deras filosofi om att bygga alternativa system utanför traditionella maktstrukturer.
+  - "Militärbudgeten, det offentliga utbildningssystemet och den statligt kontrollerade sjukvårdsinfrastrukturen"
+  - "Rättssystemet, lagstiftningsprocessen och den verkställande tillsynen av regleringar för företag"
+  - "Socialförsäkringssystemet, minimilönelagstiftningen och den progressiva inkomstskattestrukturen"
+explanation: >-
+  Bitcoin utmanar de tre pelare som välfärdsstaten vilar på. För det första skattesystemet, som är otillräckligt för att täcka utgifterna. För det andra det monetära monopolet, det vill säga förmågan att ge ut pengar för att finansiera utgifter genom skuld. För det tredje övervakningen av transaktioner, förmågan att hindra människor från att använda någon annan valuta än den statligt påtvingade fiatvalutan. Bitcoin undergräver alla tre samtidigt.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Milline on põhimõtteline erinevus libertaarlaste ja libertaarlaste vahel seoses majanduskorraldusega?
-answer: Libertaarid kaitsevad eraomandit ja vaba turgu, libertaarid on kapitalismi vastu ja toetavad kollektiivseid majandusvorme
+question: "Mida usuvad prantsuse libertäärid (sotsialistlikud anarhistid) eraomandi kohta?"
+answer: "Eraomand ja kapitalism tuleb kaotada, sest need on rõhumise allikad"
 wrong_answers:
-  - Libertaarid toetavad riigi sekkumist turgudele, samas kui libertaarid eelistavad majanduse täielikku dereguleerimist ja erastamist
-  - Libertaarid pooldavad kommunistlikke majandussüsteeme, samas kui libertaarid kaitsevad traditsioonilisi kapitalistlikke turustruktuure
-  - Libertaarid on igasuguse omandiõiguse vastu, samas kui libertaarid kaitsevad tugevalt individuaalset omandiõigust
-explanation: |
-  Peatükis selgitatakse selgelt, et libertaarid peavad eraomandit üksikisiku vabaduse jaoks oluliseks ja toetavad lepingulist vabadust,
-  samas kui libertaarid peavad "omandit varguseks" ja on antikapitalistlikud, pooldades mutualismi, kollektivismi või libertaarset kommunismi. See on nende kahe poliitilise filosoofia peamine majanduslik lõhe, hoolimata nende sarnastest nimedest ja ühisest vastuseisust riigivõimule.
+  - "Eraomand on loomulik õigus, mis eelneb riigile ja mida tuleb iga hinna eest kaitsta"
+  - "Eraomandit peaks reguleerima riik, kuid seda ei tohiks ühiskonnast kunagi täielikult kõrvaldada"
+  - "Eraomand on vastuvõetav ainult siis, kui see jaotatakse võrdselt kõigi kommuuni liikmete vahel"
+explanation: >-
+  Prantsuse libertäärid, sotsialistliku anarhismi pärijad selliste mõtlejate nagu Proudhon ja Bakunin kaudu, leiavad, et nii riik kui ka eraomand tuleb kaotada kui kaksikallikad rõhumisele. Seda väljendab Proudhoni kuulus vormel "Omand on vargus." Esimene vale vastus kirjeldab libertariaanlikku positsiooni, mis on libertääride vaatega põhimõtteliselt vastuolus.
+reviewed: false

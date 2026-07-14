@@ -1,12 +1,9 @@
-question: Hva er, ifølge teksten, hovedproblemet med det tradisjonelle politiske venstre-høyre-spekteret?
-answer: Det gir ingen plass til klassisk liberal tenkning, som verken passer med venstresidens egalitarisme eller høyresidens nasjonalisme
+question: "Hvilket felles punkt deler venstreorienterte og høyreorienterte politiske partier til tross for deres tilsynelatende motsetning?"
+answer: "Begge forsvarer statens rett til å styre folks liv gjennom reguleringer og skatter"
 wrong_answers:
-  - Den overforenkler politikken ved bare å ha to ytterpunkter uten noen moderate eller sentrumsorienterte alternativer
-  - Det er feil å anta at venstresiden alltid er reformistisk, mens høyresiden alltid er konservativ i moderne tid
-  - Den tar ikke hensyn til at de fleste mennesker ofte skifter politisk ståsted over tid
-explanation: |
-  I teksten står det spesifikt at "Problemet med venstre-høyre-aksen er at den ikke gir rom for klassisk liberal tenkning, som verken kan
-  verken kan settes i bås med venstresidens egalitarisme eller høyresidens nasjonalisme" Dette illustreres gjennom eksempler som Frédéric Bastiat,
-  som stemte noen ganger med venstresiden og noen ganger med høyresiden, avhengig av den konkrete saken, og Bitcoin, som tiltrekker seg tilhengere fra ulike
-  politisk bakgrunn. Den klassiske liberale tradisjonen, som går inn for maksimal økonomisk og personlig frihet med minimal statlig inngripen, passer rett og slett
-  passer rett og slett ikke inn i det tradisjonelle venstre-høyre-kategoriseringssystemet.
+  - "Begge går inn for fullstendig avskaffelse av statlig inngripen i økonomiske saker"
+  - "Begge prioriterer individuell frihet over kollektiv organisering av samfunnet"
+  - "Begge avviser bruk av pengepolitikk som et verktøy for offentlige utgifter"
+explanation: >-
+  Til tross for at de virker som motsetninger, deler venstre og høyre en preferanse for statlig inngripen. Begge kritiserer det frie markedet og forsvarer statens rett til å styre folks liv gjennom reguleringer og skatter. Venstresiden kritiserer markeder som en kilde til ulikhet, mens høyresiden ser dem som en trussel mot suverenitet, men begge vender seg til staten for løsninger.
+reviewed: false

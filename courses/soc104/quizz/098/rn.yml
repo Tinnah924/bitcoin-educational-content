@@ -1,9 +1,9 @@
-question: Dukurikije igitabu ca Eric Hughes citwa Cypherpunk Manifesto, ni ingingo ngenderwako iyihe y’ishimikiro itandukanya abahinga mu vy’ubuhinga bwa none n’abafise icizigiro gusa co gukingira ubuzima bwite?
-answer: Cypherpunks zandika n'umwete kode kugira ngo yubake ubuhinga butazwi aho kurindira ko inzego zitanga ubuzima bwite .
+question: "Kubera iki aba cypherpunks bavuze ko ifaranga ry'ubuhinga bwa none rifise ibiranga ubutamenyekana ryari rikenewe?"
+answer: "Kuko amafaranga akoreshwa mu ntoke, ari bwo buryo nyamukuru bwa transaction zidakenera kumenyekana, ariko arazimangana mu kibano c'ubuhinga bwa none, kandi hakwiye kuremwa ikiyisubirira c'ubuhinga bwa none gifise ibiranga ubuzima bwite bimwe"
 wrong_answers:
-  - Cypherpunks yibanda ku gutera intege politike no guhindura amategeko kugira ngo hashingwe uburenganzira bwite biciye mu nzira za demokarasi .
-  - Aba Cypherpunks bemera gukora mu bigo vy’imari biriho kugira ngo buhoro buhoro batere imbere mu gukingira ubuzima bwite bwabo .
-  - Cypherpunks ishira imbere kwigisha abantu ivyerekeye ingorane zo mu buzima bwite aho gutegura inyishu z’ubuhinga .
-explanation: |
-  Iryo kete rivuga neza ko ‘Cypherpunks write code’ kandi rishimika ku vy’uko bataronka ihumure mu vyizigiro no mu vyipfuzo ahubwo ko bagira uruhara n’umwete mu bintu bishika. 
-  Hughes yavuze yuko abantu badashobora kwitega ko intwaro, amashirahamwe canke ayandi mashirahamwe manini manini azobaha ubuzima bwite, ni co gituma abahinga mu vy’ubuhinga bwa none bategerezwa kwiyubakira ubuhinga bwo gukora amakuru y’ibanga. Ubwo buryo bukora, bushingiye ku buhinga biciye mu gutegura amategeko burabatandukanya n’uburyo butagira ico bukora nk’ugutera intege, gukora mu mirongo iriho, canke kwigisha abandi gusa ata gutorera umuti ibibazo nyavyo vy’ubuhinga.
+  - "Kuko uburyo bwo kwishura bwo mu buhinga bwa none bwari busanzwe bwari buteba cane kandi buzimvye, hakaba hakenewe ubundi buryo bwihuta kandi buhendutse ku rudandaza rwo kuri internet"
+  - "Kuko leta zari zamaze kubuza ubwoko bwose bwa transactions zidakenera kumenyekana, kandi ubuhinga bushasha bwonyene ari bwo bwashobora kurenga ayo mategeko"
+  - "Kuko amabanki asanzwe yanka gukorera imigwi imwimwe y'abantu, bigatuma uburyo bwo kwishura bwo mu buhinga bwa none bushikirwa na bose buba nkenerwa mu vy'ubutunzi"
+explanation: >-
+  Manifesto ya cypherpunk ivuga ko ibanga mu kibano cuguruye risaba uburyo bwa transactions zidakenera kumenyekanisha abazikora. Gushika mu gihe c'ubuhinga bwa none, amafaranga akoreshwa mu ntoke yari uburyo nyamukuru bw'ubwo bwoko. Ariko mu kibano c'ubuhinga bwa none aho amafaranga akoreshwa mu ntoke ariko arazimangana, hategerezwa kuremwa ifaranga ry'ubuhinga bwa none rifise ibiranga ubutamenyekana bimwe. Iyo ntumbero yari yarabonye imbere y'igihe ico Bitcoin yohavuye ishikako.
+reviewed: false

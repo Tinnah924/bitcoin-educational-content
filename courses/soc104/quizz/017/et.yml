@@ -1,9 +1,9 @@
-question: Milline on Nolani diagrammi kontseptsiooni kohaselt peamine tegur, mis eristab erinevaid poliitilisi filosoofiaid?
-answer: Valitsuse kontrolli ulatus inimeste tegevuse üle isiklikul ja majanduslikul tasandil
+question: "Milline ühine poliitiline eesmärk on vasak- ja parempoolsetel etatistidel?"
+answer: "Võita võim, et korraldada ühiskond oma maailmapildi järgi ja suruda see kõigile peale"
 wrong_answers:
-  - Kas traditsiooniliste väärtuste või progressiivsete sotsiaalsete muutuste eelistamine
-  - Toetuse tase rikkuse ümberjaotamisele ja sotsiaalhoolekande programmidele
-  - Pühendumine kas individuaalsetele õigustele või kollektiivsele vastutusele
-explanation: |
-  Nolani diagrammi keskne mõte on, et peamine erinevus poliitiliste filosoofiate vahel on valitsuse kontrolli ulatus inimeste tegevuse üle, mis on
-  nii isiklikus kui ka majanduslikus sfääris. See tekitab lihtsa vasak-parempoolse spektri asemel kahemõõtmelise mudeli. Teised valikud esindavad traditsioonilisi viise poliitika liigitamiseks, kuid jätavad tähelepanuta võtmetunnetuse, et nii vasak- kui ka parempoolsed võivad olla statistilised - nad erinevad selles, millistes valdkondades nad soovivad valitsuse kontrolli, kuid mõlemad püüavad kasutada riigivõimu, et suruda ühiskonnale peale oma nägemus.
+  - "Vähendada valitsuse suurust ja anda otsustusõigus tagasi üksikisikutest kodanikele"
+  - "Kehtestada otsedemokraatia, kus iga kodanik hääletab iga seadusandliku otsuse üle"
+  - "Kaotada erakonnad ja asendada need sõltumatu tehnokraatliku valitsemisega"
+explanation: >-
+  Nii vasak- kui ka parempoolsed etatistid jagavad sama poliitilist eesmärki: võita võim, et korraldada ühiskond oma maailmavaate järgi ja suruda see seadusandluse kaudu kõigile peale. Erinevus seisneb ainult nende väärtustes: parempoolsed viitavad tsivilisatsiooni kaitsmisele, vasakpoolsed aga töölisklassi või rõhutute kaitsmisele. Kumbki ei püüa valitsust vähendada ega erakondi kaotada.
+reviewed: false

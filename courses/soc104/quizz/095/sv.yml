@@ -1,9 +1,9 @@
-question: Enligt Satoshi Nakamotos filosofi, vad är det grundläggande problemet med konventionella valutor som Bitcoin utformades för att lösa?
-answer: Det överdrivna förtroende som krävs för centraliserade institutioner som historiskt har brutit mot detta förtroende genom valutaförsvagning
+question: "Vem lanserade den första Cypherpunk-sändlistan 1992?"
+answer: "Tim May och Eric Hughes, som skapade en plattform som blev rörelsens nervcentrum"
 wrong_answers:
-  - Bristen på digital infrastruktur och långsamma transaktionshastigheter i traditionella banksystem
-  - De höga transaktionsavgifterna och den begränsade tillgängligheten för internationella penningöverföringar via banker
-  - Miljöpåverkan och energiförbrukning i traditionella bank- och betalningssystem
-explanation: |
-  Satoshi Nakamoto sade uttryckligen att "grundproblemet med konventionell valuta är allt förtroende som krävs för att få den att fungera" och att centralbanker måste kunna lita på att de inte förfalskar valutan, men "fiatvalutornas historia är full av brott mot det förtroendet".
-  Detta citat avslöjar Bitcoin:s huvudsyfte: att eliminera behovet av förtroende för centraliserade institutioner. De andra alternativen, även om de potentiellt kan ge anledning till oro för traditionell finansiering, tar inte upp det grundläggande filosofiska problem som Satoshi identifierade - att fiatsystem kräver blind tillit till institutioner som upprepade gånger har visat sig vara opålitliga genom penningmanipulation och valutaförsvagning.
+  - "Satoshi Nakamoto och Hal Finney, som senare skapade Bitcoin tillsammans 2008"
+  - "Julian Assange och Edward Snowden, som använde listan för att samordna visselblåsning mot regeringar"
+  - "Phil Zimmermann och Bruce Schneier, som utformade listan som ett verktyg för att distribuera krypteringsprogramvara"
+explanation: >-
+  År 1992 lanserade Tim May och Eric Hughes den första Cypherpunk-sändlistan. Denna plattform blev snabbt rörelsens nervcentrum och samlade utvecklare, kryptografer och förespråkare för digital frihet. Det var på just denna lista som Satoshi Nakamoto senare skulle dela Bitcoins White Paper för första gången 2008.
+reviewed: false

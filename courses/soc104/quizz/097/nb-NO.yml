@@ -1,9 +1,9 @@
-question: Hva er ifølge Eric Hughes' Cypherpunk Manifesto det primære ansvaret for å beskytte personvernet i et åpent elektronisk samfunn?
-answer: Enkeltpersoner må aktivt forsvare sitt eget personvern i stedet for å stole på at myndigheter eller selskaper skal sørge for det
+question: "Hva er kjernebudskapet i Eric Hughes' Cypherpunk Manifesto fra 1993 om personvern?"
+answer: "Personvern er essensielt for et åpent samfunn i den elektroniske tidsalderen, og enkeltpersoner må bygge det selv i stedet for å forvente at myndigheter eller selskaper garanterer det"
 wrong_answers:
-  - Myndighetene bør etablere omfattende personvernregler for å beskytte innbyggerne mot bedriftsovervåking
-  - Store organisasjoner må frivillig implementere personvern som en del av sitt samfunnsansvar
-  - Internasjonale avtaler bør fremforhandles for å skape universelle personvernstandarder som håndheves av overnasjonale organer
-explanation: |
-  Hughes uttalte eksplisitt at "Vi kan ikke forvente at myndigheter, selskaper eller andre store anonyme organisasjoner skal garantere oss konfidensialitet", og at hovedmålet for cypherpunkerne er "å få folk til å forsvare sin egen konfidensialitet, i stedet for å stole på at noen andre sørger for den".
-  Dette gjenspeiler cypherpunk-bevegelsens kjernefilosofi om individuelt ansvar og mistillit til sentraliserte institusjoner. Bevegelsen mente at kryptografiske verktøy burde gi enkeltpersoner mulighet til å beskytte seg selv i stedet for å være avhengige av de institusjonene de så på som potensielle trusler mot personvernet og friheten.
+  - "Personvern er en luksus som må ofres i bytte mot nasjonal sikkerhet og beskyttelse av demokratiske institusjoner"
+  - "Personvern bør reguleres av internasjonale traktater som etablerer ensartede standarder for databeskyttelse på tvers av alle land"
+  - "Personvern er bare viktig for kriminelle og dissidenter, mens lovlydige borgere drar nytte av transparente overvåkingssystemer"
+explanation: >-
+  Eric Hughes' manifest fra 1993 sier at personvern er essensielt for et åpent samfunn i den elektroniske tidsalderen, og at vi ikke kan forvente at myndigheter, selskaper eller andre store organisasjoner garanterer det. Den grunnleggende motivasjonen er at konfidensialitet er et nøkkelledd i frihet og må bygges av enkeltpersoner selv, ikke ventes på som en gave fra institusjoner.
+reviewed: false

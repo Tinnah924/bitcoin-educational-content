@@ -1,9 +1,9 @@
-question: Secondo il Manifesto Cypherpunk di Eric Hughes, quale principio fondamentale distingue i cypherpunk da coloro che si limitano a sperare nella protezione della privacy?
-answer: I cypherpunk scrivono attivamente codice per costruire sistemi anonimi piuttosto che aspettare che siano le istituzioni a fornire la privacy
+question: "Perché i cypherpunk sostenevano che fosse necessaria una valuta digitale con proprietà anonime?"
+answer: "Perché il contante, il principale sistema di transazione anonima, sta scomparendo nella società digitale, e bisogna inventare un sostituto digitale con le stesse proprietà di privacy"
 wrong_answers:
-  - I cypherpunk si concentrano sull'attività di lobbying politico e sulle riforme legali per stabilire i diritti alla privacy attraverso i processi democratici
-  - I cypherpunk credono nella possibilità di lavorare all'interno delle istituzioni finanziarie esistenti per migliorare gradualmente le loro protezioni della privacy
-  - I cypherpunk danno priorità all'educazione del pubblico sui rischi per la privacy piuttosto che allo sviluppo di soluzioni tecniche
-explanation: |
-  Il manifesto afferma esplicitamente che "i cypherpunk scrivono codice" e sottolinea che non trovano conforto nelle speranze e nei desideri, ma intervengono attivamente negli eventi.
-  Hughes sostiene che le persone non possono aspettarsi che i governi, le aziende o altre grandi organizzazioni garantiscano la privacy, quindi i cypherpunk devono costruire da soli i sistemi crittografici. Questo approccio attivo e tecnico attraverso lo sviluppo di codice li distingue da approcci passivi come il lobbismo, il lavoro all'interno di sistemi esistenti o la semplice educazione senza creare soluzioni tecnologiche concrete.
+  - "Perché i sistemi di pagamento digitali esistenti erano troppo lenti e costosi, richiedendo un'alternativa più veloce ed economica per il commercio online"
+  - "Perché i governi avevano già vietato tutte le forme di transazioni anonime e solo una nuova tecnologia poteva aggirare queste leggi"
+  - "Perché le banche tradizionali si rifiutavano di servire certe popolazioni, rendendo un sistema di pagamento digitale universalmente accessibile una necessità economica"
+explanation: >-
+  Il manifesto cypherpunk afferma che la riservatezza in una società aperta richiede sistemi di transazione anonimi. Fino all'era digitale, il contante serviva come principale sistema di questo tipo. Ma in una società digitale in cui il contante sta scomparendo, bisogna inventare una valuta digitale con le stesse proprietà di anonimato. Questa visione anticipò direttamente ciò che Bitcoin avrebbe realizzato.
+reviewed: false

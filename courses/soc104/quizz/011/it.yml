@@ -1,8 +1,9 @@
-question: Secondo il diagramma politico, cosa rappresenta l'asse y?
-answer: Libertà personali e sociali
+question: "Che cosa include la categoria della libertà economica?"
+answer: "Ciò che fai come produttore e consumatore: comprare, vendere, produrre, lavorare, assumere e gestire il tuo denaro"
 wrong_answers:
-  - Libertà economiche e commerciali
-  - Il livello di intervento del governo nell'economia
-  - Preferenze fiscali e normative
-explanation: |
-  L'asse y (verticale) rappresenta le libertà personali e sociali, che comprendono la libertà di movimento, di opinione e di autodeterminazione. Queste libertà riguardano ciò che si fa nelle relazioni private, le opinioni e le convinzioni, nonché tutto ciò che si fa con il proprio corpo e la propria mente. L'asse x (orizzontale) rappresenta le libertà economiche. Questa distinzione ci permette di classificare la maggior parte delle questioni politiche in due categorie fondamentali.
+  - "Le tue credenze religiose, le relazioni personali e la libertà di espressione"
+  - "Il tuo diritto di voto, di partecipare alle elezioni e di aderire a partiti politici"
+  - "La tua capacità di viaggiare liberamente, scegliere la residenza e attraversare i confini nazionali"
+explanation: >-
+  La libertà economica copre ciò che fai come produttore e consumatore: cosa puoi comprare, vendere o produrre; dove lavori; chi assumi; e cosa fai con il tuo denaro. Le relazioni personali, le credenze religiose e la libertà di movimento rientrano nella categoria della libertà personale, non in quella economica.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Eric Hughesin Cypherpunk-manifestin mukaan mikä on ensisijainen menetelmä, jota salakirjoittajien tulisi käyttää saavuttaakseen yksityisyyttä ja vapautta koskevat tavoitteensa?
-answer: Kirjoitetaan koodia sellaisten salausjärjestelmien rakentamiseksi, jotka tekevät poliittisista jakolinjoista merkityksettömiä
+question: "Miten Bitcoin toimii moraalisena hankkeena, jolla on poliittisia seurauksia, eikä poliittisena hankkeena, jolla on moraalisia väitteitä?"
+answer: "Bitcoin suunniteltiin tekemään ihmisistä vapaita eikä rikkaita: se mahdollistaa toimivan omistusoikeuden, suojaa työn arvoa ja säilyttää yksityisyyden, ja nämä ovat moraalisia saavutuksia, jotka tuottavat poliittisia vaikutuksia vaatimatta paikkaa missään poliittisessa leirissä"
 wrong_answers:
-  - Hallitusten lobbaaminen vahvempien yksityisyyden suojaa koskevien lakien ja asetusten hyväksymiseksi
-  - Järjestetään joukkomielenosoituksia ja kansalaistottelemattomuuskampanjoita valvontaa vastaan
-  - Koulutusohjelmien luominen yleisön tietoisuuden lisäämiseksi digitaalisen yksityisyyden suojasta
-explanation: |
-  Eric Hughes totesi nimenomaisesti, että "Cypherpunks kirjoittavat koodia" on heidän peruslähestymistapansa. Manifestissa korostetaan, että cypherpunks ei löydä lohtua toiveista ja toivomuksista, vaan puuttuu aktiivisesti rakentamalla anonyymejä järjestelmiä kryptografian avulla.
-  Tämä muuttaa abstraktit vapauden ideat konkreettiseksi taloudelliseksi ja yhteiskunnalliseksi todellisuudeksi ja tekee poliittisista jakolinjoista mielivaltaisia ja tarpeettomia. Muut vaihtoehdot edustavat perinteistä poliittista aktivismia, joka on ristiriidassa salainen punk-filosofian kanssa, jossa teknologiset ratkaisut ovat tärkeämpiä kuin institutionaaliset uudistukset.
+  - "Bitcoin on moraalinen hanke, koska sen koodi panee täytäntöön eettisiä sääntöjä, jotka estävät petoksia, ja sen poliittinen seuraus on demokraattisen hallinnan korvaaminen algoritmisella päätöksenteolla"
+  - "Bitcoin toimii moraalisena hankkeena, koska se jakaa varallisuutta uudelleen rikkailta varhaisille omaksujille, luoden oikeudenmukaisemman yhteiskunnan, jolla on poliittisia vaikutuksia veropolitiikkaan"
+  - "Bitcoin on moraalinen, koska Satoshi Nakamoto sisällytti protokollaan eettisiä käskyjä, ja sen poliittinen seuraus on kaikkien poliittisten perheiden yhdistäminen yhteisen rahajärjestelmän alle"
+explanation: >-
+  Bitcoinia ei suunniteltu tekemään ihmisistä rikkaita vaan tekemään heistä vapaita. Se saavuttaa kolme moraalista lopputulosta: se mahdollistaa toimivan omistusoikeuden (kannustaen vastuullisuuteen), suojaa työn luomaa arvoa (rohkaisten tuottavaan ponnisteluun) ja säilyttää yksityisyyden (antaen ihmisten elää ilman pelkoa). Nämä ovat moraalisia saavutuksia, joilla on poliittisia seurauksia kuulumatta mihinkään poliittiseen leiriin, mikä tekee siitä ensisijaisesti moraalisen hankkeen ja vasta toissijaisesti poliittisen.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Welches Grundprinzip unterscheidet laut Eric Hughes' Cypherpunk Manifesto die Cypherpunks von denen, die lediglich auf den Schutz der Privatsphäre hoffen?
-answer: Cypherpunks schreiben aktiv Code, um anonyme Systeme zu entwickeln, anstatt darauf zu warten, dass Institutionen für Privatsphäre sorgen
+question: "Warum argumentierten die Cypherpunks, dass eine digitale Währung mit anonymen Eigenschaften notwendig sei?"
+answer: "Weil Bargeld, das wichtigste anonyme Transaktionssystem, in der digitalen Gesellschaft verschwindet und ein digitaler Ersatz mit denselben Privatsphäre-Eigenschaften erfunden werden muss"
 wrong_answers:
-  - Cypherpunks konzentrieren sich auf politische Lobbyarbeit und Gesetzesreformen, um Datenschutzrechte durch demokratische Prozesse zu etablieren
-  - Cypherpunks glauben an die Zusammenarbeit mit bestehenden Finanzinstitutionen, um deren Schutz der Privatsphäre schrittweise zu verbessern
-  - Cypherpunks legen mehr Wert auf die Aufklärung der Öffentlichkeit über Datenschutzrisiken als auf die Entwicklung technischer Lösungen
-explanation: |
-  Im Manifest heißt es ausdrücklich: "Cypherpunks schreiben Code", und es wird betont, dass sie sich nicht mit Hoffnungen und Wünschen zufrieden geben, sondern aktiv in das Geschehen eingreifen.
-  Hughes argumentiert, dass die Menschen nicht von Regierungen, Unternehmen oder anderen großen Organisationen erwarten können, dass sie die Privatsphäre garantieren, daher müssen Cypherpunks selbst kryptografische Systeme entwickeln. Diese aktive, technische Herangehensweise durch Code-Entwicklung unterscheidet sie von passiven Ansätzen wie Lobbying, der Arbeit innerhalb bestehender Systeme oder der bloßen Aufklärung anderer, ohne konkrete technische Lösungen zu schaffen.
+  - "Weil bestehende digitale Zahlungssysteme zu langsam und teuer waren und eine schnellere und günstigere Alternative für den Online-Handel erforderten"
+  - "Weil Regierungen bereits alle Formen anonymer Transaktionen verboten hatten und nur eine neue Technologie diese Gesetze umgehen konnte"
+  - "Weil traditionelle Banken sich weigerten, bestimmte Bevölkerungsgruppen zu bedienen, wodurch ein universell zugängliches digitales Zahlungssystem zu einer wirtschaftlichen Notwendigkeit wurde"
+explanation: >-
+  Das Cypherpunk-Manifest erklärt, dass Vertraulichkeit in einer offenen Gesellschaft anonyme Transaktionssysteme erfordert. Bis zum digitalen Zeitalter diente Bargeld als primäres System dieser Art. Doch in einer digitalen Gesellschaft, in der Bargeld verschwindet, muss eine digitale Währung mit denselben Eigenschaften der Anonymität erfunden werden. Diese Vision nahm direkt vorweg, was Bitcoin erreichen würde.
+reviewed: false

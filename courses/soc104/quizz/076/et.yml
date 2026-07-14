@@ -1,8 +1,9 @@
-question: Gustave Molinari analüüsis "Les Soirées de la rue Saint Lazare" (eesti keeles "Õhtud Saint Lazaruse tänaval"), milline põhimõtteline sarnasus on konservatiivide ja sotsialistide vahel, mis eristab neid liberaalidest?
-answer: Nii konservatiivid kui ka sotsialistid püüavad oma nägemust ühiskonnast riigi sekkumise kaudu kehtestada, kuigi neil on erinevad nägemused
+question: "Milles seisneb Hayeki põhiargument selle kohta, miks keskne planeerimine läbi kukub?"
+answer: "Teadmised eksisteerivad ainult hajutatud fragmentidena, mida omavad eri indiviidid, ning neid ei saa koondada ega integreerida keskse võimu poolt"
 wrong_answers:
-  - Nii konservatiivid kui ka sotsialistid peavad vabadust pigem absoluutseks põhimõtteks kui võimaluste või pragmaatilisuse küsimuseks
-  - Nii konservatiivid kui ka sotsialistid lükkavad tagasi eraomandi kontseptsiooni ja pooldavad ressursside kollektiivset omandit
-  - Nii konservatiivid kui ka sotsialistid toetavad minimaalset valitsuse sekkumist ja eelistavad sotsiaalsete probleemide lahendamiseks turupõhiseid lahendusi
-explanation: |
-  Molinari peamine arusaam oli, et vaatamata oma näilistele ideoloogilistele erinevustele on konservatiividel ja sotsialistidel ühine lähenemine: nad mõlemad kasutavad riigivõimu, et kehtestada oma nägemus sellest, kuidas ühiskond peaks olema korraldatud. Konservatiivid tahavad säilitada traditsioonilisi struktuure riikliku jõustamise kaudu, samas kui sotsialistid tahavad ühiskonda ümber kujundada vastavalt oma ideaalidele, samuti riigi tegevuse kaudu. See on teravas vastuolus libertaristidega, kes on vastu riigivõimu kasutamisele mingi konkreetse sotsiaalse visiooni kehtestamiseks ning pooldavad selle asemel individuaalse vabaduse maksimeerimist ja riigi sekkumise minimeerimist.
+  - "Kesksed planeerijad on moraalselt korrumpeerunud ja tegutsevad alati omaenda huvides, mitte avaliku hüve nimel"
+  - "Demokraatlikud institutsioonid on majanduslikele muutustele reageerimiseks liiga aeglased, mistõttu tsentraliseeritud otsused on alati aegunud"
+  - "Keskne planeerimine kukub läbi, sest kodanikud seisavad valitsuse ettekirjutustele tahtlikult vastu ja keelduvad regulatsioone järgimast"
+explanation: >-
+  Hayeki põhiargument tugineb informatsiooni olemusele. Ta näitas, et teadmised ei eksisteeri kunagi koondatud ega integreeritud kujul, vaid ainult hajutatud fragmentidena, mida omavad kõik eri indiviidid. Väärtus on subjektiivne ning tuntud ainult lokaalselt ja ebatäielikult. Kontoris istuval kesksel planeerijal ei ole teadmisi asjade tegelikust hinnast, sest ta ei osale vastastikuses suhtluses ega vahetuses.
+reviewed: false

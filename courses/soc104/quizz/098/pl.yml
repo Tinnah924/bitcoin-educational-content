@@ -1,9 +1,9 @@
-question: Według Manifestu Cypherpunk Erica Hughesa, jaka podstawowa zasada odróżnia cypherpunks od tych, którzy mają jedynie nadzieję na ochronę prywatności?
-answer: Cypherpunks aktywnie piszą kod, aby tworzyć anonimowe systemy, zamiast czekać, aż instytucje zapewnią prywatność
+question: "Jakie jest główne przesłanie Cypherpunk Manifesto Erica Hughesa z 1993 roku dotyczące prywatności?"
+answer: "Prywatność jest niezbędna dla społeczeństwa otwartego w epoce elektronicznej, a jednostki muszą budować ją same, zamiast oczekiwać, że zagwarantują ją rządy lub korporacje"
 wrong_answers:
-  - Cypherpunks koncentrują się na lobbingu politycznym i reformach prawnych w celu ustanowienia praw do prywatności poprzez procesy demokratyczne
-  - Cypherpunks wierzą w pracę w ramach istniejących instytucji finansowych w celu stopniowej poprawy ich ochrony prywatności
-  - Cypherpunks priorytetowo traktują edukowanie społeczeństwa na temat zagrożeń dla prywatności, a nie opracowywanie rozwiązań technicznych
-explanation: |
-  Manifest wyraźnie stwierdza "Cypherpunks piszą kod" i podkreśla, że nie znajdują pocieszenia w nadziejach i życzeniach, ale aktywnie interweniują w wydarzenia.
-  Hughes argumentował, że ludzie nie mogą oczekiwać, że rządy, korporacje lub inne duże organizacje zagwarantują prywatność, więc cypherpunks muszą sami budować systemy kryptograficzne. To aktywne, techniczne podejście poprzez rozwój kodu odróżnia ich od pasywnych podejść, takich jak lobbing, praca w ramach istniejących systemów lub jedynie edukowanie innych bez tworzenia konkretnych rozwiązań technologicznych.
+  - "Prywatność jest luksusem, który trzeba poświęcić w zamian za bezpieczeństwo narodowe i ochronę instytucji demokratycznych"
+  - "Prywatność powinna być regulowana przez traktaty międzynarodowe ustanawiające jednolite standardy ochrony danych we wszystkich krajach"
+  - "Prywatność jest ważna tylko dla przestępców i dysydentów, podczas gdy praworządni obywatele korzystają z przejrzystych systemów nadzoru"
+explanation: >-
+  Manifest Erica Hughesa z 1993 roku stwierdza, że prywatność jest niezbędna dla społeczeństwa otwartego w epoce elektronicznej oraz że nie możemy oczekiwać, iż rządy, korporacje albo inne duże organizacje ją zagwarantują. Fundamentalna motywacja jest taka, że poufność jest kluczowym elementem wolności i musi być budowana przez same jednostki, a nie oczekiwana jako dar od instytucji.
+reviewed: false

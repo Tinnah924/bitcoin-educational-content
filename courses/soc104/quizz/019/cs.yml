@@ -1,9 +1,9 @@
-question: Jaký je podle Nolanova diagramu klíčový faktor, který odlišuje politické filozofie?
-answer: Míra vládní kontroly nad lidským jednáním v osobní a ekonomické sféře
+question: "Jaká je definice etatismu představená v Nolanově rámci?"
+answer: "Používání zákonodárství ke kontrole a formování společnosti, ať už ve jménu obrany civilizace, dělnické třídy, přírody, nebo utlačovaných"
 wrong_answers:
-  - Rozdíl mezi socialistickým a kapitalistickým ekonomickým systémem
-  - Rozdíl mezi tradičními morálními hodnotami a progresivními sociálními názory
-  - Míra podpory přerozdělování bohatství a sociálních programů
-explanation: |
-  Ústřední myšlenkou Nolanova diagramu je, že hlavní rozdíl mezi politickými filozofiemi spočívá v míře vládní kontroly nad lidským jednáním v oblasti politiky
-  jak v osobní, tak v ekonomické sféře. To vytváří dvourozměrný model, nikoli pouze jednoduchou osu levice-pravice. Ostatní možnosti představují tradiční způsoby kategorizace politiky, ale postrádají klíčový poznatek, že jak levice, tak pravice mohou být etatistické - chtějí pouze využívat vládní moc v různých oblastech. Diagram odhaluje, že skutečný rozdíl je mezi těmi, kteří chtějí používat sílu k prosazování svých hodnot (ať už jde o levici, nebo pravici), a těmi, kteří celkově preferují menší vládní kontrolu.
+  - "Systém vlády, v němž volení představitelé slouží pevně stanovená období a moc se předává prostřednictvím demokratických voleb"
+  - "Přesvědčení, že pouze silná armáda může chránit suverenitu a územní celistvost národa"
+  - "Ekonomická filozofie, která upřednostňuje národní průmysl před zahraniční konkurencí prostřednictvím cel a kvót"
+explanation: >-
+  Etatismus je definován jako používání zákonodárství ke kontrole a formování společnosti. Praktikuje jej levice i pravice: někteří ve jménu obrany civilizace, jiní ve jménu obrany dělnické třídy, přírody nebo utlačovaných. I centristé jej schvalují, když se jim to hodí. Etatismus se neomezuje na vojenskou politiku, obchodní protekcionismus ani na pouhou existenci volených vlád.
+reviewed: false

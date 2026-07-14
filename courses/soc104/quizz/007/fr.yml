@@ -1,8 +1,9 @@
-question: According to the Nolan Chart, what are the two axes used to represent political ideologies?
-answer: Economic freedom and personal freedom
+question: "Dans le losange de Nolan, quelle position se trouve en haut et représente la liberté maximale ?"
+answer: "Le libertarianisme, qui soutient la plus grande liberté économique et personnelle"
 wrong_answers:
-  - Left-wing politics and right-wing politics
-  - Socialism and capitalism
-  - Democracy and authoritarianism
-explanation: |
-  The Nolan Chart uses two dimensions: economic freedom and personal freedom, creating a more nuanced political spectrum than the traditional left-right axis. This bidimensional approach allows for better positioning of different ideologies like libertarianism (high economic and personal freedom), socialism (low economic, high personal freedom), and conservatism (high economic, low personal freedom). The traditional left-right axis is considered insufficient by Nolan because it fails to capture the complexity of political positions, particularly where classical liberalism fits in the political landscape.
+  - "Le conservatisme, qui soutient les valeurs traditionnelles et la liberté économique"
+  - "Le centrisme, qui équilibre toutes les positions politiques de manière pragmatique"
+  - "Le socialisme, qui soutient la liberté personnelle et l'égalité sociale"
+explanation: >-
+  Le libertarianisme occupe le sommet du losange de Nolan comme opposé de l'étatisme. Il représente ceux qui soutiennent le plus haut degré de liberté économique et personnelle. Le conservatisme se situe à droite (forte liberté économique, faible liberté personnelle), le socialisme à gauche (forte liberté personnelle, faible liberté économique), et le centrisme au milieu.
+reviewed: false

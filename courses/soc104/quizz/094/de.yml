@@ -1,9 +1,9 @@
-question: Was ist laut Satoshi Nakamotos fundamentaler Kritik das Kernproblem herkömmlicher Fiat-Währungssysteme?
-answer: Sie erfordern ein übermäßiges Vertrauen in zentralisierte Institutionen, die dieses Vertrauen in der Vergangenheit durch die Entwertung der Währung missbraucht haben
+question: "Wer startete 1992 die erste Cypherpunk-Mailingliste?"
+answer: "Tim May und Eric Hughes, die eine Plattform schufen, die zum Nervenzentrum der Bewegung wurde"
 wrong_answers:
-  - Sie verfügen über keine ausreichende technologische Infrastruktur, um moderne digitale Transaktionen effizient und sicher abzuwickeln
-  - Sie führen zu einer zu großen Volatilität der Wechselkurse und machen den internationalen Handel unberechenbar und kostspielig
-  - Sie generate überhöhte Transaktionsgebühren, die Micropayments für normale Nutzer wirtschaftlich unrentabel machen
-explanation: |
-  Satoshi Nakamoto erklärte ausdrücklich, dass "das Grundproblem bei konventionellen Währungen das Vertrauen ist, das erforderlich ist, damit sie funktionieren" und dass "die Geschichte der Fiat-Währungen voll von Verstößen gegen dieses Vertrauen ist"
-  Seine Kritik konzentrierte sich auf das grundsätzliche Vertrauen in die Zentralbanken, die Währung nicht zu entwerten, was sie wiederholt nicht eingehalten haben. Die anderen Optionen sind zwar potenziell berechtigte Bedenken gegenüber traditionellen Systemen, gehen aber an Nakamotos philosophischem Kerneinwand gegen vertrauensbasierte Geldsysteme und seiner Motivation für die Schaffung einer vertrauenslosen Alternative vorbei.
+  - "Satoshi Nakamoto und Hal Finney, die später 2008 gemeinsam Bitcoin erschufen"
+  - "Julian Assange und Edward Snowden, die die Liste nutzten, um Whistleblowing-Aktivitäten gegen Regierungen zu koordinieren"
+  - "Phil Zimmermann und Bruce Schneier, die die Liste als Werkzeug zur Verteilung von Verschlüsselungssoftware entwarfen"
+explanation: >-
+  1992 starteten Tim May und Eric Hughes die erste Cypherpunk-Mailingliste. Diese Plattform wurde schnell zum Nervenzentrum der Bewegung und brachte Entwickler, Kryptographen und Verteidiger digitaler Freiheit zusammen. Auf derselben Liste teilte Satoshi Nakamoto später 2008 erstmals das Bitcoin White Paper.
+reviewed: false

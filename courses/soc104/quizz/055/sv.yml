@@ -1,9 +1,9 @@
-question: Vilken är den grundläggande skillnaden mellan minarkistiska och anarkokapitalistiska libertarianer när det gäller statens roll?
-answer: Minarkister förespråkar en minimal stat som begränsas till polis, rättsväsende och försvar, medan anarkokapitalister vill att alla statliga funktioner privatiseras och sköts av marknaden
+question: "Varför menar Ron Paul att Federal Reserve är skadlig, och hur relaterar Bitcoin till hans ståndpunkt?"
+answer: "Federal Reserve orsakar inflation och ekonomiska cykler genom manipulation av fiatpengar, och Bitcoin representerar en form av sound money som skulle kunna ersätta guldmyntfoten"
 wrong_answers:
-  - Minarkister förkastar alla former av regeringar medan anarkokapitalister endast accepterar begränsad statlig inblandning i ekonomiska frågor
-  - Minarkister stöder fria marknader med viss reglering medan anarkokapitalister förespråkar fullständig statlig kontroll av viktiga tjänster
-  - Minarkister tror på en stark statlig inblandning i sociala frågor medan anarkokapitalister enbart fokuserar på ekonomisk frihet utan sociala friheter
-explanation: |
-  Både minarkistiska och anarkokapitalistiska libertarianer delar den grundläggande principen om individuell suveränitet, men skiljer sig åt när det gäller genomförandet. Minarkisterna accepterar
-  en minimal "nattväktarstat" som endast utför de viktigaste funktionerna inom polis, rättsväsende och territoriellt försvar. Anarkokapitalister går längre och anser att även dessa traditionella statliga funktioner bör privatiseras och hanteras genom marknadsmekanismer. De andra alternativen ger en felaktig bild av dessa ståndpunkter genom att felaktigt antyda att minarkister helt förkastar staten eller att någon av grupperna stöder omfattande statliga ingripanden.
+  - "Federal Reserve begränsar bankkonkurrens, och Bitcoin decentraliserar banktjänster för att förbättra finansiell inkludering"
+  - "Federal Reserve hindrar frihandel mellan nationer, och Bitcoin möjliggör gränslösa transaktioner utan statligt godkännande"
+  - "Federal Reserve skapar överdriven statsskuld, och Bitcoin erbjuder en deflationär valuta som eliminerar statsskulden"
+explanation: >-
+  Ron Paul, en minarkist, hävdar att Federal Reserve är ansvarig för inflation och ekonomiska cykler eftersom den manipulerar fiatpengar. Han förespråkar avnationalisering av pengar, en idé som Friedrich Hayek förespråkade, och ser Bitcoin som en form av sound money som skulle kunna ersätta guldmyntfoten. Hans kritik är rotad i libertariansk monetär teori, inte främst i bankkonkurrens, handelshinder eller statsskuld.
+reviewed: false

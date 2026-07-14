@@ -1,8 +1,9 @@
-question: Według analizy Gustave'a Molinariego w "Les Soirées de la rue Saint Lazare" (ang. "Wieczory na ulicy Świętego Łazarza"), jakie fundamentalne podobieństwo istnieje między konserwatystami a socjalistami, które odróżnia ich od libertarian?
-answer: Zarówno konserwatyści, jak i socjaliści dążą do narzucenia swojej wizji społeczeństwa poprzez interwencję państwa, mimo że mają różne wizje
+question: "Która postać w dialogach Gustave'a de Molinariego z 1849 roku broni wolności jako fundamentalnej zasady, zamiast podporządkowywać ją innym celom?"
+answer: "Ekonomista, który traktuje wolność jako zasadę niepodporządkowaną żadnemu innemu celowi"
 wrong_answers:
-  - Zarówno konserwatyści, jak i socjaliści postrzegają wolność jako zasadę absolutną, a nie kwestię możliwości czy pragmatyzmu
-  - Zarówno konserwatyści, jak i socjaliści odrzucają koncepcję własności prywatnej i opowiadają się za kolektywną własnością zasobów
-  - Zarówno konserwatyści, jak i socjaliści popierają minimalną interwencję rządu i preferują rynkowe rozwiązania problemów społecznych
-explanation: |
-  Kluczowym spostrzeżeniem Molinariego było to, że pomimo pozornych różnic ideologicznych, konserwatyści i socjaliści mają wspólne podejście: obaj wykorzystują władzę państwową do narzucenia swoich wizji tego, jak społeczeństwo powinno być zorganizowane. Konserwatyści chcą zachować tradycyjne struktury poprzez egzekwowanie prawa przez państwo, podczas gdy socjaliści chcą przekształcić społeczeństwo zgodnie ze swoimi ideałami, również poprzez działania państwa. Kontrastuje to wyraźnie z libertarianami, którzy sprzeciwiają się wykorzystywaniu władzy państwowej do narzucania jakiejkolwiek konkretnej wizji społecznej i zamiast tego opowiadają się za maksymalizacją wolności jednostki i minimalizacją interwencji państwa.
+  - "Socjalista, który broni wolności przez postępowe reformy zmierzające do równości społecznej"
+  - "Konserwatysta, który podtrzymuje wolność przez zachowanie tradycyjnego porządku społecznego i stabilności"
+  - "Wszystkie trzy postacie bronią wolności w równym stopniu, ale nie zgadzają się co do sposobu jej wdrożenia"
+explanation: >-
+  W dialogach Molinariego z Les Soirees de la rue Saint-Lazare ekonomista pozostaje w stałej niezgodzie zarówno z socjalistą, jak i konserwatystą. Jest jedynym, który broni wolności jako fundamentalnej zasady. Socjalista podporządkowuje wolność postępowym ideałom, a konserwatysta podporządkowuje ją zachowaniu porządku, co czyni ekonomistę wyjątkowym w jego bezwarunkowej obronie wolności.
+reviewed: false

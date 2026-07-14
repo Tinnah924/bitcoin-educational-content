@@ -1,9 +1,9 @@
-question: Secondo la posizione libertaria sulle questioni sociali, qual è il principio fondamentale che dovrebbe guidare la politica del governo in tutti i settori?
-answer: Lo Stato dovrebbe ritirarsi dalla regolamentazione delle scelte personali e lasciare che siano le istituzioni private e i meccanismi di mercato a occuparsi di queste questioni
+question: "Qual è la posizione conservatrice sull'immigrazione?"
+answer: "Lo Stato ha il diritto sovrano di controllare i propri confini per proteggere la sicurezza nazionale e l'identità culturale"
 wrong_answers:
-  - Lo Stato dovrebbe proteggere attivamente i diritti delle minoranze rispettando i valori culturali della maggioranza attraverso una regolamentazione equilibrata
-  - Lo Stato dovrebbe dare priorità alla sicurezza pubblica e all'ordine sociale, mantenendo un controllo rigoroso sui comportamenti individuali potenzialmente dannosi
-  - Lo Stato deve promuovere la giustizia sociale garantendo a tutti i cittadini un accesso paritario ai diritti e alle tutele, a prescindere dalla provenienza
-explanation: |
-  La filosofia libertaria sostiene costantemente un intervento minimo dello Stato in tutte le questioni sociali. Che si parli di matrimonio (privatizzazione piuttosto che riconoscimento da parte dello Stato), di immigrazione (basata sul mercato piuttosto che controllata dallo Stato), di armi (diritto all'autodifesa individuale) o di droghe (scelta personale senza interferenze da parte dello Stato), i libertari credono fondamentalmente che lo Stato non debba regolare le decisioni personali che non danneggiano direttamente gli altri.
-  Le altre opzioni rappresentano rispettivamente gli approcci socialista, conservatore e centrista, che accettano tutti vari gradi di coinvolgimento dello Stato nelle questioni personali.
+  - "I confini dovrebbero essere aperti incondizionatamente perché le restrizioni discriminatorie violano i diritti umani"
+  - "L'immigrazione dovrebbe essere determinata dalla domanda di mercato, con i cittadini che decidono contrattualmente sui propri rapporti con gli stranieri"
+  - "La politica migratoria dovrebbe bilanciare esigenze economiche e integrazione riuscita sulla base della valutazione degli esperti"
+explanation: >-
+  I conservatori sostengono che ordine, identità e sovranità nazionale debbano avere la priorità sull'accoglienza illimitata di stranieri o rifugiati. I confini e una popolazione ben definita fanno parte dei valori civilizzati. Le risposte sbagliate rappresentano la posizione socialista (confini aperti come diritti umani), la posizione libertaria (immigrazione basata sul mercato) e la posizione centrista (approccio equilibrato guidato dagli esperti).
+reviewed: false

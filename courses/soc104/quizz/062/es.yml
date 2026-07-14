@@ -1,9 +1,9 @@
-question: Según el análisis de Hannah Arendt, ¿cuál es el principal objetivo de los sistemas educativos totalitarios?
-answer: Destruir la capacidad de las personas para formarse convicciones independientes en lugar de inculcar creencias específicas
+question: "¿Cómo llegaron al poder todos los regímenes totalitarios?"
+answer: "Mediante una revolución violenta que justificaba hacer borrón y cuenta nueva del sistema anterior"
 wrong_answers:
-  - Adoctrinar a los ciudadanos con la ideología del régimen y garantizar la lealtad absoluta al Estado
-  - Crear una mano de obra altamente cualificada capaz de hacer avanzar los objetivos económicos de la nación
-  - Eliminar las diferencias de clase y crear una sociedad unificada basada en principios revolucionarios compartidos
-explanation: |
-  Hannah Arendt sostenía que el propósito de la educación totalitaria no era inculcar convicciones, sino destruir la facultad de formarse convicciones independientes.
-  Esto distingue al totalitarismo del mero autoritarismo: no sólo busca la conformidad, sino eliminar la capacidad misma de pensamiento independiente. Las otras opciones representan formas más convencionales de control político o de ingeniería social, y pasan por alto la idea crucial de Arendt sobre el ataque único del totalitarismo a la propia agencia humana.
+  - "Mediante una reforma legislativa gradual dentro de las instituciones democráticas existentes"
+  - "Mediante golpes militares organizados por potencias extranjeras que buscaban el control regional"
+  - "Mediante movimientos de masas pacíficos que ganaron elecciones populares por amplios márgenes"
+explanation: >-
+  Todos los regímenes totalitarios llegaron al poder mediante una revolución violenta. Esta revolución cumple un doble propósito: destruye físicamente el antiguo orden y justifica ideológicamente el uso de la violencia como necesario para construir la nueva sociedad. Esto distingue las tomas de poder totalitarias de las transiciones democráticas, los golpes respaldados por el extranjero o las victorias electorales pacíficas.
+reviewed: false

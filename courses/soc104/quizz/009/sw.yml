@@ -1,8 +1,9 @@
-question: Ni shoka gani mbili zinazounda mchoro wa Nolan?
-answer: Uhuru wa kiuchumi na uhuru wa kibinafsi
+question: "Kwa nini mhimili wima (juu-chini) unachukuliwa kuwa wa msingi zaidi kuliko mhimili mlalo (kushoto-kulia) katika mchoro wa Nolan?"
+answer: "Kwa sababu unaonyesha mgawanyiko wa kweli kati ya wale wanaotetea uhuru mkubwa zaidi wa mtu binafsi na wale wanaopendelea udhibiti mkubwa zaidi wa dola"
 wrong_answers:
-  - Kushoto-kulia na kimabavu-kidemokrasia
-  - Wahafidhina-waliberali na soko la serikali
-  - Mtu mmoja mmoja-wa pamoja na wa kitamaduni-wa kimaendeleo
-explanation: |
-  Mchoro wa Nolan umejengwa juu ya mihimili miwili tofauti: uhuru wa kiuchumi (uwezo wa kufanya maamuzi ya kiuchumi bila kuingiliwa na serikali) na uhuru wa kibinafsi (uhuru wa mtu binafsi katika masuala ya kibinafsi). Mbinu hii ya pande mbili inaruhusu uwakilishi wa misimamo ya kisiasa ulio na muktadha zaidi kuliko mhimili wa jadi wa kushoto-kulia. Chaguzi zingine zinawakilisha dhana tofauti za kisiasa lakini sio mihimili inayotumika katika muundo maalum wa chati wa Nolan.
+  - "Kwa sababu unapima uzalishaji wa kiuchumi kwa usahihi zaidi kuliko mhimili mlalo unavyopima sera za kijamii"
+  - "Kwa sababu migogoro mingi ya kisiasa katika historia imekuwa kuhusu utambulisho wa kitamaduni badala ya utawala"
+  - "Kwa sababu mhimili mlalo unatumika tu kwa demokrasia za kisasa huku mhimili wima ukiwa wa ulimwengu mzima"
+explanation: >-
+  Mhimili wa msingi ni ule wa wima kwa sababu unanasa swali kuu la kisiasa: ni kwa kiwango gani dola inapaswa kudhibiti matendo ya binadamu? Mhimili wa kushoto-kulia huonyesha tu mielekeo tofauti (haki ya kijamii dhidi ya mapokeo), lakini pande zote mbili zinaweza kuchukua nafasi ileile kwenye mhimili wima kama wanaounga mkono udola. Mhimili wima huonyesha kama mtu anataka kulazimisha maono yake kwa nguvu au anaheshimu uhuru wa mtu binafsi.
+reviewed: false

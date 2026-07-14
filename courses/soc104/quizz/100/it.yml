@@ -1,9 +1,9 @@
-question: Secondo il Manifesto Cypherpunk di Eric Hughes, qual è la responsabilità principale per la difesa della privacy in una società elettronica aperta?
-answer: Gli individui devono difendere attivamente la propria privacy piuttosto che affidarsi ai governi o alle aziende per garantirla
+question: "Che cosa rivela il principio cypherpunk 'Cypherpunks write code' sull'approccio del movimento al raggiungimento della libertà?"
+answer: "Che il cammino verso la libertà passa attraverso la costruzione attiva di sistemi anonimi usando il codice come strumento fondamentale per trasformare idee astratte di libertà in realtà"
 wrong_answers:
-  - I governi dovrebbero stabilire norme complete sulla privacy per proteggere i cittadini dalla sorveglianza delle aziende
-  - Le aziende devono implementare standard di privacy volontari e autoregolamentare le loro pratiche di raccolta dei dati
-  - Le organizzazioni internazionali dovrebbero creare trattati vincolanti che impongano la protezione della privacy in tutte le nazioni
-explanation: |
-  Eric Hughes ha dichiarato esplicitamente nel Manifesto del Cypherpunk che "non possiamo aspettarci che i governi, le aziende o altre grandi organizzazioni anonime ci garantiscano la confidenzialità... Il mio obiettivo principale per i Cypherpunk è far sì che le persone difendano la propria riservatezza, piuttosto che affidarsi a qualcun altro per garantirla"
-  Questa filosofia enfatizza la responsabilità individuale e l'autosufficienza attraverso gli strumenti crittografici, rifiutando la dipendenza da istituzioni esterne per la protezione della privacy, motivo per cui i cypherpunk hanno sviluppato sistemi crittografici decentralizzati.
+  - "Che i cypherpunk sono principalmente sviluppatori software che scrivono applicazioni commerciali per finanziare le loro campagne di attivismo politico"
+  - "Che il movimento crede nell'educare il pubblico attraverso manifesti scritti e pubblicazioni accademiche anziché con l'azione diretta"
+  - "Che i cypherpunk si concentrano sull'hacking dei sistemi governativi esistenti per esporre programmi di sorveglianza e forzare una riforma legislativa"
+explanation: >-
+  La formula "Cypherpunks write code" riflette l'impegno del movimento per l'intervento attivo anziché per la semplice speranza. Per Eric Hughes, il cammino verso la libertà passa attraverso la costruzione attiva di sistemi anonimi che rendono irrilevanti le divisioni politiche arbitrarie. Il codice diventa lo strumento fondamentale per trasformare idee astratte di libertà in realtà, ed è per questo che Satoshi Nakamoto scrisse l'intero codice di Bitcoin prima ancora di scrivere il white paper.
+reviewed: false

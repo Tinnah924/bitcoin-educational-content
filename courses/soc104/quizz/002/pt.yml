@@ -1,11 +1,9 @@
-question: De acordo com o texto, qual é o principal problema do espetro político tradicional esquerda-direita?
-answer: Não deixa espaço para o pensamento liberal clássico
+question: "Por que o eixo esquerda-direita é considerado inadequado para situar pensadores liberais clássicos como Bastiat ou Ron Paul?"
+answer: "Porque o liberalismo clássico valoriza tanto as liberdades econômicas quanto as pessoais, que nem a esquerda nem a direita abraçam plenamente"
 wrong_answers:
-  - Favorece demasiado as posições centristas e moderadas
-  - Dá demasiada importância aos partidos extremistas
-  - Simplifica os debates reduzindo tudo à economia
-explanation: |
-  O capítulo esclarece que o principal problema do eixo esquerda-direita é o facto de não poder classificar o pensamento liberal clássico, que não corresponde nem ao igualitarismo de esquerda nem ao nacionalismo de direita
-  que não corresponde nem ao igualitarismo de esquerda nem ao nacionalismo de direita. Figuras como Thomas Jefferson, Frédéric Bastiat ou movimentos como o Bitcoin transcendem
-  estas categorias tradicionais. As outras opções estão incorrectas, pois o texto não critica o centrismo enquanto tal, não se centra no extremismo e evoca
-  evoca muitos outros aspectos para além da economia.
+  - "Porque os liberais clássicos sempre se alinham com políticas econômicas de direita e rejeitam todas as posições de esquerda"
+  - "Porque os liberais clássicos são centristas que adotam versões moderadas das ideologias de esquerda e de direita"
+  - "Porque os liberais clássicos se opõem a todas as formas de governo, o que os torna anarquistas em vez de pensadores políticos"
+explanation: >-
+  O eixo esquerda-direita falha para os liberais clássicos porque não consegue acomodar uma posição que defende simultaneamente a liberdade econômica (tipicamente de direita) e a liberdade pessoal (tipicamente de esquerda). Os liberais clássicos não são centristas em busca de compromisso, nem são anarquistas ou puramente de direita. Eles simplesmente não se encaixam em um espectro unidimensional.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Enligt det libertarianska perspektivet på samhällsfrågor, vilket är det mest konsekventa tillvägagångssättet för att lösa konflikter mellan individuell frihet och statlig reglering?
-answer: Privatisera institutioner och låta frivilliga sammanslutningar sköta regleringen i stället för att staten ska införa enhetliga regler för alla
+question: "I de fem samhällsdebatterna (äktenskap, invandring, skjutvapen, droger, sockrade drycker), vilket återkommande analytiskt ramverk formar den socialistiska positionen i varje fråga?"
+answer: "Ett konfliktramverk mellan dominerande och dominerade, där samhället är strukturerat av förtryck och staten måste ingripa för att skydda den sårbara gruppen"
 wrong_answers:
-  - Skapa omfattande statliga regleringar som balanserar konkurrerande intressen och samtidigt skyddar minoriteters rättigheter från majoritetsförtryck
-  - Upprätta demokratiska processer där majoritetsbeslut avgör socialpolitiken samtidigt som konstitutionella skydd för grundläggande rättigheter upprätthålls
-  - Utveckla evidensbaserad politik som prioriterar allmän säkerhet och social sammanhållning framför individuella preferenser i kontroversiella områden
-explanation: |
-  Det libertarianska synsättet förespråkar konsekvent att staten ska ta bort kontrollen och låta privata institutioner sköta regleringen. Detta är tydligt i deras inställning till äktenskap (privatisera det och låt kyrkor/privata organisationer bestämma), invandring (destabilisera samhället och låt medborgarna bestämma) och droger (ja till frihet men bara om samhället destabiliseras).
-  De andra alternativen representerar socialistiska, centristiska eller konservativa synsätt som upprätthåller varierande grader av statligt engagemang snarare än den libertarianska principen om att minimera statens makt genom privatisering.
+  - "Ett utilitaristiskt ramverk inriktat på att maximera övergripande lycka och ekonomisk produktivitet för största möjliga antal medborgare"
+  - "Ett naturrättsligt ramverk där individuella friheter måste skyddas från både statlig och företagsmässig inblandning"
+  - "Ett traditionalistiskt ramverk där etablerade sociala institutioner måste bevaras mot störande moderna förändringar"
+explanation: >-
+  Den socialistiska positionen i samhällsdebatter formas konsekvent av ett konfliktperspektiv mellan dominerande och dominerade. I äktenskapsfrågan handlar det om en heterosexuell majoritet som förtrycker en homosexuell minoritet. I invandringsfrågan är nationalitetsbaserade restriktioner former av förtryck. I skjutvapenfrågan bör endast staten inneha våldet för att skydda de sårbara. I frågan om sockrade drycker profiterar industrialister på de minst skyddades sårbarhet. Denna förtryckare/förtryckt-lins reproduceras över många domäner, inklusive kön, ras och till och med relationen mellan mänskligheten och naturen.
+reviewed: false

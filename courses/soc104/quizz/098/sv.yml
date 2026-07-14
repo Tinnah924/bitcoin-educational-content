@@ -1,9 +1,9 @@
-question: Enligt Eric Hughes Cypherpunk Manifesto, vilken grundläggande princip skiljer cypherpunks från dem som bara hoppas på integritetsskydd?
-answer: Cypherpunks skriver aktivt kod för att bygga anonyma system i stället för att vänta på att institutioner ska tillhandahålla integritet
+question: "Vad avslöjar cypherpunk-principen 'Cypherpunks write code' om rörelsens sätt att uppnå frihet?"
+answer: "Att vägen till frihet går genom att aktivt bygga anonyma system med kod som det grundläggande verktyget för att omvandla abstrakta frihetsidéer till verklighet"
 wrong_answers:
-  - Cypherpunks fokuserar på politisk lobbying och juridiska reformer för att etablera integritetsrättigheter genom demokratiska processer
-  - Cypherpunks tror på att arbeta inom befintliga finansinstitut för att gradvis förbättra deras integritetsskydd
-  - Cypherpunks prioriterar att utbilda allmänheten om integritetsrisker snarare än att utveckla tekniska lösningar
-explanation: |
-  I manifestet står det uttryckligen att "Cypherpunks skriver kod" och det betonas att de inte finner tröst i förhoppningar och önskningar utan aktivt ingriper i händelser.
-  Hughes hävdade att människor inte kan förvänta sig att regeringar, företag eller andra stora organisationer ska garantera integritet, så cypherpunks måste bygga kryptografiska system själva. Detta aktiva, tekniska tillvägagångssätt genom kodutveckling skiljer dem från passiva tillvägagångssätt som lobbying, att arbeta inom befintliga system eller att bara utbilda andra utan att skapa konkreta tekniska lösningar.
+  - "Att cypherpunks främst är mjukvaruutvecklare som skriver kommersiella applikationer för att finansiera sina politiska aktivismkampanjer"
+  - "Att rörelsen tror på att utbilda allmänheten genom skrivna manifest och akademiska publikationer snarare än genom direkt handling"
+  - "Att cypherpunks fokuserar på att hacka befintliga regeringssystem för att avslöja övervakningsprogram och tvinga fram lagstiftningsreformer"
+explanation: >-
+  Formeln "Cypherpunks write code" återspeglar rörelsens engagemang för aktiv intervention snarare än blott hopp. För Eric Hughes går vägen till frihet genom det aktiva byggandet av anonyma system som gör godtyckliga politiska skiljelinjer irrelevanta. Kod blir det grundläggande verktyget för att omvandla abstrakta frihetsidéer till verklighet, vilket är anledningen till att Satoshi Nakamoto skrev hela Bitcoin-koden innan han ens skrev white paper.
+reviewed: false

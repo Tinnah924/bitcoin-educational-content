@@ -1,9 +1,9 @@
-question: Jakou hlavní metodu by podle manifestu Cypherpunk Erica Hughese měli šifranti používat k dosažení svých cílů v oblasti soukromí a svobody?
-answer: Psaní kódu pro vytváření kryptografických systémů, které činí politické rozdělení irelevantním
+question: "Jak Bitcoin funguje jako morální projekt s politickými důsledky, a nikoli jako politický projekt s morálními nároky?"
+answer: "Bitcoin byl navržen tak, aby lidem přinesl svobodu, nikoli bohatství, umožňoval účinné vlastnictví, chránil hodnotu práce a zachovával soukromí, což jsou morální úspěchy, které vyvolávají politické účinky, aniž by se hlásily k jakémukoli politickému táboru"
 wrong_answers:
-  - Lobbování u vlád, aby přijaly přísnější zákony a předpisy na ochranu soukromí
-  - Organizování masových protestů a kampaní občanské neposlušnosti proti sledování
-  - Vytváření vzdělávacích programů pro zvýšení povědomí veřejnosti o právech na digitální soukromí
-explanation: |
-  Eric Hughes výslovně uvedl, že "Cypherpunkeři píší kód" je jejich základní přístup. Manifest zdůrazňuje, že cypherpunkeři nenacházejí útěchu v nadějích a přáních, ale aktivně zasahují budováním anonymních systémů prostřednictvím kryptografie.
-  Tím se abstraktní myšlenky svobody mění v konkrétní ekonomickou a společenskou realitu, čímž se politické rozdělení stává svévolným a zbytečným. Ostatní možnosti představují tradiční politický aktivismus, který je v rozporu s cypherpunkovou filozofií technologických řešení namísto institucionálních reforem.
+  - "Bitcoin je morální projekt, protože jeho kód vynucuje etická pravidla bránící podvodům, a jeho politickým důsledkem je nahrazení demokratické správy algoritmickým rozhodováním"
+  - "Bitcoin funguje jako morální projekt, protože přerozděluje bohatství od bohatých k raným osvojitelům, čímž vytváří spravedlivější společnost s politickými důsledky pro daňovou politiku"
+  - "Bitcoin je morální, protože Satoshi Nakamoto vložil do protokolu etická přikázání, a jeho politickým důsledkem je sjednocení všech politických rodin pod společným měnovým systémem"
+explanation: >-
+  Bitcoin nebyl navržen tak, aby z lidí udělal boháče, ale aby je učinil svobodnými. Dosahuje tří morálních výsledků: umožňuje účinné vlastnictví (motivuje k odpovědnosti), chrání hodnotu vytvořenou prací (podporuje produktivní úsilí) a zachovává soukromí (umožňuje lidem žít beze strachu). Jde o morální úspěchy, které nesou politické důsledky, aniž by patřily k jakémukoli politickému táboru, a proto je Bitcoin nejprve morálním a až poté politickým projektem.
+reviewed: false

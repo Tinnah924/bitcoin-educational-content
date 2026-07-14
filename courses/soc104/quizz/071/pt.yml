@@ -1,9 +1,9 @@
-question: Que família política apoiaria mais provavelmente uma política que combinasse o acesso universal aos cuidados de saúde com mecanismos de inovação e eficiência do sector privado?
-answer: Centristas, que favorecem sistemas mistos que equilibram garantias públicas com contribuições do sector privado
+question: "Nos cinco debates sociais (casamento, imigração, armas de fogo, drogas, bebidas açucaradas), qual estrutura analítica recorrente molda a posição socialista em cada questão?"
+answer: "Uma estrutura de conflito entre dominantes e dominados, na qual a sociedade é estruturada pela opressão e o Estado deve intervir para proteger o grupo vulnerável"
 wrong_answers:
-  - Os socialistas, que dão prioridade ao acesso universal através de sistemas de saúde exclusivamente públicos
-  - Os libertários, que defendem a privatização total e a escolha individual nos mercados da saúde
-  - Os conservadores, que preferem mercados privados com intervenção mínima do Estado para os mais vulneráveis
-explanation: |
-  Os centristas defendem explicitamente sistemas de saúde mistos que garantam o acesso universal através do envolvimento do Estado, incorporando simultaneamente elementos do sector privado para a inovação e a eficiência.
-  Os socialistas rejeitam o envolvimento do sector privado, considerando os cuidados de saúde como um direito fundamental que exige a prestação pública. Os libertários opõem-se totalmente ao envolvimento do Estado, preferindo soluções baseadas no mercado. Os conservadores preferem sistemas predominantemente privados com um papel mínimo do Estado, e não abordagens mistas equilibradas.
+  - "Uma estrutura utilitarista focada em maximizar a felicidade geral e a produtividade econômica para o maior número de cidadãos"
+  - "Uma estrutura de direitos naturais em que as liberdades individuais devem ser protegidas tanto da interferência estatal quanto da corporativa"
+  - "Uma estrutura tradicionalista em que instituições sociais estabelecidas devem ser preservadas contra mudanças modernas disruptivas"
+explanation: >-
+  A posição socialista nos debates sociais é consistentemente moldada por uma estrutura de conflito dominante/dominado. No casamento, trata-se da maioria heterossexual oprimindo uma minoria homossexual. Na imigração, restrições baseadas em nacionalidade são formas de opressão. Nas armas de fogo, apenas o Estado deve deter a força para proteger os vulneráveis. Nas bebidas açucaradas, industriais lucram com a vulnerabilidade dos menos protegidos. Essa lente opressor/oprimido é reproduzida em numerosos domínios, incluindo gênero, raça e até a relação entre humanidade e natureza.
+reviewed: false

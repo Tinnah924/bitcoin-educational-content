@@ -1,8 +1,9 @@
-question: According to socialist economic philosophy, what is the primary justification for strong state control over the economy?
-answer: To ensure equity by allowing everyone to meet their basic needs through wealth redistribution
+question: "Quelle distinction Karl Marx a-t-il établie entre socialisme utopique et socialisme scientifique ?"
+answer: "Il a accusé les premiers socialistes français de proposer des solutions imaginaires, tandis que son socialisme scientifique était fondé sur le matérialisme historique et la lutte des classes"
 wrong_answers:
-  - To maximize individual economic freedoms and promote competitive market dynamics
-  - To eliminate all forms of government intervention and create spontaneous market order
-  - To concentrate wealth among the most productive members of society for efficiency
-explanation: |
-  Socialist economic philosophy prioritizes equity over efficiency, viewing strong state control as necessary to redistribute wealth and ensure everyone can meet their basic needs. Socialists distrust free markets, seeing them as systems that allow the strong to exploit the vulnerable. This contrasts sharply with liberal economic philosophy, which favors minimal state intervention and spontaneous market order. The wrong answers reflect liberal or capitalist approaches that socialists explicitly reject, as they believe these systems perpetuate inequality rather than addressing it.
+  - "Il a soutenu que le socialisme utopique était trop centré sur l'économie, tandis que le socialisme scientifique privilégiait la transformation culturelle et artistique"
+  - "Il a loué les socialistes utopiques pour leurs expériences pratiques et critiqué le socialisme scientifique comme trop abstrait et théorique"
+  - "Il a affirmé que le socialisme utopique était violent et révolutionnaire, tandis que le socialisme scientifique favorisait une réforme démocratique pacifique"
+explanation: >-
+  Marx a accusé les premiers socialistes français comme Proudhon, Saint-Simon et Fourier d'être des utopistes qui proposaient des solutions purement imaginaires. Son socialisme scientifique reposait sur le matérialisme historique : l'idée que l'histoire progresse par la lutte des classes et l'appropriation des moyens de production, où toutes les représentations culturelles sont conditionnées par les forces productives et les rapports de production.
+reviewed: false

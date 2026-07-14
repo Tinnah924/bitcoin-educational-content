@@ -1,9 +1,9 @@
-question: Jaký základní princip podle textu odlišuje koncept otevřené společnosti Karla Poppera od uzavřené společnosti?
-answer: Otevřené společnosti umožňují jednotlivcům kritický úsudek a osobní odpovědnost, zatímco uzavřené společnosti odmítají individuální svobodu kritiky a vnější výměny názorů
+question: "Co měl Ludwig von Mises na mysli, když napsal, že pouze jednotlivec myslí, uvažuje a jedná?"
+answer: "Že kolektivity jako stát nebo národ nemají vlastní existenci mimo jednání svých jednotlivých členů"
 wrong_answers:
-  - Otevřené společnosti upřednostňují ekonomickou svobodu a tržní mechanismy, zatímco uzavřené společnosti kladou důraz na státní kontrolu nad výrobou a distribucí
-  - Otevřené společnosti jsou založeny na demokratických volebních systémech a vládě většiny, zatímco uzavřené společnosti se spoléhají na autoritářské vedení a hierarchické velitelské struktury
-  - Otevřené společnosti podporují technologický pokrok a vědecký pokrok, zatímco uzavřené společnosti udržují tradiční metody a brání se inovacím
-explanation: |
-  Popperovo rozlišení se soustředí na základní postoj k individuálnímu kritickému myšlení a osobnímu rozhodování.
-  Otevřené společnosti se vyznačují schopností jednotlivců uplatňovat kritický úsudek a osobní odpovědnost, přijímat změny, rozmanitost a vnější výměnu. Uzavřené společnosti naopak odmítají individuální kritickou svobodu, obávají se změn a udržují statickou, kmenovou mentalitu, která potlačuje individuální odpovědnost ve prospěch kolektivní konformity a tradičního řádu.
+  - "Že jednotlivci by se měli vyhýbat vytváření skupin nebo sdružení, protože kolektivní jednání je vždy škodlivé"
+  - "Že pouze určití nadaní jednotlivci jsou schopni racionálního myšlení, zatímco většina lidí následuje instinkt"
+  - "Že myšlení a uvažování jsou soukromé činnosti, které by nikdy neměly být sdíleny ani veřejně diskutovány"
+explanation: >-
+  Mises vyjasnil, že individualismus odporuje představě, že společenské entity, jako je společnost nebo národ, by mohly existovat nezávisle na jednotlivcích, kteří je tvoří. Kolektiv nemá vlastní existenci mimo jednání svých jednotlivých členů. Nemůžeme smysluplně mluvit o jednání státu nebo firmy, protože tyto entity nemají vlastní vůli ani myšlení a jednají pouze prostřednictvím jednotlivců.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Milliseid kahte telge kasutas David Nolan oma poliitilise diagrammi koostamisel?
-answer: Vasak-parem-telg ja vabaduse-võimu telg
+question: "Miks peetakse vertikaaltelge (üleval-all) Nolani diagrammil horisontaalteljest (vasak-parem) fundamentaalsemaks?"
+answer: "Sest see paljastab tõelise jaotuse nende vahel, kes kaitsevad maksimaalseid individuaalseid vabadusi, ja nende vahel, kes eelistavad maksimaalset riiklikku kontrolli"
 wrong_answers:
-  - Konservatiiv-liberaalne telg ja majandustelg
-  - Sotsiaalne telg ja valitsuse kontrolli telg
-  - Individualismi telg ja kollektivismi telg
-explanation: |
-  David Nolani diagrammi aluseks on kaks erinevat telge: traditsiooniline vasak-parem poliitiline telg ja teine telg, mis mõõdab vabadust versus võimu
-  (ehk riigimehelikkus). See vabaduse-võimu telg kulgeb vertikaalselt statismist allosas (nullpunkt) kuni libertarismini üleval. Selline kahemõõtmeline lähenemine võimaldab poliitiliste seisukohtade nüansirikkamat esitamist kui lihtne vasak-parem spektriosa, kuna see võimaldab eristada eraldi majanduslikke ja isiklikke vabadusi. Teistes valikutes mainitakse mõisteid, mis võivad olla seotud poliitilise analüüsiga, kuid ei ole konkreetsed teljed, mida Nolan kasutas oma kuulsas graafikus.
+  - "Sest see mõõdab majandustoodangut täpsemalt kui horisontaaltelg mõõdab sotsiaalpoliitikaid"
+  - "Sest enamik poliitilisi konflikte läbi ajaloo on puudutanud pigem kultuurilist identiteeti kui valitsemist"
+  - "Sest horisontaaltelg kehtib ainult kaasaegsete demokraatiate kohta, samas kui vertikaaltelg on universaalne"
+explanation: >-
+  Fundamentaalne telg on vertikaalne, sest see tabab keskset poliitilist küsimust: mil määral peaks riik kontrollima inimtegevust? Vasak-parem telg peegeldab pelgalt erinevaid tundlikkusi (sotsiaalne õiglus vs. traditsioon), kuid mõlemad pooled võivad riigikesksetena hõivata vertikaalteljel sama positsiooni. Vertikaaltelg näitab, kas keegi tahab oma nägemust jõuga peale suruda või austab üksikisiku vabadust.
+reviewed: false

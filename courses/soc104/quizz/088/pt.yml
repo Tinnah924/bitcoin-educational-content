@@ -1,9 +1,9 @@
-question: De acordo com o quadro de Karl Popper, qual é a caraterística fundamental que distingue uma sociedade aberta de uma sociedade fechada?
-answer: A capacidade dos indivíduos para exercerem um juízo crítico e uma responsabilidade pessoal na tomada de decisões
+question: "Por que Mises enfatiza que o individualismo não deve ser confundido com autossuficiência ou misantropia?"
+answer: "Porque o individualismo promove cooperação e associação, desde que elas repousem no livre consentimento dos participantes, reconhecendo que os humanos desenvolvem seu pleno potencial por meio de relações voluntárias com outros"
 wrong_answers:
-  - O grau de liberdade económica e as trocas baseadas no mercado entre diferentes grupos sociais
-  - O nível de avanço tecnológico e de progresso científico alcançado pela sociedade
-  - O grau de participação democrática e a regra da maioria nos processos de decisão política
-explanation: |
-  Popper define a sociedade aberta como aquela em que os indivíduos são confrontados com decisões pessoais e podem exercer um juízo crítico, enquanto a sociedade fechada recusa a liberdade crítica e a responsabilidade individual.
-  A distinção tem fundamentalmente a ver com a autonomia cognitiva e moral e não com sistemas económicos, progresso tecnológico ou procedimentos democráticos. As sociedades fechadas temem a mudança e a crítica, idealizando a ordem estática, enquanto as sociedades abertas abraçam a crítica dinâmica e a escolha individual dentro de regras de conduta abstractas.
+  - "Porque o individualismo exige que as pessoas se juntem a organizações cívicas obrigatórias para garantir que contribuam para o bem comum"
+  - "Porque o individualismo significa que cada pessoa deve depender inteiramente do estado para serviços que não consegue fornecer por si mesma"
+  - "Porque o individualismo exige que as pessoas compitam umas contra as outras em todos os domínios para provar sua superioridade pessoal"
+explanation: >-
+  Mises enfatiza que o ser humano é uma criatura social. O individualismo não significa isolamento. Ele promove cooperação e associação sob a condição de que repousem no livre consentimento dos participantes. O ser humano só pode desenvolver seu pleno potencial em relação com outros, mas essa cooperação deve ser voluntária, e não imposta pela autoridade coletiva.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Theo Tuyên ngôn Cypherpunk của Eric Hughes, nguyên tắc cơ bản nào phân biệt những người theo chủ nghĩa cypherpunk với những người chỉ đơn thuần mong muốn được bảo vệ quyền riêng tư?
-answer: Những người theo chủ nghĩa cypherpunk chủ động viết mã để xây dựng các hệ thống ẩn danh thay vì chờ đợi các tổ chức cung cấp quyền riêng tư.
+question: "Vì sao các cypherpunks lập luận rằng cần có một đồng tiền kỹ thuật số với các thuộc tính ẩn danh?"
+answer: "Vì tiền mặt, hệ thống giao dịch ẩn danh chủ yếu, đang biến mất trong xã hội kỹ thuật số, và cần phát minh một sự thay thế kỹ thuật số có cùng các thuộc tính quyền riêng tư"
 wrong_answers:
-  - Những người theo chủ nghĩa Cypherpunk tập trung vào vận động hành lang chính trị và cải cách pháp luật để thiết lập quyền riêng tư thông qua các quy trình dân chủ.
-  - Những người theo chủ nghĩa Cypherpunk tin rằng nên làm việc trong khuôn khổ các tổ chức tài chính hiện có để từng bước cải thiện khả năng bảo vệ quyền riêng tư của họ.
-  - Những người theo chủ nghĩa Cypherpunk ưu tiên việc giáo dục công chúng về các rủi ro liên quan đến quyền riêng tư hơn là phát triển các giải pháp kỹ thuật.
-explanation: |
-  Bản tuyên ngôn nêu rõ "Những người theo chủ nghĩa Cypherpunk viết mã" và nhấn mạnh rằng họ không tìm thấy sự an ủi trong hy vọng và ước muốn mà chủ động can thiệp vào các sự kiện.
-  Hughes lập luận rằng mọi người không thể trông chờ vào chính phủ, các tập đoàn hoặc các tổ chức lớn khác đảm bảo quyền riêng tư, vì vậy những người theo chủ nghĩa Cypherpunk phải tự xây dựng các hệ thống mật mã. Cách tiếp cận chủ động, mang tính kỹ thuật thông qua việc phát triển mã này phân biệt họ với các cách tiếp cận thụ động như vận động hành lang, làm việc trong các hệ thống hiện có hoặc chỉ đơn thuần giáo dục người khác mà không tạo ra các giải pháp công nghệ cụ thể.
+  - "Vì các hệ thống thanh toán kỹ thuật số hiện có quá chậm và đắt đỏ, đòi hỏi một phương án nhanh hơn và rẻ hơn cho thương mại trực tuyến"
+  - "Vì các chính phủ đã cấm mọi hình thức giao dịch ẩn danh và chỉ một công nghệ mới mới có thể vòng qua các luật này"
+  - "Vì các ngân hàng truyền thống từ chối phục vụ một số nhóm dân cư nhất định, khiến một hệ thống thanh toán kỹ thuật số có thể tiếp cận phổ quát trở thành một nhu cầu kinh tế"
+explanation: >-
+  Tuyên ngôn cypherpunk nói rằng tính bảo mật trong một xã hội mở đòi hỏi các hệ thống giao dịch ẩn danh. Cho đến thời đại kỹ thuật số, tiền mặt từng là hệ thống chính thuộc loại này. Nhưng trong một xã hội kỹ thuật số nơi tiền mặt đang biến mất, cần phát minh một đồng tiền kỹ thuật số có cùng các thuộc tính ẩn danh. Tầm nhìn này trực tiếp dự báo điều Bitcoin sẽ đạt được.
+reviewed: false

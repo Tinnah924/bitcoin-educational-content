@@ -1,11 +1,9 @@
-question: Secondo il testo, qual è il problema principale del tradizionale spettro politico destra-sinistra?
-answer: Non lascia spazio al pensiero liberale classico
+question: "Quale principio guida orientava i voti di Frederic Bastiat nell'Assemblea nazionale?"
+answer: "La promozione delle libertà individuali ed economiche e la riduzione dell'interferenza del governo"
 wrong_answers:
-  - Favorisce eccessivamente le posizioni centriste e moderate
-  - Dà eccessiva importanza ai partiti estremisti
-  - Semplifica i dibattiti riducendo tutto all'economia
-explanation: |
-  Il capitolo chiarisce che il problema principale dell'asse sinistra-destra è che non può classificare il pensiero liberale classico, che non corrisponde né all'egualitarismo di sinistra né al nazionalismo di destra
-  né all'egualitarismo di sinistra né al nazionalismo di destra. Figure come Thomas Jefferson, Frédéric Bastiat o movimenti come il Bitcoin trascendono
-  queste categorie tradizionali. Le altre opzioni non sono corrette, poiché il testo non critica il centrismo in quanto tale, non si concentra sull'estremismo ed evoca molti aspetti diversi dall'economia
-  molti aspetti diversi dall'economia.
+  - "La difesa dell'autorità reale e la preservazione delle tradizioni monarchiche"
+  - "L'avanzamento di politiche socialiste per ridistribuire la ricchezza in modo più equo"
+  - "Una strategia centrista di compromesso tra le fazioni di sinistra e di destra"
+explanation: >-
+  Bastiat votava sulla base di un principio fondamentale: promuovere le libertà individuali ed economiche riducendo al contempo l'interferenza del governo. Non era un opportunista centrista, né un monarchico o un socialista. Votava con il lato che proponeva misure allineate alla libertà e a un governo limitato.
+reviewed: false

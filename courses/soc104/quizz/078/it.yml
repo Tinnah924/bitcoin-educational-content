@@ -1,8 +1,9 @@
-question: Secondo l'analisi di Gustave Molinari in "Les Soirées de la rue Saint Lazare" (le serate di via Saint Lazarus), quale somiglianza fondamentale esiste tra conservatori e socialisti nonostante le loro apparenti differenze ideologiche?
-answer: Entrambi cercano di imporre la propria visione della società attraverso l'intervento dello Stato, pur avendo obiettivi sociali diversi
+question: "Che cosa ha precedenza sulla libertà nella filosofia politica conservatrice?"
+answer: "Ordine e tradizione, che devono essere saldamente stabiliti prima che la libertà possa essere valorizzata"
 wrong_answers:
-  - Entrambi rifiutano i diritti di proprietà individuali a favore di una proprietà collettiva gestita da diverse istituzioni
-  - Entrambi considerano la libertà come un principio assoluto che non dovrebbe mai essere limitato, a prescindere dalle conseguenze sociali
-  - Entrambi si oppongono a qualsiasi forma di regolamentazione governativa e sostengono diversi tipi di soluzioni di mercato private
-explanation: |
-  L'intuizione chiave di Molinari è che conservatori e socialisti, nonostante le loro visioni sociali opposte, condividono un approccio metodologico comune: entrambi si affidano al potere dello Stato per imporre l'ordine sociale che preferiscono. I conservatori usano lo Stato per mantenere le strutture tradizionali, mentre i socialisti lo usano per creare nuove strutture egualitarie. Questo li distingue dai libertari, che si oppongono all'ingegneria sociale imposta dallo Stato indipendentemente dalla sua direzione ideologica. Le altre opzioni travisano le reali posizioni di queste ideologie su proprietà, libertà e governo.
+  - "Giustizia sociale e uguaglianza, che devono essere garantite prima che gli individui possano essere davvero liberi"
+  - "Efficienza economica e risultati pragmatici, che determinano quando la libertà è appropriata"
+  - "Diritti di proprietà individuale, che devono essere protetti prima che sia concessa qualsiasi altra libertà"
+explanation: >-
+  Per i conservatori, ordine e tradizione hanno precedenza sulla libertà. Sostengono che troppa libertà generi caos e disordine sociale, quindi la libertà può essere valorizzata solo una volta che l'ordine è stato saldamente stabilito. Questo contrasta con la visione socialista che dà priorità alla giustizia, o con l'attenzione centrista all'efficienza.
+reviewed: false

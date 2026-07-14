@@ -1,10 +1,9 @@
-question: Dushingiye ku birimwo, ni kuki igice c’iburyo n’ibubamfu ca kera kidahagije kugira ngo umuntu ashobore gushiramwo Bitcoin?
-answer: Kuko Bitcoin irenze amacakubiri asanzwe kandi ikwegera abayishigikiye bava mu mice itandukanye ya politike .
+question: "Uburyo bw'amafaranga fiat bukomeza gute igaburwa hagati y'abatwara n'abatwarwa?"
+answer: "Butuma leta zishobora kuriha ugukoresha amahera kutagira imbibe biciye mu kurema amahera, bigatuma ivyo abantu babitse bitakaza agaciro kubera uguta agaciro kw'amahera"
 wrong_answers:
-  - Kubera ko Bitcoin ishigikiwe gusa n’abantu b’iburyo b’abanyagihugu b’isoko ry’uburenganzira .
-  - Kuko Bitcoin ahanini yemerwa n’abanyabubamfu ku bijanye no gushiramwo amafaranga y’abanyagihugu bacitse kw’icumu .
-  - Kuko Bitcoin ni ubuhinga butagira aho bugarukira ataco buvuze mu vya politike canke mu vy'ingengabitekerezo .
-explanation: |
-  Ico canditswe kirasigura ko Bitcoin, nk’ubuhinga bushizwe ahantu hamwe, bukwegera abayishigikiye bava mu mice itandukanye ya politike, harimwo n’abo bompi bo mu buryo . 
-  n’abantu b’abanyabumoso, hamwe n’abanyagitugu n’abantu batagira politike. Ubwo butandukanye bw’infashanyo bwerekana ko Bitcoin idashobora guterwa mu . 
-  urutonde rwa politike rwa kera, rutandukanye n’izindi nyishu zivuga ko umuntu yokwisunga bimwe bike canke ko ata ho abogamiye.
+  - "Buha abanyagihugu ububasha butaziguye bwo kugenzura politike y'amahera biciye mu matora ya demokarasi no mu matora ya referendumu"
+  - "Bubuza leta kugurana amahera, bukazihata kwisunga amakori gusa kugira ngo zironke amafaranga"
+  - "Bukwiragiza amahera mashasha yaremwe ku banyagihugu bose ku rugero rungana kugira ngo butume ubutunzi bukura"
+explanation: >-
+  Ifaranga fiat ridondorwa nk'ibuye ry'imfuruka ryo kwagura ububasha bwa leta kubera ko rituma leta zigurana amahera kandi zigasunika amabanki gucapura amahera mashasha. Uguta agaciro kw'amahera bivamwo gutuma ivyo abantu babitse bitakaza agaciro, bikagirira akamaro abafise ubutunzi bwinshi n'inzego zifise ububasha kuruta izindi. Ntibiha abanyagihugu ububasha bwo kugenzura amahera, kandi ntibibuza kugurana canke ngo bikwiragize amahera ku rugero rungana.
+reviewed: false

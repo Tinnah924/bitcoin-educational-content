@@ -1,8 +1,9 @@
-question: Theo Milton Friedman, tại sao các chương trình xã hội dành cho người nghèo thường thất bại trong việc đạt được mục tiêu của chúng?
-answer: Vì chúng tạo ra những tác động tiêu cực như sự phụ thuộc kinh tế và sự méo mó thị trường.
+question: "Milton Friedman đã đưa ra cảnh báo gì về việc đánh giá các chính sách chính trị?"
+answer: "Các chính sách nên được đánh giá bằng kết quả của chúng hơn là bằng ý định của chúng"
 wrong_answers:
-  - Bởi vì những người tài trợ cho họ thiếu thiện chí và lòng hào phóng đối với người nghèo.
-  - Vì họ không có đủ kinh phí để đáp ứng nhu cầu thực tế.
-  - Vì người hưởng lợi không hiểu cách sử dụng các chương trình này một cách hiệu quả.
-explanation: |
-  Friedman chỉ ra rằng các chính sách xã hội, bất chấp những ý định tốt đẹp của chúng, thường thất bại vì chúng không tính đến việc phân tích kỹ lưỡng các động cơ và hành vi của con người. Những chương trình này tạo ra những tác động tiêu cực không lường trước được, chẳng hạn như sự phụ thuộc kinh tế hoặc sự bóp méo thị trường, dẫn đến những kết quả trái ngược với mục tiêu ban đầu.
+  - "Các chính sách nên được đánh giá bằng phẩm chất đạo đức của các chính trị gia đề xuất chúng"
+  - "Các chính sách nên được đánh giá bằng mức độ phổ biến của chúng trong công chúng đi bầu nói chung"
+  - "Các chính sách nên được đánh giá bằng việc liệu chúng có phù hợp với hiến pháp ban đầu của quốc gia hay không"
+explanation: >-
+  Friedman viết rằng một trong những sai lầm lớn nhất là đánh giá chính sách dựa trên ý định thay vì kết quả, đồng thời lưu ý rằng các chương trình được gắn nhãn là vì người nghèo hầu như luôn tạo ra những tác động ngược với điều mà những người bảo trợ chúng dự định. Điều này vọng lại lời dạy của Bastiat rằng một nhà kinh tế giỏi xem xét cả tác động ngắn hạn lẫn dài hạn đối với toàn bộ dân chúng.
+reviewed: false

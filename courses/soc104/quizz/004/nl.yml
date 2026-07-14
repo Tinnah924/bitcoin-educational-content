@@ -1,10 +1,9 @@
-question: Waarom is, volgens de inhoud, de traditionele scheidslijn tussen rechts en links ontoereikend om Bitcoin te classificeren?
-answer: Omdat Bitcoin traditionele scheidslijnen overstijgt en aanhangers met verschillende politieke achtergronden aantrekt
+question: "Welk gemeenschappelijk punt delen linkse en rechtse politieke partijen ondanks hun schijnbare tegenstelling?"
+answer: "Beide verdedigen het recht van de staat om het leven van mensen te sturen via regels en belastingen"
 wrong_answers:
-  - Omdat Bitcoin uitsluitend wordt gesteund door rechtse vrijemarktpersoonlijkheden
-  - Omdat Bitcoin vooral door links wordt gebruikt voor de financiële inclusie van achtergestelde bevolkingsgroepen
-  - Omdat Bitcoin een neutrale technologie is zonder politieke of ideologische dimensie
-explanation: |
-  De tekst legt uit dat Bitcoin, als gedecentraliseerde technologie, aanhangers aantrekt met verschillende politieke achtergronden, waaronder zowel rechtse als linkse persoonlijkheden, maar ook anarchisten en apolitieke individuen
-  en linkse persoonlijkheden, maar ook anarchisten en apolitieke individuen. Deze diversiteit aan steun laat zien dat Bitcoin niet in een traditionele politieke categorie kan worden ondergebracht
-  een traditionele politieke categorie, in tegenstelling tot andere antwoorden die een beperkte voorkeur voor één politiek kamp of totale neutraliteit suggereren.
+  - "Beide pleiten voor de volledige afschaffing van staatsinterventie in economische zaken"
+  - "Beide geven individuele vrijheid voorrang boven de collectieve organisatie van de samenleving"
+  - "Beide wijzen het gebruik van monetair beleid af als instrument voor overheidsuitgaven"
+explanation: >-
+  Ondanks dat ze tegengesteld lijken, delen links en rechts een voorkeur voor staatsinterventie. Beide bekritiseren de vrije markt en verdedigen het recht van de staat om het leven van mensen te sturen via regels en belastingen. Links bekritiseert markten als bron van ongelijkheid, terwijl rechts ze ziet als een bedreiging voor soevereiniteit, maar beide wenden zich tot de staat voor oplossingen.
+reviewed: false

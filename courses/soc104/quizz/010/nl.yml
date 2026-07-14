@@ -1,9 +1,9 @@
-question: Welke politieke positie wordt volgens de Nolan Chart gekarakteriseerd door het steunen van veel economische vrijheid maar weinig persoonlijke vrijheid?
-answer: Conservatieven
+question: "Waarom wordt de verticale as (boven-onder) in het Nolan-diagram als fundamenteler beschouwd dan de horizontale as (links-rechts)?"
+answer: "Omdat ze de echte kloof onthult tussen degenen die maximale individuele vrijheden verdedigen en degenen die maximale staatscontrole voorstaan"
 wrong_answers:
-  - Socialisten
-  - Libertariërs
-  - Centristen
-explanation: |
-  In de Nolan Grafiek staan conservatieven aan de rechterkant en worden gedefinieerd als mensen die een hoge mate van economische vrijheid voorstaan, maar een lage mate van persoonlijke vrijheid.
-  Dit onderscheidt hen van socialisten (die lage economische vrijheid maar hoge persoonlijke vrijheid steunen), libertariërs (die zowel hoge economische als persoonlijke vrijheid steunen) en centristen (die gematigde niveaus van beide soorten vrijheid steunen). Het conservatieve standpunt weerspiegelt het traditionele rechtse standpunt dat voorstander is van vrije markten en tegelijkertijd een strengere sociale controle handhaaft.
+  - "Omdat ze economische output nauwkeuriger meet dan de horizontale as sociaal beleid meet"
+  - "Omdat de meeste politieke conflicten door de geschiedenis heen over culturele identiteit gingen in plaats van bestuur"
+  - "Omdat de horizontale as alleen geldt voor moderne democratieën terwijl de verticale as universeel is"
+explanation: >-
+  De fundamentele as is de verticale, omdat die de essentiële politieke vraag vat: in welke mate moet de staat menselijk handelen controleren? De links-rechtsas weerspiegelt slechts verschillende gevoeligheden (sociale rechtvaardigheid versus traditie), maar beide kanten kunnen op de verticale as dezelfde positie innemen als statisten. De verticale as onthult of iemand zijn visie met geweld wil opleggen of individuele vrijheid respecteert.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Proč podle Hayekovy teorie rozptýlených znalostí nedosahují centrálně plánované ekonomiky efektivní alokace zdrojů ve srovnání se systémy volného trhu?
-answer: Centrální plánovači nemají přístup k roztříštěným a lokalizovaným znalostem, které mají pouze jednotliví účastníci trhu o svých specifických potřebách, preferencích a okolnostech
+question: "Jaký je Hayekův základní argument, proč centrální plánování selhává?"
+answer: "Znalosti existují pouze jako rozptýlené fragmenty vlastněné různými jednotlivci a centrální autorita je nemůže soustředit ani integrovat"
 wrong_answers:
-  - Centrální plánovači nemají dostatečný výpočetní výkon a pokročilé algoritmy potřebné ke zpracování všech ekonomických údajů potřebných k optimálnímu přidělení zdrojů
-  - Centrální plánovači jsou ze své podstaty zkorumpovaní a zištní a upřednostňují svůj osobní prospěch před blahem celé společnosti
-  - Centrální plánovači jsou ideologicky zaujatí a odmítají zavádět tržní řešení, i když uznávají jejich vyšší efektivitu
-explanation: |
-  Hayekův základní poznatek o rozptýlených znalostech ukazuje, že informace o individuálních preferencích, místních podmínkách a subjektivních hodnoceních existují pouze v roztříštěné podobě napříč miliony jednotlivců. Tyto znalosti nelze centrálně shromažďovat ani agregovat, protože jsou tacitní, neustále se mění a často si protiřečí. Volný trh to řeší prostřednictvím cenového mechanismu, který spontánně koordinuje tyto rozptýlené informace prostřednictvím dobrovolných směn.
-  Ostatní možnosti se nesprávně zaměřují na technická omezení, morální nedostatky nebo ideologickou zaujatost, a nikoli na základní epistemologický problém, že žádná centrální autorita nemůže mít rozptýlené znalosti nezbytné pro účinnou koordinaci.
+  - "Centrální plánovači jsou morálně zkažení a vždy jednají ve vlastním zájmu, nikoli ve veřejném dobru"
+  - "Demokratické instituce reagují na ekonomické změny příliš pomalu, takže centralizovaná rozhodnutí jsou vždy zastaralá"
+  - "Centrální plánování selhává, protože občané záměrně odporují vládním nařízením a odmítají dodržovat regulace"
+explanation: >-
+  Hayekův základní argument spočívá v povaze informací. Ukázal, že znalost nikdy neexistuje v koncentrované nebo integrované podobě, ale pouze jako rozptýlené fragmenty vlastněné všemi jednotlivými lidmi. Hodnota je subjektivní a známa jen lokálně a neúplně. Centrální plánovač sedící v kanceláři nezná skutečnou cenu věcí, protože se neúčastní interakce a směny.
+reviewed: false

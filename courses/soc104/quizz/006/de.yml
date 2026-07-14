@@ -1,11 +1,9 @@
-question: Welches sind die fünf Abschnitte, die im politischen Diagramm des Nolan-Diagramms dargestellt sind?
-answer: Statismus (unten), Sozialismus (links), Konservatismus (rechts), Libertarismus (oben) und Zentrismus (Mitte)
+question: "Was sind die zwei Achsen des Nolan-Diagramms?"
+answer: "Eine vertikale Achse, die persönliche Freiheiten misst, und eine horizontale Achse, die wirtschaftliche Freiheiten misst"
 wrong_answers:
-  - Autoritarismus (unten), Liberalismus (links), Nationalismus (rechts), Anarchismus (oben) und Populismus (Mitte)
-  - Totalitarismus (unten), Progressivismus (links), Traditionalismus (rechts), Kapitalismus (oben) und Moderatismus (Mitte)
-  - Faschismus (unten), Kommunismus (links), Republikanismus (rechts), Demokratie (oben) und Pragmatismus (Mitte)
-explanation: |
-  Das Nolan-Diagramm unterteilt das politische Spektrum in fünf verschiedene Bereiche, die auf wirtschaftlicher und persönlicher Freiheit basieren. Der Statismus steht für
-  der Statismus (unten) steht für maximale staatliche Kontrolle, während der Libertarismus (oben) für maximale Freiheit in beiden Bereichen steht. Der Sozialismus (links) unterstützt die persönliche
-  sozialismus (links) unterstützt die persönliche Freiheit, lehnt aber die wirtschaftliche Freiheit ab, während der Konservatismus (rechts) die wirtschaftliche Freiheit unterstützt, aber die persönliche Freiheit einschränkt. Der Zentrismus befindet sich in der Mitte,
-  er mischt Elemente beider Freiheiten mit einer gewissen Regulierung.
+  - "Eine horizontale Achse von links nach rechts und eine vertikale Achse von autoritär zu demokratisch"
+  - "Eine vertikale Achse, die Wohlstand misst, und eine horizontale Achse, die Bildungsniveaus misst"
+  - "Eine horizontale Achse von Sozialismus zu Kapitalismus und eine vertikale Achse von Tradition zu Fortschritt"
+explanation: >-
+  David Nolan entwarf sein Diagramm mit zwei spezifischen Achsen: persönlichen Freiheiten (vertikal) und wirtschaftlichen Freiheiten (horizontal). Dieser zweidimensionale Ansatz ersetzt die übermäßig vereinfachte Links-rechts-Linie und erfasst die Komplexität politischer Ideologien besser, indem er die zwei Hauptkategorien der Freiheit trennt.
+reviewed: false

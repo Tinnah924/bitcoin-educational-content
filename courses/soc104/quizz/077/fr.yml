@@ -1,8 +1,9 @@
-question: According to Molinari's analysis in 'Les Soirées de la rue Saint Lazare', what fundamental similarity exists between conservatives and socialists that distinguishes them from libertarians?
-answer: Both conservatives and socialists seek to impose their vision of society through state power, despite having different visions
+question: "Qu'est-ce qui prime sur la liberté dans la philosophie politique conservatrice ?"
+answer: "L'ordre et la tradition, qui doivent être fermement établis avant que la liberté puisse être valorisée"
 wrong_answers:
-  - Both conservatives and socialists reject individual property rights and favor collective ownership of resources
-  - Both conservatives and socialists view freedom as an absolute principle that should never be compromised or limited
-  - Both conservatives and socialists support minimal government intervention and oppose all forms of social engineering
-explanation: |
-  Molinari's key insight was that despite their apparent opposition, conservatives and socialists share a common methodology: using state power to impose their respective social visions. Conservatives want to force people to maintain traditional roots and structures, while socialists want to force people to abandon them, but both rely on state coercion. This distinguishes them from libertarians, who oppose using state power to impose any social vision and instead advocate for voluntary arrangements based on individual choice and property rights.
+  - "La justice sociale et l'égalité, qui doivent être garanties avant que les individus puissent être véritablement libres"
+  - "L'efficacité économique et les résultats pragmatiques, qui déterminent quand la liberté est appropriée"
+  - "Les droits de propriété individuels, qui doivent être protégés avant que toute autre liberté soit accordée"
+explanation: >-
+  Pour les conservateurs, l'ordre et la tradition priment sur la liberté. Ils soutiennent qu'un excès de liberté engendre le chaos et le désordre social, si bien que la liberté ne peut être valorisée qu'une fois l'ordre fermement établi. Cela contraste avec la vision socialiste qui donne la priorité à la justice, ou avec l'accent centriste mis sur l'efficacité.
+reviewed: false

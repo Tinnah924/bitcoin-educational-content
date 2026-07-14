@@ -1,10 +1,9 @@
-question: Hvorfor er det tradisjonelle høyre-venstre-skillet utilstrekkelig for å klassifisere Bitcoin, ifølge innholdet?
-answer: Fordi Bitcoin overskrider tradisjonelle skillelinjer og tiltrekker seg støttespillere fra ulike politiske bakgrunner
+question: "Hvordan forsterker fiatpengesystemet skillet mellom de styrende og de styrte?"
+answer: "Det lar regjeringer finansiere ubegrensede utgifter gjennom pengeskaping, noe som devaluerer sparing gjennom inflasjon"
 wrong_answers:
-  - Fordi Bitcoin utelukkende støttes av høyreorienterte frimarkedspersonligheter
-  - Fordi Bitcoin hovedsakelig brukes av venstresiden for økonomisk inkludering av vanskeligstilte befolkningsgrupper
-  - Fordi Bitcoin er en nøytral teknologi uten noen politisk eller ideologisk dimensjon
-explanation: |
-  Teksten forklarer at Bitcoin, som en desentralisert teknologi, tiltrekker seg tilhengere med ulik politisk bakgrunn, inkludert både høyre- og venstreorienterte
-  og venstreorienterte personligheter, så vel som anarkister og apolitiske individer. Dette mangfoldet av støttespillere viser at Bitcoin ikke kan plasseres i
-  i en tradisjonell politisk kategori, i motsetning til andre svar som antyder begrenset tilslutning til én politisk leir eller total nøytralitet.
+  - "Det gir borgere direkte kontroll over pengepolitikken gjennom demokratiske valg og folkeavstemninger"
+  - "Det hindrer regjeringer i å låne, og tvinger dem til å basere seg utelukkende på skattlegging for inntekter"
+  - "Det fordeler nyskapte penger likt blant alle borgere for å stimulere økonomisk vekst"
+explanation: >-
+  Fiatvaluta beskrives som hjørnesteinen i utvidelsen av statsmakten fordi den lar regjeringer låne og presse banker til å trykke nye penger. Den resulterende inflasjonen devaluerer folks sparing, til fordel for de rikeste og mektigste aktørene. Den gir ikke borgere monetær kontroll, og den hindrer heller ikke låneopptak eller fordeler penger likt.
+reviewed: false

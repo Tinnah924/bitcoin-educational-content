@@ -1,9 +1,9 @@
-question: Worin besteht der grundlegende Unterschied zwischen minarchistischen und anarchokapitalistischen Libertären in Bezug auf die Rolle des Staates?
-answer: Minarchisten befürworten einen Minimalstaat, der sich auf Polizei, Justiz und Verteidigung beschränkt, während Anarchokapitalisten alle staatlichen Funktionen privatisieren und vom Markt verwalten lassen wollen
+question: "Warum argumentiert Ron Paul, dass die Federal Reserve schädlich ist, und wie hängt Bitcoin mit seiner Position zusammen?"
+answer: "Die Federal Reserve verursacht Inflation und Konjunkturzyklen durch die Manipulation von Fiatgeld, und Bitcoin stellt eine Form von solidem Geld dar, die den Goldstandard ersetzen könnte"
 wrong_answers:
-  - Minarchisten lehnen alle Formen der Regierung ab, während Anarchokapitalisten nur begrenzte staatliche Eingriffe in wirtschaftliche Angelegenheiten akzeptieren
-  - Minarchisten befürworten freie Märkte mit einer gewissen Regulierung, während Anarchokapitalisten für eine vollständige staatliche Kontrolle der wesentlichen Dienstleistungen eintreten
-  - Minarchisten glauben an ein starkes Eingreifen des Staates in soziale Fragen, während Anarchokapitalisten sich ausschließlich auf wirtschaftliche Freiheit ohne soziale Freiheiten konzentrieren
-explanation: |
-  Sowohl minarchistische als auch anarcho-kapitalistische Libertäre teilen das Grundprinzip der individuellen Souveränität, unterscheiden sich aber in der Umsetzung. Minarchisten akzeptieren
-  einen minimalen "Nachtwächter"-Staat, der nur die wesentlichen Funktionen von Polizei, Justiz und territorialer Verteidigung wahrnimmt. Anarchokapitalisten gehen noch weiter und sind der Meinung, dass selbst diese traditionellen Staatsfunktionen privatisiert und über Marktmechanismen abgewickelt werden sollten. Die anderen Optionen stellen diese Positionen falsch dar, indem sie fälschlicherweise suggerieren, dass Minarchisten den Staat gänzlich ablehnen oder dass eine der beiden Gruppen umfangreiche staatliche Interventionen unterstützt.
+  - "Die Federal Reserve begrenzt den Bankenwettbewerb, und Bitcoin dezentralisiert Bankdienstleistungen, um finanzielle Inklusion zu verbessern"
+  - "Die Federal Reserve verhindert Freihandel zwischen Nationen, und Bitcoin ermöglicht grenzenlose Transaktionen ohne staatliche Genehmigung"
+  - "Die Federal Reserve erzeugt übermäßige Staatsschulden, und Bitcoin bietet eine deflationäre Währung, die die Staatsverschuldung beseitigt"
+explanation: >-
+  Ron Paul, ein Minarchist, argumentiert, dass die Federal Reserve für Inflation und Konjunkturzyklen verantwortlich ist, weil sie Fiatgeld manipuliert. Er setzt sich für die Entnationalisierung des Geldes ein, eine von Friedrich Hayek vertretene Idee, und sieht Bitcoin als eine Form von solidem Geld, die den Goldstandard ersetzen könnte. Seine Kritik ist in der libertären Geldtheorie verwurzelt, nicht primär in Bankenwettbewerb, Handelsbarrieren oder Staatsschulden.
+reviewed: false

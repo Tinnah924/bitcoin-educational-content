@@ -1,8 +1,9 @@
-question: Co je podle analýzy Hannah Arendtové hlavním cílem totalitních vzdělávacích systémů?
-answer: Zničit lidskou schopnost vytvářet si nezávislé přesvědčení a víru
+question: "Jaký je v otázce regulace střelných zbraní zásadní rozdíl mezi konzervativní a libertariánskou pozicí?"
+answer: "Obě přijímají určitou regulaci, ale konzervativci chtějí pravidla od legitimní veřejné autority, zatímco libertariáni chtějí, aby pravidla vycházela od těch, kterých se přímo týkají, například od občanských sdružení a tržní konkurence"
 wrong_answers:
-  - Indoktrinovat občany specifickou politickou ideologií a hodnotami režimu
-  - Vytvořit vysoce vzdělanou pracovní sílu, která bude schopna prosazovat ekonomické cíle státu
-  - Odstranit negramotnost a podporovat vědecké poznání, které slouží státu
-explanation: |
-  Hannah Arendtová tvrdila, že cílem totalitní výchovy nikdy nebylo vštípit lidem konkrétní přesvědčení, ale spíše zničit jejich schopnost vytvářet si jakékoliv nezávislé názory. Tím se totalitarismus liší od pouhého autoritářství nebo propagandy - usiluje o likvidaci samotné kognitivní schopnosti nezávislého myšlení. Ostatní možnosti představují konvenčnější formy politické indoktrinace nebo státem řízené výchovy, ale postrádají zásadní Arendtové poznatek, že totalitarismus usiluje o úplné popření lidského jednání a nezávislého úsudku, nikoli pouze o prosazování konkrétních ideologií.
+  - "Konzervativci odmítají jakoukoli regulaci střelných zbraní, zatímco libertariáni přijímají přísnou vládní kontrolu kvůli veřejné bezpečnosti"
+  - "Konzervativci chtějí střelné zbraně zcela zakázat, zatímco libertariáni podporují neomezený přístup ke všem zbraním"
+  - "Konzervativci zakládají svůj postoj na individuálních právech, zatímco libertariáni na kolektivní odpovědnosti"
+explanation: >-
+  Konzervativci i libertariáni souhlasí, že pro nošení zbraní je nezbytná určitá forma regulace. Zásadní rozdíl spočívá v tom, kdo tato pravidla stanovuje. Konzervativci trvají na tom, že regulace musí vycházet z veřejné autority pověřené ochranou obecného dobra (shora dolů). Libertariáni tvrdí, že regulace by měla vycházet od těch, kterých se přímo týká: bezpečnostních profesionálů, občanských sdružení a tržní konkurence (zdola nahoru).
+reviewed: false

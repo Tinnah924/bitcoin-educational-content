@@ -1,8 +1,9 @@
-question: Miksi Hayekin hajautetun tiedon teorian mukaan keskussuunnittelu on talouden koordinointimekanismina pohjimmiltaan virheellinen?
-answer: Tieto on olemassa vain hajanaisina palasina yksilöiden keskuudessa, minkä vuoksi keskussuunnittelijoiden on mahdotonta saada käyttöönsä täydellistä tietoa, jota tarvitaan tehokkaaseen koordinointiin
+question: "Millä on konservatiivisessa poliittisessa filosofiassa etusija vapauteen nähden?"
+answer: "Järjestys ja perinne, jotka on vakiinnutettava lujasti ennen kuin vapautta voidaan arvostaa"
 wrong_answers:
-  - Keskussuunnittelijoilla ei ole moraalista auktoriteettia tehdä päätöksiä muiden puolesta, vaikka heillä olisi täydelliset markkinatiedot
-  - Poliittinen korruptio ja oman edun tavoittelu estävät keskussuunnittelijoita toteuttamasta taloudellisesti optimaalisia ratkaisuja, vaikka heillä olisi käytettävissään kaikki tarvittavat tiedot
-  - Keskussuunnittelu vaatii liikaa laskentatehoa ja teknologiaa, jota ei ollut saatavilla Hayekin aikana mutta joka voisi toimia nykyään
-explanation: |
-  Hayekin kritiikki keskussuunnittelua kohtaan on epistemologista, ei moraalista tai teknologista. Hän väitti, että tietoa ei ole koskaan olemassa keskitetyssä muodossa vaan ainoastaan "hajallaan olevina epätäydellisen ja usein ristiriitaisen tiedon palasina, jotka ovat kaikkien erilaisten yksilöiden hallussa" Tämä hajanaisen tiedon ongelma tarkoittaa, että keskussuunnittelijat eivät pääse käsiksi subjektiivisiin kustannuksiin, hyötyihin ja paikallisiin mieltymyksiin, joita vain yksilöillä on, mikä tekee tehokkaan taloudellisen koordinoinnin mahdottomaksi riippumatta suunnittelijoiden aikomuksista tai laskentakyvystä.
+  - "Sosiaalinen oikeudenmukaisuus ja tasa-arvo, jotka on taattava ennen kuin yksilöt voivat olla todella vapaita"
+  - "Taloudellinen tehokkuus ja pragmaattiset tulokset, jotka määrittävät, milloin vapaus on sopivaa"
+  - "Yksilölliset omistusoikeudet, jotka on suojattava ennen kuin mitään muuta vapautta myönnetään"
+explanation: >-
+  Konservatiiveille järjestys ja perinne ovat etusijalla vapauteen nähden. He väittävät, että liiallinen vapaus synnyttää kaaosta ja yhteiskunnallista epäjärjestystä, joten vapautta voidaan arvostaa vasta, kun järjestys on vakiinnutettu lujasti. Tämä eroaa sosialistisesta näkemyksestä, joka asettaa oikeudenmukaisuuden etusijalle, tai sentristisestä tehokkuuden painotuksesta.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Según la perspectiva de Friedman, ¿cuál es el principal problema de juzgar las políticas sociales basándose en sus intenciones declaradas y no en sus resultados reales?
-answer: Las políticas bienintencionadas suelen tener consecuencias no deseadas, como la dependencia económica y las distorsiones del mercado, que contradicen sus objetivos originales
+question: "¿Por qué se consideran problemáticas para fines analíticos las definiciones intencionales de los sistemas políticos?"
+answer: "Crean confusión conceptual porque todos los sistemas afirman perseguir objetivos similares como la justicia, la equidad y la libertad"
 wrong_answers:
-  - Las intenciones son demasiado difíciles de medir objetivamente en comparación con la evaluación directa de los resultados de las políticas
-  - Los políticos engañan deliberadamente al público sobre sus verdaderas intenciones, lo que hace que la evaluación basada en la intención sea fundamentalmente poco fiable y engañosa
-  - Las intenciones cambian con demasiada frecuencia durante la aplicación de las políticas, lo que las convierte en una base inestable para su evaluación a largo plazo
-explanation: |
-  Friedman sostiene que las políticas con intenciones generosas pueden producir efectos perversos contrarios a sus objetivos, como crear dependencia entre aquellos a los que pretenden ayudar
-  que pretenden ayudar. La cuestión no es la dificultad de medición, el engaño político o el cambio de intenciones, sino que las buenas intenciones no garantizan resultados positivos. Por eso se prefieren las definiciones estructurales, centradas en características observables y resultados mensurables, a las definiciones intencionales, basadas en motivaciones declaradas.
+  - "Son demasiado precisas y rígidas, sin dejar espacio para la evolución natural de los movimientos políticos con el tiempo"
+  - "Se centran demasiado en los resultados económicos e ignoran las dimensiones culturales y sociales de la vida política"
+  - "Se basan en documentos gubernamentales clasificados que rara vez están disponibles para investigadores independientes"
+explanation: >-
+  Las definiciones intencionales se apoyan en motivaciones y objetivos declarados, pero todo sistema político afirma perseguir la justicia, la equidad y la libertad. Esto hace imposible distinguir unos sistemas de otros. El análisis estructural, en cambio, evalúa los sistemas por sus consecuencias empíricas y medibles y por los medios que emplean, revelando su verdadera naturaleza más allá de la retórica.
+reviewed: false

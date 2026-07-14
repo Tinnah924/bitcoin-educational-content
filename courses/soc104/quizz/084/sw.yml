@@ -1,8 +1,9 @@
-question: Kulingana na nadharia ya Hayek ya maarifa yaliyotawanyika, kwa nini upangaji mkuu una kasoro kimsingi kama utaratibu wa uratibu wa kiuchumi?
-answer: Maarifa yapo tu kama vipande vilivyotawanyika miongoni mwa watu binafsi, na kufanya iwe vigumu kwa wapangaji wakuu kupata taarifa kamili zinazohitajika kwa uratibu mzuri.
+question: "Tofauti muhimu kati ya kuwa pro-business na kuwa pro-market ni ipi?"
+answer: "Watetezi wa pro-business hutafuta uingiliaji wa dola ili kulinda kampuni mahususi dhidi ya kushindwa, ilhali watetezi wa pro-market huunga mkono kuondoa udhibiti na kuruhusu biashara zishindwe ili soko lijipange upya kiasili"
 wrong_answers:
-  - Wapangaji wakuu hawana mamlaka ya kimaadili ya kufanya maamuzi kwa ajili ya wengine, hata wanapokuwa na taarifa kamili za soko.
-  - Rushwa ya kisiasa na maslahi binafsi huzuia wapangaji wakuu kutekeleza suluhisho bora za kiuchumi licha ya kupata data zote muhimu.
-  - Kupanga mipango ya kati kunahitaji nguvu nyingi sana ya kompyuta na teknolojia ambayo haikuwapo wakati wa Hayek lakini inaweza kufanya kazi leo
-explanation: |
-  Ukosoaji wa Hayek kuhusu upangaji mkuu ni wa kiepistemolojia, si wa kimaadili au kiteknolojia. Alidai kwamba maarifa hayapo kamwe katika umbo lililojikita bali ni 'vipande vilivyotawanyika vya maarifa yasiyokamilika na yanayokinzana mara nyingi yanayomilikiwa na watu wote tofauti.' Tatizo hili la maarifa yaliyotawanyika linamaanisha kwamba wapangaji wakuu hawawezi kufikia gharama za kibinafsi, faida, na mapendeleo ya ndani ambayo watu binafsi pekee wanayo, na kufanya uratibu mzuri wa kiuchumi usiwezekane bila kujali nia zao au uwezo wao wa kompyuta.
+  - "Watetezi wa pro-business hujikita kwenye makampuni makubwa ilhali watetezi wa pro-market hujikita pekee katika kusaidia biashara ndogo na startups"
+  - "Pro-business ni msimamo wa mrengo wa kushoto unaopendelea vyama vya ushirika vya wafanyakazi ilhali pro-market ni msimamo wa mrengo wa kulia unaopendelea umiliki binafsi"
+  - "Watetezi wa pro-business hukataa ushindani wote ilhali watetezi wa pro-market huunga mkono ushindani unaodhibitiwa na serikali kati ya makampuni yaliyoidhinishwa"
+explanation: >-
+  Msimamo wa pro-business huona ushindani kama chombo cha utawala kinachopatikana kupitia kanuni na huhalalisha ruzuku na uokoaji wa kifedha ili kuzuia upotevu wa ajira. Katika mtazamo wa pro-business, soko ni dhaifu na linahitaji uokoaji wa dola. Watetezi wa pro-market huona ushindani kama matokeo ya kiasili ya biashara huru, wakimaanisha kuondoa udhibiti na kuruhusu biashara zishindwe, kwa sababu kushindwa huliruhusu soko kujipanga upya kiasili na kufungua nafasi kwa watendaji wenye uwezo zaidi.
+reviewed: false

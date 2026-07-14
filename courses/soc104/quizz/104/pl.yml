@@ -1,9 +1,9 @@
-question: Jaka jest podstawowa różnica między pieniądzem państwowym (fiat) a pieniądzem rynkowym, takim jak Bitcoin, według filozofii libertariańskiej?
-answer: Pieniądz państwowy jest przymusowy i scentralizowany, podczas gdy pieniądz rynkowy powstaje dobrowolnie i utrzymuje długoterminową wartość
+question: "Dlaczego kurs opisuje Bitcoin jako walutę rynkową przeciwstawioną pieniądzowi państwowemu, a nie projekt prawicowy albo lewicowy?"
+answer: "Ponieważ Bitcoin jest dobrowolnie przyjmowaną, trudną do wyprodukowania, zdecentralizowaną walutą, która zachowuje wartość, kontrastując z przymusowym, scentralizowanym pieniądzem fiat tracącym wartość, co czyni podział kwestią rynku kontra państwa, a nie ideologii politycznej"
 wrong_answers:
-  - Pieniądz państwowy jest bardziej stabilny i regulowany, podczas gdy pieniądz rynkowy jest niestabilny i nieprzewidywalny
-  - Pieniądze państwowe służą celom dobrobytu społecznego, podczas gdy pieniądze rynkowe przynoszą korzyści jedynie bogatym inwestorom
-  - Pieniądz państwowy jest demokratyczny i odpowiedzialny, podczas gdy pieniądz rynkowy jest kontrolowany przez anonimowych deweloperów
-explanation: |
-  Rozdział ten wyraźnie rozróżnia pieniądz państwowy (fiat) jako przymusowy, scentralizowany system, który ma tendencję do utraty wartości, od pieniądza rynkowego, takiego jak Bitcoin, który powstaje dobrowolnie, spontanicznie i zachowuje wartość w długim okresie.
-  Odzwierciedla to szerszą libertariańską zasadę dobrowolności w stosunku do systemów przymusu. Błędne odpowiedzi błędnie przedstawiają libertariańską krytykę, koncentrując się na konwencjonalnych argumentach ekonomicznych, a nie na filozoficznym rozróżnieniu między dobrowolnymi i przymusowymi systemami monetarnymi.
+  - "Ponieważ Bitcoin został stworzony przez anonimowego dewelopera, który celowo unikał jakichkolwiek deklaracji politycznych dotyczących jego zamierzonego celu lub filozofii"
+  - "Ponieważ algorytm kopania Bitcoin zapewnia równą dystrybucję nowych monet do wszystkich partii politycznych, zapobiegając jakiejkolwiek stronniczości ideologicznej w systemie monetarnym"
+  - "Ponieważ Bitcoin działa identycznie jak istniejące waluty fiat, ale funkcjonuje w szybszej sieci płatniczej, czyniąc rozróżnienia polityczne nieistotnymi"
+explanation: >-
+  Bitcoin jest opisany jako pokojowy bunt przeciw upolitycznieniu pieniądza. Pieniądz państwowy albo fiat jest przymusowym, scentralizowanym systemem, który ma tendencję do utraty wartości. Pieniądz rynkowy, historycznie złoto, a obecnie Bitcoin, jest zdrową, trudną do wyprodukowania walutą, która wyłania się dobrowolnie i zachowuje swoją wartość w długim terminie. Prawdziwa opozycja nie przebiega między lewicą a prawicą, lecz między rynkiem a państwem, czyniąc Bitcoin zerwaniem politycznym, które przekracza tradycyjne obozy ideologiczne.
+reviewed: false

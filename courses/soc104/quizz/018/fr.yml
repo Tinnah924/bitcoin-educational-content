@@ -1,8 +1,9 @@
-question: According to the diamond model, what is the main difference between right-wing and left-wing statists?
-answer: They use state power to impose different values but both seek to control society
+question: "Quelle est la définition de l'étatisme telle qu'elle est présentée dans le cadre de Nolan ?"
+answer: "Utiliser la législation pour contrôler et façonner la société, que ce soit au nom de la défense de la civilisation, de la classe ouvrière, de la nature ou des opprimés"
 wrong_answers:
-  - Right-wing statists oppose all government intervention while left-wing supports it
-  - Right-wing statists want economic freedom while left-wing wants personal freedom
-  - Right-wing statists are liberal while left-wing statists are authoritarian
-explanation: |
-  The chapter explains that both right-wing and left-wing statists share the same political objective: conquering power to organize society according to their worldview and impose it on everyone. This is the very definition of statism - using legislation to control and shape society. The difference lies in their values: right-wing statists prioritize personal morality and tradition, while left-wing statists focus on social justice and redistribution. However, both use state force to impose their respective visions, making them equally statist in nature.
+  - "Un système de gouvernement dans lequel les élus servent des mandats fixes et où les transitions de pouvoir se font par des élections démocratiques"
+  - "La croyance selon laquelle seule une armée forte peut protéger la souveraineté et l'intégrité territoriale d'une nation"
+  - "Une philosophie économique qui privilégie les industries nationales face à la concurrence étrangère au moyen de droits de douane et de quotas"
+explanation: >-
+  L'étatisme est défini comme l'utilisation de la législation pour contrôler et façonner la société. La gauche comme la droite le pratiquent : certains au nom de la défense de la civilisation, d'autres au nom de la défense de la classe ouvrière, de la nature ou des opprimés. Même les centristes l'approuvent quand cela les arrange. L'étatisme ne se limite pas à la politique militaire, au protectionnisme commercial ou au simple fait d'avoir des gouvernements élus.
+reviewed: false

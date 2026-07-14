@@ -1,9 +1,9 @@
-question: Jaký je podle základní kritiky Satoshi Nakamota hlavní problém konvenčních systémů fiat měn?
-answer: Vyžadují nadměrnou důvěru v centralizované instituce, které tuto důvěru historicky narušily znehodnocením měny
+question: "Proč je měnová inflace popisována jako skrytá daň uvalená bez souhlasu občanů?"
+answer: "Protože vládní tvorba peněz znehodnocuje měnu, takže si lidé za stejnou částku koupí méně, ale většina si neuvědomuje, že rostoucí ceny odrážejí vládní politiku, nikoli přirozené tržní síly"
 wrong_answers:
-  - Nemají dostatečnou technologickou infrastrukturu pro efektivní a bezpečné zpracování moderních digitálních transakcí
-  - Vytvářejí příliš velkou volatilitu směnných kurzů, což činí mezinárodní obchod nepředvídatelným a nákladným
-  - generate nadměrné transakční poplatky, které činí mikroplatby pro běžné uživatele ekonomicky neúnosnými
-explanation: |
-  Satoshi Nakamoto výslovně prohlásil, že "základním problémem konvenční měny je veškerá důvěra, která je nutná k jejímu fungování" a že "historie fiat měn je plná porušení této důvěry"
-  Jeho kritika se soustředila na zásadní spoléhání se na to, že centrální banky neznehodnotí měnu, což opakovaně nedodržely. Ostatní možnosti, ačkoli potenciálně oprávněné obavy týkající se tradičních systémů, postrádají Nakamotovu základní filozofickou námitku proti měnovým systémům založeným na důvěře a jeho motivaci k vytvoření nedůvěryhodné alternativy.
+  - "Protože centrální banky tajně účtují poplatky za každou transakci zpracovanou bankovním systémem, aniž by je sdělovaly majitelům účtů"
+  - "Protože vlády tisknou peníze a rozdělují je pouze bohatým jednotlivcům, zatímco chudé zdaňují vyššími prodejními daněmi na základní zboží"
+  - "Protože inflaci způsobují soukromé korporace zvyšováním cen za účelem růstu zisků, což funguje jako neoficiální daň na spotřebitele"
+explanation: >-
+  Vstřikování peněz do systému se promítá do znehodnocení měny, kdy stejná částka koupí méně, protože nové peníze neodrážejí skutečný hospodářský růst. Většina lidí nevidí, že k růstu cen vedla vládní politika a že ceny jsou pouze odrazem znehodnocení měny. To se rovná zákonné krádeži a institucionalizovanému olupování, které ochuzuje střední třídu, zatímco bohatí zachycují nové peníze prostřednictvím spekulativních aktiv.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Mikä on libertaristisen filosofian mukaan poliittisten ideologioiden erottamisen peruskriteeri?
-answer: Tekevätkö yksilöt omat päätöksensä vai määräävätkö muut heille päätökset?
+question: "Miten cypherpunkien filosofia keskittämisestä kytkeytyy libertaariseen periaatteeseen suostumuksesta oikeudenmukaisuuden perustavana normina?"
+answer: "Cypherpunkit näkevät kaiken keskittämisen perustuvan pakkoon eikä suostumukseen, mikä heijastaa libertaarista kantaa, jonka mukaan mikään ei voi olla oikeudenmukaista, jos keskitetty auktoriteetti määrää sen voimalla"
 wrong_answers:
-  - Suositaanko talouspolitiikassa varallisuuden uudelleenjakoa vai kasautumista?
-  - Korostetaanko yhteiskunnallisissa arvoissa perinteisiä perherakenteita vai edistyksellisiä ihanteita?
-  - Asetetaanko hallintorakenteissa etusijalle kansallinen suvereniteetti vai kansainvälinen yhteistyö?
-explanation: |
-  Tekstissä todetaan nimenomaisesti, että todellinen poliittinen kahtiajako ei ole vasemmisto, oikeisto tai keskusta, vaan se perustuu pikemminkin filosofisiin perusperiaatteisiin: vapaus vastaan pakko, vapaaehtoinen suostumus vastaan pakko ja yksilön vastuu vastaan kollektiivisuus.
-  Keskeinen kysymys on, haluatko tehdä itse elämääsi liittyvät tärkeät päätökset vai haluatko, että joku muu tekee ne puolestasi. Tämä merkitsee irtautumista perinteisistä poliittisista luokitteluista, jotka perustuvat taloudelliseen uudelleenjakoon, yhteiskunnallisiin arvoihin tai hallintorakenteisiin, ja sen sijaan keskitytään perustavanlaatuiseen kysymykseen siitä, kenellä on valta tehdä päätöksiä, jotka vaikuttavat yksilöiden elämään.
+  - "Cypherpunkit uskovat keskittämisen olevan hyväksyttävää, kun demokraattinen enemmistöäänestys hyväksyy sen, mikä on linjassa libertaarisen perustuslaillisen hallinnon kunnioituksen kanssa"
+  - "Cypherpunkit tukevat väliaikaista keskittämistä hätätilanteissa, mikä heijastaa libertaarista näkemystä siitä, että yksilön oikeudet voidaan keskeyttää, kun kollektiivi on uhattuna"
+  - "Cypherpunkit vastustavat keskittämistä vain teknologiajärjestelmissä, mutta hyväksyvät poliittisen keskittämisen välttämättömänä omistusoikeuksien ja sopimusten toimeenpanolle"
+explanation: >-
+  Cypherpunkit asettavat luottamuksensa hajautettuihin kryptografisiin järjestelmiin keskitettyjen instituutioiden sijaan. Kaikki keskittäminen nähdään pakkoon eikä suostumukseen perustuvana. Tämä heijastaa suoraan libertaarista filosofiaa, jonka mukaan suostumus on oikeudenmukaisuuden perustava normi. Mikään ei voi olla oikeudenmukaista, jos keskitetty auktoriteetti määrää sen voimalla, minkä vuoksi he pyrkivät rakentamaan hajautettuja verkkoja, joissa mikään yksittäinen toimija ei voisi pakottaa tahtoaan muille.
+reviewed: false

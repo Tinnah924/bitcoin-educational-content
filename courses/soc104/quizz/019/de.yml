@@ -1,9 +1,9 @@
-question: Welches ist laut dem Nolan-Diagramm der wichtigste Faktor, der die politischen Philosophien unterscheidet?
-answer: Das Ausmaß der staatlichen Kontrolle über das menschliche Handeln im persönlichen und wirtschaftlichen Bereich
+question: "Welches gemeinsame politische Ziel haben linke und rechte Etatisten?"
+answer: "Macht zu gewinnen, um die Gesellschaft gemäß ihrer Weltsicht zu organisieren und sie allen aufzuzwingen"
 wrong_answers:
-  - Der Unterschied zwischen sozialistischen und kapitalistischen Wirtschaftssystemen
-  - Der Unterschied zwischen traditionellen moralischen Werten und progressiven sozialen Ansichten
-  - Der Grad der Unterstützung für Wohlstandsumverteilung und Sozialprogramme
-explanation: |
-  Der zentrale Gedanke des Nolan-Diagramms ist, dass der Hauptunterschied zwischen den politischen Philosophien im Ausmaß der staatlichen Kontrolle über das menschliche Handeln in
-  sowohl im persönlichen als auch im wirtschaftlichen Bereich. So entsteht ein zweidimensionales Modell und nicht nur eine einfache Links-Rechts-Achse. Die anderen Optionen stellen traditionelle Methoden der Kategorisierung von Politik dar, lassen aber die wichtige Erkenntnis außer Acht, dass sowohl die Linke als auch die Rechte staatsgläubig sein können - sie wollen nur die Regierungsgewalt in unterschiedlichen Bereichen einsetzen. Das Diagramm zeigt, dass der eigentliche Unterschied zwischen denen besteht, die ihre Werte mit Gewalt durchsetzen wollen (egal ob links oder rechts), und denen, die insgesamt weniger staatliche Kontrolle bevorzugen.
+  - "Den Umfang der Regierung zu verringern und die Entscheidungsgewalt an die einzelnen Bürger zurückzugeben"
+  - "Eine direkte Demokratie einzurichten, in der jeder Bürger über jede legislative Entscheidung abstimmt"
+  - "Politische Parteien abzuschaffen und sie durch unabhängige technokratische Regierungsführung zu ersetzen"
+explanation: >-
+  Linke wie rechte Etatisten teilen dasselbe politische Ziel: Macht zu gewinnen, um die Gesellschaft gemäß ihrer Weltsicht zu organisieren und sie allen durch Gesetzgebung aufzuzwingen. Der Unterschied liegt nur in ihren Werten: Die Rechte beruft sich auf die Verteidigung der Zivilisation, während die Linke sich auf die Verteidigung der Arbeiterklasse oder der Unterdrückten beruft. Keine von beiden will die Regierung verkleinern oder Parteien abschaffen.
+reviewed: false

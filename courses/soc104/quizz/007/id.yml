@@ -1,10 +1,9 @@
-question: Menurut Bagan Nolan, apa saja dua poros yang digunakan untuk merepresentasikan ideologi politik?
-answer: Kebebasan ekonomi dan kebebasan pribadi
+question: "Apa yang termasuk dalam kategori kebebasan ekonomi?"
+answer: "Apa yang Anda lakukan sebagai produsen dan konsumen: membeli, menjual, memproduksi, bekerja, merekrut, dan mengelola uang Anda"
 wrong_answers:
-  - Politik sayap kiri dan politik sayap kanan
-  - Sosialisme dan kapitalisme
-  - Demokrasi dan otoritarianisme
-explanation: |
-  Bagan Nolan menggunakan dua dimensi: kebebasan ekonomi dan kebebasan pribadi, menciptakan spektrum politik yang lebih bernuansa dibandingkan dengan poros kiri-kanan tradisional.
-  Pendekatan dua dimensi ini memungkinkan pemosisian yang lebih baik dari berbagai ideologi seperti libertarianisme (kebebasan ekonomi dan kebebasan pribadi yang tinggi), sosialisme (ekonomi rendah, kebebasan pribadi yang tinggi), dan konservatisme (ekonomi rendah, kebebasan pribadi yang tinggi)
-  (ekonomi rendah, kebebasan pribadi tinggi), dan konservatisme (ekonomi tinggi, kebebasan pribadi rendah). Sumbu kiri-kanan tradisional dianggap tidak cukup oleh Nolan karena gagal menangkap kompleksitas posisi politik, terutama di mana liberalisme klasik berada dalam lanskap politik.
+  - "Keyakinan agama, hubungan pribadi, dan kebebasan berekspresi Anda"
+  - "Hak Anda untuk memilih, berpartisipasi dalam pemilu, dan bergabung dengan partai politik"
+  - "Kemampuan Anda untuk bepergian secara bebas, memilih tempat tinggal, dan melintasi perbatasan nasional"
+explanation: >-
+  Kebebasan ekonomi mencakup apa yang Anda lakukan sebagai produsen dan konsumen: apa yang dapat Anda beli, jual, atau produksi; di mana Anda bekerja; siapa yang Anda rekrut; dan apa yang Anda lakukan dengan uang Anda. Hubungan pribadi, keyakinan agama, dan kebebasan bergerak termasuk dalam kategori kebebasan pribadi, bukan ekonomi.
+reviewed: false

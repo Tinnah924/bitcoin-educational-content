@@ -1,8 +1,9 @@
-question: Selon le texte, quel est le principal problème du spectre politique gauche-droite traditionnel?
-answer: Il ne laisse aucune place à la pensée libérale classique
+question: "Quel principe directeur guidait les votes de Frédéric Bastiat à l'Assemblée nationale ?"
+answer: "La promotion des libertés individuelles et économiques et la réduction de l'ingérence de l'État"
 wrong_answers:
-  - Il favorise trop les positions centristes et modérées
-  - Il donne une importance excessive aux partis extrémistes
-  - "Il simplifie les débats en réduisant tout à l'économie"
-explanation: |
-  Le chapitre explique clairement que le problème principal de l'axe gauche-droite est qu'il ne peut pas classer la pensée libérale classique, qui ne correspond ni à l'égalitarisme de gauche ni au nationalisme de droite. Des figures comme Thomas Jefferson, Frédéric Bastiat ou des mouvements comme Bitcoin transcendent ces catégories traditionnelles. Les autres options sont incorrectes car le texte ne critique pas le centrisme en tant que tel, ne se concentre pas sur l'extrémisme, et évoque bien d'autres aspects que l'économie.
+  - "La défense de l'autorité royale et la préservation des traditions monarchiques"
+  - "La promotion de politiques socialistes visant à redistribuer plus équitablement les richesses"
+  - "Une stratégie centriste de compromis entre les factions de gauche et de droite"
+explanation: >-
+  Bastiat votait selon un principe fondamental : promouvoir les libertés individuelles et économiques tout en réduisant l'ingérence de l'État. Il n'était ni un centriste opportuniste, ni un royaliste, ni un socialiste. Il votait avec le camp qui proposait des mesures alignées sur la liberté et un gouvernement limité.
+reviewed: false

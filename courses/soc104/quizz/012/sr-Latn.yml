@@ -1,8 +1,9 @@
-question: Šta desna strana ekonomske ose (ka 100) predstavlja u dvodimenzionalnom političkom dijagramu?
-answer: Preferencija za ekonomsku slobodu sa manje državne intervencije, nižim porezima i slobodnim tržištima
+question: "Zašto se vertikalna osa (vrh-dno) smatra temeljnijom od horizontalne ose (levo-desno) u Nolanovom dijagramu?"
+answer: "Zato što otkriva pravu podelu između onih koji brane maksimalne individualne slobode i onih koji favorizuju maksimalnu državnu kontrolu"
 wrong_answers:
-  - Preferencija za snažnu državnu intervenciju sa visokim porezima i obimnim javnim uslugama
-  - Preferencija za individualne slobode i toleranciju u ličnim i društvenim pitanjima
-  - Preferencija za tradicionalne vrednosti, red i sigurnost koju sprovodi država
-explanation: |
-  Desna strana ekonomskog spektra predstavlja ekonomsku slobodu, koju karakteriše minimalna intervencija države u ekonomiju, smanjena regulativa, niži porezi i veća sloboda za preduzeća i pojedince da proizvode, razmenjuju i konzumiraju. Ova pozicija naglašava slobodna tržišta, privatnu svojinu i konkurenciju kao pokretače prosperiteta. Druge opcije opisuju ili levu stranu ekonomskog spektra (snažna državna intervencija) ili pozicije na osi ličnih sloboda (individualne slobode ili tradicionalne vrednosti), koje su odvojene dimenzije u ovom političkom okviru.
+  - "Zato što meri ekonomski učinak preciznije nego što horizontalna osa meri društvene politike"
+  - "Zato što se većina političkih sukoba kroz istoriju ticala kulturnog identiteta, a ne upravljanja"
+  - "Zato što se horizontalna osa primenjuje samo na moderne demokratije, dok je vertikalna osa univerzalna"
+explanation: >-
+  Temeljna osa je vertikalna zato što obuhvata suštinsko političko pitanje: u kojoj meri država treba da kontroliše ljudsko delovanje? Osa levo-desno samo odražava različite senzibilitete (društvena pravda naspram tradicije), ali obe strane mogu zauzimati istu poziciju na vertikalnoj osi kao etatisti. Vertikalna osa otkriva da li neko želi da silom nametne svoju viziju ili poštuje individualnu slobodu.
+reviewed: false

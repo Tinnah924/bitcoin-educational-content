@@ -1,12 +1,9 @@
-question: Metne göre, geleneksel sol-sağ siyasi yelpazenin temel sorunu nedir?
-answer: Ne solcu eşitlikçiliğe ne de sağcı milliyetçiliğe uyan klasik liberal düşünceye yer bırakmıyor
+question: "Sol-sağ ekseni, Bastiat veya Ron Paul gibi klasik liberal düşünürleri konumlandırmak için neden yetersiz kabul edilir?"
+answer: "Çünkü klasik liberalizm hem ekonomik hem de kişisel özgürlüklere değer verir; bunları ne sol ne de sağ tam olarak benimser"
 wrong_answers:
-  - Herhangi bir ılımlı veya merkezci seçenek olmaksızın sadece iki aşırı pozisyona sahip olarak siyaseti aşırı basitleştiriyor
-  - Yanlış bir şekilde, modern zamanlarda solun her zaman reformist, sağın ise her zaman muhafazakâr olduğu varsayılmaktadır
-  - Çoğu insanın zaman içinde siyasi pozisyonlarını sık sık değiştirdiği gerçeğini hesaba katmamaktadır
-explanation: |
-  Metinde özellikle "Sol-sağ eksenindeki sorun, klasik liberal düşünceye yer bırakmamasıdır
-  ne solun eşitlikçiliği ne de sağın milliyetçiliği ile bir tutulabilir Bu durum Frédéric Bastiat gibi örneklerle açıklanmaktadır,
-  belirli bir konuya bağlı olarak bazen sola bazen de sağa oy veren Bitcoin ve çeşitli kesimlerden destekçi çeken
-  siyasi geçmişleri vardır. Minimum devlet müdahalesi ile maksimum ekonomik ve kişisel özgürlükleri destekleyen klasik liberal gelenek, basitçe
-  geleneksel sol-sağ kategorizasyon sistemine uymuyor.
+  - "Çünkü klasik liberaller her zaman sağ kanat ekonomi politikalarıyla hizalanır ve tüm sol kanat konumları reddeder"
+  - "Çünkü klasik liberaller, sol ve sağ ideolojilerin ılımlı versiyonlarını benimseyen merkezcilerdir"
+  - "Çünkü klasik liberaller tüm hükümet biçimlerine karşı çıkar; bu da onları siyasi düşünürlerden ziyade anarşist yapar"
+explanation: >-
+  Sol-sağ ekseni klasik liberaller için başarısızdır; çünkü ekonomik özgürlüğü (genellikle sağ) ve kişisel özgürlüğü (genellikle sol) aynı anda savunan bir konumu barındıramaz. Klasik liberaller uzlaşma arayan merkezciler değildir; anarşist ya da tamamen sağcı da değildir. Tek boyutlu bir yelpazeye basitçe sığmazlar.
+reviewed: false

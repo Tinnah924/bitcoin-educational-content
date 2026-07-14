@@ -1,8 +1,9 @@
-question: Gustave Molinarin analyysin mukaan teoksessa Les Soirées de la rue Saint Lazare (Saint Lazaruksen kadun illat) konservatiivien ja sosialistien välillä on ilmeisistä ideologisista eroista huolimatta perustavaa laatua olevia yhtäläisyyksiä
-answer: Molemmat pyrkivät asettamaan oman näkemyksensä yhteiskunnasta voimaan valtion väliintulon avulla, vaikka niillä on erilaiset yhteiskunnalliset tavoitteet
+question: "Miksi Molinarin vuoden 1849 ennustus osoittautui profeetalliseksi vapauden ja poliittisen vallan välisen suhteen osalta?"
+answer: "Koska konservatiivit ja sosialistit ovat vuorotelleet vallassa ja instrumentalisoineet vapautta omien poliittisten tavoitteidensa palveluksessa juuri kuten hän kuvasi"
 wrong_answers:
-  - Molemmat hylkäävät yksilölliset omistusoikeudet erilaisten instituutioiden hallinnoiman kollektiivisen omistuksen hyväksi
-  - Molemmat pitävät vapautta absoluuttisena periaatteena, jota ei pitäisi koskaan rajoittaa yhteiskunnallisista seurauksista riippumatta
-  - Molemmat vastustavat kaikenlaista valtion sääntelyä ja kannattavat samalla erilaisia yksityisten markkinoiden ratkaisuja
-explanation: |
-  Molinarin keskeinen oivallus oli, että konservatiiveilla ja sosialisteilla on vastakkaisista yhteiskunnallisista näkemyksistään huolimatta yhteinen metodologinen lähestymistapa: molemmat luottavat valtiovaltaan saadakseen aikaan haluamansa yhteiskuntajärjestyksen. Konservatiivit käyttävät valtiota säilyttääkseen perinteiset rakenteet, kun taas sosialistit käyttävät sitä luodakseen uusia tasa-arvoisia rakenteita. Tämä erottaa heidät libertaristeista, jotka vastustavat valtion harjoittamaa yhteiskunnallista suunnittelua sen ideologisesta suunnasta riippumatta. Muut vaihtoehdot vääristelevät näiden ideologioiden todellisia kantoja omaisuudesta, vapaudesta ja hallituksesta.
+  - "Koska hänen kuvaamansa ekonomistihahmo pääsi lopulta poliittiseen valtaan ja toteutti libertaarisia politiikkoja kaikkialla Euroopassa"
+  - "Koska hänen ennustuksensa siitä, että kaikki kolme poliittista perhettä sulautuisivat yhdeksi sentristiseksi liikkeeksi, toteutui 1900-luvulla"
+  - "Koska peräkkäiset hallitukset laajensivat vapautta vähitellen, kunnes siitä tuli modernien demokratioiden ensisijainen järjestävä periaate"
+explanation: >-
+  Molinarin visio osoittautui profeetalliseksi, koska 1800-luvun puolivälistä lähtien konservatiivit ja sosialistit ovat vuorotelleet vallassa ja toteuttaneet täsmälleen sen, mitä hän kuvasi: vapauden instrumentalisoimisen poliittisten tavoitteiden palvelukseen. Molemmat perheet ovat valmiita rajoittamaan vapauksia ja kutsumaan valtion pakottamaan omat agendansa, kun taas ekonomistin ehdottoman vapauden kanta jäi marginaaliin.
+reviewed: false

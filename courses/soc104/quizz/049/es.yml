@@ -1,9 +1,9 @@
-question: ¿Qué principio filosófico fundamental distingue al conservadurismo tradicional estadounidense de otras ideologías políticas?
-answer: El concepto de libertad ordenada, que trata de equilibrar la libertad individual con la responsabilidad de la comunidad y un gobierno limitado
+question: "¿Qué distingue a los neoconservadores de los paleoconservadores en su enfoque de la política exterior?"
+answer: "Los neoconservadores justifican el intervencionismo militar para difundir la democracia, mientras que los paleoconservadores defienden una política exterior más aislacionista"
 wrong_answers:
-  - El principio de la libertad individual ilimitada combinada con la máxima intervención gubernamental en asuntos sociales
-  - La creencia en un cambio revolucionario para restaurar la sociedad agrícola feudal y rechazar todo progreso tecnológico
-  - La doctrina del intervencionismo militar para extender la democracia por todo el mundo mediante la guerra preventiva
-explanation: |
-  El conservadurismo tradicional estadounidense se basa fundamentalmente en la "libertad ordenada", que intenta conciliar las aspiraciones a veces contradictorias de la comunidad y las necesidades individuales, la libertad y la responsabilidad personales, y el gobierno limitado con el libre mercado.
-  Las respuestas erróneas representan principios contradictorios (libertad ilimitada con máxima intervención), el conservadurismo reaccionario europeo (restauración feudal) o la ideología neoconservadora (intervencionismo militar), en lugar del enfoque equilibrado que define el pensamiento conservador tradicional estadounidense.
+  - "Los neoconservadores se oponen a toda acción militar y favorecen la diplomacia, mientras que los paleoconservadores apoyan ataques preventivos contra amenazas potenciales"
+  - "Los neoconservadores se centran exclusivamente en las sanciones económicas, mientras que los paleoconservadores abogan por construir coaliciones internacionales para operaciones militares conjuntas"
+  - "Los neoconservadores y los paleoconservadores están de acuerdo en política exterior, pero difieren marcadamente en la regulación económica interna"
+explanation: >-
+  A partir de la década de 2000, los neoconservadores se implicaron cada vez más en justificar el intervencionismo militar para implantar la democracia en todo el mundo, especialmente después del 11 de septiembre de 2001. En reacción, los conservadores tradicionales reivindicaron la etiqueta 'paleoconservador' para distinguirse. Los paleoconservadores critican el intervencionismo militar, defienden una política exterior más aislacionista y ponen mayor énfasis en la identidad nacional y cultural.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Prema Hajekovoj teoriji disperzovanog znanja, zašto centralno planirane ekonomije ne uspevaju da efikasno raspodele resurse u poređenju sa sistemima slobodnog tržišta?
-answer: Centralni planeri ne mogu pristupiti fragmentiranim, lokalizovanim znanjima koja pojedinci poseduju o svojim specifičnim potrebama, preferencijama i okolnostima, što optimalnu alokaciju resursa čini nemogućom.
+question: "Na šta Kantov moto 'Sapere aude' podstiče ljude?"
+answer: "Da se usude da misle za sebe i izađu iz stanja maloletnosti u kojem zavise od usmerenja nadređenog autoriteta"
 wrong_answers:
-  - Centralni planeri nemaju dovoljno računske snage i naprednih algoritama za obradu svih ekonomskih podataka potrebnih za optimalne odluke o raspodeli resursa.
-  - Centralni planeri su inherentno korumpirani i sebični, stavljajući sopstvenu dobrobit ispred potreba društva prilikom donošenja ekonomskih odluka.
-  - Centralni planeri se previše fokusiraju na dugoročne strateške ciljeve, dok zanemaruju trenutne potrebe za potrošnjom i preferencije pojedinačnih građana.
-explanation: |
-  Ključni uvid Hayeka je da znanje postoji samo kao 'fragmenti raspršenog, nepotpunog i često kontradiktornog znanja koje poseduju svi različiti pojedinci.' Tržišni cenovni sistem služi kao mehanizam otkrivanja koji mobilizuje ovo raspršeno znanje kroz dobrovoljne razmene. Centralni planeri, bez obzira na njihove namere ili sposobnosti, ne mogu pristupiti subjektivnim, lokalizovanim informacijama koje pojedinci imaju o troškovima, koristima i preferencijama. Ovo stvara fundamentalni 'problem znanja' koji čini centralno planiranje inherentno neefikasnim u poređenju sa spontanim tržišnim koordinacijama.
+  - "Da stiču akademsko znanje upisivanjem u formalne obrazovne ustanove i dobijanjem diploma"
+  - "Da izazovu sve oblike moralnosti i stvore potpuno nove etičke sisteme zasnovane na ličnoj želji"
+  - "Da traže mudrost kroz versku pobožnost i potčinjavanje učenjima crkve"
+explanation: >-
+  Sapere aude, što znači "Usudi se da misliš za sebe", Kant je preuzeo od pesnika Horacija i učinio ga motom prosvetiteljstva. Simbolizuje izlazak iz maloletnosti, stanja u kojem ljudi nisu sposobni da koriste sopstveno razumevanje bez usmerenja nadređene klase ili autoriteta. Kant podstiče emancipaciju i punu odgovornost za sopstveno mišljenje.
+reviewed: false

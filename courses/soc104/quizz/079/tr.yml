@@ -1,8 +1,9 @@
-question: Gustave Molinari'nin 'Les Soirées de la rue Saint Lazare' (Aziz Lazar Sokağı Akşamları) adlı eserindeki analizine göre, muhafazakârlar ve sosyalistler arasında onları liberteryenlerden ayıran temel benzerlik nedir?
-answer: Hem muhafazakârlar hem de sosyalistler, farklı vizyonlara sahip olmalarına rağmen, kendi toplum vizyonlarını devlet müdahalesi yoluyla dayatmaya çalışmaktadırlar
+question: "Liberteryenler ile diğer siyasi aileler aynı hedefleri paylaştıklarında aralarındaki temel anlaşmazlık nedir?"
+answer: "Anlaşmazlık araçlar üzerinedir: liberteryenler zorlayıcı çözümleri reddeder ve piyasa süreci yoluyla gönüllü mübadeleyi tercih eder"
 wrong_answers:
-  - Hem muhafazakârlar hem de sosyalistler özgürlüğü pratik bir değerlendirmeden ziyade mutlak bir ilke olarak görürler
-  - Hem muhafazakârlar hem de sosyalistler özel mülkiyet haklarına karşı çıkar ve kaynakların kolektif mülkiyetinden yanadır
-  - Hem muhafazakârlar hem de sosyalistler asgari devlet müdahalesini ve azami bireysel özerkliği desteklemektedir
-explanation: |
-  Molinari'nin temel öngörüsü, ideolojik farklılıklarına rağmen muhafazakarlar ve sosyalistlerin ortak bir yaklaşımı paylaştıklarıdır: her ikisi de toplumun nasıl örgütlenmesi gerektiğine dair kendi özel vizyonlarını empoze etmek için devlet gücünü kullanmak istemektedir. Muhafazakarlar insanları geleneksel yapıları sürdürmeye zorlamak isterken, sosyalistler insanları yeni sosyal düzenlemelere zorlamak istemektedir. 'Ekonomist' karakteriyle temsil edilen özgürlükçüler, her ikisine de karşıdır çünkü herhangi bir sosyal vizyonu dayatmak için devlet zoru kullanmayı reddederler, gönüllü düzenlemeleri ve bireysel seçimi tercih ederler.
+  - "Anlaşmazlık amaçlar üzerinedir: liberteryenler toplumsal refah yerine bireysel servet gibi farklı hedefler peşinde koşar"
+  - "Anlaşmazlık zamanlama üzerinedir: liberteryenler aynı hedeflere kademeli reform yoluyla daha yavaş ulaşmak ister"
+  - "Anlaşmazlık kapsam üzerinedir: liberteryenler aynı politikaları ulusal düzey yerine yalnızca yerel düzeyde uygulamak ister"
+explanation: >-
+  Liberteryenler ezilenleri savunmak ya da toplumsal uyumu teşvik etmek gibi belirli hedeflerde sosyalistler, muhafazakârlar ve merkezcilerle aynı fikirde olabilir. Anlaşmazlık amaçlarda değil, araçlardadır. Liberteryenler pratikleri ve düzenlemeleri tek biçimli hâle getirmeye çalışan tüm zorlayıcı çözümleri reddeder; bunun yerine gönüllü sözleşmelere dayalı özgür, merkezsiz mübadele yoluyla seçim gücünü ve sorumlu özgürlüğü savunur.
+reviewed: false

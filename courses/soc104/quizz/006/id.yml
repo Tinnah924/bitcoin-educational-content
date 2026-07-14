@@ -1,11 +1,9 @@
-question: Apa saja lima bagian yang diidentifikasi dalam diagram politik Bagan Nolan?
-answer: Statisme (bawah), Sosialisme (kiri), Konservatisme (kanan), Libertarianisme (atas), dan Sentrisme (tengah)
+question: "Titik kesamaan apa yang dimiliki partai politik sayap kiri dan sayap kanan meskipun tampak saling bertentangan?"
+answer: "Keduanya membela hak negara untuk mengatur kehidupan orang melalui regulasi dan pajak"
 wrong_answers:
-  - Otoritarianisme (bawah), Liberalisme (kiri), Nasionalisme (kanan), Anarkisme (atas), dan Populisme (tengah)
-  - Totalitarianisme (bawah), Progresivisme (kiri), Tradisionalisme (kanan), Kapitalisme (atas), dan Moderatisme (tengah)
-  - Fasisme (bawah), Komunisme (kiri), Republikanisme (kanan), Demokrasi (atas), dan Pragmatisme (tengah)
-explanation: |
-  Bagan Nolan secara khusus membagi spektrum politik menjadi lima bagian yang berbeda berdasarkan kebebasan ekonomi dan kebebasan pribadi. Statisme mewakili
-  kontrol pemerintah maksimum di bagian bawah, sementara Libertarianisme di bagian atas mewakili kebebasan maksimum di kedua dimensi. Sosialisme (kiri) mendukung kebebasan pribadi
-  pribadi tetapi menentang kebebasan ekonomi, sementara Konservatisme (kanan) mendukung kebebasan ekonomi tetapi membatasi kebebasan pribadi. Sentrisme berada di tengah-tengah,
-  mencampurkan elemen-elemen dari kedua kebebasan tersebut dengan beberapa peraturan.
+  - "Keduanya menganjurkan penghapusan total intervensi negara dalam urusan ekonomi"
+  - "Keduanya memprioritaskan kebebasan individu di atas pengorganisasian kolektif masyarakat"
+  - "Keduanya menolak penggunaan kebijakan moneter sebagai alat untuk belanja pemerintah"
+explanation: >-
+  Meskipun tampak bertentangan, kiri dan kanan sama-sama memiliki preferensi terhadap intervensi negara. Keduanya mengkritik pasar bebas dan membela hak negara untuk mengatur kehidupan orang melalui regulasi dan pajak. Kiri mengkritik pasar sebagai sumber ketimpangan, sementara kanan melihat pasar sebagai ancaman terhadap kedaulatan, tetapi keduanya berpaling kepada negara untuk solusi.
+reviewed: false

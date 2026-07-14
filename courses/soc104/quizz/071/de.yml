@@ -1,9 +1,9 @@
-question: Welche politische Familie würde am ehesten eine Politik unterstützen, die den universellen Zugang zur Gesundheitsversorgung mit Innovations- und Effizienzmechanismen des privaten Sektors kombiniert?
-answer: Zentristen, die gemischte Systeme bevorzugen, bei denen öffentliche Garantien mit Beiträgen des Privatsektors ausgeglichen werden
+question: "Wie unterscheiden sich die konservative und die libertäre Position zum Mindestlohn in ihrer Begründung, obwohl beide seine Abschaffung befürworten?"
+answer: "Konservative akzeptieren eine gewisse staatliche Beteiligung an der Lohnfestsetzung, sofern sie die Wettbewerbsfähigkeit nicht behindert, während Libertäre den Mindestlohn als moralischen Eingriff in die Freiheit sehen, einzustellen und Geschäfte zu tätigen"
 wrong_answers:
-  - Sozialisten, die den universellen Zugang durch ausschließlich öffentliche Gesundheitssysteme bevorzugen
-  - Libertäre, die für eine vollständige Privatisierung und individuelle Wahlmöglichkeiten auf den Gesundheitsmärkten eintreten
-  - Konservative, die private Märkte mit minimalen staatlichen Eingriffen für die Schwächsten bevorzugen
-explanation: |
-  Zentristen sprechen sich ausdrücklich für gemischte Gesundheitssysteme aus, die durch die Beteiligung des Staates einen universellen Zugang gewährleisten und gleichzeitig Elemente des privaten Sektors für Innovation und Effizienz einbeziehen.
-  Sozialdemokraten lehnen eine private Beteiligung ab, da sie die Gesundheitsversorgung als ein Grundrecht betrachten, das der öffentlichen Bereitstellung bedarf. Libertäre lehnen eine staatliche Beteiligung vollständig ab und bevorzugen marktwirtschaftliche Lösungen. Die Konservativen bevorzugen überwiegend private Systeme mit minimaler staatlicher Beteiligung und keine ausgewogenen gemischten Ansätze.
+  - "Konservative lehnen den Mindestlohn ab, weil er Inflation erzeugt, während Libertäre ihn ablehnen, weil er Gewerkschaften zu viel Macht gibt"
+  - "Konservative wollen, dass Löhne von religiösen und gemeinschaftlichen Institutionen festgelegt werden, während Libertäre wollen, dass Löhne durch staatlich genehmigte Marktstudien bestimmt werden"
+  - "Konservative glauben, Mindestlöhne sollten je nach Region variieren, während Libertäre glauben, ein einheitlicher Pauschallohn sollte landesweit gelten"
+explanation: >-
+  Beide befürworten eine Reduzierung oder Abschaffung des Mindestlohns, aber ihre Begründung unterscheidet sich grundlegend. Konservative akzeptieren eine gewisse staatliche Beteiligung an der Lohnfestsetzung, bestehen jedoch darauf, dass sie minimal und kontextabhängig bleibt, mit Fokus auf Wettbewerbsfähigkeit. Libertäre nehmen eine stärkere moralische Position ein: Ein Mindestlohn ist ein Eingriff in die Freiheit, einzustellen und Geschäfte zu tätigen. Wenn Libertäre "der Markt" sagen, meinen sie den Vertrag, der zwischen zwei Parteien ohne staatliche Einmischung frei ausgehandelt wird.
+reviewed: false

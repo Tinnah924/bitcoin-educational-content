@@ -1,9 +1,9 @@
-question: Welches ist nach Karl Poppers Rahmen das grundlegende Merkmal, das eine offene Gesellschaft von einer geschlossenen Gesellschaft unterscheidet?
-answer: Die Fähigkeit des Einzelnen, kritisches Urteilsvermögen und persönliche Verantwortung bei der Entscheidungsfindung auszuüben
+question: "Warum betont Mises, dass Individualismus nicht mit Selbstgenügsamkeit oder Misanthropie verwechselt werden sollte?"
+answer: "Weil Individualismus Kooperation und Vereinigung fördert, sofern sie auf der freien Zustimmung der Beteiligten beruhen, und anerkennt, dass Menschen ihr volles Potenzial durch freiwillige Beziehungen zu anderen entfalten"
 wrong_answers:
-  - Der Grad der wirtschaftlichen Freiheit und des marktwirtschaftlichen Austauschs zwischen verschiedenen gesellschaftlichen Gruppen
-  - Das Niveau des technischen und wissenschaftlichen Fortschritts in der Gesellschaft
-  - Das Ausmaß der demokratischen Beteiligung und der Mehrheitsregel in politischen Entscheidungsprozessen
-explanation: |
-  Popper definiert die offene Gesellschaft als eine Gesellschaft, in der der Einzelne mit persönlichen Entscheidungen konfrontiert wird und ein kritisches Urteil fällen kann, während die geschlossene Gesellschaft kritische Freiheit und individuelle Verantwortung ablehnt.
-  Bei der Unterscheidung geht es im Wesentlichen um kognitive und moralische Autonomie und nicht um Wirtschaftssysteme, technischen Fortschritt oder demokratische Verfahren. Geschlossene Gesellschaften fürchten Veränderungen und Kritik und idealisieren eine statische Ordnung, während offene Gesellschaften dynamische Kritik und individuelle Entscheidungen innerhalb abstrakter Verhaltensregeln zulassen.
+  - "Weil Individualismus verlangt, dass Menschen verpflichtenden Bürgerorganisationen beitreten, um sicherzustellen, dass sie zum Gemeinwohl beitragen"
+  - "Weil Individualismus bedeutet, dass jede Person für Dienstleistungen, die sie nicht selbst erbringen kann, vollständig auf den Staat angewiesen sein muss"
+  - "Weil Individualismus verlangt, dass Menschen in allen Bereichen gegeneinander konkurrieren, um ihre persönliche Überlegenheit zu beweisen"
+explanation: >-
+  Mises betont, dass der Mensch ein soziales Wesen ist. Individualismus bedeutet nicht Isolation. Er fördert Kooperation und Vereinigung unter der Bedingung, dass sie auf der freien Zustimmung der Beteiligten beruhen. Der Mensch kann sein volles Potenzial nur in Beziehung zu anderen entfalten, doch diese Kooperation muss freiwillig sein und nicht von kollektiver Autorität auferlegt werden.
+reviewed: false

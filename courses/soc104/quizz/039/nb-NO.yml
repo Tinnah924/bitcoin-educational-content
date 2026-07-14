@@ -1,9 +1,9 @@
-question: Hva er, ifølge Milton Friedman, det største problemet med å bedømme sosialpolitikken ut fra dens uttalte mål snarere enn dens faktiske resultater?
-answer: Velmenende politikk får ofte utilsiktede konsekvenser som strider mot de opprinnelige målene, for eksempel ved å skape avhengighet eller markedsvridninger
+question: "Hvordan kan statsfinansierte sosiale hjelpeprogrammer produsere perverse virkninger, og dermed illustrere faren ved å stole utelukkende på intensjoner?"
+answer: "De kan skape avhengighet, fjerne insentiver til å arbeide, og utgjøre plyndring siden pengene først må tas fra dem som produserte rikdommen"
 wrong_answers:
-  - Politikerne gir bevisst feilaktige opplysninger om sine egentlige hensikter for å skjule sin egentlige agenda for offentligheten og unngå å stå til ansvar
-  - Gode intensjoner er i seg selv mangelfulle fordi de gjenspeiler personlige fordommer snarere enn objektive vitenskapelige analyser av sosiale problemer
-  - De uttalte målene er vanligvis for ambisiøse og urealistiske til at de kan nås innenfor rammene av begrensede offentlige budsjetter og ressurser
-explanation: |
-  Friedmans kritikk fokuserer på gapet mellom intensjoner og resultater, ikke på om målene er oppriktige eller gjennomførbare. Han hevder at politikk som er utformet
-  ofte slår tilbake på grunn av dårlig forståelse av menneskelige insentiver og økonomiske mekanismer. Problemet er ikke uærlighet, partiskhet eller budsjettbegrensninger, men snarere at gode intensjoner ikke garanterer gode resultater. Derfor tar han til orde for strukturelle definisjoner som undersøker hvordan systemer faktisk fungerer, snarere enn hva de hevder å oppnå.
+  - "De oppmuntrer til overdreven personlig sparing, reduserer forbruk og forårsaker deflasjon i den bredere økonomien"
+  - "De styrker private foretak ved å flytte arbeidskostnader til regjeringen og redusere behovet for konkurransedyktige lønninger"
+  - "De eliminerer klasseskiller så grundig at sosial mobilitet blir unødvendig og innovasjon stagnerer"
+explanation: >-
+  Friedman advarer om at generøse intensjoner kan produsere skadelige konsekvenser når de neglisjerer streng analyse av menneskelige insentiver. Statsfinansierte hjelpeprogrammer risikerer å skape avhengighet, ikke generere noe insentiv til å arbeide, og utgjøre en form for plyndring siden midlene først må tas fra rikdomsprodusenter. Målbare resultater som fattigdomsreduksjon og effektivitet må ha forrang over edle intensjoner.
+reviewed: false

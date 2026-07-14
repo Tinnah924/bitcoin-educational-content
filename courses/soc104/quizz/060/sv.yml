@@ -1,9 +1,9 @@
-question: Vad skiljer John Rawls begrepp "överlappande samförstånd" från andra sätt att se på politisk enighet?
-answer: Medborgare med olika grundläggande övertygelser kan enas om gemensamma principer för rättvisa samtidigt som de behåller sina olika världsbilder
+question: "Vilken dold paradox ligger inom centristisk pragmatism?"
+answer: "Pragmatismen själv vilar på en form av dogmatism, nämligen den outtalade övertygelsen att endast experter är kompetenta att styra samhället"
 wrong_answers:
-  - Alla medborgare måste överge sina personliga övertygelser för att anta en enhetlig statsideologi för politisk harmoni
-  - Politisk konsensus kräver fullständig enighet i alla moraliska och filosofiska frågor innan något samarbete kan inledas
-  - Endast tekniska experter kan fastställa rättvisa principer eftersom vanliga medborgare saknar den nödvändiga rationella förmågan
-explanation: |
-  Rawls överlappande konsensus visar kärnan i den centristiska filosofin genom att visa hur människor med oförenliga religiösa, filosofiska eller moraliska doktriner ändå kan konvergera mot gemensamma politiska principer för rättvisa.
-  Varje person stödjer dessa principer utifrån sitt eget perspektiv, utan att kräva att någon överger sina grundläggande övertygelser. Detta skiljer sig från totalitära förhållningssätt som kräver ideologisk enhetlighet, perfektionistiska teorier som kräver fullständig moralisk enighet eller teknokratiska modeller som utesluter medborgarnas deltagande till förmån för expertstyre.
+  - "Centrister påstår sig vara måttfulla men lierar sig konsekvent med vänsterpartier i koalitionsregeringar"
+  - "Centristisk politik framstår som balanserad men gynnar alltid ekonomisk tillväxt framför miljöskydd"
+  - "Centrister avvisar ideologi men antar rigida frimarknadsprinciper när de fattar ekonomiska beslut"
+explanation: >-
+  Paradoxen i centristisk pragmatism är att den påstår sig avvisa ideologi till förmån för rationell expertis, men att just detta påstående vilar på en osynlig och outtalad dogm: att endast teknokrater är kapabla att fatta de rätta besluten. Denna övertygelse om att experter ensamma bör styra samhället är i sig ett ideologiskt åtagande, även om centrister inte erkänner den som sådan.
+reviewed: false

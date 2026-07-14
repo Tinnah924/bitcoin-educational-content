@@ -1,9 +1,9 @@
-question: Zgodnie z fundamentalną krytyką Satoshi Nakamoto, jaki jest główny problem z konwencjonalnymi systemami walut fiducjarnych?
-answer: Wymagają one nadmiernego zaufania do scentralizowanych instytucji, które w przeszłości naruszyły to zaufanie poprzez obniżenie wartości waluty
+question: "Kto uruchomił pierwszą listę mailingową Cypherpunk w 1992 roku?"
+answer: "Tim May i Eric Hughes, którzy stworzyli platformę, która stała się centrum nerwowym ruchu"
 wrong_answers:
-  - Brak wystarczającej infrastruktury technologicznej do wydajnej i bezpiecznej obsługi nowoczesnych transakcji cyfrowych
-  - Powodują one zbyt dużą zmienność kursów walutowych, przez co handel międzynarodowy staje się nieprzewidywalny i kosztowny
-  - generate nadmierne opłaty transakcyjne, które sprawiają, że mikropłatności są ekonomicznie nieopłacalne dla zwykłych użytkowników
-explanation: |
-  Satoshi Nakamoto wyraźnie stwierdził, że "głównym problemem związanym z konwencjonalną walutą jest zaufanie, które jest wymagane do jej funkcjonowania" oraz że "historia walut fiducjarnych jest pełna naruszeń tego zaufania"
-  Jego krytyka koncentrowała się na fundamentalnym zaufaniu do banków centralnych, które wielokrotnie zawodziły. Inne opcje, choć potencjalnie uzasadnione obawy dotyczące tradycyjnych systemów, pomijają podstawowy filozoficzny sprzeciw Nakamoto wobec systemów monetarnych opartych na zaufaniu i jego motywację do stworzenia alternatywy bez zaufania.
+  - "Satoshi Nakamoto i Hal Finney, którzy później wspólnie stworzyli Bitcoin w 2008 roku"
+  - "Julian Assange i Edward Snowden, którzy używali listy do koordynowania działań sygnalistów rządowych"
+  - "Phil Zimmermann i Bruce Schneier, którzy zaprojektowali listę jako narzędzie do dystrybucji oprogramowania szyfrującego"
+explanation: >-
+  W 1992 roku Tim May i Eric Hughes uruchomili pierwszą listę mailingową Cypherpunk. Ta platforma szybko stała się centrum nerwowym ruchu, łącząc deweloperów, kryptografów i obrońców wolności cyfrowej. To na tej samej liście Satoshi Nakamoto po raz pierwszy udostępnił Whitepaper Bitcoin w 2008 roku.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Milline on põhimõtteline erinevus libertaarlaste ja libertaarlaste vahel seoses majanduskorraldusega?
-answer: Libertaarid kaitsevad eraomandit ja vaba turgu, libertaarid on kapitalismi vastu ja propageerivad kollektiivseid majandusvorme
+question: "Mis on Murray Rothbardi teoretiseeritud mitteagressiooni printsiip?"
+answer: "Teise üksikisiku või tema omandi vastu füüsilise jõu algatamine on ebaseaduspärane, kuigi kaitsev vägivald on lubatud"
 wrong_answers:
-  - Libertaarid toetavad riigi sekkumist majandusse, samas kui libertaarid pooldavad majanduse täielikku dereguleerimist
-  - Libertaarid pooldavad tootmisvahendite kollektiivset omandiõigust, libertaarid aga kaitsevad individuaalset omandiõigust
-  - Libertaarid on igasuguse kaubanduse vastu, libertaarid aga toetavad piiramatuid kapitalistlikke turge
-explanation: |
-  Tekstist selgub selgelt, et libertaarid usuvad, et eraomand on üksikisiku vabaduse jaoks oluline ja toetavad lepingulist vabadust, samas kui
-  libertaarid (anarhistid) leiavad, et "omand on vargus" ja on kapitalismi vastu, eelistades alternatiivseid majandusorganisatsioone nagu mutualism, kollektivism või libertaarne kommunism. See kujutab endast põhilist ideoloogilist lõhet nende kahe poliitilise filosoofia vahel, mida sageli segi aetakse sarnase terminoloogia tõttu.
+  - "Kõik vägivalla vormid on alati väärad, sealhulgas enesekaitse ja vastupanu rõhumisele"
+  - "Vägivald on vastuvõetav, kui see on suunatud rõhuvate institutsioonide vastu, kuid mitte kunagi teiste üksikisikute vastu"
+  - "Ainult riigil on õiguspärane õigus kasutada jõudu ning üksikisikud ei tohi kunagi vägivalla poole pöörduda"
+explanation: >-
+  Rothbardi mitteagressiooni printsiip väidab, et füüsilise jõu algatamine teise inimese või tema omandi vastu on ebaseaduspärane. See on kuldreegli filosoofiline tõlge. Kuid see ei keela kogu vägivalda: kaitsvat vägivalda, sealhulgas enesekaitset ja vastupanu rõhumisele, peetakse õiguspäraseks. See eristab seda puhtast patsifismist ja riigi väidetavast jõumonopolist.
+reviewed: false

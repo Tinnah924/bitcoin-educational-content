@@ -1,8 +1,9 @@
-question: Hangi siyasi aile büyük olasılıkla hem asgari ücret yasalarının kaldırılmasını hem de sağlık sistemlerinin tamamen özelleştirilmesini destekler?
-answer: Liberteryenler, hem asgari ücreti hem de kamu sağlık hizmetlerini serbest piyasalara gayrimeşru devlet müdahaleleri olarak gördükleri için
+question: "Sübvansiyonlar tartışması bağlamında 'ahlaki tehlike' kavramı nedir ve bu kaygıyı hangi siyasi aile dile getirir?"
+answer: "Ahlaki tehlike, şirketlerin sübvansiyonlar yoluyla batmaktan alıkonulduğunda sorumsuzluğa teşvik edilmesidir, çünkü nihayetinde vergi mükellefi öder; bu kaygıyı liberteryenler dile getirir"
 wrong_answers:
-  - Muhafazakarlar, ekonomik konularda her türlü hükümet düzenlemesine sürekli olarak karşı çıktıkları için
-  - Merkezciler, bazı sosyal korumaları sürdürürken piyasa temelli çözümleri destekledikleri için
-  - Sosyalistler, sosyal refah programları yerine ekonomik özgürlüğe öncelik verirler
-explanation: |
-  Liberteryenler hem asgari ücret yasalarına (bunları işsizlik yaratan sözleşme özgürlüğünün ihlali olarak görürler) hem de kamu sağlık hizmetlerine (sağlık hizmetlerinin de diğerleri gibi özel piyasalara bırakılması gereken bir hizmet olduğunu düşünürler) kategorik olarak karşı çıkan tek siyasi ailedir. Muhafazakarlar piyasa mekanizmalarını destekler ancak rekabet gücüne zarar vermediği sürece asgari ücrete tolerans gösterebilir ve yoksullar için asgari devlet rolünü kabul ederken özel sağlık hizmetlerini tercih edebilir. Merkezciler asgari ücretin korunmasını açıkça desteklemekte ve karma sağlık sistemlerini tercih etmektedir. Sosyalistler hem sosyal adalet araçları olarak asgari ücreti hem de temel haklar olarak kamu sağlık hizmetlerini güçlü bir şekilde savunmaktadır.
+  - "Ahlaki tehlike, sübvanse edilen şirketlerin daha düşük vergili ülkelere taşınarak işleri de beraberlerinde götürmesi riskidir; bu kaygıyı muhafazakârlar dile getirir"
+  - "Ahlaki tehlike, hükümet yetkililerinin hangi şirketlerin sübvansiyon alacağını seçerek yozlaşması tehlikesidir; bu kaygıyı merkezciler dile getirir"
+  - "Ahlaki tehlike, şirketlerin kamu fonu aldıktan sonra işçileri sömürmesi etik sorunudur; bu kaygıyı sosyalistler dile getirir"
+explanation: >-
+  Liberteryenler, sübvansiyonların ve kurtarmaların ahlaki tehlike yarattığını savunur: şirketler batmaktan alıkonulduğunda, kötü kararların hiçbir sonucu olmadığı için sorumsuzluğu ve pervasızlığı teşvik eder. Sonunda ödeyen vergi mükellefidir; liberteryenler bunu son derece adaletsiz görür. Bu kavram, diğer siyasi ailelerin dile getirdiği şirket taşınması, resmî yolsuzluk veya işçi sömürüsü kaygılarından ayrıdır.
+reviewed: false

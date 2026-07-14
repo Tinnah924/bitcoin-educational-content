@@ -1,8 +1,9 @@
-question: Zgodnie z perspektywą austriackiego ekonomisty Ludwiga von Misesa na metodologiczny indywidualizm, jakie jest podstawowe ograniczenie przypisywania działań podmiotom zbiorowym?
-answer: Tylko jednostki posiadają zdolność do myślenia, rozumowania i działania, co sprawia, że podmioty zbiorowe są jedynie abstrakcjami bez niezależnego istnienia lub rzeczywistości
+question: "Dlaczego Mises podkreśla, że indywidualizmu nie należy mylić z samowystarczalnością albo mizantropią?"
+answer: "Ponieważ indywidualizm promuje współpracę i zrzeszanie się, pod warunkiem że opierają się one na dobrowolnej zgodzie uczestników, uznając, że ludzie rozwijają swój pełny potencjał przez dobrowolne relacje z innymi"
 wrong_answers:
-  - Zbiorowe jednostki mogą myśleć i działać, ale ich decyzje są zawsze gorsze od indywidualnych wyborów z powodu nieefektywności demokracji
-  - Zbiorowe jednostki posiadają emergentne właściwości, które wykraczają poza indywidualne możliwości, ale nie mają moralnego autorytetu, który mógłby zastąpić osobistą autonomię
-  - Podmioty zbiorowe mogą podejmować racjonalne decyzje dzięki zagregowanej mądrości, ale powinny być ograniczone konstytucyjnymi ograniczeniami chroniącymi prawa jednostki
-explanation: |
-  Metodologiczny indywidualizm Misesa utrzymuje, że "tylko jednostka myśli, tylko jednostka rozumuje, tylko jednostka działa" Oznacza to, że podmioty zbiorowe nie mają istnienia ani rzeczywistości poza działaniami ich poszczególnych członków. Społeczeństwo nie ma własnej woli ani myśli - wszystkie działania zbiorowe muszą być wyjaśnione poprzez ich indywidualne elementy. Pozostałe opcje błędnie zakładają, że podmioty zbiorowe posiadają jakąś formę niezależnego myślenia lub zdolności podejmowania decyzji, co jest sprzeczne z fundamentalnym założeniem Misesa, że tylko jednostki mogą naprawdę myśleć i działać.
+  - "Ponieważ indywidualizm wymaga, aby ludzie dołączali do obowiązkowych organizacji obywatelskich w celu zapewnienia wkładu w dobro wspólne"
+  - "Ponieważ indywidualizm oznacza, że każda osoba musi polegać całkowicie na państwie w zakresie usług, których nie może zapewnić sobie sama"
+  - "Ponieważ indywidualizm wymaga, aby ludzie rywalizowali ze sobą we wszystkich dziedzinach, by dowieść swojej osobistej wyższości"
+explanation: >-
+  Mises podkreśla, że człowiek jest stworzeniem społecznym. Indywidualizm nie oznacza izolacji. Promuje współpracę i zrzeszanie się pod warunkiem, że opierają się one na dobrowolnej zgodzie uczestników. Człowiek może rozwinąć swój pełny potencjał tylko w relacji z innymi, ale ta współpraca musi być dobrowolna, a nie narzucona przez zbiorową władzę.
+reviewed: false

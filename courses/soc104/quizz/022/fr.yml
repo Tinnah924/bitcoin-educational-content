@@ -1,8 +1,9 @@
-question: What distinguishes cultural conservatism from political conservatism?
-answer: Cultural conservatism is a personal adherence to traditional values and wisdom, while political conservatism seeks to organize society according to a fixed order
+question: "Qu'est-ce que le conservatisme politique ?"
+answer: "Une idéologie qui vise à préserver les institutions politiques établies et l'ordre social, en s'opposant aux grands bouleversements structurels"
 wrong_answers:
-  - Cultural conservatism focuses on government policies while political conservatism emphasizes personal beliefs and family traditions
-  - Cultural conservatism opposes all change while political conservatism adapts traditional values to modern governmental structures
-  - Cultural conservatism requires legal enforcement of moral standards while political conservatism relies on voluntary compliance with traditions
-explanation: |
-  Cultural conservatism represents a personal life philosophy based on traditional moral values, aesthetics, and metaphysics inherited from civilizations like Greco-Roman or Judeo-Christian traditions. It's about individual wisdom and spiritual elevation, not political organization. Political conservatism, however, is specifically about structuring society according to a fixed order and opposing progress or change. The key distinction is that cultural conservatism is personal and philosophical, while political conservatism is about governmental and social organization.
+  - "Un engagement personnel envers les valeurs familiales traditionnelles et les pratiques religieuses, sans chercher à les imposer aux autres"
+  - "Une philosophie qui favorise le changement social rapide par la réforme démocratique et la législation progressiste"
+  - "Une théorie économique qui défend les marchés libres, une fiscalité minimale et l'abolition des barrières commerciales"
+explanation: >-
+  Le conservatisme politique est une idéologie, souvent représentée dans des partis de droite ou d'extrême droite, qui vise à préserver les institutions politiques établies et l'ordre social tout en s'opposant aux grands bouleversements structurels. Ses partisans souhaitent utiliser le pouvoir et la loi pour protéger leur héritage. Cela diffère du conservatisme culturel, qui est un choix de vie personnel plutôt qu'un programme politique.
+reviewed: false

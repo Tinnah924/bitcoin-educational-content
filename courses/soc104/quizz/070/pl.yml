@@ -1,9 +1,9 @@
-question: Jakie jest najbardziej spójne podejście do rozwiązywania konfliktów między wolnością jednostki a regulacjami rządowymi według libertariańskiego punktu widzenia na kwestie społeczne?
-answer: Prywatyzacja instytucji i umożliwienie dobrowolnym stowarzyszeniom zajmowania się regulacjami, zamiast narzucania wszystkim jednolitych zasad przez państwo
+question: "W pięciu debatach społecznych (małżeństwo, imigracja, broń palna, narkotyki, słodzone napoje), jaki powtarzający się schemat analityczny kształtuje stanowisko socjalistyczne w każdej kwestii?"
+answer: "Schemat konfliktu między dominującymi a zdominowanymi, w którym społeczeństwo jest ustrukturyzowane przez opresję, a państwo musi interweniować, aby chronić grupę szczególnie narażoną"
 wrong_answers:
-  - Tworzenie kompleksowych regulacji rządowych, które równoważą konkurencyjne interesy, jednocześnie chroniąc prawa mniejszości przed uciskiem większości
-  - Ustanowienie procesów demokratycznych, w których większość głosów decyduje o polityce społecznej, przy jednoczesnym zachowaniu konstytucyjnej ochrony praw podstawowych
-  - Opracowanie polityki opartej na dowodach, która przedkłada bezpieczeństwo publiczne i spójność społeczną nad indywidualne preferencje w kontrowersyjnych obszarach
-explanation: |
-  Podejście libertariańskie konsekwentnie opowiada się za zniesieniem kontroli państwa i umożliwieniem prywatnym instytucjom zajmowania się regulacjami. Jest to widoczne w ich stanowisku w sprawie małżeństwa (sprywatyzować je i pozwolić kościołom/prywatnym organizacjom decydować), imigracji (zdestatyzować społeczeństwo i pozwolić obywatelom decydować) i narkotyków (tak dla wolności, ale tylko wtedy, gdy społeczeństwo zostanie zdestatyzowane).
-  Pozostałe opcje reprezentują socjalistyczne, centrowe lub konserwatywne podejścia, które utrzymują różne stopnie zaangażowania państwa, a nie libertariańską zasadę minimalizowania władzy rządu poprzez prywatyzację.
+  - "Schemat utylitarny skoncentrowany na maksymalizacji ogólnego szczęścia i produktywności gospodarczej dla jak największej liczby obywateli"
+  - "Schemat praw naturalnych, w którym wolności jednostki muszą być chronione zarówno przed ingerencją państwa, jak i korporacji"
+  - "Schemat tradycjonalistyczny, w którym utrwalone instytucje społeczne muszą być zachowane przed destabilizującymi nowoczesnymi zmianami"
+explanation: >-
+  Stanowisko socjalistyczne w debatach społecznych jest konsekwentnie kształtowane przez schemat konfliktu dominujących i zdominowanych. W sprawie małżeństwa chodzi o heteroseksualną większość uciskającą homoseksualną mniejszość. W sprawie imigracji ograniczenia oparte na narodowości są formami opresji. W sprawie broni palnej tylko państwo powinno dysponować siłą, aby chronić osoby szczególnie narażone. W sprawie słodzonych napojów przemysłowcy czerpią zysk ze szczególnej podatności najmniej chronionych. Ta perspektywa uciskającego i uciskanego powtarza się w licznych dziedzinach, w tym płci, rasie, a nawet relacji między ludzkością a naturą.
+reviewed: false

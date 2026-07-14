@@ -1,8 +1,9 @@
-question: Theo quan điểm của Milton Friedman, vấn đề chính khi đánh giá các chính sách xã hội dựa trên mục tiêu đã nêu thay vì kết quả thực tế của chúng là gì?
-answer: Những chính sách có thiện chí thường dẫn đến những hậu quả không mong muốn, trái ngược với mục tiêu ban đầu, chẳng hạn như tạo ra sự phụ thuộc hoặc bóp méo thị trường.
+question: "Vì sao các định nghĩa theo ý định về hệ thống chính trị được xem là có vấn đề cho mục đích phân tích?"
+answer: "Chúng tạo ra sự lẫn lộn khái niệm vì mọi hệ thống đều tuyên bố theo đuổi các mục tiêu tương tự như công lý, bình đẳng và tự do"
 wrong_answers:
-  - Các chính trị gia cố tình xuyên tạc ý định thực sự của mình để che giấu chương trình nghị sự thực sự khỏi công chúng và trốn tránh trách nhiệm.
-  - Những ý định tốt đẹp vốn dĩ luôn tiềm ẩn sai sót vì chúng phản ánh những định kiến cá nhân hơn là sự phân tích khoa học khách quan về các vấn đề xã hội.
-  - Các mục tiêu đề ra thường quá tham vọng và không thực tế, khó có thể đạt được trong bối cảnh ngân sách và nguồn lực hạn chế của chính phủ.
-explanation: |
-  Phê bình của Friedman tập trung vào khoảng cách giữa ý định và kết quả, chứ không phải vào sự chân thành hay tính khả thi của các mục tiêu. Ông lập luận rằng các chính sách được thiết kế để giúp đỡ thường phản tác dụng do sự hiểu biết kém về động cơ của con người và các cơ chế kinh tế. Vấn đề không phải là sự thiếu trung thực, thiên vị hay hạn chế về ngân sách, mà là ý định tốt không đảm bảo kết quả tốt. Đó là lý do tại sao ông ủng hộ các định nghĩa mang tính cấu trúc, xem xét cách thức các hệ thống thực sự hoạt động chứ không phải những gì chúng tuyên bố đạt được.
+  - "Chúng quá chính xác và cứng nhắc, không để lại không gian cho sự tiến hóa tự nhiên của các phong trào chính trị theo thời gian"
+  - "Chúng tập trung quá nặng vào kết quả kinh tế và bỏ qua các chiều kích văn hóa và xã hội của đời sống chính trị"
+  - "Chúng dựa vào các tài liệu mật của chính phủ, vốn hiếm khi có sẵn cho các nhà nghiên cứu độc lập"
+explanation: >-
+  Các định nghĩa theo ý định dựa vào các động cơ và mục tiêu được tuyên bố, nhưng mọi hệ thống chính trị đều tuyên bố theo đuổi công lý, bình đẳng và tự do. Điều này khiến các hệ thống không thể được phân biệt với nhau. Trái lại, phân tích cấu trúc đánh giá các hệ thống bằng những hệ quả thực nghiệm, có thể đo lường và bằng các phương tiện mà chúng sử dụng, qua đó bộc lộ bản chất thật của chúng vượt ra ngoài tu từ.
+reviewed: false

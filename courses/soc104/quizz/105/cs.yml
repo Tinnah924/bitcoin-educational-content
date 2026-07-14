@@ -1,9 +1,9 @@
-question: Jaký je podle libertariánské filozofie základní rozdíl mezi státními a tržními penězi z hlediska jejich vzniku a vlastností?
-answer: Státní peníze jsou nucené a centralizované, jejich snadná tvorba vede ke ztrátě hodnoty, zatímco tržní peníze vznikají dobrovolně a udržují si dlouhodobou hodnotu
+question: "Když vezmeme v úvahu celý argument tohoto kurzu, jak Bitcoin současně ztělesňuje libertariánskou kritiku konstruktivismu, závazek Cypherpunks k akci a individualistickou obranu morální autonomie?"
+answer: "Bitcoin nahrazuje centrálně plánované peníze spontánním tržním řádem (antikonstruktivismus), proměňuje abstraktní ideál finanční svobody ve fungující kód (akce Cypherpunks) a obnovuje suverénní vlastnictví a soukromí jednotlivce (morální autonomie)"
 wrong_answers:
-  - Státní peníze jsou demokraticky kontrolované a stabilní, zatímco tržní peníze jsou manipulovány soukromými zájmy a jsou velmi nestabilní
-  - Státní peníze slouží veřejnému blahobytu prostřednictvím přerozdělovacích mechanismů, zatímco tržní peníze přinášejí prospěch pouze bohatým investorům a těm, kdo je přijali dříve
-  - Státní peníze poskytují ekonomickou jistotu díky vládní podpoře, zatímco tržní peníze vytvářejí nejistotu kvůli chybějící institucionální podpoře
-explanation: |
-  Text jasně rozlišuje mezi státními (fiat) penězi jako donucovacím, centralizovaným systémem, který se snadno vytváří a má tendenci ztrácet hodnotu, a tržními penězi (jako je historicky zlato a v současnosti Bitcoin), které vznikají dobrovolně, spontánně a dlouhodobě si uchovávají hodnotu.
-  To odráží širší libertariánský princip upřednostňující dobrovolné, decentralizované systémy před vnucenými, centralizovanými. Špatné odpovědi odrážejí běžné mylné představy o výhodách státní kontroly oproti tržním mechanismům.
+  - "Bitcoin používá demokratickou správu k určování měnové politiky (antikonstruktivismus), publikuje vzdělávací obsah o finanční svobodě (akce Cypherpunks) a umožňuje jednotlivcům hlasovat o změnách protokolu (morální autonomie)"
+  - "Bitcoin odstraňuje veškerou finanční regulaci (antikonstruktivismus), vytváří komunitu vývojářů, kteří lobbují za deregulaci (akce Cypherpunks), a dává bohatým jednotlivcům větší kontrolu nad měnovou politikou (morální autonomie)"
+  - "Bitcoin decentralizuje serverovou infrastrukturu napříč více zeměmi (antikonstruktivismus), používá open-source licenci ke svobodnému sdílení technologie (akce Cypherpunks) a poskytuje anonymní platformy sociálních médií pro politický disent (morální autonomie)"
+explanation: >-
+  Bitcoin leží na průsečíku tří intelektuálních tradic zkoumaných v kurzu. Ztělesňuje antikonstruktivistický argument tím, že nahrazuje centrálně plánované fiat peníze spontánním, decentralizovaným měnovým řádem, který žádný centrální plánovač nemůže ovládat. Naplňuje imperativ Cypherpunks psát kód tím, že převádí abstraktní ideály finanční svobody a soukromí do fungující technologie. A slouží individualistické obraně morální autonomie tím, že umožňuje suverénní vlastnictví, chrání plody práce a zachovává soukromí, takže každý člověk může být pánem svého vlastního života.
+reviewed: false

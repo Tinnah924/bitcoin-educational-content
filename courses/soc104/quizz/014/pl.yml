@@ -1,9 +1,9 @@
-question: Co reprezentuje prawa strona osi ekonomicznej (w kierunku 100) na dwuwymiarowym diagramie politycznym?
-answer: Preferuje wolność gospodarczą z mniejszą interwencją państwa, niższymi podatkami i wolnymi rynkami
+question: "Dlaczego oś pionowa (góra-dół) jest uważana za bardziej fundamentalną niż oś pozioma (lewica-prawica) w diagramie Nolana?"
+answer: "Ponieważ ujawnia prawdziwy podział między tymi, którzy bronią maksymalnych wolności indywidualnych, a tymi, którzy sprzyjają maksymalnej kontroli państwa"
 wrong_answers:
-  - Preferowanie silnej interwencji państwa w gospodarkę z wysokimi podatkami i regulacjami
-  - Preferowanie indywidualnych wolności osobistych i tolerancji społecznej przy minimalnych ograniczeniach moralnych
-  - Preferowanie tradycyjnych wartości, porządku i bezpieczeństwa oraz standardów moralnych egzekwowanych przez państwo
-explanation: |
-  Prawa strona osi ekonomicznej reprezentuje wolność gospodarczą, charakteryzującą się minimalną interwencją państwa w gospodarkę, niższymi regulacjami i podatkami,
-  oraz nacisk na wolne rynki, własność prywatną i konkurencję. Kontrastuje to z lewą stroną, która preferuje silną interwencję państwa w gospodarkę. Pozostałe opcje opisują albo lewicową pozycję ekonomiczną, albo pozycje na osi wolności osobistych (na górze wolność indywidualna, na dole tradycyjny porządek).
+  - "Ponieważ mierzy produkcję gospodarczą dokładniej niż oś pozioma mierzy polityki społeczne"
+  - "Ponieważ większość konfliktów politycznych w historii dotyczyła tożsamości kulturowej, a nie rządzenia"
+  - "Ponieważ oś pozioma dotyczy tylko współczesnych demokracji, podczas gdy oś pionowa jest uniwersalna"
+explanation: >-
+  Fundamentalną osią jest oś pionowa, ponieważ uchwytuje zasadnicze pytanie polityczne: w jakim stopniu państwo powinno kontrolować ludzkie działanie? Oś lewica-prawica odzwierciedla jedynie różne wrażliwości (sprawiedliwość społeczna kontra tradycja), ale obie strony jako etatyści mogą zajmować tę samą pozycję na osi pionowej. Oś pionowa ujawnia, czy ktoś chce narzucać swoją wizję siłą, czy szanuje wolność jednostki.
+reviewed: false

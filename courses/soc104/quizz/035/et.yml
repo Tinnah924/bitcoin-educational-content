@@ -1,9 +1,9 @@
-question: Milline on libertaarlaste ja libertaarlaste põhimõtteline erimeelsus majanduskorralduse osas?
-answer: Libertaarid toetavad eraomandit ja vaba turgu, samas kui libertaarid on kapitalismi vastu ja pooldavad kollektiivset omandit
+question: "Kuidas erinevad libertääride ja libertariaanide strateegiad riigi kaotamiseks?"
+answer: "Libertäärid on ajalooliselt pooldanud vägivaldset hävitamist, samas kui libertariaanid püüavad riiki delegitimeerida hariduse ja kodanikuallumatuse kaudu"
 wrong_answers:
-  - Libertaarid pooldavad turgude riiklikku reguleerimist, samas kui libertaarid toetavad majanduse täielikku dereguleerimist
-  - Libertaarid on igasuguse omandi vastu, samas kui libertaarid kaitsevad individuaalset omandiõigust kapitalismi raames
-  - Libertaarid toetavad riigi kontrolli all olevat majandust, samas kui libertaarid pooldavad kõigi avalike teenuste erastamist
-explanation: |
-  Põhiline majanduslik lõhe tuleneb nende vastandlikest vaadetest omandile ja kapitalismile. Libertaarid usuvad eraomandiõigustesse ja vabaturgudesse
-  kapitalism on individuaalse vabaduse jaoks hädavajalikud, samas kui libertaarid (anarhistlikud sotsialistid) peavad eraomandit varguseks ja kapitalismi olemuslikult rõhuvaks. Libertaarid pooldavad hoopis alternatiivseid majandusmudeleid, nagu mutualism, kollektivism või libertaarne kommunism, mis lükkavad tagasi nii riikliku kontrolli kui ka eraomandi kollektiivse korralduse kasuks.
+  - "Libertäärid kasutavad riigi lammutamiseks demokraatlikke valimisi, samas kui libertariaanid soosivad relvastatud revolutsiooni ja otsest tegevust"
+  - "Libertäärid keskenduvad alternatiivsete kogukondade rajamisele, samas kui libertariaanid tegutsevad olemasoleva poliitilise süsteemi sees reformide vastuvõtmiseks"
+  - "Nii libertäärid kui ka libertariaanid nõustuvad, et rahumeelne protest on ainus õiguspärane ühiskondliku muutuse vahend"
+explanation: >-
+  Libertäärid on ajalooliselt pooldanud riigi ja kapitalismi hävitamist vägivalla, sealhulgas terrori ja sihitud rünnakute abil. Libertariaanid seevastu lükkavad agressiivse vägivalla ebaseaduspärasena tagasi. Nende strateegia toetub riigi delegitimeerimisele argumentatsiooni, arutelu, hariduse ja kodanikuallumatuse kaudu. Need põhimõtteliselt erinevad lähenemised muutusele peegeldavad nende sügavamaid filosoofilisi erimeelsusi.
+reviewed: false

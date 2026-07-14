@@ -1,9 +1,9 @@
-question: O que é que o lado direito do eixo económico (em direção a 100) representa no diagrama político bidimensional?
-answer: Preferência pela liberdade económica com menos intervenção do Estado, impostos mais baixos e mercados livres
+question: "O que a categoria de liberdade pessoal inclui?"
+answer: "O que você faz em suas relações privadas, com suas opiniões, crenças e tudo que envolve seu próprio corpo e mente"
 wrong_answers:
-  - Preferência por uma forte intervenção do Estado, com impostos elevados e serviços públicos alargados
-  - Preferência pelas liberdades individuais e pela tolerância em questões pessoais e sociais
-  - Preferência pelos valores tradicionais, pela ordem e pela segurança impostas pelo Estado
-explanation: |
-  O lado direito do eixo económico representa a liberdade económica, caracterizada por uma intervenção mínima do Estado na economia, regulamentação reduzida,
-  impostos mais baixos e maior liberdade para as empresas e os indivíduos produzirem, trocarem e consumirem. Esta posição dá ênfase aos mercados livres, à propriedade privada e à concorrência como factores de prosperidade. As outras opções descrevem o lado esquerdo do eixo económico (forte intervenção do Estado) ou posições no eixo das liberdades pessoais (liberdades individuais ou valores tradicionais), que são dimensões distintas neste quadro político.
+  - "O que você faz como produtor, incluindo abrir uma empresa, contratar funcionários e comerciar bens"
+  - "Quanto imposto você paga, quais investimentos faz e como administra seus ativos financeiros"
+  - "Sua capacidade de competir no mercado, definir preços para seus produtos e escolher seus fornecedores"
+explanation: >-
+  A liberdade pessoal engloba o que você faz em suas relações privadas, com suas opiniões e crenças, e tudo que envolve seu próprio corpo e mente. Isso inclui casamento, escolhas de leitura, práticas religiosas, escolhas alimentares e medicinais, e com quem você se associa. Atividades empresariais, impostos e decisões de mercado se enquadram na liberdade econômica.
+reviewed: false

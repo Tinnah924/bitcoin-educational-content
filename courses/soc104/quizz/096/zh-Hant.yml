@@ -1,9 +1,9 @@
-question: 根據 Eric Hughes 的 Cypherpunk Manifesto，cypherpunks 應該使用什麼主要方法來達成隱私與自由的目標？
-answer: 編寫代碼以建立密碼系統，讓政治分歧變得無關緊要
+question: "誰在 1992 年創立了第一個 Cypherpunk 郵件列表？"
+answer: "Tim May 和 Eric Hughes，他們創建了一個成為該運動神經中樞的平台"
 wrong_answers:
-  - 游說政府通過更有力的隱私權保護法律和法規
-  - 組織大規模抗議和公民抗命運動，反對監控
-  - 建立教育計畫以提高大眾對數位隱私權的認知
-explanation: |
-  Eric Hughes 明確表示「Cypherpunks 寫程式碼」是他們的基本方法。宣言強調，Cypherpunks 不會在希望與願望中尋找慰藉，而是透過加密技術建立匿名系統，積極介入。
-  這將抽象的自由觀念轉化為具體的經濟與社會現實，讓政治分野變得任意且不必要。其他選項代表了傳統的政治行動主義，這與「技術解決方案」重於「制度改革」的 cypherpunk 哲學背道而馳。
+  - "Satoshi Nakamoto 和 Hal Finney，他們後來在 2008 年共同創造了 Bitcoin"
+  - "Julian Assange 和 Edward Snowden，他們使用該列表協調政府吹哨活動"
+  - "Phil Zimmermann 和 Bruce Schneier，他們將該列表設計為散布加密軟體的工具"
+explanation: >-
+  1992 年，Tim May 和 Eric Hughes 創立了第一個 Cypherpunk 郵件列表。這個平台很快成為該運動的神經中樞，匯聚了開發者、密碼學家，以及數位自由的倡議者。後來，Satoshi Nakamoto 正是在同一個列表上首次分享了 Bitcoin 白皮書。
+reviewed: false

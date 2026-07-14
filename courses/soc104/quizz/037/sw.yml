@@ -1,8 +1,9 @@
-question: Kulingana na mtazamo wa Friedman, ni tatizo gani kuu la kuhukumu sera za kijamii kulingana na nia zao zilizotangazwa badala ya matokeo yao halisi?
-answer: Sera zenye nia njema mara nyingi husababisha matokeo yasiyotarajiwa kama vile utegemezi wa kiuchumi na upotoshaji wa soko unaopingana na malengo yao ya awali.
+question: "Milton Friedman alitoa onyo gani kuhusu kuhukumu sera za kisiasa?"
+answer: "Sera zinapaswa kuhukumiwa kwa matokeo yake badala ya nia zake"
 wrong_answers:
-  - Nia ni ngumu sana kupima kwa uwazi ikilinganishwa na tathmini ya moja kwa moja ya matokeo na matokeo ya sera
-  - Wanasiasa hupotosha umma kimakusudi kuhusu nia zao za kweli, na kufanya tathmini inayotegemea nia isiaminike na kuwa ya udanganyifu.
-  - Nia hubadilika mara nyingi sana wakati wa utekelezaji wa sera, na kuzifanya kuwa msingi usio imara wa tathmini ya sera ya muda mrefu.
-explanation: |
-  Friedman anasema kwamba sera zenye nia njema zinaweza kusababisha athari mbaya kinyume na malengo yao, kama vile kuunda utegemezi miongoni mwa wale wanaolenga kuwasaidia. Suala si ugumu wa vipimo, udanganyifu wa kisiasa, au kubadilisha nia, bali ni kwamba nia njema hazihakikishi matokeo chanya. Hii ndiyo sababu fasili za kimuundo zinazozingatia sifa zinazoonekana na matokeo yanayopimika hupendelewa zaidi ya fasili za makusudi zinazotegemea motisha zilizotajwa.
+  - "Sera zinapaswa kuhukumiwa kwa tabia ya kimaadili ya wanasiasa wanaozipendekeza"
+  - "Sera zinapaswa kuhukumiwa kwa jinsi zilivyo maarufu kwa umma mpiga kura kwa ujumla"
+  - "Sera zinapaswa kuhukumiwa kwa ikiwa zinaendana na katiba ya awali ya nchi"
+explanation: >-
+  Friedman aliandika kwamba mojawapo ya makosa makubwa zaidi ni kuhukumu sera kwa nia zake badala ya matokeo yake, akibainisha kwamba programu zinazopewa lebo kuwa za kuwasaidia maskini karibu kila mara huzalisha athari zilizo kinyume na kile wafadhili wake walichokusudia. Hili linaakisi fundisho la Bastiat kwamba mwanauchumi mzuri huzingatia athari za muda mfupi na za muda mrefu kwa idadi yote ya watu.
+reviewed: false

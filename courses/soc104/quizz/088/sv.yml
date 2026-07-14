@@ -1,9 +1,9 @@
-question: Vilken är, enligt Karl Poppers ramverk, den grundläggande egenskap som skiljer ett öppet samhälle från ett slutet samhälle?
-answer: Individens förmåga att utöva kritiskt omdöme och ta personligt ansvar i beslutsfattandet
+question: "Hur relaterar Karl Poppers åtskillnad mellan öppna och slutna samhällen till debatten om individualism kontra kollektivism?"
+answer: "Det öppna samhället erkänner individens rätt att själv döma genom personliga beslut, medan det slutna samhället är kollektivistiskt och vilar på stammentalitet och vägran av kritisk frihet"
 wrong_answers:
-  - Graden av ekonomisk frihet och marknadsbaserat utbyte mellan olika samhällsgrupper
-  - Den nivå av teknisk utveckling och vetenskapliga framsteg som samhället uppnår
-  - Graden av demokratiskt deltagande och majoritetsstyre i politiska beslutsprocesser
-explanation: |
-  Popper definierar det öppna samhället som ett samhälle där individer konfronteras med personliga beslut och kan utöva ett kritiskt omdöme, medan det slutna samhället vägrar kritisk frihet och individuellt ansvar.
-  Distinktionen handlar i grunden om kognitiv och moralisk autonomi snarare än om ekonomiska system, tekniska framsteg eller demokratiska förfaranden. Slutna samhällen fruktar förändring och kritik och idealiserar statisk ordning, medan öppna samhällen välkomnar dynamisk kritik och individuella val inom ramen för abstrakta uppföranderegler.
+  - "Det öppna samhället är ett samhälle som tillåter frihandel över nationsgränser, medan det slutna samhället inför tullar och protektionistisk ekonomisk politik"
+  - "Det öppna samhället styrs av direktdemokrati där varje medborgare röstar, medan det slutna samhället styrs av en enda ärftlig monark"
+  - "Det öppna samhället publicerar alla regeringsdokument transparent, medan det slutna samhället klassificerar information som statshemligheter"
+explanation: >-
+  Popper definierade det slutna samhället som det magiska eller tribala samhället och det öppna samhället som ett där individer konfronteras med personliga beslut. Det slutna samhället är kollektivistiskt och vilar på stammentalitet med vägran av kritisk frihet och idealisering av en statisk ordning. Det öppna samhället ger företräde åt fritt val av värden, övertygelser och relationer, och förkroppsligar därmed direkt individualistiska principer.
+reviewed: false

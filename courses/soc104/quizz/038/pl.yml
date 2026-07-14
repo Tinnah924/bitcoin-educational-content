@@ -1,9 +1,9 @@
-question: Zgodnie z perspektywą Miltona Friedmana, jaki jest główny problem z ocenianiem polityki społecznej na podstawie jej deklarowanych celów, a nie rzeczywistych rezultatów?
-answer: Polityka, której przyświecają dobre intencje, często wywołuje niepożądane skutki, takie jak zależność ekonomiczna i zakłócenia rynkowe, które są sprzeczne z jej pierwotnymi celami
+question: "Dlaczego definicje intencjonalne systemów politycznych uznaje się za problematyczne dla celów analitycznych?"
+answer: "Tworzą pojęciowe zamieszanie, ponieważ wszystkie systemy twierdzą, że dążą do podobnych celów, takich jak sprawiedliwość, słuszność i wolność"
 wrong_answers:
-  - Politycy celowo fałszywie przedstawiają swoje prawdziwe intencje, aby zyskać poparcie opinii publicznej dla polityki, o której wiedzą, że zawiedzie
-  - Dobre intencje automatycznie prowadzą do pozytywnych rezultatów, ale mierzenie wyników jest zbyt trudne i czasochłonne dla decydentów
-  - Definicje strukturalne są z natury stronnicze w kierunku konserwatywnych punktów widzenia, podczas gdy definicje celowe promują postępowe wartości
-explanation: |
-  Friedman argumentuje, że polityka motywowana hojnymi intencjami może mieć niezamierzone negatywne konsekwencje, jeśli nie jest oparta na rygorystycznej analizie ludzkich zachowań
-  zachowań i zachęt. Tekst wyraźnie wspomina o tym, jak polityka społeczna mająca na celu pomoc ubogim często tworzy zależność gospodarczą i zniekształca rynek. Pozostałe opcje błędnie przedstawiają argumentację Friedmana - nie twierdzi on, że politycy są celowo oszukańczy, ani że dobre intencje automatycznie działają, ani że chodzi o stronniczość polityczną.
+  - "Są zbyt precyzyjne i sztywne, nie pozostawiając miejsca na naturalną ewolucję ruchów politycznych w czasie"
+  - "Zbyt mocno skupiają się na wynikach gospodarczych i ignorują kulturowe oraz społeczne wymiary życia politycznego"
+  - "Opierają się na tajnych dokumentach rządowych, które rzadko są dostępne niezależnym badaczom"
+explanation: >-
+  Definicje intencjonalne opierają się na deklarowanych motywacjach i celach, ale każdy system polityczny twierdzi, że dąży do sprawiedliwości, słuszności i wolności. To sprawia, że systemów nie da się od siebie odróżnić. Analiza strukturalna przeciwnie, ocenia systemy według ich empirycznych, mierzalnych konsekwencji i środków, których używają, ujawniając ich prawdziwą naturę poza retoryką.
+reviewed: false

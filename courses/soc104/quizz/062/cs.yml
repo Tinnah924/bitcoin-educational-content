@@ -1,9 +1,9 @@
-question: Co je podle analýzy Hannah Arendtové hlavním cílem totalitních vzdělávacích systémů?
-answer: Ničit schopnost lidí vytvářet si nezávislé přesvědčení, nikoli vštěpovat konkrétní názory
+question: "Jaké klíčové rozlišení dělá Hannah Arendt mezi klasickým despotismem a totalitarismem?"
+answer: "Totalitarismus lidi nejen podřizuje tyranským pravidlům, ale činí lidské bytosti neschopnými nezávislého jednání, čímž neguje samotnou politiku"
 wrong_answers:
-  - Indoktrinovat občany režimní ideologií a zajistit absolutní loajalitu vůči státu
-  - Vytvořit vysoce vzdělanou pracovní sílu, která bude schopna podporovat ekonomické cíle země
-  - Odstranit třídní rozdíly a vytvořit jednotnou společnost založenou na společných revolučních principech
-explanation: |
-  Hannah Arendtová tvrdila, že cílem totalitní výchovy není vštěpovat přesvědčení, ale zničit schopnost vytvářet si nezávislé přesvědčení.
-  Tím se totalitarismus liší od pouhého autoritářství - nechce jen podřídit se, ale snaží se zlikvidovat samotnou schopnost nezávislého myšlení. Ostatní možnosti představují konvenčnější formy politické kontroly nebo sociálního inženýrství a chybí jim zásadní Arendtové postřeh o jedinečném útoku totalitarismu na samotnou lidskou aktivitu.
+  - "Klasický despotismus kontroluje ekonomiku, zatímco totalitarismus kontroluje pouze politické a vojenské instituce"
+  - "Totalitarismus je prostě extrémnější verze despotismu, která se liší jen rozsahem represe"
+  - "Klasický despotismus používá ideologii k ospravedlnění své vlády, zatímco totalitarismus spoléhá čistě na vojenskou sílu"
+explanation: >-
+  Arendt tvrdí, že totalitarismus se zásadně liší od klasického despotismu. Není to prostě extrémnější tyranie, ale systém, který činí lidské bytosti nadbytečnými a ničí jejich schopnost nezávislého jednání. Pro Arendtovou je politika schopností lidu vzít svůj osud do rukou a totalitarismus je samotnou negací této schopnosti, což jej kvalitativně odlišuje od despotismu.
+reviewed: false

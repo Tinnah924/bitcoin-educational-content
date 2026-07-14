@@ -1,9 +1,9 @@
-question: Zgodnie z założeniami Karla Poppera, jaka jest podstawowa cecha odróżniająca społeczeństwo otwarte od społeczeństwa zamkniętego?
-answer: Zdolność jednostek do krytycznego osądu i osobistej odpowiedzialności w podejmowaniu decyzji
+question: "Jak rozróżnienie Karla Poppera między społeczeństwami otwartymi i zamkniętymi odnosi się do debaty indywidualizm kontra kolektywizm?"
+answer: "Społeczeństwo otwarte uznaje prawo jednostki do samodzielnego osądu poprzez osobiste decyzje, podczas gdy społeczeństwo zamknięte jest kolektywistyczne, oparte na mentalności plemiennej i odmowie wolności krytycznej"
 wrong_answers:
-  - Stopień wolności gospodarczej i wymiany rynkowej między różnymi grupami społecznymi
-  - Poziom zaawansowania technologicznego i postępu naukowego osiągnięty przez społeczeństwo
-  - Zakres demokratycznego uczestnictwa i rządów większości w politycznych procesach decyzyjnych
-explanation: |
-  Popper definiuje społeczeństwo otwarte jako takie, w którym jednostki są konfrontowane z osobistymi decyzjami i mogą dokonywać krytycznego osądu, podczas gdy społeczeństwo zamknięte odrzuca krytyczną wolność i indywidualną odpowiedzialność.
-  Rozróżnienie to zasadniczo dotyczy autonomii poznawczej i moralnej, a nie systemów gospodarczych, postępu technologicznego czy procedur demokratycznych. Społeczeństwa zamknięte obawiają się zmian i krytyki, idealizując statyczny porządek, podczas gdy społeczeństwa otwarte przyjmują dynamiczną krytykę i indywidualny wybór w ramach abstrakcyjnych zasad postępowania.
+  - "Społeczeństwo otwarte to takie, które pozwala na wolny handel przez granice narodowe, podczas gdy społeczeństwo zamknięte nakłada cła i protekcjonistyczne polityki gospodarcze"
+  - "Społeczeństwo otwarte jest rządzone przez demokrację bezpośrednią, w której głosuje każdy obywatel, podczas gdy społeczeństwem zamkniętym rządzi jeden dziedziczny monarcha"
+  - "Społeczeństwo otwarte publikuje przejrzyście wszystkie dokumenty rządowe, podczas gdy społeczeństwo zamknięte klasyfikuje informacje jako tajemnice państwowe"
+explanation: >-
+  Popper zdefiniował społeczeństwo zamknięte jako społeczeństwo magiczne albo plemienne, a społeczeństwo otwarte jako takie, w którym jednostki stają wobec osobistych decyzji. Społeczeństwo zamknięte jest kolektywistyczne, opiera się na mentalności plemiennej z odmową wolności krytycznej i idealizacją statycznego porządku. Społeczeństwo otwarte przyznaje pierwszeństwo wolnemu wyborowi wartości, przekonań i relacji, bezpośrednio ucieleśniając zasady indywidualistyczne.
+reviewed: false

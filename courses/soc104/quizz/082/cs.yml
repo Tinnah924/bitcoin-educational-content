@@ -1,8 +1,9 @@
-question: Proč podle Hayekovy teorie rozptýlených znalostí centrálně plánované ekonomiky nedokážou efektivně alokovat zdroje ve srovnání se systémy volného trhu?
-answer: Centrální plánovači nemají přístup k roztříštěným a lokalizovaným znalostem, které mají jednotlivci o svých specifických potřebách, preferencích a okolnostech, což znemožňuje optimální alokaci zdrojů.
+question: "Která z následujících možností je příkladem spontánního řádu, jak jej popisuje Hayek?"
+answer: "Jazyk, který se vyvinul organicky prostřednictvím historických interakcí, místo aby byl navržen intelektuály v kanceláři"
 wrong_answers:
-  - Centrální plánovači nemají dostatečný výpočetní výkon a pokročilé algoritmy pro zpracování všech ekonomických údajů potřebných pro optimální rozhodnutí o přidělení zdrojů.
-  - Centrální plánovači jsou ze své podstaty zkorumpovaní a zištní a při přijímání ekonomických rozhodnutí dávají přednost vlastnímu prospěchu před potřebami společnosti.
-  - Centrální plánovači se příliš soustředí na dlouhodobé strategické cíle a opomíjejí okamžité spotřební potřeby a preference jednotlivých občanů.
-explanation: |
-  Hayekův klíčový poznatek spočívá v tom, že vědění existuje pouze jako "fragmenty rozptýlených neúplných a často protichůdných znalostí, které mají všichni různí jedinci" Cenový systém trhu slouží jako mechanismus zjišťování, který mobilizuje tyto rozptýlené znalosti prostřednictvím dobrovolných směn. Centrální plánovači, bez ohledu na své záměry a schopnosti, nemají přístup k subjektivním, lokalizovaným informacím, které mají jednotlivci o nákladech, výnosech a preferencích. To vytváří základní "znalostní problém", který činí centrální plánování ze své podstaty neefektivním ve srovnání se spontánní tržní koordinací.
+  - "Národní ústava, která byla pečlivě sepsána zvolenými zástupci, aby stanovila společenská pravidla"
+  - "Vládní stimulační plán, který byl navržen ekonomy ke koordinaci ekonomické aktivity"
+  - "Veřejný vzdělávací systém, který byl vytvořen zákonodárci, aby zajistil všeobecný přístup ke znalostem"
+explanation: >-
+  Hayek popisuje spontánní řád jako produkt svobodných interakcí ve společnosti, vyplývající z lidského jednání, ale nikoli ze záměrného lidského plánu. Jazyk je hlavním příkladem: francouzština, angličtina a němčina nebyly konstruovány intelektuály rozhodujícími o gramatických pravidlech, ale vznikly jako plod pomalé, organické organizace vybudované historickými interakcemi.
+reviewed: false

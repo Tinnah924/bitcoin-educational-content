@@ -1,9 +1,9 @@
-question: Prema Nolanovom grafikonu, politička pozicija koja se odlikuje podržavanjem visoke ekonomske slobode, ali niske lične slobode, je konzervativizam.
-answer: Konzervativci
+question: "Šta obuhvata kategorija lične slobode?"
+answer: "Ono što radite u svojim privatnim odnosima, sa svojim mišljenjima, uverenjima i svime što uključuje vaše sopstveno telo i um"
 wrong_answers:
-  - Socijalisti
-  - Libertarijanci
-  - Centristi
-explanation: |
-  Na Nolanovom grafikonu, konzervativci su pozicionirani na desnoj strani i definišu se kao oni koji podržavaju visoku ekonomsku slobodu, ali nisku ličnu slobodu. 
-  Ovo ih razlikuje od socijalista (koji podržavaju nisku ekonomsku slobodu, ali visoku ličnu slobodu), libertarijanaca (koji podržavaju i visoku ekonomsku i ličnu slobodu) i centrista (koji podržavaju umerene nivoe oba tipa slobode). Konzervativna pozicija odražava tradicionalni desničarski stav favorizovanja slobodnih tržišta uz održavanje strožijih društvenih kontrola.
+  - "Ono što radite kao proizvođač, uključujući pokretanje preduzeća, zapošljavanje radnika i trgovinu robom"
+  - "Koliko poreza plaćate, kakva ulaganja pravite i kako upravljate svojom finansijskom imovinom"
+  - "Vašu sposobnost da se takmičite na tržištu, određujete cene svojih proizvoda i birate svoje dobavljače"
+explanation: >-
+  Lična sloboda obuhvata ono što radite u svojim privatnim odnosima, sa svojim mišljenjima i uverenjima, i sve što uključuje vaše sopstveno telo i um. To uključuje brak, izbor šta ćete čitati, verske prakse, izbor hrane i lekova, i sa kim se družite. Poslovne aktivnosti, porezi i tržišne odluke spadaju u ekonomsku slobodu.
+reviewed: false

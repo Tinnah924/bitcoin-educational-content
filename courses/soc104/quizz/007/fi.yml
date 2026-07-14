@@ -1,10 +1,9 @@
-question: Mitä kahta akselia käytetään Nolanin kaavion mukaan kuvaamaan poliittisia ideologioita?
-answer: Taloudellinen vapaus ja henkilökohtainen vapaus
+question: "Mikä yhteinen piirre vasemmistolaisilla ja oikeistolaisilla poliittisilla puolueilla on niiden näennäisestä vastakkainasettelusta huolimatta?"
+answer: "Molemmat puolustavat valtion oikeutta hallita ihmisten elämää sääntelyn ja verojen kautta"
 wrong_answers:
-  - Vasemmistopolitiikka ja oikeistopolitiikka
-  - Sosialismi ja kapitalismi
-  - Demokratia ja autoritaarisuus
-explanation: |
-  Nolan Chart käyttää kahta ulottuvuutta: taloudellista vapautta ja henkilökohtaista vapautta, mikä luo perinteistä vasemmisto-oikeisto -akselia vivahteikkaamman poliittisen spektrin.
-  Tämä kaksiulotteinen lähestymistapa mahdollistaa erilaisten ideologioiden, kuten libertarismin (suuri taloudellinen ja henkilökohtainen vapaus), sosialismin ja sosialismin, paremman asemoinnin
-  (vähäinen taloudellinen, suuri henkilökohtainen vapaus) ja konservatismi (suuri taloudellinen, vähäinen henkilökohtainen vapaus). Nolan pitää perinteistä vasen-oikea -akselia riittämättömänä, koska se ei pysty kuvaamaan poliittisten kantojen monitahoisuutta, erityisesti sitä, miten klassinen liberalismi sijoittuu poliittiseen maisemaan.
+  - "Molemmat kannattavat valtion puuttumisen täydellistä poistamista taloudellisissa asioissa"
+  - "Molemmat asettavat yksilönvapauden etusijalle yhteiskunnan kollektiiviseen järjestämiseen nähden"
+  - "Molemmat hylkäävät rahapolitiikan käytön valtion kulutuksen työkaluna"
+explanation: >-
+  Vaikka vasemmisto ja oikeisto näyttävät olevan vastakkain, niillä on yhteinen mieltymys valtion puuttumiseen. Molemmat arvostelevat vapaita markkinoita ja puolustavat valtion oikeutta hallita ihmisten elämää sääntelyn ja verojen kautta. Vasemmisto arvostelee markkinoita eriarvoisuuden lähteenä, kun taas oikeisto näkee ne uhkana suvereniteetille, mutta molemmat kääntyvät valtion puoleen ratkaisujen saamiseksi.
+reviewed: false

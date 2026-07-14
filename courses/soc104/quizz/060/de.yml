@@ -1,9 +1,9 @@
-question: Was unterscheidet John Rawls' Konzept des "übergreifenden Konsenses" von anderen Ansätzen der politischen Einigung?
-answer: Bürger mit unterschiedlichen Grundüberzeugungen können sich auf gemeinsame Gerechtigkeitsgrundsätze einigen und gleichzeitig ihre unterschiedlichen Weltanschauungen beibehalten
+question: "Welches verborgene Paradox liegt im zentristischen Pragmatismus?"
+answer: "Der Pragmatismus selbst beruht auf einer Form von Dogmatismus, nämlich der unausgesprochenen Überzeugung, dass nur Experten kompetent sind, die Gesellschaft zu steuern"
 wrong_answers:
-  - Alle Bürger müssen ihre persönlichen Überzeugungen aufgeben, um eine einheitliche Staatsideologie für politische Harmonie zu übernehmen
-  - Der politische Konsens erfordert eine vollständige Übereinstimmung in allen moralischen und philosophischen Fragen, bevor eine Zusammenarbeit möglich ist
-  - Nur technische Experten können gerechte Grundsätze festlegen, da den normalen Bürgern die notwendige rationale Kapazität fehlt
-explanation: |
-  Rawls' übergreifender Konsens zeigt das Wesen der zentristischen Philosophie, indem er aufzeigt, wie Menschen mit unvereinbaren religiösen, philosophischen oder moralischen Lehren sich dennoch auf gemeinsame politische Grundsätze der Gerechtigkeit einigen können.
-  Jeder befürwortet diese Grundsätze aus seiner eigenen Perspektive, ohne dass jemand seine grundlegenden Überzeugungen aufgeben muss. Dies unterscheidet sich von totalitären Ansätzen, die ideologische Einheitlichkeit verlangen, von perfektionistischen Theorien, die völlige moralische Übereinstimmung voraussetzen, oder von technokratischen Modellen, die die Bürgerbeteiligung zugunsten einer Expertenherrschaft ausschließen.
+  - "Zentristen behaupten, moderat zu sein, verbünden sich aber in Koalitionsregierungen konsequent mit linken Parteien"
+  - "Zentristische Politiken erscheinen ausgewogen, bevorzugen aber immer Wirtschaftswachstum gegenüber Umweltschutz"
+  - "Zentristen lehnen Ideologie ab, übernehmen aber starre Prinzipien des freien Marktes, wenn sie wirtschaftliche Entscheidungen treffen"
+explanation: >-
+  Das Paradox des zentristischen Pragmatismus besteht darin, dass er behauptet, Ideologie zugunsten rationaler Expertise abzulehnen, doch genau dieser Anspruch beruht auf einem unsichtbaren und unausgesprochenen Dogma: dass nur Technokraten in der Lage seien, die richtigen Entscheidungen zu treffen. Diese Überzeugung, dass allein Experten die Gesellschaft steuern sollten, ist selbst eine ideologische Verpflichtung, auch wenn Zentristen sie nicht als solche erkennen.
+reviewed: false

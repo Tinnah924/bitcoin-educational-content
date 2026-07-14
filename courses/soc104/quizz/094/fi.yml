@@ -1,9 +1,9 @@
-question: Mikä on Satoshi Nakamoton perustavanlaatuisen kritiikin mukaan perinteisten fiat-valuuttajärjestelmien ydinongelma?
-answer: Ne edellyttävät liiallista luottamusta keskitettyihin instituutioihin, jotka ovat historiallisesti rikkoneet tätä luottamusta valuutan heikentämisen kautta
+question: "Kuka käynnisti ensimmäisen Cypherpunk-sähköpostilistan vuonna 1992?"
+answer: "Tim May ja Eric Hughes, jotka loivat alustan, josta tuli liikkeen hermokeskus"
 wrong_answers:
-  - Niiltä puuttuu riittävä teknologinen infrastruktuuri nykyaikaisten digitaalisten liiketoimien tehokkaaseen ja turvalliseen käsittelyyn
-  - Ne aiheuttavat liikaa vaihtokurssien epävakautta, mikä tekee kansainvälisestä kaupankäynnistä arvaamatonta ja kallista
-  - generate liialliset transaktiomaksut, jotka tekevät mikromaksuista taloudellisesti kannattamattomia jokapäiväisille käyttäjille
-explanation: |
-  Satoshi Nakamoto totesi nimenomaisesti, että "tavanomaisen valuutan perusongelma on luottamus, jota tarvitaan, jotta se toimisi", ja että "fiat-valuuttojen historia on täynnä luottamuksen rikkomisia"
-  Hänen kritiikkinsä keskittyi siihen, että keskuspankit eivät ole toistuvasti onnistuneet pitämään kiinni siitä, että ne eivät ole halventaneet valuuttaa. Vaikka muut vaihtoehdot ovatkin mahdollisesti perusteltuja perinteisiä järjestelmiä koskevia huolenaiheita, niistä puuttuu Nakamoton keskeinen filosofinen vastalause luottamukseen perustuville rahajärjestelmille ja hänen motivaationsa luotettavan vaihtoehdon luomiseen.
+  - "Satoshi Nakamoto ja Hal Finney, jotka myöhemmin loivat Bitcoinin yhdessä vuonna 2008"
+  - "Julian Assange ja Edward Snowden, jotka käyttivät listaa valtiollisten väärinkäytösten paljastamistoimien koordinointiin"
+  - "Phil Zimmermann ja Bruce Schneier, jotka suunnittelivat listan salausohjelmistojen jakelutyökaluksi"
+explanation: >-
+  Vuonna 1992 Tim May ja Eric Hughes käynnistivät ensimmäisen Cypherpunk-sähköpostilistan. Tästä alustasta tuli nopeasti liikkeen hermokeskus, joka kokosi yhteen kehittäjiä, kryptografeja ja digitaalisen vapauden puolustajia. Samalla listalla Satoshi Nakamoto jakoi myöhemmin Bitcoinin White Paperin ensimmäistä kertaa vuonna 2008.
+reviewed: false

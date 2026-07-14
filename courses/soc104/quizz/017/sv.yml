@@ -1,9 +1,9 @@
-question: Vilken är enligt Nolan-diagramkonceptet den viktigaste faktorn som skiljer olika politiska filosofier åt?
-answer: Graden av statlig kontroll över människors agerande på det personliga och ekonomiska planet
+question: "Vad vill högern lagstifta om?"
+answer: "Moral och religion, driven av en vilja att bevara traditionella institutioner och sociala hierarkier"
 wrong_answers:
-  - Företräde för antingen traditionella värderingar eller progressiv social förändring
-  - Nivån på stödet för omfördelning av välstånd och sociala välfärdsprogram
-  - Engagemanget för antingen individuella rättigheter eller kollektivt ansvar
-explanation: |
-  Nolan-diagrammets centrala idé är att den största skillnaden mellan politiska filosofier är graden av statlig kontroll över mänskligt handlande i
-  både personliga och ekonomiska sfärer. Detta skapar en tvådimensionell modell snarare än ett enkelt vänster-högerspektrum. De andra alternativen representerar traditionella sätt att kategorisera politik men missar den viktiga insikten att både vänster och höger kan vara statstrogna - de skiljer sig åt i vilka områden de vill ha statlig kontroll, men båda försöker använda statsmakten för att påtvinga samhället sin vision.
+  - "Ekonomin och finansmarknaderna, driven av en vilja att minska ojämlikhet och omfördela rikedom"
+  - "Vetenskap och utbildning, driven av en vilja att kontrollera vad som lärs ut i offentliga skolor"
+  - "Internationell handel och diplomati, driven av en vilja att utöka nationellt inflytande utomlands"
+explanation: >-
+  Högern prioriterar personlig moral och traditionella värden. Den anser att civilisationen bygger på vissa traditionella institutioner och sociala hierarkier som måste bevaras, och den vill lagstifta om moral och religion. Vänstern, inte högern, fokuserar på att lagstifta om ekonomin. Vetenskap, utbildning och handelspolitik är inte det huvudsakliga fokus som beskrivs för högern.
+reviewed: false

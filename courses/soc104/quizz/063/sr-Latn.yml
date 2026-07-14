@@ -1,9 +1,9 @@
-question: Prema analizi Hane Arent, koji je primarni cilj totalitarnih obrazovnih sistema?
-answer: Da uništiš sposobnost ljudi da formiraju nezavisna uverenja, a ne da usadiš specifična verovanja
+question: "Kako su svi totalitarni režimi došli na vlast?"
+answer: "Nasilnom revolucijom koja je opravdavala pravljenje čistog lista od prethodnog sistema"
 wrong_answers:
-  - Da indoktriniraju građane osnovnim ideološkim principima i vrednostima režima
-  - Da se stvori visoko obrazovana radna snaga sposobna da unapredi ekonomske ciljeve države
-  - Da promoviše nacionalno jedinstvo podučavanjem građana da prioritizuju kolektivne interese nad individualnim željama
-explanation: |
-  Hannah Arendt je tvrdila da svrha totalitarne edukacije nikada nije bila da usadi uverenja, već da uništi sposobnost formiranja bilo kakvih nezavisnih uverenja. 
-  Ovo razlikuje totalitarne sisteme od pukih autoritarnih režima koji jednostavno nameću svoju ideologiju. Eliminisanjem sposobnosti ljudi da misle nezavisno, totalitarni režimi čine građane nesposobnim za autonomno delovanje, što je Arendt videla kao negaciju same politike.
+  - "Postepenom zakonodavnom reformom unutar postojećih demokratskih institucija"
+  - "Vojnim udarima koje su organizovale strane sile radi regionalne kontrole"
+  - "Mirnim masovnim pokretima koji su ubedljivom većinom pobedili na izborima"
+explanation: >-
+  Svi totalitarni režimi došli su na vlast nasilnom revolucijom. Ta revolucija služi dvostrukoj svrsi: fizički uništava stari poredak i ideološki opravdava upotrebu nasilja kao neophodnu za izgradnju novog društva. To totalitarna preuzimanja vlasti razlikuje od demokratskih tranzicija, udara podržanih iz inostranstva ili mirnih izbornih pobeda.
+reviewed: false

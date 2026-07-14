@@ -1,8 +1,9 @@
-question: Secondo l'analisi di Hannah Arendt, qual è l'obiettivo primario dei sistemi educativi totalitari?
-answer: Distruggere la capacità umana di formarsi convinzioni e credenze indipendenti
+question: "Perché i regimi totalitari sono stati descritti come 'religioni secolari' e che cosa rivela questo sulle condizioni necessarie perché il totalitarismo esista?"
+answer: "Richiedono ai militanti una fede quasi religiosa e usano la paura contro gli oppositori, e il totalitarismo richiede simultaneamente tutte le sue caratteristiche: libertà soppresse, governo a partito unico, rivoluzione violenta ed economia diretta"
 wrong_answers:
-  - Indottrinare i cittadini con l'ideologia e i valori politici specifici del regime
-  - Creare una forza lavoro altamente istruita in grado di promuovere gli obiettivi economici dello Stato
-  - Eliminare l'analfabetismo e promuovere la conoscenza scientifica al servizio dello Stato
-explanation: |
-  Hannah Arendt sosteneva che l'obiettivo dell'educazione totalitaria non è mai quello di instillare convinzioni specifiche, ma piuttosto di distruggere la capacità delle persone di formarsi una qualsiasi convinzione indipendente. Questo distingue il totalitarismo dal semplice autoritarismo o dalla propaganda: cerca di eliminare la capacità cognitiva stessa di un pensiero indipendente. Le altre opzioni rappresentano forme più convenzionali di indottrinamento politico o di educazione diretta dallo Stato, ma non colgono l'intuizione cruciale di Arendt: il totalitarismo mira alla completa negazione dell'agenzia umana e del giudizio indipendente, non solo alla promozione di particolari ideologie.
+  - "Sostituiscono il culto tradizionale con cerimonie di Stato, e il totalitarismo richiede solo un leader carismatico e il controllo militare"
+  - "Usano le istituzioni religiose per imporre l'ideologia di Stato, e il totalitarismo può emergere ogni volta che un singolo partito politico domina il parlamento"
+  - "Promettono la salvezza spirituale attraverso l'azione politica, e il totalitarismo esiste ogni volta che lo Stato controlla l'economia indipendentemente dalle libertà politiche"
+explanation: >-
+  Raymond Aron osservò che i regimi totalitari funzionano su due principi: la fede dei militanti e la paura degli oppositori. Questo fanatismo quasi religioso li caratterizza al di là delle loro diverse motivazioni, guadagnando loro l'etichetta di religioni secolari. Fondamentalmente, il totalitarismo richiede simultaneamente tutte le caratteristiche che lo definiscono: libertà soppresse, autorità illimitata tramite un partito unico, rivoluzione violenta ed economia diretta. Le democrazie moderne possono presentare alcuni di questi tratti, ma il totalitarismo è presente solo quando tutti sono riuniti insieme.
+reviewed: false

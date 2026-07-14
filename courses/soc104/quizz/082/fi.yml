@@ -1,8 +1,9 @@
-question: Hayekin hajautetun tiedon teorian mukaan miksi keskitetyt suunnitelmataloudet eivät pysty jakamaan resursseja tehokkaasti verrattuna vapaisiin markkinajärjestelmiin?
-answer: Keskussuunnittelijat eivät pääse käsiksi yksilöiden hajanaiseen, paikalliseen tietoon heidän erityistarpeistaan, mieltymyksistään ja olosuhteistaan, mikä tekee resurssien optimaalisen kohdentamisen mahdottomaksi.
+question: "Mikä on keskeinen erimielisyys libertaarien ja muiden poliittisten perheiden välillä, kun he jakavat samat tavoitteet?"
+answer: "Erimielisyys koskee keinoja: libertaarit torjuvat pakottavat ratkaisut ja suosivat vapaaehtoista vaihtoa markkinaprosessin kautta"
 wrong_answers:
-  - Keskussuunnittelijoilla ei ole riittävästi laskentatehoa ja kehittyneitä algoritmeja, jotta he voisivat käsitellä kaikkia taloudellisia tietoja, joita tarvitaan resurssien optimaalista kohdentamista koskevien päätösten tekemiseksi.
-  - Keskussuunnittelijat ovat luonnostaan korruptoituneita ja oman edun tavoittelijoita, jotka taloudellisia päätöksiä tehdessään asettavat oman hyvinvointinsa yhteiskunnan tarpeiden edelle.
-  - Keskussuunnittelijat keskittyvät liikaa pitkän aikavälin strategisiin tavoitteisiin ja laiminlyövät samalla yksittäisten kansalaisten välittömät kulutustarpeet ja mieltymykset.
-explanation: |
-  Hayekin keskeinen oivallus on, että tieto on olemassa vain "hajallaan olevina epätäydellisen ja usein ristiriitaisen tiedon sirpaleina, jotka ovat kaikkien erillisten yksilöiden hallussa" Markkinoiden hintajärjestelmä toimii havaintomekanismina, joka mobilisoi tämän hajallaan olevan tiedon vapaaehtoisen vaihdon kautta. Keskussuunnittelijat eivät aikeistaan tai kyvyistään riippumatta pääse käsiksi subjektiiviseen, paikalliseen tietoon, jota yksilöillä on kustannuksista, hyödyistä ja mieltymyksistä. Tämä aiheuttaa perustavanlaatuisen "tieto-ongelman", joka tekee keskussuunnittelusta luonnostaan tehotonta verrattuna markkinoiden spontaaniin koordinointiin.
+  - "Erimielisyys koskee päämääriä: libertaarit tavoittelevat eri tavoitteita, kuten yksilöllistä varallisuutta sosiaalisen hyvinvoinnin sijaan"
+  - "Erimielisyys koskee ajoitusta: libertaarit haluavat saavuttaa samat tavoitteet hitaammin asteittaisen uudistuksen kautta"
+  - "Erimielisyys koskee soveltamisalaa: libertaarit haluavat soveltaa samoja politiikkoja vain paikallisella eivätkä kansallisella tasolla"
+explanation: >-
+  Libertaarit voivat olla sosialistien, konservatiivien ja sentristien kanssa samaa mieltä tietyistä tavoitteista, kuten sorrettujen puolustamisesta tai sosiaalisen yhteenkuuluvuuden edistämisestä. Erimielisyys ei ole päämäärissä vaan keinoissa. Libertaarit torjuvat kaikki pakottavat ratkaisut, jotka pyrkivät yhdenmukaistamaan käytäntöjä ja sääntelyä, ja puolustavat sen sijaan valinnan voimaa ja vastuullista vapautta vapaaehtoisiin sopimuksiin perustuvan vapaan, hajautetun vaihdon kautta.
+reviewed: false

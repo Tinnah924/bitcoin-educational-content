@@ -1,9 +1,9 @@
-question: Según el análisis de Hannah Arendt, ¿cuál es el objetivo principal de la educación totalitaria?
-answer: Destruir la capacidad de las personas para formarse convicciones independientes en lugar de inculcar creencias específicas
+question: "¿Qué revela sobre el totalitarismo la declaración de Mussolini de 1920: 'Todo en el Estado, nada fuera del Estado, nada contra el Estado'?"
+answer: "Ya no hay separación entre el espacio público y el privado, porque el Estado absorbe por completo a la sociedad"
 wrong_answers:
-  - Transmitir eficazmente a la población la ideología y los valores políticos fundamentales del régimen
-  - Crear una mano de obra altamente cualificada capaz de respaldar los objetivos económicos del Estado
-  - Eliminar el analfabetismo y establecer el acceso universal a las oportunidades educativas básicas
-explanation: |
-  Hannah Arendt sostenía que el propósito de la educación totalitaria no era inculcar convicciones, sino destruir la facultad de formarse otras independientes.
-  Esto distingue a los sistemas totalitarios de otros regímenes autoritarios que simplemente quieren imponer su ideología. Al destruir la capacidad de pensamiento crítico, los regímenes totalitarios crean poblaciones incapaces de una acción política independiente, lo que sirve a su objetivo de control total de la sociedad y elimina la oposición potencial.
+  - "El Estado se centra exclusivamente en el poder militar mientras deja la economía a la empresa privada"
+  - "Los ciudadanos son libres de organizarse en privado siempre que no critiquen abiertamente al gobierno"
+  - "El gobierno controla solo la actividad política mientras la vida cultural y religiosa sigue siendo autónoma"
+explanation: >-
+  La declaración de Mussolini capta la esencia del totalitarismo: la totalidad. Todo queda absorbido por el Estado, lo que significa que no hay separación entre el espacio público y el privado. La sociedad pierde toda forma de autonomía, hasta en las actividades más cotidianas, como abrir un club deportivo. Esto va mucho más allá de controlar solo las esferas militar, política o económica.
+reviewed: false

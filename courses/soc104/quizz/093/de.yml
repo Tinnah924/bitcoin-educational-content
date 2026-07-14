@@ -1,9 +1,9 @@
-question: Welches grundlegende Problem herkömmlicher Währungen will Bitcoin nach der Philosophie von Satoshi Nakamoto lösen?
-answer: Das übermäßige Vertrauen in zentralisierte Institutionen, die dieses Vertrauen in der Vergangenheit durch die Entwertung der Währung gebrochen haben
+question: "Was ist das grundlegende Problem von Fiatwährungen, das Satoshi Nakamoto identifizierte?"
+answer: "Sie erfordern Vertrauen in die Zentralbank, die Währung nicht zu entwerten, doch die Geschichte der Fiatwährungen ist voller Verletzungen dieses Vertrauens"
 wrong_answers:
-  - Die technische Ineffizienz der traditionellen Zahlungssysteme, die Transaktionen für den globalen Handel zu langsam verarbeiten
-  - Die Umweltauswirkungen der physischen Geldproduktion und der Kohlenstoff-Fußabdruck der Bankinfrastruktur
-  - Die geografischen Grenzen der nationalen Währungen, die einen reibungslosen internationalen Handel verhindern
-explanation: |
-  Satoshi stellte ausdrücklich fest, dass "das Grundproblem konventioneller Währungen das Vertrauen ist, das erforderlich ist, damit sie funktionieren", und merkte an, dass "die Geschichte der Fiat-Währungen voll von Verstößen gegen dieses Vertrauen ist"
-  Bitcoin wurde als vertrauensloses System konzipiert, um die Abhängigkeit von Zentralbanken zu beseitigen, die in der Vergangenheit Währungen entwertet haben. Die anderen Optionen sind zwar potenziell berechtigte Bedenken, waren aber nicht die grundlegende philosophische Motivation für die Schaffung von Bitcoin, wie sie von seinem Schöpfer formuliert wurde.
+  - "Sie sind für alltägliche Transaktionen zu schwierig zu verwenden, weil physisches Bargeld schnell verschleißt und teuer herzustellen ist"
+  - "Sie können nicht international übertragen werden, weil jedes Land inkompatible monetäre Standards und Vorschriften hat"
+  - "Sie sind durch Goldreserven gedeckt, die nicht ausreichen, um die gesamte umlaufende Geldmenge zu decken"
+explanation: >-
+  Satoshi Nakamoto erklärte, dass das grundlegende Problem konventioneller Währungen das Vertrauen ist, das für ihr Funktionieren erforderlich ist. Fiatwährungen sind nicht durch eine Ware gedeckt, sondern ruhen vollständig auf institutioneller Autorität. Wenn eine Institution die totale Kontrolle über Geld besitzt, ist die Versuchung zum Missbrauch zu stark, und die Geschichte hat dies wiederholt durch Währungsentwertung gezeigt.
+reviewed: false

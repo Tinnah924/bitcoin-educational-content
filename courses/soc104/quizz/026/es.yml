@@ -1,8 +1,9 @@
-question: ¿Qué cambio histórico explica por qué los partidarios del liberalismo clásico en Estados Unidos adoptaron el término "libertario" a partir de la década de 1960?
-answer: Los liberales estadounidenses habían abrazado el intervencionismo estatal y las políticas de gran gobierno, contradiciendo los principios liberales clásicos
+question: "¿Cómo difieren los roles del Cato Institute, el Mises Institute y el Libertarian Party dentro del movimiento libertario?"
+answer: "El Cato Institute se centra en propuestas de política pública, el Mises Institute en la educación y la publicación académica, y el Libertarian Party en la política electoral"
 wrong_answers:
-  - Los liberales europeos fueron los primeros en utilizar el término "libertario", lo que obligó a los estadounidenses a adoptar una terminología diferente
-  - El Partido Republicano registró el término "liberal" e impidió que los liberales clásicos lo utilizaran
-  - Los liberales clásicos querían distanciarse de los movimientos políticos europeos tras la Segunda Guerra Mundial
-explanation: |
-  La respuesta correcta refleja la evolución histórica fundamental descrita en el capítulo. Los "liberales" estadounidenses pasaron gradualmente a apoyar una amplia intervención estatal a través de programas como el New Deal y la Great Society, que contradecían directamente los principios liberales clásicos del gobierno limitado y la economía del laissez-faire. Esto obligó a los verdaderos liberales clásicos a rebautizarse como "libertarios" para distinguir su filosofía de aquello en lo que se había convertido el liberalismo estadounidense. Las respuestas erróneas son plausibles pero incorrectas: no hubo un problema de marcas, los europeos no impulsaron el cambio de terminología y el cambio no estuvo relacionado con el distanciamiento europeo de posguerra.
+  - "El Cato Institute financia campañas políticas, el Mises Institute hace lobby directamente ante el Congreso, y el Libertarian Party organiza conferencias académicas"
+  - "El Cato Institute publica manuales de economía, el Mises Institute organiza campañas de registro de votantes, y el Libertarian Party redacta proyectos de ley"
+  - "El Cato Institute organiza protestas de base, el Mises Institute proporciona defensa legal a libertarios, y el Libertarian Party gestiona investigaciones de think tanks"
+explanation: >-
+  El Cato Institute (fundado en 1977) es un think tank con sede en Washington que trabaja en propuestas de política pública. El Mises Institute (fundado en 1982) se centra en la educación más que en el lobby político, funcionando como una especie de universidad en línea con conferencias y obras reeditadas. El Libertarian Party (fundado en 1971) es el tercer partido político estadounidense más grande, y participa en elecciones donde incluso su cuota de voto de alrededor del 2% puede inclinar resultados.
+reviewed: false

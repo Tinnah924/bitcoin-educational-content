@@ -1,8 +1,9 @@
-question: Koje su dve ose koje formiraju Nolanov dijagram?
-answer: Ekonomska sloboda i lična sloboda
+question: "Gde se Zeleni nalaze na Nolanovom dijagramu i zašto?"
+answer: "Veoma nisko na dijagramu, zato što smatraju da individualni interes ne sme imati prednost nad kolektivnim interesom planete"
 wrong_answers:
-  - Levo-desno i autoritarno-demokratski
-  - Konzervativno-liberalno i država-tržište
-  - Individualno-kolektivno i tradicionalno-progresivno
-explanation: |
-  Nolanov dijagram je izgrađen na dve različite ose: ekonomska sloboda (sposobnost donošenja ekonomskih odluka bez mešanja vlade) i lična sloboda (individualna sloboda u ličnim stvarima). Ovaj dvodimenzionalni pristup omogućava nijansiraniju reprezentaciju političkih pozicija nego tradicionalna jedinstvena leva-desna osa. Druge opcije predstavljaju različite političke koncepte, ali nisu ose korišćene u specifičnom dizajnu Nolanovog dijagrama.
+  - "Na vrhu dijagrama, zato što jednako daju prednost ličnoj slobodi i ekološkoj svesti"
+  - "U centru dijagrama, zato što uravnotežuju ekonomski rast sa zaštitom životne sredine"
+  - "Na krajnjoj desnici, zato što podržavaju tržišna rešenja za ekološke izazove"
+explanation: >-
+  Zeleni se nalaze veoma nisko na Nolanovom dijagramu zato što favorizuju snažnu državnu kontrolu nad ekonomskim i ličnim odlukama u ime dobrobiti planete. Marksističku klasnu borbu zamenili su borbom između čoveka i prirode i skloni su da brane ekonomsku kontrolu, pa čak i ukidanje privatne svojine. To ih smešta u autoritarni sektor, a ne na vrh ili u centar.
+reviewed: false

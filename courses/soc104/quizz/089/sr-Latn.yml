@@ -1,8 +1,9 @@
-question: Prema perspektivi austrijskog ekonomiste Ludwiga von Misesa o metodološkom individualizmu, osnovno ograničenje pripisivanja akcija kolektivnim entitetima je to što samo pojedinci mogu delovati. Kolektivne entitete, kao što su države ili korporacije, čine pojedinci koji donose odluke i preduzimaju akcije. Stoga, prema Misesu, razumevanje društvenih fenomena zahteva analizu individualnih akcija i motivacija, a ne pripisivanje volje ili akcija apstraktnim kolektivima.
-answer: Samo pojedinci poseduju sposobnost da misle, rasuđuju i deluju, čineći kolektivne entitete pukim apstrakcijama bez samostalnog postojanja ili stvarnosti.
+question: "Šta je konstruktivizam kao zajedničko političko uverenje?"
+answer: "Uverenje da centralna vlada može, snagom zakona, stvoriti društveni poredak koji je dobar za najveći broj ljudi"
 wrong_answers:
-  - Kolektivni entiteti mogu misliti i delovati, ali su njihove odluke uvek inferiorne u odnosu na individualne izbore zbog demokratskih neefikasnosti.
-  - Kolektivni entiteti poseduju emergentna svojstva koja prevazilaze individualne sposobnosti, ali nemaju moralni autoritet da nadvladaju ličnu autonomiju.
-  - Kolektivni entiteti mogu donositi racionalne odluke kroz agregiranu mudrost, ali bi trebali biti ograničeni ustavnim ograničenjima koja štite individualna prava.
-explanation: |
-  Mizesov metodološki individualizam tvrdi da 'samo pojedinac misli, samo pojedinac rezonuje, samo pojedinac deluje.' To znači da kolektivni entiteti nemaju postojanje ili realnost izvan delovanja svojih pojedinačnih članova. Društvo nema svoju volju ili misao - sva kolektivna delovanja moraju se objasniti kroz njihove pojedinačne komponente. Druge opcije pogrešno pretpostavljaju da kolektivni entiteti poseduju neki oblik nezavisnog mišljenja ili sposobnosti donošenja odluka, što je u suprotnosti sa Mizesovom osnovnom premisom da samo pojedinci mogu istinski misliti i delovati.
+  - "Uverenje da društvo treba organizovati kroz dobrovoljnu saradnju između pojedinaca bez državnog mešanja"
+  - "Uverenje da samo slobodna tržišta mogu odrediti optimalnu raspodelu resursa u društvu"
+  - "Uverenje da politička vlast treba biti jednako raspodeljena među svim građanima kroz direktnu demokratiju"
+explanation: >-
+  Konstruktivizam ujedinjuje centriste, konzervativce i socijaliste oko zajedničkog uverenja: superiornosti političkog procesa nad tržišnim procesom. To je uverenje da centralna vlada može, snagom zakona, stvoriti društveni poredak dobar za najveći broj ljudi. To stoji u direktnoj suprotnosti sa libertarijanskom odbranom spontanog poretka koji nastaje iz dobrovoljnih interakcija.
+reviewed: false

@@ -1,10 +1,9 @@
-question: Miksi perinteinen oikeisto-vasemmisto-jako ei ole sisällön mukaan riittävä Bitcoin:n luokitteluun?
-answer: Koska Bitcoin ylittää perinteiset jakolinjat ja houkuttelee kannattajia erilaisista poliittisista taustoista
+question: "Mikä ohjaava periaate ohjasi Frederic Bastiat'n äänestyskäyttäytymistä kansalliskokouksessa?"
+answer: "Yksilöllisten ja taloudellisten vapauksien edistäminen sekä valtion puuttumisen vähentäminen"
 wrong_answers:
-  - Koska Bitcoin:ta tukevat yksinomaan oikeistolaiset vapaiden markkinoiden persoonallisuudet
-  - Koska vasemmisto on pääasiassa hyväksynyt Bitcoin:n heikommassa asemassa olevien väestöryhmien taloudellisen osallisuuden edistämiseksi
-  - Koska Bitcoin on neutraali teknologia, jolla ei ole poliittista tai ideologista ulottuvuutta
-explanation: |
-  Tekstissä selitetään, että Bitcoin hajautettuna teknologiana houkuttelee kannattajia erilaisista poliittisista taustoista, mukaan lukien sekä oikeistolainen
-  ja vasemmistolaisia henkilöitä sekä anarkisteja ja epäpoliittisia henkilöitä. Kannatuksen moninaisuus osoittaa, että Bitcoin:tä ei voi lokeroida kategoriaan
-  perinteiseen poliittiseen kategoriaan, toisin kuin muissa vastauksissa, jotka viittaavat rajoitettuun sitoutumiseen yhteen poliittiseen leiriin tai täydelliseen puolueettomuuteen.
+  - "Kuninkaallisen vallan puolustaminen ja monarkkisten perinteiden säilyttäminen"
+  - "Sosialististen politiikkojen edistäminen varallisuuden jakamiseksi tasaisemmin uudelleen"
+  - "Keskustalainen kompromissistrategia vasemmiston ja oikeiston ryhmittymien välillä"
+explanation: >-
+  Bastiat äänesti perustavanlaatuisen periaatteen pohjalta: yksilöllisten ja taloudellisten vapauksien edistämisen sekä valtion puuttumisen vähentämisen. Hän ei ollut keskustalainen opportunisti eikä rojalisti tai sosialisti. Hän äänesti sen puolen kanssa, joka ehdotti vapauden ja rajoitetun valtion kanssa linjassa olevia toimia.
+reviewed: false

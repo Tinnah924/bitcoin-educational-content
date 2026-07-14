@@ -1,9 +1,9 @@
-question: Enligt keynesiansk ekonomisk teori, vilken är den primära rollen för statliga ingripanden i ekonomin?
-answer: Att använda finans- och penningpolitiken för att stabilisera ekonomin genom att stimulera efterfrågan under lågkonjunkturer och dämpa den under överhettning
+question: "Vilken är den viktiga skillnaden mellan att vara pro-business och att vara pro-market?"
+answer: "Att vara pro-business innebär att gynna en allians mellan stora företag och staten, medan att vara pro-market innebär att stödja fri konkurrens utan statlig favorisering"
 wrong_answers:
-  - Att helt eliminera fria marknadsmekanismer och ersätta dem med centraliserad statlig planering för alla ekonomiska sektorer
-  - Att upprätthålla en absolut laissez-faire-politik och låta marknaderna reglera sig själva utan någon som helst statlig inblandning
-  - Att uteslutande fokusera på att minska statens utgifter och skatter och samtidigt minimera alla former av engagemang från den offentliga sektorn
-explanation: |
-  Den keynesianska teorin representerar en centristisk "tredje väg" som förkastar både ren laissez-faire-kapitalism och fullständig statlig kontroll.
-  Keynes förespråkade ett aktivt statligt ingripande genom finanspolitik (utgifter och skatter) och penningpolitik (räntor) för att hantera ekonomiska cykler. Detta synsätt söker balans mellan marknadsfrihet och statlig styrning, stimulerar den samlade efterfrågan under nedgångar och begränsar den under ekonomisk överhettning, vilket förkroppsligar den centristiska filosofin om pragmatisk måttfullhet.
+  - "Att vara pro-business innebär att stödja småföretag, medan att vara pro-market innebär att stödja multinationella företag"
+  - "Att vara pro-business innebär att motsätta sig reglering helt och hållet, medan att vara pro-market innebär att acceptera måttlig reglering"
+  - "Att vara pro-business fokuserar på inhemsk industri, medan att vara pro-market fokuserar på internationell handel"
+explanation: >-
+  Centrister tenderar att vara pro-business, vilket betyder att de förespråkar ett slags allians mellan stora företag och staten, något som skiljer sig från att vara pro-market. Att vara pro-market innebär stöd för fri konkurrens utan statlig favorisering eller företagsprotektionism. Denna distinktion är avgörande eftersom pro-business-politik kan skapa monopol och regleringsskydd som faktiskt undergräver fri marknadskonkurrens.
+reviewed: false

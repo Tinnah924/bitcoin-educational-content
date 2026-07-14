@@ -1,9 +1,9 @@
-question: "Amerikan geleneksel muhafazakârlığının bireysel özgürlük ve toplumsal düzeni dengeleme yaklaşımını ayırt eden nedir?"
-answer: "Düzenli özgürlük kavramı aracılığıyla toplum ve birey isteklerini birleştirmeyi amaçlamaktadır"
+question: "Muhafazakârlık ekonomik ve toplumsal alanlardaki özgürlüklere nasıl yaklaşır?"
+answer: "Ekonomik alanda güçlü özgürlükler, ancak toplumsal alanda zayıf özgürlükler"
 wrong_answers:
-  - "Her türlü sosyal kısıtlama veya topluluk yükümlülüğü yerine tam bireysel özgürlüğe öncelik verir"
-  - "Katı sosyal hiyerarşileri ve geleneksel rolleri uygulamak için güçlü devlet müdahalesini savunur"
-  - "Her türlü ahlaki ve dini değeri reddederken sınırsız piyasa özgürlüğünü teşvik eder"
-explanation: |
-  Amerikan geleneksel muhafazakârlığı, özellikle 'düzenli özgürlük' arayışı ile karakterize edilir ve bu arayış, bazen
-  toplumun ihtiyaçları ile bireysel isteklerin, kişisel özgürlük ve sorumluluğun ve serbest piyasalar ile sınırlı hükümetin çelişen hedefleri. Bu da onu saf liberteryenizmden (sınırsız bireysel özgürlük), otoriterlikten (güçlü hükümet sosyal kontrolü) veya saf ekonomik liberalizmden (ahlaki kaygıları olmayan piyasalar) ayırır. Bu kavram, bireysel özgürlük ya da sosyal düzen konusunda aşırı bir pozisyondan ziyade sofistike bir dengeyi temsil etmektedir.
+  - "Geleneksel toplumsal düzeni korumak için hem ekonomik hem de toplumsal alanlarda zayıf özgürlükler"
+  - "Toplumsal alanda güçlü özgürlükler, ancak ekonomik alanda zayıf özgürlükler"
+  - "Her türden asgari devlet müdahalesiyle her iki alanda da eşit ve sınırsız özgürlükler"
+explanation: >-
+  Muhafazakârlık, sosyalizmin ayna görüntüsü olan bir ikilik sergiler. Ekonomik alanda muhafazakârlar serbest piyasayı, girişimciliği ve özel mülkiyeti savunur. Toplumsal alanda ise kısıtlamalar, geleneksel ahlaki normların ve toplumsal istikrarın korunmasıyla gerekçelendirilir. Üçüncü yanlış cevap, bunun karşıtı olan sosyalist örüntüyü betimler.
+reviewed: false

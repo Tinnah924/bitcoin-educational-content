@@ -1,8 +1,9 @@
-question: Prema tekstu, koji fundamentalni princip razlikuje koncept otvorenog društva Karla Poppera od zatvorenog društva?
-answer: Otvorena društva omogućavaju pojedincima da koriste kritičko rasuđivanje i ličnu odgovornost, dok zatvorena društva odbacuju individualnu slobodu kritike i spoljne razmene.
+question: "Koja je ključna razlika između pro-business i pro-market stava?"
+answer: "Zagovornici pro-business stava traže državnu intervenciju da zaštiti određene kompanije od propasti, dok zagovornici pro-market stava podržavaju deregulaciju i dopuštaju preduzećima da propadnu kako bi se tržište prirodno reorganizovalo"
 wrong_answers:
-  - Otvorena društva daju prioritet ekonomskoj slobodi i tržišnim mehanizmima, dok zatvorena društva naglašavaju državnu kontrolu nad proizvodnjom i distribucijom.
-  - Otvorena društva zasnivaju se na demokratskim sistemima glasanja i vladavini većine, dok se zatvorena društva oslanjaju na autoritarno vođstvo i hijerarhijske komandne strukture.
-  - Otvorena društva promovišu tehnološki napredak i naučni progres, dok zatvorena društva održavaju tradicionalne metode i opiru se inovacijama.
-explanation: |
-  Popperova distinkcija se fokusira na osnovni stav prema individualnom kritičkom razmišljanju i ličnom donošenju odluka. Otvorena društva karakteriše sposobnost pojedinaca da primenjuju kritičku prosudbu i ličnu odgovornost, prihvatajući promene, raznolikost i spoljne razmene. Zatvorena društva, nasuprot tome, odbacuju individualnu kritičku slobodu, plaše se promena i održavaju statične, plemenske mentalitete koji potiskuju individualnu odgovornost u korist kolektivnog konformizma i tradicionalnog poretka.
+  - "Zagovornici pro-business stava usredsređuju se na velike korporacije, dok se zagovornici pro-market stava usredsređuju isključivo na podršku malim preduzećima i startup-ima"
+  - "Pro-business je levičarski stav koji favorizuje radničke zadruge, dok je pro-market desničarski stav koji favorizuje privatno vlasništvo"
+  - "Zagovornici pro-business stava odbacuju svaku konkurenciju, dok zagovornici pro-market stava podržavaju državom regulisanu konkurenciju između odobrenih preduzeća"
+explanation: >-
+  Pro-business stav vidi konkurenciju kao instrument upravljanja dobijen kroz regulative i opravdava subvencije i spasavanje firmi da bi se sprečili gubici radnih mesta. U pro-business pogledu, tržište je krhko i potrebna mu je državna pomoć. Zagovornici pro-market stava vide konkurenciju kao prirodan rezultat slobodnog preduzetništva, što podrazumeva deregulaciju i dopuštanje preduzećima da propadnu, zato što propast omogućava tržištu da se prirodno reorganizuje i otvara prostor sposobnijim akterima.
+reviewed: false

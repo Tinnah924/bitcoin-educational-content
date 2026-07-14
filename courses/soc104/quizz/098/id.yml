@@ -1,9 +1,9 @@
-question: Menurut Manifesto Cypherpunk Eric Hughes, prinsip dasar apa yang membedakan cypherpunks dari mereka yang hanya mengharapkan perlindungan privasi?
-answer: Cypherpunks secara aktif menulis kode untuk membangun sistem anonim daripada menunggu institusi untuk memberikan privasi
+question: "Mengapa cypherpunk berargumen bahwa mata uang digital dengan sifat anonim diperlukan?"
+answer: "Karena uang tunai, sistem transaksi anonim utama, sedang menghilang dalam masyarakat digital, dan pengganti digital dengan sifat privacy yang sama harus diciptakan"
 wrong_answers:
-  - Cypherpunks berfokus pada lobi politik dan reformasi hukum untuk menetapkan hak-hak privasi melalui proses demokrasi
-  - Cypherpunks percaya untuk bekerja di dalam lembaga keuangan yang ada untuk secara bertahap meningkatkan perlindungan privasi mereka
-  - Cypherpunks memprioritaskan edukasi publik tentang risiko privasi daripada mengembangkan solusi teknis
-explanation: |
-  Manifesto tersebut secara eksplisit menyatakan 'Cypherpunks menulis kode' dan menekankan bahwa mereka tidak menemukan kenyamanan dalam harapan dan keinginan, tetapi secara aktif mengintervensi berbagai peristiwa.
-  Hughes berpendapat bahwa orang tidak dapat mengharapkan pemerintah, perusahaan, atau organisasi besar lainnya untuk menjamin privasi, sehingga cypherpunks harus membangun sistem kriptografi sendiri. Pendekatan teknis yang aktif melalui pengembangan kode ini membedakan mereka dari pendekatan pasif seperti melobi, bekerja di dalam sistem yang sudah ada, atau hanya mengedukasi orang lain tanpa menciptakan solusi teknologi yang konkret.
+  - "Karena sistem pembayaran digital yang ada terlalu lambat dan mahal, sehingga membutuhkan alternatif yang lebih cepat dan lebih murah untuk perdagangan online"
+  - "Karena pemerintah telah melarang semua bentuk transaksi anonim dan hanya teknologi baru yang dapat menghindari hukum-hukum ini"
+  - "Karena bank tradisional menolak melayani populasi tertentu, sehingga sistem pembayaran digital yang dapat diakses secara universal menjadi kebutuhan ekonomi"
+explanation: >-
+  Manifesto cypherpunk menyatakan bahwa kerahasiaan dalam masyarakat terbuka membutuhkan sistem transaksi anonim. Hingga era digital, uang tunai berfungsi sebagai sistem utama jenis ini. Namun dalam masyarakat digital tempat uang tunai menghilang, mata uang digital dengan sifat anonimitas yang sama harus diciptakan. Visi ini secara langsung mengantisipasi apa yang akan dicapai Bitcoin.
+reviewed: false

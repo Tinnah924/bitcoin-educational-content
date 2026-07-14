@@ -1,8 +1,9 @@
-question: Upande wa kulia wa mhimili wa kiuchumi (kuelekea 100) unawakilisha nini katika mchoro wa kisiasa wenye pande mbili?
-answer: Upendeleo kwa uhuru wa kiuchumi bila kuingilia kati kwa serikali, kodi ndogo, na masoko huru
+question: "Ni watu gani mashuhuri wanaohusishwa na uhuru mkubwa zaidi wa kiuchumi kwenye mchoro wa Nolan?"
+answer: "Margaret Thatcher, Ronald Reagan, na Javier Milei"
 wrong_answers:
-  - Upendeleo kwa uingiliaji kati mkali wa serikali na kodi kubwa na huduma kubwa za umma
-  - Upendeleo kwa uhuru wa mtu binafsi na uvumilivu katika masuala ya kibinafsi na kijamii
-  - Upendeleo kwa maadili ya kitamaduni, utaratibu, na usalama unaotekelezwa na serikali
-explanation: |
-  Upande wa kulia wa mhimili wa kiuchumi unawakilisha uhuru wa kiuchumi, unaoonyeshwa na uingiliaji mdogo wa serikali katika uchumi, kanuni zilizopunguzwa, kodi za chini, na uhuru mkubwa kwa biashara na watu binafsi kuzalisha, kubadilishana, na kutumia. Msimamo huu unasisitiza masoko huria, mali binafsi, na ushindani kama vichocheo vya ustawi. Chaguzi zingine zinaelezea upande wa kushoto wa mhimili wa kiuchumi (uingiliaji mkali wa serikali) au nafasi kwenye mhimili wa uhuru wa kibinafsi (uhuru wa mtu binafsi au maadili ya kitamaduni), ambayo ni vipimo tofauti katika mfumo huu wa kisiasa.
+  - "Franklin D. Roosevelt, Jean Jaures, na Bernie Sanders"
+  - "Nelson Mandela, Simone Veil, na Noam Chomsky"
+  - "Vladimir Putin, Xi Jinping, na Joseph de Maistre"
+explanation: >-
+  Thatcher, Reagan, na Milei wanatajwa kama watu mashuhuri wa uhuru mkubwa zaidi wa kiuchumi, wakipendelea uingiliaji mdogo wa dola, kanuni chache zaidi, na kodi za chini zaidi. Roosevelt, Jaures, na Sanders wanawakilisha ncha iliyo kinyume inayopendelea udhibiti wa dola juu ya uchumi. Mandela, Veil, na Chomsky wanawakilisha uhuru mkubwa zaidi wa binafsi. Putin, Xi Jinping, na de Maistre wanawakilisha udhibiti mkubwa zaidi wa dola juu ya maisha ya binafsi.
+reviewed: false

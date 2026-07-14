@@ -1,11 +1,9 @@
-question: Bu bölüme göre, geleneksel sol-sağ siyasi yelpazenin temel sorunu nedir?
-answer: Ne solcu eşitlikçiliğe ne de sağcı milliyetçiliğe uyan klasik liberal düşünceye yer bırakmıyor
+question: "İtibari para sistemi yönetenler ile yönetilenler arasındaki ayrımı nasıl güçlendirir?"
+answer: "Hükümetlerin para yaratımı yoluyla sınırsız harcamayı finanse etmesine olanak tanır; bu da tasarrufları enflasyon yoluyla değersizleştirir"
 wrong_answers:
-  - Herhangi bir ılımlı veya merkezci seçenek olmaksızın sadece iki aşırı pozisyona sahip olarak siyaseti aşırı basitleştiriyor
-  - Modern demokrasilerdeki sosyalist ve kapitalist ideolojiler arasındaki ekonomik farklılıkları açıklamakta başarısız olmaktadır
-  - Demokratik ve otoriter hükümet yapıları arasında doğru bir ayrım yapmamaktadır
-explanation: |
-  Bu bölümde özellikle sol-sağ ekseninin klasik liberal düşünceyi barındıramayacağı, bunun da eşitlikçilikle uyuşmadığı belirtilmektedir
-  solun ya da sağın milliyetçiliği. Bu durum Thomas Jefferson, Frédéric Bastiat ve çağdaş milliyetçilik gibi figürler üzerinden örneklendirilmektedir
-  her iki kategoriye de tam olarak uymayan liberteryenler. Diğer seçenekler, siyasi spektrumların sınırlamalarına değinmekle birlikte, belirli
-  bu bölümde klasik liberalizmin bu çerçevenin dışında tutulmasına yönelik eleştiri yapılmıştır.
+  - "Vatandaşlara demokratik seçimler ve referandumlar yoluyla para politikası üzerinde doğrudan denetim verir"
+  - "Hükümetlerin borçlanmasını engeller ve onları gelir için yalnızca vergilendirmeye dayanmaya zorlar"
+  - "Ekonomik büyümeyi teşvik etmek için yeni yaratılan parayı tüm vatandaşlar arasında eşit biçimde dağıtır"
+explanation: >-
+  İtibari para, hükümetlerin borçlanmasına ve bankaları yeni para basmaya itmesine olanak tanıdığı için devlet gücünün genişlemesinin temel taşı olarak tanımlanır. Ortaya çıkan enflasyon insanların tasarruflarını değersizleştirir ve en varlıklı, en güçlü yapılara fayda sağlar. Vatandaşlara parasal denetim vermez; borçlanmayı engellemez ya da parayı eşit dağıtmaz.
+reviewed: false

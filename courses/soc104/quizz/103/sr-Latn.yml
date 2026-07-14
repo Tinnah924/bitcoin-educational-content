@@ -1,8 +1,9 @@
-question: Prema libertarijanskoj filozofiji, osnovna razlika između državnog novca (fiat) i tržišnog novca poput Bitcoin u smislu društvene organizacije leži u načinu kontrole i emisije novca. Državni novac izdaje i kontroliše centralna vlast, što može dovesti do inflacije i manipulacije ekonomijom. S druge strane, tržišni novac kao Bitcoin nastaje kroz slobodno tržište i decentralizovane procese, što omogućava veću transparentnost i stabilnost, jer njegova vrednost zavisi od ponude i potražnje bez intervencije države.
-answer: Državni novac predstavlja prisilnu centralizaciju dok tržišni novac proizlazi iz dobrovoljnih decentralizovanih interakcija
+question: "Ko je pokrenuo prvu sajferpank mejling listu 1992. godine?"
+answer: "Tim May i Eric Hughes, koji su stvorili platformu koja je postala nervni centar pokreta"
 wrong_answers:
-  - Državni novac omogućava demokratsku kontrolu dok tržišni novac stvara oligarhijsku koncentraciju bogatstva
-  - Državni novac osigurava ekonomsku stabilnost dok tržišni novac uvodi opasnu volatilnost i spekulacije.
-  - Državni novac omogućava preraspodelu socijalne pomoći dok tržišni novac sprečava mehanizme kolektivne solidarnosti
-explanation: |
-  Tekst utvrđuje da libertarijanska filozofija vidi osnovnu političku podelu kao podelu između prinude naspram dobrovoljnog pristanka, i centralizacije naspram decentralizacije. Državni novac (fiat) je opisan kao prinudni, centralizovani sistem koji može lako biti stvoren i manipulisan od strane male manjine, što predstavlja nametanje političke kontrole nad monetarnim odlukama. Nasuprot tome, tržišni novac poput Bitcoin spontano nastaje iz dobrovoljnih interakcija, decentralizovan je i omogućava pojedincima da donose sopstvene monetarne odluke bez državne prinude. Druge opcije pogrešno predstavljaju libertarijansku perspektivu fokusirajući se na tradicionalne levo-desne političke brige umesto na osnovni princip dobrovoljne naspram prinudne organizacije.
+  - "Satoshi Nakamoto i Hal Finney, koji su kasnije zajedno stvorili Bitcoin 2008. godine"
+  - "Julian Assange i Edward Snowden, koji su koristili listu za koordinaciju aktivnosti uzbunjivanja protiv vlade"
+  - "Phil Zimmermann i Bruce Schneier, koji su dizajnirali listu kao alat za distribuciju softvera za enkripciju"
+explanation: >-
+  Godine 1992, Tim May i Eric Hughes pokrenuli su prvu sajferpank mejling listu. Ova platforma je brzo postala nervni centar pokreta, okupljajući programere, kriptografe i zagovornike digitalne slobode. Upravo na toj istoj listi Satoshi Nakamoto će kasnije prvi put podeliti Belu knjigu Bitcoin-a 2008. godine.
+reviewed: false

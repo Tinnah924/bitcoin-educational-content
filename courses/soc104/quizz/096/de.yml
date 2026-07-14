@@ -1,9 +1,9 @@
-question: Welches ist laut Eric Hughes' Cypherpunk Manifest die wichtigste Methode, die Cypherpunks anwenden sollten, um ihre Ziele von Privatsphäre und Freiheit zu erreichen?
-answer: Code schreiben, um kryptografische Systeme zu entwickeln, die politische Trennungen irrelevant machen
+question: "Was ist die Kernbotschaft von Eric Hughes' Cypherpunk-Manifest von 1993 in Bezug auf Privatsphäre?"
+answer: "Privatsphäre ist für eine offene Gesellschaft im elektronischen Zeitalter wesentlich, und Individuen müssen sie selbst aufbauen, statt zu erwarten, dass Regierungen oder Unternehmen sie garantieren"
 wrong_answers:
-  - Lobbyarbeit bei Regierungen zur Verabschiedung strengerer Gesetze und Vorschriften zum Schutz der Privatsphäre
-  - Organisation von Massenprotesten und Aktionen des zivilen Ungehorsams gegen Überwachung
-  - Schaffung von Bildungsprogrammen zur Sensibilisierung der Öffentlichkeit für die Rechte der digitalen Privatsphäre
-explanation: |
-  Eric Hughes erklärte ausdrücklich "Cypherpunks schreiben Code" als ihren grundlegenden Ansatz. Das Manifest betont, dass Cypherpunks sich nicht mit Hoffnungen und Wünschen trösten, sondern aktiv eingreifen, indem sie durch Kryptographie anonyme Systeme aufbauen.
-  Dadurch werden abstrakte Ideen von Freiheit in konkrete wirtschaftliche und gesellschaftliche Realität umgewandelt, wodurch politische Trennungen willkürlich und unnötig werden. Die anderen Optionen stehen für traditionellen politischen Aktivismus, der der Cypherpunk-Philosophie widerspricht, die technologische Lösungen über institutionelle Reformen stellt.
+  - "Privatsphäre ist ein Luxus, der im Austausch für nationale Sicherheit und den Schutz demokratischer Institutionen geopfert werden muss"
+  - "Privatsphäre sollte durch internationale Verträge reguliert werden, die einheitliche Standards für Datenschutz in allen Ländern festlegen"
+  - "Privatsphäre ist nur für Kriminelle und Dissidenten wichtig, während gesetzestreue Bürger von transparenten Überwachungssystemen profitieren"
+explanation: >-
+  Eric Hughes' Manifest von 1993 erklärt, dass Privatsphäre für eine offene Gesellschaft im elektronischen Zeitalter wesentlich ist und dass wir nicht erwarten können, dass Regierungen, Unternehmen oder andere große Organisationen sie garantieren. Die grundlegende Motivation ist, dass Vertraulichkeit ein Schlüsselelement der Freiheit ist und von Individuen selbst aufgebaut werden muss, nicht als Geschenk von Institutionen erwartet werden darf.
+reviewed: false

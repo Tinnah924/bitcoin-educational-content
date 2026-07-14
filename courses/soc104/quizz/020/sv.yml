@@ -1,9 +1,9 @@
-question: Enligt diamantmodellen, vad är den viktigaste skillnaden mellan vänster- och högerorienterade statister?
-answer: De vill båda använda regeringsmakten, men för olika värden och prioriteringar
+question: "Vad är kulturell konservatism?"
+answer: "En personlig anslutning till familjära, moraliska, estetiska och metafysiska värden som ärvts från det förflutna, inte en politisk filosofi"
 wrong_answers:
-  - Vänsterorienterade statister vill ha mer stat medan högerorienterade statister vill ha mindre stat
-  - Statister på högerkanten stöder ekonomisk frihet medan statister på vänsterkanten motsätter sig alla friheter
-  - Vänsterorienterade statister är liberala medan högerorienterade statister per definition är konservativa
-explanation: |
-  Kapitlet förklarar att både vänster och höger är former av statism - de vill båda använda regeringsmakten för att införa sin vision i samhället.
-  Skillnaden ligger i deras prioriteringar: högerstatsanhängare fokuserar på att lagstifta om moral och traditioner samtidigt som de tillåter viss ekonomisk frihet, medan vänsterstatsanhängare prioriterar social rättvisa och omfördelning av rikedomar samtidigt som de är mindre bekymrade över traditionella moraliska krav. Båda strävar i slutändan efter att kontrollera samhället genom lagstiftning, vilket gör dem till olika typer av statister snarare än motsatser på ett enkelt vänster-högerspektrum.
+  - "En politisk ideologi som använder statsmakt för att genom lagstiftning påtvinga traditionella värden på hela samhället"
+  - "En rörelse som avvisar alla former av modernitet och försöker återföra samhället till ett förindustriellt levnadssätt"
+  - "En ekonomisk doktrin som skyddar nationella industrier och motsätter sig frihandel med främmande länder"
+explanation: >-
+  Kulturell konservatism definieras som en livsvisdom: den personliga anslutningen till familjära, moraliska, estetiska och metafysiska värden som ärvts från det förflutna, vare sig de är grekisk-romerska eller judisk-kristna. Den är uttryckligen inte en politisk filosofi. Den skiljer sig från politisk konservatism, som syftar till att bevara politiska institutioner och social ordning genom statsmakt. Den handlar inte heller om att avvisa modernitet eller om ekonomisk protektionism.
+reviewed: false

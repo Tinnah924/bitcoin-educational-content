@@ -1,10 +1,9 @@
-question: Theo biểu đồ Nolan, hai trục nào được sử dụng để biểu thị các hệ tư tưởng chính trị?
-answer: Tự do kinh tế và tự do cá nhân
+question: "Trong hình thoi Nolan, vị trí nào nằm ở đỉnh và đại diện cho tự do tối đa?"
+answer: "Chủ nghĩa tự do cá nhân (libertarianism), ủng hộ mức độ tự do kinh tế và cá nhân lớn nhất"
 wrong_answers:
-  - Chính trị cánh tả và chính trị cánh hữu
-  - Chủ nghĩa xã hội và chủ nghĩa tư bản
-  - Dân chủ và chủ nghĩa độc tài
-explanation: |
-  Biểu đồ Nolan sử dụng hai chiều: tự do kinh tế và tự do cá nhân, tạo ra một phổ chính trị tinh tế hơn so với trục trái-phải truyền thống.
-  
-  Cách tiếp cận hai chiều này cho phép định vị tốt hơn các hệ tư tưởng khác nhau như chủ nghĩa tự do (tự do kinh tế và cá nhân cao), chủ nghĩa xã hội (tự do kinh tế thấp, tự do cá nhân cao) và chủ nghĩa bảo thủ (tự do kinh tế cao, tự do cá nhân thấp). Trục trái-phải truyền thống được Nolan cho là không đủ vì nó không thể nắm bắt được sự phức tạp của các lập trường chính trị, đặc biệt là vị trí của chủ nghĩa tự do cổ điển trong bối cảnh chính trị.
+  - "Chủ nghĩa bảo thủ, ủng hộ các giá trị truyền thống và tự do kinh tế"
+  - "Chủ nghĩa trung dung, cân bằng mọi lập trường chính trị theo cách thực dụng"
+  - "Chủ nghĩa xã hội, ủng hộ tự do cá nhân và bình đẳng xã hội"
+explanation: >-
+  Chủ nghĩa tự do cá nhân (libertarianism) chiếm đỉnh của hình thoi Nolan với tư cách là mặt đối lập của chủ nghĩa nhà nước. Nó đại diện cho những người ủng hộ mức độ lớn nhất của cả tự do kinh tế lẫn tự do cá nhân. Chủ nghĩa bảo thủ nằm bên phải (tự do kinh tế cao, tự do cá nhân thấp), chủ nghĩa xã hội nằm bên trái (tự do cá nhân cao, tự do kinh tế thấp), và chủ nghĩa trung dung ở giữa.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Menurut sudut pandang ekonom Austria Ludwig von Mises tentang individualisme metodologis, apa batasan mendasar dalam mengaitkan tindakan dengan entitas kolektif?
-answer: Hanya individu yang memiliki kapasitas untuk berpikir, bernalar, dan bertindak, membuat entitas kolektif hanya abstraksi tanpa eksistensi atau realitas yang independen
+question: "Apa argumen fundamental Hayek tentang mengapa perencanaan pusat gagal?"
+answer: "Pengetahuan hanya ada sebagai fragmen tersebar yang dimiliki oleh individu-individu berbeda dan tidak dapat dikonsentrasikan atau diintegrasikan oleh otoritas pusat"
 wrong_answers:
-  - Entitas kolektif dapat berpikir dan bertindak, tetapi keputusan mereka selalu lebih rendah daripada pilihan individu karena ketidakefisienan demokrasi
-  - Entitas kolektif memiliki sifat-sifat yang muncul yang melampaui kemampuan individu tetapi tidak memiliki otoritas moral untuk mengesampingkan otonomi pribadi
-  - Entitas kolektif dapat membuat keputusan yang rasional melalui kebijaksanaan yang terkumpul, namun harus dibatasi oleh batasan konstitusional yang melindungi hak-hak individu
-explanation: |
-  Individualisme metodologis Mises menyatakan bahwa 'hanya individu yang berpikir, hanya individu yang bernalar, hanya individu yang bertindak' Ini berarti entitas kolektif tidak memiliki eksistensi atau realitas di luar tindakan individu-individu anggotanya. Masyarakat tidak memiliki kehendak atau pemikirannya sendiri - semua tindakan kolektif harus dijelaskan melalui komponen-komponen individualnya. Pilihan lain secara keliru mengasumsikan bahwa entitas kolektif memiliki suatu bentuk pemikiran independen atau kapasitas pengambilan keputusan, yang bertentangan dengan premis fundamental Mises bahwa hanya individu yang dapat benar-benar berpikir dan bertindak.
+  - "Perencana pusat secara moral korup dan selalu bertindak demi kepentingan diri sendiri alih-alih kebaikan publik"
+  - "Institusi demokratis terlalu lambat merespons perubahan ekonomi, sehingga keputusan tersentralisasi selalu ketinggalan zaman"
+  - "Perencanaan pusat gagal karena warga sengaja menolak mandat pemerintah dan menolak mematuhi regulasi"
+explanation: >-
+  Argumen fundamental Hayek bertumpu pada sifat informasi. Ia menunjukkan bahwa pengetahuan tidak pernah ada dalam bentuk terkonsentrasi atau terintegrasi, melainkan hanya sebagai fragmen tersebar yang dimiliki oleh semua individu berbeda. Nilai bersifat subjektif dan hanya diketahui secara lokal serta tidak lengkap. Perencana pusat, yang duduk di kantor, tidak memiliki pengetahuan tentang harga sebenarnya dari berbagai hal karena ia tidak terlibat dalam interaksi dan pertukaran.
+reviewed: false

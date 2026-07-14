@@ -1,9 +1,9 @@
-question: Ni uwuhe muryango wa politike woshobora gushigikira cane uburyo bwo kwivuza buvanze bufise ubuvuzi bw’ishimikiro bwose butangwa na Leta mu gihe wemerera abikorera ku giti cabo kugira uruhara mu bikorwa vy’inyongera?
-answer: Abanyapolitike bo hagati, bashigikiye uburyo buringaniye buhuza uburenganzira bwo kuronka uburenganzira ku bantu bose bushingiye kuri Leta n’ubuhinga bushasha n’uguhitamwo kw’abikorera ku giti cabo
+question: "Mu biganiro bitanu vyose vy'ubukungu (amakori, umushahara fatizo, ubuvuzi, ibidukikije, imfashanyo za Leta), ni uburyo ubuhe budahinduka butandukanya uburyo bw'abari hagati n'ibibanza vy'iyindi miryango ya politike?"
+answer: "Abari hagati baranka kwiyemeza ku ngingo ngenderwako idahinduka, ahubwo bagasaba isesengura rishingiye ku bimenyamenya n'isuzuma ry'abahinga kugira bamenye politiki ikwiye ku kibazo ku kindi, bigatuma uburyo bwabo bushingira ku bubasha bw'abahinga"
 wrong_answers:
-  - Abasosiyalisiti, bavuganira ko ubuvuzi bwose bugenzurwa na Leta nk’uburenganzira bw’ishimikiro butajanye n’amahera umuntu aronka .
-  - Abanyagihugu b’abanyagihugu, bemera ko ubuvuzi bukwiye guhindurwa ubw’abantu ku giti cabo nk’ibikorwa vy’isoko bifise amahitamwo n’inshingano z’umuntu ku giti ciwe
-  - Abanyagihugu bakunda ivy’ubuhinga bwa none, bakunda canecane amasoko yigenga Leta itagira ico ikora ku benegihugu bakeneye cane
-explanation: |
-  Abanyapolitike b’abanyagihugu barashigikira mu buryo butomoye uburyo buvanze buhuza uburyo bwiza bwo gukora, uburyo bwa Leta n’ubw’abikorera ku giti cabo. Bashigikira uburenganzira bwo gushika ku bantu bose (gutuma haba ubumwe n’ugushikira abantu bose) mu gihe bemerera urwego rw’abikorera ku giti cabo kugira uruhara mu guhindura ibintu no gukora ibintu bishasha. 
-  Ivyo bitandukanye n’abasosiyalisiti bashaka uburyo bwa Leta bushitse, aba Libertarien bashaka amasoko y’abikorera ku giti cabo, n’aba Conservateurs bakunda cane cane uburyo bw’abikorera ku giti cabo bufise uruhara rutoyi rwa Leta.
+  - "Abari hagati bama bafata ikibanza co hagati hagati y'ibibanza vy'abasosiyalisite n'abakonservateur, bagabura itandukaniro ku kibazo cose ku rugero rungana"
+  - "Abari hagati baguma bashira imbere iterambere ry'ubukungu kuruta imibereho myiza y'ikibano, bakemeranya n'aba-libertarian ku politiki y'amahera ya Leta mu gihe bemeranya n'abasosiyalisite ku gutunganya"
+  - "Abari hagati basigira ingingo zose z'ubukungu amashirahamwe mpuzamakungu n'amasezerano y'ubudandaji aho gufata politiki yigenga y'igihugu"
+explanation: >-
+  Mu biganiro bitanu vyose vy'ubukungu, uburyo bw'abari hagati bukurikira ishusho imwe: aho kwiyemeza ku ngingo ngenderwako idahinduka y'iciyumviro ca politike, abari hagati basaba ibimenyamenya biva mu bushakashatsi n'isuzuma ry'abahinga imbere yo gufata ingingo. Ku makori, urugero rubereye rutegerezwa kugenwa n'isesengura. Ku mushahara fatizo, urugero rutegerezwa guhindurwa mu buryo ngirakamaro. Ku buvuzi, uburyo buvanze buringanijwe n'abahinga ni bwo bwiza. Ku bidukikije, politiki itegerezwa kuringaniza ubushobozi bwo guhiganwa. Ku mfashanyo za Leta, ikibazo cose gitegerezwa gusuzumwa hisunzwe agaciro kaco. Ivyo bituma uburyo bw'abari hagati bushingira ku bubasha bw'abahinga, bikaba bitandukanye no kugabura gusa itandukaniro canke kwisunga amashirahamwe mpuzamakungu.
+reviewed: false

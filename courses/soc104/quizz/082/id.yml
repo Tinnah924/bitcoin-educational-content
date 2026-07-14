@@ -1,8 +1,9 @@
-question: Menurut teori Hayek tentang pengetahuan yang tersebar, mengapa ekonomi yang direncanakan secara terpusat gagal mengalokasikan sumber daya secara efisien dibandingkan dengan sistem pasar bebas?
-answer: Perencana pusat tidak dapat mengakses pengetahuan yang terfragmentasi dan terlokalisasi yang dimiliki oleh setiap orang tentang kebutuhan, preferensi, dan keadaan mereka yang spesifik, sehingga alokasi sumber daya yang optimal menjadi tidak mungkin dilakukan.
+question: "Apa ketidaksepakatan utama antara kaum libertarian dan keluarga politik lain ketika mereka berbagi tujuan yang sama?"
+answer: "Ketidaksepakatan itu mengenai sarana: kaum libertarian menolak solusi koersif dan memilih pertukaran sukarela melalui proses pasar"
 wrong_answers:
-  - Para perencana pusat tidak memiliki daya komputasi yang memadai dan algoritme yang canggih untuk memproses semua data ekonomi yang dibutuhkan untuk membuat keputusan alokasi sumber daya yang optimal.
-  - Para perencana di tingkat pusat pada dasarnya korup dan mementingkan diri sendiri, memprioritaskan kesejahteraan mereka sendiri di atas kebutuhan masyarakat ketika membuat keputusan ekonomi.
-  - Para perencana pusat terlalu fokus pada tujuan strategis jangka panjang dan mengabaikan kebutuhan dan preferensi konsumsi individu.
-explanation: |
-  Wawasan utama Hayek adalah bahwa pengetahuan hanya ada sebagai 'fragmen-fragmen yang tersebar dari pengetahuan yang tidak lengkap dan sering kali saling bertentangan yang dimiliki oleh semua individu yang berbeda Sistem harga pasar berfungsi sebagai mekanisme penemuan yang memobilisasi pengetahuan yang tersebar ini melalui pertukaran sukarela. Para perencana pusat, terlepas dari niat atau kemampuan mereka, tidak dapat mengakses informasi subyektif dan terlokalisasi yang dimiliki oleh setiap orang tentang biaya, manfaat, dan preferensi. Hal ini menciptakan 'masalah pengetahuan' mendasar yang membuat perencanaan pusat secara inheren tidak efisien dibandingkan dengan koordinasi pasar yang spontan.
+  - "Ketidaksepakatan itu mengenai tujuan akhir: kaum libertarian mengejar tujuan yang berbeda seperti kekayaan individu alih-alih kesejahteraan sosial"
+  - "Ketidaksepakatan itu mengenai waktu: kaum libertarian ingin mencapai tujuan yang sama secara lebih lambat melalui reformasi bertahap"
+  - "Ketidaksepakatan itu mengenai cakupan: kaum libertarian ingin menerapkan kebijakan yang sama hanya pada tingkat lokal alih-alih nasional"
+explanation: >-
+  Kaum libertarian dapat sepakat dengan sosialis, konservatif, dan sentris mengenai tujuan tertentu seperti membela yang tertindas atau mempromosikan kohesi sosial. Ketidaksepakatan tidak terletak pada tujuan akhir melainkan pada sarana. Kaum libertarian menolak semua solusi koersif yang berupaya menyeragamkan praktik dan regulasi, dan sebaliknya membela kekuatan pilihan serta kebebasan yang bertanggung jawab melalui pertukaran bebas dan terdesentralisasi yang berlandaskan kontrak sukarela.
+reviewed: false

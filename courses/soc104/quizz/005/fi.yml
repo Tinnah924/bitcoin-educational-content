@@ -1,11 +1,9 @@
-question: Mikä on luvun mukaan perinteisen vasemmisto-oikeistopoliittisen spektrin suurin ongelma?
-answer: Se ei jätä tilaa klassiselle liberaalille ajattelulle, joka ei sovi yhteen vasemmistolaisen egalitarismin eikä oikeistolaisen nationalismin kanssa
+question: "Miten fiat-rahajärjestelmä vahvistaa jakoa hallitsijoiden ja hallittujen välillä?"
+answer: "Se antaa valtioille mahdollisuuden rahoittaa rajatonta kulutusta rahanluonnilla, joka heikentää säästöjen arvoa inflaation kautta"
 wrong_answers:
-  - Se yksinkertaistaa liikaa politiikkaa, koska siinä on vain kaksi äärimmäistä kantaa ilman maltillisia tai keskustalaisia vaihtoehtoja
-  - Se ei ota huomioon sosialististen ja kapitalististen ideologioiden välisiä taloudellisia eroja nykyaikaisissa demokratioissa
-  - Siinä ei tehdä kunnolla eroa demokraattisten ja autoritaaristen hallintorakenteiden välillä
-explanation: |
-  Luvussa todetaan nimenomaan, että vasemmisto-oikeisto -akselille ei mahdu klassinen liberaali ajattelu, joka ei sovi yhteen egalitaristisen ajattelun kanssa
-  vasemmiston eikä oikeiston nationalismin kanssa. Tätä havainnollistetaan esimerkkien avulla, joita ovat esimerkiksi Thomas Jefferson, Frédéric Bastiat ja nykyajan
-  libertaareista, jotka eivät sovi kumpaankaan kategoriaan. Muut vaihtoehdot, jotka koskevat poliittisten spektrien rajoituksia, eivät kuitenkaan tavoita erityisiä poliittisia näkemyksiä
-  luvussa esitettyä kritiikkiä siitä, että klassinen liberalismi on jätetty tämän kehyksen ulkopuolelle.
+  - "Se antaa kansalaisille suoran määräysvallan rahapolitiikkaan demokraattisten vaalien ja kansanäänestysten kautta"
+  - "Se estää valtioita ottamasta lainaa ja pakottaa ne turvautumaan tuloissaan yksinomaan verotukseen"
+  - "Se jakaa vastaluodun rahan tasaisesti kaikille kansalaisille talouskasvun elvyttämiseksi"
+explanation: >-
+  Fiat-valuuttaa kuvataan valtiovallan laajentumisen kulmakiveksi, koska se antaa valtioille mahdollisuuden lainata ja painostaa pankkeja painamaan uutta rahaa. Tästä seuraava inflaatio heikentää ihmisten säästöjen arvoa ja hyödyttää varakkaimpia ja vaikutusvaltaisimpia toimijoita. Se ei anna kansalaisille rahapoliittista määräysvaltaa, eikä se estä lainanottoa tai jaa rahaa tasaisesti.
+reviewed: false

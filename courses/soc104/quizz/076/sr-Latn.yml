@@ -1,8 +1,9 @@
-question: Prema analizi Gustava Molinarija u 'Les Soirées de la rue Saint Lazare' (srp. Večeri u ulici Saint Lazarus), osnovna sličnost između konzervativaca i socijalista koja ih razlikuje od libertarijanaca je njihova sklonost ka upotrebi državne moći za postizanje svojih ciljeva, dok libertarijanci zagovaraju minimalnu ulogu države i maksimalnu individualnu slobodu.
-answer: I konzervativci i socijalisti nastoje da nametnu svoju viziju društva kroz intervenciju države, uprkos tome što imaju različite vizije.
+question: "U dijalozima Gustava de Molinarija iz 1849. godine, koji lik brani slobodu kao fundamentalni princip umesto da je podređuje drugim ciljevima?"
+answer: "Ekonomista, koji slobodu tretira kao princip koji nije podređen nijednom drugom cilju"
 wrong_answers:
-  - I konzervativci i socijalisti gledaju na slobodu kao na apsolutni princip, a ne kao na pitanje prilike ili pragmatizma.
-  - I konzervativci i socijalisti odbacuju koncept privatne svojine i zalažu se za kolektivno vlasništvo nad resursima.
-  - I konzervativci i socijalisti podržavaju minimalnu intervenciju vlade i preferiraju rešenja za društvene probleme zasnovana na tržištu.
-explanation: |
-  Ključni uvid Molinarija bio je da, uprkos njihovim očiglednim ideološkim razlikama, konzervativci i socijalisti dele zajednički pristup: oboje koriste državnu moć da nametnu svoje vizije o tome kako društvo treba da bude organizovano. Konzervativci žele da očuvaju tradicionalne strukture putem državnog sprovođenja, dok socijalisti žele da preoblikuju društvo prema svojim idealima, takođe kroz državnu akciju. Ovo je u oštrom kontrastu sa libertarijancima, koji se protive korišćenju državne moći za nametanje bilo koje posebne društvene vizije i umesto toga zagovaraju maksimiziranje individualne slobode i minimiziranje državne intervencije.
+  - "Socijalista, koji brani slobodu kroz progresivne reforme usmerene na društvenu jednakost"
+  - "Konzervativac, koji podržava slobodu očuvanjem tradicionalnog društvenog poretka i stabilnosti"
+  - "Sva tri lika jednako brane slobodu, ali se ne slažu oko toga kako je sprovesti"
+explanation: >-
+  U Molinarijevim dijalozima iz Les Soirees de la rue Saint-Lazare, ekonomista je u trajnom neslaganju i sa socijalistom i sa konzervativcem. On je jedini koji brani slobodu kao fundamentalni princip. Socijalista podređuje slobodu progresivnim idealima, a konzervativac je podređuje očuvanju poretka, što ekonomistu čini jedinstvenim u njegovoj bezuslovnoj odbrani slobode.
+reviewed: false

@@ -1,9 +1,9 @@
-question: İki boyutlu siyasi diyagramda ekonomik eksenin sağ tarafı (100'e doğru) neyi temsil ediyor?
-answer: Daha az devlet müdahalesi, daha düşük vergiler ve serbest piyasalar ile ekonomik özgürlük tercihi
+question: "Nolan diyagramında kişisel özgürlük ekseninin altını ne karakterize eder?"
+answer: "Düzen, güvenlik, geleneksel değerler ve devletin ahlakı düzenleyip kamu düzenini koruması tercihi"
 wrong_answers:
-  - Yüksek vergi ve düzenlemelerle ekonomiye güçlü devlet müdahalesi tercihi
-  - Bireysel kişisel özgürlükler ve asgari ahlaki kısıtlamalarla toplumsal hoşgörü tercihi
-  - Devlet tarafından uygulanan ahlaki standartlar ile geleneksel değerler, düzen ve güvenlik tercihi
-explanation: |
-  Ekonomik eksenin sağ tarafı, ekonomiye minimum devlet müdahalesi, daha düşük düzenlemeler ve vergilerle karakterize edilen ekonomik özgürlüğü temsil eder,
-  ve serbest piyasalara, özel mülkiyete ve rekabete vurgu yapar. Bu, güçlü devlet ekonomik müdahalesini destekleyen sol tarafla tezat oluşturmaktadır. Diğer seçenekler ya sol ekonomik pozisyonu ya da kişisel özgürlükler eksenindeki pozisyonları tanımlamaktadır (bireysel özgürlük için üst, geleneksel düzen için alt).
+  - "Bireysel özerklik, hoşgörü ve kişisel yaşam tercihlerinde asgari devlet müdahalesi tercihi"
+  - "Ekonomik düzenlemelerin azaltılması, serbest ticaret ve gümrük tarifeleri ile sübvansiyonların kaldırılması tercihi"
+  - "Servetin yeniden dağıtımı, yüksek vergiler ve kilit sektörlerin millileştirilmesi tercihi"
+explanation: >-
+  Kişisel özgürlük ekseninin altı, düzen, güvenlik ve geleneksel değerler tercihiyle karakterize edilen, kişisel yaşam üzerinde azami devlet denetimini temsil eder. Devlet ahlakı düzenler, kamu düzenini korur ve belirli bir ahlak ya da gelenek vizyonunu savunabilir. Eksenin üstü bunun karşıtını temsil eder: bireysel özgürlük ve hoşgörü. Ekonomi politikaları ayrı yatay eksende ölçülür.
+reviewed: false

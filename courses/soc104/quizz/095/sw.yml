@@ -1,10 +1,9 @@
-question: Kulingana na falsafa ya Satoshi Nakamoto, ni tatizo lipi la msingi kuhusu sarafu za kawaida ambalo Bitcoin ilibuniwa kutatua?
-answer: Uaminifu mkubwa unaohitajika katika taasisi kuu ambazo kihistoria zimekiuka uaminifu huo kupitia kushushwa kwa sarafu
+question: "Bitcoin hufanyaje kazi kama mradi wa kimaadili wenye matokeo ya kisiasa badala ya mradi wa kisiasa wenye madai ya kimaadili?"
+answer: "Bitcoin iliundwa kuwafanya watu wawe huru badala ya matajiri, kwa kuwezesha umiliki halisi, kulinda thamani ya kazi, na kuhifadhi faragha, ambayo ni mafanikio ya kimaadili yanayozalisha athari za kisiasa bila kudai kambi yoyote ya kisiasa"
 wrong_answers:
-  - Ukosefu wa miundombinu ya kidijitali na kasi ya polepole ya usindikaji wa miamala katika mifumo ya benki ya jadi
-  - Ada kubwa za miamala na ufikiaji mdogo wa uhamishaji pesa wa kimataifa kupitia benki
-  - Athari za kimazingira na matumizi ya nishati ya mifumo ya jadi ya benki na usindikaji wa malipo
-explanation: |
-  Satoshi Nakamoto alisema waziwazi kwamba 'tatizo kuu la sarafu ya kawaida ni uaminifu wote unaohitajika ili kuifanya ifanye kazi' na kwamba benki kuu lazima ziaminiwe sio kushusha thamani ya sarafu, lakini 'historia ya sarafu za fiat imejaa uvunjaji wa uaminifu huo'.
-  
-  Nukuu hii inaonyesha kusudi kuu la Bitcoin: kuondoa hitaji la uaminifu katika taasisi za kati. Chaguzi zingine, ingawa zinaweza kuwa na wasiwasi kuhusu fedha za jadi, hazishughulikii tatizo la msingi la kifalsafa ambalo Satoshi ililibainisha - kwamba mifumo ya fiat inahitaji imani kipofu katika taasisi ambazo zimethibitishwa mara kwa mara kutokuwa za kuaminika kupitia udanganyifu wa fedha na ushushwaji.
+  - "Bitcoin ni mradi wa kimaadili kwa sababu code yake hutekeleza kanuni za kimaadili zinazozuia udanganyifu, na matokeo yake ya kisiasa ni kubadilisha utawala wa kidemokrasia kwa ufanyaji maamuzi wa kialgorithmu"
+  - "Bitcoin hufanya kazi kama mradi wa kimaadili kwa sababu hugawa upya utajiri kutoka kwa matajiri kwenda kwa waanzilishi wa mapema, na kuunda jamii ya haki zaidi yenye athari za kisiasa kwa sera ya kodi"
+  - "Bitcoin ni ya kimaadili kwa sababu Satoshi Nakamoto aliingiza amri za kimaadili katika itifaki, na matokeo yake ya kisiasa ni kuunganisha familia zote za kisiasa chini ya mfumo mmoja wa fedha"
+explanation: >-
+  Bitcoin haikuundwa kuwafanya watu wawe matajiri bali kuwafanya wawe huru. Hufanikisha matokeo matatu ya kimaadili: kuwezesha umiliki halisi (kwa kuhamasisha uwajibikaji), kulinda thamani inayoundwa na kazi (kwa kuhimiza juhudi za uzalishaji), na kuhifadhi faragha (kwa kuruhusu watu kuishi bila hofu). Haya ni mafanikio ya kimaadili yanayobeba matokeo ya kisiasa bila kuwa ya kambi yoyote ya kisiasa, na hivyo kuifanya kwanza kuwa mradi wa kimaadili na pili kuwa wa kisiasa.
+reviewed: false

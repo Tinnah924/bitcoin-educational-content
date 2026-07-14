@@ -1,8 +1,9 @@
-question: Según la teoría del conocimiento disperso de Hayek, ¿por qué las economías de planificación centralizada no asignan eficazmente los recursos en comparación con los sistemas de libre mercado?
-answer: Los planificadores centrales no pueden acceder al conocimiento fragmentado y localizado que poseen los individuos sobre sus necesidades, preferencias y circunstancias específicas, lo que imposibilita una asignación óptima de los recursos.
+question: "¿Cuál de los siguientes es un ejemplo de orden espontáneo según lo descrito por Hayek?"
+answer: "El lenguaje, que se desarrolló orgánicamente mediante interacciones históricas en lugar de ser diseñado por intelectuales en una oficina"
 wrong_answers:
-  - Los planificadores centrales carecen de potencia de cálculo suficiente y de algoritmos avanzados para procesar todos los datos económicos necesarios para tomar decisiones óptimas de asignación de recursos.
-  - Los planificadores centrales son intrínsecamente corruptos e interesados, y priorizan su propio bienestar sobre las necesidades de la sociedad a la hora de tomar decisiones económicas.
-  - Los planificadores centrales se centran demasiado en los objetivos estratégicos a largo plazo y descuidan las necesidades de consumo inmediato y las preferencias de los ciudadanos.
-explanation: |
-  La idea clave de Hayek es que el conocimiento sólo existe como "fragmentos dispersos de conocimiento incompleto y frecuentemente contradictorio que poseen todos los individuos distintos" El sistema de precios del mercado sirve como mecanismo de descubrimiento que moviliza este conocimiento disperso a través de intercambios voluntarios. Los planificadores centrales, independientemente de sus intenciones o capacidades, no pueden acceder a la información subjetiva y localizada que poseen los individuos sobre costes, beneficios y preferencias. Esto crea el "problema del conocimiento" fundamental que hace que la planificación central sea intrínsecamente ineficaz en comparación con la coordinación espontánea del mercado.
+  - "Una constitución nacional, que fue redactada cuidadosamente por representantes elegidos para establecer reglas sociales"
+  - "Un programa gubernamental de estímulo, diseñado por economistas para coordinar la actividad económica"
+  - "Un sistema de educación pública, creado por legisladores para garantizar el acceso universal al conocimiento"
+explanation: >-
+  Hayek describe el orden espontáneo como el producto de interacciones libres en la sociedad, resultante de la acción humana pero no de un diseño deliberado. El lenguaje es un ejemplo principal: el francés, el inglés y el alemán no fueron construidos por intelectuales que decidieran reglas gramaticales, sino que emergieron como fruto de una organización lenta y orgánica construida mediante interacciones históricas.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Prema Hajekovoj analizi, koja osnovna razlika razlikuje socijalističku ekonomsku politiku od liberalne ekonomske politike?
-answer: Konstruktivizam - verovanje da država treba aktivno da konstruira i oblikuje društvo kroz planiranje i usmeravanje
+question: "Koju je razliku Karl Marx povukao između utopijskog socijalizma i naučnog socijalizma?"
+answer: "Optužio je rane francuske socijaliste da predlažu imaginarna rešenja, dok je njegov naučni socijalizam bio utemeljen u istorijskom materijalizmu i klasnoj borbi"
 wrong_answers:
-  - Spontani red - omogućavanje tržišnim silama da prirodno regulišu ekonomsku aktivnost bez intervencije države
-  - Redistribucionizam - fokusiranje prvenstveno na preraspodelu bogatstva uz očuvanje mehanizama slobodnog tržišta
-  - Kolektivizam - naglašavanje grupnog vlasništva nad imovinom uz očuvanje individualnog ekonomskog odlučivanja
-explanation: |
-  Hayek je identifikovao konstruktivizam kao socijalistički pristup gde država aktivno konstruira društvo i daje mu specifičan oblik kroz planiranje i usmeravanje. Ovo je u kontrastu sa liberalnim konceptom spontanog poretka, gde se društvo prirodno organizuje samo od sebe. Redistribucionizam i kolektivizam, iako povezani sa socijalizmom, ne obuhvataju Hayekovu specifičnu distinkciju o tome kako društvo treba biti organizovano i usmeravano.
+  - "Tvrdio je da je utopijski socijalizam previše usredsređen na ekonomiju, dok naučni socijalizam daje prioritet kulturnoj i umetničkoj transformaciji"
+  - "Hvalio je utopijske socijaliste zbog njihovih praktičnih eksperimenata i kritikovao naučni socijalizam kao previše apstraktan i teorijski"
+  - "Tvrdio je da je utopijski socijalizam nasilan i revolucionaran, dok naučni socijalizam favorizuje mirnu demokratsku reformu"
+explanation: >-
+  Marx je optužio rane francuske socijaliste poput Proudhona, Saint-Simona i Fouriera da su utopisti koji predlažu čisto imaginarna rešenja. Njegov naučni socijalizam počivao je na istorijskom materijalizmu: ideji da istorija napreduje kroz klasnu borbu i prisvajanje sredstava za proizvodnju, gde su sve kulturne predstave uslovljene proizvodnim snagama i proizvodnim odnosima.
+reviewed: false

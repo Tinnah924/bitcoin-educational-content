@@ -1,9 +1,9 @@
-question: Kulingana na maandishi hayo, kwa nini ni vigumu kuainisha Bitcoin kulingana na mhimili wa kisiasa wa jadi wa kulia-kushoto?
-answer: Kwa sababu Bitcoin inapita mgawanyiko wa kitamaduni na inavutia wafuasi kutoka asili tofauti za kisiasa
+question: "Mgawanyiko wa kisiasa wa kushoto-kulia unatokana na nini?"
+answer: "Mpangilio wa viti wakati wa mijadala ya Mapinduzi ya Ufaransa ya 1789"
 wrong_answers:
-  - Kwa sababu Bitcoin inaungwa mkono pekee na watu mashuhuri wa mrengo wa kulia wanaounga mkono uhuru wa kiuchumi.
-  - Kwa sababu Bitcoin inatetewa zaidi na upande wa kushoto kwa sababu ya uwezo wake wa kuingizwa kifedha.
-  - Kwa sababu Bitcoin ni teknolojia isiyoegemea upande wowote isiyo na mwelekeo wa kisiasa.
-explanation: |
-  Maandishi yanaelezea kwamba Bitcoin ni vigumu kuainisha kwa kutumia mhimili wa kulia-kushoto, kwani teknolojia hii iliyogawanywa huvutia wafuasi kutoka asili mbalimbali za kisiasa, ikiwa ni pamoja na kulia, kushoto, wanaharakati na hata watu binafsi wasio na siasa. Tofauti na chaguzi zingine, Bitcoin haizuiliwi na kambi moja ya kisiasa,
-  lakini huvuka mgawanyiko wa kitamaduni, na kufanya mgawanyiko wa kulia-kushoto usiwe wa kutosha kuiweka ipasavyo.
+  - "Maandishi ya Karl Marx na Adam Smith katika karne ya kumi na tisa"
+  - "Vita vya wenyewe kwa wenyewe vya Marekani kati ya majimbo ya Kaskazini na Kusini"
+  - "Wanafalsafa wa Mwangaza waliotenganisha akili na mapokeo"
+explanation: >-
+  Mgawanyiko wa kushoto-kulia ulianza mwaka 1789, wakati wawakilishi katika Bunge la Kitaifa la Ufaransa waliopendelea kudumisha mamlaka ya mfalme walikaa upande wa kulia wa rais, huku wale waliotaka kupunguza mamlaka yake wakikaa upande wa kushoto. Haukuanzia kwa Marx na Smith, Vita vya wenyewe kwa wenyewe vya Marekani, au falsafa ya Mwangaza.
+reviewed: false

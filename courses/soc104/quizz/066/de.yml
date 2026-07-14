@@ -1,9 +1,9 @@
-question: Welches ist nach libertärer Ideologie der konsequenteste Ansatz zur Lösung von Konflikten zwischen Befürwortern der traditionellen Ehe und Befürwortern der gleichgeschlechtlichen Ehe?
-answer: Vollständige Privatisierung der Ehe durch Abschaffung der staatlichen Beteiligung und Erlaubnis für private Organisationen, Ehen nach ihren eigenen Standards zu definieren und anzuerkennen
+question: "Wie unterschieden sich die wirtschaftlichen Ansätze von Hitlers Deutschland und Stalins Sowjetunion trotz ihrer gemeinsamen totalitären Methoden?"
+answer: "NS-Deutschland bewahrte den Anschein von Privateigentum, während es den Privatsektor staatlichen Zielen unterordnete, während der Stalinismus jedes Privateigentum abschaffte und die Wirtschaft vollständig plante"
 wrong_answers:
-  - Die Regierung sollte die gleichgeschlechtliche Ehe legalisieren und gleichzeitig religiöse Ausnahmeregelungen für traditionelle Institutionen, die dagegen sind, schützen
-  - Die Regierung sollte die traditionelle Definition der Ehe beibehalten, aber getrennte Kategorien von Lebenspartnerschaften mit gleichwertigen Rechten für gleichgeschlechtliche Paare schaffen
-  - Die Regierung sollte nationale Volksabstimmungen über die Definition der Ehe abhalten, um die demokratische Mehrheit entscheiden zu lassen und gleichzeitig die Rechte von Minderheiten durch Verfassungsänderungen zu schützen
-explanation: |
-  Die libertäre Position plädiert für eine vollständige Trennung von Ehe und Staat, die es privaten Organisationen (Kirchen, säkularen Gruppen usw.) erlaubt, die Ehe nach ihren Werten zu definieren.
-  Dieser Ansatz respektiert sowohl die Eigentumsrechte als auch die individuelle Freiheit, ohne eine der beiden Seiten zu zwingen, die Definition der anderen zu akzeptieren. Die falschen Antworten beinhalten alle eine fortgesetzte Einmischung des Staates in die Definition der Ehe, was dem libertären Grundsatz der Minimierung staatlicher Eingriffe in persönliche Beziehungen und private Institutionen widerspricht.
+  - "NS-Deutschland verstaatlichte alle Industrien vollständig, während Stalins Regime begrenzte Privatunternehmen in der Landwirtschaft zuließ"
+  - "NS-Deutschland förderte freien internationalen Handel, um die Wiederaufrüstung zu finanzieren, während der Stalinismus vollständige wirtschaftliche Isolation durchsetzte"
+  - "NS-Deutschland stützte sich auf freiwillige Zusammenarbeit der Unternehmen mit dem Staat, während der Stalinismus nur Zwangsarbeit einsetzte"
+explanation: >-
+  Obwohl beide Regime identische politische Methoden einsetzten (Personenkult, totale Überwachung, systematische Beseitigung der Opposition), unterschieden sich ihre Wirtschaftsmodelle in der Form. NS-Deutschland schaffte Privateigentum nicht formell ab, ordnete den Privatsektor aber vollständig staatlichen Zielen wie Krieg und Wiederaufrüstung unter und erzwang wirtschaftliche Autarkie. Der Stalinismus ging weiter, indem er jedes Privateigentum abschaffte, Fünfjahrespläne einführte und gesamte Produktion und Verteilung direkt kontrollierte.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Mises'in analizine göre, sağ kanat kolektivizmi (faşizm/nazizm) sol kanat kolektivizmden (sosyalizm/komünizm) ayıran temel özellik nedir?
-answer: Her ikisi de bireysel özgürlüğe karşı nefreti ve farklı motivasyonlara rağmen şiddeti meşrulaştırmayı paylaşıyor
+question: "Popper, avantajlarına rağmen açık toplumun neden içsel olarak kırılgan kaldığını savunur?"
+answer: "Çünkü bireyciliğin ima ettiği sorumluluk korkutucu görünebilir; bu da topluluk korumasına, otoriteye ya da idealize edilmiş bir geçmişe duyulan nostaljiye sığınma ayartısı yaratır"
 wrong_answers:
-  - Sağcı kolektivizm özel mülkiyeti korurken, solcu kolektivizm onu tamamen ortadan kaldırır
-  - Sağ kanat kolektivizm rasyonel planlamaya dayanırken, sol kanat kolektivizm duygusal çağrılara dayanır
-  - Sağ kanat kolektivizm sınırlı bireysel özerkliğe izin verirken, sol kanat kolektivizm hiçbirine izin vermez
-explanation: |
-  Mises, Hitler'in nazizmi ile Stalin'in komünizmi arasında temel nitelikleri bakımından hiçbir fark olmadığını savunur. Belirtilen motivasyonları farklı olsa da, her ikisi de bireysel özgürlükten nefret eden ve şiddeti meşrulaştıran kolektivist ideolojileri temsil etmektedir. Buradaki kilit nokta, karşıt görünmelerine rağmen hem faşizmin hem de komünizmin bireyi kolektif bir varlığa tabi kılması ve hedeflerine ulaşmak için güç kullanmasıdır.
-  Bu durum, bu ideolojilerin temelde farklı olduğu yönündeki yaygın varsayıma meydan okumaktadır - Mises bunları aynı bireycilik karşıtı temanın varyasyonları olarak görmektedir.
+  - "Çünkü açık toplumlar askeri güçten yoksundur ve kapalı toplumların istilasına karşı kendilerini savunamaz"
+  - "Çünkü demokratik kurumlar doğası gereği verimsizdir ve sonunda bürokratik karmaşıklığın ağırlığı altında çöker"
+  - "Çünkü açık toplumlar çok fazla ekonomik eşitsizliğe izin verir; bu da kaçınılmaz olarak devrime ve otoriter rejimlerin kurulmasına yol açar"
+explanation: >-
+  Popper, açık toplumun kırılganlığının psikolojik bir savunmasızlıktan kaynaklandığını vurgular. Bireyciliğin ima ettiği sorumluluk korkutucu ve riskli görünebilir; çünkü kişi kendi seçimlerini yapmak zorundadır ve başarısız olabilir. Bu, topluluk korumasına ya da idealize edilmiş bir geçmişe yönelik nostaljik eğilimlere sığınma ayartısı yaratır. Açık toplum, komünitaryen dürtülerden ve tekrar eden şiddet ayartısından gelen sürekli meydan okumalarla karşı karşıyadır.
+reviewed: false

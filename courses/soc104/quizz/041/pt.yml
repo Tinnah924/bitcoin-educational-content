@@ -1,9 +1,9 @@
-question: De acordo com a análise de Hayek, que abordagem fundamental distingue a política económica socialista da política económica liberal?
-answer: Construtivismo - a crença de que o Estado deve construir e moldar ativamente a sociedade, em vez de permitir a ordem espontânea
+question: "Como a abordagem estrutural define a diferença fundamental entre socialismo e libertarianismo?"
+answer: "O socialismo dá primazia ao Estado por meio da regulação, do planejamento e do controle, enquanto o libertarianismo dá primazia ao indivíduo por meio de intervenção estatal mínima"
 wrong_answers:
-  - Redistributivismo - a tónica na redistribuição da riqueza através de impostos progressivos e programas sociais
-  - Coletivismo - a prioridade da propriedade colectiva dos meios de produção sobre os direitos de propriedade individuais
-  - Intervencionismo - a prática da intervenção direta do governo nos mercados para corrigir falhas detectadas
-explanation: |
-  Hayek contrasta especificamente o "construtivismo" socialista com a "ordem espontânea" liberal O construtivismo refere-se à crença socialista de que o Estado
-  socialista de que o Estado deve conceber e construir deliberadamente a estrutura da sociedade, enquanto os liberais acreditam que a sociedade se organiza naturalmente. Embora o redistributivismo, o coletivismo e o intervencionismo sejam, de facto, caraterísticas do socialismo, a crítica de Hayek centra-se nesta diferença filosófica fundamental sobre se a ordem social deve ser conscientemente concebida pelo Estado ou emergir organicamente das interações individuais.
+  - "O socialismo prioriza comunidades agrícolas rurais, enquanto o libertarianismo favorece o desenvolvimento industrial urbano"
+  - "O socialismo é definido por seu apoio a eleições democráticas, enquanto o libertarianismo rejeita todas as formas de participação política"
+  - "O socialismo se concentra na política externa e na cooperação internacional, enquanto o libertarianismo se preocupa apenas com questões econômicas domésticas"
+explanation: >-
+  Estruturalmente, o socialismo é caracterizado pela onipresença do Estado, que regula, planeja e controla. O libertarianismo é definido pela intervenção estatal mínima na economia e na vida privada, tendendo à primazia da liberdade individual e do livre mercado. Essa distinção estrutural é muito mais útil analiticamente do que comparar as intenções declaradas de cada sistema.
+reviewed: false

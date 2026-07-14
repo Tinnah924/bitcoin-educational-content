@@ -1,8 +1,9 @@
-question: Dukurikije icegeranyo ca Gustave Molinari mu gitabu ciwe citwa ‘Les Soirées de la rue Saint Lazare’ (mu cong. Ijoro ku nzira ya Lazaro mweranda), ni igiki c’ishimikiro gisanzwe kiri hagati y’abanyapolitike b’abanyagihugu n’abanyagihugu b’abanyagihugu, kibatandukanya n’abanyagihugu b’abanyagihugu b’abanyagihugu?
-answer: Abanyapolitike b’abanyagihugu n’abanyagihugu bompi barondera gutegeka ivyiyumviro vyabo ku kibano biciye mu gufasha Leta, naho bafise ivyiyumviro bitandukanye .
+question: "Mu biganiro vya Gustave de Molinari vyo mu 1849, ni uwuhe muntu aburanira ubwisanzure nk'ingingo ngenderwako y'ishimikiro aho kubushira munsi y'izindi ntumbero?"
+answer: "Umuhinga w'ubutunzi, abona ubwisanzure nk'ingingo ngenderwako idashirwa munsi y'iyindi ntumbero iyo ari yo yose"
 wrong_answers:
-  - Abanyapolitike b’abanyagihugu n’abanyagihugu bompi babona ko umwidegemvyo ari ingingo ngenderwako y’ukuri aho kubona ko ari ikibazo c’akaryo canke c’ugukora .
-  - Abanyapolitike b’abanyagihugu n’abanyagihugu bompi banse iciyumviro c’uko umutungo w’umuntu ku giti ciwe uba uwundi, bagashigikira ko umutungo wose uba uwawe .
-  - Abanyapolitike b’abanyagihugu n’abanyagihugu bose barashigikiye ko Leta igira ico ikoze gatoyi kandi bagahitamwo gutorera umuti ingorane zo mu kibano zishingiye ku masoko .
-explanation: |
-  Iciyumviro nyamukuru Molinari yatahuye ni uko naho basa n’abatandukanye mu vyiyumviro, aba conservateurs n’aba socialistes basangiye uburyo bumwe: bompi bakoresha ububasha bwa Leta kugira ngo bategeke ivyiyumviro vyabo vy’ingene igihugu gikwiye gutunganirizwa. Abanyagihugu bashaka kuzigama imibumbe y’imigenzo biciye mu gushitsa amategeko ya Leta, mu gihe abasosiyalisiti bashaka guhindura ikibano bivanye n’ivyiyumviro vyabo, na bo nyene biciye mu bikorwa vya Leta. Ivyo bitandukanye cane n’abaharanira umwidegemvyo, barwanya gukoresha ububasha bwa Leta kugira ngo bategeke iciyumviro ico ari co cose c’imibano, ahubwo bagashigikira ko umuntu yogira umwidegemvyo mwinshi kandi ko Leta idashobora kwivanga mu vyo akora.
+  - "Umusosiyaliste, aburanira ubwisanzure biciye mu mavugurura ateza imbere uburinganire bw'imibano"
+  - "Umukonserevateri, ashigikira ubwisanzure mu kuzigama urutonde rw'imibano n'ugutekana vya kera"
+  - "Abo bantu bose batatu baburanira ubwisanzure ku rugero rumwe ariko ntibumvikana ku kuntu bwoshirwa mu ngiro"
+explanation: >-
+  Mu biganiro vya Molinari vyo muri Les Soirees de la rue Saint-Lazare, umuhinga w'ubutunzi aguma atavuga rumwe n'umusosiyaliste hamwe n'umukonserevateri. Ni we wenyene aburanira ubwisanzure nk'ingingo ngenderwako y'ishimikiro. Umusosiyaliste ashira ubwisanzure munsi y'ivyiyumviro vy'iterambere, umukonserevateri na we akabushira munsi yo kuzigama urutonde, bigatuma umuhinga w'ubutunzi aba uwudasanzwe mu kuburanira ubwisanzure ata co abuharirako.
+reviewed: false

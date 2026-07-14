@@ -1,9 +1,9 @@
-question: Milline on põhiprintsiip, mis eristab libertaarset poliitilist filosoofiat teistest ideoloogiatest seoses jõu kasutamisega?
-answer: Mitteagressiooni põhimõte, mis keelab teiste vastu jõu kasutamise, välja arvatud seaduslikul enesekaitsel
+question: "Mis on peamine erinevus minarhistide ja anarhokapitalistide vahel libertarismis?"
+answer: "Minarhistid aktsepteerivad minimaalset riiki kaitse, õigusemõistmise ja politsei jaoks, samas kui anarhokapitalistid tahavad erastada kõik riigi funktsioonid"
 wrong_answers:
-  - Kollektiivse kaitse põhimõte, mis võimaldab riigi sekkumist, et kaitsta ühenduse huve individuaalsete õiguste asemel
-  - Proportsionaalse jõu põhimõte, mis lubab valitsuse sunnimeetmeid, kui need teenivad suuremat ühiskondlikku hüve
-  - Demokraatliku mandaadi põhimõte, mis õigustab jõudu, kui see kiidetakse heaks demokraatlike institutsioonide häälteenamusega
-explanation: |
-  Mittekallaletungi põhimõte on liberaalse filosoofia nurgakivi, mis ütleb, et kellelgi ei ole õigust kasutada või ähvardada füüsilist jõudu teise inimese või tema vara vastu.
-  See põhimõte muudab pettuse, varguse ja sundimise moraalselt taunitavaks, kusjuures jõud on õigustatud ainult enesekaitseks. Libertaarid keelduvad andmast riigile erilubasid tegude sooritamiseks, mida üksikisikute poolt sooritatuna peetaks ebamoraalseks, nõudes, et kõik järgiksid sama moraalikoodeksit ilma eranditeta.
+  - "Minarhistid lükkavad tagasi kõik valitsemisvormid, samas kui anarhokapitalistid aktsepteerivad turgude piiratud riiklikku reguleerimist"
+  - "Minarhistid pooldavad progressiivset maksustamist hädavajalike teenuste rahastamiseks, samas kui anarhokapitalistid on vastu igasugusele maksustamisele"
+  - "Minarhistid keskenduvad ainult majanduslikule vabadusele, samas kui anarhokapitalistid kaitsevad nii majanduslikke kui ka ühiskondlikke vabadusi"
+explanation: >-
+  Minarhistid usuvad, et riik peaks piirduma põhifunktsioonidega nagu kaitse, õigusemõistmine ja politsei („öövahiriik”), samas kui anarhokapitalistid väidavad, et isegi need funktsioonid tuleks erastada ja korraldada vabatahtliku turukonkurentsi kaudu. Nende erimeelsus puudutab rohkem praktilist teostust kui põhimõttelisi eetilisi printsiipe. Mõlemad suundumused jagavad samu libertaarseid eneseomandi ja mitteagressiooni väärtusi.
+reviewed: false

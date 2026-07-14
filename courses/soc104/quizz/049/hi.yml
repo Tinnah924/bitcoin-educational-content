@@ -1,9 +1,9 @@
-question: वह कौन सा मूलभूत दार्शनिक सिद्धांत है जो परंपरागत अमेरिकी रूढ़िवाद को अन्य राजनीतिक विचारधाराओं से अलग करता है?
-answer: व्यवस्थित स्वतंत्रता की अवधारणा, जो व्यक्तिगत स्वतंत्रता को सामुदायिक उत्तरदायित्व और सीमित सरकार के साथ संतुलित करने का प्रयास करती है।
+question: "Modern conservatism के founding figure के रूप में अक्सर किसे cite किया जाता है?"
+answer: "Edmund Burke, जिन्होंने French Revolution के radical changes के विरुद्ध institutions और traditions को preserve करने की वकालत की"
 wrong_answers:
-  - असीमित व्यक्तिगत स्वतंत्रता का सिद्धांत, सामाजिक मामलों में सरकार के अधिकतम हस्तक्षेप के साथ संयुक्त।
-  - क्रांतिकारी परिवर्तन में विश्वास, जिसका उद्देश्य सामंती कृषि प्रधान समाज को पुनर्स्थापित करना और सभी तकनीकी प्रगति को अस्वीकार करना था।
-  - सैन्य हस्तक्षेपवाद का सिद्धांत, जिसका उद्देश्य पूर्वव्यापी युद्ध के माध्यम से विश्व भर में लोकतंत्र का प्रसार करना है।
-explanation: |
-  परंपरागत अमेरिकी रूढ़िवाद मूलतः 'व्यवस्थित स्वतंत्रता' पर आधारित है, जो सामुदायिक और व्यक्तिगत आवश्यकताओं, व्यक्तिगत स्वतंत्रता और उत्तरदायित्व, तथा सीमित सरकार और मुक्त बाज़ारों की कभी-कभी परस्पर विरोधी आकांक्षाओं में सामंजस्य स्थापित करने का प्रयास करता है।
-  गलत उत्तर या तो परस्पर विरोधी सिद्धांतों (अधिकतम हस्तक्षेप के साथ असीमित स्वतंत्रता), यूरोपीय प्रतिक्रियावादी रूढ़िवाद (सामंती पुनर्स्थापना), या नव-रूढ़िवादी विचारधारा (सैन्य हस्तक्षेपवाद) का प्रतिनिधित्व करते हैं, न कि उस संतुलित दृष्टिकोण का जो परंपरागत अमेरिकी रूढ़िवादी विचार को परिभाषित करता है।
+  - "Karl Marx, जिन्होंने nineteenth century में class struggle और historical materialism की theory विकसित की"
+  - "John Locke, जिन्होंने seventeenth century में natural rights और social contract की theory articulate की"
+  - "Adam Smith, जिन्होंने The Wealth of Nations लिखा और classical economics की discipline की foundation रखी"
+explanation: >-
+  Edmund Burke को French Revolution के विरोध के कारण अक्सर conservatism के founding figure के रूप में cite किया जाता है। उनकी Reflections on the Revolution in France (1790) ने radical change के बजाय prudence और gradual reform का समर्थन किया। वे मानते थे कि society को clean slate बनाकर नहीं, बल्कि tested institutions और traditions को preserve करने वाले incremental reforms के माध्यम से advance करना चाहिए।
+reviewed: false

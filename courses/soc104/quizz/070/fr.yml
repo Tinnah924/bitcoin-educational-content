@@ -1,8 +1,9 @@
-question: According to the libertarian perspective on societal issues, what is the most consistent approach to resolving conflicts between individual freedom and government regulation?
-answer: Privatize institutions and let voluntary associations handle regulation rather than having the state impose uniform rules on everyone
+question: "À travers les cinq débats sociétaux (mariage, immigration, armes à feu, drogues, boissons sucrées), quel cadre d'analyse récurrent façonne la position socialiste sur chaque sujet ?"
+answer: "Un cadre de conflit entre dominants et dominés, où la société est structurée par l'oppression et où l'État doit intervenir pour protéger le groupe vulnérable"
 wrong_answers:
-  - Create comprehensive government regulations that balance competing interests while protecting minority rights from majority oppression
-  - Establish democratic processes where majority vote determines social policies while maintaining constitutional protections for basic rights
-  - Develop evidence-based policies that prioritize public safety and social cohesion over individual preferences in controversial areas
-explanation: |
-  The libertarian approach consistently advocates for removing state control and allowing private institutions to handle regulation. This is evident in their stance on marriage (privatize it and let churches/private organizations decide), immigration (destatize society and let citizens decide), and drugs (yes to freedom but only if society is destatized). The other options represent socialist, centrist, or conservative approaches that maintain varying degrees of state involvement rather than the libertarian principle of minimizing government power through privatization.
+  - "Un cadre utilitariste centré sur la maximisation du bonheur global et de la productivité économique pour le plus grand nombre de citoyens"
+  - "Un cadre de droits naturels où les libertés individuelles doivent être protégées à la fois de l'ingérence de l'État et des entreprises"
+  - "Un cadre traditionaliste où les institutions sociales établies doivent être préservées contre les changements modernes perturbateurs"
+explanation: >-
+  La position socialiste dans les débats sociétaux est constamment façonnée par un cadre conflictuel dominant/dominé. Sur le mariage, il s'agit de la majorité hétérosexuelle opprimant une minorité homosexuelle. Sur l'immigration, les restrictions fondées sur la nationalité sont des formes d'oppression. Sur les armes à feu, seul l'État devrait détenir la force pour protéger les vulnérables. Sur les boissons sucrées, les industriels tirent profit de la vulnérabilité des moins protégés. Cette grille oppresseur/opprimé se reproduit dans de nombreux domaines, y compris le genre, la race et même la relation entre l'humanité et la nature.
+reviewed: false

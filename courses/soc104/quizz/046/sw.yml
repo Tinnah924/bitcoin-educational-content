@@ -1,8 +1,9 @@
-question: Ni kipi kinachotofautisha mbinu ya kitamaduni ya kihafidhina ya Marekani ya kusawazisha uhuru wa mtu binafsi na utaratibu wa kijamii?
-answer: Inatafuta kuunganisha matarajio ya jamii na ya mtu binafsi kupitia dhana ya 'uhuru uliopangwa'
+question: "Uhafidhina hushughulikiaje uhuru katika nyanja za kiuchumi na kijamii?"
+answer: "Uhuru imara katika nyanja ya kiuchumi lakini uhuru dhaifu katika nyanja ya kijamii"
 wrong_answers:
-  - Inapa kipaumbele uhuru kamili wa mtu binafsi kuliko aina yoyote ya vikwazo vya kijamii au wajibu wa kijamii
-  - Inatetea uingiliaji kati mkali wa serikali ili kutekeleza mifumo mikali ya kijamii na majukumu ya kitamaduni
-  - Inakuza uhuru wa soko usio na kikomo huku ikikataa aina zote za maadili na dini
-explanation: |
-  Uhafidhina wa kitamaduni wa Marekani una sifa maalum kwa kufuata kwake 'uhuru uliopangwa,' ambao hujaribu kupatanisha malengo ambayo wakati mwingine hupingana ya mahitaji ya jamii na matarajio ya mtu binafsi, uhuru na uwajibikaji wa kibinafsi, na serikali yenye mipaka na masoko huria. Hii inautofautisha na uhuru safi (uhuru wa mtu binafsi usio na kikomo), ubabe (udhibiti mkubwa wa kijamii wa serikali), au uhuru safi wa kiuchumi (masoko bila kuzingatia maadili). Wazo hilo linawakilisha usawa wa hali ya juu badala ya msimamo mkali juu ya uhuru wa mtu binafsi au utaratibu wa kijamii.
+  - "Uhuru dhaifu katika nyanja zote za kiuchumi na kijamii ili kudumisha mpangilio wa kijamii wa jadi"
+  - "Uhuru imara katika nyanja ya kijamii lakini uhuru dhaifu katika nyanja ya kiuchumi"
+  - "Uhuru sawa na usio na kikomo katika nyanja zote mbili huku serikali ikiingilia kwa kiwango kidogo sana cha aina yoyote"
+explanation: >-
+  Uhafidhina unaonyesha mgawanyiko ulio kama picha ya kioo ya ujamaa. Katika eneo la kiuchumi, wahafidhina hutetea soko huria, ujasiriamali, na mali binafsi. Katika eneo la kijamii, vizuizi huhalalishwa kwa kuhifadhi kanuni za kimaadili za jadi na uthabiti wa kijamii. Jibu la tatu lisilo sahihi linaeleza muundo wa ujamaa, ambao ni kinyume chake.
+reviewed: false

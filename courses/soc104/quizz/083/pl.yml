@@ -1,9 +1,9 @@
-question: Zgodnie z teorią rozproszonej wiedzy Hayeka, dlaczego gospodarki centralnie planowane nie osiągają efektywnej alokacji zasobów w porównaniu z systemami wolnorynkowymi?
-answer: Centralni planiści nie mogą uzyskać dostępu do fragmentarycznej, zlokalizowanej wiedzy, którą posiadają tylko poszczególni uczestnicy rynku na temat ich konkretnych potrzeb, preferencji i okoliczności
+question: "Na czym polega kluczowe rozróżnienie między byciem pro-business a byciem pro-market?"
+answer: "Zwolennicy pro-business szukają interwencji państwa, aby chronić konkretne firmy przed upadkiem, podczas gdy zwolennicy pro-market popierają deregulację i pozwalają firmom upadać, aby rynek mógł naturalnie się reorganizować"
 wrong_answers:
-  - Centralnym planistom brakuje mocy obliczeniowej i zaawansowanych algorytmów niezbędnych do przetwarzania wszystkich danych ekonomicznych wymaganych do optymalnej alokacji zasobów
-  - Centralni planiści są z natury skorumpowani i kierują się własnym interesem, przedkładając swój osobisty zysk nad dobro społeczeństwa jako całości
-  - Centralni planiści są ideologicznie stronniczy i odmawiają wdrażania rozwiązań rynkowych, nawet jeśli uznają ich wyższą efektywność
-explanation: |
-  Fundamentalne spostrzeżenie Hayeka dotyczące wiedzy rozproszonej ujawnia, że informacje o indywidualnych preferencjach, lokalnych warunkach i subiektywnych wycenach istnieją tylko w formie fragmentarycznej w milionach jednostek. Wiedza ta nie może być centralnie gromadzona lub agregowana, ponieważ jest milcząca, stale się zmienia i często jest sprzeczna. Wolne rynki rozwiązują ten problem poprzez mechanizm cenowy, który spontanicznie koordynuje te rozproszone informacje poprzez dobrowolną wymianę.
-  Inne opcje błędnie koncentrują się na ograniczeniach technicznych, moralnych lub ideologicznych uprzedzeniach, a nie na podstawowym problemie epistemologicznym, polegającym na tym, że żadna centralna władza nie może posiadać rozproszonej wiedzy niezbędnej do skutecznej koordynacji.
+  - "Zwolennicy pro-business skupiają się na dużych korporacjach, podczas gdy zwolennicy pro-market skupiają się wyłącznie na wspieraniu małych firm i startupów"
+  - "Pro-business to stanowisko lewicowe sprzyjające spółdzielniom pracowniczym, podczas gdy pro-market to stanowisko prawicowe sprzyjające własności prywatnej"
+  - "Zwolennicy pro-business odrzucają wszelką konkurencję, podczas gdy zwolennicy pro-market popierają regulowaną przez rząd konkurencję między zatwierdzonymi przedsiębiorstwami"
+explanation: >-
+  Stanowisko pro-business postrzega konkurencję jako instrument rządzenia uzyskiwany poprzez regulacje i uzasadnia dotacje oraz bailouty zapobieganiem utracie miejsc pracy. W ujęciu pro-business rynek jest kruchy i potrzebuje ratunku ze strony państwa. Zwolennicy pro-market widzą konkurencję jako naturalny rezultat wolnej przedsiębiorczości, co oznacza deregulację i pozwalanie firmom upadać, ponieważ porażka pozwala rynkowi naturalnie się reorganizować i otwiera pole dla bardziej kompetentnych aktorów.
+reviewed: false

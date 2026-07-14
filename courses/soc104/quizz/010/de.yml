@@ -1,9 +1,9 @@
-question: Welche politische Position zeichnet sich nach dem Nolan-Diagramm dadurch aus, dass sie eine hohe wirtschaftliche Freiheit, aber eine geringe persönliche Freiheit unterstützt?
-answer: Konservative
+question: "Warum gilt die vertikale Achse (oben-unten) im Nolan-Diagramm als grundlegender als die horizontale Achse (links-rechts)?"
+answer: "Weil sie die wahre Trennlinie zwischen denen sichtbar macht, die maximale individuelle Freiheiten verteidigen, und denen, die maximale staatliche Kontrolle bevorzugen"
 wrong_answers:
-  - Sozialdemokraten
-  - Libertäre
-  - Zentristen
-explanation: |
-  Im Nolan-Diagramm befinden sich die Konservativen auf der rechten Seite und werden als diejenigen definiert, die eine hohe wirtschaftliche Freiheit, aber eine geringe persönliche Freiheit befürworten.
-  Dies unterscheidet sie von Sozialisten (die eine geringe wirtschaftliche Freiheit, aber eine hohe persönliche Freiheit befürworten), Libertären (die sowohl eine hohe wirtschaftliche als auch persönliche Freiheit befürworten) und Zentristen (die ein moderates Niveau beider Arten von Freiheit befürworten). Die konservative Position spiegelt die traditionelle Haltung der Rechten wider, die freie Märkte befürwortet und gleichzeitig strengere soziale Kontrollen beibehält.
+  - "Weil sie die Wirtschaftsleistung genauer misst, als die horizontale Achse Sozialpolitiken misst"
+  - "Weil die meisten politischen Konflikte der Geschichte eher kulturelle Identität als Regierungsführung betrafen"
+  - "Weil die horizontale Achse nur für moderne Demokratien gilt, während die vertikale Achse universell ist"
+explanation: >-
+  Die grundlegende Achse ist die vertikale, weil sie die wesentliche politische Frage erfasst: In welchem Ausmaß sollte der Staat menschliches Handeln kontrollieren? Die Links-rechts-Achse spiegelt lediglich unterschiedliche Sensibilitäten wider (soziale Gerechtigkeit vs. Tradition), doch beide Seiten können auf der vertikalen Achse dieselbe etatistische Position einnehmen. Die vertikale Achse zeigt, ob jemand seine Vision mit Gewalt durchsetzen will oder individuelle Freiheit respektiert.
+reviewed: false

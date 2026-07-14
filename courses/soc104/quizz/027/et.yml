@@ -1,8 +1,9 @@
-question: Milline ajalooline muutus seletab, miks klassikalised liberaalid hakkasid end 1960. aastatest alates nimetama end "liberaalideks"?
-answer: Ameerika liberaalid olid arenenud toetama suurt valitsust ja riigi sekkumist, mis on vastuolus klassikaliste liberaalsete põhimõtetega
+question: "Millist ühisosa jagavad libertaarlased ja konservatiivid ning mis neid lahutab?"
+answer: "Nad jagavad piiratud valitsuse pooldamist ja pealesunnitud egalitarismi tagasilükkamist, kuid ei nõustu sõjalise interventsionismi ja sotsiaalpoliitika küsimustes"
 wrong_answers:
-  - Euroopa liberaalid võtsid esimesena kasutusele termini "libertaarne", mis sundis ameeriklasi eristama oma liikumist
-  - Vabariiklik partei kaitses terminit "liberaal" kaubamärgina ja takistas klassikalistel liberaalidel seda kasutada
-  - Klassikalised liberaalid tahtsid rõhutada oma toetust sotsiaalsetele programmidele nagu New Deal ja Great Society
-explanation: |
-  Õige vastus kajastab tekstis kirjeldatud ajaloolist arengut. Ameerika "liberaalid" liikusid järk-järgult klassikalistest liberaalsetest põhimõtetest ulatusliku riikliku sekkumise toetamise suunas, sealhulgas selliste programmide nagu FDRi New Deal ja LBJ Suure Ühiskonna programm. See kujutas endast põhimõttelist eemaldumist klassikalise liberalismi rõhuasetusest piiratud valitsemisele ja laissez-faire'i majandusele. Et vältida segadust selle uue "liberaalse" tähendusega Ameerikas, võtsid klassikaliste liberaalsete põhimõtete pooldajad 1960. aastatel kasutusele termini "libertarian", et selgelt eristada oma minimaalse riikliku sekkumise filosoofiat sekkumispoliitikast, mida Ameerika "liberaalid" olid omaks võtnud.
+  - "Nad jagavad toetust protektsionistlikule kaubanduspoliitikale ja riigikaitsele, kuid ei nõustu religiooni rolli küsimuses avalikus elus"
+  - "Nad jagavad pühendumust progressiivsele maksustamisele ja hoolekandeprogrammidele, kuid ei nõustu immigratsioonipoliitika küsimuses"
+  - "Nad jagavad vastuseisu vabakaubandusele ja uimastite legaliseerimisele, kuid ei nõustu föderaalvalitsuse suuruse küsimuses"
+explanation: >-
+  Libertaarlased ja konservatiivid kaitsevad mõlemad piiratud valitsust, lükkavad tagasi pealesunnitud egalitarismi, vastustavad riigivõlga ja kaitsevad osariikide õigusi. Libertaarlased lükkavad aga tagasi neokonservatiivide sõjalise interventsionismi, vastustavad konservatiivseid sotsiaalpoliitikaid ja toetusi, mõistavad hukka uimastikeelu ning hülgavad protektsionismi. Liit on tegelik, kuid olemuslikult pingeline.
+reviewed: false

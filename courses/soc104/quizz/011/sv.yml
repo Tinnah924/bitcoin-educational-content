@@ -1,8 +1,9 @@
-question: Enligt det politiska diagrammet, vad representerar y-axeln?
-answer: Personliga och sociala friheter
+question: "Varför anses den vertikala axeln (upp–ned) vara mer grundläggande än den horisontella axeln (vänster–höger) i Nolan-diagrammet?"
+answer: "Eftersom den visar den verkliga skiljelinjen mellan dem som försvarar maximala individuella friheter och dem som föredrar maximal statlig kontroll"
 wrong_answers:
-  - Ekonomiska och kommersiella friheter
-  - Graden av statlig inblandning i ekonomin
-  - Skatte- och regleringsförmåner
-explanation: |
-  Y-axeln (vertikal) representerar personliga och samhälleliga friheter, som inkluderar rörelsefrihet, åsiktsfrihet och självbestämmande. Dessa friheter handlar om vad du gör i dina privata relationer, med dina åsikter och övertygelser, samt allt du gör med din egen kropp och själ. X-axeln (horisontell) representerar ekonomiska friheter. Denna distinktion gör det möjligt för oss att klassificera de flesta politiska frågor i två grundläggande kategorier.
+  - "Eftersom den mäter ekonomisk produktion mer exakt än den horisontella axeln mäter socialpolitik"
+  - "Eftersom de flesta politiska konflikter genom historien har handlat om kulturell identitet snarare än styrelseskick"
+  - "Eftersom den horisontella axeln bara gäller moderna demokratier medan den vertikala axeln är universell"
+explanation: >-
+  Den grundläggande axeln är den vertikala eftersom den fångar den väsentliga politiska frågan: i vilken grad bör staten kontrollera mänskligt handlande? Vänster-höger-axeln återspeglar bara olika sensibiliteter (social rättvisa kontra tradition), men båda sidor kan inta samma position på den vertikala axeln som etatister. Den vertikala axeln visar om någon vill påtvinga sin vision med våld eller respekterar individuell frihet.
+reviewed: false

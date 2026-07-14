@@ -1,8 +1,9 @@
-question: Šta desna strana ekonomske ose (ka 100) predstavlja u dvodimenzionalnom političkom dijagramu?
-answer: Preferencija za ekonomsku slobodu uz manje državne intervencije, niže poreze i slobodna tržišta
+question: "Šta karakteriše dno ose lične slobode na Nolanovom dijagramu?"
+answer: "Prednost data poretku, bezbednosti, tradicionalnim vrednostima i tome da država reguliše moral i održava javni red"
 wrong_answers:
-  - Preferencija za snažnu državnu intervenciju sa visokim porezima i obimnim javnim uslugama
-  - Podrška nacionalizaciji industrija i politikama preraspodele bogatstva
-  - Naglasak na državnoj regulaciji i kontroli poslovnih aktivnosti
-explanation: |
-  Desna strana ekonomske ose predstavlja preferenciju za ekonomsku slobodu, karakterisanu minimalnom državnom intervencijom u ekonomiji, smanjenim regulacijama, nižim porezima i većom slobodom za preduzeća i pojedince da proizvode, razmenjuju i konzumiraju. Ova pozicija naglašava slobodna tržišta, privatnu svojinu i konkurenciju kao pokretače prosperiteta. Pogrešni odgovori opisuju pozicije koje se nalaze na levoj strani ekonomske ose, koje favorizuju snažnu državnu intervenciju, visoke poreze za javne usluge, nacionalizaciju i preraspodelu bogatstva kako bi se smanjile nejednakosti.
+  - "Prednost data individualnoj autonomiji, toleranciji i minimalnom mešanju države u izbore u ličnom životu"
+  - "Prednost data ekonomskoj deregulaciji, slobodnoj trgovini i ukidanju carina i subvencija"
+  - "Prednost data preraspodeli bogatstva, visokim porezima i nacionalizaciji ključnih industrija"
+explanation: >-
+  Dno ose lične slobode predstavlja maksimalnu državnu kontrolu nad ličnim životom, koju karakteriše prednost data poretku, bezbednosti i tradicionalnim vrednostima. Država reguliše moral, održava javni red i može braniti određenu viziju morala ili tradicije. Vrh ose predstavlja suprotnost: individualnu slobodu i toleranciju. Ekonomske politike mere se na zasebnoj horizontalnoj osi.
+reviewed: false

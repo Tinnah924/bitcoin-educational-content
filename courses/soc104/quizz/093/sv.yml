@@ -1,9 +1,9 @@
-question: Enligt Satoshi Nakamotos filosofi, vilket grundläggande problem med konventionella valutor syftar Bitcoin till att lösa?
-answer: Det överdrivna förtroende som krävs för centraliserade institutioner som historiskt sett bryter mot detta förtroende genom valutaförsvagning
+question: "Varför beskrivs monetär inflation som en dold skatt som påförs utan medborgarnas samtycke?"
+answer: "Eftersom statligt penningskapande devalverar valutan så att människor kan köpa mindre för samma belopp, men de flesta inser inte att stigande priser återspeglar statlig politik snarare än naturliga marknadskrafter"
 wrong_answers:
-  - Den tekniska ineffektiviteten hos traditionella betalningssystem som hanterar transaktioner för långsamt för global handel
-  - Miljöpåverkan från fysisk valutatillverkning och koldioxidavtrycket från bankinfrastruktur
-  - De geografiska begränsningarna av nationella valutor som förhindrar smidig internationell handel
-explanation: |
-  Satoshi konstaterade uttryckligen att "grundproblemet med konventionell valuta är allt förtroende som krävs för att få den att fungera" och noterade att "fiatvalutornas historia är full av brott mot detta förtroende"
-  Bitcoin utformades som ett förtroendefritt system för att eliminera beroendet av centralbanker som historiskt sett har försvagat valutor. De andra alternativen, även om de potentiellt är giltiga problem, var inte den grundläggande filosofiska motivationen bakom Bitcoin:s skapande som den formulerades av dess skapare.
+  - "Eftersom centralbanker i hemlighet tar ut avgifter på varje transaktion som behandlas genom banksystemet utan att informera kontoinnehavarna"
+  - "Eftersom regeringar trycker pengar och delar ut dem endast till förmögna individer samtidigt som de beskattar de fattiga genom högre moms på nödvändiga varor"
+  - "Eftersom inflation orsakas av privata företag som höjer priserna för att öka vinsterna, vilket fungerar som en inofficiell skatt på konsumenter"
+explanation: >-
+  Injektionen av pengar i systemet leder till valutadevalvering, där samma belopp köper mindre eftersom de nya pengarna inte återspeglar verklig ekonomisk tillväxt. De flesta ser inte att statlig politik ledde till stigande priser, som helt enkelt är återspeglingen av valutadevalvering. Detta motsvarar legaliserad stöld och institutionaliserad plundring, som utarmar medelklassen medan de förmögna fångar upp nya pengar genom spekulativa tillgångar.
+reviewed: false

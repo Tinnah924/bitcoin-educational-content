@@ -1,9 +1,9 @@
-question: İki boyutlu siyasi diyagramda ekonomik eksenin sağ tarafı (100'e doğru) neyi temsil ediyor?
-answer: Daha az devlet müdahalesi, daha düşük vergiler ve serbest piyasalar ile ekonomik özgürlük tercihi
+question: "İki boyutlu model, çoğu siyasi meselenin ekonomik ve kişisel kategorilere ayrılabileceğini neden savunur?"
+answer: "Çünkü ekonomik meseleler üretici ve tüketici olarak yaptıklarınızla, kişisel meseleler ise özel ilişkileriniz, inançlarınız ve bedensel özerkliğinizle ilgilidir"
 wrong_answers:
-  - Yüksek vergiler ve kapsamlı kamu hizmetleri ile güçlü devlet müdahalesi tercihi
-  - Endüstrilerin kamulaştırılması ve servetin yeniden dağıtılması politikalarına destek
-  - İş faaliyetlerinin hükümet tarafından düzenlenmesi ve kontrolüne vurgu
-explanation: |
-  Ekonomik eksenin sağ tarafı, ekonomiye asgari devlet müdahalesi ile karakterize edilen ekonomik özgürlük tercihini temsil etmektedir,
-  azaltılmış düzenlemeler, daha düşük vergiler ve işletmelerin ve bireylerin üretim, değişim ve tüketim için daha fazla özgürlük. Bu pozisyon, refahın itici gücü olarak serbest piyasaları, özel mülkiyeti ve rekabeti vurgular. Yanlış cevaplar, güçlü devlet müdahalesini, kamu hizmetleri için yüksek vergileri, kamulaştırmayı ve eşitsizlikleri azaltmak için servetin yeniden dağıtımını destekleyen ekonomik eksenin sol tarafında bulunan pozisyonları tanımlar.
+  - "Çünkü tüm siyasi tartışmalar nihayetinde vergi düzeyleri ve dini uygulamalar hakkındaki anlaşmazlıklara indirgenir"
+  - "Çünkü hükümetler tarihsel olarak yalnızca iki şeyi düzenlemiştir: piyasa ve ordu"
+  - "Çünkü siyasi filozoflar antik çağdan beri maddi meseleleri manevi meselelerden her zaman ayırmıştır"
+explanation: >-
+  İki boyutlu model, siyasi meselelerin iki geniş kategoriye ayrıldığı fikrine dayanır. Ekonomik özgürlükler üretim, tüketim, ticaret, istihdam ve para yönetimini kapsar. Kişisel özgürlükler özel ilişkileri, görüşleri, inançları ve kişinin kendi bedeni ile zihni hakkındaki tercihleri kapsar. Bu ayrım, siyasi konumların tek bir sol-sağ eksenine göre çok daha nüanslı şekilde haritalandırılmasını sağlar.
+reviewed: false

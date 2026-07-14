@@ -1,9 +1,9 @@
-question: Zgodnie z libertariańskim stanowiskiem w kwestiach społecznych, jaka jest podstawowa zasada, która powinna kierować polityką rządu we wszystkich dziedzinach?
-answer: Państwo powinno wycofać się z regulowania osobistych wyborów i zamiast tego pozwolić prywatnym instytucjom i mechanizmom rynkowym zająć się tymi sprawami
+question: "Jaka jest zasadnicza różnica między stanowiskiem konserwatywnym a libertariańskim w kwestii regulacji broni palnej?"
+answer: "Oba akceptują pewną regulację, ale konserwatyści chcą zasad ustanawianych przez prawowitą władzę publiczną, podczas gdy libertarianie chcą, by zasady wyłaniały się od bezpośrednio zainteresowanych, takich jak stowarzyszenia obywatelskie i konkurencja rynkowa"
 wrong_answers:
-  - Państwo powinno aktywnie chronić prawa mniejszości przy jednoczesnym poszanowaniu wartości kulturowych większości poprzez zrównoważone regulacje
-  - Państwo powinno priorytetowo traktować bezpieczeństwo publiczne i porządek społeczny, utrzymując ścisłą kontrolę nad potencjalnie szkodliwymi zachowaniami jednostek
-  - Państwo powinno promować sprawiedliwość społeczną poprzez zapewnienie równego dostępu do praw i ochrony wszystkim obywatelom, niezależnie od ich pochodzenia
-explanation: |
-  Filozofia libertariańska konsekwentnie opowiada się za minimalną interwencją państwa we wszystkich kwestiach społecznych. Niezależnie od tego, czy chodzi o małżeństwo (prywatyzacja, a nie uznanie przez państwo), imigrację (oparta na rynku, a nie kontrolowana przez państwo), broń (indywidualne prawo do samoobrony), czy narkotyki (osobisty wybór bez ingerencji państwa), libertarianie zasadniczo uważają, że państwo nie powinno regulować osobistych decyzji, które nie szkodzą bezpośrednio innym.
-  Pozostałe opcje reprezentują odpowiednio podejście socjalistyczne, konserwatywne i centrowe, które akceptują różny stopień zaangażowania państwa w sprawy osobiste.
+  - "Konserwatyści sprzeciwiają się wszelkiej regulacji broni palnej, podczas gdy libertarianie akceptują ścisłą kontrolę państwową dla bezpieczeństwa publicznego"
+  - "Konserwatyści chcą całkowitego zakazu broni palnej, podczas gdy libertarianie popierają nieograniczony dostęp do każdej broni"
+  - "Konserwatyści opierają swoje stanowisko na prawach jednostki, podczas gdy libertarianie opierają swoje na odpowiedzialności zbiorowej"
+explanation: >-
+  Zarówno konserwatyści, jak i libertarianie zgadzają się, że jakaś forma regulacji noszenia broni jest konieczna. Zasadnicza różnica dotyczy tego, kto ustanawia te reguły. Konserwatyści utrzymują, że regulacje muszą pochodzić od władzy publicznej odpowiedzialnej za ochronę dobra wspólnego (odgórnie). Libertarianie twierdzą, że regulacja powinna wyłaniać się od bezpośrednio zainteresowanych: specjalistów ds. bezpieczeństwa, stowarzyszeń obywatelskich i konkurencji rynkowej (oddolnie).
+reviewed: false

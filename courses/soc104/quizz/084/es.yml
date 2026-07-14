@@ -1,8 +1,9 @@
-question: Según la teoría del conocimiento disperso de Hayek, ¿por qué la planificación central es fundamentalmente defectuosa como mecanismo de coordinación económica?
-answer: El conocimiento sólo existe como fragmentos dispersos entre individuos, lo que hace imposible que los planificadores centrales accedan a la información completa necesaria para una coordinación eficaz
+question: "¿Cuál es la distinción clave entre ser proempresarial y ser promercado?"
+answer: "Los defensores proempresariales buscan la intervención estatal para proteger a empresas específicas del fracaso, mientras que los defensores promercado apoyan la desregulación y permiten que las empresas fracasen para que el mercado pueda reorganizarse naturalmente"
 wrong_answers:
-  - Los planificadores centrales carecen de autoridad moral para tomar decisiones por otros, incluso cuando poseen información completa sobre el mercado
-  - La corrupción política y el interés propio impiden a los planificadores centrales aplicar soluciones económicamente óptimas a pesar de tener acceso a todos los datos necesarios
-  - La planificación central requiere demasiada potencia de cálculo y una tecnología que no estaba disponible en la época de Hayek pero que podría funcionar hoy en día
-explanation: |
-  La crítica de Hayek a la planificación central es epistemológica, no moral ni tecnológica. Sostuvo que el conocimiento nunca existe de forma concentrada, sino sólo como "fragmentos dispersos de conocimientos incompletos y a menudo contradictorios que poseen todos los individuos distintos" Este problema de conocimiento disperso significa que los planificadores centrales no pueden acceder a los costes subjetivos, los beneficios y las preferencias locales que sólo poseen los individuos, lo que hace imposible una coordinación económica eficiente, independientemente de sus intenciones o capacidades computacionales.
+  - "Los defensores proempresariales se centran en grandes corporaciones, mientras que los defensores promercado se centran exclusivamente en apoyar a pequeñas empresas y startups"
+  - "Ser proempresarial es una postura de izquierda que favorece las cooperativas de trabajadores, mientras que ser promercado es una postura de derecha que favorece la propiedad privada"
+  - "Los defensores proempresariales rechazan toda competencia, mientras que los defensores promercado apoyan la competencia regulada por el gobierno entre empresas aprobadas"
+explanation: >-
+  La postura proempresarial ve la competencia como un instrumento de gobernanza obtenido mediante regulaciones y justifica subsidios y rescates para evitar pérdidas de empleo. En la visión proempresarial, el mercado es frágil y necesita rescate estatal. Los defensores promercado ven la competencia como el resultado natural de la libre empresa, lo que implica desregulación y permitir que las empresas fracasen, porque el fracaso permite al mercado reorganizarse naturalmente y abre espacio a otros actores.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Menurut filosofi Satoshi Nakamoto, masalah mendasar apa yang ingin dipecahkan oleh Bitcoin dengan mata uang konvensional?
-answer: Kepercayaan berlebihan yang diperlukan dalam lembaga-lembaga terpusat yang secara historis melanggar kepercayaan itu melalui pelemahan mata uang
+question: "Tiga pilar negara kesejahteraan apa yang ditantang oleh Bitcoin?"
+answer: "Sistem fiskal, monopoli moneter untuk membiayai belanja melalui utang, dan pengawasan transaksi untuk mencegah penggunaan mata uang alternatif"
 wrong_answers:
-  - Inefisiensi teknis sistem pembayaran tradisional yang memproses transaksi terlalu lambat untuk perdagangan global
-  - Dampak lingkungan dari produksi mata uang fisik dan jejak karbon infrastruktur perbankan
-  - Keterbatasan geografis mata uang nasional yang menghalangi perdagangan dan perdagangan internasional tanpa hambatan
-explanation: |
-  Satoshi secara eksplisit menyatakan bahwa 'akar masalah dari mata uang konvensional adalah kepercayaan yang dibutuhkan untuk membuatnya bekerja' dan mencatat bahwa 'sejarah mata uang fiat penuh dengan pelanggaran kepercayaan tersebut
-  Bitcoin dirancang sebagai sistem tanpa kepercayaan untuk menghilangkan ketergantungan pada bank sentral yang secara historis telah merendahkan mata uang. Pilihan-pilihan lain, meskipun berpotensi menimbulkan kekhawatiran, bukanlah motivasi filosofis dasar di balik penciptaan Bitcoin seperti yang diartikulasikan oleh penciptanya.
+  - "Anggaran militer, sistem pendidikan publik, dan infrastruktur layanan kesehatan yang dikendalikan pemerintah"
+  - "Sistem peradilan, proses legislatif, dan penegakan eksekutif regulasi terhadap bisnis"
+  - "Sistem jaminan sosial, legislasi upah minimum, dan struktur pajak penghasilan progresif"
+explanation: >-
+  Bitcoin menantang tiga pilar yang menjadi tumpuan negara kesejahteraan. Pertama, sistem fiskal yang tidak cukup untuk menutupi pengeluaran. Kedua, monopoli moneter, yaitu kapasitas untuk menerbitkan uang guna membiayai belanja melalui utang. Ketiga, pengawasan transaksi, kemampuan untuk mencegah orang menggunakan mata uang apa pun selain fiat yang dipaksakan oleh negara. Bitcoin melemahkan ketiganya secara bersamaan.
+reviewed: false

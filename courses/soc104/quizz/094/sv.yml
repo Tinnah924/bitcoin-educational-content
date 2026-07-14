@@ -1,9 +1,9 @@
-question: Enligt Satoshi Nakamotos grundläggande kritik, vad är kärnproblemet med konventionella fiatvalutasystem?
-answer: De kräver överdriven tillit till centraliserade institutioner som historiskt har kränkt denna tillit genom valutaförsvagning
+question: "Hur fungerar Bitcoin som ett moraliskt projekt med politiska konsekvenser snarare än ett politiskt projekt med moraliska anspråk?"
+answer: "Bitcoin utformades för att göra människor fria snarare än rika, genom att möjliggöra effektiv egendom, skydda arbetets värde och bevara privatlivet, vilket är moraliska framsteg som ger politiska effekter utan att göra anspråk på något politiskt läger"
 wrong_answers:
-  - De saknar tillräcklig teknisk infrastruktur för att hantera moderna digitala transaktioner på ett effektivt och säkert sätt
-  - De skapar alltför stor volatilitet i växelkurserna, vilket gör den internationella handeln oförutsägbar och kostsam
-  - generate: s alltför höga transaktionsavgifter som gör mikrobetalningar ekonomiskt olönsamma för vanliga användare
-explanation: |
-  Satoshi Nakamoto sade uttryckligen att "grundproblemet med konventionell valuta är allt det förtroende som krävs för att få den att fungera" och att "fiatvalutornas historia är full av brott mot detta förtroende"
-  Hans kritik fokuserade på det grundläggande förtroendet för centralbankerna att inte förringa valutan, vilket de upprepade gånger har misslyckats med att upprätthålla. De andra alternativen, som visserligen kan ge anledning till oro för traditionella system, missar Nakamotos grundläggande filosofiska invändning mot förtroendebaserade monetära system och hans motiv för att skapa ett förtroendefritt alternativ.
+  - "Bitcoin är ett moraliskt projekt eftersom dess kod upprätthåller etiska regler som förhindrar bedrägeri, och dess politiska konsekvens är att ersätta demokratisk styrning med algoritmiskt beslutsfattande"
+  - "Bitcoin fungerar som ett moraliskt projekt eftersom det omfördelar rikedom från de rika till tidiga användare, vilket skapar ett rättvisare samhälle med politiska följder för skattepolitiken"
+  - "Bitcoin är moraliskt eftersom Satoshi Nakamoto bäddade in etiska bud i protokollet, och dess politiska konsekvens är att ena alla politiska familjer under ett gemensamt monetärt system"
+explanation: >-
+  Bitcoin utformades inte för att göra människor rika utan för att göra dem fria. Det uppnår tre moraliska resultat: att möjliggöra effektiv egendom (vilket uppmuntrar ansvar), att skydda det värde som skapas genom arbete (vilket uppmuntrar produktiv ansträngning) och att bevara privatlivet (vilket låter människor leva utan rädsla). Dessa är moraliska framsteg som bär politiska konsekvenser utan att tillhöra något politiskt läger, vilket gör det till ett moraliskt projekt först och ett politiskt i andra hand.
+reviewed: false

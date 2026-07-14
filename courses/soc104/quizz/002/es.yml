@@ -1,11 +1,9 @@
-question: Según el texto, ¿cuál es el principal problema del espectro político tradicional izquierda-derecha?
-answer: No deja espacio para el pensamiento liberal clásico
+question: "¿Qué principio rector guiaba los votos de Frederic Bastiat en la Asamblea Nacional?"
+answer: "La promoción de las libertades individuales y económicas y la reducción de la injerencia gubernamental"
 wrong_answers:
-  - Favorece demasiado las posiciones centristas y moderadas
-  - Hace demasiado hincapié en los partidos extremistas
-  - Simplifica los debates reduciendo todo a la economía
-explanation: |
-  El capítulo deja claro que el principal problema del eje izquierda-derecha es que no puede clasificar el pensamiento liberal clásico, que no se corresponde ni con el igualitarismo de izquierdas ni con el nacionalismo de derechas
-  ni al igualitarismo de izquierdas ni al nacionalismo de derechas. Figuras como Thomas Jefferson, Frédéric Bastiat o movimientos como Bitcoin trascienden
-  estas categorías tradicionales. Las otras opciones son incorrectas, ya que el texto no critica el centrismo como tal, no se centra en el extremismo y evoca
-  muchos otros aspectos además de la economía.
+  - "La defensa de la autoridad real y la preservación de las tradiciones monárquicas"
+  - "El avance de políticas socialistas para redistribuir la riqueza de forma más igualitaria"
+  - "Una estrategia centrista de compromiso entre las facciones de izquierda y derecha"
+explanation: >-
+  Bastiat votaba basándose en un principio fundamental: promover las libertades individuales y económicas reduciendo al mismo tiempo la injerencia gubernamental. No era un oportunista centrista, ni un monárquico ni un socialista. Votaba con el lado que propusiera medidas alineadas con la libertad y el gobierno limitado.
+reviewed: false

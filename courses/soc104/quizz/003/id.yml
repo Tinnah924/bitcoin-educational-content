@@ -1,12 +1,9 @@
-question: Menurut teks tersebut, apa masalah utama dari spektrum politik kiri-kanan tradisional?
-answer: Tidak ada tempat bagi pemikiran liberal klasik, yang tidak cocok dengan egalitarianisme sayap kiri maupun nasionalisme sayap kanan
+question: "Mengapa sumbu kiri-kanan dianggap tidak memadai untuk menempatkan pemikir liberal klasik seperti Bastiat atau Ron Paul?"
+answer: "Karena liberalisme klasik menghargai kebebasan ekonomi dan pribadi, yang tidak sepenuhnya dianut baik oleh kiri maupun kanan"
 wrong_answers:
-  - Terlalu menyederhanakan politik dengan hanya memiliki dua posisi ekstrem tanpa pilihan moderat atau sentris
-  - Asumsi yang salah bahwa kiri selalu reformis sementara kanan selalu konservatif di zaman modern
-  - Hal ini gagal untuk memperhitungkan fakta bahwa kebanyakan orang sering mengubah posisi politik mereka dari waktu ke waktu
-explanation: |
-  Teks tersebut secara khusus menyatakan bahwa 'Masalah dengan poros kiri-kanan adalah bahwa poros ini tidak menyisakan ruang bagi pemikiran liberal klasik, yang dapat
-  disamakan dengan egalitarianisme kiri maupun nasionalisme kanan Hal ini diilustrasikan melalui contoh-contoh seperti Frédéric Bastiat,
-  yang kadang-kadang memilih dengan sayap kiri dan kadang-kadang dengan sayap kanan tergantung pada isu tertentu, dan Bitcoin, yang menarik pendukung dari berbagai latar belakang politik
-  latar belakang politik. Tradisi liberal klasik, yang mendukung kebebasan ekonomi dan kebebasan pribadi yang maksimal dengan intervensi negara yang minimal, tidak
-  tidak cocok dengan sistem kategorisasi kiri-kanan tradisional.
+  - "Karena kaum liberal klasik selalu sejalan dengan kebijakan ekonomi sayap kanan dan menolak semua posisi sayap kiri"
+  - "Karena kaum liberal klasik adalah kaum sentris yang mengadopsi versi moderat dari ideologi kiri dan kanan"
+  - "Karena kaum liberal klasik menentang semua bentuk pemerintahan, sehingga mereka adalah anarkis, bukan pemikir politik"
+explanation: >-
+  Sumbu kiri-kanan gagal memetakan kaum liberal klasik karena tidak dapat mengakomodasi posisi yang secara bersamaan membela kebebasan ekonomi (biasanya kanan) dan kebebasan pribadi (biasanya kiri). Kaum liberal klasik bukanlah kaum sentris yang mencari kompromi, juga bukan anarkis atau sepenuhnya sayap kanan. Mereka memang tidak cocok ditempatkan pada spektrum satu dimensi.
+reviewed: false

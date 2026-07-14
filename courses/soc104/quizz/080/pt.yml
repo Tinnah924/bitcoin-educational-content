@@ -1,8 +1,9 @@
-question: De acordo com a análise de Gustave Molinari em "Les Soirées de la rue Saint Lazare" (Os Serões da Rua São Lázaro), que semelhança fundamental existe entre conservadores e socialistas, apesar das suas aparentes diferenças ideológicas?
-answer: Ambos procuram impor a sua visão da sociedade através da intervenção do Estado, apesar de terem visões diferentes do que essa sociedade deve ser
+question: "Qual é a discordância central entre libertários e outras famílias políticas quando eles compartilham os mesmos objetivos?"
+answer: "A discordância é sobre os meios: os libertários rejeitam soluções coercitivas e favorecem a troca voluntária por meio do processo de mercado"
 wrong_answers:
-  - Ambos rejeitam os direitos de propriedade individuais e favorecem a propriedade colectiva dos meios de produção nas suas sociedades ideais
-  - Ambos tratam a liberdade como um princípio absoluto que nunca deve ser comprometido, independentemente das consequências sociais ou de considerações práticas
-  - Ambos se opõem a qualquer forma de regulamentação governamental e defendem a privatização total de todos os serviços e instituições públicas
-explanation: |
-  A principal conclusão de Molinari foi que os conservadores e os socialistas, apesar dos seus desacordos superficiais, partilham uma abordagem fundamental à governação: ambos acreditam na utilização do poder do Estado para impor a sua visão particular de como a sociedade deve ser organizada. Os conservadores querem preservar as estruturas tradicionais através da intervenção do Estado, enquanto os socialistas querem criar a sua sociedade ideal através do controlo do Estado. Isto contrasta com o carácter do economista libertário que se opõe a ambos porque rejeita o uso da coerção do Estado para impor qualquer visão social particular, seja ela tradicional ou progressista.
+  - "A discordância é sobre os fins: os libertários buscam objetivos diferentes, como riqueza individual em vez de bem-estar social"
+  - "A discordância é sobre o timing: os libertários querem alcançar os mesmos objetivos mais lentamente, por meio de reformas graduais"
+  - "A discordância é sobre o escopo: os libertários querem aplicar as mesmas políticas apenas em níveis locais, e não nacionais"
+explanation: >-
+  Os libertários podem concordar com socialistas, conservadores e centristas sobre certos objetivos, como defender os oprimidos ou promover a coesão social. A discordância não está nos fins, mas nos meios. Os libertários rejeitam todas as soluções coercitivas que buscam uniformizar práticas e regulamentações, defendendo em vez disso o poder de escolha e a liberdade responsável por meio de trocas livres e descentralizadas fundadas em contratos voluntários.
+reviewed: false

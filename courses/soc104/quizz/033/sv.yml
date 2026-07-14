@@ -1,9 +1,9 @@
-question: Vad är den grundläggande skillnaden mellan libertarianer och liberaler när det gäller ekonomisk organisation?
-answer: Libertarianer försvarar privat egendom och fria marknader, medan libertaire motsätter sig kapitalism och främjar kollektiva ekonomiska former
+question: "Vad är icke-aggressionsprincipen såsom den teoretiserades av Murray Rothbard?"
+answer: "Det är illegitimt att initiera fysiskt våld mot en annan individ eller dennes egendom, även om defensivt våld är tillåtet"
 wrong_answers:
-  - Libertarianer stöder statligt ingripande i ekonomin, medan libertaires förespråkar fullständig ekonomisk avreglering
-  - Libertarianer förespråkar kollektivt ägande av produktionsmedel, medan libertaire försvarar individuell äganderätt
-  - Libertarianer motsätter sig alla former av handel, medan libertaires stöder obegränsade kapitalistiska marknader
-explanation: |
-  Av texten framgår tydligt att libertarianer anser att privat egendom är avgörande för individens frihet och stöder avtalsfrihet, medan
-  libertaires (anarkister) anser att "egendom är stöld" och motsätter sig kapitalism och förespråkar alternativa ekonomiska organisationer som mutualism, kollektivism eller libertariansk kommunism. Detta utgör den ideologiska kärnan mellan dessa två politiska filosofier, som ofta förväxlas på grund av liknande terminologi.
+  - "Alla former av våld är alltid fel, inklusive självförsvar och motstånd mot förtryck"
+  - "Våld är acceptabelt när det riktas mot förtryckande institutioner men aldrig mot andra individer"
+  - "Endast staten har den legitima rätten att använda våld, och individer får aldrig ta till våld"
+explanation: >-
+  Rothbards icke-aggressionsprincip innebär att det är illegitimt att initiera fysiskt våld mot en annan person eller dennes egendom. Den är en filosofisk översättning av den gyllene regeln. Den förbjuder dock inte allt våld: defensivt våld, inklusive självförsvar och motstånd mot förtryck, betraktas som legitimt. Detta skiljer den från ren pacifism och från statens påstådda våldsmonopol.
+reviewed: false

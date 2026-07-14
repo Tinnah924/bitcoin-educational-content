@@ -1,9 +1,9 @@
-question: Mis on peamine tunnus, mis eristab kultuurikonservatismi poliitilisest konservatismist?
-answer: Kultuurikonservatism on isiklik kinnipidamine traditsioonilistest väärtustest, mitte poliitiline filosoofia
+question: "Mis on etatismi määratlus Nolani raamistikus?"
+answer: "Seadusandluse kasutamine ühiskonna kontrollimiseks ja kujundamiseks, olgu seda tehtud tsivilisatsiooni, töölisklassi, looduse või rõhutute kaitsmise nimel"
 wrong_answers:
-  - Kultuurikonservatism nõuab traditsiooniliste väärtuste jõustamist valitsuse poolt, samas kui poliitiline konservatism seda ei nõua
-  - Kultuurikonservatism keskendub majanduspoliitikale, poliitiline konservatism aga sotsiaalküsimustele
-  - Kultuurikonservatism on igasuguste muutuste vastu, samas kui poliitiline konservatism aktsepteerib järkjärgulist reformi
-explanation: |
-  Peatükis on selgelt öeldud, et kultuurikonservatism on isiklik kinnipidamine traditsioonilistest moraaliväärtustest, antropoloogiast, esteetikast ja metafüüsikast
-  mis on päritud minevikust, ning märgib selgesõnaliselt, et "see ei ole poliitiline filosoofia" Seevastu poliitilist konservatismi kirjeldatakse kui viisi, kuidas korraldada ühiskonda kindla korra järgi. See eristamine on oluline, sest see näitab, et isiklikult võib omada traditsioonilisi väärtusi, ilma et tahaks neid tingimata poliitiliste vahenditega või valitsuse jõuga peale suruda.
+  - "Valitsemissüsteem, kus valitud ametnikud teenivad kindlaksmääratud ametiaegu ja võim vahetub demokraatlike valimiste kaudu"
+  - "Uskumus, et ainult tugev sõjavägi suudab kaitsta riigi suveräänsust ja territoriaalset terviklikkust"
+  - "Majandusfilosoofia, mis seab tariifide ja kvootide kaudu riiklikud tööstusharud väliskonkurentsist ettepoole"
+explanation: >-
+  Etatismi määratletakse kui seadusandluse kasutamist ühiskonna kontrollimiseks ja kujundamiseks. Seda praktiseerivad nii vasak- kui ka parempoolsed: ühed tsivilisatsiooni kaitsmise nimel, teised töölisklassi, looduse või rõhutute kaitsmise nimel. Isegi tsentristid kiidavad selle heaks, kui see neile sobib. Etatism ei piirdu sõjanduspoliitika, kaubandusliku protektsionismi või lihtsalt valitud valitsuste olemasoluga.
+reviewed: false

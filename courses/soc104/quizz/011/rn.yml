@@ -1,8 +1,9 @@
-question: Dushingiye ku kigereranyo ca politike, y-axis igereranya iki?
-answer: Umwidegemvyo w'umuntu ku giti ciwe n'uw'imibano
+question: "Ni abantu b'ibimenyetso bahe bafitaniwe isano n'umwidegemvyo munini w'ubutunzi ku gishushanyo ca Nolan?"
+answer: "Margaret Thatcher, Ronald Reagan, na Javier Milei"
 wrong_answers:
-  - Umwidegemvyo mu vy'ubutunzi n'ubudandaji
-  - Urugero rw'ingene Leta igira ico ikoze mu bukungu
-  - Imisoro n'amabwirizwa
-explanation: |
-  Igiharuro y (gihagaze) kigereranya umwidegemvyo w’umuntu ku giti ciwe n’uw’ikibano, ukaba urimwo umwidegemvyo wo kwiyunguruza, ivyiyumviro n’ukwiyemeza. Uwo mwidegemvyo ureba ivyo ukora mu migenderanire yawe bwite, n’ivyiyumviro vyawe n’ivyo wemera, hamwe n’ivyo ukora vyose n’umubiri wawe n’ubwenge bwawe bwite. Igiharuro ca x (kiringaniye) kigereranya umwidegemvyo w’ubutunzi. Ukwo gutandukanya kuradushoboza gushiramwo ibibazo vyinshi vya politike mu mice ibiri y’ishimikiro.
+  - "Franklin D. Roosevelt, Jean Jaures, na Bernie Sanders"
+  - "Nelson Mandela, Simone Veil, na Noam Chomsky"
+  - "Vladimir Putin, Xi Jinping, na Joseph de Maistre"
+explanation: >-
+  Thatcher, Reagan, na Milei bavugwa nk'abantu b'ibimenyetso vy'umwidegemvyo munini w'ubutunzi, bashigikira ukwivanga gutoyi kwa leta, amategeko ngenderwako make, n'amakori make. Roosevelt, Jaures, na Sanders baserukira uruhande rutandukanye rushigikira igenzura rya leta ku butunzi. Mandela, Veil, na Chomsky baserukira umwidegemvyo munini w'umuntu ku giti ciwe. Putin, Xi Jinping, na de Maistre baserukira igenzura rinini rya leta ku buzima bw'umuntu ku giti ciwe.
+reviewed: false

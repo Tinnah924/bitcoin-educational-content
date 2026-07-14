@@ -1,11 +1,9 @@
-question: Jaki jest główny problem z tradycyjnym lewicowo-prawicowym spektrum politycznym?
-answer: Nie pozostawia miejsca dla klasycznej myśli liberalnej, która nie pasuje ani do lewicowego egalitaryzmu, ani do prawicowego nacjonalizmu
+question: "Jakie są dwie osie diagramu Nolana?"
+answer: "Oś pionowa mierząca wolności osobiste oraz oś pozioma mierząca wolności gospodarcze"
 wrong_answers:
-  - Zbytnio upraszcza politykę, mając tylko dwa skrajne stanowiska bez żadnych umiarkowanych lub centrycznych opcji
-  - Nie uwzględnia różnic ekonomicznych między ideologiami socjalistycznymi i kapitalistycznymi we współczesnych demokracjach
-  - Nie dokonuje właściwego rozróżnienia między demokratycznymi i autorytarnymi formami struktur rządowych
-explanation: |
-  Rozdział ten wyraźnie stwierdza, że oś lewica-prawica nie może pomieścić klasycznej myśli liberalnej, która nie pasuje ani do egalitaryzmu lewicy, ani do nacjonalizmu prawicy
-  ani z egalitaryzmem lewicy, ani z nacjonalizmem prawicy. Jest to zilustrowane przykładami takich postaci jak Thomas Jefferson, Frédéric Bastiat i współcześni libertarianie, którzy nie pasują ani do egalitaryzmu lewicy, ani do nacjonalizmu prawicy
-  libertarianie, którzy nie pasują do żadnej z tych kategorii. Inne opcje, choć dotykają ograniczeń spektrum politycznego, nie oddają specyficznej krytyki klasycznej prawicy
-  krytyki klasycznego liberalizmu, który został wykluczony z tych ram.
+  - "Oś pozioma od lewicy do prawicy oraz oś pionowa od autorytaryzmu do demokracji"
+  - "Oś pionowa mierząca bogactwo oraz oś pozioma mierząca poziomy wykształcenia"
+  - "Oś pozioma od socjalizmu do kapitalizmu oraz oś pionowa od tradycji do postępu"
+explanation: >-
+  David Nolan zaprojektował swój diagram z dwiema konkretnymi osiami: wolności osobiste (pionowa) i wolności gospodarcze (pozioma). To dwuwymiarowe podejście zastępuje nadmiernie uproszczoną linię lewica-prawica i lepiej oddaje złożoność ideologii politycznych poprzez rozdzielenie dwóch głównych kategorii wolności.
+reviewed: false

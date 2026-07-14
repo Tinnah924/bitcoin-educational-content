@@ -1,9 +1,9 @@
-question: Amerikan geleneksel muhafazakârlığını toplumsal değişime yaklaşımı bakımından Avrupa'daki 19. yüzyıl muhafazakârlığından ayıran nedir?
-answer: Amerikan geleneksel muhafazakârlığı bireysel özgürlüğü sorumlulukla dengeleyen düzenli bir özgürlük arayışındayken, Avrupa muhafazakârlığı feodal topluma dönüşü savunmuştur
+question: "Michael Oakeshott felsefi çalışmalarında muhafazakârlığı nasıl nitelendirdi?"
+answer: "Katı ve sistematik bir ideolojiden ziyade hayata yönelik bir mizaç ve eğilim olarak"
 wrong_answers:
-  - Amerikan geleneksel muhafazakârlığı sınırsız bireysel özgürlüğü teşvik ederken, Avrupa muhafazakârlığı hayatın her alanında sıkı devlet kontrolünü vurgulamıştır
-  - Amerikan geleneksel muhafazakârlığı yeni kurumlar oluşturmak için devrimci değişimi desteklerken, Avrupa muhafazakârlığı mevcut demokratik yapıları korudu
-  - Amerikan geleneksel muhafazakârlığı her türlü piyasa ekonomisini reddederken, Avrupa muhafazakârlığı endüstriyel kapitalizmi ve teknolojik ilerlemeyi tamamen benimsemiştir
-explanation: |
-  Temel fark, zamansal yönelimleri ve felsefi yaklaşımlarında yatmaktadır. Amerikan geleneksel muhafazakarlığı, bireysel istekleri toplumun ihtiyaçlarıyla uzlaştırmak için 'düzenli özgürlük' kavramını geliştirmiş ve gerileme yerine denge arayışına girmiştir. Buna karşılık, 19. yüzyıl Avrupalı muhafazakârlar açıkça gericiydi ve modern toplumdan tamamen kaçıp sanayi öncesi feodal, tarımsal ve zanaatkâr yapılara geri dönmek istiyorlardı.
-  Bilimsel ve teknolojik ilerlemeyi temelde zararlı olarak görürken, Amerikan muhafazakârları moderniteye uyum sağlarken değerli gelenekleri korumaya çalışmıştır.
+  - "Devletin her alanı için kesin politika reçeteleri olan kapsamlı bir ekonomik teori olarak"
+  - "Modern kurumları ortadan kaldırıp sanayi öncesi topluma dönmeyi amaçlayan devrimci bir hareket olarak"
+  - "Hristiyan teolojisine ve kilise otoritesine dayanan bütünüyle dini bir doktrin olarak"
+explanation: >-
+  Britanyalı bir filozof olan Michael Oakeshott, muhafazakârlığın sistematik bir ideolojiden ziyade mizaç olarak anlaşılmasını savundu. Muhafazakâr Olmak Üzerine (1956) adlı denemesi temel bir referans olmayı sürdürür. Muhafazakârlığın bir eğilim olarak bu yorumu Friedrich Hayek'i de etkiledi. Oakeshott'ın yaklaşımı, siyasetin bir sisteme indirgenebileceği fikrini reddederek siyasette rasyonalizm eleştirisiyle öne çıkar.
+reviewed: false

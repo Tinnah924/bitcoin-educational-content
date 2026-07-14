@@ -1,9 +1,9 @@
-question: Nolan diyagramına göre, siyasi felsefeleri birbirinden ayıran temel faktör nedir?
-answer: Kişisel ve ekonomik alanlarda insan eylemleri üzerindeki hükümet kontrolünün derecesi
+question: "Paleo-liberteryenizm nedir?"
+answer: "Devletin bir zorlama kaynağı olarak reddedilmesini, geleneksel kurumların ve gönüllü toplumsal yapıların güçlendirilmesiyle birleştiren bir sentez"
 wrong_answers:
-  - Sosyalist ve kapitalist ekonomik sistemler arasındaki fark
-  - Geleneksel ahlaki değerler ile ilerici sosyal görüşler arasındaki ayrım
-  - Servetin yeniden dağıtılması ve sosyal programlara verilen destek düzeyi
-explanation: |
-  Nolan diyagramının ana fikri, siyasi felsefeler arasındaki temel farkın, insan eylemleri üzerindeki hükümet kontrolünün derecesi olduğudur
-  hem kişisel hem de ekonomik alanlar. Bu da basit bir sol-sağ ekseninden ziyade iki boyutlu bir model yaratmaktadır. Diğer seçenekler siyaseti kategorize etmenin geleneksel yollarını temsil etmekle birlikte, hem solun hem de sağın devletçi olabileceği - sadece hükümet gücünü farklı alanlarda kullanmak istedikleri - temel içgörüsünü gözden kaçırmaktadır. Diyagram, gerçek ayrımın kendi değerlerini empoze etmek için güç kullanmak isteyenler (ister sol ister sağ olsun) ile genel olarak daha az hükümet kontrolünü tercih edenler arasında olduğunu ortaya koymaktadır.
+  - "Tüm geleneksel değerleri reddeden ve radikal toplumsal ilerlemeciliği teşvik eden bir liberteryen hareket"
+  - "Bazı ekonomik özgürlüklere izin verirken geleneksel değerleri dayatmak için devlet gücünü kullanan muhafazakâr bir ideoloji"
+  - "Sosyalist ekonomi ile muhafazakâr sosyal politika arasında dengeli bir uzlaşma arayan merkezci bir felsefe"
+explanation: >-
+  Paleo-liberteryenizm, devletin kurumsal zorlama kaynağı olarak reddedilmesini, geleneksel kurumların güçlendirilmesi ve devlet otoritesi yerine gönüllü toplumsal yapıların tercih edilmesiyle birleştirir. Geleneksel değerlere daha sempatiyle yaklaşmasıyla neo-liberteryenizmden ayrılır. Paleo-liberteryen, toplulukların sosyalist veya komüniteryen ilkeler etrafında örgütlenmesine karşı çıkmaz; yalnızca bu tür toplulukların değerlerini yasa gücüyle herkese dayatmasını reddeder.
+reviewed: false

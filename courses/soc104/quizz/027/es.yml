@@ -1,8 +1,9 @@
-question: ¿Qué cambio histórico explica por qué los liberales clásicos de Estados Unidos empezaron a llamarse a sí mismos "libertarios" a partir de la década de 1960?
-answer: Los liberales estadounidenses habían evolucionado hasta apoyar el gran gobierno y la intervención estatal, en contra de los principios liberales clásicos
+question: "¿Qué terreno común comparten los libertarios y los conservadores, y qué los divide?"
+answer: "Comparten el apego al gobierno limitado y el rechazo del igualitarismo forzado, pero discrepan sobre el intervencionismo militar y las políticas sociales"
 wrong_answers:
-  - Los liberales europeos adoptaron primero el término "libertario", obligando a los estadounidenses a distinguir su movimiento
-  - El Partido Republicano registró el término "liberal" e impidió que los liberales clásicos lo utilizaran
-  - Los liberales clásicos querían enfatizar su apoyo a programas sociales como el New Deal y la Gran Sociedad
-explanation: |
-  La respuesta correcta refleja la evolución histórica descrita en el texto. Los "liberales" estadounidenses se apartaron gradualmente de los principios liberales clásicos para apoyar una amplia intervención estatal, incluidos programas como el New Deal de FDR y la Gran Sociedad de LBJ. Esto representó un alejamiento fundamental del énfasis del liberalismo clásico en el gobierno limitado y la economía del laissez-faire. Para evitar la confusión con este nuevo significado de "liberal" en Estados Unidos, los partidarios de los principios liberales clásicos adoptaron el término "libertario" en la década de 1960 para distinguir claramente su filosofía de intervención estatal mínima de las políticas intervencionistas que los "liberales" estadounidenses habían llegado a adoptar.
+  - "Comparten el apoyo a políticas comerciales proteccionistas y a la defensa nacional, pero discrepan sobre el papel de la religión en la vida pública"
+  - "Comparten un compromiso con la tributación progresiva y los programas de bienestar, pero discrepan sobre la política migratoria"
+  - "Comparten la oposición al libre comercio y a la legalización de las drogas, pero discrepan sobre el tamaño del gobierno federal"
+explanation: >-
+  Libertarios y conservadores defienden ambos el gobierno limitado, rechazan el igualitarismo forzado, se oponen a la deuda pública y defienden los derechos de los estados. Sin embargo, los libertarios rechazan el intervencionismo militar de los neoconservadores, se oponen a las políticas sociales conservadoras y a los subsidios, condenan la prohibición de las drogas y rechazan el proteccionismo. La alianza es real, pero inherentemente tensa.
+reviewed: false

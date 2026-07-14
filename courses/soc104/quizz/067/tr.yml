@@ -1,9 +1,9 @@
-question: Toplumsal konulardaki özgürlükçü pozisyona göre, tüm alanlarda hükümet politikasına rehberlik etmesi gereken temel ilke nedir?
-answer: Devlet kişisel tercihleri düzenlemekten çekilmeli ve bunun yerine özel kurumların ve piyasa mekanizmalarının bu konuları ele almasına izin vermelidir
+question: "Ateşli silah düzenlemesi konusunda muhafazakâr ve liberteryen tutumlar arasındaki kritik fark nedir?"
+answer: "Her ikisi de bir miktar düzenlemeyi kabul eder, ancak muhafazakârlar kuralların meşru bir kamu otoritesinden gelmesini isterken liberteryenler kuralların yurttaş dernekleri ve piyasa rekabeti gibi doğrudan ilgili olanlardan doğmasını ister"
 wrong_answers:
-  - Devlet, dengeli düzenlemeler yoluyla çoğunluğun kültürel değerlerine saygı gösterirken azınlık haklarını aktif bir şekilde korumalıdır
-  - Devlet, potansiyel olarak zararlı bireysel davranışlar üzerinde sıkı kontrol sağlayarak kamu güvenliği ve sosyal düzene öncelik vermelidir
-  - Devlet, geçmişine bakılmaksızın tüm vatandaşların haklara ve korumalara eşit erişimini sağlayarak sosyal adaleti teşvik etmelidir
-explanation: |
-  Liberteryen felsefe, tüm toplumsal konularda sürekli olarak asgari devlet müdahalesini savunur. İster evlilik (devletin tanıması yerine özelleştirme), ister göçmenlik (devlet kontrolü yerine piyasa temelli), ister silahlar (bireysel öz savunma hakları), isterse de uyuşturucu (devlet müdahalesi olmadan kişisel seçim) tartışılsın, liberteryenler temelde devletin başkalarına doğrudan zarar vermeyen kişisel kararları düzenlememesi gerektiğine inanırlar.
-  Diğer seçenekler ise sırasıyla sosyalist, muhafazakar ve merkezci yaklaşımları temsil etmekte olup, hepsi de devletin kişisel meselelere farklı derecelerde müdahil olmasını kabul etmektedir.
+  - "Muhafazakârlar tüm ateşli silah düzenlemelerine karşı çıkarken liberteryenler kamu güvenliği için sıkı devlet kontrolünü kabul eder"
+  - "Muhafazakârlar ateşli silahları tamamen yasaklamak isterken liberteryenler tüm silahlara sınırsız erişimi destekler"
+  - "Muhafazakârlar tutumlarını bireysel haklara dayandırırken liberteryenler kolektif sorumluluğa dayandırır"
+explanation: >-
+  Hem muhafazakârlar hem de liberteryenler, silah taşımak için bir tür düzenlemenin gerekli olduğu konusunda hemfikirdir. Kritik fark, bu kuralları kimin koyduğundadır. Muhafazakârlar, düzenlemelerin ortak yararı korumakla görevli bir kamu otoritesinden gelmesi gerektiğinde ısrar eder (yukarıdan aşağıya). Liberteryenler ise düzenlemenin doğrudan ilgili olanlardan doğması gerektiğini savunur: güvenlik profesyonelleri, yurttaş dernekleri ve piyasa rekabeti (aşağıdan yukarıya).
+reviewed: false

@@ -1,9 +1,9 @@
-question: De acordo com a filosofia do Satoshi Nakamoto, qual é o problema fundamental das moedas convencionais que o Bitcoin foi concebido para resolver?
-answer: A confiança excessiva exigida em instituições centralizadas que historicamente violaram essa confiança através da desvalorização da moeda
+question: "Como o Bitcoin funciona como um projeto moral com consequências políticas, e não como um projeto político com reivindicações morais?"
+answer: "O Bitcoin foi projetado para tornar as pessoas livres, e não ricas, possibilitando propriedade efetiva, protegendo o valor do trabalho e preservando a privacidade, que são conquistas morais que produzem efeitos políticos sem reivindicar nenhum campo político"
 wrong_answers:
-  - A falta de infra-estruturas digitais e a baixa velocidade de processamento das transacções nos sistemas bancários tradicionais
-  - As elevadas taxas de transação e a acessibilidade limitada das transferências internacionais de dinheiro através dos bancos
-  - O impacto ambiental e o consumo de energia dos sistemas bancários e de processamento de pagamentos tradicionais
-explanation: |
-  Satoshi Nakamoto afirmou explicitamente que "o problema de raiz com a moeda convencional é toda a confiança que é necessária para fazê-la funcionar" e que os bancos centrais devem ser confiáveis para não desvalorizar a moeda, mas "a história das moedas fiduciárias está cheia de violações dessa confiança".
-  Esta citação revela o objetivo central do Bitcoin: eliminar a necessidade de confiança em instituições centralizadas. As outras opções, apesar de serem potencialmente válidas no que respeita às finanças tradicionais, não abordam o problema filosófico fundamental que a Satoshi identificou - o facto de os sistemas fiduciários exigirem uma fé cega em instituições que têm provado repetidamente não serem dignas de confiança através da manipulação e desvalorização monetária.
+  - "O Bitcoin é um projeto moral porque seu código impõe regras éticas que impedem fraudes, e sua consequência política é substituir a governança democrática por tomada de decisão algorítmica"
+  - "O Bitcoin funciona como um projeto moral porque redistribui riqueza dos ricos para os primeiros adotantes, criando uma sociedade mais justa com implicações políticas para a política tributária"
+  - "O Bitcoin é moral porque Satoshi Nakamoto inseriu mandamentos éticos no protocolo, e sua consequência política é unir todas as famílias políticas sob um sistema monetário compartilhado"
+explanation: >-
+  O Bitcoin não foi projetado para tornar as pessoas ricas, mas para torná-las livres. Ele alcança três resultados morais: possibilitar propriedade efetiva (incentivando a responsabilidade), proteger o valor criado pelo trabalho (encorajando o esforço produtivo) e preservar a privacidade (permitindo que as pessoas vivam sem medo). Essas são conquistas morais que carregam consequências políticas sem pertencer a nenhum campo político, tornando-o primeiro um projeto moral e, depois, político.
+reviewed: false

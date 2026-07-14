@@ -1,8 +1,9 @@
-question: Milton Friedman'a göre, yoksullara yönelik sosyal programlar neden çoğu zaman amaçlarına ulaşamamaktadır?
-answer: Çünkü ekonomik bağımlılık ve piyasa çarpıklıkları gibi ters etkiler yaratırlar
+question: "Siyasi sistemlerin niyete dayalı tanımları analitik amaçlar için neden sorunlu kabul edilir?"
+answer: "Kavramsal karışıklık yaratırlar çünkü tüm sistemler adalet, eşitlik ve özgürlük gibi benzer hedefleri izlediğini iddia eder"
 wrong_answers:
-  - Çünkü sponsorları ihtiyaç sahiplerine karşı iyi niyet ve cömertlikten yoksundur
-  - Çünkü gerçek ihtiyaçları karşılamak için yeterli fonları yok
-  - Yararlanıcıların bu programları nasıl etkin bir şekilde kullanacaklarını anlamamaları
-explanation: |
-  Friedman, sosyal politikaların cömert niyetlerine rağmen, insan teşvikleri ve davranışlarının titiz analizini dikkate almadıkları için genellikle başarısız olduklarına işaret etmektedir. Bu programlar, ekonomik bağımlılık veya piyasa çarpıklığı gibi beklenmedik ters etkiler yaratarak başlangıçtaki hedeflere ters düşen sonuçlar doğurmaktadır.
+  - "Fazla kesin ve katıdırlar; siyasi hareketlerin zaman içinde doğal evrimine yer bırakmazlar"
+  - "Ekonomik sonuçlara aşırı odaklanır ve siyasi yaşamın kültürel ve toplumsal boyutlarını görmezden gelirler"
+  - "Bağımsız araştırmacıların nadiren erişebildiği gizli devlet belgelerine dayanırlar"
+explanation: >-
+  Niyete dayalı tanımlar beyan edilmiş motivasyonlara ve hedeflere dayanır, ancak her siyasi sistem adalet, eşitlik ve özgürlüğü izlediğini iddia eder. Bu da sistemleri birbirinden ayırt etmeyi imkânsız hale getirir. Buna karşılık yapısal analiz, sistemleri ampirik, ölçülebilir sonuçlarına ve kullandıkları araçlara göre değerlendirir; retoriğin ötesindeki gerçek doğalarını ortaya koyar.
+reviewed: false

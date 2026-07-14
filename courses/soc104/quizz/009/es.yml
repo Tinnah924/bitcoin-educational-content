@@ -1,9 +1,9 @@
-question: ¿Cuáles son los dos ejes que forman el diagrama de Nolan?
-answer: Libertad económica y libertad personal
+question: "¿Qué tensión interna existe entre los libertarios en el diagrama de Nolan?"
+answer: "Algunos quieren abolir por completo el Estado (anarcocapitalistas), mientras que otros prefieren un Estado mínimo que conserve funciones soberanas esenciales (minarquistas)"
 wrong_answers:
-  - Izquierda-derecha y autoritario-democrático
-  - Conservador-liberal y Estado-mercado
-  - Individual-colectivo y tradicional-progresivo
-explanation: |
-  El diagrama de Nolan se construye sobre dos ejes distintos: la libertad económica (la capacidad de tomar decisiones económicas sin interferencia del gobierno) y la libertad personal
-  (libertad individual en asuntos personales). Este enfoque bidimensional permite una representación más matizada de las posiciones políticas que el tradicional eje único izquierda-derecha. Las otras opciones representan conceptos políticos diferentes, pero no son los ejes utilizados en el diseño específico del gráfico de Nolan.
+  - "Algunos quieren una fuerte regulación económica, mientras que otros prefieren la desregulación completa de todas las industrias"
+  - "Algunos apoyan elecciones democráticas, mientras que otros favorecen un sistema hereditario de gobierno"
+  - "Algunos defienden políticas sociales progresistas, mientras que otros defienden valores morales estrictamente tradicionales"
+explanation: >-
+  Dentro de la familia libertaria hay un desacuerdo fundamental sobre el papel del Estado. Los anarcocapitalistas quieren sustituir todas las funciones estatales por servicios privados, mientras que los minarquistas aceptan un Estado mínimo que conserve funciones soberanas esenciales como la defensa y los tribunales. Ambos grupos comparten la cima libertaria, pero difieren sobre si debe existir algún Estado en absoluto.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Mis eristab konservatiivide majandusfilosoofiat nende lähenemisest sotsiaalküsimustele?
-answer: Nad toetavad tugevaid majanduslikke vabadusi, kuid pooldavad valitsuse sekkumist traditsiooniliste sotsiaalsete ja moraalinormide jõustamiseks
+question: "Keda nimetatakse sageli modernse konservatismi rajajaks?"
+answer: "Edmund Burke'i, kes pooldas institutsioonide ja traditsioonide säilitamist Prantsuse revolutsiooni radikaalsete muutuste vastu"
 wrong_answers:
-  - Nad pooldavad valitsuse minimaalset sekkumist nii majandus- kui ka sotsiaalvaldkonnas võrdselt
-  - Nad toetavad ulatuslikku riiklikku reguleerimist majanduses, propageerides samas täielikku sotsiaalset liberaalsust
-  - Nad pooldavad tugevat riiklikku kontrolli nii majandusturgude kui ka individuaalse sotsiaalse käitumise üle
-explanation: |
-  Konservatiividele on omane kahekordne lähenemine: nad pooldavad majanduslikku vabadust madala maksustamise, minimaalse ettevõtluse reguleerimise ja vaba ettevõtluse kaudu,
-  toetades samal ajal valitsuse sekkumist sotsiaalküsimustesse, et säilitada traditsioonilisi väärtusi, korda ja moraalinorme. See tekitab näilise vastuolu, kus nad soovivad valitsuse piiratust majanduses, kuid aktiivset sotsiaalsete normide jõustamist. Teised valikud moonutavad seda põhilist konservatiivset pinget - nad ei taotle kõikjal minimaalset sekkumist ega soovi ulatuslikku majanduslikku reguleerimist või täielikku sotsiaalset kontrolli.
+  - "Karl Marxi, kes töötas üheksateistkümnendal sajandil välja klassivõitluse ja ajaloolise materialismi teooria"
+  - "John Locke'i, kes sõnastas seitsmeteistkümnendal sajandil loomulike õiguste ja ühiskondliku lepingu teooria"
+  - "Adam Smithi, kes kirjutas teose The Wealth of Nations ja rajas klassikalise majandusteaduse distsipliini"
+explanation: >-
+  Edmund Burke'i nimetatakse sageli konservatismi rajajaks tema vastuseisu tõttu Prantsuse revolutsioonile. Tema teos Reflections on the Revolution in France (1790) kaitses ettevaatlikkust ja järkjärgulist reformi radikaalsete muutuste asemel. Ta uskus, et ühiskond ei peaks edenema puhtalt lehelt alustades, vaid samm-sammuliste reformide kaudu, mis säilitavad läbiproovitud institutsioonid ja traditsioonid.
+reviewed: false

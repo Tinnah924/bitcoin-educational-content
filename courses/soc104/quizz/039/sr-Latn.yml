@@ -1,8 +1,9 @@
-question: Prema perspektivi Miltona Friedmana, glavni problem sa ocenjivanjem socijalnih politika na osnovu njihovih deklarisanih ciljeva, umesto stvarnih ishoda, jeste taj što se time može zanemariti stvarna efikasnost i posledice tih politika. Fokusiranje samo na ciljeve može dovesti do ignorisanja negativnih efekata ili neuspeha u postizanju željenih rezultata, što može rezultirati podrškom za politike koje nisu delotvorne ili čak štetne.
-answer: Politike sa dobrim namerama često proizvode nenameravane posledice koje su u suprotnosti sa njihovim originalnim ciljevima, kao što su stvaranje zavisnosti ili tržišne distorzije.
+question: "Zašto se intencionalne definicije političkih sistema smatraju problematičnim za analitičke svrhe?"
+answer: "Stvaraju pojmovnu konfuziju jer svi sistemi tvrde da slede slične ciljeve poput pravde, pravičnosti i slobode"
 wrong_answers:
-  - Političari namerno pogrešno predstavljaju svoje prave namere kako bi sakrili svoju stvarnu agendu od javnosti i izbegli odgovornost.
-  - Dobre namere su inherentno manjkave jer odražavaju lične predrasude umesto objektivne naučne analize društvenih problema.
-  - Izjavljeni ciljevi su obično previše ambiciozni i nerealni da bi se postigli u okviru ograničenih budžeta i resursa vlade.
-explanation: |
-  Friedmanova kritika fokusira se na jaz između namera i rezultata, a ne na iskrenost ili izvodljivost ciljeva. On tvrdi da politike osmišljene da pomognu često imaju suprotan efekat zbog lošeg razumevanja ljudskih podsticaja i ekonomskih mehanizama. Problem nije neiskrenost, pristrasnost ili budžetska ograničenja, već to što dobre namere ne garantuju dobre ishode. Zato se zalaže za strukturne definicije koje ispituju kako sistemi zapravo funkcionišu, a ne šta tvrde da postignu.
+  - "Previše su precizne i krute, ne ostavljajući prostor za prirodnu evoluciju političkih pokreta tokom vremena"
+  - "Previše se usredsređuju na ekonomske ishode i zanemaruju kulturne i društvene dimenzije političkog života"
+  - "Oslanjaju se na poverljive vladine dokumente koji su retko dostupni nezavisnim istraživačima"
+explanation: >-
+  Intencionalne definicije oslanjaju se na deklarisane motivacije i ciljeve, ali svaki politički sistem tvrdi da teži pravdi, pravičnosti i slobodi. Zbog toga postaje nemoguće razlikovati sisteme jedne od drugih. Strukturna analiza, nasuprot tome, procenjuje sisteme prema njihovim empirijskim, merljivim posledicama i sredstvima koja koriste, otkrivajući njihovu pravu prirodu iza retorike.
+reviewed: false

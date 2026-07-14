@@ -1,9 +1,9 @@
-question: Jaký je podle filozofie Satoshi Nakamota základní problém konvenčních měn, který měl Bitcoin vyřešit?
-answer: Přílišná důvěra v centralizované instituce, které ji v minulosti narušily znehodnocením měny
+question: "Jaké je hlavní poselství Manifestu šifrantů Erica Hughese z roku 1993 ohledně soukromí?"
+answer: "Soukromí je v elektronickém věku nezbytné pro otevřenou společnost a jednotlivci si je musí vybudovat sami, místo aby očekávali, že jim je zaručí vlády nebo korporace"
 wrong_answers:
-  - Nedostatečná digitální infrastruktura a nízká rychlost zpracování transakcí v tradičních bankovních systémech
-  - Vysoké transakční poplatky a omezená dostupnost mezinárodních převodů peněz prostřednictvím bank
-  - Dopad tradičních bankovních systémů a systémů zpracování plateb na životní prostředí a jejich spotřeba energie
-explanation: |
-  Satoshi Nakamoto výslovně prohlásil, že "hlavním problémem konvenční měny je veškerá důvěra, která je nutná k jejímu fungování" a že je třeba důvěřovat centrálním bankám, že měnu neznehodnotí, ale "historie fiat měn je plná porušení této důvěry".
-  Tento citát odhaluje hlavní cíl Bitcoin: odstranit potřebu důvěry v centralizované instituce. Ostatní možnosti, ačkoli potenciálně oprávněné obavy týkající se tradičních financí, neřeší základní filozofický problém, který Satoshi identifikoval - že fiat systémy vyžadují slepou důvěru v instituce, které opakovaně prokázaly nedůvěryhodnost prostřednictvím měnové manipulace a znehodnocování měny.
+  - "Soukromí je luxus, který musí být obětován výměnou za národní bezpečnost a ochranu demokratických institucí"
+  - "Soukromí by mělo být regulováno mezinárodními smlouvami, které stanoví jednotné standardy ochrany dat ve všech zemích"
+  - "Soukromí je důležité pouze pro zločince a disidenty, zatímco zákon dodržující občané těží z transparentních systémů dohledu"
+explanation: >-
+  Manifest Erica Hughese z roku 1993 uvádí, že soukromí je v elektronickém věku nezbytné pro otevřenou společnost a že nemůžeme očekávat, že ho zaručí vlády, korporace nebo jiné velké organizace. Základní motivací je, že důvěrnost je klíčovým prvkem svobody a musí ji budovat sami jednotlivci, nikoli ji očekávat jako dar od institucí.
+reviewed: false

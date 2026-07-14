@@ -1,8 +1,9 @@
-question: Enligt Gustave Molinaris analys i "Les Soirées de la rue Saint Lazare" (eng. Evenings on Saint Lazarus Street), vilken grundläggande likhet finns det mellan konservativa och socialister trots deras uppenbara ideologiska skillnader?
-answer: Båda försöker införa sin vision av samhället genom statliga ingripanden, trots att de har olika sociala mål
+question: "Hur skiljer sig den libertarianska uppfattningen om frihet från den centristiska uppfattningen?"
+answer: "Libertarianer behandlar frihet som ett ovillkorligt axiom, medan centrister försvarar friheter opportunistiskt beroende på sammanhang och effektivitet"
 wrong_answers:
-  - Båda förkastar individuell äganderätt till förmån för kollektivt ägande som förvaltas av olika institutioner
-  - Båda ser frihet som en absolut princip som aldrig får begränsas oavsett sociala konsekvenser
-  - Båda motsätter sig alla former av statliga regleringar och stöder olika typer av privata marknadslösningar
-explanation: |
-  Molinaris viktigaste insikt var att konservativa och socialister, trots sina motsatta samhällsvisioner, har en gemensam metodologisk ansats: båda förlitar sig på statsmakten för att införa den samhällsordning de föredrar. Konservativa använder staten för att upprätthålla traditionella strukturer, medan socialister använder den för att skapa nya egalitära strukturer. Detta skiljer dem från libertarianer, som motsätter sig statligt påtvingad social ingenjörskonst oavsett dess ideologiska inriktning. De andra alternativen ger en felaktig bild av dessa ideologiers faktiska inställning till egendom, frihet och regering.
+  - "Libertarianer tillåter staten att skydda frihet selektivt, medan centrister avvisar varje statlig inblandning i skyddet av individuella rättigheter"
+  - "Libertarianer fokuserar frihet enbart på ekonomiska frågor, medan centrister tillämpar frihet brett över sociala och kulturella områden"
+  - "Libertarianer och centrister delar samma syn på frihet men är oense om hur stor stat som krävs för att upprätthålla den"
+explanation: >-
+  Libertarianer definierar frihet som en allmän, ovillkorlig princip som fungerar som ett axiom. Centrister försvarar däremot vissa friheter på ett opportunistiskt och kontextuellt sätt utan att tillämpa någon allmän princip. Det centristiska angreppssättet visar en instrumentell uppfattning om frihet, alltid underordnad pragmatiska mål som effektivitet, vilket libertarianer i grunden avvisar.
+reviewed: false

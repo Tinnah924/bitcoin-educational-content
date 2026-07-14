@@ -1,8 +1,9 @@
-question: According to Mises' analysis, what fundamental characteristic distinguishes right-wing collectivism (fascism/nazism) from left-wing collectivism (socialism/communism)?
-answer: Both share hatred of individual freedom and justification of violence despite different motivations
+question: "Qu'est-ce que la devise de Kant « Sapere aude » encourage les gens à faire ?"
+answer: "Oser penser par eux-mêmes et sortir de l'état de minorité où ils dépendent de la direction d'une autorité supérieure"
 wrong_answers:
-  - Right-wing collectivism preserves private property while left-wing collectivism abolishes it entirely
-  - Right-wing collectivism is based on rational planning while left-wing collectivism relies on emotional appeals
-  - Right-wing collectivism allows limited individual autonomy while left-wing collectivism permits none
-explanation: |
-  Mises argues there is no fundamental difference between Hitler's nazism and Stalin's communism in their essential nature. Both represent collectivist ideologies that hate individual freedom and justify violence, even though their stated motivations differ. The key insight is that despite appearing opposed, both fascism and communism subordinate the individual to a collective entity and use force to achieve their goals. This challenges the common assumption that these ideologies are fundamentally different - Mises sees them as variations of the same anti-individualist theme.
+  - "Poursuivre le savoir académique en s'inscrivant dans des institutions éducatives formelles et en obtenant des diplômes"
+  - "Remettre en cause toutes les formes de moralité et créer des systèmes éthiques entièrement nouveaux fondés sur le désir personnel"
+  - "Chercher la sagesse par la dévotion religieuse et la soumission aux enseignements de l'Église"
+explanation: >-
+  Sapere aude, qui signifie « Ose penser par toi-même », a été repris par Kant au poète Horace et fait la devise des Lumières. Il symbolise la sortie de la minorité, un état dans lequel les personnes sont incapables de se servir de leur entendement sans la direction d'une classe ou d'une autorité supérieure. Kant encourage l'émancipation et la pleine responsabilité de sa propre pensée.
+reviewed: false

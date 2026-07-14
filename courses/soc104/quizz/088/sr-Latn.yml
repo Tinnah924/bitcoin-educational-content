@@ -1,9 +1,9 @@
-question: Prema okviru Karla Popera, fundamentalna karakteristika koja razlikuje otvoreno društvo od zatvorenog društva je sposobnost otvorenog društva da prihvati kritiku i promene, dok zatvoreno društvo teži očuvanju statusa quo i suzbijanju kritičkog mišljenja.
-answer: Sposobnost pojedinaca da primene kritičko rasuđivanje i ličnu odgovornost u donošenju odluka
+question: "Zašto Popper tvrdi da otvoreno društvo ostaje inherentno krhko uprkos svojim prednostima?"
+answer: "Zato što odgovornost koju individualizam podrazumeva može delovati zastrašujuće, stvarajući iskušenje da se potraži utočište u zajedničkoj zaštiti, autoritetu ili nostalgiji za idealizovanom prošlošću"
 wrong_answers:
-  - Stepen ekonomske slobode i razmene zasnovane na tržištu između različitih društvenih grupa
-  - Nivo tehnološkog napretka i naučnog progresa koji je društvo postiglo
-  - Obim demokratskog učešća i vladavine većine u procesima političkog odlučivanja
-explanation: |
-  Popper definiše otvoreno društvo kao ono gde se pojedinci suočavaju sa ličnim odlukama i mogu da primene kritički sud, dok zatvoreno društvo odbija kritičku slobodu i individualnu odgovornost. 
-  Razlika se suštinski odnosi na kognitivnu i moralnu autonomiju, a ne na ekonomske sisteme, tehnološki napredak ili demokratske procedure. Zatvorena društva se plaše promene i kritike, idealizujući statički poredak, dok otvorena društva prihvataju dinamičku kritiku i individualni izbor unutar apstraktnih pravila ponašanja.
+  - "Zato što otvorena društva nemaju vojnu snagu i ne mogu se braniti od invazije zatvorenih društava"
+  - "Zato što su demokratske institucije inherentno neefikasne i na kraju se urušavaju pod teretom birokratske složenosti"
+  - "Zato što otvorena društva dopuštaju preveliku ekonomsku nejednakost, što neizbežno vodi revoluciji i uspostavljanju autoritarnih režima"
+explanation: >-
+  Popper naglašava da krhkost otvorenog društva potiče iz psihološke ranjivosti. Odgovornost koju individualizam podrazumeva može delovati zastrašujuće i rizično zato što čovek mora donositi sopstvene izbore i može pogrešiti. To stvara iskušenje da se potraži utočište u zajedničkoj zaštiti ili nostalgičnim težnjama ka idealizovanoj prošlosti. Otvoreno društvo suočava se sa stalnim izazovima komunitarnih impulsa i ponavljajućim iskušenjem nasilja.
+reviewed: false

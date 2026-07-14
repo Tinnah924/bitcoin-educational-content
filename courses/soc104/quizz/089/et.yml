@@ -1,8 +1,9 @@
-question: Austria majandusteadlase Ludwig von Misesi metodoloogilise individualismi vaatenurgast lähtuvalt, mis on kollektiivsetele üksustele tegevuste omistamise põhiline piirang?
-answer: Ainult üksikisikutel on võime mõelda, mõelda ja tegutseda, mistõttu kollektiivsed üksused on pelgalt abstraktsioonid, millel puudub iseseisev olemasolu või reaalsus
+question: "Milles seisneb peamine lahkarvamus libertaaride ja teiste poliitiliste perekondade vahel, kui neil on samad eesmärgid?"
+answer: "Lahkarvamus puudutab vahendeid: libertaarid lükkavad tagasi sunnilahendused ja eelistavad vabatahtlikku vahetust turuprotsessi kaudu"
 wrong_answers:
-  - Kollektiivsed üksused võivad küll mõelda ja tegutseda, kuid nende otsused on demokraatliku ebaefektiivsuse tõttu alati individuaalsetest valikutest halvemad
-  - Kollektiivsetel üksustel on esilekerkivad omadused, mis ületavad individuaalseid võimeid, kuid neil puudub moraalne autoriteet, mis oleks üle isiklikust autonoomiast
-  - Kollektiivsed üksused võivad teha ratsionaalseid otsuseid kogutud tarkuse abil, kuid neid peaksid piirama põhiseaduslikud piirangud, mis kaitsevad üksikisiku õigusi
-explanation: |
-  Misesi metodoloogiline individualism väidab, et "ainult üksikisik mõtleb, ainult üksikisik põhjendab, ainult üksikisik tegutseb" See tähendab, et kollektiivsetel üksustel ei ole mingit olemasolu ega reaalsust väljaspool nende üksikute liikmete tegevust. Ühiskonnal ei ole oma tahet ega mõtlemist - kõik kollektiivsed tegevused tuleb seletada nende individuaalsete komponentide kaudu. Teised valikud eeldavad ekslikult, et kollektiivsed üksused omavad mingisugust iseseisvat mõtlemis- või otsustusvõimet, mis on vastuolus Misesi põhiprintsiibiga, et ainult üksikisikud saavad tõeliselt mõelda ja tegutseda.
+  - "Lahkarvamus puudutab lõppeesmärke: libertaarid taotlevad teistsuguseid eesmärke, nagu individuaalne rikkus, mitte ühiskondlik heaolu"
+  - "Lahkarvamus puudutab ajastust: libertaarid tahavad samu eesmärke saavutada aeglasemalt järkjärgulise reformi kaudu"
+  - "Lahkarvamus puudutab ulatust: libertaarid tahavad samu poliitikaid rakendada ainult kohalikul, mitte riiklikul tasandil"
+explanation: >-
+  Libertaarid võivad sotsialistide, konservatiivide ja tsentristidega nõustuda teatud eesmärkides, nagu rõhutute kaitsmine või sotsiaalse ühtekuuluvuse edendamine. Lahkarvamus ei seisne lõppeesmärkides, vaid vahendites. Libertaarid lükkavad tagasi kõik sunnilahendused, mis püüavad praktikaid ja regulatsioone ühetaoliseks muuta, kaitstes selle asemel valikuvõimu ja vastutustundlikku vabadust vabade, detsentraliseeritud vahetuste kaudu, mis põhinevad vabatahtlikel lepingutel.
+reviewed: false

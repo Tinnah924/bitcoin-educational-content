@@ -1,8 +1,9 @@
-question: According to the libertarian position on societal issues, what is the fundamental principle that should guide government policy across all domains?
-answer: The state should withdraw from regulating personal choices and allow private institutions and market mechanisms to handle these matters instead
+question: "Quelle est la position conservatrice sur l'immigration ?"
+answer: "L'État a le droit souverain de contrôler ses frontières afin de protéger la sécurité nationale et l'identité culturelle"
 wrong_answers:
-  - The state should actively protect minority rights while respecting majority cultural values through balanced regulation
-  - The state should prioritize public safety and social order by maintaining strict control over potentially harmful individual behaviors
-  - The state should promote social justice by ensuring equal access to rights and protections for all citizens regardless of background
-explanation: |
-  The libertarian philosophy consistently advocates for minimal state intervention across all societal issues. Whether discussing marriage (privatization rather than state recognition), immigration (market-based rather than state-controlled), guns (individual self-defense rights), or drugs (personal choice without state interference), libertarians fundamentally believe the state should not regulate personal decisions that don't directly harm others. The other options represent socialist, conservative, and centrist approaches respectively, which all accept varying degrees of state involvement in personal matters.
+  - "Les frontières devraient être ouvertes sans condition, car les restrictions discriminatoires violent les droits humains"
+  - "L'immigration devrait être déterminée par la demande du marché, les citoyens décidant contractuellement de leurs relations avec les étrangers"
+  - "La politique d'immigration devrait équilibrer les besoins économiques et une intégration réussie sur la base d'une évaluation par des experts"
+explanation: >-
+  Les conservateurs considèrent que l'ordre, l'identité et la souveraineté nationale doivent primer sur l'accueil sans restriction des étrangers ou des réfugiés. Les frontières et une population bien définie font partie des valeurs civilisées. Les mauvaises réponses représentent la position socialiste (frontières ouvertes au nom des droits humains), la position libertarienne (immigration fondée sur le marché) et la position centriste (approche équilibrée pilotée par des experts).
+reviewed: false

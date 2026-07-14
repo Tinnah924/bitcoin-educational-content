@@ -1,8 +1,9 @@
-question: Hayeki hajutatud teadmiste teooria kohaselt, miks ei suuda tsentraalne plaanimajandus ressursse tõhusalt jaotada võrreldes vabaturusüsteemidega?
-answer: Kesksed planeerijad ei pääse ligi killustatud, kohalikele teadmistele, mida üksikisikud omavad oma konkreetsete vajaduste, eelistuste ja asjaolude kohta, mis muudab optimaalse ressursside jaotamise võimatuks.
+question: "Milline järgmistest on Hayeki kirjeldatud spontaanse korra näide?"
+answer: "Keel, mis arenes orgaaniliselt ajalooliste vastastikmõjude kaudu, mitte intellektuaalide poolt büroos kavandatuna"
 wrong_answers:
-  - Keskplaneerijatel puudub piisav arvutusvõimsus ja täiustatud algoritmid, et töödelda kõiki majandusandmeid, mida on vaja ressursside optimaalse jaotamise otsuste tegemiseks.
-  - Keskplaneerijad on loomupäraselt korrumpeerunud ja omakasupüüdlikud, seades majandusotsuste tegemisel oma heaolu ühiskonna vajadustest ettepoole.
-  - Kesksed planeerijad keskenduvad liiga palju pikaajalistele strateegilistele eesmärkidele, jättes samal ajal tähelepanuta üksikute kodanike vahetud tarbimisvajadused ja eelistused.
-explanation: |
-  Hayeki peamine arusaam on, et teadmised on olemas ainult "killudena, mis on laiali hajutatud ebatäielikest ja sageli vastuolulistest teadmistest, mida omavad kõik erinevad indiviidid" Turu hinnasüsteem toimib avastamismehhanismina, mis mobiliseerib need hajutatud teadmised vabatahtliku vahetuse kaudu. Kesksed planeerijad, sõltumata nende kavatsustest või võimetest, ei saa juurdepääsu subjektiivsele, lokaliseeritud teabele, mis üksikisikutel on kulude, kasu ja eelistuste kohta. See tekitab fundamentaalse "teadmiste probleemi", mis muudab keskse planeerimise olemuslikult ebatõhusaks võrreldes spontaanse turukoordineerimisega.
+  - "Riiklik põhiseadus, mille valitud esindajad hoolikalt koostasid ühiskondlike reeglite kehtestamiseks"
+  - "Valitsuse stimuleerimiskava, mille majandusteadlased kavandasid majandustegevuse koordineerimiseks"
+  - "Avalik haridussüsteem, mille seadusandjad lõid universaalse juurdepääsu tagamiseks teadmistele"
+explanation: >-
+  Hayek kirjeldab spontaanset korda kui ühiskonna vabade vastastikmõjude saadust, mis tuleneb inimtegevusest, kuid mitte tahtlikust inimlikust kavandamisest. Keel on esmane näide: prantsuse, inglise ja saksa keelt ei konstrueerinud intellektuaalid grammatikareegleid otsustades, vaid need kujunesid ajalooliste vastastikmõjude kaudu üles ehitatud aeglase, orgaanilise korralduse viljana.
+reviewed: false

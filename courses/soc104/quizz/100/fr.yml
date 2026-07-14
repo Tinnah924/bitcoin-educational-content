@@ -1,8 +1,9 @@
-question: According to Eric Hughes' Cypherpunk Manifesto, what is the primary responsibility for defending privacy in an open electronic society?
-answer: Individuals must actively defend their own privacy rather than relying on governments or corporations to provide it
+question: "Qu'est-ce que le cours identifie comme la véritable fracture politique, au-delà du spectre traditionnel gauche-droite-centre ?"
+answer: "La fracture entre des principes philosophiques fondamentaux : liberté ou coercition, consentement volontaire ou contrainte, l'individu responsable ou le collectif"
 wrong_answers:
-  - Governments should establish comprehensive privacy regulations to protect citizens from corporate surveillance
-  - Corporations must implement voluntary privacy standards and self-regulate their data collection practices
-  - International organizations should create binding treaties that mandate privacy protections across all nations
-explanation: |
-  Eric Hughes explicitly stated in the Cypherpunk Manifesto that 'We cannot expect governments, corporations, or other large anonymous organizations to guarantee us confidentiality... My main objective for Cypherpunks is to make people defend their confidentiality, rather than relying on someone else to provide it.' This philosophy emphasizes individual responsibility and self-reliance through cryptographic tools, rejecting dependence on external institutions for privacy protection, which is why the cypherpunks developed decentralized cryptographic systems.
+  - "La fracture entre nations riches et nations pauvres autour du contrôle des accords commerciaux internationaux et des institutions financières mondiales"
+  - "La fracture entre populations urbaines et rurales autour des priorités de dépenses publiques et des investissements en infrastructures"
+  - "La fracture entre cultures progressistes et traditionnelles autour des normes sociales, des valeurs familiales et de l'éducation religieuse"
+explanation: >-
+  Le cours soutient que la véritable fracture politique ne réside pas dans les étiquettes traditionnelles gauche-droite-centre, mais dans des principes philosophiques fondamentaux : liberté ou coercition, consentement volontaire ou contrainte, l'individu responsable ou le collectif. La bonne manière de penser la politique est de partir des principes éthiques plutôt que des étiquettes.
+reviewed: false

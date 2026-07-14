@@ -1,20 +1,18 @@
 ---
-name: Siyasi eğilimin nedir?
-goal: Kendi eğiliminizi belirlemek ve sol-sağ ayrımının ötesindeki başlıca ideolojik aileleri konumlandırmak için modern siyasi yelpazenin karmaşıklığını anlayın.
+name: Siyasi Eğiliminiz Nedir?
+goal: Modern siyasi yelpazenin karmaşıklığını anlayarak kendi eğiliminizi belirlemek ve başlıca ideolojik aileleri sol-sağ ayrımının ötesinde konumlandırmak.
 objectives: 
-  - Siyasi tipolojinin basit bir sol/sağ ekseninden daha nüanslı olduğunun anlaşılması
-  - Siyasi yelpazeyi yapılandıran iki ana boyutu tanımlamak
-  - Dört ana siyasi aileyi karakterize ediniz
-  - Bitcoin kullanıcılarının siyasi yelpazedeki konumlarının araştırılması
+  - Siyasi tipolojinin basit bir sol/sağ ekseninden daha nüanslı olduğunu anlamak
+  - Siyasi yelpazeyi yapılandıran iki ana boyutu belirlemek
+  - Dört ana siyasi aileyi karakterize etmek
+  - Bitcoincilerin siyasi yelpazedeki konumunu keşfetmek
+
 
 ---
 
-Siyasi duruşunuz sağa mı yoksa sola mı kayıyor? Bu ders, temel Özgürlük-Zorlama ekseni üzerinden siyasi yelpazeyi anlamaya yönelik devrimci bir yaklaşım sunmaktadır. Nolan Diyagramını kullanarak, siyasi aileleri -sosyalistler, muhafazakarlar, merkezciler ve liberteryenler- belirtilen niyetlerine göre değil, hükümet kontrolüne duydukları güven derecelerine göre analiz ediyoruz. Kendiliğinden oluşan düzenin mantığını keşfedin, gerçek felsefi meseleleri (bireyciliğe karşı kolektivizm) keşfedin ve geleneksel etiketlerin tuzaklarına düşmeden kendi değerlerinizi tanımlamayı öğrenin.
+Siyasi konumlanmanız sağ ya da soldan mı ibaret? Bu kurs farklı bir çerçeve öneriyor: temel Özgürlük-Zorlama ekseni. Nolan Diyagramı'nı kullanarak siyasi aileleri (sosyalistler, muhafazakârlar, merkezciler ve liberteryenler) ilan ettikleri niyetlere göre değil, hükümet denetimine duydukları güvene göre analiz ediyoruz. **Kendiliğinden düzenin mantığını keşfedin, gerçek felsefi fay hatlarını inceleyin ve geleneksel etiketlerin ötesinde kendi değerlerinizi tanımlamayı öğrenin.**
 
-
-
-Bu ders aynı zamanda Bitcoin'ın neden bir para biriminden daha fazlası olduğunu da ortaya koyacaktır: Cypherpunks'tan miras kalan siyasi bir projedir. Doğrusal bir eksende sınıflandırılabilir olmaktan çok uzak olan Bitcoin, devlet para birimine karşı çıkan, enflasyon ve gözetimden barışçıl bir kaçış sunan merkezsizleştirici bir güçtür. Bitcoin, para üzerindeki merkezi gücü sınırlandırarak temel siyasi soruyu yeniden tanımlıyor: Hayatınıza siz mi karar veriyorsunuz, yoksa başkası mı? İdeolojik pusulanızı keskinleştirmek ve bu teknolojinin bireysel özgürlüğünüz üzerindeki derin siyasi etkisini anlamak için bu analize dalın.
-
+Bu kurs ayrıca Bitcoin'in Cypherpunklardan miras kalan siyasi bir proje olduğunu da ortaya koyuyor. Devlet parasına karşı duran merkezsizleştirici bir güç olarak Bitcoin, temel siyasi soruyu yeniden tanımlar: **hayatınıza siz mi karar veriyorsunuz, yoksa başka biri mi?**
 
 
 
@@ -23,1916 +21,1616 @@ Bu ders aynı zamanda Bitcoin'ın neden bir para biriminden daha fazlası olduğ
 # Giriş
 
 
-
 <partId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</partId>
 
 
+## Kursa genel bakış
+
+<chapterId>2209cf28-29ab-4092-88bd-9ffdc7942972</chapterId>
+
+### Hoş geldiniz
+
+Büyük siyasi aileler hakkındaki bu kursa hoş geldiniz. Solcu musunuz, sağcı mı, liberteryen mi, muhafazakâr mı, sosyalist mi, merkezci mi? Çoğumuz bu soruya aşırı soldan aşırı sağa uzanan basit bir yatay çizgi kullanarak cevap vermek üzere eğitildik. Sorun şu ki, 1789 Fransız Devrimi'nden miras kalan bu çizgi artık siyasi gerçekliği açıklamıyor. Aslında hiçbir zaman tam olarak açıklamamıştı.
+
+Damien Theillier tarafından geliştirilen bu kurs farklı bir çerçeve öneriyor: özgürlük-zorlama ekseni. Sol ile sağ arasında nerede durduğunuzu sormak yerine daha temel bir soru soruyoruz: bireylerin kendi hayatlarını örgütlemelerine güveniyor musunuz, yoksa bunu onlar adına merkezi bir otoritenin yapması gerektiğine mi inanıyorsunuz? Perspektifteki bu tek değişim, haberleri okuma, politika önerilerini değerlendirme ve kendi kanaatlerinizi anlama biçiminizi dönüştürür.
+
+### Ne öğreneceksiniz
+
+Bu kursun sonunda şunları yapabileceksiniz:
+
+- **Sol-sağ yanılsamasını aşarak görmek.** Medyada hâlâ baskın olan bu sınıflandırmanın neden gösterdiğinden fazlasını gizlediğini ve Frederic Bastiat gibi düşünürlerin ya da Bitcoin gibi yeniliklerin neden bu çizgiye yerleştirilemeyeceğini anlayacaksınız.
+- **Siyasi yelpazeyi iki boyutta haritalamak.** Nolan Diyagramı'nı kullanarak ekonomik özgürlüğü kişisel özgürlükten ayırmayı ve bu ayrımdan doğan dört büyük siyasi aileyi belirlemeyi öğreneceksiniz: sosyalistler, muhafazakârlar, liberteryenler ve merkezciler.
+- **Siyasi konumları sloganlarına göre değil, yapılarına göre analiz etmek.** Siyasetçiler adalet, düzen, ilerleme ya da denge vadeder. Siz, beyan edilen niyetlerin ötesine bakmayı ve her ailenin dayandığı gerçek mekanizmayı incelemeyi öğreneceksiniz: yeniden dağıtım, gelenek, gönüllü mübadele ya da pragmatik uzlaşma.
+- **Siyasi anlaşmazlıkların arkasındaki felsefi kökleri tanımak.** İlke olarak özgürlük ile fırsat olarak özgürlük, kendiliğinden düzen ile inşa edilmiş düzen, bireycilik ile kolektivizm: gerçek fay hatları bunlardır ve bu kurs sizi bunları herhangi bir tartışmada tanımlayacak şekilde donatır.
+- **Bitcoin'in neden siyasi bir proje olduğunu anlamak.** Tarafsız bir teknoloji olmaktan çok uzak olan Bitcoin, cypherpunk geleneğini devralır ve çağımızın en temel siyasi sorusunu sorar: parayı kim kontrol eder ve dolayısıyla hayatınızı kim kontrol eder?
+- **Kendi siyasi kimliğinizi kesinlikle tanımlamak.** Bir yorumcu ya da test tarafından size verilen bir etiketi kabul etmek yerine, kendi konumunuzu ilk ilkelerden hareketle inşa edecek, tam olarak nerede durduğunuzu ve neden orada durduğunuzu anlayacaksınız.
+
+### Müfredat
+
+Kurs altı bölümden oluşur:
+
+**Bölüm 1, Sağ-sol ayrımı tuzağı.** Geleneksel siyasi ekseni sökerek başlıyoruz. Frederic Bastiat ve Bitcoin örnekleri üzerinden, çağımızın en önemli siyasi fikirlerinin soldan sağa uzanan bir çizgiyle yakalanamayacağını gösteriyoruz.
+
+**Bölüm 2, Yeni bir ayrıma doğru: özgürlük-zorlama.** Nolan Diyagramı'nı ve onun iki boyutunu, ekonomik özgürlük ile kişisel özgürlüğü tanıtıyoruz; bunlar çok daha zengin bir siyasi manzarayı ortaya çıkarır. Muhafazakârların, sosyalistlerin, liberteryenlerin ve merkezcilerin gerçekte nerede durduğunu ve "aşırı sağ" ya da "aşırı sol" gibi etiketlerin açıklığa kavuşturduğundan fazlasını nasıl örttüğünü keşfedeceksiniz.
+
+**Bölüm 3, Mikroskop altında siyasi aileler.** Her aileyi derinlemesine inceliyoruz: entelektüel kökenleri, kilit düşünürleri, iç gerilimleri ve kör noktaları. Demokratik sosyalizmden anarko-kapitalizme, Burkeçü muhafazakârlıktan Rawlsçu merkezciliğe kadar her akımı içeriden göreceksiniz.
+
+**Bölüm 4, Toplumsal ve ekonomik meseleler.** Çerçevemizi somut tartışmalara uyguluyoruz: uyuşturucuların yasallaştırılması, göç, silah sahipliği, sağlık hizmetleri, vergilendirme, sübvansiyonlar, asgari ücret. Her mesele dört siyasi ailenin merceğinden incelenir.
+
+**Bölüm 5, Siyasi aileler arasındaki felsefi farklar.** Entelektüel temellerin daha derinine iniyoruz: ilke olarak özgürlük ile fırsat olarak özgürlük, kendiliğinden düzen ile inşa edilmiş düzen, bireycilik ile kolektivizm. Bu ayrımlar, hedeflerde anlaşan siyasi ailelerin araçlarda neden bu kadar sık ayrıştığını gösterir.
+
+**Bölüm 6, Bitcoinciler arasındaki siyasi eğilim.** Bitcoin'i siyasi bir proje olarak inceleyerek, köklerini cypherpunk hareketine kadar izleyerek ve tüm kurs boyunca süren soruyu sorarak kapatıyoruz: kim karar vermeli?
+
+Başlayalım.
+
+### Kurs yazarının hakkında
+
+Bu kurs, Paris'te felsefe profesörü ve Sorbonne Paris IV mezunu olan **[Damien Theillier](https://planb.academy/professors/damien-theillier)** tarafından geliştirilmiştir. Theillier, Fransız liberal geleneğinin yeniden keşfine ve yayılmasına adanmış iki kurum olan Institut Coppet ve Ecole de la Liberte'nin kurucusudur. Hazırlık sınıfı el kitabı *General Culture* (Pearson, 2013) ve *A Path to Freedom, the Philosophy from Antiquity to Our Days* (Berg International, 2013) kitaplarının ortak yazarıdır. Siyasi felsefe tarihine derin aşinalığı, bu kursa nadir görülen bir kavramsal titizlik ve pratik alaka birleşimi kazandırır.
+
 
 ## Sağ-sol ayrımı tuzağı
-
 
 
 <chapterId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=j_Ji4d7UiPY)
+Büyük siyasi aileler hakkındaki bu kursa hoş geldiniz. Batı felsefesinin babası, bize şüphe etmeyi ve kendi görüşlerimizi sorgulamayı öğreten Sokrates figürüyle başlıyoruz. Modern düşüncemizde en derin kök salmış görüşlerden biri sol-sağ ayrımıdır. Bu kurs bizi siyasi sınıflandırmalarımızı yeniden değerlendirmeye ve soldan sağa ayrımından daha temel bir ayrıma odaklanmaya davet ediyor: özgürlük ile zorlama arasındaki ayrım.
 
+![Sokrates'in Ölümü](./assets/en/001.webp)
 
+### Sol-sağ ayrımının tuzağı
 
-Pek çok kişi bugün Batı'daki en çarpıcı bölünmenin siyasi sol ile siyasi sağ arasında olduğuna inanıyor. Medya, tartışmalarının çoğunu, uygarlığın geleceği için belirleyici olarak sunulan bu çatışmaya ayırıyor.
+Pek çok kişi bugün Batı'daki en çarpıcı ayrımın siyasi sol ile siyasi sağ arasında olduğuna inanır. Medya, uygarlığın geleceği açısından belirleyici olarak sunulan bu karşılaşmaya yayınlarının büyük bölümünü ayırır. Bir bireyin siyasi eğilimlerini belirlemek için onu basit bir yatay çizgi üzerine yerleştiririz: aşırı sol, sol, merkez, sağ, aşırı sağ.
 
+![Siyasi yelpaze](./assets/en/002.webp)
 
+Bu ayrım 1789'a dayanır. Fransız Devrimi sırasında, Ağustos ve Eylül 1789 tartışmalarında, kralın gücünün korunmasından yana olan milletvekilleri Meclis başkanının sağında, yetkilerini sınırlamak isteyenler ise solunda oturuyordu. Sorun şu ki, **bu sınıflandırma günümüzde büyük ölçüde işlevsiz hâle gelmiştir**.
 
-Dolayısıyla, bir bireyin siyasi eğilimlerini belirlemek için, onları basit bir yatay çizgi üzerinde işaretleriz. Farklı eğilimlere göre kendimizi çizginin en solunda, solunda, ortasında, sağında ve sağında konumlandırıyoruz.
+![Fransız Ulusal Meclisi](./assets/en/003.webp)
 
+Geleneksel olarak sol reformist, sağ ise muhafazakâr olarak görülür. Fakat bu artık tartışmalıdır; çünkü sosyal-demokrat sol bugün kazanılmış avantajları korumak için mücadele etmektedir ve bu da onu bu açıdan fiilen muhafazakâr kılar. İki uç arasında kalan çoğu bireye merkezci denir, ancak bu etiket de onların konumunu basitleştirir.
 
+Sol ya da sağ, sosyalist ya da muhafazakâr etiketlerinin görüşlerinizi doğru şekilde tanımlamadığını hiç hissettiniz mi? Bir kişinin siyasi yelpazedeki konumu statik değildir ve çoğu zaman eldeki meseleye bağlıdır. Birisi ekonomik özgürlükten yana ama aynı zamanda göç etme hakkından da yana ise, onu basit bir sol-sağ çizgisi üzerinde nereye yerleştirirdiniz?
 
-![Political spectrum](./assets/fr/001.webp)
+Bu eksendeki temel sorun, **klasik liberal düşünceye yer bırakmamasıdır**; bu düşünce ne solun eşitlikçiliğiyle ne de sağın milliyetçiliğiyle bir araya getirilebilir. Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul ya da Javier Milei gibi figürleri nereye yerleştireceğiz? Klasik liberaller ve liberteryenler bazen yanlış biçimde sağla, hatta aşırı sağla özdeşleştirilir. Fakat çoğu zaman, bu referans çerçevesinde basitçe var olmazlar.
 
+### Frédéric Bastiat vakası
 
+Fransız liberal okulunun sembolik figürü Frédéric Bastiat (1801-1850), Ulusal Meclis'te milletvekiliydi. Tamamen kendine özgü bir yaklaşımı vardı: tartışılan yasa tasarısına göre bazen solla, bazen sağla oy kullandığını söylüyordu.
 
-Bazıları her ne pahasına olursa olsun düzenin korunması ve empoze edilmesi gerekenlere yönelir, bu **sağdır**. Diğerleri ise, her şeyi reforme etmek anlamına gelse bile, her ne pahasına olursa olsun eşitliğin uygulanması gerekenlere yönelir - bu **soldur**.
+![Frédéric Bastiat](./assets/en/004.webp)
 
+Bu merkezci oportünizme işaret etmiyordu. Bastiat sağdaki kralcılarla oturamazdı, çünkü kendisi cumhuriyetçiydi; soldaki sosyalistlerle oturmak da istemiyordu. Oylarına temel bir ilke rehberlik ediyordu: **bireysel ve ekonomik özgürlüklerin teşviki ve devlet müdahalesinin azaltılması**. Toplumsal düzenin ve refahın, asgari yasalarla özel girişim ve bireysel sorumluluk yoluyla ortaya çıkabileceğine inanıyordu.
 
+Bastiat için gerçek ayrım çizgisi sol ile sağ arasında değil, devletin zorlayıcı gücüne inananlarla özgürlüğe ve gönüllü birlikteliğe güvenenler arasındaydı. Solun önerileri ayrıcalıkları kaldırmayı, medeni özgürlükleri güvence altına almayı ya da savaşa karşı çıkmayı hedeflediğinde solla; sağın önerileri özel mülkiyeti koruduğunda ya da vergileri azalttığında sağla oy verirdi.
 
-Ancak bu kategorizasyon genellikle çok basit ve etkisizdir. Örneğin geleneksel olarak sol reformist, sağ ise daha muhafazakar olarak görülür. Ancak günümüzde bu durum sorgulanır hale gelmiştir, zira sol artık kazanılmış avantajları korumak için mücadele etmektedir, bu da onu bu bakış açısından muhafazakar yapmaktadır.
+### Bitcoin vakası
 
+Bitcoin, geleneksel ayrımı aşan bir yeniliğin büyüleyici güncel örneğidir. Şüphesiz **mevcut para politikasından kopan siyasi bir projedir**, fakat aşırı soldan aşırı sağa uzanan basit bir doğrusal eksen üzerine yerleştirilmesi imkânsızdır.
 
 
-İki uç arasında kalan çoğu kişi genellikle merkezci olarak adlandırılır, ancak bu etiket aynı zamanda konumlarını basitleştirir.
+Bitcoin destekçilerini siyasi yelpazenin tamamında buluruz:
 
+- Liberal sağ için Bitcoin, devlet müdahalesine karşı bir koruma aracını, özel mülkiyeti ve parasal özgürlüğü güvence altına alan bir aracı temsil eder.
+- Soldaki bazıları için Bitcoin, geleneksel bankacılık sisteminin eleştirisini ve yerleşik kurumların dışında finansı demokratikleştirmenin bir yolunu temsil eder.
+- Herhangi bir siyasi ideolojiden bağımsız olarak, birçok teknofil ve yatırımcı onun merkezsiz yapısından ve yıkıcı potansiyelinden etkilenir.
 
+Gerçekte, sol ile sağ arasındaki geleneksel ikilik Bitcoin'i doğru şekilde konumlandırmak için yetersiz ve elverişsizdir. Basit bir doğrusal eksen iyi çalışmaz, çünkü faşizm ve komünizm gibi ideolojiler böyle bir eksende görünmeyen totaliter özellikleri paylaşır.
 
-Bir örnek verelim: eğer bir kişi hem ekonomik özgürlükten hem de göç etme hakkından yanaysa, onu basit bir sol-sağ çizgisinde nereye yerleştirirsiniz? Bir kişinin siyasi yelpazedeki konumu statik değildir ve genellikle eldeki konuya bağlıdır.
+![At nalı siyasi yelpazesi](./assets/en/005.webp)
 
+### Yanlış bir bölünme
 
+Sol ve sağ tamamen karşıt görünse de **bir dizi temel ortak noktayı paylaşırlar**. Her iki kamp da serbest piyasayı düzenli olarak eleştirir: eşitsizliğin kaynağı olarak (sol) ya da egemenliğe tehdit olarak (sağ). Her ikisi de, ister "stratejik devlet" ister "özgürleştirici devlet" yoluyla olsun, devlet müdahalesine yönelik bir tercihi paylaşır. Görünürdeki farklarına rağmen, sol, sağ ya da merkez fark etmeksizin tüm siyasi partiler, devletin insanların hayatlarını yönetme ve düzenlemeler ile vergiler yoluyla her konuda müdahale etme hakkını savunur.
 
-Birçok insan sağ ya da sol, sosyalist ya da muhafazakâr olmanın kendi görüşlerini doğru bir şekilde tanımlamadığını düşünerek uyum sağlayamıyor.
+Sol-sağ karşıtlığının nihayetinde bir yanılsama olmasının nedeni tam da budur. Bu noktayı göstermek için şu soruları düşünün:
 
+**Toplumsal meseleler**
 
+- Hükümet gazetelerin, radyonun ya da televizyonun sahibi olmalı veya bunları kontrol etmeli mi?
+- Hükümet, fuhuş dahil olmak üzere rıza gösteren yetişkinler arasındaki cinsel faaliyeti düzenlemeli mi?
+- Esrar, kokain ve eroin gibi uyuşturucular yasallaştırılmalı mı?
+- İnsanların bir ülkeye sınırsız biçimde seyahat etmesi ya da girip çıkması yasal olmalı mı?
+- Hükümet başka ülkelerin işlerine müdahale etmek için asker göndermeli mi?
+- Çocuklar yasal olarak okula gitmekle yükümlü olmalı mı?
+- Ebeveynlerin çocuklarını evde eğitmelerine izin verilmeli mi?
+- Silah sahipliği yasayla kısıtlanmalı mı?
+- Hükümetin çevre politikası ne olmalı?
+- İlaçların güvenli ve etkili olmasını sağlamak için kamu kurumuna ihtiyacımız var mı?
 
-Siyasi görüşlerin nüans ve karmaşıklığını tanımlamanın her zaman yeterli olmadığını hiç hissettiniz mi? Pek çok insan bu konuda kendi yerini bulamıyor ve sol ya da sağ, sosyalist ya da muhafazakârın kendi görüşlerini doğru bir şekilde tanımlamadığını düşünüyor.
+**Ekonomik meseleler**
 
+- Hükümet çiftçilere sübvansiyon vermeli ve ne yetiştirdiklerini düzenlemeli mi?
+- Hükümet uluslararası ticarete gümrük tarifeleri, kotalar, ambargolar ya da başka kısıtlamalar getirmeli mi?
+- Hükümet zorunlu bir asgari ücret uygulamalı mı?
+- Gerekli kamu hizmetlerinin ödenmesinin tek yolu vergilendirme midir?
+- Hükümet zor ekonomik dönemlerde şirketlere düşük faizli krediler ya da sübvansiyonlarla yardım etmeli mi?
+- Bugünün devasa bütçe açıklarını yönetmenin en iyi yolu nedir?
+- Sosyal güvenlik sisteminin açık sorununu nasıl çözebiliriz?
+- Hükümet başka ülkelere mali yardım göndermeli mi?
+- Hükümet artan sağlık hizmeti maliyetleri konusunda ne yapmalı?
+- Hükümetin nükleer enerji politikası ne olmalı?
 
+Tüm bu sorularda merkezi bir mesele ortaya çıkar: **ne düzeyde hükümet denetimine tahammül etmeye hazırsınız?** Ve bu denetimin finansmanına katılmaya az çok zorlanıyor musunuz? Temel siyasi soru şudur: kim karar vermeli? Kişisel ve toplumsal hayatınızla ilgili önemli kararları siz mi alırsınız, yoksa bunları sizin yerinize başka biri mi alır?
 
-Bu konumlandırma kriteri siyasi duyarlılıkları belirlemek için kullanışlı olmaya devam etse de, ideolojik tartışmaların ve pozisyonların çeşitliliğini kavramsal olarak açıklayamamaktadır.
+### Yönetenler ve yönetilenler
 
+Bu partizan kutuplaşma çok daha derin ve çok daha eski bir ayrımı maskeler: **yüzyıllardır yönetenleri yönetilenlerden ayıran ayrımı**. Bir tarafta enflasyona, mali baskıya ve finansal gözetlemeye katlanan halk; diğer tarafta ise başkalarının parasıyla ve çok sık olarak matbaa yoluyla, yani itibari parayla, sözde halkın iyiliği için harcama yapan teknokratik ve siyasi elit vardır.
 
+![Vergiler](./assets/en/006.webp)
 
-Sol-sağ eksenindeki sorun, ne solun eşitlikçiliği ne de sağın milliyetçiliği ile aynı kefeye konulamayacak olan klasik liberal düşünceye yer bırakmamasıdır.
+İtibari para sistemi en varlıklı bireylere ve en güçlü finansal yapılara, özellikle de en büyük borçlular olan hükümetlere fayda sağlar. Borçlanarak bankaları yeni para basmaya iterler. Ortaya çıkan enflasyon paranın değerini sinsice düşürür, insanların tasarruflarını yok eder. İtibari para, devlet gücünün bu genişlemesinin temel taşıdır: hükümetlerin sınırsız harcamayı finanse etmesine olanak tanır, altın standardı altında var olan bütçe kısıtlarını ortadan kaldırır.
 
+Frédéric Bastiat'nın on dokuzuncu yüzyılda gözlemlediği gibi:
 
+> "Bütün devrimlerde her zaman yalnızca iki karşıt parti olmuştur: kendi emeğiyle yaşamak isteyen halkın partisi ve başkalarının emeğiyle yaşamak isteyenlerin partisi."
 
-Gerçekten de Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul, Elon Musk, Javier Milei gibi isimleri sol-sağ yelpazesinin neresine yerleştirebiliriz?
+Başka bir deyişle: servet üretenler ve onu destekçilerine yeniden dağıtmak için ele geçirenler.
 
+### Denetleyenler ve denetlemeyenler
 
+Bu girişi sonuçlandırmak için 1960'lardan bir bilimkurgu romanına dönelim. Robert Heinlein, *The Moon is a Harsh Mistress* (1966) adlı eserinde gerçek siyasi fay hattını oluşturan şeyi parlak biçimde sentezledi:
 
-Peki ya klasik liberaller ve liberteryenler gibi çağdaş düşünce ekolleri? Bazen yanlış bir şekilde sağla, hatta aşırı sağla bir tutuluyorlar. Ancak çoğu zaman bu referans çerçevesinde yer almazlar.
+![The Moon is a Harsh Mistress](./assets/en/007.webp)
 
+> "İnsan ırkı siyasi olarak, insanların denetlenmesini isteyenler ile böyle bir arzusu olmayanlar arasında bölünür."
 
+![Robert Heinlein alıntısı](./assets/en/008.webp)
 
-Ekonomist ve parlamento üyesi Frédéric Bastiat, zamanında, tartışılan tasarıya bağlı olarak bazen soldan, bazen de sağdan yana oy kullandığını söylemiştir.
+"Denetleyenler", beyan ettikleri ideolojiden bağımsız olarak, aşırı soldan aşırı sağa kadar, devletin ya da daha yüksek bir varlığın toplumun iyiliği için davranışları düzenlemesi, yönlendirmesi ve dayatması gerektiğine inanan herkesi kapsar. Yukarıdan aşağı çözümleri, planlamayı ve zorlamayı tercih ederler.
 
+Buna karşılık "denetlemeyenler", başkaları üzerinde güç kullanmak istemeyen ve azami bireysel özgürlüğü savunan kişilerdir. Kişisel sorumluluğa, gönüllü birlikteliğe ve toplumsal düzenin kendiliğindenliğine değer verir, devlet müdahalesini en aza indirirler. Frédéric Bastiat gibi figürleri ya da Bitcoin'in somutlaştırdığı merkezsizleşme ilkelerini burada buluruz.
 
-
-![Frédéric Bastiat](./assets/fr/002.webp)
-
-
-
-Bu onun bir merkezci ya da sosyal demokrat olduğu anlamına gelmiyordu. Bastiat her türlü devletçiliğe, her türlü hükümet müdahaleciliğine kesinlikle karşıydı. Başkalarına saygı ile uyumlu azami ekonomik ve kişisel özgürlüklerden yanaydı, çünkü toplumsal düzenin özel inisiyatif, toplumsal işbirliği ve bireysel sorumluluk yoluyla, asgari yasalarla aşağıdan ortaya çıkabileceğine inanıyordu.
-
-
-
-Başka bir örnek verelim: **Bitcoin sağda mı yoksa solda mı?
-
-
-
-![Bitcoin](./assets/fr/003.webp)
-
-
-
-Bitcoin'nin mevcut para politikasından kopan bir proje olduğu inkar edilemez. Yani siyasi bir projedir. Ancak Bitcoin'yi aşırı soldan aşırı sağa uzanan basit bir doğrusal eksene yerleştirmek zordur.
-
-
-
-Başlangıç olarak, sağ ve solun tanımı karmaşıktır ve zaman içinde gelişir, bu da kesin sınıflandırmayı zorlaştırır. Ancak her şeyden önce Bitcoin, merkezi olmayan bir teknoloji olarak geleneksel siyasi ayrımları aşmakta, anarşistler ve kendilerini apolitik olarak gören insanlar da dahil olmak üzere soldan ve sağdan çeşitli siyasi geçmişlerden destekçileri kendine çekmektedir.
-
-
-
-
-
-- Sağ görüşlü kişiler Bitcoin'ü merkez bankası para politikalarına bir alternatif olarak görebilir.
-- Özellikle Bitcoin'in finansal kapsayıcılık potansiyeli ve sansüre karşı bir araç olması nedeniyle sol görüşlü kişiler de mevcut.
-
-
-
-Gerçekte, sağ ve sol arasındaki geleneksel ikilik yetersiz, keyfi ve siyasi eğilimleri ne olursa olsun herkesin benimseyebileceği bir kamu para birimi olan Bitcoin'yı doğru bir şekilde konumlandırmak için uygun değildir.
-
-
-
-Dahası, faşizm ve komünizm gibi ideolojilerin böyle bir eksende görünmeyen benzerlikleri (totalitarizm) olduğundan, soldan sağa doğru uzanan basit bir doğrusal eksen iyi çalışmaz.
-
-
-
-![Spectre politique en fer à cheval](./assets/fr/004.webp)
-
-
-
-Dahası, sağ kuşkusuz ekonomik açıdan soldan daha liberal olsa da, her iki kamp da serbest piyasaya, sözleşme özgürlüğüne ve özel mülkiyete karşı güvensizliği ve devlet müdahaleciliğine olan çekiciliği paylaşmaktadır. İster sağda ister solda olsun, iktidarda olanlar için her sorun, bireysel etkileşimlerin kendi kendini düzenlemesi yerine yeni bir düzenleme veya vergi ile çözülür.
-
-
-
-Bazı siyasi pozisyonların geleneksel sağ/sol ayrımlarını kesebildiğini not etmek ilginçtir. Örneğin, genellikle sol tarafından savunulan korumacılık, geleneksel olarak sağ ile ilişkilendirilen bir değer olan milliyetçilik ile kolayca uzlaştırılabilir. Benzer şekilde, toprağa ve aile geleneklerine -sağcı değerler- bağlı olan köylülük, sosyalist mantığa uygun bir yaklaşım olan devlet sübvansiyonu talebini şiddetle dile getirmekten çekinmiyor.
-
-
-
-Son olarak, bu partizan kutuplaşma çok daha derin ve eski bir bölünmeyi maskelemiyor mu: yüzyıllardır yönetenlerle yönetilenleri ayıran bölünmeyi?
-
-
-
-Covid salgını sırasında çoğu Batılı devlet totaliter kontroller uygulamış ve bunların birçoğu kaldırılmış olsa da, yönetici sınıf ile ortalama vatandaş arasındaki uçurum genişlemiştir.
-
-
-
-Devletin borçlanması ve enflasyonla birlikte, insanların satın alma ve tasarruf gücünü kaybetmesi yoluyla modern bir köleleştirme biçimine tanık oluyoruz.
-
-
-Aslında itibari para sistemi en zengin insanlara ve en güçlü finansal kuruluşlara, özellikle de en büyük borçlular olan hükümetlere fayda sağlamaktadır. Borçlanarak bankaları yeni para basmaya zorlarlar. Ortaya çıkan enflasyon, paranın değerini sinsice düşüren ve insanların birikimlerini yok eden bir mekanizmadır.
-
-
-
-İtibari para birimi, devlet gücünün bu genişlemesinin temel taşıdır. Altın standardı altında var olan bütçe kısıtlamalarını ortadan kaldırarak hükümetlerin sınırsız harcamaları finanse etmesine olanak tanır. Bu modern kölelik, ayrıcalıklarını korumaya kararlı bir elit tarafından sürdürülürken, devletin genişlemesi karşısında silahsızlandırılan zayıflamış bir nüfus, varlığının her alanının yavaş yavaş kontrol altına alındığını görüyor.
-
-
-
-Bu derste, farklı siyasi aileleri daha iyi anlamamıza yardımcı olacak görsel bir model sayesinde, siyasi manzaranın sadece iki sol ve sağ kategorisinden çok daha zengin ve karmaşık olduğunu göreceğiz.
-
-
-
-Bu kursa başlamadan önce sizi kısa bir teste davet etmek istiyorum. Aşağıdaki soruları cevaplamaya çalışın:
-
-
-
-**Sosyal konular**
-
-
-
-
-- Hükümet gazete, radyo veya televizyona sahip olmalı veya bunları kontrol etmeli midir?
-- Hükümet, fuhuş da dahil olmak üzere, rıza gösteren yetişkinler arasındaki cinsel faaliyetleri düzenlemeli midir?
-- Marihuana, kokain ve eroin gibi uyuşturucular yasallaştırılmalı mı?
-- İnsanların sınırlama olmaksızın seyahat etmeleri veya bir ülkeye girip çıkmaları yasal olmalı mı?
-- Hükümet diğer ülkelerin işlerine müdahale etmek için asker göndermeli mi?
-- Çocuklar yasal olarak okula gitmek zorunda olmalı mı?
-- Ebeveynlerin çocuklarına evde eğitim vermelerine izin verilmeli mi?
-- Silah sahibi olmak yasalarla kısıtlanmalı mı?
-- Hükümetin çevre politikası ne olmalıdır?
-- İlaçların güvenli ve etkili olmasını sağlamak için bir kamu kurumuna ihtiyacımız var mı?
-
-
-
-**Ekonomik sorunlar**
-
-
-
-
-- Hükümet çiftçileri sübvanse etmeli ve ne yetiştirdiklerini düzenlemeli mi?
-- Hükümet uluslararası ticarete gümrük vergileri, kotalar, ambargolar veya diğer kısıtlamalar getirmeli mi?
-- Hükümet zorunlu bir asgari ücret getirmeli mi?
-- Gerekli kamu hizmetlerini ödemenin tek yolu vergilendirme midir?
-- Hükümet zor ekonomik zamanlarda şirketlere düşük faizli krediler veya sübvansiyonlarla yardım etmeli mi?
-- Günümüzün devasa bütçe açıklarını yönetmenin en iyi yolu nedir?
-- Sosyal güvenlik sisteminin açık vermesi sorununu nasıl çözebiliriz?
-- Hükümet diğer ülkelere mali yardım göndermeli mi?
-- Hükümet artan sağlık hizmetleri maliyetleri konusunda ne yapmalı?
-- Hükümetin nükleer enerji politikası ne olmalıdır?
-
-
-
-Tüm bu sorularda ortaya çıkan merkezi ve belirleyici bir konu var: tahammül edebileceğiniz devlet kontrolü derecesi ve dolayısıyla az ya da çok katılmak zorunda olduğunuz finansman derecesi.
-
-
-
-Dolayısıyla temel siyasi soru şudur: **Kim karar vermeli? ** Başka bir şekilde ifade etmek gerekirse: **Kişisel ve sosyal hayatınızla ilgili önemli kararları siz mi veriyorsunuz, yoksa sizin yerinize başkası mı veriyor?
-
-
-
-1966 yılında, *Revolt on the Moon* (The Moon is a Harsh Mistress) adlı kitabında romancı Robert Heinlein, hükümetlerin her zaman güç biriktirdiği ve vatandaşları kontrol ettiği fikrini geliştirir ve bunu insanoğlunun kaçınılmaz hastalığı olarak adlandırır.
-
-
-
-![The Moon is a Harsh Mistress](./assets/fr/005.webp)
-
-
-
-İnsanlığın, başkalarının hayatlarını kontrol etmek isteyenler ve istemeyenler arasında siyasi olarak bölündüğünü gözlemler.
-
-
-
-> İnsan ırkı siyasi olarak, insanların kontrol edilmesini isteyenler ve böyle bir arzusu olmayanlar olarak ikiye ayrılır.
-
-![The Moon is a Harsh Mistress quote](./assets/fr/006.webp)
-
-
-
-Günümüzde ister sol, ister merkez, ister sağ olsun tüm siyasi partiler, devletin insanların hayatlarını yönetme ve düzenlemeler ve vergiler yoluyla her konuya müdahale etme hakkını savunuyor. Ana akım medyada da aynı şeyi görüyoruz: referans çerçevesi devletçi.
-
-
-
-Peki, geleneksel sol ve sağ siyasi model aşılmalı mı? Ve eğer öyleyse, başka hangi modelin lehine?
-
+Bu kursta, farklı siyasi aileleri ve her birimizin nerede durduğunu daha iyi anlamamıza yardımcı olacak görsel bir model sayesinde **siyasi manzaranın sol ve sağdan çok daha zengin ve karmaşık olduğunu** göreceğiz.
 
 
 
 # Yeni bir ayrıma doğru: özgürlük-zorlama
 
-
 <partId>fb5cb390-67ad-41f3-903d-c208b84e6a0c</partId>
-
 
 
 
 ## Nolan diyagramı
 
-
 <chapterId>7b3aa120-6eee-45a1-9e46-856e26403e08</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=rN4fA3ImJjE)
+### Tek boyuttan iki boyuta
 
+Siyasi doktrinleri sağ/sol ekseni boyunca bölmek yerine, meselelere özgürlük prizmasından bakmak çok daha anlamlıdır. Siyasi yelpazenin klasik temsili soldan sağa uzanan yatay bir çizgidir.
 
+![Doğrusal siyasi yelpaze](./assets/en/009.webp)
 
-Siyasi doktrinleri sağ/sol ekseninde bölmek yerine, olaylara özgürlük prizmasından bakmak daha mantıklı olacaktır. Böylece bir özgürlük-iktidar eksenimiz olur ve klasik liberal düşünce nihayet siyasi satranç tahtasındaki yerini bulur.
+Bu model siyasi ideolojilerin karmaşıklığını aşırı basitleştirir ve her şeyden önce temel bir ölçütü atlar: **devlet müdahalesinin derecesi**. Girişte tartıştığımız gibi, temel soru şudur: kim karar verir? Siz mi, yoksa başka biri mi?
 
+Bu bizi tek boyutlu modeli reddetmeye ve iki boyutlu bir modeli tercih etmeye götürür. 1971'de Liberteryen Parti'nin kurucusu ve MIT'nin (Massachusetts Institute of Technology) eski öğrencisi olan David Nolan, siyasi yelpazenin karmaşıklığını çok daha iyi temsil eden bir grafik tasarladı. Onun diyagramı iki eksen kullanır:
 
+1. **Kişisel özgürlükleri** ölçen dikey eksen
+2. **Ekonomik özgürlükleri** ölçen yatay eksen
 
-O halde olaylara bakmanın doğru yolu, özgürlük savunucuları ile Devlet savunucularını -bireylerin kendilerini sorumlu bir şekilde organize etme becerilerine güvenenler ile kendilerine güven verecek ve başkalarının hayatlarını kontrol edecek güçlü bir otorite isteyenler- karşı karşıya getirmek olacaktır.
+![Nolan diyagramı](./assets/en/010.webp)
 
+Sıfır noktasına (sol alt) ne kadar yakınsanız, ideolojik konumunuz devlet müdahalesini o kadar çok destekler. Buna karşılık, karşı köşeye (sağ üst) doğru ne kadar ilerlerseniz, asgari devlet müdahalesini ve azami bireysel özgürlükleri o kadar çok desteklersiniz. Bu perspektiften bakıldığında geleneksel sol ve sağ görelileşir: sol, ekonomik özgürlükler pahasına kişisel özgürlükleri destekleme eğilimindeyken, klasik sağ kişisel özgürlükler pahasına ekonomik özgürlüğü destekler.
 
-1971'de Liberteryen Parti'nin kurucusu ve ünlü Nolan Tablosu'nun yazarı David Nolan bunu anlamıştı. Massachusetts Institute of Technology (MIT) mezunu olan Nolan, siyasi yelpazenin karmaşıklığını daha iyi temsil edebilecek bir grafik tasarladı.
+![Kişisel ve ekonomik özgürlük eksenleriyle iki boyutlu siyasi yelpaze](./assets/en/011.webp)
 
+### Beş çeyrek
 
+Diyagram elmas biçiminde sunulduğunda, farklı siyasi felsefeleri tam olarak konumlandıran beş çeyrek belirleyebiliriz:
 
-Onun fikri, sol-sağ eksenine, en alttaki devletçilikten (sıfır noktası) en üstteki özgürlükçülüğe uzanan ikinci bir özgürlük/iktidar ekseni eklemektir. Sıfır noktasından ne kadar uzaklaşılırsa ideolojik konumlanma o kadar özgürlükçü olur.
+![Nolan elması](./assets/en/012.webp)
 
+- **Devletçilik** (alt): En otoriter, hatta totaliter konum. Çok az ekonomik ya da kişisel özgürlüğü destekleyenler.
+- **Sosyalizm** (sol): Daha az ekonomik özgürlüğü ama daha fazla kişisel özgürlüğü destekleyenler.
+- **Muhafazakârlık** (sağ): Daha fazla ekonomik özgürlüğü ama daha az kişisel özgürlüğü destekleyenler.
+- **Liberteryenizm** (üst): Devletçiliğin karşıtı. En yüksek ekonomik ve kişisel özgürlüğü destekleyenler.
+- **Merkezcilik** (orta): Özgürlük ile düzenlemenin karışımını tercih eden, bunun da bazı bireysel hakların feda edilmesini ima ettiği pragmatik bir bölge.
 
+**Temel eksen bu nedenle dikey eksendir**: azami bireysel özgürlükleri savunanlar (üstte) ile insanların hayatlarında azami devlet denetimi ve müdahalesini tercih edenler (altta) arasındaki eksen.
 
-![Graphique](./assets/fr/007.webp)
+### Her aile içindeki nüanslar
 
+![Her siyasi aile içindeki nüanslar ve iç gerilimler](./assets/en/013.webp)
 
+Meseleler basit değildir ve tamamen monolitik bir siyasi konumu savunmak her zaman zordur. Her siyasi aile içinde gerilimler ve ayrışmalar vardır:
 
-![Graphique](./assets/fr/008.webp)
+- **Sosyalistler** arasında çoğunluk, seçimlere, medeni özgürlüklere ve belli ölçüde piyasa ekonomisine bağlı demokratlardır. Fakat bazıları demokrasiyi reddeder ve devrimi, kapitalizmin tamamen kaldırılmasını ve merkezi ekonomik planlamayı savunur.
+- **Muhafazakârlar** arasında bazıları vergilere ve sosyal programlara şiddetle karşıdır; bu da onları liberteryen zirveye yaklaştırır. Diğerleri daha otoriter eğilimlere sahiptir ve ekonomik düzenlemeyi destekler; burada Donald Trump etrafındaki tartışma akla gelebilir.
+- **Liberteryenler** arasında bazıları devleti tamamen ortadan kaldırıp onu özel hizmetlerle değiştirmek ister (anarko-kapitalistler), diğerleri ise çekirdek egemen işlevlerini koruyan minimal bir devleti tercih eder (\"minarşistler\").
 
+![Nolan diyagramında liberteryen nüanslar](./assets/en/014.webp)
 
+- **Yeşiller** muhtemelen diyagramda oldukça aşağıda yer alır. **Bireysel çıkarın gezegenin kolektif çıkarının önüne geçmemesi gerektiğini** düşünürler. Bir anlamda Yeşiller, Marksist sınıf mücadelesini insan ile doğa arasındaki mücadeleyle değiştirmiştir ve gezegensel esenlik adına ekonomik denetimi, hatta özel mülkiyetin kaldırılmasını savunma eğilimindedir.
 
-Diyagram beş bölüme ayrılmış bir karedir ve aşağıdaki bölümlerin her birine bir etiket atanmıştır:
-
-
-
-
-- Alt: Devletçiliğin en otoriter, hatta totaliter biçimi, çok az ekonomik ve kişisel özgürlüğü destekleyenlere karşılık gelir.
-- Solda: sosyalistler. Daha az ekonomik özgürlüğü ve daha fazla kişisel özgürlüğü destekleyenler.
-- Sağ tarafta: muhafazakârlar. Yüksek düzeyde ekonomik özgürlüğü ve düşük düzeyde kişisel özgürlüğü destekleyenler.
-- Üstte: liberteryenler, katı devletçiliğin karşıtı. Bunlar daha fazla ekonomik ve kişisel özgürlüğü destekleyen insanlardır.
-- Ortadakiler: merkezciler. Burası, biraz ekonomik ve kişisel özgürlük ile bazı bireysel hakların feda edilmesi anlamına gelen bir miktar piyasa düzenlemesi arzusunu harmanlayan bir sistemden yana olanlar için pragmatik bir bölgedir.
-
-
-
-Bu da Nolan diyagramının iki boyutlu yaklaşımını, çoğu siyasi analistin atıfta bulunduğu tipik tek boyutlu soldan sağa çizgiden çok daha doğru bir siyasi spektrum temsili haline getirmektedir.
-
-
+![Nolan diyagramının otoriter sektöründe konumlandırılmış Yeşil partiler](./assets/en/015.webp)
 
 ## İki temel boyut
-
 
 <chapterId>e41d903d-26c9-425e-8a92-6aec48838b61</chapterId>
 
 
 
-Diyagram, x ekseninde ekonomik özgürlükleri (vergi seviyeleri, serbest piyasa, özel hizmetler) ve y ekseninde kişisel özgürlükleri (hareket özgürlüğü, fikir özgürlüğü, kendi kaderini tayin etme) temsil etmektedir.
 
-
-
-Bu şema, çoğu siyasi meselenin iki geniş kategoriye ayrılabileceği fikrine dayanmaktadır: ekonomik ve kişisel (veya toplumsal).
-
-
+Diyagram, yatay eksende ekonomik özgürlükleri (vergi düzeyleri, serbest piyasa, özel hizmetler), dikey eksende ise kişisel özgürlükleri (hareket özgürlüğü, kanaat özgürlüğü, kendi kaderini tayin) temsil eder. Bu şema, çoğu siyasi meselenin iki geniş kategoriye ayrılabileceği fikrine dayanır: ekonomik ve kişisel (ya da toplumsal).
 
 ### Ekonomik özgürlükler
 
+**Ekonomik özgürlük kategorisi, üretici ve tüketici olarak yaptıklarınızı içerir**: ne satın alabileceğiniz, satabileceğiniz ya da üretebileceğiniz; nerede çalıştığınız; kimi işe aldığınız; ve paranızla ne yaptığınız.
 
-Ekonomik Özgürlük kategorisi, üretici ve tüketici olarak ne yaptığınızı - ne satın alabildiğinizi, satabildiğinizi veya üretebildiğinizi içerir. Nerede çalıştığınız, kimi işe aldığınız veya paranızla ne yaptığınız.
+![Ekonomik özgürlükler: üretici ve tüketici olarak yaptıklarınız](./assets/en/016.webp)
 
+*Ekonomik faaliyet örnekleri:* bir işletme kurmak, ev satın almak, bina inşa etmek, tasarrufları yatırmak, çalışanları işe almak ya da işten çıkarmak.
 
+![Nolan diyagramında ekonomik faaliyet örnekleri](./assets/en/017.webp)
 
-Ekonomik faaliyet örnekleri: bir iş kurmak; bir ev satın almak; bir bina inşa etmek; alışveriş yapmak; bir ofiste çalışmak.
+- **Eksenin sağında** (azami ekonomik özgürlüğe doğru): ekonomiye daha az devlet müdahalesi, daha az düzenleme, daha düşük vergiler ve şirketler ile bireylerin üretme, ticaret yapma ve tüketme konusunda daha fazla özgürlüğü tercih edilir. Vurgu, refahın motorları olarak serbest piyasa, özel mülkiyet ve rekabet üzerindedir.
+  - *Sembolik figürler:* Margaret Thatcher (Birleşik Krallık), Ronald Reagan (ABD), Javier Milei (Arjantin).
 
+![Nolan elması: ekonomik özgürlük ekseni](./assets/en/018.webp)
 
+- **Eksenin solunda** (ekonominin azami devlet denetimine doğru): düzenleme, kamu hizmetlerini (sağlık, eğitim, ulaşım) finanse etmek için yüksek vergiler, millileştirme ve servetin yeniden dağıtımı tercih edilir. Amaç çoğu zaman eşitsizlikleri azaltmak ve belli bir sosyal adalet derecesini garanti etmektir.
+  - *Sembolik figürler:* Franklin D. Roosevelt (ABD), Jean Jaurès (Fransa), Bernie Sanders, Barack Obama.
 
+![Nolan elması: sol kanat devletçilik](./assets/en/019.webp)
 
+### Kişisel ve toplumsal özgürlükler
 
-- Eksenin sağında** (Ekonomik Sorunlar ölçeğinde 100'e doğru): **ekonomik özgürlük** tercihi. Bu, ekonomiye daha az devlet müdahalesi, daha az düzenleme, daha düşük vergiler ve şirketler ile bireyler için üretim, ticaret ve tüketimde daha fazla özgürlük anlamına gelmektedir. Refahın motoru olarak serbest piyasa, özel mülkiyet ve rekabet vurgulanmaktadır.
- - Simgesel figürler:* Margaret Thatcher (Birleşik Krallık), Ronald Reagan (ABD), Javier Milei (Arjantin).
+**Kişisel özgürlük kategorisi, özel ilişkilerinizde**, görüşleriniz ve inançlarınızla yaptıklarınızı içerir. Genel olarak, kendi bedeniniz ve zihninizle yaptığınız her şeydir.
 
+![Kişisel özgürlükler: özel ilişkilerinizde yaptıklarınız](./assets/en/020.webp)
 
+*Kişisel faaliyet örnekleri:* evlilik, okuduğunuz kitapları ve izlediğiniz filmleri seçmek, tüketmeyi seçtiğiniz yiyecekler, ilaçlar ve uyuşturucular, dini tercihleriniz, katıldığınız örgütler, birlikte olmayı seçtiğiniz insanlar.
 
-![Right Graphique](./assets/fr/009.webp)
+![Nolan diyagramında kişisel ve toplumsal özgürlük örnekleri](./assets/en/021.webp)
 
+- **Eksenin üstü** (azami kişisel özgürlüğe doğru): bireysel özgürlük ve hoşgörü tercihi. Devlet, bireylerin yaşam tercihleriyle mümkün olduğunca az ilgilenmelidir (ifade özgürlüğü, bazı maddelerin yasallaştırılması, hareket özgürlüğü vb.). Özerkliğe ve çeşitliliğe değer verilir.
+  - *Sembolik figürler:* Nelson Mandela, Simone Veil, Noam Chomsky.
 
+![Nolan elması: kişisel özgürlükler ekseni](./assets/en/022.webp)
 
+- **Eksenin altı** (kişisel hayatın azami devlet denetimine doğru): düzen, güvenlik ve geleneksel değerler tercihi. Devletin ahlakı düzenleme, kamu düzenini koruma ve bazen belirli bir ahlak ya da gelenek vizyonunu savunma rolü vardır. Bunlar ölüm cezasını destekleyen, göçe kısıtlamalar getiren ya da geleneksel ailenin hükümet eliyle teşvikini savunan konumları içerir.
+  - *Sembolik figürler:* Joseph de Maistre (Fransız karşı-devrimci filozof) ve Vladimir Putin ile Xi Jinping gibi çağdaş otoriter liderler.
 
-
-- Eksenin solunda** (Ekonomik Sorunlar ölçeğinde 0'a doğru): **ekonomide güçlü devlet müdahalesi** tercihi. Bu, düzenleme, kamu hizmetlerini (sağlık, eğitim, ulaşım) finanse etmek için yüksek vergiler, kamulaştırma ve servetin yeniden dağıtılması anlamına gelir. Amaç genellikle eşitsizlikleri azaltmak ve bir dereceye kadar sosyal adaleti garanti etmektir.
-  - Sembolik figürler:* Franklin D. Roosevelt (ABD), Jean Jaurès (Fransa), Bernie Sanders, Barack Obama.
-
-
-
-![Left Graphique](./assets/fr/010.webp)
-
-
-
-### Kişisel ve sosyal özgürlükler
-
-
-
-Kişisel Özgürlük kategorisi, özel ilişkilerinizde, fikirleriniz ve inançlarınızla yaptıklarınızı içerir. Genel olarak, kendi bedeniniz ve zihninizle yaptığınız her şeydir.
-
-
-
-*Kişisel faaliyetlere örnekler:* evlilik; okuduğunuz kitapları ve izlediğiniz filmleri seçmek; tüketmeyi seçtiğiniz gıdalar, ilaçlar ve uyuşturucular; spor; dini seçimleriniz; katıldığınız organizasyonlar; ilişki kurmayı seçtiğiniz insanlar.
+![Nolan elması: otoriter eksen](./assets/en/023.webp)
 
 
-
-
-
-- Eksenin en üstünde** (Sosyal Konular ölçeğinde 100'e doğru): **bireysel özgürlük** ve hoşgörü tercihi. Devlet, bireylerin yaşam tercihlerine mümkün olduğunca az müdahale etmelidir (kürtaj hakları, LGBTQ+ hakları, ifade özgürlüğü, bazı maddelerin yasallaştırılması, vb.) Özerkliğe ve çeşitliliğe değer veriyoruz.
-  - Sembolik figürler:* Nelson Mandela, Simone Veil, Noam Chomsky.
-
-
-
-
-![Left Libertes Graphique](./assets/fr/011.webp)
-
-
-
-
-
-- Eksenin en altında** (Sosyal Konular ölçeğinde 0'a doğru): **düzen, güvenlik ve geleneksel değerler** tercihi. Devletin ahlakı düzenleme, kamu düzenini sağlama ve bazen şiddet yoluyla da olsa belirli bir ahlak veya gelenek görüşünü savunma konusunda oynayacağı bir rol vardır. Bunlar arasında ölüm cezası, göçmenlikle ilgili kısıtlamalar veya geleneksel ailenin devlet tarafından desteklenmesi gibi tutumlar yer almaktadır.
-  - Simgesel figürler:* Joseph de Maistre (Fransız karşı devrimci filozof) - ilahi düzen ve otorite hakkındaki fikirleri için. Rusya'da Vladimir Putin ve Çin'de Xi Jinping gibi çağdaş otoriter liderler.
-
-
-
-
-![Libertes Graphique](./assets/fr/012.webp)
-
-
-
-## Sağcı mısınız yoksa solcu bir devletçi mi?
-
+## Sağcı mı yoksa solcu bir devletçi misiniz?
 
 
 <chapterId>06d903fc-9453-47d4-b0b1-38b6b82ccf99</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=AskWWBXom3Y)
+### Ortak zemin olarak devletçilik
 
+Görünüşün aksine, sol ve sağ göründükleri kadar karşıt değildir. Çok sık olarak ortak bir denetim arzusunu paylaşırlar: buna devletçilik diyebiliriz. Elbette motivasyonları, değerleri ve öncelikleri farklıdır.
 
+Sol, geleneksel ahlaki gerekliliklerle daha az ilgilenir; önceliği özellikle ekonomik düzeyde sosyal adalete ve eşitliğe verir. Ekonomik özgürlüğe, kapitalizme ve serbest piyasaya düşmanlığının kaynağı budur: **sol ekonomiyi yasama ve düzenleme yoluyla şekillendirmek ister**.
 
-Bir kişi ekonomi konusunda solcu (yeniden dağıtımdan yana) ama toplumsal konularda sağcı (düzene ve geleneklere çok bağlı) olabilir. Ve tam tersi! Elmas şeklindeki model bu karmaşıklığı yakalamaktadır.
+Sağ ise kendi payına kişisel ahlaka ve geleneksel değerlere öncelik verir. Uygarlığın belirli geleneksel kurumlar ve toplumsal hiyerarşiler üzerine kurulduğunu ve bu mirasın korunması gerektiğini düşünür. Özel mülkiyetin ahlakını ve bireysel sorumluluğu savunduğu için ekonomik özgürlüğe daha elverişlidir, fakat **ahlak ve din üzerinde yasama yapmak ister**.
 
+### Dikey eksen gerçeği gösterir
 
+Nolan diyagramının merkezi fikri, siyasi felsefeler arasındaki büyük farkın, ister kişisel ister ekonomik alanda olsun, insan eylemi üzerindeki hükümet denetiminin derecesi olduğudur. Başka bir deyişle, yalnızca kişisel hassasiyetlerinizi yansıtan bir sol-sağ ekseni değil, aynı zamanda başkalarını sizin değerlerinizi izlemeye zorlamak için güç kullanma isteğinizi yansıtan bir yukarı-aşağı ekseni de vardır.
 
-Sol geleneksel olarak, devletin bireyler ve toplumun örgütlenmesi üzerinde, özellikle de gelirin yeniden dağıtımı açısından önemli yetkilere sahip olduğu bir sistem olan sosyalizm ile ilişkilendirilerek tanımlanır. Sağ ise bunun tam tersi, devletin önemli yetkilerinin olmadığı bir durum olarak görülebilir ki bu da onu liberal olarak tanımlar. Ancak gerçek daha karmaşıktır ve sağ sadece devletçi solun karşıtı değildir.
+![Sol ve sağ devletçilik](./assets/en/024.webp)
 
+Bu perspektiften bakıldığında, sol ve sağ aynı siyasi hedefi paylaşır: kendi dünya görüşlerine göre toplumu örgütlemek ve bunu herkese dayatmak için iktidarı kazanmak. Devletçiliğin tanımı tam da budur: toplumu denetlemek ve şekillendirmek için mevzuat kullanmak. Bazıları için bu uygarlığı savunmak adına yapılır; diğerleri için işçi sınıfını, doğayı ya da ezilenleri savunmak adına. Merkezciler de işlerine geldiğinde bunu onaylar.
 
+Bu nedenle **bazıları sağcı devletçi, bazıları ise solcu devletçidir** diyebiliriz. Gerçek siyasi soru, o hâlde, sol mu sağ mı olduğunuzdan ziyade, toplumu kendi değerlerinize göre şekillendirmek için devletin ne ölçüde müdahale etmesini istediğinizdir. Kendi hassasiyetlerinizi başkalarına dayatmak mı istiyorsunuz, yoksa **her insanın kendisi için karar vermekte özgür olmasını** mı tercih ediyorsunuz?
 
-Gerçekten de, son birkaç on yılda sağ ve sol hükümetler tarafından izlenen politikalar temelde farklı olmamıştır ve hiçbiri terimin klasik, Avrupalı anlamında gerçek anlamda liberal olmamıştır.
-
-
-
-Nolan'ın diyagramının ana fikri, siyasi felsefeler arasındaki temel farkın, gerçek belirleyici faktörün, kişisel ve ekonomik alanlardaki insan eylemleri üzerindeki hükümet kontrolünün derecesi olduğudur.
-
-
-
-Başka bir deyişle, sadece kişisel değerlerinizi yansıtan bir sağ-sol ekseni değil, aynı zamanda başkalarını kendi değerlerinize uymaya zorlamak için güç kullanma isteğinizi yansıtan bir üst-alt ekseni de vardır.
-
-
-
-Bu açıdan bakıldığında, sağ ve sol aynı siyasi hedefe sahiptir: toplumu kendi dünya görüşlerine göre düzenleyebilmek ve bunu herkese dayatabilmek için iktidarı kazanmak.
-
-
-
-Bu devletçiliğin tam tanımıdır: toplumu kontrol etmek ve şekillendirmek için mevzuatı kullanmak.
-
-
-
-Bu nedenle bazılarının **sağ kanat devletçi**, diğerlerinin ise **sol kanat devletçi** veya merkez eğilimli olduğunu söyleyebiliriz.
-
-
-
-![Libertes Graphique](./assets/fr/013.webp)
-
-
-
-Bazıları için uygarlığı savunmak adına, bazıları için ise işçi sınıfını, doğayı ya da ezilenleri savunmak adına. Ve merkezciler de işlerine geldiğinde bunu onaylıyorlar.
-
-
-
-Sağcılar kişisel ahlakın en önemli şey olduğuna inanırlar, bu nedenle mülkiyet ve ekonomik konularda özgürlüğe izin vermeye hazırdırlar. Öte yandan, aynı anda hem ahlak hem de din konusunda yasama yapmak istiyorlar.
-
-
-
-Sol ise geleneksel ahlaki ve dini gerekliliklere fazla önem vermemektedir. İlahi adaletle daha az ilgilenir, öncelikle sosyal adaletle ya da belki de ilahi adaletin *sosyal adalet* olacağı fikriyle ilgilenir. Buna göre, toplumda ödüllerin uygun dağılımı adli ya da siyasi bir karar meselesi olarak görülür. Sonuç olarak, siyasi sol, zenginliği ve ödülleri bireysel ihtiyaçlara göre dağıtmıyor gibi görünen ekonomik özgürlüğe ve serbest piyasaya düşmandır.
-
-
-
-## Kültürel bir muhafazakâr mısınız yoksa siyasi bir muhafazakâr mı?
-
+## Kültürel muhafazakâr mısınız, siyasi muhafazakâr mı?
 
 <chapterId>bef3d6f1-390a-472d-8f18-a559d38aea54</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=4DDAZGjQk2Q)
+### İki ayrı muhafazakârlık
 
+![Kültürel ve siyasi muhafazakârlık arasındaki ayrım](./assets/en/025.webp)
 
+\"Muhafazakârlık\" terimi kafa karışıklığına yol açabilir. **Değerler alanına ait olan kültürel muhafazakârlık** ile bu değerleri toplumun tamamına dayatmaya dayanan bir siyasi felsefe olan siyasi muhafazakârlık arasında mutlaka ayrım yapmalıyız.
 
-Kültürel muhafazakarlık, geçmişten miras kalan sözde geleneksel ahlaki değerlere, antropolojiye, estetiğe ve metafiziğe kişisel bağlılıktır. Greko-Romen ya da Yahudi-Hıristiyan olsun, ataların ilkeleri tarafından yönlendirilen bir yaşam bilgeliğidir. **Siyasi bir felsefe değildir
+**Siyasi muhafazakârlık**, genellikle sağcı ya da aşırı sağcı siyasi partilerde temsil edilen bir ideolojidir. Yerleşik siyasi kurumları ve toplumsal düzeni korumayı, büyük yapısal sarsıntılara karşı çıkmayı amaçlar. Savunucuları miraslarını korumak için iktidarı ve hukuku kullanmak ister. Fransa'da bu gelenek Joseph de Maistre ve Louis de Bonald gibi karşı-devrimci düşünürlere, daha yakın zamanda ise yirminci yüzyılda Raymond Aron'a kadar uzanır.
 
+**Kültürel muhafazakârlık** ise bir yaşam bilgeliğidir: Greko-Romen ya da Yahudi-Hristiyan olsun, geçmişten miras alınan ailevi, ahlaki, estetik ve metafizik değerlere kişisel bağlılık. Bir siyasi felsefe değildir. Kültürel muhafazakâr, insanın mutlu olmak için ruhun yükselmesine, manevi değerlere ve belirli bir duygu soyluluğuna ihtiyaç duyduğuna inanır. Bu değerler başkalarına dayatılmaz; kişisel ve bazen ailevi bir tercih olarak yaşanır.
 
+### Kültürel muhafazakâr ve liberteryen olabilirsiniz
 
-Eğer kültürel muhafazakarsanız, geleneksel aile, erdem etiği ve Tanrı inancından yanasınız demektir. Kültürel muhafazakâr, insanın mutlu olmak için ruhunun yücelmesine, manevi değerlere ve belli bir duygu asaletine ihtiyacı olduğuna inanır.
+Bu iki dal, ayrı olmalarına rağmen, eşzamanlı ya da ayrı ayrı benimsenebildikleri için bazen karıştırılır. **Siyasi muhafazakâr olmadan kültürel muhafazakâr olabilirsiniz.** Bir birey, kişisel ya da topluluk hayatında kültürel gelenekleri (aile, din, yerel âdetler) savunurken, bu değerleri yasa yoluyla dayatmayan sınırlı hükümeti savunabilir. Böyle bir kişi, başkalarının farklı yaşama hakkına saygı gösterirken, muhafazakâr normları ikna, eğitim ve örnek yoluyla teşvik eder.
 
+Kültürel olarak muhafazakâr liberteryen bazı davranışları ahlaken onaylamayabilir, ancak **rıza gösteren, saldırgan olmayan eylemlerin yasal olarak yasaklanmasını savunmaz**. Bu tür eylemlerden hoşlanmayabilir, onlara karşı çıkabilir ve onları aktif biçimde caydırabilir, ama bunu her zaman hukukun zorlayıcı gücüne başvurmadan yapar.
 
+Liberteryenizm ile kültürel muhafazakârlık arasındaki bu sentez, Amerika Birleşik Devletleri'nde \"paleo-liberteryenizm\" adını almıştır. Bu akım, neo-liberteryenizmden (eşitlikçiliğe ve 1970'lerin toplumsal evrimlerine daha sempatik bir damar) **kurumsal zorlama kaynağı olarak devletin reddini** geleneksel kurumların güçlendirilmesiyle ve devlet otoritesi yerine gönüllü toplumsal yapılara yönelik bir tercihle birleştirerek ayrılır. Başka bir deyişle, paleo-liberteryen sosyalist ya da komünitaryen toplulukların varlığına karşı çıkmaz; reddettiği şey, bu tür toplulukların değerlerini yasa zoruyla herkese dayatmasıdır. Bu yaklaşımı iki büyük figür somutlaştırır:
 
-Öte yandan, **siyasi muhafazakârlık** toplumu sabit bir düzene göre organize etmenin bir yoludur. Muhafazakârların ilerlemeye karşı olmalarının nedeni budur. Toplumu konuştukları anda ulaştığı durumda dondurmak isterler ve herhangi bir değişikliğin daha kötü olacağına inanırlar.
+![Paleo-liberteryenizm: liberteryen ilkelerle birleşen kültürel muhafazakârlık](./assets/en/026.webp)
 
+- **Murray Rothbard**, geleneksel değerlerin önemini kabul ederken, bunların devlet tarafından dayatılmasını hiçbir zaman savunmadan liberteryen teoriyi geliştiren ekonomist ve filozof.
+- **Ron Paul**, onlarca yıl Teksas'tan kongre üyesi olmuş ve Cumhuriyetçi başkan adaylığı için yarışmış siyasetçi. Değerleri bakımından kişisel olarak muhafazakâr olan Paul, bireysel özgürlüklere saygı duyan sınırlı hükümet vizyonunu tutarlı biçimde savunmuştur. Örneğin Ron Paul uyuşturucu kullanımına her zaman karşı tavsiye vermiş, fakat aynı anda uyuşturucu yasağına da karşı çıkmıştır. Kürtaja kişisel olarak karşıydı, ancak tercihin yukarıdan dayatılmak yerine federal eyaletlere bırakılması gerektiğini tutarlı biçimde savundu.
 
+![Muhafazakâr ve liberteryen konumlar](./assets/en/027.webp)
 
-Siyasi olarak, kültürel muhafazakârlar genellikle siyasi muhafazakârlığın saflarına katılırlar. Ancak bu her zaman böyle değildir. İki muhafazakârlığın birbirinden ayrılamaz olması gerekmez. **Hem kültürel muhafazakâr hem de özgürlükçü olabilirsiniz.**
-
-
-
-Örneğin, bir birey kendi kişisel veya toplumsal yaşamında kültürel gelenekleri (aile, din veya yerel gelenekler gibi) savunurken, bu değerleri yasalarla dayatmayan sınırlı hükümeti savunabilir. Bu tür bir kişi, özgürlükçü ilkeler doğrultusunda başkalarının farklı yaşama hakkına saygı duyarken, ikna, eğitim veya örnek olma yoluyla muhafazakar normları teşvik edebilir.
-
-
-
-Kültürel olarak muhafazakâr bir liberteryen belirli davranışları ahlaki olarak onaylamayabilir, ancak **rızaya dayalı, saldırgan olmayan eylemlerde bulunan insanların yasal olarak yasaklanmasını veya hapsedilmesini** savunmaz. Bu tür eylemlerden hoşlanmayabilir, bunlara karşı çıkabilir, bunlarla mücadele edebilir ve insanları bu tür eylemlerde bulunmaktan aktif olarak caydırabilir, ancak her zaman **kanunun zorlayıcı gücüne başvurmadan**.
-
-
-
-Uygulamada Ron Paul gibi isimler ya da ABD'de Rothbard ve Hoppe gibi düşünürler, hem geleneksel değerleri hem de maksimum bireysel özgürlüğü savunarak bu iki vizyonu uzlaştırmaya çalışmışlardır.
-
-
-
-![Libertes Graphique](./assets/fr/014.webp)
-
-
-
-## Liberal misiniz yoksa özgürlükçü mü?
-
+## Liberal misiniz, liberteryen mi?
 
 <chapterId>d382c40b-78ce-416f-9f63-6ad43768406b</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=pPA2uyoaBrE)
+### Atlantik aşırı bir karışıklık
 
+![Liberalizm ve liberteryenizm arasındaki Atlantik aşırı karışıklık](./assets/en/028.webp)
 
+Siyasi aileleri adlandırmak için kullanılan terimler değişmez değildir. Coğrafi ve tarihsel bağlama göre değişebilir ve büyük bir kafa karışıklığı kaynağı yaratabilir. \"Liberal misiniz, liberteryen mi?\" sorusu sorulduğunda, bir Avrupalı bunun aynı şey olduğunu söyleyebilir. Fakat Anglo-Sakson kullanımında bunlar kökten farklı kavramlardır.
 
-Siyasi aileleri tanımlamak için kullanılan terimler değişmez değildir. Coğrafi ve tarihi bağlama göre değişiklik gösterebilirler. Bu da kafa karışıklığına yol açabilir.
+Avrupa'da *liberalizm* terimi zaman içinde görece istikrarlı kalmıştır: laissez-faire ekonomik politikalar, azaltılmış devlet müdahalesi ve bireysel özgürlüklerin savunusu ile ilişkilendirilir. Genellikle sağda sınıflandırılan bir konumdur.
 
+![Avrupa ile Amerika Birleşik Devletleri'nde liberalizmin farklı anlamları](./assets/en/029.webp)
 
+Amerika Birleşik Devletleri'nde aynı kelime anlam bakımından dramatik bir dönüşüm geçirmiştir. **Amerikan *liberalleri* devlet müdahalesinin ve *Big Government*ın savunucuları hâline gelmiştir**. Bu evrim kilit anlar üzerinden izlenebilir:
 
-Avrupa ve Amerika Birleşik Devletleri'nde bazı kelimeler artık aynı anlama gelmiyor. Liberalizm kelimesi için de durum böyledir.
+- 1930'larda Franklin D. Roosevelt'in *New Deal* programı, Büyük Buhran'a yanıt olarak ilk büyük müdahaleci dönüşüme işaret etti: kamu işleri, kamu istihdamı, sübvansiyonlar. *Liberalizm*in anlamı devletçi bir paradigmaya doğru kaymaya başladı.
+- 1960'larda Lyndon B. Johnson'ın *Great Society* programı bunu sosyal programlara ve federal müdahaleye doğru genişletti.
+- Bugün Amerikan *liberalleri*, kamu sağlık sigortasını ve yoksullukla mücadele planlarını savunan büyük ölçüde Demokratlardır. Kendisini sosyalist ya da sosyal demokrat olarak tanımlayan Bernie Sanders gibi biri liberal etiketini sahiplenir; fakat onun için bu, bireyleri özgürleştirmek üzere devlet müdahalesiyle eşanlamlıdır.
 
+Terimin Avrupa'daki anlamından çok uzağız.
 
+![Amerikan liberalizminin müdahaleciliğe doğru tarihsel evrimi](./assets/en/030.webp)
 
-Kuzey Amerika'da *liberalizm* solda sınıflandırılmakta ve ilerlemecilikle eş tutulmaktadır. Gerçekten de Amerikalı *liberaller* devlet müdahalesi ve *Büyük Hükümet* savunucuları haline gelmiştir. Bu tarihsel evrim, liberal ve muhafazakar terimlerinin Avrupa'da süregelen anlamlarıyla tam bir tezat oluşturmaktadır.
+### Liberteryenizmin ortaya çıkışı
 
+Bu dilsel kayma karşısında, Amerika Birleşik Devletleri'ndeki klasik liberalizm destekçileri, kendilerini Amerikan *liberallerinden* ayırmak için 1960'lardan itibaren *liberteryenler* olarak adlandırmaya başladılar. Onlar on dokuzuncu yüzyıl Avrupa klasik liberalizminin mirasçılarıdır.
 
+![Amerikan liberalizminin kaymasına bir yanıt olarak liberteryenizmin ortaya çıkışı](./assets/en/031.webp)
 
-Gerçekten de birçok ülkede, özellikle Avrupa'da, liberalizm terimi laissez-faire ekonomi politikaları ve azaltılmış devlet müdahalesi ile ilişkilendirilmektedir.
+Liberteryenizmin temel eksenlerinden biri, özellikle Friedrich Hayek'e ve Avusturya iktisat okuluna borçlu olunan **kendiliğinden düzen** kavramıdır. Hayek'e göre toplumu yöneten kurallar ve normlar, yukarıdan otoriter planlama yoluyla dayatılmamalı, bireysel iradelerin, sözleşmelerin ve yetişkinler arasında özgürce rıza gösterilen ilişkilerin serbest oyunundan doğmalıdır.
 
+### Kilit entelektüel figürler
 
+![Liberteryenizmin kilit entelektüel figürleri: Rothbard ve Nozick](./assets/en/032.webp)
 
-Bu nedenle *liberaller* terimi bir Avrupalı için yanıltıcıdır. Amerikan liberal siyaseti, 20. yüzyıldan bu yana, *liberalizm* kelimesinin anlamını çarpıtan devletçi, otoriter bir paradigmaya doğru kayma olarak tanımlanabilir.
+Liberteryen hareketi birkaç düşünür şekillendirmiştir:
 
+- **Murray Rothbard**, kültürel muhafazakârlık bağlamında daha önce andığımız üzere, aynı zamanda anarko-kapitalizmin kuramcısıdır. 1973 tarihli *For a New Liberty* kitabında **devletin kaldırılmasını ve toplumsal faaliyetlerin tamamen özelleştirilmesini** savunmuş, hem ekonomik hem askeri müdahaleciliğe karşı çıkmıştır.
+- **Robert Nozick**, Harvard'da siyaset felsefesi profesörü, John Rawls'un *A Theory of Justice* eserine *Anarchy, State, and Utopia* (1974) ile yanıt verdi. Nozick, Lockeçu gelenekte minimal bir devleti savundu ve titiz analitik üslubu, liberteryen düşüncenin akademik çevrelerde meşrulaşmasına büyük katkı sağladı.
 
+### Kurumsal yapı
 
-Tarihsel olarak Amerikan *liberalizmi*, servetin yeniden dağıtımı ve sosyal programlar da dahil olmak üzere önemli devlet müdahaleciliğini (Franklin Delano Roosevelt'in *New Deal* ve Lyndon B. Johnson'ın *Great Society*) desteklemiştir. Bu nedenle ABD'de *liberal* terimi, kamu sağlık sigortası ve kamu yoksullukla mücadele planları gibi solcu veya sosyal demokrat politikalarla ilişkilendirilmektedir.
+![Liberteryen hareketin kurumsal yapısı](./assets/en/033.webp)
 
+**Liberteryen hareket kademeli olarak örgütlendi**:
 
+- Washington merkezli bir düşünce kuruluşu olan **Cato Institute** (1977), kamu politikası önerileri üzerinde çalışır.
+- Alabama, Auburn'deki **Mises Institute** (1982), siyasi lobicilikten ziyade eğitime odaklanır; konferansları ve yeniden yayımlanan eserleriyle bir tür çevrim içi üniversite işlevi görür.
+- **Libertarian Party** (1971), seçimlerde ortalama yaklaşık %2 oy almasına rağmen, Amerika'nın üçüncü büyük siyasi partisidir. Bu %2 bir seçimin sonucunu değiştirebilir ve partiye seçim puanının çok ötesinde etki kazandırır.
 
-1960'lardan itibaren ABD'deki klasik liberalizm taraftarları kendilerini Amerikan liberallerinden ayırmak için *liberteryenler* olarak adlandırmaya başladılar. Bunlar 19. yüzyıl Avrupa klasik liberalizminin mirasçılarıdır.
+### Liberteryenler ve muhafazakârlar: karmaşık bir ittifak
 
+Liberteryenler, terimin modern anlamıyla Amerikan *liberallerine* kökten karşıdır. Bu bakımdan muhafazakârlarla bazı ortak zeminleri paylaşırlar: Kurucu Babaların sınırlı hükümetine bağlılık, zorunlu eşitlikçiliğin reddi, kamu borcuna karşı çıkış ve federal güce karşı eyalet haklarının savunulması. Ron Paul bu yakınlaşmayı en açık biçimde somutlaştırır, ancak Cumhuriyetçi Parti içinde azınlık sesi olarak kalmıştır.
 
+Yine de temel ayrışmalar sürer. Liberteryenler neomuhafazakârların askeri müdahaleciliğini reddeder (George W. Bush ve Irak savaşı akla gelir), muhafazakâr sosyal politikalara ve sübvansiyonlara karşı çıkar (ister işletmelere ister merhamet adına ailelere yönelik olsun), uyuşturucu yasağını yalnızca etkisiz değil, ahlaksız olarak da mahkûm eder ve korumacılığı reddeder. Örneğin bu son noktada, **Trump'ın gümrük tarifesi politikaları liberteryenlerden sert eleştiri aldı**; bunları serbest ticaret ilkelerine ihanet olarak gördüler. O hâlde muhafazakârlar ile liberteryenler arasındaki ittifak gerçektir fakat doğası gereği gergindir; Amerikan *liberalizmi*ne yönelik ortak bir eleştiriyle birleşir, ancak devlet gücünün uygun kapsamı konusunda bölünür.
 
-## Özgürlükçü müsünüz yoksa libertaire/anarşist (Fransızca libertaire) misiniz?
-
+## Liberteryen misiniz, libertaire/anarkist mi (Fransızca libertaire)?
 
 <chapterId>fc761194-249f-4009-a20f-1f98b7226cf2</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=qi6HPBmrJkg)
+### Temel bir uyumsuzluk
+
+![Liberteryen ile libertaire karşı karşıya: temel bir uyumsuzluk](./assets/en/034.webp)
+
+İkisi uyumlu değildir. Bu terimler arasında büyük bir kafa karışıklığı kaynağı vardır; özellikle Anglo-Sakson *libertarian* teriminin çoğu zaman *libertaire* olarak çevrildiği otomatik çevirilerde. Oysa **bu siyasi felsefeler, bazı yüzeysel benzerliklere rağmen, temel farklılıklar gösterir**.
+
+### Sosyalist anarşizm (*libertaire*ler)
+
+![Libertaire'ler: sosyalist anarşizmin mirasçıları](./assets/en/035.webp)
+
+Fransız *libertaire*leri, tarihsel olarak Pierre-Joseph Proudhon ve Mikhail Bakunin gibi düşünürlerle bağlantılı bir sosyalizm dalı olan sosyalist anarşizmin mirasçılarıdır. Temel ilkeleri şunlardır:
+
+- Devlet, baskıcı bir yapı olduğu için kaldırılmalıdır.
+- Özel mülkiyet ve kapitalizm de kaldırılmalıdır; çünkü anarşist doktrinde devlet, özel mülkiyetin ve zenginlerin koruyucusudur. Proudhon'un ünlü formülü buradan gelir: \"Mülkiyet hırsızlıktır.\" (Proudhon'un kendisinin bu noktada evrildiğini belirtmek gerekir: erken dönem Proudhon şiddetle anti-kapitalistti, fakat **geç dönem Proudhon klasik liberalizme yaklaştı** ve özel mülkiyeti özgürlüğün bir güvencesi olarak görmeye başladı.)
+- Takas ekonomisine ve malların herkese ait olduğu eşitlikçi bir topluma dönüşü savunurlar.
+
+Bakunin ve Kropotkin gibi anarşistler (Kropotkin, ücretleri bile kapitalizme dönüş olarak reddeden katı bir anarko-komünistti) özel mülkiyeti ve devleti baskının ikiz kaynakları olarak gördüler. Öz-yönetimli komünleri, kooperatifleri ve hiyerarşi karşıtı hareketleri savundular. Ekonomik vizyonları emek değer teorisine dayanır; ücret sistemini kınar, kârı ve faiz oranlarını reddeder, **paranın ve bankaların radikal biçimde ortadan kalkmasını** isterler.
+
+### Liberteryenizm: özgürlüğün temeli olarak mülkiyet
+
+![Liberteryenizm: özgürlüğün temeli olarak özel mülkiyet](./assets/en/036.webp)
+
+Liberteryenler, özel mülkiyeti özgürlüğün bizzat temeli olarak savundukları için *libertaire*lerden tamamen ayrılır. Onlara göre özel mülkiyet, devlet tarafından korunan sıradan bir toplumsal sözleşme değildir: **hukuktan ve devletten önce gelen doğal bir haktır**. Bir birey kendi bedenine sahipse, emeğine ve emeğinin ürünlerine de sahiptir. Maddi malların mülkiyeti, kişinin kendi üzerinde sahipliğinin bir uzantısı olarak anlaşılır.
+
+Buradan, vergilendirmenin hırsızlığa benzer bir saldırı olarak anlaşılması sonucu çıkar; çünkü bir bireyi, zorunlu olarak seçmediği hizmetler için mülkiyetinin bir kısmını devretmeye zorlar. Gönüllü rıza, liberteryenizmin ahlaki temelini oluşturur.
+
+Şiddet konusunda liberteryen doktrin tüm saldırgan şiddet biçimlerini reddeder. Ancak savunma amaçlı şiddeti meşru kabul eder: meşru müdafaa ve baskıya direnme.
+
+### Devleti kaldırma stratejileri
+
+Burada başka bir temel fark vardır. *Libertaire*ler tarihsel olarak devletin ve kapitalizmin ister kolektif ister bireysel şiddet yoluyla yıkılmasını savunur. Bu yaklaşım tarihsel olarak teröre ve hedefli (ya da hedef gözetmeyen) saldırılara dayanır; Rusya'da ve daha sonra iç savaş sırasında İspanya'da görüldüğü gibi.
+
+Liberteryenler için saldırgan şiddet meşru değildir. Başlıca strateji **kolektif inançların oluşumu yoluyla devleti meşruiyetsizleştirmeye** dayanır: argümantasyon, tartışma, diyalog ve eğitim. Liberteryenler sivil itaatsizliği ya da devleti bilinçli olarak görmezden gelmekten oluşan eylemleri savunur.
+
+### Anarko-kapitalizm: tarihsel kökler
+
+![Anarko-kapitalizmin tarihsel kökleri: Molinari, Spooner ve Tucker](./assets/en/037.webp)
+
+Anarko-kapitalizm yakın tarihli bir doktrin değildir. Kökleri on dokuzuncu yüzyıla uzanır:
+
+- Paris'te Frédéric Bastiat ile birlikte çalışan Belçikalı ekonomist **Gustave de Molinari**, 1849'da \"The Production of Security\" başlıklı bir makale yazdı; burada hiçbir hükümetin, başka birinin kendisiyle rekabet etmesini engelleme ya da güvenlik tüketicilerinin bu ürün için yalnızca kendisine gelmesini şart koşma hakkına sahip olmaması gerektiğini savundu.
+- Amerika Birleşik Devletleri'nde **Lysander Spooner** ve **Benjamin Tucker**, serbest piyasanın egemen devlet işlevlerini, özellikle güvenlik ve adaleti, üstlenebileceğini güçlü biçimde savunan bireyci anarşistlerdi.
+
+![Murray Rothbard ve kapsamlı anarko-kapitalizm teorisi](./assets/en/038.webp)
+
+Yirminci yüzyılda Murray Rothbard meşaleyi devraldı ve anarko-kapitalizmi kapsamlı biçimde teorileştirdi; özellikle *Man, Economy, and State* ve *For a New Liberty* eserlerinde. Düşüncesi iki ilkeye dayanır: saldırmazlık ilkesi (başka bir bireye ya da onun mülkiyetine karşı fiziksel güç başlatmak gayrimeşrudur; altın kuralın felsefi bir çevirisi: sana yapılmasını istemediğin şeyi başkalarına yapma) ve başlıca saldırgan olarak anlaşılan devletin tamamen kaldırılması.
+
+Rothbard, *libertaire*leri Rousseau'nun \"soylu vahşi\"sine benzer şekilde insan doğasına dair naif ve gerçekçi olmayan bir vizyon benimsemekle eleştirdi. Rothbard'a göre insanlar doğal olarak iyi değildir, fakat çıkarları tarafından yönlendirilirler. Toplum bu nedenle, iyi teşviklerin davranışı yönlendireceği şekilde örgütlenmelidir; bu da özel mülkiyetin tanınmasını ve güvence altına alınmasını gerektirir. **Devleti kaldırmak, devletin işlevlerini kaldırmak anlamına gelmez**: polis ve adalet ortadan kaldırılmamalı, rekabet temelinde serbest piyasa tarafından yönetilmelidir.
+
+### Libertinler hakkında bir not
+
+![Liberteryenler, libertaire'ler ve libertinler: karışıklıktan kaçınmak](./assets/en/039.webp)
+
+Liberteryenler *libertaire*lerle ya da libertinlerle karıştırılmamalıdır. Libertinler cinsel özgürlüğün savunucularıdır. Bu, bir siyasi felsefeden çok, burjuva ahlakına karşı tabusuz bir ahlaka dayanan kişisel bir yaşam tarzıdır. Siyasi olarak libertinler çoğu zaman sol kanat anarşizmine, yani *libertaire*lere yönelir. Yine de hem libertin hem de liberteryen olunabilir; çünkü liberteryenler için **her insan başkalarına saldırmadan dilediği gibi yaşama hakkına sahiptir**. Buna karşılık, ahlakını yasa yoluyla başkalarına dayatmaya çalışan bir libertin, tam da bu eylemle liberteryen olmaktan çıkar.
 
 
-
-Özgürlükçü** terimi bazen liberteryen ya da özgürlükçü olarak çevrilmektedir ki bu büyük bir yanlış anlamadır.
-
-
-
-Fransızca libertaire terimi, sosyalizmden türetilen 19. yüzyıl anarşist geleneğinden gelmektedir. Bu gelenek tarihsel olarak Pierre-Joseph Proudhon ve Mikhail Bakunin gibi düşünürlerle bağlantılıdır. Anarşizm, tüm hükümet biçimlerinin gereksiz, baskıcı olduğunu ve ortadan kaldırılması gerektiğini belirten siyasi doktrindir.
-
-
-
-Sosyalist ve komünist anarşistler için mülkiyet hırsızlıktır. Paranın ve bankaların ortadan kalktığını ve takasa dayalı yerel ekonomiye geri dönüldüğünü görmek isterler. Bireysel özgürlüğün tahakküm olmaksızın kolektif bir çerçevede uygulandığı eşitlikçi bir toplum arayışındadırlar.
-
-
-
-Liberteryenlerin aksine, anarşistler genellikle anti-kapitalisttir ve mutualizm, kolektivizm veya liberteryen komünizm gibi ekonomik formları savunurlar.
-
-
-Mikhail Bakunin ve Pierre Kropotkin gibi sosyalist anarşistler özel mülkiyeti ve devleti baskının ikiz kaynakları olarak görmüş ve bunların ortadan kaldırılmasını önermişlerdir.
-
-
-
-Bir anarşist, devlet otoritesini ve kapitalist yapıları reddederken kendi kendini yöneten komünleri, kooperatifleri veya hiyerarşi karşıtı hareketleri savunabilir.
-
-
-
-Devletin ortadan kaldırılmasından yanadırlar, ancak etkili olmadığı için devlete karşı şiddet eylemlerinden vazgeçmişlerdir. Öte yandan, özel teşebbüse karşı şiddet kullanmaktan vazgeçmemişlerdir. Kamu tekellerini desteklemekte, emek değer teorisini kabul etmekte, ücret sistemini kınamakta ve kar ve faiz oranlarını sömürü olarak görmektedirler. Pierre-Joseph Proudhon gibi az sayıda solcu anarşist vergilendirmeye karşı aktif bir kampanya yürütmüştür.
-
-
-
-Liberteryenler için ise tam tersine, bireysel özgürlüğü sağlamanın tek yolu özel mülkiyeti garanti altına almaktır. Dolayısıyla liberteryenler ve anarşistler arasındaki temel ayrılık bireysel mülkiyet ve sözleşmeye dayalı özgürlük kavramlarıyla ilgilidir. Dahası, liberteryenlerin şiddet doktrini savunmaya yöneliktir: öz savunma ve baskıya karşı direniş.
-
-
-
-Libertinler cinsel özgürlük aktivistleridir. Bu bir siyasi felsefe olmaktan çok, burjuva ahlakına karşı sınır tanımayan bir ahlaka dayanan kişisel bir yaşam biçimidir. Siyasi olarak genellikle sol kanat anarşistlerle, yani anarşistlerle aynı hizadadırlar.
-
-
-
-# Siyasi aileler mercek altında
-
+# Mikroskop altında siyasi aileler
 
 <partId>2e1183f6-95d4-4d3c-9274-843993210624</partId>
 
 
-
-## Yapısal ve amaçsal tanımlar
-
+## Yapısal ve niyetsel tanımlar
 
 <chapterId>ec5b13b7-4104-46a9-9c39-a810959a69ee</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=7r7KNK5YnIk)
 
 
+Şimdi siyasi aileler analizimizin merkezine giriyoruz. Ancak her birini ayrıntılı olarak incelemeden önce temel bir soruya değinmeliyiz: bir siyasi sistemi nasıl tanımlamalıyız? Örnek olarak sosyalizmi ele alalım. 
 
-Şimdi çeşitli siyasi felsefelere daha yakından bakalım. Çerçevenin alt kısmı biraz marjinal olarak ele alınacaktır, çünkü tam anlamıyla bir siyasi ideoloji değil, daha ziyade totaliterliğe eğilimli bir sosyal sistemdir.
+![Mikroskop altında siyasi aileler: yapısal analiz](./assets/en/040.webp)
 
+Onu beyan ettiği niyetlerle mi (adalet, esenlik, özgürleşme) tanımlamalıyız, yoksa temel yapısıyla, yani **bireye mi yoksa devlete mi öncelik verdiğiyle** mi tanımlamalıyız?
 
+### Niyetsel tanımların tuzağı
 
-Ama önce önemli bir ayrımı açıklamamız gerekiyor.
+![Milton Friedman politikaları niyetlere göre değil sonuçlara göre değerlendirmek üzerine](./assets/en/041.webp)
 
+Milton Friedman şöyle yazmıştı:
 
+> En büyük hatalardan biri, politikaları ve programları sonuçlarına göre değil, niyetlerine göre yargılamaktır. Hepimiz iyi niyet taşlarıyla döşenmiş ünlü yolu biliriz. [...] Yoksullar ya da ihtiyaç sahipleri için olduğu söylenen programlar neredeyse her zaman iyi niyetli destekçilerinin umduğunun tam tersi etkiler doğurur.
 
-Milton Friedman şöyle yazmıştı
+Başka bir deyişle Friedman, ampirik analiz diyebileceğimiz şeye öncelik verir: siyasi vaatlere ve programlara değil, bir sistemin görünür sonuçlarına odaklanmak. Bu, Frederic Bastiat'nın iyi iktisatçının bir politikanın etkilerini yalnızca kısa vadede değil uzun vadede de, yalnızca belirli bir grup üzerinde değil tüm nüfus üzerinde de gören kişi olduğunu savunduğunda öğrettiği şeyi yankılar.
 
+Friedman bizi yalnızca niyetlere dayanmanın tehlikesine karşı uyarır. Cömert niyetlerle motive edilen politikalar, **insan teşvikleri ve davranışına dair titiz bir analizi ihmal ettiklerinde** öngörülmeyen ya da zararlı sonuçlara yol açabilir. Örneğin devlet tarafından (yani vergi mükellefi tarafından) finanse edilen sosyal yardım programları ters etkiler üretme riski taşır: çalışmaya teşvik yaratmaz, ekonomik bağımlılık üretir ve bir tür yağma anlamına gelir; çünkü para önce serveti üretenlerden alınmalıdır. Friedman'a göre ekonomik büyüme, yoksulluğun azalması ya da verimlilik gibi ölçülebilir sonuçlar niyetlerin önüne geçmelidir; çünkü ne kadar asil olurlarsa olsunlar niyetler başarıyı garanti etmez.
 
-> En büyük hatalardan biri, politika ve programları sonuçlarından ziyade niyetlerine göre değerlendirmektir. Hepimiz iyi niyetlerle döşenmiş meşhur bir yol biliriz. [...] Yoksullar ya da ihtiyaç sahipleri için olduğu söylenen programlar neredeyse her zaman iyi niyetli sponsorlarının elde etmeyi umduklarının tam tersi sonuçlar doğurur.
+### Yapısal yaklaşım
 
-Gerçekten de, genellikle cömert niyetlerle motive edilen politikalar, insan teşvikleri ve davranışlarının titiz bir analizine dayanmıyorsa, öngörülemeyen veya zararlı sonuçlar doğurabilir. Örneğin, yoksullara yardım etmeyi amaçlayan bir sosyal politika genellikle ekonomik bağımlılık veya piyasa çarpıklığı gibi ters etkiler yaratır.
+**Yapısal ya da pratik tanımlar, siyasi sistemlerin fiilen nasıl işlediğine** ve gözlemlenebilir özelliklerine odaklanır. Örneğin sosyalizm, düzenleyen, planlayan ve kontrol eden devletin her yerde hazır bulunmasıyla karakterize edilir. Bu bir olgudur ve kardeşlik ya da dayanışma gibi ilan edilen niyetlerden çok daha önemlidir. Liberteryenizm ise ekonomide ve özel hayatta asgari devlet müdahalesiyle, bireysel özgürlüğün ve serbest piyasanın önceliğine yönelerek tanımlanır.
 
+Buna karşılık, **niyetsel tanımlar bireylerin ya da grupların beyan edilen motivasyonlarına, hedeflerine veya niyetlerine dayanır**. Sosyalizm kendisini \"sosyal adalet\" ve dayanışma peşinde olarak sunar. Fakat niyetlere dayanırsak işler bulanıklaşır, çünkü herkes adaletten yana olduğunu iddia eder; herkes halk egemenliğine başvurur. Oysa \"halk\" son derece soyut bir terim olarak kalır ve tuzak da burada yatar.
 
+Analizimiz bu nedenle yapısal yaklaşımı ayrıcalıklı kılacaktır; bu yaklaşım, siyasi sistemlerin ilan ettikleri niyetler yerine **ölçülebilir sonuçlarına** ve somut araçlarına dayalı daha nesnel bir değerlendirmeye izin verir. Nolan Diyagramı'nda çerçevenin altı (saf devletçilik, totalitarizme yönelen) biraz ayrı ele alınacaktır; çünkü bu, bir siyasi ideolojiden çok bir toplumsal sistemdir. Üstteki üç çeyrek (solda sosyalizm, ortada merkezcilik, sağda muhafazakârlık) ve tepede liberteryenizm, her biri bu yapısal mercekten incelenecektir.
 
-Friedman'a göre, ekonomik büyüme, yoksulluğun azaltılması veya verimlilik gibi ölçülebilir sonuçlar niyetlerden öncelikli olmalıdır, çünkü niyetler asil olmakla birlikte başarıyı garanti etmez.
+### Niyetlerin ötesinde
 
+![Siyasi ailelerin yapısal analizi: sosyalizm ve liberteryenizm](./assets/en/042.webp)
 
-
-Yapısal veya pratik tanımlar**, siyasi sistemlerin pratikte nasıl işlediğine ve gözlemlenebilir özelliklerine odaklanır. Örneğin sosyalizm, devletin her şeyin sorumluluğunu üstlenme, düzenleme ve planlama eğilimi ile karakterize edilir. Özgürlükçülük ise bireye ve onun özgürlüğüne verilen öncelik ile tanımlanır ve ekonomide ve diğer alanlarda asgari devlet müdahalesine yönelir.
-
-
-
-Buna karşılık, **kasıtlı tanımlar** bireylerin veya grupların belirtilen motivasyonlarına, hedeflerine veya niyetlerine dayanır. Örneğin, sosyalizmin amacı sosyal adalettir. Ancak, niyetlere güvenirsek işler bulanıklaşır, çünkü herkes adaletten yanadır. Bu nedenle daha net, daha nesnel bir analiz için yapısal tanımları kullanmayı tercih ediyoruz.
-
-
-
-İlerleyen bölümlerde siyasi ailelerin yapısal olarak nasıl tanımlanacağı açıklanmaktadır.
-
+Yapısal analiz eleştirel bir araç işlevi görür. Siyasi sistemleri vaatlerine değil gerçek sonuçlarına göre değerlendirmemizi sağlar. Buna karşılık niyetsel tanımlar, tüm sistemlerin benzer hedefler (adalet, hakkaniyet, özgürlük) peşinde olduğunu iddia ettiği ve onları birbirinden ayırmayı imkânsız kıldığı kavramsal bir karışıklık yaratır. Bu nedenle bir siyasi sistemin **ampirik, ölçülebilir sonuçlarına** ve kullandığı araçlara dikkat etmeliyiz. Bir siyasi sistemin gerçek doğası, niyetlerin ya da programların retoriğinin ötesinde, bunlar aracılığıyla açığa çıkar.
 
 
 ## Sosyalistler
 
-
 <chapterId>1ef34d7b-f813-458c-934c-1d404f882150</chapterId>
 
+Sosyalizm, on dokuzuncu yüzyılda toplumsal eşitsizliklerin ve büyük ölçekli sanayide işçilerin yabancılaşmasının eleştirisiyle ortaya çıkan siyasi ve ekonomik bir hareket, hatta bir doktrindir. Kökenlerinden itibaren açıkça anti-kapitalist bir harekettir; her ne kadar göreceğimiz gibi, modern sosyalistler ilkelerine kademeli olarak yumuşatmalar ve uzlaşmalar eklemiş olsalar da.
+
+![Sosyalistler: ilkeler ve varyantlar](./assets/en/043.webp)
 
 
-![video](https://www.youtube.com/watch?v=-JBJDQqgH_k)
+### Sosyalist çerçevede özgürlükler
 
+Sosyalist düşüncede özgürlükler tek biçimli görülmez. **Toplumsal alan ile ekonomik alan arasında temel bir ikilik** gözlemlenir:
 
+- **Özgürlükler:** toplumsal alanda güçlü, ekonomik alanda zayıf.
+- **Kardinal değerler:** eşitlik, ilerleme, sosyal adalet, dayanışma.
+- **Felsefe ve ilkeler:** Kolektif örgütlenmenin önceliği. Sosyalizm, toplumun bütüncül bir vizyonuna (holizm) kök salan ve devlet aracılığıyla ifade edilen bir pratiktir. \"Holizm\" terimi, \"bütün\" anlamına gelen Yunanca *holos* kelimesinden gelir. Sosyalist devlet, insan faaliyetini azami ölçüde üstlenmeyi ve yönlendirmeyi hedefler. Sosyalistler, Hayek'in \"inşacılık\" olarak adlandırdığı akla dayalı yeni bir toplumsal düzen inşa etme olasılığına neredeyse sınırsız bir inanç duyarlar.
+- **Siyaset:** Sosyalistler eşitliği garanti etmek için sağlık programlarını, düzenleyici ele geçirmeyi, vergi artışlarını ve sübvansiyonları savunur. Bu, ekonomik ve toplumsal devlet yönlendirmesini, planlamayı (üretimin önceden örgütlenmesini) ima eder. En radikal ve tam anlamıyla gerçekleşmiş sosyalizm totaliterdir; çünkü devlet tüm insan faaliyetini üstlenir.
+- **Ekonomi:** Sosyalizm, eşitlik lehine ekonominin güçlü devlet kontrolünü ima eder. Sosyalistler, kör ve içgüdüsel güçler olarak gördükleri serbest piyasalara kuşkuyla yaklaşır. Servetin yeniden dağıtımını, merkezi sosyal programları ve gelirle orantılı olarak artan ve servet kazanan ya da üretenler için cezalandırıcı hâle gelen artan oranlı vergilendirmeyi tercih ederler.
 
-![Socialistes Graphique](./assets/fr/015.webp)
+![Sosyalizmin güçlü toplumsal özgürlükler ama zayıf ekonomik özgürlüklerle konumlandırıldığını gösteren Nolan Diyagramı](./assets/en/044.webp)
 
+### Tarihsel evrim
 
+Sosyalizm kavramı ilk kez 1833'te Fransız Pierre Leroux tarafından *Revue Encyclopedique* için yazılan bir makalede, açıkça bireyciliğe karşıt olarak sistematik biçimde kullanıldı. Terim daha sonra, Marx onu kendi amaçları için benimsemeden önce, on dokuzuncu yüzyılın ortalarına doğru Saint-Simon, Fourier ve Owen'ın doktrinlerine uygulandı. Dikkat çekici biçimde, Marx'ın benimsediği \"komünizm\" kelimesi de Etienne Cabet adlı bir Fransız sosyalistten kaynaklanmıştır.
 
+On dokuzuncu yüzyılın sonuna gelindiğinde Marksizm ile anarşizm arasında tam bir kopuş ortaya çıktı. Yirminci yüzyılın başlarından itibaren **devrimci sosyalistleri reformist sosyalistlerden ayıran temel bir bölünme** oluştu:
 
+1. **Devrimci sosyalistler** mülkiyet haklarına karşı çıkar ve kapitalist burjuva toplumunu yok etmeye çalışır. Şiddet ya da proletarya diktatörlüğü yoluyla iktidarı ele geçirmeyi hedeflerler. Bu akım Marksist komünizmi ve nihayetinde en kötü totaliter rejimleri doğurdu.
 
-- Özgürlükler:** toplumsal alanda oldukça güçlü, ancak ekonomik alanda zayıftır.
-- Temel değerler:** eşitlik, ilerleme, sosyal adalet, dayanışma.
-- Felsefe ve ilkeler:** Kolektif örgütlenmenin önceliği. Sosyalizm, bir bütün olarak toplumu (holizm) temel alan ve devlet aracılığıyla ifade edilen bir uygulamadır. Sosyalist devlet, insan faaliyetlerini azami ölçüde kontrol altına almayı ve yönlendirmeyi amaçlar. Sosyalistler, akla dayalı yeni bir toplumsal düzen inşa etme olasılığına neredeyse sınırsız bir inanç duyarlar.
-- Siyaset:** Sosyalistler eşitliği garanti altına almak için sağlık programlarını, vergi artışlarını ve sübvansiyonları savunurlar. Bu, ekonomik ve sosyal devlet yönlendirmesi, planlama (üretimin yukarı doğru organizasyonu) anlamına gelir. Hayek inşacılıktan, yani toplumun kendi kendini inşa ettiği liberal düzenin (kendiliğinden düzen) aksine, toplumu inşa etmenin ve ona belirli bir biçim vermenin devlete bağlı olduğu fikrinden bahseder. En radikal ve başarılı sosyalizm totaliterdir, çünkü devlet tüm insan faaliyetlerinin sorumluluğunu üstlenir.
-- Ekonomi:** Sosyalizm, eşitlik (herkesin kendi geçimini sağlamasına izin vermek) lehine ekonominin güçlü devlet kontrolü anlamına gelir. Sosyalistler, güçlülerin zayıfları avlamasına izin veren bir sistem olarak gördükleri serbest piyasalara şüpheyle yaklaşırlar. Servetin yeniden dağıtımını ve yüksek vergi ve gelirlerle finanse edilen merkezi sosyal programları tercih ederler.
+2. **Reformist sosyalistler** şiddete yatkın değildir; devlete cepheden karşı çıkmanın işe yaramadığını anlamışlardır. Piyasa ekonomisi tarafından üretilen kaynakları kullanarak demokratik seçimler ve vergilendirme yoluyla sosyal adalet peşinde koşarlar. Başka bir deyişle, kapitalizmi kendisine karşı kullanmak için geçici olarak kabul ederler. Bu gelenek Jean Jaures, Leon Blum, Olof Palme (İsveç), Willy Brandt (Almanya) ve Francois Mitterrand (Fransa) tarafından temsil edilir.
 
+### Marx ve devrimci dal
 
+![Karl Marx ve ütopik ile bilimsel sosyalizm arasındaki ayrım](./assets/en/045.webp)
 
-**Sosyalist türleri:**
+Karl Marx, ütopik sosyalizm ile bilimsel sosyalizm arasında kritik bir ayrım yaptı. Erken dönem Fransız sosyalistlerini (Proudhon, Saint-Simon, Fourier) ütopik olmakla suçladı; yani gerçek teorik ya da pratik temelleri olmayan tamamen hayali çözümler öneriyorlardı.
 
+Marx'ın bilimsel sosyalizmi tarihsel materyalizme dayanır: **tarihin sınıf mücadelesi ve üretim araçlarına el konulması yoluyla ilerlediği** fikri. Bu yaklaşıma göre tüm kültürel temsiller (hukuk, siyasi kurumlar, dinler) üretici güçlerin ve üretim ilişkilerinin gelişimi tarafından koşullandırılır. Devlet, hukuk, hatta kültürün kendisi bile yalnızca egemen sınıfın çıkarlarının ifadeleridir. Marx'ı, proletaryanın baskısının bilincine varması ve baskıcı sınıfı ortadan kaldırarak devrim yoluyla kendini özgürleştirmesi gerektiğini savunmaya götüren şey bu materyalist çerçevedir.
 
-Sosyalizm kavramı, ilk kez 1833 yılında Fransız Pierre Leroux tarafından sistematik ve kesin bir anlamda kullanılmış bir neolojizmdir. Modern sosyalizm içinde iki gelenek ayırt edilebilir:
+### Demokratik sosyalizm ve reformist gelenek
 
+![Jean Jaures ve demokratik sosyalizmin temelleri](./assets/en/046.webp)
 
-1.  **Devrimci sosyalistler** mülkiyet haklarına karşıdır ve kapitalist burjuva toplumunu yok etmek isterler. Bakunin gibi 19. yüzyıl anarşistlerinin izinden giderler. Bu anarşizm daha sonra Marksist komünizme yol açmıştır.
+Jean Jaures, demokratik sosyalizmin büyük düşünürlerinden biri olarak öne çıkar. Yirminci yüzyılın başında siyasete giren felsefe eğitimli Jaures, *L'Humanite* gazetesini kurdu. Onun sosyalizm tanımı, bireysel özgürlüğü ve eşitliği gerçekleştirmek için toplumun ve iktidarın insan hayatına, özellikle emek ilişkilerine meşru müdahalesiydi. Başka bir deyişle, **Jaures, eşitlik adına devlet müdahalesini meşrulaştırmanın teorik temellerini attı**.
 
+![Emile Durkheim ve sosyalizmin sosyolojik temelleri](./assets/en/047.webp)
 
-2.  **Reformist sosyalistler** şiddete eğilimli değildir. Sosyal adalet hedefinden vazgeçmemişlerdir, ancak bu hedef demokratik seçimler ve vergilendirme yoluyla, piyasa ekonomisinin ürettiği kaynaklar kullanılarak gerçekleştirilir. Jean Jaurès, Leon Blum, Olof Palme (İsveç), Willy Brandt (Almanya) ve François Mitterrand'ın (Fransa) durumu böyleydi.
+1913'te Sorbonne'da sosyoloji kürsüsünün kurucusu ve Jaures'in dostu olan Emile Durkheim, sosyalizmin, ekonomik güçlerin örgütlenmesi yoluyla dönüşüm talep eden mevcut ekonomik duruma karşı bir protesto olduğunu açıkladı. Hem Jaures hem Durkheim, sosyalizme çarpıcı derecede ekonomik bir anlayışla yaklaşıyordu: ekonomi piyasa güçlerine (onları kör ve içgüdüsel sayıyorlardı) bırakılmamalı, rasyonel biçimde yönetilmeliydi.
 
+![New Deal'dan İskandinav sosyal demokrasisine modern demokratik sosyalizm](./assets/en/048.webp)
 
+Modern sosyalizm Roosevelt'e ve New Deal'a da çok şey borçludur. 1930'larda Franklin Delano Roosevelt, Büyük Buhran'ın ardından çağdaş demokratik sosyalizm savunucularının tamamı için başlıca referans oluşturan bir dizi reform uyguladı:
 
-Franklin Delano Rossevelt'in Yeni Anlaşma'sı Amerikan demokratik sosyalizminin (Bernie Sanders) oluşumunda rol oynamıştır.
-
-
-
-
-
-- Sosyal Güvenliğin Oluşturulması
-- Federal asgari ücretin uygulamaya konulması
+- Social Security'nin kurulması
+- Federal asgari ücretin getirilmesi
 - İşsizlik sigortasının kurulması
 - Federal kamu istihdam programları
 
+Savaştan sonra Birleşik Krallık benzer reformları benimsedi (millileştirmeler, refah devleti), Almanya'nın sosyal demokratları Marksist referansları kademeli olarak sosyal piyasa ekonomisi lehine terk etti ve İskandinav ülkeleri piyasa ekonomisini, artan oranlı vergilendirmeyi ve evrensel kamu hizmetlerini birleştiren bir model geliştirdi. Kendini sosyal demokrat olarak tanımlayan çağdaş Amerikalı siyasetçi Bernie Sanders, **bu modelin başarısına örnek olarak sık sık Fransa'yı**, özellikle de sosyal güvenlik sistemini gösterir.
 
+### Bütüncül ilke: kolektifin önceliği
 
-Bernie Sanders'a göre, *bu reformlar, ulusun sosyal dokusu ve Amerikan orta sınıfının temeli haline gelmiştir*.
+Sosyalizm, toplumu bireylerin basit toplamından ziyade bölünmez bir bütün olarak gören bütüncül bir vizyonla karakterize edilir. Bu kolektifi temsil etmenin farklı yolları vardır: toplumsal sınıf (Marksist yaklaşım), ulus (bireyi ulusal çıkara tabi kılan faşizmde olduğu gibi), ırk (Nasyonal Sosyalizmde olduğu gibi) ya da cinsiyet (bazı çağdaş yaklaşımlarda olduğu gibi). Her durumda **birey artık kendisini tanımlamaz; bir gruba aidiyeti tarafından tanımlanır**.
 
+### Green New Deal: çağdaş bir sentez
 
+![Ekolojik ve toplumsal hedeflerin çağdaş sentezi olarak Green New Deal](./assets/en/049.webp)
 
+Green New Deal, çevresel kaygıları toplumsal hedeflerle birleştiren demokratik sosyalizmin yakın tarihli bir evrimini temsil eder. Siyasi olarak ekoloji sol ve hatta aşırı solla hizalanır. Bu program ekolojik dönüşümü sosyal adalet, istihdam garantileri ve güçlendirilmiş kamu hizmetleriyle birleştirir. Her durumda **bireysel çıkar, gezegen sağlığı** ve iklim değişikliği meydan okuması tarafından tanımlanan kolektif çıkara tabi kılınır. Temelde bu, devlet müdahalesini ve özel gelirin müsaderesini artık yalnızca eşitlik ve sosyal adalet adına değil, çevre adına da meşrulaştıran yeni bir retorik ambalajdır.
 
-> Sosyalizm, üretim ve değişim araçları üzerindeki bireysel mülkiyetin yerine toplumsal mülkiyeti geçiren yöntemdir.  - Léon Blum, "On a Human Scale", 1945.
+### Alıntılarla sosyalist düşünce
+
+![Alıntılarla sosyalist düşünce](./assets/en/050.webp)
+
+> Gerçek bireysel özgürlüğün ekonomik güvenlik ve bağımsızlık olmadan var olamayacağına dair açık bir kavrayışa ulaştık. Muhtaç insanlar özgür insanlar değildir.
+> Franklin D. Roosevelt, 1944
+
+> Sosyalizmin amacı bütün insanların ekonomik özgürleşmesidir.
+> Leon Blum, *On a Human Scale*, 1945
+
+> Sosyalizm, toplumun tüm üyelerinin esenliğini sağlayacak şekilde örgütlenmesi gerektiğini öğreten doktrindir.
+> Emile Durkheim, *Socialism*, 1928
+
+> Benim için sosyalizm, insanların yalnızca birkaç zengin kişi için değil, hepimiz için işleyen bir toplum yaratmak üzere birlikte çalışmasıdır.
+> Bernie Sanders, 2015
+
+Bu alıntılar sosyalist düşüncenin arkasındaki asil niyetleri gösterir. Yine de **temel soru kalır: araçlar nelerdir ve sınır nerede çizilir?** Ekonomik özgürleşme zorlama ve iktidar yoluyla hedeflenirse, bu kendi içinde bir çelişki değil midir?
 
 ## Muhafazakârlar
-
 
 <chapterId>4e068cd8-a5c3-44f8-ac77-309f249a59eb</chapterId>
 
 
-
-![video](https://www.youtube.com/watch?v=G-9CnoEcfqQ)
-
+Her siyasi aile gibi muhafazakârlık da birleşik bir doktrin değildir. Farklı çağlara ve farklı kültürlere uyum sağlamıştır ve Anglo-Sakson muhafazakârlığı ile kıta Avrupası'ndaki karşılığı arasında önemli farklar vardır.
 
 
-![Conservateurs Graphique](./assets/fr/016.webp)
+![Muhafazakârlığın güçlü ekonomik özgürlükler ama zayıf toplumsal özgürlüklerle konumlandırıldığını gösteren Nolan Diyagramı](./assets/en/051.webp)
 
+![Muhafazakârlık: ilkeler, değerler ve evrim](./assets/en/052.webp)
 
+### Muhafazakâr vizyonda özgürlükler
 
+Nolan Diyagramı'nın gösterdiği gibi, muhafazakârlık toplumsal ve ekonomik özgürlükler arasında, sosyalistlerde gözlemlediğimizin ayna görüntüsü olan güçlü bir ikilik sergiler:
 
+- **Özgürlükler:** ekonomik alanda güçlü, toplumsal alanda zayıf. Ekonomik alanda muhafazakârlar, büyük ölçüde pragmatik nedenlerle ve sosyalizme güçlü bir karşıtlık içinde serbest piyasayı, girişimciliği ve özel mülkiyeti savunur. Toplumsal alanda kısıtlamalar **geleneksel ahlaki normların ve toplumsal istikrarın korunmasıyla** gerekçelendirilir.
+- **Kardinal değerler:** erdem, düzen, gelenek, uygarlık.
+- **Felsefe ve ilkeler:** Muhafazakârlar, şeylerin genel olarak olduğu gibi iyi olduğuna ve herhangi bir değişimin onları daha kötü hâle getirebileceğine inanır. Bu felsefenin kalbinde köklere, geçmişe derin bir bağlılık ve fazla sert değişimden duyulan korku yatar. Kaosa ve modernliğin aşırılıklarına karşı temel korumalar olarak görülen, uzun süredir yerleşik toplumsal kurumlara derin saygı duyarlar. Zaten var olan ve zaman içinde kendini kanıtlamış her şey kendi başına iyi sayılır. Bir Amerikan muhafazakârlık ansiklopedisinin söylediği gibi: muhafazakârlık, bireylerin aileler, kiliseler ve toplumsal gruplar gibi birincil ve yerel birliklerde birbirleriyle işbirliği yaparak iyi karakter geliştirdiği miras alınmış kurumlara, inançlara ve pratiklere saygı yoluyla toplumları sürdürmeyi ve zenginleştirmeyi amaçlayan bir felsefedir. Tocqueville bu dinamiği *Democracy in America* eserinde gözlemlemiştir: din ve yerel topluluklar bireyciliğin risklerine karşı güçlü dengeleyiciler işlevi görüyordu.
 
-- Özgürlükler:** ekonomik alanda güçlüdürler ancak toplumsal alanda zayıftırlar.
+![Muhafazakâr kardinal değerler: erdem, düzen, gelenek ve uygarlık](./assets/en/053.webp)
 
+![Muhafazakârlığın çağdaş tanımı: miras alınmış kurumlar yoluyla toplumları zenginleştirmek](./assets/en/054.webp)
 
+- **Siyaset:** Ulus-devlet siyasetin başlıca ekseni olarak kabul edilir. Muhafazakârlar geleneksel toplumsal denetimleri, güçlü ulusal savunmayı ve daha geniş polis yetkilerini savunur. Toplumu bozmak ve zayıflatmakla suçladıkları sosyalizmin ya da komünizmin her biçimine karşı çıkarlar.
+- **Ekonomi:** Ekonomi, yerleşik düzeni ve ulusal gücü pekiştirmek için bir araç olarak kalır. Muhafazakârlar serbest girişimi, düşük vergilendirmeyi ve işletmelerin asgari düzeyde düzenlenmesini destekler. Fakat **fazla bireysel özgürlüğün ahlaksızlık ya da uygarlık gerilemesi doğurabileceğinden** korkarlar. Otto von Bismarck'ın dediği gibi: \"Ekonomi, ulusal büyüklüğe giden en emin yoldur.\" Serbest piyasanın taraftarları olsalar bile, muhafazakârlar ekonomik özgürlüğü kendi başına bir amaç olarak değil, güçlü bir devleti sürdürmek için bir kaldıraç olarak görürler.
 
+![Muhafazakâr siyasi ve ekonomik konumlar](./assets/en/055.webp)
 
+### Muhafazakârlığın kısa tarihi
 
-- Temel değerler:** erdem, düzen, gelenek, medeniyet.
+Doktrin felsefi köklerini on sekizinci yüzyılda, Fransız Devrimi'ne tepki olarak bulur. Edmund Burke çoğu zaman bu muhalefetin kurucu figürü olarak anılır; radikal değişime karşı kurumların ve geleneklerin korunmasını savunmuştur. Burke ihtiyatı savunuyordu: Devrim'in bazı ilkelerini benimseyebilse bile, toplumun temiz bir sayfa açarak değil, kademeli reformlarla ilerlemesi gerektiğine inanıyordu.
 
+![Muhafazakâr düşüncenin tarihsel evrimi](./assets/en/056.webp)
 
+![On dokuzuncu yüzyılda Avrupa muhafazakârlığı](./assets/en/057.webp)
 
+On dokuzuncu yüzyıl Avrupa'sında muhafazakârlık, yükselen liberalizm ve milliyetçilik karşısında çoğu zaman monarşiyi, Kilise'yi ve yerleşik toplumsal düzeni destekleme biçiminde ortaya çıktı. Fransa'da Joseph de Maistre gibi figürler derinden gerici bir damarı temsil ediyordu. De Maistre akla mutlak bir düşmanlık besliyordu; insanların akıl varlıkları olmadığına ve **toplumun ancak derin içgüdülere seslenerek yönetilebileceğine** inanıyordu; dinin kritik önemi buradan gelir. Bu gericiler, sanayileşmeyi geleneksel toplumsal düzene tehdit olarak görerek feodal, tarımsal ve zanaatkâr topluma dönüşü savundular.
 
+![Anglo-Sakson muhafazakârlığı ve düzenli özgürlük kavramı](./assets/en/058.webp)
 
-- Felsefe ve ilkeler:** Muhafazakarlar, işlerin genellikle olduğu gibi iyi olduğuna ve herhangi bir değişikliğin onları daha da kötüleştirebileceğine inanırlar. Halihazırda var olanı korumaya çalışır, bunun kendi içinde iyi olduğunu savunur ve etkili olduğunu düşündükleri bir sistemde değişiklik yapmaktan kaçınırlar. Geleneksel muhafazakarlık anlayışının temelinde, kaos, adaletsizlik ve zulme karşı temel güvenceler olarak görülen köklü toplumsal kurumlara duyulan derin saygı yatar. Bu sosyal yapılar, insanlığın modernitenin aşırılıklarına direnmek için ihtiyaç duyduğu dayanışma, güvenlik ve gücü ayakta tutmaktadır.
+Yirminci yüzyılda, özellikle Amerika Birleşik Devletleri'nde muhafazakârlık, çoğu zaman New Deal'ın ilerici politikalarına karşıt olarak, bireysel özgürlük, sınırlı hükümet, serbest piyasalar ve Hristiyan değerleri idealleri etrafında gelişti. Bu Anglo-Sakson muhafazakârlığı çok daha moderndi; bilimsel ve teknolojik ilerlemeyi tamamen kabul etmiş, topluluk ile bireyi, özgürlük ile sorumluluğu uzlaştırmaya çalışmıştı. Britanya'da Margaret Thatcher, ilerlemeciliğin aşırılıklarına karşı **ahlaki ve dini değerleri bir siper olarak yeniden tesis etme** temel hedefiyle, sendikalara ve merkezi planlamaya muhalefeti üzerinden bu eğilimi örnekledi.
 
+### Muhafazakârlığın büyük düşünürleri
 
+- **Edmund Burke (1729-1797):** Çoğu zaman modern muhafazakârlığın babası sayılan Burke, devrimci kopuş yerine kademeli, organik değişimde ısrar etti. *Reflections on the Revolution in France* (1790) eseri Anglo-Sakson muhafazakârlığının entelektüel temellerini attı.
+- **Michael Oakeshott (1901-1990):** Siyasette rasyonalizm eleştirisiyle tanınan Britanyalı filozof Oakeshott, **muhafazakârlığın sistematik bir ideolojiden ziyade bir mizaç olarak anlaşılmasını** savundu. *On Being Conservative* (1956) denemesi Friedrich Hayek'i de etkilemiş temel bir referans olarak kalır.
+- **Roger Scruton (1944-2020):** Geç modernite bağlamında muhafazakâr değerlerin sofistike bir savunusunu geliştiren çağdaş Britanyalı filozof; özellikle *The Meaning of Conservatism* kitabında.
 
+![Muhafazakârlığın büyük düşünürleri: Burke, Oakeshott ve Scruton](./assets/en/059.webp)
 
+### Sorunlu bir esneklik
 
-- Siyaset:** Muhafazakarlar, sosyal ve ahlaki standartları (düzen, güvenlik, değerler) uygulamak için geleneksel sosyal kontrolleri ve devlet müdahalesini savunurlar. Güçlü ulusal savunmayı desteklerler. Daha kapsamlı polis güçlerini destekleme eğilimindedirler. Sosyalizm, Batı medeniyetinden acımasız bir kopuş olarak algılanır. Muhafazakârlar komünizme karşı mücadelede ve aşırı devlet müdahaleciliğinin reddedilmesinde belirleyici bir rol oynamıştır.
+![Muhafazakâr ilkelerin sorunlu esnekliği](./assets/en/060.webp)
 
+Muhafazakârlık bazen ilkeler bakımından rahatsız edici bir esneklik sergiler. 2008 finansal krizi sırasında George W. Bush şöyle dedi: \"Serbest piyasa sistemini kurtarmak için serbest piyasa ilkelerini terk ettim.\" Ertesi yıl şunu ekledi: \"Serbest piyasa içgüdülerime aykırı davrandım ve geçici bir hükümet müdahalesini onayladım.\" Büyük bankaları kurtarmak için müdahale ederek Bush, **ulusal ekonominin nihai garantörü olarak devletin muhafazakâr rolünü** üstlendi; ulusun gücünü ve sürekliliğini piyasanın soyut ilkelerinin üzerine koydu. Aynı mantık, Donald Trump'ın ulusal çıkar adına izlenen ve korporatizmi ile ahbap-çavuş kapitalizmini körükleme riski taşıyan korumacı ticaret politikalarında da bulunabilir.
 
+### Neomuhafazakârlığın ortaya çıkışı
 
+![Neomuhafazakârlığın ortaya çıkışı ve paleomuhafazakâr tepki](./assets/en/061.webp)
 
+2000'lerden itibaren neomuhafazakârlar, özellikle 11 Eylül 2001 saldırılarından sonra, dünya çapında demokrasiyi yerleştirmek için askeri müdahaleciliği gerekçelendirmeye giderek daha fazla dahil oldular. Bu \"ulus inşası\" politikası, muhafazakârların dış politika konularındaki geleneksel ihtiyatından koptu. Buna tepki olarak geleneksel muhafazakârlar, kendilerini neomuhafazakârlardan ayırmak için \"paleomuhafazakâr\" etiketini sahiplendiler. Askeri müdahaleciliği eleştirir, daha izolasyonist bir dış politikayı savunur ve **ulusal ve kültürel kimlik meselelerine daha fazla vurgu yaparlar**.
 
-- Ekonomi:** Muhafazakarlar düşük vergilendirmeyi ve iş dünyasının asgari düzeyde düzenlenmesini destekler. Dürüst girişimciliği, serbest teşebbüsü ve servet biriktirmek için çok çalışan bireyleri desteklerler. Ancak çok fazla bireysel özgürlüğün ahlaksızlığa veya uygarlığın gerilemesine yol açacağından korkarlar.
+### Alıntılarla muhafazakâr düşünce
 
+> Muhafazakâr, hiçbir şeyin ilk kez yapılmış olduğuna inanmayan kişidir.
+> Benjamin Disraeli
 
+> Muhafazakârlık katı bir düşünce sistemi değil, bir yatkınlık, hayata karşı bir tutum, bir gelenektir.
+> Michael Oakeshott
 
-**Muhafazakârların türleri:**
+> Muhafazakârlık, bizim icat etmediğimiz ve ortadan kaldıramayacağımız bir ahlaki hakikatin var olduğuna dair kanaattir.
+> Roger Scruton
 
-
-19. yüzyıl Avrupa'sında muhafazakârlar gericidir. Eski feodal, tarımsal ve zanaatkar topluma geri dönüşü savunurlar. Günümüz toplumundan kaçmak ve geçmişe, zararlı olduğunu düşündükleri evrimden öncesine dönmek isterler: ekonomi ve toplum üzerindeki sonuçlarıyla birlikte bilimsel ve teknolojik ilerleme.
-
-
-
-Anglo-Sakson ülkelerindeki muhafazakarlık, Latin ülkelerindeki sağcı politikalara benzemektedir. Ampirik olarak bu muhafazakarlık, Amerika Birleşik Devletleri'nde *liberalizm* adını alan Yeni Düzen'in ilerlemeciliğine karşıtlığı ile tanımlanır. Örnekler arasında Russell Kirk, Michael Oakeshott ve Roger Scruton'un çalışmaları yer almaktadır.
-
-
-
-#### Ancak, iki tür muhafazakârlık arasında ayrım yapmamız gerekiyor.
-
-
-
-
-1.  **Geleneksel Amerikan muhafazakarlığı**, toplum ve birey, bireysel özgürlük ve sorumluluk, sınırlı hükümet ve serbest piyasa gibi bazen birbiriyle çelişen istekleri birleştirmeyi amaçlayan "düzenli özgürlük" fikri üzerine kurulmuştur. İkinci Dünya Savaşı'ndan sonra Amerikan muhafazakârlığı, geleneksel liberal ve muhafazakâr değerleri uzlaştırmaya çalışarak kendini yeniden keşfetti. Komünizmin yanı sıra Amerikan federal hükümetinin aşırı genişlemesine de karşı çıktılar ve yarattığı sorunların sadece yönetiminin iyileştirilmesiyle değil, aynı zamanda ahlaki ve dini değerlerin yeniden tesis edilmesiyle çözülebileceğini savundular.
-
-
-
-2.  **Amerika Birleşik Devletleri'nde** 2000'li yıllardan itibaren neo-muhafazakarlar, özellikle 11 Eylül 2001'den sonra, dünyaya demokrasiyi yerleştirmek için askeri müdahaleciliği meşrulaştırmaya giderek daha fazla dahil oldular ve gelenekçi muhafazakarlardan büyük eleştiri aldılar.
-
-
-
-Bazıları kendilerini yeni muhafazakarlardan ayırmak için artık kendilerini "paleo-muhafazakar" olarak adlandırıyor.
-
+Bu son alıntı muhafazakârların ilerlemecilere güçlü muhalefetini anlamak için temeldir. Muhafazakârlar bir insan doğası olduğunu ve bu doğadan ahlaki kuralların çıktığını savunur. Bu kurallar keyfi değildir; insan varlığının temelde ne olduğundan doğarlar. Dolayısıyla insan doğasını değiştirmeye yönelik her girişim yalnızca başarısızlığa mahkûm değil, her şeyden önce ahlaksızdır.
 
 
 
 ## Liberteryenler
 
-
 <chapterId>9ca743de-537b-42fb-87d2-212d5f478b22</chapterId>
 
+Liberteryen aile, kendisini diğer tüm siyasi felsefelerden temel bir biçimde ayırır: **merkezine ekonomiyi değil, etiği ve hukuku yerleştirir**. Liberteryenler piyasa ekonomisini savunduklarında, bunu zenginlik üretme kapasitesinden çok bireysel özgürlüğü ve sorumluluğu teşvik ettiği için yaparlar.
 
 
-![video](https://www.youtube.com/watch?v=ftE1NG34yno)
+![Liberteryenizmin hem toplumsal hem ekonomik alanlarda güçlü özgürlüklerle üstte konumlandırıldığını gösteren Nolan Diyagramı](./assets/en/062.webp)
 
+![Liberteryen siyasi aile](./assets/en/063.webp)
 
+### Özgürlükler ve temel değerler
 
-![Libertariens Graphique](./assets/fr/017.webp)
+Nolan Diyagramı'nın hemen gösterdiği gibi, liberteryenler çerçevenin tepesinde yer alır; çünkü ister toplumsal ister ekonomik olsun, özgürlüklerin savunusunda hiçbir kısıtlamayı kabul etmezler. Onları diğer tüm siyasi ailelerden ayıran da tam olarak budur:
 
+- **Özgürlükler:** hem toplumsal hem ekonomik alanlarda güçlü. Toplumsal düzeyde liberteryenler, bazı maddelerin suç olmaktan çıkarılmasını, eğitim tercihi özgürlüğünü ve devletin vatandaşların özel hayatlarına karışmamasını kapsayan azami bireysel özgürlüğü savunur. Ekonomik düzeyde bu, girişimde bulunma, işe alma, ücret belirleme ve her şeyden önce **kişinin parasını uygun gördüğü şekilde harcama hakkına** ve kısıtlama ya da gözetim olmadan ticaret yapmaya kadar uzanır.
+- **Kardinal değerler:** meşru özel mülkiyet, bireysel özgürlük, rıza, sorumluluk. Bu değerler birbirine yakından bağlıdır ve birbirinden tamamen ayrılamaz.
+- **Felsefe ve ilkeler:** Liberteryenizm her şeyden önce bir hukuk felsefesidir. On yedinci yüzyılda John Locke'ta bulunan temel fikir, her bireyin yaşam, özgürlük ve mülkiyet üzerinde devredilemez haklara sahip olduğudur. Bu haklar hükümet tarafından verilmez, insan varlığına içkindir. Kendi üzerinde sahiplik, her bireyin kendi bedeni ve hayatının meşru sahibi olduğu kavramıdır. Bastiat'nın yazdığı gibi, insan önce kendisinin sahibidir, sonra edindiği şeylerin sahibidir. Laissez-faire ilkesi normların yokluğu değildir; **gerekirse güç yoluyla da savunulması gereken temel bir normdur**.
+- **Siyaset:** Saldırmazlık ilkesi, bir kişinin başka birinin hayatına, özgürlüğüne ya da mülkiyetine karşı şiddet eylemleri işlemediği sürece istediği gibi hareket etmekte özgür olduğunu varsayar. Bu formülasyon tüm uygarlıklarda ve dinlerde bulunan altın kuralı hatırlatır: sana yapılmasını istemediğin şeyi başkalarına yapma. Liberteryenler, çoğu insanın bireyler tarafından işlendiğinde ahlaksız sayacağı eylemleri gerçekleştirmesi için devlete özel izin vermeyi reddeder. Kısacası, **istisnasız herkes için geçerli tek bir ahlaki kod vardır**. Bu doğal olarak iktidara, özellikle de parasal kontrol tekeli dahil olmak üzere yasal olarak zorlama uygulayabilen devlet iktidarına derin bir kuşku üretir. Vergilendirme hırsızlık ya da gasp olarak nitelendirilir; çünkü saldırmazlık ilkesini ihlal ederek, rıza olmaksızın başkasının mülkiyetine el koymaktan oluşur.
+![Liberteryen felsefe: kendi üzerinde sahiplik, saldırmazlık ve laissez-faire](./assets/en/064.webp)
 
+- **Ekonomi:** Girişim ve mübadele özgürlüğü doğrudan kişinin kendi üzerinde sahipliğinden ve emeğinin ürünleri üzerindeki mülkiyetinden kaynaklanır. Özgürlük, bireysel eylem ve sorumluluktan doğduğu için daha adil ve daha verimli olan kendiliğinden bir düzen üretir. Serbest piyasa korporatizmin karşısında durur (devletin örgütlü gruplarla işbirliği yaparak ekonomiyi düzenlediği, tekeller ve düzenleyici korumalar yarattığı sistem). **Serbest piyasa, bireylerin avantaj elde etmek için hukukun gücüne dayanmadan barışçıl biçimde etkileşime girdiği doğal süreçtir**.
 
+### Tarihsel evrim
 
+![Klasik liberalizmden liberteryen düşüncenin tarihsel evrimi](./assets/en/065.webp)
 
-- Özgürlükler:** hem toplumsal hem de ekonomik alanlarda güçlüdürler.
+Liberteryen fikirler, klasik liberalizmle birlikte on sekizinci yüzyıla kadar uzanır. Fizyokratlar (Vincent de Gournay, Turgot, Quesnay), ardından Condillac, Jean-Baptiste Say ve Frederic Bastiat bu ilkeleri açıkça formüle ettiler. Yirminci yüzyıl boyunca, refah devleti ve giderek daha fazla düzenlenen bir toplum lehine **laissez-faire ilkelerinin kademeli olarak terk edilmesiyle temel bir kayma meydana geldi**. Buna yanıt olarak Amerika Birleşik Devletleri'ndeki klasik liberaller, büyüyen devlet müdahaleciliği tarafından sahiplenilmiş Amerikan \"liberalizminden\" kendilerini ayırmak için kendilerine \"liberteryen\" demeye başladılar. Bu liberteryenler kendilerini, başlıca düşünürleri Ludwig von Mises, Friedrich Hayek ve Murray Rothbard olan [Avusturya okulu](https://planb.academy/resources/glossary/austrian-school) iktisadında tanıdılar.
 
+### Liberteryen türleri
 
+![Minarşistler ve anarko-kapitalistler: liberteryenizm içindeki iki eğilim](./assets/en/066.webp)
 
+Yirminci yüzyılda iki büyük eğilim ortaya çıktı; aralarındaki ayrışmalar temel etik anlaşmazlıklardan çok ampirik sorulara dayanıyordu:
 
+![Liberteryen siyasi ilkeler: saldırmazlık, iktidara kuşku ve vergilendirmenin reddi](./assets/en/067.webp)
 
-- Temel değerler:** bireysel özgürlük, sorumluluk, özel mülkiyet, rıza.
+1. **Minarşistler**, devletin yetkilerinin kesinlikle bireysel özgürlüklerin savunulmasıyla sınırlı olması gerektiğini düşünürler. Bu, iktidarın yalnızca polis, adalet ve bölgesel savunma gibi çekirdek işlevleri güvence altına almak için meşru olduğu minimal devlet rejimidir (\"gece bekçisi devleti\"). Ron Paul bu eğilimin önde gelen figürüdür: Teksas'ı onlarca yıl temsil etmiş bir doktor ve ABD kongre üyesi olarak, Anayasa'dan sapan her yasa tasarısına tutarlı biçimde karşı oy vermiş, her türlü dış müdahaleciliğe karşı çıkmış ve Friedrich Hayek tarafından savunulan bir fikir olan **paranın ulussuzlaştırılmasını** desteklemiştir. Paul, Federal Reserve'in itibari parayı manipüle ederek enflasyondan ve ekonomik döngülerden sorumlu olduğunu savunur ve Bitcoin'de altın standardının yerini alabilecek bir sağlam para biçimi görmüştür.
 
+![Ron Paul'un minarşist doktrini ve sağlam para ilkeleri](./assets/en/068.webp)
 
+2. **Anarko-kapitalistler**, devlet işlevlerinin özelleştirilmesi ve tamamen piyasa tarafından yönetilmesi gerektiğini düşünürler. Bu, kuralsız, otoritesiz ya da hukuksuz bir toplum değildir; **kuralların gönüllü bağlılık ve rıza yoluyla oluşturulacağı bir toplumdur**. Hükümetler ve devlet benzeri işlevler olabilir, fakat tekel olmaz; rakip işletmeler hizmetlerini müşterilere sunar. Kilit düşünürler arasında Murray Rothbard (*For a New Liberty*, 1973), David Friedman (Milton Friedman'ın oğlu; piyasanın hukuk ve düzen dahil tüm hizmetleri daha verimli sağlayabileceğini savunan daha pragmatik, faydacı bir yaklaşım benimser) ve Hans-Hermann Hoppe (Rothbard'ın öğrencisi; argümantasyon etiğine dayalı bir yaklaşım geliştirir) yer alır.
 
+![Anarko-kapitalizmin kilit düşünürleri: Rothbard, Friedman ve Hoppe](./assets/en/069.webp)
 
+### Alıntılarla liberteryen düşünce
 
-- Felsefe ve ilkeler:** bireysel özgürlüğün önceliği. Tarihsel olarak, klasik liberalizm her şeyden önce bir hukuk felsefesidir. Temel fikir, her bireyin yaşam, özgürlük ve mülkiyet konusunda devredilemez haklara sahip olduğudur. Bu haklar devlet tarafından verilmez, aksine insanın doğasında vardır. Öz-egemenlik (ya da öz-sahiplik), her bireyin kendi bedeninin ve yaşamının gerçek sahibi olduğu ve başkalarının haklarını ihlal etmediği sürece dışarıdan bir zorlama olmaksızın bunlar hakkında karar verme hakkına sahip olduğu kavramıdır.
+> Liberteryen, bazı konularda \"sol\", bazı konularda \"sağ\" olmakta hiçbir çelişki görmez. Aksine, kendi konumunu, her bireyin özgürlüğü açısından pratikte tutarlı olan tek konum olarak görür.
+> Murray Rothbard, *For a New Liberty*, 1973
 
+> Komşunuzu soyma hakkınız yoksa, hükümeti sizin yerinize soygun yapmaya göndermemelisiniz.
+> Ron Paul, 2008
 
+![Alıntılarla liberteryen düşünce](./assets/en/070.webp)
 
-
-
-- Siyaset:** Liberteryenler, hiç kimsenin veya herhangi bir grubun (hükümet dahil) başka bir kişiye veya mülküne karşı fiziksel güç kullanma veya tehdit etme hakkına sahip olmadığına inanırlar. Bu, saldırmazlık ilkesidir. Bu, dolandırıcılık, hırsızlık ve zorlamanın ahlaki olarak kınanması gerektiği anlamına gelir. Güç kullanımı yalnızca meşru müdafaa durumunda haklı görülebilir.
-
-
-
-Liberteryenler, toplumdaki bireyler ya da gruplar tarafından işlenmesi halinde çoğu insanın ahlak dışı, yasadışı ya da suç olarak değerlendireceği fiillerin işlenmesi için devlete özel izin vermeyi reddederler. Kısacası liberteryenler, herhangi bir grup veya birey için istisna olmaksızın herkesin aynı ahlaki kurala tabi olması gerektiğinde ısrar ederler.
-
-
-
-Liberteryenler, ister siyasi ister ekonomik olsun, her türlü güç yoğunlaşmasına karşı derin bir şüphe duyarlar. Devlet gücü özellikle tehlikeli kabul edilir çünkü yasal olarak baskı uygulayabilir.
-
-
-
-
-
-- Ekonomi:** Serbest ticaret ve girişim özgürlüğü, bireylerin kendilerine ve mallarına sahip olma ve bunları özgürce mübadele etme haklarına saygının ekonomik ifadeleridir. Özgürlük kendiliğinden, adil bir düzen üretir, çünkü gönüllü mübadele ve sözleşmelerin karşılıklı etkileşimi yoluyla bireysel eylem ve sorumluluktan kaynaklanır.
-
-
-
-**Özgürlükçülerin türleri:**
-
-
-20. yüzyılda iki büyük eğilim ortaya çıkmıştır:
-
-
-1.  *devletin yetkilerinin kesinlikle bireysel özgürlüklerin savunulmasıyla sınırlı olması gerektiğini düşünen *Minarşist:**. Bu, iktidarın sadece polis, adalet ve bölgenin silahlı savunması gibi temel işlevleri sağlamak için meşru olduğu minimal bir devlet rejimidir (*Gece bekçisi devleti*).
-
-
-2.  **Diğer anarko-kapitalist:** Devlet fonksiyonlarının özelleştirilmesi ve piyasa tarafından yönetilmesi gerektiğine inanan kişi.
-
-
-Bununla birlikte, her ikisi de bireysel egemenliğin temel ilkesi konusunda hemfikirdir. Özgürlükçü fikirler 18. yüzyılın başlarında Fizyokratlar, özellikle Vincent de Gournay ve Turgot tarafından dile getirilmiş ve Condillac, Jean-Baptiste Say ve Frédéric Bastiat tarafından geliştirilmiştir. Bu fikirler 20. yüzyılda, başlıca yazarları Ludwig von Mises, Friedrich Hayek ve Murray Rothbard olan [Avusturya iktisat okulu](https://planb.academy/resources/glossary/austrian-school) tarafından ele alınmış ve geliştirilmiştir.
-
+Başka bir deyişle Rothbard, liberteryenizmin geleneksel sol-sağ ayrımını aştığını vurgular; Paul ise devletin bir zorlama aracı olarak reddedilmesini öne çıkarır. **Hırsızlık yasağı yalnızca bireyler için değil, devlet için de geçerlidir.**
 
 
 
 
 ## Merkezciler
 
-
 <chapterId>d4f5c100-a791-45cf-bc7c-6e2353dc7a48</chapterId>
 
 
+Merkezcilik, diğerlerinin hepsinden eşit uzaklıkta bulunan basit bir orta konumdan fazlasıdır. Çağdaş çoğulcu toplumlara uyarlanmış olduğunu iddia eden gerçek bir siyasi felsefe, bir yönetim yöntemidir. **Verimliliği, pragmatizmi ayrıcalıklı kılan ve bir tür teknokrasiye yönelen** bir yaklaşımdır: iktidar, ekonomiyi yönlendirmesi ve para politikasını idare etmesi gereken uzmanlara emanet edilmelidir.
 
-![video](https://www.youtube.com/watch?v=ZJVwYWhdhrU)
+![Merkezciliğin her iki alanda da ılımlı özgürlüklerle ortada konumlandığını gösteren Nolan Diyagramı](./assets/en/071.webp)
 
+![Merkezci siyasi aile](./assets/en/072.webp)
 
+### Özgürlükler ve kardinal değerler
 
-![Centristes Graphique](./assets/fr/018.webp)
+Merkezci yaklaşım, kamu otoritesi ile özel özerklik arasında sürekli bir denge arayışıyla karakterize edilir:
 
+- **Özgürlükler:** hem toplumsal hem ekonomik alanlarda ılımlı. Toplumsal alanda merkezciler, temel özgürlükleri korurken ölçülü devlet müdahalesini destekleyerek hükümet denetimi ile bireysel tercihi uzlaştırmaya çalışırlar. Ekonomik alanda özgürlükler garanti edilir, fakat her zaman sosyal adalet kaygısıyla dengelenir. Merkezciler laissez-faire'i sert biçimde eleştirir, ancak hem iş dünyası yanlısı hem de eşitsizlikleri düzeltmekten yanadır. Burada önemli bir ayrım yapılmalıdır: iş dünyası yanlısı olmak (merkezcilerin olma eğiliminde olduğu gibi), serbest piyasa yanlısı olmaktan farklı olarak **büyük işletmeler ile devlet arasında bir tür ittifakı** desteklemek anlamına gelir.
+- **Kardinal değerler:** ılımlılık, uzlaşma, uyum, kamu yararı.
+![Merkezci felsefe: pragmatizm ve teknokrasi](./assets/en/073.webp)
 
+- **Felsefe:** Pragmatizm, ideolojik ilkelerin katı uygulanmasından ziyade belirli bağlamlara uyumu ayrıcalıklı kılan bir siyasi felsefedir. Bu pragmatik düşünce, en iyi sosyoekonomik sonuçlara ulaşmak için doğru kararları yalnızca teknokratların alabileceği fikrine dayanır. Teknokratik bir yönetim modelinde siyasi kararlar ideoloji ya da partizan tartışmadan değil, rasyonellik ve uzmanlıktan doğar. Bir kararın faydasını hesaplamak için tüm sonuçlarını ölçebilmek gerekir; bu da uzmanlık gerektirir: sofistike hesaplamalar, istatistikler, anketler, olasılıklar. Fakat burada bir paradoks vardır: **bu pragmatizmin kendisi bir dogmatizm biçimine dayanır** (yani toplumu yönlendirmeye yalnızca uzmanların yetkin olduğu fikrine); bu inanç görünmez ve dile getirilmemiş kalır.
+- **Siyaset:** Merkezciler, geleneksel bölünmeleri (sola karşı sağ) koalisyon yönetimi yoluyla aşmaya çalışır; muhafazakâr sağdan sosyal demokrat ve ekolojik sola kadar ılımlı partileri, **sol ile sağ arasındaki tarihsel ayrımları aşan** merkezi bir grup içinde birleştirirler. Bu yöntem çeşitlilikle karakterize edilen modern toplumlara uygundur. Amerika Birleşik Devletleri'nde Bill Clinton, hem Cumhuriyetçilerden hem Demokratlardan oy alarak yasalar geçirme becerisiyle tanınmıştır; Fransa'da Emmanuel Macron tüm ılımlılardan oluşan geniş bir merkez kurarak iki kez seçilmiştir.
+- **Ekonomi:** Merkezciler piyasa mekanizmalarını kabul ederken, uygun uzman denetimi ve düzenlemesine duyulan ihtiyacı da tanır. Rekabetin genel çıkarı koruyan bir çerçeve içinde gerçekleştiği düzenlenmiş bir piyasa ekonomisini savunurlar. Buna \"yumuşak dirigisme\" denebilir; çünkü ekonomiyi tamamen planlamaya değil, ikramiyeleri sınırlamaya, uygulamaları düzenlemeye ve toplumsal barış adına piyasayı yönetmeye çalışır.
 
+### Hedefli sosyal programlar
 
+![Merkezci ekonomik dirigisme: düzenlenmiş serbest ticaret ve hedefli sosyal programlar](./assets/en/074.webp)
 
-- Özgürlükler:** Bireysel ve ekonomik özgürlüklerin ılımlı destekçileridir.
+Merkezcilik, devlete aşırı bağımlılık yaratmadan eşitsizlikleri düzeltmek için **hedefli sosyal programların önemini** kabul eder. Bu servet yeniden dağıtım sistemi, dogmatik eşitlikçilikten çok toplumsal barışı ve \"birlikte yaşamayı\" hedefler.
 
+### Keynesçilik ekonomik bir merkezcilik midir?
 
+![Sembolik merkezci figürler: Macron ve Blair](./assets/en/075.webp)
 
+![Tony Blair ve merkezci model olarak Üçüncü Yol](./assets/en/076.webp)
 
+Batı toplumlarında ekonomik düşünce ve pratiğe bugüne kadar hâkim olmuş yirminci yüzyılın büyük İngiliz iktisatçısı John Maynard Keynes, gerçekten de bir merkezcilik biçimini temsil ediyor olarak görülebilir. Yaklaşımı, klasik liberalizm (serbest piyasa) ile dirigiste sosyalizm (azami planlama) arasında bir denge arar.
 
-- Kardinal değerler:** ılımlılık, uzlaşma, adaptasyon, kamu yararı.
+Keynes, piyasaların kendi kendini düzenlemesine izin vermek yerine, devletin durgunluk dönemlerinde toplam talebi canlandırmak ya da ekonomik aşırı ısınma dönemlerinde onu frenlemek için maliye ve para politikalarını (kamu harcamaları, vergilendirme, faiz oranları) kullanması gerektiğini savundu. Tüketimin büyüme için iyi olduğu yönündeki iyi bilinen fikrin kaynağı odur.
 
+![Klasik liberalizm ile dirigiste sosyalizm arasında üçüncü yol olarak Keynesçilik](./assets/en/077.webp) Fakat bu mekanizmanın çalışması için **doğru kaldıraçları manipüle edecek uzmanlara ihtiyaç vardır**: faiz oranları ve para yaratımı gibi parasal kaldıraçlar. Sosyal harcamaları finanse etmek için devlet borçlanabilmelidir; borçlanmanın mümkün olması için de paranın mevcut ve çok pahalı olmaması gerekir; bu nedenle merkez bankalarının belirli bir enflasyon oranını sürdürmedeki önemi ortaya çıkar.
 
+### John Rawls: felsefi boyut
 
+![John Rawls ve merkezci adaletin felsefi temelleri](./assets/en/078.webp)
 
+Seçkin siyaset filozofu ve *A Theory of Justice* (1971) kitabının yazarı John Rawls, merkezciliğin teorik boyutunu temsil eder. Onun sosyal adalet anlayışı, **bireysel özgürlükler ile eşitsizliklere karşı düzeltici müdahaleler arasında pragmatik bir denge** önerir.
 
-- Felsefe:** Merkezciler aşırı uçlardan kaçınır ve pragmatik çözümleri tercih ederler. Sorunları ilkeler açısından değil, durum bazında düşünürler. Merkezciliğin doğası genellikle bir konuya bakış açıları arasında pragmatik bir denge arayarak yaklaşmaktır. Pragmatizm, ideolojik ilkelerin katı bir şekilde uygulanmasından ziyade belirli bağlamlara uyum sağlamayı tercih eden bir siyasi felsefedir. Ilımlılık ve uzlaşmaya dayalı bir siyasi yaklaşımdır. Bu pragmatik düşünce, sadece teknokratların en iyi sosyo-ekonomik sonuçları elde etmek için doğru kararları verebileceği fikrine dayanır.
+Rawls iki adalet ilkesi önerir:
 
+1. **Herkes için eşit özgürlük:** Tocqueville'in gösterdiği gibi demokrasinin temeli.
+2. **Fark ilkesi:** eşitsizliklere yalnızca en dezavantajlıların yararına oldukları takdirde izin vermek. Başka bir deyişle, yeniden dağıtım en az avantajlı olanların da faydalanmasını sağladığı sürece zenginleşme hakkı vardır.
 
+**Örtüşen uzlaşma kavramı da Rawls'un düşüncesinde merkezi önemdedir**, özellikle *Political Liberalism* (1993) kitabında:
 
+> Örtüşen bir uzlaşmaya, vatandaşlar farklı kapsamlı, dini ya da felsefi doktrinlere bağlı kalırken, yine de kendi perspektiflerinden onaylayabilecekleri bir dizi siyasi adalet ilkesinde birleştiğinde ulaşılır.
 
+Bu yaklaşım merkezci yöntemi mükemmel biçimde örnekler: çoğulcu bir toplum içindeki görüş çeşitliliğine rağmen rasyonel, ılımlı anlaşmalar aramak; merkezci felsefenin özü budur.
 
-- Siyaset:** istikrarlı, ılımlı bir yaklaşım için devlet kontrolü ve bireysel tercihi birleştirmek istiyorlar. Devlet müdahalesinin esnek, duruma göre değişen bir biçimidir. Bu teknokratik yönetim biçiminde, siyasi kararlar ideoloji ya da partizan tartışmalar yerine rasyonellik ve uzmanlığa dayanır.
+### Alıntılarla merkezci düşünce
 
+> Hükümet için önemli olan, bireylerin zaten yaptığı şeyleri yapmak ve bunları biraz daha iyi ya da biraz daha kötü yapmak değildir; şu anda hiç yapılmayan şeyleri yapmaktır.
+> John Maynard Keynes, *The End of Laissez-Faire*, 1926
 
-
-
-
-- Ekonomi:** Merkezciler piyasa mekanizmalarını kabul ederken, uygun uzman kontrolü ve düzenleme ihtiyacını da kabul ederler. Rekabetin genel çıkarı koruyan düzenleyici bir çerçeve içinde gerçekleştiği kontrollü bir piyasa ekonomisini savunurlar.
-
-
-
-Merkezcilik aynı zamanda devlete aşırı bağımlılık yaratmadan eşitsizlikleri düzeltmek için hedeflenen sosyal programların önemini de kabul eder. Bu zenginliğin yeniden dağıtımı sistemi, dogmatik eşitlikçilikten ziyade toplumsal barış ve "birlikte yaşamayı" amaçlamaktadır.
-
-
-
-**Merkezci tipleri:** Merkezciler, prensipten ziyade pragmatizm veya siyasi oportünizm nedeniyle sosyalizm, muhafazakarlık, özgürlükçülük veya otoriterliğe yönelebilirler.
-
-
-
-
-- Emmanuel Macron (Fransa):** hem sağda hem de solda konumlanıyor. Liberal ekonomik reformlar (ekonomik sağ) ve belirli toplumsal özgürlüklere destek (sosyal sol) ile orta bir yol arıyor.
-- Tony Blair (Birleşik Krallık):** "Üçüncü Yol" konseptiyle. Piyasa politikalarını sosyal adalet hedefleriyle uzlaştırmaya çalışarak kendisini geleneksel sosyalistlerden ve muhafazakarlardan ayırdı.
-
-
-
-Keynesçilik, ekonomiyi istikrara kavuşturmak için aktif devlet müdahalesini savunan bir ekonomik teoridir.
-
-
-
-Keynes, piyasaların kendi kendilerini düzenlemesine izin vermek yerine, devletin durgunluk dönemlerinde toplam talebi canlandırmak ya da ekonominin aşırı ısındığı dönemlerde talebi azaltmak için kamu harcamaları, vergilendirme ve faiz oranları gibi mali ve parasal politikaları kullanması gerektiğini savunmuştur.
-
-
-
-Keynes ne mutlak laissez-faire'i (saf piyasa yanlıları gibi) ne de tam devlet kontrolünü (planlı ekonomide olduğu gibi) savunmuştur.
-
-
-
-Bu yaklaşım, serbest piyasa isteyen klasik liberalizm ile azami planlama isteyen devlet planlı sosyalizm arasında bir denge arayan ekonomik bir "üçüncü yolu" temsil etmektedir.
-
-
-Felsefi anlamda, *Adalet Teorisi* (1971) kitabının yazarı ünlü siyaset filozofu John Rawls'a atıfta bulunabiliriz.
-
-
-
-İki adalet ilkesi (herkes için eşit özgürlük ve farklılık ilkesi, eşitsizliklere ancak en dezavantajlıların yararına olduğu takdirde izin verilmesi) liberalizm ve eşitlikçiliği sentezleme girişimini somutlaştırmaktadır.
-
-
-
-Örtüşen mutabakat** kavramı John Rawls'un düşüncelerinin de merkezinde yer alır, özellikle de *Political Liberalism* (1993) adlı kitabında. İşte bu kavramı açıklayan bir alıntı:
-
-
-
-> Vatandaşlar farklı kapsamlı, dini veya felsefi doktrinlere bağlı olsalar da, yine de hepsinin kendi bakış açılarından onaylayabilecekleri bir dizi siyasi adalet ilkesi üzerinde birleştiklerinde örtüşen bir uzlaşmaya varılır.
-
-Amacı, uyumsuz temel doktrinleri, merkezci felsefenin özü olan ortak adalet ilkeleri etrafında uzlaştırmanın mümkün olduğunu göstermektir.
-
+Keynes'in burada kastettiği, piyasa başarısızlıklarının (aşırı üretim krizleri, kıtlıklar, spekülasyon) olduğudur ve krizler ortaya çıktığında yalnızca devlet müdahale edecek konumdadır. **Piyasa kendi kendini düzenleyemez**, bu yüzden korunmalıdır; bu görev devlete ve dolayısıyla uzmanlara ve teknokratlara düşer.
 
 
 ## Totaliter rejimler
 
-
 <chapterId>7a5e9f5a-2be1-4497-892a-3da5f015faa0</chapterId>
 
+Büyük siyasi aileler analizimizi totaliter rejimlerle sonlandırıyoruz; fakat burada temelde farklı bir şeyle karşı karşıyayız. Totalitarizm, dar anlamda, bir siyasi felsefe değildir; **daha ziyade tüm siyasi felsefenin inkârıdır**. Hannah Arendt'in klasik despotizm ile totalitarizm arasındaki ayrımı çizerken bize gösterdiği şey budur.
+
+![Totaliter rejimler: hayatın tüm yönleri üzerinde denetim ve zorlama](./assets/en/079.webp)
+
+### Hannah Arendt'in kavrayışı
+
+Arendt, başlıca eseri *The Origins of Totalitarianism* (1951)'de şöyle yazar: \"Totalitarizm insanları despotik kurallara tabi kılma eğiliminde değildir, insanların gereksiz olduğu bir sisteme tabi kılma eğilimindedir.\" Bununla kastettiği, totaliter bir rejimin basitçe tiranlığa ya da despotizme yönelen klasik bir rejim olmadığıdır (monarşinin bazen yaptığı gibi, hatta Tocqueville'in uyardığı gibi demokrasinin de). Bu tamamen başka bir şeydir.
+
+Arendt'e göre **totalitarizm bir siyasi aile değil, siyasetin bizzat inkârıdır**; insanların bağımsız eylem yeteneğinden yoksun bırakıldığı bir sistemdir. Onun anlayışında siyaset, bir halkın kendi kaderini eline alma ve eyleme geçme kapasitesidir. Totaliter rejimlerde bu kapasite yok edilir.
+
+![Özgürlüklerin her iki alanda da bastırıldığı dipte totaliter rejimleri gösteren Nolan Diyagramı](./assets/en/080.webp)
+
+### Tanım ve temel özellikler
+
+![Totalitarizmin ortak matrisi: sol-sağ karşıtlığının ötesinde](./assets/en/081.webp)
+
+Mussolini 1920'de şöyle ilan etmişti: \"Devletin içinde her şey, devletin dışında hiçbir şey, devlete karşı hiçbir şey.\" Bu, \"totaliter\"in ne anlama geldiğini tam olarak gösterir: bütünlük. Her şey devletin içine çekilir; bu, **kamusal alan ile özel alan arasında artık hiçbir ayrım kalmadığı** anlamına gelir. Devlet toplumu tamamen soğurur ve toplum bu noktada her türlü özerklik biçimini kaybeder. Bir masa tenisi kulübü açmak istiyorsanız partinin iznine ihtiyacınız vardır. Bu, ailenin mahrem hayatı dahil, kesinlikle her şeye uzanır.
+
+- **Özgürlükler:** bastırılmıştır. Totaliter rejimler hem kişisel hem ekonomik hayat üzerinde güçlü hükümet denetimi dayatır. Totalitarizm, devlet toplumdaki her şeyi kontrol ettiğinde ve siyasi polis aracılığıyla her türlü muhalefeti ortadan kaldırarak sınırsız güç kullandığında vardır.
+- **Felsefe:** Totaliter toplumlar bir ideoloji kullanmalarıyla, bir \"cennet\" vaadiyle (komünizm için tarihin sonu, Nazizm için ırksal saflık) ayırt edilir. Parti kitleleri hem dış hem iç bir düşmana karşı birleştirir (komünizm için kapitalist burjuva, Nazizm için Yahudi).
+- **Siyaset:** küçük bir azınlığın ideoloji ve terör yoluyla tüm nüfusu kontrol ettiği tek partili sistem. **Tüm totaliter rejimler iktidara şiddetli devrim yoluyla gelmiştir**; bu devrim, önceki sistemi temiz bir sayfa hâline getirerek şiddeti meşrulaştırır.
+- **Ekonomi:** totaliter rejimler, özel girişime devletin çıkarlarına hizmet etmeye zorlandığı ölçüde tahammül edebilir ya da devletin tüm üretim araçlarını kontrol etmesini talep edebilir. Serbest piyasayı genel düzene tehdit olarak görürler; çünkü ideal toplumlar yetkililer tarafından planlanmalıdır.
+
+### Totaliter denetimin sütunları
+
+![Totalitarizmin tanımı ve temel özellikleri](./assets/en/082.webp)
+
+Totalitarizm, **aşağıdaki özelliklerin tamamı aynı anda bir araya geldiğinde** mevcuttur: bastırılmış özgürlükler, tek partiye ve lider kültüne dayalı sınırsız otorite, şiddetli devrim ve yönlendirilmiş ekonomi. Fransız Devrimi'nde durum zaten buydu; bu yüzden bazı tarihçiler onda totaliter bir boyut tespit etmişlerdir. Modern demokrasilerin bu özelliklerden bazılarını sergileyebileceğini, fakat hepsini aynı anda asla sergilemediğini belirtmek önemlidir (en azından, neyse ki, şimdiye kadar).
+
+### İki model, tek yöntem: Hitler ve Stalin
+
+![Hitler ve Stalin: aynı yöntemleri paylaşan iki model](./assets/en/083.webp)
+
+Nazizm ile komünizm arasındaki farklar gerçek olmaktan çok görünüştedir. Tarihsel düşmanlıklarına rağmen Hitler ve Stalin aynı yöntemleri kullandılar: kişilik kültü, gözetim, sansür, endoktrinasyon ve siyasi polis yoluyla toplam toplumsal denetim ve **her türlü muhalefet ya da farklı görüşün sistematik biçimde ortadan kaldırılması**. Yirminci yüzyıl totaliter rejimlerinin keskin bir gözlemcisi olan Raymond Aron'un yazdığı gibi: \"Nazi ya da komünist totalitarizmler aynı şekilde, iki ilke üzerinde işler: militanların imanı ve muhaliflerin korkusu.\" Burada \"iman\"dan yarı-dinsel bir anlamda söz eder; totaliter rejimlere seküler dinler, Tanrısız dinler denmiştir. Farklı motivasyonlarının ötesinde onları bir tür fanatizm karakterize eder.
+
+- **Hitler (Nazizm):** Nazi rejimi özel mülkiyeti resmen ortadan kaldırmamış olsa da, özel sektör tamamen devletin hedeflerine (savaş ve yeniden silahlanma) tabi kılınmışken bir piyasa ekonomisi görünümü vardı. Ekonomik otarşi dayatıldı; yani serbest ticaret yoktu. Rejimin hedeflerine hizmet edecek merkezi ekonomik planlama vardı.
+
+- **Stalin (Komünizm):** Stalinizm, ekonominin tamamen devlet kontrolünü örnekler. Üretim araçları üzerindeki tüm özel mülkiyet kaldırıldı, ekonomi tamamen planlandı (beş yıllık planlar), kolektivizasyon zorla uygulandı ve devlet üretim ile dağıtımın kesinlikle tüm yönlerini kontrol etti.
+
+Bu iki rejim arasındaki karşılaştırmayı kapsamlı biçimde incelemiş olan Thierry Wolton'un yazdığı gibi: \"Sovyet komünizmi ile Nazizmin ikizliği tarihsel bir olgudur. İki totalitarizm işleyiş biçimleri ve siyasi pratikleri bakımından birbirine benzer: **demokrasiye, hümanist değerlere, bireysel özgürlüğe duyulan nefret** her ikisinin de ortak özellikleridir.\"
+
+### Alıntılarla totaliter düşünce
+
+![Totaliter düşünce: merkezi otorite lehine bireysel özgürlüğün reddi](./assets/en/084.webp)
+
+> Halkın özgürlüğe ihtiyacı yoktur, çünkü özgürlük burjuva diktatörlüğünün biçimlerinden biridir.
+> Vladimir Lenin, *What Is to Be Done?*, 1902
+
+> Alman halkı akıl yürütmeyle değil, halkın iradesini somutlaştıran bir lider tarafından yönetilecektir.
+> Adolf Hitler, *Mein Kampf*, 1925
+
+> Nazizm ve komünizm, liberal demokrasiye ve \"kapitalist burjuvazi\" dedikleri şeye ortak bir muhalefeti paylaşır. [...] Her iki ideoloji de sosyalist olduğunu iddia eder ve bu imgeyi birbirine karşı kullanır.
+> Francois Furet, *The Passing of an Illusion*, 1995
+
+Bu alıntılar totaliter rejimlerin ortak mantığını açığa çıkarır: **komünist ya da faşist olsun, mutlak merkezi otorite lehine bireysel özgürlüğün reddi**. Nitekim Nazi partisinin adı (Nasyonal Sosyalizm) bile, iki hareket birbirinden nefret etmiş olsa da, bu ortak ideolojik matrise işaret eder.
 
 
-![video](https://www.youtube.com/watch?v=0ueywR4vzHs)
-
-
-
-Burada totalitarizm teriminin muhafazakarlık veya merkezcilik anlamında bir siyasi ideolojiye değil, siyasi bir sisteme atıfta bulunduğunu belirtmek önemlidir. Totaliter bir rejim, kamusal ve özel yaşamın tüm yönleri üzerinde kapsamlı, zorlayıcı devlet kontrolü ile karakterize edilir.
-
-
-
-![regimes totalitaires Graphique](./assets/fr/019.webp)
-
-
-
-
-
-- Özgürlükler:** totaliter rejimler kişisel ve ekonomik yaşam üzerinde güçlü hükümet kontrolünü destekler. Totalitarizm, devlet toplumdaki her şeyi kontrol ettiğinde ve sınırsız güce sahip olduğunda var olur.
-- Felsefe:** Totaliterler, merkezi otoritenin düzen ve adaleti sağlamanın tek yolu olduğuna, özgürlüğün ise bir düzensizlik unsuru olduğuna inanırlar. Devletin ekonomik ve kişisel yaşamın tüm yönlerini kontrol etmesini isterler ve böyle bir kontrolün ideal bir toplum yaratma olasılığının daha yüksek olduğuna inanırlar. Şiddeti, önceki sistemin tamamen yanlış olduğu ve geçmişe sünger çekerek yeni bir model kurulması gerektiği gerekçesiyle meşrulaştıran devrimci rejimlerdir. Aşırı fikir çeşitliliğine veya otoritelerine meydan okuyan herhangi bir ifadeye tahammül edemezler.
-- Siyaset:** totalitarizm tek partili bir sistemi ifade eder. Hannah Arendt'e göre totalitarizm ne siyasi bir aile ne de despotik bir siyasi rejimdir. Siyasetin tam anlamıyla olumsuzlanmasıdır: insanların bağımsız hareket edemez hale getirildiği bir sistemdir. Ona göre, totaliter eğitimin amacı hiçbir zaman inanç aşılamak değil, başka bir inanç oluşturma yeteneğini yok etmek olmuştur (The Origins of Totalitarianism, 1951). Gerçekten de totaliter toplumlar, tarihin sonu ya da ırksal saflık gibi bir *paradise* vaadi olan bir ideolojinin kullanımıyla ayırt edilirler. Sonuç olarak, siyasi polislik ve terör kullanımı yoluyla her türlü muhalefeti ortadan kaldırırlar.
-- Ekonomi:** totaliter rejimler, devletin çıkarlarına hizmet etmeye zorlandığı takdirde özel girişime hoşgörü gösterebilir veya devletin tüm üretim araçlarını kontrol etmesini talep edebilir. Serbest piyasayı genel düzen için bir tehdit olarak görürler, çünkü ideal toplumlar yetkililer tarafından planlanmalıdır.
-
-
-
-**Totaliter rejimlerin** iki genel kategorisi vardır: sol kanat totaliter (komünizm, nasyonal sosyalizm) ve sağ kanat totaliter (askeri diktatörlükler, faşizm). Ancak matrisin aynı olduğunu anlarsak bu kategoriler anlamını yitirir. Hitler ve Stalin için de durum böyledir. Tarihsel karşıtlıklarına rağmen, aynı lider kültünü, gençlerin askere alınmasını, sansürü, gözetimi, tüm muhalefetin bastırılmasını, siyasi zulmü ve tüm bireysel özgürlüklerin ezilmesini buluyoruz.
-
-
-
-
-
-- Hitler (Nazizm/Faşizm): Nazizm özel mülkiyeti resmen ortadan kaldırmamış olsa da, Nazi devleti ekonomi üzerinde ezici bir kontrol uyguladı. Üretim, kaynak tahsisi ve (hatta özel) girişim, devlet hedeflerine (yeniden silahlanma, otarşi) tabi kılındı. Rejimin hedeflerine hizmet etmek için merkezi bir ekonomik planlama vardı.
-
-
-
-
-
-- Stalin (Komünizm/Stalinizm): Stalinizm, ekonominin tamamen devlet tarafından kontrol edilmesini örneklemektedir. Üretim araçları üzerindeki tüm özel mülkiyet kaldırılmış, ekonomi tamamen planlanmış (beş yıllık planlar) ve devlet üretim ve dağıtımın tüm yönlerini kontrol etmiştir.
-
-
-
-# Toplumsal sorunlar
-
+# Toplumsal ve ekonomik meseleler
 
 <partId>ab160ddd-5c3a-436b-a77a-76d7089f1611</partId>
 
 
-
-## Toplumsal sorunlar
-
+## Toplumsal meseleler
 
 <chapterId>bb2156da-7e10-4f0b-89c3-f6d53f5a79ef</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=tq09pDLHioQ)
+
+![Siyasi aileler arasında toplumsal tartışmaların karşılaştırmalı analizi](./assets/en/085.webp)
+
+Başlıca siyasi aileleri analiz ettikten sonra şimdi toplumsal meselelere ilişkin bir dizi tartışmaya, ardından da ekonomik meselelere dönüyoruz. Buradaki amaç, toplumun beş temel sorusunda sosyalist, muhafazakâr, liberteryen ve merkezci konumların karşılaştırmalı bir analizini sunmaktır: evlilik, göç, ateşli silahlar, uyuşturucular ve şekerli içecek vergisi.
+
+Toplumsal meseleler parayla ilgili değildir. Ne okuduğumuz, ne yediğimiz, ne içtiğimiz, ne içtiğimiz ya da kullandığımız, ne giydiğimiz veya kiminle ilişki kurmayı, yatmayı ya da evlenmeyi seçtiğimiz hakkındaki tercihlerle ilgilidir. Aşağıdaki her soru için, her siyasi aileye özgü kısa bir cevabı inceleyeceğiz. Bu hızlı cevaplar her bakış açısına yalnızca kısa bir bakış sunar ve herkes aynı şekilde düşünmediği için onlara atfedilen konumlar doğal olarak tartışmaya açıktır. Yine de adil olmaya ve her ailenin çoğu mensubunun ne söyleyeceğini doğru biçimde temsil etmeye çalıştım.
 
 
+### Evlilik
 
-İşte siyasi konular hakkında sıkça sorulan bazı sorular. Her sorunun ardından bir sosyalist, bir muhafazakâr, bir özgürlükçü ve bir merkezci için tipik olan kısa bir cevap yer almaktadır.
-
-
-
-Elbette bu hızlı cevaplar her bir bakış açısına dair sadece bir fikir vermektedir. Herkes aynı şekilde düşünmediği için, onlara atfedilen cevaplar doğal olarak tartışmaya açıktır. Ancak, adil olmaya ve çoğunluğun ne söyleyebileceğini doğru bir şekilde temsil etmeye çalıştım.
-
-
-
-Toplumsal meseleler parayla ilgili değil, ne okuduğumuz, yediğimiz, içtiğimiz, sigara içtiğimiz, giydiğimiz ya da kiminle ilişki kuracağımız, yatacağımız ya da evleneceğimiz konusunda yaptığımız seçimlerle ilgilidir.
-
-
-
-### Düğün
-
+![Siyasi aileler arasında evlilik tartışması](./assets/en/086.webp)
 
 **Soru:** Hükümet eşcinsel evliliği geleneksel evlilikle aynı şekilde yasallaştırmalı mı?
 
 
+### Sosyalist konum: evet
 
+Sosyalistler için tüm vatandaşlar, cinsel yönelime dayalı ayrımcılık olmaksızın, yasa önünde eşit muamele görmelidir. Başka bir deyişle, ayrımcılık yapmama ilkesine kök salmış kapsayıcı bir anlayış. Sosyalistler, evliliğe erişimi reddeden heteroseksüel çoğunluğun **homoseksüel bir azınlığa uyguladığı baskıyı** kınar. Burada pek çok sosyalist konumdan geçen bir dünya görüşünü buluruz: toplum, egemenler ile egemen olunanlar, ezenler ile ezilenler arasındaki çatışma tarafından yapılandırılmıştır. Bu çerçeve çok sayıda alanda yeniden üretilir. Erkekler ile kadınlar arasındaki ya da homoseksüeller ile heteroseksüeller arasındaki cinsiyet ilişkilerine uygulanabilir. Irksal gruplar arasındaki ilişkilere ve hatta insanlık ile doğa arasındaki ilişkiye uygulanabilir. Eşcinsel evliliğin yasallaştırılması bu nedenle onların gözünde bir sosyal adalet eylemidir.
 
+### Muhafazakâr konum: hayır
 
-- Sosyalistler:** Evet, heteroseksüel bir çoğunluğun eşcinsel bir azınlığı evlilikten mahrum bırakarak ezdiğini görüyorlar ve bu nedenle doğal olarak reformu destekliyorlar. Sosyalistler, evliliğin sadece bir erkek ve bir kadın arasında olması gerektiğini düşünenlerin aleyhine olacak şekilde, eşcinsellik de dahil olmak üzere tek bir medeni evlilik anlayışını empoze etmek istiyorlar. Bu nedenle eşcinsel evliliğin yasallaştırılması, daha kapsayıcı ve hoşgörülü bir toplumu teşvik eden bir sosyal adalet eylemidir. Eşcinsel çiftlerin heteroseksüel çiftlerle aynı yasal haklardan (miras, vergilendirme, evlat edinme vb.) ve korumalardan yararlanmasını sağlayarak fiili bir eşitsizliği giderir. Bu argümanın temelinde, cinsel yönelimden bağımsız olarak tüm vatandaşların yasalar önünde eşit muamele görmesi gerektiği inancı yatmaktadır. Eşcinsel çiftlerin evliliğinin reddedilmesi kabul edilemez bir ayrımcılık olarak görülmektedir.
+Muhafazakârlar için geleneksel evlilik, 2.500 yıla yayılan ve bir erkek ile bir kadın arasındaki birlik olarak tanımlanan temel bir kurumdur. Bu tanım keyfi değildir. Biyolojik bir gerçekliğe dayanır: **ailenin birincil görevi olan doğal üreme kapasitesi**. Toplumsal düzeni korumak ve insanlığın kendisinin geleceğini güvence altına almak istiyorsak (çünkü türün varlığını sürdüren şey üremedir), evlilik tanımı gereği bir erkek ile bir kadına ayrılmalıdır. Başka bir deyişle, muhafazakârların korumaya çalıştığı şey evliliğin geleneksel tanımının kendisidir.
 
+### Liberteryen konum: karma
 
+Liberteryenler için soru temelden yanlış çerçevelenmiştir; çünkü devletçi terimlerle sorulmuştur: devlet kimin evlenmesine izin verir? Onlara göre devletin bireylerin özel hayatlarına karışma işi yoktur. Tutarlı liberteryen yaklaşım bu nedenle evlilik ile devletin ayrılmasını savunmaktır. **Devlet tek bir evlilik tanımı dayatarak çatışmalar yaratır.** Evliliğin özelleştirilmesi hem geleneksel evliliği destekleyenlere hem de eşcinsel evliliği savunanlara saygı gösterir. Çözüm: zorunlu medeni evlilikten kurtulmak ve bu rolü özel birliklere, kiliselere, sinagoglara, camilere ya da seküler örgütlere bırakmak. Bireyler, dernekler ve dinler evliliği kendileri için tanımlasın.
 
+### Merkezci konum: evet
 
+Merkezciler toplumun evrimini tanır ve ayrımcılık yapmama ilkesinin uygulanması gerektiğini savunur. Hukuk, vatandaşların çeşitliliğini yansıtmalı ve çağına uyum sağlamalıdır. Eşcinsel çiftler, heteroseksüel çiftlerle aynı yasal haklardan ve korumalardan (miras, sosyal koruma, vergilendirme) yararlanmalıdır. Burada **merkezci uzlaşma, pragmatik uyum ve hukukun modernleşmesi idealini** buluruz.
 
-- Muhafazakârlar:** Hayır. Geleneksel evliliği Batı medeniyetinin 2500 yıl öncesine dayanan ve tarihsel olarak bir erkek ve bir kadın arasındaki birlik olarak tanımlanan temel bir kurumu olarak görürler. Bu tanım keyfi olmayıp biyolojik (doğal olarak üreme yeteneği) ve kültürel/dinsel temellere dayanmaktadır. Evliliğin radikal bir şekilde yeniden tanımlanması medeni toplum için bir tehdit olarak görülmektedir. Eşcinsel evliliği yasallaştırmak, bu kutsal ve temel kurumu bozmak veya yeniden tanımlamak, orijinal anlamından ve birincil görevinden, yani üreme ve doğal haliyle bir ailenin kuruluşundan boşaltmak anlamına gelecektir. Hızla değişen sosyal normlar, referans noktalarının dağılmasına ve kültürel ya da ulusal kimliğin kaybolmasına yol açabileceğinden genellikle şüpheyle karşılanır. Evlilik bu düzenin temel direği olarak görülmektedir.
 
+### Göç
 
+![Siyasi aileler arasında göç tartışması](./assets/en/087.webp)
 
+**Soru:** Hükümet sınırları koşulsuz olarak açmalı mı?
 
 
-- Liberteryenler:** Evet ve hayır. Tutarlı liberteryen yaklaşım, evliliğin özelleştirilmesini, yani devlet müdahalesinden tamamen uzak bir evliliği savunmaktır. Evlilik devlet dışı bir kurumdur ve devletin başkalarını geleneksel ya da eşcinsel evliliği tanımaya zorlamak gibi bir görevi yoktur. Çözüm nedir? Zorunlu resmi evlilikten kurtulmak ve bu rolü özel derneklere bırakmak: kiliseler, sinagoglar, camiler veya özel seküler kuruluşlar. Mülkiyet haklarına ve bireysel özgürlüğe saygı duyan bu siyasi çözüm, evlilik ve devletin ayrılması olarak adlandırılabilir.
+### Sosyalist konum: evet
 
+Sosyalistler için ayrımcı kısıtlamalar insan haklarına aykırıdır. Devletin ihtiyaç içindeki insanları karşılama ve çeşitliliği teşvik etme görevi vardır. Burada yine sosyalist aileyi karakterize eden sosyal adalet, eşitlik ve ayrımcılık yapmama fikirlerini buluruz. **Milliyet ya da dine dayalı kısıtlamalar baskı biçimleri olarak görülür**, yukarıda açıklanan egemen/egemen olunan çerçeveyle tutarlıdır.
 
+### Muhafazakâr konum: hayır
 
+Devletin ulusal güvenliği ve kültürel kimliği korumak için sınırlarını kontrol etme egemen hakkı vardır. Muhafazakârlar için **düzen, kimlik ve ulusal egemenlik**, yabancıların ya da mültecilerin sınırsız kabulünden önce gelmelidir. Sınırlar ve iyi tanımlanmış bir nüfus, uygar değerlerin parçasıdır.
 
+### Liberteryen konum: karma
 
-- Merkezciler:** Evet. Merkezciler toplumun geliştiğini ve nüfusun önemli bir kısmının eşcinsel çiftlerin tanınmasını istediğini kabul eder. Ayrımcılık yapmama ilkesine bağlı kalırlar ve bireylerin yasal birliktelikler de dahil olmak üzere seçtikleri yaşamları sürdürme hakkına sahip olduklarına inanırlar. Eşcinsel çiftlerin heteroseksüel çiftlerle aynı yasal hak ve korumalardan (miras, sosyal koruma, vergilendirme) yararlanması gerektiği argümanına duyarlı olacaklardır. Merkezciler için Devlet, vatandaşlarının çeşitliliğini ve hukukun modernizasyonunu yansıtırken belirli bir sosyal uyumu da korumalıdır.
+Piyasa göçüne evet, devlet göçüne hayır. Neden? Çünkü ağır devletçi bir dünyada göç sübvanse edilir ve başkalarının emeği üzerinde hak iddiaları yaratır. Başka bir deyişle, sağlık, konut ve diğer giderleri ödemek zorunda kalan vergi mükelleflerinin üzerine düşer. Özgürlük/zorlama ekseni açısından açık sınırlar bireylere ayaklarıyla oy verme, hükümetlerini özgürce seçme imkânı verir. Fakat **göç, başkalarının emeği üzerinde hak yaratamaz**. Bir kişinin başka bir ülkeye yerleşme hakkı, o ülkenin sakinlerine yük olmama koşuluna bağlıdır. Liberteryenler için her zamanki gibi çözüm piyasadır: vatandaşlar yabancılarla ilişkilerine sözleşmesel olarak kendileri karar versin. Dayatılan ve zorla uygulanan her türlü göç özgürlükle bağdaşmaz.
 
+### Merkezci konum: evet
 
+Göç, işverenlerin eksiklik yaşayan sektörlerde işçi çalıştırmasını sağlar ve açık göç, mültecilerle ilgili uluslararası sözleşmelerin uygulanmasına imkân verir. Hükümet göçü dengeli biçimde yönetmeli, **ekonomik ihtiyaçları, başarılı entegrasyonu ve uluslararası sözleşmelere saygıyı uzlaştırmalıdır**.
 
-### Göçmenlik
 
+### Ateşli silahlar
 
-**Soru:** Hükümet sınırları herkese açmalı ve göç etmek isteyenleri kayıtsız şartsız içeri almalı mı?
+![Siyasi aileler arasında ateşli silahlar tartışması](./assets/en/088.webp)
 
+**Soru:** Yasalara uyan vatandaşlar, sıkı düzenleme olmadan ateşli silahlara sahip olabilmeli mi?
 
 
+### Sosyalist konum: hayır
 
+Kamu güvenliği, silah sahibi olma özgürlüğünün önüne geçmelidir. Şiddeti azaltmak ve kolektif güvenliği garanti etmek için sıkı düzenleme gereklidir; çünkü devletin tüm vatandaşlarını koruma yönünde anayasal görevi vardır. Sosyalistler ayrıca ateşli silah özgürlüğünden doğabilecek eşitsizlikleri ve bunun toplumun en kırılgan üyeleri için yaratacağı savunmasızlığı vurgular. Nihayetinde **güç kullanımı yalnızca devlete emanet edilmelidir**, kamu yararına saygı gösteren koşullar altında.
 
-- Sosyalistler:** Evet. Yasadışı göçmenleri ezilen bir grup olarak ve göçmenlere düşman olan yerli beyazları da onların zalimleri olarak görüyorlar. Dahası, milliyet ya da din temelli kısıtlamalar ayrımcıdır ve insan haklarına aykırıdır. Devletin ihtiyacı olan insanlara kucak açmak, çeşitliliği ve entegrasyonu teşvik etmek gibi bir görevi vardır.
+### Muhafazakâr konum: karma
 
+Meşru müdafaa için silah sahibi olma hakkı önemli bir değerdir. Ancak güvenliği ve kamu düzenini garanti etmek için düzenlemeler de gereklidir ve **bu düzenlemeler ortak iyiliği korumakla görevli bir kamu otoritesinden gelmelidir**. Liberteryen görüşün aksine muhafazakâr, silahları yöneten kuralların yukarıdan, kamu düzeninden sorumlu meşru bir otoriteden çıkması gerektiğinde ısrar eder.
 
+### Liberteryen konum: evet
 
+Silahlanma hakkı, saldırıya direnme hakkının temel bir bileşenidir. Devlet güç tekeline sahip olmamalı ve bireyler meşru müdafaa durumlarında kendilerini özgürce koruyabilmelidir. Liberteryenizm, sık sık sanıldığı gibi, kuralların yokluğu değildir. Liberteryenler, tıpkı ehliyet ya da av ruhsatının gerekli olması gibi, silah taşıma konusunda da bir tür düzenlemenin gerekli olduğu noktasında muhafazakârlarla hemfikirdir. Fakat kritik fark, bu kuralları kimin belirlediğinde yatar. Liberteryenler için **düzenleme doğrudan ilgili olanlardan çıkmalıdır**: güvenlik profesyonelleri, yurttaş dernekleri ve piyasa rekabeti; yukarıdan aşağı bir hükümet emrinden değil.
 
+### Merkezci konum: hayır
 
-- Hayır. Devlet, sınırlarını kontrol etme ve topraklarına kimin gireceğini seçme konusunda egemenlik hakkına sahiptir. Ulusal güvenliği, kültürel kimliği ya da toplumun bütünleşme yeteneğini korumak için kısıtlamalar gerekli olabilir. Göçmenliğe izin vermenin ulusların kimliğini yok edeceğinden ve en mütevazı vatandaşların bile çalışmalarını daha da baltalayacağından korkuyorlar. Sınırlar ve iyi tanımlanmış bir nüfus medeni değerlerin bir parçasıdır.
+Düzenleme esastır. Ateşli silahlara sahip olma hakkı belirli kullanımlar için var olabilse de, **kamu güvenliği ve şiddetin azaltılması devletin sıkı kontrollerini gerektirir**; güç tekeline sahip olan devlet izinler, geçmiş kontrolleri ve izin verilen silah türlerine sınırlamalar koyar.
 
 
+### Uyuşturucular
 
+![Siyasi aileler arasında uyuşturucuların yasallaştırılması tartışması](./assets/en/089.webp)
 
+**Soru:** Yetişkinlerin eğlence amaçlı uyuşturucuları özgürce kullanmasına izin verilmeli mi?
 
-- Liberteryenler:** Evet ve hayır. Piyasa göçüne evet, devlet göçüne hayır. Çünkü büyük ölçüde devlet destekli bir dünyada göç her zaman sübvanse edilir ve başkalarının emeği üzerinde talihsiz bir hak iddiası, yani yapay bir hak, bir tür ekonomik transfer yaratır. Bununla birlikte, özgürlük/zorlama ekseni açısından bakıldığında, açık bir sınır bireye hükümet seçimi ve ayaklarıyla oy verme yeteneği verir. Bu nedenle en iyi göç politikası, devlet müdahalesini azaltmak ve vatandaşların kendi kararlarını vermelerine izin vermek olacaktır.
 
+### Sosyalist konum: evet
 
+Sosyalistler için cezalandırma çözdüğünden daha fazla sorun yaratır. Devlet kontrolündeki bir yasallaştırma kalite yönetimini iyileştirir, kamu geliri yaratır ve bastırma yerine sağlık önlemlerini destekler. Sosyalist düşünce içinde ekonomik ve toplumsal sorular arasında keskin bir ikilik bulunduğunu belirtmek gerekir. **Bu toplumsal meselede sosyalistler muhafazakârlardan çok daha liberal olduklarını gösterir**, tüketim konusunda bireysel özgürlüğü desteklerken sürecin devlet gözetimini sürdürürler.
 
+### Muhafazakâr konum: hayır
 
+Yumuşak denilen uyuşturucular bile sağlığa ve toplumsal düzene zararlıdır. Nitekim uyuşturucu kullanımı bağımlılık sorunları yaratır, ama aynı zamanda ailevi bozulma ve işyeri zorlukları doğurur. Devlet vatandaşları korumak ve ulusun ve ailenin bütünlüğünü muhafaza etmek için hukuku kararlılıkla uygulamalıdır. Muhafazakârlar ayrıca **yasağın vergi mükellefi için muazzam bir maliyet taşıdığına** işaret eder; çünkü kaçakçılarla, çetelerle ve kartellerle mücadeleyi içerir; fakat bu maliyeti düzeni koruma zorunluluğu nedeniyle haklı görürler.
 
-- Merkezciler:** Hükümet göçü dengeli bir şekilde yönetmelidir. Dine dayalı kısıtlamalar genellikle kabul edilemezken, milliyete veya becerilere dayalı kısıtlamalar, uluslararası sözleşmelere ve insan haklarına saygı gösterirken ekonomik ihtiyaçları karşılamak ve başarılı bir entegrasyon sağlamak için gerekli olabilir.
+### Liberteryen konum: karma
 
+Evet, fakat yalnızca devletin toplumdaki rolü azaltılması koşuluyla. Birincisi, devletin bireylerin kişisel kararlarına karışma işi yoktur. İkincisi, yasaklama karaborsalar ve suçluluk üretir. Fakat bağımlılık sorunlarının ve bunun hem birey hem toplum için doğurduğu zararların çözümü özel girişimdedir: devlet tarafından yönetilen bakımda değil, bireyler, aileler ve dernekler tarafından sağlanan gönüllü destek. Başka bir deyişle, **uyuşturucuların serbestleştirilmesi arzu edilir, fakat devlet tarafından üstlenilirse değil**. Vatandaşa tercih yapma ve sonuçlarına katlanma sorumluluğu geri verilmelidir. Birisi uyuşturucu kullanmayı seçer ve bağımlı ya da hasta olursa, devletten bakım istemek yerine sorumluluk almalıdır. Hiçbir şey hayır derneklerinin ihtiyaç sahiplerine yardım ve destek sunmasını engellemez.
 
+### Merkezci konum: ne evet ne hayır
 
-### Ateşli Silahlar
+Merkezciler serbestleştirmenin adalet sistemini rahatlatıp rahatlatmayacağını ya da kamu sağlığını iyileştirip iyileştirmeyeceğini kesin olarak bilmek ister. Pratikte kararlarını bilgilendirmek için çalışmalara ve uzman değerlendirmelerine dayanırlar. Herhangi bir politika değişikliğine bağlanmadan önce **etkililiğe dair somut kanıt talep ederler**, hem sağlık hem ekonomik etkiler hakkında titiz çalışmalar isterler.
 
 
+### Şekerli içecek vergisi
 
-**Soru:** Yasalara saygılı vatandaşlar sıkı bir düzenleme olmaksızın ateşli silah sahibi olabilmeli mi?
-
-
-
-
-
-- Sosyalistler:** Hayır. Kamu güvenliği silah sahibi olma özgürlüğünden daha öncelikli olmalıdır. Şiddeti azaltmak ve herkesin güvenliğini sağlamak için sıkı düzenlemeler gereklidir, çünkü devletin vatandaşlarını koruma görevi vardır.
-
-
-
-
-
-- Muhafazakarlar:** Kısmen evet, kendini savunmak için silah sahibi olma hakkı önemli bir değerdir. Ancak, güvenlik ve kamu düzenini garanti altına alacak düzenlemeler de gereklidir, ancak bu temel hakka saygı göstermelidirler.
-
-
-
-
-
-- Liberteryenler:** Evet, silahlanma hakkı meşru müdafaa hakkının temel bir bileşenidir. Devlet güç kullanma tekeline sahip olmamalı ve bireyler kendilerini herhangi bir engelle karşılaşmadan koruyabilmelidir. Ancak silah taşımanın düzenlenmesi piyasaya, profesyonellere ve vatandaş derneklerine bırakılmalıdır.
-
-
-
-
-
-- Merkezciler:** Hayır, düzenleme şarttır. Ateşli silahlara sahip olma hakkı belirli kullanımlar için mevcut olsa da, kamu güvenliği ve şiddetin azaltılması, özgürlük ve düzen arasında bir denge kurmak için sıkı kontroller (izinler, geçmiş kontrolleri, silah türleri) gerektirir.
-
-
-
-### İlaçlar
-
-
-
-**Soru:** Yetişkinlerin eğlence amaçlı olarak serbestçe uyuşturucu kullanmalarına izin verilmeli mi?
-
-
-
-
-
-- Sosyalistler:** Evet Cezalandırma etkisizdir. Yasallaştırma kontrol ve gelir elde edilmesini sağlar.
-- Muhafazakarlar:** Hayır. Tüketim sağlığa ve sosyal düzene zararlıdır.
-- Özgürlükçüler:** Devletin toplumdaki rolünün azaltılması koşuluyla evet. Başkalarına doğrudan zarar vermedikleri sürece devletin kişisel kararlara müdahale etmek gibi bir görevi yoktur.
-- Merkezciler:** Karmaşık tartışma. Suç olmaktan çıkarma mümkün ancak sıkı düzenleme zorunlu.
-
-
-
-
-### Sağlık
-
-
+![Siyasi aileler arasında şekerli içecek vergisi tartışması](./assets/en/090.webp)
 
 **Soru:** Hükümet obeziteyi azaltmak için şekerli içecekleri vergilendirmeli mi?
 
 
+### Sosyalist konum: evet
+
+Sosyalist görüşte obezite sorunu, kamu sağlığı pahasına şeker bağımlılığından kâr eden üreticilerin sorunudur. Bu bağımlılığı ve nüfus içinde, özellikle de en az korunan ve en az eğitimli kesimler arasında bulunan kırılganlığı sömüren bütün bir gıda endüstrisi vardır. **Gazoz vergisi, sanayicilerin obeziteden** ve bağımlılık sorunundan kâr etmesini engellemeyi amaçlar.
+
+### Muhafazakâr konum: hayır
+
+Muhafazakârlar kişisel sorumluluk ve eğitime daha olumlu bakar. Bu konularda çocukları eğitme görevi önce ebeveynlere emanet edilmelidir: vergilendirme yerine önleme. Nitekim **vergilendirme muhafazakârlar tarafından çoğu zaman yalnızca etkisiz değil, açıkça zararlı olarak görülür**; çünkü şirketler kâr marjlarını korumak için ürünlerinin fiyatını artırmaya çalışacak ve yükü tüketicilere aktaracaktır.
+
+### Liberteryen konum: hayır
+
+Liberteryenizmin temel bir ilkesi, insanları kendilerinden korumanın adaletsiz olduğudur. Burada argüman ekonomik hesaplamadan çok ahlaki bir argümandır, temelden. Vatandaşlar çocuk değil yetişkindir; kendilerine zarar verebilecek olsa bile kendi kararlarını verme hakkına sahiptir. Obezite sorunu bu nedenle özel girişimle ele alınmalıdır. Bu, obezitenin ciddi bir toplumsal sorun olduğunu inkâr etmek anlamına gelmez. Aksine, **bireylere tercih yapma ve sonuçlarına katlanma sorumluluğunu geri vermek** anlamına gelir. Yardım gerekiyorsa bunu sağlamak için en uygun olanlar devlet değil, piyasa, sivil toplum, bireyler ve ailelerdir.
+
+### Merkezci konum: ne evet ne hayır
+
+Evet, eğer etkililiği kanıtlanırsa. Başka bir deyişle, merkezciler vergiyi uygulamadan önce işe yarayacağına dair somut kanıt ister. Sağlık ve ekonomik etkiler hakkında titiz çalışmalar isterler. **Kararları ilkeye değil, uzman değerlendirmesine dayanır**; bu, bu tartışmaların tamamında merkezci yaklaşımın karakteristiğidir.
 
 
-
-- Sosyalistler:** Evet. Obezite sorunu, meşrubat pazarlayan üreticilerin sorunudur. Gazlı içecek vergisi, kamu sağlığı pahasına kar elde etmekle suçlanan şekerli içecek üreticileri veya satıcılarıyla mücadele etmek için Sosyalist bir öneridir.
-
-
-
-
-
-- Muhafazakarlar:** Prensip olarak evet. Devletin görevi vatandaşlarının sağlığını güvence altına almaktır. Ancak muhafazakarlar genellikle kişisel sorumluluk ve eğitime dayalı çözümleri tercih etmektedir. Şekerli içeceklere vergi uygulamak, vatandaşların kişisel kararlarına aşırı devlet müdahalesi olarak görülecektir.
-
-
-
-
-
-- Liberteryenler:** Hayır. Liberteryenizmin temel ilkelerinden biri, insanları kendilerinden korumanın adil olmadığıdır. Vatandaşlar yetişkinlerdir, çocuk değil. Zorlayıcı yollarla daha iyi sağlık alışkanlıkları empoze etme girişimleri maliyetli, etkisiz ve nihayetinde ters etki yaratan girişimler olarak kabul edilir. Obezite sorunu özel girişimle çözülmelidir.
-
-
-
-
-
-- Merkezciler:** Evet, etkili olduğu kanıtlanırsa ve sosyal ve ekonomik sakıncaları azaltılabilirse vergi fikrine açık olacaklardır. Bunu izole bir önlemden ziyade daha geniş, entegre bir çözümün parçası olarak göreceklerdir.
-
-
-
-# Ekonomik konular
-
-
-<partId>465e0e6b-17e9-4f07-9a41-b3e88af0e83f</partId>
-
-
-
-## Ekonomik konular
-
+## Ekonomik meseleler
 
 <chapterId>f1d6c5de-fa05-4fb7-9d2e-73cc9791ea23</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=8MM2cFzPtRg)
 
+![Siyasi aileler arasında ekonomik tartışmaların karşılaştırmalı analizi](./assets/en/091.webp)
 
-
-Ekonomik konular istihdam, alım-satım, yatırımlar ve ticari işlemler gibi para ile ilgilidir. Her siyasi ailenin cevaplarını sunmak için beş soru seçtim. Açıkçası, bu hızlı cevaplar her bir bakış açısına sadece bir bakış sunmaktadır.
-
+Toplumsal sorulardan sonra şimdi ekonomik sorulara dönüyoruz. Bunlar parayla ilgilidir: istihdam, alım satım, yatırımlar, ticari işlemler ve hukuk. Her büyük siyasi ailenin beş temel meselede verdiği cevapları inceleyeceğiz: vergiler, asgari ücret, sağlık hizmetleri, çevre ve sübvansiyonlar. Daha önce olduğu gibi, bu hızlı cevaplar her bakış açısına yalnızca kısa bir bakış sunar.
 
 
 ### Vergiler
 
+![Siyasi aileler arasında vergilendirme tartışması](./assets/en/092.webp)
+
+**Soru:** Gelir vergileri azaltılmalı ya da daha basit, daha düşük vergilendirme biçimleriyle değiştirilmelidir mi?
 
 
-**Soru:** Gelir vergileri azaltılmalı ya da daha basit, daha düşük vergilendirme biçimleriyle değiştirilmeli midir?
+### Sosyalist konum: hayır
 
+Artan oranlı gelir vergileri, serveti yeniden dağıtmak ve kamu hizmetlerini (sağlık, eğitim, sosyal koruma) finanse etmek için temel bir araçtır. Bu nedenle sosyal adalet için gereklidirler. Başka bir deyişle, **artan oranlılık devletin eşitsizliği düzelttiği** ve sosyalistlerin vazgeçilmez gördüğü kolektif altyapıyı finanse ettiği mekanizmadır.
 
+### Muhafazakâr konum: evet
 
+Daha düşük vergiler yatırımı, istihdam yaratmayı ve ekonomik büyümeyi teşvik eder. Bireysel girişimi destekler ve kamu sektöründeki devlet israfını azaltır. Muhafazakâr görüşte **vergiler adil ve düşük olmalıdır**; böylece başarıyı cezalandırmak yerine çabayı ve girişimciliği ödüllendirir.
 
+### Liberteryen konum: evet
 
-- Hayır. Aşamalı gelir vergileri, servetin yeniden dağıtılması ve kamu hizmetlerinin (sağlık, eğitim, sosyal koruma) finansmanı için temel bir araçtır. Sosyal adalet için gereklidirler.
-- Muhafazakârlar:** Evet. Düşük vergiler yatırımı, istihdam yaratmayı ve ekonomik büyümeyi teşvik eder. Bireysel inisiyatifi teşvik eder ve hükümet israfını azaltır. Vergiler adil ve düşük olmalıdır.
+Vergilendirme bir tür devlet hırsızlığıdır ve özel mülkiyetin önünde bir engeldir. Tamamen özel hizmetler lehine büyük ölçüde azaltılmalı ya da kaldırılmalıdır. Liberteryenler minimal devlete, hatta sıfır devlete yönelir. Onlara göre hükümet yalnızca kesinlikle egemen işlevlerle (savunma, adalet) sınırlı olmalıdır; bu da bugün var olandan çok daha az vergiyi haklı çıkarır. Başka bir deyişle, **vergilendirmeye liberteryen itiraz ekonomik olmadan önce ahlakidir**: mülkiyet haklarının ihlalidir.
 
+### Merkezci konum: karma
 
-
-
-
-- Liberteryenler:** Evet. Vergiler bir tür devlet hırsızlığıdır ve özel mülkiyetin önünde bir engeldir. Gönüllü vergilendirme veya tamamen özel hizmetler lehine büyük ölçüde azaltılmalı veya kaldırılmalıdır.
-
-
-
-
-
-- Merkezciler:** Bir vergi sistemi dengeli olmalıdır. Dayanışma için belirli bir derecede ilericilik gereklidir, ancak çok yüksek vergiler yatırımları caydırabilir. Amaç, ekonomiyi boğmadan temel hizmetleri finanse eden bir sistemdir.
-
+Dayanışma için belirli bir artan oranlılık derecesi gereklidir, ancak çok yüksek vergiler yatırımı caydırabilir. Merkezciler sabit bir ilkeye değil, sonuçların değerlendirilmesine dayanır. Bunun için uzmanlara ihtiyaç duyarlar. Merkezciliğin sıklıkla bir teknokrasi biçimiyle ilişkilendirilmesinin nedeni budur: **doğru vergilendirme düzeyi ideolojik bağlılıkla değil, ampirik analizle belirlenmelidir**.
 
 
 ### Asgari ücret
 
+![Siyasi aileler arasında asgari ücret tartışması](./assets/en/093.webp)
+
+**Soru:** İşverenler ile işçiler arasında serbest pazarlığa izin vermek için asgari ücret yasaları kaldırılmalı mı?
 
 
-**Soru:** İşverenler ve işçiler arasında serbest pazarlığa izin vermek için asgari ücret yasaları kaldırılmalı mı?
+### Sosyalist konum: hayır
 
+Asgari ücret, işçiler için onurlu bir yaşamı garanti etmek, eşitsizlikleri azaltmak ve yoksullukla mücadele etmek için gereklidir. En kırılganları koruyan bir sosyal adalet aracıdır. Sosyalist çerçevede **devlet, işveren-çalışan ilişkisinin doğasında bulunan güç dengesizliğini düzeltmek için müdahale etmelidir**.
 
+### Muhafazakâr konum: evet, ama
 
+İlke olarak piyasa düzenleyici rolünü oynamalıdır. Asgari ücret tolere edilebilir, fakat yalnızca şirketlerin rekabet gücünü engellemiyorsa ve genelleştirilmemeliyse. En önemli olan sübvansiyonlara bağımlılık değil, bireysel sorumluluk ve istihdam yaratımıdır. Liberteryen konumun aksine, **muhafazakârlar ücret belirlemede bir miktar devlet müdahalesini kabul eder**, bunun asgari düzeyde ve bağlama bağlı kalmasında ısrar ederler.
 
+### Liberteryen konum: evet
 
-- Asgari ücret, çalışanlar için onurlu bir yaşamı garanti altına almak, eşitsizlikleri azaltmak ve yoksullukla mücadele etmek için elzemdir. En kırılgan durumda olanları koruyan bir sosyal adalet aracıdır.
+Asgari ücret emek piyasasını bozar, işsizlik yaratır ve sözleşme özgürlüğünü ihlal eder. Piyasa ücretleri işveren ile çalışan arasındaki serbest pazarlık yoluyla belirlemelidir. Asgari ücret neden işsizlik yaratır? Bu teknik bir sorundur, fakat liberteryenler için en önemli olan cevabın her şeyden önce ahlaki olmasıdır. **Asgari ücret, işe alma ve iş yapma özgürlüğüne dayatmadır.** Liberteryenler \"piyasa\" dediğinde, devlet müdahalesi olmadan iki taraf arasında özgürce müzakere edilen sözleşmeyi kastederler.
 
+### Merkezci konum: karma
 
-
-
-
-- Muhafazakarlar:** Prensip olarak hayır, piyasa düzenleyici rolünü oynamalıdır. Ancak asgari ücret, şirketlerin rekabet gücünü aşırı derecede engellemediği takdirde tolere edilebilir. Önemli olan sübvansiyonlara bağımlılıktan ziyade bireysel sorumluluk ve istihdam yaratılmasıdır.
-
-
-
-
-
-- Liberteryenler:** Evet. Asgari ücret, işgücü piyasasını bozan, işsizlik yaratan ve sözleşme özgürlüğünü ihlal eden yapay bir müdahaledir. Piyasa, ücretleri müzakere yoluyla belirlemelidir.
-
-
-
-
-
-- Merkezciler:** Hayır, asgari ücretin önemli bir sosyal rolü vardır. Var olmalıdır, ancak seviyesi, şirketlerin rekabet gücü ve işçilerin satın alma gücü dikkate alınarak, istihdamı yok etmekten kaçınmak için pragmatik bir şekilde ayarlanmalıdır.
-
+Merkezciler için karar teknik analize dayanmalıdır. Evet, eğer asgari ücret işleri yok etmiyorsa; evet, eğer büyümeyi destekliyorsa; ama hayır, desteklemiyorsa. Asgari ücretin önemli bir sosyal rolü vardır, fakat **düzeyi pragmatik biçimde ayarlanmalıdır**; şirketlerin rekabet gücü ve işçilerin satın alma gücü dikkate alınmalıdır.
 
 
 ### Sağlık hizmetleri
 
+![Siyasi aileler arasında sağlık hizmetleri tartışması](./assets/en/094.webp)
+
+**Soru:** Sağlık hizmetleri hükümet programları yerine özel piyasalara emanet edilmeli mi?
 
 
-**Soru:** Sağlık hizmetleri devlet programları yerine özel piyasalara mı emanet edilmelidir?
+### Sosyalist konum: hayır
 
+Sağlık hizmetlerine erişim bir meta değil, temel bir haktır. Devlet, herkesin gelirden bağımsız olarak bakıma erişebilmesi için evrensel, kamu tarafından finanse edilen bir sağlık sistemini garanti etmelidir. Burada yine **eşitlik, sosyal adalet ve devletin önemine yönelik sosyalist kaygıyı**, hizmetlerin genel çıkar doğrultusunda örgütlenmesi ve planlanmasında buluruz.
 
+### Muhafazakâr konum: evet
 
+Özel piyasalar daha verimli olabilir ve vergi yükünü azaltabilir. Devlet en yoksullar için minimal bir rol oynayabilir, fakat bireysel sorumluluk ve özel sigorta tercih edilir. Muhafazakâr yaklaşımda her zaman, birini diğerini dışlayacak şekilde seçmekten ziyade, **piyasa mekanizmalarını sınırlı devlet eylemiyle birleştirme fikri** vardır.
 
+### Liberteryen konum: evet
 
-- Sosyalistler:** Hayır. Sağlık hizmetlerine erişim bir meta değil, temel bir haktır. Devlet evrensel, kamu tarafından finanse edilen bir sağlık sistemini garanti etmelidir, böylece gelirden bağımsız olarak herkes bakıma erişebilir.
+Özel piyasa daha verimli ve yenilikçidir, ama her şeyden önce (ve temel ahlaki argüman budur) bireylerin kendi sistemlerini seçme hakkı vardır. Bu, bireysel egemenlik ve özel mülkiyet haklarının teyidi meselesidir. Başka bir deyişle, **liberteryen konum daha vurguludur çünkü ahlaki bir ilkeye dayanır**: devlet programlarının yanında daha fazla özel katılımı savunmakla yetinmeyip, sosyal güvenlik sisteminden tamamen çıkma hakkı.
 
+### Merkezci konum: karma
 
-
-
-
-- Muhafazakarlar:** Çoğunlukla evet. Özel piyasalar daha verimli olabilir ve vergi yükünü azaltabilir. Devlet en yoksullar için asgari bir rol oynayabilir, ancak bireysel sorumluluk ve özel sigorta tercih edilir.
-
-
-
-
-
-- Liberteryenler:** Evet. Sağlık hizmetleri de diğerleri gibi bir hizmettir. Özel piyasa daha verimli, yenilikçi ve tüketicilere daha fazla seçenek sunuyor. Devlet müdahalesi verimsizliğe ve bürokrasiye yol açar. Ancak her şeyden önce, bireylerin sosyal güvenlik sisteminden çıkmak isteyip istemediklerini kendileri seçme hakları vardır.
-
-
-
-
-
-- Merkezciler:** Karma bir sistem genellikle en iyi yaklaşımdır. Devlet, evrensel erişimi ve dayanışmayı (temel kapsam) garanti ederken, verimliliği ve kaliteyi optimize etmek için özel sektöre teklifi çeşitlendirmesi ve yenilik yapması için alan bırakmalıdır.
-
+Karma bir sistem çoğu zaman en iyi yaklaşımdır. Devlet evrensel erişimi ve dayanışmayı (temel teminat) garanti ederken, özel sektör çeşitlilik ve yenilik katkısı sunabilir. İdeal olarak ikisine de biraz ihtiyaç vardır: verimliliği ve kaliteyi optimize etmek için **uzmanlar tarafından dikkatle kalibre edilmiş bir karışım**.
 
 
 ### Çevre
 
+![Siyasi aileler arasında çevre tartışması](./assets/en/095.webp)
+
+**Soru:** Şirketlerin kendi kendini düzenlemesine izin vermek için çevre düzenlemeleri sınırlandırılmalı mı?
 
 
-**Soru:** Çevresel düzenlemeler, şirketlerin kendi kendilerini düzenlemelerine izin verecek şekilde sınırlandırılmalı mıdır?
+### Sosyalist konum: hayır
 
+Devlet çevreyi korumak ve iklim değişikliğiyle mücadele etmek için sıkı kurallar dayatmalıdır. Piyasa tek başına kolektif eylem ve planlama gerektiren bu sorunları çözemez. Nitekim daha ideolojik bir boyut da vardır: sosyalist görüşte piyasa yalnızca iklim değişikliğini çözememekle kalmaz, **gözlemlediğimiz kirlilikten** ve çevresel zarardan bizzat piyasanın kendisi sorumludur. Ekolojik dönüşümü sağlamak için sübvansiyonlar gerekli görülür ve çevreyi korumak için uluslararası serbest ticaret düzenlenmelidir.
 
+### Muhafazakâr konum: karma
 
+İlke olarak evet, çünkü girişim özgürlüğü önemlidir. Ancak çevreyi bir miras ve kaynak olarak korumak için belirli bir düzenleme düzeyi gereklidir. Muhafazakârlarda sıkça olduğu gibi, **bir ilke bağlama göre nüanslandırılmalıdır**: ekonomik özgürlüğe değer verilir, ama miras alınmış doğal varlığı yok etme pahasına değil.
 
+### Liberteryen konum: evet
 
-- Devlet, çevreyi korumak ve iklim değişikliğiyle mücadele etmek için katı düzenlemeler getirmelidir. Piyasa, kolektif eylem ve planlama gerektiren bu sorunları tek başına çözemez. Ekolojik geçişi sağlamak için sübvansiyonların gerekli olduğu düşünülmektedir. Ayrıca, çevreyi korumak için uluslararası serbest ticaret düzenlenmelidir.
+Çevre düzenlemeleri ekonomik özgürlüğe ve mülkiyet haklarına engeldir. Liberteryenler çevreyi korumanın en iyi yolunun bürokratik örgütler değil, özel mülkiyet olduğunu savunur. Nitekim **sahipler, mülklerine herhangi bir bürokrasiden daha fazla özen gösterme eğilimindedir**. Çevre sorunları piyasa, bireysel sorumluluk ve mülkiyet haklarıyla çözülebilir. Kirleticiler neden oldukları zarardan sorumlu tutulmalıdır; bu bir düzenleme değil, adalet meselesidir.
 
+### Merkezci konum: hayır
 
-
-
-
-- Muhafazakarlar:** Prensip olarak evet, çünkü girişim özgürlüğü önemlidir. Ancak, çevreyi bir miras ve kaynak olarak korumak için ekonomiyi boğmadan belirli bir düzeyde düzenleme gereklidir.
-
-
-
-
-
-- Liberteryenler:** Evet. Çevresel düzenlemeler ekonomik özgürlüğe ve mülk sahipliğine engeldir. Çevreyi korumanın en iyi yolunun bürokratik kuruluşlar değil, özel mülkiyet olduğuna inanırlar. Mülk sahiplerinin, mülklerinin değerini korumakta çıkarları olduğu için mülkleriyle ilgilenme olasılıklarının daha yüksek olduğunu da ekliyorlar. Çevre sorunları piyasa, bireysel sorumluluk ve mülkiyet hakları ile çözülebilir. Çevreyi kirletenler, çevreye verdikleri zarardan sorumlu tutulmalıdır.
-
-
-
-
-
-- Merkezciler:** Hayır, kendi kendini düzenleme yeterli değildir. Çevre düzenlemeleri gezegeni ve kamu sağlığını korumak için gereklidir. Ancak bu düzenlemeler, işletmelerin rekabet gücünü aşırı derecede cezalandırmayacak ve yeşil inovasyonu teşvik edecek şekilde tasarlanmalıdır.
-
-
+Kendi kendini düzenleme yeterli değildir. Çevre düzenlemeleri gezegeni ve kamu sağlığını korumak için gereklidir. Ancak **işletmelerin rekabet gücünü aşırı cezalandırmayacak** ve yeşil yeniliği teşvik edecek şekilde tasarlanmalıdır. Merkezci konum, her zamanki gibi, dikkatle tasarlanmış politika yoluyla rekabet eden zorunlulukları dengelemeye çalışır.
 
 
 ### Sübvansiyonlar
 
-
+![Siyasi aileler arasında sübvansiyon tartışması](./assets/en/096.webp)
 
 **Soru:** Şirketler sübvansiyonlardan ve kurtarma planlarından mahrum bırakılmalı mı?
 
 
+### Sosyalist konum: hayır
+
+Sübvansiyonlar yeniliği destekler, işleri korur ve stratejik sektörleri geliştirir. **Devlet temel bir ekonomik aktör ve planlayıcıdır**; rolü ekonomiyi, ekolojik dönüşüm dahil, kolektif olarak tanımlanan önceliklere doğru yönlendirmektir. Sübvansiyonların kaldırılması, en kırılgan sektörleri ve işçileri piyasanın kaprislerine terk etmek anlamına gelir.
+
+### Muhafazakâr konum: evet, ama
+
+İlke olarak evet; serbest rekabeti ve bireysel şirket sorumluluğunu teşvik etmek için. Ancak stratejik ulusal sanayiler için istisnalar mümkündür. Örneğin silahlanma, ilaç sanayii ya da eğitim akla gelir. Liberteryen konumun aksine, **muhafazakârlar ulusal güvenlik ya da stratejik çıkarlar söz konusu olduğunda hedefli devlet müdahalesini kabul ederler**.
+
+### Liberteryen konum: evet
+
+Sübvansiyonlar ve kurtarmalar piyasayı bozar, bazı şirketleri diğerlerinin önüne geçirir ve devlete bağımlılık yaratır. Başarısız olan şirketler iflas etmelidir. Burada yine egemenliğe ve özel mülkiyete saygı gibi ahlaki değerlendirmeler vardır, fakat verimlilik değerlendirmeleri de vardır. Şirketlerin sübvansiyonlar yoluyla başarısız olmaları engellendiğinde, **bu ahlaki tehlike olarak bilinen şeyi yaratır**: sorumsuzluğa ve pervasızlığa yönelik bir teşvik. Sonunda faturayı vergi mükellefi öder; bu da derin biçimde adaletsizdir.
+
+### Merkezci konum: hedefli
+
+Sübvansiyonlar hedefli ve geçici olmalı, genel bir çıkarla (yenilik, ekolojik dönüşüm, stratejik sektörler) gerekçelendirilmelidir. Kurtarmalar yalnızca ekonomi için büyük bir sistemik tehdit durumunda düşünülmelidir. Örneğin bankaları kurtarmak gerekli olabilir; çünkü aksi hâlde bu genel bir panik ve durgunluk koşulları yaratır. **Merkezci yaklaşım her vakanın kendi esasına göre değerlendirilmesini talep eder**; sübvansiyonlar ideolojik tercih yerine kanıtlanmış gereklilikle gerekçelendirilmelidir.
 
 
 
-- Hayır. Sübvansiyonlar inovasyonu desteklemek, istihdamı korumak, stratejik sektörleri geliştirmek veya ekolojik geçişi sağlamak için gerekli olabilir. Devletin rolü ekonomik bir oyuncu ve planlamacı olmaktır.
-
-
-
-
-
-- Muhafazakarlar:** Prensip olarak, serbest rekabeti ve bireysel kurumsal sorumluluğu teşvik etmek için evet. Ancak, ülkenin güvenliği veya istihdamı için hayati önem taşıyan stratejik veya ulusal endüstriler için istisnalar yapılabilir.
-
-
-
-
-
-- Liberteryenler:** Evet. Sübvansiyonlar ve kurtarma paketleri piyasayı bozar, bazı şirketleri diğerlerine göre kayırır ve devlete bağımlılık yaratır. Başarısız olan şirketler iflas etmelidir.
-
-
-
-
-
-- Merkezciler:** Genel olarak evet, ancak istisnalar var. Sübvansiyonlar hedefe yönelik ve geçici olmalı, genel bir çıkarla gerekçelendirilmelidir (inovasyon, ekolojik geçiş, stratejik sektörler). Kurtarmalar sadece ekonomiye yönelik büyük bir sistemik tehdit durumunda düşünülmelidir.
-
-
-
-
-# Siyasi aileler arasındaki felsefi farklılıklar
-
+# Siyasi aileler arasındaki felsefi farklar
 
 <partId>a4c96533-ae9a-45be-8dc2-e0c2534eb89d</partId>
 
 
-
-## Siyasi aileler arasındaki felsefi farklılıklar
-
+## Siyasi aileler arasındaki felsefi farklar
 
 <chapterId>e48cff63-15d9-4789-ab6c-f1df06683fce</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=Qznu_mAOji8)
+
+![Siyasi aileler arasındaki felsefi ayrışmalar](./assets/en/097.webp)
+
+Farklı siyasi aileleri karşılaştırdığımızda, elbette yakınlaşma noktaları ortaya çıkar; fakat derin uyumsuzluklar da vardır. Bu özellikle liberteryenleri diğer ideolojik profillerle, yani muhafazakârlar, sosyalistler ve merkezcilerle yan yana koyduğumuzda görünür. Kursun bu bölümünde, siyasi düşünceden geçen gerçek fay hatlarını ortaya çıkaran bir dizi felsefi ayrışmayı inceleyeceğiz.
+
+En temel soruyla başlayalım: özgürlüğün doğası.
 
 
-
-Farklı siyasi aileleri karşılaştırdığımızda, olası benzerliklerin yanı sıra uyumsuzluk noktalarının da olduğunu görebiliriz. Bu durum özellikle liberteryenleri diğer ideolojik profillerle karşılaştırdığımızda geçerlidir.  Bu farklılıkları birkaç felsefi kavram kullanarak analiz edelim.
-
+### Özgürlük: ilke mi, fırsat mı?
 
 
-### Özgürlük: ilke mi fırsat mı?
+Liberteryenleri diğer tüm siyasi ailelerden neyin ayırdığını anlamak için, büyük Fransız liberal düşünürlerinden biri tarafından ortaya konan bir ayrımdan başlamalıyız. Frederic Bastiat'nın öğrencisi Gustave de Molinari, 1849 tarihli *Les Soirees de la rue Saint-Lazare* eserinde, her biri bir siyasi aileyi temsil eden üç karakter arasında bir diyalog sahneler: sosyalist, muhafazakâr ve iktisatçı.
+
+![Molinari'nin üç siyasi figürü: sosyalist, muhafazakâr ve iktisatçı](./assets/en/098.webp)
+
+Molinari'nin bu diyaloglarla gösterdiği şey çarpıcıdır. **İktisatçı, hem sosyalistle hem muhafazakârla sürekli bir anlaşmazlık içindedir.** Özgürlüğü, başka hiçbir hedefe tabi kılınmayan temel bir ilke olarak savunan tek kişi odur. Sosyalist toplumu ilerici ideallere göre reforme etmek ister; muhafazakâr toplumu mevcut hâlinde korumak ister. İkisi de özgürlükleri kısıtlamaya ve kendi gündemlerini dayatmak için devlete başvurmaya isteklidir.
+
+Molinari'nin vizyonu kehanet niteliğinde çıktı. Onun zamanından, on dokuzuncu yüzyılın ortasından beri, muhafazakârlar ve sosyalistler iktidarda dönüşümlü olarak yer aldılar ve tam olarak onun tarif ettiği şeyi gerçekleştirdiler: **özgürlüğün siyasi hedeflerin hizmetinde araçsallaştırılması.**
+
+### Muhafazakâr görüş: özgürlükten önce düzen
+
+![Düzen ve gelenek tarafından koşullandırılmış muhafazakâr özgürlük anlayışı](./assets/en/099.webp)
+
+Muhafazakârlar için düzen ve gelenek özgürlükten önce gelir. Fazla özgürlük, onlara göre, kaos ve toplumsal düzensizlik üretir. Özgürlük değerli olabilir, fakat ancak düzen sıkıca tesis edildikten sonra.
+
+Pratikte bu, **özgürlüğün sınırlandırılması gerektiği ve kendi başına işlemeye bırakılamayacağı** anlamına gelir. Toplumsal istikrarı, aileyi ya da miras alınmış kültürel değerleri tehdit ettiğinde tehlikeli hâle gelir. Girişim özgürlüğü ya da mülkiyet sahibi olma özgürlüğü savunulur, fakat her zaman geleneksel değerlere ve topluluğa karşı görevlere saygı koşuluna bağlanır. Bu, devlet için yalnızca toplumsal meselelerde değil, özgürlüğün denetimli kalması gereken ekonomik alanda da bir rol ima eder.
+
+### Sosyalist görüş: özgürlükten önce adalet
+
+![Sosyalist özgürlük anlayışı, sosyal adalet ve eşitlikle bağlantılı](./assets/en/100.webp)
+
+Sosyalistler için sosyal adalet bireysel özgürlükten önce gelir. Özgürlük, kısıtlamadan bağımsızlık olarak değil, eyleme geçme kapasitesi olarak anlaşılır; bu kapasite de adil maddi ve toplumsal koşulları varsayar.
+
+Başka bir deyişle, **insanın yiyeceği ya da temel hizmetlere erişimi yoksa gerçekten özgür değildir**. Dolayısıyla siyasi öncelik koşulların eşitlenmesine düşer. Özgürlük sosyal adalet ve eşitlikle içsel olarak bağlantılıdır; yoksulluk ya da dışlanma gibi ekonomik ve toplumsal kısıtlamalardan özgürleşme yoluyla kendini gösterir. Bu mantık düzenli olarak sosyal hakları garanti etmek ve serveti yeniden dağıtmak için devlet müdahalesi talep eder.
+
+### Merkezci görüş: özgürlükten önce verimlilik
+
+![Merkezci araçsal özgürlük anlayışı](./assets/en/101.webp)
+
+Merkezciler belirli özgürlükleri savunur, fakat bunu genel bir karar ilkesi uygulamadan, fırsatçı ve bağlamsal bir şekilde yaparlar. Konumlarını belirli zorluklara ve sonuçlara verimli biçimde ulaşmak için gereken uzlaşmalara göre uyarlarlar.
+
+Örneğin Green New Deal'ı düşünün: merkezciler rüzgâr enerjisi sübvansiyonlarını ve yeşil işletmelere desteği güçlü biçimde zorlayabilirler; bunu özgürlüğe, hatta ekolojiye ilkeli bir bağlılıktan değil, bu politikalar hâkim eğilimlerle uyumlu olduğu için yaparlar. **Bu pragmatik yaklaşım araçsal bir özgürlük anlayışını açığa çıkarır**; nihayetinde hem muhafazakârların hem sosyalistlerin yaklaşımlarıyla yakınsar. Özgürlüğe her zaman başvurulur, fakat her zaman tabi kılınır.
+
+### Liberteryen görüş: aksiyom olarak özgürlük
+
+![Liberteryen özgürlük görüşü: koşulsuz bir ilke](./assets/en/102.webp)
+
+Liberteryenler özgürlüğü genel, koşulsuz bir eylem ve karar ilkesi olarak tanımlar. Diğer her şeyin kendisinden çıktığı bir aksiyom işlevi görür. Özgürlük başlangıçta temel bir hak ve aynı anda bir görev olarak konulmalıdır: **saldırıya uğramama hakkı ve başkalarına saldırmama sorumluluğu**, kusur durumlarında tazmin yükümlülüğüyle birlikte.
+
+Liberteryenler bireysel özgürlüğün ve mülkiyet haklarının eksiksiz korunmasını, asgari devlet müdahalesiyle savunur. İnşacılığa (merkezi planlamaya) karşı çıkarlar ve liberteryen yelpazenin neresinde yer alırlarsa alsınlar, klasik liberallerden anarko-kapitalistlere kadar, özelleştirilebilecek her şeyi özelleştirme hedefini paylaşırlar.
+
+### Hedeflerde yakınlaşma, araçlarda ayrışma
+
+Burada kritik bir nüans vardır. Liberteryenler belirli hedeflerde sosyalistler, muhafazakârlar ve merkezcilerle aynı fikirde olabilir: ezilenleri savunmak, uygarlığı korumak, toplumsal uyumu teşvik etmek. Anlaşmazlık amaçlarda değil, araçlardadır.
+
+**Liberteryenler pratikleri, yasaları ve düzenlemeleri tek biçimli hâle getirmeye çalışan tüm zorlayıcı çözümleri reddederler.** Servet yeniden dağıtımına, dayatılmış asgari ücretlere ve ekonomide devletin artan ağırlığına karşı çıkarlar. Alternatif olarak, seçim gücünü ve sorumlu özgürlük ilkesini piyasa süreci yoluyla savunurlar: gönüllü sözleşmelere dayalı özgür, merkezsiz mübadele.
 
 
-
-Bu kafa karışıklığını gidermek için 3 özgürlük anlayışının ana hatlarını çizeceğiz.
-
-
-
-1. Muhafazakârlar için özgürlük iyi bir şeydir, ancak çok fazla özgürlük kaos ve düzensizlik yaratır. Dolayısıyla özgürlük sınırlandırılmalı ve çerçevelenmelidir.
-
-
-
-Onlar için özgürlük temel bir ilke değil, bir çıkar meselesidir. Örneğin, homofobik söylemleri cezalandıran yasaları kınayan bir muhafazakar, uyuşturucunun yasallaştırılmasından ya da aile yardımlarının kaldırılmasından yana olmayacaktır.
-
-
-
-2. Sosyalistler şu ya da bu özgürlüğün geçici, fırsatçı ve seçici bir temelde getirilmesini de savunabilirler. Ancak onlar için bu, genel bir karar alma ilkesinin uygulanması değildir. Muhafazakârların bireyleri kalmaya zorlamak istemesi gibi, onlar da bireyleri köklerinden ayrılmaya zorlamak isteyebilirler.
-
-
-
-3. Liberteryenler için özgürlük genel bir karar ve eylem ilkesidir. Bir liberteryen, bireysel özgürlük ve mülkiyet haklarının radikal bir savunucusudur, devlet müdahalesini en aza indirmeye çalışır ve devlet tarafından dayatılan her türlü sosyal yapılandırmacılığa karşı çıkar. Özgürlük ilkesinin gücü anarko-kapitalistler (herhangi bir kuralı esnetmeyi reddedenler) ve klasik liberaller (daha incelikli bir söyleme sahip olanlar) arasında farklılık gösterse de, ilke her zaman aynıdır: özelleştirilebilecek her şeyi özelleştirmek.
-
-
-
-Siyasi aileler arasındaki bu karşıtlık Gustave Molinari'nin Les Soirées de la rue Saint Lazare adlı eserinde - farklı kelimelerle - zaten mevcuttu. Frédéric Bastiat'nın bir öğrencisi tarafından 1849'da yayımlanan bu kitapta üç karakter yer almaktadır: sosyalist, muhafazakâr ve ekonomist. Ekonomist olarak bilinen karakter aslında kelimenin klasik anlamıyla bir liberaldir; bugün buna özgürlükçü diyebiliriz.
-
-
-
-Molinari tarafından tasarlanan bu diyaloglarda, ekonomist (liberal/özgürlükçü) her zaman sosyalist ve muhafazakârın karşısında yer alır. Her ikisinin de konumlarının temelde farklı olmadığını göstermekte ısrar eder. Gerçekten de Molinari'ye göre muhafazakârlar ve sosyalistlerin ortak bir noktası vardır: kendi toplum vizyonlarını devlet aracılığıyla dayatmaya çalışırlar.
-
-
-
-## Spontane ve inşa edilmiş düzen
-
+## Kendiliğinden düzen ve inşa edilmiş düzen
 
 <chapterId>504aa7da-ecd5-4177-87d9-c8792f58c8e3</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=jh-FDJftOf0)
 
+![Kendiliğinden düzen ve inşa edilmiş düzen](./assets/en/103.webp)
 
+Bir başka büyük fay hattı, siyasi sürecin piyasa sürecinden üstün olduğuna inananlarla bunun tersini savunanları ayırır. İlk grup yukarıdan aşağı tasarlanan inşa edilmiş bir düzeni savunur. İkincisi ise aşağıdan yukarı ortaya çıkan kendiliğinden bir düzeni savunur. Bu ayrım siyasi hassasiyetleri anlamak için temeldir ve liberteryenleri neredeyse tüm diğer ailelerin karşısına yerleştirir.
 
-Kendiliğinden düzen* ve *inşa edilmiş düzen* kavramları, özgürlükçülük ve sağ (muhafazakârlık) ve solun (sosyalizm) inşacılığı da dâhil olmak üzere farklı siyasi duyarlılıklar arasındaki ayrımları anlamak için temeldir.
+### İnşacılık: partiler üstü bir uzlaşma
 
+![Merkezciler, muhafazakârlar ve sosyalistler arasında paylaşılan kanaat olarak inşacılık](./assets/en/104.webp)
 
+İnşacılık herhangi bir tek siyasi kampın tekeli değildir. Merkezcileri, muhafazakârları ve sosyalistleri ortak bir kanaat etrafında birleştirir: **siyasi sürecin piyasa sürecinden üstünlüğü.** Tüm bu akımlar için devlet, toplumu adil ve verimli biçimde örgütlemek için daha donanımlıdır. Aileye göre değişen derecelerde olsa da merkezi planlamayı ayrıcalıklı kılarlar.
 
-Konstrüktivizm, toplumu belirli bir plana göre şekillendirme arzusunu ifade eder. Devletin veya diğer kuruluşların (sendikalar, STK'lar, baskı grupları veya uluslararası kuruluşlar) eylemleri aracılığıyla önceden belirlenmiş bir toplum vizyonunu empoze etmeye çalışan bir yaklaşımdır.
+İnşacılığı tek cümlede özetlersek: merkezi bir hükümetin, yasa gücüyle, en büyük sayı için iyi olan bir toplumsal düzen yaratabileceğine duyulan inançtır.
 
+### Hayek'in inşacılık analizi
 
+![Hayek'in inşacılık ve merkezi planlama eleştirisi](./assets/en/105.webp)
 
-Yapılandırmacılığın karşıtı, bireylerin özgür etkileşimlerinden doğal olarak ortaya çıkan kendiliğinden düzendir; inşa edilmiş düzen ise, ister muhafazakar (sabit) ister ilerici (dönüştürülmüş) olsun, toplumu belirli bir vizyona göre şekillendirmek için yapılan kasıtlı, planlı müdahalenin sonucudur.
+Bahsin ne olduğunu anlamak için Friedrich Hayek'in analizini izleyebiliriz. İnşacılar, kendi arzularına ve ideallerine uygun bir toplum inşa etmenin mümkün olduğuna sıkı biçimde inanırlar. Toplumu kendi vizyonlarına göre şekillendirmek için ister muhafazakâr ister ilerici olsun, bilinçli ve planlı müdahaleyi gerekli görürler.
 
+Bu inancın arkasında, Platon'a ve filozof-kral teorisine kadar izlenebilen daha eski bir varsayım yatar: **bazı insanların başkalarını yönlendirmek ve toplumu örgütlemek için daha donanımlı olduğu fikri.** Bu, bazı insanların diğerlerine üstünlüğüne dair temel bir inançtır.
 
+Fakat Hayek, bu felsefi sorunun ötesinde pratik bir imkânsızlık olduğunu gösterir.
 
-Konstrüktivistler kendi isteklerine uygun bir toplum inşa etmenin mümkün olduğuna inanırlar. Özgürlükçüler ise toplumun bireyler arası koordinasyon süreçleri aracılığıyla öngörülemez bir şekilde kendini inşa ettiğine inanır.
+### Kendiliğinden düzen: aşağıdan örgütlenme
 
+![Özgür bireysel etkileşimlerin ürünü olarak kendiliğinden düzen](./assets/en/106.webp)
 
-Kendiliğinden düzen, Hayek'in çalışmalarından türetilen önemli bir kavramdır. Toplumdaki bireylerin özgür etkileşimlerinin ürünü olarak tanımlanır. Kasıtlı insan bilincinin değil, insan eyleminin sonucudur ve merkezi bir otorite tarafından planlanmaz ya da dayatılmaz: *Friedrich Hayek, Adam Ferguson'dan alıntılayarak, "İnsan tasarımının değil, insan eyleminin ürünüdür*" diye tekrarlamıştır.
+Kendiliğinden düzen örgütlenmeye karşı bir argüman değildir. Aksine Hayek için ekonomik ve toplumsal ilerlemenin en güçlü motorlarından biridir. Toplumdaki bireylerin özgür etkileşimlerinin ürünü olarak tanımlanır; insan eyleminden doğar, fakat bilinçli insan tasarımından doğmaz.
 
+Kendiliğinden ortaya çıkan kurallar, kurumlar ve pratikler merkezi bir otorite tarafından planlanmaz ya da dayatılmaz. Aşağıdaki örnekleri düşünün:
 
+Dil: Fransızca, İngilizce, Almanca; bunların hiçbiri entelektüellerin toplanıp gramer ve yazım kurallarını belirlediği bir büroda inşa edilmedi. **Bunlar tarihsel etkileşimler yoluyla kurulmuş yavaş, organik bir örgütlenmenin meyvesidir.**
 
-Görünmez el mekanizmasını tanımlayan Adam Smith de şöyle yazmıştır: *Yalnızca kendi çıkarını gözeten [birey], çoğu zaman toplumun çıkarı için, amacının gerçekten toplum için çalışmak olmasından daha verimli bir şekilde çalışır.*
+Toplumsal kodlar: ahlak, nezaket, âdetler; bunlar da insan etkileşimi yoluyla kademeli olarak gelişen kendiliğinden koordinasyonun ürünüdür.
 
+Emtia para: kabuklardan metallere, altın herhangi bir merkezi otorite tarafından değil, piyasa tarafından deneyim, rekabet ve bireylerin öznel değerlemeleri yoluyla seçilen en iyi para olarak ortaya çıktı.
 
+### Bilgi problemi
 
-Hayek'e göre, toplumu ve piyasayı bilimsel olarak düzenleme iddiası, hastalıkları düzeltmek yerine daha da ağırlaştırmaya yol açmaktadır. İskoçyalı Smith ve Hume'un izinden giden Burke'ün işaret ettiği gibi, tarih, aklın bilinçli olarak tasarlayabileceği her şeyden daha karmaşık ve daha iyi uyarlanmış kurumlar üretir.
+![Hayek'e göre bilginin dağınık doğası](./assets/en/107.webp)
 
+Hayek'in kendiliğinden düzen lehine temel argümanı bilginin doğasına dayanır. 1945 tarihli *The Use of Knowledge in Society* makalesinde şöyle yazmıştır:
 
+> Bilgi hiçbir zaman yoğunlaşmış ya da bütünleşmiş bir biçimde var olmaz; yalnızca tüm ayrı bireylerin sahip olduğu eksik ve sık sık çelişkili bilginin dağılmış parçaları olarak var olur.
 
-Gerçekten de kurallar, kurumlar, uygulamalar ve diğer sosyal olgular merkezi bir otoritenin kasıtlı planlamasının sonucu değildir.
+Piyasa bilgiye bağlıdır, fakat yalnızca ayrı bireyler ihtiyaçlarının ne olduğunu ve şeylerin neye mal olduğunu bilebilir. Değer, bireylerin zihinlerindeki öznel takdirde yatar. **Otoriter ya da merkezi biçimde ilan edilemez.** Değer özneldir; bu yüzden yalnızca sınırlı, parçalı ve yerel biçimde bilinir.
 
+Birbirini tanımayan milyonlarca insanın bilgi ve becerilerini koordine etmesini sağlayan şey fiyat sistemidir. Serbest piyasada fiyatlar, her katılımcının ihtiyaçları ve yetkinlikleri hakkında bilgi iletir. İnsanların ilişkilere girmesini ve mübadele etmesini sağlar. Bunlar elbette bireyler arasındaki gönüllü pazarlıkla oluşan piyasa fiyatlarıdır.
 
-*İnsanlığın başardığı en büyük şeylerin çoğu, bilinçli olarak yönlendirilmiş düşünceden, hatta daha da azı birçok insanın kasıtlı olarak koordine ettiği bir çabadan değil, bireyin asla tam olarak anlayamayacağı bir rol oynadığı bir süreçten kaynaklanmıştır.* F. Hayek.
+Bir bakanlıkta ya da ofiste oturan merkezi planlamacı, etkileşim ve mübadele içinde olmadığı için şeylerin gerçek fiyatını bilemez. Dolayısıyla **toplumu bilimsel olarak örgütleme iddiası paradoksal biçimde sorunları gidermek yerine ağırlaştırır.**
 
+Devlet fiyatları sabitlediğinde, tüketici tercihlerinin ve yerel özgüllüklerin yalnızca küçük bir kısmını bildiği için krizlere yol açar. Kira kontrollerini düşünün: kiralar sınırlandığında, ev sahipleri mülklerini kiraya sunmayı kârsız bulur ve konut kıtlığı ortaya çıkar.
 
+### Gerçek düzenleme olarak serbest piyasa
 
-Örneğin diller ya da gelenekler insan tarafından yaratılmış şeylerdir. Ancak bunların hiçbiri bir insan tarafından tasarlanmamıştır. Hepsi planlanmadan ortaya çıkmıştır. Aynı şey metal paralar gibi eski para birimleri ya da Bitcoin gibi yeni bir para birimi için de geçerlidir. Bunlar piyasa tarafından seçilen *izinsiz* yeniliklerdir.
+![Toplumun gerçek düzenleyicisi olarak serbest piyasa](./assets/en/108.webp)
 
+Liberteryenler için toplumun gerçek düzenlemesi demokrasi değil (temsilcileri belirleme biçimi olarak kullanımları vardır), **her şeyden önce serbest piyasadır**.
 
+Piyasa üç temel işlev görür:
 
-**Dağınık bilgi
+1. **Serbest piyasa olmadan pusula yoktur.** Fiyatlar ekonomik ve toplumsal kararları yönlendirmek için güvenilir göstergelerdir.
+2. **Piyasa tercihleri açığa çıkarır.** Otantik bireysel tercihleri keşfetmek ve toplamak için optimal bir mekanizmadır. Fiyatlar arz ve talebi yansıtır.
+3. **Piyasa karar verme hakkının tam kullanımına imkân verir.** Aktörler kendi işlerini kişisel değerlerine göre özgürce belirleyebilir. Burada etik bir boyut vardır: her insanın kendi hayatının aktörü olmasına ve kendi tercihlerini yapmasına izin vermek.
 
+### İş dünyası yanlısı ve piyasa yanlısı
 
+![İş dünyası yanlısı ve piyasa yanlısı konumlar arasındaki ayrım](./assets/en/109.webp)
 
-> Bilgi hiçbir zaman yoğunlaştırılmış ya da bütünleştirilmiş bir biçimde var olmaz, yalnızca tüm farklı bireylerin sahip olduğu eksik ve sıklıkla çelişkili bilginin dağınık parçaları olarak var olur.
->
+Sıklıkla karıştırılan iki konum olan iş dünyası yanlısı ile piyasa yanlısı arasında açıkça ayrım yapmak önemlidir.
 
+Sosyalistler, merkezciler ve muhafazakârlar arasında pek çok iş dünyası yanlısı siyasetçi bulunur. Onlara göre rekabet, ekonomik hedeflere ulaşmak için bir yönetim aracıdır. Sözde adil rekabeti garanti eden düzenlemeler yoluyla elde edilir: tekel karşıtı yasalar, sektörel ve çevresel normlar. Teşvik planları ve sübvansiyonlar, iş kayıplarını ve durgunluğu önlemek gibi toplumsal sonuçlarla gerekçelendirilir. **İş dünyası yanlısı görüşte piyasa kırılgandır ve onu kurtarmak için devlete ihtiyaç duyar.**
 
-> F. Hayek, The Use of Knowledge in Society, 1945
+Piyasa yanlıları için rekabet, devletin merkezi gücünü dışlayan serbest girişimin doğal sonucudur. Bu, deregülasyonu (özgürlüğün önündeki engelleri ve özel mülkiyeti kısıtlayan düzenlemeleri kaldırmayı) ve işletmelerin başarısız olmasına izin vermeyi ima eder; çünkü **başarısızlık piyasanın doğal biçimde yeniden örgütlenmesine izin verir ve alanı daha yetkin aktörlere açar.** Bir işletme başarısız olursa, kötü seçimler yapmıştır ve sonuçlarına katlanmalıdır.
 
-Piyasa, ihtiyaçların ve becerilerin gerçek durumu hakkında bilgi sağladığı için bir işbirliği aracıdır. Bilginin keşfedilmesi ve değer ve ihtiyaçlar hakkında dağınık bilginin harekete geçirilmesi için bir prosedürdür. Aslında piyasa, fiyatların oluşmasına yol açan bireysel tercihlerin buluşma yeridir. Dolayısıyla fiyat sistemi, mübadeleleri koordine etmek için sözleşmelerden kendiliğinden ortaya çıkan bir mekanizmadır. Fiyatlar serbestçe tartışıldığında, tüketici görüş ve tercihlerinin çeşitliliğini yansıtır.
+Fark önemlidir. İş dünyası yanlıları çoğu zaman küçük oyuncular pahasına büyük şirketlerle ittifak arar. Bu görünüşte kapitalizmdir, fakat gerçekte inşacılığa ve planlamaya duyduğu inançla özgürlüğü ciddi biçimde azaltır.
 
+### Liberteryen konum
 
+![Liberteryenlerin örgütlü zorlama karşısında gönüllü mübadele savunusu](./assets/en/110.webp)
 
-Bir malın maliyet ve faydalarını sadece bireyler bilebilir, çünkü bunlar özneldir. Öte yandan, merkezi ve planlı bir sistemde devlet fiyatları belirler, ancak tüketici tercihlerinin ve yerel özelliklerin sadece bir kısmını bildiği için piyasayı bozar. Sadece serbestçe müzakere edilen fiyatlara sahip merkezi olmayan bir ticaret sistemi bu dağınık bilgiyi ortaya çıkarabilir.
+Sonuç olarak liberteryenler kendilerini, hepsi inşacı olan diğer siyasi ailelerin karşısında bir ölçüde yalnız bulurlar. Liberteryenler **toplumun kendiliğinden koordinasyon mekanizmaları yoluyla doğal olarak örgütlendiğini** ve gönüllü işbirliğinin, iyi niyetli olduğunda bile örgütlü zorlamadan adil ve müreffeh bir toplum inşa etmek için üstün olduğunu savunur.
 
+Genel olarak siyasi sınıf kendiliğinden düzene olumlu bakmaz; çünkü bu onların gücünü tehdit eder. Muhafazakâr, merkezci ya da sosyalist bir siyasetçi olmanız fark etmeksizin, işleri kontrol etmek istediğiniz için kendiliğinden düzene ve piyasaya düşman olma eğiliminde olursunuz. Fakat liberteryenler için toplumu iyileştirmenin gerçek gücü siyasi güçte değil, seçim gücünde yatar: özgür ve gönüllü mübadele, piyasa.
 
+İki yön birlikte tutulmalıdır. Verimlilik: **serbest piyasalar dağınık bilgiyi merkezi planlamadan daha iyi koordine eder**, Hayek'in gösterdiği gibi. Ve adalet: karşılıklı rıza, insan onuruna zorlama ve inşacılığın asla gösteremeyeceği kadar saygı gösterir.
 
-Dolayısıyla özgürlükçüler hem sosyalistlere hem de muhafazakarlara, yani iki kategorideki yapısalcılara karşıdır: sosyalistler toplumda reform yapmak isterken muhafazakarlar toplumu olduğu gibi korumak isterler. Yani sol kanat yapısalcılar ve sağ kanat yapısalcılar vardır.
+Bütün bunlar, yine de, hakların ve görevlerin açıkça tanımlanmasını gerektirir. Piyasa kendiliğinden bir süreç olabilir, fakat hukuka, özellikle mülkiyet haklarına uygun olmalı ve devletin ekonomik ve toplumsal işlere müdahale etmemesini gerektirir. Devlet, mülkiyet hakları gibi temel hakları uygulamakla yetinmeli ve diğer her şeye müdahale etmekten kaçınmalıdır.
 
 
-
-
-**Siyaset mi piyasa mı?
-
-
-Konstrüktivistler, merkezciler, muhafazakarlar ve sosyalistlerin hepsi kilit bir noktada hemfikirdir: siyasi sürecin piyasa sürecinden daha verimli olduğunu düşünürler.
-
-
-
-
-
-- Siyasi süreçten kastım, merkezi bir hükümetin kanun gücüyle, en büyük sayı için hem adil hem de istikrarlı bir sosyal düzen yaratma kabiliyetidir.
-
-
-
-
-
-- Piyasa süreci derken, bir etkileşim biçimi ve işbirliği mekanizması olarak serbest ve gönüllü mübadeleyi kastediyorum.
-
-
-
-Felsefi olarak liberteryen, muhafazakarların ve sosyalistlerin bazı amaçlarına katılabilir, ancak ampirik olarak onların araçlarına katılmayacaktır.
-
-
-Dolayısıyla liberteryen, ezilen işçilere yardım etme konusunda sosyalistlerle hemfikir olacaktır, ancak asgari ücretin bu amaca ulaşabileceğini düşünmeyecektir, en azından her yerde uygulanan tek tip bir asgari ücretin.
-
-
-
-İronik bir şekilde, sosyalizmin pek çok savunucusu ekonomik eşitliği savunurken, tarih, ülkelerin serbest piyasalarla ilişkili kendiliğinden servet yaratma sürecini ortadan kaldırmaya çalıştıklarında, mümkün olan en kötü eşitsizlik türünü yarattıklarını göstermiştir: merkezi planlamacılar krallar gibi yaşarken kitlelerin açlıktan öldüğü bir toplum.
-
-
-
-Merkezi planlama işe yaramaz, çünkü her şeyi bilen bir zekayı yerelleştirilmiş ama bağlantılı bilgiye sahip dağıtılmış, parçalanmış bir sistemle ikame etmeye çalışır.
-
-
-Benzer şekilde, liberteryen, medeniyetin savunulması gerektiği yönündeki muhafazakar fikre katılacak, ancak kısıtlamaları, harcamaları ve hükümetin yükünü artıran yasa ve düzenlemelerin yapılmasını kabul etmeyecektir. Aksine, hem adil hem de etkili olan tek aracı savunacaktır: seçim gücü veya sorumlu özgürlük ilkesi, yani piyasa süreci.
-
-
-
-Liberteryenler, bireylerin hak ve görevlerinin açıkça tanımlanması koşuluyla, ekonomik ve sosyal düzenin kendi kendini organize edebileceğine inanırlar. Yaklaşımları mülkiyet haklarına saygıya ve devletin müdahalede bulunmayarak toplumu kendi kendini organize etmeye bırakmasına dayanır.
-
-
-Liberteryenler için toplumun gerçek düzenleyicisi, temsilcilerin atanması için bir araç olarak kullanılabilecek olan demokrasi değil, her şeyden önce serbest piyasadır. Serbest piyasa olmadan pusula da olmaz. Çünkü piyasa kişisel tercihlerin en iyi göstergesidir. Serbest piyasada oyuncular kendi işlerine karar verme haklarını tam olarak kullanırlar.
-
-
-
-## Bireycilik vs. kolektivizm
-
+## Bireycilik ve kolektivizm
 
 <chapterId>ba205097-37f8-4503-9c1e-97eb31e7678c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=PsEfNf5xHdk)
 
+![Bireycilik ve kolektivizm](./assets/en/111.webp)
 
+Siyasi aileler arasındaki bir başka ayrım çizgisi, birey ile toplum arasındaki ilişkiyle ilgilidir. Kolektivite birey için bir amaç mı, yoksa araç mı? Tersinden, birey kolektif için bir amaç mı, yoksa araç mı? Bu iki soru bireycilik ile kolektivizm arasındaki karşıtlığı tanımlar.
 
-Bireycilik ve kolektivizm, birey ve toplum arasındaki ilişkiye dair temelde birbirine zıt iki vizyonu temsil etmektedir.
+### Mises'e göre bireycilik
 
+Avusturyalı iktisatçı Ludwig von Mises bu meseleye belirleyici bir açıklık kazandırdı. Şöyle yazdı: *Yalnızca birey düşünür, yalnızca o akıl yürütür, yalnızca o eylemde bulunur.*
 
-Avusturyalı ekonomist Ludwig von Mises şöyle derdi: Sadece birey düşünür, sadece o akıl yürütür, sadece o harekete geçer.
+Bu, doğru anlaşıldığında bireyciliğin, \"toplum\" ya da \"ulus\" gibi toplumsal varlıkların onları oluşturan bireylerden bağımsız olarak var olabileceği fikrine karşı çıktığı anlamına gelir. **Bir kolektivitenin, bireysel üyelerinin eylemlerinin ötesinde kendine ait bir varlığı yoktur.** Devletin, bir ülkenin, bir şirketin ya da bir sendikanın eyleminden anlamlı biçimde söz edemeyiz. Neden? Basitçe çünkü bu varlıkların kendilerine ait bir iradesi ya da düşüncesi yoktur. Yalnızca bireylerin aracılığıyla eylemde bulunurlar.
 
+Bir dili düşünün: Fransızca, İngilizce, Almanca. Her biri yalnızca onu konuşanlar aracılığıyla var olur. Kimse konuşmazsa, var olmaktan çıkar. Aynı ilke tüm toplumsal bedenler için geçerlidir.
 
+### Ahlaki boyut
 
-Sonuç olarak, bir kolektifin, üyeleri olan bireylerin eylemleri dışında hiçbir varlığı ya da gerçekliği yoktur. Toplumun ne iradesi ne de düşüncesi vardır. Tüm kolektif eylemler bireysel bileşenleri açısından açıklanmalıdır. "Bir devletin, bir ülkenin, bir şirketin, bir sendikanın eyleminden" söz edemeyiz: eylemde bulunanlar her zaman bireylerdir.
+Bu metodolojik bakış açısı ahlaki ve siyasi alana taşınabilir. **Tek ahlaki fail bireydir.** İyi ya da kötü, adil ya da adaletsiz olarak nitelendirilebilen bireydir. Kendinde adil ya da adaletsiz bir toplum yoktur; bireyler arasındaki ilişkiler incelenmelidir. Ahlaki yargıda bulunmak için kolektivitelere değil, eylemde bulunan bireylere başvurmak gerekir.
 
+Mises'in vurguladığı bir başka nokta: birey izole bir atom değildir. Bireycilik kendi kendine yeterlilikle ya da insan düşmanlığıyla karıştırılmamalıdır. İnsan sosyal bir varlıktır. Bireycilik işbirliğini ve birlikteliği teşvik eder, **katılımcıların özgür rızasına dayanmaları koşuluyla**. İnsan, tam potansiyelini ancak başkalarıyla ilişki içinde, bu işbirliği gönüllü olmak koşuluyla geliştirebilir.
 
+### Kant ve ahlaki özerklik
 
-Dolayısıyla herhangi bir toplumsal yapı ancak eylemlerinde onun bir parçası olduğunu iddia edenlerin aracılığı ile var olur. Eğer hiç kimse sahiplenmeseydi, varlığı sona ererdi. Aynı şekilde, bir dil de ancak onu konuşan bireyler aracılığıyla var olur. Eğer konuşmayı bırakırlarsa, varoluşu da sona erer.
+![Kant ve Aydınlanma'nın ahlaki özerklik ilkesi](./assets/en/112.webp)
 
+Bu bireyciliğin Hristiyanlığa, Yunan ve Roma felsefesine kadar izlenebilen derin kökleri vardır. Fakat Aydınlanma filozofu Immanuel Kant'ı analım. Onun için bireycilik, bireylerin kendileri için yargıda bulunma, kendi hedeflerini seçme ve buna uygun hareket etme kapasitesini ve hakkını savunur.
 
+Bu, her varlığın kendi kişisinin ve meşru olarak edindiği malların efendisi ve sahibi olarak kalma, **kendi amaçlarını ve değerlerini tanımlayabilecek konumda olma** devredilemez hakkıdır. Bu, insanın kendinde bir amaç olduğu, sıradan bir araç olmadığı tezine götürür. Bir kalem yalnızca bir araçtır; artık gerekmediğinde atılır. Yalnızca akılla donatılmış bir varlık kendinde bir amaçtır.
 
-Etik ve hukuki açıdan bakıldığında, birey tek ahlaki faildir. İyi ve kötüyü tanımlamak için başka bir referans yoktur. Doğru ve yanlış, hak ve ödev kavramları yalnızca tekil bireyler için anlamlıdır; topluluklar, ülkeler ve hatta hayvanlar için değil.
+Bu hem antropolojik bir ilke (insanın özerklik ve kendi kendini yönetme kapasitesine dayalı) hem de ahlaki bir ilkedir. Kant'ın ünlü formülü *Sapere aude* (\"Kendi başına düşünmeye cesaret et\"), şair Horatius'tan alınmış ve 1784 tarihli *What is Enlightenment?* denemesinde Aydınlanma'nın mottosu yapılmıştır. Bu, reşit olmama hâlinden çıkışı simgeler: insanların üstün bir sınıfın ya da otoritenin yönlendirmesi olmadan kendi anlama yetilerini kullanmaktan aciz olduğu bir durum.
 
+Kant insanları kendilerini özgürleştirmeye, kendi başlarına düşünmeye, düşüncelerinin tüm sorumluluğunu üstlenmeye teşvik eder. Kant'a göre bu özerkliğin önündeki engellerden biri tembellik ve korkaklıktır: **hazır düşünceye sığınma ayartısı**, kolektivizme de götüren şey budur.
 
+Kurumlar için sonuç açıktır: bireylerin gelişmesine, korunmasına ve tam potansiyellerini gerçekleştirmesine hizmet etmek için vardırlar. Toplum bir araçtır, amaç değil.
 
-Bu iyi anlaşılmış bireyciliğin altında yatan temel antropolojik ilke, 18. yüzyılda Immanuel Kant tarafından açıkça ortaya konmuştur: *Kendin için düşünmeye cesaret et*.
+### Kolektivist felsefe
 
+Kolektivizm kısmen, pek çok kişiye çekici gelen bir tür kolaylık, koruma, güvenlik sunduğu için ortaya çıkar. Her kişinin özerkliğini onaylayan bireycilik korkutucu görünebilir. Herkes varoluşunun tüm sorumluluğunu üstlenmeye hazır mıdır? Her zaman değil; **bir yaşam tarzı dayatan bir otoriteye dayanmak bazen daha basittir**.
 
+Kolektivist anlayışta bireylerin özel çıkarları, genel çıkarı ya da ortak iyiyi temsil ettiği varsayılan üstün bir varlık adına alınan kararlara sistematik olarak tabi kılınmalıdır. Bu varlık devlet, ulus, kilise olabilir; fakat bugün sosyal demokrasiyle birlikte her şeyden önce demokratik çoğunluktur. Çoğunluk kuralı doğruyu ve yanlışı, hakikati ve yanlışı belirler.
 
-Aslen Horace'ın çağımızdan yirmi yıl önce yayınlanmış bir mektubundan alınan bu öğüt, Immanuel Kant tarafından 1784 yılında yayınlanan *Aydınlanma Nedir? Kant'a göre bu cümle Aydınlanmanın sloganıdır ve insanın tembellik ve korkaklık nedeniyle kendisinin sorumlu olduğu, başkalarının rehberliği olmadan anlayışını kullanamama durumu olan azınlıktan çıkışını sembolize eder.
+Kolektivite öncelik hâline gelir. Kolektif hedefler bireysel hedefleri aşar ve kurumlar kişilerin pahasına bile topluma hizmet eder.
 
+### Marx ve tarihsel materyalizm
 
+![Marx ve toplumsal varoluşun bireysel bilinç üzerindeki önceliği](./assets/en/113.webp)
 
-İnsanoğlu ne sadece bir hayvan ne de köledir. Kendine aittir ve özgür bir iradeye, akıl tarafından bilgilendirilmiş bir seçim kapasitesine sahiptir. Kısacası, insan başkaları için bir araç değil, kendi içinde bir amaçtır. Ona ahlaki saygınlığını veren de budur.
+Kolektivizmin büyük düşünürlerinden biri Karl Marx'tır; kolektifin bireye üstünlüğünü tarihsel materyalizm adını verdiği şeyle gerekçelendirmiştir:
 
+> İnsanların bilinci varoluşlarını belirlemez; tersine, toplumsal varoluşları bilinçlerini belirler.
 
+Bilinç birincil değil, ikincildir; toplumsal varoluş tarafından belirlenir: ekonomik ve toplumsal ilişkilerin durumu, sınıflar arasındaki karşıtlık. **Birey bu gerçekliğin dışında hiçbir şeydir.** Kendi toplumsal sınıfı aracılığıyla düşünür, yaşar, davranır ve sınıfının dikte ettiği gibi, fakat bilinçsizce eylemde bulunur. Bundan dolayı Marksist zorunluluk, sınıfının çıkarlarının bilincine vararak onları gerçekleştirmektir.
 
-Ancak insanları bu şekilde güçlendiren bireycilik, yine de pek çok kişiye korkutucu bir deneyim gibi görünebilir. Kendi hayatlarımızın sorumluluğunu almaya hazır mıyız?
+### Kolektivizmin çoklu yüzleri
 
+Mises'in gözlemlediği gibi: *Tek tip bir kolektivist ideoloji yoktur, birçok kolektivist doktrin vardır. Her biri farklı bir kolektif varlığı yüceltir.*
 
+Kolektivizmleri iki gruba ayırabiliriz. Nasyonal Sosyalizm ve Mussolini'nin Faşizmi gibi sağ kanat kolektivizmleri, ulusu ve ırkı bireyden üstün varlıklar olarak yüceltir. Sol kanat kolektivizmleri, komünizm ve sosyalizm, işçi sınıfına ve toplumsal eşitliğe öncelik verir; toplumsal sınıfı bireyi tanımlayan en yüksek varlık olarak ele alır.
 
-Kolektivizm, ister ekonomik ister siyasi olsun, bireye belirli bir yaşam biçimi ve ekonomik koşul dayatmak için bireyin dışında bir otoriteye -devlet ya da çoğunluk- dayanan bir felsefedir. Kararlar bu üstün varlık adına alınır. Dolayısıyla bireylerin özel çıkarları bu otoriteye tabi olmalıdır.
+Yelpaze sosyal demokrasiden Nasyonal Sosyalizme kadar uzanır, fakat **bu doktrinler bireysel özgürlüğe ortak bir düşmanlıkta ve şiddetin gerekçelendirilmesinde yakınsar.**
 
+### Popper'ın açık ve kapalı toplumları
 
+![Karl Popper'ın açık ve kapalı toplumlar arasındaki ayrımı](./assets/en/114.webp)
 
-Dolayısıyla kolektivizm, ister ulusal, ister kültürel veya dini olsun, kolektiviteyi ön plana çıkarır ve bireyleri bu yüce varlığın güçlendirilmesi ve sürekliliğinin sağlanması için bir araç olarak görür. Ulus, devlet ya da kilise olsun, kolektivitenin amaçları bireyin amaçlarından üstündür. Bu bakış açısına göre, kurumların birincil işlevi, bireylerin zararına olsa bile topluma hizmet etmektir.
+Önce Yeni Zelanda'ya, sonra Britanya'ya göç eden Avusturya doğumlu filozof Karl Popper, *The Open Society and Its Enemies* eserinde bu karşıtlıkları özel bir açıklıkla analiz etti:
 
+> Kapalı topluma büyülü ya da kabile toplumu, açık topluma ise bireylerin kişisel kararlarla karşı karşıya kaldığı toplum diyorum.
 
+İki toplum modeli, birbirine bütünüyle zıt iki toplumsal örgütlenme ilkesi. Kapalı toplum kolektivisttir, kabile zihniyetine dayanır: eleştirel özgürlüğün, dış mübadelenin ve ilerlemenin reddi ve statik bir düzenin idealize edilmesi. **Açık toplum bireyin kendi başına yargıda bulunma hakkını tanır**, değerlerin, inançların ve ilişkilerin özgür seçimine öncelik verir.
 
-Karl Max'a göre: "insanların varlığını belirleyen bilinçleri değildir; tam tersine, bilinçlerini belirleyen toplumsal varlıklarıdır". Marx böylece bireyin toplumsal gerçekliğe derinden bağlı olduğunu ve bilincinin bu gerçeklik tarafından belirlendiğini vurgulamıştır. Başka bir deyişle, birey ancak toplumun bir üyesi olduğu ölçüde gerçektir ve bireysel varlığı ancak ortak yarar için verilen sınıf mücadelesi bağlamında anlam kazanır.
+### Modern kapalı toplum olarak totalitarizm
 
+![Kapalı toplumun radikal modern biçimi olarak totalitarizm](./assets/en/115.webp)
 
+Totalitarizm kapalı toplumun modern ifadesidir. En radikal biçimi temsil eder; sistematik sansüre, devlet propagandasına, lider kültüne ve denetim ile gözetim mekanizmalarına yol açan dogmatik ideolojiye dayanır. Birey böyle bir varlık olarak var olmaz; **bireyin köklerini**, hafızasını ve inançlarını kaybettiği, topluluk tarafından tamamen soğurulduğu ve bu nedenle kolayca manipüle edildiği bir insanlıktan çıkarma biçimi vardır.
 
-Mises'e göre: *Tek tip bir kolektivist ideoloji yoktur, ancak birçok kolektivist doktrin vardır. Her biri farklı bir kolektif varlığı yüceltir ve tüm iyi insanların ona boyun eğmesini talep eder. Her mezhep kendi putuna tapar ve rakip putlara karşı hoşgörüsüzdür* (Teori ve Tarih).
+### Açık toplumun kırılganlığı
 
+![Açık toplumun içsel kırılganlığı](./assets/en/116.webp)
 
+Popper büyük bir isabetle **açık toplumun içsel olarak kırılgan kaldığını** vurgular. Eleştirel düşünceyi, bireysel özgürlüğü ve sorumluluğu destekleyen bu toplum, otoriteye duyulan büyülenme yoluyla kolayca kolektivizme kayabilir.
 
-Mises'e göre sağcı ve solcu kolektivizmler vardır. Nasyonal Sosyalizm, Mussolini'nin Faşizmi ile birlikte sağ kanat kolektivizmlerdir. Komünizm ve sosyalizm ise sol kanat kolektivizmlerdir. Ona göre Hitler'in Nazizmi ile Stalin'in komünizmi arasında büyük bir fark yoktur. Motivasyonlar farklı olsa bile, her iki durumda da bireysel özgürlüğe karşı bir nefret ve şiddetin meşrulaştırılması söz konusudur.
+Neden? Belki güvenlik eksikliğinden. Bireyciliğin ima ettiği sorumluluk korkutucu ve riskli görünebilir. Kişinin kendi seçimlerini yapması gerekir ve başarısız olabilir. Topluluk korumasına ya da idealize edilmiş bir geçmişe yönelik nostaljik eğilimlere sığınma ayartısı doğar. Açık toplum, bugün hâlâ onu tehdit eden meydan okumalarla, özellikle de zamanımızda geliştiğini gördüğümüz komünitaryen dürtülerle ve tekrar eden şiddet ayartısıyla karşı karşıyadır.
 
 
-
-Bu ayrıma dayanarak, siyasi aileler aşağıdaki gibi analiz edilebilir:
-
-
-*Ġki karĢıt toplum anlayıĢı her zaman uzlaĢmaz olarak kalacaktır: Ġnsanın akıl ve özgürlük sahibi bir varlık olduğu, diğer insanlarla iliĢkilerini düzenleyebildiği bireyci anlayıĢ ve **toplumun** onu oluĢturan insanlardan, onların arzularından ve iradelerinden bağımsız olarak var olduğu kolektivist anlayıĢ. Kolektivist anlayıĢ, en korkunç somutlaĢmalarından bazılarını Marksist totalitarizmde görmüĢtür, ancak görünenin aksine, sosyal demokrasinin bağlı olduğu anlayıĢ da budur.* Pascal Salin, Libéralisme.
-
-
-
-Benzer bir şekilde, filozof Karl Popper 1945 tarihli Açık Toplum ve Düşmanları adlı kitabında şöyle yazmıştır: *Ben kapalı topluma büyülü ya da kabile toplumu, bireylerin kişisel kararlarla karşı karşıya olduğu topluma ise açık toplum diyorum* (Tome I, s.199).
-
-
-Karl Popper'a göre, açık toplum ve kapalı toplum, aralarında sentez imkanı bulunmayan, toplumsal örgütlenmenin radikal biçimde farklı ilkelerini tanımlayan temel kavramlardır:
-
-
-
-
-  - Kapalı toplum, bireylerin eleştirel özgürlüğünü, dış dünya ile alışverişi ve bunun sonucunda ortaya çıkan ilerleme ve çeşitliliği ilkesel olarak reddeden bir toplumdur. Değişimden korkan, eleştiriyi ve bireysel sorumluluğu reddeden ve statik, uyumlu, genellikle kabile düzenini idealize eden kolektif bir zihniyete dayanan bir toplum modelidir.
-  - Açık toplum, insanın eleştirel yargıda bulunma ve bireysel sorumluluk alma yeteneğiyle karakterize edilir. Bununla birlikte, sorumluluğun önceliğine, soyut doğru davranış kuralları çerçevesinde değerlerin, inançların, alışverişlerin ve ilişkilerin özgürce seçilmesine dayanan yeni bir sosyal örgütlenme ilkesi ortaya çıkmaktadır.
-
-
-
-Totalitarizm, bu kapalı toplumun radikal, modern bir şekilde uygulandığında aldığı siyasi biçimdir; kesinlik ideolojisine dayanır ve bireysel özgürlüklerin ve eleştirel düşüncenin zararına olacak şekilde zorla istikrarı dayatmak için devlet kontrol mekanizmalarını (sansür, propaganda, lider kültü) kullanır. Takıntısı, hiyerarşik düzenini sürdürmek ve değişmeyen geleneklerine ve kolektif inançlarına boyun eğmektir. Bu toplumlarda sosyal kontrol, sürekli ve yakın karşılıklı gözetim biçimini alırken, birey bu şekilde var olmaz, ancak topluluk tarafından egemenlik altına alınır ve kuşatılır.
-
-
-İki toplum modeli arasındaki temel fark, bilgi, değişim ve siyasi örgütlenme konusundaki tutumlarında yatmaktadır:
-
-
-
-
-
-- Açık toplum dinamiktir, eleştireldir ve bireysel özgürlük ile normlarda reform yapma olasılığına odaklanır.
-- Kapalı toplum statik, dogmatik ve totaliterdir, kontrol yoluyla istikrar ve geçmişe, idealize edilmiş bir düzene dönüş arayışındadır.
-
-
-
-Bu karşıtlık, bireysel özgürlük ve eleştirel akla dayalı bir model ile organik birlik, irrasyonellik ve kolektif teslimiyet üzerine kurulu bir başka model arasındaki temel uyumsuzluğu vurgulamaktadır.
-
-
-
-Ancak açık toplum kırılgandır, her zaman tamamlanmamıştır ve sürekli sorgulanmaktadır. Nostaljik eğilimler, kabile topluluğunun üyeleri için içerdiği güvenlik duygusunun kaybı ve muhtemelen şiddet yoluyla orijinal cemaatçi düzeni geri getirme arzusu ile karşı karşıyadır.
-
-
-
-
-# Bitcoin kullanıcıları arasındaki siyasi eğilim
-
+# Bitcoinciler arasındaki siyasi eğilim
 
 <partId>c0de3201-5c74-4854-b872-15a27165d228</partId>
 
 
-
-## Bitcoin kullanıcıları arasındaki siyasi eğilim
-
+## Bitcoinciler arasındaki siyasi eğilim
 
 <chapterId>89b42c72-bd73-465d-b420-e35d7c5de07c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=ml33z_RYTEk)
 
+![Siyasi bir proje olarak Bitcoin](./assets/en/117.webp)
 
+Kursun bu son bölümünde Bitcoin'e dönüyoruz. Doğası nedir? Siyasi bir proje midir? Sağcı mı, solcu mu, yoksa tamamen başka bir şey mi? Ve onu kullananların siyasi eğilimi nedir? Şimdi ele almamız gereken sorular bunlardır.
 
-Bu kursun sonunda, Bitcoin ve bitcoincilerin siyasi konumlanışına değinmenin gerekli olduğunu düşünüyoruz.
+### Bitcoin siyasi bir proje midir?
 
+Bitcoin, Satoshi Nakamoto tarafından 2008'de yaratılmış merkezsiz bir [kripto paradır](https://planb.academy/resources/glossary/cryptocurrency); herhangi bir aracıya güven gerektirmeden [eşten eşe](https://planb.academy/resources/glossary/peertopeer-p2p) finansal işlemlere imkân verir.
 
+Bir [açık kaynak](https://planb.academy/resources/glossary/foss) yazılım protokolü tarafından yönetilir. CEO yoktur, merkez ofis yoktur, pazarlama planı yoktur, belirlenmiş otorite yoktur. **Bitcoin'in arkasında hiçbir şirket durmaz ve hiçbir siyasi varlık ya da hükümet onu kontrol etmez.**
 
-### Bitcoin siyasi bir proje mi?
+#### Görünürde tarafsız bir teknoloji
 
+![Bitcoin'in merkezsiz doğası: CEO yok, açık kaynak, eşten eşe](./assets/en/118.webp)
 
+Bu merkezsiz doğa, Bitcoin'in yalnızca yirminci yüzyıldaki İnternet ya da on dördüncü yüzyıldaki matbaa ile karşılaştırılabilir, tarafsız ve apolitik bir teknolojik yenilik olduğu izlenimini yaratabilir. Yine de hem İnternet'in hem de matbaanın, teknolojik yenilikler olmalarına rağmen **derin toplumsal, ekonomik ve siyasi sonuçları** olduğunu zaten biliyoruz.
 
-Bitcoin, 2008 yılında Satoshi Nakamoto tarafından yaratılan ve güvenilmeyen, [eşler arası](https://planb.academy/resources/glossary/peertopeer-p2p) finansal işlemlere olanak sağlayan merkezi olmayan bir kripto para birimidir.
+Aynısı Bitcoin için de geçerlidir ve Satoshi Nakamoto niyetini açık kılmak için bize mesajlar bırakmıştır.
 
+#### İtibari para sistemindeki kusur
 
-Bitcoin, CEO'su, merkez ofisi, pazarlama bütçesi ve belirlenmiş bir otoritesi olmayan [açık kaynaklı](https://planb.academy/resources/glossary/foss) bir yazılım protokolü tarafından kontrol edilmektedir. Bu da hiçbir siyasi oluşum ya da hükümetin Bitcoin üzerinde kontrolü olmadığı anlamına gelmektedir.
+> Geleneksel para birimleriyle ilgili temel sorun, çalışmaları için onlara duyulması gereken güvendir. Merkez bankasının para biriminin değerini düşürmeyeceğine güvenmeniz gerekir, fakat itibari para birimlerinin tarihi bu güvenin ihlalleriyle doludur.
 
+Satoshi Nakamoto'dan bu alıntı, Bitcoin'in arkasındaki felsefeyi anlamak için esastır. İtibari para birimleri, bir emtia tarafından, gerçek ve fiziksel bir şey tarafından desteklenmeyen para birimleridir. Tamamen onları dayatan kurumun otoritesine ve dolayısıyla güvene dayanan kâğıt paradır. **Bir kurum para üzerinde tam kontrole sahip olduğunda, kötüye kullanma ayartısı çok güçlüdür.** Tarih bunu defalarca göstermiştir.
 
+#### Genesis block mesajı
 
-Bu tarafsızlık bazıları için endişe vericidir ve bunun 20. yüzyıldaki internet veya 14. yüzyıldaki matbaa gibi apolitik bir teknoloji olduğuna inanılmasına yol açabilir.
+**Bitcoin doğrudan 2008 finansal krizine** ve onu izleyen parasal müdahaleciliğe tepki olarak doğdu. Satoshi Nakamoto, çıkarılan ilk bloğa London Times'tan sembolik bir manşet yerleştirdi:
 
+> The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout.
 
+![Genesis Block Başlığı](./assets/en/119.webp)
 
-Bitcoin'ün kendisi ne sağcı ne solcu ne de herhangi bir dine ait olsa da, yine de bir sorunu çözmek için icat edilmiştir - finansal borsalara ve merkezi varlıklara olan güven sorunu. Bu da başlı başına siyasi bir sorundur.
+Niyet açıktır: merkezi bankacılık sistemlerine bir alternatif sunmak.
 
+#### Parasal müdahaleciliğin yıkıcı sonuçları
 
+![Parasal enflasyonun ve itibari para krizlerinin yıkıcı sonuçları](./assets/en/120.webp)
 
-![Bitcoin Whitepaper Abstract](./assets/fr/020.webp)
+Finans dünyasını her kriz sarstığında ya da Covid-19 pandemisi gibi küresel bir olay vurduğunda, bankaları, işletmeleri ya da bireyleri kurtarmak için milyarlarca, milyarlarca dolar ve euro yaratılır. Bu kurtarma planlarının yıkıcı sonuçları vardır.
 
+Sisteme para enjeksiyonu (parasal enflasyon), para biriminin değer kaybına dönüşür. Aynı miktar parayla giderek daha az şey satın alınabilir; çünkü bu taze para gerçek ekonomik büyümeyi yansıtmaz. **Bu enflasyon, vatandaşların rızası olmadan dayatılan gizli bir vergidir.** Çoğu insan fiyatların yükselmesine yol açanın hükümet politikası olduğunu görmez; fiyat artışı yalnızca para biriminin değer kaybının yansımasıdır. Bu yasal hırsızlığa, kurumsallaşmış yağmaya varır.
 
+Sonuçlar mantıksal olarak birbirini izler: orta sınıfın yoksullaşması (zenginler ise sisteme bankalar aracılığıyla giren yeni parayı yakalayıp spekülatif varlıklara yerleştirebilir), gelecek korkusu, toplumsal ve siyasi gerilimler, güvensizlik ve daha genel olarak geleneksel kurumlara güven kaybı. Bu para seli ayrıca siyasi ve finansal yolsuzluğu, devlet ile büyük şirketler arasındaki ahbap-çavuş ilişkilerini ve büyüyen bürokrasiyi besleyebilir.
 
-Satoshi Nakamoto [White Paper](https://planb.academy/resources/glossary/white-paper)'ı okuduğumuzda, Bitcoin'in iki büyük çağdaş tehdide karşı yenilikçi bir koruma sunmak üzere tasarlandığını görebiliriz: yaygın gözetim ve yapay para yaratımının hızlandırılması.
+![Bitcoin Whitepaper Özeti](./assets/en/121.webp)
 
+### Toplumsal dönüşüm projesi olarak Bitcoin
 
+![Hükümet gücünü sınırlama ve bireyleri özgürleştirme aracı olarak Bitcoin](./assets/en/122.webp)
 
-1. Tamamen anonim olmasa da, Bitcoin bireylerin finansal gözetimini sınırlandırarak mahremiyeti önemli ölçüde artırır. Bu özellik, örneğin bir diktatörlükteki bir muhalifin, el koyma ya da sansür korkusu olmadan çevrimiçi değer tutmasına ve takas etmesine olanak tanır. Bu, demokrasilerde yaşayan vatandaşlar için uzun bir yol gibi görünse de, bireysel özgürlükler için ileriye doğru atılmış çok önemli bir adımdır.
+**Bitcoin bu nedenle basit bir finansal ya da teknolojik yeniliğin çok ötesine geçer.** Üç amaçla tasarlanmıştır:
 
+1. **Hükümetlerin para üzerindeki gücünü sınırlamak**, kurumların parayı kamu harcamaları, savaşlar ve ideolojik denetim gibi siyasi amaçlar için kullanmasını engellemek.
+2. **Bireyi özgürleştirmek**, kişinin malvarlığı ve hayatı üzerindeki kontrolü geri vermek. Bir hükümet banka hesabınızdaki euroları, evinizi, hisselerinizi, altınınızı alabilir. Fakat bitcoinlerinizi alamaz; çünkü Bitcoin merkezsiz doğası sayesinde gözetimden ve kontrolden kaçar. Onu güvenilir bir üçüncü tarafa bağlı olmadan kendiniz tutarsınız.
+3. **[Enflasyona](https://planb.academy/resources/glossary/inflation) karşı korumak.** Bitcoin deflasyonist bir para birimidir; arzı 21 milyon birimle sınırlıdır ve hiçbir kurum, banka ya da hükümet daha fazlasını yaratamaz. Değeri hem faydasından hem kıtlığından gelir.
 
+#### Bireysel egemenlik olarak Bitcoin
 
-2. Bitcoin, herkesin tasarruflarını parasal enflasyonda somutlaşan özel mülkiyetin yok edilmesine karşı korumasını sağlar. Bu, devletin bir değişim aracı olarak paranın yönetimi üzerindeki kontrolüne meydan okuma ve dolayısıyla devletle rekabet etme girişimidir. 2008 mali krizi ve Covid 19 salgını mevcut sistemdeki kusurların altını çizmiştir. Ekonominin daha fazla çökmesini önlemek için havadan basılan trilyonlarca doların yıkıcı etkileri oldu ve bunun bedelini hala ödüyoruz.
+![Bitcoin bireysel egemenliği](./assets/en/123.webp)
 
+Geleneksel finansta kişi kendi varlıklarına gerçekten sahip olamaz. Elimizde tuttuklarımız her zaman finansal aracılar üzerindeki alacaklardır. **Tamamen bankacılık kurumlarına bağımlıyız.** Bitcoin ile varlıklarımız üzerinde doğrudan ve egemen mülkiyete sahibiz. Bu, basitçe kendi bankacınız olmak, bitcoinlerinize erişim sağlayan özel anahtarları tutmak eylemidir. Kendi anahtarlarımızı tutarsak kimse onları müsadere edemez; çünkü onlar zihnimizde bulunur.
 
+#### Refah devletine bir tehdit
 
-![Bitcoin Counterflow Abstract](./assets/fr/021.webp)
+![Refah devletinin mali ve parasal tekeline bir meydan okuma olarak Bitcoin](./assets/en/124.webp)
 
+Bitcoin aynı zamanda refah devletine de bir meydan okumadır: ekonomik ve sosyal hak taleplerini karşılamak için gelirlerinin ötesinde harcama yapan bir devlet (sosyal güvenlik, işsizlik yardımları, emekli aylıkları). Bitcoin, bu sistemin dayandığı üç sütunu sorgular:
 
+1. **Mali sistem**, tüm harcamaları karşılamaya yetmez.
+2. **Parasal tekel**, borç yoluyla harcamaları finanse etmek için para çıkarma kapasitesi.
+3. **İşlemlerin gözetimi**, insanların devlet tarafından dayatılan itibari paradan başka herhangi bir para birimini kullanmasını engelleme yeteneği.
 
-Yani Bitcoin bir finansal teknolojiden çok daha fazlası, dünyayı değiştirmeye, iyileştirmeye yönelik bir proje. Bireyler ve kurumlar arasındaki güç ilişkilerini yeniden tanımlamaya yönelik iddialı bir siyasi projedir:
+Mağara alegorisini parasal çağımıza uyarlayarak düşünün. Mağaranın derinliklerinde mahkûmlar duvardaki gölgeleri izler ve euroyu görür; onu mümkün tek para birimi sanır, onu çıkaran otoriteye güvenirler. Sonra bazı mahkûmlar açık havaya kaçar ve Bitcoin'i keşfeder. **Bitcoin bir çıkış yoludur, parasal yanılsamalar mağarasından özgürleşmenin bir aracıdır.**
 
+#### Muhalifler ve baskı kurbanları için koruma
 
+Bitcoin, savaş, diktatörlük ya da hiperenflasyon yaşayan ülkelerdeki muhalifler ve baskı kurbanları için de koruma işlevi görür. Bu, modern demokrasilerde yaşayan bizlere uzak görünebilir, fakat **sansüre direnç ve güçlendirilmiş mahremiyet kapasitesi bireysel özgürlükler için değerli bir ilerlemedir**.
 
-> Geleneksel para birimleriyle ilgili temel sorun, işe yaramaları için onlara duyulan güvendir. Merkez bankasının para biriminin değerini düşürmeyeceğine güvenmek zorundasınız, ancak itibari para birimlerinin tarihi bu güvenin ihlal edilmesiyle doludur.
+### Siyasi sonuçları olan ahlaki bir proje
 
-Satoshi Nakamoto'dan yapılan bu alıntı, Bitcoin'nin arkasındaki felsefeyi anlamak için temeldir. Satoshi, merkezi kurumlara güvene dayalı Fiat sistemindeki kusurları vurgulamakta ve Bitcoin'yi güvensiz bir alternatif olarak önermektedir.
+![Ahlaki bir proje olarak Bitcoin: mülkiyet, çalışma ve mahremiyet](./assets/en/125.webp)
 
+Sonuç olarak: **Bitcoin insanları zengin etmek için değil, özgür kılmak için tasarlandı.** Sağcı ya da solcu değildir. Her şeyden önce siyasi sonuçları olan ahlaki bir projedir. Bitcoin, hiçbir ideolojiye, ülkeye ya da dine bağlı olmadığı için, siyasi aidiyetten bağımsız olarak benimsenebilir.
 
+Bitcoin üç şeyi başarır. Birincisi, bireysel sorumluluğa temel bir teşvik olan etkili mülkiyeti mümkün kılar: bir şeye sahip olduğunda, insan ona özen gösterir. İkincisi, çalışmayla yaratılan değeri korur: kişi emeğinin ürünlerine sahip olduğunda çalışmaya ve elinden gelenin en iyisini yapmaya teşvik edilir. Üçüncüsü, gizliliği ve mahremiyeti korur; bu temel bir haktır, çünkü yalnızca açıklamayı seçtiği şeyi açıklayabildiğinde insan korkusuzca yaşar ve gerçek güven ilişkileri kurabilir.
 
-Dolayısıyla Satoshi Nakamoto'nun entelektüel yaklaşımının çıkış noktası, insanların itibari paraya olan aşırı güveni ve devletin krizleri çözebileceğine dair yanlış inancıdır. Nitekim Bitcoin hikayesindeki ilk mayınlı blokta Satoshi Nakamoto, London Times'ın baş sayfasındaki bir makaleden sembolik bir cümle eklemiştir:
+Herhangi bir siyasi kampı açıkça sahiplenmeden, **Bitcoin içinde sessiz bir devrimin tohumlarını taşır**; önce ahlaki, sonra siyasi olan bir devrim.
 
+Fakat Bitcoin hiçlikten ortaya çıkmadı. Matematik, fizik, bilgisayar bilimi ve felsefedeki ilerlemelere dayanır. Satoshi Nakamoto, parlak olsa da, havada zaten bulunan fikirler üzerine inşa etti. Bunların en önemlileri arasında [cypherpunk](https://planb.academy/resources/glossary/cypherpunks) hareketinin fikirleri vardı.
 
 
-> The Times 03/Jan/2009 Şansölye ikinci bir banka kurtarma paketinin eşiğinde.
-
-![Genesis Block Title](./assets/fr/022.webp)
-
-
-
-Bu başlığın oluşum bloğunda yer alması yoruma açıktır. Ancak Satoshi'in geleneksel finans kurumlarının başarısızlıkları üzerine bir yorumu ve Bitcoin'ün amacının bir ifadesi olarak görünebilir: merkezi bankacılık sistemlerine bir alternatif sunmak.
-
-
-
-Devlet tüm işlemler üzerinde sıkı bir kontrol uyguladığında (örneğin nakit parayı sınırlandırarak veya merkezi bir dijital para birimi dayatarak), bireylerin seçim özgürlüğü ve egemenliğine zarar verecek şekilde ekonomi üzerinde tam bir kontrole sahip olur. Devlet tüm işlemleri izleyerek yeni vergi kaynaklarını daha iyi tespit edebilir ve katı düzenlemeler getirebilir.
-
-
-
-Ancak Bitcoin, merkez bankalarının ya da devlet kontrolündeki diğer finansal aracıların müdahalesi olmadan çalışacak şekilde tasarlanmıştır. Merkezi olmayan, sözde anonim yapısı ve manipülasyona karşı direnci nedeniyle, para, vergilendirme ve finansal sistem üzerindeki kontrolünü azaltarak refah devletinin temellerini zayıflatabilir.
-
-
-
-Dolayısıyla Bitcoin'nin temel özelliklerinden biri kendine sahip olma becerisidir. Geleneksel finans dünyasında kendinize sahip olamazsınız. Size bir hesaba erişim sağlamaya istekli olanlar her zaman finansal aracılardır.
-
-
-
-Bitcoin, hükümetlerin para birimi üzerindeki gücünü sınırlamak için tasarlanmıştır.
-
-
-Paranın kamu harcamaları, savaşlar, ideolojik biçimlendirme ve fikirlerin kontrolü gibi siyasi amaçlar için kullanılmasını engeller.
-
-
-
-
-- Hükümet banka hesabınızdaki avroları alabilir.
-- Evinizi ve arazinizi alabilir.
-- Hisselerinizi alabilir.
-- Altınınızı alabilir.
-- Her şeyinizi elinizden alabilir.
-
-
-
-Ancak hükümet bitcoinlerinizi alamaz, çünkü zihninizin içeriğine el koyamaz.
-
-
-
-Bu nedenle Bitcoin temel bir felsefi varsayım üzerine inşa edilmiştir: özgürlük kişinin kendisine, emeğinin meyvelerine ve özel hayatına sahip olması anlamına gelir.
-
-
-
-Bu anlamda, hem ahlaki hem de siyasi bir dünya vizyonu tarafından yönlendirilir. Devletin para üzerinde tekeli varsa, ister sağcı ister solcu olsun, devletçi bir sistemdesiniz demektir. Bitcoin'un projesi herkese serbest bir para piyasası sunmaktır.
-
-
-
-Ancak Bitcoin birdenbire ortaya çıkmadı. Matematik, fizik, bilgisayar bilimi ve felsefedeki gelişmelere dayanmaktadır. Satoshi Nakamoto, zeki olmasına rağmen, diğer yenilikçilerin fikirleri üzerine inşa edilmiştir. Bunların arasında [cypherpunk](https://planb.academy/resources/glossary/cypherpunks) hareketinin öncüleri de vardır.
-
-
-
-## Cypherpunklar kim?
-
+## Cypherpunklar kimdir?
 
 <chapterId>dc18ba9a-c242-472a-a717-531a5f125737</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=IjiyWVW_5Os)
 
+![Cypherpunklar: dijital özgürlüğün öncüleri](./assets/en/126.webp)
 
+Cypherpunklar dijital çağda insan özgürlüğünü savunan bir hareketin öncüleridir. Bitcoin'in entelektüel kökleri onlar olmadan anlaşılamaz.
 
-Bu hareket 1990'ların başında, dijital çağda devlet gözetimi karşısında insan özgürlüğüne yönelik endişelerden doğmuştur.
+### 1990'ların bağlamı
 
+![1990'ların dijital devriminde cypherpunk hareketinin ortaya çıkışı](./assets/en/127.webp)
 
+1990'ların başında bağlam ayırt ediciydi. İşletmeler ve hükümetler bilgi teknolojileri ve ortaya çıkan İnternet üzerinde giderek artan kontrol uygulamaya başlıyordu. Bu dönem, bu teknolojilerin hızlı gelişimine, fakat aynı zamanda kitlesel gözetim ve vatandaşların mahremiyetinin sistematik ihlali konusunda büyüyen bir kaygıya işaret etti.
 
-Bilgi ve iletişim teknolojilerinin hızla geliştiği, ancak hükümetlerin ve şirketlerin de bu teknolojiler üzerinde daha fazla kontrol sahibi olmaya başladığı bir bağlamda ortaya çıkıyorlar. Özgürlükçü ve anarşist düşünürlerle kesişen bir harekettir. Kitlesel gözetim ve mahremiyetin ihlali ile ilgili endişeler tarafından motive edilmektedir.
+Bu kaygı karşısında liberteryen ve anarşist düşünürler harekete geçmek için bir araya geldi. Vizyonları açıktı: **dijital kriptografik araçlar yoluyla anonimliği ve finansal özgürlüğü herkes için erişilebilir kılmak**, böylece hükümet kontrolünden kaçmak. Vatandaşların günlük çevrim içi faaliyetlerinde mahremiyetlerini ve özerkliklerini korumalarına imkân verecek teknolojiler geliştirmeye koyuldular.
 
+#### Mailing list ve manifesto
 
+![Cypherpunk vizyonu: anonimlik, özgürlük ve kriptografik direniş](./assets/en/128.webp)
 
-Buradaki fikir, dijital [kriptografik](https://planb.academy/resources/glossary/cryptography) araçlar sayesinde anonimliği ve finansal özgürlüğü herkes için erişilebilir kılmaktı. Bu şekilde, hükümet yetkililerinin çevrimiçi faaliyetler üzerinde hiçbir kontrolü olmayacaktı.
+1992'de Tim May ve Eric Hughes ilk Cypherpunk mailing list'i başlattı. Bu platform kısa sürede hareketin sinir merkezi hâline geldi; geliştiricileri, kriptografları ve dijital özgürlük savunucularını bir araya getirdi. Satoshi Nakamoto'nun 2008'de Bitcoin [Teknik dökümanını](https://planb.academy/resources/glossary/white-paper) ilk kez paylaşacağı liste de aynı listeydi.
 
+Mart 1993'te Eric Hughes, görece kısa ama kurucu bir metin olan *A Cypherpunk's Manifesto*'yu yayımladı:
 
-
-Satoshi'in üyesi olduğu ve Cypherpunk teknik incelemesini ilk kez paylaştığı ilk Bitcoin posta listesi, 1992 yılında Tim May ve Eric Hughes tarafından başlatıldı. Amaçları, gizliliği korumak için yeni yazılımların oluşturulmasını desteklemekti.
-
-
-
-Eric Hughes tarafından 1993 yılında yazılan Cypherpunk Manifestosu felsefelerini özetlemektedir:
-
-
-
-> Mahremiyet, elektronik çağda açık bir toplum için elzemdir (...) Hükümetlerin, şirketlerin veya diğer büyük anonim kuruluşların mahremiyetimizi garanti etmesini bekleyemeyiz (...) Cypherpunks için ana hedefim, insanların mahremiyetlerini başkalarının sağlamasına güvenmek yerine savunmalarını sağlamaktır.
+> Mahremiyet elektronik çağda açık bir toplum için esastır. Hükümetlerden, şirketlerden ya da diğer büyük kuruluşlardan mahremiyetimizi garanti etmelerini bekleyemeyiz.
 >
 
+> Eric Hughes, A Cypherpunk's Manifesto, 23 Mart 1993.
 
-> Eric Hughes - Cypherpunk Posta Listesi, 23 Mart 1993.
+![Cypherpunk kurucuları ve 1993 manifestosu](./assets/en/129.webp)
 
-Ve ekliyor:
+Temel motivasyon açıktır: **gizlilik özgürlüğün kilit bir unsurudur ve bireyler tarafından bizzat inşa edilmelidir**; şirketlerden ya da hükümetlerden bir armağan olarak beklenmemelidir.
 
+#### Felsefe: kurumlar yerine [kriptografi](https://planb.academy/resources/glossary/cryptography)
 
+Cypherpunklar güvenlerini bankalar ya da hükümetler gibi merkezi kurumlara değil, merkezsiz kriptografik sistemlere yerleştirir. Bu, Satoshi Nakamoto'nun Bitcoin tasarımında doğrudan yeniden beliren bir ilkedir.
 
-> açık bir toplumda gizlilik, anonim işlem sistemleri gerektirir. Şimdiye kadar nakit para bu türden ana sistem olmuştur.
+Siyasi olarak, kararların kolektif biçimde alındığı ve tek bir varlığın iradesini dayatamadığı merkezsiz ağlar kurmaya çalışırlar. **Tüm merkezileşme, rızadan ziyade zorlamaya dayalı olarak algılanır.** Bu, rızanın adaletin temel normu olduğu liberteryen felsefeyi yankılar. Merkezi bir otorite tarafından güç yoluyla dayatılan hiçbir şey adil olamaz.
 
-Bu nedenle kriptografi her türlü devlet ve şirket kontrolüne karşı bir direniş aracı olarak kullanılacaktır. Bir işlemin her bir tarafının yalnızca o işlem için kesinlikle gerekli olanı bilmesini sağlar.
+Manifesto ayrıca açık toplumda gizliliğin anonim işlem sistemleri gerektirdiğini belirtir. Şimdiye kadar nakit bu türün birincil sistemi olmuştur. Fakat nakdin ortadan kaybolduğu dijital bir toplumda, **aynı anonimlik özelliklerine sahip bir dijital para birimi icat edilmelidir.** Ve Bitcoin ile gelecek olan tam da buydu.
 
+#### \"Cypherpunks write code\"
 
+Cypherpunklar umutlarla yetinmezler. Özgürlük ve özerklik alanları yaratmak için aktif olarak müdahale ederler. Manifestoyu sonlandıran formül buradan gelir:
 
-Cypherpunks, kriptografinin özgürlük ve bireysel özerklik alanları yaratma gücüne inanır ve insanların güvenli ve anonim bir şekilde iletişim kurmasını ve etkileşimde bulunmasını sağlar.
+> Cypherpunks write code.
 
+Eric Hughes için özgürlüğe giden yol, keyfi siyasi bölünmeleri ilgisiz kılan anonim sistemlerin aktif inşasından geçer. **Kod, soyut bir özgürlük fikrini gerçekliğe dönüştürmenin temel aracı hâline gelir.** Satoshi Nakamoto'nun white paper'ı yazmadan önce tüm Bitcoin kodunu yazdığını söylemesinin nedeni budur.
 
+### Miras: cypherpunk başarısı olarak Bitcoin
 
-Güvenin bankalar, şirketler veya hükümetler gibi merkezi kurumlar yerine merkezi olmayan kriptografik sistemlere verildiği bir modeli savunmaktadırlar.
+![Cypherpunk mirası ve Bitcoin](./assets/en/130.webp)
 
+2008'den itibaren Bitcoin, sansürlenemez ve egemen bir elektronik para biriminin ilk başarılı somutlaşması oldu. Yetkililer tarafından kontrol edilmesi zor, merkezsiz, takma adlı bir parasal alternatif sunar. Sağcı ya da solcu aktivistler, özgürlük ya da eşitlik savunucuları ya da siyasi etiketi olmayan sıradan tasarruf sahipleri tarafından benimsensin, **her bireye geleneksel finansal sistemden özgürleşme** ve parası, dolayısıyla özgürlüğü üzerinde yeniden hâkimiyet kazanma imkânı verir.
 
+Bu bakış açısından, herhangi bir siyasi kampa ait olduğunu açıkça iddia etmeksizin, Bitcoin sessiz bir devrimin tohumlarını taşır ve Nolan diyagramının kadranında en üste katılır.
 
-#### Cypherpunk yöntemi
-
-
-
-> Cypherpunks kod yazar
-
-diye ilan ediyor Éric Hughes, manifestosunu bitirirken.
-
-
-
-Ona göre ileriye giden yol, keyfi siyasi bölünmeleri yersiz ve gereksiz kılan anonim sistemlerin aktif olarak inşa edilmesinde yatmaktadır. Kod, soyut özgürlük fikrini yeni bir ekonomik ve toplumsal gerçekliğe dönüştürmek için kriptografi uygulamasına dayanmaktadır.
-
-
-
-Cypherpunk'lar umut ve dileklerle avunmazlar. Olayların gidişatına aktif olarak müdahale eder ve kendi kaderlerini şekillendirirler.
-
-
-
-Siyasi olarak, kararların kolektif olarak alındığı ve tek bir varlığın kendi iradesini dayatamayacağı merkezi olmayan ağlar kurmaya çalışırlar. Tüm merkezileşme rızaya değil zorlamaya dayanır, başka bir deyişle, bireylere özerklikten yoksun, kendi kaderlerine karar vermeye başladıklarında cezalandırılması gereken çocuklar gibi davranır.
-
-
-
-Cypherpunk'lardan miras alınan bu özgürlük ve aktif inşa felsefesi, Satoshi Nakamoto tarafından 2008 yılında Bitcoin'in icadıyla somutlaştırıldı. Sansürsüz, egemen bir elektronik para birimi fikrini uygulamaya koyan ilk kişi oldu.
-
-
-
-![Cypherpunk Diagramme](./assets/fr/023.webp)
-
-
-
-Bitcoin, merkezi olmayan, sahte ve kontrol edilmesi zor bir parasal alternatif sunarak devlet gücünü sınırlar. İster sağcı ya da solcu aktivistler, ister özgürlük ya da eşitlik savunucuları, isterse de herhangi bir siyasi etiketi olmayan tasarruf sahipleri tarafından benimsensin, bireylere kendilerini geleneksel finans sisteminden özgürleştirme ve paralarının kontrolünü yeniden ele geçirme fırsatı verir.
-
-
-
-Bu açıdan bakıldığında, açıkça bir siyasi kampa ait olduğunu iddia etmeksizin, Bitcoin sessiz bir devrimin tohumlarını taşımakta ve Nolan'ın diyagramında kadranın tepesine katılmaktadır.
-
-
-
-![Politique Diagramme](./assets/fr/024.webp)
-
+![Siyasi diyagramda Bitcoin](./assets/en/131.webp)
 
 
 ## Kim karar vermeli?
 
-
 <chapterId>cfc7688e-d647-4af1-880d-c70d3ae7d823</chapterId>
 
 
+Bu kurs boyunca gerçek ayrımın sol, sağ ve merkez arasında olmadığını göstermeye çalıştım; bunların hepsi devletçi bir varsayımı paylaşır. Nihayetinde tüm klasik siyasi aileler serbest piyasaya güvensizlik ve devlet müdahaleciliğine eğilim paylaşır.
 
-Bu derste, gerçek bölünmenin sol, sağ ya da merkez arasında olmadığını göstermeye çalıştım; bunların hepsi devletçi bir varsayımı benimsemiştir. Nihayetinde, tüm klasik siyasi aileler serbest piyasaya güvensizliği ve devlet müdahaleciliğine olan eğilimi paylaşmaktadır.
+Peki ya daha az hükümet ve daha az merkezileşme isteyenler? Örneğin para yaratma tekeline son vermek isteyen Bitcoin kullanıcıları. Onları siyasi yelpazede nereye yerleştiririz?
 
+### Gerçek ayrım
 
+Aslında **gerçek siyasi ayrım temel felsefi ilkelerde yatar**: özgürlük ya da zorlama, gönüllü rıza ya da mecburiyet, sorumlu birey ya da kolektif.
 
-Peki ya daha az hükümet ve daha az merkezileşme isteyenler? Örneğin, para yaratma tekelini sona erdirmek isteyen Bitcoin kullanıcıları. Onları bu siyasi yelpazeye nasıl yerleştireceğiz?
+Siyaset hakkında düşünmenin doğru yolu etiketlerden ziyade etik ilkelerden başlamaktır. Siyasi soru o zaman şuna dönüşür: *hayatınızdaki önemli kararları siz mi almak istiyorsunuz, yoksa sizin yerinize başka birinin mi almasını istiyorsunuz?*
 
+Daha genel düzeyde felsefi soru şudur: *toplumsal örgütlenme, siyasi sınıf tarafından tasarlanıp dayatılan bilinçli bir planın ürünü mü olmalıdır, yoksa ekonomik ve toplumsal hayattaki tüm oyuncular arasındaki gönüllü etkileşimlerden doğan özgür bir evrimin sonucu mu?*
 
-Aslında gerçek siyasi bölünme temel felsefi ilkelerde yatmaktadır: özgürlük ya da zorlama, gönüllü rıza ya da zorlama, sorumlu birey ya da kolektif.
+#### Görmezden gelinen bir siyasi aile: liberteryenler
 
+İlkeler arasındaki karşıtlığa dayalı bu yeni siyasi ayrım, çok gerçek fakat genel kamuoyu tarafından çoğu zaman görmezden gelinen bir siyasi aileyi gün ışığına çıkarır: liberteryenler.
 
+Liberteryen bakış açısından **bireyler kendi kararlarını verme hakkına ve sorumluluğuna sahiptir.** Buna karşılık, soldan sağa geleneksel siyasi aileler, hükümetin bir bireyin hayatındaki ve genel olarak ekonomik hayattaki önemli kararların bazılarını ya da çoğunu alması gerektiğine inanır.
 
-Siyaset hakkında düşünmenin doğru yolu etiketlerden ziyade etik ilkelerden yola çıkmaktır.
+Fakat neden bazıları kendi yaşam tarzlarını ve dünya görüşlerini başkalarına dayatmalıdır?
 
+#### Birlikte yaşamanın çerçevesi olarak özgürlük
 
+Gerçek bir özgürlük rejiminde, solun ideallerine bağlı olanlar ilkelerine göre yaşayabilir. Mallarından vazgeçmekte, sahip oldukları üretim araçlarını paylaşmakta ya da ücretlerini kendi seçtikleri bir kuruluşa bağışlamakta özgürdürler; bu kuruluş bu fonları en dezavantajlılara yeniden dağıtabilir ya da istihdamı teşvik eden kültürel girişimleri ve işletmeleri destekleyebilir.
 
-O andan itibaren siyasi soru artık şu değildi: *hayatinizdaki̇ önemli̇ kararlari si̇z mi̇ almak i̇sti̇yorsunuz, yoksa başkasinin si̇zi̇n adiniza almasini mi i̇sti̇yorsunuz?
+Aynı şekilde sağcı değerleri paylaşanlar da kanaatlerine göre yaşama hakkına sahiptir: çok çalışmak, tasarruf etmek, ailevi ve ulusal değerleri çocuklarına aktarmak, ahlaklarına aykırı içerikten kaçınmak ya da kimi istihdam edeceklerini seçmek. **Hiç kimse kendi yaşam biçimini başkalarına dayatmamalıdır.** Hedeflerimize barışçıl biçimde ulaşmamızı sağlayan şey piyasanın özgürlüğü ve seçme gücüdür.
 
+Kısacası, siyasi eğilimler arasındaki temel ayrışma merkezi devletin rolünde yatar: sosyalistler ve muhafazakârlar topluma ilişkin vizyonlarını dayatmak için devleti kullanırken, liberteryenler merkezsizleşmeyi savunur; bireylerin ve özel toplulukların toplumu kendi tercihlerine göre ve mülkiyet haklarıyla uyumlu biçimde tanımlamasına ve örgütlemesine izin verir.
 
+### Peki ya Bitcoin?
 
-Daha genel bir düzeyde, felsefi soru şudur: *toplumsal örgütlenme, siyasi sınıf tarafından tasarlanan ve dayatılan kasıtlı bir planın ürünü mü yoksa ekonomik ve sosyal yaşamdaki tüm aktörler arasındaki gönüllü etkileşimlerden ortaya çıkan özgür bir evrimin sonucu mu olmalıdır?
+Bitcoin'in de siyasi bir kopuş olmasının nedeni budur. Paranın siyasallaştırılmasına ve küçük bir azınlık tarafından müsadere edilmesine karşı barışçıl bir isyandır. Bitcoin sağ ve solla ilgili değildir. Aksine, **devlet parasına karşı duran bir piyasa parasıdır.**
 
+Devlet parası ya da itibari para, yaratılması kolay, ucuz ve değer kaybetme yönünde talihsiz bir eğilime sahip, zorlayıcı ve merkezi bir sistemdir. Buna karşılık, tarihsel olarak altınla ve bugün Bitcoin'le örneklenen piyasa parası, gönüllü ve kendiliğinden ortaya çıkan, uzun vadede değerini koruyan sağlıklı, üretimi zor bir para birimidir.
 
+Böylece Bitcoin, sabit arzı ve merkezsiz doğası sayesinde, **şimdiye kadar icat edilmiş en sağlıklı para biçimini temsil eder**; devlet gücünün genişlemesine ve savaşların sınırsız finansmanına potansiyel bir alternatif sunar.
 
-**Göz ardı edilen bir siyasi aile: Liberteryenler**
-
-
-
-İlkeler arasındaki karşıtlığa dayanan bu yeni siyasi bölünme, çok gerçek olan ancak genel kamuoyu tarafından genellikle göz ardı edilen bir siyasi aileyi gün ışığına çıkarıyor: liberteryenler.
-
-
-
-Özgürlükçü bakış açısına göre, bireyler kendi kararlarını verme hakkına ve sorumluluğuna sahiptir. Buna karşılık, soldan sağa geleneksel siyasi aileler, hükümetin bireyin hayatındaki ve genel olarak ekonomik hayattaki önemli kararların bir kısmını veya çoğunu alması gerektiğine inanmaktadır.
-
-
-
-Ama neden bazıları kendi yaşam tarzlarını ve dünya görüşlerini başkalarına dayatsın?
-
-
-Gerçek bir özgürlük rejiminde, solun ideallerine bağlı olanlar ilkelerine göre yaşayabilirler. Mülklerinden vazgeçmekte, sahip oldukları üretim araçlarını paylaşmakta ya da maaşlarını, bu fonları en dezavantajlı kesimlere yeniden dağıtabilecek ya da kültürel girişimleri ve istihdamı teşvik eden işletmeleri destekleyebilecek kendi seçtikleri bir kuruluşa bağışlamakta özgürdürler.
+Son olarak Bitcoin, devlet ya da zorlayıcı girişim anlamında klasik bir siyasi proje değildir. Bireylerin kendi başlarına karar vermelerine izin veren bir teknolojidir; bu da paradoksal biçimde merkezi, hükmedici güçleri sınırlamada geniş kapsamlı siyasi sonuçlara sahiptir.
 
 
-
-Aynı token'e göre, bu özgürlük rejiminde, sağcı değerleri paylaşanlar kendi inançlarına göre yaşama hakkına sahiptir: çok çalışmak, tasarruf etmek, çocuklarına aile ve ulusal değerleri aktarmak, ahlaklarına aykırı içeriklerden kaçınmak ya da şu veya bu tür bir işçiyi çalıştırmamayı seçmek. Hiç kimse kendi yaşam tarzını başkalarına dayatmamalıdır. Hedeflerimize barışçıl bir şekilde ulaşabilmemiz, piyasa özgürlüğü ve seçim gücü sayesinde mümkün olacaktır.
-
-
-
-Kısacası, siyasi eğilimler arasındaki temel ayrışma merkezi devletin rolünde yatmaktadır: sosyalistler ve muhafazakarlar devleti kendi toplum vizyonlarını empoze etmek için kullanırken, liberteryenler adem-i merkeziyetçiliği savunmakta, bireyleri ve özel toplulukları kendi tercihlerine göre ve mülkiyet hakları doğrultusunda toplumu tanımlamaya ve düzenlemeye bırakmaktadır.
-
-
-
-**Peki ya Bitcoin?
-
-
-
-Bu yüzden Bitcoin aynı zamanda siyasi bir kırılmadır. Paranın siyasallaşmasına ve küçük bir azınlık tarafından el konulmasına karşı barışçıl bir isyandır. Bitcoin sağ ve sol ile ilgili değildir. Aksine, devlet parasına karşı bir piyasa para birimidir.
-
-
-
-Devlet ya da itibari para, yaratılması kolay, ucuz ve talihsiz bir şekilde değer kaybetme eğiliminde olan zorlayıcı, merkezi bir sistemdir.
-
-
-
-Buna karşılık, tarihsel olarak altınla ve şu anda Bitcoin ile gösterilen piyasa parası, gönüllü olarak, kendiliğinden ortaya çıkan ve uzun vadede değerini koruyan sağlıklı, üretilmesi zor bir para birimidir.
-
-
-
-Dolayısıyla Bitcoin, sabit arzı ve merkezi olmayan yapısı sayesinde, şimdiye kadar icat edilmiş en sağlıklı para birimini temsil etmekte ve devlet gücünün genişlemesine ve savaşların sınırsız finansmanına potansiyel bir alternatif sunmaktadır.
-
-
-
-Son olarak, Bitcoin bir devlet ya da zorlayıcı bir girişim anlamında klasik bir siyasi proje değildir. Bireylerin kendileri için karar vermelerine olanak tanıyan bir teknolojidir ve paradoksal olarak merkezi, otoriter güçleri sınırlandırmada geniş kapsamlı siyasi sonuçları vardır.
-
-
-
-![Leonard Read Quote](./assets/fr/025.webp)
-
+![Leonard Read'in özgürlük ve otoriterlik üzerine alıntısı](./assets/en/132.webp)
 
 
 # Son bölüm
 
 
-
 <partId>d886a919-12b0-4e38-86de-7159b98b1864</partId>
-
 
 
 ## Bu kursu değerlendirin
 
 
-
 <chapterId>f0b8398c-7c15-417e-83b0-42e7aab533dc</chapterId>
-
 
 
 <isCourseReview>true</isCourseReview>
 
-## Final Sınavı
+## Final sınavı
 
 
-
-<chapterId>230ddc56-ceb8-11f0-bf47-6f8dd2541da1</chapterId>
-
+<chapterId>f776853b-8303-47d9-8327-d925c594564d</chapterId>
 
 
 <isCourseExam>true</isCourseExam>
@@ -1940,8 +1638,6 @@ Son olarak, Bitcoin bir devlet ya da zorlayıcı bir girişim anlamında klasik 
 ## Sonuç
 
 
-
 <chapterId>1dfe6e4a-47d5-48e1-94d0-6ac29b31e161</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>

@@ -1,11 +1,9 @@
-question: De acordo com o capítulo, qual é o principal problema do espetro político tradicional esquerda-direita?
-answer: Não deixa lugar para o pensamento liberal clássico, que não se enquadra nem no igualitarismo de esquerda nem no nacionalismo de direita
+question: "Como o sistema de moeda fiduciária reforça a divisão entre governantes e governados?"
+answer: "Ele permite que os governos financiem gastos ilimitados por meio da criação de dinheiro, o que desvaloriza a poupança pela inflação"
 wrong_answers:
-  - Simplifica demasiado a política ao ter apenas duas posições extremas, sem quaisquer opções moderadas ou centristas
-  - Não tem em conta as diferenças económicas entre as ideologias socialistas e capitalistas nas democracias modernas
-  - Não distingue corretamente entre formas democráticas e autoritárias de estruturas de governo
-explanation: |
-  O capítulo afirma especificamente que o eixo esquerda-direita não pode acomodar o pensamento liberal clássico, que não se alinha nem com o igualitarismo da esquerda nem com o nacionalismo da direita
-  igualitarismo da esquerda nem com o nacionalismo da direita. Este facto é ilustrado através de exemplos de figuras como Thomas Jefferson, Frédéric Bastiat e libertários contemporâneos
-  libertários contemporâneos que não se enquadram em nenhuma das categorias. As outras opções, embora abordem as limitações dos espectros políticos, não captam a crítica específica
-  a crítica específica feita no capítulo sobre a exclusão do liberalismo clássico deste quadro.
+  - "Ele dá aos cidadãos controle direto sobre a política monetária por meio de eleições democráticas e referendos"
+  - "Ele impede os governos de tomar empréstimos, forçando-os a depender exclusivamente da tributação para obter receita"
+  - "Ele distribui o dinheiro recém-criado igualmente entre todos os cidadãos para estimular o crescimento econômico"
+explanation: >-
+  A moeda fiduciária é descrita como a pedra angular da expansão do poder do Estado porque permite que os governos tomem empréstimos e pressionem os bancos a imprimir novo dinheiro. A inflação resultante desvaloriza a poupança das pessoas, beneficiando as entidades mais ricas e poderosas. Ela não dá controle monetário aos cidadãos, nem impede empréstimos ou distribui dinheiro igualmente.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Enligt Hannah Arendts analys, vad är det primära syftet med totalitära utbildningssystem?
-answer: Att förstöra människans förmåga att bilda självständiga övertygelser och trosuppfattningar
+question: "Hur skilde sig de ekonomiska angreppssätten i Hitlers Tyskland och Stalins Sovjetunionen, trots deras gemensamma totalitära metoder?"
+answer: "Nazityskland upprätthöll ett sken av privat ägande samtidigt som den privata sektorn underordnades statens mål, medan stalinismen avskaffade allt privat ägande och planerade ekonomin fullt ut"
 wrong_answers:
-  - Att indoktrinera medborgarna med regimens specifika politiska ideologi och värderingar
-  - Att skapa en högutbildad arbetskraft som kan främja delstatens ekonomiska mål
-  - Att eliminera analfabetism och främja vetenskaplig kunskap som tjänar staten
-explanation: |
-  Hannah Arendt hävdade att den totalitära utbildningens mål aldrig var att ingjuta specifika övertygelser, utan snarare att förstöra människors förmåga att bilda sig några som helst självständiga uppfattningar. Detta skiljer totalitarism från ren auktoritarism eller propaganda - den syftar till att eliminera själva den kognitiva förmågan till självständigt tänkande. De andra alternativen representerar mer konventionella former av politisk indoktrinering eller statligt styrd utbildning, men missar Arendts avgörande insikt att totalitarism syftar till att fullständigt förneka mänsklig handlingskraft och självständigt omdöme, inte bara till att främja vissa ideologier.
+  - "Nazityskland nationaliserade alla industrier fullt ut, medan Stalins regim tillät begränsat privat företagande inom jordbruket"
+  - "Nazityskland främjade fri internationell handel för att finansiera återupprustning, medan stalinismen införde fullständig ekonomisk isolering"
+  - "Nazityskland förlitade sig på frivilligt företagsmässigt samarbete med staten, medan stalinismen endast använde tvångsarbete"
+explanation: >-
+  Även om båda regimerna använde identiska politiska metoder (personkult, total övervakning, systematisk eliminering av opposition) skilde sig deras ekonomiska modeller till formen. Nazityskland avskaffade inte formellt privat egendom men underordnade helt den privata sektorn statliga mål som krig och återupprustning, och införde ekonomisk autarki. Stalinismen gick längre genom att avskaffa allt privat ägande, införa femårsplaner och direkt kontrollera all produktion och distribution.
+reviewed: false

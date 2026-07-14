@@ -1,9 +1,9 @@
-question: Milline filosoofiline aluspõhimõte eristab traditsioonilist Ameerika konservatismi teistest poliitilistest ideoloogiatest?
-answer: Korrastatud vabaduse kontseptsioon, mis püüab tasakaalustada individuaalset vabadust, kogukonna vastutust ja piiratud valitsemist
+question: "Mis eristab neokonservatiive paleokonservatiividest nende lähenemises välispoliitikale?"
+answer: "Neokonservatiivid õigustavad sõjalist interventsionismi demokraatia levitamiseks, samas kui paleokonservatiivid kaitsevad isolatsionistlikumat välispoliitikat"
 wrong_answers:
-  - Piiramatu individuaalse vabaduse põhimõte koos valitsuse maksimaalse sekkumisega sotsiaalsetesse küsimustesse
-  - Usk revolutsioonilistesse muutustesse, et taastada feodaalne põllumajandusühiskond ja lükata tagasi igasugune tehnoloogiline areng
-  - Sõjalise sekkumise doktriin, et levitada demokraatiat kogu maailmas ennetava sõjapidamise kaudu
-explanation: |
-  Traditsiooniline Ameerika konservatism põhineb põhimõtteliselt "korrastatud vabadusel", mis püüab ühitada mõnikord vastuolulisi püüdlusi kogukonna ja üksikisiku vajaduste, isikliku vabaduse ja vastutuse ning piiratud valitsuse ja vabade turgude vahel.
-  Valed vastused esindavad kas vastuolulisi põhimõtteid (piiramatu vabadus koos maksimaalse sekkumisega), Euroopa reaktsioonilist konservatismi (feodaalne restaureerimine) või neokonservatiivset ideoloogiat (sõjaline sekkumine), mitte aga tasakaalustatud lähenemist, mis määratleb traditsioonilist Ameerika konservatiivset mõtlemist.
+  - "Neokonservatiivid on vastu igasugusele sõjalisele tegevusele ja eelistavad diplomaatiat, samas kui paleokonservatiivid toetavad ennetavaid lööke võimalike ohtude vastu"
+  - "Neokonservatiivid keskenduvad üksnes majandussanktsioonidele, samas kui paleokonservatiivid pooldavad rahvusvaheliste koalitsioonide loomist ühisteks sõjalisteks operatsioonideks"
+  - "Neokonservatiivid ja paleokonservatiivid nõustuvad välispoliitikas, kuid erinevad teravalt sisemaises majandusregulatsioonis"
+explanation: >-
+  Alates 2000. aastatest hakkasid neokonservatiivid üha enam õigustama sõjalist interventsionismi demokraatia juurutamiseks kogu maailmas, eriti pärast 11. septembrit 2001. Vastureaktsioonina võtsid traditsioonilised konservatiivid enda eristamiseks kasutusele nimetuse „paleokonservatiiv”. Paleokonservatiivid kritiseerivad sõjalist interventsionismi, kaitsevad isolatsionistlikumat välispoliitikat ning panevad suuremat rõhku rahvuslikule ja kultuurilisele identiteedile.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Özgürlükçü felsefeye göre, hem gelir vergilerine hem de asgari ücret yasalarına karşı çıkmanın temel gerekçesi nedir?
-answer: Her ikisi de bireysel özgürlüğün ve özel taraflar arasındaki gönüllü sözleşmeye dayalı anlaşmaların hükümet tarafından ihlalini temsil etmektedir
+question: "Liberteryenler vergilendirmeye neden karşı çıkar?"
+answer: "Çünkü bu, mülkiyet haklarının ahlaki bir ihlalidir; rıza olmadan başkasının mülküne el koyan bir devlet hırsızlığı biçimidir"
 wrong_answers:
-  - Her ikisi de öncelikle büyük şirketlere ve zengin yatırımcılara zarar veren ekonomik verimsizlikler yaratır
-  - Her ikisi de federal makamlar yerine yerel yönetimler tarafından yönetilmesi gereken politikalara örnek teşkil etmektedir
-  - Her ikisi de modern ekonomik araştırmalarla etkisizliği kanıtlanmış modası geçmiş ekonomik teorileri temsil etmektedir
-explanation: |
-  Liberteryenler, devlet müdahalesinin bireysel özgürlüğü ve serbest piyasa mekanizmalarını ihlal ettiği yönündeki temel ilkelerine dayanarak hem gelir vergilerine hem de asgari ücret yasalarına sürekli olarak karşı çıkmaktadır.
-  Gelir vergilerini mülkiyet haklarını ihlal eden 'hırsızlık', asgari ücret yasalarını ise işverenlerin ve çalışanların gönüllü olarak sözleşme yapma özgürlüğünü ihlal eden yapay piyasa çarpıklıkları olarak görürler. Bu felsefi tutarlılık, liberteryen pozisyonları, bir politikayı desteklerken diğerine ilkesel değil pragmatik gerekçelerle karşı çıkabilen diğer siyasi ailelerden ayırır.
+  - "Çünkü vergiler ekonomik açıdan verimsizdir ve her zaman daha yüksek işsizlik oranlarına yol açar"
+  - "Çünkü vergilendirme yabancı yatırımı caydırır ve bir ülkenin rekabetçi konumunu zayıflatır"
+  - "Çünkü artan oranlı vergi sistemleri, en çok işi yaratan varlıklı bireyleri adaletsiz biçimde hedef alır"
+explanation: >-
+  Liberteryenlerin vergilendirmeye itirazı ekonomik olmadan önce ahlakidir. Liberteryenler vergilendirmeyi bir devlet hırsızlığı biçimi ve özel mülkiyetin önünde bir engel olarak görür; çünkü vergilendirme, rıza olmadan başkasının mülküne el koymaktan ibarettir. Vergilendirmeye karşı ekonomik argümanlar olabilir, ancak temel liberteryen argüman, verimlilik veya rekabet gücü hesaplarına değil, mülkiyet haklarını ihlal ettiği ilkesine dayanır.
+reviewed: false

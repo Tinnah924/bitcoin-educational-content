@@ -1,9 +1,9 @@
-question: Welcher grundlegende Ansatz unterscheidet nach Hayeks Analyse die sozialistische Wirtschaftspolitik von der liberalen Wirtschaftspolitik?
-answer: Konstruktivismus - die Überzeugung, dass der Staat die Gesellschaft durch Planung und Lenkung aktiv konstruieren und gestalten sollte
+question: "Wie behandelt der Sozialismus Freiheiten in der gesellschaftlichen und der wirtschaftlichen Sphäre unterschiedlich?"
+answer: "Sozialismus begünstigt starke Freiheiten in der gesellschaftlichen Sphäre, aber schwache Freiheiten in der wirtschaftlichen Sphäre"
 wrong_answers:
-  - Spontane Ordnung - die Marktkräfte sollen die Wirtschaftstätigkeit auf natürliche Weise ohne staatliche Eingriffe regeln
-  - Umverteilung - Konzentration auf die Umverteilung des Reichtums unter Beibehaltung der Mechanismen des freien Marktes
-  - Kollektivismus - Betonung des Gruppenbesitzes von Eigentum unter Beibehaltung individueller wirtschaftlicher Entscheidungen
-explanation: |
-  Hayek bezeichnete den Konstruktivismus als den sozialistischen Ansatz, bei dem der Staat die Gesellschaft aktiv konstruiert und ihr durch Planung und Lenkung eine bestimmte Form gibt
-  und Lenkung. Dies steht im Gegensatz zum liberalen Konzept der spontanen Ordnung, bei der sich die Gesellschaft von selbst organisiert. Umverteilung und Kollektivismus sind zwar mit dem Sozialismus verwandt, erfassen aber nicht Hayeks spezifische Unterscheidung darüber, wie die Gesellschaft organisiert und gelenkt werden sollte.
+  - "Sozialismus schränkt alle Freiheiten in der gesellschaftlichen und der wirtschaftlichen Sphäre gleichermaßen ein"
+  - "Sozialismus begünstigt starke wirtschaftliche Freiheiten, schränkt aber gesellschaftliche Freiheiten ein, um soziale Ordnung aufrechtzuerhalten"
+  - "Sozialismus gewährt unbegrenzte Freiheiten in beiden Sphären und stützt sich auf freiwillige Kooperation, um das Gleichgewicht zu erhalten"
+explanation: >-
+  Im sozialistischen Denken gibt es eine grundlegende Dichotomie zwischen gesellschaftlichen und wirtschaftlichen Freiheiten. Gesellschaftliche Freiheiten sind stark, wirtschaftliche Freiheiten dagegen schwach, aufgrund der Betonung staatlicher Kontrolle, Planung und Umverteilung von Wohlstand. Die dritte falsche Antwort beschreibt das libertäre Ideal, während die zweite das konservative Muster beschreibt, das das Spiegelbild des Sozialismus ist.
+reviewed: false

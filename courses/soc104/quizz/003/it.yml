@@ -1,12 +1,9 @@
-question: Secondo il testo, qual è il problema principale del tradizionale spettro politico destra-sinistra?
-answer: Non lascia spazio al pensiero liberale classico, che non si adatta né all'egualitarismo di sinistra né al nazionalismo di destra
+question: "In che modo il sistema della moneta fiat rafforza la divisione tra governanti e governati?"
+answer: "Consente ai governi di finanziare una spesa illimitata tramite la creazione di moneta, che svaluta i risparmi attraverso l'inflazione"
 wrong_answers:
-  - Semplifica eccessivamente la politica avendo solo due posizioni estreme senza alcuna opzione moderata o centrista
-  - Presuppone erroneamente che la sinistra sia sempre riformista mentre la destra sia sempre conservatrice nei tempi moderni
-  - Non tiene conto del fatto che la maggior parte delle persone cambia frequentemente le proprie posizioni politiche nel corso del tempo
-explanation: |
-  Il testo afferma specificamente che "il problema dell'asse destra-sinistra è che non lascia spazio al pensiero liberale classico, che non può essere
-  che non può essere accomunato né all'egualitarismo della sinistra né al nazionalismo della destra" Ciò è illustrato da esempi come Frédéric Bastiat,
-  che votava a volte con la sinistra e a volte con la destra, a seconda della questione specifica, e il Bitcoin, che attrae sostenitori di varie estrazioni politiche
-  politici. La tradizione liberale classica, che favorisce la massima libertà economica e personale con un intervento statale minimo, non si adatta alla sinistra tradizionale
-  non rientra nel tradizionale sistema di categorizzazione destra-sinistra.
+  - "Dà ai cittadini il controllo diretto della politica monetaria tramite elezioni democratiche e referendum"
+  - "Impedisce ai governi di indebitarsi, costringendoli a fare affidamento solo sulla tassazione per le entrate"
+  - "Distribuisce la moneta appena creata in modo uguale tra tutti i cittadini per stimolare la crescita economica"
+explanation: >-
+  La valuta fiat è descritta come la pietra angolare dell'espansione del potere statale perché consente ai governi di prendere in prestito e di spingere le banche a stampare nuova moneta. L'inflazione risultante svaluta i risparmi delle persone, avvantaggiando le entità più ricche e potenti. Non dà ai cittadini il controllo monetario, né impedisce l'indebitamento o distribuisce il denaro in modo uguale.
+reviewed: false

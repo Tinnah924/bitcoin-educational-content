@@ -1,9 +1,9 @@
-question: Was ist nach Milton Friedman das Hauptproblem bei der Beurteilung von Sozialpolitik auf der Grundlage ihrer erklärten Ziele und nicht ihrer tatsächlichen Ergebnisse?
-answer: Gut gemeinte politische Maßnahmen führen oft zu perversen Effekten wie wirtschaftlicher Abhängigkeit und Marktverzerrungen, die ihren ursprünglichen Zielen widersprechen
+question: "Wie definiert der strukturelle Ansatz den grundlegenden Unterschied zwischen Sozialismus und Libertarismus?"
+answer: "Sozialismus gibt dem Staat durch Regulierung, Planung und Kontrolle Vorrang, während Libertarismus dem Individuum durch minimale staatliche Intervention Vorrang gibt"
 wrong_answers:
-  - Politiker stellen ihre wahren Absichten absichtlich falsch dar, um öffentliche Unterstützung für Maßnahmen zu gewinnen, von denen sie wissen, dass sie scheitern werden
-  - Gute Absichten führen automatisch zu positiven Ergebnissen, aber die Messung der Ergebnisse ist für die politischen Entscheidungsträger zu schwierig und zeitaufwändig
-  - Strukturelle Definitionen sind von Natur aus konservativen Standpunkten zugeneigt, während intentionale Definitionen progressive Werte fördern
-explanation: |
-  Friedman argumentiert, dass politische Maßnahmen, die durch großzügige Absichten motiviert sind, unbeabsichtigte negative Folgen haben können, wenn sie nicht auf einer strengen Analyse des menschlichen Verhaltens und der Anreize basieren
-  verhaltens und der Anreize beruht. Im Text wird ausdrücklich erwähnt, dass sozialpolitische Maßnahmen, die den Armen helfen sollen, oft zu wirtschaftlicher Abhängigkeit und Marktverzerrungen führen. Die anderen Optionen stellen Friedmans Argument falsch dar - er behauptet weder, dass Politiker absichtlich betrügen, noch dass gute Absichten automatisch funktionieren, noch dass es um politische Voreingenommenheit geht.
+  - "Sozialismus priorisiert ländliche Agrargemeinschaften, während Libertarismus städtische industrielle Entwicklung bevorzugt"
+  - "Sozialismus wird durch seine Unterstützung demokratischer Wahlen definiert, während Libertarismus alle Formen politischer Beteiligung ablehnt"
+  - "Sozialismus konzentriert sich auf Außenpolitik und internationale Zusammenarbeit, während Libertarismus nur mit innenpolitischen Wirtschaftsfragen befasst ist"
+explanation: >-
+  Strukturell ist Sozialismus durch die Allgegenwart des Staates gekennzeichnet, der reguliert, plant und kontrolliert. Libertarismus wird durch minimale staatliche Intervention in Wirtschaft und Privatleben definiert und tendiert zum Vorrang individueller Freiheit und des freien Marktes. Diese strukturelle Unterscheidung ist analytisch weitaus nützlicher als der Vergleich der erklärten Absichten jedes Systems.
+reviewed: false

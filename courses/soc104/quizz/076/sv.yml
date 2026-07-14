@@ -1,8 +1,9 @@
-question: Enligt Gustave Molinaris analys i "Les Soirées de la rue Saint Lazare" (eng. Evenings on Saint Lazarus Street), vilken grundläggande likhet finns det mellan konservativa och socialister som skiljer dem från libertarianer?
-answer: Både konservativa och socialister försöker införa sin vision av samhället genom statliga ingripanden, trots att de har olika visioner
+question: "I Gustave de Molinaris dialoger från 1849, vilken karaktär försvarar frihet som en grundläggande princip snarare än att underordna den andra mål?"
+answer: "Ekonomen, som behandlar frihet som en princip som inte är underordnad något annat mål"
 wrong_answers:
-  - Både konservativa och socialister ser frihet som en absolut princip snarare än en fråga om möjligheter eller pragmatism
-  - Både konservativa och socialister förkastar begreppet privat egendom och förespråkar kollektivt ägande av resurser
-  - Både konservativa och socialister stöder minimal statlig inblandning och föredrar marknadsbaserade lösningar på sociala problem
-explanation: |
-  Molinaris viktigaste insikt var att konservativa och socialister trots sina uppenbara ideologiska skillnader har en gemensam strategi: de använder båda statsmakten för att genomdriva sina respektive visioner om hur samhället bör organiseras. Konservativa vill bevara traditionella strukturer genom statliga tvångsåtgärder, medan socialister vill omforma samhället enligt sina ideal, också det genom statliga åtgärder. Detta står i skarp kontrast till libertarianer, som motsätter sig att statsmakten används för att införa någon särskild samhällsvision och i stället förespråkar maximal individuell frihet och minimalt statligt ingripande.
+  - "Socialisten, som försvarar frihet genom progressiva reformer inriktade på social jämlikhet"
+  - "Den konservative, som upprätthåller frihet genom att bevara traditionell samhällsordning och stabilitet"
+  - "Alla tre karaktärer försvarar frihet lika mycket men är oense om hur den ska genomföras"
+explanation: >-
+  I Molinaris dialoger från Les Soirees de la rue Saint-Lazare står ekonomen i permanent oenighet med både socialisten och den konservative. Han är den ende som försvarar frihet som en grundläggande princip. Socialisten underordnar friheten progressiva ideal, och den konservative underordnar den bevarandet av ordning, vilket gör ekonomen unik i sitt ovillkorliga försvar av frihet.
+reviewed: false

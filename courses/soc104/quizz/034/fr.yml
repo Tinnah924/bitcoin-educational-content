@@ -1,8 +1,9 @@
-question: What is the fundamental difference between libertarians and libertaires regarding property and economic organization?
-answer: Libertarians defend private property as essential to individual freedom, while libertaires consider property as theft and support collective economic models
+question: "Qu'est-ce que le principe de non-agression tel que théorisé par Murray Rothbard ?"
+answer: "Il est illégitime d'initier la force physique contre un autre individu ou sa propriété, bien que la violence défensive soit permise"
 wrong_answers:
-  - Both groups support private property but differ on the role of government regulation in protecting it
-  - Libertaires support private property with state protection, while libertarians prefer property without any legal framework
-  - Both reject private property but libertarians favor market socialism while libertaires prefer state socialism
-explanation: |
-  The chapter clearly establishes that libertarians view private property as the only way to ensure individual freedom, while libertaires, coming from the anarchist socialist tradition, follow Proudhon's principle that 'property is theft.' Libertaires support alternative economic models like mutualism, collectivism, or libertarian communism, fundamentally opposing capitalist structures. This represents the core ideological divide between these two political philosophies that are often confused due to similar terminology.
+  - "Toutes les formes de violence sont toujours mauvaises, y compris la légitime défense et la résistance à l'oppression"
+  - "La violence est acceptable lorsqu'elle est dirigée contre des institutions oppressives mais jamais contre d'autres individus"
+  - "Seul l'État a le droit légitime d'utiliser la force, et les individus ne doivent jamais recourir à la violence"
+explanation: >-
+  Le principe de non-agression de Rothbard soutient qu'initier la force physique contre une autre personne ou sa propriété est illégitime. C'est une traduction philosophique de la règle d'or. Cependant, il n'interdit pas toute violence : la violence défensive, y compris la légitime défense et la résistance à l'oppression, est considérée comme légitime. Cela le distingue du pacifisme pur et du monopole de la force revendiqué par l'État.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Co je podle libertariánské filozofie hlavním důvodem pro odpor k daním z příjmu i k zákonům o minimální mzdě?
-answer: Obojí představuje vládní porušování osobní svobody a dobrovolných smluvních dohod mezi soukromými stranami
+question: "Jaký je socialistický postoj ke zdravotnictví?"
+answer: "Přístup ke zdravotní péči je základní právo a stát musí zaručit univerzální, veřejně financovaný systém pro každého bez ohledu na příjem"
 wrong_answers:
-  - Obě způsobují ekonomickou neefektivitu, která poškozuje především velké společnosti a bohaté investory
-  - Obojí je příkladem politik, které by měly být řízeny místními samosprávami, nikoli federálními orgány
-  - Obě představují zastaralé ekonomické teorie, jejichž neúčinnost prokázal moderní ekonomický výzkum
-explanation: |
-  Libertariáni se důsledně staví proti daním z příjmu i zákonům o minimální mzdě na základě své základní zásady, že státní zásahy porušují svobodu jednotlivce a mechanismy volného trhu.
-  Daně z příjmu považují za "krádež", která zasahuje do vlastnických práv, a zákony o minimální mzdě za umělé narušení trhu, které porušuje svobodu zaměstnavatelů a zaměstnanců dobrovolně sjednávat smlouvy. Tato filosofická konzistence odlišuje libertariánské postoje od jiných politických rodin, které mohou podporovat jednu politiku a zároveň se stavět proti druhé spíše na základě pragmatických než principiálních důvodů.
+  - "Zdravotnictví by mělo být smíšeným systémem se základním státním krytím doplněným soukromými možnostmi pojištění"
+  - "Soukromé trhy poskytují inovativnější zdravotnictví, takže jednotlivci by si měli svobodně zvolit vlastní systém"
+  - "Stát by měl poskytovat zdravotní péči pouze nejchudším občanům, zatímco soukromé pojištění by krylo všechny ostatní"
+explanation: >-
+  Pro socialisty je přístup ke zdravotní péči základní právo, nikoli komodita. Stát musí zaručit univerzální, veřejně financovaný zdravotnický systém, aby měl každý přístup k péči bez ohledu na příjem. To odráží socialistickou starost o rovnost, sociální spravedlnost a význam státu při organizaci služeb v obecném zájmu. Smíšený systém popisuje centristický pohled, zatímco přístupy založené na volbě odrážejí libertariánské a konzervativní pozice.
+reviewed: false

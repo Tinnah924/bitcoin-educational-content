@@ -1,10 +1,9 @@
-question: Según el texto, ¿por qué es difícil clasificar a Bitcoin en el eje político tradicional derecha-izquierda?
-answer: Porque Bitcoin trasciende las divisiones tradicionales y atrae a partidarios de diversos orígenes políticos
+question: "¿Dónde se origina la división política izquierda-derecha?"
+answer: "En la distribución de los asientos durante los debates de la Revolución Francesa de 1789"
 wrong_answers:
-  - Porque la Bitcoin está apoyada exclusivamente por personalidades de derechas favorables al liberalismo económico.
-  - Porque la Bitcoin es defendida principalmente por la izquierda debido a su potencial para la inclusión financiera.
-  - Porque Bitcoin es una tecnología neutral sin dimensión política.
-explanation: |
-  El texto explica que la Bitcoin es difícil de clasificar en el eje derecha-izquierda, ya que esta tecnología descentralizada atrae a partidarios de diversos orígenes políticos, como la derecha, la izquierda, los anarquistas e incluso personas apolíticas
-  políticos diversos: de derechas, de izquierdas, anarquistas e incluso apolíticos. A diferencia de otras opciones, la Bitcoin no se limita a un único campo político,
-  sino que atraviesa las divisiones tradicionales, por lo que la dicotomía derecha-izquierda resulta inadecuada para situarla correctamente.
+  - "En los escritos de Karl Marx y Adam Smith en el siglo XIX"
+  - "En la Guerra Civil estadounidense entre los estados del Norte y del Sur"
+  - "En los filósofos de la Ilustración que separaron la razón de la tradición"
+explanation: >-
+  La división izquierda-derecha se remonta a 1789, cuando los diputados de la Asamblea Nacional francesa que favorecían mantener el poder del rey se sentaban a la derecha del presidente, mientras que quienes querían limitar sus poderes se sentaban a la izquierda. No se originó en Marx y Smith, la Guerra Civil estadounidense ni la filosofía de la Ilustración.
+reviewed: false

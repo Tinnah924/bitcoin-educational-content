@@ -1,8 +1,9 @@
-question: According to Karl Popper's framework, what is the fundamental characteristic that distinguishes an open society from a closed society?
-answer: The ability of individuals to exercise critical judgment and personal responsibility in decision-making
+question: "Pourquoi la prédiction de Molinari de 1849 s'est-elle révélée prophétique concernant la relation entre liberté et pouvoir politique ?"
+answer: "Parce que conservateurs et socialistes ont alterné au pouvoir et instrumentalisé la liberté au service de leurs objectifs politiques respectifs, exactement comme il l'avait décrit"
 wrong_answers:
-  - The degree of economic freedom and market-based exchanges between different social groups
-  - The level of technological advancement and scientific progress achieved by the society
-  - The extent of democratic participation and majority rule in political decision-making processes
-explanation: |
-  Popper defines open society as one where individuals are confronted with personal decisions and can exercise critical judgment, while closed society refuses critical freedom and individual responsibility. The distinction is fundamentally about cognitive and moral autonomy rather than economic systems, technological progress, or democratic procedures. Closed societies fear change and criticism, idealizing static order, while open societies embrace dynamic criticism and individual choice within abstract rules of conduct.
+  - "Parce que le personnage de l'économiste qu'il décrivait a fini par accéder au pouvoir politique et mettre en œuvre des politiques libertariennes à travers l'Europe"
+  - "Parce que sa prédiction selon laquelle les trois familles politiques fusionneraient en un seul mouvement centriste s'est réalisée au vingtième siècle"
+  - "Parce que la liberté a été progressivement étendue par des gouvernements successifs jusqu'à devenir le principe organisateur principal des démocraties modernes"
+explanation: >-
+  La vision de Molinari s'est révélée prophétique parce que, depuis le milieu du dix-neuvième siècle, conservateurs et socialistes ont alterné au pouvoir et accompli précisément ce qu'il décrivait : l'instrumentalisation de la liberté au service d'objectifs politiques. Les deux familles sont prêtes à restreindre les libertés et à faire appel à l'État pour imposer leurs programmes respectifs, tandis que la position de l'économiste en faveur d'une liberté inconditionnelle est restée marginalisée.
+reviewed: false

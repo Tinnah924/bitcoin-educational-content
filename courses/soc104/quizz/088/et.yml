@@ -1,9 +1,9 @@
-question: Milline on Karl Popperi raamistiku kohaselt peamine tunnus, mis eristab avatud ühiskonda suletud ühiskonnast?
-answer: Üksikisikute võime kasutada kriitilist otsustusvõimet ja isiklikku vastutust otsuste tegemisel
+question: "Kuidas seostub Karl Popperi eristus avatud ja suletud ühiskondade vahel individualismi ja kollektivismi debatiga?"
+answer: "Avatud ühiskond tunnustab indiviidi õigust ise otsustada isiklike valikute kaudu, samas kui suletud ühiskond on kollektivistlik, tuginedes hõimumentaliteedile ja kriitilise vabaduse eitamisele"
 wrong_answers:
-  - Majandusvabaduse ja turupõhise kaubavahetuse määr erinevate sotsiaalsete rühmade vahel
-  - Ühiskonna poolt saavutatud tehnoloogilise arengu ja teadusliku progressi tase
-  - Demokraatliku osaluse ulatus ja enamuse valitsemine poliitilistes otsustusprotsessides
-explanation: |
-  Popper defineerib avatud ühiskonda kui sellist, kus üksikisikud on silmitsi isiklike otsustega ja saavad teha kriitilisi otsuseid, samas kui suletud ühiskond keeldub kriitilisest vabadusest ja individuaalsest vastutusest.
-  Erinevus puudutab põhimõtteliselt pigem kognitiivset ja moraalset autonoomiat kui majandussüsteeme, tehnoloogilist arengut või demokraatlikke protseduure. Suletud ühiskonnad kardavad muutusi ja kriitikat, idealiseerides staatilist korda, samas kui avatud ühiskonnad aktsepteerivad dünaamilist kriitikat ja individuaalset valikut abstraktsete käitumisreeglite raames.
+  - "Avatud ühiskond on selline, mis lubab vabakaubandust üle riigipiiride, samas kui suletud ühiskond kehtestab tariife ja protektsionistlikke majanduspoliitikaid"
+  - "Avatud ühiskonda juhib otsedemokraatia, kus iga kodanik hääletab, samas kui suletud ühiskonda valitseb üks pärilik monarh"
+  - "Avatud ühiskond avaldab kõik valitsuse dokumendid läbipaistvalt, samas kui suletud ühiskond salastab informatsiooni riigisaladustena"
+explanation: >-
+  Popper määratles suletud ühiskonda maagilise või hõimuühiskonnana ja avatud ühiskonda sellisena, milles indiviidid seisavad silmitsi isiklike otsustega. Suletud ühiskond on kollektivistlik, tuginedes hõimumentaliteedile koos kriitilise vabaduse eitamise ja staatilise korra idealiseerimisega. Avatud ühiskond annab esikoha väärtuste, uskumuste ja suhete vabale valikule, kehastades otseselt individualistlikke põhimõtteid.
+reviewed: false

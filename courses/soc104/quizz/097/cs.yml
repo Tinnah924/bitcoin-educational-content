@@ -1,9 +1,9 @@
-question: Jaká je podle manifestu Cypherpunk Erica Hughese hlavní odpovědnost za ochranu soukromí v otevřené elektronické společnosti?
-answer: Jednotlivci musí aktivně bránit své soukromí a nespoléhat se na to, že jim ho poskytnou vlády nebo korporace
+question: "Proč Cypherpunks tvrdili, že je nutná digitální měna s anonymními vlastnostmi?"
+answer: "Protože hotovost, hlavní anonymní transakční systém, v digitální společnosti mizí a je třeba vynalézt digitální náhradu se stejnými vlastnostmi soukromí"
 wrong_answers:
-  - Vlády by měly zavést komplexní předpisy na ochranu soukromí, aby chránily občany před sledováním ze strany podniků
-  - Velké organizace musí dobrovolně zavést ochranu soukromí jako součást své společenské odpovědnosti
-  - Měly by být sjednány mezinárodní smlouvy, které by vytvořily univerzální standardy ochrany soukromí prosazované nadnárodními orgány
-explanation: |
-  Hughes výslovně prohlásil, že "nemůžeme očekávat, že nám vlády, korporace nebo jiné velké anonymní organizace zaručí důvěrnost" a že hlavním cílem Cypherpunků je "přimět lidi, aby si svou důvěrnost hájili, místo aby se spoléhali na to, že ji zajistí někdo jiný".
-  To odráží základní filozofii cypherpunku, kterou je individuální odpovědnost a nedůvěra k centralizovaným institucím. Hnutí věřilo, že kryptografické nástroje by měly jednotlivcům umožnit, aby se chránili sami, místo aby byli závislí na samotných institucích, které považovali za potenciální hrozbu pro soukromí a svobodu.
+  - "Protože existující digitální platební systémy byly příliš pomalé a drahé, což vyžadovalo rychlejší a levnější alternativu pro online obchod"
+  - "Protože vlády již zakázaly všechny formy anonymních transakcí a pouze nová technologie mohla tyto zákony obejít"
+  - "Protože tradiční banky odmítaly obsluhovat určité populace, což z univerzálně dostupného digitálního platebního systému činilo ekonomickou nutnost"
+explanation: >-
+  Manifest šifrantů uvádí, že důvěrnost v otevřené společnosti vyžaduje anonymní transakční systémy. Až do digitálního věku sloužila jako hlavní systém tohoto typu hotovost. V digitální společnosti, kde hotovost mizí, však musí být vynalezena digitální měna se stejnými vlastnostmi anonymity. Tato vize přímo předjímala to, čeho měl Bitcoin dosáhnout.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Mis eristab John Rawlsi "kattuva konsensuse" kontseptsiooni teistest poliitilise kokkuleppe käsitlustest?
-answer: Erinevate põhiuskumustega kodanikud saavad kokku leppida ühistes õigluse põhimõtetes, säilitades samal ajal oma erinevad maailmavaated
+question: "Milline varjatud paradoks peitub tsentristlikus pragmatismis?"
+answer: "Pragmatism ise põhineb dogmatismi vormil, nimelt väljendamata veendumusel, et ainult eksperdid on pädevad ühiskonda juhtima"
 wrong_answers:
-  - Kõik kodanikud peavad loobuma oma isiklikest tõekspidamistest, et võtta vastu ühtne riiklik ideoloogia poliitilise harmoonia saavutamiseks
-  - Poliitiline konsensus eeldab täielikku kokkulepet kõigis moraalsetes ja filosoofilistes küsimustes enne igasugust koostööd
-  - Ainult tehnilised eksperdid saavad määrata õiglasi põhimõtteid, kuna tavakodanikel puudub vajalik ratsionaalne võimekus
-explanation: |
-  Rawlsi kattuv konsensus näitab tsentristliku filosoofia olemust, näidates, kuidas inimesed, kelle religioossed, filosoofilised või moraalsed doktriinid ei sobi omavahel kokku, saavad siiski jõuda ühiste poliitiliste õigluspõhimõtete juurde.
-  Iga inimene toetab neid põhimõtteid oma vaatenurgast, ilma et keegi peaks loobuma oma põhilistest tõekspidamistest. See erineb totalitaarsetest lähenemisviisidest, mis nõuavad ideoloogilist ühtsust, perfektsionistlikest teooriatest, mis nõuavad täielikku moraalset kokkulepet, või tehnokraatlikest mudelitest, mis välistavad kodanike osaluse ekspertide valitsemise kasuks.
+  - "Tsentristid väidavad end olevat mõõdukad, kuid liituvad koalitsioonivalitsustes järjekindlalt vasakparteidega"
+  - "Tsentristlikud poliitikad näivad tasakaalukad, kuid soosivad alati majanduskasvu keskkonnakaitse arvelt"
+  - "Tsentristid lükkavad ideoloogia tagasi, kuid võtavad majandusotsuseid tehes omaks jäigad vabaturu põhimõtted"
+explanation: >-
+  Tsentristliku pragmatismi paradoks seisneb selles, et see väidab end hülgavat ideoloogia ratsionaalse ekspertiisi kasuks, kuid just see väide toetub nähtamatule ja väljendamata dogmale: et ainult tehnokraadid suudavad teha õigeid otsuseid. See veendumus, et üksnes eksperdid peaksid ühiskonda juhtima, on iseenesest ideoloogiline pühendumus, kuigi tsentristid ei tunnista seda sellisena.
+reviewed: false

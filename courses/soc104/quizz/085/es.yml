@@ -1,9 +1,9 @@
-question: Según la teoría del conocimiento disperso de Hayek, ¿por qué las economías de planificación centralizada tienen dificultades para fijar los precios en comparación con los mercados libres?
-answer: Los planificadores centrales no pueden acceder al conocimiento subjetivo y localizado de los costes, beneficios y preferencias individuales que sólo poseen los participantes en el mercado
+question: "¿Cómo constituyen juntas las tres funciones esenciales del mercado libre, según las describen los libertarios, un sistema de organización social eficiente y ético?"
+answer: "Los precios proporcionan una brújula para las decisiones, el mercado revela preferencias auténticas mediante la oferta y la demanda, y el intercambio libre permite a los individuos determinar sus propios asuntos según sus valores personales, combinando eficiencia informacional con autonomía moral"
 wrong_answers:
-  - Los planificadores centrales carecen de potencia de cálculo suficiente y de algoritmos avanzados para procesar todos los datos económicos de que disponen
-  - Los planificadores centrales son intrínsecamente corruptos y fijan los precios en beneficio propio y no de la sociedad, a diferencia de los participantes en el mercado, que son altruistas
-  - Los planificadores centrales se centran demasiado en la estabilidad económica a largo plazo en lugar de responder a las fluctuaciones inmediatas de la oferta y la demanda
-explanation: |
-  La idea clave de Hayek es que el conocimiento sólo existe como "fragmentos dispersos de conocimiento incompleto y frecuentemente contradictorio que poseen todos los individuos distintos" Este conocimiento es subjetivo y localizado: sólo los individuos conocen sus propios costes, beneficios y preferencias. Los mercados libres, a través del intercambio voluntario y la negociación de precios, permiten que surja este conocimiento disperso y coordinan la actividad económica.
-  Los planificadores centrales, independientemente de sus intenciones o capacidades, no pueden acceder a esta información subjetiva y dispersa que existe en las mentes de millones de individuos, lo que hace imposible una fijación de precios eficaz.
+  - "El mercado maximiza la riqueza total, previene los monopolios mediante la competencia natural y garantiza una distribución igual de los recursos, combinando productividad con justicia social"
+  - "Los mercados libres reducen el gasto público, estimulan la innovación tecnológica y crean oportunidades de empleo, combinando responsabilidad fiscal con crecimiento económico"
+  - "Los mercados bajan los precios al consumidor, aumentan la calidad de los productos mediante la competencia y expanden el comercio internacional, combinando prosperidad nacional con cooperación global"
+explanation: >-
+  El argumento libertario a favor del mercado libre descansa en tres funciones interconectadas. Primero, los precios sirven como indicadores fiables que guían las decisiones económicas y sociales (la brújula). Segundo, el mercado revela preferencias individuales auténticas mediante la oferta y la demanda. Tercero, el intercambio libre permite a los actores determinar sus propios asuntos según valores personales. Hayek mostró que los mercados libres coordinan la información dispersa mejor que la planificación central (eficiencia), mientras que el consentimiento mutuo respeta la dignidad humana más que la coacción (justicia).
+reviewed: false

@@ -1,9 +1,9 @@
-question: John Rawlsin päällekkäisen konsensuksen käsitteen mukaan mikä mahdollistaa sen, että kansalaiset, joilla on erilaisia kokonaisvaltaisia oppeja, voivat sopia poliittisista periaatteista?
-answer: Ne voivat tukea yhteisiä oikeudenmukaisuuden periaatteita omasta filosofisesta tai uskonnollisesta näkökulmastaan
+question: "Miksi Ron Paul väittää, että Federal Reserve on haitallinen, ja miten Bitcoin liittyy hänen kantaansa?"
+answer: "Federal Reserve aiheuttaa inflaatiota ja taloussuhdanteita manipuloimalla fiat-rahaa, ja Bitcoin edustaa terveen rahan muotoa, joka voisi korvata kultakannan"
 wrong_answers:
-  - Heidän on luovuttava henkilökohtaisista uskomuksistaan ja omaksuttava yhtenäinen maallinen maailmankuva poliittisia päätöksiä varten
-  - Ne luottavat teknokraattiseen asiantuntemukseen määritellessään, mikä kattava doktriini on järkevin ja tehokkain
-  - Ne vuorottelevat eri kattavien oppien välillä sen mukaan, mitä poliittista kysymystä käsitellään
-explanation: |
-  Rawlsin päällekkäinen konsensus osoittaa, että kansalaisten ei tarvitse luopua erilaisista uskonnollisista, filosofisista tai moraalisista vakaumuksistaan päästäkseen yhteisymmärrykseen poliittisesta oikeudenmukaisuudesta.
-  Sen sijaan ihmiset voivat tukea samoja poliittisia periaatteita eri syistä, jotka juontavat juurensa heidän omiin kattaviin oppeihinsa. Tämä käsite ilmentää sentrististä filosofiaa osoittamalla, miten perustavanlaatuiset erimielisyydet voivat elää rinnakkain poliittisen yhteistyön kanssa ilman, että kansalaisten on tingittävä syvimmistä vakaumuksistaan tai alistuttava tekniseen asiantuntemukseen.
+  - "Federal Reserve rajoittaa pankkikilpailua, ja Bitcoin hajauttaa pankkipalveluja parantaakseen taloudellista osallisuutta"
+  - "Federal Reserve estää vapaakauppaa kansakuntien välillä, ja Bitcoin mahdollistaa rajattomat transaktiot ilman hallituksen hyväksyntää"
+  - "Federal Reserve luo liiallista julkista velkaa, ja Bitcoin tarjoaa deflatorisen valuutan, joka poistaa valtionvelan"
+explanation: >-
+  Minarkisti Ron Paul väittää, että Federal Reserve on vastuussa inflaatiosta ja taloussuhdanteista, koska se manipuloi fiat-rahaa. Hän puolustaa rahan denationalisointia, Friedrich Hayekin ajamaa ajatusta, ja näkee Bitcoinin terveen rahan muotona, joka voisi korvata kultakannan. Hänen kritiikkinsä juurtuu libertaariseen rahateoriaan, ei ensisijaisesti pankkikilpailuun, kaupan esteisiin tai julkiseen velkaan.
+reviewed: false

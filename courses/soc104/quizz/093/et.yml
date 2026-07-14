@@ -1,9 +1,9 @@
-question: Millise tavapäraste valuutade põhiprobleemi püüab Satoshi Nakamoto filosoofia kohaselt Bitcoin lahendada?
-answer: Ülemäärane usaldus, mida nõutakse tsentraliseeritud institutsioonide suhtes, mis ajalooliselt rikuvad seda usaldust valuuta devalveerimise kaudu
+question: "Kes käivitasid 1992. aastal esimese Cypherpunki meililisti?"
+answer: "Tim May ja Eric Hughes, kes lõid platvormi, millest sai liikumise närvikeskus"
 wrong_answers:
-  - Traditsiooniliste maksesüsteemide tehniline ebaefektiivsus, mis töötlevad tehinguid liiga aeglaselt globaalse kaubanduse jaoks
-  - Füüsilise valuuta tootmise keskkonnamõju ja pangainfrastruktuuri süsiniku jalajälg
-  - Riiklike valuutade geograafilised piirangud, mis takistavad sujuvat rahvusvahelist kaubandust ja äritegevust
-explanation: |
-  Satoshi märkis selgesõnaliselt, et "tavapäraste valuutade põhiprobleem on kogu usaldus, mida on vaja, et see toimiks", ja märkis, et "fiat-valuutade ajalugu on täis selle usalduse rikkumisi"
-  Bitcoin oli kavandatud usaldusteta süsteemina, et kaotada sõltuvus keskpankadest, mis on ajalooliselt valuutasid devalveerinud. Kuigi teised võimalused on potentsiaalselt põhjendatud, ei olnud Bitcoin loomise aluseks olev filosoofiline motivatsioon, nagu selle looja on seda väljendanud.
+  - "Satoshi Nakamoto ja Hal Finney, kes hiljem lõid 2008. aastal koos Bitcoini"
+  - "Julian Assange ja Edward Snowden, kes kasutasid nimekirja valitsuse vilepuhumistegevuste koordineerimiseks"
+  - "Phil Zimmermann ja Bruce Schneier, kes kujundasid nimekirja krüpteerimistarkvara levitamise vahendiks"
+explanation: >-
+  1992. aastal käivitasid Tim May ja Eric Hughes esimese Cypherpunki meililisti. Sellest platvormist sai kiiresti liikumise närvikeskus, mis tõi kokku arendajad, krüptograafid ja digitaalse vabaduse eestkõnelejad. Just selles samas nimekirjas jagas Satoshi Nakamoto hiljem 2008. aastal esimest korda Bitcoini White Paperit.
+reviewed: false

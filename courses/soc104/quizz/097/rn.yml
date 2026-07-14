@@ -1,9 +1,9 @@
-question: Dushingiye ku gitabu ca Eric Hughes citwa Cypherpunk Manifesto, ni uruhe ruhara nyamukuru rwo kurinda ubuzima bwite mu kibano c’ubuhinga bwa none gifunguye?
-answer: Abantu ku giti cabo bategerezwa kurwanira n’umwete ubuzima bwite bwabo aho kwizigira intwaro canke amashirahamwe kugira ngo abahe .
+question: "Ni ubuhe butumwa nyamukuru bwa Cypherpunk Manifesto ya Eric Hughes yo mu 1993 ku bijanye n'ubuzima bwite?"
+answer: "Ubuzima bwite ni ngombwa ku kibano cuguruye mu gihe ca electronique, kandi abantu bategerezwa kubwubaka ubwabo aho kurindira ko leta canke amashirahamwe bibubashingira"
 wrong_answers:
-  - Leta zikwiye gushinga amategeko agenga ivy'ubuzima bwite kugira ngo zikingire abanyagihugu gucungera amashirahamwe .
-  - Imiryango minini itegerezwa gushitsa ku bushake uburinzi bw'ubuzima bwite nk'igice c'inshingano zayo z'imibano .
-  - Amasezerano mpuzamakungu akwiye gushikirizwa kugira ngo haboneke ingingo ngenderwako z’ubuzima bwite zishirwa mu ngiro n’inzego zisumba ibihugu .
-explanation: |
-  Hughes yavuze neza ko ‘Ntidushobora kwitega ko intwaro, amashirahamwe canke ayandi mashirahamwe manini manini atazwi azoduha ibanga’ kandi ko intumbero nyamukuru ya Cypherpunks ari ‘ugutuma abantu barwanira ibanga ryabo, aho kwizigira uwundi muntu ngo arihe’.
-  Ivyo vyerekana filozofiya nyamukuru ya cypherpunk y’inshingano z’umuntu ku giti ciwe n’ukutagira icizigiro ku nzego zishingiye ku rwego rwo hejuru. Iryo shirahamwe ryemera ko ibikoresho vy’ubuhinga bwa none bikwiye guha abantu ububasha bwo kwikingira aho kwizigira inzego nyene babona ko zishobora gutuma ubuzima bwite n’umwidegemvyo bihungabana.
+  - "Ubuzima bwite ni ikintu c'akanyamuneza gitegerezwa gutangwa kugira ngo haboneke umutekano w'igihugu n'ugukingira inzego za demokarasi"
+  - "Ubuzima bwite bukwiye kugengwa n'amasezerano mpuzamakungu ashinga ingingo zimwe zo gukingira amakuru mu bihugu vyose"
+  - "Ubuzima bwite buhambaye gusa ku bagizi ba nabi n'abatavuga rumwe n'ubutegetsi, mu gihe abanyagihugu bubahiriza amategeko bungukira ku buryo bwo gucungera buboneka"
+explanation: >-
+  Manifesto ya Eric Hughes yo mu 1993 ivuga ko ubuzima bwite ari ngombwa ku kibano cuguruye mu gihe ca electronique, kandi ko tudashobora kwitega ko leta, amashirahamwe, canke ayandi mashirahamwe manini bibubashingira. Imvo y'ishimikiro ni uko ibanga ari ikintu nyamukuru c'umwidegemvyo kandi ritegerezwa kwubakwa n'abantu ubwabo, ntiririndirwe nk'ingabire iva mu bigo.
+reviewed: false

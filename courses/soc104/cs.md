@@ -1,22 +1,18 @@
 ---
-name: Jaký je váš politický příklon?
-goal: Pochopit složitost moderního politického spektra, abyste mohli identifikovat své vlastní tendence a zařadit hlavní ideologické skupiny mimo dělení na levici a pravici.
+name: Jaké je vaše politické směřování?
+goal: Porozumět komplexnosti moderního politického spektra, abyste dokázali rozpoznat svou vlastní tendenci a zasadit hlavní ideologické rodiny za hranice dělení na levici a pravici.
 objectives: 
-  - Pochopení toho, že politická typologie má více nuancí než jednoduchá osa levice/pravice
-  - Určete dva hlavní rozměry, které strukturují politické spektrum
-  - Charakterizujte čtyři hlavní politické rodiny, Rozdělte tyto politické skupiny
-  - Zkoumání postavení bitcoinářů v politickém spektru
-
+  - Pochopit, že politická typologie je nuancovanější než jednoduchá osa levice/pravice
+  - Identifikovat dvě hlavní dimenze, které strukturují politické spektrum
+  - Charakterizovat čtyři hlavní politické rodiny
+  - Prozkoumat umístění bitcoinérů v politickém spektru
 
 
 ---
 
-Je vaše politická pozice pravicová nebo levicová? Tento kurz nabízí revoluční přístup k chápání politického spektra prostřednictvím základní osy Svoboda-Nátlak. Pomocí Nolanova diagramu analyzujeme politické rodiny - socialisty, konzervativce, centristy a libertariány - nikoli podle jejich deklarovaných záměrů, ale podle míry jejich důvěry ve vládní kontrolu. Objevte logiku spontánního uspořádání, prozkoumejte skutečné filozofické otázky (individualismus vs. kolektivismus) a naučte se definovat vlastní hodnoty, aniž byste upadli do pastí tradičních nálepek.
+Redukuje se vaše politické zařazení na pravici nebo levici? Tento kurz navrhuje jiný rámec: základní osu svoboda–donucení. Pomocí Nolanova diagramu analyzujeme politické rodiny (socialisty, konzervativce, centristy a libertariány) nikoli podle jejich deklarovaných záměrů, ale podle jejich důvěry ve vládní kontrolu. **Objevte logiku spontánního řádu, prozkoumejte skutečné filozofické zlomové linie a naučte se definovat své vlastní hodnoty mimo tradiční nálepky.**
 
-
-
-Tento kurz také odhalí, proč je Bitcoin víc než jen měna: je to politický projekt zděděný po cypherpuncích. Bitcoin zdaleka nelze zařadit na lineární osu, je to decentralizující síla, která se staví proti státní měně a nabízí mírový únik před inflací a dohledem. Omezením centralizované moci nad penězi Bitcoin nově definuje základní politickou otázku: Víte, že o svém životě rozhodujete vy, nebo někdo jiný? Ponořte se do této analýzy, abyste zbystřili svůj ideologický kompas a pochopili hluboký politický dopad této technologie na vaši osobní svobodu.
-
+Tento kurz také ukazuje, proč je Bitcoin politický projekt zděděný po Cypherpunks. Jako decentralizační síla, která se staví proti státní měně, Bitcoin nově vymezuje základní politickou otázku: **rozhodujete o svém životě vy, nebo někdo jiný?**
 
 
 
@@ -25,1906 +21,1606 @@ Tento kurz také odhalí, proč je Bitcoin víc než jen měna: je to politický
 # Úvod
 
 
-
 <partId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</partId>
 
 
+## Přehled kurzu
 
-## Past rozdělení na pravici a levici
+<chapterId>2209cf28-29ab-4092-88bd-9ffdc7942972</chapterId>
 
+### Vítejte
+
+Vítejte v tomto kurzu o velkých politických rodinách. Jste levicoví, pravicoví, libertariáni, konzervativci, socialisté, centristé? Většina z nás byla zvyklá odpovídat na tuto otázku pomocí jednoduché vodorovné čáry vedené od krajní levice ke krajní pravici. Problém je v tom, že tato čára, zděděná po Francouzské revoluci roku 1789, už politickou realitu nepopisuje. Ve skutečnosti ji nikdy plně nepopisovala.
+
+Tento kurz, vytvořený Damienem Theillierem, navrhuje jiný rámec: osu svoboda–donucení. Místo otázky, kde se nacházíte mezi levicí a pravicí, pokládáme zásadnější otázku: důvěřujete jednotlivcům, že si dokážou organizovat vlastní život, nebo věříte, že to za ně musí dělat centralizovaná autorita? Už tento jediný posun perspektivy mění způsob, jak čtete zprávy, hodnotíte politické návrhy a rozumíte svým vlastním přesvědčením.
+
+### Co se naučíte
+
+Na konci tohoto kurzu budete umět:
+
+- **Prohlédnout iluzi levice a pravice.** Pochopíte, proč tato klasifikace, v médiích stále dominantní, více skrývá, než odhaluje, a proč myslitele jako Frederic Bastiat nebo inovace jako Bitcoin jednoduše nelze na tuto čáru umístit.
+- **Zmapovat politické spektrum ve dvou dimenzích.** Pomocí Nolanova diagramu se naučíte rozlišovat ekonomickou svobodu od osobní svobody a identifikovat čtyři velké politické rodiny, které z tohoto rozlišení vyplývají: socialisty, konzervativce, libertariány a centristy.
+- **Analyzovat politické pozice podle jejich struktury, ne podle jejich hesel.** Politici slibují spravedlnost, řád, pokrok nebo rovnováhu. Naučíte se dívat za deklarované záměry a zkoumat skutečný mechanismus, o který se každá rodina opírá: přerozdělování, tradici, dobrovolnou směnu nebo pragmatický kompromis.
+- **Rozpoznat filozofické kořeny politických sporů.** Svoboda jako princip versus svoboda jako příležitost, spontánní řád versus konstruovaný řád, individualismus versus kolektivismus: to jsou skutečné zlomové linie a tento kurz vás vybaví k tomu, abyste je dokázali rozpoznat v jakékoli debatě.
+- **Pochopit, proč je Bitcoin politický projekt.** Bitcoin zdaleka není neutrální technologií; navazuje na cypherpunkovou tradici a klade nejzákladnější politickou otázku naší doby: kdo kontroluje peníze, a tedy kdo kontroluje váš život?
+- **Přesně definovat svou vlastní politickou identitu.** Místo abyste přijali nálepku, kterou vám předá komentátor nebo kvíz, vybudujete svou vlastní pozici z prvních principů a přesně pochopíte, kde stojíte a proč.
+
+### Osnova
+
+Kurz je uspořádán do šesti částí:
+
+**Část 1, Past dělení na pravici a levici.** Začneme rozebráním tradiční politické osy. Na případech Frederica Bastiata a Bitcoinu ukážeme, že nejdůležitější politické myšlenky naší doby nelze zachytit čárou vedenou zleva doprava.
+
+**Část 2, Směrem k novému dělení: svoboda–donucení.** Představíme Nolanův diagram a jeho dvě dimenze, ekonomickou svobodu a osobní svobodu, které odhalují mnohem bohatší politickou krajinu. Zjistíte, kde konzervativci, socialisté, libertariáni a centristé skutečně stojí a proč nálepky jako „krajní pravice“ nebo „krajní levice“ více zamlžují, než vyjasňují.
+
+**Část 3, Politické rodiny pod mikroskopem.** Každou rodinu prozkoumáme do hloubky: její intelektuální původ, klíčové myslitele, vnitřní napětí a slepá místa. Od demokratického socialismu po anarchokapitalismus, od burkeovského konzervatismu po rawlsovský centrismus uvidíte každý proud zevnitř.
+
+**Část 4, Společenské a ekonomické otázky.** Náš rámec aplikujeme na konkrétní debaty: legalizaci drog, imigraci, držení střelných zbraní, zdravotnictví, zdanění, dotace, minimální mzdu. Každou otázku posoudíme optikou všech čtyř politických rodin.
+
+**Část 5, Filozofické rozdíly mezi politickými rodinami.** Půjdeme hlouběji k intelektuálním základům: svoboda jako princip versus jako příležitost, spontánní řád versus konstruovaný řád, individualismus versus kolektivismus. Tato rozlišení odhalují, proč se politické rodiny, které se shodují na cílech, tak často neshodují na prostředcích.
+
+**Část 6, Politický trend mezi bitcoinéry.** Kurz uzavřeme zkoumáním Bitcoinu jako politického projektu, vysledováním jeho kořenů v hnutí Cypherpunk a otázkou, která se táhne celým kurzem: kdo má rozhodovat?
+
+Začněme.
+
+### O autorovi kurzu
+
+Tento kurz vytvořil **[Damien Theillier](https://planb.academy/professors/damien-theillier)**, profesor filozofie v Paříži a absolvent Sorbonne Paris IV. Theillier je zakladatelem Institut Coppet a Ecole de la Liberte, dvou institucí věnovaných znovuobjevování a šíření francouzské liberální tradice. Je spoluautorem příručky pro přípravné třídy *General Culture* (Pearson, 2013) a knihy *A Path to Freedom, the Philosophy from Antiquity to Our Days* (Berg International, 2013). Jeho hluboká znalost dějin politické filozofie dává tomuto kurzu vzácnou kombinaci pojmové přesnosti a praktické relevance.
+
+
+## Past dělení na pravici a levici
 
 
 <chapterId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=j_Ji4d7UiPY)
+Vítejte v tomto kurzu o velkých politických rodinách. Začínáme postavou Sókrata, otce západní filozofie, který nás učil pochybovat a zpochybňovat vlastní názory. Jedním z nejhlouběji zakořeněných názorů v našem moderním myšlení je dělení na levici a pravici. Tento kurz nás vybízí, abychom své politické klasifikace přehodnotili a soustředili se na rozlišení zásadnější než levice versus pravice: na rozlišení mezi svobodou a donucením.
 
+![Smrt Sókrata](./assets/en/001.webp)
 
+### Past dělení na levici a pravici
 
-Mnozí se domnívají, že nejvýraznější rozdělení na Západě je dnes mezi politickou levicí a politickou pravicí. Média věnují tomuto střetu, který je prezentován jako rozhodující pro budoucnost civilizace, velkou část svých diskusí.
+Mnozí věří, že nejvýraznější dělicí linie na dnešním Západě vede mezi politickou levicí a politickou pravicí. Média věnují velkou část svého pokrytí této konfrontaci, která je prezentována jako rozhodující pro budoucnost civilizace. Abychom určili politické sklony jednotlivce, zakreslíme ho na jednoduchou vodorovnou čáru: krajní levice, levice, střed, pravice, krajní pravice.
 
+![Politické spektrum](./assets/en/002.webp)
 
+Toto dělení sahá do roku 1789. Během Francouzské revoluce, v debatách v srpnu a září 1789, seděli poslanci, kteří podporovali zachování královy moci, napravo od předsedy shromáždění, zatímco ti, kteří chtěli jeho pravomoci omezit, seděli nalevo. Problém je v tom, že **tato kategorizace je v naší době do značné míry nefunkční**.
 
-Abychom tedy mohli určit politickou orientaci jednotlivce, vyneseme ji na jednoduchou vodorovnou čáru. Podle jednotlivých tendencí se umístíme na krajní levý, levý, středový, pravý a pravý okraj přímky.
+![Francouzské Národní shromáždění](./assets/en/003.webp)
 
+Tradičně je levice chápána jako reformistická a pravice jako konzervativní. To se ale stalo sporným, protože sociálnědemokratická levice dnes bojuje za zachování nabytých výhod, což ji z tohoto hlediska fakticky činí konzervativní. Většina jednotlivců, kteří se nacházejí mezi dvěma extrémy, je označována za centristy, ale i tato nálepka jejich pozici zjednodušuje.
 
+Měli jste někdy pocit, že levice nebo pravice, socialista nebo konzervativec, přesně nepopisuje vaše názory? Pozice člověka v politickém spektru není statická a často závisí na konkrétní otázce. Pokud je někdo pro ekonomickou svobodu, ale zároveň pro právo imigrovat, kam byste ho umístili na jednoduché linii levice–pravice?
 
-![Political spectrum](./assets/fr/001.webp)
+Základním problémem této osy je, že **nenechává žádné místo klasickému liberálnímu myšlení**, které nelze zařadit ani k levicovému egalitarismu, ani k pravicovému nacionalismu. Kam umístit osobnosti jako Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul nebo Javier Milei? Klasičtí liberálové a libertariáni jsou někdy mylně ztotožňováni s pravicí, nebo dokonce s krajní pravicí. Častěji však v tomto referenčním rámci jednoduše neexistují.
 
+### Případ Frédérica Bastiata
 
+Frédéric Bastiat (1801-1850), emblematická postava francouzské liberální školy, byl poslancem Národního shromáždění. Měl zcela jedinečný přístup: říkal, že hlasuje někdy s levicí, někdy s pravicí, podle projednávaného zákona.
 
-Někteří se přiklánějí k těm, pro které je třeba zachovat a zavést pořádek za každou cenu, to je **správné**. Jiní se přiklánějí k těm, pro něž je třeba za každou cenu uplatňovat rovnost, i kdyby to mělo znamenat reformu všeho - to je **levice**.
+![Frédéric Bastiat](./assets/en/004.webp)
 
+To neznamenalo centristický oportunismus. Bastiat nemohl sedět s royalisty napravo, protože sám byl republikán; a nechtěl sedět ani se socialisty nalevo. Jeho hlasování se řídilo základním principem: **podporou individuálních a ekonomických svobod a omezováním vládních zásahů**. Byl přesvědčen, že společenský řád a prosperita mohou vznikat prostřednictvím soukromé iniciativy a individuální odpovědnosti, s minimem zákonů.
 
+Pro Bastiata nebyla skutečná demarkační linie mezi levicí a pravicí, ale mezi těmi, kdo věřili v donucovací moc státu, a těmi, kdo důvěřovali svobodě a dobrovolnému sdružování. Hlasoval by s levicí, když její návrhy směřovaly ke zrušení privilegií, zaručení občanských svobod nebo odporu proti válce; a s pravicí, když její návrhy chránily soukromé vlastnictví nebo snižovaly daně.
 
-Tato kategorizace je však často příliš zjednodušená a neúčinná. Tradičně je například levice vnímána jako reformistická, zatímco pravice je spíše konzervativní. To se však v dnešní době stalo sporným, neboť levice nyní bojuje za zachování získaných výhod, což ji z tohoto pohledu činí konzervativní.
+### Případ Bitcoinu
 
+Bitcoin je fascinujícím současným příkladem inovace, která překračuje tradiční dělení. Je nepopiratelně **politickým projektem, který se rozchází se současnou měnovou politikou**, ale nelze ho umístit na jednoduchou lineární osu vedoucí od krajní levice ke krajní pravici.
 
 
-Většina lidí, kteří se pohybují mezi oběma extrémy, bývá označována jako centristé, ale toto označení jejich postoj zjednodušuje.
+Příznivce Bitcoinu nacházíme napříč celým politickým spektrem:
 
+- Pro liberální pravici představuje Bitcoin nástroj ochrany proti státním zásahům, zaručující soukromé vlastnictví a měnovou svobodu.
+- Pro část levice představuje Bitcoin kritiku tradičního bankovního systému a prostředek demokratizace financí mimo zavedené instituce.
+- Nezávisle na jakékoli politické ideologii přitahuje mnoho technofilů a investorů jeho decentralizovaná povaha a disruptivní potenciál.
 
+Ve skutečnosti je tradiční dichotomie levice a pravice nedostatečná a nevhodná pro správné situování Bitcoinu. Jednoduchá lineární osa nefunguje dobře, protože ideologie jako fašismus a komunismus sdílejí totalitní charakteristiky, které na takové ose nejsou patrné.
 
-Vezměme si příklad: pokud je někdo pro ekonomickou svobodu, ale také pro právo na přistěhovalectví, kam byste ho zařadili na jednoduchém pomyslném žebříčku levice-pravice? Postavení člověka na politickém spektru není statické a často závisí na daném problému.
+![Podkovovité politické spektrum](./assets/en/005.webp)
 
+### Falešné dělení
 
+Ačkoli se levice a pravice zdají být naprosto protikladné, **sdílejí řadu základních společných bodů**. Oba tábory pravidelně kritizují volný trh: jako zdroj nerovnosti (levice) nebo jako hrozbu pro suverenitu (pravice). Oba sdílejí preferenci státních zásahů, ať už prostřednictvím „strategického státu“, nebo „emancipačního státu“. Navzdory svým zjevným rozdílům všechny politické strany, ať levicové, pravicové, nebo středové, hájí právo státu řídit životy lidí a zasahovat do všech oblastí prostřednictvím regulací a daní.
 
-Mnoho lidí se do ní nehodí, protože si myslí, že levice nebo pravice, socialista nebo konzervativec přesně nevystihují jejich názory.
+Právě proto je opozice levice–pravice nakonec iluzí. Pro ilustraci zvažte následující otázky:
 
+**Společenské otázky**
 
-
-Měli jste někdy pocit, že ne vždy stačí popsat nuance a složitost politických názorů? Mnoho lidí se v nich neorientuje a myslí si, že levice nebo pravice, socialista nebo konzervativec přesně nevystihují jejich názory.
-
-
-
-Přestože toto kritérium je stále užitečné pro označení politické citlivosti, není schopno konceptuálně zohlednit rozmanitost ideologických debat a postojů.
-
-
-
-Problém osy levice-pravice spočívá v tom, že neponechává prostor pro klasické liberální myšlení, které nelze házet do jednoho pytle ani s rovnostářstvím levice, ani s nacionalismem pravice.
-
-
-
-Kam na levo-pravém spektru bychom zařadili takové osobnosti jako Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul, Elon Musk nebo Javier Milei?
-
-
-
-A co klasičtí liberálové a současné myšlenkové směry, jako jsou libertariáni? Někdy jsou falešně ztotožňováni s pravicí, nebo dokonce s krajní pravicí. Častěji však v tomto referenčním rámci neexistují.
-
-
-
-Ekonom a poslanec Frédéric Bastiat svého času říkal, že někdy hlasoval s levicí, jindy s pravicí, podle toho, jaký zákon se projednával.
-
-
-
-![Frédéric Bastiat](./assets/fr/002.webp)
-
-
-
-To neznamená, že byl centristou nebo sociálním demokratem. Bastiat byl rozhodně proti jakékoli formě etatismu, proti jakémukoli druhu vládního intervencionismu. Byl zastáncem maximálních ekonomických a osobních svobod slučitelných s respektem k ostatním, protože věřil, že společenský řád může vzniknout zdola, prostřednictvím soukromé iniciativy, společenské spolupráce a individuální odpovědnosti, s minimem zákonů.
-
-
-
-Vezměme si jiný příklad: **Je Bitcoin pravý nebo levý?
-
-
-
-![Bitcoin](./assets/fr/003.webp)
-
-
-
-Bitcoin je nepochybně projekt, který se vymyká současné měnové politice. Je to tedy politický projekt. Je však těžké umístit Bitcoin na jednoduchou lineární osu vedoucí od krajní levice ke krajní pravici.
-
-
-
-Za prvé, samotná definice pravice a levice je složitá a v průběhu času se vyvíjí, což ztěžuje její striktní klasifikaci. Především však Bitcoin jako decentralizovaná technologie překračuje tradiční politické rozdělení a přitahuje příznivce z různých politických prostředí, z levice i pravice, včetně anarchistů a lidí, kteří se považují za apolitické.
-
-
-
-
-
-- Pravicové osobnosti mohou považovat Bitcoin za alternativu k měnové politice centrálních bank.
-- Přítomny jsou i levicové osobnosti, zejména kvůli potenciálu Bitcoin pro finanční začlenění a jako nástroje proti cenzuře.
-
-
-
-Ve skutečnosti je tradiční dichotomie mezi pravicí a levicí neadekvátní, svévolná a nevhodná pro správné zařazení Bitcoin, což je veřejná měna, kterou může přijmout každý bez ohledu na své politické přesvědčení.
-
-
-
-Navíc jednoduchá lineární osa vedoucí zleva doprava nefunguje dobře, protože ideologie jako fašismus a komunismus mají podobnosti (totalitarismus), které nejsou na takové ose patrné.
-
-
-
-![Spectre politique en fer à cheval](./assets/fr/004.webp)
-
-
-
-Ačkoli je pravice nepochybně ekonomicky liberálnější než levice, oba tábory sdílejí nedůvěru k volnému trhu, svobodě smlouvy a soukromému vlastnictví a přitažlivost pro státní intervencionismus. Pro ty, kdo jsou u moci, ať už na pravici, nebo na levici, je každý problém řešitelný novou regulací nebo daní, a nikoli samoregulací individuálních interakcí.
-
-
-
-Je zajímavé, že některé politické postoje mohou překračovat tradiční dělení na pravici a levici. Například protekcionismus, který často hájí levice, lze snadno skloubit s nacionalismem, hodnotou tradičně spojovanou s pravicí. Podobně rolníci, kteří sice lpí na půdě a rodinných tradicích, což jsou pravicové hodnoty, neváhají vehementně demonstrovat a požadovat státní dotace, což je přístup, který je v souladu se socialistickou logikou.
-
-
-
-A konečně, neskrývá tato stranická polarizace mnohem hlubší a dávnější rozdělení: to, které po staletí oddělovalo ty, kteří vládnou, od těch, kterým se vládne?
-
-
-
-Během pandemie Covidu zavedla většina západních států totalitní kontrolu, a přestože mnohé z nich byly zrušeny, propast mezi vládnoucí třídou a průměrným občanem se prohloubila.
-
-
-
-S vládním zadlužením a inflací jsme svědky moderní formy zotročení, které se projevuje ztrátou kupní síly a schopnosti spořit.
-
-
-Systém fiat peněz ve skutečnosti prospívá nejbohatším lidem a nejmocnějším finančním subjektům, zejména vládám, které jsou největšími dlužníky. Tím, že si půjčují, nutí banky tisknout nové peníze. Výsledná inflace je mechanismus, který zákeřně znehodnocuje peníze a ničí úspory lidí.
-
-
-
-Základním kamenem této expanze státní moci je fiat měna. Umožňuje vládám financovat neomezené výdaje a odstraňuje rozpočtová omezení, která existovala za zlatého standardu. Toto novodobé otroctví udržuje elita odhodlaná zachovat si svá privilegia, zatímco oslabené obyvatelstvo, odzbrojené tváří v tvář státní expanzi, postupně podléhá kontrole ve všech oblastech své existence.
-
-
-
-V tomto kurzu si ukážeme, že politické prostředí je mnohem bohatší a složitější než jen dvě kategorie levice a pravice, a to díky vizuálnímu modelu, který nám pomůže lépe porozumět různým politickým rodinám.
-
-
-
-Před zahájením tohoto kurzu bych vás rád vyzval ke krátkému kvízu. Pokuste se odpovědět na následující otázky:
-
-
-
-**Sociální otázky**
-
-
-
-
-- Měla by vláda vlastnit nebo kontrolovat noviny, rozhlas nebo televizi?
-- Měla by vláda regulovat sexuální aktivity mezi dospělými, včetně prostituce?
-- Měly by být legalizovány drogy jako marihuana, kokain a heroin?
-- Mělo by být legální, aby lidé mohli cestovat nebo vstupovat do země a vystupovat z ní bez omezení?
-- Měla by vláda vyslat vojáky, aby zasahovali do záležitostí jiných zemí?
+- Měla by vláda vlastnit nebo kontrolovat noviny, rozhlas či televizi?
+- Měla by vláda regulovat sexuální aktivitu mezi souhlasícími dospělými, včetně prostituce?
+- Měly by být drogy jako marihuana, kokain a heroin legalizovány?
+- Mělo by být legální, aby lidé cestovali nebo vstupovali do země a opouštěli ji bez omezení?
+- Měla by vláda vysílat vojáky, aby zasahovali do záležitostí jiných zemí?
 - Měly by mít děti zákonnou povinnost chodit do školy?
-- Měli by mít rodiče právo učit své děti doma?
-- Mělo by být vlastnictví zbraní omezeno zákonem?
+- Měli by rodiče smět učit své děti doma?
+- Mělo by být držení střelných zbraní omezeno zákonem?
 - Jaká by měla být vládní politika v oblasti životního prostředí?
-- Potřebujeme veřejnou instituci, která zajistí, aby léky byly bezpečné a účinné?
-
-
+- Potřebujeme veřejnou instituci, která zajistí, že léky jsou bezpečné a účinné?
 
 **Ekonomické otázky**
 
-
-
-
 - Měla by vláda dotovat zemědělce a regulovat, co pěstují?
-- Měla by vláda zavést cla, kvóty, embarga nebo jiná omezení mezinárodního obchodu?
+- Měla by vláda uvalovat cla, kvóty, embarga nebo jiná omezení na mezinárodní obchod?
 - Měla by vláda zavést povinnou minimální mzdu?
-- Je zdanění jediným způsobem, jak zaplatit nezbytné veřejné služby?
-- Měla by vláda pomáhat podnikům v těžkých ekonomických časech nízkoúročenými půjčkami nebo dotacemi?
-- Jak nejlépe zvládnout dnešní obrovské rozpočtové schodky?
+- Je zdanění jediným způsobem, jak platit nezbytné veřejné služby?
+- Měla by vláda pomáhat firmám v obtížných ekonomických dobách nízkoúročenými půjčkami nebo dotacemi?
+- Jaký je nejlepší způsob, jak zvládnout dnešní masivní rozpočtové deficity?
 - Jak můžeme vyřešit problém deficitu systému sociálního zabezpečení?
 - Měla by vláda posílat finanční pomoc jiným zemím?
-- Co by měla vláda udělat s rostoucími náklady na zdravotní péči?
+- Co by měla vláda dělat s rostoucími náklady na zdravotnictví?
 - Jaká by měla být vládní politika v oblasti jaderné energie?
 
+Ve všech těchto otázkách se objevuje jedno ústřední téma: **jakou míru vládní kontroly jste ochotni tolerovat?** A jste více či méně nuceni podílet se na financování této kontroly? Základní politická otázka zní: kdo má rozhodovat? Děláte důležitá rozhodnutí o svém osobním a společenském životě vy, nebo je za vás dělá někdo jiný?
 
+### Vládci a ovládaní
 
-Ve všech těchto otázkách se objevuje jedna ústřední a rozhodující otázka: míra vládní kontroly, kterou můžete tolerovat, a tedy i míra financování, na které jste více či méně nuceni se podílet.
+Tato stranická polarizace zakrývá mnohem hlubší a starší dělení: **to, které po staletí odděluje ty, kdo vládnou, od těch, kterým je vládnuto**. Na jedné straně lidé, kteří nesou inflaci, fiskální tlak a finanční dohled; na druhé technokratická a politická elita, která utrácí peníze jiných lidí, a velmi často i pomocí tiskařského lisu, tedy fiat měny, údajně pro dobro lidu.
 
+![Daně](./assets/en/006.webp)
 
+Systém fiat peněz zvýhodňuje nejbohatší jednotlivce a nejmocnější finanční subjekty, zejména vlády, které jsou největšími dlužníky. Když si půjčují, tlačí banky k vytváření nových peněz. Výsledná inflace plíživě znehodnocuje peníze a ničí úspory lidí. Fiat měna je základním kamenem této expanze státní moci: umožňuje vládám financovat neomezené výdaje a odstraňuje rozpočtová omezení, která existovala pod zlatým standardem.
 
-Základní politická otázka tedy zní: **Kdo má rozhodovat? ** Jinak řečeno: **Máte důležitá rozhodnutí o svém osobním a společenském životě činit vy, nebo je má za vás činit někdo jiný?
+Jak Frédéric Bastiat poznamenal v devatenáctém století:
 
+> „Ve všech revolucích vždy existovaly jen dvě proti sobě stojící strany: strana lidí, kteří chtějí žít ze své vlastní práce, a strana těch, kteří by chtěli žít z práce druhých.“
 
+Jinými slovy: ti, kdo vytvářejí bohatství, a ti, kdo se ho zmocňují, aby ho přerozdělili svým podporovatelům.
 
-V roce 1966 spisovatel Robert Heinlein v románu *Vzpoura na Moon* (Moon je drsná milenka) rozvíjí myšlenku, že vlády vždy nakonec hromadí moc a ovládají občany, což nazývá nevyhnutelnou nemocí lidských bytostí.
+### Kontroloři a nekontroloři
 
+Na závěr tohoto úvodu se obraťme k jednomu sci-fi románu ze 60. let. V *The Moon is a Harsh Mistress* (1966) Robert Heinlein brilantně shrnul, co tvoří skutečnou politickou zlomovou linii:
 
+![Měsíc je drsná milenka](./assets/en/007.webp)
 
-![The Moon is a Harsh Mistress](./assets/fr/005.webp)
+> „Lidská rasa se politicky dělí na ty, kdo chtějí, aby lidé byli kontrolováni, a na ty, kdo takovou touhu nemají.“
 
+![Citát Roberta Heinleina](./assets/en/008.webp)
 
+„Kontroloři“ zahrnují všechny, kdo bez ohledu na svou deklarovanou ideologii, od krajní levice po krajní pravici, věří, že stát nebo vyšší entita musí regulovat, řídit a vnucovat chování pro dobro společnosti. Upřednostňují řešení shora dolů, plánování a donucení.
 
-Všímá si, že lidstvo je politicky rozděleno na ty, kteří chtějí ovládat životy ostatních, a na ty, kteří nechtějí.
+„Nekontroloři“ jsou naopak ti, kdo si nepřejí vykonávat moc nad druhými a zastávají maximální individuální svobodu. Cení si osobní odpovědnosti, dobrovolného sdružování a spontánnosti společenského řádu a minimalizují vládní zásahy. Právě zde nacházíme osobnosti jako Frédéric Bastiat nebo principy decentralizace ztělesněné Bitcoinem.
 
+V tomto kurzu uvidíme, že **politická krajina je mnohem bohatší a složitější než levice a pravice**, díky vizuálnímu modelu, který nám pomůže lépe porozumět různým politickým rodinám a tomu, kde každý z nás stojí.
 
-
-> Lidstvo se politicky dělí na ty, kteří chtějí, aby byli lidé ovládáni, a na ty, kteří po tom netouží.
-
-![The Moon is a Harsh Mistress quote](./assets/fr/006.webp)
-
-
-
-V dnešní době všechny politické strany, ať už levicové, středové nebo pravicové, hájí právo státu řídit životy lidí a zasahovat do všech záležitostí prostřednictvím regulací a daní. V mainstreamových médiích najdeme totéž: referenční rámec je etatistický.
-
-
-
-Měl by se tedy překonat tradiční politický model levice versus pravice? A pokud ano, tak ve prospěch jakého jiného modelu?
-
-
-
-
-# K novému rozdělení: svoboda-nátlak
-
+# Směrem k novému dělení: svoboda–donucení
 
 <partId>fb5cb390-67ad-41f3-903d-c208b84e6a0c</partId>
 
 
 
-
 ## Nolanův diagram
-
 
 <chapterId>7b3aa120-6eee-45a1-9e46-856e26403e08</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=rN4fA3ImJjE)
+### Od jedné dimenze ke dvěma
 
+Místo dělení politických doktrín podél osy pravice/levice dává mnohem větší smysl dívat se na věci prizmatem svobody. Klasické znázornění politického spektra je vodorovná čára vedoucí zleva doprava.
 
+![Lineární politické spektrum](./assets/en/009.webp)
 
-Namísto dělení politických doktrín na pravici a levici by bylo smysluplnější dívat se na věci prizmatem svobody. Pak bychom měli osu svoboda-moc, takže klasické liberální myšlení by konečně našlo své místo na politické šachovnici.
+Tento model nadměrně zjednodušuje komplexnost politických ideologií a především opomíjí zásadní kritérium: **míru státních zásahů**. Jak jsme probírali v úvodu, základní otázka zní: kdo rozhoduje? Jste to vy, nebo někdo jiný?
 
+To nás vede k odmítnutí jednorozměrného modelu ve prospěch modelu dvourozměrného. David Nolan, zakladatel Libertarian Party v roce 1971 a bývalý student MIT (Massachusetts Institute of Technology), navrhl schéma, které mnohem lépe vystihuje komplexnost politického spektra. Jeho diagram používá dvě osy:
 
+1. Svislou osu měřící **osobní svobody**
+2. Vodorovnou osu měřící **ekonomické svobody**
 
-Správný pohled na věc by tedy byl postavit do protikladu obhájce svobody a obhájce státu - ty, kteří věří ve schopnost jednotlivců odpovědně se organizovat, a ty, kteří chtějí silnou autoritu, která by je uklidňovala a kontrolovala životy ostatních.
+![Nolanův diagram](./assets/en/010.webp)
 
+Čím blíže jste k nulovému bodu (vlevo dole), tím více vaše ideologická pozice upřednostňuje státní zásahy. Naopak čím dál se posouváte k protilehlému rohu (vpravo nahoře), tím více upřednostňujete minimální státní zásahy a maximální individuální svobody. Z tohoto pohledu jsou tradiční levice a pravice relativizovány: levice má sklon upřednostňovat osobní svobody na úkor ekonomických svobod, zatímco klasická pravice upřednostňuje ekonomickou svobodu na úkor osobních svobod.
 
-David Nolan, zakladatel Libertariánské strany v roce 1971 a autor dnes známého Nolanova grafu, to pochopil. Jako absolvent Massachusettského technologického institutu (MIT) navrhl graf, který pravděpodobně lépe znázorňuje složitost politického spektra.
+![Dvourozměrné politické spektrum s osami osobní a ekonomické svobody](./assets/en/011.webp)
 
+### Pět kvadrantů
 
+Když je diagram zobrazen ve tvaru kosočtverce, můžeme rozlišit pět kvadrantů, které přesně situují různé politické filozofie:
 
-Jeho myšlenkou je přidat k ose levice-pravice druhou osu svoboda/moc vedoucí od etatismu dole (bod nula) k libertarianismu nahoře. Čím dále od bodu nula, tím libertariánštější je ideologická pozice.
+![Nolanův kosočtverec](./assets/en/012.webp)
 
+- **Etatismus** (dole): Nejautoritářštější, dokonce totalitní pozice. Ti, kdo podporují velmi malou ekonomickou nebo osobní svobodu.
+- **Socialismus** (vlevo): Ti, kdo podporují menší ekonomickou svobodu, ale větší osobní svobodu.
+- **Konzervatismus** (vpravo): Ti, kdo podporují větší ekonomickou svobodu, ale menší osobní svobodu.
+- **Libertarianismus** (nahoře): Opak etatismu. Ti, kdo podporují největší ekonomickou i osobní svobodu.
+- **Centrismus** (uprostřed): Pragmatická zóna pro ty, kdo upřednostňují směs svobody a regulace, což implikuje obětování určitých individuálních práv.
 
+**Základní osa je tedy osa svislá**: mezi těmi, kdo hájí maximální individuální svobody (nahoře), a těmi, kdo upřednostňují maximální státní kontrolu a zásahy do životů lidí (dole).
 
-![Graphique](./assets/fr/007.webp)
+### Nuance uvnitř každé rodiny
 
+![Nuance a vnitřní napětí v každé politické rodině](./assets/en/013.webp)
 
+Věci nejsou jednoduché a vždy je obtížné hájit zcela monolitickou politickou pozici. Uvnitř každé politické rodiny existují napětí a rozpory:
 
-![Graphique](./assets/fr/008.webp)
+- Mezi **socialisty** je většina demokratů připoutaných k volbám, občanským svobodám a určité míře tržní ekonomiky. Někteří však demokracii odmítají a prosazují revoluci, úplné zrušení kapitalismu a centrální ekonomické plánování.
+- Mezi **konzervativci** jsou někteří silně proti daním a sociálním programům, což je posouvá blíže k libertariánskému vrcholu. Jiní mají autoritářštější sklony a upřednostňují ekonomickou regulaci; zde lze pomyslet na kontroverze kolem Donalda Trumpa.
+- Mezi **libertariány** chtějí někteří zcela zrušit stát a nahradit ho soukromými službami (anarchokapitalisté), zatímco jiní dávají přednost minimálnímu státu, který si ponechá své základní suverénní funkce („minarchisté“).
 
+![Libertariánské nuance v Nolanově diagramu](./assets/en/014.webp)
 
+- **Zelení** se v diagramu pravděpodobně nacházejí velmi nízko. Domnívají se, že **individuální zájem nesmí mít přednost před kolektivním zájmem planety**. V jistém smyslu Zelení nahradili marxistický třídní boj bojem mezi člověkem a přírodou a mají sklon hájit ekonomickou kontrolu a dokonce zrušení soukromého vlastnictví ve jménu planetárního blaha.
 
-Diagram je čtverec rozdělený na pět částí, přičemž ke každé z nich je přiřazeno označení:
+![Zelené strany umístěné v autoritářském sektoru Nolanova diagramu](./assets/en/015.webp)
 
-
-
-
-- Dole: nejautoritářštější, až totalitní forma etatismu, odpovídající těm, kteří podporují jen velmi málo ekonomické a osobní svobody.
-- Nalevo: socialisté. Ti, kteří podporují méně ekonomické svobody a více osobní svobody.
-- Vpravo: konzervativci. Ti, kteří podporují vysokou míru ekonomické svobody a nízkou míru osobní svobody.
-- Nahoře: libertariáni, opak tvrdého etatismu. Jsou to lidé, kteří podporují větší ekonomickou a osobní svobodu.
-- Uprostřed jsou centristé. Toto je pragmatická zóna pro příznivce systému, který kombinuje trochu ekonomické a osobní svobody s touhou po určité regulaci trhu, což znamená obětování některých individuálních práv.
-
-
-
-Díky tomu je Nolanův dvourozměrný diagram mnohem přesnějším zobrazením politického spektra než typická jednorozměrná linie zleva doprava, na kterou se odvolává většina politických analytiků.
-
-
-
-## Dva základní rozměry
-
+## Dvě základní dimenze
 
 <chapterId>e41d903d-26c9-425e-8a92-6aec48838b61</chapterId>
 
 
 
-Diagram znázorňuje ekonomické svobody (výše daní, volný trh, soukromé služby) na ose x a osobní svobody (svoboda pohybu, názor, sebeurčení) na ose y.
 
+Diagram znázorňuje ekonomické svobody (úroveň daní, volný trh, soukromé služby) na vodorovné ose a osobní svobody (svoboda pohybu, názoru, sebeurčení) na svislé ose. Toto schéma vychází z myšlenky, že většinu politických otázek lze rozdělit do dvou širokých kategorií: ekonomických a osobních (nebo společenských).
 
+### Ekonomické svobody
 
-Toto schéma je založeno na myšlence, že většinu politických otázek lze rozdělit do dvou velkých kategorií: ekonomické a osobní (nebo společenské).
+**Kategorie ekonomické svobody zahrnuje to, co děláte jako výrobce a spotřebitel**: co můžete kupovat, prodávat nebo vyrábět; kde pracujete; koho zaměstnáváte; a co děláte se svými penězi.
 
+![Ekonomické svobody: co děláte jako výrobce a spotřebitel](./assets/en/016.webp)
 
+*Příklady ekonomické činnosti:* založení podniku, koupě domu, stavba budovy, investování úspor, najímání nebo propouštění zaměstnanců.
 
-### Hospodářské svobody
+![Příklady ekonomických činností v Nolanově diagramu](./assets/en/017.webp)
 
+- **Napravo od osy** (směrem k maximální ekonomické svobodě): preference menších státních zásahů do ekonomiky, menší regulace, nižších daní a větší svobody firem a jednotlivců vyrábět, obchodovat a spotřebovávat. Důraz je kladen na volný trh, soukromé vlastnictví a konkurenci jako motory prosperity.
+  - *Emblematické osobnosti:* Margaret Thatcher (UK), Ronald Reagan (USA), Javier Milei (Argentina).
 
-Kategorie ekonomické svobody zahrnuje to, co děláte jako výrobce a spotřebitel - co můžete koupit, prodat nebo vyrobit. Kde pracujete, koho zaměstnáváte nebo co děláte se svými penězi.
+![Nolanův kosočtverec: osa ekonomické svobody](./assets/en/018.webp)
 
+- **Nalevo od osy** (směrem k maximální státní kontrole ekonomiky): preference regulace, vysokých daní k financování veřejných služeb (zdraví, vzdělávání, doprava), znárodňování a přerozdělování bohatství. Cílem je často snižovat nerovnosti a zaručit určitou míru sociální spravedlnosti.
+  - *Emblematické osobnosti:* Franklin D. Roosevelt (USA), Jean Jaurès (Francie), Bernie Sanders, Barack Obama.
 
-
-Příklady ekonomické aktivity: založení podniku, koupě domu, stavba budovy, nakupování, práce v kanceláři.
-
-
-
-
-
-- Vpravo od osy** (směrem ke 100 na stupnici ekonomických otázek): preference **ekonomické svobody**. To znamená méně státních zásahů do ekonomiky, méně regulací, nižší daně a větší svobodu pro podniky a jednotlivce při výrobě, obchodování a spotřebě. Důraz je kladen na volný trh, soukromé vlastnictví a konkurenci jako hnací sílu prosperity.
- - Emblematické osobnosti:* Margaret Thatcherová (Velká Británie), Ronald Reagan (USA), Javier Milei (Argentina).
-
-
-
-![Right Graphique](./assets/fr/009.webp)
-
-
-
-
-
-- Vlevo od osy** (směrem k 0 na stupnici ekonomických otázek): preference **silných státních zásahů do ekonomiky**. To znamená regulaci, vysoké daně na financování veřejných služeb (zdravotnictví, školství, doprava), znárodňování a přerozdělování bohatství. Cílem je často snížit nerovnosti a zajistit určitou míru sociální spravedlnosti.
-  - Symbolické postavy:* Franklin D. Roosevelt (USA), Jean Jaurès (Francie), Bernie Sanders, Barack Obama.
-
-
-
-![Left Graphique](./assets/fr/010.webp)
-
-
+![Nolanův kosočtverec: levicový etatismus](./assets/en/019.webp)
 
 ### Osobní a společenské svobody
 
+**Kategorie osobní svobody zahrnuje to, co děláte ve svých soukromých vztazích**, se svými názory a přesvědčeními. Obecně jde o všechno, co děláte se svým vlastním tělem a myslí.
+
+![Osobní svobody: co děláte ve svých soukromých vztazích](./assets/en/020.webp)
+
+*Příklady osobních činností:* manželství, volba knih, které čtete, a filmů, které sledujete, potravin, léků a drog, které se rozhodnete konzumovat, vaše náboženské volby, organizace, do nichž vstupujete, lidé, s nimiž se rozhodnete stýkat.
+
+![Příklady osobních a společenských svobod v Nolanově diagramu](./assets/en/021.webp)
+
+- **Horní část osy** (směrem k maximální osobní svobodě): preference individuální svobody a tolerance. Stát by měl co nejméně zasahovat do životních voleb jednotlivců (svoboda projevu, legalizace určitých látek, svoboda pohybu atd.). Ceníme si autonomie a rozmanitosti.
+  - *Emblematické osobnosti:* Nelson Mandela, Simone Veil, Noam Chomsky.
+
+![Nolanův kosočtverec: osa osobních svobod](./assets/en/022.webp)
+
+- **Spodní část osy** (směrem k maximální státní kontrole osobního života): preference řádu, bezpečnosti a tradičních hodnot. Stát má roli v regulaci mravů, udržování veřejného pořádku a někdy i v obraně určité vize morálky nebo tradice. Patří sem postoje podporující trest smrti, omezení imigrace nebo vládou vedenou podporu tradiční rodiny.
+  - *Emblematické osobnosti:* Joseph de Maistre (francouzský kontrarevoluční filozof) a současní autoritářští vůdci jako Vladimir Putin a Xi Jinping.
+
+![Nolanův kosočtverec: autoritářská osa](./assets/en/023.webp)
 
 
-Kategorie osobní svobody zahrnuje to, co děláte ve svých soukromých vztazích, se svými názory a přesvědčením. Obecně jde o vše, co děláte se svým tělem a myslí.
-
-
-
-*Příklady osobních aktivit:* manželství, výběr knih, které čtete, a filmů, které sledujete, jídlo, léky a drogy, které konzumujete, sport, náboženská volba, organizace, do kterých vstupujete, lidé, se kterými se rozhodnete stýkat.
-
-
-
-
-
-- Horní část osy** (směrem ke 100 na stupnici sociálních otázek): preference **individuální svobody** a tolerance. Stát by měl co nejméně zasahovat do životních rozhodnutí jednotlivců (právo na potrat, práva LGBTQ+, svoboda projevu, legalizace některých látek atd.). Ceníme si autonomie a rozmanitosti.
-  - Symbolické postavy:* Nelson Mandela, Simone Veil, Noam Chomsky.
-
-
-
-
-![Left Libertes Graphique](./assets/fr/011.webp)
-
-
-
-
-
-- V dolní části osy** (směrem k 0 na stupnici sociálních otázek): preference **řád, bezpečí a tradiční hodnoty**. Stát hraje roli při regulaci morálky, udržování veřejného pořádku a někdy i při obraně určité vize morálky nebo tradice, a to i prostřednictvím násilí. Patří sem postoje podporující trest smrti, omezení imigrace nebo státem řízenou podporu tradiční rodiny.
-  - Emblematické postavy:* Joseph de Maistre (francouzský kontrarevoluční filozof) - pro své myšlenky o božském řádu a autoritě. Současní autoritářští vůdci, jako je Vladimir Putin v Rusku a Si Ťin-pching v Číně.
-
-
-
-
-![Libertes Graphique](./assets/fr/012.webp)
-
-
-
-## Jste pravicový nebo levicový etatista?
-
+## Jste pravicový, nebo levicový etatista?
 
 
 <chapterId>06d903fc-9453-47d4-b0b1-38b6b82ccf99</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=AskWWBXom3Y)
+### Etatismus jako společný základ
 
+Navzdory zdání si levice a pravice nejsou tak protikladné, jak se zdají. Velmi často sdílejí společnou touhu po kontrole: to, co můžeme nazvat etatismem. Jejich motivace, hodnoty a priority se samozřejmě liší.
 
+Levice se méně zabývá tradičními morálními požadavky, ale dává prioritu sociální spravedlnosti a rovnosti, zejména na ekonomické úrovni. Odtud pramení její nepřátelství k ekonomické svobodě, kapitalismu a volnému trhu: **levice chce legislativně upravovat a regulovat ekonomiku**.
 
-Člověk může být levicový v ekonomice (zastánce přerozdělování), ale pravicový ve společenských otázkách (velmi lpí na řádu a tradicích). A naopak! Model ve tvaru kosočtverce zachycuje tuto složitost.
+Pravice zase dává prioritu osobní morálce a tradičním hodnotám. Má za to, že civilizace byla vybudována na určitých tradičních institucích a společenských hierarchiích a že toto dědictví musí být zachováno. Je příznivější ekonomické svobodě, protože hájí morálku soukromého vlastnictví a individuální odpovědnosti, ale **chce legislativně upravovat morálku a náboženství**.
 
+### Svislá osa odhaluje pravdu
 
+Ústřední myšlenkou Nolanova diagramu je, že hlavní rozdíl mezi politickými filozofiemi spočívá v míře vládní kontroly nad lidským jednáním, ať v osobní, nebo ekonomické oblasti. Jinými slovy, existuje nejen osa levice–pravice odrážející vaše osobní citlivosti, ale také osa shora dolů odrážející vaši ochotu použít sílu, abyste druhé donutili následovat vaše hodnoty.
 
-Levice je tradičně spojována se socialismem, systémem, v němž má stát významné pravomoci nad jednotlivci a organizací společnosti, zejména pokud jde o přerozdělování příjmů. Pravici lze chápat jako opak, tedy situaci, kdy stát nemá významné pravomoci, což by ji definovalo jako liberální. Skutečnost je však složitější a pravice není pouhým opakem etatistické levice.
+![Levicový a pravicový etatismus](./assets/en/024.webp)
 
+Z tohoto pohledu sdílejí levice a pravice stejný politický cíl: získat moc, aby mohly organizovat společnost podle své vize světa a vnutit ji všem. To je samotná definice etatismu: používat zákonodárství ke kontrole a formování společnosti. Pro některé je to ve jménu obrany civilizace; pro jiné ve jménu obrany dělnické třídy, přírody nebo utlačovaných. A centristé to také schvalují, když se jim to hodí.
 
+Proto můžeme říci, že **někteří jsou pravicoví etatisté, zatímco jiní jsou levicoví etatisté**. Skutečná politická otázka tedy nezní ani tak, zda jste vlevo, nebo vpravo, ale spíše do jaké míry chcete, aby stát zasahoval do utváření společnosti podle vašich hodnot. Přejete si vnucovat své vlastní citlivosti druhým, nebo dáváte přednost tomu, aby **každý člověk mohl svobodně rozhodovat sám za sebe**?
 
-Politiky pravicových a levicových vlád se v posledních desetiletích zásadně nelišily a žádná z nich nebyla skutečně liberální v klasickém evropském smyslu.
-
-
-
-Hlavní myšlenkou Nolanova diagramu je, že hlavním rozdílem mezi politickými filosofiemi, skutečným určujícím faktorem, je míra vládní kontroly nad lidským jednáním v osobní a ekonomické sféře.
-
-
-
-Jinými slovy, existuje nejen osa levá-pravá, která odráží vaše osobní hodnoty, ale také osa horní-dolní, která odráží vaši ochotu použít sílu k tomu, abyste ostatní přinutili následovat vaše hodnoty.
-
-
-
-Z tohoto pohledu mají pravice i levice stejný politický cíl: získat moc, aby mohly uspořádat společnost podle své vize světa a vnutit ji všem.
-
-
-
-To je samotná definice etatismu: používání legislativy ke kontrole a formování společnosti.
-
-
-
-Proto můžeme říci, že někteří jsou **pravicoví etatisté**, zatímco jiní jsou **levicoví etatisté** nebo středově orientovaní.
-
-
-
-![Libertes Graphique](./assets/fr/013.webp)
-
-
-
-Někteří ve jménu obrany civilizace, jiní ve jménu obrany dělnické třídy, přírody nebo utlačovaných. A centristé to také schvalují, když se jim to hodí.
-
-
-
-Pravičáci věří, že nejdůležitější je osobní morálka, a proto jsou ochotni připustit svobodu v majetkových a ekonomických otázkách. Na druhou stranu chtějí současně uzákonit morálku a náboženství.
-
-
-
-Levice zase nepřikládá velký význam tradičním morálním a náboženským požadavkům. Méně ji zajímá božská spravedlnost, ale především sociální spravedlnost, nebo možná představa, že božská spravedlnost *by* byla sociální spravedlností. Vhodné rozdělení odměn ve společnosti je pro ni považováno za záležitost soudního nebo politického rozhodnutí. V důsledku toho je politická levice nepřátelská vůči ekonomické svobodě a volnému trhu, které zřejmě nerozdělují bohatství a odměny podle individuálních potřeb.
-
-
-
-## Jste kulturní nebo politický konzervativec?
-
+## Jste kulturní konzervativec, nebo politický konzervativec?
 
 <chapterId>bef3d6f1-390a-472d-8f18-a559d38aea54</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=4DDAZGjQk2Q)
+### Dva odlišné konzervatismy
 
+![Rozlišení mezi kulturním a politickým konzervatismem](./assets/en/025.webp)
 
+Termín „konzervatismus“ může vyvolávat zmatek. Musíme bezpodmínečně **rozlišovat mezi kulturním konzervatismem, který patří do oblasti hodnot**, a politickým konzervatismem, což je politická filozofie spoléhající na vnucování těchto hodnot celé společnosti.
 
-Kulturní konzervatismus je osobní lpění na takzvaných tradičních morálních hodnotách, antropologii, estetice a metafyzice, zděděných z minulosti. Je to životní moudrost, která se řídí zásadami předků, ať už řecko-římskými, nebo židovsko-křesťanskými. **Není to politická filozofie**
+**Politický konzervatismus** je ideologie, často zastoupená v pravicových nebo krajně pravicových politických stranách. Usiluje o zachování zavedených politických institucí a společenského řádu a staví se proti jakýmkoli velkým strukturálním otřesům. Jeho zastánci chtějí používat moc a zákon k ochraně svého dědictví. Ve Francii tato tradice sahá ke kontrarevolučním myslitelům, jako byli Joseph de Maistre a Louis de Bonald, a nověji ve dvacátém století k Raymondovi Aronovi.
 
+**Kulturní konzervatismus** je naproti tomu životní moudrost: osobní přilnutí k rodinným, morálním, estetickým a metafyzickým hodnotám zděděným z minulosti, ať řecko-římským, nebo židovsko-křesťanským. Není to politická filozofie. Kulturní konzervativec věří, že člověk ke štěstí potřebuje povznesení duše, duchovní hodnoty a určitou ušlechtilost citu. Tyto hodnoty nejsou vnucovány druhým; jsou žity jako osobní a někdy rodinná volba.
 
+### Můžete být kulturní konzervativec a libertarián
 
-Pokud jste kulturní konzervativec, jste zastáncem tradiční rodiny, ctnostné etiky a víry v Boha. Kulturní konzervativec věří, že člověk, aby byl šťastný, potřebuje povznesení duše, duchovní hodnoty a určitou ušlechtilost citů.
+Tyto dvě větve, byť odlišné, se někdy zaměňují, protože mohou být přijaty současně nebo odděleně. **Můžete být kulturní konzervativec, aniž byste byli politický konzervativec.** Jednotlivec může hájit kulturní tradice (rodinu, náboženství, místní zvyky) ve svém osobním nebo komunitním životě a zároveň prosazovat omezenou vládu, která tyto hodnoty nevynucuje zákonem. Takový člověk podporuje konzervativní normy přesvědčováním, vzděláváním a příkladem, přičemž respektuje právo druhých žít jinak.
 
+Kulturně konzervativní libertarián může některé chování morálně neschvalovat, ale **neprosazuje zákonný zákaz konsensuálních, neagresivních jednání**. Taková jednání se mu mohou nelíbit, může jim odporovat a aktivně od nich odrazovat, ale vždy bez použití donucovací síly zákona.
 
+Tato syntéza libertarianismu a kulturního konzervatismu dostala ve Spojených státech název „paleo-libertarianismus“. Tento proud se odlišuje od neo-libertarianismu (směru sympatičtějšího k egalitarismu a společenskému vývoji 70. let) tím, že kombinuje **odmítnutí státu jako institucionálního zdroje donucení** s posílením tradičních institucí a preferencí dobrovolných společenských struktur před státní autoritou. Jinými slovy, paleo-libertarián se nestaví proti existenci socialistických nebo komunitárních společenství; odmítá, aby taková společenství vnucovala své hodnoty všem silou zákona. Tento přístup ztělesňují dvě významné postavy:
 
-Na druhé straně **politický konzervatismus** je způsob uspořádání společnosti podle pevného řádu. Proto se konzervativci staví proti pokroku. Chtějí zmrazit společnost ve stavu, kterého dosáhla ve chvíli, kdy mluví, a domnívají se, že jakákoli změna by byla horší.
+![Paleo-libertarianismus: kulturní konzervatismus spojený s libertariánskými principy](./assets/en/026.webp)
 
+- **Murray Rothbard**, ekonom a filozof, který rozvinul libertariánskou teorii, přičemž uznával význam tradičních hodnot, aniž by kdy prosazoval jejich vnucování státem.
+- **Ron Paul**, po desetiletí kongresman z Texasu, který kandidoval v republikánských prezidentských primárkách. Ve svých hodnotách byl osobně konzervativní, ale důsledně hájil vizi omezené vlády respektující individuální svobody. Ron Paul například vždy nedoporučoval užívání drog, ale zároveň se stavěl proti jejich prohibici. Osobně byl proti potratům, přesto důsledně tvrdil, že volba by měla být ponechána federálním státům, nikoli vnucena shora.
 
+![Konzervativní a libertariánské pozice](./assets/en/027.webp)
 
-Z politického hlediska se kulturní konzervativci často přidávají k politickému konzervatismu. Ne vždy tomu tak ale je. Oba konzervatismy nejsou nutně neoddělitelné. **Můžete být kulturním konzervativcem i libertariánem**
-
-
-
-Jednotlivec může například hájit kulturní tradice (jako je rodina, náboženství nebo místní zvyky) ve svém osobním životě nebo životě komunity a zároveň obhajovat omezenou vládu, která tyto hodnoty nevnucuje zákonem. Tento typ člověka může podporovat konzervativní normy prostřednictvím přesvědčování, vzdělávání nebo vedení příkladem a zároveň respektovat právo ostatních žít jinak, v souladu s libertariánskými zásadami.
-
-
-
-Kulturně konzervativní libertarián může morálně odsuzovat určité chování, ale **neobhajuje právní zákaz nebo uvěznění** lidí, kteří se účastní konsensuálních, neagresivních akcí. Může se mu takové jednání nelíbit, vystupovat proti němu, bojovat proti němu a aktivně odrazovat lidi od toho, aby se do něj zapojovali, ale vždy **bez použití donucovací síly zákona**.
-
-
-
-V praxi se osobnosti jako Ron Paul nebo myslitelé jako Rothbard a Hoppe v USA snažili tyto dvě vize sladit a hájili jak tradiční hodnoty, tak maximální svobodu jednotlivce.
-
-
-
-![Libertes Graphique](./assets/fr/014.webp)
-
-
-
-## Jste liberál nebo libertarián?
-
+## Jste liberál, nebo libertarián?
 
 <chapterId>d382c40b-78ce-416f-9f63-6ad43768406b</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=pPA2uyoaBrE)
+### Transatlantický zmatek
 
+![Transatlantický zmatek mezi liberalismem a libertarianismem](./assets/en/028.webp)
 
+Termíny používané k označování politických rodin nejsou neměnné. Mohou se lišit podle geografického a historického kontextu a vytvářet významný zdroj zmatku. Když je položena otázka „jste liberál, nebo libertarián?“, Evropan by mohl odpovědět, že je to totéž. V anglosaském užití však jde o radikálně odlišné pojmy.
 
-Pojmy používané pro označení politických rodin nejsou neměnné. Mohou se lišit v závislosti na zeměpisném a historickém kontextu. To může vést k záměně.
+V Evropě zůstal termín *liberalismus* v čase relativně stabilní: je spojován s ekonomickou politikou laissez-faire, omezenými státními zásahy a obranou individuálních svobod. Jde o pozici obecně řazenou napravo.
 
+![Rozdílné významy liberalismu v Evropě a ve Spojených státech](./assets/en/029.webp)
 
+Ve Spojených státech prošlo stejné slovo dramatickou změnou významu. **Američtí *liberals* se stali zastánci státních zásahů a *Big Government***. Tento vývoj lze vysledovat přes klíčové momenty:
 
-V Evropě a ve Spojených státech už některá slova nemají stejný význam. To je případ slova liberalismus.
+- Ve 30. letech znamenal *New Deal* Franklina D. Roosevelta první velký intervencionistický obrat v reakci na Velkou hospodářskou krizi: veřejné práce, veřejná zaměstnanost, dotace. Význam *liberalismu* se začal posouvat směrem k etatistickému paradigmatu.
+- V 60. letech rozšířila *Great Society* Lyndona B. Johnsona tento posun na sociální programy a federální intervenci.
+- Dnes jsou američtí *liberals* převážně demokraté, kteří hájí veřejné zdravotní pojištění a programy proti chudobě. Někdo jako Bernie Sanders, který se označuje za socialistu nebo sociálního demokrata, se hlásí k nálepce liberála, ale pro něj je synonymem státních zásahů za účelem emancipace jednotlivců.
 
+Jsme velmi daleko od evropského významu tohoto termínu.
 
+![Historický vývoj amerického liberalismu směrem k intervencionismu](./assets/en/030.webp)
 
-V Severní Americe je *liberalismus* řazen k levici a ztotožňován s progresivismem. Američtí *liberálové* se stali zastánci státních zásahů a *velké vlády*. Tento historický vývoj je v příkrém rozporu s přetrvávajícím významem pojmů liberál a konzervativec v Evropě.
+### Vznik libertarianismu
 
+Tváří v tvář tomuto jazykovému posunu se zastánci klasického liberalismu ve Spojených státech začali od 60. let označovat jako *libertarians*, právě aby se odlišili od amerických *liberals*. Jsou dědici evropského klasického liberalismu devatenáctého století.
 
+![Vznik libertarianismu jako reakce na posun amerického liberalismu](./assets/en/031.webp)
 
-V mnoha zemích, zejména v Evropě, je pojem liberalismus spojován s ekonomickou politikou laissez-faire a omezenými státními zásahy.
+Základní osou libertarianismu je pojem **spontánního řádu, spojený zejména s Friedrichem Hayekem** a rakouskou ekonomickou školou. Podle Hayeka by pravidla a normy, které řídí společnost, neměly být vnucovány shora autoritářským plánováním, ale měly by vznikat ze svobodné hry individuálních vůlí, smluv a svobodně odsouhlasených vztahů mezi dospělými.
 
+### Klíčové intelektuální osobnosti
 
+![Klíčové intelektuální osobnosti libertarianismu: Rothbard a Nozick](./assets/en/032.webp)
 
-Proto je termín *liberálové* pro Evropana zavádějící. Americkou liberální politiku lze od 20. století popsat jako posun k etatistickému, autoritářskému paradigmatu, který význam slova *liberalismus* zkreslil.
+Libertariánské hnutí formovalo několik myslitelů:
 
+- **Murray Rothbard**, kterého jsme již zmínili v souvislosti s kulturním konzervatismem, je také teoretikem anarchokapitalismu. Ve své knize *For a New Liberty* z roku 1973 prosazoval **zrušení státu a úplnou privatizaci společenských činností**, přičemž odmítal ekonomický i vojenský intervencionismus.
+- **Robert Nozick**, profesor politické filozofie na Harvardu, odpověděl na Rawlsovu *A Theory of Justice* knihou *Anarchy, State, and Utopia* (1974). Nozick hájil minimální stát v lockeovské tradici a jeho přísný analytický styl výrazně přispěl k legitimizaci libertariánského myšlení v akademických kruzích.
 
+### Institucionální struktura
 
-Historicky americký *liberalismus* podporoval výrazný státní intervencionismus (*New Deal* Franklina Delano Roosevelta a *Great Society* Lyndona B. Johnsona), včetně přerozdělování bohatství a sociálních programů. V USA je proto pojem *liberální* spojován s levicovou nebo sociálnědemokratickou politikou, jako je veřejné zdravotní pojištění a veřejné plány proti chudobě.
+![Institucionální struktura libertariánského hnutí](./assets/en/033.webp)
 
+**Libertariánské hnutí se postupně organizovalo**:
 
+- **Cato Institute** (1977), think tank sídlící ve Washingtonu, pracuje na návrzích veřejných politik.
+- **Mises Institute** (1982) v Auburnu v Alabamě se soustředí spíše na vzdělávání než na politický lobbying a funguje jako druh online univerzity s konferencemi a znovu vydávanými díly.
+- **Libertarian Party** (1971), přestože ve volbách dosahuje v průměru kolem 2 %, představuje třetí největší americkou politickou stranu. Tato 2 % mohou rozhodnout volby a dávají straně vliv daleko přesahující její volební výsledek.
 
-Od 60. let 20. století si stoupenci klasického liberalismu v USA začali říkat *libertariáni*, aby se odlišili od amerických liberálů. Jsou dědici evropského klasického liberalismu 19. století.
+### Libertariáni a konzervativci: složité spojenectví
 
+Libertariáni jsou radikálně proti americkým *liberals* v moderním smyslu tohoto termínu. V tomto ohledu sdílejí určitou společnou půdu s konzervativci: oddanost omezené vládě Otců zakladatelů, odmítnutí nuceného egalitarismu, odpor k veřejnému dluhu a obranu práv států proti federální moci. Ron Paul tuto konvergenci ztělesňuje nejjasněji, přestože v Republikánské straně zůstal menšinovým hlasem.
 
+Zásadní rozpory však přetrvávají. Libertariáni odmítají vojenský intervencionismus neokonzervativců (člověk pomyslí na George W. Bushe a válku v Iráku), staví se proti konzervativním sociálním politikám a dotacím (ať firmám, nebo rodinám ve jménu soucitu), odsuzují prohibici drog jako nejen neúčinnou, ale nemorální, a odmítají protekcionismus. V tomto posledním bodě například **Trumpova celní politika vyvolala ostrou kritiku libertariánů**, kteří ji viděli jako zradu principů volného obchodu. Spojenectví mezi konzervativci a libertariány je tedy skutečné, ale vnitřně napjaté: spojuje je sdílená kritika amerického *liberalismu*, ale rozděluje je otázka správného rozsahu státní moci.
 
-## Jste libertarián nebo libertaire/anarchista (francouzsky libertaire)?
-
+## Jste libertarián, nebo libertaire/anarchista (francouzsky libertaire)?
 
 <chapterId>fc761194-249f-4009-a20f-1f98b7226cf2</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=qi6HPBmrJkg)
+### Základní neslučitelnost
+
+![Libertarián versus libertaire: základní neslučitelnost](./assets/en/034.webp)
+
+Tyto dvě věci nejsou slučitelné. Mezi těmito termíny existuje významný zdroj zmatku, zejména v automatických překladech, kde je anglosaské *libertarian* často překládáno jako *libertaire*. Přesto **tyto politické filozofie navzdory některým povrchním podobnostem vykazují zásadní rozdíly**.
+
+### Socialistický anarchismus (*libertaires*)
+
+![Libertaires: dědici socialistického anarchismu](./assets/en/035.webp)
+
+Francouzští *libertaires* jsou dědici socialistického anarchismu, větve socialismu historicky spojené s mysliteli, jako byli Pierre-Joseph Proudhon a Michail Bakunin. Jejich základní principy jsou:
+
+- Stát musí být zrušen, protože je utlačující strukturou.
+- Soukromé vlastnictví a kapitalismus musí být také zrušeny, protože v anarchistické doktríně je stát ochráncem soukromého vlastnictví a bohatých. Odtud slavná Proudhonova formule: „Vlastnictví je krádež.“ (Je třeba poznamenat, že Proudhon sám se v tomto bodě vyvíjel: raný Proudhon byl ostře antikapitalistický, ale **pozdější Proudhon se přiblížil klasickému liberalismu** a začal soukromé vlastnictví chápat jako záruku svobody.)
+- Upřednostňují návrat k barterové ekonomice a egalitářskou společnost, v níž statky patří všem.
+
+Anarchisté jako Bakunin a Kropotkin (který byl přísný anarchokomunista odmítající i mzdu jako návrat ke kapitalismu) viděli soukromé vlastnictví a stát jako dvojí zdroj útlaku. Prosazovali samosprávné komuny, družstva a antihierarchická hnutí. Jejich ekonomická vize spočívá na pracovní teorii hodnoty; odsuzují mzdový systém, odmítají zisk a úrokové sazby a přejí si **radikální zmizení peněz a bank**.
+
+### Libertarianismus: vlastnictví jako základ svobody
+
+![Libertarianismus: soukromé vlastnictví jako základ svobody](./assets/en/036.webp)
+
+Libertariáni se od *libertaires* zcela liší tím, že hájí soukromé vlastnictví jako samotný základ svobody. Soukromé vlastnictví pro ně není pouhou společenskou konvencí chráněnou státem: **je to přirozené právo, které předchází zákonu i státu**. Pokud jednotlivec vlastní své vlastní tělo, vlastní také svou práci a plody své práce. Vlastnictví hmotných statků je chápáno jako rozšíření sebevlastnictví.
+
+Z toho plyne, že zdanění je chápáno jako agrese podobná krádeži, protože nutí jednotlivce vzdát se části svého majetku za služby, které si nutně nezvolil. Dobrovolný souhlas představuje morální základ libertarianismu.
+
+Pokud jde o násilí, libertariánská doktrína odmítá všechny formy agresivního násilí. Připouští však jako legitimní obranné násilí: sebeobranu a odpor proti útlaku.
+
+### Strategie zrušení státu
+
+Zde leží další zásadní rozdíl. *Libertaires* historicky prosazují zničení státu a kapitalismu násilím, ať kolektivním, nebo individuálním. Tento přístup historicky spočívá v teroru a cílených (nebo necílených) útocích, jak bylo vidět v Rusku a později ve Španělsku během občanské války.
+
+Pro libertariány není agresivní násilí legitimní. Hlavní strategie spočívá v **delegitimizaci státu prostřednictvím formování kolektivních přesvědčení**: argumentace, debaty, diskuse a vzdělávání. Libertariáni prosazují občanskou neposlušnost nebo jednání spočívající ve vědomém ignorování státu.
+
+### Anarchokapitalismus: historické kořeny
+
+![Historické kořeny anarchokapitalismu: Molinari, Spooner a Tucker](./assets/en/037.webp)
+
+Anarchokapitalismus není nedávná doktrína. Jeho kořeny leží v devatenáctém století:
+
+- **Gustave de Molinari**, belgický ekonom, který pracoval v Paříži po boku Frédérica Bastiata, napsal v roce 1849 článek nazvaný „The Production of Security“, v němž tvrdil, že žádná vláda by neměla mít právo bránit jiné, aby jí konkurovala, ani vyžadovat od spotřebitelů bezpečnosti, aby se pro tento produkt obraceli výhradně na ni.
+- **Lysander Spooner** a **Benjamin Tucker** ve Spojených státech byli individualističtí anarchisté, kteří důrazně tvrdili, že volný trh je schopen převzít suverénní státní funkce, zejména bezpečnost a spravedlnost.
+
+![Murray Rothbard a ucelená teorie anarchokapitalismu](./assets/en/038.webp)
+
+Ve dvacátém století Murray Rothbard převzal štafetu a komplexně teoretizoval anarchokapitalismus, zejména v dílech *Man, Economy, and State* a *For a New Liberty*. Jeho myšlení spočívá na dvou principech: principu neagrese (je nelegitimní iniciovat fyzickou sílu proti jinému jednotlivci nebo jeho majetku, filozofický překlad zlatého pravidla: nečiň druhým to, co nechceš, aby oni činili tobě) a úplném zrušení státu, chápaného jako hlavní agresor.
+
+Rothbard kritizoval *libertaires* za přijetí naivní a nerealistické vize lidské přirozenosti, podobné Rousseauovu „ušlechtilému divochovi“. Podle Rothbarda nejsou lidé přirozeně dobří, ale jsou vedeni svými zájmy. Společnost proto musí být organizována tak, aby dobré pobídky vedly chování, což vyžaduje uznání a zaručení soukromého vlastnictví. **Zrušení státu neznamená zrušení funkcí státu**: policie a justice nemají být odstraněny, ale spravovány volným trhem na základě konkurence.
+
+### Poznámka k libertinům
+
+![Libertariáni, libertaires a libertini: vyhnout se záměně](./assets/en/039.webp)
+
+Libertariány nelze zaměňovat s *libertaires* ani s libertiny. Libertini jsou zastánci sexuální svobody. Je to méně politická filozofie než osobní způsob života, založený na morálce bez tabu, která se staví proti buržoazní morálce. Politicky libertini často tíhnou k levicovému anarchismu, tedy k *libertaires*. Přesto lze být zároveň libertinem i libertariánem, protože pro libertariány **má každý člověk právo žít, jak si přeje, pokud neútočí na druhé**. Naopak libertin, který by se snažil vnucovat svou morálku druhým zákonem, by právě tímto činem přestal být libertariánem.
 
 
-
-Pojem **libertarián** se někdy překládá jako libertarián nebo libertine, což je velké nedorozumění.
-
-
-
-Francouzský termín libertaire pochází z anarchistické tradice 19. století, která je odvozena od socialismu. Tato tradice je historicky spojena s mysliteli, jako byli Pierre-Joseph Proudhon a Michail Bakunin. Anarchismus je politická doktrína, která tvrdí, že všechny formy vlády jsou zbytečné, utlačovatelské a musí být zrušeny.
-
-
-
-Pro socialistické a komunistické anarchisty je vlastnictví krádeží. Chtějí, aby zmizely peníze a banky a aby se vrátila místní ekonomika založená na směnném obchodu. Usilují o rovnostářskou společnost, v níž se individuální svoboda uplatňuje v kolektivním rámci bez nadvlády.
-
-
-
-Na rozdíl od libertariánů jsou anarchisté často antikapitalističtí a prosazují ekonomické formy, jako je mutualismus, kolektivismus nebo libertariánský komunismus.
-
-
-Socialističtí anarchisté jako Michail Bakunin a Pierre Kropotkin považovali soukromé vlastnictví a stát za dvojí zdroj útlaku a navrhovali jejich zrušení.
-
-
-
-Anarchista může prosazovat samosprávné komuny, družstva nebo antihierarchická hnutí a zároveň odmítat státní moc a kapitalistické struktury.
-
-
-
-Jsou pro zrušení státu, ale zřekli se násilných akcí proti státu, protože nejsou účinné. Na druhou stranu se nezřekli použití násilí proti soukromému podnikání. Podporují veřejné monopoly, přijímají pracovní teorii hodnoty, odsuzují mzdový systém a zisk a úrokovou míru považují za vykořisťování. Jen málo levicových anarchistů, jako například Pierre-Joseph Proudhon, vedlo aktivní kampaň proti daním.
-
-
-
-Pro libertariány je naopak jediným způsobem, jak zajistit svobodu jednotlivce, zaručit soukromé vlastnictví. Zásadní rozpor mezi libertariány a anarchisty se tedy týká pojetí individuálního vlastnictví a smluvní svobody. Doktrína libertariánů o násilí je navíc obranná: sebeobrana a odpor proti útlaku.
-
-
-
-Libertinové jsou aktivisté za sexuální svobodu. Nejde ani tak o politickou filozofii, jako spíše o osobní způsob života, založený na nespoutané morálce, která je v protikladu k buržoazní morálce. Politicky se často spojují s levicovými anarchisty, tedy s anarchisty.
-
-
-
-# Politické rodiny pod drobnohledem
-
+# Politické rodiny pod mikroskopem
 
 <partId>2e1183f6-95d4-4d3c-9274-843993210624</partId>
 
 
-
-## Strukturální a záměrné definice
-
+## Strukturální a intencionální definice
 
 <chapterId>ec5b13b7-4104-46a9-9c39-a810959a69ee</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=7r7KNK5YnIk)
 
 
+Nyní vstupujeme do jádra naší analýzy politických rodin. Než však každou z nich podrobně prozkoumáme, musíme se věnovat základní otázce: jak máme definovat politický systém? Vezměme si jako příklad socialismus. 
 
-Podívejme se nyní blíže na různé politické filozofie. Dole v rámečku se jí budeme zabývat poněkud okrajově, neboť nejde striktně vzato o politickou ideologii, ale spíše o společenský systém, který směřuje k totalitě.
+![Politické rodiny pod mikroskopem: strukturální analýza](./assets/en/040.webp)
 
+Máme ho definovat podle jeho deklarovaných záměrů (spravedlnost, blahobyt, emancipace), nebo ho máme naopak definovat podle jeho základní struktury, totiž **podle toho, zda dává primát jednotlivci, nebo státu**?
 
+### Past intencionálních definic
 
-Nejprve je však třeba vysvětlit důležitý rozdíl.
+![Milton Friedman o posuzování politik podle výsledků spíše než podle záměrů](./assets/en/041.webp)
 
+Milton Friedman napsal:
 
+> Jednou z největších chyb je posuzovat politiky a programy podle jejich záměrů, nikoli podle jejich výsledků. Všichni známe slavnou cestu dlážděnou dobrými úmysly. [...] Programy označované jako programy pro chudé nebo potřebné mají téměř vždy účinky přesně opačné, než jakých doufají dosáhnout jejich dobře mínění sponzoři.
 
-Milton Friedman napsal
+Jinými slovy, Friedman dává přednost tomu, co bychom mohli nazvat empirickou analýzou: soustředění na viditelné důsledky systému spíše než na politické sliby a programy. To připomíná, co učil Frederic Bastiat, když tvrdil, že dobrý ekonom je ten, kdo vidí účinky politiky nejen v krátkém období, ale i v dlouhém období, a nejen na konkrétní skupinu, ale na celou populaci.
 
+Friedman nás varuje před nebezpečím spoléhání se pouze na záměry. Politiky motivované velkorysými úmysly mohou mít nepředvídané nebo škodlivé důsledky **když zanedbají přísnou analýzu lidských pobídek a chování**. Například programy sociální pomoci financované státem (tedy daňovým poplatníkem) riskují, že vytvoří perverzní účinky: nevytvářejí pobídku k práci, vyvolávají ekonomickou závislost a představují formu vyvlastnění, protože peníze musí být nejprve vzaty těm, kdo bohatství vytvořili. Pro Friedmana musí mít měřitelné výsledky, jako ekonomický růst, snížení chudoby nebo efektivita, přednost před záměry, protože ty, jakkoli ušlechtilé, nezaručují úspěch.
 
-> Jednou z největších chyb je posuzovat politiky a programy spíše podle jejich záměrů než podle jejich výsledků. Všichni známe slavnou cestu dlážděnou dobrými úmysly. [...] Programy označované jako programy pro chudé nebo pro potřebné mají téměř vždy přesně opačné účinky, než v jaké doufají jejich dobře mínění sponzoři.
+### Strukturální přístup
 
-Politiky, často motivované velkorysými úmysly, mohou mít nepředvídané nebo škodlivé důsledky, pokud nejsou založeny na důkladné analýze lidských podnětů a chování. Například sociální politika zaměřená na pomoc chudým často vyvolává zvrácené účinky, jako je ekonomická závislost nebo narušení trhu.
+**Strukturální nebo praktické definice se soustředí na to, jak politické systémy skutečně fungují**, a na jejich pozorovatelné vlastnosti. Socialismus je například charakterizován všudypřítomností státu, který reguluje, plánuje a kontroluje. To je fakt a záleží na něm mnohem více než na deklarovaných záměrech bratrství nebo solidarity. Libertarianismus je naproti tomu definován minimálními státními zásahy do ekonomiky a soukromého života a směřuje k primátu individuální svobody a volného trhu.
 
+Naproti tomu **intencionální definice se opírají o deklarované motivace, cíle nebo záměry** jednotlivců nebo skupin. Socialismus se prezentuje jako snaha o „sociální spravedlnost“ a solidaritu. Pokud se ale opíráme o záměry, věci se rozostřují, protože každý tvrdí, že je pro spravedlnost; každý se dovolává svrchovanosti lidu. „Lid“ však zůstává mimořádně abstraktním pojmem a právě v tom spočívá past.
 
+Naše analýza proto upřednostní strukturální přístup, který umožňuje **objektivnější hodnocení politických systémů na základě jejich měřitelných výsledků** a konkrétních prostředků, nikoli jejich proklamovaných záměrů. V Nolanově diagramu bude spodní část rámce (čistý etatismus, směřující k totalitarismu) pojednána poněkud odděleně, protože jde méně o politickou ideologii než o společenský systém. Tři horní kvadranty (socialismus vlevo, centrismus uprostřed, konzervatismus vpravo) a libertarianismus nahoře budou každý zkoumány touto strukturální optikou.
 
-Podle Friedmana musí mít měřitelné výsledky - jako je hospodářský růst, snížení chudoby nebo efektivita - přednost před záměry, protože ty, ačkoli jsou ušlechtilé, nezaručují úspěch.
+### Za hranicemi záměrů
 
+![Strukturální analýza politických rodin: socialismus versus libertarianismus](./assets/en/042.webp)
 
-
-Strukturální nebo praktické definice** se zaměřují na to, jak politické systémy fungují v praxi, a na jejich pozorovatelné charakteristiky. Například socialismus se vyznačuje tendencí státu vše řídit, regulovat a plánovat. Libertariánství je naproti tomu definováno tím, že přednost má jednotlivec a jeho svoboda, a směřuje k minimálním zásahům státu do ekonomiky i jinde.
-
-
-
-Naproti tomu **záměrné definice** vycházejí z deklarovaných motivací, cílů nebo záměrů jednotlivců nebo skupin. Například socialismus má za cíl sociální spravedlnost. Pokud se však opíráme o záměry, věci se zamlžují, protože všichni jsou pro spravedlnost. Proto pro jasnější a objektivnější analýzu raději používáme strukturální definice.
-
-
-
-Následující kapitoly vysvětlují, jak strukturálně definovat politické rodiny.
-
+Strukturální analýza slouží jako kritický nástroj. Umožňuje nám hodnotit politické systémy podle jejich skutečných výsledků, ne podle jejich slibů. Intencionální definice naproti tomu vytvářejí pojmový zmatek, v němž všechny systémy tvrdí, že sledují podobné cíle (spravedlnost, rovnost, svobodu), takže je nelze od sebe odlišit. Musíme proto věnovat pozornost **empirickým, měřitelným důsledkům politického systému** i prostředkům, které používá. Právě skrze ně se odhaluje skutečná povaha politického systému, za rétorikou záměrů nebo programů.
 
 
 ## Socialisté
 
-
 <chapterId>1ef34d7b-f813-458c-934c-1d404f882150</chapterId>
 
+Socialismus je politické a ekonomické hnutí, a vlastně doktrína, které se objevilo v devatenáctém století s kritikou sociálních nerovností a odcizení dělníků ve velkoprůmyslu. Od svého samotného počátku je také jasně antikapitalistickým hnutím, i když, jak uvidíme, moderní socialisté do svých principů postupně zavedli zmírnění a kompromisy.
+
+![Socialisté: principy a varianty](./assets/en/043.webp)
 
 
-![video](https://www.youtube.com/watch?v=-JBJDQqgH_k)
+### Svobody v socialistickém rámci
 
+V socialistickém myšlení nejsou svobody posuzovány jednotně. Pozorujeme **základní dichotomii mezi společenskou a ekonomickou sférou**:
 
+- **Svobody:** silné ve společenské sféře, ale slabé v ekonomické sféře.
+- **Kardinální hodnoty:** rovnost, pokrok, sociální spravedlnost, solidarita.
+- **Filozofie a principy:** Primát kolektivní organizace. Socialismus je praxe zakořeněná v holistické vizi společnosti (holismus), vyjadřované prostřednictvím státu. Termín „holismus“ pochází z řeckého *holos*, což znamená „celek“. Socialistický stát usiluje o to, aby v maximální míře přebíral a řídil lidskou činnost. Socialisté mají téměř neomezenou víru v možnost vybudovat nový společenský řád založený na rozumu, to, co Hayek nazýval „konstruktivismem“.
+- **Politika:** Socialisté prosazují zdravotní programy, regulatorní zachycení, zvyšování daní a dotace k zaručení rovnosti. To implikuje ekonomické a sociální státní řízení, plánování (organizaci výroby proti proudu). Nejradikálnější a plně uskutečněný socialismus je totalitní, protože stát přebírá veškerou lidskou činnost.
+- **Ekonomie:** Socialismus implikuje silnou státní kontrolu ekonomiky ve prospěch rovnosti. Socialisté jsou nedůvěřiví k volným trhům, které vidí jako slepé, instinktivní síly. Upřednostňují přerozdělování bohatství, centralizované sociální programy a progresivní zdanění, které roste úměrně s příjmem a stává se trestajícím pro ty, kdo vydělávají nebo vytvářejí bohatství.
 
-![Socialistes Graphique](./assets/fr/015.webp)
+![Nolanův diagram ukazující socialismus umístěný se silnými společenskými svobodami, ale slabými ekonomickými svobodami](./assets/en/044.webp)
 
+### Historický vývoj
 
+Pojem socialismus poprvé systematicky použil Francouz Pierre Leroux v roce 1833 v článku pro *Revue Encyclopedique*, výslovně v opozici k individualismu. Termín byl poté kolem poloviny devatenáctého století aplikován na doktríny Saint-Simona, Fouriera a Owena, než ho Marx přijal pro své vlastní účely. Pozoruhodné je, že slovo „komunismus“, kterého se Marx později ujal, také pocházelo od francouzského socialisty jménem Etienne Cabet.
 
+Na konci devatenáctého století vznikl úplný rozkol mezi marxismem a anarchismem. Od počátku dvacátého století dál **oddělila revoluční socialisty od reformistických socialistů základní dělící linie**:
 
+1. **Revoluční socialisté** odmítají vlastnická práva a snaží se zničit kapitalistickou buržoazní společnost. Usilují o uchopení moci násilím nebo diktaturou proletariátu. Tento proud dal vzniknout marxistickému komunismu a nakonec nejhorším totalitním režimům.
 
-- Svobody:** poměrně silné ve společenské oblasti, ale slabé v oblasti ekonomické.
-- Kardinální hodnoty:** rovnost, pokrok, sociální spravedlnost, solidarita.
-- Filozofie a zásady:** Primát kolektivní organizace. Socialismus je praxe založená na společnosti jako celku (holismus) a vyjádřená prostřednictvím státu. Cílem socialistického státu je maximálně převzít kontrolu nad lidskou činností a řídit ji. Socialisté téměř neomezeně věří v možnost vybudování nového společenského řádu založeného na rozumu.
-- Politika:** Socialisté prosazují zdravotní programy, zvýšení daní a dotace, které mají zaručit rovnost. To předpokládá ekonomické a sociální řízení státu, plánování (organizace výroby proti proudu). Hayek hovoří o konstruktivismu, tj. myšlence, že je na státu, aby společnost budoval a dal jí určitou podobu, na rozdíl od liberálního řádu, kde se společnost buduje sama (spontánní řád). Nejradikálnější a nejúspěšnější socialismus je totalitní, neboť stát přebírá kontrolu nad veškerou lidskou činností.
-- Ekonomika:** Socialismus znamená silnou státní kontrolu nad ekonomikou ve prospěch rovnosti (umožnění každému, aby se sám o sebe postaral). Socialisté jsou podezřívaví vůči volnému trhu, který považují za systém umožňující silnějším kořistit na slabších. Upřednostňují přerozdělování bohatství a centralizované sociální programy financované vysokými daněmi a příjmy.
+2. **Reformističtí socialisté** nemají sklon k násilí; pochopili, že čelní opozice vůči státu se nevyplácí. Usilují o sociální spravedlnost prostřednictvím demokratických voleb a zdanění a využívají zdroje vytvořené tržní ekonomikou. Jinými slovy, dočasně přijímají kapitalismus, aby ho použili proti němu samému. Tuto tradici reprezentují Jean Jaures, Leon Blum, Olof Palme (Švédsko), Willy Brandt (Německo) a Francois Mitterrand (Francie).
 
+### Marx a revoluční větev
 
+![Karl Marx a rozlišení mezi utopickým a vědeckým socialismem](./assets/en/045.webp)
 
-**Typy socialistů:**
+Karl Marx učinil klíčové rozlišení mezi utopickým socialismem a vědeckým socialismem. Obviňoval rané francouzské socialisty (Proudhona, Saint-Simona, Fouriera) z utopismu, což znamenalo, že navrhovali čistě imaginární řešení bez skutečných teoretických nebo praktických základů.
 
+Marxův vědecký socialismus spočívá na historickém materialismu: na myšlence, že **dějiny postupují skrze třídní boj a přivlastnění výrobních prostředků**. Podle tohoto přístupu jsou všechny kulturní reprezentace (právo, politické instituce, náboženství) podmíněny vývojem výrobních sil a výrobních vztahů. Stát, právo, dokonce i samotná kultura jsou pouhými výrazy zájmů dominantní třídy. Právě tento materialistický rámec vedl Marxe k tvrzení, že proletariát si musí uvědomit své utlačení a osvobodit se revolucí odstraněním utlačující třídy.
 
-Pojem socialismus je neologismus, který poprvé systematicky a s přesným významem použil Francouz Pierre Leroux v roce 1833. V rámci moderního socialismu lze rozlišit dvě tradice:
+### Demokratický socialismus a reformistická tradice
 
+![Jean Jaures a základy demokratického socialismu](./assets/en/046.webp)
 
-1.  **Revoluční socialisté** jsou proti vlastnickým právům a chtějí zničit kapitalistickou buržoazní společnost. Jdou ve stopách anarchistů 19. století, jako byl Bakunin. Z tohoto anarchismu později vzešel marxistický komunismus.
+Jean Jaures patří k velkým myslitelům demokratického socialismu. Filozof vzděláním, který vstoupil do politiky na přelomu dvacátého století, Jaures založil noviny *L'Humanite*. Jeho definicí socialismu byl legitimní zásah společnosti a moci do lidského života, zejména do pracovních vztahů, za účelem uskutečnění individuální svobody a rovnosti. Jinými slovy, **Jaures položil teoretické základy pro ospravedlnění státních zásahů ve jménu rovnosti**.
 
+![Emile Durkheim a sociologické základy socialismu](./assets/en/047.webp)
 
-2.  **Reformní socialisté** nemají sklony k násilí. Neopustili svůj cíl sociální spravedlnosti, ale tento cíl prosazují prostřednictvím demokratických voleb a zdanění s využitím zdrojů vytvořených tržní ekonomikou. Takoví byli Jean Jaurès, Leon Blum, Olof Palme (Švédsko), Willy Brandt (Německo) a François Mitterrand (Francie).
+Emile Durkheim, zakladatel katedry sociologie na Sorbonně v roce 1913 a Jauresův přítel, vysvětloval, že socialismus je protestem proti současnému ekonomickému stavu věcí, který požaduje transformaci prostřednictvím organizace ekonomických sil. Jaures i Durkheim sdíleli nápadně ekonomické pojetí socialismu: ekonomika nemá být ponechána tržním silám (které považovali za slepé a instinktivní), ale má být racionálně řízena.
 
+![Moderní demokratický socialismus od New Dealu po severskou sociální demokracii](./assets/en/048.webp)
 
+Moderní socialismus také vděčí za mnohé Rooseveltovi a New Dealu. Ve 30. letech Franklin Delano Roosevelt zavedl po Velké hospodářské krizi soubor reforem, které představují zásadní referenci pro všechny současné obhájce demokratického socialismu:
 
-New Deal Franklina Delano Rossevelta hrál roli při formování amerického demokratického socialismu (Bernie Sanders).
-
-
-
-
-
-- Vytvoření sociálního zabezpečení
+- Vytvoření Social Security
 - Zavedení federální minimální mzdy
-- Nastavení pojištění v nezaměstnanosti
-- Federální veřejné programy zaměstnanosti
+- Zřízení pojištění v nezaměstnanosti
+- Federální programy veřejného zaměstnávání
 
+Po válce přijalo Spojené království podobné reformy (znárodnění, sociální stát), němečtí sociální demokraté postupně opustili marxistické odkazy ve prospěch sociálně tržní ekonomiky a severské země rozvinuly model kombinující tržní ekonomiku, progresivní zdanění a univerzální veřejné služby. Bernie Sanders, současný americký politik, který se označuje za sociálního demokrata, **často uvádí Francii jako příklad úspěchu tohoto modelu**, zejména její systém sociálního zabezpečení.
 
+### Holistický princip: primát kolektivu
 
-Podle Bernieho Sanderse se *tyto reformy staly sociální strukturou národa a základem americké střední třídy*.
+Socialismus je charakterizován holistickou vizí společnosti, chápané jako nedělitelný celek spíše než jako prostý součet jednotlivců. Existují různé způsoby, jak tento kolektiv reprezentovat: sociální třída (marxistický přístup), národ (jako ve fašismu, který podřizuje jednotlivce národnímu zájmu), rasa (jako v nacionálním socialismu) nebo gender (jako v některých současných přístupech). V každém případě **jednotlivec už nedefinuje sám sebe; je definován svou příslušností ke skupině**.
 
+### Green New Deal: současná syntéza
 
+![Green New Deal jako současná syntéza ekologických a sociálních cílů](./assets/en/049.webp)
 
+Green New Deal představuje nedávný vývoj demokratického socialismu, který spojuje environmentální starosti se sociálními cíli. Politicky se ekologie řadí k levici a dokonce ke krajní levici. Tento program kombinuje ekologickou transformaci se sociální spravedlností, garancemi zaměstnání a posílenými veřejnými službami. V každém případě je **individuální zájem podřízen kolektivnímu zájmu, definovanému planetárním zdravím** a výzvou klimatické změny. V jádru jde jednoduše o nový rétorický obal, který ospravedlňuje státní zásahy a konfiskaci soukromého příjmu, už nejen ve jménu rovnosti a sociální spravedlnosti, ale také ve jménu životního prostředí.
 
-> Socialismus je metoda, která nahrazuje individuální vlastnictví výrobních a směnných prostředků vlastnictvím společenským.  - Léon Blum, "V lidském měřítku", 1945.
+### Socialistické myšlení v citátech
+
+![Socialistické myšlení v citátech](./assets/en/050.webp)
+
+> Došli jsme k jasnému poznání, že skutečná individuální svoboda nemůže existovat bez ekonomického zabezpečení a nezávislosti. Lidé v nouzi nejsou svobodní lidé.
+> Franklin D. Roosevelt, 1944
+
+> Cílem socialismu je ekonomická emancipace všech lidí.
+> Leon Blum, *On a Human Scale*, 1945
+
+> Socialismus je doktrína, která učí, že společnost musí být organizována tak, aby zajistila blahobyt všech svých členů.
+> Emile Durkheim, *Socialism*, 1928
+
+> Pro mě socialismus znamená, že lidé spolupracují na vytvoření společnosti, která funguje pro nás všechny, nejen pro několik bohatých lidí.
+> Bernie Sanders, 2015
+
+Tyto citáty ilustrují ušlechtilé záměry stojící za socialistickým myšlením. Přesto **základní otázka zůstává: jaké jsou prostředky a kde je hranice?** Pokud člověk usiluje o ekonomickou emancipaci prostřednictvím donucení a moci, není to vnitřní rozpor?
 
 ## Konzervativci
-
 
 <chapterId>4e068cd8-a5c3-44f8-ac77-309f249a59eb</chapterId>
 
 
-
-![video](https://www.youtube.com/watch?v=G-9CnoEcfqQ)
-
+Jako každá politická rodina není konzervatismus jednotnou doktrínou. Přizpůsobil se různým epochám a různým kulturám a existují podstatné rozdíly mezi anglosaským konzervatismem a jeho kontinentálně evropským protějškem.
 
 
-![Conservateurs Graphique](./assets/fr/016.webp)
+![Nolanův diagram ukazující konzervatismus umístěný se silnými ekonomickými svobodami, ale slabými společenskými svobodami](./assets/en/051.webp)
 
+![Konzervatismus: principy, hodnoty a vývoj](./assets/en/052.webp)
 
+### Svobody v konzervativní vizi
 
+Jak ukazuje Nolanův diagram, konzervatismus vykazuje silnou dichotomii mezi společenskými a ekonomickými svobodami, zrcadlový obraz toho, co jsme pozorovali u socialistů:
 
+- **Svobody:** silné v ekonomické sféře, ale slabé ve společenské sféře. V ekonomické oblasti konzervativci hájí volný trh, podnikání a soukromé vlastnictví, z velké části z pragmatických důvodů a v silné opozici vůči socialismu. Ve společenské oblasti jsou omezení ospravedlňována **zachováním tradičních morálních norem a společenské stability**.
+- **Kardinální hodnoty:** ctnost, řád, tradice, civilizace.
+- **Filozofie a principy:** Konzervativci věří, že věci jsou obecně dobré takové, jaké jsou, a že jakákoli změna by je mohla zhoršit. V jádru této filozofie leží hluboké pouto ke kořenům, k minulosti a strach z příliš brutální změny. Chovají hluboký respekt k dlouho zavedeným společenským institucím, chápaným jako zásadní ochrana proti chaosu a excesům modernity. Všechno, co už existuje a v průběhu času se osvědčilo, je považováno za dobré samo o sobě. Jak uvádí jedna americká encyklopedie konzervatismu: konzervatismus je filozofie, která se snaží udržovat a obohacovat společnosti prostřednictvím úcty ke zděděným institucím, přesvědčením a praktikám, v nichž si jednotlivci rozvíjejí dobrý charakter spoluprací s druhými v primárních a místních sdruženích, jako jsou rodiny, církve a společenské skupiny. Tocqueville tuto dynamiku pozoroval v *Democracy in America*: náboženství a místní komunity sloužily jako mocné protiváhy rizikům individualismu.
 
-- Svobody:** jsou silné v ekonomické oblasti, ale slabé ve společenské oblasti.
+![Konzervativní kardinální hodnoty: ctnost, řád, tradice a civilizace](./assets/en/053.webp)
 
+![Současná definice konzervatismu: obohacování společností prostřednictvím zděděných institucí](./assets/en/054.webp)
 
+- **Politika:** Národní stát je považován za hlavní osu politiky. Konzervativci prosazují tradiční společenské kontroly, silnou národní obranu a rozsáhlejší policejní pravomoci. Odmítají všechny formy socialismu nebo komunismu, které obviňují z korumpování a oslabování společnosti.
+- **Ekonomika:** Ekonomika zůstává nástrojem posilování zavedeného řádu a národní moci. Konzervativci podporují svobodné podnikání, nízké zdanění a minimální regulaci podnikání. Obávají se však, že **příliš mnoho individuální svobody by mohlo plodit nemorálnost nebo civilizační úpadek**. Jak řekl Otto von Bismarck: „Ekonomika je nejjistější cestou k národní velikosti.“ I jako stoupenci volného trhu vnímají konzervativci ekonomickou svobodu nikoli jako cíl sám o sobě, ale jako páku k udržení silného státu.
 
+![Konzervativní politické a ekonomické pozice](./assets/en/055.webp)
 
+### Stručné dějiny konzervatismu
 
-- Kardinální hodnoty:** ctnost, řád, tradice, civilizace.
+Doktrína nachází své filozofické kořeny v osmnáctém století, zrozená jako reakce na Francouzskou revoluci. Edmund Burke je často uváděn jako zakládající postava této opozice, prosazující zachování institucí a tradic proti radikální změně. Burke obhajoval obezřetnost: i když mohl přijmout určité principy revoluce, věřil, že společnost by neměla postupovat tím, že začne od nuly, ale prostřednictvím postupných reforem.
 
+![Historický vývoj konzervativního myšlení](./assets/en/056.webp)
 
+![Evropský konzervatismus v devatenáctém století](./assets/en/057.webp)
 
+V Evropě devatenáctého století se konzervatismus často projevoval jako podpora monarchie, církve a zavedeného společenského řádu tváří v tvář vzestupu liberalismu a nacionalismu. Osobnosti jako Joseph de Maistre ve Francii představovaly hluboce reakční proud. De Maistre choval absolutní nepřátelství vůči rozumu a věřil, že lidé nejsou bytosti rozumu a že **společnost lze řídit pouze apelováním na hluboké instinkty**, odtud zásadní význam náboženství. Tito reakcionáři prosazovali návrat k feudální, zemědělské a řemeslné společnosti a industrializaci vnímali jako hrozbu tradičnímu společenskému řádu.
 
+![Anglosaský konzervatismus a pojem uspořádané svobody](./assets/en/058.webp)
 
-- Filozofie a zásady:** Konzervativci věří, že věci jsou obecně dobré tak, jak jsou, a že jakákoli změna by je mohla zhoršit. Snaží se zachovat to, co již existuje, a hájí to jako dobré samo o sobě, a mají odpor ke změnám v systému, který se podle nich osvědčil. Jádrem tradičního pojetí konzervatismu je hluboká úcta k dlouhodobě zavedeným společenským institucím, které jsou považovány za základní ochranu před chaosem, nespravedlností a krutostí. Tyto společenské stavby udržují solidaritu, bezpečí a sílu, které lidstvo potřebuje, aby odolalo výstřelkům modernity.
+Ve dvacátém století, zejména ve Spojených státech, se konzervatismus rozvinul kolem ideálů individuální svobody, omezené vlády, volných trhů a křesťanských hodnot, často v opozici k progresivním politikám New Dealu. Tento anglosaský konzervatismus byl mnohem modernější, protože plně přijal vědecký a technologický pokrok a současně se pokoušel smířit komunitu a jednotlivce, svobodu a odpovědnost. V Británii Margaret Thatcher tuto tendenci ztělesnila svým odporem k odborům a centralizovanému plánování, vždy se základním cílem **obnovit morální a náboženské hodnoty jako hráz proti excesům progresivismu**.
 
+### Velcí myslitelé konzervatismu
 
+- **Edmund Burke (1729-1797):** Často považovaný za otce moderního konzervatismu, Burke trval na postupné, organické změně spíše než na revolučním zlomu. Jeho *Reflections on the Revolution in France* (1790) položily intelektuální základy anglosaského konzervatismu.
+- **Michael Oakeshott (1901-1990):** Britský filozof známý svou kritikou racionalismu v politice, Oakeshott hájil **pojetí konzervatismu jako temperamentu spíše než systematické ideologie**. Jeho esej *On Being Conservative* (1956) zůstává zásadním odkazem, který ovlivnil také Friedricha Hayeka.
+- **Roger Scruton (1944-2020):** Současný britský filozof, který rozvinul sofistikovanou obhajobu konzervativních hodnot v kontextu pozdní modernity, zejména ve své knize *The Meaning of Conservatism*.
 
+![Velcí myslitelé konzervatismu: Burke, Oakeshott a Scruton](./assets/en/059.webp)
 
+### Problematická flexibilita
 
-- Politika:** Konzervativci prosazují tradiční sociální kontrolu a státní zásahy k prosazení společenských a morálních norem (pořádek, bezpečnost, hodnoty). Podporují silnou národní obranu. Podporují spíše rozsáhlejší policejní pravomoci. Socialismus vnímají jako brutální rozchod se západní civilizací. Konzervativci sehráli rozhodující roli v boji proti komunismu a odmítání nadměrného státního intervencionismu.
+![Problematická flexibilita konzervativních principů](./assets/en/060.webp)
 
+Konzervatismus někdy projevuje znepokojivou flexibilitu vůči principům. Během finanční krize roku 2008 George W. Bush prohlásil: „Opustil jsem principy volného trhu, abych zachránil systém volného trhu.“ Následující rok dodal: „Šel jsem proti svým instinktům volného trhu a schválil dočasný vládní zásah.“ Tím, že zasáhl na záchranu velkých bank, Bush převzal **konzervativní roli státu jako posledního garanta národní ekonomiky**, když postavil moc a kontinuitu národa nad abstraktní principy trhu. Stejnou logiku lze nalézt v protekcionistických obchodních politikách Donalda Trumpa, prosazovaných ve jménu národního zájmu s rizikem posilování korporatismu a klientelistického kapitalismu.
 
+### Vznik neokonzervatismu
 
+![Vznik neokonzervatismu a paleokonzervativní reakce](./assets/en/061.webp)
 
+Od začátku 21. století se neokonzervativci stále více angažovali v ospravedlňování vojenského intervencionismu s cílem implantovat demokracii po celém světě, zejména po útocích z 11. září 2001. Tato politika „budování národa“ se rozešla s tradiční obezřetností konzervativců v otázkách zahraniční politiky. V reakci na to si tradiční konzervativci nárokovali nálepku „paleokonzervativec“, aby se odlišili od neokonzervativců. Kritizují vojenský intervencionismus, hájí izolacionističtější zahraniční politiku a **kladou větší důraz na otázky národní a kulturní identity**.
 
-- Ekonomika:** Konzervativci podporují nízké daně a minimální regulaci podnikání. Podporují poctivé podnikání a svobodné podniky a jednotlivce, kteří tvrdě pracují, aby nahromadili bohatství. Obávají se však, že přílišná individuální svoboda povede k nemorálnosti nebo civilizačnímu úpadku.
+### Konzervativní myšlení v citátech
 
+> Konzervativec je někdo, kdo věří, že nic se nikdy nestalo poprvé.
+> Benjamin Disraeli
 
+> Konzervatismus není rigidní systém myšlení, ale dispozice, postoj k životu, tradice.
+> Michael Oakeshott
 
-**Typy konzervativců:**
+> Konzervatismus je přesvědčení, že existuje morální pravda, kterou jsme nevynalezli a kterou nemůžeme zrušit.
+> Roger Scruton
 
-
-v Evropě 19. století jsou konzervativci reakcionáři. Prosazují návrat ke staré feudální, zemědělské a řemeslnické společnosti. Chtějí uniknout dnešní společnosti a vrátit se do minulosti, před vývoj, který považují za škodlivý: vědeckotechnický pokrok s jeho důsledky pro hospodářství a společnost.
-
-
-
-V anglosaských zemích je konzervatismus podobný pravicové politice v latinskoamerických zemích. Empiricky je tento konzervatismus definován svým odporem k progresivismu New Dealu, který ve Spojených státech převzal název *liberalismus*. Příkladem jsou díla Russella Kirka, Michaela Oakeshotta a Rogera Scrutona.
-
-
-
-#### Je však třeba rozlišovat mezi dvěma typy konzervatismu.
-
-
-
-
-1.  **Tradiční americký konzervatismus** je založen na myšlence "uspořádané svobody", která se snaží spojit někdy protichůdné snahy o komunitu a jednotlivce, individuální svobodu a odpovědnost, omezenou vládu a volný trh. Po druhé světové válce se americký konzervatismus znovu objevil a snažil se sladit tradiční liberální a konzervativní hodnoty. Stavěli se proti komunismu, ale také proti přílišné expanzi americké federální vlády a tvrdili, že problémy, které vytvářela, nelze řešit pouze zlepšením jejího řízení, ale také obnovením morálních a náboženských hodnot.
-
-
-
-2.  **Ve Spojených státech** se neokonzervativci od roku 2000 stále více zapojovali do ospravedlňování vojenských intervencí s cílem nastolit ve světě demokracii, zejména po 11. září 2001, což vyvolalo velkou kritiku ze strany tradicionalistických konzervativců.
-
-
-
-Někteří z nich si nyní říkají "paleokonzervativci", aby se odlišili od neokonzervativců.
-
+Tento poslední citát je zásadní pro pochopení silného odporu konzervativců vůči progresivistům. Konzervativci zastávají názor, že existuje lidská přirozenost a z této přirozenosti vyplývají morální pravidla. Tato pravidla nejsou libovolná; vycházejí z toho, čím lidská bytost zásadně je. Jakýkoli pokus změnit lidskou přirozenost je proto nejen odsouzen k neúspěchu, ale především nemorální.
 
 
 
 ## Libertariáni
 
-
 <chapterId>9ca743de-537b-42fb-87d2-212d5f478b22</chapterId>
 
+Libertariánská rodina se od všech ostatních politických filozofií zásadně liší: **do svého středu neklade ekonomiku, ale etiku a právo**. Když libertariáni hájí tržní ekonomiku, činí tak méně kvůli její schopnosti vytvářet bohatství než kvůli tomu, že podporuje individuální svobodu a odpovědnost.
 
 
-![video](https://www.youtube.com/watch?v=ftE1NG34yno)
+![Nolanův diagram ukazující libertarianismus nahoře se silnými svobodami ve společenské i ekonomické oblasti](./assets/en/062.webp)
 
+![Libertariánská politická rodina](./assets/en/063.webp)
 
+### Svobody a základní hodnoty
 
-![Libertariens Graphique](./assets/fr/017.webp)
+Jak Nolanův diagram okamžitě ukazuje, libertariáni sedí v horní části rámce, protože nepřijímají žádné omezení obrany svobod, ať společenských, nebo ekonomických. Právě to je odlišuje od každé jiné politické rodiny:
 
+- **Svobody:** silné jak ve společenské, tak v ekonomické sféře. Na společenské úrovni libertariáni hájí maximální individuální svobodu, zahrnující dekriminalizaci určitých látek, svobodu volby vzdělání a nezasahování státu do soukromého života občanů. Na ekonomické úrovni se to rozšiřuje na svobodu podnikat, najímat, určovat mzdy a především **právo utrácet své peníze podle vlastního uvážení** a obchodovat bez omezení nebo dohledu.
+- **Kardinální hodnoty:** legitimní soukromé vlastnictví, individuální svoboda, souhlas, odpovědnost. Tyto hodnoty jsou úzce propojené a zcela neoddělitelné.
+- **Filozofie a principy:** Libertarianismus je především filozofií práva. Základní myšlenka, kterou najdeme už v sedmnáctém století u Johna Locka, spočívá v tom, že každý jednotlivec má nezcizitelná práva na život, svobodu a vlastnictví. Tato práva nejsou udělována vládou, ale jsou lidské bytosti vlastní. Sebevlastnictví je koncept, podle něhož je každý jednotlivec právoplatným vlastníkem svého vlastního těla a života. Jak psal Bastiat, člověk je nejprve vlastníkem sebe sama, poté vlastníkem věcí, které získal. Princip laissez-faire není absencí norem; je to **základní norma, která musí být hájena, i silou**.
+- **Politika:** Princip neagrese postuluje, že osoba může svobodně jednat, jak si přeje, dokud nepáchá násilí proti životu, svobodě nebo majetku druhého. Tato formulace připomíná zlaté pravidlo přítomné ve všech civilizacích a náboženstvích: nečiňte druhým to, co nechcete, aby oni činili vám. Libertariáni odmítají udělit státu zvláštní povolení páchat činy, které by většina lidí považovala za nemorální, kdyby je páchali jednotlivci. Stručně řečeno, **existuje jediný morální kodex, který platí pro všechny, bez výjimek**. To přirozeně vyvolává hlubokou nedůvěru k moci, zejména státní moci, která může legálně vykonávat donucení, mimo jiné prostřednictvím monopolu měnové kontroly. Zdanění je kvalifikováno jako krádež nebo vydírání, protože spočívá v zabavení cizího majetku bez souhlasu, v rozporu s principem neagrese.
+![Libertariánská filozofie: sebevlastnictví, neagrese a laissez-faire](./assets/en/064.webp)
 
+- **Ekonomie:** Svoboda podnikání a směny plyne přímo ze sebevlastnictví a z vlastnictví plodů vlastní práce. Svoboda vytváří spontánní řád, spravedlivější a efektivnější, protože vychází z individuálního jednání a odpovědnosti. Volný trh stojí v opozici ke korporatismu (systému, v němž stát spolupracuje s organizovanými skupinami na regulaci ekonomiky a vytváří monopoly a regulatorní ochrany). **volný trh je přirozený proces, jímž jednotlivci pokojně interagují**, aniž by se spoléhali na sílu zákona k získání výhod.
 
+### Historický vývoj
 
+![Historický vývoj libertariánského myšlení od klasického liberalismu](./assets/en/065.webp)
 
-- Svobody:** jsou silné ve společenské i ekonomické oblasti.
+Libertariánské myšlenky sahají do osmnáctého století ke klasickému liberalismu. Fyziokraté (Vincent de Gournay, Turgot, Quesnay), poté Condillac, Jean-Baptiste Say a Frederic Bastiat tyto principy jasně formulovali. V průběhu dvacátého století **došlo k zásadnímu posunu s postupným opouštěním principů laissez-faire** ve prospěch sociálního státu a stále více regulované společnosti. V reakci na to se klasičtí liberálové ve Spojených státech začali nazývat „libertariáni“, aby se odlišili od amerického „liberalismu“, který si přivlastnil rostoucí státní intervencionismus. Tito libertariáni se rozpoznávali v [rakouské ekonomické škole](https://planb.academy/resources/glossary/austrian-school), jejíž hlavními mysliteli jsou Ludwig von Mises, Friedrich Hayek a Murray Rothbard.
 
+### Typy libertariánů
 
+![Minarchisté versus anarchokapitalisté: dvě tendence uvnitř libertarianismu](./assets/en/066.webp)
 
+Ve dvacátém století se objevily dvě hlavní tendence, i když rozpory mezi nimi spočívají spíše na empirických otázkách než na základních etických neshodách:
 
+![Libertariánské politické principy: neagrese, nedůvěra k moci a odmítnutí zdanění](./assets/en/067.webp)
 
-- Kardinální hodnoty:** svoboda jednotlivce, odpovědnost, soukromé vlastnictví, souhlas.
+1. **Minarchisté** se domnívají, že pravomoci státu by měly být přísně omezeny na obranu individuálních svobod. Jde o režim minimálního státu („stát noční hlídač“), kde je moc legitimní pouze k zajištění základních funkcí policie, justice a územní obrany. Ron Paul je výraznou postavou této tendence: lékař a americký kongresman, který po desetiletí zastupoval Texas, důsledně hlasoval proti jakémukoli návrhu zákona, který se odchyloval od Ústavy, odporoval všem formám zahraničního intervencionismu a **prosazoval denacionalizaci peněz**, myšlenku obhajovanou Friedrichem Hayekem. Paul tvrdí, že Federal Reserve je odpovědná za inflaci a ekonomické cykly prostřednictvím manipulace fiat peněz, a v Bitcoinu viděl formu zdravých peněz, která by mohla nahradit zlatý standard.
 
+![Minarchistická doktrína Rona Paula a principy zdravých peněz](./assets/en/068.webp)
 
+2. **Anarchokapitalisté** se domnívají, že státní funkce by měly být privatizovány a zcela spravovány trhem. Nejde o společnost bez pravidel, autority nebo zákonů, ale **o společnost, v níž by pravidla vznikala dobrovolným přistoupením a souhlasem**. Mohly by existovat vlády a státní funkce, ale neexistoval by monopol; konkurenční podniky by nabízely své služby klientům. Mezi klíčové myslitele patří Murray Rothbard (*For a New Liberty*, 1973), David Friedman (syn Miltona Friedmana, který volí pragmatičtější, utilitaristický přístup a tvrdí, že trh může poskytovat všechny služby efektivněji, včetně práva a pořádku) a Hans-Hermann Hoppe (Rothbardův žák, který rozvíjí přístup založený na argumentační etice).
 
+![Klíčoví myslitelé anarchokapitalismu: Rothbard, Friedman a Hoppe](./assets/en/069.webp)
 
+### Libertariánské myšlení v citátech
 
-- Filozofie a zásady:** primát svobody jednotlivce. Historicky je klasický liberalismus především filozofií práva. Základní myšlenkou je, že každý jednotlivec má nezadatelná práva na život, svobodu a majetek. Tato práva nejsou udělována vládou, ale jsou člověku vlastní. Svrchovanost (neboli sebevlastnictví) je koncept, podle něhož je každý jednotlivec právoplatným vlastníkem svého těla a života a má právo o nich rozhodovat bez vnějšího nátlaku, pokud tím neporušuje práva ostatních.
+> Libertarián nevidí žádný rozpor v tom být v některých otázkách „vlevo“ a v jiných „vpravo“. Naopak svou pozici považuje v praxi za jedinou konzistentní, z hlediska svobody každého jednotlivce.
+> Murray Rothbard, *For a New Liberty*, 1973
 
+> Pokud nemáte právo okrást svého souseda, neměli byste posílat vládu, aby loupila za vás.
+> Ron Paul, 2008
 
+![Libertariánské myšlení v citátech](./assets/en/070.webp)
 
-
-
-- Politika:** Libertariáni věří, že nikdo, ani žádná skupina (včetně vlády), nemá právo iniciovat nebo vyhrožovat fyzickou silou vůči jiné osobě nebo jejímu majetku. Jedná se o princip neútočení. To znamená, že podvod, krádež a nátlak jsou morálně zavrženíhodné. Použití síly je ospravedlnitelné pouze v sebeobraně.
-
-
-
-Libertariáni odmítají udělit státu zvláštní povolení k páchání činů, které by většina lidí považovala za nemorální, nezákonné nebo zločinné, kdyby je páchali jednotlivci nebo skupiny ve společnosti. Stručně řečeno, libertariáni trvají na tom, že všichni by měli podléhat stejnému morálnímu kodexu bez výjimek pro jakoukoli skupinu nebo jednotlivce.
-
-
-
-Libertariáni jsou hluboce podezřívaví vůči jakékoli koncentraci moci, ať už politické nebo ekonomické. Státní moc je považována za obzvláště nebezpečnou, protože může legálně vykonávat nátlak.
-
-
-
-
-
-- Ekonomika:** Svobodný obchod a svoboda podnikání jsou ekonomickým vyjádřením respektu k právu jednotlivců vlastnit sebe a své zboží a svobodně je směňovat. Svoboda vytváří spontánní, spravedlivý řád, protože je výsledkem individuálního jednání a odpovědnosti prostřednictvím souhry dobrovolné směny a smluv.
-
-
-
-**Typy libertariánů:**
-
-
-Ve 20. století se objevily dva hlavní trendy:
-
-
-1.  **Minarchistický:** který se domnívá, že pravomoci státu by měly být přísně omezeny na obranu individuálních svobod. Jedná se o minimální státní režim (*Stát nočních hlídačů*), kde je moc legitimní pouze k zajištění základních funkcí policie, justice a ozbrojené obrany území.
-
-
-2.  **Druhý anarchokapitalista:** který věří, že funkce státu by měly být privatizovány a řízeny trhem.
-
-
-Oba se však shodují na základním principu suverenity jednotlivce. Libertariánské myšlenky vyjádřili již v 18. století fyziokraté, zejména Vincent de Gournay a Turgot, a rozvinuli je Condillac, Jean-Baptiste Say a Frédéric Bastiat. Ve 20. století je převzala a rozvinula [rakouská ekonomická škola](https://planb.academy/resources/glossary/austrian-school), jejímiž hlavními autory jsou Ludwig von Mises, Friedrich Hayek a Murray Rothbard.
-
+Jinými slovy, Rothbard zdůrazňuje, že libertarianismus překračuje tradiční dělení na levici a pravici, a Paul vyzdvihuje odmítnutí státu jako nástroje donucení. **zákaz krádeže platí nejen pro jednotlivce, ale také pro stát.**
 
 
 
 
 ## Centristé
 
-
 <chapterId>d4f5c100-a791-45cf-bc7c-6e2353dc7a48</chapterId>
 
 
+Centrismus je více než jednoduchá středová pozice stejně vzdálená od všech ostatních. Je to skutečná politická filozofie, metoda vládnutí, která tvrdí, že je přizpůsobená současným pluralitním společnostem. Jde o přístup, který **upřednostňuje efektivitu, pragmatismus a směřuje k určité formě technokracie**: moc by měla být svěřena expertům, kteří musí řídit ekonomiku a pilotovat měnovou politiku.
 
-![video](https://www.youtube.com/watch?v=ZJVwYWhdhrU)
+![Nolanův diagram ukazující centrismus umístěný uprostřed s mírnými svobodami v obou oblastech](./assets/en/071.webp)
 
+![Centristická politická rodina](./assets/en/072.webp)
 
+### Svobody a kardinální hodnoty
 
-![Centristes Graphique](./assets/fr/018.webp)
+Centristický přístup je charakterizován neustálým hledáním rovnováhy mezi veřejnou autoritou a soukromou autonomií:
 
+- **Svobody:** umírněné jak ve společenské, tak v ekonomické sféře. Ve společenské oblasti centristé usilují o smíření vládní kontroly a individuální volby, upřednostňují měřené státní zásahy a zároveň zachování základních svobod. V ekonomické oblasti jsou svobody zaručeny, ale vždy zmírněny starostí o sociální spravedlnost. Centristé jsou silně kritičtí k laissez-faire, přesto zůstávají jak pro-business, tak nakloněni nápravě nerovností. Zde je třeba učinit důležité rozlišení: být pro-business (jak centristé mívají sklon být) znamená upřednostňovat **určitý druh spojenectví mezi velkými podniky a státem**, což se liší od postoje pro-market.
+- **Kardinální hodnoty:** umírněnost, kompromis, adaptace, veřejná prospěšnost.
+![Centristická filozofie: pragmatismus a technokracie](./assets/en/073.webp)
 
+- **Filozofie:** Pragmatismus je politická filozofie, která upřednostňuje přizpůsobení konkrétním kontextům před rigidní aplikací ideologických principů. Toto pragmatické myšlení je založeno na myšlence, že pouze technokraté jsou schopni činit správná rozhodnutí k dosažení nejlepších socioekonomických výsledků. V modelu technokratického vládnutí vycházejí politická rozhodnutí z racionality a expertizy spíše než z ideologie nebo stranické debaty. Aby bylo možné vypočítat užitek rozhodnutí, musí být člověk schopen změřit všechny jeho důsledky, a to vyžaduje expertizu: sofistikované výpočty, statistiky, průzkumy, pravděpodobnosti. Je zde však paradox: **tento pragmatismus sám spočívá na formě dogmatismu** (totiž že pouze experti jsou kompetentní řídit společnost), přesvědčení, které zůstává neviditelné a nevyslovené.
+- **Politika:** Centristé se snaží překonat tradiční dělení (levice versus pravice) prostřednictvím koaličního vládnutí, které spojuje umírněné strany od konzervativní pravice po sociálnědemokratickou a ekologickou levici do centrální skupiny, která **překračuje historické štěpné linie mezi levicí a pravicí**. Tato metoda vyhovuje moderním společnostem charakterizovaným rozmanitostí. Bill Clinton ve Spojených státech byl uznáván pro svou schopnost prosazovat zákony získáváním hlasů od republikánů i demokratů; Emmanuel Macron byl ve Francii dvakrát zvolen vytvořením širokého středu složeného ze všech umírněných.
+- **Ekonomika:** Centristé přijímají tržní mechanismy, přičemž uznávají potřebu vhodné expertní kontroly a regulace. Prosazují regulovanou tržní ekonomiku, v níž konkurence probíhá v rámci chránícím obecný zájem. Dalo by se to nazvat „měkkým dirigismem“, protože neusiluje o úplné plánování ekonomiky, ale spíše o zastropování bonusů, regulaci praktik a řízení trhu ve jménu sociálního smíru.
 
+### Cílené sociální programy
 
+![Centristický ekonomický dirigismus: regulovaný volný obchod a cílené sociální programy](./assets/en/074.webp)
 
-- Svobody:** Jsou umírněnými zastánci osobních a ekonomických svobod.
+Centrismus uznává význam **cílených sociálních programů k nápravě nerovností bez vytváření nadměrné závislosti** na státu. Tento systém přerozdělování bohatství míří méně na dogmatický egalitarismus než na sociální smír a „společné soužití“.
 
+### Je keynesiánství ekonomickým centrismem?
 
+![Emblematické centristické osobnosti: Macron a Blair](./assets/en/075.webp)
 
+![Tony Blair a Třetí cesta jako centristický model](./assets/en/076.webp)
 
+John Maynard Keynes, velký anglický ekonom dvacátého století, který dodnes dominuje ekonomickému myšlení a praxi v západních společnostech, může být skutečně chápán jako představitel určité formy centrismu. Jeho přístup hledá rovnováhu mezi klasickým liberalismem (volným trhem) a dirigistickým socialismem (maximálním plánováním).
 
-- Hlavní hodnoty:** umírněnost, kompromis, přizpůsobení, veřejná prospěšnost.
+Místo aby nechal trhy regulovat samy sebe, Keynes tvrdil, že stát by měl používat fiskální a měnové politiky (veřejné výdaje, zdanění, úrokové sazby) ke stimulaci agregátní poptávky v dobách recese nebo k jejímu tlumení v obdobích ekonomického přehřátí. Je původcem známé myšlenky, že spotřeba je dobrá pro růst.
 
+![Keynesiánství jako třetí cesta mezi klasickým liberalismem a dirigistickým socialismem](./assets/en/077.webp) Aby však tento mechanismus fungoval, **jsou zapotřebí experti, kteří manipulují správnými pákami**: měnovými pákami, jako jsou úrokové sazby a tvorba peněz. K financování sociálních výdajů musí být stát schopen si půjčovat, a aby půjčování bylo proveditelné, peníze musí být dostupné a ne příliš drahé, odtud význam centrálních bank při udržování určité míry inflace.
 
+### John Rawls: filozofická dimenze
 
+![John Rawls a filozofické základy centristické spravedlnosti](./assets/en/078.webp)
 
+John Rawls, významný politický filozof a autor *A Theory of Justice* (1971), představuje teoretickou dimenzi centrismu. Jeho pojetí sociální spravedlnosti navrhuje **pragmatickou rovnováhu mezi individuálními svobodami a korektivními zásahy proti nerovnostem**.
 
-- Filozofie:** Centristé se vyhýbají extrémům a upřednostňují pragmatická řešení. O problémech přemýšlejí případ od případu, nikoliv z hlediska principů. Podstatou centrismu je často přistupovat k tématu tak, že hledají pragmatickou rovnováhu mezi jednotlivými názory. Pragmatismus je politická filozofie, která upřednostňuje přizpůsobení se konkrétním podmínkám před rigidním uplatňováním ideologických zásad. Jedná se o politický přístup založený na umírněnosti a kompromisu. Toto pragmatické myšlení vychází z představy, že pouze technokraté jsou schopni přijímat správná rozhodnutí, aby dosáhli nejlepších socioekonomických výsledků.
+Rawls navrhuje dva principy spravedlnosti:
 
+1. **Rovná svoboda pro všechny:** základ demokracie, jak ukázal Tocqueville.
+2. **Princip rozdílu:** umožňovat nerovnosti pouze tehdy, pokud prospívají nejvíce znevýhodněným. Jinými slovy, člověk má právo zbohatnout za předpokladu, že přerozdělování umožní prospěch i těm nejméně zvýhodněným.
 
+Pojem **překrývajícího se konsensu je také ústřední pro Rawlsovo myšlení**, zejména v jeho knize *Political Liberalism* (1993):
 
+> Překrývajícího se konsensu je dosaženo tehdy, když občané, přestože se hlásí k různým komplexním náboženským nebo filozofickým doktrínám, přesto konvergují k souboru politických principů spravedlnosti, které mohou každý ze své vlastní perspektivy podpořit.
 
+Tento přístup dokonale ilustruje centristickou metodu: hledání racionálních, umírněných dohod navzdory rozmanitosti názorů v pluralitní společnosti, samotnou podstatu centristické filozofie.
 
-- Politika:** chtějí kombinovat vládní kontrolu a individuální volbu, aby dosáhli stabilního a umírněného přístupu. Jedná se o flexibilní, případ od případu odlišnou formu státních zásahů. V této technokratické formě vládnutí jsou politická rozhodnutí založena spíše na racionalitě a odbornosti než na ideologii nebo stranické diskusi.
+### Centristické myšlení v citátech
 
+> Důležité pro vládu není dělat věci, které už jednotlivci dělají, a dělat je o trochu lépe nebo o trochu hůře; ale dělat ty věci, které se v současnosti vůbec nedělají.
+> John Maynard Keynes, *The End of Laissez-Faire*, 1926
 
-
-
-
-- Ekonomika:** Centristé akceptují tržní mechanismy a zároveň uznávají potřebu odpovídající odborné kontroly a regulace. Jsou zastánci řízené tržní ekonomiky, kde se konkurence odehrává v regulačním rámci, který chrání obecný zájem.
-
-
-
-Centrismus také uznává význam cílených sociálních programů pro nápravu nerovností bez vytváření nadměrné závislosti na státu. Cílem tohoto systému přerozdělování bohatství není ani tak dogmatické rovnostářství, jako spíše sociální smír a "soužití".
-
-
-
-**Typy centristů:** Centristé se mohou přiklánět k socialismu, konzervatismu, libertariánství nebo autoritářství, a to nikoli z principu, ale z pragmatismu nebo politického oportunismu.
-
-
-
-
-- Emmanuel Macron (Francie):** jeho pozice je jak pravicová, tak levicová. S liberálními ekonomickými reformami (ekonomická pravice) a podporou určitých společenských svobod (sociální levice), hledá střední cestu.
-- Tony Blair (Spojené království):** se svým konceptem "třetí cesty". Snažil se sladit tržní politiku s cíli sociální spravedlnosti, čímž se odlišoval od tradičních socialistů a konzervativců.
-
-
-
-Keynesiánství je ekonomická teorie, která prosazuje aktivní vládní zásahy ke stabilizaci ekonomiky.
-
-
-
-Keynes tvrdil, že stát by neměl nechat trhy, aby se regulovaly samy, ale měl by používat fiskální a měnovou politiku - například veřejné výdaje, daně a úrokové sazby - ke stimulaci agregátní poptávky v době recese nebo k jejímu omezení v době přehřátí ekonomiky.
-
-
-
-Keynes neobhajoval ani absolutní laissez-faire (jako čistí pro-marketingoví zastánci), ani totální státní kontrolu (jako v plánovaném hospodářství).
-
-
-
-Tento přístup představuje ekonomickou "třetí cestu", která hledá rovnováhu mezi klasickým liberalismem, který chce volný trh, a státním plánovacím socialismem, který chce maximální plánování.
-
-
-Z filozofického hlediska můžeme odkázat na slavného politického filozofa Johna Rawlse, autora knihy *Teorie spravedlnosti* (1971).
-
-
-
-Jeho dva principy spravedlnosti (rovná svoboda pro všechny a princip rozdílu, který připouští nerovnosti pouze tehdy, pokud jsou ve prospěch těch nejvíce znevýhodněných) ztělesňují tento pokus o syntézu liberalismu a rovnostářství.
-
-
-
-Koncept **překrývajícího se konsensu** je také ústředním bodem myšlení Johna Rawlse, zejména v jeho knize *Politický liberalismus* (1993). Zde je citát, který tento koncept ilustruje:
-
-
-
-> Překrývajícího se konsensu je dosaženo, když se občané, ačkoli vyznávají různé komplexní, náboženské nebo filozofické doktríny, přesto shodnou na souboru politických zásad spravedlnosti, které mohou všichni podpořit ze svého vlastního pohledu.
-
-Jeho cílem je ukázat, že je možné smířit neslučitelné základní doktríny kolem společných principů spravedlnosti, což je podstatou centristické filozofie.
-
+Keynes tím chce říci, že existují selhání trhu (krize nadprodukce, nedostatky, spekulace), a když krize nastanou, jen stát je v pozici zasáhnout. **Trh není schopen seberegulace**, a proto musí být chráněn, což připadá státu, a tedy expertům a technokratům.
 
 
 ## Totalitní režimy
 
-
 <chapterId>7a5e9f5a-2be1-4497-892a-3da5f015faa0</chapterId>
 
+Analýzu velkých politických rodin uzavíráme totalitními režimy, ale zde máme co do činění s něčím zásadně odlišným. Totalitarismus není, přísně vzato, politická filozofie; **je spíše negací veškeré politické filozofie**. Právě to nám ukazuje Hannah Arendt, když rozlišuje mezi klasickým despotismem a totalitarismem.
+
+![Totalitní režimy: kontrola a donucení ve všech aspektech života](./assets/en/079.webp)
+
+### Postřeh Hannah Arendt
+
+Ve svém hlavním díle *The Origins of Totalitarianism* (1951) Arendt píše: „Totalitarismus nesměřuje k podřízení lidí despotickým pravidlům, ale k systému, v němž jsou lidé nadbyteční.“ Tím myslí, že totalitní režim není prostě klasický režim směřující k tyranii nebo despotismu (jak to někdy činila monarchie, nebo dokonce demokracie, před čímž varoval Tocqueville). Je to něco úplně jiného.
+
+Podle Arendt **totalitarismus není politická rodina, ale samotná negace politiky**, systém, v němž jsou lidské bytosti učiněny neschopnými nezávislého jednání. Politika je v jejím pojetí schopností lidu vzít svůj osud do rukou a jednat. V totalitních režimech je tato schopnost zničena.
+
+![Nolanův diagram ukazující totalitní režimy dole s potlačenými svobodami v obou oblastech](./assets/en/080.webp)
+
+### Definice a základní charakteristiky
+
+![Společná matrice totalitarismu: za hranicemi opozice levice–pravice](./assets/en/081.webp)
+
+Mussolini v roce 1920 prohlásil: „Všechno ve státě, nic mimo stát, nic proti státu.“ To přesně odhaluje, co znamená „totalitní“: totalitu. Všechno je pohlceno státem, což znamená, že **už neexistuje žádné oddělení mezi veřejným a soukromým prostorem**. Stát zcela pohlcuje společnost, která v tom okamžiku ztrácí jakoukoli formu autonomie. Pokud chcete otevřít klub stolního tenisu, potřebujete povolení strany. A to se rozšiřuje úplně na všechno, včetně intimního života rodiny.
+
+- **Svobody:** potlačené. Totalitní režimy vnucují silnou vládní kontrolu nad osobním i ekonomickým životem. Totalitarismus existuje tehdy, když stát kontroluje ve společnosti všechno a disponuje neomezenou mocí, přičemž odstraňuje všechny formy opozice prostřednictvím politické policie.
+- **Filozofie:** Totalitní společnosti se vyznačují užíváním ideologie, příslibem „ráje“ (konec dějin pro komunismus, nebo rasová čistota pro nacismus). Strana sjednocuje masy proti nepříteli vnějšímu i vnitřnímu (kapitalistická buržoazie pro komunismus, Žid pro nacismus).
+- **Politika:** systém jedné strany, v němž nepatrná menšina kontroluje celou populaci prostřednictvím ideologie a teroru. **Všechny totalitní režimy se dostaly k moci násilnou revolucí**, revolucí, která ospravedlňuje násilí tím, že dělá tlustou čáru za předchozím systémem.
+- **Ekonomika:** totalitní režimy mohou tolerovat soukromé podnikání, pokud je nuceno sloužit zájmům státu, nebo mohou požadovat, aby stát kontroloval všechny výrobní prostředky. Volný trh vidí jako hrozbu pro obecný řád, protože ideální společnosti musí být plánovány autoritami.
+
+### Pilíře totalitní kontroly
+
+![Definice a základní charakteristiky totalitarismu](./assets/en/082.webp)
+
+Totalitarismus je přítomen tehdy, když **jsou současně shromážděny všechny následující charakteristiky**: potlačené svobody, neomezená autorita založená na jediné straně a kultu vůdce, násilná revoluce a řízená ekonomika. To už byl případ Francouzské revoluce, a proto v ní někteří historici identifikovali totalitní dimenzi. Je důležité poznamenat, že moderní demokracie mohou vykazovat některé z těchto charakteristik, ale nikdy ne všechny současně (alespoň zatím naštěstí ne).
+
+### Dva modely, jedna metoda: Hitler versus Stalin
+
+![Hitler versus Stalin: dva modely sdílející totožné metody](./assets/en/083.webp)
+
+Rozdíly mezi nacismem a komunismem jsou spíše zdánlivé než skutečné. Navzdory svému historickému antagonismu používali Hitler a Stalin totožné metody: kult osobnosti, totální společenskou kontrolu prostřednictvím dohledu, cenzury, indoktrinace a politické policie a **systematické odstraňování všech forem opozice nebo nesouhlasu**. Jak napsal Raymond Aron, bystrý pozorovatel totalitních režimů dvacátého století: „Nacistické nebo komunistické totalitarismy fungují stejným způsobem, na dvou principech: víře militantů a strachu oponentů.“ O „víře“ mluví v kvazináboženském smyslu; totalitní režimy byly nazývány sekulárními náboženstvími, náboženstvími bez Boha. Za jejich různými motivacemi je charakterizuje určitý druh fanatismu.
+
+- **Hitler (nacismus):** ačkoli nacistický režim formálně nezrušil soukromé vlastnictví, existovalo zdání tržní ekonomiky, zatímco soukromý sektor byl zcela podřízen cílům státu (válce a znovuvyzbrojení). Byla zavedena ekonomická autarkie, což znamenalo, že neexistoval volný obchod. Existovalo centralizované ekonomické plánování sloužící cílům režimu.
+
+- **Stalin (komunismus):** Stalinismus exemplifikuje úplnou státní kontrolu ekonomiky. Veškeré soukromé vlastnictví výrobních prostředků bylo zrušeno, ekonomika byla plně plánována (pětileté plány), kolektivizace byla vynucená a stát kontroloval absolutně všechny aspekty výroby a distribuce.
+
+Jak píše Thierry Wolton, který rozsáhle studoval srovnání těchto dvou režimů: „Dvojčecí povaha sovětského komunismu a nacismu je historický fakt. Oba totalitarismy se podobají svým způsobem fungování a politickou praxí: **nenávist k demokracii, k humanistickým hodnotám, k individuální svobodě** jsou rysy společné oběma.“
+
+### Totalitní myšlení v citátech
+
+![Totalitní myšlení: odmítnutí individuální svobody ve prospěch centralizované autority](./assets/en/084.webp)
+
+> Lid nepotřebuje svobodu, protože svoboda je jednou z forem buržoazní diktatury.
+> Vladimir Lenin, *What Is to Be Done?*, 1902
+
+> Německý lid nebude veden uvažováním, ale vůdcem, který ztělesňuje vůli lidu.
+> Adolf Hitler, *Mein Kampf*, 1925
+
+> Nacismus a komunismus sdílejí společný odpor k liberální demokracii a tomu, co nazývají „kapitalistickou buržoazií“. [...] Obě ideologie tvrdí, že jsou socialistické, a používají tento obraz jedna proti druhé.
+> Francois Furet, *The Passing of an Illusion*, 1995
+
+Tyto citáty odhalují společnou logiku totalitních režimů: **odmítnutí individuální svobody ve prospěch absolutní centralizované autority**, ať komunistické, nebo fašistické. Už samotný název nacistické strany (nacionální socialismus) skutečně signalizuje tuto sdílenou ideologickou matrici, přestože se obě hnutí navzájem nenáviděla.
 
 
-![video](https://www.youtube.com/watch?v=0ueywR4vzHs)
-
-
-
-Je důležité poznamenat, že pojem totalitarismus se vztahuje k politickému systému, nikoli k politické ideologii ve smyslu konzervatismu nebo centrismu. Totalitní režim se vyznačuje rozsáhlou, donucovací kontrolou státu nad všemi aspekty veřejného i soukromého života.
-
-
-
-![regimes totalitaires Graphique](./assets/fr/019.webp)
-
-
-
-
-
-- Svobody:** totalitní režimy podporují silnou vládní kontrolu nad osobním a ekonomickým životem. Totalitarismus existuje tehdy, když stát kontroluje vše ve společnosti a má neomezenou moc.
-- Filozofie:** Totalitáři věří, že centralizovaná autorita je jediným způsobem, jak zajistit řád a spravedlnost, zatímco svoboda je faktorem nepořádku. Chtějí, aby stát kontroloval všechny aspekty ekonomického a osobního života, protože věří, že taková kontrola s větší pravděpodobností vytvoří ideální společnost. Jsou to revoluční režimy, které ospravedlňují násilí tím, že předchozí systém byl zcela špatný a že je třeba zavést nový model tím, že se vyčistí štít. Nemohou tolerovat přílišnou názorovou různorodost nebo jakékoli projevy, které zpochybňují jejich autoritu.
-- Politika:** totalitarismus označuje systém jedné strany. Podle Hannah Arendtové totalitarismus není politická rodina ani despotický politický režim. Je to samotná negace politiky: systém, v němž jsou lidé učiněni neschopnými samostatného jednání. Podle ní cílem totalitní výchovy nikdy nebylo vštěpovat přesvědčení, ale zničit schopnost utvářet si jakékoli jiné (The Origins of Totalitarianism, 1951). Totalitní společnosti se totiž vyznačují používáním ideologie, příslibu *ráje*, jako je konec dějin nebo rasová čistota. V důsledku toho eliminují všechny formy opozice prostřednictvím politické policie a používání teroru.
-- Ekonomika:** totalitní režimy mohou tolerovat soukromé podnikání, pokud je nuceno sloužit zájmům státu, nebo požadovat, aby stát kontroloval všechny výrobní prostředky. Volný trh považují za hrozbu pro obecný pořádek, protože ideální společnost musí být plánována autoritami.
-
-
-
-**Existují dvě obecné kategorie totalitních režimů**: levicové totalitní režimy (komunismus, národní socialismus) a pravicové totalitní režimy (vojenské diktatury, fašismus). Tyto kategorie však ztrácejí svůj význam, pokud pochopíme, že jde o stejnou matrici. To je případ Hitlera a Stalina. Navzdory jejich historickému antagonismu v nich nacházíme stejný kult vůdce, nábor mládeže, cenzuru, sledování, potlačování veškeré opozice, politické pronásledování a potlačování veškeré individuální svobody.
-
-
-
-
-
-- Hitler (nacismus/fašismus): Ačkoli nacismus formálně nezrušil soukromé vlastnictví, nacistický stát vykonával drtivou kontrolu nad ekonomikou. Výroba, alokace zdrojů a (i soukromé) podnikání byly podřízeny státním cílům (zbrojení, autarkie). Existovalo centralizované hospodářské plánování sloužící cílům režimu.
-
-
-
-
-
-- Stalin (komunismus/stalinismus): Stalinismus je příkladem totální státní kontroly nad ekonomikou. Bylo zrušeno veškeré soukromé vlastnictví výrobních prostředků, ekonomika byla plně plánovaná (pětileté plány) a stát kontroloval naprosto všechny aspekty výroby a distribuce.
-
-
-
-# Společenské otázky
-
+# Společenské a ekonomické otázky
 
 <partId>ab160ddd-5c3a-436b-a77a-76d7089f1611</partId>
 
 
-
 ## Společenské otázky
-
 
 <chapterId>bb2156da-7e10-4f0b-89c3-f6d53f5a79ef</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=tq09pDLHioQ)
+
+![Srovnávací analýza společenských debat napříč politickými rodinami](./assets/en/085.webp)
+
+Po analýze hlavních politických rodin se nyní obracíme k sérii debat o společenských otázkách, po nichž následují otázky ekonomické. Cílem je nabídnout srovnávací analýzu socialistických, konzervativních, libertariánských a centristických pozic k pěti základním otázkám společnosti: manželství, imigraci, střelným zbraním, drogám a dani ze slazených nápojů.
+
+Společenské otázky nejsou o penězích. Týkají se voleb, které činíme ohledně toho, co čteme, jíme, pijeme, kouříme, nosíme nebo s kým se rozhodneme sdružovat, spát či uzavřít manželství. U každé níže uvedené otázky prozkoumáme krátkou odpověď typickou pro každou politickou rodinu. Tyto rychlé odpovědi nabízejí pouze letmý pohled na každý názor, a protože ne každý myslí stejně, jsou jim přisuzované pozice přirozeně otevřené debatě. Snažil jsem se však být spravedlivý a přesně reprezentovat to, co by řekla většina stoupenců každé rodiny.
 
 
+### Manželství
 
-Zde je několik často kladených otázek týkajících se politických témat. Za každou otázkou následuje krátká odpověď typická pro socialistu, konzervativce, libertariána a centristu.
+![Debata o manželství napříč politickými rodinami](./assets/en/086.webp)
 
-
-
-Tyto rychlé odpovědi samozřejmě nabízejí pouze letmý pohled na jednotlivé úhly pohledu. Protože ne všichni smýšlejí stejně, jsou odpovědi, které jsou jim přisuzovány, přirozeně otevřené diskusi. Snažil jsem se však být spravedlivý a přesně reprezentovat to, co by mohla říci většina.
-
+**Otázka:** Měla by vláda legalizovat homosexuální manželství stejným způsobem jako tradiční manželství?
 
 
-Společenské problémy se netýkají peněz, ale toho, co čteme, jíme, pijeme, kouříme, co si oblékáme nebo s kým se rozhodneme stýkat, spát či uzavřít manželství.
+### Socialistická pozice: ano
 
+Pro socialisty musí být všichni občané před zákonem zacházeni stejně, bez diskriminace na základě sexuální orientace. Jinými slovy jde o inkluzivní pojetí zakořeněné v principu nediskriminace. Socialisté odsuzují **útlak homosexuální menšiny heterosexuální většinou**, která jí odpírá přístup k manželství. Zde nacházíme světonázor, který prostupuje mnoha socialistickými pozicemi: společnost je strukturována konfliktem mezi dominantními a ovládanými, utlačovateli a utlačovanými. Tento rámec se reprodukuje v mnoha oblastech. Může se vztahovat na genderové vztahy mezi muži a ženami nebo mezi homosexuály a heterosexuály. Může se vztahovat na vztahy mezi rasovými skupinami a dokonce i na vztah mezi lidstvem a přírodou. Legalizace homosexuálního manželství je proto v jejich očích aktem sociální spravedlnosti.
 
+### Konzervativní pozice: ne
 
-### Svatba
+Pro konzervativce je tradiční manželství základní institucí trvající 2 500 let, definovanou jako svazek muže a ženy. Tato definice není libovolná. Opírá se o biologickou realitu: **přirozenou schopnost plodit, která je hlavním posláním rodiny**. Chceme-li chránit společenský řád a zabezpečit budoucnost samotného lidstva (protože plození zajišťuje samotné přežití druhu), pak musí být manželství ze své samotné definice vyhrazeno muži a ženě. Jinými slovy, to, co se konzervativci snaží chránit, je samotná tradiční definice manželství.
 
+### Libertariánská pozice: smíšená
 
-**Otázka:** Měla by vláda legalizovat manželství homosexuálů stejně jako tradiční manželství?
+Pro libertariány je otázka zásadně špatně zarámována, protože je položena etatisticky: komu stát povoluje uzavřít manželství? Stát, tvrdí, nemá co zasahovat do soukromého života jednotlivců. Důsledný libertariánský přístup proto hájí oddělení manželství a státu. **Tím, že stát vnucuje jedinou definici manželství, vytváří konflikty.** Privatizace manželství respektuje jak ty, kdo podporují tradiční manželství, tak ty, kdo hájí manželství osob stejného pohlaví. Řešení: zbavit se povinného občanského manželství a ponechat tuto roli soukromým sdružením, církvím, synagogám, mešitám nebo sekulárním organizacím. Nechme jednotlivce, sdružení a náboženství definovat manželství po svém.
 
+### Centristická pozice: ano
 
-
-
-
-- Socialisté:** Ano, vidí, že heterosexuální většina utlačuje homosexuální menšinu tím, že jim odpírá manželství, a proto reformu přirozeně podporují. Socialisté chtějí prosadit jednotné pojetí občanského manželství, včetně homosexuality, na úkor těch, kteří považují manželství pouze za svazek muže a ženy. Legalizace homosexuálních sňatků je proto aktem sociální spravedlnosti, který podporuje inkluzivnější a tolerantnější společnost. Zajišťuje, aby páry stejného pohlaví požívaly stejných zákonných práv (dědictví, daně, příbuzenství atd.) a ochrany jako páry heterosexuální, čímž se překonává faktická nerovnost. Jádrem argumentace je přesvědčení, že se všemi občany by se mělo podle zákona zacházet stejně bez ohledu na sexuální orientaci. Odepření manželství párům stejného pohlaví je považováno za nepřijatelnou diskriminaci.
-
-
-
-
-
-- Konzervativci:** Ne. Tradiční manželství považují za základní instituci západní civilizace, která vznikla před 2 500 lety a je historicky definována jako svazek muže a ženy. Tato definice není libovolná, ale opírá se o biologické (schopnost přirozeně se rozmnožovat) a kulturní/náboženské základy. Radikální redefinice manželství je považována za hrozbu pro civilizovanou společnost. Uzákonění homosexuálního manželství by znamenalo denaturaci nebo redefinici této posvátné a základní instituce, která by ji zbavila jejího původního významu a primárního poslání, jímž je plození a založení rodiny v její přirozené podobě. Rychle se měnící společenské normy jsou často vnímány s podezřením, protože mohou vést k rozpadu referenčních bodů a ztrátě kulturní či národní identity. Manželství je vnímáno jako pilíř tohoto řádu.
-
-
-
-
-
-- Libertariáni:** Ano i ne. Důsledným libertariánským přístupem je obhajoba privatizace manželství, tj. manželství zcela bez státních zásahů. Manželství je nestátní instituce a stát nemá co nutit ostatní, aby uznávali tradiční nebo homosexuální manželství. Řešení? Zbavit se povinného civilního manželství a přenechat tuto roli soukromým sdružením: církvím, synagogám, mešitám nebo soukromým sekulárním organizacím. Toto politické řešení, které respektuje vlastnická práva a svobodu jednotlivce, by se mohlo nazývat odluka manželství od státu.
-
-
-
-
-
-- Centristé:** Ano. Centristé by uznali, že společnost se vyvíjí a že značná část populace si přeje uznání párů stejného pohlaví. Zastávají zásadu nediskriminace a věří, že jednotlivci mají právo vést život podle svého uvážení, včetně legálních svazků. Byli by citliví na argument, že páry stejného pohlaví by měly požívat stejných zákonných práv a ochrany (dědictví, sociální ochrana, daně) jako heterosexuální páry. Pro centristy musí stát odrážet rozmanitost občanů a modernizaci práva a zároveň zachovávat určitou sociální soudržnost.
-
+Centristé uznávají vývoj společnosti a zastávají názor, že princip nediskriminace se musí uplatnit. Zákon musí odrážet rozmanitost občanů a přizpůsobovat se své době. Páry stejného pohlaví by měly požívat stejná zákonná práva a ochranu (dědictví, sociální ochrana, zdanění) jako heterosexuální páry. Zde nacházíme **centristický ideál konsensu, pragmatické adaptace a modernizace práva**.
 
 
 ### Imigrace
 
+![Debata o imigraci napříč politickými rodinami](./assets/en/087.webp)
 
-**Otázka:** Měla by vláda otevřít hranice všem a bezpodmínečně vpustit ty, kteří chtějí imigrovat?
-
-
-
+**Otázka:** Měla by vláda otevřít hranice bezpodmínečně?
 
 
-- Socialisté:** Ano. Vidí nelegální přistěhovalce jako utlačovanou skupinu a rodilé bělochy, kteří jsou vůči přistěhovalcům nepřátelští, jako jejich utlačovatele. Omezení na základě národnosti nebo náboženství jsou navíc diskriminační a v rozporu s lidskými právy. Stát má povinnost přijímat lidi v nouzi a podporovat rozmanitost a integraci.
+### Socialistická pozice: ano
 
+Pro socialisty jsou diskriminační omezení v rozporu s lidskými právy. Stát má povinnost vítat lidi v nouzi a podporovat rozmanitost. Zde opět nacházíme myšlenky sociální spravedlnosti, rovnosti a nediskriminace, které charakterizují socialistickou rodinu. **Omezení založená na národnosti nebo náboženství jsou vnímána jako formy útlaku**, v souladu s rámcem dominantních/ovládaných popsaným výše.
 
+### Konzervativní pozice: ne
 
+Stát má suverénní právo kontrolovat své hranice, aby chránil národní bezpečnost a kulturní identitu. Pro konzervativce musí mít **řád, identita a národní suverenita přednost** před neomezeným přijímáním cizinců nebo uprchlíků. Hranice a dobře vymezené obyvatelstvo jsou součástí civilizovaných hodnot.
 
+### Libertariánská pozice: smíšená
 
-- Konzervativci:** Ne. Stát má svrchované právo kontrolovat své hranice a rozhodovat o tom, kdo vstoupí na jeho území. Omezení mohou být nezbytná k ochraně národní bezpečnosti, kulturní identity nebo schopnosti integrace společnosti. Obávají se, že povolení přistěhovalectví zničí identitu národů a ještě více podkope práci i těch nejskromnějších občanů. Hranice a jasně definované obyvatelstvo patří k civilizovaným hodnotám.
+Ano tržní imigraci a ne státní imigraci. Proč? Protože ve světě silně prostoupeném etatismem je imigrace dotovaná a vytváří nároky na práci druhých. Jinými slovy dopadá na daňové poplatníky, kteří musí platit zdravotnictví, bydlení a další výdaje. Z perspektivy osy svoboda/donucení dávají otevřené hranice jednotlivcům možnost hlasovat nohama, svobodně si volit svou vládu. Ale **imigrace nemůže vytvářet práva na práci druhých**. Člověk má právo usadit se v jiné zemi pod podmínkou, že se nestane zátěží pro její obyvatele. Řešením je jako vždy pro libertariány trh: nechat občany smluvně rozhodovat o svých vztazích s cizinci. Jakákoli imigrace, která je vnucená a vynucená, je neslučitelná se svobodou.
 
+### Centristická pozice: ano
 
-
-
-
-- Libertariáni:** Ano i ne. Ano tržní imigraci a ne státní imigraci. Protože v silně státem podporovaném světě je imigrace vždy dotována a vytváří nešťastný nárok na práci druhých, tedy umělé právo, formu ekonomického transferu. Z hlediska osy svoboda/nátlak však otevřená hranice dává jednotlivci možnost volby vlády a možnost hlasovat nohama. Proto by nejlepší imigrační politikou bylo omezit angažovanost státu a umožnit občanům, aby se rozhodovali sami.
-
-
-
-
-
-- Centristé:** Vláda musí přistěhovalectví řídit vyváženě. Zatímco omezení na základě náboženství jsou obecně nepřijatelná, omezení na základě státní příslušnosti nebo kvalifikace mohou být nezbytná pro uspokojení hospodářských potřeb a zajištění úspěšné integrace při respektování mezinárodních úmluv a lidských práv.
-
+Imigrace umožňuje zaměstnavatelům najímat pracovníky v sektorech čelících nedostatku a otevřená imigrace umožňuje uplatňování mezinárodních úmluv týkajících se uprchlíků. Vláda musí imigraci řídit vyváženě, **slaďovat ekonomické potřeby, úspěšnou integraci a respekt k mezinárodním úmluvám**.
 
 
 ### Střelné zbraně
 
+![Debata o střelných zbraních napříč politickými rodinami](./assets/en/088.webp)
+
+**Otázka:** Měli by zákona dbalí občané moci vlastnit střelné zbraně bez přísné regulace?
 
 
-**Otázka:** Měli by mít občané, kteří dodržují zákony, možnost vlastnit střelné zbraně bez přísné regulace?
+### Socialistická pozice: ne
 
+Veřejná bezpečnost musí mít přednost před svobodou vlastnit zbraně. Přísná regulace je nezbytná ke snížení násilí a zaručení kolektivní bezpečnosti, protože stát má ústavní povinnost chránit všechny své občany. Socialisté také zdůrazňují nerovnosti, které by mohly ze svobody držet střelné zbraně vzniknout, a zranitelnost, kterou by vytvořila pro nejkřehčí členy společnosti. Nakonec **pouze státu by mělo být svěřeno použití síly**, za podmínek respektujících veřejný zájem.
 
+### Konzervativní pozice: smíšená
 
+Právo vlastnit zbraň k sebeobraně je důležitá hodnota. Regulace k zaručení bezpečnosti a veřejného pořádku je však také nezbytná a **tyto regulace musí vycházet z veřejné autority** pověřené ochranou obecného dobra. Na rozdíl od libertariánského pohledu konzervativec trvá na tom, že pravidla upravující zbraně musí vycházet shora, od legitimní autority odpovědné za veřejný pořádek.
 
+### Libertariánská pozice: ano
 
-- Socialisté:** Ne. Veřejná bezpečnost musí mít přednost před svobodou vlastnit zbraně. Přísná regulace je nutná ke snížení násilí a zaručení bezpečnosti všech, protože stát má povinnost chránit své občany.
+Právo ozbrojit se je zásadní složkou práva odporovat agresi. Stát by neměl mít monopol na sílu a jednotlivci by měli mít možnost svobodně se chránit v případech legitimní sebeobrany. Je třeba poznamenat, že libertarianismus není absencí pravidel, jak se často věří. Libertariáni souhlasí s konzervativci, že pro nošení zbraní je nezbytná určitá forma regulace, stejně jako je vyžadován řidičský průkaz nebo lovecký lístek. Zásadní rozdíl však spočívá v tom, kdo tato pravidla stanovuje. Pro libertariány by **regulace měla vycházet od těch, kterých se přímo týká**: bezpečnostních profesionálů, občanských sdružení a tržní konkurence, nikoli z vládního mandátu shora dolů.
 
+### Centristická pozice: ne
 
-
-
-
-- Konzervativci:** Částečně ano, právo vlastnit zbraň pro sebeobranu je důležitou hodnotou. Regulace k zajištění bezpečnosti a veřejného pořádku jsou však také nezbytné, musí však respektovat toto základní právo.
-
-
-
-
-
-- Libertariáni:** Ano, právo na ozbrojení je základní součástí práva na sebeobranu. Stát by neměl mít monopol na sílu a jednotlivci by měli mít možnost se bez překážek bránit. Regulace nošení zbraní by však měla být ponechána trhu, profesionálům a občanským sdružením.
-
-
-
-
-
-- Centristé:** Ne, regulace je nezbytná. I když právo vlastnit střelné zbraně může pro určité účely existovat, veřejná bezpečnost a omezení násilí vyžadují přísnou kontrolu (povolení, prověrky, typ zbraně), aby se dosáhlo rovnováhy mezi svobodou a pořádkem.
-
+Regulace je nezbytná. Ačkoli právo vlastnit střelné zbraně může pro určité účely existovat, **veřejná bezpečnost a snižování násilí vyžadují přísné kontroly ze strany státu**, který drží monopol na sílu: povolení, prověrky minulosti a omezení povolených typů zbraní.
 
 
 ### Drogy
 
+![Debata o legalizaci drog napříč politickými rodinami](./assets/en/089.webp)
+
+**Otázka:** Mělo by být dospělým dovoleno svobodně užívat drogy k rekreačním účelům?
 
 
-**Otázka:** Měli by dospělí mít možnost volně užívat drogy pro rekreační účely?
+### Socialistická pozice: ano
+
+Pro socialisty penalizace vytváří více problémů, než řeší. Legalizace kontrolovaná státem by umožnila lepší řízení kvality, vytvářela veřejné příjmy a upřednostnila zdravotní prevenci před represí. Stojí za povšimnutí ostrá dichotomie, která v socialistickém myšlení existuje mezi ekonomickými a společenskými otázkami. **V této společenské otázce se socialisté ukazují jako mnohem liberálnější než konzervativci**, upřednostňují individuální svobodu spotřeby a zároveň udržují státní dohled nad procesem.
+
+### Konzervativní pozice: ne
+
+I takzvané měkké drogy jsou škodlivé pro zdraví a společenský řád. Užívání drog skutečně vytváří problémy závislosti, ale také narušení rodiny a potíže na pracovišti. Stát musí pevně prosazovat zákon, aby chránil občany a zachoval integritu národa a rodiny. Konzervativci také poukazují na to, že **prohibice nese obrovské náklady pro daňového poplatníka**, protože zahrnuje boj proti překupníkům, gangům a kartelům, ale považují tyto náklady za ospravedlněné imperativem udržení řádu.
+
+### Libertariánská pozice: smíšená
+
+Ano, ale pouze pod podmínkou, že se omezí role státu ve společnosti. Za prvé, stát nemá co zasahovat do osobních rozhodnutí jednotlivců. Za druhé, prohibice plodí černé trhy a kriminalitu. Řešení problémů závislosti a škod, které vytváří jak pro jednotlivce, tak pro společnost, však spočívá v soukromé iniciativě: dobrovolné podpoře poskytované jednotlivci, rodinami a sdruženími, nikoli ve státem řízené péči. Jinými slovy, **liberalizace drog je žádoucí, ale ne tehdy, pokud si ji převezme stát**. Občanovi musí být vrácena odpovědnost za rozhodování a nesení jeho důsledků. Pokud se někdo rozhodne užívat drogy a stane se závislým nebo nemocným, musí nést odpovědnost místo toho, aby žádal stát o poskytování péče. Nic nebrání charitativním sdružením nabízet pomoc a podporu těm, kdo ji potřebují.
+
+### Centristická pozice: ani ano, ani ne
+
+Centristé chtějí s jistotou vědět, zda by liberalizace odblokovala justiční systém nebo zlepšila veřejné zdraví. V praxi se při rozhodování opírají o studie a odborná hodnocení. **Požadují konkrétní důkazy účinnosti**, než se zavážou k jakékoli změně politiky, a volají po přísných studiích zdravotních i ekonomických dopadů.
 
 
+### Daň ze slazených nápojů
+
+![Debata o dani ze slazených nápojů napříč politickými rodinami](./assets/en/090.webp)
+
+**Otázka:** Měla by vláda zdanit slazené nápoje, aby snížila obezitu?
 
 
+### Socialistická pozice: ano
 
-- Socialisté:** Ano Penalizace je neúčinná. Legalizace umožňuje kontrolu a generování příjmů.
-- Konzervativci:** Ne. Spotřeba škodí zdraví a společenskému řádu.
-- Libertariáni:** Ano, pokud se omezí role státu ve společnosti. Stát nemá co zasahovat do osobních rozhodnutí, pokud přímo nepoškozují ostatní.
-- Centristé:** Složitá debata. Dekriminalizace je možná, ale přísná regulace nutná.
+Problém obezity je v socialistickém pohledu problémem výrobců, kteří profitují ze závislosti na cukru na úkor veřejného zdraví. Existuje celý potravinářský průmysl, který tuto závislost a zranitelnost v populaci zneužívá, zejména u těch, kdo jsou nejméně chránění a nejméně vzdělaní. **Daň ze slazených nápojů má zabránit průmyslníkům profitovat z obezity** a z problému závislosti.
 
+### Konzervativní pozice: ne
 
+Konzervativci více upřednostňují osobní odpovědnost a vzdělávání. Úkol vzdělávat děti v těchto otázkách by měl být svěřen nejprve rodičům: prevence spíše než zdanění. **Zdanění je totiž konzervativci často považováno nejen za neúčinné, ale přímo škodlivé**, protože firmy se jednoduše pokusí udržet své marže zvýšením cen svých produktů a přenesou zátěž na spotřebitele.
 
+### Libertariánská pozice: ne
 
-### Zdraví
+Základním principem libertarianismu je, že je nespravedlivé chránit lidi před nimi samými. Zde je argument méně ekonomickým výpočtem než v jádru morálním argumentem. Občané jsou dospělí, ne děti; mají právo činit vlastní rozhodnutí, i když jim tato rozhodnutí mohou uškodit. Problém obezity proto musí být řešen soukromou iniciativou. To neznamená popírat, že obezita je vážný společenský problém. Spíše to znamená **vrátit jednotlivcům odpovědnost za rozhodování a nesení jeho důsledků**. Pokud je potřeba pomoc, nejlépe ji mohou poskytnout trh, občanská společnost, jednotlivci a rodiny, nikoli stát.
 
+### Centristická pozice: ani ano, ani ne
 
-
-**Otázka:** Měla by vláda zdanit sladké nápoje, aby snížila obezitu?
-
-
-
-
-
-- Socialisté:** Ano. Problém obezity je problémem výrobců, kteří prodávají nealkoholické nápoje. Daň z limonád je socialistický návrh na boj proti výrobcům nebo prodejcům sladkých nápojů, kteří jsou obviňováni z toho, že dosahují zisku na úkor veřejného zdraví.
-
-
-
-
-
-- Konzervativci:** V zásadě ano. Posláním vlády je zajistit zdraví občanů. Konzervativci však obecně dávají přednost řešením založeným na osobní odpovědnosti a vzdělání. Uvalení daně na sladké nápoje by považovali za přílišné zasahování státu do osobních rozhodnutí občanů.
-
-
-
-
-
-- Libertariáni:** Ne. Základním principem libertariánství je, že je nespravedlivé chránit lidi před nimi samými. Občané jsou dospělí, ne děti. Pokusy vnutit lepší zdravotní návyky donucovacími prostředky považujeme za nákladné, neúčinné a v konečném důsledku kontraproduktivní. Problém obezity je třeba řešit soukromou iniciativou.
-
-
-
-
-
-- Centristé:** Ano, byli by otevřeni myšlence daně, pokud by se prokázala její účinnost a pokud by se podařilo zmírnit její sociální a ekonomické nevýhody. Vnímali by ji jako součást širšího integrovaného řešení, nikoli jako izolované opatření.
-
-
-
-# Ekonomické otázky
-
-
-<partId>465e0e6b-17e9-4f07-9a41-b3e88af0e83f</partId>
-
+Ano, pokud je prokázána účinnost. Jinými slovy centristé požadují konkrétní důkazy, že daň bude fungovat, než ji zavedou. Chtějí přísné studie zdravotních a ekonomických dopadů. **Jejich rozhodnutí spočívá na expertním hodnocení, nikoli na principu**, což je charakteristické pro centristický přístup napříč těmito debatami.
 
 
 ## Ekonomické otázky
-
 
 <chapterId>f1d6c5de-fa05-4fb7-9d2e-73cc9791ea23</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=8MM2cFzPtRg)
 
+![Srovnávací analýza ekonomických debat napříč politickými rodinami](./assets/en/091.webp)
 
-
-Ekonomické otázky se týkají peněz, například zaměstnání, nákupu a prodeje, investic a obchodních transakcí. Vybral jsem pět otázek, na které jsem představil odpovědi jednotlivých politických rodin. Je zřejmé, že tyto stručné odpovědi nabízejí pouze letmý pohled na jednotlivé úhly pohledu.
-
+Po společenských otázkách se nyní obracíme k otázkám ekonomickým. Ty se týkají peněz: zaměstnanosti, nákupu a prodeje, investic, obchodních transakcí a také práva. Prozkoumáme odpovědi každé hlavní politické rodiny na pět základních otázek: daně, minimální mzdu, zdravotnictví, životní prostředí a dotace. Stejně jako dříve tyto rychlé odpovědi nabízejí pouze letmý pohled na každý názor.
 
 
 ### Daně
 
+![Debata o zdanění napříč politickými rodinami](./assets/en/092.webp)
+
+**Otázka:** Měly by být daně z příjmu sníženy nebo nahrazeny jednoduššími, nižšími formami zdanění?
 
 
-**Otázka:** Měly by se daně z příjmu snížit nebo nahradit jednoduššími a nižšími formami zdanění?
+### Socialistická pozice: ne
 
+Progresivní daně z příjmu jsou základním nástrojem přerozdělování bohatství a financování veřejných služeb (zdraví, vzdělávání, sociální ochrana). Jsou proto nezbytné pro sociální spravedlnost. Jinými slovy, **progresivita je mechanismus, skrze který stát napravuje nerovnost** a financuje kolektivní infrastrukturu, kterou socialisté považují za nepostradatelnou.
 
+### Konzervativní pozice: ano
 
+Nižší daně podporují investice, tvorbu pracovních míst a ekonomický růst. Upřednostňují individuální iniciativu a snižují vládní plýtvání ve veřejném sektoru. V konzervativním pohledu **musí být daně spravedlivé a nízké**, aby odměňovaly úsilí a podnikání místo trestání úspěchu.
 
+### Libertariánská pozice: ano
 
-- Progresivní daně z příjmu jsou základním nástrojem pro přerozdělování bohatství a financování veřejných služeb (zdravotnictví, školství, sociální ochrana). Jsou nezbytné pro sociální spravedlnost.
-- Konzervativci:** Ano. Nižší daně podporují investice, tvorbu pracovních míst a hospodářský růst. Podporují individuální iniciativu a snižují plýtvání státu. Daně musí být spravedlivé a nízké.
+Zdanění je forma státní krádeže a překážka soukromého vlastnictví. Mělo by být drasticky omezeno nebo zrušeno ve prospěch zcela soukromých služeb. Libertariáni směřují k minimálnímu státu, nebo dokonce k nulovému státu. Vláda by pro ně měla být omezena na přísně suverénní funkce (obrana, justice), což by ospravedlnilo mnohem méně daní, než kolik jich existuje dnes. Jinými slovy, **libertariánská námitka proti zdanění je morální dříve než ekonomická**: jde o porušení vlastnických práv.
 
+### Centristická pozice: smíšená
 
-
-
-
-- Libertariáni:** Ano. Daně jsou formou státní krádeže a překážkou soukromého vlastnictví. Měly by být drasticky omezeny nebo zrušeny ve prospěch dobrovolného zdanění nebo zcela soukromých služeb.
-
-
-
-
-
-- Centristé:** Daňový systém musí být vyvážený. Určitá míra progresivity je pro solidaritu nezbytná, ale příliš vysoké daně mohou odrazovat od investic. Cílem je systém, který financuje základní služby, aniž by dusil ekonomiku.
-
+Určitá míra progresivity je pro solidaritu nezbytná, ale příliš vysoké daně mohou odrazovat od investic. Centristé se neopírají o pevný princip, ale spíše o hodnocení důsledků. K tomu potřebují experty. Proto je centrismus často spojován s určitou formou technokracie: **správná úroveň zdanění musí být určena empirickou analýzou**, nikoli ideologickým závazkem.
 
 
 ### Minimální mzda
 
+![Debata o minimální mzdě napříč politickými rodinami](./assets/en/093.webp)
+
+**Otázka:** Měly by být zákony o minimální mzdě zrušeny, aby umožnily svobodné vyjednávání mezi zaměstnavateli a pracovníky?
 
 
-**Otázka:** Měly by se zrušit zákony o minimální mzdě, aby se umožnilo volné vyjednávání mezi zaměstnavateli a zaměstnanci?
+### Socialistická pozice: ne
+
+Minimální mzda je zásadní k zaručení důstojného života pracovníků, snížení nerovností a boji proti chudobě. Je to nástroj sociální spravedlnosti, který chrání nejzranitelnější. V socialistickém rámci **musí stát zasáhnout, aby napravil mocenskou nerovnováhu** vlastní vztahu zaměstnavatel–zaměstnanec.
+
+### Konzervativní pozice: ano, ale
+
+V principu musí trh plnit svou roli regulátora. Minimální mzda může být tolerovatelná, ale pouze pokud nebrání konkurenceschopnosti firem a nesmí být zobecněna. Nejdůležitější je individuální odpovědnost a tvorba pracovních míst spíše než závislost na dotacích. Na rozdíl od libertariánské pozice **konzervativci přijímají určité státní zapojení do určování mezd**, přičemž trvají na tom, aby zůstalo minimální a závislé na kontextu.
+
+### Libertariánská pozice: ano
+
+Minimální mzda deformuje trh práce, vytváří nezaměstnanost a porušuje svobodu smlouvy. Trh by měl určovat mzdy prostřednictvím svobodného vyjednávání mezi zaměstnavatelem a zaměstnancem. Proč minimální mzda vytváří nezaměstnanost? To je technický problém, ale nejdůležitější je, že pro libertariány je odpověď především morální. **Minimální mzda je vnucením svobodě najímat a podnikat.** Když libertariáni říkají „trh“, myslí tím smlouvu svobodně vyjednanou mezi dvěma stranami bez státního zásahu.
+
+### Centristická pozice: smíšená
+
+Pro centristy musí rozhodnutí spočívat na technické analýze. Ano, pokud minimální mzda neničí pracovní místa; ano, pokud podporuje růst; ale ne, pokud ne. Minimální mzda má důležitou sociální roli, ale **její úroveň musí být pragmaticky upravena** s ohledem na konkurenceschopnost firem a kupní sílu pracovníků.
 
 
+### Zdravotnictví
+
+![Debata o zdravotnictví napříč politickými rodinami](./assets/en/094.webp)
+
+**Otázka:** Mělo by být zdravotnictví svěřeno soukromým trhům spíše než vládním programům?
 
 
+### Socialistická pozice: ne
 
-- Socialisté:** Ne. Minimální mzda je nezbytná pro zajištění důstojného života zaměstnanců, snížení nerovností a boj proti chudobě. Je to nástroj sociální spravedlnosti, který chrání ty nejzranitelnější.
+Přístup ke zdravotní péči je základní právo, nikoli komodita. Stát musí zaručit univerzální, veřejně financovaný zdravotnický systém, aby měl každý přístup k péči bez ohledu na příjem. Zde opět nacházíme **socialistickou starost o rovnost, sociální spravedlnost a význam státu** při organizaci a plánování služeb v obecném zájmu.
 
+### Konzervativní pozice: ano
 
+Soukromé trhy mohou být efektivnější a snížit daňovou zátěž. Stát může hrát minimální roli pro nejchudší, ale individuální odpovědnost a soukromé pojištění jsou vhodnější. V konzervativním přístupu vždy existuje **myšlenka kombinovat tržní mechanismy s omezenou státní akcí**, spíše než volit jedno s vyloučením druhého.
 
+### Libertariánská pozice: ano
 
+Soukromý trh je efektivnější a inovativnější, ale především (a to je základní morální argument) mají jednotlivci právo zvolit si vlastní systém. Jde o individuální suverenitu a potvrzení práv soukromého vlastnictví. Jinými slovy, **libertariánská pozice je důraznější, protože spočívá na morálním principu**: právu zcela vystoupit ze systému sociálního zabezpečení, nikoli pouze prosazovat více soukromého zapojení vedle státních programů.
 
-- Konzervativci:** V zásadě ne, trh musí hrát svou roli regulátora. Minimální mzda však může být tolerovatelná, pokud příliš nebrání konkurenceschopnosti podniků. Důležitá je individuální odpovědnost a vytváření pracovních míst, nikoliv závislost na dotacích.
+### Centristická pozice: smíšená
 
-
-
-
-
-- Libertariáni:** Ano. Minimální mzda je umělý zásah, který deformuje trh práce, vytváří nezaměstnanost a porušuje smluvní svobodu. Mzdy by měl určovat trh prostřednictvím vyjednávání.
-
-
-
-
-
-- Centristé:** Ne, minimální mzda má důležitou sociální roli. Musí existovat, ale její výše musí být pragmaticky upravena tak, aby nedocházelo ke zničení pracovních míst, s ohledem na konkurenceschopnost podniků a kupní sílu zaměstnanců.
-
-
-
-### Zdravotní péče
-
-
-
-**Otázka:** Měla by být zdravotní péče svěřena spíše soukromým trhům než vládním programům?
-
-
-
-
-
-- Socialisté:** Ne. Přístup ke zdravotní péči je základním právem, nikoli zbožím. Stát musí zaručit univerzální, veřejně financovaný systém zdravotní péče, aby k ní měl přístup každý bez ohledu na příjem.
-
-
-
-
-
-- Konzervativci:** Většinou ano. Soukromé trhy mohou být efektivnější a snižovat daňové zatížení. Stát může hrát minimální roli pro nejchudší, ale individuální odpovědnost a soukromé pojištění jsou vhodnější.
-
-
-
-
-
-- Libertariáni:** Ano. Zdravotnictví je služba jako každá jiná. Soukromý trh je efektivnější, inovativnější a nabízí spotřebitelům větší výběr. Státní zásahy vedou k neefektivitě a byrokracii. Především však mají jednotlivci právo sami si vybrat, zda se chtějí ze systému sociálního zabezpečení odhlásit.
-
-
-
-
-
-- Centristé:** Smíšený systém je často nejlepším řešením. Stát musí zaručit všeobecnou dostupnost a solidaritu (základní pokrytí) a zároveň ponechat soukromému sektoru prostor pro diverzifikaci nabídky a inovace, aby se optimalizovala účinnost a kvalita.
-
+Smíšený systém je často nejlepší přístup. Stát zaručuje univerzální přístup a solidaritu (základní krytí), zatímco soukromý sektor může přinášet diverzifikaci a inovace. Ideálně by bylo potřeba trochu obojího: **směs pečlivě kalibrovaná experty** k optimalizaci efektivity a kvality.
 
 
 ### Životní prostředí
 
+![Debata o životním prostředí napříč politickými rodinami](./assets/en/095.webp)
+
+**Otázka:** Měly by být environmentální regulace omezeny, aby se firmy mohly regulovat samy?
 
 
-**Otázka:** Měly by se omezit předpisy v oblasti životního prostředí, aby se podniky mohly samy regulovat?
+### Socialistická pozice: ne
 
+Stát musí vnucovat přísná pravidla k ochraně životního prostředí a boji proti klimatické změně. Trh sám tyto problémy nemůže vyřešit, protože vyžadují kolektivní akci a plánování. Ve skutečnosti je zde také ideologičtější dimenze: nejenže trh nemůže vyřešit klimatickou změnu, ale **v socialistickém pohledu je za znečištění odpovědný samotný trh** a za environmentální škody, které pozorujeme. Dotace jsou považovány za nezbytné k zajištění ekologické transformace a mezinárodní volný obchod musí být regulován, aby chránil životní prostředí.
 
+### Konzervativní pozice: smíšená
 
+V principu ano, protože svoboda podnikání je důležitá. Určitá úroveň regulace je však nezbytná k ochraně životního prostředí jako dědictví a zdroje. Jak tomu u konzervativců často bývá, **princip musí být nuancován podle kontextu**: ekonomická svoboda je ceněna, ale ne za cenu zničení zděděného přírodního bohatství.
 
+### Libertariánská pozice: ano
 
-- Socialisté:** Ne. Stát musí zavést přísné předpisy na ochranu životního prostředí a boj proti změně klimatu. Trh sám o sobě tyto problémy, které vyžadují kolektivní akci a plánování, vyřešit nemůže. Dotace jsou považovány za nezbytné pro zajištění ekologického přechodu. Kromě toho je třeba regulovat mezinárodní volný obchod, aby bylo chráněno životní prostředí.
+Environmentální regulace jsou překážkou ekonomické svobody a vlastnických práv. Libertariáni tvrdí, že nejlepší způsob ochrany životního prostředí vede přes soukromé vlastnictví, nikoli přes byrokratické organizace. **Vlastníci se totiž o svůj majetek spíše postarají než jakákoli byrokracie**. Environmentální problémy lze řešit trhem, individuální odpovědností a vlastnickými právy. Znečišťovatelé musí nést odpovědnost za škody, které způsobují; to je otázka spravedlnosti, nikoli regulace.
 
+### Centristická pozice: ne
 
-
-
-
-- Konzervativci:** V zásadě ano, protože svoboda podnikání je důležitá. Určitá míra regulace je však nutná k ochraně životního prostředí jako dědictví a zdroje, ale bez toho, aby dusila ekonomiku.
-
-
-
-
-
-- Libertariáni:** Ano. Environmentální regulace jsou překážkou ekonomické svobody a vlastnictví majetku. Věří, že nejlepší způsob ochrany životního prostředí je soukromé vlastnictví, nikoliv byrokratické organizace. Dodávají, že vlastníci se o svůj majetek budou spíše starat, protože mají zájem na zachování jeho hodnoty. Problémy životního prostředí lze řešit pomocí trhu, individuální odpovědnosti a vlastnických práv. Znečišťovatelé musí nést odpovědnost za škody, které způsobují na životním prostředí.
-
-
-
-
-
-- Centristé:** Ne, samoregulace nestačí. Regulace životního prostředí jsou nezbytné pro ochranu planety a veřejného zdraví. Musí však být koncipovány tak, aby nadměrně netrestaly konkurenceschopnost podniků a podporovaly ekologické inovace.
-
-
+Samoregulace nestačí. Environmentální regulace jsou nezbytné k ochraně planety a veřejného zdraví. Musí však **být navrženy tak, aby nadměrně nepenalizovaly konkurenceschopnost podniků** a podporovaly zelené inovace. Centristická pozice se jako vždy snaží vyvažovat soupeřící imperativy prostřednictvím pečlivě navržené politiky.
 
 
 ### Dotace
 
+![Debata o dotacích napříč politickými rodinami](./assets/en/096.webp)
+
+**Otázka:** Měly by být firmy zbaveny dotací a záchranných plánů?
 
 
-**Otázka:** Měly by být podnikům odebrány dotace a záchranné plány?
+### Socialistická pozice: ne
 
+Dotace podporují inovace, chrání pracovní místa a rozvíjejí strategické sektory. **Stát je zásadní ekonomický aktér a plánovač** a jeho rolí je směřovat ekonomiku ke kolektivně definovaným prioritám, včetně ekologické transformace. Odstranění dotací by znamenalo ponechat nejzranitelnější sektory a pracovníky napospas rozmarům trhu.
 
+### Konzervativní pozice: ano, ale
 
+V principu ano, aby se podpořila volná konkurence a individuální odpovědnost firem. Výjimky jsou však možné pro strategická národní odvětví. Člověk pomyslí například na zbrojní průmysl, farmaceutický průmysl nebo vzdělávání. Na rozdíl od libertariánské pozice **konzervativci přijímají cílený státní zásah, když je ve hře národní bezpečnost nebo strategické zájmy**.
 
+### Libertariánská pozice: ano
 
-- Socialisté:** Ne. Dotace mohou být nezbytné pro podporu inovací, ochranu pracovních míst, rozvoj strategických odvětví nebo zajištění ekologického přechodu. Úloha státu spočívá v tom, že je ekonomickým hráčem a plánovačem.
+Dotace a záchranné balíčky deformují trh, zvýhodňují některé firmy před jinými a vytvářejí závislost na státu. Firmy, které selžou, by měly zkrachovat. Zde opět existují morální úvahy respektu k suverenitě a soukromému vlastnictví, ale také úvahy efektivity. Když je firmám bráněno selhat prostřednictvím dotací, **vytváří to to, co se označuje jako morální hazard**: pobídku k nezodpovědnosti a bezohlednosti. Nakonec platí daňový poplatník, což je hluboce nespravedlivé.
 
+### Centristická pozice: cílená
 
-
-
-
-- Konzervativci:** V zásadě ano, aby se podpořila volná soutěž a individuální odpovědnost podniků. Výjimku však lze učinit v případě strategických nebo národních odvětví, která jsou životně důležitá pro bezpečnost země nebo zaměstnanost.
-
-
-
-
-
-- Libertariáni:** Ano. Dotace a finanční výpomoci narušují trh, zvýhodňují některé společnosti na úkor jiných a vytvářejí závislost na státu. Společnosti, které krachují, by měly zkrachovat.
-
-
-
-
-
-- Centristé:** Obecně ano, ale s výjimkami. Dotace by měly být cílené a dočasné, odůvodněné obecným zájmem (inovace, ekologický přechod, strategická odvětví). O záchraně by se mělo uvažovat pouze v případě velkého systémového ohrožení ekonomiky.
-
+Dotace by měly být cílené a dočasné, ospravedlněné obecným zájmem (inovace, ekologická transformace, strategická odvětví). Bailouts by měly být zvažovány pouze v případě velké systémové hrozby pro ekonomiku. Například by mohlo být nutné zachránit banky, protože jinak by to vytvořilo podmínky pro obecnou paniku a recesi. **Centristický přístup vyžaduje, aby byl každý případ hodnocen podle vlastních zásluh**, přičemž dotace jsou ospravedlněny prokázanou nezbytností, nikoli ideologickou preferencí.
 
 
 
 # Filozofické rozdíly mezi politickými rodinami
 
-
 <partId>a4c96533-ae9a-45be-8dc2-e0c2534eb89d</partId>
 
 
-
 ## Filozofické rozdíly mezi politickými rodinami
-
 
 <chapterId>e48cff63-15d9-4789-ab6c-f1df06683fce</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=Qznu_mAOji8)
+
+![Filozofické divergence mezi politickými rodinami](./assets/en/097.webp)
+
+Když porovnáváme různé politické rodiny, jistě se objevují body konvergence, ale také hluboké neslučitelnosti. To je obzvlášť viditelné, když postavíme libertariány vedle ostatních ideologických profilů: konzervativců, socialistů, centristů. V této části kurzu prozkoumáme sérii filozofických divergencí, které odhalují skutečné zlomové linie procházející politickým myšlením.
+
+Začněme nejzákladnější otázkou: samotnou povahou svobody.
 
 
-
-Porovnáme-li jednotlivé politické rodiny, zjistíme, že existují možné podobnosti, ale také neslučitelné body. To platí zejména při srovnání libertariánů s jinými ideologickými profily.  Analyzujme tyto rozdíly pomocí několika filosofických konceptů.
-
+### Svoboda: princip, nebo příležitost?
 
 
-### Svoboda: princip nebo příležitost?
+Abychom pochopili, co odděluje libertariány od všech ostatních politických rodin, musíme začít rozlišením, které zavedl jeden z velkých francouzských liberálních myslitelů. Ve svém díle *Les Soirees de la rue Saint-Lazare* z roku 1849 Gustave de Molinari, žák Frederica Bastiata, inscenuje dialog mezi třemi postavami, z nichž každá představuje jednu politickou rodinu: socialistou, konzervativcem a ekonomem.
+
+![Tři Molinariho politické postavy: socialista, konzervativec a ekonom](./assets/en/098.webp)
+
+To, co Molinari prostřednictvím těchto dialogů ukazuje, je pozoruhodné. **Ekonom stojí v trvalém nesouhlasu jak se socialistou, tak s konzervativcem.** Je jediný, kdo hájí svobodu jako základní princip, který není podřízen žádnému jinému cíli. Socialista chce reformovat společnost podle progresivních ideálů; konzervativec chce zachovat společnost v jejím současném stavu. Oba jsou ochotni omezovat svobody a povolat stát, aby prosadil jejich příslušné agendy.
+
+Molinariho vize se ukázala jako prorocká. Od jeho doby, v polovině devatenáctého století, se konzervativci a socialisté střídali u moci a uskutečňovali přesně to, co popsal: **instrumentalizaci svobody ve službě politickým cílům.**
+
+### Konzervativní pohled: řád před svobodou
+
+![Konzervativní pojetí svobody podmíněné řádem a tradicí](./assets/en/099.webp)
+
+Pro konzervativce mají řád a tradice přednost před svobodou. Příliš mnoho svobody, tvrdí, vytváří chaos a společenský nepořádek. Svobodu lze oceňovat, ale teprve tehdy, když je pevně nastolen řád.
+
+V praxi to znamená, že **svoboda musí být omezena a nemůže být ponechána, aby působila sama o sobě.** Stává se nebezpečnou vždy, když ohrožuje společenskou stabilitu, rodinu nebo zděděné kulturní hodnoty. Svoboda podnikat nebo vlastnit majetek je hájena, ale vždy podmíněna respektem k tradičním hodnotám a povinnostem vůči komunitě. To implikuje roli státu nejen ve společenských záležitostech, ale také v ekonomické oblasti, kde musí svoboda zůstat pod dohledem.
+
+### Socialistický pohled: spravedlnost před svobodou
+
+![Socialistické pojetí svobody spojené se sociální spravedlností a rovností](./assets/en/100.webp)
+
+Pro socialisty stojí sociální spravedlnost před individuální svobodou. Svoboda není chápána jako nezávislost na omezení, ale jako schopnost jednat, schopnost, která předpokládá spravedlivé materiální a sociální podmínky.
+
+Jinými slovy, **člověk není skutečně svobodný, pokud postrádá jídlo nebo přístup k základním službám.** Politická priorita proto připadá vyrovnávání podmínek. Svoboda je vnitřně spojena se sociální spravedlností a rovností; projevuje se emancipací od ekonomických a sociálních omezení, jako je chudoba nebo vyloučení. Tato logika pravidelně vyžaduje státní zásah k zaručení sociálních práv a přerozdělení bohatství.
+
+### Centristický pohled: efektivita před svobodou
+
+![Centristické instrumentální pojetí svobody](./assets/en/101.webp)
+
+Centristé hájí určité svobody, ale oportunisticky a kontextuálně, bez uplatňování jakéhokoli obecného principu rozhodování. Přizpůsobují své pozice konkrétním výzvám a kompromisům potřebným k efektivnímu dosažení výsledků.
+
+Vezměme například Green New Deal: centristé mohou silně prosazovat dotace větrné energie a podporu zelených podniků nikoli z principiálního závazku ke svobodě, nebo dokonce k ekologii, ale protože takové politiky odpovídají převládajícím trendům. **Tento pragmatický přístup odhaluje instrumentální pojetí svobody**, které se nakonec sbíhá s přístupy konzervativců i socialistů. Svoboda je vždy vzývána, ale vždy podřízena.
+
+### Libertariánský pohled: svoboda jako axiom
+
+![Libertariánský pohled na svobodu jako bezpodmínečný princip](./assets/en/102.webp)
+
+Libertariáni definují svobodu jako obecný, bezpodmínečný princip jednání a rozhodování. Funguje jako axiom, z něhož plyne vše ostatní. Svoboda musí být na počátku postulována jako základní právo a zároveň jako povinnost: **právo nebýt napaden a odpovědnost nenapadat druhé**, s požadavkem náhrady v případech zavinění.
+
+Libertariáni hájí integrální ochranu individuální svobody a vlastnických práv s minimem státních zásahů. Staví se proti konstruktivismu (centrálnímu plánování) a bez ohledu na to, kde se nacházejí v libertariánském spektru, od klasických liberálů po anarchokapitalisty, sdílejí cíl privatizovat vše, co lze privatizovat.
+
+### Konvergence cílů, divergence prostředků
+
+Zde leží klíčová nuance. Libertariáni se mohou shodnout se socialisty, konzervativci a centristy na určitých cílech: obraně utlačovaných, ochraně civilizace, podpoře sociální soudržnosti. Neshoda se netýká cílů, ale prostředků.
+
+**Libertariáni odmítají všechna donucovací řešení, která se snaží uniformizovat praktiky, zákony a regulace.** Odmítají přerozdělování bohatství, vnucené minimální mzdy a rostoucí váhu státu v ekonomice. Jako alternativu hájí sílu volby a princip odpovědné svobody prostřednictvím tržního procesu: svobodné, decentralizované směny založené na dobrovolných smlouvách.
 
 
-
-Abychom tento zmatek objasnili, nastíníme si tři koncepce svobody.
-
-
-
-1. Podle konzervativců je svoboda dobrá věc, ale příliš mnoho svobody vytváří chaos a nepořádek. Svoboda musí být tedy omezena a zarámována.
-
-
-
-Svoboda pro ně není základním principem, ale otázkou účelnosti. Například konzervativec, který odsuzuje zákony trestající homofobní projevy, nebude nutně pro legalizaci drog nebo zrušení rodinných přídavků.
-
-
-
-2. Socialisté mohou také prosazovat zavedení té či oné svobody ad hoc, oportunisticky a selektivně. Pro ně to však není uplatnění obecného principu rozhodování. Mohou usilovat o to, aby jednotlivci opustili své kořeny, stejně jako konzervativci usilují o to, aby zůstali.
-
-
-
-3. Pro libertariány je svoboda obecným principem rozhodování a jednání. Libertarián je radikální obhájce individuální svobody a vlastnických práv, který usiluje o minimalizaci státních zásahů a staví se proti všem formám státem vnuceného sociálního konstruktivismu. Ačkoli se síla principu svobody může lišit u anarchokapitalistů (kteří odmítají ohýbat jakákoli pravidla) a klasických liberálů (kteří mají diferencovanější diskurz), princip je vždy stejný: privatizovat vše, co lze privatizovat.
-
-
-
-Tento protiklad mezi politickými rodinami se objevil - jinými slovy - již v románu Gustava Molinariho Les Soirées de la rue Saint Lazare. V této knize, kterou žák Frédérica Bastiata vydal v roce 1849, vystupují tři postavy: socialista, konzervativec a ekonom. Postava známá jako ekonom je ve skutečnosti liberál v klasickém slova smyslu, dnes bychom řekli libertarián.
-
-
-
-V těchto dialozích, které Molinari vymyslel, stojí ekonom (liberál/libertarián) vždy proti socialistovi a konzervativci. Trvá na tom, aby ukázal, že jejich pozice se zásadně neliší. Pro Molinariho mají totiž konzervativci a socialisté jedno společné: snaží se prosadit svou vizi společnosti prostřednictvím státu.
-
-
-
-## Spontánní vs. konstruovaný řád
-
+## Spontánní versus konstruovaný řád
 
 <chapterId>504aa7da-ecd5-4177-87d9-c8792f58c8e3</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=jh-FDJftOf0)
 
+![Spontánní řád versus konstruovaný řád](./assets/en/103.webp)
 
+Další významná zlomová linie odděluje ty, kdo věří, že politický proces je nadřazen tržnímu procesu, od těch, kdo zastávají opačný názor. První skupina hájí konstruovaný řád, navržený shora dolů. Druhá hájí spontánní řád, vznikající zdola nahoru. Toto rozlišení je zásadní pro pochopení politických citlivostí a staví libertariány proti prakticky každé jiné rodině.
 
-Pojmy *spontánní řád* a *konstruovaný řád* jsou zásadní pro pochopení rozdílů mezi různými politickými smýšleními, včetně libertariánství a konstruktivismu pravice (konzervatismus) a levice (socialismus).
+### Konstruktivismus: transpartajní konsensus
 
+![Konstruktivismus jako sdílené přesvědčení centristů, konzervativců a socialistů](./assets/en/104.webp)
 
+Konstruktivismus není monopolem žádného jednotlivého politického tábora. Spojuje centristy, konzervativce a socialisty kolem sdíleného přesvědčení: **nadřazenosti politického procesu nad tržním procesem.** Pro všechny tyto proudy je stát lépe vybaven organizovat společnost spravedlivým a efektivním způsobem. Upřednostňují centrální plánování, byť v různé míře podle rodiny.
 
-Konstruktivismus odkazuje na snahu utvářet společnost podle určitého plánu. Jedná se o přístup, který se snaží prosadit předem stanovenou vizi společnosti prostřednictvím činnosti státu nebo jiných subjektů (odborů, nevládních organizací, nátlakových skupin nebo mezinárodních organizací).
+Shrneme-li konstruktivismus jednou větou: je to přesvědčení, že centrální vláda může silou zákona vytvořit společenský řád dobrý pro největší počet lidí.
 
+### Hayekova analýza konstruktivismu
 
+![Hayekova kritika konstruktivismu a centrálního plánování](./assets/en/105.webp)
 
-Opakem konstruktivismu je spontánní řád, který vzniká přirozeně ze svobodných interakcí jednotlivců, zatímco konstruovaný řád je výsledkem záměrných, plánovaných zásahů, jejichž cílem je utvářet společnost podle určité vize, ať už konzervativní (fixní), nebo progresivní (transformované).
+Abychom pochopili, o co jde, můžeme sledovat analýzu Friedricha Hayeka. Konstruktivisté pevně věří, že je možné vybudovat společnost odpovídající jejich přáním a ideálům. Považují záměrný, plánovaný zásah za nezbytný k formování společnosti podle své vize, ať konzervativní, nebo progresivní.
 
+Za touto vírou leží starší předpoklad, dohledatelný k Platónovi a jeho teorii filozofa-krále: **myšlenka, že někteří lidé jsou lépe vybaveni řídit druhé a organizovat společnost.** To je základní víra v nadřazenost některých nad druhými.
 
+Hayek však ukazuje, že za touto filozofickou otázkou existuje praktická nemožnost.
 
-Konstruktivisté věří, že je možné vybudovat společnost, která bude odpovídat jejich přáním. Libertariáni naproti tomu věří, že společnost se buduje nepředvídatelně prostřednictvím interindividuálních koordinačních procesů.
+### Spontánní řád: organizace zdola
 
+![Spontánní řád jako produkt svobodných individuálních interakcí](./assets/en/106.webp)
 
-Spontánní řád je hlavním konceptem odvozeným z Hayekova díla. Je definován jako výsledek svobodných interakcí jednotlivců ve společnosti. Je výsledkem lidské činnosti, nikoli záměrného lidského vědomí, a není plánován ani vnucován centrální autoritou: *Je produktem lidského jednání, nikoliv lidského záměru*, opakuje Friedrich Hayek a cituje Adama Fergusona.
+Spontánní řád není argumentem proti organizaci. Naopak, pro Hayeka je jedním z nejsilnějších motorů ekonomického a společenského pokroku. Je definován jako produkt svobodných interakcí jednotlivců ve společnosti, vyplývající z lidského jednání, ale nikoli ze záměrného lidského plánu.
 
+Pravidla, instituce a praktiky, které vznikají spontánně, nejsou plánovány ani vnucovány centrální autoritou. Zvažte následující příklady:
 
+Jazyk: francouzština, angličtina, němčina, žádný z těchto jazyků nebyl konstruován v kanceláři, kde by se intelektuálové sešli, aby rozhodli o pravidlech gramatiky a pravopisu. **Jsou plodem pomalé, organické organizace vybudované historickými interakcemi.**
 
-Při popisu mechanismu neviditelné ruky Adam Smith zase napsal: *Tím, že [jednotlivec] sleduje pouze svůj vlastní zájem, pracuje často efektivněji pro zájem společnosti, než kdyby jeho cílem bylo skutečně pracovat pro ni.*
+Společenské kódy: morálka, zdvořilost, zvyky, i ty jsou produktem spontánní koordinace, která se postupně vyvinula lidskou interakcí.
 
+Komoditní peníze: od mušlí po kovy se zlato vynořilo jako nejlepší peníze zvolené trhem, nikoli jakoukoli centrální autoritou, prostřednictvím zkušenosti, konkurence a subjektivních ocenění jednotlivců.
 
+### Problém znalostí
 
-Podle Hayeka vede jakákoli snaha o vědeckou organizaci společnosti a trhu spíše k prohlubování neduhů než k jejich nápravě. Jak upozornil Burke, jdoucí ve stopách Skotů Smithe a Huma, historie vytváří instituce, které jsou složitější a lépe přizpůsobené než cokoli, co si rozum dokáže vědomě představit.
+![Rozptýlená povaha znalostí podle Hayeka](./assets/en/107.webp)
 
+Hayekův základní argument ve prospěch spontánního řádu spočívá v povaze informací. V článku *The Use of Knowledge in Society* z roku 1945 napsal:
 
+> Znalost nikdy neexistuje v koncentrované nebo integrované podobě, ale pouze jako rozptýlené fragmenty neúplných a často rozporných znalostí vlastněných všemi jednotlivými lidmi.
 
-Pravidla, instituce, zvyklosti a další společenské jevy totiž nejsou výsledkem záměrného plánování ze strany centrální autority.
+Trh závisí na informacích, ale jen jednotliví lidé mohou vědět, jaké jsou jejich potřeby a co věci stojí. Hodnota spočívá v subjektivním ocenění, v myslích jednotlivců. **Nelze ji autoritativně nebo centrálně nařídit.** Hodnota je subjektivní, a proto je známa jen omezeným, fragmentárním a lokálním způsobem.
 
+Právě cenový systém umožňuje milionům lidí, kteří se navzájem neznají, koordinovat své znalosti a dovednosti. Na volném trhu ceny přenášejí informace o potřebách a kompetencích každého účastníka. Umožňují lidem vstupovat do vztahů a směňovat. Jsou to samozřejmě tržní ceny, ustanovené dobrovolným vyjednáváním mezi jednotlivci.
 
-*Mnohé z největších věcí, kterých lidstvo dosáhlo, nebyly výsledkem vědomě řízeného myšlení, a tím méně záměrně koordinovaného úsilí mnoha lidí, ale výsledkem procesu, v němž jednotlivec hraje roli, kterou nikdy plně nepochopí.* F. Hayek.
+Centrální plánovač sedící na ministerstvu nebo v kanceláři nezná skutečnou cenu věcí, protože se neúčastní interakce a směny. Proto **jakákoli ambice vědecky organizovat společnost paradoxně problémy zhoršuje, místo aby je napravovala.**
 
+Když stát stanovuje ceny, protože zná jen malou část spotřebitelských preferencí a místních specifik, vyvolává krize. Zvažte regulaci nájmů: když jsou nájmy zastropovány, pronajímatelům se nevyplatí nabízet své nemovitosti k pronájmu a následuje nedostatek bydlení.
 
+### Volný trh jako skutečná regulace
 
-Například jazyky nebo zvyky jsou věci vytvořené člověkem. Žádný z nich však nevymyslel člověk. Všechny vznikly neplánovaně. Totéž platí pro staré měny, jako jsou kovové mince, nebo pro novou měnu, jako je Bitcoin. Jedná se o *inovace bez povolení*, které byly zvoleny trhem.
+![Volný trh jako skutečný regulátor společnosti](./assets/en/108.webp)
 
+Pro libertariány není skutečnou regulací společnosti demokracie (která má své využití jako způsob určování zástupců), **ale především volný trh**.
 
+Trh plní tři zásadní funkce:
 
-**Rozptýlené znalosti
+1. **Bez volného trhu není kompas.** Ceny jsou spolehlivými ukazateli pro vedení ekonomických a sociálních rozhodnutí.
+2. **Trh odhaluje preference.** Je optimálním mechanismem pro objevování a agregaci autentických individuálních preferencí. Ceny odrážejí nabídku a poptávku.
+3. **Trh umožňuje plný výkon práva rozhodovat.** Aktéři mohou svobodně určovat své vlastní záležitosti podle svých osobních hodnot. Je zde etická dimenze: nechat každého člověka být aktérem svého vlastního života a činit vlastní volby.
 
+### Pro-business versus pro-market
 
+![Rozlišení mezi pozicemi pro-business a pro-market](./assets/en/109.webp)
 
-> Znalosti nikdy neexistují v koncentrované nebo integrované podobě, ale pouze jako rozptýlené fragmenty neúplných a často protichůdných znalostí, kterými disponují různí jedinci.
->
+Je důležité jasně rozlišovat mezi pro-business a pro-market, dvěma pozicemi, které se často zaměňují.
 
+Mezi socialisty, centristy i konzervativci najdeme mnoho pro-business politiků. Pro ně je konkurence nástrojem vládnutí k dosažení ekonomických cílů. Získává se prostřednictvím regulací, které zaručují údajně férovou soutěž: antimonopolní zákony, sektorové a environmentální normy. Stimulační plány a dotace jsou ospravedlňovány sociálními důsledky, jako je prevence ztráty pracovních míst a recese. **V pro-business pohledu je trh křehký a potřebuje stát, aby ho zachránil.**
 
-> F. Hayek, Využití znalostí ve společnosti, 1945
+Pro obhájce pro-market je konkurence přirozeným výsledkem svobodného podnikání, které vylučuje centralizovanou moc státu. To implikuje deregulaci (odstranění překážek svobodě a regulací omezujících soukromé vlastnictví) a umožnění podnikům selhat, protože **selhání umožňuje trhu se přirozeně reorganizovat a otevírá pole schopnějším aktérům.** Pokud podnik selže, učinil špatná rozhodnutí a musí nést důsledky.
 
-Trh je nástrojem spolupráce, protože poskytuje informace o skutečném stavu potřeb a dovedností. Je to postup zjišťování informací a mobilizace rozptýlených znalostí o hodnotách a potřebách. Ve skutečnosti je trh místem setkávání individuálních preferencí, které vede k tvorbě cen. Cenový systém je tedy mechanismus, který spontánně vzniká ze smluv o koordinaci směny. Pokud se o cenách volně diskutuje, odrážejí rozmanitost názorů a preferencí spotřebitelů.
+Rozdíl je významný. Zastánci pro-business často hledají spojenectví s velkými korporacemi na úkor menších hráčů. Je to kapitalismus zdání, který ve skutečnosti podstatně omezuje svobodu svou vírou v konstruktivismus a plánování.
 
+### Libertariánská pozice
 
+![Libertariánská obrana dobrovolné směny před organizovaným donucením](./assets/en/110.webp)
 
-Náklady a výnosy zboží mohou znát pouze jednotlivci, protože jsou subjektivní. V centralizovaném, plánovaném systému naproti tomu stát určuje ceny, ale protože zná jen část preferencí spotřebitelů a místních specifik, deformuje trh. Pouze decentralizovaný obchodní systém s volně sjednávanými cenami může tyto rozptýlené znalosti zúročit.
+Na závěr se libertariáni ocitají poněkud osamoceni proti ostatním politickým rodinám, které jsou všechny konstruktivistické. Libertariáni tvrdí, že **společnost se přirozeně organizuje prostřednictvím spontánních mechanismů koordinace** a že dobrovolná spolupráce zůstává při budování spravedlivé a prosperující společnosti nadřazená organizovanému donucení, i když je dobře míněné.
 
+Politická třída obecně není příznivě nakloněna spontánnímu řádu, protože ohrožuje její moc. Ať jste konzervativní, centristický nebo socialistický politik, budete mít sklon být nepřátelští vůči spontánnímu řádu a trhu, protože chcete kontrolovat záležitosti. Pro libertariány však skutečná moc zlepšovat společnost neleží v politické moci, ale v moci volby: svobodné a dobrovolné směně, trhu.
 
+Je třeba držet pohromadě dva aspekty. Efektivitu: **volné trhy koordinují rozptýlené informace lépe než centralizované plánování**, jak ukázal Hayek. A spravedlnost: vzájemný souhlas respektuje lidskou důstojnost více než donucení a konstruktivismus kdy mohou.
 
-Libertariáni tedy stojí proti socialistům i konzervativcům, tj. proti dvěma kategoriím konstruktivistů: socialisté chtějí společnost reformovat, konzervativci ji chtějí zachovat takovou, jaká je. Existují tedy levicoví a pravicoví konstruktivisté.
+To vše však vyžaduje, aby byla jasně definována práva a povinnosti. Trh může být spontánním procesem, ale musí se řídit právem, zejména vlastnickými právy, a vyžaduje nezasahování státu do ekonomických a společenských záležitostí. Stát by se měl omezit na vymáhání základních práv, jako jsou vlastnická práva, a zdržet se zásahů do všeho ostatního.
 
 
-
-
-**Politika nebo trh?
-
-
-Konstruktivisté, centristé, konzervativci a socialisté se shodují v jednom klíčovém bodě: politický proces považují za efektivnější než tržní.
-
-
-
-
-
-- Politickým procesem mám na mysli schopnost ústřední vlády vytvořit silou zákona společenský řád, který je spravedlivý a stabilní pro co největší počet lidí.
-
-
-
-
-
-- A tržním procesem myslím svobodnou a dobrovolnou směnu jako způsob interakce a mechanismus spolupráce.
-
-
-
-Filozoficky může libertarián souhlasit s některými cíli konzervativců a socialistů, ale empiricky nebude souhlasit s jejich prostředky.
-
-
-Libertarián tedy bude souhlasit se socialisty, že je třeba pomoci utlačovaným pracovníkům, ale nebude si myslet, že tohoto cíle lze dosáhnout minimální mzdou, alespoň ne jednotnou minimální mzdou zavedenou všude.
-
-
-
-Ironií je, že zatímco mnozí zastánci socialismu obhajují ekonomickou rovnost, historie ukázala, že když se země snaží vymýtit spontánní proces tvorby bohatství spojený s volným trhem, vytváří nejhorší možný druh nerovnosti: společnost, kde masy hladoví, zatímco centrální plánovači si žijí jako králové.
-
-
-
-Centrální plánování nemůže fungovat, protože se snaží nahradit vševědoucí inteligenci distribuovaným, roztříštěným systémem s lokalizovanými, ale propojenými znalostmi.
-
-
-Podobně libertarián bude souhlasit s konzervativní myšlenkou, že civilizaci je třeba bránit, ale nebude souhlasit s přijímáním zákonů a nařízení, které zvyšují omezení, výdaje a zátěž vlády. Naopak bude hájit jediný prostředek, který je spravedlivý a zároveň účinný: moc volby neboli princip odpovědné svobody, tedy tržní proces.
-
-
-
-Libertariáni věří, že ekonomický a společenský řád se organizuje sám za předpokladu, že jsou jasně definována práva a povinnosti jednotlivců. Jejich přístup je založen na respektování vlastnických práv a nezasahování státu, který nechává společnost, aby se organizovala sama.
-
-
-Pro libertariány není skutečnou regulací společnosti demokracie, která má své využití jako prostředek jmenování zástupců, ale především volný trh. Bez volného trhu neexistuje žádný kompas. Trh je totiž nejlepším ukazatelem osobních preferencí. Na volném trhu aktéři plně uplatňují své právo rozhodovat o vlastních záležitostech.
-
-
-
-## Individualismus vs. kolektivismus
-
+## Individualismus versus kolektivismus
 
 <chapterId>ba205097-37f8-4503-9c1e-97eb31e7678c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=PsEfNf5xHdk)
 
+![Individualismus versus kolektivismus](./assets/en/111.webp)
 
+Další štěpná linie mezi politickými rodinami se týká vztahu mezi jednotlivcem a společností. Je kolektiv cílem, nebo prostředkem pro jednotlivce? A naopak, je jednotlivec cílem, nebo prostředkem pro kolektiv? Tyto dvě otázky definují opozici mezi individualismem a kolektivismem.
 
-Individualismus a kolektivismus představují dvě zásadně protichůdné vize vztahu mezi jednotlivcem a společností.
+### Individualismus podle Misese
 
+Rakouský ekonom Ludwig von Mises tuto otázku rozhodně vyjasnil. Napsal: *Pouze jednotlivec myslí, pouze on uvažuje, pouze on jedná.*
 
-Rakouský ekonom Ludwig von Mises říkával: Mises říkal: "Pouze jedinec myslí, pouze on uvažuje, pouze on jedná.
+To znamená, že individualismus, správně chápaný, odporuje představě, že společenské entity jako „společnost“ nebo „národ“ mohou existovat nezávisle na jednotlivcích, kteří je tvoří. **Kolektiv nemá vlastní existenci mimo jednání svých jednotlivých členů.** Nemůžeme smysluplně mluvit o jednání státu, země, firmy nebo odborového svazu. Proč? Jednoduše proto, že tyto entity nemají vlastní vůli ani myšlení. Jednají pouze prostřednictvím jednotlivců.
 
+Zvažte jazyk: francouzštinu, angličtinu, němčinu. Každý existuje pouze skrze ty, kdo jím mluví. Pokud jím nikdo nemluví, přestane existovat. Stejný princip platí pro všechna společenská tělesa.
 
+### Morální dimenze
 
-V důsledku toho kolektiv nemá jinou existenci nebo realitu než činy jednotlivců, kteří jsou jeho členy. Společnost nemá žádnou vůli, žádné myšlení. Veškeré kolektivní jednání musí být vysvětleno z hlediska jeho jednotlivých složek. Nelze hovořit o "jednání státu, země, společnosti, odborové organizace": vždy jednají jednotlivci.
+Toto metodologické hledisko lze přenést do morální a politické sféry. **Jediným morálním aktérem je jednotlivec.** Právě jednotlivec může být označen za dobrého nebo špatného, spravedlivého nebo nespravedlivého. Neexistuje spravedlivá nebo nespravedlivá společnost sama o sobě; musíme zkoumat vztahy mezi jednotlivci. Abychom soudili morálně, musíme odkazovat na jednající jednotlivce, nikoli na kolektivity.
 
+Další bod, který Mises zdůrazňuje: jednotlivec není izolovaný atom. Individualismus by neměl být zaměňován se soběstačností nebo misantropií. Lidská bytost je společenský tvor. Individualismus podporuje spolupráci a sdružování, **za předpokladu, že spočívají na svobodném souhlasu účastníků.** Lidská bytost může plně rozvinout svůj potenciál pouze ve vztahu k druhým, za podmínky, že tato spolupráce je dobrovolná.
 
+### Kant a morální autonomie
 
-Jakékoli společenské těleso tedy existuje pouze prostřednictvím těch, kteří se k němu svým jednáním hlásí. Kdyby se k němu nikdo nehlásil, přestal by existovat. Stejně tak jazyk existuje pouze prostřednictvím jednotlivců, kteří jím mluví. Pokud jím přestanou mluvit, přestane existovat.
+![Kant a osvícenský princip morální autonomie](./assets/en/112.webp)
 
+Tento individualismus má hluboké kořeny, dohledatelné ke křesťanství, řecké a římské filozofii. Citujme však osvícenského filozofa Immanuela Kanta. Pro něj individualismus hájí schopnost a právo jednotlivců soudit sami za sebe, volit své vlastní cíle a podle toho jednat.
 
+To je nezcizitelné právo každé bytosti zůstat pánem a vlastníkem své osoby a statků, které legitimně získala, a **být v pozici definovat své vlastní cíle a hodnoty.** To vede k tvrzení, že lidská bytost je cílem sama o sobě, ne pouhým prostředkem. Pero je pouhý prostředek, odložený, když už není potřeba. Pouze bytost nadaná rozumem je cílem sama o sobě.
 
-Z etického a právního hlediska je jediným morálním činitelem jednotlivec. Neexistuje žádný jiný referenční bod pro definování dobra a zla. Pojmy dobra a zla, práv a povinností mají smysl pouze pro jednotlivé jedince, nikoli pro společenství, země nebo dokonce zvířata.
+To je zároveň antropologický princip (zakotvený v lidské schopnosti autonomie a sebevlády) i morální princip. Kantova slavná formule *Sapere aude* („Odvaž se myslet sám za sebe“), převzatá od básníka Horatia, se stala mottem osvícenství v jeho eseji *What is Enlightenment?* z roku 1784. Symbolizuje odchod z nezletilosti: stavu, v němž lidé nejsou schopni používat vlastní rozum bez vedení nadřazené třídy nebo autority.
 
+Kant povzbuzuje lidi, aby se emancipovali, mysleli sami za sebe a převzali plnou odpovědnost za své myšlení. Jednou z překážek této autonomie, poznamenává Kant, je lenost a zbabělost: **pokušení uchýlit se k hotovému myšlení**, což je také to, co vede ke kolektivismu.
 
+Důsledek pro instituce je jasný: existují, aby sloužily rozkvětu jednotlivců, jejich ochraně a uskutečnění jejich plného potenciálu. Společnost je prostředek, nikoli cíl.
 
-Základní antropologický princip, na němž je tento dobře pochopený individualismus založen, jasně stanovil Immanuel Kant v 18. století: *Odvaž se myslet sám za sebe*.
+### Kolektivistická filozofie
 
+Kolektivismus se objevuje zčásti proto, že nabízí druh snadnosti, ochrany a bezpečí, který je pro mnohé svůdný. Individualismus, který potvrzuje autonomii každého člověka, se může zdát děsivý. Je každý připraven převzít plnou odpovědnost za svou existenci? Ne vždy, a **někdy je jednodušší spolehnout se na autoritu, která vnucuje způsob života.**
 
+V kolektivistickém pojetí musí být soukromé zájmy jednotlivců systematicky podřizovány rozhodnutím činěným ve jménu vyšší entity, která údajně ztělesňuje obecný zájem nebo společné dobro. Touto entitou může být stát, národ, církev, ale dnes, v sociální demokracii, je to především demokratická většina. Pravidlo většiny určuje správné a špatné, pravdivé a nepravdivé.
 
-Tento příkaz, původně převzatý z Horáciova listu vydaného dvacet let před naším letopočtem, převzal a zpopularizoval Immanuel Kant ve svém eseji *Co je to osvícenství* vydaném v roce 1784. Pro Kanta je tato věta mottem osvícenství a symbolizuje vystoupení člověka z jeho menšinovosti, ze stavu neschopnosti používat svůj rozum bez vedení druhých, za který je sám zodpovědný svou leností a zbabělostí.
+Kolektivita se stává prioritou. Kolektivní cíle převyšují cíle individuální a instituce slouží společnosti i na úkor osob.
 
+### Marx a historický materialismus
 
+![Marx a primát společenského bytí nad individuálním vědomím](./assets/en/113.webp)
 
-Lidé nejsou pouhá zvířata ani otroci. Patří sám sobě a je obdařen svobodnou vůlí, schopností rozhodovat se na základě rozumu. Stručně řečeno, člověk je cílem sám o sobě, nikoli prostředkem pro druhé. To mu dodává morální důstojnost.
+Významným myslitelem kolektivismu je Karl Marx, který ospravedlnil nadřazenost kolektivu nad jednotlivcem prostřednictvím toho, co nazýval historickým materialismem:
 
+> Není to vědomí lidí, které určuje jejich bytí; naopak jejich společenské bytí určuje jejich vědomí.
 
+Vědomí není primární, ale sekundární, určované společenským bytím: stavem ekonomických a sociálních vztahů, opozicí mezi třídami. **Jednotlivec není ničím mimo tuto realitu.** Myslí skrze svou sociální třídu, žije, chová se a jedná tak, jak mu jeho třída diktuje, ale nevědomě. Odtud marxistický imperativ uvědomit si zájmy své třídy, aby je bylo možné uskutečnit.
 
-Tím, že individualismus tímto způsobem posiluje lidské bytosti, se však může mnohým zdát děsivým zážitkem. Jsme připraveni převzít odpovědnost za svůj život?
+### Mnoho tváří kolektivismu
 
+Jak poznamenal Mises: *Neexistuje jednotná kolektivistická ideologie, ale mnoho kolektivistických doktrín. Každá vyzdvihuje jinou kolektivní entitu.*
 
+Kolektivismy můžeme rozdělit do dvou skupin. Pravicové kolektivismy, jako nacionální socialismus a Mussoliniho fašismus, vyzdvihují národ a rasu jako entity nadřazené jednotlivci. Levicové kolektivismy, komunismus a socialismus, dávají prioritu dělnické třídě a sociální rovnosti a zacházejí se sociální třídou jako s nejvyšší entitou, která definuje jednotlivce.
 
-Kolektivismus, ať už ekonomický nebo politický, je filosofie, která se spoléhá na autoritu mimo jednotlivce - stát nebo většinu -, aby jednotlivci vnutila určitý způsob života a ekonomické podmínky. Rozhodnutí jsou přijímána ve jménu této nadřazené entity. Soukromé zájmy jednotlivců se jí proto musí podřídit.
+Spektrum sahá od sociální demokracie po nacionální socialismus, ale **tyto doktríny se sbíhají ve sdíleném nepřátelství vůči individuální svobodě a v ospravedlňování násilí.**
 
+### Popperovy otevřené a uzavřené společnosti
 
+![Rozlišení Karla Poppera mezi otevřenými a uzavřenými společnostmi](./assets/en/114.webp)
 
-Kolektivismus tak staví do popředí kolektivitu, ať už národní, kulturní nebo náboženskou, a na jednotlivce pohlíží jako na prostředek k posílení a zajištění trvalosti tohoto nejvyššího celku. Cíle kolektivity, ať už národa, státu nebo církve, jsou nadřazeny cílům jednotlivce. Z tohoto pohledu je primární funkcí institucí sloužit společnosti, a to i na úkor jednotlivců.
+Karl Popper, filozof rakouského původu, který emigroval nejprve na Nový Zéland a poté do Británie, analyzoval tyto opozice se zvláštní jasností v *The Open Society and Its Enemies*:
 
+> Uzavřenou společností nazývám magickou nebo kmenovou společnost a otevřenou společností tu, v níž jsou jednotlivci konfrontováni s osobními rozhodnutími.
 
+Dva modely společnosti, dva principy společenské organizace zcela v rozporu jeden s druhým. Uzavřená společnost je kolektivistická, spočívá na kmenové mentalitě: odmítnutí kritické svobody, vnějších výměn a pokroku a idealizaci statického řádu. **Otevřená společnost uznává právo jednotlivce soudit sám za sebe**, dává primát svobodné volbě hodnot, přesvědčení a vztahů.
 
-Podle Karla Maxe "to není vědomí lidí, které určuje jejich existenci, ale naopak, je to jejich společenská existence, která určuje jejich vědomí". Marx tak zdůraznil, že jedinec je hluboce zakořeněn ve společenské realitě a že jeho vědomí je touto realitou určováno. Jinými slovy, jedinec je skutečný pouze do té míry, do jaké je členem společnosti, a jeho individuální existence má smysl pouze v kontextu třídního boje za společné dobro.
+### Totalitarismus jako moderní uzavřená společnost
 
+![Totalitarismus jako radikální moderní forma uzavřené společnosti](./assets/en/115.webp)
 
+Totalitarismus je moderním výrazem uzavřené společnosti. Představuje nejradikálnější formu, opírá se o dogmatickou ideologii vedoucí k systematické cenzuře, státní propagandě, kultu vůdce a mechanismům kontroly a dohledu. Jednotlivec jako takový neexistuje; existuje **forma dehumanizace, v níž jednotlivec ztrácí své kořeny**, svou paměť a svá přesvědčení, stává se zcela pohlcen komunitou, a proto snadno manipulovatelný.
 
-Podle Misese: *Podle Mise neexistuje jednotná kolektivistická ideologie, ale mnoho kolektivistických doktrín. Každá z nich vyzdvihuje jinou kolektivní entitu a požaduje, aby se jí všichni slušní lidé podřídili. Každá sekta uctívá svou vlastní modlu a je netolerantní ke konkurenčním modlám* (Teorie a dějiny).
+### Křehkost otevřené společnosti
 
+![Vnitřní křehkost otevřené společnosti](./assets/en/116.webp)
 
+Popper s velkou výstižností zdůrazňuje, že **otevřená společnost zůstává vnitřně křehká.** Tato společnost, která upřednostňuje kritické myšlení, individuální svobodu a odpovědnost, může snadno sklouznout ke kolektivismu fascinací autoritou.
 
-Podle Misese existuje pravicový a levicový kolektivismus. Národní socialismus a Mussoliniho fašismus jsou pravicové kolektivismy. Komunismus a socialismus jsou levicové kolektivismy. Pro něj není velký rozdíl mezi Hitlerovým nacismem a Stalinovým komunismem. I když jsou motivace odlišné, v obou případech jde o nenávist ke svobodě jednotlivce a ospravedlnění násilí.
+Proč? Možná kvůli nedostatku bezpečí. Odpovědnost, kterou individualismus implikuje, se může zdát děsivá a riskantní. Člověk musí činit vlastní volby a může selhat. Vzniká pokušení hledat útočiště v komunitární ochraně nebo v nostalgických tendencích k idealizované minulosti. Otevřená společnost čelí výzvám, které ji ohrožují i dnes, zejména komunitárním impulzům, které vidíme v naší době, a opakujícímu se pokušení násilí.
 
 
-
-Na základě tohoto rozlišení lze politické rodiny analyzovat následovně:
-
-
-*Dvě protichůdná pojetí společnosti zůstanou vždy nesmiřitelná: individualistické pojetí, podle něhož je člověk bytostí s rozumem a svobodou, která je schopna sama organizovat své vztahy s ostatními lidmi, a kolektivistické pojetí, podle něhož **společnost** existuje nezávisle na lidech, kteří ji tvoří, na jejich přáních a vůli. Kolektivistické pojetí se dočkalo některých svých nejzrůdnějších konkretizací v marxistickém totalitarismu, ale navzdory zdání je to také to, s čím je spojena sociální demokracie.* Pascal Salin, Libéralisme.
-
-
-
-V podobném duchu psal filozof Karl Popper ve své knize Otevřená společnost a její nepřátelé z roku 1945: *(Tome I, s. 199).
-
-
-Podle Karla Poppera jsou otevřená a uzavřená společnost základní pojmy, které popisují radikálně odlišné principy společenského uspořádání a není mezi nimi možná syntéza:
-
-
-
-
-  - Uzavřená společnost je společnost, která zásadně odmítá kritickou svobodu jednotlivců, výměnu s okolním světem a z toho plynoucí pokrok a rozmanitost. Je to společenský model zakořeněný v kolektivní mentalitě, která se bojí změn, odmítá kritiku a individuální odpovědnost a idealizuje statický, harmonický, často kmenový řád.
-  - Otevřená společnost se vyznačuje schopností člověka kritického úsudku a individuální odpovědnosti. S ní přichází nový princip společenského uspořádání založený na primátu odpovědnosti, svobodné volbě hodnot, přesvědčení, směny a vztahů v rámci abstraktních pravidel správného chování.
-
-
-
-Totalitarismus je politická forma, kterou tato uzavřená společnost nabývá, když je realizována radikálním, moderním způsobem, opírá se o ideologii jistoty a používá státní kontrolní mechanismy (cenzuru, propagandu, kult vůdce) k vynucování stability na úkor individuálních svobod a kritického myšlení. Její posedlostí je udržení hierarchického řádu a podřízení se neměnným tradicím a kolektivním přesvědčením. V těchto společnostech má společenská kontrola podobu neustálého a těsného vzájemného dohledu, přičemž jedinec jako takový neexistuje, ale je ovládán a zahrnut společenstvím.
-
-
-Hlavní rozdíl mezi oběma modely společnosti spočívá v jejich přístupu k poznání, změně a politické organizaci:
-
-
-
-
-
-- Otevřená společnost je dynamická, kritická a zaměřená na svobodu jednotlivce a možnost reformovat normy.
-- Uzavřená společnost je statická, dogmatická a totalitní, usiluje o stabilitu prostřednictvím kontroly a návratu k minulému, idealizovanému řádu.
-
-
-
-Tento protiklad zdůrazňuje zásadní neslučitelnost modelu založeného na individuální svobodě a kritickém rozumu a modelu založeného na organické jednotě, iracionalitě a kolektivní podřízenosti.
-
-
-
-Otevřená společnost je však křehká, vždy nedokončená a neustále zpochybňovaná. Potýká se s nostalgickými tendencemi, ztrátou pocitu bezpečí, který pro své členy ztělesňovalo kmenové společenství, a touhou obnovit původní komunitní řád, případně i násilím.
-
-
-
-
-# Politický trend mezi bitcoinery
-
+# Politický trend mezi bitcoinéry
 
 <partId>c0de3201-5c74-4854-b872-15a27165d228</partId>
 
 
-
-## Politický trend mezi bitcoinery
-
+## Politický trend mezi bitcoinéry
 
 <chapterId>89b42c72-bd73-465d-b420-e35d7c5de07c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=ml33z_RYTEk)
 
+![Bitcoin jako politický projekt](./assets/en/117.webp)
 
-
-Na konci tohoto kurzu považujeme za nezbytné zabývat se politickým postavením Bitcoin a bitcoinů.
-
-
+V této závěrečné části kurzu se obracíme k Bitcoinu. Jaká je jeho povaha? Je to politický projekt? Je pravicový, levicový, nebo úplně něco jiného? A jaká je politická tendence těch, kdo ho používají? To jsou otázky, jimiž se nyní musíme zabývat.
 
 ### Je Bitcoin politický projekt?
 
+Bitcoin je decentralizovaná [kryptoměna](https://planb.academy/resources/glossary/cryptocurrency), vytvořená Satoshim Nakamotem v roce 2008, která umožňuje finanční transakce [peer-to-peer](https://planb.academy/resources/glossary/peertopeer-p2p) bez nutnosti důvěřovat jakémukoli zprostředkovateli.
 
+Řídí se softwarovým protokolem [FOSS](https://planb.academy/resources/glossary/foss). Nemá žádného CEO, žádné sídlo, žádný marketingový plán, žádnou určenou autoritu. **Za Bitcoinem nestojí žádná firma a nekontroluje ho žádná politická entita ani vláda.**
 
-Bitcoin je decentralizovaná [kryptoměna](https://planb.academy/resources/glossary/cryptocurrency), kterou v roce 2008 vytvořil Satoshi Nakamoto a která umožňuje nedůvěryhodné finanční transakce mezi partnery.
+#### Zdánlivě neutrální technologie
 
+![Decentralizovaná povaha Bitcoinu: žádný CEO, open source, peer-to-peer](./assets/en/118.webp)
 
-Společnost Bitcoin je řízena protokolem [otevřeného softwaru](https://planb.academy/resources/glossary/foss), nemá generálního ředitele, ústředí, marketingový rozpočet ani určenou autoritu. To znamená, že nad ním nemá kontrolu žádný politický subjekt ani vláda.
+Tato decentralizovaná povaha může vytvářet dojem, že Bitcoin je prostě technologická inovace, neutrální a apolitická, srovnatelná s internetem ve dvacátém století nebo s knihtiskem ve čtrnáctém. Přesto už víme, že jak internet, tak knihtisk, navzdory tomu, že šlo o technologické inovace, **měly hluboké společenské, ekonomické a politické důsledky**.
 
+Totéž platí o Bitcoinu a Satoshi Nakamoto nám zanechal zprávy, které jeho záměr vyjasňují.
 
+#### Vada fiat systému
 
-Tato neutralita je pro někoho znepokojivá a může vést k domněnce, že se jedná o apolitickou technologii, jako byl internet ve 20. století nebo knihtisk ve 14. století.
+> Základním problémem konvenčních měn je důvěra, kterou do nich musí být vložena, aby fungovaly. Musíte důvěřovat centrální bance, že měnu neznehodnotí, ale dějiny fiat měn jsou plné porušení této důvěry.
 
+Tento citát Satoshiho Nakamota je zásadní pro pochopení filozofie stojící za Bitcoinem. Fiat měny jsou měny nekryté komoditou, něčím skutečným a fyzickým. Jsou to papírové peníze spočívající zcela na autoritě instituce, která je vnucuje, a tedy na důvěře. **Když instituce drží úplnou kontrolu nad penězi, pokušení ke zneužití je příliš silné.** Dějiny to ukázaly opakovaně.
 
+#### Zpráva v genesis bloku
 
-I když Bitcoin sám o sobě není ani pravicový, ani levicový, ani nepatří k žádnému náboženství, byl přesto vynalezen, aby vyřešil problém - problém důvěry ve finanční burzy a centralizované subjekty. A to je samo o sobě politický problém.
+**Bitcoin se zrodil v přímé reakci na finanční krizi roku 2008** a měnový intervencionismus, který následoval. Do vůbec prvního vytěženého bloku vložil Satoshi Nakamoto symbolický titulek z londýnských Times:
 
+> The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout.
 
+![Titulek genesis bloku](./assets/en/119.webp)
 
-![Bitcoin Whitepaper Abstract](./assets/fr/020.webp)
+Záměr je nezaměnitelný: nabídnout alternativu k centralizovaným bankovním systémům.
 
+#### Devastující důsledky měnového intervencionismu
 
+![Devastující důsledky měnové inflace a krizí fiat měn](./assets/en/120.webp)
 
-Při čtení [Bílé knihy](https://planb.academy/resources/glossary/white-paper) Satoshi Nakamoto vidíme, že Bitcoin byl navržen tak, aby nabízel inovativní ochranu proti dvěma hlavním současným hrozbám: rozsáhlému dohledu a urychlenému vytváření umělých peněz.
+Pokaždé, když finančním světem otřese krize nebo udeří globální událost, jako byla pandemie Covid-19, vytvářejí se miliardy a miliardy dolarů a eur na záchranu bank, podniků nebo jednotlivců. Tyto záchranné plány mají devastující důsledky.
 
+Injekce peněz do systému (měnová inflace) se promítá do znehodnocení měny. Se stejným množstvím peněz si člověk může koupit stále méně, protože tyto čerstvé peníze neodrážejí skutečný ekonomický růst. **Tato inflace je skrytá daň, uvalená bez souhlasu občanů.** Většina lidí nevidí, že k růstu cen vedla vládní politika, přičemž ceny jsou prostě odrazem znehodnocení měny. Jde o legální krádež, institucionalizované vyvlastnění.
 
+Důsledky logicky následují: chudnutí střední třídy (zatímco bohatí mohou zachytit nové peníze vstupující do systému přes banky a umístit je do spekulativních aktiv), strach z budoucnosti, sociální a politická napětí, nejistota a šířeji ztráta důvěry v tradiční instituce. Tato záplava peněz může také živit politickou a finanční korupci, klientelismus mezi státem a velkými korporacemi a rostoucí byrokracii.
 
-1. Ačkoli Bitcoin není zcela anonymní, výrazně zvyšuje soukromí tím, že omezuje finanční dohled nad jednotlivci. Tato schopnost umožňuje například disidentovi v diktatuře držet a vyměňovat hodnoty online bez obav z konfiskace nebo cenzury. Ačkoli se to občanům demokratických zemí může zdát ještě daleko, pro svobodu jednotlivce je to zásadní krok vpřed.
+![Abstrakt Bitcoin Whitepaper](./assets/en/121.webp)
 
+### Bitcoin jako projekt společenské transformace
 
+![Bitcoin jako nástroj omezování vládní moci a emancipace jednotlivců](./assets/en/122.webp)
 
-2. Bitcoin umožňuje každému chránit své úspory před rozkrádáním soukromého majetku, které je obsaženo v měnové [inflaci](https://planb.academy/resources/glossary/inflation). Jde o pokus zpochybnit kontrolu státu nad řízením peněz jako nástroje směny, a tím konkurovat státu. Finanční krize z roku 2008 a pandemie Covid 19 poukázaly na nedostatky současného systému. Biliony dolarů vytištěné ze vzduchu, aby se zabránilo dalšímu kolapsu ekonomiky, měly devastující účinky, za které stále platíme.
+**Bitcoin proto daleko přesahuje jednoduchou finanční nebo technologickou inovaci.** Byl koncipován se třemi cíli:
 
+1. **Omezit moc vlád nad penězi**, zabránit institucím používat měnu k politickým účelům, jako jsou veřejné výdaje, války a ideologická kontrola.
+2. **Emancipovat jednotlivce**, obnovit kontrolu nad vlastním majetkem a životem. Vláda vám může vzít eura z bankovního účtu, dům, akcie, zlato. Ale nemůže vám vzít vaše bitcoiny, protože Bitcoin díky své decentralizované povaze uniká dohledu a kontrole. Držíte ho sami, nezávisle na žádné důvěryhodné třetí straně.
+3. **Chránit před [inflací](https://planb.academy/resources/glossary/inflation).** Bitcoin je deflační měna; jeho nabídka je omezena na 21 milionů jednotek a žádná instituce, banka ani vláda nemůže vytvořit další. Jeho hodnota vychází jak z jeho užitečnosti, tak z jeho vzácnosti.
 
+#### Bitcoin jako individuální suverenita
 
-![Bitcoin Counterflow Abstract](./assets/fr/021.webp)
+![Individuální suverenita Bitcoinu](./assets/en/123.webp)
 
+V tradičních financích člověk nemůže skutečně vlastnit vlastní aktiva. To, co držíme, jsou vždy pohledávky vůči finančním zprostředkovatelům. **Jsme zcela závislí na bankovních institucích.** S Bitcoinem máme přímé a suverénní vlastnictví svých držeb. Je to prostě akt být svým vlastním bankéřem, držet soukromé klíče, které dávají přístup k našim bitcoinům. Pokud držíme vlastní klíče, nikdo je nemůže konfiskovat, protože sídlí v našich myslích.
 
+#### Hrozba pro sociální stát
 
-Bitcoin je tedy mnohem víc než jen finanční technologie, je to projekt, který má změnit svět a zlepšit ho. Je to ambiciózní politický projekt, který má nově definovat mocenské vztahy mezi jednotlivci a institucemi:
+![Bitcoin jako výzva fiskálnímu a měnovému monopolu sociálního státu](./assets/en/124.webp)
 
+Bitcoin také představuje výzvu pro sociální stát: stát, který utrácí nad své příjmy, aby uspokojil požadavky na ekonomická a sociální práva (sociální zabezpečení, dávky v nezaměstnanosti, důchody). Bitcoin zpochybňuje tři pilíře, na nichž tento systém spočívá:
 
+1. **Fiskální systém**, který nestačí pokrýt všechny výdaje.
+2. **Měnový monopol**, schopnost emitovat peníze za účelem financování výdajů dluhem.
+3. **Dohled nad transakcemi**, schopnost bránit lidem v používání jakékoli jiné měny než státem vnuceného fiatu.
 
-> Zásadním problémem konvenčních měn je důvěra, která v ně musí být vložena, aby fungovaly. Musíte důvěřovat centrální bance, že měnu neznehodnotí, ale historie fiat měn je plná porušení této důvěry.
+Zvažte alegorii jeskyně, aktualizovanou pro náš měnový věk. Hluboko uvnitř jeskyně sledují vězni stíny na zdi a vidí euro, představují si ho jako jedinou možnou měnu a důvěřují autoritě, která ji vydává. Pak někteří vězni uniknou na otevřený vzduch a objeví Bitcoin. **Bitcoin je cesta ven, prostředek emancipace z jeskyně měnových iluzí.**
 
-Tento citát od Satoshi Nakamota je zásadní pro pochopení filozofie Bitcoin. Satoshi upozorňuje na nedostatky systému Fiat založeného na důvěře v centralizované instituce a navrhuje Bitcoin jako nedůvěryhodnou alternativu.
+#### Ochrana disidentů a obětí útlaku
 
+Bitcoin také slouží jako ochrana pro disidenty a oběti útlaku v zemích procházejících válkou, diktaturou nebo hyperinflací. Těm z nás, kdo žijí v moderních demokraciích, se to může zdát vzdálené, ale **tato schopnost odolnosti vůči cenzuře a posíleného soukromí je cenným pokrokem** pro individuální svobody.
 
+### Morální projekt s politickými důsledky
 
-Výchozím bodem intelektuálního přístupu Satoshi Nakamota je tedy přílišná důvěra lidí ve fiat měnu a falešné přesvědčení, že stát může vyřešit krize. Do prvního vytěženého bloku v příběhu Bitcoin totiž Satoshi Nakamoto vložil symbolickou větu z titulní strany článku v londýnských Timesech:
+![Bitcoin jako morální projekt: vlastnictví, práce a soukromí](./assets/en/125.webp)
 
+Na závěr: **Bitcoin nebyl navržen proto, aby lidi učinil bohatými, ale aby je učinil svobodnými.** Není pravicový ani levicový. Je především morálním projektem s politickými důsledky. Člověk může Bitcoin přijmout bez ohledu na politickou příslušnost, protože není svázán s žádnou ideologií, žádnou zemí, žádným náboženstvím.
 
+Bitcoin dosahuje tří věcí. Zaprvé umožňuje efektivní vlastnictví, které je základní pobídkou k individuální odpovědnosti: když člověk něco vlastní, stará se o to. Zadruhé chrání hodnotu vytvořenou prací: když člověk vlastní plody své práce, je motivován pracovat a vydat ze sebe to nejlepší. Zatřetí zachovává důvěrnost a soukromí, základní právo, protože když člověk může odhalit pouze to, co se rozhodne odhalit, žije beze strachu a může navazovat skutečné vztahy důvěry.
 
-> The Times 03/leden/2009 Kancléřka na pokraji druhé bankovní pomoci.
+Aniž by se výslovně hlásil k jakémukoli politickému táboru, **Bitcoin v sobě nese zárodky tiché revoluce**, která je nejprve morální a teprve potom politická.
 
-![Genesis Block Title](./assets/fr/022.webp)
+Bitcoin se však neobjevil z ničeho. Spočívá na pokrocích v matematice, fyzice, informatice a filozofii. Satoshi Nakamoto, ačkoli brilantní, stavěl na myšlenkách, které už byly ve vzduchu. Mezi nejdůležitější z nich patřily myšlenky hnutí [Cypherpunks](https://planb.academy/resources/glossary/cypherpunks).
 
 
-
-Zařazení tohoto názvu do [bloku geneze](https://planb.academy/resources/glossary/genesis-block) je možné interpretovat. Může se však jevit jako komentář Satoshi k selhání tradičních finančních institucí a jako vyjádření cíle Bitcoin: nabídnout alternativu k centralizovaným bankovním systémům.
-
-
-
-Pokud stát zavede přísnou kontrolu nad všemi transakcemi (například omezením hotovosti nebo zavedením centralizované digitální měny), má nad ekonomikou naprostou kontrolu na úkor svobody volby a suverenity jednotlivců. Díky sledování všech transakcí může stát lépe identifikovat nové zdroje zdanění a zavést přísnou regulaci.
-
-
-
-Přesto byl systém Bitcoin navržen tak, aby fungoval bez zásahů centrálních bank nebo jiných státem kontrolovaných finančních zprostředkovatelů. Vzhledem ke své decentralizované, pseudonymní povaze a odolnosti vůči manipulaci by mohl oslabit základy sociálního státu tím, že by snížil jeho kontrolu nad penězi, daněmi a finančním systémem.
-
-
-
-Jednou ze základních vlastností Bitcoin je tedy schopnost vlastnit sám sebe. Ve světě tradičních financí nemůžete vlastnit sami sebe. Vždy jsou to finanční zprostředkovatelé, kteří jsou ochotni poskytnout vám přístup k účtu.
-
-
-
-Bitcoin byl navržen tak, aby omezil moc vlád nad měnou.
-
-
-Zabraňuje používání peněz k politickým účelům, jako jsou veřejné výdaje, války, ideologické formování a kontrola názorů.
-
-
-
-
-- Vláda si může vzít eura z vašeho bankovního účtu.
-- Může vám vzít dům i pozemek.
-- Může si vzít vaše akcie.
-- Může vám vzít zlato.
-- Může vám vzít všechno.
-
-
-
-Vláda vám však bitcoiny vzít nemůže, protože nemůže zabavit obsah vaší mysli.
-
-
-
-Proto je Bitcoin postavena na základním filozofickém předpokladu: svoboda znamená vlastnit sebe sama, plody své práce a svůj soukromý život.
-
-
-
-V tomto smyslu se řídí vizí světa, která je morální i politická. Když má stát monopol na peníze, jste v etatistickém systému, ať už pravicovém, nebo levicovém. Projektem Bitcoin je nabídnout všem volný trh s penězi.
-
-
-
-Ale Bitcoin se neobjevil z ničeho nic. Je založen na pokrocích v matematice, fyzice, informatice a filozofii. Satoshi Nakamoto, ačkoli byl geniální, stavěl na myšlenkách jiných inovátorů. Mezi nimi i průkopníků hnutí [cypherpunk](https://planb.academy/resources/glossary/cypherpunks).
-
-
-
-## Kdo jsou cypherpunkeři?
-
+## Kdo jsou Cypherpunks?
 
 <chapterId>dc18ba9a-c242-472a-a717-531a5f125737</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=IjiyWVW_5Os)
 
+![Cypherpunks: průkopníci digitální svobody](./assets/en/126.webp)
 
+Cypherpunks jsou průkopníci hnutí hájícího lidskou svobodu v digitálním věku. Intelektuální kořeny Bitcoinu bez nich nelze pochopit.
 
-Toto hnutí se zrodilo na počátku 90. let 20. století z obav o lidskou svobodu tváří v tvář vládnímu dohledu v digitálním věku.
+### Kontext 90. let
 
+![Vznik hnutí cypherpunk v digitální revoluci 90. let](./assets/en/127.webp)
 
+Na začátku 90. let byl kontext specifický. Podniky a vlády začínaly vykonávat rostoucí kontrolu nad informačními technologiemi a vznikajícím internetem. Toto období znamenalo rychlý rozvoj těchto technologií, ale také rostoucí úzkost z masového dohledu a systematického porušování soukromí občanů.
 
-Vznikají v situaci, kdy se informační a komunikační technologie rychle rozvíjejí, ale kdy nad nimi začínají mít větší kontrolu také vlády a korporace. Je to hnutí, které se prolíná s libertariánským a anarchistickým myšlením. Je motivováno obavami z masového sledování a narušování soukromí.
+Tváří v tvář této úzkosti se libertariánští a anarchističtí myslitelé spojili, aby jednali. Jejich vize byla jasná: **zpřístupnit anonymitu a finanční svobodu každému prostřednictvím digitálních kryptografických nástrojů**, a tím uniknout vládní kontrole. Pustili se do vývoje technologií, které by občanům umožnily zachovat si soukromí a autonomii v jejich každodenních online aktivitách.
 
+#### E-mailový distribuční seznam a manifest
 
+![Cypherpunková vize: anonymita, svoboda a kryptografický odpor](./assets/en/128.webp)
 
-Cílem bylo zpřístupnit anonymitu a finanční svobodu všem díky digitálním kryptografickým nástrojům. Vládní orgány by tak neměly kontrolu nad online aktivitami.
+V roce 1992 Tim May a Eric Hughes spustili první e-mailový distribuční seznam Cypherpunk. Tato platforma se rychle stala nervovým centrem hnutí a spojila vývojáře, kryptografy a obhájce digitální svobody. Právě na tomto seznamu Satoshi Nakamoto poprvé v roce 2008 sdílel bitcoinový [White Paper](https://planb.academy/resources/glossary/white-paper).
 
+V březnu 1993 Eric Hughes publikoval *A Cypherpunk's Manifesto*, relativně krátký, ale zakládající text:
 
-
-První poštovní konferenci Cypherpunk, jejímž členem byl i Satoshi a kde poprvé sdílel bílou knihu Bitcoin, založili v roce 1992 Tim May a Eric Hughes. Jejich cílem bylo podpořit tvorbu nového softwaru na ochranu soukromí.
-
-
-
-Manifest Cypherpunk, který v roce 1993 napsal Eric Hughes, shrnuje jejich filozofii:
-
-
-
-> Soukromí je pro otevřenou společnost v elektronickém věku nezbytné (...) Nemůžeme očekávat, že vlády, korporace nebo jiné velké anonymní organizace nám zaručí soukromí (...) Mým hlavním cílem pro Cypherpunks je přimět lidi, aby si své soukromí bránili, místo aby se spoléhali na to, že jim ho někdo jiný zajistí.
+> Soukromí je v elektronickém věku nezbytné pro otevřenou společnost. Nemůžeme očekávat, že vlády, korporace nebo jiné velké organizace zaručí naše soukromí.
 >
 
+> Eric Hughes, A Cypherpunk's Manifesto, 23. března 1993.
 
-> Eric Hughes - Cypherpunk Mailinglist, 23. března 1993.
+![Zakladatelé cypherpunku a manifest z roku 1993](./assets/en/129.webp)
 
-A dodává:
+Základní motivace je jasná: **důvěrnost je klíčovým prvkem svobody a musí být budována samotnými jednotlivci**, nikoli očekávána jako dar od korporací nebo vlád.
 
+#### Filozofie: [kryptografie](https://planb.academy/resources/glossary/cryptography) nad institucemi
 
+Cypherpunks vkládají svou důvěru do decentralizovaných kryptografických systémů spíše než do centralizovaných institucí, jako jsou banky nebo vlády. To je princip, který se přímo znovu objevuje v návrhu Bitcoinu od Satoshiho Nakamota.
 
-> důvěrnost v otevřené společnosti vyžaduje anonymní transakční systémy. Doposud byla hlavním systémem tohoto typu hotovost.
+Politicky se snaží budovat decentralizované sítě, kde jsou rozhodnutí přijímána kolektivně, aniž by jakákoli jediná entita mohla vnucovat svou vůli. **Veškerá centralizace je vnímána jako založená na donucení spíše než na souhlasu.** To rezonuje s libertariánskou filozofií, podle níž je souhlas základní normou spravedlnosti. Nic nemůže být spravedlivé, pokud je to vnuceno centralizovanou autoritou silou.
 
-Proto bude [kryptografie](https://planb.academy/resources/glossary/cryptography) používána jako nástroj odporu proti všem formám státní a korporátní kontroly. Zajišťuje, že každá strana transakce zná pouze to, co je pro danou transakci nezbytně nutné.
+Manifest také uvádí, že důvěrnost v otevřené společnosti vyžaduje anonymní transakční systémy. Dosud byly primárním systémem tohoto typu hotovost. Ale v digitální společnosti, kde hotovost mizí, **musí být vynalezena digitální měna se stejnými vlastnostmi anonymity.** A přesně to mělo přijít s Bitcoinem.
 
+#### „Cypherpunks píší kód“
 
+Cypherpunks se nespokojují s nadějemi. Aktivně zasahují, aby vytvářeli prostory svobody a autonomie. Odtud formule, která uzavírá manifest:
 
-Cypherpunkeři věří v sílu kryptografie, která vytváří prostor svobody a individuální autonomie a umožňuje lidem bezpečně a anonymně komunikovat a komunikovat.
+> Cypherpunks píší kód.
 
+Pro Erica Hughese vede cesta ke svobodě přes aktivní budování anonymních systémů, které činí svévolná politická rozdělení irelevantními. **Kód se stává základním nástrojem transformace abstraktní ideje svobody ve skutečnost.** Proto Satoshi Nakamoto později řekl, že celý kód Bitcoinu napsal ještě předtím, než napsal white paper.
 
+### Dědictví: Bitcoin jako cypherpunkový úspěch
 
-Obhajují model, v němž je důvěra vkládána do decentralizovaných kryptografických systémů, nikoli do centralizovaných institucí, jako jsou banky, korporace nebo vlády.
+![Cypherpunkové dědictví a Bitcoin](./assets/en/130.webp)
 
+Od roku 2008 se Bitcoin stal první úspěšnou konkretizací elektronické měny, která je necenzurovatelná a suverénní. Nabízí decentralizovanou, pseudonymní měnovou alternativu, kterou je pro autority obtížné kontrolovat. Ať ho přijímají pravicoví nebo levicoví aktivisté, obránci svobody nebo rovnosti, nebo jednoduše střadatelé bez politické nálepky, **dává každému jednotlivci možnost emancipovat se od tradičního finančního systému** a znovu získat vládu nad svými penězi, a tedy nad svou svobodou.
 
+Z tohoto hlediska, aniž by se výslovně hlásil k jakémukoli politickému táboru, nese Bitcoin zárodky tiché revoluce a připojuje se k vrcholu ciferníku v Nolanově diagramu.
 
-#### Metoda cypherpunk
-
-
-
-> Cypherpunkové píší kód
-
-prohlašuje Éric Hughes v závěru svého manifestu.
-
-
-
-Cesta vpřed podle něj spočívá v aktivním budování anonymních systémů, které učiní svévolné politické dělení irelevantním a zbytečným. Kód je založen na použití kryptografie k přeměně abstraktní myšlenky svobody v novou ekonomickou a společenskou realitu.
-
+![Bitcoin v politickém diagramu](./assets/en/131.webp)
 
 
-Cypherpunkové nenacházejí útěchu v nadějích a přáních. Aktivně zasahují do běhu událostí a utvářejí svůj vlastní osud.
-
-
-
-Z politického hlediska se snaží budovat decentralizované sítě, kde se rozhodnutí přijímají kolektivně a kde žádný jednotlivý subjekt nemůže prosadit svou vůli. Veškerá centralizace je založena na donucení, nikoliv na souhlasu, jinými slovy, zachází s jednotlivci jako s dětmi neschopnými autonomie, které je třeba potrestat, pokud začnou rozhodovat o svém osudu.
-
-
-
-Tuto filozofii svobody a aktivní konstrukce, zděděnou po Cypherpuncích, ztělesnil Satoshi Nakamoto v roce 2008 vynálezem Bitcoin. Jako první uvedl do praxe myšlenku necenzurované, suverénní elektronické měny.
-
-
-
-![Cypherpunk Diagramme](./assets/fr/023.webp)
-
-
-
-Bitcoin omezuje státní moc tím, že nabízí decentralizovanou, pseudonymní a těžko kontrolovatelnou peněžní alternativu. Ať už si ji osvojí pravicoví či levicoví aktivisté, obhájci svobody či rovnosti, nebo prostě střadatelé bez politické nálepky, dává jednotlivcům možnost emancipovat se od tradičního finančního systému a získat zpět kontrolu nad svými penězi.
-
-
-
-Z tohoto pohledu, aniž by se výslovně hlásil k nějakému politickému táboru, nese Bitcoin zárodky tiché revoluce a připojuje se k vrcholu číselníku v Nolanově diagramu.
-
-
-
-![Politique Diagramme](./assets/fr/024.webp)
-
-
-
-## Kdo by měl rozhodovat?
-
+## Kdo má rozhodovat?
 
 <chapterId>cfc7688e-d647-4af1-880d-c70d3ae7d823</chapterId>
 
 
+V průběhu tohoto kurzu jsem se snažil ukázat, že skutečné dělení nevede mezi levicí, pravicí a středem, které všechny sdílejí etatistický postulát. Nakonec všechny klasické politické rodiny sdílejí nedůvěru k volnému trhu a sklon ke státnímu intervencionismu.
 
-V tomto kurzu jsem se snažil ukázat, že skutečné rozdělení není mezi levicí, pravicí nebo středem, které všechny předpokládají etatistický postulát. Všechny klasické politické rodiny nakonec sdílejí nedůvěru ve volný trh a zálibu ve státním intervencionismu.
+Ale co ti, kdo chtějí méně vlády a méně centralizace? Například uživatelé Bitcoinu, kteří chtějí ukončit monopol na tvorbu peněz. Jak je umístit v politickém spektru?
 
+### Skutečné dělení
 
+Ve skutečnosti **skutečné politické dělení leží v základních filozofických principech**: svoboda nebo donucení, dobrovolný souhlas nebo nátlak, odpovědný jednotlivec nebo kolektiv.
 
-Ale co ti, kteří chtějí méně vlády a méně centralizace? Například uživatelé Bitcoin, kteří chtějí ukončit monopol na tvorbu peněz. Jak je zařadit do tohoto politického spektra?
+Správný způsob, jak přemýšlet o politice, je začít od etických principů spíše než od nálepek. Politická otázka se pak stává: *chcete činit důležitá rozhodnutí ve svém životě, nebo chcete, aby je za vás činil někdo jiný?*
 
+Na obecnější úrovni zní filozofická otázka takto: *má být společenská organizace produktem záměrného plánu vytvořeného a vnuceného politickou třídou, nebo výsledkem svobodného vývoje, který vzniká z dobrovolných interakcí mezi všemi aktéry ekonomického a společenského života?*
 
-Skutečné politické rozdělení ve skutečnosti spočívá v základních filozofických principech: svoboda nebo donucení, dobrovolný souhlas nebo donucení, odpovědný jedinec nebo kolektiv.
+#### Ignorovaná politická rodina: libertariáni
 
+Toto nové politické dělení, založené na opozici mezi principy, vynáší na světlo politickou rodinu, která je velmi reálná, ale širokou veřejností často ignorovaná: libertariány.
 
+Z libertariánského hlediska **mají jednotlivci právo i odpovědnost činit vlastní rozhodnutí.** Naproti tomu konvenční politické rodiny, od levice po pravici, věří, že vláda by měla činit některá nebo mnohá důležitá rozhodnutí v životě jednotlivce a v ekonomickém životě obecně.
 
-Správný způsob, jak přemýšlet o politice, je vycházet z etických principů, nikoli z nálepek.
+Proč by ale někteří měli vnucovat svůj životní styl a světonázor druhým?
 
+#### Svoboda jako rámec soužití
 
+Ve skutečném režimu svobody mohou ti, kdo se hlásí k ideálům levice, žít podle svých principů. Mohou se svobodně vzdát svého majetku, sdílet výrobní prostředky, které vlastní, nebo darovat svou mzdu organizaci podle vlastního výběru, která by tyto prostředky mohla přerozdělit nejvíce znevýhodněným nebo podporovat kulturní iniciativy a podniky, jež podporují zaměstnanost.
 
-Od té chvíle už nešlo o politickou otázku: *chceš dělat důležitá rozhodnutí ve svém životě, nebo chceš, aby je za tebe dělal někdo jiný? *
+Stejně tak ti, kdo sdílejí pravicové hodnoty, mají právo žít podle svého přesvědčení: tvrdě pracovat, spořit, předávat svým dětem rodinné a národní hodnoty, vyhýbat se obsahu odporujícímu jejich morálce nebo si vybírat, koho zaměstnají. **Nikdo by neměl druhým vnucovat svůj způsob života.** Právě prostřednictvím svobody trhu a moci volby lze našich cílů dosáhnout pokojně.
 
+Stručně řečeno, základní divergence mezi politickými trendy spočívá v roli centralizovaného státu: socialisté a konzervativci používají stát k vnucování své vize společnosti, zatímco libertariáni prosazují decentralizaci a ponechávají jednotlivcům a soukromým komunitám, aby definovali a organizovali společnost podle svých preferencí a v souladu s vlastnickými právy.
 
+### A co Bitcoin?
 
-V obecnější rovině je filozofická otázka následující: *má být společenská organizace výsledkem záměrného plánu, který vymyslela a vnutila politická třída, nebo výsledkem svobodného vývoje, který vzniká na základě dobrovolných interakcí mezi všemi aktéry ekonomického a společenského života?
+Proto je Bitcoin také politickým zlomem. Je to pokojná vzpoura proti politizaci peněz a jejich konfiskaci malou menšinou. Bitcoin není o pravici a levici. Naopak, **je to tržní měna stojící proti státním penězům.**
 
+Státní nebo fiat peníze jsou donucovací, centralizovaný systém, který se snadno vytváří, je levný a má nešťastný sklon ztrácet hodnotu. Naproti tomu tržní peníze, historicky ilustrované zlatem a nyní Bitcoinem, jsou zdravou, těžko vyrobitelnou měnou, která vzniká dobrovolně, spontánně a dlouhodobě si uchovává svou hodnotu.
 
+Bitcoin tak díky své pevné nabídce a decentralizované povaze **představuje nejzdravější formu měny, jaká kdy byla vynalezena**, a nabízí potenciální alternativu k expanzi státní moci a neomezenému financování válek.
 
-**Přehlížená politická rodina: libertariáni**
-
-
-
-Toto nové politické rozdělení, založené na protikladu mezi principy, vynáší na světlo politickou rodinu, která je velmi reálná, ale široká veřejnost ji často ignoruje: libertariány.
-
-
-
-Z libertariánského hlediska má jednotlivec právo i odpovědnost činit vlastní rozhodnutí. Naproti tomu tradiční politické rodiny, od levice po pravici, se domnívají, že vláda by měla činit některá nebo mnohá důležitá rozhodnutí v životě jednotlivce a v ekonomickém životě obecně.
-
-
-
-Proč by ale jedni měli vnucovat svůj životní styl a světonázor druhým?
-
-
-Ve skutečném svobodném režimu mohou ti, kdo se hlásí k levicovým ideálům, žít podle jejich zásad. Mohou se svobodně vzdát svého majetku, podělit se o výrobní prostředky, které vlastní, nebo věnovat svou mzdu organizaci podle vlastního výběru, která by tyto prostředky mohla přerozdělit mezi nejchudší nebo podpořit kulturní iniciativy a podniky podporující zaměstnanost.
+Nakonec Bitcoin není klasickým politickým projektem ve smyslu státní nebo donucovací iniciativy. Je to technologie, která umožňuje jednotlivcům rozhodovat sami za sebe, což má paradoxně dalekosáhlé politické důsledky v omezování centralizovaných, panovačných mocí.
 
 
-
-V tomto režimu svobody mají ti, kdo sdílejí pravicové hodnoty, právo žít podle svého přesvědčení: tvrdě pracovat, šetřit, předávat rodinné a národní hodnoty svým dětem, vyhýbat se obsahu, který je v rozporu s jejich morálkou, nebo se rozhodnout nezaměstnávat ten či onen typ pracovníků. Nikdo by neměl vnucovat svůj způsob života ostatním. Právě díky svobodě trhu a možnosti volby lze našich cílů dosáhnout v míru.
-
+![Citát Leonarda Reada o svobodě a autoritářství](./assets/en/132.webp)
 
 
-Stručně řečeno, zásadní rozdíl mezi politickými směry spočívá v úloze centralizovaného státu: socialisté a konzervativci využívají stát k prosazování své vize společnosti, zatímco libertariáni prosazují decentralizaci, která ponechává jednotlivcům a soukromým společenstvím možnost definovat a organizovat společnost podle svých preferencí a v souladu s vlastnickými právy.
-
-
-
-**A co Bitcoin?**
-
-
-
-Proto je Bitcoin také politickým zlomem. Je to pokojná vzpoura proti politizaci peněz a jejich konfiskaci malou menšinou. Bitcoin není o pravici a levici. Naopak, jde o tržní měnu, která stojí proti státním penězům.
-
-
-
-Státní nebo fiat peníze jsou donucovací, centralizovaný systém, který se snadno vytváří, je levný a má nešťastnou tendenci ztrácet hodnotu.
-
-
-
-Naopak tržní peníze, které v minulosti ilustrovalo zlato a v současnosti Bitcoin, jsou zdravá, těžko vyrobitelná měna, která vzniká dobrovolně, spontánně a dlouhodobě si udržuje svou hodnotu.
-
-
-
-Bitcoin tak díky své pevné nabídce a decentralizované povaze představuje nejzdravější formu měny, jaká kdy byla vynalezena, a nabízí potenciální alternativu k expanzi státní moci a neomezenému financování válek.
-
-
-
-A konečně, Bitcoin není klasickým politickým projektem ve smyslu státní nebo donucovací iniciativy. Jde o technologii, která umožňuje jednotlivcům rozhodovat o sobě samých, což má paradoxně dalekosáhlé politické důsledky v omezení centralizované, dominantní moci.
-
-
-
-![Leonard Read Quote](./assets/fr/025.webp)
-
-
-
-# Závěrečná část
-
+# Závěrečná sekce
 
 
 <partId>d886a919-12b0-4e38-86de-7159b98b1864</partId>
 
 
-
-## Vyhodnoťte tento kurz
-
+## Zhodnoťte tento kurz
 
 
 <chapterId>f0b8398c-7c15-417e-83b0-42e7aab533dc</chapterId>
-
 
 
 <isCourseReview>true</isCourseReview>
@@ -1932,9 +1628,7 @@ A konečně, Bitcoin není klasickým politickým projektem ve smyslu státní n
 ## Závěrečná zkouška
 
 
-
-<chapterId>230ddc56-ceb8-11f0-bf47-6f8dd2541da1</chapterId>
-
+<chapterId>f776853b-8303-47d9-8327-d925c594564d</chapterId>
 
 
 <isCourseExam>true</isCourseExam>
@@ -1942,8 +1636,6 @@ A konečně, Bitcoin není klasickým politickým projektem ve smyslu státní n
 ## Závěr
 
 
-
 <chapterId>1dfe6e4a-47d5-48e1-94d0-6ac29b31e161</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>

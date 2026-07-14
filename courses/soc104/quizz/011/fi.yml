@@ -1,8 +1,9 @@
-question: Mitä y-akseli edustaa poliittisen kaavion mukaan?
-answer: Henkilökohtaiset ja sosiaaliset vapaudet
+question: "Mikä sisäinen jännite Nolanin kaaviossa ilmenee libertaarien keskuudessa?"
+answer: "Osa haluaa poistaa valtion kokonaan (anarkokapitalistit), kun taas toiset suosivat minimaalista valtiota, jolla säilyy keskeisiä suvereniteettitoimintoja (minarkistit)"
 wrong_answers:
-  - Taloudelliset ja kaupalliset vapaudet
-  - Hallituksen puuttumisen taso talouteen
-  - Verotukselliset ja lainsäädännölliset etuudet
-explanation: |
-  Y-akseli (pystysuora) edustaa henkilökohtaisia ja yhteiskunnallisia vapauksia, joihin kuuluvat liikkumisvapaus, mielipiteenvapaus ja itsemääräämisoikeus. Nämä vapaudet koskevat sitä, mitä teet yksityisissä suhteissasi, mielipiteilläsi ja uskomuksillasi sekä kaikkea, mitä teet omalla kehollasi ja mielelläsi. X-akseli (vaaka-akseli) edustaa taloudellisia vapauksia. Tämän erottelun avulla voimme luokitella suurimman osan poliittisista kysymyksistä kahteen perusluokkaan.
+  - "Osa haluaa vahvaa taloudellista sääntelyä, kun taas toiset suosivat kaikkien toimialojen täydellistä sääntelyn purkamista"
+  - "Osa kannattaa demokraattisia vaaleja, kun taas toiset suosivat perinnöllistä hallintojärjestelmää"
+  - "Osa kannattaa edistyksellisiä sosiaalipolitiikkoja, kun taas toiset puolustavat tiukasti perinteisiä moraaliarvoja"
+explanation: >-
+  Libertaarisen ajatteluperheen sisällä on perustavanlaatuinen erimielisyys valtion roolista. Anarkokapitalistit haluavat korvata kaikki valtion toiminnot yksityisillä palveluilla, kun taas minarkistit hyväksyvät minimaalisen valtion, jolla säilyy keskeisiä suvereniteettitoimintoja, kuten puolustus ja tuomioistuimet. Molemmat ryhmät jakavat libertaarisen huipun, mutta eroavat siinä, pitäisikö minkäänlaista valtiota olla lainkaan.
+reviewed: false

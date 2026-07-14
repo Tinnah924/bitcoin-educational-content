@@ -1,9 +1,9 @@
-question: Secondo la critica fondamentale di Satoshi Nakamoto, qual è il problema principale delle valute fiat convenzionali che Bitcoin è stato progettato per risolvere?
-answer: L'eccessiva fiducia richiesta alle istituzioni centralizzate che storicamente hanno ripetutamente violato tale fiducia svilendo le valute
+question: "Quale messaggio Satoshi Nakamoto inserì nel primo blocco Bitcoin mai minato?"
+answer: "Un titolo del London Times sul Cancelliere sull'orlo di un secondo salvataggio bancario"
 wrong_answers:
-  - La mancanza di infrastrutture digitali e la lentezza nell'elaborazione delle transazioni rispetto ai moderni sistemi di pagamento
-  - L'impossibilità di effettuare transazioni internazionali senza costosi intermediari e commissioni di conversione della valuta
-  - La vulnerabilità alla contraffazione e ai furti fisici dovuta alla dipendenza dalla cartamoneta e dall'archiviazione fisica
-explanation: |
-  Satoshi Nakamoto ha dichiarato esplicitamente che "il problema principale della moneta convenzionale è la fiducia necessaria per farla funzionare" e che "la storia delle valute fiat è piena di violazioni di tale fiducia"
-  Questo fondamento filosofico ha guidato il progetto del Bitcoin come sistema privo di fiducia che non richiede la fiducia nelle banche centrali o nei governi per mantenere la stabilità monetaria, affrontando direttamente il modello storico di svilimento della valuta attraverso l'eccessiva stampa di denaro.
+  - "Una citazione di Friedrich Hayek sui pericoli della pianificazione centrale e del controllo governativo del denaro"
+  - "Una dichiarazione di indipendenza da ogni forma di governo e di regolamentazione finanziaria nel mondo"
+  - "Una dimostrazione matematica che mostra che una valuta decentralizzata è più efficiente della moneta fiat"
+explanation: >-
+  Nel blocco genesis, Satoshi Nakamoto inserì un titolo simbolico del London Times: "The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout." Era un riferimento diretto alla crisi finanziaria del 2008 e all'interventismo monetario che ne seguì, rendendo inequivocabile l'intenzione di Bitcoin come alternativa ai sistemi bancari centralizzati.
+reviewed: false

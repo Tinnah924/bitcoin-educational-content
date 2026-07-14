@@ -1,9 +1,9 @@
-question: Jaký základní princip podle manifestu Cypherpunk Erica Hughese odlišuje cypherpunkery od těch, kteří pouze doufají v ochranu soukromí?
-answer: Cypherpunkeři aktivně píší kód a vytvářejí anonymní systémy, místo aby čekali, až instituce zajistí soukromí
+question: "Co princip 'Cypherpunks write code' odhaluje o přístupu hnutí Cypherpunks k dosahování svobody?"
+answer: "Že cesta ke svobodě vede přes aktivní budování anonymních systémů s použitím kódu jako základního nástroje pro proměnu abstraktních představ o svobodě ve skutečnost"
 wrong_answers:
-  - Cypherpunkeři se zaměřují na politické lobbování a právní reformy s cílem zavést práva na soukromí prostřednictvím demokratických procesů
-  - Cypherpunkeři věří ve spolupráci se stávajícími finančními institucemi a v postupné zlepšování jejich ochrany soukromí
-  - Cypherpunkeři upřednostňují vzdělávání veřejnosti o rizicích pro soukromí před vývojem technických řešení
-explanation: |
-  V manifestu se výslovně uvádí, že "cypherpunkeři píší kód", a zdůrazňuje se, že nenacházejí útěchu v nadějích a přáních, ale aktivně zasahují do dění.
-  Hughes tvrdil, že lidé nemohou očekávat, že vlády, korporace nebo jiné velké organizace zaručí soukromí, a proto musí cypherpunkeři sami vytvářet kryptografické systémy. Tento aktivní, technický přístup prostřednictvím vývoje kódu je odlišuje od pasivních přístupů, jako je lobbování, práce v rámci existujících systémů nebo pouhé vzdělávání ostatních bez vytváření konkrétních technologických řešení.
+  - "Že Cypherpunks jsou především softwaroví vývojáři, kteří píší komerční aplikace, aby financovali své kampaně politického aktivismu"
+  - "Že hnutí věří ve vzdělávání veřejnosti prostřednictvím psaných manifestů a akademických publikací spíše než v přímou akci"
+  - "Že Cypherpunks se zaměřují na hackování existujících vládních systémů, aby odhalili programy dohledu a vynutili si legislativní reformu"
+explanation: >-
+  Formule "Cypherpunks write code" odráží závazek hnutí k aktivnímu zásahu, nikoli k pouhé naději. Pro Erica Hughese vede cesta ke svobodě přes aktivní budování anonymních systémů, které činí svévolná politická dělení irelevantními. Kód se stává základním nástrojem proměny abstraktních představ o svobodě ve skutečnost, a proto Satoshi Nakamoto napsal celý kód Bitcoinu ještě předtím, než vůbec napsal White paper.
+reviewed: false

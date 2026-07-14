@@ -1,8 +1,9 @@
-question: What fundamental philosophical principle distinguishes traditional American conservatism from other political ideologies?
-answer: The concept of ordered liberty, which seeks to balance individual freedom with community responsibility and limited government
+question: "Comment le conservatisme traite-t-il les libertés dans les sphères économique et sociétale ?"
+answer: "Des libertés fortes dans la sphère économique mais des libertés faibles dans la sphère sociétale"
 wrong_answers:
-  - The principle of unlimited individual freedom combined with maximum government intervention in social matters
-  - The belief in revolutionary change to restore feudal agricultural society and reject all technological progress
-  - The doctrine of military interventionism to spread democracy worldwide through preemptive warfare
-explanation: |
-  Traditional American conservatism is fundamentally based on 'ordered liberty,' which attempts to reconcile the sometimes contradictory aspirations of community and individual needs, personal freedom and responsibility, and limited government with free markets. The wrong answers represent either contradictory principles (unlimited freedom with maximum intervention), European reactionary conservatism (feudal restoration), or neoconservative ideology (military interventionism) rather than the balanced approach that defines traditional American conservative thought.
+  - "Des libertés faibles dans les sphères économique et sociétale afin de maintenir l'ordre social traditionnel"
+  - "Des libertés fortes dans la sphère sociétale mais des libertés faibles dans la sphère économique"
+  - "Des libertés égales et illimitées dans les deux sphères avec une intervention gouvernementale minimale de toute nature"
+explanation: >-
+  Le conservatisme présente une dichotomie qui est l'image miroir du socialisme. Dans le domaine économique, les conservateurs défendent le marché libre, l'entrepreneuriat et la propriété privée. Dans le domaine sociétal, les restrictions sont justifiées par la préservation des normes morales traditionnelles et de la stabilité sociale. La troisième mauvaise réponse décrit le schéma socialiste, qui est l'opposé.
+reviewed: false

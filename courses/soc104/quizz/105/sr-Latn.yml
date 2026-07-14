@@ -1,9 +1,9 @@
-question: Prema libertarijanskoj filozofiji, osnovna razlika između državnog novca i tržišnog novca u pogledu njihovog nastanka i karakteristika leži u načinu njihovog stvaranja i kontrole. Državni novac se stvara i reguliše od strane centralizovane vlasti ili države, često putem zakonskih propisa i monopola na izdavanje valute. Nasuprot tome, tržišni novac nastaje spontano kroz dobrovoljne interakcije i dogovore među pojedincima na tržištu, bez centralizovane kontrole, i često se zasniva na robama ili uslugama koje imaju intrinzičnu vrednost ili su široko prihvaćene kao sredstvo razmene.
-answer: Državni novac je prinudan i centralizovan sa lakim stvaranjem što dovodi do gubitka vrednosti, dok tržišni novac nastaje dobrovoljno i održava dugoročnu vrednost.
+question: "Zašto kurs opisuje Bitcoin kao tržišnu valutu suprotstavljenu državnom novcu, a ne kao desničarski ili levičarski projekat?"
+answer: "Zato što je Bitcoin dobrovoljno usvojena, teško proizvediva, decentralizovana valuta koja zadržava vrednost, nasuprot prinudnom, centralizovanom fiat novcu koji gubi vrednost, čineći podelu pitanjem tržišta naspram države, a ne političke ideologije"
 wrong_answers:
-  - Državni novac je demokratski kontrolisan i stabilan, dok je tržišni novac manipulisan od strane privatnih interesa i veoma nestabilan.
-  - Državni novac služi javnom blagostanju kroz mehanizme redistribucije, dok tržišni novac koristi samo bogatim investitorima i ranim usvajačima.
-  - Državni novac pruža ekonomsku sigurnost kroz podršku vlade, dok tržišni novac stvara nesigurnost zbog nedostatka institucionalne podrške.
-explanation: |
-  Tekst jasno razlikuje državne (fiat) novce kao prisilni, centralizovani sistem koji je lako stvoriti i koji ima tendenciju gubitka vrednosti, naspram tržišnog novca (poput zlata istorijski i Bitcoin trenutno) koji nastaje dobrovoljno, spontano i čuva vrednost dugoročno. 
-  Ovo odražava širi libertarijanski princip koji favorizuje dobrovoljne, decentralizovane sisteme nad nametnutim, centralizovanim. Pogrešni odgovori odražavaju uobičajene zablude o prednostima državne kontrole naspram tržišnih mehanizama.
+  - "Zato što je Bitcoin stvorio anonimni programer koji je namerno izbegavao da daje bilo kakve političke izjave o njegovoj nameni ili filozofiji"
+  - "Zato što Bitcoin-ov rudarski algoritam obezbeđuje jednaku raspodelu novih novčića svim političkim partijama, sprečavajući bilo kakvu ideološku pristrasnost u monetarnom sistemu"
+  - "Zato što Bitcoin funkcioniše identično postojećim fiat valutama, ali radi na bržoj platnoj mreži, čineći političke razlike irelevantnim"
+explanation: >-
+  Bitcoin je opisan kao mirna pobuna protiv politizacije novca. Državni ili fiat novac je prinudni, centralizovani sistem koji ima tendenciju da gubi vrednost. Tržišni novac, istorijski predstavljen zlatom, a trenutno Bitcoin-om, jeste zdrava, teško proizvediva valuta koja nastaje dobrovoljno i zadržava svoju vrednost dugoročno. Stvarna suprotnost nije levo naspram desno, već tržište naspram države, čineći Bitcoin političkim raskidom koji nadilazi tradicionalne ideološke tabore.
+reviewed: false

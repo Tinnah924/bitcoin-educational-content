@@ -1,9 +1,9 @@
-question: De acordo com a análise de Hannah Arendt, qual é o principal objetivo dos sistemas educativos totalitários?
-answer: Destruir a capacidade das pessoas de formarem convicções independentes em vez de lhes incutir crenças específicas
+question: "Qual é a distinção central de Hannah Arendt entre o despotismo clássico e o totalitarismo?"
+answer: "O totalitarismo não apenas submete as pessoas a regras tirânicas, mas torna os seres humanos incapazes de ação independente, negando a própria política"
 wrong_answers:
-  - Doutrinar os cidadãos com os princípios e valores ideológicos fundamentais do regime
-  - Criar uma força de trabalho altamente qualificada capaz de fazer avançar os objectivos económicos do Estado
-  - Promover a unidade nacional, ensinando os cidadãos a dar prioridade aos interesses colectivos sobre os desejos individuais
-explanation: |
-  Hannah Arendt argumentou que o objetivo da educação totalitária nunca foi incutir convicções, mas sim destruir a faculdade de formar convicções independentes.
-  Este facto distingue os sistemas totalitários dos meros regimes autoritários que se limitam a impor a sua ideologia. Ao eliminarem a capacidade das pessoas para pensarem de forma independente, os regimes totalitários tornam os cidadãos incapazes de agir autonomamente, o que Arendt via como a negação da própria política.
+  - "O despotismo clássico controla a economia enquanto o totalitarismo controla apenas as instituições políticas e militares"
+  - "O totalitarismo é simplesmente uma versão mais extrema do despotismo, diferindo apenas na escala da repressão"
+  - "O despotismo clássico usa ideologia para justificar seu governo enquanto o totalitarismo depende puramente da força militar"
+explanation: >-
+  Arendt argumenta que o totalitarismo é fundamentalmente diferente do despotismo clássico. Ele não é simplesmente uma tirania mais extrema, mas um sistema que torna os seres humanos supérfluos, destruindo sua capacidade de ação independente. Para Arendt, política é a capacidade de um povo tomar seu destino em suas próprias mãos, e o totalitarismo é a própria negação dessa capacidade, o que o torna qualitativamente diferente do despotismo.
+reviewed: false

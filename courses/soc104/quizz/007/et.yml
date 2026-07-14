@@ -1,10 +1,9 @@
-question: Millised on Nolani diagrammi kohaselt kaks telge, mida kasutatakse poliitiliste ideoloogiate kujutamiseks?
-answer: Majandusvabadus ja isikuvabadus
+question: "Kus paiknevad rohelised Nolani diagrammil ja miks?"
+answer: "Diagrammil väga madalal, sest nad leiavad, et üksikisiku huvi ei tohi olla ülimuslik planeedi kollektiivse huvi ees"
 wrong_answers:
-  - Vasakpoolne poliitika ja parempoolne poliitika
-  - Sotsialism ja kapitalism
-  - Demokraatia ja autoritaarsus
-explanation: |
-  Nolani diagramm kasutab kahte mõõdet: majanduslikku vabadust ja isiklikku vabadust, mis loob nüansirikkama poliitilise spektri kui traditsiooniline vasak-parem telg.
-  Selline kahe mõõtmega lähenemine võimaldab paremini positsioneerida erinevaid ideoloogiaid, nagu liberaalsus (kõrge majanduslik ja isiklik vabadus), sotsialism
-  (madal majanduslik, kõrge isiklik vabadus) ja konservatiivsus (kõrge majanduslik, madal isiklik vabadus). Nolan peab traditsioonilist vasak-parempoolset telge ebapiisavaks, sest see ei suuda kajastada poliitiliste seisukohtade keerukust, eriti seda, kuhu klassikaline liberalism poliitilisel maastikul paigutub.
+  - "Diagrammi tipus, sest nad seavad isikliku vabaduse ja keskkonnateadlikkuse võrdselt esikohale"
+  - "Diagrammi keskel, sest nad tasakaalustavad majanduskasvu keskkonnakaitsega"
+  - "Äärmisel paremal, sest nad toetavad turupõhiseid lahendusi keskkonnaprobleemidele"
+explanation: >-
+  Rohelised paiknevad Nolani diagrammil väga madalal, sest nad eelistavad planeedi heaolu nimel tugevat riiklikku kontrolli nii majanduslike kui ka isiklike otsuste üle. Nad on asendanud marksistliku klassivõitluse võitlusega inimese ja looduse vahel ning kalduvad kaitsma majanduslikku kontrolli ja isegi eraomandi kaotamist. See paigutab nad autoritaarsesse sektorisse, mitte tippu ega keskmesse.
+reviewed: false

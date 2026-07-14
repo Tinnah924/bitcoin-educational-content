@@ -1,9 +1,9 @@
-question: Ni ingingo ngenderwako iyihe y’ishimikiro itandukanya filozofiya ya politike y’ubwigenge n’izindi ngendo ku bijanye n’ugukoresha inguvu?
-answer: Ingingo ngenderwako y’ukudatera, ibuza gutangura gukoresha inguvu ku bandi kiretse mu kwikingira mu buryo bubereye .
+question: "Kubera iki Ron Paul avuga ko Federal Reserve itera ingorane, kandi Bitcoin ifitaniye gute isano n'ico ciyumviro ciwe?"
+answer: "Federal Reserve itera inflation n'imizunguruko y'ubutunzi biciye mu gukoresha nabi amafaranga ya fiat, kandi Bitcoin iserukira ubwoko bw'amafaranga akomeye yoshobora gusubirira gold standard"
 wrong_answers:
-  - Ingingo ngenderwako y’ukwigwanira rusangi, yemerera Leta kwinjira mu vyo kurinda inyungu z’abanyagihugu ku burenganzira bw’umuntu ku giti ciwe .
-  - Ingingo ngenderwako y’inguvu zihuye, yemerera Leta guhatira abantu iyo bifasha abantu benshi
-  - Ingingo ngenderwako y’uburenganzira bwa demokarasi, ishobora gutuma umuntu akoresha inguvu iyo yemejwe n’amajwi menshi mu nzego za demokarasi
-explanation: |
-  Ingingo ngenderwako y’ukudatera ni ryo buye ry’imfuruka ry’ubuhinga bwo kwidegemvya, rivuga ko ata n’umwe afise uburenganzira bwo gutanguza canke gutera ubwoba uwundi muntu canke itunga ryiwe. 
-  Iryo hame rituma ubuhendanyi, ubusuma be n’uguhatira umuntu gukora ibintu biteye isoni mu vy’inyifato runtu, inguvu zikaba zibereye gusa mu kwikingira. Abaharanira umwidegemvyo banse guha Leta uruhusha rudasanzwe rwo gukora ibikorwa vyobonwa ko ari ubusambanyi iyo bikozwe n’abantu ku giti cabo, bagashimika ko umuntu wese akurikiza ingingo ngenderwako imwe ata n’umwe asigaye.
+  - "Federal Reserve igabanya uguhiganwa kw'amabanki, kandi Bitcoin ikura serivisi z'amabanki mu kigo kimwe kugira ngo yongere ugushikira serivisi z'imari"
+  - "Federal Reserve ibuza ubudandaji bwigenga hagati y'ibihugu, kandi Bitcoin ishoboza ama transactions atagira imbibe ata ruhusha rwa Leta"
+  - "Federal Reserve irema umwenda wa Leta urenze urugero, kandi Bitcoin itanga amafaranga agabanya igiciro uko igihe kigenda, akuraho umwenda w'igihugu"
+explanation: >-
+  Ron Paul, minarchist, avuga ko Federal Reserve ari yo ibazwa inflation n'imizunguruko y'ubutunzi kuko ikoresha nabi amafaranga ya fiat. Arashigikira gukura amafaranga mu maboko ya Leta, iciyumviro cashigikiwe na Friedrich Hayek, kandi abona Bitcoin nk'ubwoko bw'amafaranga akomeye yoshobora gusubirira gold standard. Ukunegura kwiwe gushingiye ku nyigisho ya libertarian y'amafaranga, si cane cane ku guhiganwa kw'amabanki, inzitizi z'ubudandaji, canke umwenda wa Leta.
+reviewed: false

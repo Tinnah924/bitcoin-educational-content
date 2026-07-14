@@ -1,10 +1,9 @@
-question: Hvilke to akser brukes til å representere politiske ideologier, ifølge Nolan-diagrammet?
-answer: Økonomisk frihet og personlig frihet
+question: "Hvilken indre spenning finnes blant libertarianere i Nolan-diagrammet?"
+answer: "Noen ønsker å avskaffe staten helt (anarkokapitalister), mens andre foretrekker en minimal stat som beholder kjernefunksjoner for suverenitet (minarkister)"
 wrong_answers:
-  - Venstrepolitikk og høyrepolitikk
-  - Sosialisme og kapitalisme
-  - Demokrati og autoritarisme
-explanation: |
-  Nolan Chart bruker to dimensjoner: økonomisk frihet og personlig frihet, noe som skaper et mer nyansert politisk spekter enn den tradisjonelle venstre-høyre-aksen.
-  Denne todimensjonale tilnærmingen gjør det mulig å plassere ulike ideologier som libertarianisme (høy økonomisk og personlig frihet), sosialisme (lav økonomisk frihet, høy personlig frihet) og konservatisme (høy økonomisk frihet, lav personlig frihet) bedre
-  (lav økonomisk, høy personlig frihet) og konservatisme (høy økonomisk, lav personlig frihet). Den tradisjonelle venstre-høyre-aksen anses av Nolan som utilstrekkelig fordi den ikke klarer å fange opp kompleksiteten i politiske posisjoner, og særlig ikke hvor klassisk liberalisme passer inn i det politiske landskapet.
+  - "Noen ønsker sterk økonomisk regulering, mens andre foretrekker fullstendig deregulering av alle industrier"
+  - "Noen støtter demokratiske valg, mens andre foretrekker et arvelig styresystem"
+  - "Noen går inn for progressive sosialpolitiske tiltak, mens andre forsvarer strengt tradisjonelle moralske verdier"
+explanation: >-
+  Innenfor den libertarianske familien finnes det en grunnleggende uenighet om statens rolle. Anarkokapitalister ønsker å erstatte alle statlige funksjoner med private tjenester, mens minarkister aksepterer en minimal stat som beholder kjernefunksjoner for suverenitet som forsvar og domstoler. Begge grupper deler det libertarianske toppunktet, men er uenige om hvorvidt noen stat i det hele tatt bør eksistere.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Que ideologia política apoiaria mais provavelmente a privatização total das instituições matrimoniais, eliminando todo o envolvimento do governo no reconhecimento do casamento?
-answer: Os libertários, que defendem a separação do casamento do Estado e deixam que sejam as associações privadas a tratar do reconhecimento do casamento
+question: "Qual é a posição conservadora sobre imigração?"
+answer: "O Estado tem o direito soberano de controlar suas fronteiras para proteger a segurança nacional e a identidade cultural"
 wrong_answers:
-  - Os socialistas, que querem alargar o casamento reconhecido pelo Estado para incluir todas as orientações sexuais, em nome da justiça social
-  - Os conservadores, que querem que o Estado preserve as definições tradicionais de casamento para proteger as instituições civilizacionais
-  - Centristas, que apoiam o reconhecimento pelo Estado de diversas formas de casamento, mantendo a coesão social
-explanation: |
-  Os libertários propõem exclusivamente a privatização total do casamento, argumentando que o Estado não deve forçar o reconhecimento de qualquer tipo de casamento. Defendem que sejam as igrejas, sinagogas, mesquitas ou organizações seculares a tratar do casamento, chamando a isto "separação do casamento e do Estado". Os socialistas querem um reconhecimento estatal alargado da igualdade, os conservadores querem a proteção estatal do casamento tradicional e os centristas apoiam um reconhecimento estatal inclusivo que reflicta a diversidade social.
+  - "As fronteiras devem ser abertas incondicionalmente porque restrições discriminatórias violam os direitos humanos"
+  - "A imigração deve ser determinada pela demanda de mercado, com os cidadãos decidindo contratualmente sobre suas relações com estrangeiros"
+  - "A política de imigração deve equilibrar necessidades econômicas com integração bem-sucedida com base na avaliação de especialistas"
+explanation: >-
+  Conservadores sustentam que ordem, identidade e soberania nacional devem ter prioridade sobre o acolhimento irrestrito de estrangeiros ou refugiados. Fronteiras e uma população bem definida fazem parte dos valores civilizados. As respostas erradas representam a posição socialista (fronteiras abertas como direitos humanos), a posição libertária (imigração baseada no mercado) e a posição centrista (abordagem equilibrada guiada por especialistas).
+reviewed: false

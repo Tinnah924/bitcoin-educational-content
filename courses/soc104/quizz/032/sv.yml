@@ -1,9 +1,9 @@
-question: Vilken är den grundläggande skillnaden mellan libertarianer och libertaires när det gäller samhällets och ekonomins organisation?
-answer: Libertarianer försvarar privat egendom och fria marknader medan libertaire motsätter sig kapitalism och främjar kollektivt ägande
+question: "Hur ser libertarianer på förhållandet mellan privat egendom och frihet?"
+answer: "Privat egendom är en naturlig rätt som föregår lagen och staten, och är själva grunden för frihet"
 wrong_answers:
-  - Libertarianer stöder statligt ingripande i ekonomin medan libertaires förespråkar fullständig ekonomisk avreglering
-  - Libertarianer förespråkar våldsam revolution mot staten medan libertaires strävar efter fredlig samexistens med regeringen
-  - Libertarianer förkastar alla former av individuell egendom medan libertaires starkt försvarar den personliga äganderätten
-explanation: |
-  Den centrala skillnaden ligger i deras motsatta syn på egendom och ekonomiska system. Libertarianer anser att privat egendom är avgörande för
-  individuell frihet och stöder marknadskapitalism, medan libertaires (anarkister) ser privat egendom som stöld och kapitalism som förtryckande, och istället föredrar kollektivt ägande, kooperativ och alternativa ekonomiska modeller som mutualism eller libertariansk kommunism. Denna grundläggande oenighet om äganderätten präglar alla andra aspekter av deras respektive filosofier.
+  - "Privat egendom är en social konvention skapad av staten som kan upphävas när den orsakar ojämlikhet"
+  - "Privat egendom är användbar för ekonomisk effektivitet men har ingen inneboende moralisk eller filosofisk betydelse"
+  - "Privat egendom bör endast finnas för personliga ägodelar, inte för produktiva tillgångar eller mark"
+explanation: >-
+  Libertarianer försvarar privat egendom som en naturlig rätt som föregår lagen och staten. De hävdar att om en individ äger sin egen kropp, äger individen också sitt arbete och frukterna av det. Ägandet av materiella varor är en förlängning av självägande. Detta står i skarp kontrast till den libertära synen att egendom är en social konvention eller en källa till förtryck.
+reviewed: false

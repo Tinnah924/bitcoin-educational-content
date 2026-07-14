@@ -1,9 +1,9 @@
-question: Co představuje umístění na pravé straně ekonomické osy (směrem ke 100)?
-answer: Preference ekonomické svobody s menšími zásahy státu, nižšími daněmi a volným trhem
+question: "Co zahrnuje kategorie osobní svobody?"
+answer: "To, co děláte ve svých soukromých vztazích, se svými názory, přesvědčeními a se vším, co se týká vašeho vlastního těla a mysli"
 wrong_answers:
-  - Preference silných státních zásahů s vysokými daněmi a rozsáhlými veřejnými službami
-  - Zaměření na osobní svobody, jako je svoboda projevu a individuální volba životního stylu
-  - Důraz na tradiční hodnoty, bezpečnost a udržování veřejného pořádku prostřednictvím autority
-explanation: |
-  Pravá strana ekonomické osy představuje preferenci ekonomické svobody, která se vyznačuje menšími zásahy státu do ekonomiky a menším počtem regulací,
-  nižší daně a větší svoboda pro podniky a jednotlivce při výrobě, směně a spotřebě. Tato pozice zdůrazňuje volný trh, soukromé vlastnictví a konkurenci jako hnací sílu prosperity. Ostatní možnosti popisují levou stranu ekonomické osy (silné státní zásahy) nebo vertikální osu, která se zabývá spíše osobními/společenskými svobodami než hospodářskou politikou.
+  - "To, co děláte jako výrobce, včetně založení podniku, najímání zaměstnanců a obchodování se zbožím"
+  - "Kolik platíte na daních, jaké investice provádíte a jak spravujete svá finanční aktiva"
+  - "Vaši schopnost soutěžit na trhu, stanovovat ceny svých produktů a vybírat si dodavatele"
+explanation: >-
+  Osobní svoboda zahrnuje to, co děláte ve svých soukromých vztazích, se svými názory a přesvědčeními a se vším, co se týká vašeho vlastního těla a mysli. Patří sem manželství, výběr četby, náboženské praktiky, volby ohledně potravin a léků a to, s kým se stýkáte. Podnikatelské aktivity, daně a rozhodnutí na trhu spadají pod ekonomickou svobodu.
+reviewed: false

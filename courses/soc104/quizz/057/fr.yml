@@ -1,8 +1,9 @@
-question: According to John Rawls' concept of overlapping consensus, what allows citizens with different comprehensive doctrines to agree on political principles?
-answer: They can endorse shared principles of justice from their own respective philosophical or religious perspectives
+question: "Vers quelle forme de gouvernance le centrisme tend-il ?"
+answer: "La technocratie, où le pouvoir est confié à des experts qui orientent l'économie et la politique monétaire"
 wrong_answers:
-  - They must abandon their personal beliefs and adopt a unified secular worldview for political decisions
-  - They rely on technocratic expertise to determine which comprehensive doctrine is most rational and effective
-  - They alternate between different comprehensive doctrines depending on the specific political issue being addressed
-explanation: |
-  Rawls' overlapping consensus demonstrates that citizens don't need to abandon their diverse religious, philosophical, or moral beliefs to agree on political justice. Instead, people can support the same political principles for different reasons rooted in their own comprehensive doctrines. This concept embodies centrist philosophy by showing how fundamental disagreements can coexist with political cooperation, without requiring citizens to compromise their deepest convictions or defer to technical expertise.
+  - "La démocratie directe, où les citoyens votent sur chaque grande décision politique"
+  - "L'aristocratie, où le pouvoir est détenu par une classe dirigeante traditionnelle"
+  - "La gouvernance de laissez-faire, où le marché se régule lui-même sans intervention de l'État"
+explanation: >-
+  Le centrisme privilégie l'efficacité, le pragmatisme et tend vers la technocratie, ce qui signifie que le pouvoir devrait être confié à des experts qui orientent l'économie et pilotent la politique monétaire. Cela est fondamentalement différent de la démocratie directe, de l'aristocratie ou du laissez-faire, chacune de ces formes distribuant le pouvoir selon des principes entièrement différents.
+reviewed: false

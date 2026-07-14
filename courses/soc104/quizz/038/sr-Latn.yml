@@ -1,8 +1,9 @@
-question: Prema perspektivi Miltona Friedmana, glavni problem sa ocenjivanjem socijalnih politika na osnovu njihovih deklarisanih ciljeva, umesto stvarnih ishoda, jeste taj što se time može prevideti stvarna efikasnost i posledice tih politika. Fokusiranje samo na ciljeve može dovesti do zanemarivanja stvarnih rezultata i potencijalnih negativnih efekata koje politika može imati, bez obzira na to koliko su njeni ciljevi plemeniti.
-answer: Dobronamerne politike često stvaraju perverzne efekte poput ekonomske zavisnosti i tržišnih distorzija koje su u suprotnosti sa njihovim originalnim ciljevima.
+question: "Koje je upozorenje Milton Friedman dao o procenjivanju javnih politika?"
+answer: "Politike treba prosuđivati prema njihovim rezultatima, a ne prema njihovim namerama"
 wrong_answers:
-  - Političari namerno pogrešno predstavljaju svoje prave namere kako bi pridobili podršku javnosti za politike za koje znaju da će propasti.
-  - Dobre namere automatski vode do pozitivnih rezultata, ali merenje ishoda je previše teško i oduzima mnogo vremena za donosioce politika.
-  - Strukturne definicije su inherentno pristrasne prema konzervativnim gledištima, dok namerne definicije promovišu progresivne vrednosti.
-explanation: |
-  Friedman tvrdi da politike motivisane velikodušnim namerama mogu imati nenamerne negativne posledice kada nisu zasnovane na rigoroznoj analizi ljudskog ponašanja i podsticaja. Tekst posebno pominje kako socijalne politike usmerene na pomoć siromašnima često stvaraju ekonomsku zavisnost i tržišne distorzije. Druge opcije pogrešno predstavljaju Friedmanov argument - on ne tvrdi da su političari namerno obmanjujući, niti da dobre namere automatski funkcionišu, niti da se radi o političkoj pristrasnosti.
+  - "Politike treba prosuđivati prema moralnom karakteru političara koji ih predlažu"
+  - "Politike treba prosuđivati prema tome koliko su popularne kod opšte biračke javnosti"
+  - "Politike treba prosuđivati prema tome da li se usklađuju s izvornim ustavom zemlje"
+explanation: >-
+  Friedman je napisao da je jedna od najvećih grešaka prosuđivati politike prema njihovim namerama, a ne prema njihovim rezultatima, primećujući da programi označeni kao namenjeni siromašnima gotovo uvek proizvode efekte suprotne onome što su njihovi pokrovitelji nameravali. To odjekuje Bastiatovim učenjem da dobar ekonomista razmatra i kratkoročne i dugoročne efekte na celo stanovništvo.
+reviewed: false

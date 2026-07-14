@@ -1,9 +1,9 @@
-question: Milline on minarhistlike ja anarhokapitalistlike libertaarlaste põhimõtteline erinevus riigi rolli osas?
-answer: Minarhistid toetavad minimaalset riiki, mis piirdub politsei, õigusemõistmise ja kaitsega, samas kui anarhokapitalistid tahavad, et kõik riigi funktsioonid erastataks ja et neid juhiks turg
+question: "Miks hakkasid klassikalised liberaalid Ameerika Ühendriikides kahekümnendal sajandil end nimetama „libertaarideks”?"
+answer: "Sest kasvav riiklik interventsionism ja heaoluriik olid Ameerika „liberalismi” üle võtnud"
 wrong_answers:
-  - Minarhistid lükkavad tagasi kõik valitsemisvormid, samas kui anarhokapitalistid aktsepteerivad valitsuse piiratud sekkumist ainult majandusküsimustes
-  - Minarhistid toetavad vaba turgu koos mõningase reguleerimisega, samas kui anarhokapitalistid pooldavad täielikku riigikontrolli oluliste teenuste üle
-  - Minarhistid usuvad riigi tugevasse sekkumisse sotsiaalsetes küsimustes, samas kui anarhokapitalistid keskenduvad ainult majanduslikule vabadusele ilma sotsiaalsete vabadusteta
-explanation: |
-  Nii minarhistlikud kui ka anarhokapitalistlikud libertaarid jagavad individuaalse suveräänsuse aluspõhimõtet, kuid erinevad rakendamise osas. Minarhistid aktsepteerivad
-  minimaalse "öövalvuri" riigi, mis täidab ainult põhifunktsioone nagu politsei, õigusemõistmine ja territoriaalkaitse. Anarhokapitalistid lähevad veelgi kaugemale, uskudes, et isegi need traditsioonilised riigi funktsioonid tuleks erastada ja turumehhanismide kaudu hallata. Teistes valikutes esitatakse neid seisukohti vääralt, väites ekslikult, et minarhistid lükkavad valitsuse täielikult tagasi või et kumbki rühmitus toetab ulatuslikku riiklikku sekkumist.
+  - "Sest nad tahtsid end distantseerida Euroopa monarhistlikest traditsioonidest"
+  - "Sest termin „liberaal” seostus anarhismi ja poliitilise vägivallaga"
+  - "Sest uued kaubanduslepingud nõudsid vabaturu pooldajatele eraldi poliitilist identiteeti"
+explanation: >-
+  Kahekümnendal sajandil toimus põhjalik nihe, kui laissez-faire-põhimõtetest loobuti järk-järgult heaoluriigi kasuks. Ameerika „liberalism” hakkas tähendama midagi väga erinevat klassikalisest liberalismist, võttes omaks riikliku interventsionismi. Klassikalised liberaalid võtsid eristuse säilitamiseks kasutusele termini „libertaar”. Sellel ümberbrändimisel polnud mingit seost Euroopa monarhismi, anarhistliku vägivalla ega kaubanduslepingutega.
+reviewed: false

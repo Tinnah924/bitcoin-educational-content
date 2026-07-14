@@ -1,9 +1,9 @@
-question: De acordo com a análise de Hayek, que abordagem fundamental distingue a ideologia socialista da filosofia económica liberal?
-answer: Construtivismo - a crença de que o Estado deve construir e moldar ativamente a sociedade de acordo com um planeamento racional
+question: "Que distinção Karl Marx fez entre socialismo utópico e socialismo científico?"
+answer: "Ele acusou os primeiros socialistas franceses de propor soluções imaginárias, enquanto seu socialismo científico estava fundamentado no materialismo histórico e na luta de classes"
 wrong_answers:
-  - Ordem espontânea - a crença de que a sociedade deve desenvolver-se naturalmente através das interações individuais no mercado
-  - Coletivismo - a crença de que toda a propriedade privada deve ser imediatamente abolida através de meios revolucionários
-  - Redistributivismo - a crença de que a riqueza deve ser transferida apenas através de organizações de caridade voluntárias
-explanation: |
-  Hayek identificou o construtivismo como o princípio socialista central, em que o Estado projecta e constrói ativamente a sociedade através do planeamento e da intervenção,
-  contrastando com o conceito liberal de ordem espontânea, em que a sociedade se desenvolve naturalmente através das acções individuais. Esta abordagem construtivista reflecte a fé socialista na engenharia social baseada na razão e na direção estatal da atividade humana, por oposição a permitir que as forças de mercado e as escolhas individuais moldem organicamente os resultados sociais.
+  - "Ele argumentou que o socialismo utópico se concentrava demais na economia, enquanto o socialismo científico priorizava a transformação cultural e artística"
+  - "Ele elogiou os socialistas utópicos por seus experimentos práticos e criticou o socialismo científico por ser abstrato e teórico demais"
+  - "Ele afirmou que o socialismo utópico era violento e revolucionário, enquanto o socialismo científico favorecia a reforma democrática pacífica"
+explanation: >-
+  Marx acusou os primeiros socialistas franceses, como Proudhon, Saint-Simon e Fourier, de serem utópicos que propunham soluções puramente imaginárias. Seu socialismo científico se apoiava no materialismo histórico: a ideia de que a história progride por meio da luta de classes e da apropriação dos meios de produção, em que todas as representações culturais são condicionadas pelas forças produtivas e pelas relações de produção.
+reviewed: false

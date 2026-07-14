@@ -1,10 +1,9 @@
-question: Theo lý thuyết về kiến thức phân tán của Hayek, tại sao các nền kinh tế kế hoạch hóa tập trung lại gặp khó khăn trong việc định giá so với các nền kinh tế thị trường tự do?
-answer: Các nhà hoạch định trung ương không thể tiếp cận được kiến thức chủ quan, mang tính địa phương về chi phí, lợi ích và sở thích cá nhân mà chỉ những người tham gia thị trường mới có được.
+question: "Ba chức năng thiết yếu của thị trường tự do, như những người libertarian mô tả, cùng nhau cấu thành một hệ thống tổ chức xã hội vừa hiệu quả vừa có đạo đức như thế nào?"
+answer: "Giá cả cung cấp một la bàn cho các quyết định, thị trường bộc lộ các ưu tiên đích thực thông qua cung và cầu, và trao đổi tự do cho phép các cá nhân tự quyết định công việc của mình theo các giá trị cá nhân, kết hợp hiệu quả thông tin với tự chủ đạo đức"
 wrong_answers:
-  - Các nhà hoạch định trung ương thiếu năng lực tính toán và thuật toán tiên tiến cần thiết để xử lý tất cả dữ liệu kinh tế hiện có.
-  - Các nhà hoạch định trung ương vốn dĩ tham nhũng và ấn định giá cả để có lợi cho bản thân chứ không phải cho xã hội, trái ngược với những người tham gia thị trường vốn vị tha.
-  - Các nhà hoạch định trung ương quá chú trọng vào sự ổn định kinh tế dài hạn mà bỏ qua việc ứng phó với những biến động cung cầu tức thời.
-explanation: |
-  Quan điểm then chốt của Hayek là tri thức chỉ tồn tại dưới dạng "những mảnh vụn phân tán của tri thức không đầy đủ và thường mâu thuẫn, được nắm giữ bởi tất cả các cá nhân riêng biệt". Tri thức này mang tính chủ quan và cục bộ - chỉ có cá nhân mới biết chi phí, lợi ích và sở thích của riêng mình. Thị trường tự do thông qua trao đổi tự nguyện và đàm phán giá cả cho phép tri thức phân tán này xuất hiện và điều phối hoạt động kinh tế.
-  
-  Các nhà hoạch định trung ương, bất kể ý định hay khả năng của họ, không thể tiếp cận được thông tin chủ quan, phân tán này tồn tại trong tâm trí của hàng triệu cá nhân, khiến việc thiết lập giá cả hiệu quả trở nên bất khả thi.
+  - "Thị trường tối đa hóa tổng của cải, ngăn chặn độc quyền thông qua cạnh tranh tự nhiên, và bảo đảm phân phối tài nguyên bình đẳng, kết hợp năng suất với công bằng xã hội"
+  - "Thị trường tự do giảm chi tiêu chính phủ, kích thích đổi mới công nghệ, và tạo ra cơ hội việc làm, kết hợp trách nhiệm tài khóa với tăng trưởng kinh tế"
+  - "Thị trường hạ giá tiêu dùng, tăng chất lượng sản phẩm thông qua cạnh tranh, và mở rộng thương mại quốc tế, kết hợp thịnh vượng trong nước với hợp tác toàn cầu"
+explanation: >-
+  Lập luận libertarian cho thị trường tự do dựa trên ba chức năng liên kết với nhau. Thứ nhất, giá cả đóng vai trò như các chỉ báo đáng tin cậy hướng dẫn các quyết định kinh tế và xã hội (la bàn). Thứ hai, thị trường bộc lộ các ưu tiên cá nhân đích thực thông qua cung và cầu. Thứ ba, trao đổi tự do cho phép các tác nhân tự quyết định công việc của mình theo các giá trị cá nhân. Hayek cho thấy rằng thị trường tự do phối hợp thông tin phân tán tốt hơn kế hoạch hóa trung ương (hiệu quả), trong khi sự đồng thuận lẫn nhau tôn trọng phẩm giá con người hơn cưỡng chế (công lý).
+reviewed: false

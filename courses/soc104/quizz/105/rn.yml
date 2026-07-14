@@ -1,9 +1,9 @@
-question: Dushingiye kuri filozofiya y’abanyagihugu, ni itandukaniro irihe ry’ishimikiro riri hagati y’amahera ya Leta n’ay’isoko mu bijanye n’ukuntu avuka n’ibiranga?
-answer: Amahera ya Leta ni ay’uguhatira kandi ashizwe hamwe n’irema ryoroshe rituma umuntu atakaza agaciro, mu gihe amahera y’isoko asohoka ku bushake kandi akaguma afise agaciro k’igihe kirekire .
+question: "Uravye iciyumviro cose c'iri somo, Bitcoin yerekana gute icarimwe ukunegura constructivism kw'abaharanira umwidegemvyo, ukwiyemeza gukora kw'aba cypherpunk, n'ukuburanira umuntu ku bwigenge bwo mu mico runtu?"
+answer: "Bitcoin isubiriza amahera ategekanijwe n'ubutegetsi bwo hagati n'urutonde rw'isoko rwizana (anti-constructivism), igahindura iciyumviro kitagaragara c'umwidegemvyo w'ivy'imari kikaba code ikora (igikorwa ca cypherpunk), kandi igasubiza umuntu itunga ryigenga n'ubuzima bwite (ubwigenge bwo mu mico runtu)"
 wrong_answers:
-  - Amahera ya Leta agenzurwa na demokarasi kandi ahagaze neza, mu gihe amahera y’isoko akoreshwa n’inyungu z’abantu ku giti cabo kandi agahinduka cane .
-  - Amahera ya Leta afasha abantu bose biciye mu buryo bwo kuyasangira, mu gihe amahera y’isoko afasha gusa abashoramari batunze n’abayafata mbere y’igihe .
-  - Amahera ya Leta atanga umutekano mu vy’ubutunzi biciye mu gushigikirwa na Leta, mu gihe amahera y’isoko atera ukudakeka kubera ukubura infashanyo y’inzego .
-explanation: |
-  Ico canditswe gitandukanya neza amahera ya Leta (fiat) nk’uburyo bwo guhatira, bushizwe hamwe bworoshe kurema kandi bukunda gutakaza agaciro, n’amahera y’isoko (nk’inzahabu mu mateka na Bitcoin ubu) asohoka ku bushake, yihuta, kandi akazigama agaciro igihe kirekire. 
-  Ivyo vyerekana ingingo ngenderwako yagutse y’ubwigenge ishigikira uburyo bwo ku bushake, bushizwe ahantu hamwe, kuruta ubutegetsi, bushizwe ahantu hamwe. Inyishu zitari zo zirerekana ivyiyumviro bitari vyo abantu benshi bafise ku bijanye n’ivyiza vyo kugenzura Leta n’uburyo bwo gucungera isoko.
+  - "Bitcoin ikoresha ubutegetsi bwa demokarasi mu gushinga politike y'amahera (anti-constructivism), igasohora inyigisho ku mwidegemvyo w'ivy'imari (igikorwa ca cypherpunk), kandi ikareka abantu bagatora ku mpinduka za protocol (ubwigenge bwo mu mico runtu)"
+  - "Bitcoin ikuraho amategeko yose agenga ivy'imari (anti-constructivism), igahingura umuryango w'abahinguzi ba porogarama basaba ko amategeko yoroshwa (igikorwa ca cypherpunk), kandi igaha abatunzi ububasha burushirije ku politike y'amahera (ubwigenge bwo mu mico runtu)"
+  - "Bitcoin ikwiragiza inyubakwa za servers mu bihugu vyinshi (anti-constructivism), igakoresha uruhusha rwa open-source kugira ngo isangize ubuhinga ku buntu (igikorwa ca cypherpunk), kandi igatanga imbuga ngurukanabumenyi zidakenera kumenyekanisha abantu ku batavuga rumwe na politike (ubwigenge bwo mu mico runtu)"
+explanation: >-
+  Bitcoin iri aho imigenzo itatu y'ivyiyumviro yizwe muri iri somo ihurira. Yerekana iciyumviro ca anti-constructivism mu gusubiriza amahera ya Fiat ategekanijwe n'ubutegetsi bwo hagati n'urutonde rw'amahera rwizana, rutagizwe n'ikigo kimwe, ata muteguranyi wo hagati ashobora kugenzura. Irashitsa itegeko rya cypherpunk ryo kwandika code mu guhindura ivyiyumviro bitaboneka vy'umwidegemvyo w'ivy'imari n'ubuzima bwite bikaba ubuhinga bukora. Kandi iburanira umuntu ku bwigenge bwo mu mico runtu mu gutuma haba itunga ryigenga, gukingira ivyamwa vy'igikorwa, no kuzigama ubuzima bwite, igatuma umuntu wese aba shebuja w'ubuzima bwiwe.
+reviewed: false

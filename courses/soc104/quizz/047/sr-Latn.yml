@@ -1,8 +1,9 @@
-question: Šta razlikuje ekonomsku filozofiju konzervativaca od njihovog pristupa društvenim pitanjima?
-answer: Podržavaju snažne ekonomske slobode, ali favorizuju intervenciju vlade kako bi se sproveli tradicionalne društvene i moralne norme.
+question: "Kako konzervativizam tretira slobode u ekonomskoj i društvenoj sferi?"
+answer: "Snažne slobode u ekonomskoj sferi, ali slabe slobode u društvenoj sferi"
 wrong_answers:
-  - Zalažu se za minimalnu intervenciju vlade u ekonomskoj i društvenoj sferi podjednako.
-  - Oni podržavaju opsežnu državnu regulaciju u ekonomiji dok promovišu potpunu socijalnu libertarijanizam.
-  - Oni favorizuju snažnu državnu kontrolu nad ekonomskim tržištima i individualnim društvenim ponašanjima.
-explanation: |
-  Konzervativci pokazuju karakterističan dvostruki pristup: zalažu se za ekonomsku slobodu kroz niske poreze, minimalnu regulaciju poslovanja i slobodno preduzetništvo, dok istovremeno podržavaju intervenciju vlade u društvenim pitanjima kako bi očuvali tradicionalne vrednosti, red i moralne standarde. Ovo stvara očiglednu kontradikciju gde žele ograničenje vlade u ekonomiji, ali aktivno sprovođenje društvenih normi. Druge opcije pogrešno predstavljaju ovu osnovnu konzervativnu tenziju - ne teže minimalnoj intervenciji svuda, niti žele opsežnu ekonomsku regulaciju ili potpunu društvenu kontrolu.
+  - "Slabe slobode i u ekonomskoj i u društvenoj sferi radi održavanja tradicionalnog društvenog poretka"
+  - "Snažne slobode u društvenoj sferi, ali slabe slobode u ekonomskoj sferi"
+  - "Jednake i neograničene slobode u obe sfere uz minimalno mešanje države bilo koje vrste"
+explanation: >-
+  Konzervativizam pokazuje dihotomiju koja je ogledalska slika socijalizma. U ekonomskoj oblasti konzervativci brane slobodno tržište, preduzetništvo i privatnu svojinu. U društvenoj oblasti ograničenja se opravdavaju očuvanjem tradicionalnih moralnih normi i društvene stabilnosti. Treći pogrešan odgovor opisuje socijalistički obrazac, koji je suprotan.
+reviewed: false

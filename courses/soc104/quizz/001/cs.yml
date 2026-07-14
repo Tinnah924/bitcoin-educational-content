@@ -1,10 +1,9 @@
-question: Proč je podle textu obtížné zařadit Bitcoin na tradiční pravolevou politickou osu?
-answer: Protože Bitcoin překonává tradiční rozdíly a přitahuje příznivce z různých politických prostředí
+question: "Odkud pochází politické dělení na levici a pravici?"
+answer: "Ze zasedacího pořádku během debat Francouzské revoluce v roce 1789"
 wrong_answers:
-  - Protože Bitcoin podporují výhradně pravicové osobnosti, které se hlásí k ekonomickému liberalismu.
-  - Protože Bitcoin prosazuje především levice, a to kvůli jejímu potenciálu pro finanční začlenění.
-  - Protože Bitcoin je neutrální technologie bez politického rozměru.
-explanation: |
-  Text vysvětluje, že Bitcoin je obtížné zařadit na pravolevou osu, protože tato decentralizovaná technologie přitahuje příznivce z různých politických stran
-  včetně pravice, levice, anarchistů a dokonce i apolitických jedinců. Na rozdíl od jiných možností se Bitcoin neomezuje na jeden politický tábor,
-  ale překračuje tradiční rozdělení, takže pravolevá dichotomie není pro její správné zařazení vhodná.
+  - "Ze spisů Karla Marxe a Adama Smitha v devatenáctém století"
+  - "Z americké občanské války mezi severními a jižními státy"
+  - "Od osvícenských filozofů, kteří oddělili rozum od tradice"
+explanation: >-
+  Dělení na levici a pravici sahá do roku 1789, kdy poslanci ve francouzském Národním shromáždění, kteří podporovali zachování královy moci, seděli napravo od předsedy, zatímco ti, kteří chtěli jeho pravomoci omezit, seděli nalevo. Nevzniklo od Marxe a Smitha, z americké občanské války ani z osvícenské filozofie.
+reviewed: false

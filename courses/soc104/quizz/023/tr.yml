@@ -1,9 +1,9 @@
-question: Aynı zamanda özgürlükçü olan kültürel bir muhafazakarı, geleneksel değerlerin uygulanması konusunda siyasi bir muhafazakardan ayıran nedir?
-answer: İkna ve örnek olma yoluyla geleneksel değerleri teşvik ederler ancak bunları başkalarına empoze etmek için yasal zorlama kullanılmasına karşı çıkarlar
+question: "Cato Institute, Mises Institute ve Libertarian Party'nin liberteryen hareket içindeki rolleri nasıl farklılaşır?"
+answer: "Cato Institute kamu politikası önerilerine, Mises Institute eğitim ve akademik yayıncılığa, Libertarian Party ise seçim siyasetine odaklanır"
 wrong_answers:
-  - Bireyler için ekonomik özgürlüğü korurken geleneksel değerleri korumak için devlet müdahalesini destekliyorlar
-  - Geleneksel değerlerin federal yasalar yerine yerel yasalar aracılığıyla uygulanması gerektiğine inanıyorlar
-  - Hükümeti diğer alanlarda sınırlandırırken geleneksel değerleri koruyacak anayasa değişikliklerini savunuyorlar
-explanation: |
-  Temel ayrım, kültürel muhafazakar liberterlerin kişisel ahlaki inançlarını devlet gücüne ilişkin siyasi felsefelerinden ayırmalarıdır.
-  Aile, din ve erdem gibi geleneksel değerlere güçlü bir şekilde inanıyor olsalar da, bu değerleri başkalarına empoze etmek için hukukun zorlayıcı gücünü kullanmayı reddederler. Bunun yerine, değerlerini eğitim, ikna ve kişisel örneklik gibi gönüllü yollarla teşvik ederler. Bu durum, geleneksel sosyal düzenlemeleri uygulamak için genellikle devlet gücünü kullanmayı destekleyen siyasi muhafazakarlarla tezat oluşturmaktadır. Özgürlükçü saldırmazlık ilkesi, belirli davranışları ahlaki olarak onaylamazken, bu seçimler başkalarına zarar vermediği sürece başkalarının farklı seçim yapma hakkına saygı duyabilecekleri anlamına gelir.
+  - "Cato Institute siyasi kampanyaları finanse eder, Mises Institute doğrudan Kongre'ye lobi yapar ve Libertarian Party akademik konferanslar düzenler"
+  - "Cato Institute ekonomi ders kitapları yayımlar, Mises Institute seçmen kayıt kampanyaları yürütür ve Libertarian Party yasa tasarıları hazırlar"
+  - "Cato Institute taban protestoları düzenler, Mises Institute liberteryenlere hukuki savunma sağlar ve Libertarian Party düşünce kuruluşu araştırmalarını yönetir"
+explanation: >-
+  Cato Institute (1977'de kuruldu), Washington merkezli, kamu politikası önerileri üzerinde çalışan bir düşünce kuruluşudur. Mises Institute (1982'de kuruldu), siyasi lobi faaliyetlerinden ziyade eğitime odaklanır; konferansları ve yeniden yayımlanan eserleriyle bir tür çevrimiçi üniversite gibi işlev görür. Libertarian Party (1971'de kuruldu), seçimlere katılan üçüncü en büyük Amerikan siyasi partisidir; yaklaşık %2'lik oy payı bile sonuçları değiştirebilir.
+reviewed: false

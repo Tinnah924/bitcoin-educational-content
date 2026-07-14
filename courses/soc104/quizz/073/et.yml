@@ -1,9 +1,9 @@
-question: Mis on libertaarne filosoofia kohaselt peamine põhjendus, miks ollakse vastu nii tulumaksule kui ka miinimumpalga seadustele?
-answer: Mõlemad kujutavad endast üksikisiku vabaduse ja eraõiguslike isikute vaheliste vabatahtlike lepinguliste kokkulepete rikkumist valitsuse poolt
+question: "Kuidas erinevad konservatiivsed ja libertaarsed seisukohad miinimumpalga suhtes oma põhjendustes, hoolimata sellest, et mõlemad pooldavad selle kaotamist?"
+answer: "Konservatiivid aktsepteerivad mõningast riigi sekkumist palgakujundusse, kui see ei takista konkurentsivõimet, samal ajal kui libertaarid näevad miinimumpalka moraalse pealesurumisena töölevõtmise ja äritegevuse vabadusele"
 wrong_answers:
-  - Mõlemad tekitavad majanduslikku ebaefektiivsust, mis kahjustab eelkõige suurettevõtteid ja jõukaid investoreid
-  - Mõlemad on näited poliitikavaldkondadest, mida peaksid haldama pigem kohalikud omavalitsused kui föderaalasutused
-  - Mõlemad esindavad vananenud majandusteooriaid, mis on kaasaegsete majandusuuringute käigus osutunud ebatõhusaks
-explanation: |
-  Libertaarid on järjekindlalt vastu nii tulumaksule kui ka miinimumpalga seadustele, tuginedes oma põhiprintsiibile, et valitsuse sekkumine rikub individuaalset vabadust ja vabaturu mehhanisme.
-  Nad peavad tulumaksu "varguseks", mis rikub omandiõigust, ja miinimumpalga seadusi kunstlikuks turumoonutuseks, mis rikub tööandjate ja töötajate vabadust pidada vabatahtlikult läbirääkimisi lepingute üle. See filosoofiline järjepidevus eristab libertaarseid seisukohti teistest poliitilistest perekondadest, kes võivad toetada üht poliitikat, kuid olla teise vastu pigem pragmaatilistel kui põhimõttelistel põhjustel.
+  - "Konservatiivid on miinimumpalga vastu, sest see tekitab inflatsiooni, samal ajal kui libertaarid on selle vastu, sest see annab ametiühingutele liiga palju võimu"
+  - "Konservatiivid tahavad, et palgad määraksid religioossed ja kogukondlikud institutsioonid, samal ajal kui libertaarid tahavad, et palgad määrataks valitsuse heakskiidetud turu-uuringute põhjal"
+  - "Konservatiivid usuvad, et miinimumpalgad peaksid piirkonniti varieeruma, samal ajal kui libertaarid usuvad, et riiklikult peaks kehtima üks ühtne palk"
+explanation: >-
+  Mõlemad pooldavad miinimumpalga vähendamist või kaotamist, kuid nende põhjendused erinevad põhimõtteliselt. Konservatiivid aktsepteerivad mõningast riigi sekkumist palgakujundusse, rõhutades samas, et see jääks minimaalseks ja kontekstist sõltuvaks, keskendudes konkurentsivõimele. Libertaarid võtavad tugevama moraalse seisukoha: miinimumpalk on pealesurumine töölevõtmise ja äritegevuse vabadusele. Kui libertaarid ütlevad „turg“, mõtlevad nad lepingut, mis on kahe poole vahel vabalt läbi räägitud ilma riigi sekkumiseta.
+reviewed: false

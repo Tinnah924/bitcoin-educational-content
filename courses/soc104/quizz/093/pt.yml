@@ -1,9 +1,9 @@
-question: De acordo com a filosofia de Satoshi Nakamoto, que problema fundamental das moedas convencionais pretende o Bitcoin resolver?
-answer: A confiança excessiva exigida em instituições centralizadas que historicamente violam essa confiança através da desvalorização da moeda
+question: "Quais são os três pilares do Estado de bem-estar social que o Bitcoin desafia?"
+answer: "O sistema fiscal, o monopólio monetário para financiar gastos por meio de dívida e a vigilância das transações para impedir o uso de moedas alternativas"
 wrong_answers:
-  - A ineficácia técnica dos sistemas de pagamento tradicionais que processam as transacções de forma demasiado lenta para o comércio global
-  - O impacto ambiental da produção de moeda física e a pegada de carbono das infra-estruturas bancárias
-  - As limitações geográficas das moedas nacionais que impedem o comércio internacional sem descontinuidades
-explanation: |
-  O Satoshi afirmava explicitamente que "o problema de raiz da moeda convencional é toda a confiança que é necessária para a fazer funcionar" e observava que "a história das moedas fiduciárias está cheia de quebras dessa confiança"
-  O Bitcoin foi concebido como um sistema sem confiança para eliminar a dependência dos bancos centrais que, historicamente, têm debilitado as moedas. As outras opções, embora sejam preocupações potencialmente válidas, não foram a motivação filosófica fundamental por detrás da criação do Bitcoin, tal como articulada pelo seu criador.
+  - "O orçamento militar, o sistema de educação pública e a infraestrutura de saúde controlada pelo governo"
+  - "O sistema judicial, o processo legislativo e a execução regulatória do poder executivo sobre as empresas"
+  - "O sistema de seguridade social, a legislação de salário mínimo e a estrutura progressiva do imposto de renda"
+explanation: >-
+  O Bitcoin desafia os três pilares sobre os quais repousa o Estado de bem-estar social. Primeiro, o sistema fiscal, que é insuficiente para cobrir as despesas. Segundo, o monopólio monetário, ou seja, a capacidade de emitir dinheiro para financiar gastos por meio de dívida. Terceiro, a vigilância das transações, a capacidade de impedir que as pessoas usem qualquer moeda que não seja a fiat imposta pelo Estado. O Bitcoin enfraquece os três simultaneamente.
+reviewed: false

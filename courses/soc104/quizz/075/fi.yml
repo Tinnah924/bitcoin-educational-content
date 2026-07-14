@@ -1,9 +1,9 @@
-question: Mikä poliittinen perhe todennäköisesti kannattaisi yhdistettyä terveydenhuoltojärjestelmää, jossa valtio tarjoaisi yleisen perusturvan ja yksityinen sektori voisi osallistua lisäpalveluihin?
-answer: Keskustalaiset, jotka kannattavat tasapainoista lähestymistapaa, jossa yhdistyvät valtion takaama yleinen saatavuus sekä yksityisen sektorin innovaatiot ja valinnanmahdollisuudet
+question: "Mikä on ratkaiseva ero konservatiivien ja libertaarien kantojen välillä tuliaseiden sääntelyä koskevassa kysymyksessä?"
+answer: "Molemmat hyväksyvät jonkinasteisen sääntelyn, mutta konservatiivit haluavat sääntöjen tulevan legitiimiltä julkiselta auktoriteetilta, kun taas libertaarit haluavat niiden syntyvän suoraan asianomaisten tahojen, kuten kansalaisyhdistysten ja markkinakilpailun, kautta"
 wrong_answers:
-  - Sosialistit, jotka kannattavat täysin valtion valvomaa yleistä terveydenhuoltoa tuloista riippumattomana perusoikeutena
-  - Libertaristit, joiden mielestä terveydenhuolto pitäisi yksityistää kokonaan markkinapalveluna, jossa on yksilöllinen valinta ja vastuu
-  - Konservatiivit, jotka suosivat ensisijaisesti yksityisiä markkinoita, joihin valtio puuttuu mahdollisimman vähän ja vain kaikkein heikoimmassa asemassa olevien kansalaisten osalta
-explanation: |
-  Keskustalaiset kannattavat nimenomaisesti sekajärjestelmiä, joissa yhdistyvät sekä julkisen että yksityisen lähestymistavan parhaat puolet. He kannattavat valtion takaamaa yleistä saatavuutta (solidaarisuuden ja perustason kattavuuden varmistaminen) ja sallivat samalla yksityisen sektorin osallistumisen monipuolistamiseen ja innovointiin.
-  Tämä on vastakohta sosialisteille, jotka haluavat täysin julkisia järjestelmiä, libertaareille, jotka haluavat täysin yksityisiä markkinoita, ja konservatiiveille, jotka pitävät ensisijaisesti yksityisiä järjestelmiä, joissa valtion rooli on minimaalinen.
+  - "Konservatiivit vastustavat kaikkea tuliaseiden sääntelyä, kun taas libertaarit hyväksyvät tiukan valtiollisen kontrollin yleisen turvallisuuden vuoksi"
+  - "Konservatiivit haluavat kieltää tuliaseet kokonaan, kun taas libertaarit tukevat rajoittamatonta pääsyä kaikkiin aseisiin"
+  - "Konservatiivit perustavat kantansa yksilön oikeuksiin, kun taas libertaarit perustavat omansa kollektiiviseen vastuuseen"
+explanation: >-
+  Sekä konservatiivit että libertaarit ovat yhtä mieltä siitä, että jonkinlainen sääntely aseiden kantamiselle on välttämätöntä. Ratkaiseva ero on siinä, kuka nämä säännöt asettaa. Konservatiivit vaativat, että sääntelyn on tultava julkiselta auktoriteetilta, jonka tehtävänä on turvata yhteinen hyvä (ylhäältä alas). Libertaarit väittävät, että sääntelyn tulisi syntyä suoraan asianomaisten tahojen piiristä: turvallisuusalan ammattilaisilta, kansalaisyhdistyksiltä ja markkinakilpailusta (alhaalta ylös).
+reviewed: false

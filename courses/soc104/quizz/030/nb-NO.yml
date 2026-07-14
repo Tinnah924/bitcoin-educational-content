@@ -1,9 +1,9 @@
-question: Hvorfor tok tilhengere av klassisk liberalisme i USA i bruk begrepet "libertarian" fra 1960-tallet?
-answer: For å skille seg fra amerikanske liberale som hadde omfavnet statlig inngripen og storpolitikk
+question: "Hva er begrepet 'spontan orden' slik Friedrich Hayek beskriver det?"
+answer: "Sosiale regler og normer bør vokse frem fra frie individuelle interaksjoner snarere enn bli påtvunget gjennom autoritær planlegging"
 wrong_answers:
-  - Å slutte seg til datidens europeiske progressive bevegelser og sosialdemokratiske politikk
-  - For bedre å gjenspeile deres støtte til New Deal-programmene og Great Society-velferdsinitiativene
-  - For å understreke deres engasjement for statlig omfordeling av rikdom og offentlige helsesystemer
-explanation: |
-  Klassiske liberale i USA tok i bruk "libertarian" fordi begrepet "liberal" var blitt kooptert av progressive som støttet omfattende statlig inngripen,
-  i strid med de klassiske liberale prinsippene om laissez-faire-økonomi og begrenset statlig styring. Amerikanske "liberalere" ble assosiert med New Deal og Great Society-programmene, som representerte det motsatte av hva klassisk liberalisme historisk sett sto for. De andre alternativene antyder feilaktig at libertarianere støttet en stor statlig politikk, selv om de faktisk var motstandere av slike intervensjonistiske tilnærminger.
+  - "Markeder tenderer naturlig mot monopol med mindre staten griper inn for å opprettholde konkurransebalanse"
+  - "Demokratiske valg er den eneste legitime mekanismen for å etablere lovene som styrer samfunnet"
+  - "Økonomiske kriser oppstår spontant og krever umiddelbar statlig inngripen for å gjenopprette stabilitet"
+explanation: >-
+  Hayeks begrep spontan orden hevder at reglene som styrer samfunnet, ikke bør påtvinges ovenfra gjennom sentral planlegging, men bør vokse frem fra det frie spillet mellom individuelle viljer, kontrakter og frivillige relasjoner. Dette er en grunnleggende akse i libertariansk tenkning. Det innebærer ikke at markeder tenderer mot monopol eller at kriser krever statlig inngripen.
+reviewed: false

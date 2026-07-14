@@ -1,8 +1,9 @@
-question: According to the Austrian economist Ludwig von Mises' perspective on methodological individualism, what is the fundamental limitation of attributing actions to collective entities?
-answer: Only individuals possess the capacity to think, reason, and act, making collective entities mere abstractions without independent existence or reality
+question: "Pourquoi Popper soutient-il que la société ouverte demeure intrinsèquement fragile malgré ses avantages ?"
+answer: "Parce que la responsabilité qu'implique l'individualisme peut sembler effrayante, créant une tentation de chercher refuge dans la protection communautaire, l'autorité ou la nostalgie d'un passé idéalisé"
 wrong_answers:
-  - Collective entities can think and act but their decisions are always inferior to individual choices due to democratic inefficiencies
-  - Collective entities possess emergent properties that transcend individual capabilities but lack the moral authority to override personal autonomy
-  - Collective entities can make rational decisions through aggregated wisdom but should be limited by constitutional constraints protecting individual rights
-explanation: |
-  Mises' methodological individualism holds that 'only the individual thinks, only he reasons, only he acts.' This means collectivities have no existence or reality beyond the actions of their individual members. Society has no will or thought of its own - all collective actions must be explained through their individual components. The other options incorrectly assume that collective entities possess some form of independent thinking or decision-making capacity, which contradicts Mises' fundamental premise that only individuals can truly think and act.
+  - "Parce que les sociétés ouvertes manquent de puissance militaire et ne peuvent pas se défendre contre l'invasion par des sociétés closes"
+  - "Parce que les institutions démocratiques sont intrinsèquement inefficaces et finissent par s'effondrer sous le poids de la complexité bureaucratique"
+  - "Parce que les sociétés ouvertes autorisent trop d'inégalités économiques, ce qui conduit inévitablement à la révolution et à l'installation de régimes autoritaires"
+explanation: >-
+  Popper souligne que la fragilité de la société ouverte provient d'une vulnérabilité psychologique. La responsabilité qu'implique l'individualisme peut sembler effrayante et risquée parce qu'il faut faire ses propres choix et que l'on peut échouer. Cela crée une tentation de chercher refuge dans la protection communautaire ou dans des tendances nostalgiques envers un passé idéalisé. La société ouverte fait face à des défis permanents venant des impulsions communautariennes et de la tentation récurrente de la violence.
+reviewed: false

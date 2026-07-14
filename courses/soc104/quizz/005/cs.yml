@@ -1,11 +1,9 @@
-question: Jaký je podle této kapitoly hlavní problém tradičního levo-pravého politického spektra?
-answer: Neponechává místo klasickému liberálnímu myšlení, které se nehodí ani k levicovému rovnostářství, ani k pravicovému nacionalismu
+question: "Jaké jsou dvě osy Nolanova diagramu?"
+answer: "Svislá osa měřící osobní svobody a vodorovná osa měřící ekonomické svobody"
 wrong_answers:
-  - Zjednodušuje politiku tím, že obsahuje pouze dvě krajní pozice bez umírněných nebo středových možností
-  - Nezohledňuje ekonomické rozdíly mezi socialistickými a kapitalistickými ideologiemi v moderních demokraciích
-  - Nerozlišuje správně mezi demokratickými a autoritářskými formami vládních struktur
-explanation: |
-  V kapitole se výslovně uvádí, že osa levice-pravice nemůže vyhovovat klasickému liberálnímu myšlení, které se neshoduje ani s rovnostářstvím, ani s rovnostářstvím
-  levice, ani s nacionalismem pravice. To je ilustrováno na příkladech osobností, jako jsou Thomas Jefferson, Frédéric Bastiat a současní politici
-  libertariáni, kteří se nedají zařadit ani do jedné z těchto kategorií. Ostatní možnosti se sice dotýkají omezení politického spektra, ale nevystihují specifické rysy
-  kritiku, která byla vznesena v této kapitole a která se týká vyloučení klasického liberalismu z tohoto rámce.
+  - "Vodorovná osa od levice k pravici a svislá osa od autoritářství k demokracii"
+  - "Svislá osa měřící bohatství a vodorovná osa měřící úroveň vzdělání"
+  - "Vodorovná osa od socialismu ke kapitalismu a svislá osa od tradice k pokroku"
+explanation: >-
+  David Nolan navrhl svůj diagram se dvěma konkrétními osami: osobními svobodami (svisle) a ekonomickými svobodami (vodorovně). Tento dvourozměrný přístup nahrazuje příliš zjednodušenou čáru levice–pravice a lépe zachycuje komplexnost politických ideologií tím, že odděluje dvě hlavní kategorie svobody.
+reviewed: false

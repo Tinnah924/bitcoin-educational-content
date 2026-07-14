@@ -1,8 +1,9 @@
-question: Selon le contenu, pourquoi le clivage traditionnel droite-gauche est-il inadéquat pour classifier Bitcoin?
-answer: Parce que Bitcoin transcende les clivages traditionnels et attire des partisans de divers horizons politiques
+question: "Quel point commun les partis politiques de gauche et de droite partagent-ils malgré leur opposition apparente ?"
+answer: "Tous deux défendent le droit de l'État à gouverner la vie des gens par les réglementations et les impôts"
 wrong_answers:
-  - Parce que Bitcoin est exclusivement soutenu par des personnalités de droite favorables au libre marché
-  - "Parce que Bitcoin est principalement adopté par la gauche pour l'inclusion financière des populations défavorisées"
-  - "Parce que Bitcoin est une technologie neutre qui n'a aucune dimension politique ou idéologique"
-explanation: |
-  Le texte explique que Bitcoin, en tant que technologie décentralisée, attire des partisans de divers horizons politiques, incluant à la fois des personnalités de droite et de gauche, ainsi que des anarchistes et des individus apolitiques. Cette diversité de soutiens montre que Bitcoin ne peut être enfermé dans une catégorie politique traditionnelle, contrairement aux autres réponses qui suggèrent une adhésion limitée à un seul camp politique ou une neutralité totale.
+  - "Tous deux prônent l'abolition complète de l'intervention de l'État dans les affaires économiques"
+  - "Tous deux donnent la priorité à la liberté individuelle sur l'organisation collective de la société"
+  - "Tous deux rejettent l'usage de la politique monétaire comme outil de dépense publique"
+explanation: >-
+  Bien qu'elles semblent opposées, la gauche et la droite partagent une préférence pour l'intervention de l'État. Toutes deux critiquent le marché libre et défendent le droit de l'État à gouverner la vie des gens par les réglementations et les impôts. La gauche critique les marchés comme source d'inégalités, tandis que la droite les voit comme une menace pour la souveraineté, mais toutes deux se tournent vers l'État pour trouver des solutions.
+reviewed: false

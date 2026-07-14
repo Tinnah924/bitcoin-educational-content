@@ -1,9 +1,9 @@
-question: Menurut Manifesto Cypherpunk Eric Hughes, apa tanggung jawab utama untuk mempertahankan privasi dalam masyarakat elektronik yang terbuka?
-answer: Individu harus secara aktif mempertahankan privasi mereka sendiri daripada bergantung pada pemerintah atau perusahaan untuk menyediakannya
+question: "Siapa yang meluncurkan mailing list Cypherpunk pertama pada tahun 1992?"
+answer: "Tim May dan Eric Hughes, yang menciptakan platform yang menjadi pusat saraf gerakan tersebut"
 wrong_answers:
-  - Pemerintah harus membuat peraturan privasi yang komprehensif untuk melindungi warga negara dari pengawasan perusahaan
-  - Perusahaan harus menerapkan standar privasi sukarela dan mengatur sendiri praktik pengumpulan data mereka
-  - Organisasi internasional harus membuat perjanjian yang mengikat yang mengamanatkan perlindungan privasi di semua negara
-explanation: |
-  Eric Hughes secara eksplisit menyatakan dalam Manifesto Cypherpunk bahwa 'Kita tidak dapat mengharapkan pemerintah, perusahaan, atau organisasi anonim besar lainnya untuk menjamin kerahasiaan kita... Tujuan utama saya untuk Cypherpunks adalah untuk membuat orang-orang mempertahankan kerahasiaan mereka, daripada mengandalkan orang lain untuk menyediakannya
-  Filosofi ini menekankan tanggung jawab individu dan kemandirian melalui alat kriptografi, menolak ketergantungan pada lembaga eksternal untuk perlindungan privasi, itulah sebabnya cypherpunks mengembangkan sistem kriptografi yang terdesentralisasi.
+  - "Satoshi Nakamoto dan Hal Finney, yang kemudian bersama-sama menciptakan Bitcoin pada tahun 2008"
+  - "Julian Assange dan Edward Snowden, yang menggunakan list tersebut untuk mengoordinasikan aktivitas whistleblowing pemerintah"
+  - "Phil Zimmermann dan Bruce Schneier, yang merancang list tersebut sebagai alat untuk mendistribusikan software enkripsi"
+explanation: >-
+  Pada tahun 1992, Tim May dan Eric Hughes meluncurkan mailing list Cypherpunk pertama. Platform ini dengan cepat menjadi pusat saraf gerakan tersebut, mempertemukan developer, cryptographer, dan pendukung kebebasan digital. Di list yang sama inilah Satoshi Nakamoto kemudian membagikan Bitcoin White Paper untuk pertama kalinya pada tahun 2008.
+reviewed: false

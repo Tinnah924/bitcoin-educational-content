@@ -1,9 +1,9 @@
-question: John Rawls'un örtüşen mutabakat kavramına göre, farklı kapsamlı doktrinlere sahip vatandaşların siyasi ilkeler üzerinde anlaşmalarını sağlayan şey nedir?
-answer: Kendi felsefi veya dini perspektiflerinden ortak adalet ilkelerini destekleyebilirler
+question: "İş dünyası yanlısı olmak ile piyasa yanlısı olmak arasındaki önemli ayrım nedir?"
+answer: "İş dünyası yanlısı olmak, büyük işletmeler ile devlet arasındaki bir ittifakı desteklemek anlamına gelirken; piyasa yanlısı olmak, devlet kayırmacılığı olmadan serbest rekabeti desteklemek anlamına gelir"
 wrong_answers:
-  - Kişisel inançlarını terk etmeli ve siyasi kararlar için birleşik bir seküler dünya görüşünü benimsemelidirler
-  - Hangi kapsamlı doktrinin en rasyonel ve etkili olduğunu belirlemek için teknokratik uzmanlığa güvenirler
-  - Ele alınan belirli siyasi meseleye bağlı olarak farklı kapsamlı doktrinler arasında gidip gelirler
-explanation: |
-  Rawls'un örtüşen konsensüsü, vatandaşların siyasi adalet konusunda anlaşmak için farklı dini, felsefi veya ahlaki inançlarını terk etmeleri gerekmediğini göstermektedir.
-  Bunun yerine, insanlar kendi kapsamlı doktrinlerinden kaynaklanan farklı nedenlerle aynı siyasi ilkeleri destekleyebilirler. Bu kavram, vatandaşların en derin inançlarından ödün vermelerini veya teknik uzmanlığa boyun eğmelerini gerektirmeden, temel anlaşmazlıkların siyasi işbirliği ile nasıl bir arada var olabileceğini göstererek merkezci felsefeyi somutlaştırmaktadır.
+  - "İş dünyası yanlısı olmak küçük işletmeleri desteklemek anlamına gelirken, piyasa yanlısı olmak çok uluslu şirketleri desteklemek anlamına gelir"
+  - "İş dünyası yanlısı olmak düzenlemeye tamamen karşı çıkmak anlamına gelirken, piyasa yanlısı olmak ılımlı düzenlemeyi kabul etmek anlamına gelir"
+  - "İş dünyası yanlısı olmak yerli sanayiye odaklanırken, piyasa yanlısı olmak uluslararası ticarete odaklanır"
+explanation: >-
+  Merkezciler iş dünyası yanlısı olma eğilimindedir; bu, büyük işletmeler ile devlet arasında bir tür ittifakı destekledikleri anlamına gelir ve piyasa yanlısı olmaktan farklıdır. Piyasa yanlısı olmak, devlet kayırmacılığı veya kurumsal korumacılık olmadan serbest rekabeti destekler. Bu ayrım kritik önemdedir, çünkü iş dünyası yanlısı politikalar tekeller ve serbest piyasa rekabetini fiilen zayıflatan düzenleyici korumalar yaratabilir.
+reviewed: false

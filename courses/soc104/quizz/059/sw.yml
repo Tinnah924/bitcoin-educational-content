@@ -1,10 +1,9 @@
-question: Kulingana na nadharia ya kiuchumi ya Keynes, jukumu kuu la serikali kuingilia kati katika uchumi ni lipi?
-answer: Kutumia sera za fedha na fedha ili kuleta utulivu katika mizunguko ya kiuchumi kwa kuchochea mahitaji wakati wa mdororo wa uchumi na kuyapunguza wakati wa ongezeko la joto
+question: "Kanuni mbili za John Rawls za haki ni zipi?"
+answer: "Uhuru sawa kwa wote, na kanuni ya tofauti inayoruhusu ukosefu wa usawa tu ikiwa unawanufaisha walio katika hali mbaya zaidi"
 wrong_answers:
-  - Kubadilisha kabisa mifumo ya soko na mipango ya serikali kuu na kuondoa aina zote za biashara binafsi
-  - Kudumisha sera kali za uhuru na kuruhusu masoko kujidhibiti bila kuingiliwa na serikali yoyote.
-  - Kuzingatia sera ya fedha pekee huku ikiepuka uingiliaji kati wa fedha au marekebisho ya matumizi ya umma
-explanation: |
-  Nadharia ya Keynes inatetea uingiliaji kati wa serikali kupitia sera za kifedha (matumizi ya umma, kodi) na sera za fedha (viwango vya riba) ili kudhibiti mizunguko ya kiuchumi.
-  
-  Hii inawakilisha 'njia ya tatu' kati ya ubepari wa uhuru wa kufanya kazi na udhibiti kamili wa serikali, kutafuta usawa kwa kuchochea mahitaji wakati wa kushuka kwa uchumi na kuyadhibiti wakati wa kuongezeka kwa joto la uchumi, ambalo linaendana na mbinu za kivitendo za usimamizi wa uchumi zenye mwelekeo wa kati.
+  - "Haki ya kupiga kura kwa wote kwa raia wote, na ushuru endelevu kufadhili huduma za umma"
+  - "Uhuru wa kujieleza bila kizuizi, na ugawaji upya wa utajiri wa lazima ili kufikia usawa"
+  - "Ulinzi wa haki za mali binafsi, na kanuni ya kutoshambulia ikitumika kwa hatua zote za dola"
+explanation: >-
+  Rawls anapendekeza kanuni mbili: kwanza, uhuru sawa kwa wote (msingi wa demokrasia), na pili, kanuni ya tofauti, inayoruhusu ukosefu wa usawa tu ikiwa unawanufaisha wanajamii walio katika hali mbaya zaidi. Hii ina maana kwamba mtu ana haki ya kutajirika, mradi ugawaji upya unawawezesha pia walio na bahati ndogo zaidi kunufaika. Chaguo nyingine huchanganya vipengele kutoka falsafa tofauti za kisiasa.
+reviewed: false

@@ -1,8 +1,9 @@
-question: De acordo com a análise de Hannah Arendt, o que distingue a educação totalitária da doutrinação autoritária tradicional?
-answer: O seu objetivo é destruir a capacidade de formar quaisquer convicções independentes, em vez de incutir crenças específicas
+question: "Por que os regimes totalitários foram descritos como 'religiões seculares', e o que isso revela sobre as condições necessárias para que o totalitarismo exista?"
+answer: "Eles exigem uma fé quase religiosa dos militantes e usam o medo contra os opositores, e o totalitarismo exige todas as características simultaneamente: liberdades suprimidas, governo de partido único, revolução violenta e uma economia dirigida"
 wrong_answers:
-  - Centra-se na promoção do nacionalismo extremo e da superioridade racial através de campanhas de propaganda sistemáticas
-  - A ênfase é colocada na obediência total à autoridade do Estado, preservando ao mesmo tempo a capacidade de pensamento crítico dos indivíduos
-  - Procura substituir as crenças religiosas por ideologias seculares através de programas intensivos de educação política
-explanation: |
-  A visão crucial de Hannah Arendt revela que a educação totalitária funciona de forma fundamentalmente diferente da doutrinação tradicional. Em vez de simplesmente substituir um conjunto de crenças por outro, os sistemas totalitários destroem sistematicamente a própria capacidade humana de pensamento independente. Isto cria indivíduos incapazes de formar quaisquer convicções autónomas, tornando-os completamente maleáveis ao controlo do Estado. As outras opções representam tácticas autoritárias convencionais, mas não têm em conta a análise mais profunda de Arendt sobre a forma como o totalitarismo nega a própria possibilidade de ação política e de julgamento independente.
+  - "Eles substituem o culto tradicional por cerimônias de Estado, e o totalitarismo exige apenas um líder carismático e controle militar"
+  - "Eles usam instituições religiosas para impor a ideologia do Estado, e o totalitarismo pode surgir sempre que um único partido político domina o parlamento"
+  - "Eles prometem salvação espiritual por meio da ação política, e o totalitarismo existe sempre que o Estado controla a economia, independentemente das liberdades políticas"
+explanation: >-
+  Raymond Aron observou que os regimes totalitários funcionam com base em dois princípios: a fé dos militantes e o medo dos opositores. Esse fanatismo quase religioso os caracteriza para além de suas diferentes motivações, rendendo-lhes o rótulo de religiões seculares. Crucialmente, o totalitarismo exige todas as características definidoras simultaneamente: liberdades suprimidas, autoridade ilimitada por meio de um partido único, revolução violenta e uma economia dirigida. Democracias modernas podem exibir alguns desses traços, mas o totalitarismo está presente apenas quando todos são reunidos.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Worin besteht der grundlegende Unterschied zwischen Libertären und Libertären in Bezug auf Eigentum und wirtschaftliche Organisation?
-answer: Libertäre verteidigen das Privateigentum als unverzichtbar für die individuelle Freiheit, während Libertäre Eigentum als Diebstahl betrachten und kollektive Wirtschaftsmodelle unterstützen
+question: "Warum kritisierte Rothbard die Sicht der Libertaires auf die menschliche Natur, und welche Alternative schlug er vor?"
+answer: "Er warf ihnen eine naive Sicht des 'edlen Wilden' vor und argumentierte, dass die Gesellschaft Privateigentum und gute Anreize nutzen müsse, um eigennütziges Verhalten zu lenken"
 wrong_answers:
-  - Beide Gruppen befürworten das Privateigentum, sind aber unterschiedlicher Meinung, was die Rolle staatlicher Regulierung zu dessen Schutz angeht
-  - Libertäre befürworten Privateigentum mit staatlichem Schutz, während Libertäre Eigentum ohne jeden rechtlichen Rahmen bevorzugen
-  - Beide lehnen das Privateigentum ab, aber die Libertären bevorzugen den Marktsozialismus, die Libertären den Staatssozialismus
-explanation: |
-  Das Kapitel macht deutlich, dass Libertäre das Privateigentum als einzige Möglichkeit zur Sicherung der individuellen Freiheit betrachten, während Libertäre,
-  libertäre, die aus der anarchistisch-sozialistischen Tradition kommen, folgen Proudhons Grundsatz, dass "Eigentum Diebstahl ist". Libertäre unterstützen alternative Wirtschaftsmodelle wie Mutualismus, Kollektivismus oder libertären Kommunismus und lehnen kapitalistische Strukturen grundsätzlich ab. Hierin liegt die zentrale ideologische Kluft zwischen diesen beiden politischen Philosophien, die aufgrund der ähnlichen Terminologie oft verwechselt werden.
+  - "Er lobte ihr Verständnis menschlicher Kooperation, argumentierte aber, dass ein Minimalstaat weiterhin notwendig sei, um Verträge durchzusetzen"
+  - "Er stimmte zu, dass Menschen von Natur aus gut sind, bestand aber darauf, dass nur freie Märkte diese Güte in produktive Tätigkeit lenken könnten"
+  - "Er lehnte ihre Betonung individueller Rechte ab und argumentierte stattdessen, dass Gemeinschaften moralische Standards kollektiv definieren sollten"
+explanation: >-
+  Rothbard kritisierte die Libertaires dafür, eine naive, Rousseau-ähnliche Sicht der menschlichen Natur als von Natur aus gut zu übernehmen. Stattdessen argumentierte er, dass Menschen von Eigeninteresse geleitet werden und dass die Gesellschaft so organisiert sein muss, dass gute Anreize das Verhalten lenken. Dies erfordert die Anerkennung und Garantie von Privateigentum. Den Staat abzuschaffen bedeutet nicht, seine Funktionen abzuschaffen; Polizei und Justiz sollten durch Wettbewerb vom freien Markt verwaltet werden.
+reviewed: false

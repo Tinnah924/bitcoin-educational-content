@@ -1,10 +1,9 @@
-question: Vilka är de två axlar som används för att representera politiska ideologier enligt Nolan-diagrammet?
-answer: Ekonomisk frihet och personlig frihet
+question: "I Nolan-diamanten, vilken position ligger högst upp och representerar maximal frihet?"
+answer: "Libertarianism, som stödjer största möjliga ekonomiska och personliga frihet"
 wrong_answers:
-  - Politik på vänster- och högerkanten
-  - Socialism och kapitalism
-  - Demokrati och auktoritärt styre
-explanation: |
-  Nolan Chart använder två dimensioner: ekonomisk frihet och personlig frihet, vilket skapar ett mer nyanserat politiskt spektrum än den traditionella vänster-höger-axeln.
-  Detta tvådimensionella tillvägagångssätt möjliggör bättre positionering av olika ideologier som libertarianism (hög ekonomisk och personlig frihet), socialism
-  (låg ekonomisk frihet, hög personlig frihet) och konservatism (hög ekonomisk frihet, låg personlig frihet). Den traditionella vänster-höger-axeln anses av Nolan vara otillräcklig eftersom den inte lyckas fånga komplexiteten i de politiska ståndpunkterna, särskilt när det gäller hur den klassiska liberalismen passar in i det politiska landskapet.
+  - "Konservatism, som stödjer traditionella värden och ekonomisk frihet"
+  - "Centrism, som balanserar alla politiska positioner på ett pragmatiskt sätt"
+  - "Socialism, som stödjer personlig frihet och social jämlikhet"
+explanation: >-
+  Libertarianism upptar toppen av Nolan-diamanten som motsatsen till etatism. Den representerar dem som stödjer den största graden av både ekonomisk och personlig frihet. Konservatismen ligger till höger (hög ekonomisk frihet, låg personlig frihet), socialismen till vänster (hög personlig frihet, låg ekonomisk frihet) och centrismen i mitten.
+reviewed: false

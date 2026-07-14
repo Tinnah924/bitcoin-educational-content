@@ -1,8 +1,9 @@
-question: According to the Nolan diagram, what is the key factor that distinguishes political philosophies?
-answer: The degree of governmental control over human action in personal and economic spheres
+question: "Que révèle l'axe vertical du diagramme de Nolan sur la vraie question politique ?"
+answer: "Il révèle si vous voulez imposer vos propres sensibilités aux autres par l'État, ou si vous préférez que chacun soit libre de décider pour lui-même"
 wrong_answers:
-  - The difference between socialist and capitalist economic systems
-  - The distinction between traditional moral values and progressive social views
-  - The level of support for wealth redistribution and social programs
-explanation: |
-  The Nolan diagram's central idea is that the major difference between political philosophies is the degree of governmental control over human action in both personal and economic spheres. This creates a two-dimensional model rather than just a simple left-right axis. The other options represent traditional ways of categorizing politics but miss the key insight that both left and right can be statist - they just want to use government power in different areas. The diagram reveals that the real distinction is between those who want to use force to impose their values (whether left or right) and those who prefer less governmental control overall.
+  - "Il révèle si vous soutenez la gouvernance démocratique ou si vous préférez un pouvoir autoritaire exercé par un seul dirigeant"
+  - "Il révèle si vous vous identifiez aux mouvements sociaux progressistes ou aux institutions religieuses traditionnelles"
+  - "Il révèle si votre préoccupation principale est la sécurité nationale ou la prospérité économique"
+explanation: >-
+  L'axe vertical expose la vraie question politique : non pas si vous êtes de gauche ou de droite, mais dans quelle mesure vous voulez que l'État intervienne pour façonner la société selon vos valeurs. Souhaitez-vous imposer vos sensibilités aux autres, ou préférez-vous que chacun soit libre de décider pour lui-même ? Ce cadrage dépasse le clivage gauche-droite et montre que les deux camps peuvent être également étatistes.
+reviewed: false

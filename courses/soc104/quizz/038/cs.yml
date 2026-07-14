@@ -1,9 +1,9 @@
-question: Jaký je podle Miltona Friedmana hlavní problém posuzování sociálních politik na základě jejich deklarovaných cílů, a nikoli skutečných výsledků?
-answer: Dobře míněné politiky často vytvářejí zvrácené účinky, jako je ekonomická závislost a narušení trhu, které jsou v rozporu s jejich původními cíli
+question: "Proč jsou intencionální definice politických systémů považovány za problematické pro analytické účely?"
+answer: "Vytvářejí pojmový zmatek, protože všechny systémy tvrdí, že sledují podobné cíle, jako jsou spravedlnost, rovnost a svoboda"
 wrong_answers:
-  - Politici záměrně zkreslují své skutečné záměry, aby získali podporu veřejnosti pro politiku, o které vědí, že selže
-  - Dobré úmysly automaticky vedou k pozitivním výsledkům, ale měření výsledků je pro tvůrce politik příliš obtížné a časově náročné
-  - Strukturální definice jsou ze své podstaty zaujaté vůči konzervativním názorům, zatímco záměrné definice podporují progresivní hodnoty
-explanation: |
-  Friedman tvrdí, že politiky motivované velkorysými záměry mohou mít nezamýšlené negativní důsledky, pokud nejsou založeny na důkladné analýze lidských potřeb
-  chování a pobídek. V textu se konkrétně zmiňuje o tom, jak sociální politiky zaměřené na pomoc chudým často vytvářejí ekonomickou závislost a narušení trhu. Ostatní možnosti Friedmanův argument zkreslují - netvrdí, že politici záměrně klamou, ani že dobré úmysly automaticky fungují, ani že jde o politickou zaujatost.
+  - "Jsou příliš přesné a rigidní, takže neponechávají žádný prostor pro přirozený vývoj politických hnutí v čase"
+  - "Příliš silně se zaměřují na ekonomické výsledky a ignorují kulturní a společenské rozměry politického života"
+  - "Opírají se o utajované vládní dokumenty, které jsou nezávislým výzkumníkům zřídka dostupné"
+explanation: >-
+  Intencionální definice se opírají o deklarované motivace a cíle, ale každý politický systém tvrdí, že usiluje o spravedlnost, rovnost a svobodu. Tím se systémy stávají navzájem nerozlišitelnými. Strukturální analýza naproti tomu hodnotí systémy podle jejich empirických, měřitelných důsledků a prostředků, které používají, čímž odhaluje jejich skutečnou povahu za rétorikou.
+reviewed: false

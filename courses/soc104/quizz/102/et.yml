@@ -1,9 +1,9 @@
-question: Milline on libertaarne filosoofia kohaselt peamine kriteerium, mille alusel määratakse kindlaks, kas ühiskondlik korraldussüsteem on seaduslik?
-answer: Kas see tuleneb pigem vabatahtlikust suhtlusest ja individuaalsest nõusolekust kui pealesunnitud sunnist
+question: "Kuidas väidab kursus, et vabadus võimaldab nii vasakpoolsetel kui ka parempoolsetel väärtustel rahumeelselt koos eksisteerida?"
+answer: "Tõelise vabaduse režiimis saavad vasakpoolsete ideaalidega inimesed vabatahtlikult jagada omandit ja ümber jaotada vahendeid, samal ajal kui parempoolsete väärtustega inimesed saavad säästa ja traditsioone edasi anda, ilma et kumbki pool suruks oma eluviisi teisele peale"
 wrong_answers:
-  - Kas see maksimeerib majanduslikku tõhusust ja vähendab kõigi osalejate tehingukulusid
-  - Kas see esindab enamuse demokraatlikku tahet, kaitstes samal ajal vähemuste õigusi
-  - Kas see tasakaalustab individuaalseid vabadusi kollektiivsete sotsiaalsete kohustuste ja kohustustega?
-explanation: |
-  Tekstis rõhutatakse, et põhiline poliitiline lõhe on vabaduse ja sunni, vabatahtliku nõusoleku ja sundimise vahel.
-  Libertaarid usuvad, et ühiskondlik korraldus peaks tekkima spontaanselt vabatahtlikust suhtlusest, mitte olema teadlikult planeeritud ja poliitiliste võimude poolt peale surutud. See põhimõte vabatahtlikust tekkimisest versus sunniviisilisest kehtestamisest eristab libertaarne filosoofia traditsioonilisest vasak-parempoolsest poliitikast, mis kõik eeldavad teatud määral riigi sekkumist ja kontrolli individuaalsete valikute üle.
+  - "Vabadus nõuab, et mõlemad pooled teeksid kompromissi, aktsepteerides tsentristlikku positsiooni, kus valitsus tasakaalustab konkureerivaid väärtusi mõõduka regulatsiooni kaudu"
+  - "Vabadus tähendab, et vasakpoolsed ja parempoolsed kogukonnad peavad elama eraldi geograafilistel territooriumidel oma sõltumatute valitsustega"
+  - "Vabadus toimib nii, et lubab kodanikel hääletada, milliseid väärtusi igas piirkonnas jõustada, vaheldudes igas valimistsüklis vasakpoolsete ja parempoolsete poliitikate vahel"
+explanation: >-
+  Kursus näitab, et tõelise vabaduse režiimis saavad vasakpoolsete ideaalide järgijad vabatahtlikult omandist loobuda, tootmisvahendeid jagada või annetada palku ümberjaotavatele organisatsioonidele. Parempoolsete väärtustega inimesed saavad kõvasti töötada, säästa ja perekondlikke väärtusi edasi anda. Keegi ei tohiks oma eluviisi teistele peale suruda. Eesmärke saab rahumeelselt saavutada turu vabaduse ja valiku jõu kaudu.
+reviewed: false

@@ -1,11 +1,9 @@
-question: Hvilke fem seksjoner er identifisert i det politiske diagrammet i Nolan Chart?
-answer: Statisme (nederst), sosialisme (til venstre), konservatisme (til høyre), libertarianisme (øverst) og sentrisme (i midten)
+question: "I Nolan-diamanten, hvilken posisjon sitter øverst og representerer maksimal frihet?"
+answer: "Libertarianisme, som støtter størst økonomisk og personlig frihet"
 wrong_answers:
-  - Autoritarisme (nederst), liberalisme (til venstre), nasjonalisme (til høyre), anarkisme (øverst) og populisme (i midten)
-  - Totalitarisme (nederst), progressivisme (til venstre), tradisjonalisme (til høyre), kapitalisme (øverst) og moderatisme (i midten)
-  - Fascisme (nederst), kommunisme (til venstre), republikanisme (til høyre), demokrati (øverst) og pragmatisme (i midten)
-explanation: |
-  Nolan-diagrammet deler det politiske spekteret inn i fem forskjellige seksjoner basert på økonomisk og personlig frihet. Statisme representerer
-  maksimal statlig kontroll nederst, mens libertarianisme øverst representerer maksimal frihet i begge dimensjoner. Sosialisme (til venstre) støtter personlig frihet
-  frihet, men motarbeider økonomisk frihet, mens konservatisme (til høyre) støtter økonomisk frihet, men begrenser den personlige friheten. Sentrumsbevegelsen befinner seg i midten,
-  og blander elementer fra begge frihetene med noe regulering.
+  - "Konservatisme, som støtter tradisjonelle verdier og økonomisk frihet"
+  - "Sentrisme, som balanserer alle politiske posisjoner på en pragmatisk måte"
+  - "Sosialisme, som støtter personlig frihet og sosial likhet"
+explanation: >-
+  Libertarianisme inntar toppen av Nolan-diamanten som motsetningen til statisme. Den representerer dem som støtter størst grad av både økonomisk og personlig frihet. Konservatisme sitter til høyre (høy økonomisk, lav personlig frihet), sosialisme til venstre (høy personlig, lav økonomisk frihet), og sentrisme i midten.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Prema filozofiji Satoshi Nakamota, koji je osnovni problem konvencionalnih valuta koji je Bitcoin dizajniran da reši?
-answer: Prekomerno poverenje potrebno u centralizovanim institucijama koje su istorijski narušavale to poverenje kroz devalvaciju valute
+question: "Zašto se monetarna inflacija opisuje kao skriveni porez nametnut bez pristanka građana?"
+answer: "Zato što državno stvaranje novca obezvređuje valutu, pa ljudi mogu da kupe manje istim iznosom, ali većina ne shvata da rast cena odražava državnu politiku, a ne prirodne tržišne sile"
 wrong_answers:
-  - Nedostatak digitalne infrastrukture i spore brzine obrade transakcija u tradicionalnim bankarskim sistemima
-  - Visoke naknade za transakcije i ograničena dostupnost međunarodnih novčanih transfera putem banaka
-  - Ekološki uticaj i potrošnja energije tradicionalnih bankarskih i sistema za obradu plaćanja
-explanation: |
-  Satoshi Nakamoto je eksplicitno naveo da je 'osnovni problem sa konvencionalnom valutom sav taj nivo poverenja koji je potreban da bi funkcionisala' i da se centralnim bankama mora verovati da neće obezvrediti valutu, ali 'istorija fiat valuta je puna kršenja tog poverenja'.
-  Ovaj citat otkriva osnovnu svrhu Bitcoin: eliminisanje potrebe za poverenjem u centralizovane institucije. Druge opcije, iako potencijalno validne zabrinutosti u vezi sa tradicionalnim finansijama, ne bave se fundamentalnim filozofskim problemom koji je Satoshi identifikovao - da fiat sistemi zahtevaju slepu veru u institucije koje su se više puta pokazale kao nepouzdane kroz monetarnu manipulaciju i obezvređivanje.
+  - "Zato što centralne banke tajno naplaćuju naknade na svaku transakciju obrađenu kroz bankarski sistem, a da ih ne otkrivaju vlasnicima računa"
+  - "Zato što vlade štampaju novac i distribuiraju ga samo bogatim pojedincima, dok siromašne oporezuju višim porezima na promet osnovnih dobara"
+  - "Zato što inflaciju izazivaju privatne korporacije podizanjem cena radi povećanja profita, što funkcioniše kao nezvanični porez na potrošače"
+explanation: >-
+  Ubrizgavanje novca u sistem prevodi se u obezvređivanje valute, gde isti iznos kupuje manje zato što novi novac ne odražava stvaran ekonomski rast. Većina ljudi ne vidi da je državna politika dovela do rasta cena, koje su jednostavno odraz obezvređivanja valute. To predstavlja legalnu krađu i institucionalizovanu pljačku, osiromašujući srednju klasu dok bogati hvataju novi novac kroz spekulativnu imovinu.
+reviewed: false

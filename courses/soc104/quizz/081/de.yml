@@ -1,9 +1,9 @@
-question: Warum gelingt es nach Hayeks Theorie des verteilten Wissens in zentralen Planwirtschaften nicht, die Ressourcen im Vergleich zu freien Marktsystemen effizient zu verteilen?
-answer: Zentrale Planer können nicht auf das fragmentierte, lokalisierte Wissen zugreifen, das die Menschen über ihre spezifischen Bedürfnisse, Präferenzen und Umstände besitzen, was eine effiziente Ressourcenzuweisung unmöglich macht.
+question: "Was ist Konstruktivismus als gemeinsame politische Überzeugung?"
+answer: "Der Glaube, dass eine Zentralregierung kraft Gesetzes eine soziale Ordnung schaffen kann, die für die größte Zahl gut ist"
 wrong_answers:
-  - Den zentralen Planern fehlen die Rechenleistung und die fortschrittlichen Algorithmen, die erforderlich sind, um alle Wirtschaftsdaten zu verarbeiten und optimale Allokationsentscheidungen für die Gesellschaft zu treffen.
-  - Zentralplaner sind von Natur aus korrupt und eigennützig und stellen ihr eigenes Wohlergehen über eine effiziente Ressourcenverteilung für die breite Bevölkerung.
-  - Die zentralen Planer konzentrieren sich zu sehr auf kurzfristige politische Gewinne und nicht auf die langfristige wirtschaftliche Effizienz, was zu suboptimalen Entscheidungen über die Ressourcenverteilung führt.
-explanation: |
-  Hayeks Konzept des verstreuten Wissens unterstreicht, dass wichtige wirtschaftliche Informationen nur als verstreute Fragmente bei Individuen existieren, die ihre lokalen Umstände, subjektiven Präferenzen und Opportunitätskosten kennen.
-  Dieses Wissen kann nicht zentral gesammelt oder aggregiert werden, da es kontextabhängig ist und sich ständig ändert. Freie Märkte koordinieren dieses verstreute Wissen durch das Preissystem, in dem der freiwillige Tausch Präferenzen und relative Knappheiten offenbart. Zentrale Planer, unabhängig von ihren Absichten oder Fähigkeiten, können diesen spontanen Koordinationsprozess nicht nachbilden, weil das notwendige Wissen nicht in konzentrierter Form vorhanden ist.
+  - "Der Glaube, dass die Gesellschaft durch freiwillige Zusammenarbeit zwischen Individuen ohne staatliche Einmischung organisiert werden sollte"
+  - "Der Glaube, dass nur freie Märkte die optimale Verteilung von Ressourcen in der Gesellschaft bestimmen können"
+  - "Der Glaube, dass politische Autorität durch direkte Demokratie gleichmäßig unter allen Bürgern verteilt werden sollte"
+explanation: >-
+  Konstruktivismus vereint Zentristen, Konservative und Sozialisten um eine gemeinsame Überzeugung: die Überlegenheit des politischen Prozesses gegenüber dem Marktprozess. Es ist der Glaube, dass eine Zentralregierung kraft Gesetzes eine für die größte Zahl gute soziale Ordnung schaffen kann. Dies steht in direktem Gegensatz zur libertären Verteidigung der spontanen Ordnung, die aus freiwilligen Interaktionen entsteht.
+reviewed: false

@@ -1,22 +1,18 @@
 ---
-name: Apa kecenderungan politik Anda?
-goal: Pahami kompleksitas spektrum politik modern untuk mengidentifikasi kecenderungan Anda sendiri dan menempatkan keluarga ideologi utama di luar perpecahan kiri-kanan.
+name: Apa Kecenderungan Politik Anda?
+goal: Memahami kompleksitas spektrum politik modern untuk mengenali kecenderungan Anda sendiri dan menempatkan keluarga-keluarga ideologis besar di luar pembelahan kiri-kanan.
 objectives: 
-  - Memahami bahwa tipologi politik lebih bernuansa daripada sekadar sumbu kiri/kanan
+  - Memahami bahwa tipologi politik lebih bernuansa daripada sumbu kiri/kanan sederhana
   - Mengidentifikasi dua dimensi utama yang menyusun spektrum politik
-  - Mencirikan empat keluarga politik utama
-  - Menjelajahi posisi bitcoiners dalam spektrum politik
-
+  - Mengkarakterisasi empat keluarga politik utama
+  - Menjelajahi posisi para bitcoiner dalam spektrum politik
 
 
 ---
 
-Apakah posisi politik Anda bermuara ke kanan atau ke kiri? Kursus ini menawarkan pendekatan revolusioner untuk memahami spektrum politik melalui poros Kebebasan-Paksaan yang mendasar. Dengan menggunakan Diagram Nolan, kami menganalisis keluarga politik seperti sosialis, konservatif, sentris, dan libertarian, bukan berdasarkan niat yang mereka nyatakan, tetapi berdasarkan tingkat kepercayaan mereka terhadap kontrol pemerintah. Temukan logika tatanan spontan, jelajahi isu-isu filosofis yang sebenarnya seperti individualisme vs kolektivisme, dan pelajari cara mendefinisikan nilai-nilai Anda sendiri tanpa terjebak pada label-label tradisional.
+Apakah posisi politik Anda cukup diringkas sebagai kanan atau kiri? Kursus ini menawarkan kerangka berbeda: sumbu mendasar Kebebasan-Paksaan. Dengan Diagram Nolan, kita menganalisis keluarga politik (sosialis, konservatif, sentris, dan libertarian) bukan dari niat yang mereka nyatakan, melainkan dari kepercayaan mereka pada kontrol pemerintah. **Temukan logika tatanan spontan, jelajahi garis patahan filosofis yang sesungguhnya, dan pelajari cara mendefinisikan nilai Anda sendiri di luar label tradisional.**
 
-
-
-Kursus ini juga akan mengungkapkan mengapa Bitcoin lebih dari sekadar mata uang. Bitcoin adalah proyek politik yang diwarisi dari Cypherpunks. Jauh dari bisa diklasifikasikan pada sumbu linier, Bitcoin merupakan kekuatan desentralisasi yang menentang mata uang negara dan menawarkan jalan keluar yang damai dari inflasi serta pengawasan. Dengan membatasi kekuasaan terpusat atas uang, Bitcoin mendefinisikan ulang pertanyaan politik yang paling penting: apakah Anda yang menentukan hidup Anda sendiri, atau orang lain? Selami analisis ini untuk mempertajam kompas ideologis Anda dan memahami dampak politik yang mendalam dari teknologi ini terhadap kebebasan individu Anda.
-
+Kursus ini juga mengungkap mengapa Bitcoin adalah proyek politik yang diwarisi dari Cypherpunks. Sebagai kekuatan desentralisasi yang menentang mata uang negara, Bitcoin mendefinisikan ulang pertanyaan politik esensial: **apakah Anda yang memutuskan hidup Anda, atau orang lain?**
 
 
 
@@ -25,1788 +21,1608 @@ Kursus ini juga akan mengungkapkan mengapa Bitcoin lebih dari sekadar mata uang.
 # Pendahuluan
 
 
-
 <partId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</partId>
 
 
+## Gambaran umum kursus
 
-## Perangkap pembagi kanan-kiri
+<chapterId>2209cf28-29ab-4092-88bd-9ffdc7942972</chapterId>
 
+### Selamat datang
+
+Selamat datang di kursus tentang keluarga-keluarga politik besar ini. Apakah Anda kiri, kanan, libertarian, konservatif, sosialis, sentris? Kebanyakan dari kita dilatih menjawab pertanyaan ini dengan garis horizontal sederhana dari kiri jauh sampai kanan jauh. Masalahnya, garis yang diwarisi dari Revolusi Prancis 1789 ini tidak lagi menggambarkan realitas politik. Sesungguhnya, ia tidak pernah benar-benar menggambarkannya.
+
+Kursus yang dikembangkan oleh Damien Theillier ini menawarkan kerangka berbeda: sumbu kebebasan-paksaan. Alih-alih bertanya di mana posisi Anda antara kiri dan kanan, kita mengajukan pertanyaan yang lebih mendasar: apakah Anda mempercayai individu untuk mengatur hidupnya sendiri, atau percaya bahwa otoritas terpusat harus melakukannya untuk mereka? Pergeseran sudut pandang tunggal ini mengubah cara Anda membaca berita, menilai usulan kebijakan, dan memahami keyakinan Anda sendiri.
+
+### Apa yang akan Anda pelajari
+
+Pada akhir kursus ini, Anda akan mampu:
+
+- **Menembus ilusi kiri-kanan.** Anda akan memahami mengapa klasifikasi yang masih dominan di media ini lebih banyak menyembunyikan daripada menjelaskan, dan mengapa pemikir seperti Frederic Bastiat atau inovasi seperti Bitcoin tidak bisa ditempatkan pada garis itu.
+- **Memetakan spektrum politik dalam dua dimensi.** Dengan Diagram Nolan, Anda akan belajar membedakan kebebasan ekonomi dari kebebasan personal dan mengidentifikasi empat keluarga politik besar yang muncul dari pembedaan ini: sosialis, konservatif, libertarian, dan sentris.
+- **Menganalisis posisi politik dari strukturnya, bukan slogannya.** Politisi menjanjikan keadilan, ketertiban, kemajuan, atau keseimbangan. Anda akan belajar melampaui niat yang dinyatakan dan memeriksa mekanisme aktual yang diandalkan tiap keluarga: redistribusi, tradisi, pertukaran sukarela, atau kompromi pragmatis.
+- **Mengenali akar filosofis di balik perbedaan politik.** Kebebasan sebagai prinsip versus kebebasan sebagai peluang, tatanan spontan versus tatanan yang dikonstruksi, individualisme versus kolektivisme: inilah garis patahan yang sebenarnya, dan kursus ini membekali Anda untuk mengenalinya dalam debat apa pun.
+- **Memahami mengapa Bitcoin adalah proyek politik.** Jauh dari teknologi netral, Bitcoin mewarisi tradisi cypherpunk dan mengajukan pertanyaan politik paling mendasar zaman kita: siapa yang mengontrol uang, dan karena itu siapa yang mengontrol hidup Anda?
+- **Mendefinisikan identitas politik Anda sendiri secara presisi.** Alih-alih menerima label dari komentator atau kuis, Anda akan membangun posisi Anda sendiri dari prinsip pertama, memahami secara tepat di mana Anda berdiri dan mengapa.
+
+### Kurikulum
+
+Kursus ini disusun dalam enam bagian:
+
+**Bagian 1, Jebakan pembelahan kanan-kiri.** Kita mulai dengan membongkar sumbu politik tradisional. Melalui kasus Frederic Bastiat dan Bitcoin, kita menunjukkan bahwa gagasan politik terpenting masa kita tidak dapat ditangkap oleh garis dari kiri ke kanan.
+
+**Bagian 2, Menuju pembelahan baru: kebebasan-paksaan.** Kita memperkenalkan Diagram Nolan dan dua dimensinya, kebebasan ekonomi dan kebebasan personal, yang menyingkap lanskap politik yang jauh lebih kaya. Anda akan melihat posisi sebenarnya konservatif, sosialis, libertarian, dan sentris, serta mengapa label seperti "kanan jauh" atau "kiri jauh" lebih mengaburkan daripada menjelaskan.
+
+**Bagian 3, Keluarga politik di bawah mikroskop.** Kita memeriksa setiap keluarga secara mendalam: asal-usul intelektual, pemikir kunci, ketegangan internal, dan titik butanya. Dari sosialisme demokratis sampai anarko-kapitalisme, dari konservatisme Burkean sampai sentrisme Rawlsian, Anda akan melihat tiap arus dari dalam.
+
+**Bagian 4, Isu sosial dan ekonomi.** Kita menerapkan kerangka kita pada debat konkret: legalisasi narkoba, imigrasi, kepemilikan senjata, layanan kesehatan, perpajakan, subsidi, upah minimum. Tiap isu diperiksa melalui lensa keempat keluarga politik.
+
+**Bagian 5, Perbedaan filosofis antara keluarga politik.** Kita masuk lebih dalam ke fondasi intelektual: kebebasan sebagai prinsip versus sebagai peluang, tatanan spontan versus tatanan yang dikonstruksi, individualisme versus kolektivisme. Pembedaan ini mengungkap mengapa keluarga politik yang sepakat pada tujuan sering tidak sepakat pada cara.
+
+**Bagian 6, Tren politik di kalangan bitcoiner.** Kita menutup dengan memeriksa Bitcoin sebagai proyek politik, menelusuri akarnya ke gerakan cypherpunk, dan menanyakan pertanyaan yang mengalir sepanjang kursus: siapa yang seharusnya memutuskan?
+
+Mari kita mulai.
+
+### Tentang penulis kursus
+
+Kursus ini dikembangkan oleh **[Damien Theillier](https://planb.academy/professors/damien-theillier)**, profesor filsafat di Paris dan lulusan Sorbonne Paris IV. Theillier adalah pendiri Institut Coppet dan Ecole de la Liberte, dua institusi yang didedikasikan untuk penemuan kembali dan penyebaran tradisi liberal Prancis. Ia adalah salah satu penulis buku manual kelas persiapan *General Culture* (Pearson, 2013) dan *A Path to Freedom, the Philosophy from Antiquity to Our Days* (Berg International, 2013). Kedekatannya yang mendalam dengan sejarah filsafat politik memberi kursus ini kombinasi langka antara ketelitian konseptual dan relevansi praktis.
+
+
+## Jebakan pembelahan kanan-kiri
 
 
 <chapterId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=j_Ji4d7UiPY)
+Selamat datang di kursus tentang keluarga-keluarga politik besar ini. Kita mulai dengan figur Socrates, bapak filsafat Barat, yang mengajari kita untuk ragu dan mempertanyakan pendapat kita sendiri. Salah satu pendapat yang paling mengakar dalam pikiran modern kita adalah pembelahan kiri-kanan. Kursus ini mengajak kita mengevaluasi ulang klasifikasi politik kita dan berfokus pada pembedaan yang lebih mendasar daripada kiri versus kanan: pembedaan antara kebebasan dan paksaan.
 
+![Kematian Socrates](./assets/en/001.webp)
 
+### Jebakan pembelahan kiri-kanan
 
-Banyak orang percaya bahwa perpecahan yang paling mencolok di Barat saat ini adalah antara sayap kiri dan sayap kanan. Media mencurahkan sebagian besar diskusi mereka pada konfrontasi ini, yang sering disajikan sebagai penentu masa depan peradaban.
+Banyak orang percaya bahwa pembelahan paling mencolok di Barat hari ini adalah antara kiri politik dan kanan politik. Media mencurahkan banyak liputan pada konfrontasi ini, yang disajikan sebagai penentu masa depan peradaban. Untuk mengidentifikasi kecenderungan politik seseorang, kita menempatkannya pada garis horizontal sederhana: kiri jauh, kiri, tengah, kanan, kanan jauh.
 
-Jadi, untuk mengidentifikasi kecenderungan politik seseorang, kita sering memetakannya pada sebuah garis horizontal sederhana. Kita menempatkan diri kita di ujung kiri, kiri, tengah, kanan, dan ujung kanan garis tersebut, sesuai dengan kecenderungan yang berbeda.
+![Spektrum politik](./assets/en/002.webp)
 
+Pembelahan ini berasal dari 1789. Selama Revolusi Prancis, dalam debat Agustus dan September 1789, para deputi yang mendukung pemeliharaan kekuasaan raja duduk di kanan presiden Majelis, sementara mereka yang ingin membatasi kekuasaannya duduk di kiri. Masalahnya adalah **kategorisasi ini sebagian besar telah tidak operatif pada zaman kita**.
 
-![Political spectrum](./assets/fr/001.webp)
+![Majelis Nasional Prancis](./assets/en/003.webp)
 
+Secara tradisional, kiri dipandang reformis dan kanan konservatif. Tetapi ini menjadi meragukan, karena kiri sosial-demokrat kini berjuang mempertahankan keuntungan yang telah diperoleh, yang dari sudut pandang itu menjadikannya konservatif. Kebanyakan individu yang berada di antara dua ekstrem disebut sentris, tetapi label ini juga menyederhanakan posisi mereka.
 
+Pernahkah Anda merasa bahwa kiri atau kanan, sosialis atau konservatif, tidak menggambarkan opini Anda secara akurat? Posisi seseorang dalam spektrum politik tidak statis, dan sering bergantung pada isu yang dibahas. Jika seseorang mendukung kebebasan ekonomi sekaligus hak untuk berimigrasi, di mana Anda menempatkannya pada garis kiri-kanan sederhana?
 
-Sebagian orang condong ke arah mereka yang percaya bahwa hierarki harus dipertahankan dan ditegakkan dengan cara apa pun. Itulah kelompok kanan. Sebagian lainnya condong ke mereka yang menganggap bahwa kesetaraan harus diterapkan dengan cara apa pun, meskipun itu berarti mereformasi segalanya. Ini adalah kelompok **kiri.**
+Masalah mendasar sumbu ini adalah bahwa **ia tidak menyediakan ruang bagi pemikiran liberal klasik**, yang tidak dapat begitu saja digabungkan dengan egalitarianisme kiri atau nasionalisme kanan. Di mana kita menempatkan figur seperti Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul, atau Javier Milei? Liberal klasik dan libertarian kadang secara keliru disamakan dengan kanan, bahkan kanan jauh. Namun sering kali, mereka sama sekali tidak ada dalam kerangka acuan ini.
 
-Namun, kategorisasi ini sering kali terlalu sederhana dan kurang efektif. Secara tradisional, misalnya, sayap kiri dipandang sebagai reformis, sementara sayap kanan lebih konservatif. Tapi pandangan ini mulai dipertanyakan di zaman sekarang, karena sayap kiri justru banyak berjuang untuk mempertahankan pencapaian yang sudah diperoleh, yang dari sudut pandang ini membuatnya bersifat konservatif.
+### Kasus Frédéric Bastiat
 
-Kebanyakan orang yang berada di antara dua ekstrem tersebut sering disebut sebagai sentris, tetapi label ini juga terlalu menyederhanakan posisi mereka.
+Frédéric Bastiat (1801-1850), figur emblematis sekolah liberal Prancis, adalah deputi di Majelis Nasional. Pendekatannya sepenuhnya khas: ia mengatakan bahwa ia kadang memilih bersama kiri, kadang bersama kanan, tergantung rancangan undang-undang yang dibahas.
 
-Mari ambil contoh. Jika seseorang mendukung kebebasan ekonomi tetapi juga mendukung hak untuk berimigrasi, di mana Anda akan menempatkan mereka pada garis kiri dan kanan yang sederhana? Posisi seseorang dalam spektrum politik tidak bersifat statis dan sering kali bergantung pada isu yang sedang dibahas.
+![Frédéric Bastiat](./assets/en/004.webp)
 
-Banyak orang merasa tidak cocok, karena kiri atau kanan, sosialis atau konservatif, tidak secara akurat menggambarkan pandangan mereka.
+Ini bukan tanda oportunisme sentris. Bastiat tidak bisa duduk bersama kaum royalis di kanan, karena ia sendiri republikan; ia juga tidak ingin duduk bersama sosialis di kiri. Suaranya dipandu oleh prinsip mendasar: **mempromosikan kebebasan individu dan ekonomi serta mengurangi campur tangan pemerintah**. Ia yakin bahwa tatanan sosial dan kemakmuran dapat muncul melalui inisiatif privat dan tanggung jawab individu, dengan hukum seminimal mungkin.
 
-Pernahkah Anda merasa bahwa kerangka ini tidak cukup untuk menjelaskan nuansa dan kompleksitas opini politik? Banyak orang tidak menemukan tempat mereka di dalamnya dan merasa bahwa label kiri atau kanan, sosialis atau konservatif, tidak benar-benar merepresentasikan apa yang mereka yakini.
+Bagi Bastiat, garis demarkasi sebenarnya bukan antara kiri dan kanan, melainkan antara mereka yang percaya pada kekuasaan koersif negara dan mereka yang percaya pada kebebasan serta asosiasi sukarela. Ia akan memilih bersama kiri ketika usulnya bertujuan menghapus privilese, menjamin kebebasan sipil, atau menentang perang; dan bersama kanan ketika usulnya melindungi properti privat atau mengurangi pajak.
 
-Meskipun kriteria penentuan posisi ini masih berguna untuk menunjukkan kepekaan politik secara umum, pendekatan ini gagal secara konseptual dalam menjelaskan keragaman perdebatan dan posisi ideologis.
+### Kasus Bitcoin
 
-Masalah utama dari poros kiri dan kanan adalah bahwa poros ini tidak menyisakan ruang bagi pemikiran liberal klasik, yang tidak bisa disamakan dengan egalitarianisme kiri maupun nasionalisme kanan.
+Bitcoin adalah contoh kontemporer yang menarik dari inovasi yang melampaui pembelahan tradisional. Ia tak terbantahkan **merupakan proyek politik yang memutus diri dari kebijakan moneter saat ini**, tetapi mustahil ditempatkan pada sumbu linear sederhana dari kiri jauh sampai kanan jauh.
 
-Lalu, di mana kita menempatkan tokoh-tokoh seperti Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul, Elon Musk, atau Javier Milei dalam spektrum kiri dan kanan?
 
-Bagaimana dengan kaum liberal klasik dan aliran pemikiran kontemporer seperti libertarian? Mereka sering kali secara keliru disamakan dengan sayap kanan, atau bahkan kanan ekstrem. Namun, dalam banyak kasus, mereka justru berada di luar kerangka acuan ini.
+Kita menemukan pendukung Bitcoin di seluruh spektrum politik:
 
-Pada masanya, ekonom sekaligus anggota parlemen Frédéric Bastiat pernah mengatakan bahwa ia terkadang memilih bersama sayap kiri, terkadang bersama sayap kanan, tergantung pada rancangan undang-undang yang sedang dibahas.
+- Bagi kanan liberal, Bitcoin mewakili alat perlindungan dari campur tangan negara, menjamin properti privat dan kebebasan moneter.
+- Bagi sebagian kiri, Bitcoin mewakili kritik terhadap sistem perbankan tradisional dan sarana mendemokratisasi keuangan di luar institusi mapan.
+- Terlepas dari ideologi politik apa pun, banyak teknofil dan investor tertarik oleh sifatnya yang terdesentralisasi dan potensi disrupsinya.
 
+Pada kenyataannya, dikotomi tradisional kiri dan kanan tidak memadai dan tidak cocok untuk menempatkan Bitcoin dengan benar. Sumbu linear sederhana tidak bekerja dengan baik, karena ideologi seperti fasisme dan komunisme berbagi ciri totaliter yang tidak terlihat pada sumbu seperti itu.
 
-![Frédéric Bastiat](./assets/fr/002.webp)
+![Spektrum politik tapal kuda](./assets/en/005.webp)
 
+### Pembelahan palsu
 
+Walaupun kiri dan kanan tampak sepenuhnya berlawanan, **keduanya berbagi sejumlah titik umum yang mendasar**. Kedua kubu secara teratur mengkritik pasar bebas: sebagai sumber ketimpangan (kiri) atau sebagai ancaman terhadap kedaulatan (kanan). Keduanya berbagi preferensi terhadap intervensi negara, entah melalui "negara strategis" atau "negara emansipatoris." Terlepas dari perbedaan tampaknya, semua partai politik, baik kiri, kanan, maupun tengah, membela hak negara untuk mengatur hidup orang dan ikut campur dalam semua hal melalui regulasi dan pajak.
 
-Ini bukan berarti dia seorang sentris atau demokrat sosial. Bastiat dengan tegas menentang segala bentuk statisme, segala bentuk intervensionisme pemerintah. Dia mendukung kebebasan ekonomi dan kebebasan pribadi yang maksimal yang sesuai dengan rasa hormat kepada orang lain, karena dia percaya bahwa tatanan sosial dapat muncul dari bawah, melalui inisiatif pribadi, kerja sama sosial dan tanggung jawab individu, dengan hukum yang minimal.
+Inilah mengapa oposisi kiri-kanan pada akhirnya adalah ilusi. Untuk mengilustrasikan poin ini, perhatikan pertanyaan-pertanyaan berikut:
 
+**Isu sosial**
 
+- Haruskah pemerintah memiliki atau mengontrol surat kabar, radio, atau televisi?
+- Haruskah pemerintah mengatur aktivitas seksual antara orang dewasa yang saling menyetujui, termasuk prostitusi?
+- Haruskah narkoba seperti marijuana, kokain, dan heroin dilegalkan?
+- Haruskah orang secara hukum bebas bepergian atau masuk dan keluar dari suatu negara tanpa batasan?
+- Haruskah pemerintah mengirim pasukan untuk ikut campur dalam urusan negara lain?
+- Haruskah anak-anak secara hukum diwajibkan pergi ke sekolah?
+- Haruskah orang tua diizinkan mengajar anaknya di rumah?
+- Haruskah kepemilikan senjata dibatasi oleh hukum?
+- Apa yang seharusnya menjadi kebijakan lingkungan pemerintah?
+- Apakah kita membutuhkan institusi publik untuk memastikan obat aman dan efektif?
 
-Mari kita ambil contoh lain: **Apakah Bitcoin berada di sebelah kanan atau kiri?**
+**Isu ekonomi**
 
-
-
-![Bitcoin](./assets/fr/003.webp)
-
-
-
-Tidak dapat disangkal, Bitcoin adalah sebuah proyek yang bertentangan dengan kebijakan moneter saat ini. Jadi, ini adalah proyek politik. Namun, sulit untuk menempatkan Bitcoin pada sumbu linier sederhana yang membentang dari ujung kiri ke ujung kanan.
-
-Sebagai permulaan, definisi kanan dan kiri itu sendiri sangat kompleks dan terus berkembang dari waktu ke waktu, sehingga membuat klasifikasi yang kaku menjadi sulit. Di atas semua itu, Bitcoin sebagai teknologi terdesentralisasi melampaui perpecahan politik tradisional dan menarik pendukung dari berbagai latar belakang politik, baik dari kiri maupun kanan, termasuk kaum anarkis dan orang-orang yang menganggap diri mereka apolitis.
-
-
-
-
-- Tokoh-tokoh sayap kanan mungkin melihat Bitcoin sebagai alternatif dari kebijakan moneter bank sentral.
-- Tokoh-tokoh sayap kiri juga hadir, terutama karena potensi Bitcoin untuk inklusi keuangan dan sebagai alat untuk melawan sensor.
-
-
-
-Pada kenyataannya, dikotomi tradisional antara kanan dan kiri tidak memadai, bersifat sewenang-wenang, dan tidak cocok untuk menempatkan Bitcoin secara tepat, yang merupakan mata uang publik yang dapat diadopsi oleh siapa pun, terlepas dari kecenderungan politik mereka.
-
-Selain itu, sumbu linier sederhana yang membentang dari kiri ke kanan juga tidak bekerja dengan baik, karena ideologi seperti fasisme dan komunisme memiliki kesamaan berupa totalitarianisme yang tidak terlihat pada sumbu tersebut.
-
-
-
-![Spectre politique en fer à cheval](./assets/fr/004.webp)
-
-
-
-Terlebih lagi, meskipun sayap kanan tidak diragukan lagi lebih liberal secara ekonomi dibandingkan sayap kiri, kedua kubu sama-sama tidak percaya pada pasar bebas, kebebasan berkontrak, dan kepemilikan pribadi, serta sama-sama tertarik pada intervensionisme negara. Bagi mereka yang berkuasa, baik di kanan maupun di kiri, setiap masalah selalu diselesaikan dengan peraturan atau pajak baru, bukan melalui pengaturan mandiri atas interaksi individu.
-
-Menariknya, posisi politik tertentu sering kali melintasi batas-batas tradisional kanan dan kiri. Sebagai contoh, proteksionisme, yang kerap dipertahankan oleh kaum kiri, dapat dengan mudah dipadukan dengan nasionalisme, sebuah nilai yang secara tradisional diasosiasikan dengan kaum kanan. Demikian pula, kaum tani, meskipun terikat pada tanah dan tradisi keluarga, yang merupakan nilai-nilai sayap kanan, tidak ragu untuk berdemonstrasi secara keras demi menuntut subsidi negara, sebuah pendekatan yang sejalan dengan logika sosialis.
-
-Pada akhirnya, bukankah polarisasi partisan ini justru menutupi perpecahan yang jauh lebih dalam dan lebih tua, yaitu perpecahan yang selama berabad-abad memisahkan mereka yang memerintah dan mereka yang diperintah?
-
-Selama pandemi Covid, sebagian besar negara Barat menerapkan kontrol yang bersifat totaliter. Meskipun banyak kebijakan tersebut telah dicabut, kesenjangan antara kelas penguasa dan warga biasa justru semakin melebar.
-
-Melalui utang pemerintah dan inflasi, kita menyaksikan bentuk perbudakan modern berupa hilangnya daya beli dan kemampuan masyarakat untuk menyimpan nilai.
-
-Faktanya, sistem uang fiat menguntungkan orang-orang terkaya dan entitas keuangan yang paling kuat, terutama pemerintah sebagai peminjam terbesar. Dengan terus meminjam, mereka mendorong bank-bank untuk menciptakan uang baru. Inflasi yang dihasilkan menjadi mekanisme tersembunyi yang mendevaluasi nilai uang dan secara perlahan menghancurkan tabungan masyarakat.
-
-Mata uang fiat merupakan fondasi dari perluasan kekuasaan negara. Sistem ini memungkinkan pemerintah membiayai pengeluaran tanpa batas, dengan menghilangkan batasan anggaran yang sebelumnya ada di bawah standar emas. Perbudakan modern ini dipertahankan oleh elit yang bertekad menjaga hak-hak istimewa mereka, sementara masyarakat yang semakin lemah dan tidak berdaya menghadapi ekspansi negara, perlahan melihat setiap aspek kehidupannya berada di bawah kendali.
-
-Dalam kursus ini, kita akan melihat bahwa lanskap politik jauh lebih kaya dan kompleks dibandingkan sekadar dua kategori kiri dan kanan, melalui model visual yang membantu kita memahami berbagai keluarga politik dengan lebih baik.
-
-Sebelum memulai kursus ini, saya ingin mengajak Anda untuk mengikuti kuis singkat. Coba jawab pertanyaan-pertanyaan berikut:
-
-
-
-**Masalah sosial**
-
-
-
-
-- Haruskah pemerintah memiliki atau mengontrol surat kabar, radio atau televisi?
-- Haruskah pemerintah mengatur aktivitas seksual antara orang dewasa yang saling suka sama suka, termasuk prostitusi?
-- Haruskah narkoba seperti ganja, kokain, dan heroin dilegalkan?
-- Haruskah legal bagi orang untuk bepergian atau masuk dan keluar dari suatu negara tanpa batasan?
-- Haruskah pemerintah mengirim pasukan untuk mengintervensi urusan negara lain?
-- Haruskah anak-anak diwajibkan secara hukum untuk bersekolah?
-- Haruskah orang tua diizinkan untuk mengajar anak-anak mereka di rumah?
-- Haruskah kepemilikan senjata api dibatasi oleh hukum?
-- Apa yang seharusnya menjadi kebijakan lingkungan hidup pemerintah?
-- Apakah kita memerlukan lembaga publik untuk memastikan bahwa obat-obatan aman dan efektif?
-
-
-
-**Masalah ekonomi**
-
-
-
-
-- Haruskah pemerintah memberikan subsidi kepada petani dan mengatur apa yang mereka tanam?
-- Haruskah pemerintah memberlakukan tarif, kuota, embargo, atau pembatasan lain pada perdagangan internasional?
-- Haruskah pemerintah memberlakukan upah minimum wajib?
-- Apakah pajak adalah satu-satunya cara untuk membayar layanan publik yang diperlukan?
-- Haruskah pemerintah membantu perusahaan di masa ekonomi sulit dengan pinjaman atau subsidi berbunga rendah?
-- Apa cara terbaik untuk mengelola defisit anggaran yang sangat besar saat ini?
-- Bagaimana kita dapat mengatasi masalah defisit sistem jaminan sosial?
+- Haruskah pemerintah mensubsidi petani dan mengatur apa yang mereka tanam?
+- Haruskah pemerintah mengenakan tarif, kuota, embargo, atau pembatasan lain pada perdagangan internasional?
+- Haruskah pemerintah memperkenalkan upah minimum wajib?
+- Apakah perpajakan satu-satunya cara membayar layanan publik yang diperlukan?
+- Haruskah pemerintah membantu perusahaan dalam masa ekonomi sulit dengan pinjaman berbunga rendah atau subsidi?
+- Apa cara terbaik mengelola defisit anggaran masif hari ini?
+- Bagaimana kita memecahkan masalah defisit sistem jaminan sosial?
 - Haruskah pemerintah mengirim bantuan keuangan ke negara lain?
-- Apa yang harus dilakukan pemerintah untuk mengatasi kenaikan biaya perawatan kesehatan?
-- Bagaimana seharusnya kebijakan energi nuklir pemerintah?
+- Apa yang harus dilakukan pemerintah terhadap kenaikan biaya layanan kesehatan?
+- Apa yang seharusnya menjadi kebijakan energi nuklir pemerintah?
+
+Dalam semua pertanyaan ini, satu isu sentral muncul: **seberapa besar kontrol pemerintah yang bersedia Anda toleransi?** Dan apakah Anda lebih atau kurang dipaksa ikut membiayai kontrol itu? Pertanyaan politik mendasarnya adalah: siapa yang seharusnya memutuskan? Apakah Anda membuat keputusan penting tentang hidup personal dan sosial Anda, atau orang lain yang membuatnya untuk Anda?
+
+### Yang memerintah dan yang diperintah
+
+Polarisasi partisan ini menutupi pembelahan yang jauh lebih dalam dan lebih tua: **pembelahan yang selama berabad-abad memisahkan mereka yang memerintah dari mereka yang diperintah**. Di satu sisi, rakyat yang menanggung inflasi, tekanan fiskal, dan pengawasan finansial; di sisi lain, elite teknokratis dan politik yang membelanjakan uang orang lain, dan sangat sering dengan mesin cetak, yaitu dengan mata uang fiat, katanya demi kebaikan rakyat.
+
+![Pajak](./assets/en/006.webp)
+
+Sistem uang fiat menguntungkan individu terkaya dan entitas finansial paling kuat, terutama pemerintah, yang merupakan peminjam terbesar. Dengan meminjam, mereka mendorong bank mencetak uang baru. Inflasi yang dihasilkan secara diam-diam mendevaluasi uang, menghancurkan tabungan rakyat. Mata uang fiat adalah batu penjuru perluasan kekuasaan negara ini: ia memungkinkan pemerintah membiayai belanja tak terbatas, menghapus batasan anggaran yang ada di bawah standar emas.
+
+Seperti diamati Frédéric Bastiat pada abad ke-19:
+
+> "Dalam semua revolusi, selalu hanya ada dua partai yang berlawanan: partai rakyat yang ingin hidup dari kerja mereka sendiri, dan partai mereka yang ingin hidup dari kerja orang lain."
+
+Dengan kata lain: mereka yang menghasilkan kekayaan dan mereka yang merampasnya untuk mendistribusikannya kembali kepada pendukung mereka.
+
+### Para pengontrol dan non-pengontrol
+
+Untuk menutup pendahuluan ini, mari beralih ke novel fiksi ilmiah dari 1960-an. Dalam *The Moon is a Harsh Mistress* (1966), Robert Heinlein dengan brilian merangkum apa yang membentuk garis patahan politik sejati:
+
+![The Moon is a Harsh Mistress](./assets/en/007.webp)
+
+> "Umat manusia secara politik terbagi menjadi mereka yang ingin orang-orang dikontrol dan mereka yang tidak memiliki keinginan seperti itu."
+
+![Kutipan Robert Heinlein](./assets/en/008.webp)
+
+"Para pengontrol" mencakup semua orang yang, apa pun ideologi yang mereka nyatakan, dari kiri jauh sampai kanan jauh, percaya bahwa negara atau entitas lebih tinggi harus mengatur, mengarahkan, dan memaksakan perilaku demi kebaikan masyarakat. Mereka menyukai solusi dari atas ke bawah, perencanaan, dan paksaan.
+
+Sebaliknya, "non-pengontrol" adalah mereka yang tidak ingin menjalankan kekuasaan atas orang lain dan yang menganjurkan kebebasan individu maksimum. Mereka menghargai tanggung jawab personal, asosiasi sukarela, dan spontanitas tatanan sosial, sambil meminimalkan campur tangan pemerintah. Di sinilah kita menemukan figur seperti Frédéric Bastiat, atau prinsip desentralisasi yang diwujudkan oleh Bitcoin.
+
+Dalam kursus ini, kita akan melihat bahwa **lanskap politik jauh lebih kaya dan lebih kompleks daripada kiri dan kanan**, berkat model visual yang akan membantu kita lebih memahami keluarga-keluarga politik yang berbeda dan posisi masing-masing dari kita.
 
 
 
-Dalam semua pertanyaan ini, ada satu masalah utama dan menentukan yang muncul, yaitu tingkat kontrol pemerintah yang bisa Anda tolerir, dan dengan demikian juga tingkat pendanaan yang, secara sadar atau tidak, memaksa Anda untuk ikut berpartisipasi.
-
-Jadi, pertanyaan politik yang paling mendasar adalah: **Siapa yang harus memutuskan?** Dengan kata lain: **Apakah Anda yang membuat keputusan penting mengenai kehidupan pribadi dan sosial Anda, atau orang lain yang membuat keputusan untuk Anda?**
-
-Pada tahun 1966, dalam **Revolt on the Moon** (The Moon is a Harsh Mistress), novelis Robert Heinlein mengembangkan gagasan bahwa pemerintah pada akhirnya selalu cenderung mengumpulkan kekuasaan dan mengendalikan warga negara, sesuatu yang ia sebut sebagai penyakit manusia yang tidak terelakkan.
-
-
-
-![The Moon is a Harsh Mistress](./assets/fr/005.webp)
-
-
-
-Dia mengamati bahwa umat manusia terbagi secara politis antara mereka yang ingin mengendalikan kehidupan orang lain, dan mereka yang tidak.
-
-
-
-> Umat manusia terbagi secara politis menjadi mereka yang ingin orang lain dikendalikan dan mereka yang tidak memiliki keinginan seperti itu.
-
-![The Moon is a Harsh Mistress quote](./assets/fr/006.webp)
-
-
-
-Saat ini, semua partai politik, baik kiri, tengah, maupun kanan, membela hak negara untuk mengatur kehidupan masyarakat dan melakukan intervensi dalam hampir semua hal melalui peraturan dan pajak. Di media arus utama, kita melihat pola yang sama, di mana kerangka acuannya didominasi oleh statistik.
-
-Jadi, apakah model politik tradisional kiri versus kanan perlu ditinggalkan? Dan jika iya, model apa yang seharusnya digunakan sebagai gantinya?
-
-
-
-
-# Menuju perpecahan baru: kebebasan-paksaan
-
+# Menuju pembelahan baru: kebebasan-paksaan
 
 <partId>fb5cb390-67ad-41f3-903d-c208b84e6a0c</partId>
 
 
 
-
 ## Diagram Nolan
-
 
 <chapterId>7b3aa120-6eee-45a1-9e46-856e26403e08</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=rN4fA3ImJjE)
+### Dari satu dimensi ke dua
 
+Alih-alih membagi doktrin politik sepanjang sumbu kanan/kiri, jauh lebih masuk akal melihatnya melalui prisma kebebasan. Representasi klasik spektrum politik adalah garis horizontal dari kiri ke kanan.
 
+![Spektrum politik linear](./assets/en/009.webp)
 
-Alih-alih membagi doktrin politik pada poros kanan dan kiri, akan jauh lebih masuk akal jika kita melihat segala sesuatu melalui prisma kebebasan. Dengan begitu, kita akan memiliki poros kebebasan dan kekuasaan, sehingga pemikiran liberal klasik akhirnya bisa menemukan tempatnya di papan catur politik.
+Model ini terlalu menyederhanakan kompleksitas ideologi politik, dan terutama menghilangkan kriteria esensial: **derajat intervensi negara**. Seperti kita bahas dalam pendahuluan, pertanyaan mendasarnya adalah: siapa yang memutuskan? Apakah Anda, atau orang lain?
 
-Dengan demikian, cara pandang yang lebih tepat adalah mengontraskan para pembela kebebasan dengan para pembela Negara, yaitu mereka yang percaya pada kemampuan individu untuk mengatur diri mereka sendiri secara bertanggung jawab, dan mereka yang menginginkan otoritas yang kuat untuk menenangkan mereka sekaligus mengendalikan kehidupan orang lain.
+Ini membawa kita menolak model satu dimensi demi model dua dimensi. David Nolan, pendiri Libertarian Party pada 1971 dan mantan mahasiswa MIT (Massachusetts Institute of Technology), merancang bagan yang jauh lebih baik mewakili kompleksitas spektrum politik. Diagramnya memakai dua sumbu:
 
-David Nolan, pendiri Partai Libertarian pada tahun 1971 sekaligus pencetus Bagan Nolan yang kini dikenal luas, memahami hal ini dengan sangat baik. Sebagai alumni Massachusetts Institute of Technology (MIT), ia merancang sebuah bagan yang kemungkinan besar mampu merepresentasikan kompleksitas spektrum politik dengan lebih akurat.
+1. Sumbu vertikal yang mengukur **kebebasan personal**
+2. Sumbu horizontal yang mengukur **kebebasan ekonomi**
 
+![Diagram Nolan](./assets/en/010.webp)
 
+Semakin dekat Anda ke titik nol (kiri bawah), semakin posisi ideologis Anda mendukung intervensi negara. Sebaliknya, semakin jauh Anda bergerak ke sudut berlawanan (kanan atas), semakin Anda mendukung intervensi negara minimal dan kebebasan individu maksimum. Dari perspektif ini, kiri dan kanan tradisional direlatifkan: kiri cenderung mendukung kebebasan personal dengan mengorbankan kebebasan ekonomi, sementara kanan klasik mendukung kebebasan ekonomi dengan mengorbankan kebebasan personal.
 
-Idenya adalah menambahkan sumbu kiri-kanan sebagai sumbu kebebasan/kekuasaan kedua yang membentang dari statisme di bagian bawah (titik nol) ke libertarianisme di bagian atas. Semakin jauh dari titik nol, semakin libertarian posisi ideologisnya.
+![Spektrum politik dua dimensi dengan sumbu kebebasan personal dan ekonomi](./assets/en/011.webp)
 
+### Lima kuadran
 
+Ketika diagram disajikan dalam bentuk berlian, kita dapat mengidentifikasi lima kuadran yang secara presisi menempatkan berbagai filsafat politik:
 
-![Graphique](./assets/fr/007.webp)
+![Berlian Nolan](./assets/en/012.webp)
 
+- **Statisme** (bawah): Posisi paling otoriter, bahkan totaliter. Mereka yang mendukung sangat sedikit kebebasan ekonomi atau personal.
+- **Sosialisme** (kiri): Mereka yang mendukung lebih sedikit kebebasan ekonomi tetapi lebih banyak kebebasan personal.
+- **Konservatisme** (kanan): Mereka yang mendukung lebih banyak kebebasan ekonomi tetapi lebih sedikit kebebasan personal.
+- **Libertarianisme** (atas): Kebalikan dari statisme. Mereka yang mendukung kebebasan ekonomi dan personal terbesar.
+- **Sentrisme** (tengah): Zona pragmatis bagi mereka yang menyukai campuran kebebasan dan regulasi, yang menyiratkan pengorbanan hak individu tertentu.
 
+**Sumbu mendasarnya karena itu adalah sumbu vertikal**: antara mereka yang membela kebebasan individu maksimum (di atas) dan mereka yang mendukung kontrol serta intervensi negara maksimum dalam hidup orang (di bawah).
 
-![Graphique](./assets/fr/008.webp)
+### Nuansa dalam tiap keluarga
 
+![Nuansa dan ketegangan internal dalam tiap keluarga politik](./assets/en/013.webp)
 
+Hal-hal tidak sederhana, dan selalu sulit membela posisi politik yang sepenuhnya monolitik. Dalam tiap keluarga politik, ada ketegangan dan divergensi:
 
-Diagram ini berbentuk bujur sangkar yang dibagi menjadi lima bagian, dengan label yang diberikan pada masing-masing bagian berikut ini:
+- Di antara **sosialis**, kebanyakan adalah demokrat yang melekat pada pemilu, kebebasan sipil, dan tingkat ekonomi pasar tertentu. Tetapi sebagian menolak demokrasi dan menganjurkan revolusi, penghapusan kapitalisme sepenuhnya, dan perencanaan ekonomi terpusat.
+- Di antara **konservatif**, sebagian sangat menentang pajak dan program sosial, menempatkan mereka lebih dekat ke puncak libertarian. Yang lain memiliki kecenderungan lebih otoriter dan mendukung regulasi ekonomi; orang bisa memikirkan kontroversi seputar Donald Trump di sini.
+- Di antara **libertarian**, sebagian ingin menghapus negara sepenuhnya dan menggantinya dengan layanan privat (anarko-kapitalis), sementara yang lain lebih memilih negara minimal yang mempertahankan fungsi berdaulat intinya (para "minarkis").
 
+![Nuansa libertarian pada Diagram Nolan](./assets/en/014.webp)
 
+- **Partai Hijau** mungkin berada sangat rendah dalam diagram. Mereka menganggap bahwa **kepentingan individu tidak boleh didahulukan dari kepentingan kolektif planet**. Dalam arti tertentu, kaum Hijau mengganti perjuangan kelas Marxis dengan perjuangan antara manusia dan alam, dan mereka cenderung membela kontrol ekonomi bahkan penghapusan properti privat atas nama kesejahteraan planet.
 
+![Partai Hijau ditempatkan di sektor otoriter Diagram Nolan](./assets/en/015.webp)
 
-- Bawah: bentuk statisme yang paling otoriter, bahkan totaliter, sesuai dengan mereka yang hanya mendukung sedikit kebebasan ekonomi dan kebebasan pribadi.
-- Di sebelah kiri: kaum sosialis. Mereka yang mendukung kebebasan ekonomi yang lebih sedikit dan lebih banyak kebebasan pribadi.
-- Di sebelah kanan: kaum konservatif. Mereka yang mendukung tingkat kebebasan ekonomi yang tinggi dan tingkat kebebasan pribadi yang rendah.
-- Atas: kaum libertarian, kebalikan dari statisme garis keras. Mereka adalah orang-orang yang mendukung kebebasan ekonomi dan kebebasan pribadi yang lebih besar.
-- Di tengah: kaum sentris. Ini adalah zona pragmatis, bagi mereka yang mendukung sistem yang memadukan sedikit kebebasan ekonomi dan pribadi dengan keinginan untuk beberapa regulasi pasar, yang menyiratkan pengorbanan hak-hak individu tertentu.
-
-
-
-Hal ini membuat pendekatan dua dimensi diagram Nolan menjadi representasi spektrum politik yang jauh lebih akurat daripada garis satu dimensi dari kiri ke kanan yang biasa digunakan oleh sebagian besar analis politik.
-
-
-
-## Dua dimensi fundamental
-
+## Dua dimensi mendasar
 
 <chapterId>e41d903d-26c9-425e-8a92-6aec48838b61</chapterId>
 
 
 
-Diagram ini mewakili kebebasan ekonomi (tingkat pajak, pasar bebas, layanan swasta) pada sumbu x, dan kebebasan pribadi (kebebasan bergerak, berpendapat, menentukan nasib sendiri) pada sumbu y.
 
-
-
-Skema ini didasarkan pada gagasan bahwa sebagian besar masalah politik dapat dibagi menjadi dua kategori besar: ekonomi dan pribadi (atau masyarakat).
-
-
+Diagram tersebut mewakili kebebasan ekonomi (tingkat pajak, pasar bebas, layanan privat) pada sumbu horizontal, dan kebebasan personal (kebebasan bergerak, opini, penentuan diri) pada sumbu vertikal. Skema ini didasarkan pada gagasan bahwa sebagian besar isu politik dapat dibagi ke dalam dua kategori besar: ekonomi dan personal (atau sosial).
 
 ### Kebebasan ekonomi
 
+**Kategori kebebasan ekonomi mencakup apa yang Anda lakukan sebagai produsen dan konsumen**: apa yang dapat Anda beli, jual, atau produksi; di mana Anda bekerja; siapa yang Anda pekerjakan; dan apa yang Anda lakukan dengan uang Anda.
 
-Kategori Kebebasan Ekonomi mencakup apa yang Anda lakukan sebagai produsen dan konsumen, apa yang bisa Anda beli, jual, atau hasilkan. Ini juga mencakup di mana Anda bekerja, siapa yang Anda pekerjakan, serta apa yang Anda lakukan dengan uang milik Anda.
+![Kebebasan ekonomi: apa yang Anda lakukan sebagai produsen dan konsumen](./assets/en/016.webp)
 
+*Contoh aktivitas ekonomi:* memulai usaha, membeli rumah, membangun bangunan, menginvestasikan tabungan, merekrut atau memberhentikan karyawan.
 
+![Contoh aktivitas ekonomi pada Diagram Nolan](./assets/en/017.webp)
 
-Contoh aktivitas ekonomi: memulai bisnis; membeli rumah; membangun gedung; berbelanja; bekerja di kantor.
+- **Ke kanan sumbu** (menuju kebebasan ekonomi maksimum): preferensi untuk lebih sedikit intervensi negara dalam ekonomi, lebih sedikit regulasi, pajak lebih rendah, dan kebebasan lebih besar bagi perusahaan serta individu untuk memproduksi, berdagang, dan mengonsumsi. Penekanannya pada pasar bebas, properti privat, dan persaingan sebagai mesin kemakmuran.
+  - *Tokoh emblematis:* Margaret Thatcher (UK), Ronald Reagan (USA), Javier Milei (Argentina).
 
+![Berlian Nolan: sumbu kebebasan ekonomi](./assets/en/018.webp)
 
+- **Ke kiri sumbu** (menuju kontrol negara maksimum atas ekonomi): preferensi untuk regulasi, pajak tinggi guna membiayai layanan publik (kesehatan, pendidikan, transportasi), nasionalisasi, dan redistribusi kekayaan. Tujuannya sering mengurangi ketimpangan dan menjamin tingkat keadilan sosial tertentu.
+  - *Tokoh emblematis:* Franklin D. Roosevelt (USA), Jean Jaurès (France), Bernie Sanders, Barack Obama.
 
+![Berlian Nolan: statisme kiri](./assets/en/019.webp)
 
+### Kebebasan personal dan sosial
 
-- Di sumbu sebelah kanan** (menuju 100 pada skala Masalah Ekonomi) terdapat preferensi terhadap **kebebasan ekonomi.** Ini berarti intervensi negara yang lebih minim dalam perekonomian, peraturan yang lebih sedikit, pajak yang lebih rendah, serta kebebasan yang lebih besar bagi perusahaan dan individu untuk berproduksi, berdagang, dan mengonsumsi. Penekanannya ada pada pasar bebas, kepemilikan pribadi, dan kompetisi sebagai mesin kemakmuran.
- - Tokoh-tokoh simbolis:* Margaret Thatcher (Inggris), Ronald Reagan (Amerika Serikat), Javier Milei (Argentina).
+**Kategori kebebasan personal mencakup apa yang Anda lakukan dalam hubungan privat Anda**, dengan opini dan keyakinan Anda. Secara umum, ini adalah semua yang Anda lakukan dengan tubuh dan pikiran Anda sendiri.
 
+![Kebebasan personal: apa yang Anda lakukan dalam hubungan privat Anda](./assets/en/020.webp)
 
+*Contoh aktivitas personal:* pernikahan, memilih buku yang Anda baca dan film yang Anda tonton, makanan, obat, dan narkoba yang Anda pilih untuk konsumsi, pilihan agama, organisasi yang Anda ikuti, orang yang Anda pilih untuk bergaul.
 
-![Right Graphique](./assets/fr/009.webp)
+![Contoh kebebasan personal dan sosial pada Diagram Nolan](./assets/en/021.webp)
 
+- **Bagian atas sumbu** (menuju kebebasan personal maksimum): preferensi untuk kebebasan individu dan toleransi. Negara harus sesedikit mungkin ikut campur dalam pilihan hidup individu (kebebasan berekspresi, legalisasi zat tertentu, kebebasan bergerak, dll.). Kita menghargai otonomi dan keragaman.
+  - *Tokoh emblematis:* Nelson Mandela, Simone Veil, Noam Chomsky.
 
+![Berlian Nolan: sumbu kebebasan personal](./assets/en/022.webp)
 
+- **Bagian bawah sumbu** (menuju kontrol negara maksimum atas kehidupan personal): preferensi untuk ketertiban, keamanan, dan nilai tradisional. Negara memiliki peran dalam mengatur moral, menjaga ketertiban publik, dan kadang membela visi moralitas atau tradisi tertentu. Ini mencakup posisi yang mendukung hukuman mati, pembatasan imigrasi, atau promosi keluarga tradisional oleh pemerintah.
+  - *Tokoh emblematis:* Joseph de Maistre (filsuf kontra-revolusioner Prancis), dan pemimpin otoriter kontemporer seperti Vladimir Putin dan Xi Jinping.
 
-
-- Di sumbu sebelah kiri** (menuju 0 pada skala Masalah Ekonomi): preferensi untuk **intervensi negara yang kuat dalam perekonomian**. Hal ini menyiratkan regulasi, pajak yang tinggi untuk membiayai layanan publik (kesehatan, pendidikan, transportasi), nasionalisasi, dan redistribusi kekayaan. Tujuannya sering kali untuk mengurangi ketidaksetaraan dan menjamin keadilan sosial.
-  - Tokoh-tokoh lambang:* Franklin D. Roosevelt (AS), Jean Jaurès (Prancis), Bernie Sanders, Barack Obama.
-
-
-
-![Left Graphique](./assets/fr/010.webp)
-
-
-
-### Kebebasan pribadi dan sosial
-
-
-
-Kategori Kebebasan Pribadi mencakup apa yang Anda lakukan dalam hubungan pribadi, serta pendapat dan keyakinan. Secara umum, ini mencakup segala hal yang Anda lakukan dengan tubuh dan pikiran Anda sendiri.
-
-
-*Contoh aktivitas pribadi:* pernikahan; memilih buku yang Anda baca dan film yang Anda tonton; makanan dan obat-obatan yang Anda pilih untuk dikonsumsi; olahraga; pilihan agama Anda; organisasi yang Anda ikuti; orang-orang yang Anda pilih untuk bergaul.
+![Berlian Nolan: sumbu otoriter](./assets/en/023.webp)
 
 
-
-
-
-- Di sumbu bagian atas** (menuju 100 pada skala Masalah Sosial): preferensi untuk **kebebasan individu** dan toleransi. Negara harus sesedikit mungkin mencampuri pilihan hidup individu (hak aborsi, hak LGBTQ+, kebebasan berekspresi, legalisasi zat-zat tertentu, dll.). Kami menghargai otonomi dan keragaman.
-  - Tokoh-tokoh simbolis:* Nelson Mandela, Simone Veil, Noam Chomsky.
-
-
-
-
-![Left Libertes Graphique](./assets/fr/011.webp)
-
-
-
-
-
-- Di sumbu bagian bawah** (menuju 0 pada skala Masalah Sosial): preferensi untuk **ketertiban, keamanan, dan nilai-nilai tradisional**. Negara memiliki peran dalam mengatur moral, menjaga ketertiban umum, dan terkadang mempertahankan visi moralitas atau tradisi tertentu, termasuk melalui kekerasan. Hal ini termasuk posisi yang mendukung hukuman mati, pembatasan imigrasi, atau promosi keluarga tradisional yang dipimpin oleh pemerintah.
-  - Tokoh-tokoh yang menjadi simbol:* Joseph de Maistre (filsuf kontra-revolusioner Prancis) - karena gagasannya tentang tatanan dan otoritas ilahi. Pemimpin otoriter kontemporer seperti Vladimir Putin di Rusia dan Xi Jinping di Tiongkok.
-
-
-
-
-![Libertes Graphique](./assets/fr/012.webp)
-
-
-
-## Apakah Anda seorang statist sayap kanan atau sayap kiri?
-
+## Apakah Anda statis kanan atau statis kiri?
 
 
 <chapterId>06d903fc-9453-47d4-b0b1-38b6b82ccf99</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=AskWWBXom3Y)
+### Statisme sebagai titik temu
 
+Bertentangan dengan penampilan, kiri dan kanan tidak seberlawanan seperti kelihatannya. Mereka sangat sering berbagi hasrat yang sama untuk kontrol: yang bisa kita sebut statisme. Tentu saja, motivasi, nilai, dan prioritas mereka berbeda.
 
+Kiri kurang peduli pada tuntutan moral tradisional tetapi memprioritaskan keadilan sosial dan kesetaraan, khususnya pada tingkat ekonomi. Inilah sumber permusuhannya terhadap kebebasan ekonomi, kapitalisme, dan pasar bebas: **kiri ingin membuat undang-undang dan mengatur ekonomi**.
 
-Seseorang bisa saja berada di sayap kiri dalam hal ekonomi (mendukung redistribusi), tetapi di sayap kanan dalam isu-isu sosial (sangat terikat pada tatanan dan tradisi). Dan bisa juga sebaliknya. Model berbentuk berlian menangkap kerumitan ini.
+Kanan, pada bagiannya, memprioritaskan moral personal dan nilai tradisional. Ia menganggap bahwa peradaban dibangun di atas institusi tradisional dan hierarki sosial tertentu, dan warisan ini harus dipertahankan. Ia lebih mendukung kebebasan ekonomi karena membela moralitas properti privat dan tanggung jawab individu, tetapi **ia ingin membuat undang-undang tentang moralitas dan agama**.
 
-Kiri secara tradisional didefinisikan sebagai sesuatu yang berkaitan dengan sosialisme, yaitu sebuah sistem di mana negara memiliki kekuasaan yang signifikan atas individu dan organisasi dalam masyarakat, terutama dalam hal redistribusi pendapatan. Kanan sering dilihat sebagai kebalikannya, yakni kondisi di mana negara tidak memiliki kekuasaan yang signifikan, yang kemudian didefinisikan sebagai liberal. Namun, pada kenyataannya, situasinya jauh lebih kompleks, dan sayap kanan bukan sekadar kebalikan dari sayap kiri.
+### Sumbu vertikal mengungkap kebenaran
 
-Faktanya, kebijakan yang diterapkan oleh pemerintah sayap kanan maupun kiri selama beberapa dekade terakhir tidak berbeda secara fundamental, dan tidak ada satu pun yang benar-benar liberal dalam pengertian klasik Eropa.
+Gagasan pusat Diagram Nolan adalah bahwa perbedaan utama antara filsafat politik adalah derajat kontrol pemerintah atas tindakan manusia, baik di ranah personal maupun ekonomi. Dengan kata lain, tidak hanya ada sumbu kiri-kanan yang mencerminkan sensibilitas personal Anda, tetapi juga sumbu atas-bawah yang mencerminkan kesediaan Anda memakai kekuatan untuk memaksa orang lain mengikuti nilai Anda.
 
-Gagasan utama dari diagram Nolan adalah bahwa perbedaan utama antara berbagai filosofi politik, faktor penentu yang sesungguhnya, terletak pada tingkat kontrol pemerintah terhadap tindakan manusia, baik dalam ranah pribadi maupun ekonomi.
+![Statisme kiri dan kanan](./assets/en/024.webp)
 
-Dengan kata lain, bukan hanya poros kiri-kanan yang mencerminkan nilai-nilai pribadi Anda, tetapi juga poros atas-bawah yang mencerminkan sejauh mana Anda bersedia menggunakan kekuatan untuk memaksa orang lain mengikuti nilai-nilai Anda.
+Dari perspektif ini, kiri dan kanan berbagi tujuan politik yang sama: memenangkan kekuasaan untuk mengorganisasi masyarakat menurut visi dunia mereka dan memaksakannya pada semua orang. Inilah definisi statisme: memakai legislasi untuk mengontrol dan membentuk masyarakat. Bagi sebagian, ini atas nama membela peradaban; bagi yang lain, atas nama membela kelas pekerja, alam, atau yang tertindas. Dan kaum sentris juga menyetujuinya ketika cocok bagi mereka.
 
-Dari sudut pandang ini, kanan dan kiri memiliki tujuan politik yang sama, yaitu memenangkan kekuasaan agar mereka dapat mengatur masyarakat sesuai dengan visi mereka tentang dunia dan memaksakannya kepada semua orang.
+Karena itu kita dapat mengatakan bahwa **sebagian adalah statis kanan, sementara yang lain adalah statis kiri**. Pertanyaan politik sejati bukan terutama apakah Anda kiri atau kanan, melainkan sejauh mana Anda ingin negara ikut campur membentuk masyarakat menurut nilai Anda. Apakah Anda ingin memaksakan sensibilitas Anda sendiri pada orang lain, atau Anda lebih suka **setiap orang bebas memutuskan bagi dirinya sendiri**?
 
-Inilah definisi dari statisme, yaitu penggunaan undang-undang untuk mengontrol dan membentuk masyarakat.
-
-Karena itulah kita bisa mengatakan bahwa sebagian orang adalah statist sayap kanan, sementara yang lain adalah **statist sayap kiri** atau condong ke tengah.
-
-
-![Libertes Graphique](./assets/fr/013.webp)
-
-
-
-Bagi sebagian orang, hal ini dilakukan atas nama membela peradaban, bagi sebagian yang lain atas nama membela kelas pekerja, alam, atau kaum tertindas. Kaum sentris juga menyetujui hal ini, selama dianggap sesuai dengan kepentingan mereka.
-
-Sayap kanan percaya bahwa moralitas pribadi adalah hal yang paling penting, sehingga mereka siap memberikan kebebasan dalam hal kepemilikan dan ekonomi. Di sisi lain, mereka ingin secara bersamaan menetapkan undang-undang yang mengatur moralitas dan agama.
-
-Sementara itu, kelompok kiri tidak terlalu mementingkan persyaratan moral dan agama tradisional. Mereka juga tidak terlalu menekankan keadilan ilahi, melainkan lebih mementingkan keadilan sosial, atau mungkin gagasan bahwa keadilan ilahi akan terwujud sebagai keadilan sosial. Bagi mereka, distribusi imbalan yang dianggap tepat dalam masyarakat dipandang sebagai persoalan keputusan yudisial atau politik. Oleh karena itu, kaum kiri politik cenderung memusuhi kebebasan ekonomi dan pasar bebas, yang dianggap tidak mendistribusikan kekayaan dan imbalan sesuai dengan kebutuhan individu.
-
-
-
-## Apakah Anda seorang konservatif budaya atau konservatif politik?
-
+## Apakah Anda konservatif kultural atau konservatif politik?
 
 <chapterId>bef3d6f1-390a-472d-8f18-a559d38aea54</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=4DDAZGjQk2Q)
+### Dua konservatisme yang berbeda
 
+![Pembedaan antara konservatisme kultural dan politik](./assets/en/025.webp)
 
+Istilah "konservatisme" dapat menimbulkan kebingungan. Kita mutlak harus **membedakan konservatisme kultural, yang termasuk ranah nilai**, dari konservatisme politik, yaitu filsafat politik yang bergantung pada pemaksaan nilai-nilai tersebut kepada seluruh masyarakat.
 
-Konservatisme budaya adalah kepatuhan pribadi terhadap apa yang disebut nilai-nilai moral tradisional, antropologi, estetika, dan metafisika, yang semuanya diwarisi dari masa lalu. Ini adalah kebijaksanaan hidup, yang dipandu oleh prinsip-prinsip leluhur, baik itu Yunani-Romawi atau Yudeo-Kristen. **Ini bukan filosofi politik.**
+**Konservatisme politik** adalah ideologi, sering diwakili partai kanan atau kanan jauh. Ia bertujuan mempertahankan institusi politik dan tatanan sosial yang mapan, menentang pergolakan struktural besar. Para pendukungnya ingin memakai kekuasaan dan hukum untuk menjaga warisan mereka. Di Prancis, tradisi ini dapat ditelusuri ke pemikir kontra-revolusioner seperti Joseph de Maistre dan Louis de Bonald, dan lebih baru ke Raymond Aron pada abad ke-20.
 
+**Konservatisme kultural**, sebaliknya, adalah kebijaksanaan hidup: keterikatan personal pada nilai keluarga, moral, estetika, dan metafisika yang diwarisi dari masa lalu, baik Greko-Romawi maupun Yudeo-Kristen. Ini bukan filsafat politik. Konservatif kultural percaya bahwa manusia, agar bahagia, membutuhkan pengangkatan jiwa, nilai spiritual, dan keluhuran rasa tertentu. Nilai-nilai ini tidak dipaksakan pada orang lain; ia dijalani sebagai pilihan personal dan kadang familial.
 
+### Anda bisa menjadi konservatif kultural dan libertarian
 
-Jika Anda seorang konservatif budaya, Anda mendukung keluarga tradisional, etika kebajikan, dan kepercayaan kepada Tuhan. Konservatif budaya percaya bahwa manusia, untuk bisa bahagia, membutuhkan pengembangan jiwa, nilai-nilai spiritual, dan keluhuran perasaan.
+Dua cabang ini, meski berbeda, kadang membingungkan karena dapat dianut bersamaan atau terpisah. **Anda bisa menjadi konservatif kultural tanpa menjadi konservatif politik.** Seseorang dapat membela tradisi kultural (keluarga, agama, adat lokal) dalam kehidupan personal atau komunitas, sambil menganjurkan pemerintahan terbatas yang tidak memaksakan nilai-nilai ini lewat hukum. Orang seperti itu mendorong norma konservatif melalui persuasi, pendidikan, dan teladan, sambil menghormati hak orang lain untuk hidup berbeda.
 
+Libertarian yang konservatif secara kultural mungkin secara moral tidak menyetujui perilaku tertentu, tetapi **tidak menganjurkan pelarangan hukum terhadap tindakan suka sama suka dan non-agresif**. Ia mungkin tidak menyukai tindakan itu, menentangnya, dan aktif mencegahnya, tetapi selalu tanpa menggunakan kekuatan koersif hukum.
 
+Sintesis antara libertarianisme dan konservatisme kultural ini diberi nama "paleo-libertarianism" di Amerika Serikat. Arus ini membedakan diri dari neo-libertarianism (aliran yang lebih simpatik terhadap egalitarianisme dan evolusi sosial 1970-an) dengan menggabungkan **penolakan terhadap negara sebagai sumber institusional paksaan** dengan penguatan institusi tradisional dan preferensi pada struktur sosial sukarela daripada otoritas negara. Dengan kata lain, paleo-libertarian tidak menentang keberadaan komunitas sosialis atau komunitarian; yang ia tolak adalah komunitas seperti itu memaksakan nilainya kepada semua orang lewat kekuatan hukum. Dua figur utama mewujudkan pendekatan ini:
 
-Di sisi lain, **konservatisme politik** adalah cara mengorganisir masyarakat menurut tatanan yang tetap. Inilah sebabnya mengapa kaum konservatif menentang kemajuan. Mereka ingin membekukan masyarakat dalam kondisi yang telah dicapai pada saat mereka berbicara, dan percaya bahwa perubahan apa pun akan menjadi lebih buruk.
+![Paleo-libertarianism: konservatisme kultural dipadukan dengan prinsip libertarian](./assets/en/026.webp)
 
+- **Murray Rothbard**, ekonom dan filsuf yang mengembangkan teori libertarian sambil mengakui pentingnya nilai tradisional, tanpa pernah menganjurkan pemaksaannya oleh negara.
+- **Ron Paul**, anggota kongres dari Texas selama beberapa dekade yang mencalonkan diri untuk nominasi presiden Partai Republik. Secara pribadi konservatif dalam nilai, ia konsisten membela visi pemerintahan terbatas yang menghormati kebebasan individu. Misalnya, Ron Paul selalu menyarankan agar tidak memakai narkoba tetapi sekaligus menentang pelarangan narkoba. Ia secara pribadi menentang aborsi namun konsisten berargumen bahwa pilihan harus diserahkan kepada negara bagian federal, bukan dipaksakan dari atas.
 
+![Posisi konservatif dan libertarian](./assets/en/027.webp)
 
-Secara politis, konservatif budaya sering kali bergabung dengan barisan konservatisme politik. Namun, hal ini tidak selalu terjadi. Kedua konservatisme tersebut tidak selalu tidak dapat dipisahkan. **Anda bisa menjadi seorang konservatif budaya dan seorang libertarian.**
-
-
-
-Sebagai contoh, seseorang bisa mempertahankan tradisi budaya seperti keluarga, agama, atau adat istiadat setempat dalam kehidupan pribadi atau komunitasnya, sambil mendukung pemerintahan yang terbatas dan tidak memaksakan nilai-nilai tersebut melalui hukum. Orang seperti ini mungkin mendorong norma-norma konservatif lewat persuasi, pendidikan, atau dengan memberi teladan, sambil tetap menghormati hak orang lain untuk hidup dengan cara yang berbeda, sesuai dengan prinsip-prinsip libertarian.
-
-
-
-Seorang libertarian konservatif secara budaya mungkin secara moral tidak menyetujui perilaku tertentu, tetapi ia **tidak menganjurkan pelarangan hukum atau pemenjaraan** orang-orang yang terlibat dalam tindakan konsensual dan tidak agresif. Ia mungkin tidak menyukai tindakan seperti itu, menentangnya, melawannya, dan secara aktif mencegah orang untuk terlibat di dalamnya, tetapi selalu **tanpa menggunakan kekuatan paksaan hukum**.
-
-
-
-Dalam praktiknya, tokoh-tokoh seperti Ron Paul atau pemikir seperti Rothbard dan Hoppe di Amerika Serikat telah mencoba mendamaikan kedua visi ini, dengan mempertahankan nilai-nilai tradisional dan kebebasan individu yang maksimal.
-
-
-
-![Libertes Graphique](./assets/fr/014.webp)
-
-
-
-## Apakah Anda seorang liberal atau libertarian?
-
+## Apakah Anda liberal atau libertarian?
 
 <chapterId>d382c40b-78ce-416f-9f63-6ad43768406b</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=pPA2uyoaBrE)
+### Kebingungan transatlantik
 
+![Kebingungan transatlantik antara liberalisme dan libertarianisme](./assets/en/028.webp)
 
+Istilah yang dipakai untuk menunjuk keluarga politik tidak tetap. Ia dapat bervariasi menurut konteks geografis dan historis, menciptakan sumber kebingungan besar. Ketika pertanyaannya diajukan, "apakah Anda liberal atau libertarian?", orang Eropa mungkin menjawab bahwa itu sama. Tetapi dalam penggunaan Anglo-Saxon, keduanya adalah konsep yang sangat berbeda.
 
-Istilah yang digunakan untuk menunjuk keluarga politik tidak selalu sama. Istilah-istilah tersebut dapat bervariasi sesuai dengan konteks geografis dan sejarah. Hal ini dapat menyebabkan kebingungan.
+Di Eropa, istilah *liberalism* tetap relatif stabil dari waktu ke waktu: ia dikaitkan dengan kebijakan ekonomi laissez-faire, pengurangan intervensi negara, dan pembelaan kebebasan individu. Posisi yang umumnya diklasifikasikan di kanan.
 
+![Makna liberalisme yang berbeda di Eropa versus Amerika Serikat](./assets/en/029.webp)
 
+Di Amerika Serikat, kata yang sama mengalami pergeseran makna dramatis. **Kaum *liberal* Amerika telah menjadi pendukung intervensi negara dan *Big Government***. Evolusi ini dapat ditelusuri melalui momen-momen kunci:
 
-Di Eropa dan Amerika Serikat, beberapa kata tertentu tidak lagi memiliki arti yang sama. Demikian halnya dengan kata liberalisme.
+- Pada 1930-an, *New Deal* Franklin D. Roosevelt menandai giliran intervensionis besar pertama sebagai respons terhadap Depresi Besar: pekerjaan umum, lapangan kerja publik, subsidi. Makna *liberalism* mulai bergeser ke paradigma statis.
+- Pada 1960-an, *Great Society* Lyndon B. Johnson memperluasnya ke program sosial dan intervensi federal.
+- Hari ini, *liberal* Amerika sebagian besar adalah Demokrat yang membela asuransi kesehatan publik dan rencana anti-kemiskinan. Seseorang seperti Bernie Sanders, yang menyebut dirinya sosialis atau sosial-demokrat, mengklaim label liberal, tetapi baginya itu sinonim dengan intervensi negara untuk membebaskan individu.
 
+Kita sangat jauh dari makna Eropa istilah tersebut.
 
+![Evolusi historis liberalisme Amerika menuju intervensionisme](./assets/en/030.webp)
 
-Di Amerika Utara, *liberalisme* diklasifikasikan di sebelah kiri dan disamakan dengan ideologi progresif. Bahkan, kaum *liberal* Amerika telah menjadi pendukung intervensi negara dan *Pemerintah Besar*. Evolusi historis ini sangat kontras dengan makna yang terus berlanjut dari istilah liberal dan konservatif di Eropa.
+### Kemunculan libertarianisme
 
+Menghadapi drift linguistik ini, pendukung liberalisme klasik di Amerika Serikat mulai menyebut diri mereka *libertarians* sejak 1960-an, tepat untuk membedakan diri dari *liberals* Amerika. Mereka adalah pewaris liberalisme klasik Eropa abad ke-19.
 
+![Kemunculan libertarianisme sebagai respons terhadap drift liberalisme Amerika](./assets/en/031.webp)
 
-Memang, di banyak negara, terutama di Eropa, istilah liberalisme dikaitkan dengan kebijakan ekonomi laissez-faire dan berkurangnya campur tangan negara.
+Sumbu mendasar libertarianisme adalah konsep **tatanan spontan, terutama berutang pada Friedrich Hayek** dan sekolah ekonomi Austria. Menurut Hayek, aturan dan norma yang mengatur masyarakat tidak boleh dipaksakan dari atas oleh perencanaan otoriter, tetapi harus muncul dari permainan bebas kehendak individu, kontrak, dan hubungan yang disepakati secara bebas antara orang dewasa.
 
+### Figur intelektual kunci
 
+![Figur intelektual kunci libertarianisme: Rothbard dan Nozick](./assets/en/032.webp)
 
-Inilah sebabnya mengapa istilah *liberal* menyesatkan bagi orang Eropa. Politik liberal Amerika, sejak abad ke-20, dapat digambarkan sebagai pergeseran ke arah paradigma statist dan otoriter, yang telah mendistorsi arti kata *liberalisme*.
+Beberapa pemikir membentuk gerakan libertarian:
 
+- **Murray Rothbard**, yang sudah kita sebut terkait konservatisme kultural, juga teoritikus anarko-kapitalisme. Dalam bukunya tahun 1973 *For a New Liberty*, ia menganjurkan **penghapusan negara dan privatisasi penuh aktivitas sosial**, menentang intervensionisme ekonomi maupun militer.
+- **Robert Nozick**, profesor filsafat politik di Harvard, menanggapi *A Theory of Justice* karya John Rawls dengan *Anarchy, State, and Utopia* (1974). Nozick membela negara minimal dalam tradisi Lockean, dan gaya analitisnya yang ketat sangat membantu melegitimasi pemikiran libertarian di lingkar akademik.
 
+### Struktur institusional
 
-Secara historis, *liberalisme* Amerika telah mendukung campur tangan negara yang signifikan (*New Deal* Franklin Delano Roosevelt dan *Great Society* Lyndon B. Johnson), termasuk redistribusi kekayaan dan program-program sosial. Di Amerika Serikat, istilah *liberal* oleh karena itu diasosiasikan dengan kebijakan sayap kiri atau sosial-demokratik, seperti asuransi kesehatan publik dan rencana anti-kemiskinan publik.
+![Struktur institusional gerakan libertarian](./assets/en/033.webp)
 
+**Gerakan libertarian secara bertahap mengorganisasi diri**:
 
+- **Cato Institute** (1977), think tank berbasis di Washington, bekerja pada usulan kebijakan publik.
+- **Mises Institute** (1982), di Auburn, Alabama, berfokus pada pendidikan daripada lobi politik, berfungsi seperti universitas daring dengan konferensi dan karya yang diterbitkan ulang.
+- **Libertarian Party** (1971), meskipun rata-rata memperoleh sekitar 2% dalam pemilu, merupakan partai politik terbesar ketiga di Amerika. Dua persen itu dapat mengubah hasil pemilu, memberi partai pengaruh jauh melampaui skor elektoralnya.
 
-Sejak tahun 1960-an dan seterusnya, para pendukung liberalisme klasik di AS mulai menyebut diri mereka sebagai *libertarian* untuk membedakan diri mereka dari kaum liberal Amerika. Mereka adalah pewaris liberalisme klasik Eropa abad ke-19.
+### Libertarian dan konservatif: aliansi kompleks
 
+Libertarian secara radikal menentang *liberals* Amerika dalam makna modern istilah itu. Dalam hal ini, mereka berbagi titik temu tertentu dengan konservatif: keterikatan pada pemerintahan terbatas para Founding Fathers, penolakan terhadap egalitarianisme paksa, oposisi terhadap utang publik, dan pembelaan hak negara bagian melawan kekuasaan federal. Ron Paul paling jelas mewujudkan konvergensi ini, meski ia tetap suara minoritas dalam Partai Republik.
 
+Namun divergensi mendasar tetap ada. Libertarian menolak intervensionisme militer neokonservatif (orang mengingat George W. Bush dan perang Irak), menentang kebijakan sosial konservatif dan subsidi (baik kepada bisnis maupun keluarga atas nama belas kasih), mengecam pelarangan narkoba sebagai tidak hanya tidak efektif tetapi imoral, dan menolak proteksionisme. Pada poin terakhir ini, misalnya, **kebijakan tarif Trump mendapat kritik tajam dari libertarian** yang melihatnya sebagai pengkhianatan terhadap prinsip perdagangan bebas. Aliansi antara konservatif dan libertarian, karena itu, nyata tetapi pada dasarnya tegang, disatukan oleh kritik bersama terhadap *liberalism* Amerika tetapi terbelah soal cakupan kekuasaan negara yang tepat.
 
-## Apakah Anda seorang libertarian atau libertaire/anarkis (dalam bahasa Prancis libertaire)?
-
+## Apakah Anda libertarian atau libertaire/anarkis (dalam bahasa Prancis libertaire)?
 
 <chapterId>fc761194-249f-4009-a20f-1f98b7226cf2</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=qi6HPBmrJkg)
+### Ketidakcocokan mendasar
 
+![Libertarian versus libertaire: ketidakcocokan mendasar](./assets/en/034.webp)
 
+Keduanya tidak kompatibel. Ada sumber kebingungan besar antara istilah-istilah ini, khususnya dalam terjemahan otomatis ketika *libertarian* Anglo-Saxon sering diterjemahkan sebagai *libertaire*. Namun **filsafat politik ini, meski memiliki beberapa kemiripan superfisial, menunjukkan perbedaan mendasar**.
 
-Istilah **libertarian** terkadang diterjemahkan sebagai libertarian atau libertine, yang merupakan kesalahpahaman besar.
+### Anarkisme sosialis (para *libertaires*)
 
+![Para libertaires: pewaris anarkisme sosialis](./assets/en/035.webp)
 
+Para *libertaires* Prancis adalah pewaris anarkisme sosialis, cabang sosialisme yang secara historis terkait dengan pemikir seperti Pierre-Joseph Proudhon dan Mikhail Bakunin. Prinsip mendasar mereka adalah:
 
-Istilah libertaire dalam bahasa Prancis berasal dari tradisi anarkis abad ke-19, yang berasal dari sosialisme. Tradisi ini secara historis terkait dengan pemikir seperti Pierre-Joseph Proudhon dan Mikhail Bakunin. Anarkisme adalah doktrin politik yang menyatakan bahwa semua bentuk pemerintahan tidak diperlukan, menindas, dan harus dihapuskan.
+- Negara harus dihapus, karena merupakan struktur opresif.
+- Properti privat dan kapitalisme juga harus dihapus, karena dalam doktrin anarkis, negara adalah pelindung properti privat dan orang kaya. Dari sini formula terkenal Proudhon: "Property is theft." (Perlu dicatat bahwa Proudhon sendiri berevolusi pada poin ini: Proudhon awal sangat anti-kapitalis, tetapi **Proudhon akhir bergerak mendekati liberalisme klasik** dan mulai melihat properti privat sebagai jaminan kebebasan.)
+- Mereka mendukung kembalinya ekonomi barter dan masyarakat egaliter di mana barang menjadi milik semua.
 
+Anarkis seperti Bakunin dan Kropotkin (yang merupakan anarko-komunis ketat, menolak bahkan upah sebagai kembalinya kapitalisme) melihat properti privat dan negara sebagai dua sumber opresi kembar. Mereka menganjurkan komune swakelola, koperasi, dan gerakan anti-hierarki. Visi ekonomi mereka bertumpu pada teori nilai kerja; mereka mengecam sistem upah, menolak laba dan suku bunga, dan menginginkan **hilangnya uang dan bank secara radikal**.
 
+### Libertarianisme: properti sebagai fondasi kebebasan
 
-Bagi kaum anarkis sosialis dan komunis, harta benda adalah pencurian. Mereka ingin melihat hilangnya uang dan bank, dan kembali ke ekonomi lokal berdasarkan barter. Mereka mencari masyarakat egaliter di mana kebebasan individu dijalankan dalam kerangka kerja kolektif, tanpa dominasi.
+![Libertarianisme: properti privat sebagai fondasi kebebasan](./assets/en/036.webp)
 
+Libertarian sepenuhnya berbeda dari *libertaires* karena mereka membela properti privat sebagai fondasi kebebasan itu sendiri. Bagi mereka, properti privat bukan sekadar konvensi sosial yang dilindungi negara: **ia adalah hak alamiah yang mendahului hukum dan negara**. Jika seorang individu memiliki tubuhnya sendiri, ia juga memiliki kerja dan buah kerjanya. Kepemilikan barang material dipahami sebagai perpanjangan dari self-ownership.
 
+Dari sini, perpajakan dipahami sebagai agresi yang mirip pencurian, karena memaksa individu menyerahkan sebagian propertinya untuk layanan yang belum tentu ia pilih. Persetujuan sukarela membentuk dasar moral libertarianisme.
 
-Tidak seperti libertarian, anarkis sering kali anti-kapitalis, menganjurkan bentuk-bentuk ekonomi seperti mutualisme, kolektivisme, atau komunisme libertarian.
+Mengenai kekerasan, doktrin libertarian menolak semua bentuk kekerasan agresif. Namun ia mengakui kekerasan defensif sebagai sah: pembelaan diri dan perlawanan terhadap penindasan.
 
+### Strategi menghapus negara
 
-Anarkis sosialis seperti Mikhail Bakunin dan Pierre Kropotkin melihat kepemilikan pribadi dan negara sebagai sumber penindasan kembar, dan mengusulkan penghapusannya.
+Di sini terdapat perbedaan mendasar lain. Para *libertaires* secara historis menganjurkan penghancuran negara dan kapitalisme melalui kekerasan, baik kolektif maupun individu. Pendekatan ini secara historis bertumpu pada teror dan serangan terarah (atau tidak terarah), seperti terlihat di Rusia dan kemudian di Spanyol selama perang saudara.
 
+Bagi libertarian, kekerasan agresif tidak sah. Strategi utama bertumpu pada **delegitimasi negara melalui pembentukan keyakinan kolektif**: argumentasi, debat, diskusi, dan pendidikan. Libertarian menganjurkan pembangkangan sipil atau tindakan yang sengaja mengabaikan negara.
 
+### Anarko-kapitalisme: akar historis
 
-Seorang anarkis mungkin akan mengadvokasi kelompok-kelompok yang dikelola sendiri, koperasi, atau gerakan anti-hierarki, sambil menolak otoritas negara dan struktur kapitalis.
+![Akar historis anarko-kapitalisme: Molinari, Spooner, dan Tucker](./assets/en/037.webp)
 
+Anarko-kapitalisme bukan doktrin baru. Akarnya berada pada abad ke-19:
 
+- **Gustave de Molinari**, ekonom Belgia yang bekerja di Paris bersama Frédéric Bastiat, menulis artikel tahun 1849 berjudul "The Production of Security," di mana ia berargumen bahwa tidak ada pemerintah yang boleh memiliki hak mencegah pihak lain bersaing dengannya, atau mewajibkan konsumen keamanan hanya datang kepadanya untuk produk ini.
+- **Lysander Spooner** dan **Benjamin Tucker** di Amerika Serikat adalah anarkis individualis yang berargumen kuat bahwa pasar bebas mampu mengambil alih fungsi berdaulat negara, terutama keamanan dan keadilan.
 
-Mereka mendukung penghapusan negara, tetapi telah meninggalkan tindakan kekerasan terhadap negara karena kurang efektif. Di sisi lain, mereka tidak meninggalkan penggunaan kekerasan terhadap perusahaan swasta. Mereka mendukung monopoli publik, menerima teori nilai tenaga kerja, mengutuk sistem upah, dan menganggap keuntungan dan suku bunga sebagai eksploitasi. Beberapa anarkis sayap kiri, seperti Pierre-Joseph Proudhon, secara aktif berkampanye menentang perpajakan.
+![Murray Rothbard dan teori komprehensif anarko-kapitalisme](./assets/en/038.webp)
 
+Pada abad ke-20, Murray Rothbard mengambil obor itu dan menegorikan anarko-kapitalisme secara komprehensif, terutama dalam *Man, Economy, and State* dan *For a New Liberty*. Pemikirannya bertumpu pada dua prinsip: prinsip non-agresi (tidak sah memulai kekuatan fisik terhadap individu lain atau propertinya, terjemahan filosofis dari aturan emas: jangan lakukan pada orang lain apa yang Anda tidak ingin mereka lakukan pada Anda) dan penghapusan negara sepenuhnya, dipahami sebagai agresor utama.
 
+Rothbard mengkritik para *libertaires* karena mengadopsi visi sifat manusia yang naif dan tidak realistis, mirip "noble savage" Rousseau. Bagi Rothbard, manusia tidak secara alamiah baik, tetapi dipandu oleh kepentingannya. Karena itu masyarakat harus diorganisasi agar insentif yang baik membimbing perilaku, yang menuntut pengakuan dan jaminan properti privat. **Menghapus negara tidak berarti menghapus fungsi negara**: polisi dan keadilan tidak harus dihilangkan, tetapi dikelola oleh pasar bebas berdasarkan persaingan.
 
-Sebaliknya, bagi kaum libertarian, satu-satunya cara untuk menjamin kebebasan individu adalah dengan menjamin kepemilikan pribadi. Oleh karena itu, perbedaan mendasar antara kaum libertarian dan anarkis adalah mengenai gagasan tentang kepemilikan individu dan kebebasan berkontrak. Selain itu, doktrin libertarian tentang kekerasan bersifat defensif: pertahanan diri dan perlawanan terhadap penindasan.
+### Catatan tentang libertine
 
+![Libertarian, libertaires, dan libertines: menghindari kebingungan](./assets/en/039.webp)
 
-
-Kaum Libertine adalah aktivis kebebasan seksual. Ini bukan filosofi politik melainkan cara hidup pribadi, berdasarkan moralitas tanpa batas yang bertentangan dengan moralitas borjuis. Secara politis, mereka sering bersekutu dengan kaum anarkis sayap kiri, yaitu dengan kaum anarkis.
-
+Jangan menyamakan libertarian dengan *libertaires* atau libertine. Libertine adalah pendukung kebebasan seksual. Ini kurang merupakan filsafat politik daripada cara hidup personal, berlandaskan moralitas tanpa tabu yang bertentangan dengan moralitas borjuis. Secara politik, libertine sering condong ke anarkisme kiri, yaitu ke *libertaires*. Namun seseorang juga bisa menjadi libertine sekaligus libertarian, karena bagi libertarian, **setiap orang berhak hidup sesuai keinginannya tanpa melakukan agresi terhadap orang lain**. Sebaliknya, libertine yang berusaha memaksakan moralitasnya pada orang lain melalui hukum, dengan tindakan itu sendiri, berhenti menjadi libertarian.
 
 
 # Keluarga politik di bawah mikroskop
 
-
 <partId>2e1183f6-95d4-4d3c-9274-843993210624</partId>
 
 
-
-## Definisi struktural dan definisi yang disengaja
-
+## Definisi struktural dan intensional
 
 <chapterId>ec5b13b7-4104-46a9-9c39-a810959a69ee</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=7r7KNK5YnIk)
 
 
+Kita kini memasuki inti analisis kita atas keluarga politik. Namun sebelum memeriksa masing-masing secara rinci, kita harus menjawab pertanyaan mendasar: bagaimana seharusnya kita mendefinisikan sistem politik? Ambil sosialisme sebagai contoh. 
 
-Sekarang mari kita lihat lebih dekat berbagai filosofi politik. Bagian bawah bingkai akan dibahas secara marjinal, karena ini bukan merupakan ideologi politik, melainkan sebuah sistem sosial yang cenderung ke arah totalitarianisme.
+![Keluarga politik di bawah mikroskop: analisis struktural](./assets/en/040.webp)
+
+Haruskah kita mendefinisikannya dari niat yang dinyatakan (keadilan, kesejahteraan, emansipasi), atau dari struktur fundamentalnya, yaitu **apakah ia memberi primasi kepada individu atau kepada negara**?
+
+### Jebakan definisi intensional
+
+![Milton Friedman tentang menilai kebijakan dari hasil, bukan niat](./assets/en/041.webp)
+
+Milton Friedman menulis:
+
+> Salah satu kesalahan terbesar adalah menilai kebijakan dan program dari niatnya, bukan hasilnya. Kita semua tahu jalan terkenal yang dipaving dengan niat baik. [...] Program yang diberi label untuk kaum miskin atau mereka yang membutuhkan hampir selalu memiliki efek yang persis berlawanan dengan apa yang diharapkan para sponsor berniat baiknya.
+
+Dengan kata lain, Friedman memprioritaskan apa yang bisa kita sebut analisis empiris: fokus pada konsekuensi terlihat dari suatu sistem, bukan pada janji dan program politik. Ini menggemakan ajaran Frederic Bastiat ketika ia berargumen bahwa ekonom baik adalah orang yang melihat efek kebijakan bukan hanya jangka pendek tetapi juga jangka panjang, dan bukan hanya pada kelompok tertentu tetapi pada seluruh populasi.
+
+Friedman memperingatkan bahaya bergantung hanya pada niat. Kebijakan yang dimotivasi niat murah hati dapat memiliki konsekuensi tak terduga atau merugikan **ketika mengabaikan analisis ketat atas insentif dan perilaku manusia**. Misalnya, program bantuan sosial yang dibiayai negara (yaitu pembayar pajak) berisiko menghasilkan efek pervers: tidak menciptakan insentif untuk bekerja, menghasilkan ketergantungan ekonomi, dan menjadi bentuk perampasan karena uangnya harus lebih dulu diambil dari mereka yang menghasilkan kekayaan. Bagi Friedman, hasil terukur seperti pertumbuhan ekonomi, pengurangan kemiskinan, atau efisiensi harus didahulukan dari niat, karena niat, betapapun luhur, tidak menjamin keberhasilan.
+
+### Pendekatan struktural
+
+**Definisi struktural atau praktis berfokus pada bagaimana sistem politik benar-benar berfungsi** dan pada karakteristik yang dapat diamati. Sosialisme, misalnya, dicirikan oleh kemahahadiran negara, yang mengatur, merencanakan, dan mengontrol. Itu fakta, dan jauh lebih penting daripada niat deklaratif persaudaraan atau solidaritas. Libertarianisme, sebaliknya, didefinisikan oleh intervensi negara minimal dalam ekonomi dan kehidupan privat, cenderung pada primasi kebebasan individu dan pasar bebas.
+
+Sebaliknya, **definisi intensional bergantung pada motivasi, tujuan, atau niat yang dinyatakan** oleh individu atau kelompok. Sosialisme menampilkan diri sebagai mengejar "keadilan sosial" dan solidaritas. Tetapi jika kita bergantung pada niat, semuanya menjadi kabur, karena semua orang mengaku mendukung keadilan; semua orang menyerukan kedaulatan rakyat. Namun "rakyat" tetap istilah yang sangat abstrak, dan di situlah jebakannya.
+
+Analisis kita karena itu akan memprioritaskan pendekatan struktural, yang memungkinkan **evaluasi sistem politik yang lebih objektif berdasarkan hasil terukur** dan sarana konkret, bukan niat yang diproklamasikan. Pada Diagram Nolan, bagian bawah bingkai (statisme murni, cenderung totalitarianisme) akan diperlakukan agak terpisah, karena ia bukan ideologi politik melainkan sistem sosial. Tiga kuadran di atas (sosialisme di kiri, sentrisme di tengah, konservatisme di kanan) dan libertarianisme di puncak akan masing-masing diperiksa melalui lensa struktural ini.
+
+### Melampaui niat
+
+![Analisis struktural keluarga politik: sosialisme versus libertarianisme](./assets/en/042.webp)
+
+Analisis struktural berfungsi sebagai alat kritis. Ia memungkinkan kita mengevaluasi sistem politik menurut hasil nyatanya, bukan janjinya. Definisi intensional, sebaliknya, menciptakan kebingungan konseptual di mana semua sistem mengklaim mengejar tujuan serupa (keadilan, kesetaraan, kebebasan), sehingga mustahil dibedakan. Karena itu kita harus memperhatikan **konsekuensi empiris dan terukur dari sistem politik**, serta sarana yang dipakainya. Melalui hal-hal inilah sifat sejati sistem politik terungkap, melampaui retorika niat atau program.
 
 
-
-Tetapi pertama-tama, kami perlu menjelaskan perbedaan penting.
-
-
-
-Milton Friedman menulis
-
-
-> Salah satu kesalahan terbesar adalah menilai kebijakan dan program berdasarkan niatnya, bukan hasilnya. Kita semua tahu jalan yang terkenal diaspal dengan niat baik. Program-program yang dilabeli sebagai program untuk orang miskin atau bagi mereka yang membutuhkan hampir selalu memiliki dampak yang berlawanan dengan apa yang diharapkan oleh para sponsor yang berniat baik.
-
-Memang, kebijakan, yang sering kali dimotivasi oleh niat baik, dapat menimbulkan konsekuensi yang tidak terduga atau berbahaya jika tidak didasarkan pada analisis yang cermat terhadap insentif dan perilaku manusia. Sebagai contoh, sebuah kebijakan sosial yang bertujuan untuk membantu masyarakat miskin sering kali menimbulkan dampak buruk seperti ketergantungan ekonomi atau distorsi pasar.
-
-
-
-Bagi Friedman, hasil yang terukur - seperti pertumbuhan ekonomi, pengurangan kemiskinan, atau efisiensi - harus didahulukan daripada niat, karena yang terakhir ini, meskipun mulia, tidak menjamin kesuksesan.
-
-
-
-Definisi **struktural atau praktis**, berfokus pada bagaimana sistem politik bekerja dalam praktiknya, dan pada karakteristik yang dapat diamati. Sebagai contoh, sosialisme dicirikan oleh kecenderungan negara untuk mengambil alih, mengatur, dan merencanakan segalanya. Libertarianisme, di sisi lain, didefinisikan oleh keutamaan yang diberikan kepada individu dan kebebasannya, cenderung ke arah intervensi negara yang minimal dalam ekonomi dan di tempat lain.
-
-
-
-Sebaliknya, **definisi yang disengaja** didasarkan pada motivasi, tujuan, atau niat yang dinyatakan oleh individu atau kelompok. Sebagai contoh, sosialisme memiliki keadilan sosial sebagai tujuannya. Namun, jika kita bergantung pada niat, semuanya menjadi kabur, karena semua orang mendukung keadilan. Itulah mengapa kami lebih suka menggunakan definisi struktural untuk analisis yang lebih jelas dan objektif.
-
-
-
-Bab-bab berikut ini menjelaskan bagaimana mendefinisikan keluarga politik secara struktural.
-
-
-
-## Kaum sosialis
-
+## Para sosialis
 
 <chapterId>1ef34d7b-f813-458c-934c-1d404f882150</chapterId>
 
+Sosialisme adalah gerakan politik dan ekonomi, sekaligus doktrin, yang muncul pada abad ke-19 dengan kritik terhadap ketimpangan sosial dan alienasi pekerja dalam industri berskala besar. Sejak asalnya, ia juga jelas merupakan gerakan anti-kapitalis, meski, seperti akan kita lihat, sosialis modern secara bertahap memasukkan moderasi dan kompromi ke dalam prinsip mereka.
+
+![Para sosialis: prinsip dan varian](./assets/en/043.webp)
 
 
-![video](https://www.youtube.com/watch?v=-JBJDQqgH_k)
+### Kebebasan dalam kerangka sosialis
 
+Dalam pemikiran sosialis, kebebasan tidak diperlakukan secara seragam. Terlihat **dikotomi mendasar antara ranah sosial dan ekonomi**:
 
+- **Kebebasan:** kuat di ranah sosial, tetapi lemah di ranah ekonomi.
+- **Nilai kardinal:** kesetaraan, kemajuan, keadilan sosial, solidaritas.
+- **Filsafat dan prinsip:** Primasi organisasi kolektif. Sosialisme adalah praktik yang berakar pada visi holistik tentang masyarakat (holisme), diekspresikan melalui negara. Istilah "holisme" berasal dari Yunani *holos*, berarti "keseluruhan." Negara sosialis bertujuan mengambil alih dan mengarahkan aktivitas manusia semaksimal mungkin. Sosialis memiliki kepercayaan hampir tanpa batas pada kemungkinan membangun tatanan sosial baru berdasarkan akal, yang disebut Hayek "constructivism."
+- **Politik:** Sosialis menganjurkan program kesehatan, regulatory capture, kenaikan pajak, dan subsidi untuk menjamin ekuitas. Ini menyiratkan pengarahan ekonomi dan sosial oleh negara, perencanaan (organisasi produksi dari hulu). Sosialisme paling radikal dan paling penuh adalah totaliter, karena negara mengambil alih semua aktivitas manusia.
+- **Ekonomi:** Sosialisme menyiratkan kontrol negara yang kuat atas ekonomi demi ekuitas. Sosialis curiga pada pasar bebas, yang mereka lihat sebagai kekuatan buta dan instingtif. Mereka mendukung redistribusi kekayaan, program sosial terpusat, dan pajak progresif yang meningkat proporsional dengan pendapatan dan menjadi punitif bagi mereka yang memperoleh atau menghasilkan kekayaan.
 
-![Socialistes Graphique](./assets/fr/015.webp)
+![Diagram Nolan menunjukkan sosialisme ditempatkan dengan kebebasan sosial kuat tetapi kebebasan ekonomi lemah](./assets/en/044.webp)
 
+### Evolusi historis
 
+Konsep sosialisme pertama kali digunakan secara sistematis oleh orang Prancis Pierre Leroux pada 1833, dalam artikel untuk *Revue Encyclopedique*, secara eksplisit berlawanan dengan individualisme. Istilah itu kemudian diterapkan pada doktrin Saint-Simon, Fourier, dan Owen sekitar pertengahan abad ke-19, sebelum Marx mengadopsinya untuk tujuannya sendiri. Menariknya, kata "communism" yang kemudian dipeluk Marx juga berasal dari sosialis Prancis bernama Etienne Cabet.
 
+Pada akhir abad ke-19, muncul perpecahan lengkap antara Marxisme dan anarkisme. Sejak awal abad ke-20, **pembelahan mendasar memisahkan sosialis revolusioner dari sosialis reformis**:
 
+1. **Sosialis revolusioner** menentang hak properti dan berusaha menghancurkan masyarakat borjuis kapitalis. Mereka bertujuan merebut kekuasaan melalui kekerasan atau kediktatoran proletariat. Arus ini melahirkan komunisme Marxis dan, pada akhirnya, rezim totaliter terburuk.
 
-- Kebebasan:** cukup kuat di bidang sosial, tetapi lemah di bidang ekonomi.
-- Nilai-nilai utama:** kesetaraan, kemajuan, keadilan sosial, solidaritas.
-- Filosofi dan prinsip:** Keutamaan organisasi kolektif. Sosialisme adalah praktik yang bertumpu pada masyarakat secara keseluruhan (holisme) dan diwujudkan melalui negara. Negara sosialis bertujuan mengambil alih serta mengarahkan aktivitas manusia secara maksimal. Kaum sosialis memiliki keyakinan yang nyaris tak terbatas terhadap kemungkinan membangun tatanan sosial baru yang berlandaskan akal.
-- Politik:** Kaum sosialis menganjurkan program kesehatan, kenaikan pajak, dan subsidi untuk menjamin kesetaraan. Ini menyiratkan arah ekonomi dan sosial negara, termasuk perencanaan (organisasi produksi di bagian hulu). Hayek berbicara tentang konstruktivisme, yaitu gagasan bahwa negara berhak membangun masyarakat dan memberinya bentuk tertentu, berbeda dengan tatanan liberal di mana masyarakat membangun dirinya sendiri (tatanan spontan). Sosialisme yang paling radikal dan paling berhasil bersifat totaliter, karena negara mengambil alih seluruh aktivitas manusia.
-- Ekonomi:** Sosialisme menyiratkan kontrol negara yang kuat atas ekonomi demi kesetaraan (memungkinkan setiap orang memenuhi kebutuhannya sendiri). Kaum sosialis mencurigai pasar bebas, yang mereka anggap sebagai sistem yang memungkinkan pihak kuat memangsa pihak lemah. Mereka lebih menyukai redistribusi kekayaan dan program sosial terpusat yang dibiayai oleh pajak dan pendapatan yang tinggi.
+2. **Sosialis reformis** tidak cenderung pada kekerasan; mereka memahami bahwa oposisi frontal terhadap negara tidak menguntungkan. Mereka mengejar keadilan sosial melalui pemilu demokratis dan perpajakan, memakai sumber daya yang dihasilkan ekonomi pasar. Dengan kata lain, mereka sementara menerima kapitalisme untuk memakainya melawan dirinya sendiri. Tradisi ini diwakili oleh Jean Jaures, Leon Blum, Olof Palme (Sweden), Willy Brandt (Germany), dan Francois Mitterrand (France).
 
+### Marx dan cabang revolusioner
 
-**Jenis-jenis sosialis:**
+![Karl Marx dan pembedaan antara sosialisme utopis dan ilmiah](./assets/en/045.webp)
 
+Karl Marx membuat pembedaan krusial antara sosialisme utopis dan sosialisme ilmiah. Ia menuduh sosialis Prancis awal (Proudhon, Saint-Simon, Fourier) sebagai utopis, artinya mereka mengusulkan solusi murni imajiner tanpa fondasi teoretis atau praktis yang sejati.
 
-Konsep sosialisme adalah neologisme yang pertama kali digunakan secara sistematis dan dengan makna yang tepat oleh Pierre Leroux dari Prancis pada tahun 1833. Dalam sosialisme modern, ada dua tradisi yang dapat dibedakan:
+Sosialisme ilmiah Marx bertumpu pada materialisme historis: gagasan bahwa **sejarah bergerak maju melalui perjuangan kelas dan apropriasi alat produksi**. Menurut pendekatan ini, semua representasi kultural (hukum, institusi politik, agama) dikondisikan oleh perkembangan kekuatan produktif dan relasi produksi. Negara, hukum, bahkan budaya itu sendiri hanyalah ekspresi kepentingan kelas dominan. Kerangka materialis inilah yang membawa Marx berargumen bahwa proletariat harus sadar akan penindasannya dan membebaskan diri melalui revolusi, dengan menghilangkan kelas penindas.
 
+### Sosialisme demokratis dan tradisi reformis
 
-1.  **Kaum sosialis revolusioner menentang hak milik, dan ingin menghancurkan masyarakat borjuis kapitalis. Mereka mengikuti jejak anarkis abad ke-19 seperti Bakunin. Anarkisme ini kemudian memunculkan komunisme Marxis.
+![Jean Jaures dan fondasi sosialisme demokratis](./assets/en/046.webp)
 
+Jean Jaures berdiri sebagai salah satu pemikir besar sosialisme demokratis. Seorang filsuf yang masuk politik pada pergantian abad ke-20, Jaures mendirikan surat kabar *L'Humanite*. Definisinya tentang sosialisme adalah intervensi sah masyarakat dan kekuasaan dalam hidup manusia, khususnya dalam relasi kerja, untuk mewujudkan kebebasan individu dan ekuitas. Dengan kata lain, **Jaures meletakkan fondasi teoretis untuk membenarkan intervensi negara atas nama kesetaraan**.
 
-2.  **Kaum sosialis reformis tidak rentan terhadap kekerasan. Mereka tidak meninggalkan tujuan mereka untuk keadilan sosial, tetapi tujuan ini dikejar melalui pemilihan umum yang demokratis dan perpajakan, dengan menggunakan sumber daya yang dihasilkan oleh ekonomi pasar. Seperti halnya Jean Jaurès, Leon Blum, Olof Palme (Swedia), Willy Brandt (Jerman) dan François Mitterrand (Prancis).
+![Emile Durkheim dan fondasi sosiologis sosialisme](./assets/en/047.webp)
 
+Emile Durkheim, pendiri kursi sosiologi di Sorbonne pada 1913 dan sahabat Jaures, menjelaskan bahwa sosialisme adalah protes terhadap keadaan ekonomi saat ini yang menuntut transformasi melalui organisasi kekuatan ekonomi. Baik Jaures maupun Durkheim berbagi konsepsi sosialisme yang sangat ekonomis: ekonomi tidak boleh dibiarkan pada kekuatan pasar (yang mereka anggap buta dan instingtif), tetapi harus dikelola secara rasional.
 
+![Sosialisme demokratis modern dari New Deal sampai sosial demokrasi Nordik](./assets/en/048.webp)
 
-New Deal dari Franklin Delano Rossevelt berperan dalam pembentukan sosialisme demokratis Amerika (Bernie Sanders).
+Sosialisme modern juga banyak berutang pada Roosevelt dan New Deal. Pada 1930-an, Franklin Delano Roosevelt menerapkan serangkaian reformasi setelah Depresi Besar yang menjadi referensi besar bagi semua pembela sosialisme demokratis kontemporer:
 
-
-
-
-
-- Penciptaan Jaminan Sosial
+- Penciptaan Social Security
 - Pengenalan upah minimum federal
-- Menyiapkan asuransi pengangguran
-- Program ketenagakerjaan publik federal
+- Pembentukan asuransi pengangguran
+- Program lapangan kerja publik federal
 
+Setelah perang, Inggris mengadopsi reformasi serupa (nasionalisasi, welfare state), sosial demokrat Jerman secara progresif meninggalkan rujukan Marxis demi ekonomi pasar sosial, dan negara-negara Nordik mengembangkan model yang menggabungkan ekonomi pasar, pajak progresif, dan layanan publik universal. Bernie Sanders, politisi Amerika kontemporer yang mengidentifikasi diri sebagai sosial demokrat, **sering menyebut Prancis sebagai contoh keberhasilan model ini**, khususnya sistem jaminan sosialnya.
 
+### Prinsip holistik: primasi kolektif
 
-Menurut Bernie Sanders, *reformasi ini, telah menjadi tatanan sosial bangsa dan fondasi kelas menengah Amerika*.
+Sosialisme dicirikan oleh visi holistik tentang masyarakat, dianggap sebagai keseluruhan tak terbagi, bukan sekadar jumlah individu. Ada berbagai cara merepresentasikan kolektif ini: kelas sosial (pendekatan Marxis), bangsa (seperti dalam fasisme, yang menundukkan individu pada kepentingan nasional), ras (seperti dalam Sosialisme Nasional), atau gender (seperti dalam beberapa pendekatan kontemporer). Dalam tiap kasus, **individu tidak lagi mendefinisikan dirinya; ia didefinisikan oleh keanggotaannya dalam kelompok**.
 
+### Green New Deal: sintesis kontemporer
 
+![Green New Deal sebagai sintesis kontemporer tujuan ekologis dan sosial](./assets/en/049.webp)
 
+Green New Deal mewakili evolusi baru sosialisme demokratis, memadukan kekhawatiran lingkungan dengan tujuan sosial. Secara politik, ekologi sejajar dengan kiri bahkan kiri jauh. Program ini menggabungkan transisi ekologis dengan keadilan sosial, jaminan kerja, dan layanan publik yang diperkuat. Dalam setiap kasus, **kepentingan individu disubordinasikan pada kepentingan kolektif, yang didefinisikan oleh kesehatan planet** dan tantangan perubahan iklim. Pada dasarnya, ini hanyalah selubung retoris baru yang membenarkan intervensi negara dan konfiskasi pendapatan privat, tidak lagi semata atas nama ekuitas dan keadilan sosial tetapi juga atas nama lingkungan.
 
-> Sosialisme adalah metode yang menggantikan kepemilikan individu atas alat produksi dan pertukaran dengan kepemilikan sosial.  - Léon Blum, "On a Human Scale", 1945.
+### Pemikiran sosialis dalam kutipan
+
+![Pemikiran sosialis dalam kutipan](./assets/en/050.webp)
+
+> Kita telah sampai pada kesadaran jelas bahwa kebebasan individu sejati tidak dapat ada tanpa keamanan dan kemandirian ekonomi. Orang yang kekurangan bukanlah orang bebas.
+> Franklin D. Roosevelt, 1944
+
+> Tujuan sosialisme adalah emansipasi ekonomi semua manusia.
+> Leon Blum, *On a Human Scale*, 1945
+
+> Sosialisme adalah doktrin yang mengajarkan bahwa masyarakat harus diorganisasi sedemikian rupa untuk menjamin kesejahteraan semua anggotanya.
+> Emile Durkheim, *Socialism*, 1928
+
+> Bagi saya, sosialisme adalah tentang orang-orang yang bekerja bersama untuk menciptakan masyarakat yang bekerja bagi kita semua, bukan hanya segelintir orang kaya.
+> Bernie Sanders, 2015
+
+Kutipan-kutipan ini menggambarkan niat luhur di balik pemikiran sosialis. Namun **pertanyaan mendasarnya tetap: apa sarananya, dan di mana garisnya?** Jika seseorang mengejar emansipasi ekonomi melalui paksaan dan kekuasaan, bukankah itu kontradiksi dalam istilah?
 
 ## Konservatif
-
 
 <chapterId>4e068cd8-a5c3-44f8-ac77-309f249a59eb</chapterId>
 
 
-
-![video](https://www.youtube.com/watch?v=G-9CnoEcfqQ)
-
+Seperti setiap keluarga politik, konservatisme bukan doktrin tunggal. Ia beradaptasi dengan berbagai zaman dan budaya, dan ada perbedaan substansial antara konservatisme Anglo-Saxon dan padanannya di Eropa kontinental.
 
 
-![Conservateurs Graphique](./assets/fr/016.webp)
+![Diagram Nolan menunjukkan konservatisme ditempatkan dengan kebebasan ekonomi kuat tetapi kebebasan sosial lemah](./assets/en/051.webp)
 
+![Konservatisme: prinsip, nilai, dan evolusi](./assets/en/052.webp)
 
+### Kebebasan dalam visi konservatif
 
-- Kebebasan:** mereka kuat di bidang ekonomi tetapi lemah di bidang sosial.
+Seperti ditunjukkan Diagram Nolan, konservatisme memperlihatkan dikotomi kuat antara kebebasan sosial dan ekonomi, cermin dari apa yang kita amati pada sosialis:
 
+- **Kebebasan:** kuat di ranah ekonomi tetapi lemah di ranah sosial. Dalam ekonomi, konservatif membela pasar bebas, kewirausahaan, dan properti privat, sebagian besar karena alasan pragmatis dan sebagai oposisi kuat terhadap sosialisme. Dalam ranah sosial, pembatasan dibenarkan oleh **pelestarian norma moral tradisional dan stabilitas sosial**.
+- **Nilai kardinal:** kebajikan, ketertiban, tradisi, peradaban.
+- **Filsafat dan prinsip:** Konservatif percaya bahwa segala sesuatu pada umumnya baik sebagaimana adanya, dan perubahan apa pun dapat memperburuknya. Di inti filsafat ini ada keterikatan mendalam pada akar, masa lalu, dan ketakutan terhadap perubahan yang terlalu brutal. Mereka sangat menghormati institusi sosial yang lama berdiri, dipandang sebagai perlindungan esensial melawan kekacauan dan ekses modernitas. Segala sesuatu yang sudah ada dan telah membuktikan diri sepanjang waktu dianggap baik pada dirinya. Seperti dikatakan sebuah ensiklopedia konservatisme Amerika: konservatisme adalah filsafat yang berusaha mempertahankan dan memperkaya masyarakat melalui penghormatan pada institusi, keyakinan, dan praktik warisan, tempat individu mengembangkan karakter baik dengan bekerja sama dalam asosiasi primer dan lokal seperti keluarga, gereja, dan kelompok sosial. Tocqueville mengamati dinamika ini dalam *Democracy in America*: agama dan komunitas lokal berfungsi sebagai penyeimbang kuat terhadap risiko individualisme.
 
-- Nilai-nilai utama:** kebajikan, ketertiban, tradisi, peradaban.
+![Nilai kardinal konservatif: kebajikan, ketertiban, tradisi, dan peradaban](./assets/en/053.webp)
 
+![Definisi kontemporer konservatisme: memperkaya masyarakat melalui institusi warisan](./assets/en/054.webp)
 
+- **Politik:** Negara-bangsa dianggap sebagai sumbu utama politik. Konservatif menganjurkan kontrol sosial tradisional, pertahanan nasional kuat, dan kekuasaan polisi yang lebih luas. Mereka menentang semua bentuk sosialisme atau komunisme, yang mereka tuduh merusak dan melemahkan masyarakat.
+- **Ekonomi:** Ekonomi tetap alat untuk memperkuat tatanan mapan dan kekuasaan nasional. Konservatif mendukung usaha bebas, pajak rendah, dan regulasi bisnis minimal. Tetapi mereka khawatir bahwa **terlalu banyak kebebasan individu dapat melahirkan imoralitas atau kemunduran peradaban**. Seperti kata Otto von Bismarck: "Ekonomi adalah jalan paling pasti menuju kebesaran nasional." Bahkan sebagai pendukung pasar bebas, konservatif melihat kebebasan ekonomi bukan sebagai tujuan pada dirinya, tetapi sebagai tuas untuk mempertahankan negara kuat.
 
+![Posisi politik dan ekonomi konservatif](./assets/en/055.webp)
 
+### Sejarah singkat konservatisme
 
-- Filosofi dan prinsip:** Kaum konservatif percaya bahwa pada umumnya segala sesuatu sudah baik sebagaimana adanya, dan bahwa setiap perubahan justru berpotensi memperburuk keadaan. Mereka berupaya menjaga apa yang sudah ada, mempertahankannya sebagai sesuatu yang baik, dan tidak menyukai perubahan dalam sistem yang mereka anggap telah terbukti efektif. Inti dari konsepsi tradisional konservatisme adalah rasa hormat yang mendalam terhadap lembaga-lembaga sosial yang telah lama ada, yang dipandang sebagai pelindung penting dari kekacauan, ketidakadilan, dan kekejaman. Bangunan sosial ini menopang solidaritas, keamanan, serta kekuatan yang dibutuhkan manusia untuk melawan ekses modernitas.
+Doktrin ini menemukan akar filosofisnya pada abad ke-18, lahir sebagai reaksi terhadap Revolusi Prancis. Edmund Burke sering disebut sebagai figur pendiri oposisi ini, menganjurkan pelestarian institusi dan tradisi melawan perubahan radikal. Burke menjunjung prudensi: meskipun ia dapat menerima prinsip tertentu dari Revolusi, ia percaya masyarakat harus maju bukan dengan menghapus seluruh masa lalu, tetapi melalui reformasi bertahap.
 
+![Evolusi historis pemikiran konservatif](./assets/en/056.webp)
 
+![Konservatisme Eropa pada abad ke-19](./assets/en/057.webp)
 
+Di Eropa abad ke-19, konservatisme sering muncul sebagai dukungan terhadap monarki, Gereja, dan tatanan sosial mapan di hadapan liberalisme dan nasionalisme yang naik. Figur seperti Joseph de Maistre di Prancis mewakili aliran yang sangat reaksioner. De Maistre memiliki permusuhan absolut terhadap rasio, percaya bahwa manusia bukan makhluk rasional dan bahwa **masyarakat hanya dapat diperintah dengan menarik naluri mendalam**, karenanya pentingnya agama. Para reaksioner ini menganjurkan kembali ke masyarakat feodal, agraris, dan artisanal, melihat industrialisasi sebagai ancaman terhadap tatanan sosial tradisional.
 
+![Konservatisme Anglo-Saxon dan konsep ordered liberty](./assets/en/058.webp)
 
-- Politik:** Kaum konservatif menganjurkan kontrol sosial tradisional dan intervensi negara untuk menegakkan standar sosial dan moral (ketertiban, keamanan, nilai-nilai). Mereka mendukung pertahanan nasional yang kuat dan cenderung mendukung kewenangan polisi yang lebih luas. Sosialisme dipandang sebagai pemutusan hubungan yang brutal dengan peradaban Barat. Kaum konservatif memainkan peran yang menentukan dalam perang melawan komunisme serta dalam penolakan terhadap intervensionisme pemerintah yang berlebihan.
+Pada abad ke-20, khususnya di Amerika Serikat, konservatisme berkembang di sekitar ideal kebebasan individu, pemerintahan terbatas, pasar bebas, dan nilai Kristen, sering beroposisi terhadap kebijakan progresif New Deal. Konservatisme Anglo-Saxon ini jauh lebih modern, telah sepenuhnya menerima kemajuan ilmiah dan teknologi sambil berusaha mendamaikan komunitas dan individu, kebebasan dan tanggung jawab. Di Inggris, Margaret Thatcher mencontohkan kecenderungan ini melalui oposisinya terhadap serikat buruh dan perencanaan terpusat, selalu dengan tujuan mendasar **memulihkan nilai moral dan religius sebagai benteng melawan ekses progresivisme**.
 
+### Pemikir besar konservatisme
 
+- **Edmund Burke (1729-1797):** Sering dianggap bapak konservatisme modern, Burke menekankan perubahan bertahap dan organik daripada ruptura revolusioner. *Reflections on the Revolution in France* (1790) meletakkan fondasi intelektual konservatisme Anglo-Saxon.
+- **Michael Oakeshott (1901-1990):** Filsuf Inggris yang dikenal karena kritiknya terhadap rasionalisme dalam politik, Oakeshott membela **konsepsi konservatisme sebagai temperamen, bukan ideologi sistematis**. Esainya *On Being Conservative* (1956) tetap menjadi rujukan esensial yang juga memengaruhi Friedrich Hayek.
+- **Roger Scruton (1944-2020):** Filsuf Inggris kontemporer yang mengembangkan pembelaan canggih atas nilai konservatif dalam konteks modernitas akhir, khususnya dalam bukunya *The Meaning of Conservatism*.
 
+![Pemikir besar konservatisme: Burke, Oakeshott, dan Scruton](./assets/en/059.webp)
 
+### Fleksibilitas yang bermasalah
 
-- Ekonomi:** Kaum konservatif mendukung pajak yang rendah dan regulasi bisnis yang minimal. Mereka mendukung kewirausahaan yang jujur dan usaha bebas, dan individu yang bekerja keras untuk mengumpulkan kekayaan. Namun mereka khawatir bahwa kebebasan individu yang terlalu besar akan menyebabkan amoralitas atau kemunduran peradaban.
+![Fleksibilitas prinsip konservatif yang bermasalah](./assets/en/060.webp)
 
+Konservatisme kadang memperlihatkan fleksibilitas yang mengganggu terkait prinsip. Selama krisis finansial 2008, George W. Bush menyatakan: "I have abandoned free-market principles to save the free-market system." Tahun berikutnya, ia menambahkan: "I have gone against my free-market instincts and approved a temporary government intervention." Dengan mengintervensi untuk menyelamatkan bank-bank besar, Bush mengambil **peran konservatif negara sebagai penjamin terakhir ekonomi nasional**, menempatkan kekuasaan dan kontinuitas bangsa di atas prinsip abstrak pasar. Logika yang sama terlihat dalam kebijakan perdagangan proteksionis Donald Trump, dijalankan atas nama kepentingan nasional dengan risiko memicu korporatisme dan crony capitalism.
 
+### Kemunculan neokonservatisme
 
-**Jenis-jenis konservatif:**
+![Kemunculan neokonservatisme dan reaksi paleokonservatif](./assets/en/061.webp)
 
+Sejak 2000-an, neokonservatif semakin terlibat dalam membenarkan intervensionisme militer untuk menanamkan demokrasi di seluruh dunia, khususnya setelah serangan 11 September 2001. Kebijakan "nation-building" ini memutus prudensi tradisional konservatif dalam kebijakan luar negeri. Sebagai reaksi, konservatif tradisional mengklaim label "paleoconservative" untuk membedakan diri dari neokonservatif. Mereka mengkritik intervensionisme militer, membela kebijakan luar negeri yang lebih isolasionis, dan **memberi penekanan lebih besar pada pertanyaan identitas nasional dan kultural**.
 
-di Eropa abad ke-19, kaum konservatif adalah kaum reaksioner. Mereka menganjurkan untuk kembali ke masyarakat feodal, pertanian, dan artisanal yang lama. Mereka ingin melepaskan diri dari masyarakat saat ini dan kembali ke masa lalu, sebelum evolusi yang mereka anggap berbahaya: kemajuan ilmu pengetahuan dan teknologi, dengan konsekuensinya bagi ekonomi dan masyarakat.
+### Pemikiran konservatif dalam kutipan
 
+> Seorang konservatif adalah seseorang yang percaya bahwa tidak ada sesuatu pun yang pernah dilakukan untuk pertama kalinya.
+> Benjamin Disraeli
 
+> Konservatisme bukan sistem pemikiran yang kaku, melainkan disposisi, sikap terhadap hidup, sebuah tradisi.
+> Michael Oakeshott
 
-Di negara-negara Anglo-Saxon, konservatisme mirip dengan politik sayap kanan di negara-negara Latin. Secara empiris, konservatisme ini didefinisikan sebagai penentangan terhadap progresivisme New Deal, yang dikenal dengan nama *liberalisme* di Amerika Serikat. Contohnya adalah karya-karya Russell Kirk, Michael Oakeshott, dan Roger Scruton.
+> Konservatisme adalah keyakinan bahwa ada kebenaran moral yang tidak kita ciptakan dan tidak dapat kita hapus.
+> Roger Scruton
 
-
-
-#### Namun demikian, kita perlu membedakan antara dua jenis konservatisme.
-
-
-
-
-1.  **Konservatisme tradisional Amerika **didirikan berdasarkan gagasan "kebebasan yang teratur", yang bertujuan untuk menggabungkan aspirasi komunitas dan individu yang terkadang bertentangan, kebebasan dan tanggung jawab individu, pemerintah terbatas dan pasar bebas. Setelah Perang Dunia Kedua, konservatisme Amerika menemukan kembali jati dirinya sendiri, berusaha untuk mendamaikan nilai-nilai liberal dan konservatif tradisional. Mereka menentang komunisme, tetapi juga ekspansi pemerintah federal Amerika yang berlebihan, dengan alasan bahwa masalah yang ditimbulkannya tidak dapat diselesaikan hanya dengan memperbaiki manajemennya, tetapi juga dengan memulihkan nilai-nilai moral dan agama.
-
-
-
-2.  **Di Amerika Serikat, sejak tahun 2000-an dan seterusnya, kaum neokonservatif menjadi semakin terlibat dalam pembenaran intervensionisme militer untuk menanamkan demokrasi di dunia, terutama setelah peristiwa 11 September 2001, yang menuai banyak kritik dari kaum konservatif tradisionalis.
-
-
-
-Beberapa orang sekarang menyebut diri mereka "paleokonservatif", untuk membedakan diri mereka dari neokonservatif.
-
+Kutipan terakhir ini fundamental untuk memahami oposisi kuat konservatif terhadap progresif. Konservatif berpendapat bahwa ada kodrat manusia, dan dari kodrat itu muncul aturan moral. Aturan ini tidak arbitrer; ia timbul dari apa manusia itu secara fundamental. Akibatnya, setiap upaya memodifikasi kodrat manusia bukan hanya ditakdirkan gagal tetapi, di atas segalanya, imoral.
 
 
 
 ## Libertarian
 
-
 <chapterId>9ca743de-537b-42fb-87d2-212d5f478b22</chapterId>
 
+Keluarga libertarian membedakan diri dari semua filsafat politik lain secara mendasar: **ia menempatkan di pusatnya bukan ekonomi, melainkan etika dan hukum**. Ketika libertarian membela ekonomi pasar, itu bukan terutama karena kapasitasnya menghasilkan kekayaan, melainkan karena ia mempromosikan kebebasan dan tanggung jawab individu.
 
 
-![video](https://www.youtube.com/watch?v=ftE1NG34yno)
+![Diagram Nolan menunjukkan libertarianisme ditempatkan di atas dengan kebebasan kuat dalam ranah sosial dan ekonomi](./assets/en/062.webp)
 
+![Keluarga politik libertarian](./assets/en/063.webp)
 
+### Kebebasan dan nilai fundamental
 
-![Libertariens Graphique](./assets/fr/017.webp)
+Seperti langsung ditunjukkan Diagram Nolan, libertarian berada di bagian atas bingkai karena mereka tidak menerima pembatasan atas pembelaan kebebasan, baik sosial maupun ekonomi. Inilah yang membedakan mereka dari setiap keluarga politik lain:
 
+- **Kebebasan:** kuat di ranah sosial maupun ekonomi. Pada tingkat sosial, libertarian membela kebebasan individu maksimal, mencakup dekriminalisasi zat tertentu, kebebasan memilih pendidikan, dan non-intervensi negara dalam kehidupan privat warga. Pada tingkat ekonomi, ini meluas ke kebebasan berusaha, merekrut, menetapkan upah, dan terutama **hak membelanjakan uang seseorang sebagaimana ia anggap tepat** serta berdagang tanpa pembatasan atau pengawasan.
+- **Nilai kardinal:** properti privat yang sah, kebebasan individu, persetujuan, tanggung jawab. Nilai-nilai ini terkait erat dan sepenuhnya tak terpisahkan.
+- **Filsafat dan prinsip:** Libertarianisme pertama-tama adalah filsafat hukum. Gagasan dasarnya, ditemukan sejak abad ke-17 pada John Locke, adalah bahwa setiap individu memiliki hak tak terasingkan atas hidup, kebebasan, dan properti. Hak-hak ini tidak diberikan pemerintah tetapi intrinsik pada manusia. Self-ownership adalah konsep bahwa tiap individu adalah pemilik sah tubuh dan hidupnya sendiri. Seperti ditulis Bastiat, manusia pertama-tama pemilik dirinya sendiri, kemudian pemilik benda yang ia peroleh. Prinsip laissez-faire bukan ketiadaan norma; ia adalah **norma fundamental yang harus dibela, termasuk dengan kekuatan**.
+- **Politik:** Prinsip non-agresi menyatakan bahwa seseorang bebas bertindak sesuai kehendaknya selama tidak melakukan kekerasan terhadap hidup, kebebasan, atau properti orang lain. Formulasi ini mengingatkan aturan emas dalam semua peradaban dan agama: jangan lakukan pada orang lain apa yang Anda tidak ingin mereka lakukan pada Anda. Libertarian menolak memberi negara izin khusus untuk melakukan tindakan yang kebanyakan orang anggap imoral jika dilakukan individu. Singkatnya, **ada satu kode moral yang berlaku untuk semua orang, tanpa pengecualian**. Ini secara alami menghasilkan kecurigaan mendalam terhadap kekuasaan, khususnya kekuasaan negara, yang dapat secara legal menjalankan paksaan, termasuk melalui monopoli kontrol moneter. Perpajakan dikualifikasikan sebagai pencurian atau pemerasan, karena terdiri dari perampasan properti orang lain tanpa persetujuan, melanggar prinsip non-agresi.
+![Filsafat libertarian: self-ownership, non-agresi, dan laissez-faire](./assets/en/064.webp)
 
+- **Ekonomi:** Kebebasan berusaha dan bertukar mengalir langsung dari self-ownership dan dari kepemilikan buah kerja seseorang. Kebebasan menghasilkan tatanan spontan, lebih adil dan lebih efisien karena lahir dari tindakan dan tanggung jawab individu. Pasar bebas berlawanan dengan korporatisme (sistem di mana negara berkolaborasi dengan kelompok terorganisasi untuk mengatur ekonomi, menciptakan monopoli dan perlindungan regulatif). **pasar bebas adalah proses alamiah tempat individu berinteraksi secara damai**, tanpa mengandalkan kekuatan hukum untuk memperoleh keuntungan.
 
+### Evolusi historis
 
+![Evolusi historis pemikiran libertarian dari liberalisme klasik](./assets/en/065.webp)
 
-- Kebebasan:** mereka kuat di bidang sosial dan ekonomi.
+Gagasan libertarian dapat ditelusuri ke abad ke-18 dengan liberalisme klasik. Para Physiocrats (Vincent de Gournay, Turgot, Quesnay), lalu Condillac, Jean-Baptiste Say, dan Frederic Bastiat merumuskan prinsip-prinsip ini dengan jelas. Sepanjang abad ke-20, **pergeseran mendasar terjadi dengan ditinggalkannya prinsip laissez-faire secara progresif** demi welfare state dan masyarakat yang semakin teregulasi. Sebagai respons, liberal klasik di Amerika Serikat mulai menyebut diri mereka "libertarians" untuk membedakan diri dari "liberalism" Amerika, yang telah dikooptasi oleh intervensionisme negara yang tumbuh. Para libertarian ini mengenali diri mereka dalam [Austrian school of economics](https://planb.academy/resources/glossary/austrian-school), yang pemikir utamanya adalah Ludwig von Mises, Friedrich Hayek, dan Murray Rothbard.
 
+### Jenis libertarian
 
+![Minarkis versus anarko-kapitalis: dua kecenderungan dalam libertarianisme](./assets/en/066.webp)
 
+Pada abad ke-20, dua kecenderungan besar muncul, meski perbedaan di antara keduanya lebih bertumpu pada pertanyaan empiris daripada ketidaksetujuan etis fundamental:
 
+![Prinsip politik libertarian: non-agresi, kecurigaan terhadap kekuasaan, dan penolakan perpajakan](./assets/en/067.webp)
 
-- Nilai-nilai utama:** kebebasan individu, tanggung jawab, hak milik pribadi, persetujuan.
+1. **Minarkis** menganggap bahwa kekuasaan negara harus dibatasi ketat pada pembelaan kebebasan individu. Ini adalah rezim negara minimal ("night-watchman state"), di mana kekuasaan sah hanya untuk memastikan fungsi inti polisi, keadilan, dan pertahanan teritorial. Ron Paul adalah figur menonjol kecenderungan ini: dokter dan anggota Kongres AS yang mewakili Texas selama beberapa dekade, ia konsisten memilih menentang rancangan undang-undang apa pun yang menyimpang dari Konstitusi, menentang semua bentuk intervensionisme luar negeri, dan **memperjuangkan denasionalisasi uang**, gagasan yang dianjurkan Friedrich Hayek. Paul berargumen bahwa Federal Reserve bertanggung jawab atas inflasi dan siklus ekonomi melalui manipulasi uang fiat, dan ia melihat dalam Bitcoin bentuk sound money yang dapat menggantikan standar emas.
 
+![Doktrin minarkis Ron Paul dan prinsip sound money](./assets/en/068.webp)
 
+2. **Anarko-kapitalis** menganggap bahwa fungsi negara harus diprivatisasi dan dikelola sepenuhnya oleh pasar. Ini bukan masyarakat tanpa aturan, otoritas, atau hukum, melainkan **masyarakat di mana aturan akan dibentuk melalui adhesi dan persetujuan sukarela**. Bisa ada pemerintah dan fungsi mirip negara, tetapi tidak ada monopoli; perusahaan bersaing akan menawarkan layanan kepada klien. Pemikir kunci mencakup Murray Rothbard (*For a New Liberty*, 1973), David Friedman (putra Milton Friedman, yang mengambil pendekatan lebih pragmatis dan utilitarian dengan berargumen bahwa pasar dapat menyediakan semua layanan secara lebih efisien, termasuk hukum dan ketertiban), dan Hans-Hermann Hoppe (murid Rothbard yang mengembangkan pendekatan berdasarkan etika argumentasi).
 
+![Pemikir kunci anarko-kapitalisme: Rothbard, Friedman, dan Hoppe](./assets/en/069.webp)
 
+### Pemikiran libertarian dalam kutipan
 
-- Filosofi dan prinsip:** keutamaan kebebasan individu. Secara historis, liberalisme klasik adalah yang pertama dan terutama merupakan filosofi hukum. Gagasan mendasarnya adalah bahwa setiap individu memiliki hak-hak yang tidak dapat dicabut untuk hidup, kebebasan, dan properti. Hak-hak ini tidak diberikan oleh pemerintah, tetapi merupakan hak yang melekat pada diri manusia. Kedaulatan diri (atau kepemilikan diri) adalah konsep bahwa setiap individu adalah pemilik sah atas tubuh dan kehidupannya sendiri, dan memiliki hak untuk mengambil keputusan tentang hal tersebut tanpa paksaan dari luar, selama ia tidak melanggar hak-hak orang lain.
+> Libertarian tidak melihat kontradiksi dalam menjadi "kiri" pada beberapa isu dan "kanan" pada isu lain. Sebaliknya, ia menganggap posisinya satu-satunya yang konsisten dalam praktik, dari sudut kebebasan tiap individu.
+> Murray Rothbard, *For a New Liberty*, 1973
 
+> Jika Anda tidak punya hak merampok tetangga Anda, Anda tidak seharusnya mengirim pemerintah untuk merampok bagi Anda.
+> Ron Paul, 2008
 
+![Pemikiran libertarian dalam kutipan](./assets/en/070.webp)
 
-
-
-- Politik:** Libertarian percaya bahwa tidak ada seorang pun, atau kelompok mana pun (termasuk pemerintah), yang memiliki hak untuk memulai atau mengancam kekerasan fisik terhadap orang lain atau properti mereka. Ini adalah prinsip non-agresi. Ini berarti bahwa penipuan, pencurian, dan pemaksaan secara moral itu tercela. Penggunaan kekerasan hanya dapat dibenarkan untuk membela diri.
-
-
-
-Kaum libertarian menolak memberikan izin khusus kepada negara untuk melakukan tindakan yang dianggap tidak bermoral, ilegal, atau kriminal oleh kebanyakan orang jika dilakukan oleh individu atau kelompok dalam masyarakat. Singkatnya, kaum libertarian bersikeras bahwa setiap orang harus tunduk pada kode moral yang sama, tanpa pengecualian untuk kelompok atau individu mana pun.
-
-
-
-Kaum libertarian sangat mencurigai setiap konsentrasi kekuasaan, baik politik maupun ekonomi. Kekuasaan negara dianggap sangat berbahaya karena secara hukum dapat melakukan pemaksaan.
-
-
-
-
-
-- Ekonomi:** Perdagangan bebas dan kebebasan berusaha adalah ekspresi ekonomi yang menghormati hak-hak individu untuk memiliki diri mereka sendiri dan barang-barang mereka, dan untuk menukarkannya secara bebas. Kebebasan menghasilkan tatanan yang spontan dan adil, karena dihasilkan dari tindakan dan tanggung jawab individu, melalui interaksi antara pertukaran dan kontrak yang bersifat sukarela.
-
-
-
-**Jenis-jenis libertarian:**
-
-
-Pada abad ke-20, muncul dua tren utama:
-
-
-1.  **Minoritas:** yang menganggap bahwa kekuasaan Negara harus dibatasi secara ketat untuk mempertahankan kebebasan individu. Ini adalah rezim negara minimal (*Night-watchman state*), di mana kekuasaan hanya sah untuk memastikan fungsi-fungsi inti dari polisi, peradilan, dan pertahanan bersenjata atas wilayah tersebut.
-
-
-2.  **Anarko-kapitalis lainnya:** yang percaya bahwa fungsi-fungsi negara harus diprivatisasi dan dikelola oleh pasar.
-
-
-Namun, keduanya setuju dengan prinsip dasar kedaulatan individu. Ide-ide libertarian diekspresikan sejak abad ke-18 oleh kaum Fisiokrat, terutama Vincent de Gournay dan Turgot, dan dikembangkan oleh Condillac, Jean-Baptiste Say, dan Frédéric Bastiat. Pada abad ke-20, teori-teori ini diambil dan dikembangkan oleh mazhab ekonomi Austria, yang penulis utamanya adalah Ludwig von Mises, Friedrich Hayek, dan Murray Rothbard.
-
+Dengan kata lain, Rothbard menekankan bahwa libertarianisme melampaui pembelahan kiri-kanan tradisional, dan Paul menyoroti penolakan terhadap negara sebagai alat paksaan. **larangan mencuri berlaku bukan hanya bagi individu tetapi juga bagi negara.**
 
 
 
 
 ## Para sentris
 
-
 <chapterId>d4f5c100-a791-45cf-bc7c-6e2353dc7a48</chapterId>
 
 
+Sentrisme lebih dari sekadar posisi tengah yang berjarak sama dari semua lainnya. Ia adalah filsafat politik sejati, metode pemerintahan yang mengklaim sesuai untuk masyarakat pluralis kontemporer. Ia adalah pendekatan yang **mengutamakan efisiensi, pragmatisme, dan cenderung menuju bentuk teknokrasi**: kekuasaan harus dipercayakan kepada para ahli yang harus mengarahkan ekonomi dan mengemudikan kebijakan moneter.
 
-![video](https://www.youtube.com/watch?v=ZJVwYWhdhrU)
+![Diagram Nolan menunjukkan sentrisme ditempatkan di tengah dengan kebebasan moderat di kedua ranah](./assets/en/071.webp)
 
+![Keluarga politik sentris](./assets/en/072.webp)
 
+### Kebebasan dan nilai kardinal
 
-![Centristes Graphique](./assets/fr/018.webp)
+Pendekatan sentris dicirikan oleh pencarian keseimbangan terus-menerus antara otoritas publik dan otonomi privat:
 
+- **Kebebasan:** moderat di ranah sosial dan ekonomi. Dalam ranah sosial, sentris bercita-cita mendamaikan kontrol pemerintah dan pilihan individu, menyukai intervensi negara terukur sambil mempertahankan kebebasan fundamental. Dalam ranah ekonomi, kebebasan dijamin tetapi selalu ditemper oleh perhatian pada keadilan sosial. Sentris sangat kritis terhadap laissez-faire, namun tetap pro-business sekaligus mendukung koreksi ketimpangan. Pembedaan penting perlu dibuat di sini: menjadi pro-business (seperti kecenderungan sentris) berarti mendukung **semacam aliansi antara perusahaan besar dan negara**, yang berbeda dari pro-market.
+- **Nilai kardinal:** moderasi, kompromi, adaptasi, kegunaan publik.
+![Filsafat sentris: pragmatisme dan teknokrasi](./assets/en/073.webp)
 
+- **Filsafat:** Pragmatisme adalah filsafat politik yang mengutamakan adaptasi pada konteks khusus daripada penerapan kaku prinsip ideologis. Pemikiran pragmatis ini didasarkan pada gagasan bahwa hanya teknokrat yang mampu membuat keputusan tepat untuk mencapai hasil sosial-ekonomi terbaik. Dalam model pemerintahan teknokratis, keputusan politik lahir dari rasionalitas dan keahlian, bukan ideologi atau debat partisan. Untuk menghitung utilitas keputusan, orang harus mampu mengukur semua konsekuensinya, dan ini menuntut keahlian: perhitungan canggih, statistik, survei, probabilitas. Namun ada paradoks di sini: **pragmatisme ini sendiri bertumpu pada bentuk dogmatisme** (yaitu bahwa hanya ahli yang kompeten mengarahkan masyarakat), keyakinan yang tetap tak terlihat dan tak terucapkan.
+- **Politik:** Sentris berusaha melampaui pembelahan tradisional (kiri versus kanan) melalui pemerintahan koalisi, menyatukan partai moderat dari kanan konservatif sampai kiri sosial-demokrat dan ekologis ke dalam kelompok pusat yang **melampaui pembelahan historis antara kiri dan kanan**. Metode ini cocok dengan masyarakat modern yang dicirikan oleh keragaman. Bill Clinton di Amerika Serikat dikenal karena kemampuannya meloloskan undang-undang dengan meraih suara dari Republik dan Demokrat; Emmanuel Macron di Prancis terpilih dua kali dengan membentuk pusat luas yang terdiri dari semua moderat.
+- **Ekonomi:** Sentris menerima mekanisme pasar sambil mengakui kebutuhan akan kontrol dan regulasi ahli yang tepat. Mereka menganjurkan ekonomi pasar teregulasi di mana persaingan berlangsung dalam kerangka yang melindungi kepentingan umum. Orang bisa menyebutnya "dirigisme lunak," karena ia tidak berusaha merencanakan ekonomi sepenuhnya tetapi membatasi bonus, mengatur praktik, dan mengelola pasar atas nama perdamaian sosial.
 
+### Program sosial tertarget
 
+![Dirigisme ekonomi sentris: perdagangan bebas teregulasi dan program sosial tertarget](./assets/en/074.webp)
 
-- Kebebasan:** Mereka adalah pendukung moderat kebebasan individu dan ekonomi.
+Sentrisme mengakui pentingnya **program sosial tertarget untuk mengoreksi ketimpangan tanpa menciptakan ketergantungan berlebihan** pada negara. Sistem redistribusi kekayaan ini kurang bertujuan pada egalitarianisme dogmatis daripada pada perdamaian sosial dan "hidup bersama."
 
+### Apakah Keynesianisme sentrisme ekonomi?
 
+![Figur sentris emblematis: Macron dan Blair](./assets/en/075.webp)
 
+![Tony Blair dan Third Way sebagai model sentris](./assets/en/076.webp)
 
+John Maynard Keynes, ekonom Inggris besar abad ke-20 yang mendominasi pemikiran dan praktik ekonomi di masyarakat Barat hingga hari ini, memang dapat dilihat sebagai mewakili bentuk sentrisme. Pendekatannya mencari keseimbangan antara liberalisme klasik (pasar bebas) dan sosialisme dirigiste (perencanaan maksimum).
 
-- Nilai-nilai utama:** moderasi, kompromi, adaptasi, utilitas publik.
+Alih-alih membiarkan pasar mengatur dirinya sendiri, Keynes berargumen bahwa negara harus memakai kebijakan fiskal dan moneter (belanja publik, perpajakan, suku bunga) untuk merangsang permintaan agregat pada masa resesi atau menahannya pada periode ekonomi terlalu panas. Ia adalah pencetus gagasan terkenal bahwa konsumsi baik bagi pertumbuhan.
 
+![Keynesianisme sebagai jalan ketiga antara liberalisme klasik dan sosialisme dirigiste](./assets/en/077.webp) Tetapi agar mekanisme ini bekerja, **dibutuhkan ahli untuk memanipulasi tuas yang tepat**: tuas moneter seperti suku bunga dan penciptaan uang. Untuk membiayai belanja sosial, negara harus dapat meminjam, dan agar pinjaman layak, uang harus tersedia dan tidak terlalu mahal, karenanya pentingnya bank sentral dalam mempertahankan tingkat inflasi tertentu.
 
+### John Rawls: dimensi filosofis
 
+![John Rawls dan fondasi filosofis keadilan sentris](./assets/en/078.webp)
 
+John Rawls, filsuf politik terkemuka dan penulis *A Theory of Justice* (1971), mewakili dimensi teoretis sentrisme. Konsepsinya tentang keadilan sosial mengusulkan **keseimbangan pragmatis antara kebebasan individu dan intervensi korektif terhadap ketimpangan**.
 
-- Filosofi:** Sentris menghindari hal-hal yang ekstrem dan lebih menyukai solusi pragmatis. Mereka memandang persoalan secara kasus per kasus, bukan dari sudut pandang prinsip. Sifat sentrisme sering kali mendekati suatu isu dengan mencari keseimbangan pragmatis di antara berbagai sudut pandang. Pragmatisme adalah filosofi politik yang mengutamakan adaptasi terhadap konteks tertentu dibandingkan penerapan prinsip ideologis yang kaku. Ini merupakan pendekatan politik yang bertumpu pada moderasi dan kompromi. Pemikiran pragmatis ini didasarkan pada gagasan bahwa hanya para teknokrat yang mampu membuat keputusan yang tepat untuk mencapai hasil sosio-ekonomi terbaik.
+Rawls mengusulkan dua prinsip keadilan:
 
+1. **Kebebasan yang sama bagi semua:** fondasi demokrasi seperti telah ditunjukkan Tocqueville.
+2. **Prinsip perbedaan:** mengizinkan ketimpangan hanya jika menguntungkan yang paling tidak beruntung. Dengan kata lain, seseorang berhak menjadi kaya, asalkan redistribusi memungkinkan yang paling kurang beruntung ikut mendapat manfaat.
 
+Konsep **overlapping consensus juga sentral dalam pemikiran Rawls**, terutama dalam bukunya *Political Liberalism* (1993):
 
+> Konsensus tumpang tindih tercapai ketika warga, meski menganut doktrin komprehensif, religius, atau filosofis yang berbeda, tetap berkonvergensi pada seperangkat prinsip politik keadilan yang dapat mereka dukung dari perspektif masing-masing.
 
+Pendekatan ini dengan sempurna menggambarkan metode sentris: mencari kesepakatan rasional dan moderat meskipun ada keragaman opini dalam masyarakat pluralis, inti filsafat sentris.
 
-- Politik:** mereka ingin menggabungkan kontrol pemerintah dan pilihan individu untuk pendekatan yang stabil dan moderat. Ini adalah bentuk intervensi negara yang fleksibel dan bersifat kasus per kasus. Dalam bentuk pemerintahan teknokratis ini, keputusan politik didasarkan pada rasionalitas dan keahlian, bukan pada ideologi atau perdebatan partisan.
+### Pemikiran sentris dalam kutipan
 
+> Hal penting bagi Pemerintah bukanlah melakukan hal-hal yang sudah dilakukan individu, lalu melakukannya sedikit lebih baik atau sedikit lebih buruk; melainkan melakukan hal-hal yang saat ini sama sekali belum dilakukan.
+> John Maynard Keynes, *The End of Laissez-Faire*, 1926
 
-
-
-
-- Ekonomi:** Kaum sentris menerima mekanisme pasar, sambil mengakui perlunya kontrol dan regulasi yang tepat. Mereka menganjurkan ekonomi pasar yang terkendali, di mana persaingan terjadi dalam kerangka kerja regulasi yang melindungi kepentingan umum.
-
-
-
-Sentrisme juga mengakui pentingnya program-program sosial yang ditargetkan untuk memperbaiki ketidaksetaraan tanpa menciptakan ketergantungan yang berlebihan pada negara. Sistem redistribusi kekayaan ini tidak ditujukan untuk egalitarianisme dogmatis, melainkan untuk perdamaian sosial dan "hidup bersama".
-
-
-
-**Tipe-tipe sentris:** Sentris mungkin condong ke arah sosialisme, konservatisme, libertarianisme, atau otoritarianisme, bukan karena prinsip, melainkan karena pragmatisme atau oportunisme politik.
-
-
-
-
-- Emmanuel Macron (Prancis):** Posisinya berada di kanan dan kiri. Dengan reformasi ekonomi liberal (kanan ekonomi) dan dukungan untuk kebebasan sosial tertentu (kiri sosial), mencari jalan tengah.
-- Tony Blair (Inggris):** dengan konsep "Jalan Ketiga". Dia berusaha untuk mendamaikan kebijakan pasar dengan tujuan keadilan sosial, yang membedakan dirinya dari kaum sosialis dan konservatif tradisional.
-
-
-
-Keynesianisme adalah teori ekonomi yang menganjurkan intervensi aktif pemerintah untuk menstabilkan ekonomi.
-
-
-
-Alih-alih membiarkan pasar mengatur dirinya sendiri, Keynes berpendapat bahwa negara perlu menggunakan kebijakan fiskal dan moneter, seperti pengeluaran publik, perpajakan, dan suku bunga, untuk mendorong permintaan agregat saat resesi, atau menahan permintaan ketika ekonomi terlalu panas.
-
-
-Keynes tidak menganjurkan laissez-faire absolut (seperti pro-pemasar murni) atau kontrol negara secara total (seperti dalam ekonomi terencana).
-
-
-
-Pendekatan ini mewakili "jalan ketiga" ekonomi, yang mencari keseimbangan antara liberalisme klasik, yang menginginkan pasar bebas, dan sosialisme terencana negara, yang menginginkan perencanaan maksimum.
-
-
-Secara filosofis, kita bisa merujuk pada filsuf politik terkenal John Rawls, penulis *The Theory of Justice* (1971).
-
-
-
-Dua prinsip keadilannya (kebebasan yang sama untuk semua dan prinsip perbedaan, yang mengizinkan ketidaksetaraan hanya jika hal itu menguntungkan pihak yang paling dirugikan) mewujudkan upaya untuk mensintesiskan liberalisme dan egalitarianisme.
-
-
-
-Konsep **konsensus yang tumpang tindih** juga merupakan inti dari pemikiran John Rawls, terutama dalam bukunya *Political Liberalism* (1993). Berikut adalah kutipan yang menggambarkan konsep ini:
-
-
-
-> Konsensus yang tumpang tindih tercapai ketika warga negara, meskipun menganut doktrin komprehensif, agama, atau filosofis yang berbeda, tetap menyatu dalam seperangkat prinsip-prinsip politik keadilan yang dapat mereka setujui dari sudut pandang masing-masing.
-
-Tujuannya adalah untuk menunjukkan bahwa doktrin-doktrin fundamental yang saling bertentangan tetap bisa didamaikan di sekitar prinsip-prinsip keadilan bersama, yang menjadi inti dari filosofi sentris.
+Yang dimaksud Keynes di sini adalah bahwa ada kegagalan pasar (krisis overproduksi, kelangkaan, spekulasi), dan ketika krisis terjadi, hanya negara yang berada pada posisi untuk ikut campur. **Pasar tidak mampu mengatur dirinya sendiri**, sehingga harus dilindungi, dan tugas itu jatuh kepada negara, karena itu kepada para ahli dan teknokrat.
 
 
 ## Rezim totaliter
 
-
 <chapterId>7a5e9f5a-2be1-4497-892a-3da5f015faa0</chapterId>
 
+Kita menutup analisis keluarga politik besar dengan rezim totaliter, tetapi di sini kita berurusan dengan sesuatu yang secara fundamental berbeda. Totalitarianisme bukan, secara ketat, filsafat politik; **ia lebih merupakan negasi semua filsafat politik**. Inilah yang ditunjukkan Hannah Arendt ketika ia menarik pembedaan antara despotisme klasik dan totalitarianisme.
+
+![Rezim totaliter: kontrol dan paksaan atas semua aspek kehidupan](./assets/en/079.webp)
+
+### Wawasan Hannah Arendt
+
+Dalam karya besarnya *The Origins of Totalitarianism* (1951), Arendt menulis: "Totalitarianism does not tend to subject men to despotic rules, but to a system in which men are superfluous." Maksudnya, rezim totaliter bukan sekadar rezim klasik yang cenderung ke tirani atau despotisme (seperti monarki kadang, atau bahkan demokrasi, seperti diperingatkan Tocqueville). Ia adalah sesuatu yang sama sekali lain.
+
+Menurut Arendt, **totalitarianisme bukan keluarga politik melainkan negasi politik itu sendiri**, sistem di mana manusia dibuat tidak mampu bertindak mandiri. Politik, dalam konsepsinya, adalah kapasitas rakyat untuk mengambil nasibnya sendiri dan bertindak. Dalam rezim totaliter, kapasitas ini dihancurkan.
+
+![Diagram Nolan menunjukkan rezim totaliter di bawah dengan kebebasan ditekan di kedua ranah](./assets/en/080.webp)
+
+### Definisi dan karakteristik fundamental
+
+![Matriks umum totalitarianisme: melampaui oposisi kiri-kanan](./assets/en/081.webp)
+
+Mussolini menyatakan pada 1920: "Everything in the State, nothing outside the State, nothing against the State." Ini mengungkap dengan tepat arti "totaliter": totalitas. Semua diserap ke dalam negara, berarti **tidak ada lagi pemisahan antara ruang publik dan privat**. Negara sepenuhnya menyerap masyarakat, yang pada titik itu kehilangan semua bentuk otonomi. Jika Anda ingin membuka klub tenis meja, Anda membutuhkan izin partai. Dan ini meluas ke benar-benar segala sesuatu, termasuk kehidupan intim keluarga.
+
+- **Kebebasan:** ditekan. Rezim totaliter memaksakan kontrol pemerintah kuat atas kehidupan personal maupun ekonomi. Totalitarianisme ada ketika negara mengontrol semua hal dalam masyarakat dan memegang kekuasaan tak terbatas, menghapus semua bentuk oposisi melalui polisi politik.
+- **Filsafat:** Masyarakat totaliter dibedakan oleh penggunaan ideologi, janji "surga" (akhir sejarah bagi komunisme, atau kemurnian ras bagi Nazisme). Partai menyatukan massa melawan musuh eksternal dan internal (borjuis kapitalis bagi komunisme, orang Yahudi bagi Nazisme).
+- **Politik:** sistem partai tunggal di mana minoritas kecil mengontrol seluruh populasi melalui ideologi dan teror. **Semua rezim totaliter naik ke kekuasaan melalui revolusi kekerasan**, revolusi yang membenarkan kekerasan dengan menghapus bersih sistem sebelumnya.
+- **Ekonomi:** rezim totaliter dapat menoleransi perusahaan privat jika dipaksa melayani kepentingan negara, atau mereka dapat menuntut negara mengontrol semua alat produksi. Mereka melihat pasar bebas sebagai ancaman terhadap ketertiban umum, karena masyarakat ideal harus direncanakan oleh otoritas.
+
+### Pilar kontrol totaliter
+
+![Definisi dan karakteristik fundamental totalitarianisme](./assets/en/082.webp)
+
+Totalitarianisme hadir ketika **semua karakteristik berikut tersusun bersamaan**: kebebasan ditekan, otoritas tak terbatas berdasarkan partai tunggal dan kultus pemimpin, revolusi kekerasan, dan ekonomi terarah. Ini sudah terjadi pada Revolusi Prancis, sehingga beberapa sejarawan mengidentifikasi dimensi totaliter di dalamnya. Penting dicatat bahwa demokrasi modern mungkin memperlihatkan beberapa karakteristik ini, tetapi tidak pernah semuanya pada saat yang sama (setidaknya, untungnya, sampai sekarang).
+
+### Dua model, satu metode: Hitler versus Stalin
+
+![Hitler versus Stalin: dua model berbagi metode identik](./assets/en/083.webp)
+
+Perbedaan antara Nazisme dan komunisme lebih tampak daripada nyata. Terlepas dari antagonisme historis mereka, Hitler dan Stalin memakai metode identik: kultus kepribadian, kontrol sosial total melalui pengawasan, sensor, indoktrinasi, polisi politik, dan **penghapusan sistematis semua bentuk oposisi atau pembangkangan**. Seperti ditulis Raymond Aron, pengamat tajam rezim totaliter abad ke-20: "Nazi or communist totalitarianisms function in the same way, on two principles: the faith of the militants and the fear of the opponents." Ia berbicara tentang "faith" dalam arti quasi-religius; rezim totaliter disebut agama sekuler, agama tanpa Tuhan. Semacam fanatisme mencirikan mereka melampaui motivasi berbeda.
+
+- **Hitler (Nazisme):** walaupun rezim Nazi tidak secara formal menghapus properti privat, ada tampilan ekonomi pasar sementara sektor privat sepenuhnya disubordinasikan pada tujuan negara (perang dan persenjataan ulang). Autarki ekonomi dipaksakan, berarti tidak ada perdagangan bebas. Ada perencanaan ekonomi terpusat untuk melayani tujuan rezim.
+
+- **Stalin (Komunisme):** Stalinisme mencontohkan kontrol total negara atas ekonomi. Semua kepemilikan privat atas alat produksi dihapus, ekonomi sepenuhnya direncanakan (rencana lima tahun), kolektivisasi dipaksakan, dan negara mengontrol sepenuhnya semua aspek produksi dan distribusi.
+
+Seperti ditulis Thierry Wolton, yang mempelajari perbandingan kedua rezim ini secara luas: "Kembarannya komunisme Soviet dan Nazisme adalah fakta historis. Kedua totalitarianisme itu mirip dalam cara berfungsi dan praktik politiknya: **kebencian terhadap demokrasi, nilai humanis, dan kebebasan individu** adalah ciri umum keduanya."
+
+### Pemikiran totaliter dalam kutipan
+
+![Pemikiran totaliter: penolakan kebebasan individu demi otoritas terpusat](./assets/en/084.webp)
+
+> Rakyat tidak membutuhkan kebebasan, karena kebebasan adalah salah satu bentuk kediktatoran borjuis.
+> Vladimir Lenin, *What Is to Be Done?*, 1902
+
+> Rakyat Jerman akan dipimpin bukan oleh penalaran, tetapi oleh seorang pemimpin yang mewujudkan kehendak rakyat.
+> Adolf Hitler, *Mein Kampf*, 1925
+
+> Nazisme dan komunisme berbagi oposisi bersama terhadap demokrasi liberal dan apa yang mereka sebut "borjuis kapitalis." [...] Kedua ideologi mengklaim diri sosialis dan menggunakan citra itu melawan satu sama lain.
+> Francois Furet, *The Passing of an Illusion*, 1995
+
+Kutipan ini mengungkap logika bersama rezim totaliter: **penolakan terhadap kebebasan individu demi otoritas terpusat absolut**, baik komunis maupun fasis. Memang, nama partai Nazi sendiri (National Socialism) menandakan matriks ideologis bersama ini, meskipun kedua gerakan saling membenci.
 
 
-![video](https://www.youtube.com/watch?v=0ueywR4vzHs)
-
-
-
-Penting untuk dicatat di sini bahwa istilah totalitarianisme mengacu pada sistem politik, bukan ideologi politik dalam arti konservatisme atau sentrisme. Rezim totaliter ditandai dengan kontrol negara yang luas dan dengan paksaan atas semua aspek kehidupan publik dan pribadi.
-
-
-![regimes totalitaires Graphique](./assets/fr/019.webp)
-
-
-
-
-
-- Kebebasan:** Rezim totaliter mendukung kontrol pemerintah yang kuat atas kehidupan pribadi dan ekonomi. Totalitarianisme ada ketika negara mengontrol segala sesuatu dalam masyarakat dan memiliki kekuasaan tak terbatas.
-- Filosofi:** Totaliter percaya bahwa otoritas terpusat adalah satu-satunya cara untuk menjamin ketertiban dan keadilan, sementara kebebasan adalah faktor kekacauan. Mereka ingin negara mengontrol semua aspek kehidupan ekonomi dan pribadi, percaya bahwa kontrol seperti itu lebih mungkin menghasilkan masyarakat yang ideal. Mereka adalah rezim revolusioner yang membenarkan kekerasan dengan alasan bahwa sistem sebelumnya sepenuhnya salah, dan bahwa model baru harus dibangun dengan menyapu bersih. Mereka tidak dapat mentolerir keragaman pendapat yang berlebihan atau ekspresi apa pun yang menantang otoritas mereka.
-- Politik:** Totalitarianisme mengacu pada sistem partai tunggal. Menurut Hannah Arendt, totalitarianisme bukanlah sebuah keluarga politik, bukan pula sebuah rezim politik yang lalim. Ini adalah negasi dari politik: sebuah sistem di mana manusia tidak mampu melakukan tindakan independen. Menurutnya, tujuan pendidikan totaliter tidak pernah untuk menanamkan keyakinan, tetapi untuk menghancurkan kemampuan untuk membentuk yang lain (The Origins of Totalitarianism, 1951). Memang, masyarakat totaliter dibedakan dengan penggunaan ideologi, janji akan sebuah *surga*, seperti akhir dari sejarah atau kemurnian ras. Akibatnya, mereka menghilangkan semua bentuk oposisi melalui kebijakan politik dan penggunaan teror.
-- Ekonomi:** Rezim totaliter dapat mentolerir perusahaan swasta jika dipaksa untuk melayani kepentingan negara, atau menuntut agar negara mengendalikan semua alat produksi. Mereka melihat pasar bebas sebagai ancaman terhadap ketertiban umum, karena masyarakat yang ideal harus direncanakan oleh pihak berwenang.
-
-
-
-**Ada dua kategori umum rezim totaliter**: totaliter sayap kiri (komunisme, sosialisme nasional) dan totaliter sayap kanan (kediktatoran militer, fasisme). Namun kategori-kategori ini kehilangan maknanya jika kita memahami bahwa matriksnya sama. Ini terlihat pada kasus Hitler dan Stalin. Terlepas dari antagonisme historis di antara mereka, kita menemukan kultus yang sama terhadap pemimpin, perekrutan pemuda, penyensoran, pengawasan, penindasan terhadap semua bentuk oposisi, penganiayaan politik, serta penghancuran kebebasan individu.
-
-
-
-
-- Hitler (Nazisme/Fasisme): meskipun Nazisme tidak secara resmi menghapuskan kepemilikan pribadi, negara Nazi melakukan kontrol yang sangat besar terhadap perekonomian. Produksi, alokasi sumber daya, dan perusahaan (bahkan swasta) semuanya tunduk pada tujuan negara (persenjataan, autarki). Ada perencanaan ekonomi terpusat untuk memenuhi tujuan rezim.
-
-
-
-
-
-- Stalin (Komunisme/Stalinisme): Stalinisme mencontohkan kontrol total negara atas ekonomi. Semua kepemilikan pribadi atas alat produksi dihapuskan, ekonomi sepenuhnya direncanakan (rencana lima tahun), dan negara mengendalikan semua aspek produksi dan distribusi.
-
-
-
-# Masalah-masalah kemasyarakatan
-
+# Isu sosial dan ekonomi
 
 <partId>ab160ddd-5c3a-436b-a77a-76d7089f1611</partId>
 
 
-
-## Masalah-masalah kemasyarakatan
-
+## Isu sosial
 
 <chapterId>bb2156da-7e10-4f0b-89c3-f6d53f5a79ef</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=tq09pDLHioQ)
 
+![Analisis komparatif debat sosial di seluruh keluarga politik](./assets/en/085.webp)
 
+Setelah menganalisis keluarga politik besar, kita kini beralih ke serangkaian debat tentang isu sosial, lalu isu ekonomi. Tujuannya adalah menawarkan analisis komparatif posisi sosialis, konservatif, libertarian, dan sentris pada lima pertanyaan fundamental masyarakat: pernikahan, imigrasi, senjata api, narkoba, dan pajak minuman bergula.
 
-Berikut ini adalah beberapa pertanyaan yang sering diajukan tentang isu-isu politik. Setiap pertanyaan diikuti dengan jawaban singkat yang khas dari seorang sosialis, konservatif, libertarian, dan sentris.
-
-
-Tentu saja, jawaban singkat ini hanya memberikan gambaran sekilas dari setiap sudut pandang. Karena tidak semua orang berpikir dengan cara yang sama, jawaban-jawaban ini tentu terbuka untuk diperdebatkan. Meski begitu, saya sudah berusaha untuk bersikap adil dan secara akurat mewakili pandangan sebagian besar orang.
-
-
-Masalah sosial bukan soal uang, melainkan soal pilihan yang kita buat tentang apa yang kita baca, makan, minum, merokok, pakaian yang kita kenakan, atau dengan siapa kita memilih untuk bergaul, tidur, atau menikah.
-
+Isu sosial bukan tentang uang. Ia menyangkut pilihan yang kita buat tentang apa yang kita baca, makan, minum, hisap, kenakan, atau dengan siapa kita memilih bergaul, tidur, atau menikah. Untuk tiap pertanyaan di bawah, kita akan memeriksa jawaban singkat yang tipikal dari tiap keluarga politik. Jawaban cepat ini hanya memberi sekilas tentang tiap sudut pandang, dan karena tidak semua orang berpikir sama, posisi yang dikaitkan dengan mereka secara alami terbuka untuk diperdebatkan. Namun saya telah mencoba bersikap adil dan mewakili secara akurat apa yang akan dikatakan sebagian besar penganut tiap keluarga.
 
 
 ### Pernikahan
 
+![Debat pernikahan di seluruh keluarga politik](./assets/en/086.webp)
 
 **Pertanyaan:** Haruskah pemerintah melegalkan pernikahan gay dengan cara yang sama seperti pernikahan tradisional?
 
 
+### Posisi sosialis: ya
 
+Bagi sosialis, semua warga harus diperlakukan sama di bawah hukum, tanpa diskriminasi berdasarkan orientasi seksual. Dengan kata lain, konsepsi inklusif yang berakar pada prinsip non-diskriminasi. Sosialis mengecam **penindasan minoritas homoseksual oleh mayoritas heteroseksual** yang menolak akses mereka ke pernikahan. Di sini kita menemukan pandangan dunia yang melintasi banyak posisi sosialis: masyarakat disusun oleh konflik antara dominan dan didominasi, penindas dan tertindas. Kerangka ini direproduksi di banyak ranah. Ia dapat berlaku pada relasi gender antara laki-laki dan perempuan, atau antara homoseksual dan heteroseksual. Ia dapat berlaku pada relasi antara kelompok rasial, bahkan pada relasi antara manusia dan alam. Legalisasi pernikahan gay karena itu, di mata mereka, adalah tindakan keadilan sosial.
 
+### Posisi konservatif: tidak
 
-- Kaum Sosialis:** Ya, mereka melihat mayoritas heteroseksual menindas minoritas homoseksual dengan melarang mereka menikah, sehingga secara otomatis mendukung reformasi. Kaum sosialis ingin memberlakukan satu konsepsi tentang pernikahan sipil, termasuk pernikahan sesama jenis, meskipun hal ini merugikan mereka yang memandang pernikahan hanya sah antara pria dan wanita. Karena itu, melegalkan pernikahan gay dianggap sebagai tindakan keadilan sosial yang mendorong masyarakat yang lebih inklusif dan toleran. Hal ini memastikan bahwa pasangan sesama jenis menikmati hak-hak hukum yang sama, seperti warisan, perpajakan, filiasi, dan lain-lain, serta perlindungan yang setara dengan pasangan heteroseksual, sehingga mengurangi ketimpangan secara de facto. Inti dari argumen ini adalah keyakinan bahwa semua warga negara harus diperlakukan sama di hadapan hukum, tanpa memandang orientasi seksual. Menolak pernikahan pasangan sesama jenis dipandang sebagai bentuk diskriminasi yang tidak dapat diterima.
+Bagi konservatif, pernikahan tradisional adalah institusi fundamental berusia 2.500 tahun, didefinisikan sebagai persatuan antara laki-laki dan perempuan. Definisi ini tidak arbitrer. Ia bertumpu pada realitas biologis: **kapasitas alamiah untuk bereproduksi, yang merupakan panggilan utama keluarga**. Jika kita ingin melindungi tatanan sosial dan menjaga masa depan umat manusia itu sendiri (karena reproduksi menjamin kelangsungan spesies), maka pernikahan harus diperuntukkan bagi laki-laki dan perempuan berdasarkan definisinya sendiri. Dengan kata lain, yang ingin dilindungi konservatif adalah definisi tradisional pernikahan itu sendiri.
 
+### Posisi libertarian: campuran
 
+Bagi libertarian, pertanyaannya secara fundamental salah bingkai karena diajukan dalam istilah statis: siapa yang negara izinkan untuk menikah? Negara, menurut mereka, tidak punya urusan ikut campur dalam kehidupan privat individu. Pendekatan libertarian yang konsisten karena itu adalah membela pemisahan pernikahan dan negara. **Dengan memaksakan satu definisi pernikahan, negara menciptakan konflik.** Privatisasi pernikahan menghormati mereka yang mendukung pernikahan tradisional maupun mereka yang membela pernikahan sesama jenis. Solusinya: singkirkan pernikahan sipil wajib dan serahkan peran ini kepada asosiasi privat, gereja, sinagoga, masjid, atau organisasi sekuler. Biarkan individu, asosiasi, dan agama mendefinisikan pernikahan bagi diri mereka sendiri.
 
+### Posisi sentris: ya
 
-
-- Konservatif:** Tidak. Mereka memandang pernikahan tradisional sebagai institusi fundamental peradaban Barat, yang telah ada selama sekitar 2.500 tahun dan secara historis didefinisikan sebagai persatuan antara seorang pria dan seorang wanita. Definisi ini bukan dibuat secara sembarangan, melainkan berakar pada dasar biologis, yaitu kemampuan untuk berkembang biak secara alami, serta pada fondasi budaya dan agama. Pendefinisian ulang pernikahan secara radikal dipandang sebagai ancaman bagi masyarakat yang beradab. Melegalkan pernikahan gay dianggap sebagai tindakan yang mendenaturasi atau mendefinisikan ulang institusi yang sakral dan mendasar ini, sehingga mengosongkan makna asli serta tujuan utamanya, yakni prokreasi dan pembentukan keluarga dalam bentuk yang alamiah. Perubahan norma sosial yang terjadi terlalu cepat sering kali disikapi dengan kecurigaan, karena dikhawatirkan dapat menghilangkan titik acuan serta identitas budaya atau nasional. Dalam kerangka ini, pernikahan dipandang sebagai salah satu pilar utama tatanan tersebut.
-
-
-
-
-
-- Libertarian:** Ya dan tidak. Pendekatan libertarian yang konsisten adalah mempertahankan privatisasi pernikahan, yaitu pernikahan yang sepenuhnya bebas dari campur tangan negara. Pernikahan dipandang sebagai institusi non-negara, dan negara tidak punya urusan untuk memaksa orang lain mengakui pernikahan tradisional maupun pernikahan gay. Solusinya? Hapus kewajiban pernikahan sipil dan serahkan peran ini kepada asosiasi swasta, seperti gereja, sinagoga, masjid, atau organisasi sekuler swasta. Solusi politik ini, yang menghormati hak kepemilikan dan kebebasan individu, dapat disebut sebagai pemisahan antara pernikahan dan negara.
-
-
-
-
-
-- Kaum sentris:** Ya. Kaum sentris mengakui bahwa masyarakat telah berevolusi dan bahwa sebagian besar penduduk ingin pasangan sesama jenis diakui. Mereka berpegang pada prinsip non-diskriminasi dan percaya bahwa setiap orang berhak menjalani kehidupan yang mereka pilih, termasuk membentuk serikat yang sah. Mereka juga peka terhadap argumen bahwa pasangan sesama jenis harus menikmati hak dan perlindungan hukum yang sama, seperti warisan, perlindungan sosial, dan perpajakan, sebagaimana pasangan heteroseksual. Bagi kaum sentris, negara perlu mencerminkan keragaman warganya dan memodernisasi hukum, sambil tetap menjaga tingkat kohesi sosial tertentu.
-
+Sentris mengakui evolusi masyarakat dan berpendapat bahwa prinsip non-diskriminasi harus berlaku. Hukum harus mencerminkan keragaman warga dan beradaptasi dengan eranya. Pasangan sesama jenis harus menikmati hak dan perlindungan hukum yang sama (warisan, perlindungan sosial, perpajakan) seperti pasangan heteroseksual. Di sini kita menemukan **ideal sentris tentang konsensus, adaptasi pragmatis, dan modernisasi hukum**.
 
 
 ### Imigrasi
 
+![Debat imigrasi di seluruh keluarga politik](./assets/en/087.webp)
 
-**Pertanyaan:** Haruskah pemerintah membuka perbatasan untuk semua orang dan membiarkan mereka yang ingin berimigrasi tanpa syarat?
-
-
-
+**Pertanyaan:** Haruskah pemerintah membuka perbatasan tanpa syarat?
 
 
-- Sosialis:** Ya. Mereka memandang imigran ilegal sebagai kelompok yang tertindas, sementara penduduk asli kulit putih yang memusuhi imigran diposisikan sebagai pihak penindas. Selain itu, pembatasan berdasarkan kewarganegaraan atau agama dianggap diskriminatif dan bertentangan dengan hak asasi manusia. Negara dipandang memiliki kewajiban untuk menerima orang-orang yang membutuhkan serta mendorong keragaman dan integrasi.
+### Posisi sosialis: ya
 
+Bagi sosialis, pembatasan diskriminatif bertentangan dengan hak asasi manusia. Negara memiliki kewajiban menyambut orang yang membutuhkan dan mempromosikan keragaman. Di sini lagi kita menemukan gagasan keadilan sosial, kesetaraan, dan non-diskriminasi yang mencirikan keluarga sosialis. **Pembatasan berdasarkan kebangsaan atau agama dipandang sebagai bentuk penindasan**, sesuai kerangka dominan/didominasi yang dijelaskan di atas.
 
+### Posisi konservatif: tidak
 
+Negara memiliki hak berdaulat untuk mengontrol perbatasannya guna melindungi keamanan nasional dan identitas kultural. Bagi konservatif, **ketertiban, identitas, dan kedaulatan nasional harus didahulukan** dari penyambutan tanpa batas terhadap orang asing atau pengungsi. Perbatasan dan populasi yang terdefinisi baik adalah bagian dari nilai beradab.
 
-- Konservatif:** Tidak. Negara dipandang memiliki hak berdaulat untuk mengendalikan perbatasannya dan menentukan siapa yang boleh masuk ke wilayahnya. Pembatasan dianggap perlu untuk melindungi keamanan nasional, identitas budaya, serta kemampuan masyarakat untuk berintegrasi. Mereka khawatir bahwa membiarkan imigrasi tanpa batas dapat menggerus identitas bangsa dan, lebih jauh lagi, merusak lapangan pekerjaan, termasuk bagi warga negara dengan pekerjaan paling sederhana. Perbatasan yang jelas dan populasi yang terdefinisi dengan baik dipandang sebagai bagian dari nilai-nilai masyarakat yang beradab.
+### Posisi libertarian: campuran
 
+Ya untuk imigrasi pasar dan tidak untuk imigrasi negara. Mengapa? Karena dalam dunia yang sangat statis, imigrasi disubsidi dan menciptakan klaim atas kerja orang lain. Dengan kata lain, bebannya jatuh pada pembayar pajak, yang harus membayar layanan kesehatan, perumahan, dan biaya lain. Dari perspektif sumbu kebebasan/paksaan, perbatasan terbuka memberi individu kemampuan memilih dengan kaki mereka, memilih pemerintah mereka secara bebas. Tetapi **imigrasi tidak dapat menciptakan hak atas kerja orang lain**. Seseorang berhak menetap di negara lain dengan syarat tidak menjadi beban bagi penduduknya. Solusinya, seperti biasa bagi libertarian, adalah pasar: biarkan warga memutuskan secara kontraktual relasi mereka dengan orang asing. Imigrasi apa pun yang dipaksakan tidak kompatibel dengan kebebasan.
 
+### Posisi sentris: ya
 
-
-
-- Libertarian:** Ya dan tidak. Ya untuk imigrasi pasar, dan tidak untuk imigrasi negara. Dalam dunia yang sangat disponsori negara, imigrasi selalu disertai subsidi dan menciptakan klaim yang merugikan atas tenaga kerja orang lain, yaitu hak-hak buatan yang pada dasarnya merupakan bentuk transfer ekonomi. Namun, dari sudut pandang poros kebebasan dan paksaan, perbatasan terbuka memberi individu pilihan atas pemerintah dan kemampuan untuk memilih dengan kakinya. Karena itu, kebijakan imigrasi yang paling baik adalah mengurangi campur tangan negara dan membiarkan warga negara memutuskan sendiri.
-
-
-
-
-
-- Sentris:** Pemerintah perlu mengelola imigrasi secara seimbang. Meskipun pembatasan berdasarkan agama umumnya tidak dapat diterima, pembatasan berdasarkan kewarganegaraan atau keterampilan terkadang diperlukan untuk memenuhi kebutuhan ekonomi dan memastikan integrasi yang berhasil, sambil tetap menghormati konvensi internasional dan hak asasi manusia.
-
+Imigrasi memungkinkan pemberi kerja merekrut pekerja di sektor yang kekurangan tenaga, dan imigrasi terbuka memungkinkan penerapan konvensi internasional tentang pengungsi. Pemerintah harus mengelola imigrasi secara seimbang, **mendamaikan kebutuhan ekonomi, integrasi berhasil, dan penghormatan terhadap konvensi internasional**.
 
 
 ### Senjata api
 
+![Debat senjata api di seluruh keluarga politik](./assets/en/088.webp)
 
+**Pertanyaan:** Haruskah warga yang taat hukum dapat memiliki senjata api tanpa regulasi ketat?
 
-**Pertanyaan:** Haruskah warga negara yang taat hukum dapat memiliki senjata api tanpa peraturan yang ketat?
 
+### Posisi sosialis: tidak
 
+Keamanan publik harus didahulukan dari kebebasan memiliki senjata. Regulasi ketat diperlukan untuk mengurangi kekerasan dan menjamin keamanan kolektif, karena negara memiliki kewajiban konstitusional melindungi semua warganya. Sosialis juga menekankan ketimpangan yang dapat muncul dari kebebasan senjata api dan kerentanan yang akan diciptakannya bagi anggota masyarakat paling rapuh. Pada akhirnya, **hanya negara yang seharusnya dipercaya dengan penggunaan kekuatan**, di bawah kondisi yang menghormati kepentingan publik.
 
+### Posisi konservatif: campuran
 
+Hak memiliki senjata untuk bela diri adalah nilai penting. Namun, regulasi untuk menjamin keamanan dan ketertiban publik juga diperlukan, dan **regulasi ini harus berasal dari otoritas publik** yang bertugas menjaga kebaikan bersama. Berbeda dari pandangan libertarian, konservatif menegaskan bahwa aturan tentang senjata harus berasal dari atas, dari otoritas sah yang bertanggung jawab atas ketertiban publik.
 
-- Sosialis:** Tidak. Keselamatan publik harus diutamakan di atas kebebasan untuk memiliki senjata api. Regulasi yang ketat diperlukan untuk mengurangi kekerasan dan menjamin keselamatan semua orang, karena negara memiliki kewajiban untuk melindungi warganya.
+### Posisi libertarian: ya
 
+Hak mempersenjatai diri adalah komponen esensial dari hak melawan agresi. Negara tidak boleh memonopoli kekuatan, dan individu harus dapat melindungi diri secara bebas dalam kasus pembelaan diri yang sah. Libertarianisme, perlu dicatat, bukan ketiadaan aturan seperti sering dipercaya. Libertarian sepakat dengan konservatif bahwa bentuk regulasi tertentu diperlukan untuk membawa senjata, seperti SIM atau izin berburu diperlukan. Tetapi perbedaan krusial terletak pada siapa yang menetapkan aturan itu. Bagi libertarian, **regulasi harus muncul dari mereka yang langsung berkepentingan**: profesional keamanan, asosiasi warga, dan persaingan pasar, bukan dari mandat pemerintah dari atas.
 
+### Posisi sentris: tidak
 
+Regulasi esensial. Walaupun hak memiliki senjata api mungkin ada untuk kegunaan tertentu, **keamanan publik dan pengurangan kekerasan menuntut kontrol ketat dari negara**, yang memegang monopoli kekuatan: izin, pemeriksaan latar belakang, dan pembatasan jenis senjata yang diizinkan.
 
 
-- Konservatif:** Sebagian ya, hak untuk memiliki senjata api untuk membela diri adalah nilai yang penting. Namun, peraturan untuk menjamin keamanan dan ketertiban umum juga diperlukan, tetapi peraturan tersebut harus menghormati hak fundamental ini.
+### Narkoba
 
+![Debat legalisasi narkoba di seluruh keluarga politik](./assets/en/089.webp)
 
+**Pertanyaan:** Haruskah orang dewasa diizinkan memakai narkoba secara bebas untuk tujuan rekreasional?
 
 
+### Posisi sosialis: ya
 
-- Libertarian:** Ya, hak untuk mempersenjatai diri adalah komponen penting dari hak untuk membela diri. Negara tidak boleh memonopoli penggunaan kekuatan, dan individu harus dapat melindungi diri mereka sendiri tanpa hambatan. Tetapi pengaturan kepemilikan senjata harus diserahkan kepada pasar, para profesional dan asosiasi warga negara.
+Bagi sosialis, kriminalisasi menciptakan lebih banyak masalah daripada yang diselesaikannya. Legalisasi yang dikontrol negara memungkinkan pengelolaan kualitas yang lebih baik, menghasilkan pendapatan publik, dan mengutamakan pencegahan kesehatan daripada represi. Perlu dicatat dikotomi tajam dalam pemikiran sosialis antara pertanyaan ekonomi dan sosial. **Pada isu sosial ini, sosialis terbukti jauh lebih liberal daripada konservatif**, mendukung kebebasan konsumsi individu sambil mempertahankan pengawasan negara atas prosesnya.
 
+### Posisi konservatif: tidak
 
+Bahkan narkoba yang disebut lunak berbahaya bagi kesehatan dan tatanan sosial. Penggunaan narkoba menciptakan masalah ketergantungan, juga disrupsi keluarga dan kesulitan di tempat kerja. Negara harus menegakkan hukum dengan tegas untuk melindungi warga dan menjaga integritas bangsa serta keluarga. Konservatif juga menunjukkan bahwa **pelarangan membawa biaya sangat besar bagi pembayar pajak**, karena melibatkan perang melawan pengedar, geng, dan kartel, tetapi mereka menganggap biaya ini dibenarkan oleh imperatif menjaga ketertiban.
 
+### Posisi libertarian: campuran
 
+Ya, tetapi hanya dengan syarat peran negara dalam masyarakat dikurangi. Pertama, negara tidak punya urusan ikut campur dalam keputusan personal individu. Kedua, pelarangan melahirkan pasar gelap dan kriminalitas. Tetapi solusi untuk masalah kecanduan, dan bahaya yang ditimbulkannya bagi individu maupun masyarakat, terletak pada inisiatif privat: dukungan sukarela dari individu, keluarga, dan asosiasi, bukan perawatan yang dikelola negara. Dengan kata lain, **liberalisasi narkoba diinginkan, tetapi tidak jika diambil alih negara**. Warga harus diberi kembali tanggung jawab membuat pilihan dan menanggung konsekuensinya. Jika seseorang memilih memakai narkoba lalu menjadi tergantung atau sakit, orang itu harus bertanggung jawab alih-alih meminta negara menyediakan perawatan. Tidak ada yang mencegah asosiasi amal menawarkan bantuan dan dukungan kepada yang membutuhkan.
 
-- Sentris:** Tidak, regulasi sangat penting. Meskipun hak untuk memiliki senjata api mungkin ada untuk penggunaan tertentu, keamanan publik dan pengurangan kekerasan memerlukan kontrol yang ketat (izin, pemeriksaan latar belakang, jenis senjata) untuk menyeimbangkan antara kebebasan dan ketertiban.
+### Posisi sentris: bukan ya bukan tidak
 
+Sentris ingin mengetahui dengan pasti apakah liberalisasi akan melonggarkan sistem peradilan atau meningkatkan kesehatan publik. Dalam praktiknya, mereka mengandalkan studi dan evaluasi ahli untuk membentuk keputusan. **Mereka menuntut bukti konkret efektivitas** sebelum berkomitmen pada perubahan kebijakan apa pun, menyerukan studi ketat tentang dampak kesehatan maupun ekonomi.
 
 
-### Obat-obatan
+### Pajak minuman bergula
 
+![Debat pajak minuman bergula di seluruh keluarga politik](./assets/en/090.webp)
 
+**Pertanyaan:** Haruskah pemerintah mengenakan pajak pada minuman bergula untuk mengurangi obesitas?
 
-**Pertanyaan:** Haruskah orang dewasa diizinkan menggunakan narkoba secara bebas untuk tujuan rekreasi?
 
+### Posisi sosialis: ya
 
+Masalah obesitas, dalam pandangan sosialis, adalah masalah produsen yang mengambil untung dari kecanduan gula dengan mengorbankan kesehatan publik. Ada seluruh industri makanan yang mengeksploitasi kecanduan ini dan kerentanan dalam populasi, khususnya di antara mereka yang paling kurang terlindungi dan kurang terdidik. **Pajak soda bertujuan mencegah industrialis mengambil untung dari obesitas** dan masalah ketergantungan.
 
+### Posisi konservatif: tidak
 
+Konservatif lebih menyukai tanggung jawab personal dan pendidikan. Tugas mendidik anak tentang pertanyaan ini harus pertama-tama dipercayakan kepada orang tua: pencegahan, bukan perpajakan. Memang, **perpajakan sering dianggap konservatif bukan hanya tidak efektif tetapi benar-benar merugikan**, karena perusahaan hanya akan berusaha mempertahankan margin dengan menaikkan harga produknya, memindahkan beban kepada konsumen.
 
-- Sosialis:** Ya Penalti tidak efektif. Legalisasi memungkinkan kontrol dan peningkatan pendapatan.
-- Konservatif:** Tidak. Konsumsi berbahaya bagi kesehatan dan tatanan sosial.
-- Libertarian:** Ya, asalkan peran negara dalam masyarakat dikurangi. Negara tidak memiliki urusan untuk mencampuri keputusan pribadi selama keputusan tersebut tidak secara langsung merugikan orang lain.
-- Sentris:** Perdebatan yang kompleks. Dekriminalisasi mungkin saja terjadi, namun peraturan yang ketat sangat diperlukan.
+### Posisi libertarian: tidak
 
+Prinsip fundamental libertarianisme adalah bahwa tidak adil melindungi orang dari dirinya sendiri. Di sini, argumennya bukan terutama kalkulasi ekonomi melainkan argumen moral. Warga adalah orang dewasa, bukan anak-anak; mereka berhak membuat keputusan sendiri, meski keputusan itu dapat merugikan mereka. Masalah obesitas karena itu harus ditangani oleh inisiatif privat. Ini tidak berarti menyangkal bahwa obesitas adalah masalah sosial serius. Sebaliknya, ini berarti **mengembalikan kepada individu tanggung jawab membuat pilihan dan menanggung konsekuensinya**. Jika bantuan diperlukan, pasar, masyarakat sipil, individu, dan keluarga berada pada posisi terbaik untuk menyediakannya, bukan negara.
 
+### Posisi sentris: bukan ya bukan tidak
 
+Ya, jika efektivitas terbukti. Dengan kata lain, sentris menuntut bukti konkret bahwa pajak itu akan bekerja sebelum menerapkannya. Mereka menginginkan studi ketat tentang dampak kesehatan dan ekonomi. **Keputusan mereka bertumpu pada evaluasi ahli, bukan prinsip**, yang menjadi ciri pendekatan sentris dalam seluruh debat ini.
 
-### Kesehatan
 
-
-
-**Pertanyaan:** Haruskah pemerintah mengenakan pajak pada minuman manis untuk mengurangi obesitas?
-
-
-
-
-
-- Sosialis:** Ya. Masalah obesitas adalah tanggung jawab produsen yang memasarkan minuman ringan. Pajak soda adalah usulan sosialis untuk menekan produsen atau penjual minuman manis yang dianggap meraup keuntungan dengan mengorbankan kesehatan masyarakat.
-
-
-
-
-
-- Konservatif:** Pada prinsipnya, ya. Tugas pemerintah adalah menjaga kesehatan warganya. Namun, kaum konservatif umumnya lebih memilih solusi yang bertumpu pada tanggung jawab pribadi dan edukasi. Pengenaan pajak pada minuman manis akan dipandang sebagai campur tangan pemerintah yang berlebihan dalam pilihan pribadi warga negara.
-
-
-
-
-- Libertarian:** Tidak. Prinsip dasar libertarianisme menyatakan bahwa tidak adil melindungi orang dari diri mereka sendiri. Warga negara adalah orang dewasa, bukan anak-anak. Upaya memaksakan kebiasaan hidup yang lebih sehat melalui paksaan dianggap mahal, tidak efektif, dan pada akhirnya justru kontraproduktif. Masalah obesitas seharusnya ditangani melalui inisiatif pribadi.
-
-
-
-
-
-- Kaum sentris:** Ya, mereka akan terbuka terhadap gagasan pajak jika terbukti efektif dan jika dampak sosial serta ekonominya bisa diminimalkan. Pajak tersebut akan dipandang sebagai bagian dari solusi yang lebih luas dan terintegrasi, bukan sebagai kebijakan yang berdiri sendiri.
-
-
-
-# Masalah ekonomi
-
-
-<partId>465e0e6b-17e9-4f07-9a41-b3e88af0e83f</partId>
-
-
-
-## Masalah ekonomi
-
+## Isu ekonomi
 
 <chapterId>f1d6c5de-fa05-4fb7-9d2e-73cc9791ea23</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=8MM2cFzPtRg)
 
+![Analisis komparatif debat ekonomi di seluruh keluarga politik](./assets/en/091.webp)
 
-
-Masalah ekonomi berkaitan dengan uang, seperti pekerjaan, aktivitas jual beli, investasi, dan transaksi bisnis. Saya sendiri memilih lima pertanyaan untuk menampilkan jawaban dari tiap keluarga politik. Tentu saja, jawaban singkat ini hanya memberi gambaran umum dari masing-masing sudut pandang.
+Setelah pertanyaan sosial, kita kini beralih ke pertanyaan ekonomi. Ini menyangkut uang: pekerjaan, jual beli, investasi, transaksi komersial, dan juga hukum. Kita akan memeriksa jawaban tiap keluarga politik besar pada lima isu fundamental: pajak, upah minimum, layanan kesehatan, lingkungan, dan subsidi. Seperti sebelumnya, jawaban cepat ini hanya menawarkan sekilas dari tiap sudut pandang.
 
 
 ### Pajak
 
+![Debat perpajakan di seluruh keluarga politik](./assets/en/092.webp)
+
+**Pertanyaan:** Haruskah pajak penghasilan dikurangi atau diganti dengan bentuk perpajakan yang lebih sederhana dan lebih rendah?
 
 
-**Pertanyaan:** Haruskah pajak penghasilan dikurangi atau diganti dengan bentuk pajak yang lebih sederhana dan lebih rendah?
+### Posisi sosialis: tidak
 
+Pajak penghasilan progresif adalah alat fundamental untuk meredistribusi kekayaan dan membiayai layanan publik (kesehatan, pendidikan, perlindungan sosial). Karena itu ia esensial bagi keadilan sosial. Dengan kata lain, **progresivitas adalah mekanisme yang digunakan negara untuk mengoreksi ketimpangan** dan membiayai infrastruktur kolektif yang dianggap sosialis tak tergantikan.
 
+### Posisi konservatif: ya
 
+Pajak lebih rendah mendorong investasi, penciptaan lapangan kerja, dan pertumbuhan ekonomi. Ia mendukung inisiatif individu dan mengurangi pemborosan pemerintah di sektor publik. Dalam pandangan konservatif, **pajak harus adil dan rendah** agar menghargai usaha dan kewirausahaan, bukan menghukum keberhasilan.
 
+### Posisi libertarian: ya
 
-- Sosialis:** Tidak. Pajak penghasilan progresif adalah alat fundamental untuk mendistribusikan kekayaan dan membiayai layanan publik (kesehatan, pendidikan, perlindungan sosial). Mereka sangat penting untuk keadilan sosial.
-- Konservatif:** Ya. Pajak yang lebih rendah mendorong investasi, penciptaan lapangan kerja, dan pertumbuhan ekonomi. Mereka mendorong inisiatif individu dan mengurangi pemborosan pemerintah. Pajak harus adil dan rendah.
+Perpajakan adalah bentuk pencurian negara dan hambatan terhadap properti privat. Ia harus dikurangi drastis atau dihapus demi layanan yang sepenuhnya privat. Libertarian cenderung pada negara minimal, bahkan negara nol. Bagi mereka, pemerintah harus dibatasi pada fungsi yang sangat berdaulat (pertahanan, keadilan), yang akan membenarkan pajak jauh lebih sedikit daripada yang ada saat ini. Dengan kata lain, **keberatan libertarian terhadap perpajakan adalah moral sebelum ekonomi**: ia adalah pelanggaran hak properti.
 
+### Posisi sentris: campuran
 
-
-
-
-- Libertarian:** Ya. Pajak dipandang sebagai bentuk perampasan oleh negara dan hambatan bagi kepemilikan pribadi. Karena itu, pajak sebaiknya dikurangi secara signifikan atau bahkan dihapuskan, lalu digantikan dengan kontribusi sukarela atau layanan yang sepenuhnya bersifat swasta.
-
-
-
-- Sentris:** Sistem pajak harus seimbang. Tingkat progresivitas tertentu diperlukan untuk solidaritas, tetapi pajak yang terlalu tinggi dapat menghambat investasi. Tujuannya adalah sebuah sistem yang membiayai layanan-layanan penting tanpa menghambat perekonomian.
-
+Tingkat progresivitas tertentu diperlukan untuk solidaritas, tetapi pajak yang terlalu tinggi dapat menghambat investasi. Sentris tidak bergantung pada prinsip tetap melainkan pada evaluasi konsekuensi. Untuk ini, mereka membutuhkan ahli. Inilah mengapa sentrisme sering dikaitkan dengan bentuk teknokrasi: **tingkat pajak yang tepat harus ditentukan oleh analisis empiris**, bukan komitmen ideologis.
 
 
 ### Upah minimum
 
+![Debat upah minimum di seluruh keluarga politik](./assets/en/093.webp)
+
+**Pertanyaan:** Haruskah undang-undang upah minimum dihapus untuk memungkinkan negosiasi bebas antara pemberi kerja dan pekerja?
 
 
-**Pertanyaan:** Haruskah undang-undang upah minimum dihapuskan untuk memungkinkan negosiasi yang bebas antara pemberi kerja dan pekerja?
+### Posisi sosialis: tidak
+
+Upah minimum esensial untuk menjamin hidup bermartabat bagi pekerja, mengurangi ketimpangan, dan melawan kemiskinan. Ia adalah alat keadilan sosial yang melindungi yang paling rentan. Dalam kerangka sosialis, **negara harus ikut campur untuk mengoreksi ketidakseimbangan kekuasaan** yang melekat dalam relasi pemberi kerja-karyawan.
+
+### Posisi konservatif: ya, tetapi
+
+Pada prinsipnya, pasar harus memainkan perannya sebagai regulator. Upah minimum mungkin dapat ditoleransi, tetapi hanya jika tidak menghambat daya saing perusahaan, dan tidak boleh digeneralisasi. Yang paling penting adalah tanggung jawab individu dan penciptaan lapangan kerja daripada ketergantungan pada subsidi. Berbeda dari posisi libertarian, **konservatif menerima keterlibatan negara tertentu dalam penetapan upah** sambil menegaskan bahwa itu harus tetap minimal dan bergantung konteks.
+
+### Posisi libertarian: ya
+
+Upah minimum mendistorsi pasar tenaga kerja, menciptakan pengangguran, dan melanggar kebebasan kontrak. Pasar harus menentukan upah melalui negosiasi bebas antara pemberi kerja dan karyawan. Mengapa upah minimum menciptakan pengangguran? Ini masalah teknis, tetapi yang paling penting bagi libertarian adalah bahwa jawabannya pertama-tama moral. **Upah minimum adalah pemaksaan terhadap kebebasan merekrut dan berbisnis.** Ketika libertarian mengatakan "pasar," yang mereka maksud adalah kontrak, dinegosiasikan secara bebas antara dua pihak tanpa campur tangan negara.
+
+### Posisi sentris: campuran
+
+Bagi sentris, keputusan harus bertumpu pada analisis teknis. Ya, jika upah minimum tidak menghancurkan pekerjaan; ya, jika ia mendorong pertumbuhan; tetapi tidak jika tidak. Upah minimum memiliki peran sosial penting, tetapi **tingkatnya harus disesuaikan secara pragmatis**, dengan mempertimbangkan daya saing perusahaan dan daya beli pekerja.
 
 
+### Layanan kesehatan
+
+![Debat layanan kesehatan di seluruh keluarga politik](./assets/en/094.webp)
+
+**Pertanyaan:** Haruskah layanan kesehatan dipercayakan kepada pasar privat daripada program pemerintah?
 
 
+### Posisi sosialis: tidak
 
-- Sosialis:** Tidak. Upah minimum sangat penting untuk menjamin kehidupan yang bermartabat bagi para pekerja, mengurangi ketidaksetaraan, dan memerangi kemiskinan. Ini adalah alat keadilan sosial yang melindungi mereka yang paling rentan.
+Akses ke layanan kesehatan adalah hak fundamental, bukan komoditas. Negara harus menjamin sistem layanan kesehatan universal yang dibiayai publik agar semua orang memiliki akses ke perawatan, terlepas dari pendapatan. Di sini lagi kita menemukan **perhatian sosialis terhadap kesetaraan, keadilan sosial, dan pentingnya negara** dalam mengorganisasi dan merencanakan layanan demi kepentingan umum.
 
+### Posisi konservatif: ya
 
+Pasar privat dapat lebih efisien dan mengurangi beban pajak. Negara dapat memainkan peran minimal bagi yang paling miskin, tetapi tanggung jawab individu dan asuransi privat lebih disukai. Selalu ada, dalam pendekatan konservatif, **gagasan menggabungkan mekanisme pasar dengan tindakan negara terbatas**, bukan memilih salah satu dengan mengecualikan yang lain.
 
+### Posisi libertarian: ya
 
+Pasar privat lebih efisien dan inovatif, tetapi di atas semua itu (dan ini argumen moral fundamental), individu berhak memilih sistemnya sendiri. Ini soal kedaulatan individu dan penegasan hak properti privat. Dengan kata lain, **posisi libertarian lebih tegas karena bertumpu pada prinsip moral**: hak untuk keluar sepenuhnya dari sistem jaminan sosial, bukan sekadar menganjurkan keterlibatan privat lebih besar berdampingan dengan program negara.
 
-- Konservatif:** Pada prinsipnya, tidak. Pasar seharusnya berperan sebagai pengatur. Namun, upah minimum masih bisa diterima selama tidak terlalu menghambat daya saing perusahaan. Yang terpenting adalah tanggung jawab individu dan penciptaan lapangan kerja, bukan ketergantungan pada subsidi.
+### Posisi sentris: campuran
 
-
-
-
-
-- Libertarian:** Ya. Upah minimum adalah intervensi buatan yang mendistorsi pasar tenaga kerja, menciptakan pengangguran, dan melanggar kebebasan berkontrak. Pasar seharusnya menentukan upah melalui negosiasi.
-
-
-
-
-
-- Sentris:** Tidak, upah minimum memiliki peran sosial yang penting. Upah minimum harus ada, tetapi tingkatnya harus disesuaikan secara pragmatis agar tidak menghancurkan pekerjaan, dengan mempertimbangkan daya saing perusahaan dan daya beli pekerja.
-
-
-
-### Perawatan kesehatan
-
-
-
-**Pertanyaan:** Haruskah perawatan kesehatan dipercayakan kepada pasar swasta daripada program pemerintah?
-
-
-
-
-
-- Sosialis:** Tidak. Akses terhadap perawatan kesehatan adalah hak fundamental, bukan komoditas. Negara harus menjamin sistem perawatan kesehatan universal yang didanai oleh publik, sehingga setiap orang memiliki akses ke perawatan, terlepas dari pendapatannya.
-
-
-
-
-
-- Konservatif:** Sebagian besar, ya. Pasar swasta bisa lebih efisien dan mengurangi beban pajak. Negara dapat memainkan peran minimal bagi masyarakat miskin, tetapi tanggung jawab individu dan asuransi swasta lebih disukai.
-
-
-
-
-
-- Libertarian:** Ya. Layanan kesehatan dipandang sebagai layanan seperti yang lain. Pasar swasta dinilai lebih efisien, inovatif, dan memberi lebih banyak pilihan bagi konsumen. Campur tangan pemerintah dianggap memicu inefisiensi dan birokrasi. Yang terpenting, setiap orang berhak memilih sendiri apakah ingin keluar dari sistem jaminan sosial.
-
-
-
-
-- Sentris:** Sistem campuran sering dianggap sebagai pendekatan terbaik. Negara perlu menjamin akses universal dan solidaritas melalui cakupan dasar, sambil memberi ruang bagi sektor swasta untuk memperkaya layanan dan berinovasi demi meningkatkan efisiensi dan kualitas.
-
+Sistem campuran sering menjadi pendekatan terbaik. Negara menjamin akses universal dan solidaritas (cakupan dasar), sementara sektor privat dapat menyumbang diversifikasi dan inovasi. Idealnya, dibutuhkan sedikit dari keduanya: **campuran yang dikalibrasi cermat oleh para ahli** untuk mengoptimalkan efisiensi dan kualitas.
 
 
 ### Lingkungan
 
+![Debat lingkungan di seluruh keluarga politik](./assets/en/095.webp)
+
+**Pertanyaan:** Haruskah regulasi lingkungan dibatasi agar perusahaan dapat mengatur diri sendiri?
 
 
-**Pertanyaan:** Haruskah peraturan lingkungan hidup dibatasi agar perusahaan dapat mengatur dirinya sendiri?
+### Posisi sosialis: tidak
 
+Negara harus memaksakan aturan ketat untuk melindungi lingkungan dan melawan perubahan iklim. Pasar saja tidak dapat menyelesaikan masalah ini, yang membutuhkan tindakan kolektif dan perencanaan. Memang, ada juga dimensi yang lebih ideologis: bukan hanya pasar tidak dapat menyelesaikan perubahan iklim, tetapi **dalam pandangan sosialis, pasar itu sendiri bertanggung jawab atas polusi** dan kerusakan lingkungan yang kita amati. Subsidi dianggap perlu untuk memastikan transisi ekologis, dan perdagangan bebas internasional harus diatur untuk melindungi lingkungan.
 
+### Posisi konservatif: campuran
 
+Pada prinsipnya, ya, karena kebebasan berusaha penting. Namun, tingkat regulasi tertentu diperlukan untuk melindungi lingkungan sebagai warisan dan sumber daya. Seperti sering terjadi pada konservatif, **sebuah prinsip harus dinuansakan menurut konteks**: kebebasan ekonomi dihargai, tetapi bukan dengan biaya menghancurkan warisan alam yang diwarisi.
 
+### Posisi libertarian: ya
 
-- Sosialis:** Tidak. Negara perlu menerapkan aturan yang ketat untuk melindungi lingkungan dan menangani perubahan iklim. Pasar saja tidak cukup untuk menyelesaikan masalah ini karena dibutuhkan tindakan serta perencanaan bersama. Subsidi dinilai perlu untuk mendukung transisi ekologis. Selain itu, perdagangan bebas internasional juga harus diatur agar tidak merusak lingkungan.
+Regulasi lingkungan adalah hambatan terhadap kebebasan ekonomi dan hak properti. Libertarian berpendapat bahwa cara terbaik melindungi lingkungan adalah melalui properti privat, bukan organisasi birokratis. Memang, **pemilik lebih mungkin merawat propertinya daripada birokrasi mana pun**. Masalah lingkungan dapat diselesaikan oleh pasar, tanggung jawab individu, dan hak properti. Pencemar harus dimintai tanggung jawab atas kerusakan yang mereka sebabkan; ini soal keadilan, bukan regulasi.
 
+### Posisi sentris: tidak
 
-
-
-
-- Konservatif:** Pada prinsipnya, ya, karena kebebasan berusaha itu penting. Namun, tingkat regulasi tertentu tetap dibutuhkan untuk melindungi lingkungan sebagai warisan dan sumber daya, tanpa menghambat perekonomian.
-
-
-
-
-
-- Libertarian:** Ya. Peraturan lingkungan dipandang sebagai hambatan bagi kebebasan ekonomi dan hak kepemilikan. Mereka percaya bahwa cara terbaik melindungi lingkungan adalah melalui kepemilikan pribadi, bukan lewat birokrasi. Pemilik dinilai lebih terdorong merawat asetnya karena memiliki kepentingan langsung dalam menjaga nilainya. Masalah lingkungan dianggap dapat diselesaikan melalui mekanisme pasar, tanggung jawab individu, dan hak milik. Para pencemar harus dimintai pertanggungjawaban atas kerusakan yang mereka sebabkan terhadap lingkungan.
-
-
-
-
-
-- Sentris:** Tidak, regulasi mandiri saja tidak cukup. Peraturan lingkungan tetap diperlukan untuk melindungi planet dan kesehatan masyarakat. Namun, aturan tersebut perlu dirancang agar tidak terlalu merugikan daya saing bisnis, sekaligus mendorong inovasi yang ramah lingkungan.
-
-
+Pengaturan diri tidak cukup. Regulasi lingkungan diperlukan untuk melindungi planet dan kesehatan publik. Namun, **regulasi itu harus dirancang agar tidak menghukum daya saing bisnis secara berlebihan** dan untuk mendorong inovasi hijau. Posisi sentris, seperti biasa, berusaha menyeimbangkan imperatif yang bersaing melalui kebijakan yang dirancang cermat.
 
 
 ### Subsidi
 
-
+![Debat subsidi di seluruh keluarga politik](./assets/en/096.webp)
 
 **Pertanyaan:** Haruskah perusahaan dicabut dari subsidi dan rencana penyelamatan?
 
 
+### Posisi sosialis: tidak
 
+Subsidi mendukung inovasi, melindungi pekerjaan, dan mengembangkan sektor strategis. **Negara adalah aktor dan perencana ekonomi yang esensial**, dan perannya adalah mengarahkan ekonomi menuju prioritas yang didefinisikan secara kolektif, termasuk transisi ekologis. Menghapus subsidi berarti menyerahkan sektor dan pekerja paling rentan pada perubahan nasib pasar.
 
+### Posisi konservatif: ya, tetapi
 
-- Sosialis:** Tidak. Subsidi mungkin diperlukan untuk mendukung inovasi, melindungi lapangan kerja, mengembangkan sektor-sektor strategis, atau memastikan transisi ekologi. Peran negara adalah sebagai pelaku dan perencana ekonomi.
+Pada prinsipnya, ya, untuk mendorong persaingan bebas dan tanggung jawab korporat individu. Namun, pengecualian mungkin untuk industri nasional strategis. Orang dapat memikirkan, misalnya, persenjataan, industri farmasi, atau pendidikan. Berbeda dari posisi libertarian, **konservatif menerima intervensi negara tertarget ketika keamanan nasional atau kepentingan strategis dipertaruhkan**.
 
+### Posisi libertarian: ya
 
+Subsidi dan bailout mendistorsi pasar, menguntungkan sebagian perusahaan dibanding yang lain, dan menciptakan ketergantungan pada negara. Perusahaan yang gagal harus bangkrut. Di sini lagi, ada pertimbangan moral tentang penghormatan pada kedaulatan dan properti privat, tetapi juga pertimbangan efisiensi. Ketika perusahaan dicegah gagal melalui subsidi, **ini menciptakan apa yang dikenal sebagai moral hazard**: insentif menuju ketidakbertanggungjawaban dan kenekatan. Pada akhirnya, pembayar pajaklah yang membayar, dan ini sangat tidak adil.
 
+### Posisi sentris: tertarget
 
-
-- Konservatif:** Pada prinsipnya, ya, untuk mendorong persaingan bebas dan tanggung jawab perusahaan secara individu. Namun, pengecualian dapat dibuat untuk industri strategis atau nasional yang sangat penting bagi keamanan atau lapangan kerja negara.
-
-
-
-
-
-- Libertarian:** Ya. Subsidi dan dana talangan dipandang mendistorsi pasar, menguntungkan sebagian perusahaan di atas yang lain, dan menciptakan ketergantungan pada negara. Perusahaan yang gagal seharusnya dibiarkan bangkrut.
-
-
-
-
-
-- Sentris:** Secara umum, ya, tetapi dengan beberapa pengecualian. Subsidi sebaiknya tepat sasaran dan bersifat sementara, serta dibenarkan oleh kepentingan umum seperti inovasi, transisi ekologi, atau sektor strategis. Dana talangan hanya layak dipertimbangkan jika ada ancaman sistemik yang serius terhadap perekonomian.
-
+Subsidi harus tertarget dan sementara, dibenarkan oleh kepentingan umum (inovasi, transisi ekologis, sektor strategis). Bailout hanya boleh dipertimbangkan jika ada ancaman sistemik besar terhadap ekonomi. Misalnya, mungkin perlu menyelamatkan bank, karena jika tidak ini akan menciptakan kondisi untuk kepanikan umum dan resesi. **Pendekatan sentris menuntut agar setiap kasus dievaluasi berdasarkan meritnya**, dengan subsidi dibenarkan oleh kebutuhan yang terbukti, bukan preferensi ideologis.
 
 
 
 # Perbedaan filosofis antara keluarga politik
 
-
 <partId>a4c96533-ae9a-45be-8dc2-e0c2534eb89d</partId>
 
 
-
 ## Perbedaan filosofis antara keluarga politik
-
 
 <chapterId>e48cff63-15d9-4789-ab6c-f1df06683fce</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=Qznu_mAOji8)
 
+![Divergensi filosofis antara keluarga politik](./assets/en/097.webp)
 
+Ketika kita membandingkan keluarga politik yang berbeda, titik konvergensi tentu muncul, tetapi begitu pula inkompatibilitas mendalam. Ini terutama terlihat ketika kita menempatkan libertarian berdampingan dengan profil ideologis lain: konservatif, sosialis, sentris. Dalam bagian kursus ini, kita akan menjelajahi serangkaian divergensi filosofis yang mengungkap garis patahan sejati dalam pemikiran politik.
 
-Jika kita membandingkan berbagai rumpun politik, kita bisa melihat adanya sejumlah kesamaan, sekaligus titik-titik perbedaan. Hal ini paling jelas terlihat saat membandingkan libertarian dengan profil ideologi lainnya. Mari kita telaah perbedaan-perbedaan ini dengan menggunakan beberapa konsep filosofis.
-
+Mari mulai dengan pertanyaan paling fundamental: hakikat kebebasan itu sendiri.
 
 
 ### Kebebasan: prinsip atau peluang?
 
 
+Untuk memahami apa yang memisahkan libertarian dari semua keluarga politik lain, kita harus mulai dengan pembedaan yang diperkenalkan oleh salah satu pemikir liberal Prancis besar. Dalam karyanya tahun 1849 *Les Soirees de la rue Saint-Lazare*, Gustave de Molinari, murid Frederic Bastiat, menampilkan dialog antara tiga karakter, masing-masing mewakili keluarga politik: sosialis, konservatif, dan ekonom.
 
-Untuk menjernihkan kebingungan ini, kami akan menguraikan 3 konsepsi kebebasan.
+![Tiga figur politik Molinari: sosialis, konservatif, dan ekonom](./assets/en/098.webp)
+
+Yang ditunjukkan Molinari melalui dialog ini mencolok. **Ekonom berada dalam ketidaksetujuan permanen dengan sosialis maupun konservatif.** Ia satu-satunya yang membela kebebasan sebagai prinsip fundamental, yang tidak disubordinasikan pada tujuan lain apa pun. Sosialis ingin mereformasi masyarakat menurut ideal progresif; konservatif ingin mempertahankan masyarakat dalam keadaan saat ini. Keduanya bersedia membatasi kebebasan dan memanggil negara untuk memaksakan agenda masing-masing.
+
+Visi Molinari terbukti profetik. Sejak zamannya, pada pertengahan abad ke-19, konservatif dan sosialis bergantian berkuasa dan melakukan persis seperti yang ia gambarkan: **instrumentalisasi kebebasan demi tujuan politik.**
+
+### Pandangan konservatif: ketertiban sebelum kebebasan
+
+![Konsepsi konservatif tentang kebebasan yang dikondisikan oleh ketertiban dan tradisi](./assets/en/099.webp)
+
+Bagi konservatif, ketertiban dan tradisi didahulukan dari kebebasan. Terlalu banyak kebebasan, menurut mereka, menghasilkan kekacauan dan disrupsi sosial. Kebebasan dapat dihargai, tetapi hanya setelah ketertiban ditegakkan dengan kukuh.
+
+Dalam praktiknya, ini berarti bahwa **kebebasan harus dibatasi dan tidak dapat dibiarkan beroperasi sendiri.** Ia menjadi berbahaya setiap kali mengancam stabilitas sosial, keluarga, atau nilai budaya warisan. Kebebasan berusaha atau memiliki properti dibela, tetapi selalu dikondisikan pada penghormatan terhadap nilai tradisional dan kewajiban terhadap komunitas. Ini menyiratkan peran negara bukan hanya dalam urusan sosial, tetapi juga dalam ranah ekonomi, di mana kebebasan harus tetap diawasi.
+
+### Pandangan sosialis: keadilan sebelum kebebasan
+
+![Konsepsi sosialis tentang kebebasan yang terkait dengan keadilan sosial dan kesetaraan](./assets/en/100.webp)
+
+Bagi sosialis, keadilan sosial datang sebelum kebebasan individu. Kebebasan dipahami bukan sebagai kemandirian dari batasan, melainkan sebagai kapasitas untuk bertindak, kapasitas yang mensyaratkan kondisi material dan sosial yang setara.
+
+Dengan kata lain, **seseorang tidak benar-benar bebas jika ia kekurangan makanan atau akses ke layanan esensial.** Prioritas politik karena itu jatuh pada penyetaraan kondisi. Kebebasan secara intrinsik terkait dengan keadilan sosial dan kesetaraan; ia terwujud melalui emansipasi dari batasan ekonomi dan sosial seperti kemiskinan atau eksklusi. Logika ini secara teratur menuntut intervensi negara untuk menjamin hak sosial dan meredistribusi kekayaan.
+
+### Pandangan sentris: efisiensi sebelum kebebasan
+
+![Konsepsi instrumental sentris tentang kebebasan](./assets/en/101.webp)
+
+Sentris membela kebebasan tertentu, tetapi secara oportunistis dan kontekstual, tanpa menerapkan prinsip keputusan umum apa pun. Mereka menyesuaikan posisi menurut tantangan spesifik dan kompromi yang diperlukan untuk mencapai hasil secara efisien.
+
+Pertimbangkan, misalnya, Green New Deal: sentris dapat mendorong kuat subsidi energi angin dan dukungan bagi bisnis hijau, bukan karena komitmen prinsip pada kebebasan atau bahkan ekologi, tetapi karena kebijakan seperti itu sejalan dengan tren yang berlaku. **Pendekatan pragmatis ini mengungkap konsepsi kebebasan yang instrumental** yang pada akhirnya berkonvergensi dengan pendekatan konservatif maupun sosialis. Kebebasan selalu diserukan, tetapi selalu disubordinasikan.
+
+### Pandangan libertarian: kebebasan sebagai aksioma
+
+![Pandangan libertarian tentang kebebasan sebagai prinsip tanpa syarat](./assets/en/102.webp)
+
+Libertarian mendefinisikan kebebasan sebagai prinsip tindakan dan keputusan yang umum dan tanpa syarat. Ia berfungsi sebagai aksioma dari mana segala sesuatu lain mengikuti. Kebebasan harus diposisikan sejak awal sebagai hak fundamental dan, sekaligus, sebagai kewajiban: **hak untuk tidak diagresi, dan tanggung jawab untuk tidak melakukan agresi terhadap orang lain**, dengan restitusi diwajibkan dalam kasus kesalahan.
+
+Libertarian membela perlindungan integral kebebasan individu dan hak properti, dengan intervensi negara minimum. Mereka menentang constructivism (perencanaan terpusat), dan di mana pun mereka berada pada spektrum libertarian, dari liberal klasik sampai anarko-kapitalis, mereka berbagi tujuan memprivatisasi semua yang dapat diprivatisasi.
+
+### Konvergensi tujuan, divergensi sarana
+
+Di sini terdapat nuansa krusial. Libertarian dapat sepakat dengan sosialis, konservatif, dan sentris pada tujuan tertentu: membela yang tertindas, melindungi peradaban, mempromosikan kohesi sosial. Ketidaksetujuan bukan tentang tujuan akhir tetapi tentang sarana.
+
+**Libertarian menolak semua solusi koersif yang berusaha menyeragamkan praktik, hukum, dan regulasi.** Mereka menentang redistribusi kekayaan, upah minimum yang dipaksakan, dan bobot negara yang terus membesar dalam ekonomi. Sebagai alternatif, mereka membela kekuatan pilihan dan prinsip kebebasan bertanggung jawab melalui proses pasar: pertukaran bebas dan terdesentralisasi yang didasarkan pada kontrak sukarela.
 
 
-
-1. Bagi kaum konservatif, kebebasan adalah hal yang baik, tetapi terlalu banyak kebebasan akan menciptakan kekacauan dan ketidakteraturan. Jadi, kebebasan harus dibatasi dan dibingkai.
-
-
-
-Bagi mereka, kebebasan bukanlah prinsip fundamental, tetapi masalah kemanfaatan. Sebagai contoh, seorang konservatif yang mengecam hukum yang menghukum pidato homofobia tidak akan selalu mendukung legalisasi narkoba atau penghapusan subsidi keluarga.
-
-
-
-2. Kaum sosialis juga dapat mendukung pengenalan kebebasan tertentu secara ad hoc, oportunistik, dan selektif. Namun, bagi mereka, hal ini bukanlah penerapan prinsip umum dalam pengambilan keputusan. Mereka bisa saja berupaya memaksa individu untuk meninggalkan akarnya, sama seperti kaum konservatif yang berusaha memaksa mereka untuk tetap tinggal.
-
-
-3. Bagi kaum libertarian, kebebasan adalah prinsip umum dalam pengambilan keputusan dan tindakan. Seorang libertarian merupakan pembela tegas kebebasan individu dan hak milik, yang berupaya meminimalkan campur tangan negara serta menolak berbagai bentuk konstruktivisme sosial yang dipaksakan oleh negara. Meski penekanan pada prinsip kebebasan bisa berbeda antara anarko-kapitalis, yang menolak tunduk pada aturan apa pun, dan liberal klasik, yang memiliki pendekatan lebih bernuansa, prinsip dasarnya tetap sama: memprivatisasi segala sesuatu yang memungkinkan untuk diprivatisasi.
-
-
-Pertentangan antara rumpun politik ini sudah muncul, dengan istilah yang berbeda, dalam *Les Soirées de la rue Saint Lazare* karya Gustave Molinari. Buku yang diterbitkan pada tahun 1849 oleh murid Frédéric Bastiat ini menghadirkan tiga tokoh: sosialis, konservatif, dan ekonom. Tokoh yang disebut sebagai ekonom sebenarnya adalah seorang liberal dalam pengertian klasik; hari ini, kita akan menyebutnya libertarian.
-
-Dalam dialog-dialog yang disusun Molinari, tokoh ekonom (liberal atau libertarian) selalu berhadapan dengan sosialis dan konservatif. Ia menekankan bahwa posisi keduanya pada dasarnya tidak jauh berbeda. Menurut Molinari, kaum konservatif dan sosialis memiliki satu kesamaan utama: sama-sama berusaha memaksakan pandangan mereka tentang masyarakat melalui negara.
-
-
-
-## Urutan spontan vs. urutan yang dibangun
-
+## Tatanan spontan vs. tatanan yang dikonstruksi
 
 <chapterId>504aa7da-ecd5-4177-87d9-c8792f58c8e3</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=jh-FDJftOf0)
 
+![Tatanan spontan versus tatanan yang dikonstruksi](./assets/en/103.webp)
 
+Garis patahan besar lain memisahkan mereka yang percaya bahwa proses politik lebih unggul daripada proses pasar dari mereka yang berpandangan sebaliknya. Kelompok pertama membela tatanan yang dikonstruksi, dirancang dari atas ke bawah. Kelompok kedua membela tatanan spontan, muncul dari bawah ke atas. Pembedaan ini fundamental untuk memahami sensibilitas politik, dan menempatkan libertarian berhadapan dengan hampir semua keluarga lain.
 
-Konsep *tatanan spontan* dan *tatanan terkonstruksi* sangat penting untuk memahami perbedaan antara kepekaan politik yang berbeda, termasuk libertarianisme dan konstruktivisme kanan (konservatisme) dan kiri (sosialisme).
+### Constructivism: konsensus lintas-partai
 
+![Constructivism sebagai keyakinan bersama di antara sentris, konservatif, dan sosialis](./assets/en/104.webp)
 
+Constructivism bukan monopoli satu kubu politik. Ia menyatukan sentris, konservatif, dan sosialis di sekitar keyakinan bersama: **keunggulan proses politik atas proses pasar.** Bagi semua arus ini, negara lebih siap mengorganisasi masyarakat secara adil dan efisien. Mereka memprioritaskan perencanaan terpusat, meski pada derajat berbeda tergantung keluarga.
 
-Konstruktivisme merujuk pada keinginan untuk membentuk masyarakat berdasarkan rencana tertentu. Pendekatan ini berupaya memaksakan visi masyarakat yang sudah ditentukan sebelumnya melalui tindakan negara atau entitas lain seperti serikat pekerja, LSM, kelompok penekan, atau organisasi internasional.
+Jika kita meringkas constructivism dalam satu kalimat: itu adalah keyakinan bahwa pemerintah pusat dapat menciptakan, melalui kekuatan hukum, tatanan sosial yang baik bagi jumlah terbesar.
 
-Kebalikan dari konstruktivisme adalah tatanan spontan, yaitu tatanan yang muncul secara alami dari interaksi bebas antarindividu. Sementara itu, tatanan yang dibangun merupakan hasil intervensi yang disengaja dan terencana untuk membentuk masyarakat sesuai visi tertentu, baik yang bersifat konservatif (mempertahankan keadaan) maupun progresif (mendorong perubahan).
+### Analisis Hayek tentang constructivism
 
-Kaum konstruktivis percaya bahwa masyarakat dapat dibangun sesuai dengan kehendak mereka. Sebaliknya, kaum libertarian meyakini bahwa masyarakat terbentuk dengan sendirinya secara tidak terduga melalui proses koordinasi antarindividu.
+![Kritik Hayek terhadap constructivism dan perencanaan terpusat](./assets/en/105.webp)
 
-Tatanan spontan adalah konsep kunci yang berasal dari pemikiran Friedrich Hayek. Konsep ini dipahami sebagai hasil dari interaksi bebas individu dalam masyarakat. Ia merupakan produk dari tindakan manusia, tetapi bukan dari perencanaan sadar manusia, dan tidak dirancang atau dipaksakan oleh otoritas pusat. Seperti yang berulang kali ditegaskan Hayek, mengutip Adam Ferguson: *produk dari tindakan manusia, bukan dari desain manusia.*
+Untuk memahami taruhannya, kita dapat mengikuti analisis Friedrich Hayek. Constructivist percaya kuat bahwa mungkin membangun masyarakat yang sesuai dengan keinginan dan ideal mereka. Mereka menganggap intervensi yang disengaja dan terencana perlu untuk membentuk masyarakat menurut visi mereka, apakah konservatif atau progresif.
 
+Di balik keyakinan ini ada asumsi yang lebih tua, dapat ditelusuri ke Plato dan teorinya tentang raja-filsuf: **gagasan bahwa orang tertentu lebih siap mengarahkan orang lain dan mengorganisasi masyarakat.** Ini adalah keyakinan fundamental pada superioritas sebagian orang atas yang lain.
 
-Menggambarkan mekanisme tangan yang tidak terlihat, Adam Smith pada gilirannya menulis: *Dengan hanya mencari kepentingannya sendiri, [individu] sering kali bekerja lebih efisien untuk kepentingan masyarakat, daripada jika objeknya benar-benar bekerja untuk masyarakat*
+Tetapi Hayek menunjukkan bahwa melampaui pertanyaan filosofis ini, ada kemustahilan praktis.
 
+### Tatanan spontan: organisasi dari bawah
 
+![Tatanan spontan sebagai produk interaksi individu bebas](./assets/en/106.webp)
 
-Menurut Friedrich Hayek, setiap klaim bahwa masyarakat dan pasar bisa diatur secara ilmiah justru akan memperparah masalah yang ada, bukan memperbaikinya. Seperti yang ditunjukkan oleh Edmund Burke, mengikuti pemikiran Adam Smith dan David Hume dari Skotlandia, sejarah telah melahirkan institusi-institusi yang jauh lebih kompleks dan lebih mampu beradaptasi dibandingkan apa pun yang bisa sepenuhnya dipahami oleh akal manusia.
+Tatanan spontan bukan argumen melawan organisasi. Sebaliknya, bagi Hayek, ia adalah salah satu mesin paling kuat kemajuan ekonomi dan sosial. Ia didefinisikan sebagai produk interaksi bebas individu dalam masyarakat, lahir dari tindakan manusia tetapi bukan dari rancangan manusia yang disengaja.
 
+Aturan, institusi, dan praktik yang muncul spontan tidak direncanakan atau dipaksakan oleh otoritas pusat. Pertimbangkan contoh berikut:
 
+Bahasa: Prancis, Inggris, Jerman, tidak satu pun dikonstruksi dalam biro tempat intelektual berkumpul untuk memutuskan aturan tata bahasa dan ejaan. **Mereka adalah buah organisasi perlahan dan organik yang dibangun melalui interaksi historis.**
 
-Memang, aturan, institusi, praktik, dan fenomena sosial lainnya bukanlah hasil dari perencanaan yang disengaja oleh otoritas pusat.
+Kode sosial: moralitas, kesopanan, adat, semuanya juga produk koordinasi spontan yang berkembang secara progresif melalui interaksi manusia.
 
+Uang komoditas: dari kerang sampai logam, emas muncul sebagai uang terbaik yang dipilih oleh pasar, bukan oleh otoritas pusat, melalui pengalaman, persaingan, dan penilaian subjektif individu.
 
-*Banyak hal terbesar yang telah dicapai umat manusia tidak dihasilkan dari pemikiran yang diarahkan secara sadar, dan bahkan lebih sedikit lagi dari upaya yang dikoordinasikan dengan sengaja oleh banyak orang, tetapi dari sebuah proses di mana individu memainkan peran yang tidak akan pernah ia pahami sepenuhnya* F. Hayek.
+### Masalah pengetahuan
 
+![Sifat pengetahuan yang tersebar menurut Hayek](./assets/en/107.webp)
 
+Argumen fundamental Hayek yang mendukung tatanan spontan bertumpu pada sifat informasi. Dalam artikel tahun 1945, *The Use of Knowledge in Society*, ia menulis:
 
-Bahasa atau adat istiadat, misalnya, adalah sesuatu yang diciptakan oleh manusia. Namun, tidak satu pun dari keduanya dirancang secara sadar. Semuanya muncul secara alami tanpa perencanaan. Hal yang sama berlaku pada mata uang lama seperti koin logam, maupun mata uang baru seperti Bitcoin. Ini adalah *inovasi tanpa izin* yang kemudian dipilih dan diterima oleh pasar.
+> Pengetahuan tidak pernah ada dalam bentuk terkonsentrasi atau terintegrasi, tetapi hanya sebagai fragmen tersebar dari pengetahuan yang tidak lengkap dan sering kontradiktif yang dimiliki semua individu yang berbeda.
 
+Pasar bergantung pada informasi, tetapi hanya individu yang berbeda dapat mengetahui apa kebutuhan mereka dan berapa harga sesuatu. Nilai bertumpu pada apresiasi subjektif, dalam pikiran individu. **Ia tidak dapat didekretkan secara otoritatif atau terpusat.** Nilai bersifat subjektif, karena itu hanya diketahui secara terbatas, terfragmentasi, dan lokal.
 
+Sistem harga memungkinkan jutaan orang yang tidak saling mengenal mengoordinasikan pengetahuan dan keterampilan mereka. Dalam pasar bebas, harga mentransmisikan informasi tentang kebutuhan dan kompetensi tiap peserta. Ia memungkinkan orang menjalin hubungan dan bertukar. Ini tentu saja harga pasar, dibentuk melalui negosiasi sukarela antarindividu.
 
-**Pengetahuan yang tersebar
+Perencana pusat, yang duduk di kementerian atau kantor, tidak memiliki pengetahuan tentang harga sejati barang karena ia tidak terlibat dalam interaksi dan pertukaran. Karena itu, **setiap klaim untuk mengorganisasi masyarakat secara ilmiah secara paradoks memperburuk masalah, bukan memperbaikinya.**
 
+Ketika negara menetapkan harga, karena hanya mengetahui sebagian kecil preferensi konsumen dan spesifisitas lokal, ia memicu krisis. Pertimbangkan kontrol sewa: ketika sewa dibatasi, pemilik menemukan bahwa menyewakan properti tidak menguntungkan, dan kelangkaan perumahan menyusul.
 
+### Pasar bebas sebagai regulasi sejati
 
-> Pengetahuan tidak pernah ada dalam bentuk yang terkonsentrasi atau terintegrasi, tetapi hanya sebagai fragmen-fragmen yang tersebar dari pengetahuan yang tidak lengkap dan sering kali saling bertentangan yang dimiliki oleh semua individu yang berbeda.
->
+![Pasar bebas sebagai regulator sejati masyarakat](./assets/en/108.webp)
 
+Bagi libertarian, regulasi sejati masyarakat bukan demokrasi (yang punya kegunaan sebagai cara menunjuk perwakilan) **melainkan pertama-tama pasar bebas**.
 
-> F. Hayek, Penggunaan Pengetahuan dalam Masyarakat, 1945
+Pasar menjalankan tiga fungsi esensial:
 
-Pasar adalah sarana kerja sama karena menyediakan informasi tentang kondisi nyata kebutuhan dan keterampilan. Pasar berfungsi sebagai proses untuk menemukan informasi dan menghimpun pengetahuan yang tersebar tentang nilai serta kebutuhan. Pada dasarnya, pasar adalah tempat bertemunya preferensi individu, yang kemudian membentuk harga. Karena itu, sistem harga merupakan mekanisme yang muncul secara spontan dari kontrak-kontrak yang mengoordinasikan pertukaran. Ketika harga ditentukan melalui perdebatan bebas, harga mencerminkan keragaman pandangan dan preferensi konsumen.
+1. **Tanpa pasar bebas, tidak ada kompas.** Harga adalah indikator andal untuk membimbing keputusan ekonomi dan sosial.
+2. **Pasar mengungkap preferensi.** Ia adalah mekanisme optimal untuk menemukan dan mengagregasi preferensi individu autentik. Harga mencerminkan penawaran dan permintaan.
+3. **Pasar memungkinkan pelaksanaan penuh hak untuk memutuskan.** Aktor dapat secara bebas menentukan urusan mereka sendiri menurut nilai personal. Ada dimensi etis di sini: membiarkan tiap orang menjadi aktor hidupnya sendiri dan membuat pilihannya sendiri.
 
+### Pro-business versus pro-market
 
+![Pembedaan antara posisi pro-business dan pro-market](./assets/en/109.webp)
 
-Hanya individu yang benar-benar dapat menilai biaya dan manfaat suatu barang, karena penilaian tersebut bersifat subjektif. Sebaliknya, dalam sistem terpusat dan terencana, negara menetapkan harga berdasarkan informasi yang terbatas tentang preferensi konsumen dan kondisi lokal, sehingga pasar menjadi terdistorsi. Hanya sistem perdagangan yang terdesentralisasi, dengan harga yang dinegosiasikan secara bebas, yang mampu memunculkan dan memanfaatkan pengetahuan yang tersebar ini.
+Penting membedakan secara jelas antara pro-business dan pro-market, dua posisi yang sering dibingungkan.
 
+Di antara sosialis, sentris, dan konservatif, kita menemukan banyak politisi pro-business. Bagi mereka, persaingan adalah instrumen pemerintahan untuk mencapai tujuan ekonomi. Ia diperoleh melalui regulasi yang menjamin persaingan yang dianggap adil: undang-undang anti-monopoli, norma sektoral dan lingkungan. Rencana stimulus dan subsidi dibenarkan oleh konsekuensi sosial seperti mencegah kehilangan pekerjaan dan resesi. **Dalam pandangan pro-business, pasar rapuh dan membutuhkan negara untuk menyelamatkannya.**
 
+Bagi pendukung pro-market, persaingan adalah hasil alamiah usaha bebas, yang mengecualikan kekuasaan terpusat negara. Ini menyiratkan deregulasi (menghapus hambatan terhadap kebebasan dan regulasi yang membatasi properti privat) dan membiarkan bisnis gagal, karena **kegagalan memungkinkan pasar mengorganisasi ulang diri secara alamiah dan membuka ruang bagi aktor yang lebih mampu.** Jika bisnis gagal, ia membuat pilihan buruk dan harus menanggung konsekuensinya.
 
-Karena itu, kaum libertarian menentang kaum sosialis dan konservatif, yang dipandang sebagai dua bentuk konstruktivisme. Kaum sosialis ingin membentuk ulang masyarakat, sementara kaum konservatif ingin mempertahankan masyarakat apa adanya. Dengan demikian, ada konstruktivisme sayap kiri dan konstruktivisme sayap kanan.
+Perbedaannya signifikan. Pendukung pro-business sering mencari aliansi dengan korporasi besar dengan mengorbankan pemain kecil. Ini adalah kapitalisme tampilan yang pada kenyataannya sangat mengurangi kebebasan melalui kepercayaannya pada constructivism dan perencanaan.
 
+### Posisi libertarian
 
+![Pembelaan libertarian atas pertukaran sukarela melawan constraint terorganisasi](./assets/en/110.webp)
 
+Sebagai kesimpulan, libertarian menemukan diri agak sendirian melawan keluarga politik lain, yang semuanya constructivist. Libertarian berpendapat bahwa **masyarakat mengorganisasi dirinya secara alamiah melalui mekanisme koordinasi spontan**, dan bahwa kerja sama sukarela tetap lebih unggul daripada constraint terorganisasi, bahkan ketika berniat baik, untuk membangun masyarakat yang adil dan makmur.
 
-**Politik atau pasar?
+Kelas politik secara umum tidak menyukai tatanan spontan karena ia mengancam kekuasaan mereka. Apakah Anda politisi konservatif, sentris, atau sosialis, Anda akan cenderung memusuhi tatanan spontan dan pasar karena Anda ingin mengontrol urusan. Tetapi bagi libertarian, kekuatan sejati untuk memperbaiki masyarakat terletak bukan pada kekuasaan politik melainkan pada kekuatan pilihan: pertukaran bebas dan sukarela, pasar.
 
+Dua aspek harus dipegang bersama. Efisiensi: **pasar bebas mengoordinasikan informasi tersebar lebih baik daripada perencanaan terpusat**, seperti ditunjukkan Hayek. Dan keadilan: persetujuan timbal balik menghormati martabat manusia lebih daripada paksaan dan constructivism.
 
-Konstruktivis, sentris, konservatif, dan sosialis semuanya sepakat pada satu poin penting: mereka menganggap proses politik lebih efisien daripada proses pasar.
-
-
-
-
-
-- Yang saya maksud dengan proses politik adalah kemampuan pemerintah pusat untuk menciptakan, dengan kekuatan hukum, tatanan sosial yang adil dan stabil bagi orang banyak.
-
-
-
-
-
-- Yang saya maksud dengan proses pasar adalah pertukaran yang bebas dan sukarela sebagai mode interaksi dan mekanisme kerja sama.
-
-
-
-Secara filosofis, seorang libertarian bisa saja sejalan dengan beberapa tujuan kaum konservatif maupun sosialis. Namun secara empiris, ia tidak sepakat dengan cara-cara yang mereka tempuh.
-
-
-
-Karena itu, seorang libertarian dapat setuju dengan kaum sosialis dalam keinginan membantu para pekerja yang tertindas. Namun, ia tidak percaya bahwa upah minimum mampu mencapai tujuan tersebut, terutama jika upah minimum itu diterapkan secara seragam di semua tempat.
-
-
-
-Ironisnya, meskipun banyak pendukung sosialisme mengusung kesetaraan ekonomi, sejarah menunjukkan bahwa ketika negara berusaha menghapus proses penciptaan kekayaan spontan yang lahir dari pasar bebas, hasilnya justru ketimpangan yang paling parah. Yang muncul adalah masyarakat di mana rakyat hidup kekurangan, sementara para perencana pusat hidup serba berkecukupan.
-
-
-
-Perencanaan terpusat tidak dapat berhasil karena berusaha menggantikan kecerdasan yang tersebar luas dengan sistem yang terpusat, padahal pengetahuan sesungguhnya bersifat lokal, terfragmentasi, namun saling terhubung.
-
-
-
-Demikian pula, seorang libertarian bisa sepakat dengan pandangan konservatif bahwa peradaban perlu dijaga. Namun, ia tidak akan mendukung pembuatan undang-undang dan peraturan yang justru menambah pembatasan, pengeluaran, dan beban negara. Sebaliknya, ia akan membela satu-satunya cara yang dianggap adil dan efektif, yaitu kekuatan pilihan dan prinsip kebebasan yang bertanggung jawab melalui mekanisme pasar.
-
-
-
-Kaum libertarian percaya bahwa tatanan ekonomi dan sosial mampu mengatur dirinya sendiri, selama hak dan kewajiban individu ditetapkan dengan jelas. Pendekatan ini bertumpu pada penghormatan terhadap hak milik serta penolakan terhadap campur tangan negara, sehingga masyarakat dapat mengelola dirinya secara mandiri.
-
-
-
-Bagi kaum libertarian, pengatur utama kehidupan sosial bukanlah demokrasi, meskipun demokrasi berguna untuk menunjuk perwakilan. Yang paling utama adalah pasar bebas. Tanpa pasar bebas, tidak ada kompas. Pasar adalah indikator terbaik dari preferensi individu. Dalam pasar bebas, setiap pelaku sepenuhnya menggunakan haknya untuk menentukan urusannya sendiri.
-
+Namun semua ini menuntut hak dan kewajiban didefinisikan dengan jelas. Pasar mungkin proses spontan, tetapi harus sesuai hukum, khususnya hak properti, dan membutuhkan non-intervensi negara dalam urusan ekonomi dan sosial. Negara harus membatasi diri pada penegakan hak fundamental seperti hak properti dan menahan diri dari ikut campur dalam semua hal lain.
 
 
 ## Individualisme vs. kolektivisme
-
 
 <chapterId>ba205097-37f8-4503-9c1e-97eb31e7678c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=PsEfNf5xHdk)
 
+![Individualisme versus kolektivisme](./assets/en/111.webp)
 
+Garis pemisah lebih lanjut antara keluarga politik menyangkut relasi antara individu dan masyarakat. Apakah kolektivitas adalah tujuan atau sarana bagi individu? Dan sebaliknya, apakah individu adalah tujuan atau sarana bagi kolektif? Dua pertanyaan ini mendefinisikan oposisi antara individualisme dan kolektivisme.
 
-Individualisme dan kolektivisme mewakili dua visi yang secara fundamental berlawanan tentang hubungan antara individu dan masyarakat.
+### Individualisme menurut Mises
 
+Ekonom Austria Ludwig von Mises memberi klarifikasi tegas tentang isu ini. Ia menulis: *Only the individual thinks, only he reasons, only he acts.*
 
-Ekonom Austria, Ludwig von Mises, pernah berkata: Hanya individu yang berpikir, hanya dia yang bernalar, hanya dia yang bertindak.
+Ini berarti bahwa individualisme, dipahami dengan benar, menentang gagasan bahwa entitas sosial seperti "masyarakat" atau "bangsa" dapat ada secara independen dari individu yang menyusunnya. **Kolektivitas tidak memiliki eksistensi sendiri di luar tindakan anggota individualnya.** Kita tidak dapat secara bermakna berbicara tentang tindakan negara, negara-bangsa, perusahaan, atau serikat pekerja. Mengapa? Sederhana: entitas-entitas ini tidak memiliki kehendak atau pikiran sendiri. Mereka bertindak hanya melalui perantara individu.
 
+Pertimbangkan bahasa: Prancis, Inggris, Jerman. Masing-masing ada hanya melalui mereka yang menuturkannya. Jika tidak ada yang menuturkannya, ia berhenti ada. Prinsip yang sama berlaku pada semua badan sosial.
 
+### Dimensi moral
 
-Akibatnya, sebuah kolektif tidak memiliki keberadaan atau realitas selain dari tindakan individu-individu yang menjadi bagiannya. Masyarakat tidak memiliki kehendak atau pikiran sendiri. Semua tindakan yang disebut kolektif harus dijelaskan melalui unsur-unsur individualnya. Kita tidak benar-benar bisa berbicara tentang “tindakan negara”, “tindakan sebuah perusahaan”, atau “tindakan serikat buruh”, karena pada akhirnya yang bertindak selalu individu.
+Sudut pandang metodologis ini dapat ditransposisikan ke ranah moral dan politik. **Satu-satunya agen moral adalah individu.** Individulah yang dapat dikualifikasikan baik atau buruk, adil atau tidak adil. Tidak ada masyarakat yang adil atau tidak adil pada dirinya; orang harus memeriksa relasi antara individu. Untuk menilai secara moral, orang harus merujuk pada individu yang bertindak, bukan kolektivitas.
 
+Poin lain yang ditekankan Mises: individu bukan atom terisolasi. Individualisme tidak boleh disamakan dengan swasembada atau misantropi. Manusia adalah makhluk sosial. Individualisme mempromosikan kerja sama dan asosiasi, **asalkan bertumpu pada persetujuan bebas para peserta.** Manusia hanya dapat mengembangkan potensinya sepenuhnya dalam hubungan dengan orang lain, dengan syarat kerja sama itu sukarela.
 
+### Kant dan otonomi moral
 
-Karena itu, setiap entitas sosial hanya ada melalui orang-orang yang mengakuinya dan bertindak atas namanya. Jika tidak ada lagi individu yang mengklaim dirinya sebagai bagian dari entitas tersebut, maka entitas itu pun berhenti ada. Hal yang sama berlaku pada bahasa. Sebuah bahasa hanya hidup selama ada individu yang menggunakannya. Jika mereka berhenti berbicara, bahasa itu akan hilang.
+![Kant dan prinsip Pencerahan tentang otonomi moral](./assets/en/112.webp)
 
+Individualisme ini memiliki akar mendalam, dapat ditelusuri ke Kekristenan, filsafat Yunani dan Romawi. Tetapi mari kutip filsuf Pencerahan Immanuel Kant. Baginya, individualisme membela kapasitas dan hak individu untuk menilai sendiri, memilih tujuan sendiri, dan bertindak sesuai itu.
 
+Ini adalah hak tak terasingkan setiap makhluk untuk tetap menjadi tuan dan pemilik dirinya serta barang yang telah ia peroleh secara sah, dan **berada dalam posisi untuk mendefinisikan tujuan dan nilainya sendiri.** Ini membawa pada penegasan bahwa manusia adalah tujuan pada dirinya, bukan sekadar sarana. Pena adalah sekadar sarana, dibuang ketika tidak lagi dibutuhkan. Hanya makhluk yang dianugerahi rasio adalah tujuan pada dirinya.
 
-Dari sudut pandang etika dan hukum, individu adalah satu-satunya agen moral. Tidak ada rujukan lain untuk menentukan apa yang baik dan apa yang buruk. Konsep benar dan salah, serta hak dan kewajiban, hanya masuk akal jika diterapkan pada individu, bukan pada komunitas, negara, atau bahkan hewan.
+Ini sekaligus prinsip antropologis (berdasarkan kapasitas manusia untuk otonomi dan pemerintahan diri) dan prinsip moral. Formula terkenal Kant, *Sapere aude* ("Beranilah berpikir sendiri"), diambil dari penyair Horace, dijadikan motto Pencerahan dalam esainya tahun 1784 *What is Enlightenment?* Ia melambangkan keluar dari minoritas: keadaan di mana orang tidak mampu memakai pemahamannya tanpa arahan kelas atau otoritas superior.
 
+Kant mendorong orang membebaskan diri, berpikir sendiri, memikul tanggung jawab penuh atas pikirannya. Salah satu hambatan terhadap otonomi ini, dicatat Kant, adalah kemalasan dan kepengecutan: **godaan berlindung dalam pemikiran siap pakai**, yang juga mengarah pada kolektivisme.
 
+Konsekuensi bagi institusi jelas: institusi ada untuk melayani perkembangan individu, perlindungannya, dan realisasi potensi penuhnya. Masyarakat adalah sarana, bukan tujuan.
 
-Prinsip antropologis mendasar yang mendasari individualisme yang dipahami dengan baik ini dengan jelas ditetapkan oleh Immanuel Kant pada abad ke-18: *Berani berpikir untuk diri sendiri*.
+### Filsafat kolektivis
 
+Kolektivisme muncul sebagian karena menawarkan semacam kemudahan, perlindungan, keamanan yang menggoda banyak orang. Individualisme yang menegaskan otonomi tiap orang dapat tampak menakutkan. Apakah semua orang siap memikul tanggung jawab penuh atas eksistensinya? Tidak selalu, dan **kadang lebih sederhana mengandalkan otoritas yang memaksakan cara hidup.**
 
+Dalam konsepsi kolektivis, kepentingan privat individu harus secara sistematis disubordinasikan pada keputusan yang dibuat atas nama entitas superior yang konon mewujudkan kepentingan umum atau kebaikan bersama. Entitas ini dapat berupa negara, bangsa, gereja, tetapi hari ini, dengan demokrasi sosial, terutama mayoritas demokratis. Aturan mayoritas menentukan benar dan salah, sejati dan palsu.
 
-Perintah ini, yang awalnya diambil dari sebuah surat oleh Horace yang diterbitkan dua puluh tahun sebelum zaman kita, diambil dan dipopulerkan oleh Immanuel Kant dalam esainya *What is* the Enlightenment? yang diterbitkan pada tahun 1784. Bagi Kant, frasa ini adalah moto Pencerahan, yang melambangkan kemunculan manusia dari minoritasnya, keadaan ketidakmampuan untuk menggunakan pemahamannya tanpa bimbingan orang lain, yang menjadi tanggung jawabnya sendiri, melalui kemalasan dan kepengecutan.
+Kolektivitas menjadi prioritas. Tujuan kolektif melampaui tujuan individu, dan institusi melayani masyarakat bahkan dengan mengorbankan pribadi.
 
+### Marx dan materialisme historis
 
+![Marx dan primasi eksistensi sosial atas kesadaran individu](./assets/en/113.webp)
 
-Manusia bukanlah hewan atau budak. Dia adalah milik dirinya sendiri dan diberkahi dengan kehendak bebas, kapasitas untuk memilih yang diinformasikan oleh akal sehat. Singkatnya, manusia adalah tujuan bagi dirinya sendiri, bukan sarana bagi orang lain. Inilah yang memberinya martabat moral.
+Pemikir besar kolektivisme adalah Karl Marx, yang membenarkan superioritas kolektif atas individu melalui apa yang ia sebut materialisme historis:
 
+> Bukan kesadaran manusia yang menentukan eksistensi mereka; sebaliknya, eksistensi sosial merekalah yang menentukan kesadaran mereka.
 
+Kesadaran bukan primer tetapi sekunder, ditentukan oleh eksistensi sosial: keadaan relasi ekonomi dan sosial, oposisi antar kelas. **Individu bukan apa-apa di luar realitas ini.** Ia berpikir melalui kelas sosialnya, hidup, berperilaku, dan bertindak sebagaimana kelasnya mendikte, tetapi tanpa sadar. Dari sini imperatif Marxis untuk menjadi sadar akan kepentingan kelas seseorang agar dapat mewujudkannya.
 
-Tetapi dengan memberdayakan manusia dengan cara ini, individualisme tetap saja bisa menjadi pengalaman yang menakutkan. Apakah kita siap untuk bertanggung jawab atas hidup kita sendiri?
+### Banyak wajah kolektivisme
 
+Seperti diamati Mises: *There is no uniform collectivist ideology, but many collectivist doctrines. Each exalts a different collective entity.*
 
+Kita dapat mengklasifikasikan kolektivisme ke dalam dua kelompok. Kolektivisme kanan, seperti Sosialisme Nasional dan Fasisme Mussolini, meninggikan bangsa dan ras sebagai entitas yang lebih tinggi daripada individu. Kolektivisme kiri, komunisme dan sosialisme, memprioritaskan kelas pekerja dan kesetaraan sosial, memperlakukan kelas sosial sebagai entitas tertinggi yang mendefinisikan individu.
 
-Kolektivisme, baik ekonomi maupun politik, adalah sebuah filosofi yang mengandalkan otoritas di luar individu - negara atau mayoritas - untuk memaksakan cara hidup dan kondisi ekonomi tertentu pada individu. Keputusan diambil atas nama entitas yang lebih tinggi ini. Oleh karena itu, kepentingan pribadi individu harus tunduk padanya.
+Spektrumnya membentang dari demokrasi sosial sampai Sosialisme Nasional, tetapi **doktrin-doktrin ini berkonvergensi dalam permusuhan bersama terhadap kebebasan individu dan pembenaran kekerasan.**
 
+### Masyarakat terbuka dan tertutup Popper
 
+![Pembedaan Karl Popper antara masyarakat terbuka dan tertutup](./assets/en/114.webp)
 
-Dengan demikian, kolektivisme menempatkan kolektivitas, baik nasional, budaya atau agama, di latar depan, memandang individu sebagai sarana untuk memperkuat dan memastikan kelanggengan entitas tertinggi ini. Tujuan kolektivitas, baik bangsa, negara atau gereja, lebih tinggi daripada tujuan individu. Dari sudut pandang ini, fungsi utama institusi adalah untuk melayani masyarakat, bahkan sampai merugikan individu.
+Karl Popper, filsuf kelahiran Austria yang beremigrasi pertama ke Selandia Baru lalu Inggris, menganalisis oposisi ini dengan kejernihan khusus dalam *The Open Society and Its Enemies*:
 
+> Saya menyebut masyarakat tertutup sebagai masyarakat magis atau tribal, dan masyarakat terbuka sebagai masyarakat di mana individu dihadapkan pada keputusan personal.
 
+Dua model masyarakat, dua prinsip organisasi sosial yang sepenuhnya bertentangan. Masyarakat tertutup bersifat kolektivis, bertumpu pada mentalitas tribal: penolakan kebebasan kritis, pertukaran eksternal dan kemajuan, serta idealisasi tatanan statis. **Masyarakat terbuka mengakui hak individu untuk menilai bagi dirinya sendiri**, memberi primasi pada pilihan bebas nilai, keyakinan, dan relasi.
 
-Bagi Karl Max: "bukan kesadaran manusia yang menentukan eksistensi mereka; sebaliknya, eksistensi sosial merekalah yang menentukan kesadaran mereka". Dengan demikian, Marx menekankan bahwa individu berakar kuat pada realitas sosial, dan kesadarannya ditentukan oleh realitas ini. Dengan kata lain, individu hanya nyata sejauh dia adalah anggota masyarakat, dan keberadaan individu hanya memiliki makna dalam konteks perjuangan kelas untuk kebaikan bersama.
+### Totalitarianisme sebagai masyarakat tertutup modern
 
+![Totalitarianisme sebagai bentuk modern radikal masyarakat tertutup](./assets/en/115.webp)
 
+Totalitarianisme adalah ekspresi modern masyarakat tertutup. Ia mewakili bentuk paling radikal, bertumpu pada ideologi dogmatis yang mengarah pada sensor sistematis, propaganda negara, kultus pemimpin, dan mekanisme kontrol serta pengawasan. Individu tidak ada sebagai demikian; ada **bentuk dehumanisasi di mana individu kehilangan akarnya**, memorinya, dan keyakinannya, menjadi sepenuhnya terserap oleh komunitas sehingga mudah dimanipulasi.
 
-Menurut Mises: *Tidak ada ideologi kolektivis yang seragam, tetapi ada banyak doktrin kolektivis. Masing-masing mengagungkan entitas kolektif yang berbeda dan menuntut semua orang yang layak tunduk padanya. Setiap sekte memuja berhalanya sendiri dan tidak toleran terhadap berhala-berhala saingannya* (Teori dan Sejarah).
+### Kerapuhan masyarakat terbuka
 
+![Kerapuhan inheren masyarakat terbuka](./assets/en/116.webp)
 
+Popper menekankan dengan sangat tepat bahwa **masyarakat terbuka tetap rapuh secara inheren.** Masyarakat yang mendukung pemikiran kritis, kebebasan individu, dan tanggung jawab ini dapat dengan mudah tergelincir ke kolektivisme melalui ketertarikan pada otoritas.
 
-Bagi Mises, ada kolektivisme sayap kanan dan sayap kiri. Sosialisme Nasional, bersama dengan Fasisme Mussolini, adalah kolektivisme sayap kanan. Komunisme dan sosialisme adalah kolektivisme sayap kiri. Baginya, tidak ada perbedaan besar antara Nazisme Hitler dan komunisme Stalin. Meskipun motivasinya berbeda, dalam kedua kasus tersebut terdapat kebencian terhadap kebebasan individu dan pembenaran terhadap kekerasan.
+Mengapa? Mungkin karena kurangnya rasa aman. Tanggung jawab yang disiratkan individualisme dapat tampak menakutkan dan berisiko. Orang harus membuat pilihannya sendiri dan dapat gagal. Godaan muncul untuk mencari perlindungan dalam proteksi komunal atau dalam kecenderungan nostalgis menuju masa lalu yang diidealkan. Masyarakat terbuka menghadapi tantangan yang masih mengancamnya hari ini, terutama dorongan komunitarian yang kita lihat berkembang pada masa kita, dan godaan kekerasan yang berulang.
 
 
-
-Berdasarkan pembedaan ini, keluarga politik dapat dianalisis sebagai berikut:
-
-
-*Dua konsepsi yang berlawanan tentang masyarakat akan selalu tidak dapat didamaikan: konsepsi individualis - yang menyatakan bahwa manusia adalah makhluk berakal budi dan bebas, yang mampu mengatur hubungannya sendiri dengan manusia lain - dan konsepsi kolektivis, yang menyatakan bahwa **masyarakat** ada secara independen dari manusia yang membentuknya, keinginan dan kehendak mereka. Konsepsi kolektivis telah melihat beberapa konkretisasinya yang paling mengerikan dalam totalitarianisme Marxis, tetapi, terlepas dari penampilannya, itu juga yang terkait dengan demokrasi sosial.* Pascal Salin, Liberalisme.
-
-
-
-Dengan nada yang sama, filsuf Karl Popper menulis dalam bukunya tahun 1945, Masyarakat Terbuka dan Musuh-musuhnya: *Saya menyebut masyarakat tertutup sebagai masyarakat magis atau kesukuan, dan masyarakat terbuka sebagai masyarakat di mana individu dihadapkan pada keputusan-keputusan pribadi (Tome I, hal.199).
-
-
-Menurut Karl Popper, masyarakat terbuka dan masyarakat tertutup adalah konsep dasar yang menggambarkan prinsip-prinsip organisasi sosial yang sangat berbeda, tanpa ada kemungkinan sintesis di antara keduanya:
-
-
-
-
-  - Masyarakat tertutup adalah masyarakat yang pada prinsipnya menolak kebebasan kritis individu, pertukaran dengan dunia luar, dan kemajuan serta keanekaragaman yang dihasilkannya. Ini adalah model masyarakat yang berakar pada mentalitas kolektif yang takut akan perubahan, menolak kritik dan tanggung jawab individu, dan mengidealkan tatanan yang statis, harmonis, dan sering kali bersifat kesukuan.
-  - Masyarakat terbuka dicirikan oleh kemampuan manusia untuk melakukan penilaian kritis dan tanggung jawab individu. Dengan itu, muncullah prinsip baru organisasi sosial yang didasarkan pada keutamaan tanggung jawab, pilihan bebas atas nilai-nilai, kepercayaan, pertukaran, dan hubungan, dalam kerangka aturan abstrak tentang perilaku yang benar.
-
-
-
-Totalitarianisme adalah bentuk politik yang muncul ketika masyarakat tertutup diterapkan secara radikal dan modern. Sistem ini bertumpu pada ideologi yang mengklaim kepastian, serta menggunakan mekanisme kontrol negara seperti penyensoran, propaganda, dan pemujaan terhadap pemimpin untuk memaksakan stabilitas secara paksa. Dampaknya adalah tergerusnya kebebasan individu dan kemampuan berpikir kritis. Tujuan utamanya adalah melanggengkan tatanan hierarkis yang ada, dengan menuntut kepatuhan pada tradisi dan keyakinan kolektif yang dianggap tidak boleh berubah. Dalam masyarakat semacam ini, kontrol sosial hadir dalam bentuk pengawasan timbal balik yang terus-menerus dan ketat, sementara individu kehilangan otonominya dan tenggelam di bawah dominasi komunitas.
-
-
-Perbedaan utama antara kedua model masyarakat ini terletak pada sikap mereka terhadap pengetahuan, perubahan, dan organisasi politik:
-
-
-
-
-
-- Masyarakat terbuka bersifat dinamis, kritis, dan berfokus pada kebebasan individu dan kemungkinan untuk mereformasi norma-norma.
-- Masyarakat tertutup bersifat statis, dogmatis, dan totaliter, mencari stabilitas melalui kontrol dan kembali ke tatanan masa lalu yang diidealkan.
-
-
-
-Pertentangan ini menegaskan adanya ketidakcocokan mendasar antara model yang bertumpu pada kebebasan individu dan nalar kritis, dengan model lain yang mengandalkan kesatuan organik, irasionalitas, dan ketundukan kolektif.
-
-
-
-Namun, masyarakat terbuka bersifat rapuh. Ia selalu belum tuntas dan terus-menerus dipertanyakan. Masyarakat seperti ini menghadapi dorongan nostalgia, hilangnya rasa aman yang dulu diberikan oleh komunitas kesukuan kepada para anggotanya, serta keinginan untuk menghidupkan kembali tatanan komunitarian yang dianggap asli, bahkan, dalam beberapa kasus, melalui kekerasan.
-
-
-
-# Tren politik di kalangan pengguna bitcoin
-
+# Tren politik di kalangan bitcoiner
 
 <partId>c0de3201-5c74-4854-b872-15a27165d228</partId>
 
 
-
-## Tren politik di kalangan pengguna bitcoin
-
+## Tren politik di kalangan bitcoiner
 
 <chapterId>89b42c72-bd73-465d-b420-e35d7c5de07c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=ml33z_RYTEk)
 
+![Bitcoin sebagai proyek politik](./assets/en/117.webp)
 
+Dalam bagian akhir kursus ini, kita beralih ke Bitcoin. Apa sifatnya? Apakah ia proyek politik? Apakah ia kanan, kiri, atau sesuatu yang lain sama sekali? Dan apa kecenderungan politik mereka yang menggunakannya? Inilah pertanyaan yang kini harus kita bahas.
 
-Di akhir kursus ini, kami merasa penting untuk membahas posisi politik Bitcoin dan para pengguna bitcoin.
+### Apakah Bitcoin proyek politik?
 
+Bitcoin adalah [cryptocurrency](https://planb.academy/resources/glossary/cryptocurrency) terdesentralisasi, diciptakan oleh Satoshi Nakamoto pada 2008, yang memungkinkan transaksi finansial [peer-to-peer](https://planb.academy/resources/glossary/peertopeer-p2p) tanpa membutuhkan kepercayaan pada perantara apa pun.
 
+Ia diatur oleh protokol perangkat lunak [open source](https://planb.academy/resources/glossary/foss). Tidak ada CEO, tidak ada kantor pusat, tidak ada rencana pemasaran, tidak ada otoritas yang ditunjuk. **Tidak ada perusahaan yang berdiri di belakang Bitcoin, dan tidak ada entitas politik atau pemerintah yang mengontrolnya.**
 
-### Apakah Bitcoin merupakan proyek politik?
+#### Teknologi yang tampaknya netral
 
+![Sifat Bitcoin yang terdesentralisasi: tanpa CEO, open source, peer-to-peer](./assets/en/118.webp)
 
+Sifat terdesentralisasi ini dapat menciptakan kesan bahwa Bitcoin hanyalah inovasi teknologi, netral dan apolitis, sebanding dengan Internet pada abad ke-20 atau mesin cetak pada abad ke-14. Namun kita sudah tahu bahwa baik Internet maupun mesin cetak, meskipun inovasi teknologi, **memiliki konsekuensi sosial, ekonomi, dan politik yang mendalam**.
 
-Bitcoin adalah mata uang kripto terdesentralisasi yang diciptakan oleh Satoshi Nakamoto pada tahun 2008. Teknologi ini memungkinkan transaksi keuangan langsung antarindividu tanpa perlu saling percaya.
+Hal yang sama berlaku pada Bitcoin, dan Satoshi Nakamoto meninggalkan pesan untuk memperjelas niatnya.
 
+#### Cacat dalam sistem fiat
 
-Bitcoin dijalankan oleh protokol perangkat lunak sumber terbuka, tanpa CEO, tanpa kantor pusat, tanpa anggaran pemasaran, dan tanpa otoritas resmi. Artinya, tidak ada entitas politik atau pemerintah yang mengendalikannya.
+> Masalah fundamental mata uang konvensional adalah kepercayaan yang harus ditempatkan padanya agar ia bekerja. Anda harus mempercayai bank sentral untuk tidak mendevaluasi mata uang, tetapi sejarah mata uang fiat penuh dengan pelanggaran kepercayaan ini.
 
+Kutipan dari Satoshi Nakamoto ini esensial untuk memahami filsafat di balik Bitcoin. Mata uang fiat adalah mata uang yang tidak didukung komoditas, oleh sesuatu yang nyata dan fisik. Ia adalah uang kertas yang sepenuhnya bertumpu pada otoritas institusi yang memaksakannya, dan karena itu pada kepercayaan. **Ketika sebuah institusi memegang kontrol total atas uang, godaan untuk menyalahgunakannya terlalu kuat.** Sejarah berulang kali menunjukkan ini.
 
-Sifat netral ini sering membingungkan sebagian orang, bahkan membuat Bitcoin tampak seperti teknologi yang apolitis, mirip dengan Internet pada abad ke-20 atau mesin cetak pada abad ke-14.
+#### Pesan genesis block
 
+**Bitcoin lahir sebagai reaksi langsung terhadap krisis finansial 2008** dan intervensionisme moneter yang menyusul. Dalam blok pertama yang pernah ditambang, Satoshi Nakamoto menyisipkan judul simbolis dari London Times:
 
-Namun, meskipun Bitcoin bukan milik sayap kanan atau kiri, dan juga tidak terkait dengan agama tertentu, Bitcoin diciptakan untuk memecahkan sebuah persoalan mendasar, yaitu masalah kepercayaan dalam pertukaran keuangan dan ketergantungan pada entitas terpusat. Dan persoalan itu pada dasarnya bersifat politis.
+> The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout.
 
+![Judul Genesis Block](./assets/en/119.webp)
 
-![Bitcoin Whitepaper Abstract](./assets/fr/020.webp)
+Niatnya jelas: menawarkan alternatif bagi sistem perbankan terpusat.
 
+#### Konsekuensi menghancurkan dari intervensionisme moneter
 
+![Konsekuensi menghancurkan dari inflasi moneter dan krisis mata uang fiat](./assets/en/120.webp)
 
-Membaca Buku Putih Nakamoto Satoshi, kita dapat melihat bahwa Bitcoin dirancang untuk menawarkan perlindungan inovatif terhadap dua ancaman kontemporer utama: pengawasan yang meluas dan percepatan penciptaan uang buatan.
+Setiap kali krisis mengguncang dunia finansial, atau peristiwa global seperti pandemi Covid-19 melanda, miliaran demi miliaran dolar dan euro diciptakan untuk menyelamatkan bank, bisnis, atau individu. Rencana penyelamatan ini memiliki konsekuensi menghancurkan.
 
+Injeksi uang ke dalam sistem (inflasi moneter) berubah menjadi devaluasi mata uang. Dengan jumlah uang yang sama, orang dapat membeli semakin sedikit, karena uang baru ini tidak mencerminkan pertumbuhan ekonomi nyata. **Inflasi ini adalah pajak tersembunyi, dipaksakan tanpa persetujuan warga.** Kebanyakan orang tidak melihat bahwa kebijakan pemerintahlah yang menyebabkan kenaikan harga, yang hanyalah refleksi dari devaluasi mata uang. Ini setara dengan pencurian legal, perampasan yang diinstitusionalisasi.
 
+Konsekuensinya mengikuti secara logis: pemiskinan kelas menengah (sementara orang kaya dapat menangkap uang baru yang masuk ke sistem melalui bank dan menempatkannya dalam aset spekulatif), ketakutan terhadap masa depan, ketegangan sosial dan politik, ketidakamanan, dan lebih luas lagi, hilangnya kepercayaan pada institusi tradisional. Banjir uang ini juga dapat memberi makan korupsi politik dan finansial, cronyism antara negara dan korporasi besar, dan birokrasi yang tumbuh.
 
-1. Meski tidak sepenuhnya anonim, Bitcoin secara signifikan meningkatkan privasi dengan membatasi pengawasan terhadap aktivitas keuangan individu. Kemampuan ini memungkinkan, misalnya, seorang pembangkang di bawah rezim diktator untuk menyimpan dan menukar nilai secara daring tanpa takut disita atau disensor. Walaupun hal ini mungkin terasa jauh bagi warga negara demokrasi, ini tetap merupakan langkah maju yang penting bagi kebebasan individu.
+![Abstrak Bitcoin Whitepaper](./assets/en/121.webp)
 
+### Bitcoin sebagai proyek transformasi sosial
 
+![Bitcoin sebagai alat untuk membatasi kekuasaan pemerintah dan membebaskan individu](./assets/en/122.webp)
 
-2. Bitcoin memungkinkan siapa pun untuk melindungi tabungan mereka dari penggerusan nilai akibat inflasi moneter, yang pada dasarnya merupakan bentuk pengambilan paksa atas kepemilikan pribadi. Bitcoin berupaya menantang kendali negara dalam pengelolaan uang sebagai alat tukar, dan dengan demikian menjadi pesaing bagi negara. Krisis keuangan 2008 dan pandemi Covid-19 telah menyingkap berbagai kelemahan dalam sistem yang ada. Triliunan dolar yang dicetak demi mencegah keruntuhan ekonomi justru menimbulkan dampak negatif yang besar, dan akibatnya masih kita rasakan hingga hari ini.
+**Karena itu Bitcoin jauh melampaui inovasi finansial atau teknologi sederhana.** Ia dikonsepsikan dengan tiga tujuan:
 
+1. **Membatasi kekuasaan pemerintah atas uang**, mencegah institusi memakai mata uang untuk tujuan politik seperti belanja publik, perang, dan kontrol ideologis.
+2. **Membebaskan individu**, mengembalikan kontrol atas patrimoninya dan hidupnya. Pemerintah dapat mengambil euro dari rekening bank Anda, rumah Anda, saham Anda, emas Anda. Tetapi ia tidak dapat mengambil bitcoin Anda, karena Bitcoin, melalui sifat terdesentralisasinya, lolos dari pengawasan dan kontrol. Anda memegangnya sendiri, tidak bergantung pada pihak ketiga tepercaya.
+3. **Melindungi dari [inflation](https://planb.academy/resources/glossary/inflation).** Bitcoin adalah mata uang deflasioner; pasokannya dibatasi 21 juta unit, dan tidak ada institusi, bank, atau pemerintah yang dapat menciptakan lebih banyak. Nilainya berasal dari utilitas sekaligus kelangkaannya.
 
+#### Bitcoin sebagai kedaulatan individu
 
-![Bitcoin Counterflow Abstract](./assets/fr/021.webp)
+![Kedaulatan individu Bitcoin](./assets/en/123.webp)
 
+Dalam keuangan tradisional, seseorang tidak dapat benar-benar memiliki asetnya sendiri. Yang kita pegang selalu klaim atas perantara finansial. **Kita sepenuhnya bergantung pada institusi perbankan.** Dengan Bitcoin, kita memiliki kepemilikan langsung dan berdaulat atas simpanan kita. Ini sederhana saja tindakan menjadi bankir bagi diri sendiri, memegang private keys yang memberi akses ke bitcoin. Jika kita memegang kunci kita sendiri, tidak ada yang dapat menyitanya, karena ia berada dalam pikiran kita.
 
+#### Ancaman bagi welfare state
 
-Jadi Bitcoin lebih dari sekadar teknologi keuangan, ini adalah proyek untuk mengubah dunia, untuk memperbaikinya. Ini adalah proyek politik yang ambisius untuk mendefinisikan ulang hubungan kekuasaan antara individu dan institusi:
+![Bitcoin sebagai tantangan terhadap monopoli fiskal dan moneter welfare state](./assets/en/124.webp)
 
+Bitcoin juga mewakili tantangan bagi welfare state: negara yang membelanjakan melampaui pendapatannya untuk memenuhi tuntutan hak ekonomi dan sosial (jaminan sosial, tunjangan pengangguran, pensiun). Bitcoin mempertanyakan tiga pilar tempat sistem ini bertumpu:
 
+1. **Sistem fiskal**, yang tidak cukup menutup semua pengeluaran.
+2. **Monopoli moneter**, kapasitas menerbitkan uang untuk membiayai belanja melalui utang.
+3. **Pengawasan transaksi**, kemampuan mencegah orang memakai mata uang selain fiat yang dipaksakan negara.
 
-> Masalah mendasar dengan mata uang konvensional adalah kepercayaan yang harus ditempatkan di dalamnya agar mata uang tersebut dapat berfungsi. Anda harus mempercayai bank sentral untuk tidak mendevaluasi mata uang, tetapi sejarah mata uang fiat penuh dengan pelanggaran kepercayaan ini.
+Pertimbangkan alegori gua, diperbarui untuk zaman moneter kita. Jauh di dalam gua, para tahanan melihat bayangan di dinding dan melihat euro, membayangkannya sebagai satu-satunya mata uang yang mungkin, mempercayai otoritas yang menerbitkannya. Lalu sebagian tahanan melarikan diri ke udara terbuka dan menemukan Bitcoin. **Bitcoin adalah jalan keluar, sarana emansipasi dari gua ilusi moneter.**
 
-Kutipan dari Satoshi Nakamoto ini sangat penting untuk memahami filosofi di balik Bitcoin. Satoshi menyoroti kekurangan dalam sistem Fiat yang didasarkan pada kepercayaan pada lembaga-lembaga terpusat, dan mengusulkan Bitcoin sebagai alternatif tanpa kepercayaan.
+#### Perlindungan bagi disiden dan korban penindasan
 
+Bitcoin juga berfungsi sebagai perlindungan bagi disiden dan korban penindasan di negara yang mengalami perang, kediktatoran, atau hiperinflasi. Ini mungkin tampak jauh bagi kita di demokrasi modern, tetapi **kapasitas resistensi sensor dan privasi yang diperkuat ini adalah kemajuan berharga** bagi kebebasan individu.
 
+### Proyek moral dengan konsekuensi politik
 
-Karena itu, titik awal pendekatan intelektual Satoshi Nakamoto adalah kritik terhadap kepercayaan yang berlebihan pada mata uang fiat dan keyakinan keliru bahwa negara mampu menyelesaikan krisis. Hal ini terlihat jelas pada blok pertama yang ditambang dalam sejarah Bitcoin, ketika Satoshi Nakamoto menyisipkan sebuah kalimat simbolis yang diambil dari artikel halaman depan The Times London:
+![Bitcoin sebagai proyek moral: properti, kerja, dan privasi](./assets/en/125.webp)
 
+Sebagai kesimpulan: **Bitcoin tidak dirancang untuk membuat orang kaya, melainkan untuk membuat mereka bebas.** Ia bukan kanan atau kiri. Ia pertama-tama adalah proyek moral dengan konsekuensi politik. Seseorang dapat merangkul Bitcoin terlepas dari afiliasi politik, karena ia tidak terikat pada ideologi, negara, atau agama apa pun.
 
-> The Times 03/Jan/2009 Kanselir di ambang bailout bank kedua.
+Bitcoin mencapai tiga hal. Pertama, ia memungkinkan properti efektif, yang merupakan insentif fundamental bagi tanggung jawab individu: ketika seseorang memiliki sesuatu, ia merawatnya. Kedua, ia melindungi nilai yang diciptakan oleh kerja: ketika seseorang memiliki buah kerjanya, ia terdorong untuk bekerja dan memberikan yang terbaik. Ketiga, ia menjaga kerahasiaan dan privasi, hak fundamental, karena ketika seseorang hanya mengungkap apa yang ia pilih untuk ungkap, ia hidup tanpa takut dan dapat membangun relasi kepercayaan yang sejati.
 
-![Genesis Block Title](./assets/fr/022.webp)
+Tanpa secara eksplisit mengklaim kubu politik mana pun, **Bitcoin membawa benih revolusi sunyi**, yang pertama-tama moral dan baru kemudian politik.
 
+Tetapi Bitcoin tidak muncul dari ketiadaan. Ia bertumpu pada kemajuan matematika, fisika, ilmu komputer, dan filsafat. Satoshi Nakamoto, meski brilian, membangun di atas gagasan yang sudah ada di udara. Di antara yang terpenting adalah gagasan gerakan [cypherpunk](https://planb.academy/resources/glossary/cypherpunks).
 
 
-Pencantuman judul ini dalam blok genesis terbuka untuk berbagai tafsir. Namun, hal ini dapat dipahami sebagai komentar Satoshi terhadap kegagalan lembaga keuangan tradisional, sekaligus pernyataan tujuan Bitcoin, yaitu menawarkan alternatif bagi sistem perbankan yang terpusat.
-
-
-Ketika negara menerapkan kontrol ketat atas seluruh transaksi, misalnya dengan membatasi penggunaan uang tunai atau memberlakukan mata uang digital terpusat, negara pada dasarnya memperoleh kendali penuh atas perekonomian. Kondisi ini mengurangi kebebasan individu untuk memilih dan bersikap berdaulat. Dengan memantau semua transaksi, negara juga dapat lebih mudah menemukan sumber pajak baru dan menerapkan regulasi yang semakin ketat.
-
-
-Sebaliknya, Bitcoin dirancang untuk beroperasi tanpa campur tangan bank sentral atau perantara keuangan lain yang berada di bawah kendali negara. Berkat sifatnya yang terdesentralisasi, bersifat pseudonim, dan tahan terhadap manipulasi, Bitcoin berpotensi melemahkan fondasi negara kesejahteraan dengan mengurangi kontrol atas uang, perpajakan, dan sistem keuangan.
-
-
-Karena itu, salah satu karakteristik penting Bitcoin adalah kemampuan untuk benar-benar memiliki diri sendiri. Dalam sistem keuangan tradisional, hal ini hampir tidak mungkin, karena selalu ada perantara keuangan yang mengatur akses ke rekening dan dana Anda.
-
-
-Bitcoin dirancang untuk membatasi kekuasaan pemerintah atas mata uang. Dengan demikian, ia menghambat penggunaan uang sebagai alat politik, seperti untuk membiayai pengeluaran publik tertentu, perang, penyebaran ideologi, atau pengendalian opini.
-
-
-
-- Pemerintah dapat mengambil euro dari rekening bank milik Anda.
-- Ia dapat mengambil rumah dan tanah milik Anda.
-- Hal ini dapat mengambil saham milik Anda.
-- Itu bisa mengambil emas milik Anda.
-- Ia dapat mengambil segalanya dari milik Anda.
-
-
-
-Tetapi pemerintah tidak dapat mengambil bitcoin Anda, karena tidak dapat menyita isi pikiran Anda.
-
-
-
-Itulah sebabnya Bitcoin dibangun di atas satu pengandaian filosofis yang mendasar: kebebasan berarti memiliki diri sendiri, hasil kerja keras, dan kehidupan pribadi.
-
-
-Dalam konteks ini, Bitcoin digerakkan oleh sebuah visi dunia yang bersifat moral sekaligus politis. Ketika negara memonopoli uang, individu berada dalam sistem negara, baik yang berhaluan kanan maupun kiri. Proyek Bitcoin bertujuan menawarkan pasar uang yang bebas dan terbuka bagi semua orang.
-
-
-Namun, Bitcoin tidak muncul begitu saja. Ia bertumpu pada kemajuan di bidang matematika, fisika, ilmu komputer, dan filsafat. Satoshi Nakamoto, meskipun sangat brilian, membangun karyanya di atas gagasan-gagasan para inovator sebelumnya, termasuk para pelopor gerakan cypherpunk.
-
-
-## Siapakah para cypherpunks itu?
-
+## Siapa para cypherpunk?
 
 <chapterId>dc18ba9a-c242-472a-a717-531a5f125737</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=IjiyWVW_5Os)
 
+![Cypherpunks: pelopor kebebasan digital](./assets/en/126.webp)
 
+Cypherpunks adalah pelopor gerakan yang membela kebebasan manusia di era digital. Akar intelektual Bitcoin tidak dapat dipahami tanpa mereka.
 
-Gerakan ini lahir pada awal 1990-an karena keprihatinan terhadap kebebasan manusia dalam menghadapi pengawasan pemerintah di era digital.
+### Konteks 1990-an
 
+![Kemunculan gerakan cypherpunk dalam revolusi digital 1990-an](./assets/en/127.webp)
 
+Pada awal 1990-an, konteksnya khas. Bisnis dan pemerintah mulai menjalankan kontrol yang meningkat atas teknologi informasi dan Internet yang baru muncul. Periode ini menandai perkembangan cepat teknologi ini, tetapi juga kecemasan yang tumbuh tentang pengawasan massal dan pelanggaran sistematis terhadap privasi warga.
 
-Gerakan ini muncul di tengah pesatnya perkembangan teknologi informasi dan komunikasi, pada saat pemerintah dan perusahaan mulai meningkatkan kontrol atas teknologi tersebut. Gerakan ini bersinggungan dengan pemikiran libertarian dan anarkis, serta didorong oleh kekhawatiran terhadap pengawasan massal dan pelanggaran privasi.
+Menghadapi kecemasan ini, pemikir libertarian dan anarkis berkumpul untuk bertindak. Visi mereka jelas: **membuat anonimitas dan kebebasan finansial dapat diakses semua orang melalui alat kriptografis digital**, sehingga lolos dari kontrol pemerintah. Mereka mulai mengembangkan teknologi yang memungkinkan warga mempertahankan privasi dan otonomi dalam aktivitas daring sehari-hari.
 
+#### Mailing list dan manifesto
 
+![Visi cypherpunk: anonimitas, kebebasan, dan resistensi kriptografis](./assets/en/128.webp)
 
-Gagasannya adalah membuat anonimitas dan kebebasan finansial dapat diakses oleh semua orang melalui penggunaan alat-alat kriptografi digital. Dengan cara ini, otoritas negara tidak lagi memiliki kendali penuh atas aktivitas daring.
+Pada 1992, Tim May dan Eric Hughes meluncurkan mailing list Cypherpunk pertama. Platform ini cepat menjadi pusat saraf gerakan, mempertemukan developer, kriptografer, dan pembela kebebasan digital. Di daftar yang sama inilah Satoshi Nakamoto kemudian membagikan [White Paper](https://planb.academy/resources/glossary/white-paper) Bitcoin untuk pertama kali pada 2008.
 
+Pada Maret 1993, Eric Hughes menerbitkan *A Cypherpunk's Manifesto*, teks relatif singkat tetapi fondasional:
 
-
-Milis Cypherpunk pertama, tempat Satoshi Nakamoto menjadi anggota dan pertama kali membagikan white paper Bitcoin, diluncurkan pada tahun 1992 oleh Tim May dan Eric Hughes. Tujuan utama milis ini adalah mendorong pengembangan perangkat lunak baru untuk melindungi privasi.
-
-
-Manifesto Cypherpunk, yang ditulis oleh Eric Hughes pada tahun 1993, merangkum filosofi mereka:
-
-
-
-> Privasi sangat penting bagi masyarakat terbuka di era elektronik (...) Kita tidak bisa mengharapkan pemerintah, perusahaan, atau organisasi anonim besar lainnya untuk menjamin privasi kita (...) Tujuan utama saya untuk Cypherpunks adalah untuk membuat orang mempertahankan privasi mereka, daripada mengandalkan orang lain untuk menyediakannya.
+> Privasi esensial bagi masyarakat terbuka di era elektronik. Kita tidak dapat mengharapkan pemerintah, korporasi, atau organisasi besar lain menjamin privasi kita.
 >
 
+> Eric Hughes, A Cypherpunk's Manifesto, March 23, 1993.
 
-> Eric Hughes - Milis Cypherpunk, 23 Maret 1993.
+![Para pendiri cypherpunk dan manifesto 1993](./assets/en/129.webp)
 
-Dan dia menambahkan:
+Motivasi fundamentalnya jelas: **kerahasiaan adalah elemen kunci kebebasan, dan ia harus dibangun oleh individu sendiri**, bukan ditunggu sebagai hadiah dari korporasi atau pemerintah.
 
+#### Filsafat: [cryptography](https://planb.academy/resources/glossary/cryptography) di atas institusi
 
+Para cypherpunk menaruh kepercayaan pada sistem kriptografis terdesentralisasi daripada institusi terpusat seperti bank atau pemerintah. Ini adalah prinsip yang muncul langsung dalam desain Satoshi Nakamoto untuk Bitcoin.
 
-> kerahasiaan dalam masyarakat yang terbuka membutuhkan sistem transaksi anonim. Hingga saat ini, uang tunai telah menjadi sistem utama jenis ini.
+Secara politik, mereka berusaha membangun jaringan terdesentralisasi tempat keputusan dibuat kolektif, tanpa satu entitas pun mampu memaksakan kehendaknya. **Semua sentralisasi dipandang sebagai didasarkan pada paksaan, bukan persetujuan.** Ini menggemakan filsafat libertarian bahwa persetujuan adalah norma fundamental keadilan. Tidak ada yang adil jika dipaksakan oleh otoritas terpusat melalui kekuatan.
 
-Inilah sebabnya mengapa kriptografi akan digunakan sebagai alat perlawanan terhadap semua bentuk kontrol negara dan perusahaan. Kriptografi memastikan bahwa setiap pihak dalam sebuah transaksi hanya mengetahui apa yang benar-benar diperlukan untuk transaksi tersebut.
+Manifesto itu juga menyatakan bahwa kerahasiaan dalam masyarakat terbuka membutuhkan sistem transaksi anonim. Sampai sekarang, uang tunai menjadi sistem utama jenis ini. Tetapi dalam masyarakat digital di mana uang tunai menghilang, **mata uang digital dengan properti anonimitas yang sama harus diciptakan.** Dan itulah tepatnya yang akan datang dengan Bitcoin.
 
+#### "Cypherpunks write code"
 
+Para cypherpunk tidak puas dengan harapan. Mereka aktif ikut campur untuk menciptakan ruang kebebasan dan otonomi. Dari sini formula yang menutup manifesto:
 
-Cypherpunks percaya pada kekuatan kriptografi untuk menciptakan ruang kebebasan dan otonomi individu, yang memungkinkan orang untuk berkomunikasi dan berinteraksi secara aman dan anonim.
+> Cypherpunks write code.
 
+Bagi Eric Hughes, jalan menuju kebebasan melewati konstruksi aktif sistem anonim yang membuat pembelahan politik arbitrer tidak relevan. **Kode menjadi alat fundamental untuk mengubah gagasan abstrak tentang kebebasan menjadi realitas.** Inilah mengapa Satoshi Nakamoto akan mengatakan bahwa ia menulis seluruh kode Bitcoin bahkan sebelum menulis white paper.
 
+### Warisan: Bitcoin sebagai pencapaian cypherpunk
 
-Mereka menganjurkan sebuah model di mana kepercayaan ditempatkan pada sistem kriptografi yang terdesentralisasi dan bukan pada institusi yang tersentralisasi seperti bank, perusahaan atau pemerintah.
+![Warisan Cypherpunk dan Bitcoin](./assets/en/130.webp)
 
+Sejak 2008, Bitcoin menjadi konkretisasi sukses pertama dari mata uang elektronik yang tidak dapat disensor dan berdaulat. Ia menawarkan alternatif moneter terdesentralisasi dan pseudonim yang sulit dikontrol otoritas. Entah diadopsi oleh aktivis kanan atau kiri, pembela kebebasan atau kesetaraan, atau sekadar penabung tanpa label politik, **ia memberi tiap individu kemungkinan membebaskan diri dari sistem finansial tradisional** dan merebut kembali penguasaan atas uangnya, dan karena itu atas kebebasannya.
 
+Dari sudut pandang ini, tanpa secara eksplisit mengklaim milik kubu politik mana pun, Bitcoin membawa benih revolusi sunyi dan bergabung dengan bagian atas dial dalam Diagram Nolan.
 
-#### Metode cypherpunk
-
-
-
-> Cypherpunks menulis kode
-
-kata Éric Hughes, menyimpulkan manifestonya.
-
-
-
-Baginya, jalan ke depan terletak pada pembangunan aktif sistem anonim yang membuat pembagian politik yang sewenang-wenang menjadi tidak relevan dan tidak diperlukan. Kode yang dikembangkan bertumpu pada penerapan kriptografi untuk mengubah gagasan abstrak tentang kebebasan menjadi realitas ekonomi dan sosial yang baru.
-
-
-Kaum cypherpunk tidak menggantungkan diri pada harapan atau sekadar keinginan. Mereka memilih untuk terlibat langsung, mengambil tindakan, dan membentuk nasib mereka sendiri.
+![Bitcoin pada diagram politik](./assets/en/131.webp)
 
 
-Secara politis, mereka berupaya membangun jaringan terdesentralisasi, di mana keputusan diambil secara kolektif dan tidak ada satu entitas pun yang dapat memaksakan kehendaknya. Bagi mereka, segala bentuk sentralisasi bertumpu pada paksaan, bukan persetujuan. Dengan kata lain, sistem terpusat memperlakukan individu seperti anak-anak yang dianggap tidak mampu mandiri dan harus dikendalikan ketika mulai menentukan nasibnya sendiri.
-
-
-Filosofi kebebasan dan pendekatan konstruktif aktif yang diwarisi dari gerakan cypherpunk ini kemudian diwujudkan oleh Satoshi Nakamoto pada tahun 2008 melalui penciptaan Bitcoin. Ia menjadi orang pertama yang benar-benar mempraktikkan gagasan mata uang elektronik berdaulat yang tidak dapat disensor.
-
-
-![Cypherpunk Diagramme](./assets/fr/023.webp)
-
-
-
-Bitcoin membatasi kekuasaan negara dengan menawarkan alternatif moneter yang terdesentralisasi, bersifat pseudonim, dan sulit dikendalikan. Baik diadopsi oleh aktivis sayap kanan maupun kiri, oleh pembela kebebasan atau kesetaraan, atau sekadar oleh penabung tanpa label politik, Bitcoin memberi individu peluang untuk melepaskan diri dari sistem keuangan tradisional dan kembali memegang kendali atas uang mereka sendiri.
-
-
-Dari sudut pandang ini, tanpa secara eksplisit mengklaim sebagai bagian dari kubu politik, Bitcoin membawa benih revolusi senyap dan bergabung dengan bagian atas dial dalam diagram Nolan.
-
-
-
-![Politique Diagramme](./assets/fr/024.webp)
-
-
-
-## Siapa yang harus memutuskan?
-
+## Siapa yang seharusnya memutuskan?
 
 <chapterId>cfc7688e-d647-4af1-880d-c70d3ae7d823</chapterId>
 
 
+Sepanjang kursus ini, saya telah mencoba menunjukkan bahwa pembelahan nyata bukan antara kiri, kanan, dan tengah, yang semuanya berbagi postulat statis. Pada akhirnya, semua keluarga politik klasik berbagi ketidakpercayaan terhadap pasar bebas dan kecenderungan terhadap intervensionisme negara.
 
-Dalam mata kuliah ini, saya mencoba menunjukkan bahwa garis pemisah yang sebenarnya bukanlah antara kiri, kanan, atau tengah, yang semuanya sama-sama berangkat dari asumsi statistik. Pada akhirnya, semua rumpun politik klasik cenderung tidak sepenuhnya percaya pada pasar bebas dan memiliki kecenderungan terhadap intervensi negara.
+Tetapi bagaimana dengan mereka yang menginginkan lebih sedikit pemerintah dan lebih sedikit sentralisasi? Pengguna Bitcoin, misalnya, yang ingin mengakhiri monopoli penciptaan uang. Bagaimana kita menempatkan mereka dalam spektrum politik?
 
+### Pembelahan nyata
 
+Pada kenyataannya, **pembelahan politik nyata terletak pada prinsip filosofis fundamental**: kebebasan atau paksaan, persetujuan sukarela atau pemaksaan, individu bertanggung jawab atau kolektif.
 
-Namun, bagaimana dengan mereka yang menginginkan peran pemerintah yang lebih kecil dan tingkat sentralisasi yang lebih rendah? Misalnya, para pengguna Bitcoin yang ingin mengakhiri monopoli negara atas penciptaan uang. Di mana posisi mereka dalam spektrum politik ini?
+Cara yang benar untuk memikirkan politik adalah memulai dari prinsip etis, bukan label. Pertanyaan politik kemudian menjadi: *apakah Anda ingin membuat keputusan penting dalam hidup Anda, atau apakah Anda ingin orang lain membuatnya untuk Anda?*
 
+Pada tingkat lebih umum, pertanyaan filosofisnya adalah ini: *haruskah organisasi sosial menjadi produk rencana sengaja yang dirancang dan dipaksakan oleh kelas politik, atau hasil evolusi bebas yang muncul dari interaksi sukarela antara semua pemain dalam kehidupan ekonomi dan sosial?*
 
+#### Keluarga politik yang diabaikan: libertarian
 
-Faktanya, perbedaan politik yang paling mendasar terletak pada prinsip-prinsip filosofis: kebebasan atau paksaan, persetujuan sukarela atau pemaksaan, serta individu yang bertanggung jawab atau kolektif.
+Pembelahan politik baru ini, berdasarkan oposisi antara prinsip, menyoroti keluarga politik yang sangat nyata tetapi sering diabaikan oleh publik umum: libertarian.
 
+Dari sudut pandang libertarian, **individu memiliki hak sekaligus tanggung jawab untuk membuat keputusan mereka sendiri.** Sebaliknya, keluarga politik konvensional, dari kiri sampai kanan, percaya bahwa pemerintah harus membuat sebagian atau banyak keputusan penting dalam hidup individu dan dalam kehidupan ekonomi secara umum.
 
+Tetapi mengapa sebagian orang harus memaksakan gaya hidup dan pandangan dunianya pada orang lain?
 
-Karena itu, cara yang paling tepat untuk memahami politik adalah dengan berangkat dari prinsip-prinsip etika, bukan sekadar dari label-label ideologis.
+#### Kebebasan sebagai kerangka koeksistensi
 
+Dalam rezim kebebasan sejati, mereka yang berpegang pada ideal kiri dapat hidup menurut prinsip mereka. Mereka bebas menyerahkan kepemilikannya, berbagi alat produksi yang mereka miliki, atau menyumbangkan upah mereka kepada organisasi pilihan, yang dapat mendistribusikan kembali dana ini kepada yang paling kurang beruntung atau mendukung inisiatif kultural dan bisnis yang mempromosikan lapangan kerja.
 
+Dengan cara yang sama, mereka yang berbagi nilai kanan berhak hidup menurut keyakinan mereka: bekerja keras, menabung, mewariskan nilai keluarga dan nasional kepada anak-anak mereka, menghindari konten yang bertentangan dengan moral mereka, atau memilih siapa yang mereka pekerjakan. **Tidak ada yang boleh memaksakan cara hidupnya pada orang lain.** Melalui kebebasan pasar dan kekuatan pilihan, tujuan kita dapat dicapai secara damai.
 
-Sejak saat itu, pertanyaan politiknya bukan lagi: *apakah Anda ingin membuat keputusan penting dalam hidup, atau apakah Anda ingin orang lain yang membuat keputusan untuk Anda?
+Singkatnya, divergensi fundamental antara tren politik terletak pada peran negara terpusat: sosialis dan konservatif memakai negara untuk memaksakan visi masyarakat mereka, sementara libertarian menganjurkan desentralisasi, membiarkan individu dan komunitas privat mendefinisikan serta mengorganisasi masyarakat menurut preferensi mereka dan sejalan dengan hak properti.
 
+### Lalu bagaimana dengan Bitcoin?
 
+Itulah mengapa Bitcoin juga merupakan ruptura politik. Ia adalah pemberontakan damai melawan politisasi uang dan konfiskasinya oleh minoritas kecil. Bitcoin bukan soal kanan dan kiri. Sebaliknya, **ia adalah mata uang pasar yang beroposisi dengan uang negara.**
 
-Pada tingkat yang lebih umum, pertanyaan filosofisnya adalah sebagai berikut: apakah organisasi sosial merupakan hasil dari rencana yang disengaja, yang dirancang dan dipaksakan oleh kelas politik, atau justru hasil dari evolusi bebas yang muncul dari interaksi sukarela para pelaku dalam kehidupan ekonomi dan sosial?
+Uang negara atau fiat adalah sistem koersif dan terpusat yang mudah dibuat, murah, dan memiliki kecenderungan buruk kehilangan nilai. Sebaliknya, uang pasar, yang secara historis diilustrasikan oleh emas dan saat ini oleh Bitcoin, adalah mata uang sehat, sulit diproduksi, yang muncul secara sukarela dan spontan, serta mempertahankan nilainya dalam jangka panjang.
 
+Dengan demikian Bitcoin, berkat suplai tetap dan sifat terdesentralisasinya, **mewakili bentuk mata uang tersehat yang pernah ditemukan**, menawarkan alternatif potensial terhadap ekspansi kekuasaan negara dan pembiayaan perang tanpa batas.
 
-**Keluarga politik yang terabaikan: kaum libertarian**
-
-
-
-Perpecahan politik baru ini, yang didasarkan pada pertentangan antara prinsip-prinsip, menyoroti sebuah keluarga politik yang sangat nyata namun sering diabaikan oleh masyarakat umum: kaum libertarian.
-
-
-
-Dari sudut pandang libertarian, individu memiliki hak dan tanggung jawab untuk membuat keputusan sendiri. Sebaliknya, kelompok politik konvensional, dari kiri ke kanan, percaya bahwa pemerintah harus membuat beberapa atau banyak keputusan penting dalam kehidupan individu dan kehidupan ekonomi secara umum.
-
-
-
-Tetapi mengapa beberapa orang harus memaksakan gaya hidup dan pandangan dunia mereka pada orang lain?
-
-
-Dalam rezim kebebasan yang sejati, mereka yang menganut cita-cita sayap kiri dapat hidup sesuai dengan prinsip mereka. Mereka bebas menyerahkan harta milik, berbagi alat produksi yang dimiliki, atau menyumbangkan upah kepada organisasi pilihan mereka, yang kemudian dapat menyalurkan dana tersebut kepada kelompok yang paling membutuhkan atau mendukung inisiatif budaya dan usaha yang menciptakan lapangan kerja.
+Akhirnya, Bitcoin bukan proyek politik klasik dalam arti inisiatif negara atau koersif. Ia adalah teknologi yang memungkinkan individu memutuskan bagi diri mereka sendiri, yang secara paradoks memiliki konsekuensi politik luas dalam membatasi kekuasaan terpusat dan dominatif.
 
 
-
-Dengan cara yang sama, dalam rezim kebebasan ini, mereka yang memegang nilai-nilai sayap kanan juga berhak hidup sesuai keyakinan mereka: bekerja keras, menabung, mewariskan nilai keluarga dan kebangsaan kepada anak-anak, menghindari konten yang bertentangan dengan moral mereka, atau memilih untuk tidak mempekerjakan jenis pekerja tertentu. Tidak seorang pun berhak memaksakan cara hidupnya kepada orang lain. Melalui kebebasan pasar dan kekuatan untuk memilih, berbagai tujuan dapat dicapai secara damai.
-
-
-
-Singkatnya, perbedaan paling mendasar antara arus politik terletak pada peran negara yang tersentralisasi. Kaum sosialis dan konservatif cenderung menggunakan negara untuk memaksakan visi mereka tentang masyarakat, sementara kaum libertarian mendorong desentralisasi dan membiarkan individu serta komunitas sukarela menentukan dan mengatur masyarakat sesuai dengan preferensi mereka, dalam kerangka hak kepemilikan.
-
-
-**Dan bagaimana dengan Bitcoin?
-
-
-
-Itulah sebabnya Bitcoin juga menjadi titik perpecahan politik. Ia merupakan bentuk perlawanan damai terhadap politisasi uang dan penguasaannya oleh segelintir pihak. Bitcoin bukan soal kanan atau kiri. Sebaliknya, ia adalah mata uang pasar yang menantang dominasi uang negara.
-
-
-
-
-Uang negara, atau fiat, adalah sistem yang bersifat memaksa dan terpusat, mudah diciptakan dengan biaya rendah, serta cenderung kehilangan nilai dari waktu ke waktu.
-
-
-
-
-Sebaliknya, uang pasar, yang secara historis diwakili oleh emas dan kini oleh Bitcoin, adalah bentuk uang yang sehat dan sulit diproduksi. Ia muncul secara sukarela dan spontan, serta cenderung menjaga nilainya dalam jangka panjang.
-
-
-
-
-Dengan pasokan yang tetap dan sifat yang terdesentralisasi, Bitcoin merepresentasikan salah satu bentuk mata uang paling sehat yang pernah ada. Ia menawarkan alternatif terhadap perluasan kekuasaan negara dan pembiayaan perang tanpa batas.
-
-
-
-Pada akhirnya, Bitcoin bukanlah proyek politik klasik dalam arti negara atau kebijakan yang bersifat memaksa. Ia adalah sebuah teknologi yang memberi individu kebebasan untuk memilih sendiri. Namun secara paradoks, pilihan individual ini membawa dampak politik yang luas dengan membatasi kekuasaan yang terpusat dan dominan.
-
-
-
-![Leonard Read Quote](./assets/fr/025.webp)
-
+![Kutipan Leonard Read tentang kebebasan dan otoritarianisme](./assets/en/132.webp)
 
 
 # Bagian akhir
 
 
-
 <partId>d886a919-12b0-4e38-86de-7159b98b1864</partId>
-
 
 
 ## Evaluasi kursus ini
 
 
-
 <chapterId>f0b8398c-7c15-417e-83b0-42e7aab533dc</chapterId>
-
 
 
 <isCourseReview>true</isCourseReview>
@@ -1814,9 +1630,7 @@ Pada akhirnya, Bitcoin bukanlah proyek politik klasik dalam arti negara atau keb
 ## Ujian akhir
 
 
-
-<chapterId>230ddc56-ceb8-11f0-bf47-6f8dd2541da1</chapterId>
-
+<chapterId>f776853b-8303-47d9-8327-d925c594564d</chapterId>
 
 
 <isCourseExam>true</isCourseExam>
@@ -1824,8 +1638,6 @@ Pada akhirnya, Bitcoin bukanlah proyek politik klasik dalam arti negara atau keb
 ## Kesimpulan
 
 
-
 <chapterId>1dfe6e4a-47d5-48e1-94d0-6ac29b31e161</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>

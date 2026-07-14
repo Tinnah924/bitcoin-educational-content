@@ -1,9 +1,9 @@
-question: Prema Eric Hughesovom Cypherpunk Manifestu, primarna metoda koju bi sajferpankeri trebali koristiti za postizanje svojih ciljeva privatnosti i slobode je korišćenje kriptografije.
-answer: Pisanje koda za izgradnju kriptografskih sistema koji čine političke podele nebitnim
+question: "Koja je osnovna poruka Sajferpank manifesta Erica Hughesa iz 1993. o privatnosti?"
+answer: "Privatnost je neophodna za otvoreno društvo u elektronskom dobu, a pojedinci je moraju izgraditi sami umesto da očekuju od vlada ili korporacija da je garantuju"
 wrong_answers:
-  - Lobiranje vlada da usvoje jače zakone i propise o zaštiti privatnosti
-  - Organizovanje masovnih protesta i kampanja građanske neposlušnosti protiv nadzora
-  - Kreiranje obrazovnih programa za podizanje svesti javnosti o pravima na digitalnu privatnost
-explanation: |
-  Eric Hughes je eksplicitno naveo 'Cypherpunks pišu kod' kao njihov fundamentalni pristup. Manifest naglašava da cypherpunks ne nalaze utehu u nadama i željama, već aktivno intervenišu izgradnjom anonimnih sistema kroz kriptografiju. 
-  Ovo transformiše apstraktne ideje slobode u konkretnu ekonomsku i društvenu stvarnost, čineći političke podele proizvoljnim i nepotrebnim. Druge opcije predstavljaju tradicionalni politički aktivizam, što je u suprotnosti sa cypherpunk filozofijom tehnoloških rešenja nad institucionalnom reformom.
+  - "Privatnost je luksuz koji mora biti žrtvovan u zamenu za nacionalnu bezbednost i zaštitu demokratskih institucija"
+  - "Privatnost treba regulisati međunarodnim ugovorima koji uspostavljaju jedinstvene standarde zaštite podataka u svim zemljama"
+  - "Privatnost je važna samo za kriminalce i disidente, dok građani koji poštuju zakon imaju koristi od transparentnih sistema nadzora"
+explanation: >-
+  Manifest Erica Hughesa iz 1993. navodi da je privatnost neophodna za otvoreno društvo u elektronskom dobu i da ne možemo očekivati od vlada, korporacija ili drugih velikih organizacija da je garantuju. Fundamentalna motivacija je da je poverljivost ključni element slobode i da je moraju izgraditi sami pojedinci, a ne čekati je kao poklon od institucija.
+reviewed: false

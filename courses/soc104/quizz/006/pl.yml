@@ -1,11 +1,9 @@
-question: Jakie jest pięć sekcji zidentyfikowanych na diagramie politycznym Nolan Chart?
-answer: Etatyzm (dół), socjalizm (lewo), konserwatyzm (prawo), libertarianizm (góra) i centryzm (środek)
+question: "W rombie Nolana, która pozycja znajduje się na górze i reprezentuje maksymalną wolność?"
+answer: "Libertarianizm, popierający największą wolność gospodarczą i osobistą"
 wrong_answers:
-  - Autorytaryzm (dół), liberalizm (lewo), nacjonalizm (prawo), anarchizm (góra) i populizm (środek)
-  - Totalitaryzm (na dole), progresywizm (po lewej), tradycjonalizm (po prawej), kapitalizm (na górze) i umiarkowanie (w środku)
-  - Faszyzm (na dole), komunizm (po lewej), republikanizm (po prawej), demokracja (na górze) i pragmatyzm (w środku)
-explanation: |
-  Wykres Nolana dzieli spektrum polityczne na pięć odrębnych sekcji w oparciu o wolność gospodarczą i osobistą. Etatyzm reprezentuje
-  maksymalną kontrolę rządu na dole, podczas gdy libertarianizm na górze reprezentuje maksymalną wolność w obu wymiarach. Socjalizm (po lewej) wspiera wolność osobistą
-  wolność osobistą, ale sprzeciwia się wolności gospodarczej, podczas gdy konserwatyzm (po prawej) wspiera wolność gospodarczą, ale ogranicza wolność osobistą. Centryzm zajmuje miejsce pośrodku,
-  mieszając elementy obu wolności z pewnymi regulacjami.
+  - "Konserwatyzm, popierający tradycyjne wartości i wolność gospodarczą"
+  - "Centryzm, równoważący wszystkie stanowiska polityczne w pragmatyczny sposób"
+  - "Socjalizm, popierający wolność osobistą i równość społeczną"
+explanation: >-
+  Libertarianizm zajmuje szczyt rombu Nolana jako przeciwieństwo etatyzmu. Reprezentuje tych, którzy popierają największy stopień zarówno wolności gospodarczej, jak i osobistej. Konserwatyzm znajduje się po prawej (wysoka wolność gospodarcza, niska wolność osobista), socjalizm po lewej (wysoka wolność osobista, niska wolność gospodarcza), a centryzm w środku.
+reviewed: false

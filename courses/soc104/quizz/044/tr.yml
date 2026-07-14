@@ -1,9 +1,9 @@
-question: Sosyalist ekonomi felsefesine göre, ekonomi üzerinde güçlü devlet kontrolünün temel gerekçesi nedir?
-answer: Servetin yeniden dağıtılması yoluyla herkesin temel ihtiyaçlarını karşılamasını sağlayarak eşitliği temin etmek
+question: "Karl Marx ütopik sosyalizm ile bilimsel sosyalizm arasında hangi ayrımı yaptı?"
+answer: "Erken dönem Fransız sosyalistlerini hayali çözümler önermekle suçladı; kendi bilimsel sosyalizmi ise tarihsel materyalizme ve sınıf mücadelesine dayanıyordu"
 wrong_answers:
-  - Bireysel ekonomik özgürlükleri en üst düzeye çıkarmak ve rekabetçi piyasa dinamiklerini teşvik etmek
-  - Her türlü devlet müdahalesini ortadan kaldırmak ve kendiliğinden oluşan bir piyasa düzeni yaratmak
-  - Verimlilik için zenginliği toplumun en üretken üyeleri arasında yoğunlaştırmak
-explanation: |
-  Sosyalist ekonomi felsefesi verimlilikten ziyade eşitliğe öncelik verir, güçlü devlet kontrolünü zenginliğin yeniden dağıtılması ve herkesin
-  temel ihtiyaçlarını karşılayabilir. Sosyalistler serbest piyasalara güvenmemekte, onları güçlülerin zayıfları sömürmesine izin veren sistemler olarak görmektedir. Bu, asgari devlet müdahalesini ve kendiliğinden oluşan piyasa düzenini destekleyen liberal ekonomi felsefesiyle keskin bir tezat oluşturmaktadır. Yanlış cevaplar, sosyalistlerin açıkça reddettiği liberal veya kapitalist yaklaşımları yansıtmaktadır, çünkü bu sistemlerin eşitsizliği gidermek yerine sürdürdüğüne inanmaktadırlar.
+  - "Ütopik sosyalizmin ekonomiye fazla odaklandığını, bilimsel sosyalizmin ise kültürel ve sanatsal dönüşüme öncelik verdiğini savundu"
+  - "Ütopik sosyalistleri pratik deneyleri nedeniyle övdü ve bilimsel sosyalizmi fazla soyut ve teorik olduğu için eleştirdi"
+  - "Ütopik sosyalizmin şiddet yanlısı ve devrimci olduğunu, bilimsel sosyalizmin ise barışçıl demokratik reformu tercih ettiğini iddia etti"
+explanation: >-
+  Marx, Proudhon, Saint-Simon ve Fourier gibi erken dönem Fransız sosyalistlerini, tamamen hayali çözümler öneren ütopyacılar olmakla suçladı. Onun bilimsel sosyalizmi tarihsel materyalizme dayanıyordu: tarihin sınıf mücadelesi ve üretim araçlarının mülk edinilmesi yoluyla ilerlediği; tüm kültürel temsillerin üretici güçler ve üretim ilişkileri tarafından koşullandırıldığı fikrine.
+reviewed: false

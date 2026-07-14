@@ -1,8 +1,9 @@
-question: Kulingana na uchambuzi wa Hannah Arendt, lengo kuu la mifumo ya elimu ya kidikteta ni lipi?
-answer: Kuharibu uwezo wa binadamu wa kuunda imani na mawazo huru
+question: "Msimamo wa kilibertaria kuhusu suala la ndoa za watu wa jinsia moja ni upi?"
+answer: "Dola haina kazi ya kufafanua ndoa; inapaswa kubinafsishwa na kuachiwa watu binafsi, vyama, na taasisi za kidini"
 wrong_answers:
-  - Kuwaelimisha raia kuhusu itikadi na maadili maalum ya kisiasa ya utawala
-  - Kuunda nguvu kazi yenye elimu ya juu inayoweza kuendeleza malengo ya kiuchumi ya serikali
-  - Kuondoa ujinga na kukuza maarifa ya kisayansi yanayohudumia serikali
-explanation: |
-  Hannah Arendt alisema kwamba lengo la elimu ya kidikteta halikuwa kamwe kuingiza imani maalum, bali kuharibu uwezo wa watu wa kuunda imani yoyote huru hata kidogo. Hii inatofautisha utawala wa kidikteta na utawala wa kimabavu au propaganda tu - inatafuta kuondoa uwezo wa utambuzi wa mawazo huru. Chaguzi zingine zinawakilisha aina za kawaida zaidi za ufundishaji wa kisiasa au elimu inayoongozwa na serikali, lakini inakosa ufahamu muhimu wa Arendt kwamba utawala wa kidikteta unalenga kukataa kabisa mamlaka ya kibinadamu na hukumu huru, si tu kukuza itikadi maalum.
+  - "Ndoa za watu wa jinsia moja zinapaswa kuhalalishwa kwa sababu raia wote wanastahili kutendewa sawa chini ya sheria"
+  - "Ndoa za watu wa jinsia moja zinapaswa kupigwa marufuku kwa sababu ndoa ya jadi ni taasisi ya msingi kwa ajili ya uzazi"
+  - "Ndoa za watu wa jinsia moja zinapaswa kuhalalishwa lakini kupitia tu mfumo tofauti wa kisheria ulio tofauti na ndoa ya jadi"
+explanation: >-
+  Walibertaria husema kwamba swali la ndoa limewekwa katika fremu isiyo sahihi kimsingi kwa sababu linaulizwa kwa masharti ya kidola. Wanaamini dola haina kazi ya kuingilia maisha binafsi, kwa hiyo suluhisho ni kuitenganisha ndoa na dola kabisa. Kwa kulazimisha ufafanuzi mmoja, dola huunda migogoro. Jibu la kwanza lisilo sahihi linaonyesha msimamo wa kijamaa au wa kati, na la pili linaonyesha msimamo wa kihafidhina.
+reviewed: false

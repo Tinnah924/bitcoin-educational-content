@@ -1,9 +1,9 @@
-question: Dukurikije igitabu ca Eric Hughes citwa Cypherpunk Manifesto, ni ubuhe buryo nyamukuru aba cypherpunk bakwiye gukoresha kugira ngo bashike ku ntego zabo zo kwirinda no kwidegemvya?
-answer: Kwandika kode yo kwubaka ubuhinga bwo gukingira amakuru butuma amacakubiri ya politike atagira akamaro
+question: "Ni nde yatanguje urutonde rwa mbere rwa Cypherpunk mailing list mu 1992?"
+answer: "Tim May na Eric Hughes, bakoze urubuga rwahavuye ruba ikigo nyamukuru c'uwo muhari"
 wrong_answers:
-  - Gusaba intwaro gushinga amategeko akomeye yo gukingira ubuzima bwite
-  - Gutegura imyiyerekano ya benshi n’amasekeza y’ubugarariji bw’abanyagihugu kugira ngo barwanye ugucungera abantu
-  - Gutegura porogarama z'inyigisho zo gukangurira abantu uburenganzira bwo gukoresha ubuhinga bwa none
-explanation: |
-  Eric Hughes yavuze neza ko ‘aba Cypherpunks bandika kode’ ari bwo buryo bwabo bw’ishimikiro. Iryo kete rishimika ku vy’uko aba cypherpunks badaronka ihumure mu vyizigiro no mu vyipfuzo, ahubwo bagira ico bakoze mu kwubaka ubuhinga butazwi biciye mu buhinga bwo gukingira amakuru. 
-  Ivyo bihindura ivyiyumviro bitaboneka vy’umwidegemvyo bikaba ukuri nyakuri kw’ubutunzi n’imibano, bikaba bituma amacakubiri ya politike aba ataco amaze kandi adakenewe. Ibindi bihitamwo bigereranya ubuhinga bwa politike bwa kera, buvuguruza ubuhinga bwa cypherpunk bwo gutorera umuti ibibazo mu buryo bw’ubuhinga bwa none ku bijanye n’ivugurura ry’inzego.
+  - "Satoshi Nakamoto na Hal Finney, bahavuye barema Bitcoin bari kumwe mu 2008"
+  - "Julian Assange na Edward Snowden, bakoresheje urwo rutonde mu gutunganya ibikorwa vyo gushira ahabona amabanga ya leta"
+  - "Phil Zimmermann na Bruce Schneier, bategekanije urwo rutonde nk'igikoresho co gukwiragiza porogarama zo gupfuka amakuru"
+explanation: >-
+  Mu 1992, Tim May na Eric Hughes batangije urutonde rwa mbere rwa Cypherpunk mailing list. Urwo rubuga rwaciye ruhinduka ningoga ikigo nyamukuru c'uwo muhari, ruhuriza hamwe abahinguzi ba porogarama, abahinga mu vya cryptography, n'abavugira umwidegemvyo wo mu buhinga bwa none. Kuri urwo rutonde nyene ni ho Satoshi Nakamoto yahavuye asangiza ubwa mbere Bitcoin White Paper mu 2008.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Enligt libertariansk filosofi, vad är det främsta skälet till att motsätta sig både inkomstskatter och lagar om minimilön?
-answer: Båda utgör statliga kränkningar av den individuella friheten och frivilliga avtal mellan privata parter
+question: "Hur skiljer sig de konservativa och libertarianska positionerna om minimilönen i sitt resonemang, trots att båda förespråkar dess avskaffande?"
+answer: "Konservativa accepterar viss statlig inblandning i lönesättning om den inte hindrar konkurrenskraft, medan libertarianer ser minimilönen som ett moraliskt påtvingande på friheten att anställa och bedriva affärer"
 wrong_answers:
-  - Båda skapar ekonomisk ineffektivitet som främst drabbar stora företag och rika investerare
-  - Båda är exempel på politikområden som bör hanteras av lokala myndigheter snarare än av federala myndigheter
-  - Båda representerar föråldrade ekonomiska teorier som har visat sig vara ineffektiva av modern ekonomisk forskning
-explanation: |
-  Libertarianer motsätter sig konsekvent både inkomstskatter och lagar om minimilöner, baserat på deras grundläggande princip att statliga ingripanden kränker individens frihet och den fria marknadens mekanismer.
-  De ser inkomstskatter som "stöld" som inkräktar på äganderätten, och lagar om minimilöner som artificiella marknadsstörningar som kränker arbetsgivares och arbetstagares frihet att frivilligt förhandla fram avtal. Denna filosofiska konsekvens skiljer libertarianska ståndpunkter från andra politiska familjer som kan stödja en politik medan de motsätter sig den andra baserat på pragmatiska snarare än principiella skäl.
+  - "Konservativa motsätter sig minimilönen eftersom den skapar inflation, medan libertarianer motsätter sig den eftersom den ger fackföreningar för mycket makt"
+  - "Konservativa vill att löner ska fastställas av religiösa institutioner och lokalsamhällen, medan libertarianer vill att löner ska bestämmas av statligt godkända marknadsstudier"
+  - "Konservativa anser att minimilöner bör variera efter region, medan libertarianer anser att en enda fast lön bör gälla nationellt"
+explanation: >-
+  Båda förespråkar att minimilönen minskas eller avskaffas, men deras resonemang skiljer sig fundamentalt. Konservativa accepterar viss statlig inblandning i lönesättning samtidigt som de insisterar på att den ska förbli minimal och beroende av sammanhang, med fokus på konkurrenskraft. Libertarianer intar en starkare moralisk position: en minimilön är ett påtvingande på friheten att anställa och bedriva affärer. När libertarianer säger "marknaden" menar de kontraktet, fritt förhandlat mellan två parter utan statlig inblandning.
+reviewed: false

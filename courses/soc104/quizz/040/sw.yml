@@ -1,8 +1,9 @@
-question: Kulingana na mtazamo wa Friedman, tatizo kuu la kuhukumu sera za kijamii kulingana na nia zao zilizotajwa badala ya matokeo yao halisi ni lipi?
-answer: Sera zenye nia njema mara nyingi hutoa matokeo yasiyokusudiwa ambayo yanapingana na malengo yao ya awali, kama vile kuunda utegemezi au upotoshaji wa soko.
+question: "Programu za msaada wa kijamii zinazofadhiliwa na dola zinawezaje kuzalisha athari potovu, zikionyesha hatari ya kutegemea nia pekee?"
+answer: "Zinaweza kuunda utegemezi, kuondoa motisha ya kufanya kazi, na kuwa sawa na uporaji kwa kuwa pesa lazima kwanza zichukuliwe kutoka kwa wale waliozalisha utajiri"
 wrong_answers:
-  - Nia ni ngumu sana kupima kwa uwazi ikilinganishwa na matokeo, na kufanya tathmini ya sera isiwezekane kwa watafiti na wachambuzi
-  - Wanasiasa hutumia nia za uongo kimakusudi kuwapotosha wapiga kura, na kufanya iwe muhimu kuzingatia viashiria vya kiuchumi vinavyopimika pekee.
-  - Nia hubadilika mara nyingi sana wakati wa utekelezaji wa sera, huku matokeo yakibaki kuwa thabiti na kutoa mwongozo bora wa muda mrefu.
-explanation: |
-  Friedman anasema kwamba sera zinazochochewa na nia njema zinaweza kuwa na matokeo yasiyotarajiwa au yenye madhara ikiwa hazitegemei uchambuzi mkali wa tabia na motisha za kibinadamu. Maandishi hayo yanataja haswa kwamba programu zinazoitwa kuwasaidia maskini mara nyingi huwa na athari kinyume na kile ambacho wafadhili wao wenye nia njema hutamani, na kusababisha athari potofu kama vile utegemezi wa kiuchumi. Hii inaonyesha ni kwa nini fasili za kimuundo zinazozingatia sifa zinazoonekana na matokeo yanayopimika zinapaswa kuchukua nafasi ya kwanza kuliko fasili za makusudi kulingana na motisha zilizotangazwa.
+  - "Huhimiza akiba binafsi iliyopitiliza, hupunguza matumizi ya walaji, na husababisha deflation katika uchumi mpana"
+  - "Huimarisha biashara binafsi kwa kuhamisha gharama za kazi kwa serikali na kupunguza hitaji la mishahara ya ushindani"
+  - "Huondoa tofauti za kitabaka kwa ukamilifu kiasi kwamba uhamaji wa kijamii huwa usiohitajika na ubunifu hukwama"
+explanation: >-
+  Friedman anaonya kwamba nia za ukarimu zinaweza kuzalisha matokeo yenye madhara zinapopuuza uchambuzi makini wa motisha za binadamu. Programu za msaada zinazofadhiliwa na dola huhatarisha kuunda utegemezi, kutozalisha motisha ya kufanya kazi, na kutengeneza aina ya uporaji kwa kuwa fedha lazima kwanza zichukuliwe kutoka kwa wazalishaji wa utajiri. Matokeo yanayopimika kama kupunguza umaskini na ufanisi lazima yatangulie nia njema.
+reviewed: false

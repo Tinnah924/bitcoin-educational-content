@@ -1,9 +1,9 @@
-question: Friedman'ın bakış açısına göre, sosyal politikaları gerçek sonuçlarından ziyade belirtilen niyetlerine göre değerlendirmenin temel sorunu nedir?
-answer: İyi niyetli politikalar genellikle bağımlılık veya piyasa çarpıklıkları yaratmak gibi asıl amaçlarıyla çelişen istenmeyen sonuçlar doğurur
+question: "Yirminci yüzyılın başlarından itibaren sosyalistleri hangi temel bölünme ayırdı?"
+answer: "Şiddet yoluyla iktidarı ele geçirmeye çalışan devrimci sosyalistler ile demokratik seçimler yoluyla değişim arayan reformist sosyalistler"
 wrong_answers:
-  - Niyetlerin sonuçlara kıyasla objektif olarak ölçülmesi çok zordur, bu da araştırmacılar ve analistler için politika değerlendirmesini imkansız hale getirir
-  - Politikacılar seçmenleri yanıltmak için kasıtlı olarak yanlış niyetler kullanmakta, bu da sadece ölçülebilir ekonomik göstergelere odaklanmayı gerekli kılmaktadır
-  - Politika uygulaması sırasında niyetler çok sık değişirken, sonuçlar sabit kalır ve daha iyi uzun vadeli rehberlik sağlar
-explanation: |
-  Friedman, cömert niyetlerle motive edilen politikaların, insani değerlerin titiz bir analizine dayanmadığı takdirde öngörülemeyen veya zararlı sonuçlara yol açabileceğini savunmaktadır
-  davranış ve teşvikler. Metinde, yoksullara yardım olarak etiketlenen programların genellikle iyi niyetli sponsorlarının arzu ettiğinin tam tersi etkilere sahip olduğu ve ekonomik bağımlılık gibi sapkın etkiler yarattığı özellikle belirtilmektedir. Bu durum, gözlemlenebilir özelliklere ve ölçülebilir sonuçlara odaklanan yapısal tanımların, beyan edilen motivasyonlara dayalı kasıtlı tanımlardan neden öncelikli olması gerektiğini göstermektedir.
+  - "Sanayi işçilerine odaklanan kentsel sosyalistler ile tarımsal komünler örgütleyen kırsal sosyalistler"
+  - "Kendi ülkelerine öncelik veren milliyetçi sosyalistler ile küresel devrimi savunan enternasyonalist sosyalistler"
+  - "Teorik metinler yazan entelektüel sosyalistler ile işçi grevleri örgütleyen aktivist sosyalistler"
+explanation: >-
+  Yirminci yüzyılın başlarından itibaren temel bir bölünme, mülkiyet haklarına karşı çıkan ve kapitalist toplumu şiddet ya da proletarya diktatörlüğü yoluyla yıkmaya çalışan devrimci sosyalistleri; kapitalizmi geçici olarak kabul ederken demokratik seçimler ve vergilendirme yoluyla sosyal adalet peşinde koşan reformist sosyalistlerden ayırdı. Bu bölünme, sosyalist hareketlerin sonraki tüm tarihini şekillendirdi.
+reviewed: false

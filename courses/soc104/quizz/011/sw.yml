@@ -1,8 +1,9 @@
-question: Kulingana na mchoro wa kisiasa, mhimili wa y unawakilisha nini?
-answer: Uhuru wa kibinafsi na kijamii
+question: "Kategoria ya uhuru wa kiuchumi inajumuisha nini?"
+answer: "Unachofanya kama mzalishaji na mtumiaji: kununua, kuuza, kuzalisha, kufanya kazi, kuajiri, na kusimamia pesa zako"
 wrong_answers:
-  - Uhuru wa kiuchumi na kibiashara
-  - Kiwango cha uingiliaji kati wa serikali katika uchumi
-  - Mapendeleo ya kodi na udhibiti
-explanation: |
-  Mhimili wa y (wima) unawakilisha uhuru wa kibinafsi na kijamii, ambao unajumuisha uhuru wa kutembea, maoni na kujiamulia. Uhuru huu unahusu kile unachofanya katika mahusiano yako ya kibinafsi, maoni na imani zako, pamoja na kila kitu unachofanya kwa mwili na akili yako mwenyewe. Mhimili wa x (mlalo) unawakilisha uhuru wa kiuchumi. Tofauti hii inatuwezesha kuainisha masuala mengi ya kisiasa katika kategoria mbili za msingi.
+  - "Imani zako za kidini, mahusiano yako ya binafsi, na uhuru wa kujieleza"
+  - "Haki yako ya kupiga kura, kushiriki katika uchaguzi, na kujiunga na vyama vya kisiasa"
+  - "Uwezo wako wa kusafiri kwa uhuru, kuchagua makazi yako, na kuvuka mipaka ya kitaifa"
+explanation: >-
+  Uhuru wa kiuchumi unahusu unachofanya kama mzalishaji na mtumiaji: kile unachoweza kununua, kuuza, au kuzalisha; mahali unapofanya kazi; unayemwajiri; na unachofanya na pesa zako. Mahusiano ya binafsi, imani za kidini, na uhuru wa kusafiri huangukia chini ya kategoria ya uhuru wa binafsi, si ile ya kiuchumi.
+reviewed: false

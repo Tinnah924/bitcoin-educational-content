@@ -1,9 +1,9 @@
-question: Vilken är den grundläggande meningsskiljaktigheten mellan libertarianer och liberaler när det gäller ekonomisk organisation?
-answer: Libertarianer stöder privat egendom och fria marknader, medan libertaires motsätter sig kapitalism och förespråkar kollektivt ägande
+question: "Varför kritiserade Rothbard libertärernas syn på den mänskliga naturen, och vilket alternativ föreslog han?"
+answer: "Han anklagade dem för att ha en naiv syn på den 'ädle vilden' och hävdade att samhället måste använda privat egendom och goda incitament för att vägleda egenintresserat beteende"
 wrong_answers:
-  - Libertarianer förespråkar statlig reglering av marknader, medan libertaire förespråkar fullständig ekonomisk avreglering
-  - Libertarianer motsätter sig alla former av egendom, medan libertaire försvarar individuell äganderätt inom kapitalismen
-  - Libertarianer stöder statligt kontrollerade ekonomier, medan libertaires förespråkar privatisering av alla offentliga tjänster
-explanation: |
-  Den grundläggande ekonomiska klyftan beror på deras motsatta syn på egendom och kapitalism. Libertarianer anser att privat äganderätt och fri marknad
-  kapitalism är avgörande för individens frihet, medan libertaires (anarkistiska socialister) ser privat egendom som stöld och kapitalism som i sig förtryckande. Libertaires förespråkar istället alternativa ekonomiska modeller som mutualism, kollektivism eller libertariansk kommunism, som förkastar både statlig kontroll och privat ägande till förmån för kollektiva arrangemang.
+  - "Han berömde deras förståelse av mänskligt samarbete men hävdade att en minimal stat fortfarande var nödvändig för att verkställa kontrakt"
+  - "Han höll med om att människor är naturligt goda men insisterade på att endast fria marknader kunde kanalisera denna godhet till produktiv verksamhet"
+  - "Han avvisade deras betoning på individuella rättigheter och hävdade i stället att gemenskaper kollektivt borde definiera moraliska normer"
+explanation: >-
+  Rothbard kritiserade libertärerna för att anta en naiv, Rousseau-liknande syn på den mänskliga naturen som naturligt god. Han hävdade i stället att människor styrs av egenintresse, och att samhället måste organiseras så att goda incitament vägleder beteendet. Detta kräver att privat egendom erkänns och garanteras. Att avskaffa staten betyder inte att avskaffa dess funktioner; polis och rättsväsende bör hanteras av den fria marknaden genom konkurrens.
+reviewed: false

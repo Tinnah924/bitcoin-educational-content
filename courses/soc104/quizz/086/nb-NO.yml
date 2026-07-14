@@ -1,9 +1,9 @@
-question: Hvilket grunnleggende kjennetegn deler ifølge Mises' analyse venstrekollektivisme (kommunisme/sosialisme) og høyrekollektivisme (nazisme/fascisme), til tross for at de har ulike motiver?
-answer: Begge viser hat mot individuell frihet og rettferdiggjør vold for å underordne private interesser under kollektive enheter
+question: "Hvordan henger Karl Poppers skille mellom åpne og lukkede samfunn sammen med debatten om individualisme versus kollektivisme?"
+answer: "Det åpne samfunnet anerkjenner individets rett til å dømme selv gjennom personlige beslutninger, mens det lukkede samfunnet er kollektivistisk og hviler på stammentalitet og avvisning av kritisk frihet"
 wrong_answers:
-  - Begge prioriterer økonomisk likhet fremfor politisk frihet, samtidig som de opprettholder respekten for individuell samvittighet og frivillig organisering
-  - Begge søker å bevare tradisjonelle sosiale hierarkier gjennom demokratisk konsensus og samtidig beskytte minoriteters rettigheter og kulturelt mangfold
-  - Begge legger vekt på rasjonell debatt og kritisk tenkning for å oppnå kollektive mål, samtidig som maktfordeling og konstitusjonelle begrensninger opprettholdes
-explanation: |
-  Mises argumenterer for at til tross for at de fremstår som politisk motsatte, avviser både venstre- og høyrekollektivismen i bunn og grunn individuell autonomi og bruker tvang for å tjene sine respektive kollektive idoler.
-  Enten den kollektive enheten er nasjonen (høyre) eller proletariatet (venstre), underordner begge systemene den individuelle viljen under gruppeidentiteten ved hjelp av makt. De gale svarene antyder feilaktig at disse systemene bevarer individuelle rettigheter, demokratiske prosesser eller rasjonelle diskurser - egenskaper som Mises identifiserer som uforenlige med kollektivistisk ideologi, som i sin natur krever undertrykkelse av individuell dømmekraft til fordel for kollektiv autoritet.
+  - "Det åpne samfunnet er et samfunn som tillater frihandel over nasjonale grenser, mens det lukkede samfunnet innfører toll og proteksjonistisk økonomisk politikk"
+  - "Det åpne samfunnet styres av direkte demokrati der hver borger stemmer, mens det lukkede samfunnet styres av én enkelt arvelig monark"
+  - "Det åpne samfunnet offentliggjør alle offentlige dokumenter transparent, mens det lukkede samfunnet klassifiserer informasjon som statshemmeligheter"
+explanation: >-
+  Popper definerte det lukkede samfunnet som det magiske eller tribale samfunnet og det åpne samfunnet som et samfunn der individer konfronteres med personlige beslutninger. Det lukkede samfunnet er kollektivistisk, hviler på stammentalitet med en avvisning av kritisk frihet og idealiseringen av en statisk orden. Det åpne samfunnet gir forrang til fritt valg av verdier, overbevisninger og relasjoner, og legemliggjør individualistiske prinsipper direkte.
+reviewed: false

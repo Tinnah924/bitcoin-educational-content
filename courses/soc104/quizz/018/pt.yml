@@ -1,9 +1,9 @@
-question: De acordo com o modelo do diamante, qual é a principal diferença entre os estatistas de direita e os estatistas de esquerda?
-answer: Utilizam o poder do Estado para impor valores diferentes, mas ambos procuram controlar a sociedade
+question: "Sobre o que a direita quer legislar?"
+answer: "Moralidade e religião, impulsionada pelo desejo de preservar instituições tradicionais e hierarquias sociais"
 wrong_answers:
-  - Os estatistas de direita opõem-se a qualquer intervenção governamental, enquanto os de esquerda a apoiam
-  - Os estatistas de direita querem liberdade económica, enquanto os de esquerda querem liberdade pessoal
-  - Os estatistas de direita são liberais, enquanto os estatistas de esquerda são autoritários
-explanation: |
-  O capítulo explica que tanto os estatistas de direita como os de esquerda partilham o mesmo objetivo político: conquistar o poder para organizar a sociedade de acordo com a sua visão do mundo e impô-la a todos
-  a sua visão do mundo e impô-la a toda a gente. Esta é a própria definição de estatismo - usar a legislação para controlar e moldar a sociedade. A diferença reside nos seus valores: os estatistas de direita dão prioridade à moralidade pessoal e à tradição, enquanto os estatistas de esquerda se concentram na justiça social e na redistribuição. No entanto, ambos utilizam a força do Estado para impor as suas respectivas visões, o que os torna igualmente estatistas por natureza.
+  - "A economia e os mercados financeiros, impulsionada pelo desejo de reduzir a desigualdade e redistribuir riqueza"
+  - "A ciência e a educação, impulsionada pelo desejo de controlar o que é ensinado nas escolas públicas"
+  - "O comércio internacional e a diplomacia, impulsionada pelo desejo de expandir a influência nacional no exterior"
+explanation: >-
+  A direita dá prioridade à moralidade pessoal e aos valores tradicionais. Ela considera que a civilização é construída sobre certas instituições tradicionais e hierarquias sociais que devem ser preservadas, e quer legislar sobre moralidade e religião. A esquerda, não a direita, concentra-se em legislar sobre a economia. Ciência, educação e política comercial não são o foco principal descrito para a direita.
+reviewed: false

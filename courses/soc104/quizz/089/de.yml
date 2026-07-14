@@ -1,8 +1,9 @@
-question: Worin besteht nach der Sichtweise des österreichischen Ökonomen Ludwig von Mises zum methodologischen Individualismus die grundlegende Einschränkung, Handlungen kollektiven Einheiten zuzuschreiben?
-answer: Nur Individuen besitzen die Fähigkeit zu denken, zu denken und zu handeln, was kollektive Einheiten zu bloßen Abstraktionen ohne unabhängige Existenz oder Realität macht
+question: "Wie hängt Karl Poppers Unterscheidung zwischen offenen und geschlossenen Gesellschaften mit der Debatte Individualismus vs. Kollektivismus zusammen?"
+answer: "Die offene Gesellschaft erkennt das Recht des Individuums an, durch persönliche Entscheidungen selbst zu urteilen, während die geschlossene Gesellschaft kollektivistisch ist und auf Stammesmentalität sowie der Ablehnung kritischer Freiheit beruht"
 wrong_answers:
-  - Kollektive Einheiten können denken und handeln, aber ihre Entscheidungen sind aufgrund demokratischer Ineffizienzen immer schlechter als individuelle Entscheidungen
-  - Kollektive Gebilde besitzen auftauchende Eigenschaften, die über die individuellen Fähigkeiten hinausgehen, aber nicht die moralische Autorität haben, die persönliche Autonomie außer Kraft zu setzen
-  - Kollektive Gebilde können durch geballte Weisheit rationale Entscheidungen treffen, sollten aber durch verfassungsrechtliche Beschränkungen zum Schutz der individuellen Rechte begrenzt werden
-explanation: |
-  Der methodologische Individualismus von Mises besagt, dass "nur der Einzelne denkt, nur der Einzelne begründet, nur der Einzelne handelt" Das bedeutet, dass kollektive Einheiten keine Existenz oder Realität jenseits der Handlungen ihrer einzelnen Mitglieder haben. Die Gesellschaft hat keinen eigenen Willen und kein eigenes Denken - alle kollektiven Handlungen müssen durch ihre individuellen Komponenten erklärt werden. Die anderen Optionen gehen fälschlicherweise davon aus, dass kollektive Einheiten irgendeine Form von unabhängigem Denken oder Entscheidungsfähigkeit besitzen, was der grundlegenden Prämisse von Mises widerspricht, dass nur Individuen wirklich denken und handeln können.
+  - "Die offene Gesellschaft ist eine, die freien Handel über nationale Grenzen hinweg erlaubt, während die geschlossene Gesellschaft Zölle und protektionistische Wirtschaftspolitiken auferlegt"
+  - "Die offene Gesellschaft wird durch direkte Demokratie regiert, in der jeder Bürger abstimmt, während die geschlossene Gesellschaft von einem einzigen erblichen Monarchen beherrscht wird"
+  - "Die offene Gesellschaft veröffentlicht alle Regierungsdokumente transparent, während die geschlossene Gesellschaft Informationen als Staatsgeheimnisse klassifiziert"
+explanation: >-
+  Popper definierte die geschlossene Gesellschaft als die magische oder Stammesgesellschaft und die offene Gesellschaft als eine, in der Individuen mit persönlichen Entscheidungen konfrontiert sind. Die geschlossene Gesellschaft ist kollektivistisch, beruht auf Stammesmentalität mit einer Ablehnung kritischer Freiheit und der Idealisierung einer statischen Ordnung. Die offene Gesellschaft gibt der freien Wahl von Werten, Überzeugungen und Beziehungen Vorrang und verkörpert damit direkt individualistische Prinzipien.
+reviewed: false

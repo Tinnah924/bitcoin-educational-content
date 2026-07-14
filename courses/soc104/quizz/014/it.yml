@@ -1,9 +1,9 @@
-question: Cosa rappresenta il lato destro dell'asse economico (verso 100) nel diagramma politico bidimensionale?
-answer: Preferenza per la libertà economica con meno interventi statali, tasse più basse e mercati liberi
+question: "Quali figure emblematiche sono associate alla massima libertà economica nel diagramma di Nolan?"
+answer: "Margaret Thatcher, Ronald Reagan e Javier Milei"
 wrong_answers:
-  - Preferenza per un forte intervento dello Stato nell'economia, con tasse e regolamenti elevati
-  - Preferenza per le libertà personali individuali e la tolleranza sociale con restrizioni morali minime
-  - Preferenza per i valori tradizionali, l'ordine e la sicurezza con standard morali imposti dallo Stato
-explanation: |
-  Il lato destro dell'asse economico rappresenta la libertà economica, caratterizzata da un intervento minimo dello Stato nell'economia, da una riduzione delle normative e delle imposte,
-  e l'enfasi sui liberi mercati, la proprietà privata e la concorrenza. Questo contrasta con il lato sinistro, che favorisce un forte intervento statale nell'economia. Le altre opzioni descrivono la posizione economica di sinistra o le posizioni sull'asse delle libertà personali (in alto la libertà individuale, in basso l'ordine tradizionale).
+  - "Franklin D. Roosevelt, Jean Jaures e Bernie Sanders"
+  - "Nelson Mandela, Simone Veil e Noam Chomsky"
+  - "Vladimir Putin, Xi Jinping e Joseph de Maistre"
+explanation: >-
+  Thatcher, Reagan e Milei sono citati come figure emblematiche della massima libertà economica, favorevoli a meno intervento statale, meno regolamenti e tasse più basse. Roosevelt, Jaures e Sanders rappresentano l'estremo opposto, favorevole al controllo statale dell'economia. Mandela, Veil e Chomsky rappresentano la massima libertà personale. Putin, Xi Jinping e de Maistre rappresentano il massimo controllo statale sulla vita personale.
+reviewed: false

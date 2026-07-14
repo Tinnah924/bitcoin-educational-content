@@ -1,9 +1,9 @@
-question: Kulingana na uchambuzi wa Hannah Arendt, lengo kuu la elimu ya kidikteta ni lipi?
-answer: Kuharibu uwezo wa watu kuunda imani huru badala ya kuingiza imani maalum
+question: "Tamko la Mussolini la mwaka 1920 'Kila kitu ndani ya Dola, hakuna kitu nje ya Dola, hakuna kitu dhidi ya Dola' linafichua nini kuhusu utotalitari?"
+answer: "Hakuna tena utenganisho kati ya nyanja ya umma na ya binafsi, kwa kuwa dola huimeza jamii kikamilifu"
 wrong_answers:
-  - Kusambaza kwa ufanisi itikadi ya utawala na maadili ya kisiasa ya msingi kwa idadi ya watu
-  - Kuunda nguvu kazi yenye elimu ya juu inayoweza kusaidia malengo ya kiuchumi ya jimbo
-  - Kuondoa ujinga na kuanzisha upatikanaji wa fursa za msingi za elimu kwa wote
-explanation: |
-  Hannah Arendt alisema kwamba lengo la elimu ya kidikteta halikuwa kufundisha imani bali kuharibu kitivo cha kuunda imani zozote huru.
-  Hii inatofautisha mifumo ya kidikteta na tawala zingine za kidikteta ambazo zinataka tu kulazimisha itikadi zao. Kwa kuharibu uwezo wa kufikiri kwa kina, tawala za kidikteta huunda idadi ya watu isiyoweza kuchukua hatua za kisiasa, ambazo hutimiza lengo lao la kudhibiti kikamilifu jamii na kuondoa upinzani unaowezekana.
+  - "Dola inalenga nguvu za kijeshi pekee huku ikiiacha uchumi kwa biashara binafsi"
+  - "Raia wako huru kujipanga kwa faragha mradi hawakosoa serikali waziwazi"
+  - "Serikali hudhibiti shughuli za kisiasa pekee huku maisha ya kitamaduni na kidini yakibaki huru"
+explanation: >-
+  Tamko la Mussolini linakamata kiini cha utotalitari: ukamilifu. Kila kitu humezwa ndani ya dola, kumaanisha hakuna utenganisho kati ya nyanja ya umma na ya binafsi. Jamii hupoteza kila aina ya uhuru, hadi shughuli za kawaida kabisa kama kufungua klabu ya michezo. Hili linakwenda mbali zaidi ya kudhibiti tu nyanja za kijeshi, kisiasa, au kiuchumi.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Molinarin analyysin mukaan teoksessa "Les Soirées de la rue Saint Lazare" (suomeksi "Iltaisin Saint Lazaruksen kadulla") konservatiivien ja sosialistien välillä on jokin perustavanlaatuinen samankaltaisuus, joka erottaa heidät libertaristeista?
-answer: Sekä konservatiivit että sosialistit pyrkivät valtiovallan avulla määräämään oman näkemyksensä yhteiskunnasta, vaikka heillä on erilaisia näkemyksiä
+question: "Miten libertaarinen vapauskäsitys eroaa sentristisestä käsityksestä?"
+answer: "Libertaarit käsittelevät vapautta ehdottomana aksioomana, kun taas sentristit puolustavat vapauksia opportunistisesti kontekstin ja tehokkuuden mukaan"
 wrong_answers:
-  - Sekä konservatiivit että sosialistit hylkäävät yksilön omistusoikeudet ja suosivat resurssien yhteisomistusta
-  - Sekä konservatiivit että sosialistit pitävät vapautta ehdottomana periaatteena, josta ei saa koskaan tinkiä tai jota ei saa rajoittaa
-  - Sekä konservatiivit että sosialistit kannattavat mahdollisimman vähäistä valtion väliintuloa ja vastustavat kaikenlaista sosiaalista suunnittelua
-explanation: |
-  Molinarin keskeinen oivallus oli, että näennäisestä vastakkainasettelustaan huolimatta konservatiiveilla ja sosialisteilla on yhteinen metodologia: valtiovallan käyttäminen omien yhteiskunnallisten näkemystensä toteuttamiseen. Konservatiivit haluavat pakottaa ihmiset säilyttämään perinteiset juuret ja rakenteet, kun taas sosialistit haluavat pakottaa ihmiset hylkäämään ne, mutta molemmat turvautuvat valtion pakkokeinoihin. Tämä erottaa heidät libertaristeista, jotka vastustavat valtiovallan käyttöä minkään yhteiskunnallisen näkemyksen tyrkyttämiseen ja kannattavat sen sijaan vapaaehtoisia järjestelyjä, jotka perustuvat yksilön valintoihin ja omistusoikeuksiin.
+  - "Libertaarit sallivat valtion suojella vapautta valikoivasti, kun taas sentristit torjuvat kaiken valtion osallistumisen yksilön oikeuksien suojelemiseen"
+  - "Libertaarit keskittyvät vapaudessa vain taloudellisiin asioihin, kun taas sentristit soveltavat vapautta laajasti sosiaalisilla ja kulttuurisilla alueilla"
+  - "Libertaareilla ja sentristeillä on sama näkemys vapaudesta, mutta he ovat eri mieltä sen valvomiseen tarvittavan hallinnon koosta"
+explanation: >-
+  Libertaarit määrittelevät vapauden yleiseksi, ehdottomaksi periaatteeksi, joka toimii aksioomana. Sentristit sitä vastoin puolustavat tiettyjä vapauksia opportunistisesti ja kontekstuaalisesti soveltamatta mitään yleistä periaatetta. Sentristinen lähestymistapa paljastaa välineellisen vapauskäsityksen, joka alistetaan aina pragmaattisille tavoitteille, kuten tehokkuudelle, minkä libertaarit pohjimmiltaan torjuvat.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Co podle politického diagramu představuje osa y?
-answer: Osobní a společenské svobody
+question: "Které emblematické osobnosti jsou v Nolanově diagramu spojeny s maximální ekonomickou svobodou?"
+answer: "Margaret Thatcher, Ronald Reagan a Javier Milei"
 wrong_answers:
-  - Hospodářské a obchodní svobody
-  - Míra vládních zásahů do ekonomiky
-  - Daňové a regulační preference
-explanation: |
-  Osa y (svislá) představuje osobní a společenské svobody, mezi něž patří svoboda pohybu, názorů a sebeurčení. Tyto svobody se týkají toho, co děláte ve svých soukromých vztazích, se svými názory a přesvědčením, a také všeho, co děláte s vlastním tělem a myslí. Osa x (horizontální) představuje ekonomické svobody. Toto rozlišení nám umožňuje zařadit většinu politických otázek do dvou základních kategorií.
+  - "Franklin D. Roosevelt, Jean Jaurès a Bernie Sanders"
+  - "Nelson Mandela, Simone Veil a Noam Chomsky"
+  - "Vladimir Putin, Xi Jinping a Joseph de Maistre"
+explanation: >-
+  Thatcher, Reagan a Milei jsou uváděni jako emblematické osobnosti maximální ekonomické svobody, protože upřednostňují méně státních zásahů, méně regulací a nižší daně. Roosevelt, Jaurès a Sanders představují opačný pól, který upřednostňuje státní kontrolu ekonomiky. Mandela, Veil a Chomsky představují maximální osobní svobodu. Putin, Xi Jinping a de Maistre představují maximální státní kontrolu osobního života.
+reviewed: false

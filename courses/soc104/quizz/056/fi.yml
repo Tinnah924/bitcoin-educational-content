@@ -1,9 +1,9 @@
-question: Mikä on John Rawlsin "päällekkäisen konsensuksen" käsitteen ydinperiaate keskustalaisessa poliittisessa filosofiassa?
-answer: Kansalaiset, joilla on erilaiset perususkomukset, voivat sopia yhteisistä poliittisista oikeudenmukaisuusperiaatteista omasta näkökulmastaan
+question: "Mikä on tärkeä ero yritysmyönteisyyden ja markkinamyönteisyyden välillä?"
+answer: "Yritysmyönteisyys tarkoittaa suuryritysten ja valtion liiton suosimista, kun taas markkinamyönteisyys tarkoittaa vapaan kilpailun tukemista ilman valtion suosintaa"
 wrong_answers:
-  - Poliittisten puolueiden on muodostettava koalitiohallituksia varmistaakseen, että kaikki ideologiset kannat ovat tasapuolisesti edustettuina
-  - Talouspolitiikassa tulisi vuorotella liberaalin ja sosialistisen lähestymistavan välillä demokraattisen tasapainon säilyttämiseksi
-  - Uskonnolliset ja filosofiset opit on yhdistettävä yhdeksi kattavaksi maailmankuvaksi yhteiskuntaa varten
-explanation: |
-  Rawlsin päällekkäinen konsensus osoittaa, että ihmiset, joilla on keskenään yhteensopimattomia uskonnollisia, filosofisia tai moraalisia oppeja, voivat silti lähentyä yhteisiä poliittisen oikeudenmukaisuuden periaatteita, jotka kukin hyväksyy omasta uskomusjärjestelmästään käsin.
-  Tämä käsite ilmentää sentrististä filosofiaa osoittamalla, miten erilaiset näkökannat voivat elää rinnakkain edellyttämättä ideologista yhdenmukaisuutta. Väärissä vastauksissa tämä esitetään virheellisesti siten, että se edellyttää hallituskoalitioita, politiikan vaihtelua tai yhtenäisiä maailmankatsomuksia, mikä on ristiriidassa Rawlsin painotuksen kanssa, jonka mukaan on säilytettävä oppien moninaisuus ja löydettävä yhteinen poliittinen perusta.
+  - "Yritysmyönteisyys tarkoittaa pienyritysten tukemista, kun taas markkinamyönteisyys tarkoittaa monikansallisten yhtiöiden tukemista"
+  - "Yritysmyönteisyys tarkoittaa kaiken sääntelyn vastustamista, kun taas markkinamyönteisyys tarkoittaa maltillisen sääntelyn hyväksymistä"
+  - "Yritysmyönteisyys keskittyy kotimaiseen teollisuuteen, kun taas markkinamyönteisyys keskittyy kansainväliseen kauppaan"
+explanation: >-
+  Keskustalaiset ovat yleensä yritysmyönteisiä, mikä tarkoittaa, että he suosivat eräänlaista suuryritysten ja valtion liittoa; tämä eroaa markkinamyönteisyydestä. Markkinamyönteisyys tukee vapaata kilpailua ilman valtion suosintaa tai yritysten protektionismia. Tämä ero on ratkaiseva, koska yritysmyönteinen politiikka voi luoda monopoleja ja sääntelyyn perustuvia suojauksia, jotka tosiasiassa heikentävät vapaiden markkinoiden kilpailua.
+reviewed: false

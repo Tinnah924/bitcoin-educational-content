@@ -1,9 +1,9 @@
-question: Según la teoría económica keynesiana, ¿cuál es el papel principal de la intervención gubernamental en la economía?
-answer: Utilizar las políticas fiscal y monetaria para estabilizar la economía estimulando la demanda durante las recesiones y enfriándola durante el recalentamiento
+question: "¿Qué paradoja oculta reside en el pragmatismo centrista?"
+answer: "El propio pragmatismo descansa en una forma de dogmatismo, a saber, la convicción no expresada de que solo los expertos son competentes para dirigir la sociedad"
 wrong_answers:
-  - Eliminar por completo los mecanismos de libre mercado y sustituirlos por una planificación estatal centralizada de todos los sectores económicos
-  - Mantener políticas de laissez-faire absoluto y permitir que los mercados se autorregulen sin interferencia gubernamental alguna
-  - Centrarse exclusivamente en reducir el gasto público y los impuestos, minimizando al mismo tiempo todas las formas de participación del sector público
-explanation: |
-  La teoría keynesiana representa un enfoque centrista de "tercera vía" que rechaza tanto el capitalismo de laissez-faire puro como el control estatal total.
-  Keynes aboga por la intervención activa del Estado a través de políticas fiscales (gasto e impuestos) y monetarias (tipos de interés) para gestionar los ciclos económicos. Este enfoque busca el equilibrio entre la libertad de mercado y la orientación estatal, estimulando la demanda agregada durante las recesiones y conteniéndola durante el recalentamiento económico, encarnando la filosofía centrista de la moderación pragmática.
+  - "Los centristas afirman ser moderados, pero se alinean consistentemente con partidos de izquierda en gobiernos de coalición"
+  - "Las políticas centristas parecen equilibradas, pero siempre favorecen el crecimiento económico por encima de la protección ambiental"
+  - "Los centristas rechazan la ideología, pero adoptan principios rígidos de libre mercado al tomar decisiones económicas"
+explanation: >-
+  La paradoja del pragmatismo centrista es que afirma rechazar la ideología en favor de la pericia racional, pero esta misma afirmación descansa en un dogma invisible y no expresado: que solo los tecnócratas son capaces de tomar las decisiones correctas. Esta convicción de que solo los expertos deben dirigir la sociedad es en sí misma un compromiso ideológico, aunque los centristas no la reconozcan como tal.
+reviewed: false

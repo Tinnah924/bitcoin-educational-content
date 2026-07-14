@@ -1,9 +1,9 @@
-question: Według tekstu, jaka podstawowa zasada odróżnia koncepcję społeczeństwa otwartego Karla Poppera od społeczeństwa zamkniętego?
-answer: Społeczeństwa otwarte umożliwiają jednostkom dokonywanie krytycznego osądu i ponoszenie osobistej odpowiedzialności, podczas gdy społeczeństwa zamknięte odrzucają indywidualną wolność krytyki i wymiany zewnętrznej
+question: "W jaki sposób trzy zasadnicze funkcje wolnego rynku, opisane przez libertarian, razem tworzą zarazem efektywny i etyczny system organizacji społecznej?"
+answer: "Ceny dostarczają kompasu dla decyzji, rynek ujawnia autentyczne preferencje poprzez podaż i popyt, a wolna wymiana pozwala jednostkom określać własne sprawy zgodnie z osobistymi wartościami, łącząc efektywność informacyjną z autonomią moralną"
 wrong_answers:
-  - Społeczeństwa otwarte stawiają na pierwszym miejscu wolność gospodarczą i mechanizmy rynkowe, podczas gdy społeczeństwa zamknięte kładą nacisk na kontrolę państwa nad produkcją i dystrybucją
-  - Społeczeństwa otwarte opierają się na demokratycznych systemach głosowania i rządach większości, podczas gdy społeczeństwa zamknięte polegają na autorytarnym przywództwie i hierarchicznych strukturach dowodzenia
-  - Społeczeństwa otwarte promują postęp technologiczny i naukowy, podczas gdy społeczeństwa zamknięte utrzymują tradycyjne metody i opierają się innowacjom
-explanation: |
-  Rozróżnienie Poppera koncentruje się na fundamentalnym podejściu do indywidualnego krytycznego myślenia i osobistego podejmowania decyzji.
-  Społeczeństwa otwarte charakteryzują się zdolnością jednostek do krytycznego osądu i osobistej odpowiedzialności, przyjmując zmiany, różnorodność i wymianę zewnętrzną. Społeczeństwa zamknięte, przeciwnie, odrzucają indywidualną krytyczną wolność, obawiają się zmian i utrzymują statyczną, plemienną mentalność, która tłumi indywidualną odpowiedzialność na rzecz zbiorowego konformizmu i tradycyjnego porządku.
+  - "Rynek maksymalizuje całkowite bogactwo, zapobiega monopolom przez naturalną konkurencję i zapewnia równą dystrybucję zasobów, łącząc produktywność ze sprawiedliwością społeczną"
+  - "Wolne rynki ograniczają wydatki rządowe, pobudzają innowacje technologiczne i tworzą możliwości zatrudnienia, łącząc odpowiedzialność fiskalną ze wzrostem gospodarczym"
+  - "Rynki obniżają ceny konsumenckie, zwiększają jakość produktów przez konkurencję i rozszerzają handel międzynarodowy, łącząc krajowy dobrobyt z globalną współpracą"
+explanation: >-
+  Libertariańska obrona wolnego rynku opiera się na trzech połączonych funkcjach. Po pierwsze, ceny służą jako wiarygodne wskaźniki kierujące decyzjami gospodarczymi i społecznymi (kompas). Po drugie, rynek ujawnia autentyczne indywidualne preferencje poprzez podaż i popyt. Po trzecie, wolna wymiana pozwala aktorom określać własne sprawy zgodnie z osobistymi wartościami. Hayek pokazał, że wolne rynki koordynują rozproszone informacje lepiej niż centralne planowanie (efektywność), podczas gdy wzajemna zgoda szanuje ludzką godność bardziej niż przymus (sprawiedliwość).
+reviewed: false

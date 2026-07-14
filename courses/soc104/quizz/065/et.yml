@@ -1,8 +1,9 @@
-question: Mis on Hannah Arendti analüüsi kohaselt totalitaarsete haridussüsteemide peamine eesmärk?
-answer: Hävitada inimese võimet kujundada iseseisvaid veendumusi ja tõekspidamisi
+question: "Mis on konservatiivne seisukoht immigratsiooni suhtes?"
+answer: "Riigil on suveräänne õigus kontrollida oma piire, et kaitsta riiklikku julgeolekut ja kultuurilist identiteeti"
 wrong_answers:
-  - Kodanike indoktrineerimine režiimi konkreetse poliitilise ideoloogia ja väärtustega
-  - Luua kõrgelt haritud tööjõud, mis on võimeline edendama riigi majanduslikke eesmärke
-  - Likvideerida kirjaoskamatust ja edendada teaduslikke teadmisi, mis teenivad riiki
-explanation: |
-  Hannah Arendt väitis, et totalitaarse kasvatuse eesmärk ei olnud kunagi konkreetsete veendumuste juurutamine, vaid pigem inimeste võime hävitada igasugune iseseisev uskumus. See eristab totalitarismi pelgalt autoritaarsusest või propagandast - see püüab kõrvaldada iseseisva mõtlemise kognitiivse võime. Teised võimalused esindavad tavapärasemat poliitilise indoktrinatsiooni või riigi poolt juhitud hariduse vormi, kuid jätavad tähelepanuta Arendti olulise arusaama, et totalitarismi eesmärk on inimese tegevuse ja iseseisva otsustusvõime täielik eitamine, mitte ainult teatud ideoloogiate edendamine.
+  - "Piirid peaksid olema tingimusteta avatud, sest diskrimineerivad piirangud rikuvad inimõigusi"
+  - "Immigratsiooni peaks määrama turunõudlus, kus kodanikud otsustavad oma suhted välismaalastega lepinguliselt"
+  - "Immigratsioonipoliitika peaks tasakaalustama majanduslikke vajadusi eduka integratsiooniga ekspertide hinnangu põhjal"
+explanation: >-
+  Konservatiivid leiavad, et kord, identiteet ja riiklik suveräänsus peavad olema tähtsamad kui välismaalaste või pagulaste piiramatu vastuvõtmine. Piirid ja selgelt määratletud elanikkond on osa tsiviliseeritud väärtustest. Valed vastused esindavad sotsialistlikku seisukohta (avatud piirid kui inimõigused), libertaarset seisukohta (turupõhine immigratsioon) ja tsentristlikku seisukohta (tasakaalustatud, ekspertidest juhitud lähenemine).
+reviewed: false

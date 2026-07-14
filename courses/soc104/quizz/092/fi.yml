@@ -1,9 +1,9 @@
-question: Satoshi Nakamoton filosofian mukaan minkä perinteisten valuuttojen perusongelman Bitcoin yrittää ratkaista?
-answer: Liiallinen luottamus keskitettyihin instituutioihin, jotka historiallisesti rikkovat tätä luottamusta valuutan arvon alentamisella
+question: "Miksi rahainflaatiota kuvataan piiloverona, joka määrätään ilman kansalaisten suostumusta?"
+answer: "Koska valtion rahanluonti devalvoi valuuttaa niin, että ihmiset voivat ostaa samalla määrällä vähemmän, mutta useimmat eivät ymmärrä hintojen nousun heijastavan valtion politiikkaa eikä luonnollisia markkinavoimia"
 wrong_answers:
-  - Perinteisten maksujenkäsittelyjärjestelmien tekninen tehottomuus, joka aiheuttaa viivästyksiä kansainvälisissä maksutapahtumissa
-  - Fyysisen valuutan tuotannon ympäristövaikutukset ja perinteisen pankki-infrastruktuurin hiilijalanjälki
-  - Nykyisen rahapolitiikan matemaattinen monimutkaisuus, jonka vuoksi kansalaisten on vaikea ymmärtää taloudellisia päätöksiä
-explanation: |
-  Satoshi Nakamoto totesi nimenomaisesti, että "tavanomaisen valuutan perusongelma on luottamus, jota tarvitaan, jotta se toimisi", ja että "fiat-valuuttojen historia on täynnä luottamuksen rikkomisia".
-  Tämä lainaus paljastaa Bitcoin:n keskeisen tarkoituksen: poistaa tarve luottaa siihen, että keskuspankit eivät heikennä valuutan arvoa. Genesis-lohkon viittaus pankkien pelastamiseen vahvistaa tätä institutionaalisten epäonnistumisten kritiikkiä. Väärissä vastauksissa keskitytään teknisiin, ympäristöön liittyviin tai monimutkaisuuteen liittyviin kysymyksiin, jotka voivat olla perusteltuja huolenaiheita, mutta jotka eivät olleet Bitcoin:n perustavanlaatuinen filosofinen motivaatio, kuten sen luoja on ilmaissut.
+  - "Koska keskuspankit veloittavat salaa maksuja jokaisesta pankkijärjestelmän kautta käsitellystä maksutapahtumasta paljastamatta niitä tilinomistajille"
+  - "Koska valtiot painavat rahaa ja jakavat sitä vain varakkaille yksilöille samalla kun ne verottavat köyhiä korkeammilla myyntiveroilla välttämättömyyshyödykkeistä"
+  - "Koska inflaation aiheuttavat yksityiset yritykset, jotka nostavat hintoja kasvattaakseen voittoja, mikä toimii epävirallisena verona kuluttajille"
+explanation: >-
+  Rahan syöttäminen järjestelmään näkyy valuutan devalvoitumisena, jossa samalla määrällä saa vähemmän, koska uusi raha ei heijasta aitoa talouskasvua. Useimmat ihmiset eivät näe, että valtion politiikka johti hintojen nousuun, joka on yksinkertaisesti valuutan devalvoitumisen heijastuma. Tämä merkitsee laillista varkautta ja institutionaalistettua riistoa, joka köyhdyttää keskiluokkaa samalla kun varakkaat saavat uutta rahaa haltuunsa spekulatiivisten varojen kautta.
+reviewed: false

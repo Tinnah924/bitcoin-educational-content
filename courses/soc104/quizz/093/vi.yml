@@ -1,9 +1,9 @@
-question: Theo triết lý của Satoshi Nakamoto, Bitcoin hướng đến giải quyết vấn đề cơ bản nào của các loại tiền tệ truyền thống?
-answer: Sự tin tưởng thái quá đặt vào các thể chế tập trung, những thể chế vốn đã vi phạm lòng tin đó trong quá khứ thông qua việc phá giá tiền tệ.
+question: "Vấn đề căn bản của các đồng tiền pháp định mà Satoshi Nakamoto đã nhận diện là gì?"
+answer: "Chúng đòi hỏi phải tin rằng ngân hàng trung ương sẽ không làm mất giá đồng tiền, nhưng lịch sử các đồng tiền pháp định đầy rẫy những lần niềm tin này bị vi phạm"
 wrong_answers:
-  - Sự thiếu hiệu quả về mặt kỹ thuật của các hệ thống thanh toán truyền thống, xử lý giao dịch quá chậm so với nhu cầu thương mại toàn cầu.
-  - Tác động môi trường của việc sản xuất tiền mặt và lượng khí thải carbon của cơ sở hạ tầng ngân hàng
-  - Những hạn chế về mặt địa lý của các loại tiền tệ quốc gia cản trở sự thông suốt của thương mại và giao dịch quốc tế.
-explanation: |
-  Satoshi đã nêu rõ rằng "vấn đề cốt lõi của tiền tệ truyền thống là tất cả sự tin tưởng cần thiết để nó hoạt động" và lưu ý rằng "lịch sử của tiền tệ pháp định đầy rẫy những vi phạm lòng tin đó."
-  Bitcoin được thiết kế như một hệ thống không cần sự tin tưởng để loại bỏ sự phụ thuộc vào các ngân hàng trung ương, những ngân hàng đã từng làm giảm giá trị tiền tệ. Các lựa chọn khác, mặc dù có thể là những mối lo ngại chính đáng, nhưng không phải là động lực triết học nền tảng đằng sau sự ra đời của Bitcoin như được người sáng lập trình bày.
+  - "Chúng quá khó sử dụng cho các giao dịch hằng ngày vì tiền mặt vật lý nhanh hỏng và tốn kém để sản xuất"
+  - "Chúng không thể được chuyển ra quốc tế vì mỗi quốc gia có các tiêu chuẩn và quy định tiền tệ không tương thích"
+  - "Chúng được bảo chứng bằng dự trữ vàng không đủ để trang trải tổng cung tiền đang lưu thông"
+explanation: >-
+  Satoshi Nakamoto đã tuyên bố rằng vấn đề căn bản của các đồng tiền thông thường là niềm tin cần thiết để chúng vận hành. Tiền pháp định không được bảo chứng bằng một hàng hóa mà hoàn toàn dựa trên thẩm quyền định chế. Khi một định chế nắm quyền kiểm soát toàn bộ đối với tiền, cám dỗ lạm dụng là quá mạnh, và lịch sử đã nhiều lần cho thấy điều này thông qua việc làm mất giá tiền tệ.
+reviewed: false

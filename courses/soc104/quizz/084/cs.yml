@@ -1,8 +1,9 @@
-question: Proč je podle Hayekovy teorie rozptýlených znalostí centrální plánování jako ekonomický koordinační mechanismus zásadně chybné?
-answer: Znalosti existují pouze jako rozptýlené fragmenty mezi jednotlivci, což centrálním plánovačům znemožňuje přístup ke kompletním informacím potřebným pro účinnou koordinaci
+question: "Jaké je klíčové rozlišení mezi tím být pro-business a být pro-market?"
+answer: "Zastánci pro-business usilují o státní zásah na ochranu konkrétních firem před selháním, zatímco zastánci pro-market podporují deregulaci a dovolují firmám selhat, aby se trh mohl přirozeně reorganizovat"
 wrong_answers:
-  - Centrální plánovači nemají morální autoritu rozhodovat za ostatní, i když mají úplné informace o trhu
-  - Politická korupce a vlastní zájmy brání centrálním plánovačům realizovat ekonomicky optimální řešení, přestože mají přístup ke všem potřebným údajům
-  - Centrální plánování vyžaduje příliš velký výpočetní výkon a technologie, které v Hayekově době nebyly k dispozici, ale dnes by mohly fungovat
-explanation: |
-  Hayekova kritika centrálního plánování je epistemologická, nikoli morální nebo technologická. Tvrdil, že znalosti nikdy neexistují v koncentrované podobě, ale pouze jako "rozptýlené fragmenty neúplných a často protichůdných znalostí, kterými disponují všichni odlišní jedinci" Tento problém rozptýlených znalostí znamená, že centrální plánovači nemají přístup k subjektivním nákladům, přínosům a místním preferencím, které mají pouze jednotlivci, což znemožňuje efektivní ekonomickou koordinaci bez ohledu na jejich záměry nebo výpočetní schopnosti.
+  - "Zastánci pro-business se zaměřují na velké korporace, zatímco zastánci pro-market se zaměřují výhradně na podporu malých podniků a startupů"
+  - "Pro-business je levicová pozice, která upřednostňuje zaměstnanecká družstva, zatímco pro-market je pravicová pozice, která upřednostňuje soukromé vlastnictví"
+  - "Zastánci pro-business odmítají veškerou konkurenci, zatímco zastánci pro-market podporují vládou regulovanou konkurenci mezi schválenými podniky"
+explanation: >-
+  Pozice pro-business chápe konkurenci jako nástroj vládnutí získaný prostřednictvím regulací a ospravedlňuje dotace a záchranné balíčky, aby zabránila ztrátám pracovních míst. V pohledu pro-business je trh křehký a potřebuje státní záchranu. Zastánci pro-market vidí konkurenci jako přirozený výsledek svobodného podnikání, což implikuje deregulaci a umožnění podnikům selhat, protože selhání umožňuje trhu se přirozeně reorganizovat a otevírá pole schopnějším aktérům.
+reviewed: false

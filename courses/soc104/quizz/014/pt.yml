@@ -1,9 +1,9 @@
-question: O que representa o lado direito do eixo económico (em direção a 100) no diagrama político bidimensional?
-answer: Preferência pela liberdade económica com menos intervenção do Estado, impostos mais baixos e mercados livres
+question: "Por que o modelo bidimensional argumenta que a maioria das questões políticas pode ser dividida em categorias econômicas e pessoais?"
+answer: "Porque questões econômicas dizem respeito ao que você faz como produtor e consumidor, enquanto questões pessoais dizem respeito às suas relações privadas, crenças e autonomia corporal"
 wrong_answers:
-  - Preferência por uma forte intervenção do Estado na economia, com impostos e regulamentação elevados
-  - Preferência pelas liberdades pessoais individuais e pela tolerância social com restrições morais mínimas
-  - Preferência por valores tradicionais, ordem e segurança com normas morais impostas pelo Estado
-explanation: |
-  O lado direito do eixo económico representa a liberdade económica, caracterizada por uma intervenção mínima do Estado na economia, menos regulamentação e impostos,
-  e ênfase nos mercados livres, na propriedade privada e na concorrência. Isto contrasta com o lado esquerdo, que favorece uma forte intervenção económica do Estado. As outras opções descrevem a posição económica da esquerda ou as posições no eixo das liberdades pessoais (em cima para a liberdade individual, em baixo para a ordem tradicional).
+  - "Porque todos os debates políticos acabam se reduzindo a discordâncias sobre níveis de tributação e práticas religiosas"
+  - "Porque historicamente os governos regulam apenas duas coisas: o mercado e as forças armadas"
+  - "Porque os filósofos políticos sempre separaram preocupações materiais de preocupações espirituais desde a Antiguidade"
+explanation: >-
+  O modelo bidimensional baseia-se na ideia de que as questões políticas se dividem em duas categorias amplas. As liberdades econômicas abrangem produção, consumo, comércio, emprego e gestão do dinheiro. As liberdades pessoais abrangem relações privadas, opiniões, crenças e escolhas sobre seu próprio corpo e mente. Essa separação permite um mapeamento muito mais nuançado das posições políticas do que um único eixo esquerda-direita.
+reviewed: false

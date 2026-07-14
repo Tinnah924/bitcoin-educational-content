@@ -1,8 +1,9 @@
-question: Hannah Arendt'in analizine göre, totaliter eğitim sistemlerinin temel amacı nedir?
-answer: İnsanların bağımsız kanaatler ve inançlar oluşturma kapasitesini yok etmek
+question: "Göç konusunda muhafazakâr tutum nedir?"
+answer: "Devlet, ulusal güvenliği ve kültürel kimliği korumak için sınırlarını kontrol etme egemen hakkına sahiptir"
 wrong_answers:
-  - Vatandaşlara rejimin kendine özgü siyasi ideolojisini ve değerlerini aşılamak
-  - Devletin ekonomik hedeflerini ilerletebilecek yüksek eğitimli bir işgücü oluşturmak
-  - Cehaleti ortadan kaldırmak ve devlete hizmet eden bilimsel bilgiyi teşvik etmek
-explanation: |
-  Hannah Arendt, totaliter eğitimin amacının hiçbir zaman belirli inançları aşılamak olmadığını, aksine insanların herhangi bir bağımsız inanç oluşturma yeteneklerini yok etmek olduğunu savunmuştur. Bu, totalitarizmi salt otoriterlikten veya propagandadan ayırır - bağımsız düşünce için bilişsel kapasiteyi ortadan kaldırmayı amaçlar. Diğer seçenekler siyasi endoktrinasyonun veya devlet tarafından yönlendirilen eğitimin daha geleneksel biçimlerini temsil eder, ancak Arendt'in totalitarizmin sadece belirli ideolojilerin teşvik edilmesini değil, insan eylemliliğinin ve bağımsız muhakemenin tamamen yadsınmasını amaçladığı yönündeki önemli kavrayışını gözden kaçırır.
+  - "Sınırlar koşulsuz olarak açık olmalıdır çünkü ayrımcı kısıtlamalar insan haklarını ihlal eder"
+  - "Göç, piyasa talebine göre belirlenmeli; yurttaşlar yabancılarla ilişkilerine sözleşmesel olarak karar vermelidir"
+  - "Göç politikası, ekonomik ihtiyaçları uzman değerlendirmesine dayalı başarılı entegrasyonla dengelemelidir"
+explanation: >-
+  Muhafazakârlar, düzenin, kimliğin ve ulusal egemenliğin yabancıların veya mültecilerin sınırsız kabulüne göre öncelikli olması gerektiğini savunur. Sınırlar ve iyi tanımlanmış bir nüfus, medeni değerlerin parçasıdır. Yanlış cevaplar sosyalist tutumu (insan hakkı olarak açık sınırlar), liberteryen tutumu (piyasa temelli göç) ve merkezci tutumu (uzmanlarca yönlendirilen dengeli yaklaşım) temsil eder.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Mikä on libertaristien ja libertaarien välinen perustavanlaatuinen ero yhteiskunnan ja talouden järjestämisen suhteen?
-answer: Libertaristit puolustavat yksityisomaisuutta ja vapaita markkinoita, kun taas libertaarit vastustavat kapitalismia ja edistävät yhteisomistusta
+question: "Miten libertaarit näkevät yksityisomaisuuden ja vapauden välisen suhteen?"
+answer: "Yksityisomaisuus on luonnollinen oikeus, joka edeltää lakia ja valtiota, ja se on vapauden varsinainen perusta"
 wrong_answers:
-  - Libertaristit kannattavat valtion puuttumista talouteen, kun taas libertaarit kannattavat talouden täydellistä sääntelyn purkamista
-  - Libertaristit edistävät väkivaltaista vallankumousta valtiota vastaan, kun taas libertaarit pyrkivät rauhanomaiseen rinnakkaiseloon hallituksen kanssa
-  - Libertaristit hylkäävät kaikenlaisen yksilön omistuksen, kun taas libertaarit puolustavat voimakkaasti henkilökohtaisia omistusoikeuksia
-explanation: |
-  Keskeinen ero on niiden vastakkaiset näkemykset omaisuudesta ja talousjärjestelmistä. Libertaristit uskovat, että yksityisomistus on välttämätöntä, jotta
-  ja kannattavat markkinakapitalismia, kun taas libertaarit (anarkistit) pitävät yksityisomaisuutta varkautena ja kapitalismia ahdistavana ja suosivat sen sijaan yhteisomistusta, osuuskuntia ja vaihtoehtoisia talousmalleja, kuten mutualismia tai libertaarista kommunismia. Tämä omistusoikeuksia koskeva perustavanlaatuinen erimielisyys muokkaa heidän filosofioidensa kaikkia muita näkökohtia.
+  - "Yksityisomaisuus on valtion luoma yhteiskunnallinen sopimus, joka voidaan kumota, kun se aiheuttaa eriarvoisuutta"
+  - "Yksityisomaisuus on hyödyllistä taloudellisen tehokkuuden kannalta, mutta sillä ei ole luontaista moraalista tai filosofista merkitystä"
+  - "Yksityisomaisuutta tulisi olla vain henkilökohtaisissa esineissä, ei tuotannollisessa omaisuudessa tai maassa"
+explanation: >-
+  Libertaarit puolustavat yksityisomaisuutta luonnollisena oikeutena, joka edeltää lakia ja valtiota. He väittävät, että jos yksilö omistaa oman kehonsa, hän omistaa myös työnsä ja sen hedelmät. Aineellisten hyödykkeiden omistus on itseomistuksen jatke. Tämä on jyrkässä ristiriidassa libertaire-näkemyksen kanssa, jonka mukaan omaisuus on yhteiskunnallinen sopimus tai sorron lähde.
+reviewed: false

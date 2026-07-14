@@ -1,9 +1,9 @@
-question: Dushingiye ku ciyumviro ca Satoshi Nakamoto, ni ikihe kibazo nyamukuru kiri mu mafaranga asanzwe Bitcoin yagenewe gutorera umuti?
-answer: Ukwizigira birenze urugero bisabwa mu nzego zishingiye ku rwego rwo hejuru zari zarenganye ukwo kwizigira mu mateka biciye mu guca bugufi kw’amahera .
+question: "Bitcoin ikora gute nk'umugambi w'imico runtu ufise ingaruka za politike aho kuba umugambi wa politike ufise ivyo wisaba mu mico runtu?"
+answer: "Bitcoin yateguwe kugira ngo igire abantu abidegemvya aho kubagira abatunzi, igatuma haba itunga rikora, igakingira agaciro k'igikorwa, kandi ikazigama ubuzima bwite; ivyo ni ivyo gushika ku mico runtu bitanga ingaruka za politike ata kwivuga ko biri mu ruhande rwa politike urwo ari rwo rwose"
 wrong_answers:
-  - Kubura ibikorwa remezo vy'ubuhinga bwa none n'uguteba gukora amafaranga mu mabanki ya kera
-  - Amafaranga menshi yo gukoresha n'ukuntu amafaranga yoherezwa mpuzamakungu ashobora gukoreshwa nabi biciye mu mabanki
-  - Ingaruka ku bidukikije n'inguvu zikoreshwa mu mabanki n'uburyo bwo kwishura
-explanation: |
-  Satoshi Nakamoto yavuze neza ko 'ingorane nyamukuru y'amafaranga asanzwe ari ukwizigira kwose gukenewe kugira ngo akore' kandi ko amabanki akomeye ategerezwa kwizigirwa kugira ngo ntashire hasi amafaranga, ariko 'amateka y'amafaranga y'ubuhinga yuzuyemwo ukurenga kuri ukwo kwizigira'.
-  Iryo jambo ry’inyuma ryerekana intumbero nyamukuru ya Bitcoin: gukuraho ivy’ukwizigira inzego zishingiye ku rwego rwo hejuru. Ibindi bihitamwo, naho bishobora kuba ari ivy’ukuri ku bijanye n’ivy’amahera y’agaciro, ntibitorera umuti ingorane y’ishimikiro ya filozofiya Satoshi yerekanye - ko uburyo bwa fiat busaba ukwizera ataco buzi ku nzego zagaragaje kenshi ko zitari izo kwizigirwa biciye mu gukoresha nabi amahera no kuyacisha bugufi.
+  - "Bitcoin ni umugambi w'imico runtu kuko code yayo ishiraho amategeko y'imico abuza ubusuma, kandi ingaruka yayo ya politike ni ugusubiriza ubutegetsi bwa demokarasi n'ugufata ingingo biciye muri algorithm"
+  - "Bitcoin ikora nk'umugambi w'imico runtu kuko isubira kugabura ubutunzi ibukura ku batunzi ikabuha abayakiriye kare, igatuma haba ikibano kirushirije kuba c'ubutungane gifise ingaruka ku mategeko y'imisoro"
+  - "Bitcoin ni iya runtu kuko Satoshi Nakamoto yashizemwo amabwirizwa y'imico muri protocol, kandi ingaruka yayo ya politike ni uguhuza imiryango yose ya politike mu buryo bumwe bw'amahera"
+explanation: >-
+  Bitcoin ntiyateguwe kugira ngo igire abantu abatunzi, ahubwo kugira ngo ibagire abidegemvya. Ishika ku vyavuye mu mico runtu bitatu: gutuma haba itunga rikora neza (bikaremesha kwikorera ibikuraba), gukingira agaciro karemewe n'igikorwa (bikaremesha akigoro k'ugutanga umwimbu), no kuzigama ubuzima bwite (bikareka abantu bakabaho ata bwoba). Ivyo ni ivyo gushika ku mico runtu bitwara ingaruka za politike ata kuba ivy'urugamba rwa politike urwo ari rwo rwose, bigatuma iba umugambi w'imico runtu ubwa mbere, iya politike ubwa kabiri.
+reviewed: false

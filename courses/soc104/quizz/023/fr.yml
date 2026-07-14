@@ -1,8 +1,9 @@
-question: What distinguishes a cultural conservative who is also libertarian from a political conservative regarding the enforcement of traditional values?
-answer: They promote traditional values through persuasion and example but oppose using legal coercion to impose them on others
+question: "Que signifie le terme 'libéral' dans la tradition politique européenne ?"
+answer: "Un partisan de l'économie du laissez-faire, de la réduction de l'intervention de l'État et des libertés individuelles"
 wrong_answers:
-  - They support government intervention to protect traditional values while maintaining economic freedom for individuals
-  - They believe traditional values should be enforced through local laws rather than federal legislation
-  - They advocate for constitutional amendments to enshrine traditional values while limiting government in other areas
-explanation: |
-  The key distinction is that cultural conservative libertarians separate their personal moral beliefs from their political philosophy regarding state power. While they may strongly believe in traditional values like family, religion, and virtue, they reject using the coercive force of law to impose these values on others. Instead, they promote their values through voluntary means like education, persuasion, and personal example. This contrasts with political conservatives who often support using government power to enforce traditional social arrangements. The libertarian principle of non-aggression means they can morally disapprove of certain behaviors while still respecting others' right to choose differently, as long as those choices don't harm others.
+  - "Un défenseur de l'intervention de l'État, de l'assurance maladie publique et des programmes de lutte contre la pauvreté"
+  - "Un anarchiste radical qui cherche l'abolition complète du gouvernement et de la propriété privée"
+  - "Un centriste qui équilibre également les positions socialistes et conservatrices dans tous les domaines politiques"
+explanation: >-
+  En Europe, le libéralisme est resté associé aux politiques économiques de laissez-faire, à la réduction de l'intervention de l'État et à la défense des libertés individuelles. La première mauvaise réponse décrit les liberals américains, qui ont déplacé le sens du terme vers l'interventionnisme. Le libéralisme européen n'est ni l'anarchisme ni le centrisme.
+reviewed: false

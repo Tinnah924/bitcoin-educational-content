@@ -1,9 +1,9 @@
-question: Según el concepto de consenso superpuesto de John Rawls, ¿qué permite a ciudadanos con doctrinas integrales diferentes ponerse de acuerdo sobre principios políticos?
-answer: Pueden respaldar principios de justicia compartidos desde sus respectivas perspectivas filosóficas o religiosas
+question: "¿Cuáles son los dos principios de justicia de John Rawls?"
+answer: "Igual libertad para todos, y el principio de diferencia, que permite desigualdades solo si benefician a los más desfavorecidos"
 wrong_answers:
-  - Deben abandonar sus creencias personales y adoptar una cosmovisión laica unificada para las decisiones políticas
-  - Confían en los conocimientos tecnocráticos para determinar qué doctrina global es la más racional y eficaz
-  - Alternan entre distintas doctrinas globales en función de la cuestión política concreta que se aborde
-explanation: |
-  El consenso superpuesto de Rawls demuestra que los ciudadanos no necesitan abandonar sus diversas creencias religiosas, filosóficas o morales para ponerse de acuerdo sobre la justicia política.
-  Por el contrario, las personas pueden apoyar los mismos principios políticos por diferentes razones arraigadas en sus propias doctrinas integrales. Este concepto encarna la filosofía centrista al mostrar cómo los desacuerdos fundamentales pueden coexistir con la cooperación política, sin exigir a los ciudadanos que comprometan sus convicciones más profundas ni que se sometan a la experiencia técnica.
+  - "Sufragio universal para todos los ciudadanos, y tributación progresiva para financiar servicios públicos"
+  - "Libertad de expresión sin restricción, y redistribución obligatoria de la riqueza para lograr la igualdad"
+  - "Protección de los derechos de propiedad privada, y el principio de no agresión aplicado a todas las acciones del Estado"
+explanation: >-
+  Rawls propone dos principios: primero, igual libertad para todos (el fundamento de la democracia), y segundo, el principio de diferencia, que permite desigualdades solo si benefician a los miembros más desfavorecidos de la sociedad. Esto significa que uno tiene derecho a enriquecerse, siempre que la redistribución permita que los menos favorecidos también se beneficien. Las otras opciones mezclan elementos de distintas filosofías políticas.
+reviewed: false

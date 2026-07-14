@@ -1,10 +1,9 @@
-question: Kulingana na Ilani ya Cypherpunk ya Eric Hughes, ni jukumu gani kuu la kulinda faragha katika jamii ya kielektroniki iliyo wazi?
-answer: Watu binafsi lazima watetee faragha yao wenyewe badala ya kutegemea serikali au mashirika kutoa
+question: "Ni ujumbe gani wa msingi wa Manifesto ya Cypherpunk ya Eric Hughes ya mwaka 1993 kuhusu faragha?"
+answer: "Faragha ni muhimu kwa jamii iliyo wazi katika zama za kielektroniki, na watu binafsi lazima waijenge wenyewe badala ya kutarajia serikali au makampuni kuihakikisha"
 wrong_answers:
-  - Serikali zinapaswa kuanzisha kanuni kamili za faragha ili kuwalinda raia kutokana na ufuatiliaji wa makampuni
-  - Mashirika makubwa lazima yatekeleze kwa hiari ulinzi wa faragha kama sehemu ya uwajibikaji wao wa kijamii wa shirika
-  - Mikataba ya kimataifa inapaswa kujadiliwa ili kuunda viwango vya faragha vya ulimwengu vinavyotekelezwa na vyombo vya kimataifa
-explanation: |
-  Hughes alisema wazi kwamba 'Hatuwezi kutarajia serikali, mashirika, au mashirika mengine makubwa yasiyojulikana kutuhakikishia usiri' na kwamba lengo kuu la Cypherpunks ni 'kuwafanya watu watetee usiri wao, badala ya kumtegemea mtu mwingine kuitoa'.
-  
-  Hii inaonyesha falsafa ya msingi ya cypherpunk ya uwajibikaji wa mtu binafsi na kutoamini taasisi kuu. Harakati hiyo iliamini kwamba zana za kriptografia zinapaswa kuwawezesha watu kujilinda badala ya kutegemea taasisi zile zile walizoziona kama vitisho vinavyowezekana kwa faragha na uhuru.
+  - "Faragha ni anasa inayopaswa kutolewa kafara kwa usalama wa taifa na ulinzi wa taasisi za kidemokrasia"
+  - "Faragha inapaswa kudhibitiwa na mikataba ya kimataifa inayoweka viwango vinavyofanana vya ulinzi wa data katika nchi zote"
+  - "Faragha ni muhimu tu kwa wahalifu na wapinzani wa kisiasa, ilhali raia wanaotii sheria hunufaika na mifumo ya ufuatiliaji iliyo wazi"
+explanation: >-
+  Manifesto ya Eric Hughes ya mwaka 1993 inasema kwamba faragha ni muhimu kwa jamii iliyo wazi katika zama za kielektroniki na kwamba hatuwezi kutarajia serikali, makampuni, au mashirika mengine makubwa kuihakikisha. Msukumo wa msingi ni kwamba usiri ni kipengele muhimu cha uhuru na lazima ujengwe na watu binafsi wenyewe, si kusubiriwa kama zawadi kutoka kwa taasisi.
+reviewed: false

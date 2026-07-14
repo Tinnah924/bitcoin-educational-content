@@ -1,9 +1,9 @@
-question: Mikä erottaa konservatiivien talousfilosofian heidän lähestymistavastaan sosiaalisiin kysymyksiin?
-answer: He kannattavat vahvoja taloudellisia vapauksia, mutta suosivat hallituksen väliintuloa perinteisten sosiaalisten ja moraalisten normien valvomiseksi
+question: "Mikä on libertarismin sisällä keskeinen ero minarkistien ja anarkokapitalistien välillä?"
+answer: "Minarkistit hyväksyvät minimaalisen valtion puolustusta, oikeuslaitosta ja poliisia varten, kun taas anarkokapitalistit haluavat yksityistää kaikki valtion tehtävät"
 wrong_answers:
-  - He kannattavat hallituksen mahdollisimman vähäistä puuttumista sekä taloudellisiin että sosiaalisiin asioihin yhtä lailla
-  - He kannattavat laajaa valtion sääntelyä talouden alalla ja edistävät samalla täydellistä sosiaalista libertarismia
-  - He kannattavat valtion vahvaa valvontaa sekä talousmarkkinoiden että yksilöiden sosiaalisen käyttäytymisen suhteen
-explanation: |
-  Konservatiiveilla on omaleimainen kaksitahoinen lähestymistapa: he puolustavat taloudellista vapautta matalan verotuksen, vähäisen yrityssääntelyn ja vapaan yritystoiminnan avulla,
-  mutta kannattavat samalla hallituksen puuttumista yhteiskunnallisiin asioihin perinteisten arvojen, järjestyksen ja moraalin ylläpitämiseksi. Tämä luo näennäisen ristiriidan, jossa he haluavat hallituksen hillitsevän talousasioita mutta valvovan aktiivisesti sosiaalisten normien noudattamista. Muut vaihtoehdot vääristelevät tätä konservatiivien perusjännitystä - he eivät pyri minimaaliseen puuttumiseen kaikkialla, eivätkä halua laajaa talouden sääntelyä tai täydellistä sosiaalista valvontaa.
+  - "Minarkistit torjuvat kaikki hallinnon muodot, kun taas anarkokapitalistit hyväksyvät markkinoiden rajatun valtiollisen sääntelyn"
+  - "Minarkistit kannattavat progressiivista verotusta välttämättömien palvelujen rahoittamiseksi, kun taas anarkokapitalistit vastustavat kaikkea verotusta"
+  - "Minarkistit keskittyvät vain taloudelliseen vapauteen, kun taas anarkokapitalistit puolustavat sekä taloudellisia että yhteiskunnallisia vapauksia"
+explanation: >-
+  Minarkistit uskovat, että valtion tulisi rajoittua ydintehtäviin, kuten puolustukseen, oikeuslaitokseen ja poliisiin ("yövartijavaltio"), kun taas anarkokapitalistit väittävät, että jopa nämä tehtävät tulisi yksityistää ja järjestää vapaaehtoisen markkinakilpailun kautta. Heidän erimielisyytensä koskee enemmän käytännön toteutusta kuin perustavia eettisiä periaatteita. Molemmat suuntaukset jakavat samat libertaariset arvot: itseomistuksen ja hyökkäämättömyyden.
+reviewed: false

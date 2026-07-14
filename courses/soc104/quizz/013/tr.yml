@@ -1,9 +1,9 @@
-question: Ekonomik eksenin sağ tarafında (100'e doğru) konumlanmak neyi temsil ediyor?
-answer: Daha az devlet müdahalesi, daha düşük vergiler ve serbest piyasalar ile ekonomik özgürlük tercihi
+question: "Ekonomik özgürlük kategorisi neleri içerir?"
+answer: "Üretici ve tüketici olarak yaptıklarınızı: satın alma, satma, üretme, çalışma, işe alma ve paranızı yönetme"
 wrong_answers:
-  - Yüksek vergiler ve kapsamlı kamu hizmetleri ile güçlü devlet müdahalesi tercihi
-  - İfade özgürlüğü ve bireysel yaşam tarzı seçimleri gibi kişisel özgürlüklere odaklanmak
-  - Geleneksel değerlere, güvenliğe ve otorite yoluyla kamu düzeninin sağlanmasına vurgu
-explanation: |
-  Ekonomik eksenin sağ tarafı, ekonomiye daha az devlet müdahalesi ve daha az düzenleme ile karakterize edilen ekonomik özgürlük tercihini temsil etmektedir,
-  daha düşük vergiler, işletmeler ve bireyler için daha fazla üretim, değişim ve tüketim özgürlüğü. Bu pozisyon refahın itici güçleri olarak serbest piyasaları, özel mülkiyeti ve rekabeti vurgular. Diğer seçenekler ekonomik eksenin sol tarafını (güçlü devlet müdahalesi) veya ekonomik politikalardan ziyade kişisel/toplumsal özgürlüklerle ilgilenen dikey ekseni tanımlamaktadır.
+  - "Dini inançlarınızı, kişisel ilişkilerinizi ve ifade özgürlüğünüzü"
+  - "Oy kullanma, seçimlere katılma ve siyasi partilere üye olma hakkınızı"
+  - "Serbestçe seyahat etme, ikamet yerinizi seçme ve ulusal sınırları geçme yeteneğinizi"
+explanation: >-
+  Ekonomik özgürlük, üretici ve tüketici olarak yaptıklarınızı kapsar: ne satın alabileceğiniz, satabileceğiniz ya da üretebileceğiniz; nerede çalıştığınız; kimi işe aldığınız; ve paranızla ne yaptığınız. Kişisel ilişkiler, dini inançlar ve hareket özgürlüğü ekonomik kategoriye değil, kişisel özgürlük kategorisine girer.
+reviewed: false

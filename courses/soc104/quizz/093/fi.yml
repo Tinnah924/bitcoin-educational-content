@@ -1,9 +1,9 @@
-question: Satoshi Nakamoton filosofian mukaan minkä perinteisten valuuttojen perusongelman Bitcoin pyrkii ratkaisemaan?
-answer: Liiallinen luottamus keskitettyihin instituutioihin, jotka historiallisesti rikkovat tätä luottamusta valuutan arvon alentamisella
+question: "Minkä viestin Satoshi Nakamoto sisällytti kaikkien aikojen ensimmäiseen louhittuun Bitcoin-lohkoon?"
+answer: "London Times -lehden otsikon siitä, että valtiovarainministeri oli toisen pankkien pelastuspaketin partaalla"
 wrong_answers:
-  - Perinteisten maksujärjestelmien tekninen tehottomuus, sillä ne käsittelevät maksutapahtumia liian hitaasti maailmanlaajuiseen kaupankäyntiin
-  - Fyysisen valuutan tuotannon ympäristövaikutukset ja pankki-infrastruktuurin hiilijalanjälki
-  - Kansallisten valuuttojen maantieteelliset rajoitukset, jotka estävät saumattoman kansainvälisen kaupan ja kaupankäynnin
-explanation: |
-  Satoshi totesi nimenomaisesti, että "tavanomaisen valuutan perusongelma on luottamus, jota tarvitaan, jotta se toimisi", ja totesi, että "fiat-valuuttojen historia on täynnä luottamuksen rikkomisia"
-  Bitcoin suunniteltiin luottamusta herättämättömäksi järjestelmäksi, jolla pyrittiin poistamaan riippuvuus keskuspankeista, jotka ovat historiallisesti heikentäneet valuuttojen arvoa. Vaikka muut vaihtoehdot ovatkin mahdollisesti perusteltuja huolenaiheita, ne eivät olleet Bitcoin:n perustana oleva filosofinen motivaatio, jonka Bitcoin:n luoja esitti.
+  - "Friedrich Hayekin sitaatin keskussuunnittelun ja valtion rahakontrollin vaaroista"
+  - "Itsenäisyysjulistuksen kaikista hallinnon ja taloudellisen sääntelyn muodoista maailmanlaajuisesti"
+  - "Matemaattisen todistuksen siitä, että hajautettu valuutta on tehokkaampi kuin fiat-raha"
+explanation: >-
+  Genesis-lohkossa Satoshi Nakamoto lisäsi symbolisen otsikon London Timesista: "The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout." Tämä oli suora viittaus vuoden 2008 finanssikriisiin ja sitä seuranneeseen rahapoliittiseen interventionismiin, mikä teki Bitcoinin tarkoituksen erehtymättömän selväksi vaihtoehtona keskitetyille pankkijärjestelmille.
+reviewed: false

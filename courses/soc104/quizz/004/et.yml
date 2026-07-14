@@ -1,10 +1,9 @@
-question: Miks on traditsiooniline parem-vasakpoolne jaotus Bitcoin klassifitseerimiseks ebapiisav?
-answer: Kuna Bitcoin ületab traditsioonilisi eraldusjooni ja meelitab ligi erineva poliitilise taustaga toetajaid
+question: "Kuidas tugevdab fiat-rahasüsteem jaotust valitsejate ja valitsetavate vahel?"
+answer: "See võimaldab valitsustel rahaloome kaudu rahastada piiramatut kulutamist, mis devalveerib sääste inflatsiooni kaudu"
 wrong_answers:
-  - Kuna Bitcoin toetavad eranditult parempoolsed vabaturumajanduslikud isiksused
-  - Kuna Bitcoin on peamiselt vasakpoolsete poolt vastu võetud ebasoodsas olukorras olevate elanikkonnarühmade rahaliseks kaasamiseks
-  - Kuna Bitcoin on neutraalne tehnoloogia, millel puudub poliitiline või ideoloogiline mõõde
-explanation: |
-  Tekstis selgitatakse, et Bitcoin kui detsentraliseeritud tehnoloogia tõmbab poolehoidjaid erinevatest poliitilistest taustadest, sealhulgas nii parempoolsete
-  kui ka vasakpoolseid isiksusi, samuti anarhiste ja apoliitilisi isikuid. Selline toetuse mitmekesisus näitab, et Bitcoin ei saa liigitada ühte kategooriasse
-  traditsioonilisse poliitilisse kategooriasse, erinevalt teistest vastustest, mis viitavad piiratud kuuluvusele ühte poliitilisse leeri või täielikule neutraalsusele.
+  - "See annab kodanikele demokraatlike valimiste ja referendumite kaudu otsese kontrolli rahapoliitika üle"
+  - "See takistab valitsustel laenu võtmast, sundides neid tulude saamiseks tuginema üksnes maksustamisele"
+  - "See jagab äsja loodud raha majanduskasvu stimuleerimiseks kõigi kodanike vahel võrdselt"
+explanation: >-
+  Fiat-valuutat kirjeldatakse riigivõimu laienemise nurgakivina, sest see võimaldab valitsustel laenu võtta ja survestada panku uut raha looma. Sellest tulenev inflatsioon devalveerib inimeste sääste, tuues kasu kõige jõukamatele ja võimsamatele üksustele. See ei anna kodanikele rahapoliitilist kontrolli, samuti ei takista see laenamist ega jaga raha võrdselt.
+reviewed: false

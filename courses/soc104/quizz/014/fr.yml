@@ -1,8 +1,9 @@
-question: What does the right side of the economic axis (toward 100) represent in the two-dimensional political diagram?
-answer: Preference for economic freedom with less state intervention, lower taxes, and free markets
+question: "Que comprend la catégorie de la liberté personnelle ?"
+answer: "Ce que vous faites dans vos relations privées, avec vos opinions, vos croyances, et tout ce qui concerne votre propre corps et votre esprit"
 wrong_answers:
-  - Preference for strong state intervention in the economy with high taxes and regulations
-  - Preference for individual personal freedoms and social tolerance with minimal moral restrictions
-  - Preference for traditional values, order, and security with state-enforced moral standards
-explanation: |
-  The right side of the economic axis represents economic freedom, characterized by minimal state intervention in the economy, lower regulations and taxes, and emphasis on free markets, private property, and competition. This contrasts with the left side which favors strong state economic intervention. The other options describe either the left economic position or positions on the personal freedoms axis (top for individual liberty, bottom for traditional order).
+  - "Ce que vous faites en tant que producteur, y compris créer une entreprise, embaucher des salariés et échanger des biens"
+  - "Le montant d'impôts que vous payez, les investissements que vous faites et la manière dont vous gérez vos actifs financiers"
+  - "Votre capacité à concurrencer sur le marché, à fixer les prix de vos produits et à choisir vos fournisseurs"
+explanation: >-
+  La liberté personnelle englobe ce que vous faites dans vos relations privées, avec vos opinions et vos croyances, et tout ce qui concerne votre propre corps et votre esprit. Cela inclut le mariage, les choix de lecture, les pratiques religieuses, les choix alimentaires et médicaux, et les personnes que vous fréquentez. Les activités commerciales, les impôts et les décisions de marché relèvent de la liberté économique.
+reviewed: false

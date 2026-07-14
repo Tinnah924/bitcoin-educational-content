@@ -1,9 +1,9 @@
-question: Özgürlükçü siyaset felsefesini güç kullanımına ilişkin diğer ideolojilerden ayıran temel ilke nedir?
-answer: Meşru nefsi müdafaa dışında başkalarına karşı güç kullanılmasını yasaklayan saldırmazlık ilkesi
+question: "Liberteryenizm içinde minarşistler ile anarko-kapitalistler arasındaki temel fark nedir?"
+answer: "Minarşistler savunma, adalet ve polis için asgari bir devleti kabul ederken, anarko-kapitalistler tüm devlet işlevlerinin özelleştirilmesini ister"
 wrong_answers:
-  - Bireysel haklar yerine topluluk çıkarlarını korumak için devlet müdahalesine izin veren kolektif savunma ilkesi
-  - Daha büyük toplumsal faydaya hizmet ettiğinde devlet zorlamasına izin veren orantılı güç ilkesi
-  - Demokratik kurumlarda çoğunluğun oyuyla onaylandığında gücü meşru kılan demokratik yetki ilkesi
-explanation: |
-  Saldırmazlık ilkesi liberteryen felsefenin temel taşıdır ve hiç kimsenin başka bir kişiye veya mülküne karşı fiziksel güç kullanma veya tehdit etme hakkına sahip olmadığını belirtir.
-  Bu ilke dolandırıcılık, hırsızlık ve zorlamayı ahlaki olarak kınanır hale getirir ve güç sadece meşru müdafaa durumunda haklı görülebilir. Liberteryenler, bireyler tarafından yapılması halinde ahlaka aykırı kabul edilecek eylemlerin gerçekleştirilmesi için devlete özel izinler vermeyi reddeder ve istisnasız herkesin aynı ahlaki kurala uyması konusunda ısrarcı olurlar.
+  - "Minarşistler her tür devleti reddederken, anarko-kapitalistler piyasaların sınırlı devlet düzenlemesini kabul eder"
+  - "Minarşistler temel hizmetler için artan oranlı vergilendirmeyi desteklerken, anarko-kapitalistler tüm vergilendirmeye karşı çıkar"
+  - "Minarşistler yalnızca ekonomik özgürlüğe odaklanırken, anarko-kapitalistler hem ekonomik hem de toplumsal özgürlükleri savunur"
+explanation: >-
+  Minarşistler devletin savunma, adalet ve polis gibi temel işlevlerle sınırlı olması gerektiğine inanır ("gece bekçisi devleti"), anarko-kapitalistler ise bu işlevlerin bile özelleştirilmesi ve gönüllü piyasa rekabeti yoluyla yönetilmesi gerektiğini savunur. Aralarındaki anlaşmazlık, temel etik ilkelerden çok pratik uygulama üzerinedir. Her iki eğilim de kişinin kendine sahip olması ve saldırmazlık şeklindeki aynı liberteryen değerleri paylaşır.
+reviewed: false

@@ -1,8 +1,9 @@
-question: Warum, so Milton Friedman, verfehlen Sozialprogramme für die Armen oft ihre Ziele?
-answer: Weil sie perverse Effekte wie wirtschaftliche Abhängigkeit und Marktverzerrungen verursachen
+question: "Worauf konzentriert sich eine strukturelle Definition eines politischen Systems?"
+answer: "Wie das System tatsächlich funktioniert und welche beobachtbaren Merkmale es hat, etwa das Ausmaß staatlicher Kontrolle"
 wrong_answers:
-  - Weil es ihren Sponsoren an guten Absichten und Großzügigkeit gegenüber den Bedürftigen fehlt
-  - Weil sie nicht genug Mittel haben, um den tatsächlichen Bedarf zu decken
-  - Weil die Begünstigten nicht wissen, wie sie diese Programme effektiv nutzen können
-explanation: |
-  Friedman weist darauf hin, dass sozialpolitische Maßnahmen trotz ihrer großzügigen Absichten oft scheitern, weil sie die rigorose Analyse menschlicher Anreize und Verhaltensweisen nicht berücksichtigen. Diese Programme führen zu unvorhergesehenen perversen Effekten wie wirtschaftlicher Abhängigkeit oder Marktverzerrungen und damit zu Ergebnissen, die den ursprünglichen Zielen zuwiderlaufen.
+  - "Die erklärten Ziele und edlen Absichten, die von den Gründern und Führern des Systems verkündet wurden"
+  - "Die historischen Ursprünge der politischen Bewegung und die Biografien ihrer wichtigsten Denker"
+  - "Die Anzahl der zugelassenen politischen Parteien und die Häufigkeit abgehaltener demokratischer Wahlen"
+explanation: >-
+  Strukturelle Definitionen konzentrieren sich darauf, wie politische Systeme tatsächlich funktionieren, und auf ihre beobachtbaren Merkmale. Zum Beispiel ist der Sozialismus strukturell durch die Allgegenwart des Staates gekennzeichnet. Dieser Ansatz steht im Gegensatz zu intentionalen Definitionen, die sich auf erklärte Motivationen und Ziele stützen. Der strukturelle Ansatz ermöglicht eine objektivere Bewertung auf der Grundlage messbarer Ergebnisse.
+reviewed: false

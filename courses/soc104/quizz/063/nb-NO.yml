@@ -1,9 +1,9 @@
-question: Hva er det primære målet med totalitære utdanningssystemer, ifølge Hannah Arendts analyse?
-answer: Å ødelegge folks evne til å danne seg selvstendige overbevisninger i stedet for å innprente spesifikke overbevisninger
+question: "Hvordan skilte de økonomiske tilnærmingene i Hitlers Tyskland og Stalins Sovjetunionen seg, til tross for deres felles totalitære metoder?"
+answer: "Nazi-Tyskland opprettholdt et skinn av privat eiendom samtidig som privat sektor ble underordnet statens mål, mens stalinismen avskaffet alt privat eierskap og planla økonomien fullt ut"
 wrong_answers:
-  - Å indoktrinere innbyggerne med regimets ideologiske kjerneprinsipper og verdier
-  - Å skape en høyt utdannet arbeidsstyrke som er i stand til å fremme statens økonomiske mål
-  - Å fremme nasjonalt samhold ved å lære innbyggerne å prioritere kollektive interesser fremfor individuelle ønsker
-explanation: |
-  Hannah Arendt hevdet at formålet med totalitær oppdragelse aldri var å innpode overbevisninger, men å ødelegge evnen til å danne seg selvstendige overbevisninger.
-  Dette skiller totalitære systemer fra rene autoritære regimer som bare påtvinges sin ideologi. Ved å eliminere folks evne til å tenke selvstendig, gjør totalitære regimer borgerne ute av stand til å handle selvstendig, noe Arendt så som negasjonen av selve politikken.
+  - "Nazi-Tyskland nasjonaliserte alle industrier fullt ut, mens Stalins regime tillot begrenset privat virksomhet i landbruket"
+  - "Nazi-Tyskland fremmet fri internasjonal handel for å finansiere opprustning, mens stalinismen påla fullstendig økonomisk isolasjon"
+  - "Nazi-Tyskland baserte seg på frivillig bedriftssamarbeid med staten, mens stalinismen bare brukte tvangsarbeid"
+explanation: >-
+  Selv om begge regimer brukte identiske politiske metoder (personkult, total overvåkning, systematisk eliminering av opposisjon), skilte de økonomiske modellene deres seg i form. Nazi-Tyskland avskaffet ikke formelt privat eiendom, men underordnet privat sektor fullstendig statlige mål som krig og opprustning, og påla økonomisk autarki. Stalinismen gikk lenger ved å avskaffe alt privat eierskap, innføre femårsplaner og kontrollere all produksjon og distribusjon direkte.
+reviewed: false

@@ -1,8 +1,9 @@
-question: What are the two axes that form the Nolan diagram?
-answer: Economic freedom and personal freedom
+question: "Quelle tension interne existe parmi les libertariens sur le diagramme de Nolan ?"
+answer: "Certains veulent abolir entièrement l'État (anarcho-capitalistes), tandis que d'autres préfèrent un État minimal conservant les fonctions régaliennes essentielles (minarchistes)"
 wrong_answers:
-  - Left-right and authoritarian-democratic
-  - Conservative-liberal and state-market
-  - Individual-collective and traditional-progressive
-explanation: |
-  The Nolan diagram is built on two distinct axes: economic freedom (the ability to make economic choices without government interference) and personal freedom (individual liberty in personal matters). This two-dimensional approach allows for a more nuanced representation of political positions than the traditional single left-right axis. The other options represent different political concepts but are not the axes used in Nolan's specific chart design.
+  - "Certains veulent une forte réglementation économique tandis que d'autres préfèrent la déréglementation complète de toutes les industries"
+  - "Certains soutiennent les élections démocratiques tandis que d'autres favorisent un système héréditaire de gouvernement"
+  - "Certains prônent des politiques sociales progressistes tandis que d'autres défendent des valeurs morales strictement traditionnelles"
+explanation: >-
+  Au sein de la famille libertarienne, il existe un désaccord fondamental sur le rôle de l'État. Les anarcho-capitalistes veulent remplacer toutes les fonctions de l'État par des services privés, tandis que les minarchistes acceptent un État minimal qui conserve les fonctions régaliennes essentielles comme la défense et les tribunaux. Les deux groupes partagent le sommet libertarien, mais divergent sur la question de savoir si un État quelconque doit exister.
+reviewed: false

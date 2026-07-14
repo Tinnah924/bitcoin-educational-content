@@ -1,9 +1,9 @@
-question: Jaký zásadní problém konvenčních měn se podle filozofie Satoshi Nakamota snaží Bitcoin vyřešit?
-answer: Přílišná důvěra v centralizované instituce, které ji historicky porušují znehodnocováním měny
+question: "Jaké tři pilíře sociálního státu Bitcoin zpochybňuje?"
+answer: "Fiskální systém, měnový monopol na financování výdajů prostřednictvím dluhu a dohled nad transakcemi, který má bránit používání alternativních měn"
 wrong_answers:
-  - Technická neefektivita tradičních platebních systémů, které zpracovávají transakce příliš pomalu pro globální obchod
-  - Dopad výroby fyzické měny na životní prostředí a uhlíková stopa bankovní infrastruktury
-  - Geografická omezení národních měn, která brání bezproblémovému mezinárodnímu obchodu a obchodování
-explanation: |
-  Satoshi výslovně uvedl, že "základním problémem konvenční měny je veškerá důvěra, která je nutná k jejímu fungování", a poznamenal, že "historie fiat měn je plná porušení této důvěry"
-  Bitcoin byl navržen jako systém bez důvěry, aby se odstranila závislost na centrálních bankách, které v minulosti znehodnocovaly měny. Ostatní možnosti, ačkoli potenciálně oprávněné obavy, nebyly základní filozofickou motivací pro vytvoření Bitcoin, jak ji formuloval její tvůrce.
+  - "Vojenský rozpočet, veřejný vzdělávací systém a vládou kontrolovanou zdravotnickou infrastrukturu"
+  - "Soudní systém, legislativní proces a výkonný dohled nad regulacemi podniků"
+  - "Systém sociálního zabezpečení, zákony o minimální mzdě a progresivní strukturu daně z příjmu"
+explanation: >-
+  Bitcoin zpochybňuje tři pilíře, na nichž sociální stát spočívá. Zaprvé fiskální systém, který nestačí k pokrytí výdajů. Zadruhé měnový monopol, tedy schopnost vydávat peníze k financování výdajů prostřednictvím dluhu. Zatřetí dohled nad transakcemi, schopnost bránit lidem v používání jakékoli jiné měny než státem vnucené fiat měny. Bitcoin podkopává všechny tři současně.
+reviewed: false

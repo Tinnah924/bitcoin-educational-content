@@ -1,9 +1,9 @@
-question: Mitkä kaksi akselia muodostavat Nolan-kaavion?
-answer: Taloudellinen vapaus ja henkilökohtainen vapaus
+question: "Mitä henkilökohtaisen vapauden kategoria sisältää?"
+answer: "Sen, mitä teet yksityisissä ihmissuhteissasi, mielipiteilläsi, uskomuksillasi ja kaikessa, mikä koskee omaa kehoasi ja mieltäsi"
 wrong_answers:
-  - Vasemmisto-oikeisto ja autoritaarinen-demokraattinen
-  - Konservatiivis-liberaalinen ja valtio-markkinapolitiikka
-  - Yksilöllinen-kollektiivinen ja perinteinen-progressiivinen
-explanation: |
-  Nolanin kaavio rakentuu kahdelle erilliselle akselille: taloudellinen vapaus (kyky tehdä taloudellisia valintoja ilman hallituksen puuttumista) ja henkilökohtainen vapaus
-  (yksilön vapaus henkilökohtaisissa asioissa). Tämä kaksiulotteinen lähestymistapa mahdollistaa poliittisten kantojen vivahteikkaamman esittämisen kuin perinteinen vasen-oikea -akseli. Muut vaihtoehdot edustavat erilaisia poliittisia käsitteitä, mutta ne eivät ole Nolanin suunnittelemassa kaaviossa käytettyjä akseleita.
+  - "Sen, mitä teet tuottajana, mukaan lukien yrityksen perustaminen, työntekijöiden palkkaaminen ja tavaroiden kauppa"
+  - "Kuinka paljon veroa maksat, mitä sijoituksia teet ja miten hallinnoit taloudellisia varojasi"
+  - "Kykysi kilpailla markkinoilla, asettaa tuotteillesi hintoja ja valita toimittajasi"
+explanation: >-
+  Henkilökohtainen vapaus kattaa sen, mitä teet yksityisissä ihmissuhteissasi, mielipiteilläsi ja uskomuksillasi sekä kaikessa, mikä koskee omaa kehoasi ja mieltäsi. Tämä sisältää avioliiton, lukemisvalinnat, uskonnolliset käytännöt, ruoka- ja lääkevalinnat sekä sen, kenen kanssa olet tekemisissä. Liiketoiminta, verot ja markkinapäätökset kuuluvat taloudellisen vapauden piiriin.
+reviewed: false

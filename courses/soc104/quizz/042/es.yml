@@ -1,9 +1,9 @@
-question: Según el análisis de Hayek, ¿qué enfoque fundamental distingue la política económica socialista de la liberal?
-answer: "Constructivismo: la creencia de que el Estado debe construir y moldear activamente la sociedad mediante la planificación y la dirección"
+question: "¿Cómo trata el socialismo las libertades de manera diferente en las esferas social y económica?"
+answer: "El socialismo favorece libertades fuertes en la esfera social, pero libertades débiles en la esfera económica"
 wrong_answers:
-  - "Orden espontáneo: permitir que las fuerzas del mercado regulen de forma natural la actividad económica sin intervención estatal"
-  - "Redistribucionismo: centrado principalmente en la redistribución de la riqueza, pero manteniendo los mecanismos del libre mercado"
-  - "Colectivismo: hacer hincapié en la propiedad colectiva de los bienes, preservando al mismo tiempo la toma de decisiones económicas individuales"
-explanation: |
-  Hayek identificó el constructivismo como el enfoque socialista en el que el Estado construye activamente la sociedad y le da una forma específica mediante la planificación
-  y la dirección. Esto contrasta con el concepto liberal de orden espontáneo, en el que la sociedad se organiza de forma natural. El redistribucionismo y el colectivismo, aunque relacionados con el socialismo, no recogen la distinción específica de Hayek sobre cómo debe organizarse y dirigirse la sociedad.
+  - "El socialismo restringe todas las libertades por igual tanto en la esfera social como en la económica"
+  - "El socialismo favorece fuertes libertades económicas, pero restringe las libertades sociales para mantener el orden social"
+  - "El socialismo concede libertades ilimitadas en ambas esferas y se basa en la cooperación voluntaria para mantener el equilibrio"
+explanation: >-
+  En el pensamiento socialista existe una dicotomía fundamental entre las libertades sociales y las económicas. Las libertades sociales son fuertes, pero las libertades económicas son débiles debido al énfasis en el control estatal, la planificación y la redistribución de la riqueza. La tercera respuesta incorrecta describe el ideal libertariano, mientras que la segunda describe el patrón conservador, que es la imagen especular del socialismo.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Según la filosofía libertaria, ¿cuál es el criterio principal para determinar si un sistema de organización social es legítimo?
-answer: Si surge de interacciones voluntarias y del consentimiento individual en lugar de la coacción impuesta
+question: "¿Qué creen los libertarios sobre la capacidad de los individuos para tomar decisiones?"
+answer: "Los individuos tienen tanto el derecho como la responsabilidad de tomar sus propias decisiones sobre sus vidas"
 wrong_answers:
-  - Si maximiza la eficiencia económica y reduce los costes de transacción para todos los participantes
-  - Si representa la voluntad democrática de la mayoría al tiempo que protege los derechos de las minorías
-  - Si equilibra las libertades individuales con las responsabilidades y deberes sociales colectivos
-explanation: |
-  El texto subraya que la división política fundamental es entre libertad y coerción, consentimiento voluntario y coacción.
-  Los libertarios creen que la organización social debe surgir espontáneamente de interacciones voluntarias en lugar de ser deliberadamente planificada e impuesta por las autoridades políticas. Este principio de surgimiento voluntario frente a imposición coercitiva es lo que distingue a la filosofía libertaria de la política tradicional de izquierda-derecha, que presupone cierto grado de intervención y control estatal sobre las decisiones individuales.
+  - "Los individuos deberían tomar decisiones solo después de consultar con representantes electos que comprendan las implicaciones de las políticas públicas"
+  - "Los individuos son generalmente incapaces de tomar buenas decisiones y necesitan orientación experta de instituciones gubernamentales"
+  - "Los individuos deberían tomar decisiones económicas libremente, pero deferir al Estado en todos los asuntos sociales y culturales"
+explanation: >-
+  Desde un punto de vista libertario, los individuos tienen tanto el derecho como la responsabilidad de tomar sus propias decisiones. Esto contrasta con las familias políticas convencionales de izquierda a derecha, que creen que el gobierno debería tomar algunas o muchas de las decisiones importantes en la vida de un individuo y en la vida económica en general.
+reviewed: false

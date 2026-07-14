@@ -1,10 +1,9 @@
-question: Waarom is het volgens de tekst moeilijk om Bitcoin in te delen op de traditionele rechts-links politieke as?
-answer: Omdat Bitcoin traditionele scheidslijnen overstijgt en aanhangers met verschillende politieke achtergronden aantrekt
+question: "Waar komt de politieke links-rechtsverdeling vandaan?"
+answer: "Uit de zitplaatsenindeling tijdens de debatten van de Franse Revolutie van 1789"
 wrong_answers:
-  - Omdat Bitcoin uitsluitend wordt gesteund door rechtse persoonlijkheden die voorstander zijn van economisch liberalisme.
-  - Omdat Bitcoin vooral door links wordt gepromoot vanwege het potentieel voor financiële inclusie.
-  - Omdat Bitcoin een neutrale technologie is zonder politieke dimensie.
-explanation: |
-  De tekst legt uit dat Bitcoin moeilijk in te delen is op de rechts-links as, omdat deze gedecentraliseerde technologie aanhangers aantrekt met verschillende politieke achtergronden, waaronder rechts, links, anarchisten en zelfs apolitieke individuen
-  achtergronden, waaronder rechts, links, anarchisten en zelfs apolitieke individuen. In tegenstelling tot andere opties is Bitcoin niet beperkt tot één politiek kamp,
-  maar doorkruist het traditionele scheidslijnen, waardoor de dichotomie rechts-links ontoereikend is om het correct te situeren.
+  - "Uit de geschriften van Karl Marx en Adam Smith in de negentiende eeuw"
+  - "Uit de Amerikaanse Burgeroorlog tussen de noordelijke en zuidelijke staten"
+  - "Uit de verlichtingsfilosofen die rede van traditie scheidden"
+explanation: >-
+  De links-rechtsverdeling gaat terug tot 1789, toen afgevaardigden in de Franse Nationale Vergadering die het behoud van de macht van de koning steunden rechts van de voorzitter zaten, terwijl degenen die zijn macht wilden beperken links zaten. Ze is niet ontstaan uit Marx en Smith, de Amerikaanse Burgeroorlog of de filosofie van de Verlichting.
+reviewed: false

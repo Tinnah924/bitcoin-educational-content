@@ -1,8 +1,9 @@
-question: Która ideologia polityczna najprawdopodobniej poparłaby całkowitą prywatyzację instytucji małżeństwa, usuwając wszelkie zaangażowanie rządu w uznawanie małżeństw?
-answer: Libertarianie, którzy opowiadają się za oddzieleniem małżeństwa od państwa i umożliwieniem prywatnym stowarzyszeniom zajmowania się uznawaniem małżeństw
+question: "Jakie jest kluczowe rozróżnienie Hannah Arendt między klasycznym despotyzmem a totalitaryzmem?"
+answer: "Totalitaryzm nie tylko podporządkowuje ludzi tyrańskim regułom, lecz czyni istoty ludzkie niezdolnymi do niezależnego działania, negując samą politykę"
 wrong_answers:
-  - Socjaliści, którzy chcą rozszerzyć małżeństwa uznawane przez państwo, aby obejmowały wszystkie orientacje seksualne dla sprawiedliwości społecznej
-  - Konserwatyści, którzy chcą, aby państwo zachowało tradycyjne definicje małżeństwa w celu ochrony instytucji cywilizacyjnych
-  - Centryści, którzy popierają uznanie przez państwo różnych form małżeństwa przy jednoczesnym zachowaniu spójności społecznej
-explanation: |
-  Libertarianie proponują całkowitą prywatyzację małżeństwa, argumentując, że państwo nie powinno wymuszać uznawania żadnego rodzaju małżeństwa. Opowiadają się za tym, by kościoły, synagogi, meczety lub organizacje świeckie zajmowały się małżeństwami, nazywając to "oddzieleniem małżeństwa od państwa". Socjaliści chcą rozszerzonego uznania równości przez państwo, konserwatyści chcą państwowej ochrony tradycyjnych małżeństw, a centryści popierają integracyjne uznanie przez państwo odzwierciedlające różnorodność społeczną.
+  - "Klasyczny despotyzm kontroluje gospodarkę, podczas gdy totalitaryzm kontroluje tylko instytucje polityczne i wojskowe"
+  - "Totalitaryzm jest po prostu bardziej skrajną wersją despotyzmu, różniącą się tylko skalą represji"
+  - "Klasyczny despotyzm używa ideologii, aby uzasadnić swoje rządy, podczas gdy totalitaryzm opiera się wyłącznie na sile wojskowej"
+explanation: >-
+  Arendt twierdzi, że totalitaryzm zasadniczo różni się od klasycznego despotyzmu. Nie jest po prostu bardziej skrajną tyranią, lecz systemem, który czyni istoty ludzkie zbędnymi, niszcząc ich zdolność do niezależnego działania. Dla Arendt polityka jest zdolnością ludu do wzięcia własnego losu w swoje ręce, a totalitaryzm jest samą negacją tej zdolności, co jakościowo odróżnia go od despotyzmu.
+reviewed: false

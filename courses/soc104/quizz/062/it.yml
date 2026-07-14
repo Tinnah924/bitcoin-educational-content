@@ -1,9 +1,9 @@
-question: Secondo l'analisi di Hannah Arendt, qual è l'obiettivo principale dei sistemi educativi totalitari?
-answer: Distruggere la capacità delle persone di formarsi convinzioni indipendenti piuttosto che inculcare credenze specifiche
+question: "In che modo tutti i regimi totalitari sono arrivati al potere?"
+answer: "Attraverso una rivoluzione violenta che giustificava il fare tabula rasa del sistema precedente"
 wrong_answers:
-  - Indottrinare i cittadini con l'ideologia del regime e garantire l'assoluta fedeltà allo Stato
-  - Creare una forza lavoro altamente istruita in grado di promuovere gli obiettivi economici della nazione
-  - Eliminare le distinzioni di classe e creare una società unificata basata su principi rivoluzionari condivisi
-explanation: |
-  Hannah Arendt sosteneva che lo scopo dell'educazione totalitaria non era quello di instillare convinzioni, ma di distruggere la facoltà di formarne di indipendenti.
-  Questo distingue il totalitarismo dal semplice autoritarismo: non vuole solo la conformità, ma cerca di eliminare la capacità stessa di un pensiero indipendente. Le altre opzioni rappresentano forme più convenzionali di controllo politico o di ingegneria sociale, ma mancano dell'intuizione cruciale di Arendt sull'assalto unico del totalitarismo all'agenzia umana stessa.
+  - "Attraverso una graduale riforma legislativa all'interno delle istituzioni democratiche esistenti"
+  - "Attraverso colpi di Stato militari organizzati da potenze straniere in cerca di controllo regionale"
+  - "Attraverso movimenti di massa pacifici che hanno vinto le elezioni popolari con ampi margini"
+explanation: >-
+  Tutti i regimi totalitari sono arrivati al potere attraverso una rivoluzione violenta. Questa rivoluzione serve a un duplice scopo: distrugge fisicamente il vecchio ordine e giustifica ideologicamente l'uso della violenza come necessario per costruire la nuova società. Questo distingue le prese di potere totalitarie dalle transizioni democratiche, dai colpi di Stato sostenuti dall'estero o dalle vittorie elettorali pacifiche.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Volgens het Cypherpunk Manifest van Eric Hughes, welk fundamenteel principe onderscheidt cypherpunks van degenen die alleen maar hopen op privacybescherming?
-answer: Cypherpunks schrijven actief code om anonieme systemen te bouwen in plaats van te wachten tot instellingen privacy bieden
+question: "Wie lanceerden de eerste Cypherpunk-mailinglijst in 1992?"
+answer: "Tim May en Eric Hughes, die een platform creëerden dat het zenuwcentrum van de beweging werd"
 wrong_answers:
-  - Cypherpunks richten zich op politieke lobby en wettelijke hervormingen om privacyrechten vast te leggen via democratische processen
-  - Cypherpunks geloven in het werken binnen bestaande financiële instellingen om hun privacybescherming geleidelijk te verbeteren
-  - Cypherpunks geven prioriteit aan het voorlichten van het publiek over privacyrisico's in plaats van het ontwikkelen van technische oplossingen
-explanation: |
-  Het manifest stelt expliciet 'Cypherpunks schrijven code' en benadrukt dat ze geen troost vinden in hoop en wensen maar actief ingrijpen in gebeurtenissen.
-  Hughes stelde dat mensen niet van overheden, bedrijven of andere grote organisaties kunnen verwachten dat ze privacy garanderen, dus moeten cypherpunks zelf cryptografische systemen bouwen. Deze actieve, technische benadering door middel van het ontwikkelen van code onderscheidt hen van passieve benaderingen zoals lobbyen, werken binnen bestaande systemen of alleen maar anderen voorlichten zonder concrete technologische oplossingen te creëren.
+  - "Satoshi Nakamoto en Hal Finney, die later samen Bitcoin gingen creëren in 2008"
+  - "Julian Assange en Edward Snowden, die de lijst gebruikten om klokkenluidersactiviteiten tegen overheden te coördineren"
+  - "Phil Zimmermann en Bruce Schneier, die de lijst ontwierpen als instrument voor het verspreiden van encryptiesoftware"
+explanation: >-
+  In 1992 lanceerden Tim May en Eric Hughes de eerste Cypherpunk-mailinglijst. Dit platform werd snel het zenuwcentrum van de beweging en bracht ontwikkelaars, cryptografen en pleitbezorgers van digitale vrijheid samen. Op dezelfde lijst zou Satoshi Nakamoto later in 2008 voor het eerst de Bitcoin White Paper delen.
+reviewed: false

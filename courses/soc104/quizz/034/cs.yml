@@ -1,9 +1,9 @@
-question: Jaký je zásadní rozdíl mezi libertariány a libertaires, pokud jde o vlastnictví a ekonomické uspořádání?
-answer: Libertariáni hájí soukromé vlastnictví jako nezbytný předpoklad svobody jednotlivce, zatímco libertariáni považují vlastnictví za krádež a podporují kolektivní ekonomické modely
+question: "Proč Rothbard kritizoval vizi lidské přirozenosti u libertaires a jakou alternativu navrhl?"
+answer: "Obviňoval je, že zastávají naivní představu „ušlechtilého divocha“, a tvrdil, že společnost musí využívat soukromé vlastnictví a dobré pobídky k vedení chování založeného na vlastním zájmu"
 wrong_answers:
-  - Obě skupiny podporují soukromé vlastnictví, ale liší se v názoru na roli vládní regulace při jeho ochraně
-  - Libertariáni podporují soukromé vlastnictví se státní ochranou, zatímco libertariáni dávají přednost vlastnictví bez jakéhokoli právního rámce
-  - Oba odmítají soukromé vlastnictví, ale libertariáni dávají přednost tržnímu socialismu, zatímco libertariáni státnímu socialismu
-explanation: |
-  Z kapitoly jasně vyplývá, že libertariáni považují soukromé vlastnictví za jediný způsob, jak zajistit svobodu jednotlivce, zatímco libertaires,
-  vycházející z anarchistické socialistické tradice, se řídí Proudhonovou zásadou, že "vlastnictví je krádež", libertariáni podporují alternativní ekonomické modely, jako je mutualismus, kolektivismus nebo libertariánský komunismus, a zásadně se staví proti kapitalistickým strukturám. To představuje základní ideologický rozdíl mezi těmito dvěma politickými filosofiemi, které jsou často zaměňovány kvůli podobné terminologii.
+  - "Chválil jejich pochopení lidské spolupráce, ale tvrdil, že minimální stát je stále nezbytný k vymáhání smluv"
+  - "Souhlasil, že lidé jsou přirozeně dobří, ale trval na tom, že pouze volné trhy mohou tuto dobrotu nasměrovat k produktivní činnosti"
+  - "Odmítl jejich důraz na individuální práva a místo toho tvrdil, že morální standardy by měly kolektivně vymezovat komunity"
+explanation: >-
+  Rothbard kritizoval libertaires za přijetí naivní, Rousseauovi podobné vize lidské přirozenosti jako přirozeně dobré. Tvrdil naopak, že lidé jsou vedeni vlastním zájmem a společnost musí být uspořádána tak, aby dobré pobídky vedly chování. To vyžaduje uznání a zaručení soukromého vlastnictví. Zrušení státu neznamená zrušení jeho funkcí; policie a justice by měly být spravovány volným trhem prostřednictvím konkurence.
+reviewed: false

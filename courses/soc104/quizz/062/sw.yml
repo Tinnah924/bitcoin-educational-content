@@ -1,10 +1,9 @@
-question: Kulingana na uchambuzi wa Hannah Arendt, lengo kuu la mifumo ya elimu ya kidikteta ni lipi?
-answer: Kuharibu uwezo wa watu kuunda imani huru badala ya kuingiza imani maalum
+question: "Tawala zote za kitotalitari ziliingiaje madarakani?"
+answer: "Kupitia mapinduzi ya vurugu yaliyohalalisha kufuta kabisa mfumo uliotangulia"
 wrong_answers:
-  - Kuwafundisha raia itikadi ya utawala na kuhakikisha uaminifu kamili kwa serikali
-  - Kuunda nguvu kazi yenye elimu ya juu inayoweza kuendeleza malengo ya kiuchumi ya taifa
-  - Kuondoa tofauti za kitabaka na kuunda jamii iliyoungana inayotegemea kanuni za mapinduzi za pamoja
-explanation: |
-  Hannah Arendt alisema kwamba lengo la elimu ya kidikteta halikuwa kuingiza imani bali kuharibu kitivo cha kuunda imani yoyote huru.
-  
-  Hii inatofautisha utawala wa kidikteta na utawala wa kidikteta tu - haitaki tu kufuata sheria, lakini inatafuta kuondoa uwezo wa mawazo huru. Chaguzi zingine zinawakilisha aina za kawaida zaidi za udhibiti wa kisiasa au uhandisi wa kijamii, zikikosa ufahamu muhimu wa Arendt kuhusu shambulio la kipekee la utawala wa kidikteta dhidi ya wakala wa binadamu wenyewe.
+  - "Kupitia mageuzi ya kisheria ya polepole ndani ya taasisi zilizopo za kidemokrasia"
+  - "Kupitia mapinduzi ya kijeshi yaliyoandaliwa na mataifa ya kigeni yaliyotaka udhibiti wa kikanda"
+  - "Kupitia harakati za amani za umma zilizoshinda uchaguzi wa wananchi kwa tofauti kubwa"
+explanation: >-
+  Tawala zote za kitotalitari ziliingia madarakani kupitia mapinduzi ya vurugu. Mapinduzi haya hutimiza madhumuni mawili: huharibu kimwili utaratibu wa zamani na huhalalisha kiitikadi matumizi ya vurugu kama jambo la lazima kwa ajili ya kujenga jamii mpya. Hili hutofautisha unyakuzi wa kitotalitari na mpito wa kidemokrasia, mapinduzi yanayoungwa mkono na mataifa ya kigeni, au ushindi wa amani wa uchaguzi.
+reviewed: false

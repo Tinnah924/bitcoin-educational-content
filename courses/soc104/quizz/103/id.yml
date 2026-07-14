@@ -1,9 +1,9 @@
-question: Menurut filosofi libertarian, apa perbedaan mendasar antara uang negara (fiat) dan uang pasar seperti Bitcoin dalam hal organisasi sosial?
-answer: Uang negara mewakili sentralisasi yang bersifat memaksa, sementara uang pasar muncul dari interaksi yang terdesentralisasi secara sukarela
+question: "Bagaimana filosofi cypherpunk tentang sentralisasi terhubung dengan prinsip libertarian tentang persetujuan sebagai norma fundamental keadilan?"
+answer: "Cypherpunk memandang semua sentralisasi sebagai didasarkan pada koersi, bukan persetujuan, menggemakan posisi libertarian bahwa tidak ada yang dapat dianggap adil jika dipaksakan oleh otoritas tersentralisasi melalui kekuatan"
 wrong_answers:
-  - Uang negara memberikan kontrol demokratis, sementara uang pasar menciptakan konsentrasi kekayaan yang oligarkis
-  - Uang negara memastikan stabilitas ekonomi sementara uang pasar memperkenalkan volatilitas dan spekulasi yang berbahaya
-  - Uang negara memungkinkan redistribusi kesejahteraan sosial, sementara uang pasar menghambat mekanisme solidaritas kolektif
-explanation: |
-  Teks ini menetapkan bahwa filosofi libertarian memandang perbedaan politik yang mendasar adalah antara paksaan versus persetujuan sukarela, dan sentralisasi versus desentralisasi.
-  Uang negara (fiat) digambarkan sebagai sistem terpusat yang bersifat memaksa yang dapat dengan mudah dibuat dan dimanipulasi oleh minoritas kecil, yang merepresentasikan pemaksaan kontrol politik atas keputusan moneter. Sebaliknya, uang pasar seperti Bitcoin muncul secara spontan dari interaksi sukarela, terdesentralisasi, dan memungkinkan individu untuk membuat pilihan moneter mereka sendiri tanpa paksaan negara. Pilihan-pilihan lain salah menggambarkan sudut pandang libertarian dengan berfokus pada masalah politik kiri-kanan tradisional daripada prinsip inti dari organisasi sukarela versus paksaan.
+  - "Cypherpunk percaya bahwa sentralisasi dapat diterima ketika disetujui oleh suara mayoritas demokratis, selaras dengan penghormatan libertarian terhadap tata kelola konstitusional"
+  - "Cypherpunk mendukung sentralisasi sementara selama keadaan darurat, mencerminkan pandangan libertarian bahwa hak individu dapat ditangguhkan ketika kolektif terancam"
+  - "Cypherpunk menentang sentralisasi hanya dalam sistem teknologi, sementara menerima sentralisasi politik sebagai hal yang perlu untuk menegakkan hak milik dan kontrak"
+explanation: >-
+  Cypherpunk menaruh kepercayaan pada sistem kriptografis terdesentralisasi, bukan pada institusi tersentralisasi. Semua sentralisasi dipersepsikan sebagai didasarkan pada koersi, bukan persetujuan. Ini secara langsung menggemakan filosofi libertarian bahwa persetujuan adalah norma fundamental keadilan. Tidak ada yang dapat dianggap adil jika dipaksakan oleh otoritas tersentralisasi melalui kekuatan, itulah sebabnya mereka berupaya membangun jaringan terdesentralisasi tempat tidak ada satu entitas pun yang dapat memaksakan kehendaknya.
+reviewed: false

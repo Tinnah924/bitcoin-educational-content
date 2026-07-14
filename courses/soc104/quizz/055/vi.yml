@@ -1,8 +1,9 @@
-question: Sự khác biệt cơ bản giữa những người theo chủ nghĩa nhà nước tối thiểu (minarchist) và những người theo chủ nghĩa tư bản vô chính phủ (anaphoro-capitalist) về vai trò của nhà nước là gì?
-answer: Những người theo chủ nghĩa nhà nước tối thiểu ủng hộ một nhà nước chỉ giới hạn ở cảnh sát, tư pháp và quốc phòng, trong khi những người theo chủ nghĩa vô chính phủ tư bản muốn tư nhân hóa tất cả các chức năng của nhà nước và để thị trường quản lý.
+question: "Vì sao Ron Paul lập luận rằng Federal Reserve là có hại, và Bitcoin liên hệ như thế nào với lập trường của ông?"
+answer: "Federal Reserve gây ra lạm phát và các chu kỳ kinh tế thông qua thao túng tiền fiat, và Bitcoin đại diện cho một dạng tiền lành mạnh có thể thay thế bản vị vàng"
 wrong_answers:
-  - Những người theo chủ nghĩa nhà nước tối thiểu bác bỏ mọi hình thức chính phủ, trong khi những người theo chủ nghĩa vô chính phủ tư bản chỉ chấp nhận sự can thiệp hạn chế của chính phủ vào các vấn đề kinh tế.
-  - Những người theo chủ nghĩa nhà nước tối thiểu ủng hộ thị trường tự do với một số quy định, trong khi những người theo chủ nghĩa vô chính phủ tư bản chủ trương nhà nước kiểm soát hoàn toàn các dịch vụ thiết yếu.
-  - Những người theo chủ nghĩa nhà nước tối thiểu tin vào sự can thiệp mạnh mẽ của nhà nước vào các vấn đề xã hội, trong khi những người theo chủ nghĩa vô chính phủ tư bản chỉ tập trung vào tự do kinh tế mà không chú trọng đến tự do xã hội.
-explanation: |
-  Cả những người theo chủ nghĩa nhà nước tối thiểu và những người theo chủ nghĩa tư bản vô chính phủ đều chia sẻ nguyên tắc cơ bản về chủ quyền cá nhân, nhưng khác nhau về cách thực hiện. Những người theo chủ nghĩa nhà nước tối thiểu chấp nhận một nhà nước "canh gác đêm" tối thiểu chỉ thực hiện các chức năng thiết yếu như cảnh sát, tư pháp và phòng thủ lãnh thổ. Những người theo chủ nghĩa tư bản vô chính phủ còn tiến xa hơn, tin rằng ngay cả những chức năng nhà nước truyền thống này cũng nên được tư nhân hóa và xử lý thông qua cơ chế thị trường. Các lựa chọn khác đã xuyên tạc những quan điểm này bằng cách cho rằng những người theo chủ nghĩa nhà nước tối thiểu hoàn toàn bác bỏ chính phủ hoặc cho rằng một trong hai nhóm đều ủng hộ sự can thiệp rộng rãi của nhà nước.
+  - "Federal Reserve giới hạn cạnh tranh ngân hàng, và Bitcoin phi tập trung hóa các dịch vụ ngân hàng để cải thiện bao trùm tài chính"
+  - "Federal Reserve ngăn cản thương mại tự do giữa các quốc gia, và Bitcoin cho phép các giao dịch xuyên biên giới không cần chính phủ phê duyệt"
+  - "Federal Reserve tạo ra nợ chính phủ quá mức, và Bitcoin cung cấp một đồng tiền giảm phát loại bỏ nợ quốc gia"
+explanation: >-
+  Ron Paul, một minarchist, lập luận rằng Federal Reserve chịu trách nhiệm cho lạm phát và các chu kỳ kinh tế vì nó thao túng tiền fiat. Ông cổ vũ việc phi quốc hữu hóa tiền tệ, một ý tưởng do Friedrich Hayek ủng hộ, và xem Bitcoin như một dạng tiền lành mạnh có thể thay thế bản vị vàng. Phê phán của ông bắt nguồn từ lý thuyết tiền tệ libertarian, chứ không chủ yếu từ cạnh tranh ngân hàng, rào cản thương mại, hay nợ chính phủ.
+reviewed: false

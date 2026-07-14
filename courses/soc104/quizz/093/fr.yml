@@ -1,8 +1,9 @@
-question: According to Satoshi Nakamoto's philosophy, what fundamental problem with conventional currencies does Bitcoin aim to solve?
-answer: The excessive trust required in centralized institutions that historically breach that trust through currency debasement
+question: "Quels sont les trois piliers de l'État-providence que Bitcoin remet en cause ?"
+answer: "Le système fiscal, le monopole monétaire permettant de financer les dépenses par la dette, et la surveillance des transactions pour empêcher l'utilisation de monnaies alternatives"
 wrong_answers:
-  - The technical inefficiency of traditional payment systems that process transactions too slowly for global commerce
-  - The environmental impact of physical currency production and the carbon footprint of banking infrastructure
-  - The geographical limitations of national currencies that prevent seamless international trade and commerce
-explanation: |
-  Satoshi explicitly stated that 'the root problem with conventional currency is all the trust that's required to make it work' and noted that 'the history of fiat currencies is full of breaches of that trust.' Bitcoin was designed as a trustless system to eliminate reliance on central banks that have historically debased currencies. The other options, while potentially valid concerns, were not the foundational philosophical motivation behind Bitcoin's creation as articulated by its creator.
+  - "Le budget militaire, le système d'éducation publique et l'infrastructure de santé contrôlée par le gouvernement"
+  - "Le système judiciaire, le processus législatif et l'application exécutive des réglementations sur les entreprises"
+  - "Le système de sécurité sociale, la législation sur le salaire minimum et la structure progressive de l'impôt sur le revenu"
+explanation: >-
+  Bitcoin remet en cause les trois piliers sur lesquels repose l'État-providence. Premièrement, le système fiscal, qui est insuffisant pour couvrir les dépenses. Deuxièmement, le monopole monétaire, c'est-à-dire la capacité d'émettre de la monnaie pour financer les dépenses par la dette. Troisièmement, la surveillance des transactions, la capacité d'empêcher les personnes d'utiliser toute monnaie autre que la monnaie fiat imposée par l'État. Bitcoin sape les trois simultanément.
+reviewed: false

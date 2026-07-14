@@ -1,10 +1,9 @@
-question: Warum ist die traditionelle Rechts-Links-Einteilung für die Klassifizierung von Bitcoin unzureichend, wenn es um den Inhalt geht?
-answer: Weil Bitcoin traditionelle Grenzen überwindet und Anhänger mit unterschiedlichem politischen Hintergrund anzieht
+question: "Wie verstärkt das Fiatgeldsystem die Kluft zwischen Regierenden und Regierten?"
+answer: "Es erlaubt Regierungen, unbegrenzte Ausgaben durch Geldschöpfung zu finanzieren, was Ersparnisse durch Inflation entwertet"
 wrong_answers:
-  - Weil Bitcoin ausschließlich von rechtsgerichteten, marktwirtschaftlichen Persönlichkeiten unterstützt wird
-  - Weil Bitcoin hauptsächlich von der Linken für die finanzielle Eingliederung benachteiligter Bevölkerungsgruppen eingesetzt wird
-  - Weil Bitcoin eine neutrale Technologie ist, die keine politische oder ideologische Dimension hat
-explanation: |
-  Der Text erklärt, dass Bitcoin als dezentralisierte Technologie Anhänger aus einer Vielzahl von politischen Richtungen anzieht, darunter sowohl rechte
-  und linke Persönlichkeiten, sowie Anarchisten und unpolitische Personen. Diese Vielfalt der Unterstützung zeigt, dass Bitcoin nicht in eine traditionelle
-  eine traditionelle politische Kategorie eingeordnet werden kann, im Gegensatz zu anderen Antworten, die eine begrenzte Zugehörigkeit zu einem einzigen politischen Lager oder völlige Neutralität nahelegen.
+  - "Es gibt Bürgern durch demokratische Wahlen und Referenden direkte Kontrolle über die Geldpolitik"
+  - "Es hindert Regierungen daran, Kredite aufzunehmen, und zwingt sie, sich ausschließlich auf Steuern als Einnahmequelle zu stützen"
+  - "Es verteilt neu geschaffenes Geld gleichmäßig an alle Bürger, um das Wirtschaftswachstum anzukurbeln"
+explanation: >-
+  Fiatwährung wird als Eckpfeiler der Ausweitung staatlicher Macht beschrieben, weil sie es Regierungen ermöglicht, Kredite aufzunehmen und Banken dazu zu drängen, neues Geld zu drucken. Die daraus resultierende Inflation entwertet die Ersparnisse der Menschen und begünstigt die reichsten und mächtigsten Akteure. Sie gibt den Bürgern keine monetäre Kontrolle, verhindert keine Kreditaufnahme und verteilt Geld nicht gleichmäßig.
+reviewed: false

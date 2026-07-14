@@ -1,9 +1,9 @@
-question: Welches sind die beiden Achsen, die David Nolan für sein politisches Diagramm verwendet hat?
-answer: Eine Links-Rechts-Achse und eine Freiheit-Macht-Achse
+question: "Welche innere Spannung besteht unter Libertären im Nolan-Diagramm?"
+answer: "Einige wollen den Staat vollständig abschaffen (Anarchokapitalisten), während andere einen Minimalstaat bevorzugen, der zentrale Souveränitätsfunktionen beibehält (Minarchisten)"
 wrong_answers:
-  - Eine konservativ-liberale Achse und eine wirtschaftliche Achse
-  - Eine soziale Achse und eine Achse der staatlichen Kontrolle
-  - Eine Achse des Individualismus und eine Achse des Kollektivismus
-explanation: |
-  Das Diagramm von David Nolan basiert auf zwei verschiedenen Achsen: der traditionellen politischen Links-Rechts-Achse und einer zweiten Achse, die Freiheit gegen Macht misst
-  (oder Statismus) misst. Diese Freiheit-Macht-Achse verläuft vertikal vom Statismus am unteren Ende (Punkt Null) bis zum Libertarismus am oberen Ende. Dieser zweidimensionale Ansatz ermöglicht eine nuanciertere Darstellung politischer Positionen als das einfache Links-Rechts-Spektrum, da er zwischen wirtschaftlichen und persönlichen Freiheiten unterscheiden kann. Die anderen Optionen erwähnen Konzepte, die mit der politischen Analyse in Verbindung stehen könnten, aber nicht die spezifischen Achsen sind, die Nolan in seinem berühmten Diagramm verwendete.
+  - "Einige wollen starke Wirtschaftsregulierung, während andere eine vollständige Deregulierung aller Branchen bevorzugen"
+  - "Einige unterstützen demokratische Wahlen, während andere ein erbliches Regierungssystem bevorzugen"
+  - "Einige setzen sich für progressive Sozialpolitik ein, während andere strikt traditionelle moralische Werte verteidigen"
+explanation: >-
+  Innerhalb der libertären Familie gibt es eine grundlegende Uneinigkeit über die Rolle des Staates. Anarchokapitalisten wollen alle staatlichen Funktionen durch private Dienste ersetzen, während Minarchisten einen Minimalstaat akzeptieren, der zentrale Souveränitätsfunktionen wie Verteidigung und Gerichte beibehält. Beide Gruppen teilen den libertären Gipfel, unterscheiden sich aber darin, ob überhaupt irgendein Staat existieren sollte.
+reviewed: false

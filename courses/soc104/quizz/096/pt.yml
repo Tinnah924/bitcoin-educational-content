@@ -1,9 +1,9 @@
-question: De acordo com o Manifesto Cypherpunk de Eric Hughes, qual é o principal método que os cypherpunks devem utilizar para atingir os seus objectivos de privacidade e liberdade?
-answer: Escrever código para construir sistemas criptográficos que tornem irrelevantes as divisões políticas
+question: "Qual é a mensagem central do Manifesto Cypherpunk de Eric Hughes, de 1993, sobre privacidade?"
+answer: "A privacidade é essencial para uma sociedade aberta na era eletrônica, e os indivíduos devem construí-la por si mesmos em vez de esperar que governos ou empresas a garantam"
 wrong_answers:
-  - Pressionar os governos para que aprovem leis e regulamentos mais rigorosos em matéria de proteção da privacidade
-  - Organização de protestos em massa e campanhas de desobediência civil contra a vigilância
-  - Criar programas educativos para sensibilizar o público para os direitos de privacidade digital
-explanation: |
-  Eric Hughes declarou explicitamente que "os cypherpunks escrevem código" como a sua abordagem fundamental. O manifesto sublinha que os cypherpunks não encontram conforto em esperanças e desejos, mas intervêm ativamente construindo sistemas anónimos através da criptografia.
-  Isto transforma ideias abstractas de liberdade em realidade económica e social concreta, tornando as divisões políticas arbitrárias e desnecessárias. As outras opções representam o ativismo político tradicional, que contradiz a filosofia cypherpunk de soluções tecnológicas em detrimento da reforma institucional.
+  - "A privacidade é um luxo que deve ser sacrificado em troca da segurança nacional e da proteção das instituições democráticas"
+  - "A privacidade deve ser regulada por tratados internacionais que estabeleçam padrões uniformes de proteção de dados em todos os países"
+  - "A privacidade só é importante para criminosos e dissidentes, enquanto cidadãos cumpridores da lei se beneficiam de sistemas de vigilância transparentes"
+explanation: >-
+  O manifesto de Eric Hughes de 1993 afirma que a privacidade é essencial para uma sociedade aberta na era eletrônica e que não podemos esperar que governos, empresas ou outras grandes organizações a garantam. A motivação fundamental é que a confidencialidade é um elemento-chave da liberdade e deve ser construída pelos próprios indivíduos, não aguardada como um presente das instituições.
+reviewed: false

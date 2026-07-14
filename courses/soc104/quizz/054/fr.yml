@@ -1,8 +1,9 @@
-question: What is the fundamental principle that distinguishes libertarians from other political philosophies regarding the use of force?
-answer: The non-aggression principle, which prohibits initiating force against others except in self-defense
+question: "Pourquoi les libéraux classiques aux États-Unis ont-ils commencé à s'appeler « libertariens » au cours du vingtième siècle ?"
+answer: "Parce que le « libéralisme » américain avait été récupéré par l'interventionnisme étatique croissant et l'État-providence"
 wrong_answers:
-  - The principle of proportional response, which allows measured force to maintain social order
-  - The collective security principle, which permits force when approved by democratic majority
-  - The utilitarian principle, which justifies force when it produces the greatest good for society
-explanation: |
-  The non-aggression principle is the cornerstone of libertarian philosophy, stating that no one has the right to initiate or threaten physical force against another person or their property. This makes fraud, theft, and coercion morally wrong, with force only justified in self-defense. This principle applies equally to all individuals and groups, including government, rejecting any special permission for the state to commit acts that would be considered immoral if done by private individuals.
+  - "Parce qu'ils voulaient prendre leurs distances avec les traditions monarchistes européennes"
+  - "Parce que le terme « libéral » est devenu associé à l'anarchisme et à la violence politique"
+  - "Parce que de nouveaux accords commerciaux exigeaient une identité politique distincte pour les défenseurs du marché libre"
+explanation: >-
+  Au cours du vingtième siècle, un changement fondamental s'est produit lorsque les principes du laissez-faire ont été progressivement abandonnés au profit de l'État-providence. Le « libéralisme » américain en est venu à désigner quelque chose de très différent du libéralisme classique, en adoptant l'interventionnisme étatique. Les libéraux classiques ont adopté le terme « libertarien » pour préserver la distinction. Ce repositionnement lexical n'avait rien à voir avec le monarchisme européen, la violence anarchiste ou les accords commerciaux.
+reviewed: false

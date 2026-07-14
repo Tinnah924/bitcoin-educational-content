@@ -1,9 +1,9 @@
-question: Misesin analyysin mukaan mikä peruspiirre erottaa oikeistolaisen kollektivismin (fasismi/natsismi) vasemmistolaisesta kollektivismista (sosialismi/kommunismi)?
-answer: Molemmat jakavat yksilönvapauden vihan ja väkivallan oikeutuksen erilaisista motiiveista huolimatta
+question: "Miksi Mises korostaa, ettei individualismia pidä sekoittaa omavaraisuuteen tai ihmisvihaan?"
+answer: "Koska individualismi edistää yhteistyötä ja yhteenliittymistä, kunhan ne perustuvat osallistujien vapaaseen suostumukseen, ja tunnustaa, että ihmiset kehittävät täyden potentiaalinsa vapaaehtoisten suhteiden kautta toisiin"
 wrong_answers:
-  - Oikeistokollektivismi säilyttää yksityisomaisuuden, kun taas vasemmistokollektivismi poistaa sen kokonaan
-  - Oikeistokollektivismi perustuu rationaaliseen suunnitteluun, kun taas vasemmistokollektivismi perustuu tunnepohjaisiin vetoomuksiin
-  - Oikeistokollektivismi sallii rajoitetun yksilön autonomian, kun taas vasemmistokollektivismi ei salli sitä lainkaan
-explanation: |
-  Mises väittää, että Hitlerin natsismin ja Stalinin kommunismin välillä ei ole mitään olennaista eroa niiden olennaisessa luonteessa. Molemmat edustavat kollektivistisia ideologioita, jotka vihaavat yksilönvapautta ja oikeuttavat väkivallan, vaikka niiden julkilausutut motiivit eroavat toisistaan. Keskeinen oivallus on se, että vaikka ne vaikuttavat vastakkaisilta, sekä fasismi että kommunismi alistavat yksilön kollektiiviselle kokonaisuudelle ja käyttävät voimaa tavoitteidensa saavuttamiseksi.
-  Tämä kyseenalaistaa yleisen olettamuksen, jonka mukaan nämä ideologiat ovat pohjimmiltaan erilaisia - Mises näkee ne saman yksilönvastaisen teeman variaatioina.
+  - "Koska individualismi vaatii ihmisiä liittymään pakollisiin kansalaisjärjestöihin varmistaakseen, että he edistävät yhteistä hyvää"
+  - "Koska individualismi tarkoittaa, että jokaisen ihmisen on turvauduttava täysin valtioon palveluissa, joita hän ei voi itse tuottaa"
+  - "Koska individualismi vaatii ihmisiä kilpailemaan toisiaan vastaan kaikilla alueilla todistaakseen henkilökohtaisen paremmuutensa"
+explanation: >-
+  Mises korostaa, että ihminen on sosiaalinen olento. Individualismi ei tarkoita eristäytymistä. Se edistää yhteistyötä ja yhteenliittymistä sillä ehdolla, että ne perustuvat osallistujien vapaaseen suostumukseen. Ihminen voi kehittää täyden potentiaalinsa vain suhteessa toisiin, mutta tämän yhteistyön on oltava vapaaehtoista eikä kollektiivisen auktoriteetin määräämää.
+reviewed: false

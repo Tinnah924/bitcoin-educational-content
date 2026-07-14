@@ -1,9 +1,9 @@
-question: Welk fundamenteel probleem met conventionele valuta probeert Bitcoin op te lossen volgens de filosofie van Satoshi Nakamoto?
-answer: Het buitensporige vertrouwen dat vereist is in gecentraliseerde instellingen die dat vertrouwen in het verleden hebben geschonden door devaluatie van de munteenheid
+question: "Welke drie pijlers van de verzorgingsstaat daagt Bitcoin uit?"
+answer: "Het fiscale systeem, het monetaire monopolie om uitgaven via schuld te financieren, en de surveillance van transacties om het gebruik van alternatieve valuta's te verhinderen"
 wrong_answers:
-  - De technische inefficiëntie van traditionele betalingsverwerkingssystemen die leidt tot vertragingen bij internationale transacties
-  - De milieu-impact van de productie van fysieke valuta en de koolstofvoetafdruk van de traditionele bankinfrastructuur
-  - De mathematische complexiteit van het huidige monetaire beleid maakt het moeilijk voor burgers om economische beslissingen te begrijpen
-explanation: |
-  Satoshi Nakamoto verklaarde expliciet dat 'het kernprobleem van conventionele valuta al het vertrouwen is dat nodig is om het te laten werken' en dat 'de geschiedenis van fiatvaluta's vol zit met schendingen van dat vertrouwen'.
-  Dit citaat onthult het kerndoel van Bitcoin: het elimineren van de noodzaak om centrale banken te vertrouwen dat ze valuta niet debiteren. De verwijzing in het Genesis blok naar reddingsoperaties voor banken versterkt deze kritiek op institutioneel falen. De foute antwoorden richten zich op technische, milieu- of complexiteitskwesties die, hoewel ze mogelijk terecht zijn, niet de fundamentele filosofische motivatie waren achter de creatie van Bitcoin, zoals verwoord door de maker.
+  - "Het militaire budget, het openbaar onderwijssysteem en de door de overheid gecontroleerde zorginfrastructuur"
+  - "Het gerechtelijk systeem, het wetgevingsproces en de uitvoerende handhaving van regels voor bedrijven"
+  - "Het socialezekerheidsstelsel, de minimumloonwetgeving en de progressieve inkomstenbelastingstructuur"
+explanation: >-
+  Bitcoin daagt de drie pijlers uit waarop de verzorgingsstaat rust. Ten eerste het fiscale systeem, dat onvoldoende is om uitgaven te dekken. Ten tweede het monetaire monopolie, oftewel het vermogen om geld uit te geven om uitgaven via schuld te financieren. Ten derde de surveillance van transacties, het vermogen om te voorkomen dat mensen een andere valuta gebruiken dan de door de staat opgelegde fiatvaluta. Bitcoin ondermijnt alle drie tegelijk.
+reviewed: false

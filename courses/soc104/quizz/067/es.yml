@@ -1,9 +1,9 @@
-question: Según la posición libertaria en cuestiones sociales, ¿cuál es el principio fundamental que debe guiar la política gubernamental en todos los ámbitos?
-answer: El Estado debería dejar de regular las decisiones personales y permitir que las instituciones privadas y los mecanismos de mercado se ocupen de estos asuntos
+question: "¿Cuál es la postura conservadora sobre la inmigración?"
+answer: "El Estado tiene el derecho soberano de controlar sus fronteras para proteger la seguridad nacional y la identidad cultural"
 wrong_answers:
-  - El Estado debe proteger activamente los derechos de las minorías respetando los valores culturales mayoritarios mediante una regulación equilibrada
-  - El Estado debe dar prioridad a la seguridad pública y al orden social manteniendo un control estricto sobre los comportamientos individuales potencialmente nocivos
-  - El Estado debe promover la justicia social garantizando la igualdad de acceso a los derechos y la protección de todos los ciudadanos, independientemente de su origen
-explanation: |
-  La filosofía libertaria aboga sistemáticamente por una intervención mínima del Estado en todas las cuestiones sociales. Ya se trate del matrimonio (privatización en lugar de reconocimiento estatal), la inmigración (basada en el mercado en lugar de controlada por el Estado), las armas (derechos individuales de autodefensa) o las drogas (elección personal sin interferencia del Estado), los libertarios creen fundamentalmente que el Estado no debe regular las decisiones personales que no perjudiquen directamente a otros.
-  Las otras opciones representan enfoques socialistas, conservadores y centristas, respectivamente, que aceptan diversos grados de implicación estatal en asuntos personales.
+  - "Las fronteras deberían estar abiertas incondicionalmente porque las restricciones discriminatorias violan los derechos humanos"
+  - "La inmigración debería determinarse por la demanda del mercado, con los ciudadanos decidiendo contractualmente sus relaciones con los extranjeros"
+  - "La política migratoria debería equilibrar las necesidades económicas con una integración exitosa basada en la evaluación de expertos"
+explanation: >-
+  Los conservadores sostienen que el orden, la identidad y la soberanía nacional deben tener prioridad sobre la acogida irrestricta de extranjeros o refugiados. Las fronteras y una población bien definida forman parte de los valores civilizados. Las respuestas incorrectas representan la postura socialista (fronteras abiertas como derechos humanos), la postura libertaria (inmigración basada en el mercado) y la postura centrista (enfoque equilibrado guiado por expertos).
+reviewed: false

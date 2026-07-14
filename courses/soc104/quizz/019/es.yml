@@ -1,9 +1,9 @@
-question: Según el diagrama de Nolan, ¿cuál es el factor clave que distingue a las filosofías políticas?
-answer: El grado de control gubernamental sobre la acción humana en las esferas personal y económica
+question: "¿Qué es el conservadurismo político?"
+answer: "Una ideología que busca preservar las instituciones políticas establecidas y el orden social, oponiéndose a grandes convulsiones estructurales"
 wrong_answers:
-  - La diferencia entre los sistemas económicos socialista y capitalista
-  - La distinción entre valores morales tradicionales y visiones sociales progresistas
-  - El nivel de apoyo a la redistribución de la riqueza y los programas sociales
-explanation: |
-  La idea central del diagrama de Nolan es que la principal diferencia entre las filosofías políticas es el grado de control gubernamental sobre la acción humana, tanto en la esfera personal como en la económica
-  tanto en la esfera personal como en la económica. Esto crea un modelo bidimensional en lugar de un simple eje izquierda-derecha. Las otras opciones representan formas tradicionales de categorizar la política, pero pasan por alto la idea clave de que tanto la izquierda como la derecha pueden ser estatistas, sólo que quieren utilizar el poder gubernamental en áreas diferentes. El diagrama revela que la verdadera distinción está entre los que quieren utilizar la fuerza para imponer sus valores (ya sean de izquierdas o de derechas) y los que prefieren menos control gubernamental en general.
+  - "Un compromiso personal con los valores familiares tradicionales y las prácticas religiosas sin buscar imponerlos a los demás"
+  - "Una filosofía que promueve un cambio social rápido mediante reformas democráticas y legislación progresista"
+  - "Una teoría económica que defiende los mercados libres, una tributación mínima y la abolición de las barreras comerciales"
+explanation: >-
+  El conservadurismo político es una ideología, a menudo representada en partidos de derecha o extrema derecha, que busca preservar las instituciones políticas establecidas y el orden social, oponiéndose a grandes convulsiones estructurales. Sus partidarios desean usar el poder y la ley para salvaguardar su herencia. Esto difiere del conservadurismo cultural, que es una elección de vida personal y no un programa político.
+reviewed: false

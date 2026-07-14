@@ -1,9 +1,9 @@
-question: Welches grundlegende Merkmal unterscheidet nach der Analyse von Mises den rechten Kollektivismus (Faschismus/Nazismus) vom linken Kollektivismus (Sozialismus/Kommunismus)?
-answer: Beide teilen den Hass auf die individuelle Freiheit und die Rechtfertigung von Gewalt trotz unterschiedlicher Motive
+question: "Warum argumentiert Popper, dass die offene Gesellschaft trotz ihrer Vorteile von Natur aus fragil bleibt?"
+answer: "Weil die Verantwortung, die Individualismus impliziert, beängstigend wirken kann, wodurch die Versuchung entsteht, Zuflucht in gemeinschaftlichem Schutz, Autorität oder Nostalgie nach einer idealisierten Vergangenheit zu suchen"
 wrong_answers:
-  - Der rechte Kollektivismus bewahrt das Privateigentum, während der linke Kollektivismus es vollständig abschafft
-  - Der rechte Kollektivismus basiert auf rationaler Planung, während der linke Kollektivismus sich auf emotionale Appelle stützt
-  - Der rechte Kollektivismus erlaubt eine begrenzte individuelle Autonomie, während der linke Kollektivismus keine zulässt
-explanation: |
-  Mises argumentiert, dass es keinen grundlegenden Unterschied zwischen Hitlers Nationalsozialismus und Stalins Kommunismus in ihrem Wesen gibt. Beide vertreten kollektivistische Ideologien, die die individuelle Freiheit hassen und Gewalt rechtfertigen, auch wenn ihre erklärten Beweggründe unterschiedlich sind. Die wichtigste Erkenntnis ist, dass sowohl der Faschismus als auch der Kommunismus trotz ihrer scheinbaren Gegensätzlichkeit das Individuum einer kollektiven Einheit unterordnen und Gewalt anwenden, um ihre Ziele zu erreichen.
-  Dies stellt die gängige Annahme in Frage, dass sich diese Ideologien grundlegend unterscheiden - Mises sieht sie als Variationen desselben antiindividualistischen Themas.
+  - "Weil offene Gesellschaften keine militärische Stärke haben und sich nicht gegen Invasionen durch geschlossene Gesellschaften verteidigen können"
+  - "Weil demokratische Institutionen von Natur aus ineffizient sind und schließlich unter dem Gewicht bürokratischer Komplexität zusammenbrechen"
+  - "Weil offene Gesellschaften zu viel wirtschaftliche Ungleichheit zulassen, was unvermeidlich zur Revolution und zur Errichtung autoritärer Regime führt"
+explanation: >-
+  Popper betont, dass die Fragilität der offenen Gesellschaft aus einer psychologischen Verwundbarkeit stammt. Die Verantwortung, die Individualismus impliziert, kann beängstigend und riskant wirken, weil man seine eigenen Entscheidungen treffen muss und scheitern kann. Dies erzeugt die Versuchung, Zuflucht in gemeinschaftlichem Schutz oder in nostalgischen Tendenzen zu einer idealisierten Vergangenheit zu suchen. Die offene Gesellschaft steht vor fortlaufenden Herausforderungen durch kommunitaristische Impulse und die wiederkehrende Versuchung der Gewalt.
+reviewed: false

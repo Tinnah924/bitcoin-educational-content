@@ -1,9 +1,9 @@
-question: Cosa rappresenta il lato destro dell'asse economico (verso 100) nel diagramma politico bidimensionale?
-answer: Preferenza per la libertà economica con meno interventi statali, tasse più basse e mercati liberi
+question: "Che cosa include la categoria della libertà personale?"
+answer: "Ciò che fai nelle tue relazioni private, con le tue opinioni, credenze e tutto ciò che riguarda il tuo corpo e la tua mente"
 wrong_answers:
-  - Preferenza per un forte intervento statale, con tasse elevate e servizi pubblici estesi
-  - Preferenza per le libertà individuali e la tolleranza nelle questioni personali e sociali
-  - Preferenza per i valori tradizionali, l'ordine e la sicurezza garantiti dallo Stato
-explanation: |
-  Il lato destro dell'asse economico rappresenta la libertà economica, caratterizzata da un intervento minimo dello Stato nell'economia, da una riduzione delle normative, da tasse più basse e da una maggiore libertà per le imprese e gli individui di produrre, scambiare e consumare,
-  tasse più basse e una maggiore libertà per le imprese e gli individui di produrre, scambiare e consumare. Questa posizione enfatizza il libero mercato, la proprietà privata e la concorrenza come motori della prosperità. Le altre opzioni descrivono il lato sinistro dell'asse economico (forte intervento dello Stato) o le posizioni sull'asse delle libertà personali (libertà individuali o valori tradizionali), che sono dimensioni separate in questo quadro politico.
+  - "Ciò che fai come produttore, incluso avviare un'attività, assumere dipendenti e scambiare beni"
+  - "Quante tasse paghi, quali investimenti fai e come gestisci i tuoi asset finanziari"
+  - "La tua capacità di competere nel mercato, fissare i prezzi dei tuoi prodotti e scegliere i tuoi fornitori"
+explanation: >-
+  La libertà personale comprende ciò che fai nelle tue relazioni private, con le tue opinioni e credenze, e tutto ciò che riguarda il tuo corpo e la tua mente. Questo include il matrimonio, le scelte di lettura, le pratiche religiose, le scelte alimentari e mediche, e le persone con cui ti associ. Le attività commerciali, le tasse e le decisioni di mercato rientrano nella libertà economica.
+reviewed: false

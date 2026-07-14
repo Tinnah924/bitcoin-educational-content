@@ -1,9 +1,9 @@
-question: Según la filosofía de Satoshi Nakamoto, ¿qué problema fundamental de las monedas convencionales pretende resolver Bitcoin?
-answer: La excesiva confianza requerida en las instituciones centralizadas que históricamente quebrantan esa confianza mediante el envilecimiento de la moneda
+question: "¿Cuál es el problema fundamental de las monedas fiat que identificó Satoshi Nakamoto?"
+answer: "Requieren confiar en que el banco central no devaluará la moneda, pero la historia de las monedas fiat está llena de violaciones de esa confianza"
 wrong_answers:
-  - La ineficacia técnica de los sistemas de pago tradicionales, que procesan las transacciones con demasiada lentitud para el comercio mundial
-  - El impacto medioambiental de la producción física de moneda y la huella de carbono de la infraestructura bancaria
-  - Las limitaciones geográficas de las monedas nacionales que impiden un comercio internacional fluido
-explanation: |
-  Satoshi declaró explícitamente que "el problema de fondo de la moneda convencional es toda la confianza que se requiere para que funcione" y señaló que "la historia de las monedas fiduciarias está llena de violaciones de esa confianza"
-  La Bitcoin se diseñó como un sistema sin confianza para eliminar la dependencia de los bancos centrales que históricamente han degradado las monedas. Las otras opciones, aunque potencialmente válidas, no eran la motivación filosófica fundamental de la creación de Bitcoin, tal como la articuló su creador.
+  - "Son demasiado difíciles de usar para transacciones cotidianas porque el efectivo físico se desgasta rápidamente y es caro de producir"
+  - "No pueden transferirse internacionalmente porque cada país tiene estándares monetarios y regulaciones incompatibles"
+  - "Están respaldadas por reservas de oro insuficientes para cubrir la oferta monetaria total en circulación"
+explanation: >-
+  Satoshi Nakamoto afirmó que el problema fundamental de las monedas convencionales es la confianza necesaria para que funcionen. Las monedas fiat no están respaldadas por una mercancía, sino que descansan por completo en la autoridad institucional. Cuando una institución tiene control total sobre el dinero, la tentación de abusar es demasiado fuerte, y la historia lo ha demostrado repetidamente mediante la devaluación de las monedas.
+reviewed: false

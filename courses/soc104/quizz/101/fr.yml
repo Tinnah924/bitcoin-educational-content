@@ -1,8 +1,9 @@
-question: According to libertarian philosophy, what is the fundamental criterion for distinguishing political ideologies?
-answer: Whether individuals make their own decisions or have decisions imposed on them by others
+question: "Que pensent les libertariens de la capacité des individus à prendre des décisions ?"
+answer: "Les individus ont à la fois le droit et la responsabilité de prendre leurs propres décisions concernant leur vie"
 wrong_answers:
-  - Whether economic policies favor redistribution or accumulation of wealth
-  - Whether social values emphasize traditional family structures or progressive ideals
-  - Whether governance structures prioritize national sovereignty or international cooperation
-explanation: |
-  The text explicitly states that the real political divide is not between left, right, or center, but rather based on fundamental philosophical principles: freedom versus coercion, voluntary consent versus constraint, and individual responsibility versus collectivity. The key question becomes whether you want to make important decisions about your life yourself, or whether you want someone else to make them for you. This represents a departure from traditional political categorizations based on economic redistribution, social values, or governance structures, focusing instead on the fundamental question of who has the authority to make decisions affecting individuals' lives.
+  - "Les individus ne devraient prendre des décisions qu'après avoir consulté des représentants élus qui comprennent les implications des politiques publiques"
+  - "Les individus sont généralement incapables de prendre de bonnes décisions et ont besoin de l'orientation experte des institutions gouvernementales"
+  - "Les individus devraient prendre librement les décisions économiques, mais s'en remettre à l'État sur toutes les questions sociales et culturelles"
+explanation: >-
+  D'un point de vue libertarien, les individus ont à la fois le droit et la responsabilité de prendre leurs propres décisions. Cela contraste avec les familles politiques conventionnelles, de gauche à droite, qui pensent que le gouvernement devrait prendre certaines ou beaucoup des décisions importantes dans la vie d'un individu et dans la vie économique en général.
+reviewed: false

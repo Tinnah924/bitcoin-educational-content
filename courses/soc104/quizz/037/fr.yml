@@ -1,8 +1,9 @@
-question: According to Friedman's perspective, what is the main problem with judging social policies based on their declared intentions rather than their actual outcomes?
-answer: Well-intentioned policies often create unintended consequences like economic dependency and market distortions that contradict their original goals
+question: "Quel avertissement Milton Friedman a-t-il donné sur la façon de juger les politiques publiques ?"
+answer: "Les politiques devraient être jugées à leurs résultats plutôt qu'à leurs intentions"
 wrong_answers:
-  - Intentions are too difficult to measure objectively compared to the straightforward assessment of policy outcomes and results
-  - Politicians deliberately mislead the public about their true intentions, making intention-based evaluation fundamentally unreliable and deceptive
-  - Intentions change too frequently during policy implementation, making them an unstable foundation for long-term policy evaluation
-explanation: |
-  Friedman argues that policies with generous intentions can produce perverse effects opposite to their goals, such as creating dependency among those they aim to help. The issue isn't measurement difficulty, political deception, or changing intentions, but rather that good intentions don't guarantee positive results. This is why structural definitions focusing on observable characteristics and measurable outcomes are preferred over intentional definitions that rely on stated motivations.
+  - "Les politiques devraient être jugées au caractère moral des responsables politiques qui les proposent"
+  - "Les politiques devraient être jugées à leur popularité auprès de l'ensemble des électeurs"
+  - "Les politiques devraient être jugées selon qu'elles s'alignent ou non sur la constitution originelle du pays"
+explanation: >-
+  Friedman a écrit que l'une des plus grandes erreurs consiste à juger les politiques selon leurs intentions plutôt que selon leurs résultats, en notant que les programmes présentés comme étant en faveur des pauvres produisent presque toujours des effets opposés à ceux que leurs promoteurs avaient prévus. Cela fait écho à l'enseignement de Bastiat selon lequel un bon économiste considère à la fois les effets à court terme et à long terme sur l'ensemble de la population.
+reviewed: false

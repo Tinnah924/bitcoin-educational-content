@@ -1,8 +1,9 @@
-question: Gustave Molinarin analyysin mukaan teoksessa Les Soirées de la rue Saint Lazare (Saint Lazaruksen kadun illat) konservatiivien ja sosialistien välillä on ilmeisistä ideologisista eroista huolimatta perustavaa laatua olevia yhtäläisyyksiä
-answer: Molemmat pyrkivät pakottamaan näkemyksensä yhteiskunnasta valtion väliintulon avulla, vaikka heillä on erilaiset näkemykset siitä, miltä yhteiskunnan pitäisi näyttää
+question: "Mikä on Hayekin perustava argumentti siitä, miksi keskussuunnittelu epäonnistuu?"
+answer: "Tieto on olemassa vain hajanaisina sirpaleina, joita erillisillä yksilöillä on hallussaan, eikä keskusauktoriteetti voi keskittää tai integroida sitä"
 wrong_answers:
-  - Molemmat hylkäävät yksilön omistusoikeudet ja suosivat tuotantovälineiden kollektiivista omistusta ihanneyhteiskunnissaan
-  - Molemmat pitävät vapautta ehdottomana periaatteena, josta ei pidä koskaan tinkiä yhteiskunnallisista seurauksista tai käytännöllisistä näkökohdista riippumatta
-  - Molemmat vastustavat kaikenlaista valtion sääntelyä ja kannattavat kaikkien julkisten palvelujen ja instituutioiden täydellistä yksityistämistä
-explanation: |
-  Molinarin keskeinen oivallus oli, että konservatiivit ja sosialistit jakavat pinnallisista erimielisyyksistään huolimatta perustavanlaatuisen lähestymistavan hallintoon: molemmat uskovat, että valtiovallan avulla on voitava tyrkyttää omaa näkemystään siitä, miten yhteiskunta tulisi järjestää. Konservatiivit haluavat säilyttää perinteiset rakenteet valtion väliintulon avulla, kun taas sosialistit haluavat luoda ihanneyhteiskunnan valtion valvonnan avulla. Tämä on vastakohta libertaristiselle taloustieteilijälle, joka vastustaa molempia, koska hän torjuu valtion pakkokeinojen käytön minkä tahansa tietyn yhteiskunnallisen näkemyksen, olipa kyseessä sitten perinteinen tai edistyksellinen näkemys, tyrkyttämiseksi.
+  - "Keskussuunnittelijat ovat moraalisesti korruptoituneita ja toimivat aina oman etunsa eivätkä yhteisen hyvän mukaisesti"
+  - "Demokraattiset instituutiot ovat liian hitaita vastaamaan taloudellisiin muutoksiin, minkä vuoksi keskitetyt päätökset ovat aina vanhentuneita"
+  - "Keskussuunnittelu epäonnistuu, koska kansalaiset vastustavat tahallaan hallituksen määräyksiä ja kieltäytyvät noudattamasta sääntelyä"
+explanation: >-
+  Hayekin perustava argumentti nojaa informaation luonteeseen. Hän osoitti, ettei tieto koskaan ole olemassa keskitettynä tai integroituna muotona, vaan vain hajanaisina sirpaleina, joita kaikilla erillisillä yksilöillä on hallussaan. Arvo on subjektiivinen ja tunnetaan vain paikallisesti ja epätäydellisesti. Toimistossa istuvalla keskussuunnittelijalla ei ole tietoa asioiden todellisesta hinnasta, koska hän ei osallistu vuorovaikutukseen ja vaihtoon.
+reviewed: false

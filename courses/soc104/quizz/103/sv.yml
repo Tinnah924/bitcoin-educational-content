@@ -1,9 +1,9 @@
-question: Enligt libertariansk filosofi, vad är den grundläggande skillnaden mellan statliga pengar (fiat) och marknadspengar som Bitcoin när det gäller social organisation?
-answer: Statliga pengar representerar tvångsmässig centralisering medan marknadspengar uppstår ur frivilliga decentraliserade interaktioner
+question: "Hur hävdar kursen att frihet gör det möjligt för både vänster- och högervärderingar att samexistera fredligt?"
+answer: "I en ordning med verklig frihet kan människor med vänsterideal frivilligt dela egendom och omfördela medel, medan de med högervärderingar kan spara och föra traditioner vidare, utan att någon sida påtvingar den andra sitt sätt att leva"
 wrong_answers:
-  - Statliga pengar ger demokratisk kontroll medan marknadspengar skapar oligarkisk koncentration av rikedom
-  - Statliga pengar garanterar ekonomisk stabilitet, medan marknadspengar skapar farlig volatilitet och spekulation
-  - Statliga pengar möjliggör omfördelning av social välfärd medan marknadspengar förhindrar kollektiva solidaritetsmekanismer
-explanation: |
-  Av texten framgår att den libertarianska filosofin anser att den grundläggande politiska skiljelinjen går mellan tvång och frivilligt samtycke samt mellan centralisering och decentralisering.
-  Statliga pengar (fiat) beskrivs som ett tvingande, centraliserat system som lätt kan skapas och manipuleras av en liten minoritet, vilket representerar införandet av politisk kontroll över monetära beslut. Marknadspengar som Bitcoin uppstår däremot spontant ur frivilliga interaktioner, är decentraliserade och låter individer göra sina egna monetära val utan statligt tvång. De andra alternativen ger en felaktig bild av det libertarianska perspektivet genom att fokusera på traditionella politiska vänster-högerfrågor snarare än på kärnprincipen om frivillig kontra tvingande organisation.
+  - "Frihet kräver att båda sidor kompromissar genom att acceptera en mittenposition där staten balanserar konkurrerande värderingar genom måttlig reglering"
+  - "Frihet innebär att vänster- och högersamhällen måste leva i separata geografiska områden med egna oberoende regeringar"
+  - "Frihet fungerar genom att låta medborgarna rösta om vilka värderingar som ska genomdrivas i varje region, med växling mellan vänster- och högerpolitik vid varje valcykel"
+explanation: >-
+  Kursen visar att i en verklig frihetsordning kan de som ansluter sig till vänsterideal frivilligt avstå från ägodelar, dela produktionsmedel eller donera löner till omfördelande organisationer. De med högervärderingar kan arbeta hårt, spara och föra familjevärderingar vidare. Ingen bör påtvinga andra sitt sätt att leva. Det är genom marknadens frihet och valets kraft som mål kan uppnås fredligt.
+reviewed: false

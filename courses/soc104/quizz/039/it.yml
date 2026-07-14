@@ -1,9 +1,9 @@
-question: Secondo la prospettiva di Milton Friedman, qual è il problema principale nel giudicare le politiche sociali in base ai loro obiettivi dichiarati piuttosto che ai loro risultati effettivi?
-answer: Le politiche ben intenzionate spesso producono conseguenze non volute che contraddicono i loro obiettivi originari, come la creazione di dipendenza o di distorsioni del mercato
+question: "In che modo i programmi di assistenza sociale finanziati dallo Stato possono produrre effetti perversi, illustrando il pericolo di affidarsi soltanto alle intenzioni?"
+answer: "Possono creare dipendenza, eliminare gli incentivi a lavorare e costituire una spoliazione, poiché il denaro deve prima essere sottratto a coloro che hanno prodotto la ricchezza"
 wrong_answers:
-  - I politici travisano deliberatamente le loro vere intenzioni per nascondere all'opinione pubblica il loro vero programma ed evitare la responsabilità
-  - Le buone intenzioni sono intrinsecamente sbagliate perché riflettono pregiudizi personali piuttosto che un'analisi scientifica oggettiva dei problemi sociali
-  - Gli obiettivi dichiarati sono di solito troppo ambiziosi e irrealistici per essere raggiunti entro i vincoli dei bilanci e delle risorse governative limitate
-explanation: |
-  La critica di Friedman si concentra sul divario tra intenzioni e risultati, non sulla sincerità o sulla fattibilità degli obiettivi. Sostiene che le politiche progettate per
-  di aiuto spesso si ritorcono contro a causa della scarsa comprensione degli incentivi umani e dei meccanismi economici. Il problema non è la disonestà, i pregiudizi o i vincoli di bilancio, ma piuttosto che le buone intenzioni non garantiscono buoni risultati. Per questo motivo, egli sostiene la necessità di definizioni strutturali che esaminino il funzionamento effettivo dei sistemi piuttosto che i risultati che essi pretendono di ottenere.
+  - "Incoraggiano risparmi personali eccessivi, riducono la spesa dei consumatori e causano deflazione nell'economia più ampia"
+  - "Rafforzano l'impresa privata trasferendo i costi del lavoro al governo e riducendo la necessità di salari competitivi"
+  - "Eliminano le distinzioni di classe così completamente che la mobilità sociale diventa inutile e l'innovazione ristagna"
+explanation: >-
+  Friedman avverte che intenzioni generose possono produrre conseguenze dannose quando trascurano un'analisi rigorosa degli incentivi umani. I programmi di assistenza finanziati dallo Stato rischiano di creare dipendenza, di non generare alcun incentivo a lavorare e di costituire una forma di spoliazione, poiché i fondi devono prima essere prelevati dai produttori di ricchezza. Risultati misurabili come la riduzione della povertà e l'efficienza devono avere la precedenza sulle nobili intenzioni.
+reviewed: false

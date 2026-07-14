@@ -1,22 +1,18 @@
 ---
-name: Qual é a sua tendência política?
-goal: Compreender a complexidade do espetro político moderno para identificar a sua própria tendência e situar as principais famílias ideológicas para além da divisão esquerda-direita.
+name: Qual é sua inclinação política?
+goal: Entender a complexidade do espectro político moderno para identificar sua própria tendência e situar as grandes famílias ideológicas além da divisão esquerda-direita.
 objectives: 
-  - Compreender que a tipologia política é mais matizada do que um simples eixo esquerda/direita
-  - Identificar as duas principais dimensões que estruturam o espetro político
+  - Entender que a tipologia política é mais nuançada do que um simples eixo esquerda/direita
+  - Identificar as duas principais dimensões que estruturam o espectro político
   - Caracterizar as quatro principais famílias políticas
-  - Explorar o posicionamento dos bitcoiners no espetro político
-
+  - Explorar o posicionamento dos bitcoiners no espectro político
 
 
 ---
 
-O seu posicionamento político resume-se a direita ou esquerda? Este curso oferece uma abordagem revolucionária para compreender o espetro político através do eixo fundamental Liberdade-Coerção. Utilizando o Diagrama de Nolan, analisamos as famílias políticas - socialistas, conservadores, centristas e libertários - não de acordo com as suas intenções declaradas, mas de acordo com o seu grau de confiança no controlo governamental. Descubra a lógica da ordem espontânea, explore as verdadeiras questões filosóficas (individualismo vs. coletivismo) e aprenda a definir os seus próprios valores sem cair nas armadilhas dos rótulos tradicionais.
+Seu posicionamento político se resume à direita ou à esquerda? Este curso propõe uma estrutura diferente: o eixo fundamental Liberdade-Coerção. Usando o Diagrama de Nolan, analisamos as famílias políticas (socialistas, conservadores, centristas e libertários) não por suas intenções declaradas, mas por sua confiança no controle governamental. **Descubra a lógica da ordem espontânea, explore as verdadeiras linhas de fratura filosóficas e aprenda a definir seus próprios valores além dos rótulos tradicionais.**
 
-
-
-Este curso também revelará porque é que o Bitcoin é mais do que uma simples moeda: é um projeto político herdado dos Cypherpunks. Longe de ser classificável num eixo linear, o Bitcoin é uma força descentralizadora que se opõe à moeda estatal, oferecendo uma fuga pacífica à inflação e à vigilância. Ao limitar o poder centralizado sobre o dinheiro, o Bitcoin redefine a questão política essencial: Somos nós que decidimos a nossa vida, ou é outra pessoa? Mergulhe nesta análise para afinar a sua bússola ideológica e compreender o profundo impacto político desta tecnologia na sua liberdade individual.
-
+Este curso também revela por que o Bitcoin é um projeto político herdado dos Cypherpunks. Uma força descentralizadora que se opõe à moeda estatal, o Bitcoin redefine a pergunta política essencial: **você decide sua vida, ou outra pessoa decide por você?**
 
 
 
@@ -25,1906 +21,1608 @@ Este curso também revelará porque é que o Bitcoin é mais do que uma simples 
 # Introdução
 
 
-
 <partId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</partId>
 
 
+## Visão geral do curso
+
+<chapterId>2209cf28-29ab-4092-88bd-9ffdc7942972</chapterId>
+
+### Boas-vindas
+
+Bem-vindo a este curso sobre as grandes famílias políticas. Você é de esquerda, de direita, libertário, conservador, socialista, centrista? A maioria de nós foi treinada para responder a essa pergunta usando uma linha horizontal simples que vai da extrema esquerda à extrema direita. O problema é que essa linha, herdada da Revolução Francesa de 1789, já não descreve a realidade política. Na verdade, ela nunca a descreveu plenamente.
+
+Este curso, desenvolvido por Damien Theillier, propõe uma estrutura diferente: o eixo liberdade-coerção. Em vez de perguntar onde você se situa entre esquerda e direita, fazemos uma pergunta mais fundamental: você confia que os indivíduos organizem suas próprias vidas, ou acredita que uma autoridade centralizada deve fazê-lo por eles? Essa única mudança de perspectiva transforma a forma como você lê as notícias, avalia propostas de políticas públicas e compreende suas próprias convicções.
+
+### O que você aprenderá
+
+Ao final deste curso, você será capaz de:
+
+- **Enxergar através da ilusão esquerda-direita.** Você entenderá por que essa classificação, ainda dominante na mídia, esconde mais do que revela, e por que pensadores como Frederic Bastiat ou inovações como o Bitcoin simplesmente não podem ser colocados nessa linha.
+- **Mapear o espectro político em duas dimensões.** Usando o Diagrama de Nolan, você aprenderá a distinguir liberdade econômica de liberdade pessoal e a identificar as quatro grandes famílias políticas que emergem dessa distinção: socialistas, conservadores, libertários e centristas.
+- **Analisar posições políticas por sua estrutura, não por seus slogans.** Políticos prometem justiça, ordem, progresso ou equilíbrio. Você aprenderá a olhar além das intenções declaradas e examinar o mecanismo real em que cada família se apoia: redistribuição, tradição, troca voluntária ou compromisso pragmático.
+- **Reconhecer as raízes filosóficas por trás dos desacordos políticos.** Liberdade como princípio versus liberdade como oportunidade, ordem espontânea versus ordem construída, individualismo versus coletivismo: estas são as verdadeiras linhas de fratura, e este curso lhe dá ferramentas para identificá-las em qualquer debate.
+- **Entender por que o Bitcoin é um projeto político.** Longe de ser uma tecnologia neutra, o Bitcoin herda a tradição cypherpunk e coloca a pergunta política mais fundamental de nosso tempo: quem controla o dinheiro e, portanto, quem controla sua vida?
+- **Definir sua própria identidade política com precisão.** Em vez de aceitar um rótulo dado por um comentarista ou por um quiz, você construirá sua própria posição a partir de primeiros princípios, entendendo exatamente onde está e por quê.
+
+### Programa
+
+O curso está organizado em seis partes:
+
+**Parte 1, A armadilha da divisão direita-esquerda.** Começamos desmontando o eixo político tradicional. Por meio dos casos de Frederic Bastiat e do Bitcoin, mostramos que as ideias políticas mais importantes do nosso tempo não podem ser capturadas por uma linha que vai da esquerda à direita.
+
+**Parte 2, Rumo a uma nova divisão: liberdade-coerção.** Introduzimos o Diagrama de Nolan e suas duas dimensões, liberdade econômica e liberdade pessoal, que revelam uma paisagem política muito mais rica. Você descobrirá onde conservadores, socialistas, libertários e centristas realmente se situam, e por que rótulos como "extrema direita" ou "extrema esquerda" obscurecem mais do que esclarecem.
+
+**Parte 3, Famílias políticas sob o microscópio.** Examinamos cada família em profundidade: suas origens intelectuais, seus principais pensadores, suas tensões internas e seus pontos cegos. Do socialismo democrático ao anarcocapitalismo, do conservadorismo burkeano ao centrismo rawlsiano, você verá cada corrente por dentro.
+
+**Parte 4, Questões societais e econômicas.** Aplicamos nossa estrutura a debates concretos: legalização das drogas, imigração, posse de armas, saúde, tributação, subsídios, salário mínimo. Cada questão é examinada pela lente de todas as quatro famílias políticas.
+
+**Parte 5, Diferenças filosóficas entre famílias políticas.** Vamos mais fundo nos fundamentos intelectuais: liberdade como princípio versus como oportunidade, ordem espontânea versus ordem construída, individualismo versus coletivismo. Essas distinções revelam por que famílias políticas que concordam nos fins tantas vezes discordam dos meios.
+
+**Parte 6, A tendência política entre bitcoiners.** Encerramos examinando o Bitcoin como projeto político, rastreando suas raízes no movimento cypherpunk e fazendo a pergunta que atravessa todo o curso: quem deve decidir?
+
+Vamos começar.
+
+### Sobre o autor do curso
+
+Este curso foi desenvolvido por **[Damien Theillier](https://planb.academy/professors/damien-theillier)**, professor de filosofia em Paris e formado pela Sorbonne Paris IV. Theillier é fundador do Institut Coppet e da Ecole de la Liberte, duas instituições dedicadas à redescoberta e à difusão da tradição liberal francesa. Ele é coautor do manual para classes preparatórias *General Culture* (Pearson, 2013) e de *A Path to Freedom, the Philosophy from Antiquity to Our Days* (Berg International, 2013). Sua profunda familiaridade com a história da filosofia política dá a este curso uma rara combinação de rigor conceitual e relevância prática.
+
 
 ## A armadilha da divisão direita-esquerda
-
 
 
 <chapterId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=j_Ji4d7UiPY)
+Bem-vindo a este curso sobre as grandes famílias políticas. Começamos com a figura de Sócrates, o pai da filosofia ocidental, que nos ensinou a duvidar e a questionar nossas próprias opiniões. Uma das opiniões mais profundamente enraizadas em nosso pensamento moderno é a divisão esquerda-direita. Este curso nos convida a reavaliar nossas classificações políticas e a focar em uma distinção mais fundamental do que esquerda versus direita: a distinção entre liberdade e coerção.
 
+![A Morte de Sócrates](./assets/en/001.webp)
 
+### A armadilha da divisão esquerda-direita
 
-Muitos acreditam que a divisão mais marcante no Ocidente atual é entre a esquerda e a direita políticas. Os media dedicam grande parte do seu discurso a este confronto, que é apresentado como decisivo para o futuro da civilização.
+Muitos acreditam que a divisão mais marcante no Ocidente hoje é entre a esquerda política e a direita política. A mídia dedica grande parte de sua cobertura a esse confronto, apresentado como decisivo para o futuro da civilização. Para identificar as inclinações políticas de um indivíduo, colocamo-lo em uma linha horizontal simples: extrema esquerda, esquerda, centro, direita, extrema direita.
 
+![O espectro político](./assets/en/002.webp)
 
+Essa divisão remonta a 1789. Durante a Revolução Francesa, nos debates de agosto e setembro de 1789, os deputados favoráveis à manutenção do poder do rei sentavam-se à direita do presidente da Assembleia, enquanto os que queriam limitar seus poderes sentavam-se à esquerda. O problema é que **essa categorização se tornou amplamente inoperante em nosso tempo**.
 
-Assim, para identificar as tendências políticas de um indivíduo, traçamo-las numa simples linha horizontal. Posicionamo-nos na extrema esquerda, esquerda, centro, direita e direita da linha, de acordo com as diferentes tendências.
+![A Assembleia Nacional Francesa](./assets/en/003.webp)
 
+Tradicionalmente, a esquerda é vista como reformista e a direita como conservadora. Mas isso se tornou questionável, já que a esquerda social-democrata hoje luta para preservar vantagens adquiridas, o que efetivamente a torna, desse ponto de vista, conservadora. A maioria dos indivíduos que ficam entre os dois extremos é chamada de centrista, mas esse rótulo também simplifica sua posição.
 
+Você já sentiu que esquerda ou direita, socialista ou conservador, não descreve com precisão suas opiniões? A posição de uma pessoa no espectro político não é estática, e muitas vezes depende da questão em pauta. Se alguém é a favor da liberdade econômica, mas também do direito de imigrar, onde você o colocaria em uma linha simples esquerda-direita?
 
-![Political spectrum](./assets/fr/001.webp)
+O problema fundamental desse eixo é que **ele não deixa espaço para o pensamento liberal clássico**, que não pode ser agrupado nem com o igualitarismo da esquerda nem com o nacionalismo da direita. Onde colocamos figuras como Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul ou Javier Milei? Liberais clássicos e libertários às vezes são falsamente equiparados à direita, ou até à extrema direita. Mas, na maioria das vezes, eles simplesmente não existem nesse quadro de referência.
 
+### O caso de Frédéric Bastiat
 
+Frédéric Bastiat (1801-1850), figura emblemática da escola liberal francesa, foi deputado na Assembleia Nacional. Ele tinha uma abordagem inteiramente singular: dizia votar às vezes com a esquerda, às vezes com a direita, dependendo do projeto de lei em discussão.
 
-Uns inclinam-se para aqueles para quem a ordem deve ser preservada e imposta a todo o custo, é a **direita**. Outros inclinam-se para aqueles para quem a igualdade deve ser aplicada a todo o custo, mesmo que isso signifique reformar tudo - esta é a **esquerda**.
+![Frédéric Bastiat](./assets/en/004.webp)
 
+Isso não indicava oportunismo centrista. Bastiat não podia sentar-se com os monarquistas à direita, porque ele próprio era republicano; tampouco queria sentar-se com os socialistas à esquerda. Seus votos eram guiados por um princípio fundamental: **a promoção das liberdades individuais e econômicas e a redução da interferência governamental**. Ele estava convencido de que a ordem social e a prosperidade poderiam emergir por meio da iniciativa privada e da responsabilidade individual, com um mínimo de leis.
 
+Para Bastiat, a verdadeira linha de demarcação não era entre esquerda e direita, mas entre aqueles que acreditavam no poder coercitivo do estado e aqueles que confiavam na liberdade e na associação voluntária. Ele votaria com a esquerda quando suas propostas buscassem abolir privilégios, garantir liberdades civis ou se opor à guerra; e com a direita quando suas propostas protegessem a propriedade privada ou reduzissem impostos.
 
-No entanto, esta categorização é muitas vezes demasiado simplista e ineficaz. Tradicionalmente, por exemplo, a esquerda é vista como reformista, enquanto a direita é mais conservadora. Mas isso tornou-se questionável no nosso tempo, uma vez que a esquerda luta atualmente para preservar as vantagens adquiridas, o que a torna, desse ponto de vista, conservadora.
+### O caso do Bitcoin
 
+O Bitcoin é um exemplo atual fascinante de uma inovação que transcende a divisão tradicional. Ele é inegavelmente **um projeto político que rompe com a política monetária atual**, mas é impossível colocá-lo em um eixo linear simples que vai da extrema esquerda à extrema direita.
 
 
-A maioria dos indivíduos que se situam entre os dois extremos são frequentemente designados por centristas, mas este rótulo também simplifica a sua posição.
+Encontramos apoiadores do Bitcoin em todo o espectro político:
 
+- Para a direita liberal, o Bitcoin representa uma ferramenta de proteção contra a interferência estatal, garantindo propriedade privada e liberdade monetária.
+- Para alguns à esquerda, o Bitcoin representa uma crítica ao sistema bancário tradicional e um meio de democratizar as finanças fora das instituições estabelecidas.
+- Independentemente de qualquer ideologia política, muitos tecnófilos e investidores são atraídos por sua natureza descentralizada e seu potencial disruptivo.
 
+Na realidade, a dicotomia tradicional entre esquerda e direita é inadequada e pouco apropriada para situar corretamente o Bitcoin. Um eixo linear simples não funciona bem, já que ideologias como fascismo e comunismo compartilham características totalitárias que não aparecem em tal eixo.
 
-Vejamos um exemplo: se alguém é a favor da liberdade económica mas também do direito de imigrar, onde o colocaria numa simples linha esquerda-direita? A posição de uma pessoa no espetro político não é estática e depende muitas vezes da questão em causa.
+![O espectro político em ferradura](./assets/en/005.webp)
 
+### Uma falsa divisão
 
+Embora esquerda e direita pareçam completamente opostas, **elas compartilham vários pontos fundamentais em comum**. Ambos os campos criticam regularmente o livre mercado: como fonte de desigualdade (a esquerda) ou como ameaça à soberania (a direita). Ambos compartilham uma preferência pela intervenção estatal, seja por meio do "estado estratégico" ou do "estado emancipador". Apesar de suas diferenças aparentes, todos os partidos políticos, sejam de esquerda, direita ou centro, defendem o direito do estado de governar a vida das pessoas e intervir em todos os assuntos por meio de regulações e impostos.
 
-Muitas pessoas não se enquadram, pensando que esquerda ou direita, socialista ou conservador, não descrevem corretamente as suas opiniões.
+É precisamente por isso que a oposição esquerda-direita é, no fim das contas, uma ilusão. Para ilustrar esse ponto, considere as seguintes perguntas:
 
+**Questões sociais**
 
+- O governo deveria possuir ou controlar jornais, rádio ou televisão?
+- O governo deveria regular a atividade sexual entre adultos consentindo, incluindo a prostituição?
+- Drogas como maconha, cocaína e heroína deveriam ser legalizadas?
+- Deveria ser legal que pessoas viajem ou entrem e saiam de um país sem limitação?
+- O governo deveria enviar tropas para intervir nos assuntos de outros países?
+- As crianças deveriam ser legalmente obrigadas a ir à escola?
+- Os pais deveriam ter permissão para educar seus filhos em casa?
+- A posse de armas deveria ser restringida por lei?
+- Qual deveria ser a política ambiental do governo?
+- Precisamos de uma instituição pública para garantir que medicamentos sejam seguros e eficazes?
 
-Já alguma vez sentiu que nem sempre é suficiente descrever as nuances e a complexidade das opiniões políticas? Muitas pessoas não encontram o seu lugar no meio político e pensam que esquerda ou direita, socialista ou conservador não descrevem corretamente as suas opiniões.
+**Questões econômicas**
 
+- O governo deveria subsidiar agricultores e regular o que eles cultivam?
+- O governo deveria impor tarifas, cotas, embargos ou outras restrições ao comércio internacional?
+- O governo deveria introduzir um salário mínimo obrigatório?
+- A tributação é a única maneira de pagar por serviços públicos necessários?
+- O governo deveria ajudar empresas em tempos econômicos difíceis com empréstimos a juros baixos ou subsídios?
+- Qual é a melhor maneira de administrar os enormes déficits orçamentários atuais?
+- Como podemos resolver o problema do déficit do sistema de previdência social?
+- O governo deveria enviar ajuda financeira a outros países?
+- O que o governo deveria fazer a respeito do aumento dos custos de saúde?
+- Qual deveria ser a política de energia nuclear do governo?
 
+Em todas essas perguntas, emerge uma questão central: **que grau de controle governamental você está disposto a tolerar?** E você é mais ou menos forçado a participar do financiamento desse controle? A pergunta política fundamental é: quem deve decidir? Você toma as decisões importantes sobre sua vida pessoal e social, ou outra pessoa as toma por você?
 
-Embora este critério de posicionamento continue a ser útil para designar as sensibilidades políticas, não é capaz de dar conta, em termos conceptuais, da diversidade dos debates e das posições ideológicas.
+### Governantes e governados
 
+Essa polarização partidária mascara uma divisão muito mais profunda e antiga: **aquela que separa os que governam dos que são governados** há séculos. De um lado, o povo, que suporta inflação, pressão fiscal e vigilância financeira; do outro, a elite tecnocrática e política, que gasta com o dinheiro dos outros, e muitas vezes com a impressora, isto é, com moeda fiat, supostamente para o bem do povo.
 
+![Impostos](./assets/en/006.webp)
 
-O problema com o eixo esquerda-direita é que não deixa espaço para o pensamento liberal clássico, que não pode ser misturado nem com o igualitarismo da esquerda nem com o nacionalismo da direita.
+O sistema de moeda fiat beneficia os indivíduos mais ricos e as entidades financeiras mais poderosas, especialmente os governos, que são os maiores tomadores de empréstimos. Ao tomar empréstimos, eles pressionam os bancos a imprimir dinheiro novo. A inflação resultante desvaloriza insidiosamente a moeda, destruindo as poupanças das pessoas. A moeda fiat é a pedra angular dessa expansão do poder estatal: ela permite que governos financiem gastos ilimitados, eliminando as restrições orçamentárias que existiam sob um padrão-ouro.
 
+Como Frédéric Bastiat observou no século XIX:
 
+> "Em todas as revoluções, sempre houve apenas dois partidos opostos: o das pessoas que querem viver de seu próprio trabalho, e o daqueles que viveriam do trabalho dos outros."
 
-De facto, em que lugar do espetro esquerda-direita situamos personalidades como Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul, Elon Musk, Javier Milei?
+Em outras palavras: aqueles que produzem riqueza e aqueles que a tomam para redistribuí-la a seus apoiadores.
 
+### Controladores e não controladores
 
+Para concluir esta introdução, recorramos a um romance de ficção científica dos anos 1960. Em *The Moon is a Harsh Mistress* (1966), Robert Heinlein sintetizou brilhantemente o que constitui a verdadeira linha de fratura política:
 
-E os liberais clássicos e as escolas de pensamento contemporâneas, como os libertários? Por vezes, são falsamente equiparados à direita, ou mesmo à extrema-direita. Mas, na maior parte das vezes, não existem neste quadro de referência.
+![The Moon is a Harsh Mistress](./assets/en/007.webp)
 
+> "A raça humana se divide politicamente entre aqueles que querem que as pessoas sejam controladas e aqueles que não têm tal desejo."
 
+![Citação de Robert Heinlein](./assets/en/008.webp)
 
-No seu tempo, o economista e deputado Frédéric Bastiat dizia que ora votava com a esquerda, ora com a direita, consoante o projeto de lei em discussão.
+Os "controladores" incluem todos aqueles que, independentemente de sua ideologia declarada, da extrema esquerda à extrema direita, acreditam que o estado ou uma entidade superior deve regular, dirigir e impor comportamentos para o bem da sociedade. Eles favorecem soluções de cima para baixo, planejamento e coerção.
 
+Os "não controladores", ao contrário, são aqueles que não desejam exercer poder sobre os outros e que defendem a máxima liberdade individual. Eles valorizam responsabilidade pessoal, associação voluntária e espontaneidade da ordem social, minimizando a interferência governamental. É aqui que encontramos figuras como Frédéric Bastiat, ou os princípios de descentralização incorporados pelo Bitcoin.
 
+Neste curso, veremos que **a paisagem política é muito mais rica e complexa do que esquerda e direita**, graças a um modelo visual que nos ajudará a compreender melhor as diferentes famílias políticas e onde cada um de nós se situa.
 
-![Frédéric Bastiat](./assets/fr/002.webp)
 
 
-
-Isto não significa que fosse um centrista ou um social-democrata. Bastiat opunha-se firmemente a qualquer forma de estatismo, a qualquer tipo de intervencionismo governamental. Defendia um máximo de liberdades económicas e pessoais compatíveis com o respeito pelos outros, porque acreditava que a ordem social podia emergir de baixo para cima, através da iniciativa privada, da cooperação social e da responsabilidade individual, com um mínimo de leis.
-
-
-
-Vejamos outro exemplo: **O Bitcoin é de direita ou de esquerda?
-
-
-
-![Bitcoin](./assets/fr/003.webp)
-
-
-
-É inegável que o Bitcoin é um projeto que rompe com a atual política monetária. Trata-se, portanto, de um projeto político. Mas é difícil situar o Bitcoin num simples eixo linear que vai da extrema esquerda à extrema direita.
-
-
-
-Para começar, a própria definição de direita e esquerda é complexa e evolui ao longo do tempo, tornando difícil uma classificação rigorosa. Mas, acima de tudo, o Bitcoin, enquanto tecnologia descentralizada, transcende as divisões políticas tradicionais, atraindo apoiantes de vários quadrantes políticos, da esquerda e da direita, incluindo anarquistas e pessoas que se consideram apolíticas.
-
-
-
-
-
-- As personalidades de direita podem ver o Bitcoin como uma alternativa às políticas monetárias dos bancos centrais.
-- As personalidades de esquerda também estão presentes, nomeadamente devido ao potencial do Bitcoin para a inclusão financeira e como instrumento contra a censura.
-
-
-
-Na realidade, a dicotomia tradicional entre direita e esquerda é inadequada, arbitrária e pouco apropriada para situar corretamente o Bitcoin, que é uma moeda pública que qualquer pessoa pode adotar, independentemente das suas inclinações políticas.
-
-
-
-Além disso, um simples eixo linear que vai da esquerda para a direita não funciona bem, uma vez que ideologias como o fascismo e o comunismo têm semelhanças (totalitarismo) que não são visíveis num tal eixo.
-
-
-
-![Spectre politique en fer à cheval](./assets/fr/004.webp)
-
-
-
-Além disso, embora a direita seja indubitavelmente mais liberal do ponto de vista económico do que a esquerda, ambos os campos partilham uma desconfiança em relação ao mercado livre, à liberdade de contrato e à propriedade privada, e uma atração pelo intervencionismo estatal. Para os detentores do poder, quer sejam de direita ou de esquerda, todos os problemas são resolvidos por um novo regulamento ou imposto, e não pela autorregulação das interações individuais.
-
-
-
-É interessante notar que certas posições políticas podem atravessar as tradicionais divisões direita/esquerda. Por exemplo, o protecionismo, frequentemente defendido pela esquerda, pode ser facilmente conciliado com o nacionalismo, um valor tradicionalmente associado à direita. Da mesma forma, o campesinato, embora ligado à terra e às tradições familiares - valores de direita - não hesita em manifestar-se com veemência para exigir subsídios do Estado, uma abordagem que se inscreve na lógica socialista.
-
-
-
-Por fim, não será que esta polarização partidária esconde uma divisão muito mais profunda e antiga: a que separa há séculos os que governam dos que são governados?
-
-
-
-Durante a pandemia de Covid, a maioria dos Estados ocidentais implementou controlos totalitários e, embora muitos deles tenham sido levantados, o fosso entre a classe dominante e o cidadão comum aumentou.
-
-
-
-Com o endividamento público e a inflação, estamos a assistir a uma forma moderna de escravatura através da perda do poder de compra e de poupança das pessoas.
-
-
-De facto, o sistema de moeda fiduciária beneficia as pessoas mais ricas e as entidades financeiras mais poderosas, nomeadamente os governos, que são os maiores devedores. Ao contraírem empréstimos, obrigam os bancos a imprimir dinheiro novo. A inflação resultante é um mecanismo que desvaloriza insidiosamente o dinheiro, destruindo as poupanças das pessoas.
-
-
-
-A moeda fiduciária é a pedra angular desta expansão do poder do Estado. Permite aos governos financiar despesas ilimitadas, eliminando as restrições orçamentais que existiam sob o padrão-ouro. Esta escravatura moderna é mantida por uma elite determinada a preservar os seus privilégios, enquanto uma população enfraquecida, desarmada face à expansão do Estado, vê gradualmente todas as esferas da sua existência ficarem sob controlo.
-
-
-
-Neste curso, veremos que a paisagem política é muito mais rica e complexa do que apenas as duas categorias de esquerda e direita, graças a um modelo visual que nos ajudará a compreender melhor as diferentes famílias políticas.
-
-
-
-Antes de começar este curso, gostaria de o convidar a fazer um pequeno teste. Tenta responder às seguintes perguntas:
-
-
-
-**Questões sociais
-
-
-
-
-- O governo deve ser proprietário ou controlar os jornais, a rádio ou a televisão?
-- O governo deve regular a atividade sexual entre adultos que consentem, incluindo a prostituição?
-- Deverão drogas como a marijuana, a cocaína e a heroína ser legalizadas?
-- Deve ser legal que as pessoas viajem ou entrem e saiam de um país sem limitações?
-- O governo deve enviar tropas para intervir nos assuntos de outros países?
-- As crianças devem ser legalmente obrigadas a frequentar a escola?
-- Os pais devem ser autorizados a ensinar os seus filhos em casa?
-- A posse de armas deve ser restringida por lei?
-- Qual deve ser a política ambiental do governo?
-- Precisamos de uma instituição pública para garantir que os medicamentos são seguros e eficazes?
-
-
-
-**Questões económicas
-
-
-
-
-- O governo deve subsidiar os agricultores e regulamentar o que eles cultivam?
-- O governo deve impor tarifas, quotas, embargos ou outras restrições ao comércio internacional?
-- Deverá o governo introduzir um salário mínimo obrigatório?
-- Será a tributação a única forma de pagar os serviços públicos necessários?
-- O governo deve ajudar as empresas em tempos económicos difíceis com empréstimos a juros baixos ou subsídios?
-- Qual é a melhor forma de gerir os enormes défices orçamentais actuais?
-- Como podemos resolver o problema do défice do sistema de segurança social?
-- O governo deve enviar ajuda financeira a outros países?
-- O que deve o governo fazer face ao aumento dos custos dos cuidados de saúde?
-- Qual deve ser a política de energia nuclear do governo?
-
-
-
-Em todas estas questões, há uma questão central e decisiva que emerge: o grau de controlo governamental que se pode tolerar e, por conseguinte, também o grau de financiamento em que se é mais ou menos obrigado a participar.
-
-
-
-Assim, a questão política fundamental é: **Quem é que deve decidir? ** Dito de outra forma: **São vocês que tomam as decisões importantes sobre a vossa vida pessoal e social, ou é outra pessoa que as toma por vocês?
-
-
-
-Em 1966, em *Revolta no Moon* (The Moon is a Harsh Mistress), o romancista Robert Heinlein desenvolve a ideia de que os governos acabam sempre por acumular poder e controlar os cidadãos, o que ele chama de doença inevitável dos seres humanos.
-
-
-
-![The Moon is a Harsh Mistress](./assets/fr/005.webp)
-
-
-
-Observa que a humanidade está dividida politicamente entre aqueles que querem controlar a vida dos outros e aqueles que não querem.
-
-
-
-> A raça humana divide-se politicamente entre aqueles que querem que as pessoas sejam controladas e aqueles que não têm esse desejo.
-
-![The Moon is a Harsh Mistress quote](./assets/fr/006.webp)
-
-
-
-Atualmente, todos os partidos políticos, sejam de esquerda, de centro ou de direita, defendem o direito do Estado a governar a vida das pessoas e a intervir em todos os assuntos através de regulamentos e impostos. Nos grandes meios de comunicação social, encontramos a mesma coisa: o quadro de referência é estatista.
-
-
-
-Então, o modelo político tradicional de esquerda versus direita deve ser ultrapassado? E se sim, em favor de que outro modelo?
-
-
-
-
-# Para uma nova divisão: liberdade-coerção
-
+# Rumo a uma nova divisão: liberdade-coerção
 
 <partId>fb5cb390-67ad-41f3-903d-c208b84e6a0c</partId>
 
 
 
-
 ## O diagrama de Nolan
-
 
 <chapterId>7b3aa120-6eee-45a1-9e46-856e26403e08</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=rN4fA3ImJjE)
+### De uma dimensão a duas
 
+Em vez de dividir doutrinas políticas ao longo de um eixo direita/esquerda, faz muito mais sentido olhar as coisas pelo prisma da liberdade. A representação clássica do espectro político é uma linha horizontal que vai da esquerda para a direita.
 
+![O espectro político linear](./assets/en/009.webp)
 
-Em vez de dividir as doutrinas políticas ao longo de um eixo direita/esquerda, faria mais sentido olhar para as coisas através do prisma da liberdade. Teríamos então um eixo liberdade-poder, de modo que o pensamento liberal clássico encontraria finalmente o seu lugar no tabuleiro de xadrez político.
+Esse modelo simplifica excessivamente a complexidade das ideologias políticas e, acima de tudo, omite um critério essencial: **o grau de intervenção estatal**. Como discutimos na introdução, a pergunta fundamental é: quem decide? É você, ou outra pessoa?
 
+Isso nos leva a rejeitar o modelo unidimensional em favor de um modelo bidimensional. David Nolan, fundador do Partido Libertário em 1971 e ex-estudante do MIT (Massachusetts Institute of Technology), concebeu um gráfico que representa muito melhor a complexidade do espectro político. Seu diagrama usa dois eixos:
 
+1. Um eixo vertical que mede **liberdades pessoais**
+2. Um eixo horizontal que mede **liberdades econômicas**
 
-Assim, a forma correta de ver as coisas seria contrastar os defensores da liberdade com os defensores do Estado - aqueles que confiam na capacidade dos indivíduos para se organizarem de forma responsável e aqueles que querem uma autoridade forte para os tranquilizar e para controlar a vida dos outros.
+![O diagrama de Nolan](./assets/en/010.webp)
 
+Quanto mais próximo você está do ponto zero (inferior esquerdo), mais sua posição ideológica favorece a intervenção estatal. Inversamente, quanto mais você se desloca para o canto oposto (superior direito), mais favorece mínima intervenção estatal e máximas liberdades individuais. Sob essa perspectiva, a esquerda e a direita tradicionais são relativizadas: a esquerda tende a favorecer liberdades pessoais em detrimento das liberdades econômicas, enquanto a direita clássica favorece liberdade econômica em detrimento das liberdades pessoais.
 
-David Nolan, fundador do Partido Libertário em 1971 e autor do agora famoso Gráfico Nolan, compreendeu isso. Antigo aluno do Instituto de Tecnologia de Massachusetts (MIT), concebeu um gráfico que é suscetível de representar melhor a complexidade do espetro político.
+![O espectro político bidimensional com eixos de liberdade pessoal e econômica](./assets/en/011.webp)
 
+### Os cinco quadrantes
 
+Quando o diagrama é apresentado em forma de losango, podemos identificar cinco quadrantes que situam precisamente as diferentes filosofias políticas:
 
-A sua ideia é acrescentar ao eixo esquerda-direita um segundo eixo liberdade/poder que vai do estatismo em baixo (ponto zero) ao libertarianismo em cima. Quanto mais longe do ponto zero, mais libertário é o posicionamento ideológico.
+![O losango de Nolan](./assets/en/012.webp)
 
+- **Estatismo** (parte inferior): a posição mais autoritária, até totalitária. Aqueles que apoiam pouquíssima liberdade econômica ou pessoal.
+- **Socialismo** (esquerda): aqueles que apoiam menos liberdade econômica, mas maior liberdade pessoal.
+- **Conservadorismo** (direita): aqueles que apoiam maior liberdade econômica, mas menor liberdade pessoal.
+- **Libertarianismo** (topo): o oposto do estatismo. Aqueles que apoiam o maior grau de liberdade econômica e pessoal.
+- **Centrismo** (meio): uma zona pragmática para aqueles que favorecem uma mistura de liberdade e regulação, implicando o sacrifício de certos direitos individuais.
 
+**O eixo fundamental é, portanto, o vertical**: entre aqueles que defendem o máximo de liberdades individuais (no topo) e aqueles que favorecem máximo controle e intervenção estatal na vida das pessoas (na parte inferior).
 
-![Graphique](./assets/fr/007.webp)
+### Nuances dentro de cada família
 
+![Nuances e tensões internas dentro de cada família política](./assets/en/013.webp)
 
+As coisas não são simples, e é sempre difícil defender uma posição política completamente monolítica. Dentro de cada família política, existem tensões e divergências:
 
-![Graphique](./assets/fr/008.webp)
+- Entre os **socialistas**, a maioria é democrata, apegada às eleições, às liberdades civis e a certo grau de economia de mercado. Mas alguns rejeitam a democracia e defendem a revolução, a abolição completa do capitalismo e o planejamento econômico central.
+- Entre os **conservadores**, alguns se opõem fortemente a impostos e programas sociais, situando-se mais perto do topo libertário. Outros têm tendências mais autoritárias e favorecem a regulação econômica; podemos pensar aqui na controvérsia em torno de Donald Trump.
+- Entre os **libertários**, alguns querem abolir completamente o estado e substituí-lo por serviços privados (anarcocapitalistas), enquanto outros preferem um estado mínimo que mantenha suas funções soberanas centrais (os "minarquistas").
 
+![Nuances libertárias no diagrama de Nolan](./assets/en/014.webp)
 
+- Os **Verdes** provavelmente ficam muito baixo no diagrama. Eles consideram que **o interesse individual não deve prevalecer sobre o interesse coletivo do planeta**. Em certo sentido, os Verdes substituíram a luta de classes marxista por uma luta entre homem e natureza, e tendem a defender controle econômico e até a abolição da propriedade privada em nome do bem-estar planetário.
 
-O diagrama é um quadrado dividido em cinco secções, com uma etiqueta atribuída a cada uma das secções seguintes:
-
-
-
-
-- Inferior: a forma mais autoritária, ou mesmo totalitária, de estatismo, correspondendo àqueles que defendem muito pouca liberdade económica e pessoal.
-- À esquerda: socialistas. Aqueles que apoiam menos liberdade económica e mais liberdade pessoal.
-- À direita: conservadores. Aqueles que apoiam níveis elevados de liberdade económica e níveis baixos de liberdade pessoal.
-- Em cima: libertários, o oposto do estatismo de linha dura. São as pessoas que apoiam uma maior liberdade económica e pessoal.
-- No meio: os centristas. Trata-se de uma zona pragmática, para os partidários de um sistema que mistura um pouco de liberdade económica e pessoal com o desejo de alguma regulação do mercado, o que implica o sacrifício de certos direitos individuais.
-
-
-
-Isto faz com que a abordagem bidimensional do diagrama de Nolan seja uma representação muito mais exacta do espetro político do que a típica linha unidimensional da esquerda para a direita a que a maioria dos analistas políticos se refere.
-
-
+![Partidos verdes posicionados no setor autoritário do diagrama de Nolan](./assets/en/015.webp)
 
 ## As duas dimensões fundamentais
-
 
 <chapterId>e41d903d-26c9-425e-8a92-6aec48838b61</chapterId>
 
 
 
-O diagrama representa as liberdades económicas (níveis de tributação, mercado livre, serviços privados) no eixo dos x e as liberdades pessoais (liberdade de circulação, de opinião, de autodeterminação) no eixo dos y.
 
+O diagrama representa as liberdades econômicas (níveis de impostos, livre mercado, serviços privados) no eixo horizontal, e as liberdades pessoais (liberdade de movimento, opinião, autodeterminação) no eixo vertical. Esse esquema se baseia na ideia de que a maioria das questões políticas pode ser dividida em duas grandes categorias: econômicas e pessoais (ou societais).
 
+### Liberdades econômicas
 
-Este esquema baseia-se na ideia de que a maioria das questões políticas pode ser dividida em duas grandes categorias: económica e pessoal (ou social).
+**A categoria de liberdade econômica inclui o que você faz como produtor e consumidor**: o que você pode comprar, vender ou produzir; onde trabalha; quem contrata; e o que faz com seu dinheiro.
 
+![Liberdades econômicas: o que você faz como produtor e consumidor](./assets/en/016.webp)
 
+*Exemplos de atividade econômica:* abrir uma empresa, comprar uma casa, construir um edifício, investir poupanças, contratar ou demitir empregados.
 
-### Liberdades económicas
+![Exemplos de atividades econômicas no diagrama de Nolan](./assets/en/017.webp)
 
+- **À direita do eixo** (rumo à máxima liberdade econômica): preferência por menos intervenção estatal na economia, menos regulações, impostos mais baixos e maior liberdade para empresas e indivíduos produzirem, comerciarem e consumirem. A ênfase está no livre mercado, na propriedade privada e na concorrência como motores da prosperidade.
+  - *Figuras emblemáticas:* Margaret Thatcher (Reino Unido), Ronald Reagan (EUA), Javier Milei (Argentina).
 
-A categoria Liberdade Económica inclui o que faz como produtor e consumidor - o que pode comprar, vender ou produzir. Onde trabalha, quem contrata ou o que faz com o seu dinheiro.
+![Losango de Nolan: eixo da liberdade econômica](./assets/en/018.webp)
 
+- **À esquerda do eixo** (rumo ao máximo controle estatal da economia): preferência por regulação, impostos altos para financiar serviços públicos (saúde, educação, transporte), nacionalização e redistribuição de riqueza. O objetivo costuma ser reduzir desigualdades e garantir certo grau de justiça social.
+  - *Figuras emblemáticas:* Franklin D. Roosevelt (EUA), Jean Jaurès (França), Bernie Sanders, Barack Obama.
 
-
-Exemplos de atividade económica: abrir uma empresa; comprar uma casa; construir um edifício; fazer compras; trabalhar num escritório.
-
-
-
-
-
-- À direita do eixo** (para 100 na escala das Questões Económicas): preferência pela **liberdade económica**. Isto significa menos intervenção do Estado na economia, menos regulamentação, impostos mais baixos e maior liberdade para as empresas e os indivíduos produzirem, comercializarem e consumirem. A ênfase é colocada no mercado livre, na propriedade privada e na concorrência como motores da prosperidade.
- - Figuras emblemáticas:* Margaret Thatcher (Reino Unido), Ronald Reagan (EUA), Javier Milei (Argentina).
-
-
-
-![Right Graphique](./assets/fr/009.webp)
-
-
-
-
-
-- À esquerda do eixo** (para 0 na escala das Questões Económicas): preferência por uma **forte intervenção do Estado na economia**. Isto implica regulamentação, impostos elevados para financiar os serviços públicos (saúde, educação, transportes), nacionalização e redistribuição da riqueza. O objetivo é frequentemente reduzir as desigualdades e garantir um certo grau de justiça social.
-  - Figuras emblemáticas:* Franklin D. Roosevelt (EUA), Jean Jaurès (França), Bernie Sanders, Barack Obama.
-
-
-
-![Left Graphique](./assets/fr/010.webp)
-
-
+![Losango de Nolan: estatismo de esquerda](./assets/en/019.webp)
 
 ### Liberdades pessoais e sociais
 
+**A categoria de liberdade pessoal inclui o que você faz em suas relações privadas**, com suas opiniões e crenças. Em geral, é tudo o que você faz com seu próprio corpo e sua própria mente.
+
+![Liberdades pessoais: o que você faz em suas relações privadas](./assets/en/020.webp)
+
+*Exemplos de atividades pessoais:* casamento, escolha dos livros que você lê e dos filmes que assiste, dos alimentos, medicamentos e drogas que escolhe consumir, suas escolhas religiosas, as organizações das quais participa, as pessoas com quem escolhe se associar.
+
+![Exemplos de liberdades pessoais e societais no diagrama de Nolan](./assets/en/021.webp)
+
+- **Topo do eixo** (rumo à máxima liberdade pessoal): preferência por liberdade individual e tolerância. O estado deveria interferir o mínimo possível nas escolhas de vida dos indivíduos (liberdade de expressão, legalização de certas substâncias, liberdade de movimento etc.). Valorizamos autonomia e diversidade.
+  - *Figuras emblemáticas:* Nelson Mandela, Simone Veil, Noam Chomsky.
+
+![Losango de Nolan: eixo das liberdades pessoais](./assets/en/022.webp)
+
+- **Base do eixo** (rumo ao máximo controle estatal da vida pessoal): preferência por ordem, segurança e valores tradicionais. O estado tem um papel na regulação dos costumes, na manutenção da ordem pública e, às vezes, na defesa de certa visão de moralidade ou tradição. Isso inclui posições favoráveis à pena de morte, restrições à imigração ou promoção governamental da família tradicional.
+  - *Figuras emblemáticas:* Joseph de Maistre (filósofo contrarrevolucionário francês), e líderes autoritários contemporâneos como Vladimir Putin e Xi Jinping.
+
+![Losango de Nolan: eixo autoritário](./assets/en/023.webp)
 
 
-A categoria Liberdade Pessoal inclui o que faz nas suas relações privadas, com as suas opiniões e crenças. Em geral, é tudo o que faz com o seu próprio corpo e mente.
-
-
-
-*Exemplos de actividades pessoais:* o casamento; a escolha dos livros que lê e dos filmes que vê; os alimentos, medicamentos e drogas que escolhe consumir; os desportos; as suas escolhas religiosas; as organizações a que adere; as pessoas com quem escolhe associar-se.
-
-
-
-
-
-- Topo do eixo** (até 100 na escala de Questões Sociais): preferência pela **liberdade individual** e pela tolerância. O Estado deve interferir o menos possível nas escolhas de vida dos indivíduos (direito ao aborto, direitos LGBTQ+, liberdade de expressão, legalização de certas substâncias, etc.). Valorizamos a autonomia e a diversidade.
-  - Figuras emblemáticas:* Nelson Mandela, Simone Veil, Noam Chomsky.
-
-
-
-
-![Left Libertes Graphique](./assets/fr/011.webp)
-
-
-
-
-
-- Na parte inferior do eixo** (em direção a 0 na escala das Questões Sociais): preferência pela **ordem, segurança e valores tradicionais**. O Estado tem um papel a desempenhar na regulação da moral, na manutenção da ordem pública e, por vezes, na defesa de uma determinada visão da moral ou da tradição, incluindo através da violência. Estas incluem posições a favor da pena de morte, de restrições à imigração ou da promoção da família tradicional por parte do governo.
-  - Figuras emblemáticas:* Joseph de Maistre (filósofo contrarrevolucionário francês) - pelas suas ideias sobre a ordem e a autoridade divinas. Líderes autoritários contemporâneos, como Vladimir Putin na Rússia e Xi Jinping na China.
-
-
-
-
-![Libertes Graphique](./assets/fr/012.webp)
-
-
-
-## É um estatista de direita ou de esquerda?
-
+## Você é um estatista de direita ou de esquerda?
 
 
 <chapterId>06d903fc-9453-47d4-b0b1-38b6b82ccf99</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=AskWWBXom3Y)
+### Estatismo como terreno comum
 
+Ao contrário das aparências, esquerda e direita não são tão opostas quanto parecem. Elas muitas vezes compartilham um desejo comum de controle: o que podemos chamar de estatismo. É claro que suas motivações, valores e prioridades diferem.
 
+A esquerda se preocupa menos com exigências morais tradicionais, mas dá prioridade à justiça social e à igualdade, particularmente no plano econômico. Essa é a fonte de sua hostilidade à liberdade econômica, ao capitalismo e ao livre mercado: **a esquerda quer legislar e regular a economia**.
 
-Uma pessoa pode ser de esquerda na economia (a favor da redistribuição) mas de direita nas questões sociais (muito apegada à ordem e à tradição). E vice-versa! O modelo em forma de diamante capta esta complexidade.
+A direita, por sua vez, dá prioridade à moral pessoal e aos valores tradicionais. Ela considera que a civilização foi construída sobre certas instituições tradicionais e hierarquias sociais, e que essa herança deve ser preservada. É mais favorável à liberdade econômica porque defende a moralidade da propriedade privada e da responsabilidade individual, mas **quer legislar sobre moralidade e religião**.
 
+### O eixo vertical revela a verdade
 
+A ideia central do diagrama de Nolan é que a grande diferença entre filosofias políticas é o grau de controle governamental sobre a ação humana, seja na esfera pessoal, seja na econômica. Em outras palavras, não há apenas um eixo esquerda-direita que reflete suas sensibilidades pessoais, mas também um eixo de cima para baixo que reflete sua disposição de usar a força para obrigar outros a seguir seus valores.
 
-A esquerda é tradicionalmente definida como estando associada ao socialismo, um sistema em que o Estado detém poderes significativos sobre os indivíduos e a organização da sociedade, nomeadamente em termos de redistribuição de rendimentos. A direita poderia ser vista como o oposto, uma situação em que o Estado é desprovido de poderes significativos, o que a definiria como liberal. No entanto, a realidade é mais complexa, e a direita não é simplesmente o oposto da esquerda estatista.
+![Estatismo de esquerda e de direita](./assets/en/024.webp)
 
+Sob essa perspectiva, esquerda e direita compartilham o mesmo objetivo político: conquistar o poder para organizar a sociedade segundo sua visão de mundo e impô-la a todos. Esta é a própria definição de estatismo: usar a legislação para controlar e moldar a sociedade. Para alguns, é em nome da defesa da civilização; para outros, é em nome da defesa da classe trabalhadora, da natureza ou dos oprimidos. E os centristas também aprovam isso, quando lhes convém.
 
+É por isso que podemos dizer que **alguns são estatistas de direita, enquanto outros são estatistas de esquerda**. A verdadeira pergunta política, portanto, não é tanto se você é de esquerda ou de direita, mas até que ponto você quer que o estado intervenha para moldar a sociedade segundo seus valores. Você deseja impor suas próprias sensibilidades aos outros, ou prefere que **cada pessoa seja livre para decidir por si mesma**?
 
-De facto, as políticas seguidas pelos governos de direita e de esquerda ao longo das últimas décadas não foram fundamentalmente diferentes e nenhuma foi verdadeiramente liberal no sentido clássico e europeu do termo.
-
-
-
-A ideia central do diagrama de Nolan é que a principal diferença entre as filosofias políticas, o verdadeiro fator determinante, é o grau de controlo governamental sobre a ação humana nas esferas pessoal e económica.
-
-
-
-Por outras palavras, não existe apenas um eixo esquerda-direita que reflecte os seus valores pessoais, mas também um eixo superior-inferior que reflecte a sua vontade de usar a força para obrigar os outros a seguir os seus valores.
-
-
-
-Deste ponto de vista, a direita e a esquerda têm o mesmo objetivo político: conquistar o poder para poderem organizar a sociedade de acordo com a sua visão do mundo e impô-la a todos.
-
-
-
-Esta é a própria definição de estatismo: utilizar a legislação para controlar e moldar a sociedade.
-
-
-
-É por isso que podemos dizer que alguns são **estatistas de direita**, enquanto outros são **estatistas de esquerda** ou de centro.
-
-
-
-![Libertes Graphique](./assets/fr/013.webp)
-
-
-
-Para uns é em nome da defesa da civilização, para outros é em nome da defesa da classe operária, da natureza ou dos oprimidos. E os centristas aprovam-no também, quando lhes convém.
-
-
-
-A direita considera que a moralidade pessoal é o mais importante e, por isso, está disposta a permitir a liberdade em matéria de propriedade e de economia. Por outro lado, querem legislar sobre moral e religião ao mesmo tempo.
-
-
-
-Por seu lado, a esquerda não dá muita importância às exigências morais e religiosas tradicionais. Menos preocupada com a justiça divina, preocupa-se sobretudo com a justiça social, ou talvez com a ideia de que a justiça divina *seria* justiça social. Para ela, a distribuição adequada de recompensas na sociedade é vista como uma questão de decisão judicial ou política. Consequentemente, a esquerda política é hostil à liberdade económica e ao mercado livre, que não parecem distribuir a riqueza e as recompensas de acordo com as necessidades individuais.
-
-
-
-## É um conservador cultural ou um conservador político?
-
+## Você é um conservador cultural ou um conservador político?
 
 <chapterId>bef3d6f1-390a-472d-8f18-a559d38aea54</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=4DDAZGjQk2Q)
+### Dois conservadorismos distintos
 
+![A distinção entre conservadorismo cultural e político](./assets/en/025.webp)
 
+O termo "conservadorismo" pode gerar confusão. Precisamos absolutamente **distinguir entre conservadorismo cultural, que pertence ao domínio dos valores**, e conservadorismo político, que é uma filosofia política que se apoia na imposição desses valores a toda a sociedade.
 
-O conservadorismo cultural é a adesão pessoal aos chamados valores morais, antropológicos, estéticos e metafísicos tradicionais, todos herdados do passado. É uma sabedoria de vida, guiada por princípios ancestrais, sejam eles greco-romanos ou judaico-cristãos. **Não é uma filosofia política
+**Conservadorismo político** é uma ideologia, frequentemente representada em partidos de direita ou extrema direita. Ele visa preservar instituições políticas estabelecidas e a ordem social, opondo-se a qualquer grande ruptura estrutural. Seus defensores desejam usar o poder e a lei para salvaguardar sua herança. Na França, essa tradição remonta a pensadores contrarrevolucionários como Joseph de Maistre e Louis de Bonald, e mais recentemente a Raymond Aron no século XX.
 
+**Conservadorismo cultural**, por outro lado, é uma sabedoria de vida: a adesão pessoal a valores familiares, morais, estéticos e metafísicos herdados do passado, sejam greco-romanos ou judaico-cristãos. Não é uma filosofia política. O conservador cultural acredita que o homem, para ser feliz, precisa de elevação da alma, valores espirituais e certa nobreza de sentimento. Esses valores não são impostos aos outros; são vividos como uma escolha pessoal e, às vezes, familiar.
 
+### Você pode ser conservador cultural e libertário
 
-Se é um conservador cultural, é a favor da família tradicional, da ética das virtudes e da crença em Deus. O conservador cultural acredita que o homem, para ser feliz, precisa de elevação da alma, de valores espirituais e de uma certa nobreza de sentimentos.
+Esses dois ramos, embora distintos, às vezes são confundidos porque podem ser adotados simultânea ou separadamente. **Você pode ser conservador cultural sem ser conservador político.** Um indivíduo pode defender tradições culturais (família, religião, costumes locais) em sua vida pessoal ou comunitária, enquanto defende um governo limitado que não impõe esses valores por lei. Tal pessoa incentiva normas conservadoras por meio da persuasão, da educação e do exemplo, respeitando o direito dos outros de viver de modo diferente.
 
+O libertário culturalmente conservador pode desaprovar moralmente certos comportamentos, mas **não defende a proibição legal de ações consensuais e não agressivas**. Ele pode não gostar dessas ações, opor-se a elas e desencorajá-las ativamente, mas sempre sem recorrer à força coercitiva da lei.
 
+Essa síntese entre libertarianismo e conservadorismo cultural recebeu o nome de "paleo-libertarianism" nos Estados Unidos. Essa corrente se distingue do neo-libertarianismo (uma vertente mais simpática ao igualitarismo e às evoluções sociais dos anos 1970) ao combinar **a rejeição do estado como fonte institucional de coerção** com um reforço das instituições tradicionais e uma preferência por estruturas sociais voluntárias em vez de autoridade estatal. Em outras palavras, o paleo-libertário não se opõe à existência de comunidades socialistas ou comunitárias; o que ele recusa é que tais comunidades imponham seus valores a todos pela força da lei. Duas grandes figuras encarnam essa abordagem:
 
-Por outro lado, o **conservadorismo político** é uma forma de organizar a sociedade de acordo com uma ordem fixa. É por isso que os conservadores se opõem ao progresso. Querem congelar a sociedade no estado em que se encontra no momento em que falam, e acreditam que qualquer mudança seria pior.
+![Paleo-libertarianismo: conservadorismo cultural combinado com princípios libertários](./assets/en/026.webp)
 
+- **Murray Rothbard**, economista e filósofo que desenvolveu a teoria libertária ao mesmo tempo em que reconhecia a importância dos valores tradicionais, sem jamais defender sua imposição pelo estado.
+- **Ron Paul**, congressista do Texas por décadas que disputou a indicação presidencial republicana. Pessoalmente conservador em seus valores, ele defendeu consistentemente uma visão de governo limitado que respeita as liberdades individuais. Por exemplo, Ron Paul sempre aconselhou contra o uso de drogas, mas simultaneamente se opôs à proibição das drogas. Era pessoalmente contrário ao aborto, mas defendeu de modo consistente que a escolha deveria ser deixada aos estados federados, em vez de imposta de cima.
 
+![Posições conservadoras e libertárias](./assets/en/027.webp)
 
-Politicamente, os conservadores culturais juntam-se muitas vezes às fileiras do conservadorismo político. Mas nem sempre é esse o caso. Os dois conservadorismos não são necessariamente inseparáveis. **É possível ser um conservador cultural e um libertário
-
-
-
-Por exemplo, um indivíduo pode defender tradições culturais (como a família, a religião ou os costumes locais) na sua vida pessoal ou comunitária, ao mesmo tempo que defende um governo limitado que não imponha esses valores por lei. Este tipo de pessoa pode encorajar normas conservadoras através da persuasão, da educação ou do exemplo, respeitando simultaneamente o direito dos outros a viverem de forma diferente, de acordo com os princípios libertários.
-
-
-
-O libertário culturalmente conservador pode desaprovar moralmente certos comportamentos, mas **não defende a proibição legal ou o encarceramento** de pessoas que se envolvem em acções consensuais e não agressivas. Pode não gostar de tais acções, opor-se a elas, combatê-las e desencorajar ativamente as pessoas de se envolverem nelas, mas sempre **sem recorrer à força coerciva da lei**.
-
-
-
-Na prática, figuras como Ron Paul ou pensadores como Rothbard e Hoppe, nos EUA, tentaram conciliar estas duas visões, defendendo simultaneamente os valores tradicionais e a máxima liberdade individual.
-
-
-
-![Libertes Graphique](./assets/fr/014.webp)
-
-
-
-## É um liberal ou um libertário?
-
+## Você é liberal ou libertário?
 
 <chapterId>d382c40b-78ce-416f-9f63-6ad43768406b</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=pPA2uyoaBrE)
+### Uma confusão transatlântica
 
+![A confusão transatlântica entre liberalismo e libertarianismo](./assets/en/028.webp)
 
+Os termos usados para designar famílias políticas não são imutáveis. Eles podem variar conforme o contexto geográfico e histórico, criando uma grande fonte de confusão. Quando se pergunta "você é liberal ou libertário?", um europeu poderia responder que é a mesma coisa. Mas, no uso anglo-saxão, são conceitos radicalmente diferentes.
 
-Os termos utilizados para designar as famílias políticas não são imutáveis. Podem variar consoante o contexto geográfico e histórico. Este facto pode dar origem a confusão.
+Na Europa, o termo *liberalismo* permaneceu relativamente estável ao longo do tempo: está associado a políticas econômicas de laissez-faire, redução da intervenção estatal e defesa das liberdades individuais. Uma posição geralmente classificada à direita.
 
+![Os significados divergentes de liberalismo na Europa e nos Estados Unidos](./assets/en/029.webp)
 
+Nos Estados Unidos, a mesma palavra passou por uma mudança dramática de significado. **Os *liberals* americanos se tornaram defensores da intervenção estatal e do *Big Government***. Essa evolução pode ser rastreada por momentos-chave:
 
-Na Europa e nos Estados Unidos, certas palavras já não têm o mesmo significado. É o caso da palavra liberalismo.
+- Nos anos 1930, o *New Deal* de Franklin D. Roosevelt marcou uma primeira grande virada intervencionista em resposta à Grande Depressão: obras públicas, emprego público, subsídios. O significado de *liberalism* começou a deslizar para um paradigma estatista.
+- Nos anos 1960, a *Great Society* de Lyndon B. Johnson estendeu isso a programas sociais e intervenção federal.
+- Hoje, os *liberals* americanos são em grande parte democratas que defendem seguro de saúde público e planos antipobreza. Alguém como Bernie Sanders, que se descreve como socialista ou social-democrata, reivindica o rótulo liberal, mas para ele isso é sinônimo de intervenção estatal para emancipar indivíduos.
 
+Estamos muito longe do sentido europeu do termo.
 
+![A evolução histórica do liberalismo americano rumo ao intervencionismo](./assets/en/030.webp)
 
-Na América do Norte, o *liberalismo* é classificado à esquerda e equiparado ao progressismo. De facto, os *liberais* americanos tornaram-se defensores da intervenção do Estado e do *Gig Government*. Esta evolução histórica contrasta fortemente com o significado que os termos liberal e conservador continuam a ter na Europa.
+### O surgimento do libertarianismo
 
+Diante dessa deriva linguística, os apoiadores do liberalismo clássico nos Estados Unidos começaram a se chamar *libertarians* a partir dos anos 1960, precisamente para se distinguir dos *liberals* americanos. Eles são herdeiros do liberalismo clássico europeu do século XIX.
 
+![O surgimento do libertarianismo como resposta à deriva do liberalismo americano](./assets/en/031.webp)
 
-Com efeito, em muitos países, nomeadamente na Europa, o termo liberalismo está associado a políticas económicas de laissez-faire e a uma reduzida intervenção do Estado.
+Um eixo fundamental do libertarianismo é o conceito de **ordem espontânea, devido especialmente a Friedrich Hayek** e à escola austríaca de economia. Segundo Hayek, as regras e normas que governam a sociedade não devem ser impostas de cima por planejamento autoritário, mas devem emergir do livre jogo das vontades individuais, dos contratos e das relações livremente consentidas entre adultos.
 
+### Figuras intelectuais-chave
 
+![Figuras intelectuais-chave do libertarianismo: Rothbard e Nozick](./assets/en/032.webp)
 
-É por isso que o termo *liberais* é enganador para um europeu. A política liberal americana, desde o século XX, pode ser descrita como uma mudança para um paradigma estatista e autoritário, que distorceu o significado da palavra *liberalismo*.
+Vários pensadores moldaram o movimento libertário:
 
+- **Murray Rothbard**, que já mencionamos a respeito do conservadorismo cultural, é também o teórico do anarcocapitalismo. Em seu livro de 1973 *For a New Liberty*, ele defendeu **a abolição do estado e a privatização completa das atividades sociais**, opondo-se tanto ao intervencionismo econômico quanto ao militar.
+- **Robert Nozick**, professor de filosofia política em Harvard, respondeu a *A Theory of Justice* de John Rawls com *Anarchy, State, and Utopia* (1974). Nozick defendeu um estado mínimo na tradição lockeana, e seu rigoroso estilo analítico contribuiu muito para legitimar o pensamento libertário nos círculos acadêmicos.
 
+### Estrutura institucional
 
-Historicamente, o *liberalismo* americano tem apoiado um intervencionismo estatal significativo (o *New Deal* de Franklin Delano Roosevelt e a *Great Society* de Lyndon B. Johnson), incluindo a redistribuição da riqueza e os programas sociais. Nos EUA, o termo *liberal* está, portanto, associado a políticas de esquerda ou social-democratas, como o seguro de saúde público e os planos públicos de combate à pobreza.
+![A estrutura institucional do movimento libertário](./assets/en/033.webp)
 
+**O movimento libertário organizou-se progressivamente**:
 
+- O **Cato Institute** (1977), um think tank sediado em Washington, trabalha em propostas de políticas públicas.
+- O **Mises Institute** (1982), em Auburn, Alabama, foca em educação e não em lobby político, funcionando como uma espécie de universidade online com conferências e obras republicadas.
+- O **Libertarian Party** (1971), apesar de obter em média cerca de 2% nas eleições, constitui o terceiro maior partido político americano. Esses 2% podem decidir uma eleição, dando ao partido influência muito além de sua pontuação eleitoral.
 
-A partir dos anos 60, os adeptos do liberalismo clássico nos EUA começaram a designar-se por *libertários* para se distinguirem dos liberais americanos. São os herdeiros do liberalismo clássico europeu do século XIX.
+### Libertários e conservadores: uma aliança complexa
 
+Libertários são radicalmente opostos aos *liberals* americanos no sentido moderno do termo. Nesse aspecto, compartilham certo terreno comum com conservadores: apego ao governo limitado dos Pais Fundadores, rejeição do igualitarismo forçado, oposição à dívida pública e defesa dos direitos dos estados contra o poder federal. Ron Paul encarna essa convergência de modo mais claro, embora tenha permanecido uma voz minoritária dentro do Partido Republicano.
 
+Ainda assim, divergências fundamentais persistem. Libertários rejeitam o intervencionismo militar dos neoconservadores (pense-se em George W. Bush e na guerra do Iraque), opõem-se a políticas sociais conservadoras e subsídios (seja a empresas, seja a famílias em nome da compaixão), condenam a proibição das drogas como não apenas ineficaz, mas imoral, e rejeitam o protecionismo. Neste último ponto, por exemplo, **as políticas tarifárias de Trump receberam duras críticas de libertários**, que as viram como uma traição aos princípios do livre comércio. A aliança entre conservadores e libertários, portanto, é real, mas inerentemente tensa, unida por uma crítica compartilhada ao *liberalism* americano, mas dividida quanto ao escopo adequado do poder estatal.
 
-## É um libertário ou um libertário/anarquista (em francês libertaire)?
-
+## Você é libertário ou libertaire/anarquista (em francês libertaire)?
 
 <chapterId>fc761194-249f-4009-a20f-1f98b7226cf2</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=qi6HPBmrJkg)
+### Uma incompatibilidade fundamental
 
+![Libertário versus libertaire: uma incompatibilidade fundamental](./assets/en/034.webp)
 
+Os dois não são compatíveis. Há uma grande fonte de confusão entre esses termos, particularmente em traduções automáticas, nas quais o *libertarian* anglo-saxão frequentemente é vertido como *libertaire*. No entanto, **essas filosofias políticas, apesar de algumas semelhanças superficiais, apresentam diferenças fundamentais**.
 
-O termo **libertário** é por vezes traduzido por libertário ou libertino, o que é um grande equívoco.
+### Anarquismo socialista (os *libertaires*)
 
+![Os libertaires: herdeiros do anarquismo socialista](./assets/en/035.webp)
 
+Os *libertaires* franceses são herdeiros do anarquismo socialista, um ramo do socialismo historicamente ligado a pensadores como Pierre-Joseph Proudhon e Mikhail Bakunin. Seus princípios fundamentais são:
 
-O termo francês libertaire vem da tradição anarquista do século XIX, que deriva do socialismo. Esta tradição está historicamente ligada a pensadores como Pierre-Joseph Proudhon e Mikhail Bakunin. O anarquismo é a doutrina política que afirma que todas as formas de governo são desnecessárias, opressivas e devem ser abolidas.
+- O estado deve ser abolido, pois é uma estrutura opressiva.
+- A propriedade privada e o capitalismo também devem ser abolidos, porque, na doutrina anarquista, o estado é o protetor da propriedade privada e dos ricos. Daí a famosa fórmula de Proudhon: "A propriedade é roubo." (Deve-se notar que o próprio Proudhon evoluiu nesse ponto: o Proudhon inicial era ferozmente anticapitalista, mas **o Proudhon tardio aproximou-se do liberalismo clássico** e passou a ver a propriedade privada como garantia de liberdade.)
+- Eles favorecem um retorno a uma economia de escambo e a uma sociedade igualitária em que os bens pertencem a todos.
 
+Anarquistas como Bakunin e Kropotkin (que era um anarcocomunista estrito, rejeitando até salários como retorno ao capitalismo) viam a propriedade privada e o estado como fontes gêmeas de opressão. Defendiam comunas autogeridas, cooperativas e movimentos anti-hierárquicos. Sua visão econômica repousa na teoria do valor-trabalho; eles condenam o sistema salarial, rejeitam o lucro e as taxas de juros, e desejam **o desaparecimento radical do dinheiro e dos bancos**.
 
+### Libertarianismo: propriedade como fundamento da liberdade
 
-Para os anarquistas socialistas e comunistas, a propriedade é um roubo. Pretendem o desaparecimento do dinheiro e dos bancos e o regresso a uma economia local baseada na troca direta. Procuram uma sociedade igualitária onde a liberdade individual seja exercida num quadro coletivo, sem dominação.
+![Libertarianismo: propriedade privada como fundamento da liberdade](./assets/en/036.webp)
 
+Os libertários divergem completamente dos *libertaires* porque defendem a propriedade privada como o próprio fundamento da liberdade. Para eles, a propriedade privada não é uma mera convenção social protegida pelo estado: **é um direito natural que precede a lei e o estado**. Se um indivíduo é dono de seu próprio corpo, também é dono de seu trabalho e dos frutos de seu trabalho. A propriedade de bens materiais é entendida como uma extensão da autopropriedade.
 
+Daí decorre que a tributação é entendida como agressão semelhante a roubo, pois força um indivíduo a ceder parte de sua propriedade por serviços que ele não necessariamente escolheu. O consentimento voluntário constitui o alicerce moral do libertarianismo.
 
-Ao contrário dos libertários, os anarquistas são frequentemente anti-capitalistas, defendendo formas económicas como o mutualismo, o coletivismo ou o comunismo libertário.
+Quanto à violência, a doutrina libertária rejeita todas as formas de violência agressiva. Porém, admite como legítima a violência defensiva: autodefesa e resistência à opressão.
 
+### Estratégias para abolir o estado
 
-Os anarquistas socialistas, como Mikhail Bakunin e Pierre Kropotkin, viam a propriedade privada e o Estado como fontes gémeas de opressão e propunham a sua abolição.
+Aqui reside outra diferença fundamental. Os *libertaires* historicamente defendem a destruição do estado e do capitalismo pela violência, seja coletiva, seja individual. Essa abordagem repousa historicamente no terror e em ataques direcionados (ou não direcionados), como se viu na Rússia e depois na Espanha durante a guerra civil.
 
+Para os libertários, a violência agressiva não é legítima. A principal estratégia repousa em **deslegitimar o estado por meio da formação de crenças coletivas**: argumentação, debate, discussão e educação. Libertários defendem a desobediência civil ou ações que consistem em ignorar deliberadamente o estado.
 
+### Anarcocapitalismo: raízes históricas
 
-Um anarquista pode defender comunas autogeridas, cooperativas ou movimentos anti-hierárquicos, ao mesmo tempo que rejeita a autoridade do Estado e as estruturas capitalistas.
+![As raízes históricas do anarcocapitalismo: Molinari, Spooner e Tucker](./assets/en/037.webp)
 
+O anarcocapitalismo não é uma doutrina recente. Suas raízes estão no século XIX:
 
+- **Gustave de Molinari**, economista belga que trabalhou em Paris ao lado de Frédéric Bastiat, escreveu em 1849 um artigo intitulado "The Production of Security", no qual argumentava que nenhum governo deveria ter o direito de impedir outro de competir com ele, ou de exigir que consumidores de segurança recorressem exclusivamente a ele para esse produto.
+- **Lysander Spooner** e **Benjamin Tucker**, nos Estados Unidos, foram anarquistas individualistas que argumentaram vigorosamente que o livre mercado era capaz de assumir funções soberanas do estado, notadamente segurança e justiça.
 
-São a favor da abolição do Estado, mas renunciaram à ação violenta contra o Estado por falta de eficácia. Por outro lado, não renunciaram ao uso da violência contra a iniciativa privada. Eles apoiam os monopólios públicos, aceitam a teoria do valor do trabalho, condenam o sistema salarial e consideram o lucro e as taxas de juros como exploração. Poucos anarquistas de esquerda, como Pierre-Joseph Proudhon, fizeram campanhas activas contra a tributação.
+![Murray Rothbard e a teoria abrangente do anarcocapitalismo](./assets/en/038.webp)
 
+No século XX, Murray Rothbard tomou a tocha e teorizou o anarcocapitalismo de modo abrangente, notadamente em *Man, Economy, and State* e *For a New Liberty*. Seu pensamento repousa em dois princípios: o princípio de não agressão (é ilegítimo iniciar força física contra outro indivíduo ou sua propriedade, uma tradução filosófica da regra de ouro: não faça aos outros o que você não gostaria que fizessem a você) e a abolição completa do estado, entendido como o principal agressor.
 
+Rothbard criticava os *libertaires* por adotarem uma visão ingênua e irrealista da natureza humana, semelhante ao "bom selvagem" de Rousseau. Para Rothbard, os homens não são naturalmente bons, mas são guiados por seus interesses. A sociedade deve, portanto, ser organizada de modo que bons incentivos guiem o comportamento, o que exige que a propriedade privada seja reconhecida e garantida. **Abolir o estado não significa abolir as funções do estado**: polícia e justiça não devem ser eliminadas, mas geridas pelo livre mercado com base na concorrência.
 
-Para os libertários, pelo contrário, a única forma de assegurar a liberdade individual é garantir a propriedade privada. A divergência essencial entre libertários e anarquistas diz, portanto, respeito à noção de propriedade individual e de liberdade contratual. Além disso, a doutrina dos libertários sobre a violência é defensiva: auto-defesa e resistência à opressão.
+### Uma nota sobre libertinos
 
+![Libertários, libertaires e libertinos: evitando confusão](./assets/en/039.webp)
 
-
-Os libertinos são activistas da liberdade sexual. Não se trata tanto de uma filosofia política, mas de um modo de vida pessoal, baseado numa moral desinibida que se opõe à moral burguesa. Politicamente, alinham-se frequentemente com os anarquistas de esquerda, ou seja, com os anarquistas.
-
+Não se deve confundir libertários com *libertaires* ou com libertinos. Libertinos são defensores da liberdade sexual. Trata-se menos de uma filosofia política do que de um modo de vida pessoal, fundado em uma moralidade sem tabus oposta à moral burguesa. Politicamente, libertinos frequentemente gravitam em direção ao anarquismo de esquerda, isto é, aos *libertaires*. No entanto, também é possível ser ao mesmo tempo libertino e libertário, pois, para os libertários, **cada pessoa tem o direito de viver como quiser sem agredir os outros**. Inversamente, um libertino que buscasse impor sua moralidade aos outros por meio da lei deixaria, por esse mesmo ato, de ser libertário.
 
 
 # Famílias políticas sob o microscópio
 
-
 <partId>2e1183f6-95d4-4d3c-9274-843993210624</partId>
 
 
-
 ## Definições estruturais e intencionais
-
 
 <chapterId>ec5b13b7-4104-46a9-9c39-a810959a69ee</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=7r7KNK5YnIk)
 
 
+Agora entramos no coração de nossa análise das famílias políticas. Antes de examinar cada uma em detalhe, porém, devemos tratar de uma questão fundamental: como devemos definir um sistema político? Tomemos o socialismo como exemplo. 
 
-Vejamos agora mais de perto as várias filosofias políticas. A parte inferior do quadro será tratada de forma um pouco marginal, uma vez que não se trata propriamente de uma ideologia política, mas sim de um sistema social que tende para o totalitarismo.
+![Famílias políticas sob o microscópio: análise estrutural](./assets/en/040.webp)
 
+Devemos defini-lo por suas intenções declaradas (justiça, bem-estar, emancipação), ou devemos antes defini-lo por sua estrutura fundamental, isto é, **se ele dá primazia ao indivíduo ou ao estado**?
 
+### A armadilha das definições intencionais
 
-Mas, antes disso, é preciso explicar uma distinção importante.
+![Milton Friedman sobre julgar políticas por resultados em vez de intenções](./assets/en/041.webp)
 
+Milton Friedman escreveu:
 
+> Um dos maiores erros é julgar políticas e programas por suas intenções em vez de seus resultados. Todos conhecemos uma famosa estrada pavimentada com boas intenções. [...] Programas rotulados como sendo para os pobres ou para os necessitados quase sempre têm efeitos exatamente opostos àquilo que seus patrocinadores bem-intencionados esperam alcançar.
 
-Milton Friedman escreveu
+Em outras palavras, Friedman dá prioridade ao que poderíamos chamar de análise empírica: focar nas consequências visíveis de um sistema, em vez de nas promessas e programas políticos. Isso ecoa o que Frederic Bastiat ensinou ao argumentar que o bom economista é aquele que vê os efeitos de uma política não apenas no curto prazo, mas também no longo prazo, e não apenas sobre um grupo particular, mas sobre toda a população.
 
+Friedman nos alerta contra o perigo de confiar apenas nas intenções. Políticas motivadas por intenções generosas podem ter consequências imprevistas ou prejudiciais **quando negligenciam uma análise rigorosa dos incentivos e comportamentos humanos**. Por exemplo, programas de assistência social financiados pelo estado (isto é, pelo contribuinte) correm o risco de produzir efeitos perversos: não criam incentivo para trabalhar, geram dependência econômica e equivalem a uma forma de espoliação, já que o dinheiro precisa primeiro ser retirado daqueles que produziram a riqueza. Para Friedman, resultados mensuráveis, como crescimento econômico, redução da pobreza ou eficiência, devem prevalecer sobre intenções, porque estas, por mais nobres que sejam, não garantem sucesso.
 
-> Um dos maiores erros é julgar as políticas e os programas com base nas suas intenções e não nos seus resultados. Todos nós conhecemos uma famosa estrada pavimentada com boas intenções. [...] Os programas rotulados como sendo para os pobres ou para os necessitados têm quase sempre efeitos exatamente opostos aos que os seus patrocinadores bem intencionados esperam alcançar.
+### A abordagem estrutural
 
-De facto, as políticas, muitas vezes motivadas por intenções generosas, podem ter consequências imprevistas ou prejudiciais se não se basearem numa análise rigorosa dos incentivos e comportamentos humanos. Por exemplo, uma política social destinada a ajudar os pobres cria frequentemente efeitos perversos, como a dependência económica ou a distorção do mercado.
+**Definições estruturais ou práticas focam em como os sistemas políticos de fato funcionam** e em suas características observáveis. O socialismo, por exemplo, é caracterizado pela onipresença do estado, que regula, planeja e controla. Isso é um fato, e importa muito mais do que as intenções declaradas de fraternidade ou solidariedade. O libertarianismo, por outro lado, é definido por intervenção estatal mínima na economia e na vida privada, tendendo à primazia da liberdade individual e do livre mercado.
 
+Em contraste, **definições intencionais se apoiam nas motivações, metas ou intenções declaradas** de indivíduos ou grupos. O socialismo se apresenta como buscando "justiça social" e solidariedade. Mas, se nos apoiamos nas intenções, as coisas ficam turvas, porque todos afirmam favorecer a justiça; todos invocam a soberania do povo. No entanto, "o povo" continua sendo um termo extremamente abstrato, e aí está a armadilha.
 
+Nossa análise, portanto, privilegiará a abordagem estrutural, que permite **uma avaliação mais objetiva dos sistemas políticos com base em seus resultados mensuráveis** e meios concretos, em vez de suas intenções proclamadas. No Diagrama de Nolan, a parte inferior do quadro (estatismo puro, tendendo ao totalitarismo) será tratada um pouco separadamente, já que é menos uma ideologia política do que um sistema social. Os três quadrantes acima (socialismo à esquerda, centrismo no meio, conservadorismo à direita) e o libertarianismo no topo serão cada um examinados por essa lente estrutural.
 
-Para Friedman, os resultados mensuráveis - como o crescimento económico, a redução da pobreza ou a eficiência - devem ter precedência sobre as intenções, porque estas últimas, embora nobres, não garantem o sucesso.
+### Além das intenções
 
+![Análise estrutural das famílias políticas: socialismo versus libertarianismo](./assets/en/042.webp)
 
-
-As definições **estruturais ou práticas** centram-se no modo como os sistemas políticos funcionam na prática e nas suas caraterísticas observáveis. Por exemplo, o socialismo é caracterizado pela tendência do Estado para tomar conta, regular e planear tudo. O Libertarianismo, por outro lado, define-se pela primazia dada ao indivíduo e à sua liberdade, tendendo para uma intervenção mínima do Estado na economia e noutras áreas.
-
-
-
-Em contrapartida, as **definições intencionais** baseiam-se nas motivações, objectivos ou intenções declaradas de indivíduos ou grupos. Por exemplo, o socialismo tem como objetivo a justiça social. No entanto, se nos basearmos nas intenções, as coisas tornam-se confusas, porque toda a gente é a favor da justiça. É por isso que preferimos utilizar definições estruturais para uma análise mais clara e objetiva.
-
-
-
-Os capítulos seguintes explicam como definir estruturalmente as famílias políticas.
-
+A análise estrutural serve como ferramenta crítica. Ela nos permite avaliar sistemas políticos segundo seus resultados reais, não suas promessas. Definições intencionais, em contraste, criam uma confusão conceitual na qual todos os sistemas afirmam perseguir objetivos semelhantes (justiça, equidade, liberdade), tornando-os impossíveis de distinguir uns dos outros. Devemos, portanto, atentar para as **consequências empíricas e mensuráveis de um sistema político**, bem como para os meios que ele emprega. É por meio deles que a verdadeira natureza de um sistema político se revela, além da retórica de intenções ou programas.
 
 
 ## Os socialistas
 
-
 <chapterId>1ef34d7b-f813-458c-934c-1d404f882150</chapterId>
 
+O socialismo é um movimento político e econômico, e de fato uma doutrina, que surgiu no século XIX com a crítica das desigualdades sociais e da alienação dos trabalhadores na grande indústria. Desde suas origens, é também claramente um movimento anticapitalista, embora, como veremos, socialistas modernos tenham progressivamente introduzido moderações e compromissos em seus princípios.
+
+![Os socialistas: princípios e variantes](./assets/en/043.webp)
 
 
-![video](https://www.youtube.com/watch?v=-JBJDQqgH_k)
+### Liberdades no quadro socialista
 
+No pensamento socialista, as liberdades não são consideradas de modo uniforme. Observa-se **uma dicotomia fundamental entre as esferas societal e econômica**:
 
+- **Liberdades:** fortes na esfera societal, mas fracas na esfera econômica.
+- **Valores cardinais:** igualdade, progresso, justiça social, solidariedade.
+- **Filosofia e princípios:** Primazia da organização coletiva. O socialismo é uma prática enraizada em uma visão holística da sociedade (holismo), expressa por meio do estado. O termo "holismo" vem do grego *holos*, que significa "o todo". O estado socialista visa assumir e dirigir ao máximo a atividade humana. Socialistas têm uma fé quase ilimitada na possibilidade de construir uma nova ordem social baseada na razão, o que Hayek chamou de "construtivismo".
+- **Política:** Socialistas defendem programas de saúde, captura regulatória, aumentos de impostos e subsídios para garantir equidade. Isso implica direção estatal econômica e social, planejamento (a organização da produção a montante). O socialismo mais radical e plenamente realizado é totalitário, pois o estado assume toda a atividade humana.
+- **Economia:** O socialismo implica forte controle estatal da economia, em favor da equidade. Socialistas desconfiam dos livres mercados, que veem como forças cegas e instintivas. Favorecem redistribuição de riqueza, programas sociais centralizados e tributação progressiva que aumenta proporcionalmente à renda e se torna punitiva para aqueles que ganham ou produzem riqueza.
 
-![Socialistes Graphique](./assets/fr/015.webp)
+![Diagrama de Nolan mostrando o socialismo posicionado com fortes liberdades societais, mas fracas liberdades econômicas](./assets/en/044.webp)
 
+### Evolução histórica
 
+O conceito de socialismo foi usado sistematicamente pela primeira vez pelo francês Pierre Leroux em 1833, em um artigo para a *Revue Encyclopedique*, explicitamente em oposição ao individualismo. O termo foi então aplicado às doutrinas de Saint-Simon, Fourier e Owen em meados do século XIX, antes de Marx adotá-lo para seus próprios fins. Notavelmente, a palavra "comunismo", que Marx abraçaria, também se originou com um socialista francês chamado Etienne Cabet.
 
+No fim do século XIX, surgiu uma ruptura completa entre marxismo e anarquismo. A partir do início do século XX, **uma divisão fundamental separou socialistas revolucionários de socialistas reformistas**:
 
+1. **Socialistas revolucionários** opõem-se aos direitos de propriedade e buscam destruir a sociedade burguesa capitalista. Visam tomar o poder por meio da violência ou da ditadura do proletariado. Essa corrente deu origem ao comunismo marxista e, em última instância, aos piores regimes totalitários.
 
-- Liberdades:** bastante fortes na esfera social, mas fracas na esfera económica.
-- Valores cardinais:** igualdade, progresso, justiça social, solidariedade.
-- Filosofia e princípios:** Primado da organização colectiva. O socialismo é uma prática baseada na sociedade como um todo (holismo) e expressa através do Estado. O Estado socialista pretende assumir e dirigir ao máximo a atividade humana. Os socialistas têm uma fé quase ilimitada na possibilidade de construir uma nova ordem social baseada na razão.
-- Política:** Os socialistas defendem programas de saúde, aumento de impostos e subsídios para garantir a equidade. Isto implica a direção económica e social do Estado, a planificação (organização da produção a montante). Hayek fala de construtivismo, ou seja, a ideia de que cabe ao Estado construir a sociedade e dar-lhe uma determinada forma, ao contrário da ordem liberal em que a sociedade se constrói a si própria (ordem espontânea). O socialismo mais radical e bem sucedido é o totalitário, pois o Estado toma conta de toda a atividade humana.
-- Economia:** O socialismo implica um forte controlo estatal da economia, a favor da equidade (permitir que todos se sustentem). Os socialistas desconfiam dos mercados livres, que vêem como um sistema que permite que os fortes se aproveitem dos vulneráveis. Favorecem a redistribuição da riqueza e programas sociais centralizados financiados por impostos e receitas elevados.
+2. **Socialistas reformistas** não são propensos à violência; entenderam que a oposição frontal ao estado não compensa. Buscam justiça social por meio de eleições democráticas e tributação, usando os recursos gerados pela economia de mercado. Em outras palavras, aceitam temporariamente o capitalismo para usá-lo contra si mesmo. Essa tradição é representada por Jean Jaures, Leon Blum, Olof Palme (Suécia), Willy Brandt (Alemanha) e Francois Mitterrand (França).
 
+### Marx e o ramo revolucionário
 
+![Karl Marx e a distinção entre socialismo utópico e científico](./assets/en/045.webp)
 
-**Tipos de socialistas
+Karl Marx traçou uma distinção crucial entre socialismo utópico e socialismo científico. Ele acusava os primeiros socialistas franceses (Proudhon, Saint-Simon, Fourier) de serem utópicos, isto é, de proporem soluções puramente imaginárias sem fundamentos teóricos ou práticos genuínos.
 
+O socialismo científico de Marx repousa no materialismo histórico: a ideia de que **a história progride por meio da luta de classes e da apropriação dos meios de produção**. Segundo essa abordagem, todas as representações culturais (direito, instituições políticas, religiões) são condicionadas pelo desenvolvimento das forças produtivas e das relações de produção. O estado, a lei, até a própria cultura são meras expressões dos interesses da classe dominante. Foi esse quadro materialista que levou Marx a argumentar que o proletariado deve tomar consciência de sua opressão e libertar-se pela revolução, eliminando a classe opressora.
 
-O conceito de socialismo é um neologismo que foi utilizado pela primeira vez de forma sistemática e com um significado preciso pelo francês Pierre Leroux em 1833. Dentro do socialismo moderno, podem distinguir-se duas tradições:
+### Socialismo democrático e a tradição reformista
 
+![Jean Jaures e os fundamentos do socialismo democrático](./assets/en/046.webp)
 
-1.  **Os socialistas revolucionários** opõem-se ao direito de propriedade e querem destruir a sociedade burguesa capitalista. Seguem os passos dos anarquistas do século XIX, como Bakunin. Este anarquismo deu mais tarde origem ao comunismo marxista.
+Jean Jaures figura como um dos grandes pensadores do socialismo democrático. Filósofo de formação que entrou na política na virada do século XX, Jaures fundou o jornal *L'Humanite*. Sua definição de socialismo era a intervenção legítima da sociedade e do poder na vida humana, particularmente nas relações de trabalho, a fim de realizar a liberdade individual e a equidade. Em outras palavras, **Jaures lançou os fundamentos teóricos para justificar a intervenção estatal em nome da igualdade**.
 
+![Emile Durkheim e os fundamentos sociológicos do socialismo](./assets/en/047.webp)
 
-2.  **Os socialistas reformistas** não são propensos à violência. Não abandonaram o seu objetivo de justiça social, mas este objetivo é perseguido através de eleições democráticas e de impostos, utilizando os recursos gerados pela economia de mercado. Foi o caso de Jean Jaurès, Leon Blum, Olof Palme (Suécia), Willy Brandt (Alemanha) e François Mitterrand (França).
+Emile Durkheim, fundador da cátedra de sociologia na Sorbonne em 1913 e amigo de Jaures, explicou que o socialismo é um protesto contra o estado econômico atual das coisas, que exige uma transformação por meio da organização das forças econômicas. Tanto Jaures quanto Durkheim compartilhavam uma concepção notavelmente econômica do socialismo: a economia não deve ser deixada às forças de mercado (que consideravam cegas e instintivas), mas deve ser administrada racionalmente.
 
+![Socialismo democrático moderno do New Deal à social-democracia nórdica](./assets/en/048.webp)
 
+O socialismo moderno também deve muito a Roosevelt e ao New Deal. Nos anos 1930, Franklin Delano Roosevelt implementou um conjunto de reformas após a Grande Depressão que constituem uma referência importante para todos os defensores contemporâneos do socialismo democrático:
 
-O New Deal de Franklin Delano Rossevelt desempenhou um papel importante na formação do socialismo democrático americano (Bernie Sanders).
-
-
-
-
-
-- Criação da Segurança Social
+- Criação da Social Security
 - Introdução do salário mínimo federal
-- Criação do seguro de desemprego
+- Implementação do seguro-desemprego
 - Programas federais de emprego público
 
+Depois da guerra, o Reino Unido adotou reformas semelhantes (nacionalizações, o estado de bem-estar social), os social-democratas alemães abandonaram progressivamente referências marxistas em favor de uma economia social de mercado, e os países nórdicos desenvolveram um modelo que combina economia de mercado, tributação progressiva e serviços públicos universais. Bernie Sanders, político americano contemporâneo que se identifica como social-democrata, **frequentemente cita a França como exemplo do sucesso desse modelo**, particularmente seu sistema de seguridade social.
 
+### O princípio holístico: primazia do coletivo
 
-De acordo com Bernie Sanders, "estas reformas tornaram-se o tecido social da nação e a base da classe média americana".
+O socialismo é caracterizado por uma visão holística da sociedade, considerada como um todo indivisível em vez de uma simples soma de indivíduos. Há diferentes maneiras de representar esse coletivo: a classe social (a abordagem marxista), a nação (como no fascismo, que subordina o indivíduo ao interesse nacional), a raça (como no Nacional-Socialismo) ou o gênero (como em certas abordagens contemporâneas). Em cada caso, **o indivíduo não se define mais; ele é definido por sua pertença a um grupo**.
 
+### O Green New Deal: uma síntese contemporânea
 
+![O Green New Deal como síntese contemporânea de objetivos ecológicos e sociais](./assets/en/049.webp)
 
+O Green New Deal representa uma evolução recente do socialismo democrático, fundindo preocupações ambientais com objetivos sociais. Politicamente, a ecologia se alinha à esquerda e até à extrema esquerda. Esse programa combina transição ecológica com justiça social, garantias de emprego e serviços públicos reforçados. Em todos os casos, **o interesse individual é subordinado ao interesse coletivo, definido pela saúde planetária** e pelo desafio da mudança climática. No fundo, isso é simplesmente um novo invólucro retórico que justifica intervenção estatal e confisco da renda privada, não mais apenas em nome da equidade e da justiça social, mas também em nome do meio ambiente.
 
-> O socialismo é o método que substitui a propriedade individual dos meios de produção e de troca pela propriedade social.  - Léon Blum, "À Escala Humana", 1945.
+### Pensamento socialista em citações
+
+![Pensamento socialista em citações](./assets/en/050.webp)
+
+> Chegamos a uma clara compreensão de que a verdadeira liberdade individual não pode existir sem segurança e independência econômicas. Homens necessitados não são homens livres.
+> Franklin D. Roosevelt, 1944
+
+> O objetivo do socialismo é a emancipação econômica de todos os homens.
+> Leon Blum, *On a Human Scale*, 1945
+
+> Socialismo é a doutrina que ensina que a sociedade deve ser organizada de tal maneira que assegure o bem-estar de todos os seus membros.
+> Emile Durkheim, *Socialism*, 1928
+
+> Para mim, socialismo é pessoas trabalhando juntas para criar uma sociedade que funcione para todos nós, não apenas para alguns ricos.
+> Bernie Sanders, 2015
+
+Essas citações ilustram as nobres intenções por trás do pensamento socialista. No entanto, **a pergunta fundamental permanece: quais são os meios, e onde está a linha?** Se alguém busca a emancipação econômica por meio da coerção e do poder, isso não é uma contradição em termos?
 
 ## Conservadores
-
 
 <chapterId>4e068cd8-a5c3-44f8-ac77-309f249a59eb</chapterId>
 
 
-
-![video](https://www.youtube.com/watch?v=G-9CnoEcfqQ)
-
+Como toda família política, o conservadorismo não é uma doutrina unificada. Ele se adaptou a diferentes épocas e culturas, e há diferenças substanciais entre o conservadorismo anglo-saxão e sua contraparte continental europeia.
 
 
-![Conservateurs Graphique](./assets/fr/016.webp)
+![Diagrama de Nolan mostrando o conservadorismo posicionado com fortes liberdades econômicas, mas fracas liberdades societais](./assets/en/051.webp)
 
+![Conservadorismo: princípios, valores e evolução](./assets/en/052.webp)
 
+### Liberdades na visão conservadora
 
+Como mostra o Diagrama de Nolan, o conservadorismo exibe uma forte dicotomia entre liberdades societais e econômicas, a imagem espelhada do que observamos com os socialistas:
 
+- **Liberdades:** fortes na esfera econômica, mas fracas na esfera societal. No domínio econômico, conservadores defendem o livre mercado, o empreendedorismo e a propriedade privada, em grande parte por razões pragmáticas e em forte oposição ao socialismo. No domínio societal, restrições são justificadas pela **preservação de normas morais tradicionais e da estabilidade social**.
+- **Valores cardinais:** virtude, ordem, tradição, civilização.
+- **Filosofia e princípios:** Conservadores acreditam que as coisas em geral são boas como estão, e que qualquer mudança poderia piorá-las. No coração dessa filosofia há um apego profundo às raízes, ao passado, e um medo de mudanças demasiado brutais. Eles têm profundo respeito por instituições sociais estabelecidas há muito tempo, vistas como proteções essenciais contra o caos e os excessos da modernidade. Tudo o que já existe e se provou ao longo do tempo é considerado bom em si. Como diz uma enciclopédia americana do conservadorismo: o conservadorismo é uma filosofia que busca manter e enriquecer sociedades por meio do respeito a instituições, crenças e práticas herdadas, nas quais os indivíduos desenvolvem bom caráter cooperando uns com os outros e cumprindo seus deveres dentro de estruturas duradouras.
 
-- Liberdades:** são fortes na esfera económica mas fracas na esfera social.
+![Valores cardinais conservadores: virtude, ordem, tradição e civilização](./assets/en/053.webp)
 
+![Definição contemporânea de conservadorismo: enriquecer sociedades por meio de instituições herdadas](./assets/en/054.webp)
 
+- **Política:** O estado-nação é considerado o eixo principal da política. Conservadores defendem controles sociais tradicionais, defesa nacional forte e poderes policiais mais extensos. Opõem-se a todas as formas de socialismo ou comunismo, que acusam de corromper e enfraquecer a sociedade.
+- **Economia:** A economia permanece uma ferramenta para reforçar a ordem estabelecida e o poder nacional. Conservadores apoiam a livre iniciativa, baixa tributação e regulação mínima dos negócios. Mas temem que **liberdade individual excessiva possa gerar imoralidade ou declínio civilizacional**. Como disse Otto von Bismarck: "A economia é o caminho mais seguro para a grandeza nacional." Mesmo como partidários do livre mercado, conservadores veem a liberdade econômica não como um fim em si, mas como uma alavanca para manter um estado forte.
 
+![Posições políticas e econômicas conservadoras](./assets/en/055.webp)
 
+### Uma breve história do conservadorismo
 
-- Valores cardinais:** virtude, ordem, tradição, civilização.
+A doutrina encontra suas raízes filosóficas no século XVIII, nascida em reação à Revolução Francesa. Edmund Burke é frequentemente citado como a figura fundadora dessa oposição, defendendo a preservação de instituições e tradições contra mudanças radicais. Burke defendia a prudência: mesmo que pudesse abraçar certos princípios da Revolução, acreditava que a sociedade deveria avançar não fazendo tábula rasa, mas por reformas graduais.
 
+![A evolução histórica do pensamento conservador](./assets/en/056.webp)
 
+![Conservadorismo europeu no século XIX](./assets/en/057.webp)
 
+Na Europa do século XIX, o conservadorismo frequentemente se manifestou como apoio à monarquia, à Igreja e à ordem social estabelecida diante da ascensão do liberalismo e do nacionalismo. Figuras como Joseph de Maistre na França representaram uma vertente profundamente reacionária. De Maistre nutria hostilidade absoluta à razão, acreditando que os homens não são seres de razão e que **a sociedade só pode ser governada apelando a instintos profundos**, daí a importância crucial da religião. Esses reacionários defendiam um retorno à sociedade feudal, agrícola e artesanal, vendo a industrialização como ameaça à ordem social tradicional.
 
+![Conservadorismo anglo-saxão e o conceito de liberdade ordenada](./assets/en/058.webp)
 
-- Filosofia e princípios:** Os conservadores acreditam que as coisas estão geralmente bem como estão e que qualquer mudança as pode tornar piores. Procuram preservar o que já existe, defendendo-o como bom em si mesmo, e são avessos a mudanças num sistema que consideram ter provado ser eficaz. No centro da conceção tradicional do conservadorismo está um profundo respeito pelas instituições sociais há muito estabelecidas, vistas como salvaguardas essenciais contra o caos, a injustiça e a crueldade. Estes edifícios sociais sustentam a solidariedade, a segurança e a força de que a humanidade necessita para resistir aos excessos da modernidade.
+No século XX, particularmente nos Estados Unidos, o conservadorismo se desenvolveu em torno dos ideais de liberdade individual, governo limitado, livres mercados e valores cristãos, frequentemente em oposição às políticas progressistas do New Deal. Esse conservadorismo anglo-saxão era muito mais moderno, tendo aceitado plenamente o progresso científico e tecnológico enquanto tentava reconciliar comunidade e indivíduo, liberdade e responsabilidade. Na Grã-Bretanha, Margaret Thatcher exemplificou essa tendência por meio de sua oposição aos sindicatos e ao planejamento centralizado, sempre com o objetivo subjacente de **restaurar valores morais e religiosos como baluarte contra os excessos do progressismo**.
 
+### Grandes pensadores do conservadorismo
 
+- **Edmund Burke (1729-1797):** Frequentemente considerado o pai do conservadorismo moderno, Burke insistia em mudança gradual e orgânica, em vez de ruptura revolucionária. Suas *Reflections on the Revolution in France* (1790) lançaram os fundamentos intelectuais do conservadorismo anglo-saxão.
+- **Michael Oakeshott (1901-1990):** Filósofo britânico conhecido por sua crítica do racionalismo na política, Oakeshott defendia **uma concepção do conservadorismo como temperamento, e não como ideologia sistemática**. Seu ensaio *On Being Conservative* (1956) continua sendo referência essencial que também influenciou Friedrich Hayek.
+- **Roger Scruton (1944-2020):** Filósofo britânico contemporâneo que desenvolveu uma defesa sofisticada dos valores conservadores no contexto da modernidade tardia, particularmente em seu livro *The Meaning of Conservatism*.
 
+![Grandes pensadores do conservadorismo: Burke, Oakeshott e Scruton](./assets/en/059.webp)
 
+### Uma flexibilidade problemática
 
-- Política:** Os conservadores defendem os controlos sociais tradicionais e a intervenção do Estado para fazer cumprir as normas sociais e morais (ordem, segurança, valores). Apoiam uma defesa nacional forte. Tendem a apoiar poderes policiais mais alargados. O socialismo é visto como uma rutura brutal com a civilização ocidental. Os conservadores desempenharam um papel decisivo na luta contra o comunismo e na rejeição do intervencionismo excessivo do Estado.
+![A flexibilidade problemática dos princípios conservadores](./assets/en/060.webp)
 
+O conservadorismo às vezes exibe uma flexibilidade perturbadora em relação a princípios. Durante a crise financeira de 2008, George W. Bush declarou: "Abandonei princípios de livre mercado para salvar o sistema de livre mercado." No ano seguinte, acrescentou: "Fui contra meus instintos de livre mercado e aprovei uma intervenção governamental temporária." Ao intervir para resgatar os grandes bancos, Bush assumiu **o papel conservador do estado como garantidor último da economia nacional**, colocando o poder e a continuidade da nação acima dos princípios abstratos do mercado. Essa mesma lógica pode ser encontrada nas políticas comerciais protecionistas de Donald Trump, perseguidas em nome do interesse nacional sob o risco de alimentar corporativismo e capitalismo de compadrio.
 
+### O surgimento do neoconservadorismo
 
+![O surgimento do neoconservadorismo e a reação paleoconservadora](./assets/en/061.webp)
 
+A partir dos anos 2000, os neoconservadores se envolveram cada vez mais em justificar o intervencionismo militar para implantar a democracia ao redor do mundo, particularmente após os ataques de 11 de setembro de 2001. Essa política de "nation-building" rompeu com a prudência tradicional dos conservadores em matéria de política externa. Em reação, conservadores tradicionais reivindicaram o rótulo "paleoconservative" para se distinguir dos neoconservadores. Eles criticam o intervencionismo militar, defendem uma política externa mais isolacionista e **dão maior ênfase a questões de identidade nacional e cultural**.
 
-- Economia:** Os conservadores apoiam a baixa tributação e a regulamentação mínima das empresas. Apoiam o empreendedorismo honesto e a livre iniciativa, bem como os indivíduos que trabalham arduamente para acumular riqueza. Mas receiam que demasiada liberdade individual conduza à imoralidade ou ao declínio civilizacional.
+### Pensamento conservador em citações
 
+> Um conservador é alguém que acredita que nada jamais foi feito pela primeira vez.
+> Benjamin Disraeli
 
+> Conservadorismo não é um sistema rígido de pensamento, mas uma disposição, uma atitude diante da vida, uma tradição.
+> Michael Oakeshott
 
-**Tipos de conservadores:**
+> Conservadorismo é a convicção de que existe uma verdade moral que não inventamos e que não podemos abolir.
+> Roger Scruton
 
-
-na Europa do século XIX, os conservadores são reacionários. Defendem o regresso à antiga sociedade feudal, agrícola e artesanal. Querem escapar à sociedade atual e regressar ao passado, antes da evolução que consideram nefasta: o progresso científico e tecnológico, com as suas consequências para a economia e a sociedade.
-
-
-
-Nos países anglo-saxónicos, o conservadorismo é semelhante à política de direita dos países latinos. Empiricamente, este conservadorismo define-se pela sua oposição ao progressismo do New Deal, que tomou o nome de *liberalismo* nos Estados Unidos. Exemplos disso são as obras de Russell Kirk, Michael Oakeshott e Roger Scruton.
-
-
-
-#### No entanto, há que distinguir entre dois tipos de conservadorismo.
-
-
-
-
-1.  **O conservadorismo tradicional americano** baseia-se na ideia de "liberdade ordenada", que tem por objetivo fundir as aspirações, por vezes contraditórias, de comunidade e indivíduo, liberdade e responsabilidade individual, governo limitado e mercados livres. Após a Segunda Guerra Mundial, o conservadorismo americano reinventou-se, procurando conciliar os valores liberais e conservadores tradicionais. Opunham-se ao comunismo, mas também à expansão excessiva do governo federal americano, argumentando que os problemas que este criava não podiam ser resolvidos apenas melhorando a sua gestão, mas também restaurando os valores morais e religiosos.
-
-
-
-2.  **Nos Estados Unidos**, a partir da década de 2000, os neoconservadores empenharam-se cada vez mais na justificação do intervencionismo militar para implantar a democracia no mundo, sobretudo após o 11 de setembro de 2001, suscitando muitas críticas dos conservadores tradicionalistas.
-
-
-
-Há quem se chame a si próprio "paleoconservador", para se distinguir dos neoconservadores.
-
+Esta última citação é fundamental para entender a forte oposição dos conservadores aos progressistas. Conservadores sustentam que há uma natureza humana, e dessa natureza emergem regras morais. Essas regras não são arbitrárias; surgem daquilo que o ser humano é fundamentalmente. Consequentemente, qualquer tentativa de modificar a natureza humana não está apenas condenada ao fracasso, mas é, acima de tudo, imoral.
 
 
 
 ## Libertários
 
-
 <chapterId>9ca743de-537b-42fb-87d2-212d5f478b22</chapterId>
 
+A família libertária se distingue de todas as outras filosofias políticas de uma maneira fundamental: **coloca no centro não a economia, mas a ética e o direito**. Quando libertários defendem a economia de mercado, fazem-no menos por sua capacidade de produzir riqueza do que por sua promoção da liberdade e da responsabilidade individuais.
 
 
-![video](https://www.youtube.com/watch?v=ftE1NG34yno)
+![Diagrama de Nolan mostrando o libertarianismo posicionado no topo com fortes liberdades nos domínios societal e econômico](./assets/en/062.webp)
 
+![A família política libertária](./assets/en/063.webp)
 
+### Liberdades e valores fundamentais
 
-![Libertariens Graphique](./assets/fr/017.webp)
+Como o Diagrama de Nolan mostra imediatamente, libertários ficam no topo do quadro porque não aceitam restrição à defesa das liberdades, sejam societais ou econômicas. É precisamente isso que os distingue de todas as outras famílias políticas:
 
+- **Liberdades:** fortes tanto na esfera societal quanto na econômica. No plano societal, libertários defendem máxima liberdade individual, abrangendo a descriminalização de certas substâncias, liberdade de escolha educacional e não interferência do estado na vida privada dos cidadãos. No plano econômico, isso se estende à liberdade de empreender, contratar, definir salários e, acima de tudo, **ao direito de gastar o próprio dinheiro como quiser** e comerciar sem restrição ou vigilância.
+- **Valores cardinais:** propriedade privada legítima, liberdade individual, consentimento, responsabilidade. Esses valores estão intimamente ligados e são inteiramente inseparáveis uns dos outros.
+- **Filosofia e princípios:** O libertarianismo é antes de tudo uma filosofia do direito. A ideia fundamental, encontrada já no século XVII em John Locke, é que todo indivíduo possui direitos inalienáveis à vida, à liberdade e à propriedade. Esses direitos não são concedidos pelo governo, mas são intrínsecos ao ser humano. Autopropriedade é o conceito de que cada indivíduo é o legítimo proprietário de seu próprio corpo e de sua própria vida. Como escreveu Bastiat, o homem é primeiro proprietário de si mesmo, depois proprietário das coisas que adquiriu. O princípio do laissez-faire não é ausência de normas; é **uma norma fundamental que deve ser defendida, inclusive pela força**.
+- **Política:** O princípio de não agressão postula que uma pessoa é livre para agir como desejar desde que nenhum ato de violência seja cometido contra a vida, a liberdade ou a propriedade de outro. Essa formulação lembra a regra de ouro encontrada em todas as civilizações e religiões: não faça aos outros o que você não gostaria que fizessem a você. Libertários recusam conceder ao estado permissão especial para cometer atos que a maioria das pessoas consideraria imorais se cometidos por indivíduos. Em suma, **há um único código moral que se aplica a todos, sem exceções**. Isso naturalmente produz profunda suspeita do poder, particularmente do poder estatal, que pode exercer legalmente coerção, inclusive por meio do monopólio do controle monetário. A tributação é qualificada como espoliação, e a inflação como um imposto oculto.
 
+![Filosofia libertária: autopropriedade, não agressão e laissez-faire](./assets/en/064.webp)
 
+- **Economia:** A liberdade de empreender e trocar decorre diretamente da autopropriedade e da propriedade dos frutos do próprio trabalho. A liberdade produz uma ordem espontânea, mais justa e mais eficiente porque resulta da ação e da responsabilidade individuais. O livre mercado se opõe ao corporativismo (um sistema em que o estado colabora com grupos organizados para regular a economia, criando monopólios e proteções regulatórias). **o livre mercado é o processo natural pelo qual indivíduos interagem pacificamente**, sem depender da força da lei para obter vantagens.
 
+### Evolução histórica
 
-- Liberdades:** são fortes nos domínios social e económico.
+![A evolução histórica do pensamento libertário a partir do liberalismo clássico](./assets/en/065.webp)
 
+Ideias libertárias remontam ao século XVIII com o liberalismo clássico. Os fisiocratas (Vincent de Gournay, Turgot, Quesnay), depois Condillac, Jean-Baptiste Say e Frederic Bastiat formularam claramente esses princípios. Ao longo do século XX, **ocorreu uma mudança fundamental com o abandono progressivo dos princípios de laissez-faire** em favor do estado de bem-estar social e de uma sociedade cada vez mais regulada. Em resposta, liberais clássicos nos Estados Unidos começaram a se chamar "libertarians" para se distinguir do "liberalism" americano, que havia sido capturado pelo crescente intervencionismo estatal. Esses libertários reconheceram-se na [escola austríaca de economia](https://planb.academy/resources/glossary/austrian-economics), em Hayek e Mises, e depois em Rothbard, Nozick e outros.
 
+### Tipos de libertários
 
+![Minarquistas versus anarcocapitalistas: duas tendências dentro do libertarianismo](./assets/en/066.webp)
 
+No século XX, emergiram duas grandes tendências, embora as divergências entre elas repousem mais em questões empíricas do que em desacordos éticos fundamentais:
 
-- Valores cardinais:** liberdade individual, responsabilidade, propriedade privada, consentimento.
+![Princípios políticos libertários: não agressão, suspeita do poder e rejeição da tributação](./assets/en/067.webp)
 
+1. **Minarquistas** consideram que os poderes do estado devem ser estritamente limitados à defesa das liberdades individuais. É um regime de estado mínimo (o "estado vigia-noturno"), em que o poder é legítimo apenas para assegurar as funções centrais de polícia, justiça e defesa territorial. Ron Paul é uma figura proeminente dessa tendência: médico e congressista americano que representou o Texas por décadas, ele votou consistentemente contra qualquer projeto de lei que se afastasse da Constituição, opôs-se a todas as formas de intervencionismo estrangeiro e **defendeu a desnacionalização do dinheiro**, uma ideia defendida por Friedrich Hayek. Paul argumenta que o Federal Reserve é responsável pela inflação e pelos ciclos econômicos por meio da manipulação da moeda fiat, e viu no Bitcoin uma resposta prática a esse problema.
 
+![A doutrina minarquista de Ron Paul e princípios de sound money](./assets/en/068.webp)
 
+2. **Anarcocapitalistas** consideram que as funções estatais deveriam ser privatizadas e geridas inteiramente pelo mercado. Esta não é uma sociedade sem regras, autoridade ou leis, mas **uma sociedade em que regras seriam estabelecidas por adesão voluntária e consentimento**. Poderia haver governos e funções semelhantes às do estado, mas não haveria monopólio; empresas concorrentes ofereceriam seus serviços aos clientes. Pensadores-chave incluem Murray Rothbard (*For a New Liberty*, 1973), David Friedman (filho de Milton Friedman, que adota uma abordagem mais pragmática e utilitarista, argumentando que o mercado pode fornecer todos os serviços de modo mais eficiente, incluindo lei e ordem) e Hans-Hermann Hoppe (discípulo de Rothbard que desenvolve uma abordagem baseada na ética da argumentação).
 
+![Pensadores-chave do anarcocapitalismo: Rothbard, Friedman e Hoppe](./assets/en/069.webp)
 
-- Filosofia e princípios:** Primado da liberdade individual. Historicamente, o liberalismo clássico é, antes de mais, uma filosofia do direito. A ideia fundamental é que cada indivíduo possui direitos inalienáveis à vida, à liberdade e à propriedade. Estes direitos não são concedidos pelo governo, mas são intrínsecos ao ser humano. A auto-soberania (ou auto-propriedade) é o conceito de que cada indivíduo é o legítimo proprietário do seu próprio corpo e da sua vida e tem o direito de tomar decisões sobre eles sem coação externa, desde que não viole os direitos dos outros.
+### Pensamento libertário em citações
 
+> O libertário não vê contradição em ser "de esquerda" em algumas questões e "de direita" em outras. Pelo contrário, considera sua posição a única consistente na prática, do ponto de vista da liberdade de cada indivíduo.
+> Murray Rothbard, *For a New Liberty*, 1973
 
+> Se você não tem o direito de roubar seu vizinho, não deveria enviar o governo para roubar por você.
+> Ron Paul, 2008
 
+![Pensamento libertário em citações](./assets/en/070.webp)
 
-
-- Política:** Os libertários acreditam que ninguém, nem nenhum grupo (incluindo o governo), tem o direito de iniciar ou ameaçar com força física outra pessoa ou a sua propriedade. Este é o princípio da não agressão. Isto significa que a fraude, o roubo e a coação são moralmente condenáveis. O uso da força só é justificável em legítima defesa.
-
-
-
-Os libertários recusam-se a conceder ao Estado uma autorização especial para cometer actos que a maioria das pessoas consideraria imorais, ilegais ou criminosos se fossem cometidos por indivíduos ou grupos da sociedade. Em suma, os libertários insistem que todos devem estar sujeitos ao mesmo código moral, sem excepções para qualquer grupo ou indivíduo.
-
-
-
-Os libertários desconfiam profundamente de qualquer concentração de poder, seja ele político ou económico. O poder do Estado é considerado particularmente perigoso porque pode exercer legalmente a coerção.
-
-
-
-
-
-- Economia:** O comércio livre e a liberdade de empresa são expressões económicas do respeito pelos direitos dos indivíduos de serem proprietários de si próprios e dos seus bens e de os trocarem livremente. A liberdade produz uma ordem espontânea e justa, porque resulta da ação e da responsabilidade individuais, através da interação de trocas e contratos voluntários.
-
-
-
-**Tipos de libertários
-
-
-No século XX, surgiram duas grandes tendências:
-
-
-1.  **Minarquista:** que considera que os poderes do Estado devem ser estritamente limitados à defesa das liberdades individuais. É um regime de Estado mínimo (*Estado vigilante*), em que o poder é legítimo apenas para assegurar as funções essenciais de polícia, justiça e defesa armada do território.
-
-
-2.  **O outro anarco-capitalista:** que acredita que as funções do Estado devem ser privatizadas e geridas pelo mercado.
-
-
-No entanto, ambos concordam com o princípio fundamental da soberania individual. As ideias libertárias foram expressas já no século XVIII pelos fisiocratas, nomeadamente Vincent de Gournay e Turgot, e desenvolvidas por Condillac, Jean-Baptiste Say e Frédéric Bastiat. No século XX, foram retomadas e desenvolvidas pela [escola austríaca de economia](https://planb.academy/resources/glossary/austrian-school), cujos principais autores são Ludwig von Mises, Friedrich Hayek e Murray Rothbard.
-
+Em outras palavras, Rothbard sublinha que o libertarianismo transcende a divisão tradicional esquerda-direita, e Paul destaca a rejeição do estado como ferramenta de coerção. **a proibição do roubo se aplica não apenas aos indivíduos, mas também ao estado.**
 
 
 
 
 ## Os centristas
 
-
 <chapterId>d4f5c100-a791-45cf-bc7c-6e2353dc7a48</chapterId>
 
 
+Centrismo é mais do que uma simples posição mediana equidistante de todas as outras. É uma filosofia política genuína, um método de governança que afirma estar adaptado às sociedades pluralistas contemporâneas. É uma abordagem que **privilegia eficiência, pragmatismo e tende a uma forma de tecnocracia**: o poder deve ser confiado a especialistas que devem conduzir a economia e pilotar a política monetária.
 
-![video](https://www.youtube.com/watch?v=ZJVwYWhdhrU)
+![Diagrama de Nolan mostrando o centrismo posicionado no meio com liberdades moderadas em ambos os domínios](./assets/en/071.webp)
 
+![A família política centrista](./assets/en/072.webp)
 
+### Liberdades e valores cardinais
 
-![Centristes Graphique](./assets/fr/018.webp)
+A abordagem centrista é caracterizada por uma busca constante de equilíbrio entre autoridade pública e autonomia privada:
 
+- **Liberdades:** moderadas tanto na esfera societal quanto na econômica. No domínio societal, centristas aspiram reconciliar controle governamental e escolha individual, favorecendo intervenção estatal medida enquanto preservam liberdades fundamentais. No domínio econômico, liberdades são garantidas, mas sempre temperadas por uma preocupação com justiça social. Centristas são altamente críticos do laissez-faire, mas permanecem pró-negócios e favoráveis à correção de desigualdades. Uma distinção importante deve ser feita aqui: ser pró-negócios (como os centristas tendem a ser) significa favorecer **um tipo de aliança entre grandes empresas e o estado**, o que difere de ser pró-mercado.
+- **Valores cardinais:** moderação, compromisso, adaptação, utilidade pública.
+![Filosofia centrista: pragmatismo e tecnocracia](./assets/en/073.webp)
 
+- **Filosofia:** O pragmatismo é uma filosofia política que privilegia a adaptação a contextos particulares em vez da aplicação rígida de princípios ideológicos. Esse pensamento pragmático se funda na ideia de que apenas tecnocratas são capazes de tomar as decisões corretas para alcançar os melhores resultados socioeconômicos. Em um modelo de governança tecnocrática, decisões políticas surgem da racionalidade e da expertise, e não da ideologia ou do debate partidário. Para calcular a utilidade de uma decisão, é preciso ser capaz de medir todas as suas consequências, e isso requer expertise: cálculos sofisticados, estatísticas, pesquisas, probabilidades. No entanto, há um paradoxo aqui: **esse pragmatismo repousa ele próprio sobre uma forma de dogmatismo** (a saber, que apenas especialistas são competentes para dirigir a sociedade).
+- **Política:** Centristas buscam transcender divisões tradicionais (esquerda versus direita) por meio de governança de coalizão, unindo partidos moderados da direita conservadora à esquerda social-democrata e ecológica em um grupo central que **transcende as clivagens históricas entre esquerda e direita**. Esse método convém às sociedades modernas caracterizadas pela diversidade. Bill Clinton nos Estados Unidos foi reconhecido por sua capacidade de aprovar leis conquistando votos tanto de republicanos quanto de democratas; Emmanuel Macron na França foi eleito duas vezes formando um amplo centro composto por todos os moderados.
+- **Economia:** Centristas aceitam mecanismos de mercado ao mesmo tempo em que reconhecem a necessidade de controle e regulação apropriados por especialistas. Defendem uma economia de mercado regulada, na qual a concorrência ocorre dentro de uma estrutura que protege o interesse geral. Pode-se chamar isso de "dirigismo suave", já que não busca planejar completamente a economia, mas limitar bônus, regular práticas e administrar o mercado em nome da paz social.
 
+### Programas sociais direcionados
 
+![Dirigismo econômico centrista: livre comércio regulado e programas sociais direcionados](./assets/en/074.webp)
 
-- Liberdades:** São defensores moderados das liberdades individuais e económicas.
+O centrismo reconhece a importância de **programas sociais direcionados para corrigir desigualdades sem criar dependência excessiva** do estado. Esse sistema de redistribuição de riqueza visa menos ao igualitarismo dogmático do que à paz social e ao "viver juntos".
 
+### O keynesianismo é um centrismo econômico?
 
+![Figuras centristas emblemáticas: Macron e Blair](./assets/en/075.webp)
 
+![Tony Blair e a Terceira Via como modelo centrista](./assets/en/076.webp)
 
+John Maynard Keynes, o grande economista inglês do século XX que dominou o pensamento e a prática econômicos nas sociedades ocidentais até hoje, pode de fato ser visto como representante de uma forma de centrismo. Sua abordagem busca um equilíbrio entre liberalismo clássico (livre mercado) e socialismo dirigista (planejamento máximo).
 
-- Valores cardinais:** moderação, compromisso, adaptação, utilidade pública.
+Em vez de deixar que os mercados se regulassem sozinhos, Keynes argumentava que o estado deveria usar políticas fiscais e monetárias (gasto público, tributação, taxas de juros) para estimular a demanda agregada em tempos de recessão ou contê-la durante períodos de superaquecimento econômico. Ele é o originador da conhecida ideia de que o consumo é bom para o crescimento.
 
+![Keynesianismo como terceira via entre liberalismo clássico e socialismo dirigista](./assets/en/077.webp) Mas, para que esse mecanismo funcione, **são necessários especialistas para manipular as alavancas certas**: alavancas monetárias como taxas de juros e criação de dinheiro. Para financiar gastos sociais, o estado deve poder tomar empréstimos, e para que o endividamento seja viável, o dinheiro deve estar disponível e não ser caro demais, daí a importância dos bancos centrais em manter certa taxa de inflação.
 
+### John Rawls: a dimensão filosófica
 
+![John Rawls e os fundamentos filosóficos da justiça centrista](./assets/en/078.webp)
 
+John Rawls, eminente filósofo político e autor de *A Theory of Justice* (1971), representa a dimensão teórica do centrismo. Sua concepção de justiça social propõe **um equilíbrio pragmático entre liberdades individuais e intervenções corretivas contra desigualdades**.
 
-- Filosofia:** Os centristas evitam os extremos e favorecem soluções pragmáticas. Pensam nos problemas caso a caso e não em termos de princípios. A natureza do centrismo consiste frequentemente em abordar um assunto procurando um equilíbrio pragmático entre pontos de vista. O pragmatismo é uma filosofia política que favorece a adaptação a contextos particulares em vez da aplicação rígida de princípios ideológicos. É uma abordagem política baseada na moderação e no compromisso. Este pensamento pragmático baseia-se na ideia de que só os tecnocratas são capazes de tomar as decisões certas para obter os melhores resultados socioeconómicos.
+Rawls propõe dois princípios de justiça:
 
+1. **Liberdade igual para todos:** o fundamento da democracia, como Tocqueville havia mostrado.
+2. **O princípio da diferença:** permitir desigualdades apenas se elas beneficiarem os mais desfavorecidos. Em outras palavras, alguém tem o direito de enriquecer, desde que a redistribuição permita que os menos favorecidos também se beneficiem.
 
+O conceito de **consenso sobreposto também é central ao pensamento de Rawls**, notadamente em seu livro *Political Liberalism* (1993):
 
+> Um consenso sobreposto é alcançado quando cidadãos, embora aderindo a diferentes doutrinas abrangentes, religiosas ou filosóficas, convergem, ainda assim, para um conjunto de princípios políticos de justiça que todos podem endossar a partir de suas próprias perspectivas.
 
+Essa abordagem ilustra perfeitamente o método centrista: buscar acordos racionais e moderados apesar da diversidade de opiniões dentro de uma sociedade pluralista, a própria essência da filosofia centrista.
 
-- Política:** Pretendem combinar o controlo governamental e a escolha individual para uma abordagem estável e moderada. Trata-se de uma forma flexível e casuística de intervenção estatal. Nesta forma tecnocrática de governação, as decisões políticas baseiam-se na racionalidade e na experiência, e não na ideologia ou no debate partidário.
+### Pensamento centrista em citações
 
+> O importante para o Governo não é fazer coisas que os indivíduos já estão fazendo, e fazê-las um pouco melhor ou um pouco pior; mas fazer aquelas coisas que atualmente não são feitas de modo algum.
+> John Maynard Keynes, *The End of Laissez-Faire*, 1926
 
-
-
-
-- Economia:** Os centristas aceitam os mecanismos de mercado, embora reconheçam a necessidade de um controlo e de uma regulamentação adequados por parte de especialistas. Defendem uma economia de mercado controlada, em que a concorrência tem lugar no âmbito de um quadro regulamentar que protege o interesse geral.
-
-
-
-O centrismo também reconhece a importância de programas sociais específicos para corrigir as desigualdades sem criar uma dependência excessiva do Estado. Este sistema de redistribuição da riqueza tem menos como objetivo o igualitarismo dogmático do que a paz social e a "vida em comum".
-
-
-
-**Tipos de centristas:** Os centristas podem inclinar-se para o socialismo, o conservadorismo, o libertarianismo ou o autoritarismo, não por princípio, mas por pragmatismo ou oportunismo político.
-
-
-
-
-- Emmanuel Macron (França):** O seu posicionamento é simultaneamente de direita e de esquerda. Com reformas económicas liberais (direita económica) e apoio a certas liberdades sociais (esquerda social), procura um meio-termo.
-- Tony Blair (Reino Unido):** com o seu conceito de "Terceira Via". Procurou conciliar as políticas de mercado com objectivos de justiça social, distinguindo-se dos socialistas e conservadores tradicionais.
-
-
-
-O keynesianismo é uma teoria económica que defende a intervenção ativa do governo para estabilizar a economia.
-
-
-
-Em vez de deixar que os mercados se auto-regulassem, Keynes defendeu que o Estado deveria utilizar políticas fiscais e monetárias - como a despesa pública, a tributação e as taxas de juro - para estimular a procura agregada em tempos de recessão, ou refreá-la em tempos de sobreaquecimento económico.
-
-
-
-Keynes não defendia nem o laissez-faire absoluto (como os puros pró-mercado) nem o controlo total do Estado (como numa economia planificada).
-
-
-
-Esta abordagem representa uma "terceira via" económica, que procura um equilíbrio entre o liberalismo clássico, que pretende um mercado livre, e o socialismo de planeamento estatal, que pretende um planeamento máximo.
-
-
-Em termos filosóficos, podemos referir-nos ao famoso filósofo político John Rawls, autor de *A Teoria da Justiça* (1971).
-
-
-
-Os seus dois princípios de justiça (a liberdade igual para todos e o princípio da diferença, que só permite desigualdades se estas beneficiarem os mais desfavorecidos) encarnam esta tentativa de síntese entre liberalismo e igualitarismo.
-
-
-
-O conceito de **consenso sobreposto** é também central no pensamento de John Rawls, nomeadamente no seu livro *Political Liberalism* (1993). Eis uma citação que ilustra este conceito:
-
-
-
-> Um consenso sobreposto é alcançado quando os cidadãos, apesar de aderirem a diferentes doutrinas abrangentes, religiosas ou filosóficas, convergem num conjunto de princípios políticos de justiça que todos podem subscrever a partir das suas próprias perspectivas.
-
-O seu objetivo é demonstrar que é possível conciliar doutrinas fundamentais incompatíveis em torno de princípios de justiça comuns, a própria essência da filosofia centrista.
-
+O que Keynes quer dizer aqui é que há falhas de mercado (crises de superprodução, escassez, especulação), e quando crises ocorrem, apenas o estado está em posição de intervir. **O mercado não é capaz de autorregulação**, e por isso deve ser protegido, tarefa que cabe ao estado e, portanto, a especialistas e tecnocratas.
 
 
 ## Regimes totalitários
 
-
 <chapterId>7a5e9f5a-2be1-4497-892a-3da5f015faa0</chapterId>
 
+Concluímos nossa análise das grandes famílias políticas com os regimes totalitários, mas aqui lidamos com algo fundamentalmente diferente. O totalitarismo não é, estritamente falando, uma filosofia política; **é antes a negação de toda filosofia política**. É isso que Hannah Arendt nos mostra quando traça a distinção entre despotismo clássico e totalitarismo.
+
+![Regimes totalitários: controle e coerção sobre todos os aspectos da vida](./assets/en/079.webp)
+
+### O insight de Hannah Arendt
+
+Em sua grande obra *The Origins of Totalitarianism* (1951), Arendt escreve: "O totalitarismo não tende a submeter os homens a regras despóticas, mas a um sistema no qual os homens são supérfluos." O que ela quer dizer é que um regime totalitário não é simplesmente um regime clássico tendente à tirania ou ao despotismo (como às vezes ocorreu com a monarquia, ou até com a democracia, como Tocqueville advertiu). É algo inteiramente diferente.
+
+Segundo Arendt, **o totalitarismo não é uma família política, mas a própria negação da política**, um sistema no qual seres humanos são tornados incapazes de ação independente. Política, em sua concepção, é a capacidade de um povo tomar seu destino nas próprias mãos e agir. Nos regimes totalitários, essa capacidade é destruída.
+
+![Diagrama de Nolan mostrando regimes totalitários na parte inferior com liberdades suprimidas em ambos os domínios](./assets/en/080.webp)
+
+### Definição e características fundamentais
+
+![A matriz comum do totalitarismo: além da oposição esquerda-direita](./assets/en/081.webp)
+
+Mussolini declarou em 1920: "Tudo no Estado, nada fora do Estado, nada contra o Estado." Isso revela precisamente o que "totalitário" significa: totalidade. Tudo é absorvido pelo estado, o que significa que **já não há separação alguma entre espaço público e privado**. O estado absorve inteiramente a sociedade, que nesse ponto perde toda forma de autonomia. Se você quer abrir um clube de tênis de mesa, precisa da autorização do partido. E isso se estende a absolutamente tudo, incluindo a vida íntima da família.
+
+- **Liberdades:** suprimidas. Regimes totalitários impõem forte controle governamental sobre a vida pessoal e econômica. O totalitarismo existe quando o estado controla tudo na sociedade e exerce poder ilimitado, eliminando todas as formas de oposição por meio de policiamento político.
+- **Filosofia:** Sociedades totalitárias distinguem-se pelo uso de uma ideologia, a promessa de um "paraíso" (o fim da história para o comunismo, ou a pureza racial para o nazismo). O partido unifica as massas contra um inimigo tanto externo quanto interno (a burguesia capitalista para o comunismo, o judeu para o nazismo).
+- **Política:** um sistema de partido único no qual uma minúscula minoria controla toda a população por meio de ideologia e terror. **Todos os regimes totalitários chegaram ao poder por meio de revolução violenta**, uma revolução que justifica a violência fazendo tábula rasa do sistema anterior.
+- **Economia:** regimes totalitários podem tolerar a empresa privada se ela for forçada a servir aos interesses do estado, ou podem exigir que o estado controle todos os meios de produção. Eles veem o livre mercado como ameaça à ordem geral, porque sociedades ideais devem ser planejadas pelas autoridades.
+
+### Os pilares do controle totalitário
+
+![Definição e características fundamentais do totalitarismo](./assets/en/082.webp)
+
+O totalitarismo está presente quando **todas as características seguintes são reunidas simultaneamente**: liberdades suprimidas, autoridade ilimitada fundada no partido único e no culto ao líder, revolução violenta e economia dirigida. Esse já foi o caso da Revolução Francesa, razão pela qual alguns historiadores identificaram nela uma dimensão totalitária. É importante notar que democracias modernas podem exibir algumas dessas características, mas nunca todas ao mesmo tempo (ao menos, felizmente, até agora).
+
+### Dois modelos, um método: Hitler versus Stalin
+
+![Hitler versus Stalin: dois modelos que compartilham métodos idênticos](./assets/en/083.webp)
+
+As diferenças entre nazismo e comunismo são mais aparentes do que reais. Apesar de seu antagonismo histórico, Hitler e Stalin empregaram métodos idênticos: culto da personalidade, controle social total por meio de vigilância, censura, doutrinação e policiamento político, e **a eliminação sistemática de todas as formas de oposição ou dissidência**. Como escreveu Raymond Aron, observador perspicaz dos regimes totalitários do século XX: "Totalitarismos nazista ou comunista funcionam da mesma maneira, sobre dois princípios: a fé dos militantes e o medo dos opositores." Ele fala de "fé" em sentido quase religioso; regimes totalitários foram chamados de religiões seculares, religiões sem Deus. Um tipo de fanatismo os caracteriza além de suas diferentes ideologias.
+
+- **Hitler (Nazismo):** embora o regime nazista não tenha abolido formalmente a propriedade privada, havia aparência de economia de mercado enquanto o setor privado era completamente subordinado aos objetivos do estado (guerra e rearmamento). A autarquia econômica foi imposta, o que significa que não havia livre comércio. Havia planejamento econômico centralizado para servir aos objetivos do regime.
+
+- **Stalin (Comunismo):** o stalinismo exemplifica o controle estatal total da economia. Toda propriedade privada dos meios de produção foi abolida, a economia foi plenamente planejada (planos quinquenais), a coletivização foi forçada, e o estado controlava absolutamente todos os aspectos da produção e da distribuição.
+
+Como escreve Thierry Wolton, que estudou extensamente a comparação entre esses dois regimes: "A gemelaridade do comunismo soviético e do nazismo é um fato histórico. Os dois totalitarismos se assemelham em seu modo de funcionamento e prática política: **ódio à democracia, aos valores humanistas, à liberdade individual** são traços comuns a ambos."
+
+### Pensamento totalitário em citações
+
+![Pensamento totalitário: rejeição da liberdade individual em favor da autoridade centralizada](./assets/en/084.webp)
+
+> O povo não precisa de liberdade, pois a liberdade é uma das formas da ditadura burguesa.
+> Vladimir Lenin, *What Is to Be Done?*, 1902
+
+> O povo alemão será conduzido não pelo raciocínio, mas por um líder que encarna a vontade do povo.
+> Adolf Hitler, *Mein Kampf*, 1925
+
+> Nazismo e comunismo compartilham uma oposição comum à democracia liberal e ao que chamam de "burguesia capitalista". [...] Ambas as ideologias afirmam ser socialistas e usam essa imagem uma contra a outra.
+> Francois Furet, *The Passing of an Illusion*, 1995
+
+Essas citações revelam a lógica comum dos regimes totalitários: **a rejeição da liberdade individual em favor da autoridade centralizada absoluta**, seja comunista ou fascista. De fato, o próprio nome do partido nazista (Nacional-Socialismo) sinaliza essa matriz ideológica compartilhada, embora os dois movimentos se detestassem.
 
 
-![video](https://www.youtube.com/watch?v=0ueywR4vzHs)
-
-
-
-É importante notar que o termo totalitarismo se refere a um sistema político e não a uma ideologia política no sentido de conservadorismo ou centrismo. Um regime totalitário caracteriza-se por um controlo estatal extenso e coercivo sobre todos os aspectos da vida pública e privada.
-
-
-
-![regimes totalitaires Graphique](./assets/fr/019.webp)
-
-
-
-
-
-- Liberdades:** Os regimes totalitários apoiam um forte controlo governamental sobre a vida pessoal e económica. O totalitarismo existe quando o Estado controla tudo na sociedade e tem poder ilimitado.
-- Filosofia:** Os totalitários acreditam que a autoridade centralizada é a única forma de garantir a ordem e a justiça, enquanto a liberdade é um fator de desordem. Pretendem que o Estado controle todos os aspectos da vida económica e pessoal, acreditando que esse controlo tem mais probabilidades de produzir uma sociedade ideal. São regimes revolucionários que justificam a violência com o argumento de que o sistema anterior estava completamente errado e que é necessário estabelecer um novo modelo, limpando o quadro. Não toleram uma diversidade excessiva de opiniões ou qualquer expressão que desafie a sua autoridade.
-- Política:** O totalitarismo refere-se a um sistema de partido único. Segundo Hannah Arendt, o totalitarismo não é uma família política, nem um regime político despótico. É a própria negação da política: um sistema em que os homens se tornam incapazes de uma ação independente. Segundo ela, o objetivo da educação totalitária nunca foi incutir convicções, mas destruir a capacidade de formar qualquer outra (The Origins of Totalitarianism, 1951). De facto, as sociedades totalitárias distinguem-se pela utilização de uma ideologia, a promessa de um "paraíso", como o fim da história ou a pureza racial. Consequentemente, eliminam todas as formas de oposição através do policiamento político e do recurso ao terror.
-- Economia:** Os regimes totalitários podem tolerar a iniciativa privada se esta for forçada a servir os interesses do Estado, ou exigir que o Estado controle todos os meios de produção. Vêem o mercado livre como uma ameaça à ordem geral, porque as sociedades ideais devem ser planeadas pelas autoridades.
-
-
-
-**Existem duas categorias gerais de regimes totalitários**: totalitários de esquerda (comunismo, nacional-socialismo) e totalitários de direita (ditaduras militares, fascismo). Mas estas categorias perdem o seu significado se entendermos que a matriz é a mesma. É o caso de Hitler e Estaline. Apesar do seu antagonismo histórico, encontramos o mesmo culto do líder, o recrutamento de jovens, a censura, a vigilância, a repressão de toda a oposição, a perseguição política e o esmagamento de toda a liberdade individual.
-
-
-
-
-
-- Hitler (Nazismo/Fascismo): embora o nazismo não tenha abolido formalmente a propriedade privada, o Estado nazi exerceu um controlo esmagador sobre a economia. A produção, a afetação de recursos e a iniciativa (mesmo privada) estavam subordinadas aos objectivos do Estado (rearmamento, autarquia). Havia um planeamento económico centralizado para servir os objectivos do regime.
-
-
-
-
-
-- Estaline (Comunismo/Estalinismo): O estalinismo exemplifica o controlo total da economia pelo Estado. A propriedade privada dos meios de produção foi abolida, a economia foi totalmente planeada (planos quinquenais) e o Estado controlava absolutamente todos os aspectos da produção e da distribuição.
-
-
-
-# Questões societais
-
+# Questões societais e econômicas
 
 <partId>ab160ddd-5c3a-436b-a77a-76d7089f1611</partId>
 
 
-
 ## Questões societais
-
 
 <chapterId>bb2156da-7e10-4f0b-89c3-f6d53f5a79ef</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=tq09pDLHioQ)
+
+![Análise comparativa de debates societais entre famílias políticas](./assets/en/085.webp)
+
+Depois de analisar as principais famílias políticas, passamos agora a uma série de debates sobre questões societais, seguidos por questões econômicas. O objetivo aqui é oferecer uma análise comparativa das posições socialista, conservadora, libertária e centrista sobre cinco questões fundamentais da sociedade: casamento, imigração, armas de fogo, drogas e o imposto sobre bebidas açucaradas.
+
+Questões societais não dizem respeito a dinheiro. Elas concernem às escolhas que fazemos sobre o que lemos, comemos, bebemos, fumamos, vestimos, ou com quem escolhemos nos associar, dormir ou casar. Para cada questão abaixo, examinaremos uma resposta curta típica de cada família política. Essas respostas rápidas oferecem apenas um vislumbre de cada ponto de vista e, como nem todos pensam da mesma forma, as posições atribuídas a elas naturalmente estão abertas a debate. Procurei, porém, ser justo e representar com precisão o que a maioria dos adeptos de cada família diria.
 
 
+### Casamento
 
-Aqui estão algumas perguntas frequentes sobre questões políticas. Cada pergunta é seguida de uma resposta curta típica de um socialista, um conservador, um libertário e um centrista.
+![O debate sobre casamento entre famílias políticas](./assets/en/086.webp)
 
-
-
-É claro que estas respostas rápidas oferecem apenas um vislumbre de cada ponto de vista. Uma vez que nem toda a gente pensa da mesma forma, as respostas que lhes são atribuídas estão naturalmente abertas a debate. No entanto, tentei ser justo e representar com exatidão o que a maioria poderia dizer.
-
+**Pergunta:** O governo deveria legalizar o casamento gay da mesma forma que o casamento tradicional?
 
 
-As questões sociais não têm a ver com dinheiro, mas com as escolhas que fazemos relativamente ao que lemos, comemos, bebemos, fumamos, vestimos ou com quem escolhemos associar-nos, dormir ou casar.
+### A posição socialista: sim
 
+Para socialistas, todos os cidadãos devem ser tratados igualmente perante a lei, sem discriminação baseada em orientação sexual. Em outras palavras, uma concepção inclusiva enraizada no princípio da não discriminação. Socialistas denunciam **a opressão de uma minoria homossexual por uma maioria heterossexual** que lhes recusa acesso ao casamento. Aqui encontramos uma visão de mundo que atravessa muitas posições socialistas: a sociedade é estruturada por um conflito entre dominantes e dominados, opressores e oprimidos. Esse quadro é reproduzido em inúmeros domínios. Pode se aplicar às relações de gênero entre homens e mulheres, ou entre homossexuais e heterossexuais. Pode se aplicar às relações entre grupos raciais, e até à relação entre humanidade e natureza. Legalizar o casamento entre pessoas do mesmo sexo é, portanto, visto como forma de corrigir uma relação de dominação.
 
+### A posição conservadora: não
 
-### O casamento
+Para conservadores, o casamento tradicional é uma instituição fundamental de 2.500 anos, definida como a união entre um homem e uma mulher. Essa definição não é arbitrária. Ela repousa em uma realidade biológica: **a capacidade natural de procriar, que é a vocação primária da família**. Se queremos proteger a ordem social e salvaguardar o futuro da própria humanidade (já que a procriação é o que assegura a própria sobrevivência da espécie), então o casamento deve ser reservado a um homem e uma mulher em virtude de sua própria definição. Em outras palavras, o que conservadores procuram proteger é a própria definição tradicional de casamento.
 
+### A posição libertária: mista
 
-**Pergunta:** Deverá o governo legalizar o casamento homossexual da mesma forma que o casamento tradicional?
+Para libertários, a questão é fundamentalmente mal formulada porque é posta em termos estatistas: quem o estado autoriza a casar? O estado, argumentam, não tem nada que se meter na vida privada dos indivíduos. A abordagem libertária consistente é, portanto, defender a separação entre casamento e estado. **Ao impor uma única definição de casamento, o estado cria conflitos.** Privatizar o casamento respeita tanto aqueles que apoiam o casamento tradicional quanto aqueles que defendem o casamento entre pessoas do mesmo sexo. A solução: eliminar o casamento civil obrigatório e deixar esse papel para associações privadas, igrejas, sinagogas, mesquitas ou organizações seculares. Que indivíduos, associações e religiões definam o casamento por si mesmos.
 
+### A posição centrista: sim
 
-
-
-
--  Os socialistas querem impor uma conceção única do casamento civil, incluindo a homossexualidade, em detrimento daqueles que consideram que o casamento é apenas entre um homem e uma mulher. A legalização do casamento homossexual é, portanto, um ato de justiça social que promove uma sociedade mais inclusiva e tolerante. Garante que os casais do mesmo sexo gozam dos mesmos direitos legais (herança, impostos, filiação, etc.) e protecções que os casais heterossexuais, colmatando assim uma desigualdade de facto. No centro do argumento está a convicção de que todos os cidadãos devem ser tratados de forma igual perante a lei, independentemente da sua orientação sexual. Negar o casamento a casais do mesmo sexo é visto como uma discriminação inaceitável.
-
-
-
-
-
-- Os conservadores:** Não. Consideram o casamento tradicional como uma instituição fundamental da civilização ocidental, que remonta a 2500 anos e é historicamente definido como a união entre um homem e uma mulher. Esta definição não é arbitrária, mas assenta em fundamentos biológicos (a capacidade de procriar naturalmente) e culturais/religiosos. Uma redefinição radical do casamento é vista como uma ameaça à sociedade civilizada. Legalizar o casamento homossexual seria desnaturar ou redefinir esta instituição sagrada e fundamental, esvaziando-a do seu significado original e da sua vocação primária, que é a procriação e a fundação de uma família na sua forma natural. A rápida evolução das normas sociais é muitas vezes encarada com desconfiança, pois pode conduzir à dissolução dos pontos de referência e à perda de identidade cultural ou nacional. O casamento é visto como um pilar desta ordem.
-
-
-
-
-
-- Libertários:** Sim e não. A abordagem libertária consistente é defender a privatização do casamento, ou seja, o casamento totalmente livre da intervenção do Estado. O casamento é uma instituição não-estatal e o Estado não tem nada que obrigar os outros a reconhecer o casamento tradicional ou o casamento homossexual. A solução? Acabar com o casamento civil obrigatório e deixar este papel às associações privadas: igrejas, sinagogas, mesquitas ou organizações seculares privadas. Esta solução política, que respeita os direitos de propriedade e a liberdade individual, poderia ser designada por separação entre o casamento e o Estado.
-
-
-
-
-
-- Centristas:** Sim. Os centristas reconhecem que a sociedade evoluiu e que uma parte significativa da população quer que os casais do mesmo sexo sejam reconhecidos. Aderem ao princípio da não discriminação e acreditam que os indivíduos têm o direito de levar a vida que escolherem, incluindo as uniões legais. Seriam sensíveis ao argumento de que os casais do mesmo sexo devem gozar dos mesmos direitos e protecções legais (herança, proteção social, impostos) que os casais heterossexuais. Para os centristas, o Estado deve refletir a diversidade dos seus cidadãos e a modernização do direito, mantendo ao mesmo tempo uma certa coesão social.
-
+Centristas reconhecem a evolução da sociedade e sustentam que o princípio da não discriminação deve se aplicar. A lei deve refletir a diversidade dos cidadãos e adaptar-se à sua época. Casais do mesmo sexo deveriam desfrutar dos mesmos direitos e proteções legais (herança, proteção social, tributação) que casais heterossexuais. Aqui encontramos **o ideal centrista de consenso, adaptação pragmática e modernização da lei**.
 
 
 ### Imigração
 
+![O debate sobre imigração entre famílias políticas](./assets/en/087.webp)
 
-**Pergunta:** O governo deve abrir as fronteiras a toda a gente e deixar entrar incondicionalmente todos os que querem imigrar?
-
-
-
+**Pergunta:** O governo deveria abrir as fronteiras incondicionalmente?
 
 
-- Socialistas:** Sim. Vêem os imigrantes ilegais como um grupo oprimido e os brancos nativos, hostis aos imigrantes, como seus opressores. Além disso, as restrições baseadas na nacionalidade ou na religião são discriminatórias e contrárias aos direitos humanos. O Estado tem o dever de acolher as pessoas necessitadas e de promover a diversidade e a integração.
+### A posição socialista: sim
 
+Para socialistas, restrições discriminatórias são contrárias aos direitos humanos. O estado tem o dever de acolher pessoas necessitadas e promover a diversidade. Aqui novamente encontramos as ideias de justiça social, igualdade e não discriminação que caracterizam a família socialista. **Restrições baseadas em nacionalidade ou religião são vistas como formas de opressão**, coerentes com o quadro dominante/dominado descrito acima.
 
+### A posição conservadora: não
 
+O estado tem o direito soberano de controlar suas fronteiras para proteger a segurança nacional e a identidade cultural. Para conservadores, **ordem, identidade e soberania nacional devem ter prioridade** sobre o acolhimento irrestrito de estrangeiros ou refugiados. Fronteiras e uma população bem definida fazem parte dos valores civilizados.
 
+### A posição libertária: mista
 
-- Conservadores:** Não. O Estado tem o direito soberano de controlar as suas fronteiras e de escolher quem entra no seu território. As restrições podem ser necessárias para proteger a segurança nacional, a identidade cultural ou a capacidade de integração da sociedade. Temem que a permissão da imigração destrua a identidade das nações e prejudique ainda mais o trabalho dos cidadãos mais modestos. As fronteiras e uma população bem definida fazem parte dos valores civilizacionais.
+Sim à imigração de mercado e não à imigração estatal. Por quê? Porque, em um mundo fortemente estatista, a imigração é subsidiada e cria reivindicações sobre o trabalho dos outros. Em outras palavras, recai sobre os contribuintes, que devem pagar por saúde, moradia e outras despesas. Da perspectiva do eixo liberdade/coerção, fronteiras abertas dão aos indivíduos a capacidade de votar com os pés, de escolher livremente seu governo. Mas **a imigração não pode criar direitos sobre o trabalho dos outros**. Alguém tem o direito de se estabelecer em outro país sob a condição de não se tornar um fardo para seus residentes. A solução, como sempre para libertários, é o mercado: deixar que cidadãos decidam contratualmente suas relações com estrangeiros. Qualquer imigração imposta e forçada é incompatível com o respeito aos direitos de propriedade.
 
+### A posição centrista: sim
 
-
-
-
-- Libertários:** Sim e não. Sim à imigração de mercado e não à imigração estatal. Porque num mundo fortemente patrocinado pelo Estado, a imigração é sempre subsidiada e cria uma infeliz reivindicação do trabalho de outros, ou seja, um direito artificial, uma forma de transferência económica. No entanto, do ponto de vista do eixo liberdade/coerção, uma fronteira aberta dá ao indivíduo a escolha do governo e a possibilidade de votar com os pés. É por isso que a melhor política de imigração seria reduzir o envolvimento do Estado e permitir que os cidadãos decidam por si próprios.
-
-
-
-
-
-- Centristas:** O governo deve gerir a imigração de uma forma equilibrada. Embora as restrições baseadas na religião sejam geralmente inaceitáveis, as restrições baseadas na nacionalidade ou nas competências podem ser necessárias para satisfazer as necessidades económicas e assegurar uma integração bem sucedida, respeitando simultaneamente as convenções internacionais e os direitos humanos.
-
+A imigração permite que empregadores contratem trabalhadores em setores com escassez, e a imigração aberta possibilita a aplicação de convenções internacionais relativas a refugiados. O governo deve administrar a imigração de maneira equilibrada, **conciliando necessidades econômicas, integração bem-sucedida e respeito às convenções internacionais**.
 
 
 ### Armas de fogo
 
+![O debate sobre armas de fogo entre famílias políticas](./assets/en/088.webp)
 
+**Pergunta:** Cidadãos cumpridores da lei deveriam poder possuir armas de fogo sem regulação estrita?
 
-**Pergunta:** Os cidadãos cumpridores da lei devem poder possuir armas de fogo sem uma regulamentação rigorosa?
 
+### A posição socialista: não
 
+A segurança pública deve ter precedência sobre a liberdade de possuir armas. Regulação estrita é necessária para reduzir a violência e garantir a segurança coletiva, já que o estado tem o dever constitucional de proteger todos os seus cidadãos. Socialistas também enfatizam as desigualdades que poderiam resultar da liberdade de armas de fogo e a vulnerabilidade que ela criaria para os membros mais frágeis da sociedade. Em última instância, **apenas ao estado deveria ser confiado o uso da força**, sob condições que respeitem o interesse público.
 
+### A posição conservadora: mista
 
+O direito de possuir uma arma para autodefesa é um valor importante. No entanto, regulações para garantir segurança e ordem pública também são necessárias, e **essas regulações devem vir de uma autoridade pública** encarregada de salvaguardar o bem comum. Em contraste com a visão libertária, o conservador insiste que as regras que governam armas devem emanar de cima, de uma autoridade legítima responsável pela ordem pública.
 
-- Socialistas:** Não. A segurança pública deve ter precedência sobre a liberdade de possuir armas. É necessária uma regulamentação rigorosa para reduzir a violência e garantir a segurança de todos, porque o Estado tem o dever de proteger os seus cidadãos.
+### A posição libertária: sim
 
+O direito de armar-se é um componente essencial do direito de resistir à agressão. O estado não deveria deter monopólio da força, e indivíduos deveriam poder proteger-se livremente em casos de legítima defesa. O libertarianismo, deve-se notar, não é ausência de regras, como frequentemente se acredita. Libertários concordam com conservadores que alguma forma de regulação é necessária para portar armas, assim como se exige uma carteira de motorista ou licença de caça. Mas a diferença crucial está em quem estabelece essas regras. Para libertários, **a regulação deveria emergir daqueles diretamente envolvidos**: profissionais de segurança, associações de cidadãos e concorrência de mercado, não de um mandato governamental de cima para baixo.
 
+### A posição centrista: não
 
+A regulação é essencial. Embora o direito de possuir armas de fogo possa existir para certos usos, **a segurança pública e a redução da violência exigem controles estritos do estado**, que detém o monopólio da força: licenças, verificações de antecedentes e limitações sobre os tipos de armas permitidas.
 
 
-- Conservadores:** Em parte sim, o direito de possuir uma arma para auto-defesa é um valor importante. No entanto, a regulamentação para garantir a segurança e a ordem pública também é necessária, mas deve respeitar este direito fundamental.
+### Drogas
 
+![O debate sobre legalização das drogas entre famílias políticas](./assets/en/089.webp)
 
+**Pergunta:** Adultos deveriam poder usar drogas livremente para fins recreativos?
 
 
+### A posição socialista: sim
 
-- Libertários:** Sim, o direito de se armar é uma componente essencial do direito à auto-defesa. O Estado não deve ter o monopólio da força e os indivíduos devem ser capazes de se proteger sem obstáculos. Mas a regulação do porte de armas deve ser deixada ao mercado, aos profissionais e às associações de cidadãos.
+Para socialistas, a penalização cria mais problemas do que resolve. Uma legalização controlada pelo estado permitiria melhor gestão da qualidade, geraria receita pública e favoreceria a prevenção em saúde em vez da repressão. Vale notar a forte dicotomia existente no pensamento socialista entre questões econômicas e societais. **Nesta questão societal, socialistas se mostram muito mais liberais do que conservadores**, favorecendo a liberdade individual de consumo enquanto mantêm supervisão estatal do processo.
 
+### A posição conservadora: não
 
+Mesmo as chamadas drogas leves são prejudiciais à saúde e à ordem social. De fato, o uso de drogas cria problemas de dependência, mas também desagregação familiar e dificuldades no trabalho. O estado deve sustentar firmemente a lei para proteger cidadãos e preservar a integridade da nação e da família. Conservadores também apontam que **a proibição tem um custo enorme para o contribuinte**, já que envolve combater traficantes, gangues e cartéis, mas consideram esse custo justificado pelo imperativo de manter a ordem.
 
+### A posição libertária: mista
 
+Sim, mas apenas com a condição de que o papel do estado na sociedade seja reduzido. Primeiro, o estado não tem nada que interferir nas decisões pessoais dos indivíduos. Segundo, a proibição gera mercados negros e criminalidade. Mas a solução para os problemas de dependência, e os danos que ela gera tanto para o indivíduo quanto para a sociedade, está na iniciativa privada: apoio voluntário fornecido por indivíduos, famílias e associações, não em cuidados geridos pelo estado. Em outras palavras, **a liberalização das drogas é desejável, mas não se for apropriada pelo estado**. O cidadão deve receber de volta a responsabilidade de fazer escolhas e arcar com suas consequências. Se alguém escolhe usar drogas e se torna dependente ou doente, essa pessoa deve assumir responsabilidade em vez de pedir que o contribuinte pague pelos custos.
 
-- Centristas:** Não, a regulamentação é essencial. Embora o direito de possuir armas de fogo possa existir para determinadas utilizações, a segurança pública e a redução da violência exigem controlos rigorosos (licenças, verificação de antecedentes, tipo de armas) para estabelecer um equilíbrio entre liberdade e ordem.
+### A posição centrista: nem sim nem não
 
+Centristas querem saber com certeza se a liberalização desafogaria o sistema de justiça ou melhoraria a saúde pública. Na prática, apoiam-se em estudos e avaliações de especialistas para informar suas decisões. **Eles exigem evidências concretas de efetividade** antes de se comprometer com qualquer mudança de política, pedindo estudos rigorosos sobre os impactos tanto na saúde quanto na economia.
 
 
-### Os medicamentos
+### Imposto sobre bebidas açucaradas
 
+![O debate sobre imposto sobre bebidas açucaradas entre famílias políticas](./assets/en/090.webp)
 
+**Pergunta:** O governo deveria tributar bebidas açucaradas para reduzir a obesidade?
 
-**Pergunta:** Os adultos devem ser autorizados a consumir drogas livremente para fins recreativos?
 
+### A posição socialista: sim
 
+O problema da obesidade é, na visão socialista, o problema dos fabricantes que lucram com a dependência de açúcar à custa da saúde pública. Existe toda uma indústria alimentícia que explora essa dependência e a vulnerabilidade encontrada na população, particularmente entre aqueles menos protegidos e menos educados. **O imposto sobre refrigerantes visa impedir que industriais lucrem com a obesidade** e o problema da dependência.
 
+### A posição conservadora: não
 
+Conservadores são mais favoráveis à responsabilidade pessoal e à educação. A tarefa de educar crianças sobre essas questões deveria ser confiada primeiro aos pais: prevenção em vez de tributação. De fato, **a tributação é frequentemente considerada por conservadores não apenas ineficaz, mas positivamente prejudicial**, já que empresas simplesmente buscarão manter suas margens aumentando o preço de seus produtos, transferindo o fardo aos consumidores.
 
-- Socialistas:** Sim A penalização é ineficaz. A legalização permite o controlo e a geração de receitas.
-- Conservadores:** Não. O consumo é prejudicial à saúde e à ordem social.
-- Libertários:** Sim, desde que o papel do Estado na sociedade seja reduzido. O Estado não tem nada que interferir nas decisões pessoais, desde que não prejudiquem diretamente os outros.
-- Centristas:** Debate complexo. A descriminalização é possível, mas é imperativa uma regulamentação rigorosa.
+### A posição libertária: não
 
+Um princípio fundamental do libertarianismo é que é injusto proteger as pessoas de si mesmas. Aqui, o argumento é menos um cálculo econômico do que um argumento moral, fundamentalmente. Cidadãos são adultos, não crianças; têm o direito de tomar suas próprias decisões, mesmo que essas decisões possam prejudicá-los. O problema da obesidade deve, portanto, ser enfrentado pela iniciativa privada. Isso não significa negar que a obesidade seja um problema societal sério. Significa, antes, **devolver aos indivíduos a responsabilidade de fazer escolhas e arcar com suas consequências**. Se assistência for necessária, são o mercado, a sociedade civil, indivíduos e famílias que estão em melhor posição para fornecê-la, não o estado.
 
+### A posição centrista: nem sim nem não
 
+Sim, se a efetividade for comprovada. Em outras palavras, centristas exigem evidências concretas de que o imposto funcionaria antes de implementá-lo. Querem estudos rigorosos sobre os impactos na saúde e na economia. **Sua decisão repousa na avaliação de especialistas e não em princípios**, o que é característico da abordagem centrista ao longo desses debates.
 
-### Saúde
 
-
-
-**Pergunta:** Deverá o governo tributar as bebidas açucaradas para reduzir a obesidade?
-
-
-
-
-
-- Socialistas:** Sim. O problema da obesidade é um problema dos fabricantes que comercializam os refrigerantes. O imposto sobre os refrigerantes é uma proposta socialista para combater os fabricantes ou vendedores de bebidas açucaradas acusados de obter lucros à custa da saúde pública.
-
-
-
-
-
-- Conservadores:** Em princípio, sim. A missão do governo é assegurar a saúde dos seus cidadãos. Mas os conservadores preferem geralmente soluções baseadas na responsabilidade pessoal e na educação. A imposição de um imposto sobre as bebidas açucaradas seria vista como uma interferência excessiva do governo nas decisões pessoais dos cidadãos.
-
-
-
-
-
-- Libertários:** Não. Um princípio fundamental do libertarianismo é que é injusto proteger as pessoas de si próprias. Os cidadãos são adultos, não crianças. As tentativas de impor melhores hábitos de saúde por meios coercivos são consideradas dispendiosas, ineficazes e, em última análise, contraproducentes. O problema da obesidade deve ser resolvido pela iniciativa privada.
-
-
-
-
-
-- Centristas:** Sim, estariam abertos à ideia de um imposto se a sua eficácia fosse comprovada e se os seus inconvenientes sociais e económicos pudessem ser atenuados. Considerá-lo-iam como parte de uma solução mais ampla e integrada, e não como uma medida isolada.
-
-
-
-# Questões económicas
-
-
-<partId>465e0e6b-17e9-4f07-9a41-b3e88af0e83f</partId>
-
-
-
-## Questões económicas
-
+## Questões econômicas
 
 <chapterId>f1d6c5de-fa05-4fb7-9d2e-73cc9791ea23</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=8MM2cFzPtRg)
 
+![Análise comparativa de debates econômicos entre famílias políticas](./assets/en/091.webp)
 
-
-As questões económicas dizem respeito ao dinheiro, como o emprego, a compra e venda, os investimentos e as transacções comerciais. Selecionei cinco perguntas para apresentar as respostas de cada família política. Obviamente, estas respostas rápidas oferecem apenas um vislumbre de cada ponto de vista.
-
+Depois das questões societais, passamos agora às questões econômicas. Elas dizem respeito a dinheiro: emprego, compra e venda, investimentos, transações comerciais e também a lei. Examinaremos as respostas de cada grande família política a cinco questões fundamentais: impostos, salário mínimo, saúde, meio ambiente e subsídios. Como antes, essas respostas rápidas oferecem apenas um vislumbre de cada ponto de vista.
 
 
 ### Impostos
 
+![O debate sobre tributação entre famílias políticas](./assets/en/092.webp)
+
+**Pergunta:** Impostos sobre a renda deveriam ser reduzidos ou substituídos por formas mais simples e mais baixas de tributação?
 
 
-**Pergunta:** Os impostos sobre o rendimento devem ser reduzidos ou substituídos por formas de tributação mais simples e mais baixas?
+### A posição socialista: não
 
+Impostos progressivos sobre a renda são uma ferramenta fundamental para redistribuir riqueza e financiar serviços públicos (saúde, educação, proteção social). São, portanto, essenciais para a justiça social. Em outras palavras, **a progressividade é o mecanismo pelo qual o estado corrige a desigualdade** e financia a infraestrutura coletiva que socialistas consideram indispensável.
 
+### A posição conservadora: sim
 
+Impostos mais baixos incentivam investimento, criação de empregos e crescimento econômico. Favorecem a iniciativa individual e reduzem o desperdício governamental no setor público. Na visão conservadora, **impostos devem ser justos e baixos** para recompensar esforço e empreendedorismo em vez de penalizar o sucesso.
 
+### A posição libertária: sim
 
-- Os impostos progressivos sobre o rendimento são um instrumento fundamental para a redistribuição da riqueza e o financiamento dos serviços públicos (saúde, educação, proteção social). São essenciais para a justiça social.
-- Conservadores:** Sim. Impostos mais baixos incentivam o investimento, a criação de emprego e o crescimento económico. Incentivam a iniciativa individual e reduzem o desperdício do Estado. Os impostos devem ser justos e baixos.
+A tributação é uma forma de roubo estatal e um impedimento à propriedade privada. Deveria ser drasticamente reduzida ou abolida em favor de serviços inteiramente privados. Libertários tendem ao estado mínimo, ou até ao estado zero. Para eles, o governo deveria limitar-se a funções estritamente soberanas (defesa, justiça), o que justificaria muito menos impostos do que existe atualmente. Em outras palavras, **a objeção libertária à tributação é moral antes de ser econômica**: ela é uma violação dos direitos de propriedade.
 
+### A posição centrista: mista
 
-
-
-
-- Libertários:** Sim. Os impostos são uma forma de roubo do Estado e um impedimento à propriedade privada. Devem ser drasticamente reduzidos ou abolidos em favor da tributação voluntária ou de serviços inteiramente privados.
-
-
-
-
-
-- Centristas:** Um sistema fiscal deve ser equilibrado. Um certo grau de progressividade é necessário para a solidariedade, mas impostos demasiado elevados podem desencorajar o investimento. O objetivo é um sistema que financie os serviços essenciais sem asfixiar a economia.
-
+Certo grau de progressividade é necessário para a solidariedade, mas impostos altos demais podem desencorajar investimento. Centristas não se apoiam em um princípio fixo, mas em uma avaliação de consequências. Para isso, precisam de especialistas. É por isso que o centrismo é frequentemente associado a uma forma de tecnocracia: **o nível correto de tributação deve ser determinado por análise empírica**, não por compromisso ideológico.
 
 
 ### Salário mínimo
 
+![O debate sobre salário mínimo entre famílias políticas](./assets/en/093.webp)
 
+**Pergunta:** Leis de salário mínimo deveriam ser abolidas para permitir livre negociação entre empregadores e trabalhadores?
 
-**Pergunta:** Devem as leis sobre o salário mínimo ser abolidas para permitir a livre negociação entre empregadores e trabalhadores?
 
+### A posição socialista: não
 
+O salário mínimo é essencial para garantir uma vida digna aos trabalhadores, reduzir desigualdades e combater a pobreza. É uma ferramenta de justiça social que protege os mais vulneráveis. No quadro socialista, **o estado deve intervir para corrigir o desequilíbrio de poder** inerente à relação empregador-empregado.
 
+### A posição conservadora: sim, mas
 
+Em princípio, o mercado deve desempenhar seu papel de regulador. Um salário mínimo pode ser tolerável, mas apenas se não prejudicar a competitividade das empresas, e não deve ser generalizado. O que mais importa é responsabilidade individual e criação de empregos, em vez de dependência de subsídios. Em contraste com a posição libertária, **conservadores aceitam algum envolvimento do estado na definição de salários**, insistindo que ele permaneça mínimo e dependente do contexto.
 
-- Socialistas:** Não. O salário mínimo é essencial para garantir uma vida digna aos trabalhadores, reduzir as desigualdades e combater a pobreza. É um instrumento de justiça social que protege os mais vulneráveis.
+### A posição libertária: sim
 
+O salário mínimo distorce o mercado de trabalho, cria desemprego e viola a liberdade de contrato. O mercado deveria determinar salários por meio da livre negociação entre empregador e empregado. Por que o salário mínimo cria desemprego? Este é um problema técnico, mas o que mais importa é que, para libertários, a resposta é antes de tudo moral. **Um salário mínimo é uma imposição sobre a liberdade de contratar e fazer negócios.** Quando libertários dizem "o mercado", querem dizer o contrato, livremente negociado entre duas partes sem interferência estatal.
 
+### A posição centrista: mista
 
+Para centristas, a decisão deve repousar em análise técnica. Sim, se o salário mínimo não destrói empregos; sim, se promove crescimento; mas não se não o faz. O salário mínimo tem um papel social importante, mas **seu nível deve ser ajustado pragmaticamente**, levando em conta a competitividade das empresas e o poder de compra dos trabalhadores.
 
 
-- Conservadores:** Em princípio, não, o mercado deve desempenhar o seu papel de regulador. No entanto, um salário mínimo pode ser tolerável se não prejudicar excessivamente a competitividade das empresas. O que é importante é a responsabilidade individual e a criação de emprego, em vez da dependência de subsídios.
+### Saúde
 
+![O debate sobre saúde entre famílias políticas](./assets/en/094.webp)
 
+**Pergunta:** A saúde deveria ser confiada a mercados privados em vez de programas governamentais?
 
 
+### A posição socialista: não
 
-- Libertários:** Sim. O salário mínimo é uma intervenção artificial que distorce o mercado de trabalho, cria desemprego e viola a liberdade contratual. O mercado deve determinar os salários através da negociação.
+Acesso à saúde é um direito fundamental, não uma mercadoria. O estado deve garantir um sistema de saúde universal e financiado publicamente para que todos tenham acesso ao cuidado, independentemente da renda. Aqui novamente encontramos **a preocupação socialista com igualdade, justiça social e a importância do estado** na organização e no planejamento de serviços no interesse geral.
 
+### A posição conservadora: sim
 
+Mercados privados podem ser mais eficientes e reduzir a carga tributária. O estado pode desempenhar papel mínimo para os mais pobres, mas responsabilidade individual e seguros privados são preferíveis. Há sempre, na abordagem conservadora, **a ideia de combinar mecanismos de mercado com ação estatal limitada**, em vez de escolher um com exclusão do outro.
 
+### A posição libertária: sim
 
+O mercado privado é mais eficiente e inovador, mas acima de tudo (e este é o argumento moral fundamental), os indivíduos têm o direito de escolher seu próprio sistema. É uma questão de soberania individual e afirmação dos direitos de propriedade privada. Em outras palavras, **a posição libertária é mais enfática porque repousa em um princípio moral**: o direito de sair completamente do sistema de seguridade social, em vez de meramente defender maior participação privada ao lado de programas estatais.
 
-- Centristas:** Não, o salário mínimo tem um papel social importante. Ele deve existir, mas o seu nível deve ser ajustado de forma pragmática para evitar a destruição de postos de trabalho, tendo em conta a competitividade das empresas e o poder de compra dos trabalhadores.
+### A posição centrista: mista
 
+Um sistema misto costuma ser a melhor abordagem. O estado garante acesso universal e solidariedade (cobertura básica), enquanto o setor privado pode contribuir com diversificação e inovação. Idealmente, seria preciso um pouco de ambos: **uma combinação cuidadosamente calibrada por especialistas** para otimizar eficiência e qualidade.
 
 
-### Cuidados de saúde
+### O meio ambiente
 
+![O debate sobre meio ambiente entre famílias políticas](./assets/en/095.webp)
 
+**Pergunta:** Regulações ambientais deveriam ser limitadas para permitir que empresas se autorregulem?
 
-**Pergunta:** Devem os cuidados de saúde ser confiados a mercados privados em vez de programas governamentais?
 
+### A posição socialista: não
 
+O estado deve impor regras estritas para proteger o meio ambiente e combater a mudança climática. O mercado sozinho não pode resolver esses problemas, que exigem ação coletiva e planejamento. De fato, há também uma dimensão mais ideológica: não apenas o mercado não pode resolver a mudança climática, mas **na visão socialista, o próprio mercado é responsável pela poluição** e pelos danos ambientais que observamos. Subsídios são considerados necessários para assegurar a transição ecológica, e o livre comércio internacional deve ser regulado para proteger o meio ambiente.
 
+### A posição conservadora: mista
 
+Em princípio, sim, porque a liberdade de empreender é importante. No entanto, certo nível de regulação é necessário para proteger o meio ambiente como herança e recurso. Como frequentemente ocorre com conservadores, **um princípio deve ser nuançado segundo o contexto**: a liberdade econômica é valorizada, mas não ao custo de destruir o patrimônio natural herdado.
 
-- Socialistas:** Não. O acesso aos cuidados de saúde é um direito fundamental e não uma mercadoria. O Estado deve garantir um sistema de saúde universal, com financiamento público, para que todos tenham acesso aos cuidados, independentemente do seu rendimento.
+### A posição libertária: sim
 
+Regulações ambientais são um obstáculo à liberdade econômica e aos direitos de propriedade. Libertários sustentam que a melhor maneira de proteger o meio ambiente é por meio da propriedade privada, não por organizações burocráticas. De fato, **proprietários são mais propensos a cuidar de sua propriedade do que qualquer burocracia**. Problemas ambientais podem ser resolvidos pelo mercado, pela responsabilidade individual e pelos direitos de propriedade. Poluidores devem ser responsabilizados pelos danos que causam; isso é uma questão de justiça, não de regulação.
 
+### A posição centrista: não
 
-
-
-- Conservadores:** Na maior parte dos casos, sim. Os mercados privados podem ser mais eficientes e reduzir a carga fiscal. O Estado pode desempenhar um papel mínimo para os mais pobres, mas a responsabilidade individual e os seguros privados são preferíveis.
-
-
-
-
-
-- Libertários:** Sim. Os cuidados de saúde são um serviço como qualquer outro. O mercado privado é mais eficiente, inovador e oferece mais escolha aos consumidores. A intervenção do Estado conduz à ineficiência e à burocracia. Mas acima de tudo, os indivíduos têm o direito de escolher por si próprios se querem optar por sair do sistema de segurança social.
-
-
-
-
-
-- Centristas:** Um sistema misto é frequentemente a melhor abordagem. O Estado deve garantir o acesso universal e a solidariedade (cobertura de base), deixando ao mesmo tempo espaço para o sector privado diversificar a oferta e inovar, a fim de otimizar a eficácia e a qualidade.
-
-
-
-### O ambiente
-
-
-
-**Pergunta:** A regulamentação ambiental deve ser limitada para permitir que as empresas se auto-regulem?
-
-
-
-
-
-- Socialistas:** Não. O Estado deve impor uma regulamentação rigorosa para proteger o ambiente e combater as alterações climáticas. O mercado, por si só, não pode resolver estes problemas, que exigem uma ação e um planeamento colectivos. Os subsídios são considerados necessários para assegurar a transição ecológica. Além disso, o comércio livre internacional deve ser regulamentado para proteger o ambiente.
-
-
-
-
-
-- Conservadores:** Em princípio, sim, porque a liberdade de empreendimento é importante. No entanto, é necessário um certo nível de regulamentação para proteger o ambiente como património e recurso, mas sem asfixiar a economia.
-
-
-
-
-
-- Libertários:** Sim. Os regulamentos ambientais são um obstáculo à liberdade económica e à propriedade. Acreditam que a melhor forma de proteger o ambiente é através da propriedade privada e não através de organizações burocráticas. Acrescentam que os proprietários são mais propensos a cuidar da sua propriedade, uma vez que têm interesse em preservar o seu valor. Os problemas ambientais podem ser resolvidos através do mercado, da responsabilidade individual e dos direitos de propriedade. Os poluidores devem ser responsabilizados pelos danos que causam ao ambiente.
-
-
-
-
-
-- Centristas:** Não, a autorregulação não é suficiente. A regulamentação ambiental é necessária para proteger o planeta e a saúde pública. No entanto, devem ser concebidas de forma a não penalizar excessivamente a competitividade das empresas e a incentivar a inovação ecológica.
-
-
+A autorregulação não é suficiente. Regulações ambientais são necessárias para proteger o planeta e a saúde pública. No entanto, **devem ser concebidas de modo a não penalizar excessivamente a competitividade das empresas** e a incentivar a inovação verde. A posição centrista, como sempre, busca equilibrar imperativos concorrentes por meio de políticas cuidadosamente desenhadas.
 
 
 ### Subsídios
 
+![O debate sobre subsídios entre famílias políticas](./assets/en/096.webp)
+
+**Pergunta:** Empresas deveriam ser privadas de subsídios e planos de resgate?
 
 
-**Pergunta:** As empresas devem ser privadas de subsídios e de planos de salvamento?
+### A posição socialista: não
 
+Subsídios apoiam inovação, protegem empregos e desenvolvem setores estratégicos. **O estado é um ator econômico e planejador essencial**, e seu papel é orientar a economia para prioridades coletivamente definidas, incluindo a transição ecológica. Remover subsídios significaria abandonar os setores e trabalhadores mais vulneráveis aos caprichos do mercado.
 
+### A posição conservadora: sim, mas
 
+Em princípio, sim, para incentivar livre concorrência e responsabilidade corporativa individual. Contudo, exceções são possíveis para indústrias nacionais estratégicas. Pense-se, por exemplo, em armamentos, na indústria farmacêutica ou na educação. Em contraste com a posição libertária, **conservadores aceitam intervenção estatal direcionada quando segurança nacional ou interesses estratégicos estão em jogo**.
 
+### A posição libertária: sim
 
-- Socialistas:** Não. Os subsídios podem ser necessários para apoiar a inovação, proteger o emprego, desenvolver sectores estratégicos ou assegurar a transição ecológica. O papel do Estado é o de agente económico e de planificador.
+Subsídios e bailouts distorcem o mercado, favorecem algumas empresas em detrimento de outras e criam dependência do estado. Empresas que fracassam devem falir. Aqui novamente há considerações morais de respeito à soberania e à propriedade privada, mas também considerações de eficiência. Quando empresas são impedidas de fracassar por meio de subsídios, **isso cria o que é conhecido como risco moral**: um incentivo à irresponsabilidade e à imprudência. No fim, é o contribuinte quem paga, o que é profundamente injusto.
 
+### A posição centrista: direcionados
 
-
-
-
-- Conservadores:** Em princípio, sim, para incentivar a livre concorrência e a responsabilidade individual das empresas. No entanto, podem ser abertas excepções para indústrias estratégicas ou nacionais que sejam vitais para a segurança do país ou para o emprego.
-
-
-
-
-
-- Libertários:** Sim. Os subsídios e as ajudas distorcem o mercado, favorecem algumas empresas em detrimento de outras e criam dependência do Estado. As empresas que falham devem ir à falência.
-
-
-
-
-
-- Centristas:** Em geral, sim, mas com excepções. Os subsídios devem ser específicos e temporários, justificados por um interesse geral (inovação, transição ecológica, sectores estratégicos). Os resgates só devem ser considerados no caso de uma ameaça sistémica grave para a economia.
-
+Subsídios deveriam ser direcionados e temporários, justificados por um interesse geral (inovação, transição ecológica, setores estratégicos). Bailouts só deveriam ser considerados em caso de grande ameaça sistêmica à economia. Por exemplo, poderia ser necessário resgatar bancos, porque caso contrário isso criaria as condições para pânico geral e recessão. **A abordagem centrista exige que cada caso seja avaliado por seus méritos**, com subsídios justificados por necessidade demonstrada, e não por preferência ideológica.
 
 
 
 # Diferenças filosóficas entre famílias políticas
 
-
 <partId>a4c96533-ae9a-45be-8dc2-e0c2534eb89d</partId>
 
 
-
 ## Diferenças filosóficas entre famílias políticas
-
 
 <chapterId>e48cff63-15d9-4789-ab6c-f1df06683fce</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=Qznu_mAOji8)
+![Divergências filosóficas entre famílias políticas](./assets/en/097.webp)
 
+Quando comparamos as diferentes famílias políticas, pontos de convergência certamente emergem, mas também incompatibilidades profundas. Isso é especialmente visível quando colocamos libertários ao lado de outros perfis ideológicos: conservadores, socialistas, centristas. Nesta parte do curso, exploraremos uma série de divergências filosóficas que revelam as verdadeiras linhas de fratura que atravessam o pensamento político.
 
-
-Se compararmos as diferentes famílias políticas, podemos ver que existem possíveis semelhanças, mas também pontos de incompatibilidade. Isso é particularmente verdadeiro quando comparamos libertários com outros perfis ideológicos.  Vamos analisar essas divergências a partir de alguns conceitos filosóficos.
-
+Comecemos pela pergunta mais fundamental: a própria natureza da liberdade.
 
 
 ### Liberdade: princípio ou oportunidade?
 
 
+Para entender o que separa libertários de todas as outras famílias políticas, devemos começar com uma distinção introduzida por um dos grandes pensadores liberais franceses. Em sua obra de 1849 *Les Soirees de la rue Saint-Lazare*, Gustave de Molinari, discípulo de Frederic Bastiat, encena um diálogo entre três personagens, cada um representando uma família política: o socialista, o conservador e o economista.
 
-Para dissipar esta confusão, vamos apresentar três concepções de liberdade.
+![As três figuras políticas de Molinari: o socialista, o conservador e o economista](./assets/en/098.webp)
 
+O que Molinari demonstra por meio desses diálogos é impressionante. **O economista está em desacordo permanente tanto com o socialista quanto com o conservador.** Ele é o único que defende a liberdade como princípio fundamental, que não é subordinado a nenhum outro objetivo. O socialista quer reformar a sociedade segundo ideais progressistas; o conservador quer preservar a sociedade em seu estado atual. Ambos estão dispostos a restringir liberdades e chamar o estado para impor suas respectivas agendas.
 
+A visão de Molinari mostrou-se profética. Desde sua época, em meados do século XIX, conservadores e socialistas se alternaram no poder e realizaram precisamente o que ele descreveu: **a instrumentalização da liberdade a serviço de objetivos políticos.**
 
-1. Para os conservadores, a liberdade é uma coisa boa, mas demasiada liberdade cria caos e desordem. Por isso, a liberdade tem de ser limitada e enquadrada.
+### A visão conservadora: ordem antes da liberdade
 
+![A concepção conservadora de liberdade condicionada por ordem e tradição](./assets/en/099.webp)
 
+Para conservadores, ordem e tradição têm precedência sobre a liberdade. Liberdade demais, argumentam, gera caos e desordem social. A liberdade pode ser valorizada, mas apenas depois que a ordem tenha sido firmemente estabelecida.
 
-Para eles, a liberdade não é um princípio fundamental, mas uma questão de conveniência. Por exemplo, um conservador que denuncie as leis que punem o discurso homofóbico não será necessariamente a favor da legalização das drogas ou da eliminação dos subsídios familiares.
+Na prática, isso significa que **a liberdade deve ser limitada e não pode ser deixada operar por si só.** Ela se torna perigosa sempre que ameaça a estabilidade social, a família ou os valores culturais herdados. A liberdade de empreender ou possuir propriedade é defendida, mas sempre condicionada ao respeito por valores tradicionais e deveres para com a comunidade. Isso implica um papel para o estado não apenas em questões societais, mas também no domínio econômico, onde a liberdade deve permanecer supervisionada.
 
+### A visão socialista: justiça antes da liberdade
 
+![A concepção socialista de liberdade ligada à justiça social e à igualdade](./assets/en/100.webp)
 
-2. Os socialistas podem também defender a introdução desta ou daquela liberdade numa base ad hoc, oportunista e selectiva. Mas, para eles, não se trata da aplicação de um princípio geral de decisão. Podem procurar obrigar os indivíduos a abandonar as suas raízes, tal como os conservadores procuram obrigá-los a ficar.
+Para socialistas, a justiça social vem antes da liberdade individual. A liberdade é entendida não como independência da coerção, mas como a capacidade de agir, uma capacidade que pressupõe condições materiais e sociais equitativas.
 
+Em outras palavras, **uma pessoa não é verdadeiramente livre se lhe falta alimento ou acesso a serviços essenciais.** A prioridade política, portanto, recai sobre igualar condições. A liberdade está intrinsecamente ligada à justiça social e à igualdade; manifesta-se por meio da emancipação de restrições econômicas e sociais, como pobreza ou exclusão. Essa lógica exige regularmente intervenção estatal para garantir direitos sociais e redistribuir riqueza.
 
+### A visão centrista: eficiência antes da liberdade
 
-3. Para os libertários, a liberdade é um princípio geral de decisão e ação. Um libertário é um defensor radical da liberdade individual e dos direitos de propriedade, procurando minimizar a intervenção do Estado e opondo-se a todas as formas de construtivismo social imposto pelo Estado. Embora a força do princípio da liberdade possa variar entre os anarco-capitalistas (que se recusam a contornar quaisquer regras) e os liberais clássicos (que têm um discurso mais matizado), o princípio é sempre o mesmo: privatizar tudo o que pode ser privatizado.
+![A concepção instrumental centrista da liberdade](./assets/en/101.webp)
 
+Centristas defendem certas liberdades, mas de maneira oportunista e contextual, sem aplicar qualquer princípio geral de decisão. Adaptam suas posições segundo desafios específicos e os compromissos necessários para alcançar resultados eficientemente.
 
+Considere, por exemplo, o Green New Deal: centristas podem pressionar fortemente por subsídios à energia eólica e apoio a negócios verdes, não por compromisso de princípio com a liberdade ou mesmo com a ecologia, mas porque tais políticas se alinham às tendências predominantes. **Essa abordagem pragmática revela uma concepção instrumental da liberdade** que acaba convergindo com as abordagens tanto de conservadores quanto de socialistas. A liberdade é sempre invocada, mas sempre subordinada.
 
-Esta oposição entre famílias políticas já estava presente - com palavras diferentes - em Les Soirées de la rue Saint Lazare, de Gustave Molinari. Este livro, publicado em 1849 por um discípulo de Frédéric Bastiat, apresenta três personagens: o socialista, o conservador e o economista. O personagem conhecido como economista é, de facto, um liberal, no sentido clássico da palavra; hoje, diríamos um libertário.
+### A visão libertária: liberdade como axioma
 
+![A visão libertária da liberdade como princípio incondicional](./assets/en/102.webp)
 
+Libertários definem a liberdade como um princípio geral, incondicional, de ação e decisão. Ela funciona como um axioma do qual todo o resto decorre. A liberdade deve ser colocada de saída como um direito fundamental e, simultaneamente, como um dever: **o direito de não ser agredido, e a responsabilidade de não agredir os outros**, com restituição exigida em casos de falta.
 
-Nestes diálogos concebidos por Molinari, o economista (liberal/libertário) opõe-se sempre ao socialista e ao conservador. Insiste em mostrar que as suas posições não são fundamentalmente diferentes. De facto, para Molinari, conservadores e socialistas têm uma coisa em comum: procuram impor a sua visão da sociedade através do Estado.
+Libertários defendem a proteção integral da liberdade individual e dos direitos de propriedade, com um mínimo de intervenção estatal. Opõem-se ao construtivismo (planejamento central) e, independentemente de onde se situem no espectro libertário, de liberais clássicos a anarcocapitalistas, compartilham o objetivo de privatizar tudo que pode ser privatizado.
 
+### Convergência nos fins, divergência nos meios
+
+Aqui reside uma nuance crucial. Libertários podem concordar com socialistas, conservadores e centristas em certos objetivos: defender os oprimidos, proteger a civilização, promover coesão social. O desacordo não é sobre fins, mas sobre meios.
+
+**Libertários rejeitam todas as soluções coercitivas que buscam uniformizar práticas, leis e regulações.** Opõem-se à redistribuição de riqueza, salários mínimos impostos e ao peso crescente do estado na economia. Como alternativa, defendem o poder de escolha e o princípio da liberdade responsável por meio do processo de mercado: troca livre e descentralizada fundada em contratos voluntários.
 
 
 ## Ordem espontânea vs. ordem construída
-
 
 <chapterId>504aa7da-ecd5-4177-87d9-c8792f58c8e3</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=jh-FDJftOf0)
 
+![Ordem espontânea versus ordem construída](./assets/en/103.webp)
 
+Outra grande linha de fratura divide aqueles que acreditam que o processo político é superior ao processo de mercado daqueles que sustentam a visão oposta. O primeiro grupo defende uma ordem construída, desenhada de cima para baixo. O segundo defende uma ordem espontânea, emergindo de baixo para cima. Essa distinção é fundamental para entender sensibilidades políticas, e coloca libertários contra praticamente todas as outras famílias.
 
-Os conceitos de *ordem espontânea* e *ordem construída* são fundamentais para compreender as distinções entre as diferentes sensibilidades políticas, incluindo o libertarianismo e os construtivismos de direita (conservadorismo) e de esquerda (socialismo).
+### Construtivismo: um consenso transpartidário
 
+![Construtivismo como convicção compartilhada entre centristas, conservadores e socialistas](./assets/en/104.webp)
 
+O construtivismo não é monopólio de um único campo político. Ele une centristas, conservadores e socialistas em torno de uma convicção compartilhada: **a superioridade do processo político sobre o processo de mercado.** Para todas essas correntes, o estado está mais bem equipado para organizar a sociedade de maneira justa e eficiente. Elas privilegiam o planejamento central, embora em graus variáveis conforme a família.
 
-O construtivismo refere-se ao desejo de moldar a sociedade de acordo com um determinado plano. É uma abordagem que procura impor uma visão pré-estabelecida da sociedade através das acções do Estado ou de outras entidades (sindicatos, ONG, grupos de pressão ou organizações internacionais).
+Se resumirmos o construtivismo em uma única frase: é a crença de que um governo central pode criar, pela força da lei, uma ordem social boa para o maior número.
 
+### A análise de Hayek sobre o construtivismo
 
+![A crítica de Hayek ao construtivismo e ao planejamento central](./assets/en/105.webp)
 
-O oposto do construtivismo é a ordem espontânea, que emerge naturalmente das interações livres dos indivíduos, enquanto a ordem construída é o resultado de uma intervenção deliberada e planeada para moldar a sociedade de acordo com uma determinada visão, seja ela conservadora (fixa) ou progressiva (transformada).
+Para entender o que está em jogo, podemos seguir a análise de Friedrich Hayek. Construtivistas acreditam firmemente que é possível construir uma sociedade que se conforme a seus desejos e ideais. Consideram necessária uma intervenção deliberada e planejada para moldar a sociedade segundo sua visão, seja conservadora ou progressista.
 
+Por trás dessa crença está uma suposição mais antiga, rastreável a Platão e à sua teoria do rei-filósofo: **a ideia de que certos homens estão mais bem equipados para dirigir outros e organizar a sociedade.** Essa é uma crença fundamental na superioridade de alguns sobre outros.
 
+Mas Hayek mostra que, além dessa questão filosófica, há uma impossibilidade prática.
 
-Os construtivistas acreditam que é possível construir uma sociedade que se adapte aos seus desejos. Os libertários, por outro lado, acreditam que uma sociedade se constrói de forma imprevisível através de processos de coordenação inter-individual.
+### Ordem espontânea: organização de baixo para cima
 
+![Ordem espontânea como produto de interações individuais livres](./assets/en/106.webp)
 
-A ordem espontânea é um conceito importante derivado da obra de Hayek. É definida como o produto das interações livres dos indivíduos na sociedade. É o resultado da ação humana, não da consciência humana deliberada, e não é planeada ou imposta por uma autoridade central: *O produto da ação humana, não do desígnio humano*, repetiu Friedrich Hayek, citando Adam Ferguson.
+A ordem espontânea não é um argumento contra a organização. Pelo contrário, para Hayek, ela é um dos motores mais poderosos do progresso econômico e social. Define-se como o produto das interações livres de indivíduos na sociedade, resultante da ação humana, mas não de desenho humano deliberado.
 
+Regras, instituições e práticas que emergem espontaneamente não são planejadas nem impostas por uma autoridade central. Considere os seguintes exemplos:
 
+Linguagem: francês, inglês, alemão, nenhuma dessas línguas foi construída em um gabinete onde intelectuais se reuniram para decidir as regras de gramática e ortografia. **Elas são fruto de uma organização lenta e orgânica construída por interações históricas.**
 
-Descrevendo o mecanismo da mão invisível, Adam Smith escreveu, por sua vez: *Ao procurar apenas o seu próprio interesse, [o indivíduo] trabalha frequentemente de forma mais eficiente para o interesse da sociedade, do que se o seu objetivo fosse realmente trabalhar para ela.*
+Códigos sociais: moralidade, cortesia, costumes; estes também são produto de coordenação espontânea que se desenvolveu progressivamente por meio da interação humana.
 
+Dinheiro-mercadoria: de conchas a metais, o ouro emergiu como o melhor dinheiro escolhido pelo mercado, não por qualquer autoridade central, por meio da experiência, da concorrência e das avaliações subjetivas dos indivíduos.
 
+### O problema do conhecimento
 
-Segundo Hayek, qualquer pretensão de organizar cientificamente a sociedade e o mercado leva a agravar os males em vez de os remediar. Como assinalou Burke, seguindo os passos dos escoceses Smith e Hume, a história produz instituições mais complexas e mais bem adaptadas do que qualquer coisa que a razão possa conscientemente conceber.
+![A natureza dispersa do conhecimento segundo Hayek](./assets/en/107.webp)
 
+O argumento fundamental de Hayek em favor da ordem espontânea repousa na natureza da informação. Em um artigo de 1945, *The Use of Knowledge in Society*, ele escreveu:
 
+> O conhecimento nunca existe de forma concentrada ou integrada, mas apenas como fragmentos dispersos de conhecimento incompleto e frequentemente contraditório possuídos por todos os indivíduos distintos.
 
-De facto, as regras, as instituições, as práticas e outros fenómenos sociais não são o resultado de um planeamento intencional por parte de uma autoridade central.
+O mercado depende de informação, mas apenas indivíduos distintos podem saber quais são suas necessidades e quanto as coisas custam. O valor repousa na apreciação subjetiva, nas mentes dos indivíduos. **Ele não pode ser decretado autoritariamente ou centralmente.** O valor é subjetivo, e por isso é conhecido apenas de maneira limitada, fragmentada e local.
 
+É o sistema de preços que permite que milhões de pessoas que não se conhecem coordenem seus conhecimentos e habilidades. Em um mercado livre, os preços transmitem informações sobre as necessidades e competências de cada participante. Eles permitem que as pessoas estabeleçam relações e troquem. Esses são, naturalmente, preços de mercado, estabelecidos por negociação voluntária entre indivíduos.
 
-*Muitas das maiores conquistas da humanidade não resultaram de um pensamento conscientemente dirigido, e muito menos de um esforço deliberadamente coordenado por muitas pessoas, mas sim de um processo em que o indivíduo desempenha um papel que nunca compreenderá totalmente.* F. Hayek.
+O planejador central, sentado em um ministério ou escritório, não tem conhecimento do verdadeiro preço das coisas porque não está envolvido em interação e troca. Assim, **qualquer pretensão de organizar cientificamente a sociedade paradoxalmente agrava os problemas em vez de remediá-los.**
 
+Quando o estado fixa preços, porque conhece apenas uma pequena parte das preferências dos consumidores e das especificidades locais, provoca crises. Considere controles de aluguel: quando aluguéis são limitados, proprietários acham pouco lucrativo oferecer seus imóveis para locação, e seguem-se escassezes de moradia.
 
+### O livre mercado como regulação genuína
 
-As línguas, por exemplo, ou os costumes, são coisas criadas pelo homem. Mas nenhum deles foi concebido por um ser humano. Todos eles surgiram de forma não planeada. O mesmo se passa com as moedas antigas, como as moedas metálicas, ou com uma nova moeda como o Bitcoin. São *inovações sem autorização* que foram eleitas pelo mercado.
+![O livre mercado como verdadeiro regulador da sociedade](./assets/en/108.webp)
 
+Para libertários, a verdadeira regulação da sociedade não é a democracia (que tem seus usos como modo de designar representantes), **mas antes de tudo o livre mercado**.
 
+O mercado desempenha três funções essenciais:
 
-**Conhecimento disperso
+1. **Sem livre mercado, não há bússola.** Preços são indicadores confiáveis para orientar decisões econômicas e sociais.
+2. **O mercado revela preferências.** É um mecanismo ótimo para descobrir e agregar preferências individuais autênticas. Preços refletem oferta e demanda.
+3. **O mercado permite o pleno exercício do direito de decidir.** Atores podem determinar livremente seus próprios assuntos segundo seus valores pessoais. Há aqui uma dimensão ética: deixar cada pessoa ser ator de sua própria vida e fazer suas próprias escolhas.
 
+### Pró-negócios versus pró-mercado
 
+![A distinção entre posições pró-negócios e pró-mercado](./assets/en/109.webp)
 
-> O conhecimento nunca existe numa forma concentrada ou integrada, mas apenas como fragmentos dispersos de conhecimentos incompletos e frequentemente contraditórios, possuídos por todos os indivíduos distintos.
->
+É importante distinguir claramente entre pró-negócios e pró-mercado, duas posições que frequentemente são confundidas.
 
+Entre socialistas, centristas e conservadores, encontram-se muitos políticos pró-negócios. Para eles, a concorrência é um instrumento de governança para alcançar objetivos econômicos. Ela é obtida por meio de regulações que garantem concorrência supostamente justa: leis antimonopólio, normas setoriais e ambientais. Planos de estímulo e subsídios são justificados por consequências sociais, como prevenir perdas de emprego e recessão. **Na visão pró-negócios, o mercado é frágil e precisa que o estado o resgate.**
 
-> F. Hayek, The Use of Knowledge in Society, 1945
+Para defensores pró-mercado, a concorrência é o resultado natural da livre iniciativa, que exclui o poder centralizado do estado. Isso implica desregulação (suprimir obstáculos à liberdade e regulações que constrangem a propriedade privada) e permitir que empresas fracassem, porque **o fracasso permite que o mercado se reorganize naturalmente e abre espaço para atores mais capazes.** Se uma empresa fracassa, fez escolhas ruins e deve arcar com as consequências.
 
-O mercado é um instrumento de cooperação, pois fornece informações sobre a situação real das necessidades e das competências. É um processo de descoberta de informações e de mobilização de conhecimentos dispersos sobre os valores e as necessidades. De facto, o mercado é o ponto de encontro das preferências individuais que conduz à formação dos preços. O sistema de preços é, portanto, um mecanismo que emerge espontaneamente dos contratos para coordenar as trocas. Quando os preços são livremente debatidos, reflectem a diversidade das opiniões e preferências dos consumidores.
+A diferença é significativa. Defensores pró-negócios frequentemente buscam uma aliança com grandes corporações em detrimento de atores menores. Este é um capitalismo de aparências que, na realidade, reduz consideravelmente a liberdade por meio de sua fé no construtivismo e no planejamento.
 
+### A posição libertária
 
+![A defesa libertária da troca voluntária contra a coerção organizada](./assets/en/110.webp)
 
-Só os indivíduos podem conhecer os custos e benefícios de um bem, porque são subjectivos. Num sistema centralizado e planificado, por outro lado, o Estado fixa os preços, mas como só conhece uma parte das preferências dos consumidores e das especificidades locais, distorce o mercado. Só um sistema de comércio descentralizado, com preços livremente negociados, pode fazer emergir este conhecimento disperso.
+Em conclusão, libertários se encontram um tanto sozinhos contra as outras famílias políticas, todas construtivistas. Libertários sustentam que **a sociedade se organiza naturalmente por mecanismos espontâneos de coordenação**, e que a cooperação voluntária permanece superior à coerção organizada, mesmo quando bem-intencionada, para construir uma sociedade justa e próspera.
 
+A classe política em geral não é favorável à ordem espontânea porque ela ameaça seu poder. Seja você político conservador, centrista ou socialista, tenderá a ser hostil à ordem espontânea e ao mercado porque quer controlar os assuntos. Mas, para libertários, o verdadeiro poder de melhorar a sociedade não está no poder político, mas no poder de escolha: a troca livre e voluntária, o mercado.
 
+Dois aspectos devem ser mantidos juntos. Eficiência: **mercados livres coordenam informação dispersa melhor do que planejamento centralizado**, como Hayek demonstrou. E justiça: consentimento mútuo respeita a dignidade humana mais do que coerção e construtivismo jamais poderiam.
 
-Os libertários opõem-se, portanto, tanto aos socialistas como aos conservadores, ou seja, a duas categorias de construtivistas: os socialistas querem reformar a sociedade, os conservadores querem mantê-la tal como está. Assim, há construtivistas de esquerda e construtivistas de direita.
-
-
-
-
-**Política ou mercado?*
-
-
-Os construtivistas, os centristas, os conservadores e os socialistas estão todos de acordo num ponto fundamental: consideram que o processo político é mais eficiente do que o processo de mercado.
-
-
-
-
-
-- Por processo político entendo a capacidade de um governo central criar, pela força da lei, uma ordem social que seja simultaneamente justa e estável para o maior número de pessoas.
-
-
-
-
-
-- Por processo de mercado, entendo a troca livre e voluntária como modo de interação e mecanismo de cooperação.
-
-
-
-Filosoficamente, o libertário pode concordar com alguns dos objectivos dos conservadores e dos socialistas, mas empiricamente discordará dos seus meios.
-
-
-Assim, o libertário concordará com os socialistas sobre a ajuda aos trabalhadores oprimidos, mas não pensará que o salário mínimo possa atingir esse objetivo, pelo menos não um salário mínimo uniforme imposto em todo o lado.
-
-
-
-Ironicamente, embora muitos defensores do socialismo defendam a igualdade económica, a história tem demonstrado que, quando os países tentam erradicar o processo espontâneo de criação de riqueza associado aos mercados livres, criam o pior tipo possível de desigualdade: uma sociedade onde as massas passam fome enquanto os planeadores centrais vivem como reis.
-
-
-
-O planeamento central não pode funcionar, porque tenta substituir a inteligência omnisciente por um sistema distribuído e fragmentado com conhecimentos localizados mas interligados.
-
-
-Da mesma forma, o libertário concordará com a ideia conservadora de que a civilização deve ser defendida, mas não concordará com a criação de leis e regulamentos que aumentem as restrições, as despesas e o peso do governo. Pelo contrário, defenderá o único meio que é simultaneamente justo e eficaz: o poder de escolha ou o princípio da liberdade responsável, ou seja, o processo de mercado.
-
-
-
-Os libertários acreditam que a ordem económica e social é auto-organizável, desde que os direitos e deveres dos indivíduos estejam claramente definidos. A sua abordagem baseia-se no respeito pelos direitos de propriedade e na não intervenção do Estado, deixando a sociedade organizar-se por si própria.
-
-
-Para os libertários, a verdadeira regulação da sociedade não é a democracia, que tem a sua utilidade como meio de nomear representantes, mas, antes de mais, o mercado livre. Sem um mercado livre, não há bússola. Porque o mercado é o melhor indicador das preferências pessoais. Num mercado livre, os actores exercem plenamente o seu direito de decidir os seus próprios assuntos.
-
+Tudo isso, porém, exige que direitos e deveres sejam claramente definidos. O mercado pode ser um processo espontâneo, mas deve conformar-se ao direito, particularmente aos direitos de propriedade, e requer a não intervenção do estado em assuntos econômicos e sociais. O estado deveria limitar-se a fazer cumprir direitos fundamentais, como direitos de propriedade, e abster-se de intervir em todo o resto.
 
 
 ## Individualismo vs. coletivismo
-
 
 <chapterId>ba205097-37f8-4503-9c1e-97eb31e7678c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=PsEfNf5xHdk)
 
+![Individualismo versus coletivismo](./assets/en/111.webp)
 
+Outra linha de clivagem entre famílias políticas diz respeito à relação entre o indivíduo e a sociedade. A coletividade é um fim ou um meio para o indivíduo? E, inversamente, o indivíduo é um fim ou um meio para o coletivo? Essas duas perguntas definem a oposição entre individualismo e coletivismo.
 
-O individualismo e o coletivismo representam duas visões fundamentalmente opostas da relação entre o indivíduo e a sociedade.
+### Individualismo segundo Mises
 
+O economista austríaco Ludwig von Mises deu uma clarificação decisiva dessa questão. Ele escreveu: *Somente o indivíduo pensa, somente ele raciocina, somente ele age.*
 
-O economista austríaco Ludwig von Mises costumava dizer: Só o indivíduo pensa, só ele raciocina, só ele age.
+Isso significa que o individualismo, corretamente entendido, se opõe à noção de que entidades sociais como "sociedade" ou "nação" poderiam existir independentemente dos indivíduos que as compõem. **Uma coletividade não tem existência própria além das ações de seus membros individuais.** Não podemos falar de modo significativo da ação do estado, de um país, de uma empresa ou de um sindicato. Por quê? Simplesmente porque essas entidades não têm vontade nem pensamento próprios. Agem apenas por intermédio de indivíduos.
 
+Considere uma língua: francês, inglês, alemão. Cada uma existe apenas por meio daqueles que a falam. Se ninguém a fala, ela deixa de existir. O mesmo princípio se aplica a todos os corpos sociais.
 
+### A dimensão moral
 
-Consequentemente, um coletivo não tem existência nem realidade, a não ser as acções dos indivíduos que o compõem. A sociedade não tem vontade, não tem pensamento. Todas as acções colectivas devem ser explicadas em termos das suas componentes individuais. Não se pode falar de "ação do Estado, de um país, de uma empresa, de um sindicato": são sempre os indivíduos que agem.
+Esse ponto de vista metodológico pode ser transposto para a esfera moral e política. **O único agente moral é o indivíduo.** É o indivíduo que pode ser qualificado como bom ou mau, justo ou injusto. Não há sociedade justa ou injusta em si; é preciso examinar as relações entre indivíduos. Para julgar moralmente, é preciso referir-se a indivíduos que agem, não a coletividades.
 
+Outro ponto que Mises enfatiza: o indivíduo não é um átomo isolado. Individualismo não deve ser confundido com autossuficiência ou misantropia. O ser humano é uma criatura social. O individualismo promove cooperação e associação, **desde que repousem no livre consentimento dos participantes.** O ser humano só pode desenvolver todo seu potencial em relação com outros, sob a condição de que essa cooperação seja voluntária.
 
+### Kant e a autonomia moral
 
-Qualquer corpo social só existe, portanto, por intermédio daqueles que se dizem parte dele nas suas acções. Se ninguém o reivindicasse, deixaria de existir. Do mesmo modo, uma língua só existe através dos indivíduos que a falam. Se estes deixarem de a falar, ela deixa de existir.
+![Kant e o princípio iluminista da autonomia moral](./assets/en/112.webp)
 
+Esse individualismo tem raízes profundas, rastreáveis ao cristianismo, à filosofia grega e romana. Mas citemos o filósofo iluminista Immanuel Kant. Para ele, o individualismo defende a capacidade e o direito dos indivíduos de julgar por si mesmos, escolher seus próprios objetivos e agir de acordo.
 
+Este é o direito inalienável de todo ser de permanecer mestre e possuidor de sua pessoa e dos bens que adquiriu legitimamente, e **de estar em posição de definir seus próprios fins e valores.** Isso leva à afirmação de que o ser humano é um fim em si, não um mero meio. Uma caneta é um mero meio, descartada quando não é mais necessária. Apenas um ser dotado de razão é um fim em si.
 
-Do ponto de vista ético e jurídico, o indivíduo é o único agente moral. Não há outra referência para definir o bem e o mal. As noções de certo e errado, de direitos e deveres, só fazem sentido para indivíduos singulares, não para comunidades, países ou mesmo animais.
+Este é tanto um princípio antropológico (fundado na capacidade humana de autonomia e autogoverno) quanto um princípio moral. A famosa fórmula de Kant, *Sapere aude* ("Ouse pensar por si mesmo"), tomada do poeta Horácio, tornou-se o lema do Iluminismo em seu ensaio de 1784 *What is Enlightenment?* Ela simboliza a saída da minoridade: um estado em que as pessoas são incapazes de usar seu entendimento sem a direção de uma classe superior ou autoridade.
 
+Kant encoraja as pessoas a se emanciparem, a pensar por si mesmas, a assumir plena responsabilidade por seu pensamento. Um dos obstáculos a essa autonomia, observa Kant, é a preguiça e a covardia: **a tentação de refugiar-se em pensamentos prontos**, que é também o que leva ao coletivismo.
 
+A consequência para as instituições é clara: elas existem para servir ao florescimento dos indivíduos, sua proteção e a realização de todo o seu potencial. A sociedade é um meio, não um fim.
 
-O princípio antropológico fundamental subjacente a este individualismo bem compreendido foi claramente definido por Immanuel Kant no século XVIII: *Atreve-te a pensar por ti próprio*.
+### A filosofia coletivista
 
+O coletivismo emerge em parte porque oferece uma espécie de facilidade, proteção e segurança sedutoras para muitos. O individualismo que afirma a autonomia de cada pessoa pode parecer assustador. Todos estão prontos para assumir plena responsabilidade por sua existência? Nem sempre, e **às vezes é mais simples apoiar-se em uma autoridade que impõe um modo de vida.**
 
+Na concepção coletivista, os interesses privados dos indivíduos devem ser sistematicamente subordinados a decisões tomadas em nome de uma entidade superior que supostamente encarna o interesse geral ou o bem comum. Essa entidade pode ser o estado, a nação, a igreja, mas hoje, com a social-democracia, é acima de tudo a maioria democrática. A regra da maioria determina certo e errado, verdadeiro e falso.
 
-Esta injunção, originalmente retirada de uma epístola de Horácio publicada vinte anos antes da nossa era, foi retomada e popularizada por Immanuel Kant no seu ensaio *O que é* o Iluminismo? publicado em 1784. Para Kant, esta frase é o lema do Iluminismo, simbolizando a saída do homem da sua menoridade, um estado de incapacidade de usar o seu entendimento sem a orientação de outros, pelo qual ele próprio é responsável, por preguiça e cobardia.
+A coletividade torna-se a prioridade. Objetivos coletivos superam objetivos individuais, e instituições servem à sociedade mesmo à custa das pessoas.
 
+### Marx e o materialismo histórico
 
+![Marx e a primazia da existência social sobre a consciência individual](./assets/en/113.webp)
 
-O ser humano não é nem um simples animal nem um escravo. Ele pertence a si próprio e é dotado de uma vontade livre, de uma capacidade de escolha informada pela razão. Em suma, o ser humano é um fim em si mesmo e não um meio para os outros. É isso que lhe confere a sua dignidade moral.
+Um grande pensador do coletivismo é Karl Marx, que justificou a superioridade do coletivo sobre o indivíduo por meio do que chamou de materialismo histórico:
 
+> Não é a consciência dos homens que determina sua existência; ao contrário, é sua existência social que determina sua consciência.
 
+A consciência não é primária, mas secundária, determinada pela existência social: o estado das relações econômicas e sociais, a oposição entre classes. **O indivíduo não é nada fora dessa realidade.** Ele pensa por meio de sua classe social, vive, comporta-se e age como sua classe dita, mas inconscientemente. Daí o imperativo marxista de tomar consciência dos interesses da própria classe para realizá-los.
 
-Mas, ao dar este poder aos seres humanos, o individualismo pode, no entanto, parecer a muitos uma experiência assustadora. Estaremos prontos para assumir a responsabilidade pela nossa própria vida?
+### As múltiplas faces do coletivismo
 
+Como Mises observou: *Não há ideologia coletivista uniforme, mas muitas doutrinas coletivistas. Cada uma exalta uma entidade coletiva diferente.*
 
+Podemos classificar os coletivismos em dois grupos. Coletivismos de direita, como o Nacional-Socialismo e o Fascismo de Mussolini, exaltam a nação e a raça como entidades superiores ao indivíduo. Coletivismos de esquerda, comunismo e socialismo, dão prioridade à classe trabalhadora e à igualdade social, tratando a classe social como a entidade suprema que define o indivíduo.
 
-O coletivismo, económico ou político, é uma filosofia que se baseia numa autoridade exterior ao indivíduo - o Estado ou a maioria - para impor ao indivíduo um determinado modo de vida e uma determinada condição económica. As decisões são tomadas em nome dessa entidade superior. Os interesses privados dos indivíduos devem, por conseguinte, ser-lhe subordinados.
+O espectro vai da social-democracia ao Nacional-Socialismo, mas **essas doutrinas convergem em uma hostilidade compartilhada à liberdade individual e em uma justificação da violência.**
 
+### Sociedades abertas e fechadas de Popper
 
+![A distinção de Karl Popper entre sociedades abertas e fechadas](./assets/en/114.webp)
 
-O coletivismo coloca assim a coletividade, seja ela nacional, cultural ou religiosa, em primeiro plano, considerando os indivíduos como meios para reforçar e assegurar a perpetuidade desta entidade suprema. Os objectivos da coletividade, seja a nação, o Estado ou a Igreja, são superiores aos do indivíduo. Deste ponto de vista, a função primordial das instituições é servir a sociedade, mesmo em detrimento dos indivíduos.
+Karl Popper, filósofo nascido na Áustria que emigrou primeiro para a Nova Zelândia e depois para a Grã-Bretanha, analisou essas oposições com particular clareza em *The Open Society and Its Enemies*:
 
+> Chamo de sociedade fechada a sociedade mágica ou tribal, e de sociedade aberta aquela em que indivíduos são confrontados com decisões pessoais.
 
+Dois modelos de sociedade, dois princípios de organização social inteiramente opostos. A sociedade fechada é coletivista, repousando sobre mentalidade tribal: uma recusa da liberdade crítica, das trocas externas e do progresso, e a idealização de uma ordem estática. **A sociedade aberta reconhece o direito do indivíduo de julgar por si mesmo**, dando primazia à livre escolha de valores, crenças e relações.
 
-Para Karl Max: "não é a consciência dos homens que determina a sua existência; pelo contrário, é a sua existência social que determina a sua consciência". Marx sublinhava assim que o indivíduo está profundamente enraizado na realidade social e que a sua consciência é determinada por essa realidade. Por outras palavras, o indivíduo só é real na medida em que é membro da sociedade, e a sua existência individual só tem sentido no contexto da luta de classes pelo bem comum.
+### Totalitarismo como a sociedade fechada moderna
 
+![Totalitarismo como forma moderna radical da sociedade fechada](./assets/en/115.webp)
 
+O totalitarismo é a expressão moderna da sociedade fechada. Representa a forma mais radical, apoiando-se em ideologia dogmática que leva à censura sistemática, propaganda estatal, culto ao líder e mecanismos de controle e vigilância. O indivíduo não existe como tal; há **uma forma de desumanização em que o indivíduo perde suas raízes**, sua memória e suas crenças, sendo totalmente absorvido pela comunidade e, portanto, facilmente manipulado.
 
-De acordo com Mises: *Não existe uma ideologia coletivista uniforme, mas muitas doutrinas colectivistas. Cada uma exalta uma entidade colectiva diferente e exige que todas as pessoas decentes se submetam a ela. Cada seita adora seu próprio ídolo e é intolerante com ídolos rivais* (Teoria e História).
+### A fragilidade da sociedade aberta
 
+![A fragilidade inerente da sociedade aberta](./assets/en/116.webp)
 
+Popper enfatiza com grande pertinência que **a sociedade aberta permanece inerentemente frágil.** Essa sociedade que favorece pensamento crítico, liberdade individual e responsabilidade pode facilmente deslizar para o coletivismo por fascínio pela autoridade.
 
-Para Mises, existem coletivismos de direita e de esquerda. O nacional-socialismo, juntamente com o fascismo de Mussolini, são coletivismos de direita. O comunismo e o socialismo são coletivismos de esquerda. Para ele, não há grande diferença entre o nazismo de Hitler e o comunismo de Estaline. Mesmo que as motivações sejam diferentes, em ambos os casos há um ódio à liberdade individual e uma justificação da violência.
+Por quê? Talvez por falta de segurança. A responsabilidade que o individualismo implica pode parecer assustadora e arriscada. É preciso fazer as próprias escolhas e pode-se fracassar. Surge a tentação de buscar refúgio na proteção comunitária ou em tendências nostálgicas em direção a um passado idealizado. A sociedade aberta enfrenta desafios que ainda a ameaçam hoje, notadamente os impulsos comunitaristas que vemos se desenvolver em nosso tempo e a tentação recorrente da violência.
 
 
-
-Com base nesta distinção, as famílias políticas podem ser analisadas da seguinte forma:
-
-
-*Duas concepções opostas da sociedade permanecerão sempre irreconciliáveis: a conceção individualista - para a qual o homem é um ser de razão e de liberdade, capaz de organizar as suas próprias relações com os outros homens - e a conceção coletivista, segundo a qual a **sociedade** existe independentemente dos homens que a compõem, dos seus desejos e das suas vontades. A conceção coletivista conheceu algumas das suas concretizações mais monstruosas no totalitarismo marxista, mas, apesar das aparências, é também aquilo a que a social-democracia está ligada.* Pascal Salin, Libéralisme.
-
-
-
-Na mesma linha, o filósofo Karl Popper escreveu no seu livro de 1945 A sociedade aberta e os seus inimigos: *Chamo sociedade fechada à sociedade mágica ou tribal, e sociedade aberta àquela em que os indivíduos são confrontados com decisões pessoais.* (Tomo I, p.199).
-
-
-Segundo Karl Popper, a sociedade aberta e a sociedade fechada são conceitos fundamentais que descrevem princípios de organização social radicalmente diferentes, não havendo possibilidade de síntese entre eles:
-
-
-
-
-  - A sociedade fechada é uma sociedade que rejeita, por princípio, a liberdade crítica dos indivíduos, os intercâmbios com o mundo exterior, o progresso e a diversidade daí resultantes. É um modelo de sociedade enraizado numa mentalidade colectiva que teme a mudança, rejeita a crítica e a responsabilidade individual e idealiza uma ordem estática, harmoniosa e frequentemente tribal.
-  - A sociedade aberta caracteriza-se pela capacidade do homem de exercer o seu juízo crítico e a sua responsabilidade individual. Com ela surge um novo princípio de organização social baseado no primado da responsabilidade, na livre escolha de valores, crenças, trocas e relações, no quadro de regras abstractas de conduta correta.
-
-
-
-O totalitarismo é a forma política que esta sociedade fechada assume quando implementada de forma radical e moderna, apoiando-se numa ideologia da certeza e utilizando mecanismos de controlo do Estado (censura, propaganda, culto do líder) para impor uma estabilidade forçada, em detrimento das liberdades individuais e do pensamento crítico. A sua obsessão é a perpetuação da sua ordem hierárquica e a submissão às suas tradições imutáveis e crenças colectivas. Nestas sociedades, o controlo social assume a forma de uma vigilância mútua constante e apertada, enquanto o indivíduo não existe enquanto tal, mas é dominado e englobado pela comunidade.
-
-
-A principal diferença entre os dois modelos de sociedade reside na sua atitude em relação ao conhecimento, à mudança e à organização política:
-
-
-
-
-
-- A sociedade aberta é dinâmica, crítica e centrada na liberdade individual e na possibilidade de reformar as normas.
-- A sociedade fechada é estática, dogmática e totalitária, procurando a estabilidade através do controlo e do regresso a uma ordem passada e idealizada.
-
-
-
-Esta oposição põe em evidência a incompatibilidade fundamental entre um modelo baseado na liberdade individual e na razão crítica e outro fundado na unidade orgânica, na irracionalidade e na submissão colectiva.
-
-
-
-Mas a sociedade aberta é frágil, sempre inacabada e constantemente posta em causa. É confrontada com tendências nostálgicas, com a perda do sentimento de segurança que a comunidade tribal representava para os seus membros e com o desejo de restaurar a ordem comunitária original, eventualmente através da violência.
-
-
-
-
-# A tendência política entre os utilizadores de bitcoin
-
+# A tendência política entre bitcoiners
 
 <partId>c0de3201-5c74-4854-b872-15a27165d228</partId>
 
 
-
-## A tendência política entre os utilizadores de bitcoin
-
+## A tendência política entre bitcoiners
 
 <chapterId>89b42c72-bd73-465d-b420-e35d7c5de07c</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=ml33z_RYTEk)
 
+![Bitcoin como projeto político](./assets/en/117.webp)
 
-
-No final deste curso, parece-nos essencial abordar o posicionamento político do Bitcoin e dos bitcoiners.
-
-
+Nesta parte final do curso, voltamo-nos ao Bitcoin. Qual é sua natureza? É um projeto político? É de direita, de esquerda ou algo completamente diferente? E qual é a tendência política daqueles que o usam? Estas são as perguntas que agora devemos abordar.
 
 ### O Bitcoin é um projeto político?
 
+O Bitcoin é uma [criptomoeda](https://planb.academy/resources/glossary/cryptocurrency) descentralizada, criada por Satoshi Nakamoto em 2008, que permite transações financeiras [peer-to-peer](https://planb.academy/resources/glossary/peertopeer-p2p) sem exigir confiança em qualquer intermediário.
 
+Ele é governado por um protocolo de software [open source](https://planb.academy/resources/glossary/foss). Não há CEO, sede, plano de marketing, autoridade designada. **Nenhuma empresa está por trás do Bitcoin, e nenhuma entidade política ou governo o controla.**
 
-O Bitcoin é uma [criptomoeda](https://planb.academy/resources/glossary/cryptocurrency) descentralizada, criada por Satoshi Nakamoto em 2008, que permite transacções financeiras [peer-to-peer](https://planb.academy/resources/glossary/peertopeer-p2p) não confiáveis.
+#### Uma tecnologia aparentemente neutra
 
+![A natureza descentralizada do Bitcoin: sem CEO, open source, peer-to-peer](./assets/en/118.webp)
 
-O Bitcoin é controlado por um protocolo de software de [fonte aberta](https://planb.academy/resources/glossary/foss), sem diretor executivo, sem sede social, sem orçamento de marketing e sem autoridade designada. Isto significa que nenhuma entidade política ou governo tem controlo sobre ele.
+Essa natureza descentralizada pode criar a impressão de que o Bitcoin é simplesmente uma inovação tecnológica, neutra e apolítica, comparável à Internet no século XX ou à imprensa no século XIV. No entanto, já sabemos que tanto a Internet quanto a imprensa, apesar de serem inovações tecnológicas, **tiveram consequências sociais, econômicas e políticas profundas**.
 
+O mesmo vale para o Bitcoin, e Satoshi Nakamoto nos deixou mensagens para tornar clara sua intenção.
 
+#### A falha no sistema fiat
 
-Esta neutralidade é desconcertante para alguns e pode levar a pensar que se trata de uma tecnologia apolítica, como a Internet no século XX ou a imprensa no século XIV.
+> O problema fundamental das moedas convencionais é a confiança que precisa ser depositada nelas para que funcionem. Você precisa confiar que o banco central não desvalorizará a moeda, mas a história das moedas fiat está cheia de violações dessa confiança.
 
+Esta citação de Satoshi Nakamoto é essencial para entender a filosofia por trás do Bitcoin. Moedas fiat são moedas não lastreadas por uma mercadoria, por algo real e físico. São dinheiro de papel apoiado inteiramente na autoridade da instituição que as impõe e, portanto, na confiança. **Quando uma instituição detém controle total sobre o dinheiro, a tentação de abusar é forte demais.** A história mostrou isso repetidamente.
 
+#### A mensagem do bloco gênese
 
-Embora o Bitcoin em si não seja de direita nem de esquerda, nem pertença a nenhuma religião, foi inventado para resolver um problema - o da confiança nas trocas financeiras e nas entidades centralizadas. E isso, por si só, é um problema político.
+**O Bitcoin nasceu em reação direta à crise financeira de 2008** e ao intervencionismo monetário que se seguiu. No primeiro bloco já minerado, Satoshi Nakamoto inseriu uma manchete simbólica do London Times:
 
+> The Times 03/Jan/2009 Chancellor on the brink of a second bank bailout.
 
+![Título do Bloco Gênese](./assets/en/119.webp)
 
-![Bitcoin Whitepaper Abstract](./assets/fr/020.webp)
+A intenção é inequívoca: oferecer uma alternativa aos sistemas bancários centralizados.
 
+#### As consequências devastadoras do intervencionismo monetário
 
+![As consequências devastadoras da inflação monetária e das crises de moeda fiat](./assets/en/120.webp)
 
-Lendo o [Livro Branco](https://planb.academy/resources/glossary/white-paper) do Satoshi Nakamoto, podemos ver que o Bitcoin foi concebido para oferecer uma proteção inovadora contra duas grandes ameaças contemporâneas: a vigilância generalizada e a aceleração da criação de dinheiro artificial.
+Cada vez que uma crise abala o mundo financeiro, ou que um evento global como a pandemia de Covid-19 ocorre, bilhões e bilhões de dólares e euros são criados para resgatar bancos, empresas ou indivíduos. Esses planos de resgate têm consequências devastadoras.
 
+A injeção de dinheiro no sistema (inflação monetária) se traduz em desvalorização da moeda. Com a mesma quantidade de dinheiro, pode-se comprar cada vez menos, porque esse dinheiro novo não reflete crescimento econômico genuíno. **Essa inflação é um imposto oculto, imposto sem o consentimento dos cidadãos.** A maioria das pessoas não vê que foi a política governamental que levou ao aumento dos preços, que são simplesmente o reflexo da desvalorização da moeda. Isso equivale a roubo legal, espoliação institucionalizada.
 
+As consequências seguem logicamente: empobrecimento da classe média (enquanto os ricos podem capturar o dinheiro novo que entra no sistema por meio dos bancos e colocá-lo em ativos especulativos), medo do futuro, tensões sociais e políticas, insegurança e, mais amplamente, perda de confiança nas instituições tradicionais. Essa inundação de dinheiro também pode alimentar corrupção política e financeira, compadrio entre o estado e grandes corporações, e burocracia crescente.
 
-1. Embora não seja totalmente anónimo, o Bitcoin aumenta consideravelmente a privacidade ao limitar a vigilância financeira dos indivíduos. Esta capacidade permite, por exemplo, que um dissidente numa ditadura detenha e troque valores em linha sem receio de confisco ou censura. Embora isto possa parecer um longo caminho para os cidadãos das democracias, é um passo em frente crucial para as liberdades individuais.
+![Resumo do Whitepaper do Bitcoin](./assets/en/121.webp)
 
+### Bitcoin como projeto de transformação social
 
+![Bitcoin como ferramenta para limitar o poder governamental e emancipar indivíduos](./assets/en/122.webp)
 
-2. O Bitcoin permite a cada um proteger as suas poupanças contra a espoliação da propriedade privada que se traduz na [inflação](https://planb.academy/resources/glossary/inflation) monetária. É uma tentativa de desafiar o controlo do Estado sobre a gestão do dinheiro como instrumento de troca e, portanto, de competir com o Estado. A crise financeira de 2008 e a pandemia de Covid-19 puseram em evidência as falhas do sistema atual. Os triliões de dólares impressos do nada para evitar que a economia entrasse em colapso tiveram efeitos devastadores, que ainda estamos a pagar.
+**O Bitcoin, portanto, vai muito além de uma simples inovação financeira ou tecnológica.** Ele foi concebido com três objetivos:
 
+1. **Limitar o poder dos governos sobre o dinheiro**, impedindo instituições de usar a moeda para fins políticos como gasto público, guerras e controle ideológico.
+2. **Emancipar o indivíduo**, restaurando controle sobre seu patrimônio e sua vida. Um governo pode tomar os euros de sua conta bancária, sua casa, suas ações, seu ouro. Mas não pode tomar seus bitcoins, porque o Bitcoin, por sua natureza descentralizada, escapa à vigilância e ao controle. Você o detém por si mesmo, sem depender de terceiro confiável.
+3. **Proteger contra a [inflação](https://planb.academy/resources/glossary/inflation).** O Bitcoin é uma moeda deflacionária; sua oferta é limitada a 21 milhões de unidades, e nenhuma instituição, banco ou governo pode criar mais. Seu valor deriva tanto de sua utilidade quanto de sua escassez.
 
+#### Bitcoin como soberania individual
 
-![Bitcoin Counterflow Abstract](./assets/fr/021.webp)
+![Soberania individual do Bitcoin](./assets/en/123.webp)
 
+Nas finanças tradicionais, uma pessoa não pode verdadeiramente possuir seus próprios ativos. O que detemos são sempre créditos contra intermediários financeiros. **Dependemos inteiramente de instituições bancárias.** Com o Bitcoin, temos propriedade direta e soberana de nossos haveres. É simplesmente o ato de ser seu próprio banco, mantendo as chaves privadas que dão acesso a seus bitcoins. Se mantemos nossas próprias chaves, ninguém pode confiscá-las, porque elas residem em nossas mentes.
 
+#### Uma ameaça ao estado de bem-estar social
 
-Assim, a Bitcoin é muito mais do que uma tecnologia financeira, é um projeto para mudar o mundo, para o melhorar. É um projeto político ambicioso para redefinir as relações de poder entre indivíduos e instituições:
+![Bitcoin como desafio ao monopólio fiscal e monetário do estado de bem-estar social](./assets/en/124.webp)
 
+O Bitcoin também representa um desafio ao estado de bem-estar social: um estado que gasta além de suas receitas para satisfazer demandas por direitos econômicos e sociais (seguridade social, seguro-desemprego, pensões). O Bitcoin põe em questão os três pilares sobre os quais esse sistema repousa:
 
+1. **O sistema fiscal**, que é insuficiente para cobrir todas as despesas.
+2. **O monopólio monetário**, a capacidade de emitir dinheiro para financiar gastos por meio de dívida.
+3. **A vigilância das transações**, a capacidade de impedir que pessoas usem qualquer moeda que não a fiat imposta pelo estado.
 
-> O problema fundamental das moedas convencionais é a confiança que tem de ser depositada nelas para que funcionem. É preciso confiar que o banco central não vai desvalorizar a moeda, mas a história das moedas fiduciárias está cheia de violações dessa confiança.
+Considere a alegoria da caverna, atualizada para nossa era monetária. No fundo da caverna, prisioneiros observam sombras na parede e veem o euro, imaginando que ele seja a única moeda possível, confiando na autoridade que o emite. Então alguns prisioneiros escapam para o ar livre e descobrem o Bitcoin. **O Bitcoin é uma saída, um meio de emancipação da caverna das ilusões monetárias.**
 
-Esta citação de Satoshi Nakamoto é fundamental para entender a filosofia por trás do Bitcoin. O Satoshi destaca as falhas do sistema Fiat, baseado na confiança em instituições centralizadas, e propõe o Bitcoin como uma alternativa sem confiança.
+#### Proteção para dissidentes e vítimas de opressão
 
+O Bitcoin também serve como proteção para dissidentes e vítimas de opressão em países que experimentam guerra, ditadura ou hiperinflação. Isso pode parecer remoto para nós em democracias modernas, mas **essa capacidade de resistência à censura e privacidade reforçada é um avanço precioso** para as liberdades individuais.
 
+### Um projeto moral com consequências políticas
 
-O ponto de partida da abordagem intelectual de Satoshi Nakamoto é, portanto, o excesso de confiança das pessoas na moeda fiduciária e a falsa crença de que o Estado pode resolver as crises. De facto, no primeiro bloco extraído da história da Bitcoin, a Satoshi Nakamoto inseriu uma frase simbólica de um artigo de primeira página do London Times:
+![Bitcoin como projeto moral: propriedade, trabalho e privacidade](./assets/en/125.webp)
 
+Para concluir: **o Bitcoin não foi projetado para enriquecer as pessoas, mas para torná-las livres.** Ele não é de direita nem de esquerda. É antes de tudo um projeto moral com consequências políticas. Pode-se abraçar o Bitcoin independentemente da filiação política, porque ele não está ligado a nenhuma ideologia, nenhum país, nenhuma religião.
 
+O Bitcoin realiza três coisas. Primeiro, permite propriedade efetiva, que é um incentivo fundamental à responsabilidade individual: quando alguém possui algo, cuida disso. Segundo, protege o valor criado pelo trabalho: quando alguém possui os frutos do próprio trabalho, é encorajado a trabalhar e dar o melhor de si. Terceiro, preserva confidencialidade e privacidade, um direito fundamental, porque quando alguém pode revelar apenas o que escolhe revelar, vive sem medo e pode estabelecer relações genuínas de confiança.
 
-> The Times 03/Jan/2009 Chanceler à beira de um segundo resgate bancário.
+Sem reivindicar explicitamente qualquer campo político, **o Bitcoin carrega em si as sementes de uma revolução silenciosa**, uma revolução primeiro moral e depois política.
 
-![Genesis Block Title](./assets/fr/022.webp)
-
-
-
-A inclusão deste título no [bloco da génese](https://planb.academy/resources/glossary/genesis-block) está aberta a interpretações. Mas pode aparecer como um comentário de Satoshi sobre os fracassos das instituições financeiras tradicionais e como uma declaração do objetivo de Bitcoin: oferecer uma alternativa aos sistemas bancários centralizados.
-
-
-
-Quando o Estado impõe um controlo rigoroso sobre todas as transacções (por exemplo, limitando o numerário ou impondo uma moeda digital centralizada), tem um controlo total sobre a economia, em detrimento da liberdade de escolha e da soberania dos indivíduos. Ao controlar todas as transacções, o Estado pode identificar melhor novas fontes de tributação e impor regulamentações rigorosas.
-
-
-
-No entanto, a Bitcoin foi concebida para funcionar sem a intervenção de bancos centrais ou de outros intermediários financeiros controlados pelo Estado. Devido à sua natureza descentralizada e pseudónima e à sua resistência à manipulação, poderia enfraquecer os alicerces do Estado Providência, reduzindo o seu controlo sobre o dinheiro, os impostos e o sistema financeiro.
-
-
-
-Assim, uma das propriedades essenciais do Bitcoin é a capacidade de ser dono de si próprio. No mundo das finanças tradicionais, não se pode ser dono de si próprio. São sempre os intermediários financeiros que estão dispostos a dar-nos acesso a uma conta.
-
-
-
-O Bitcoin foi concebido para limitar o poder dos governos sobre a moeda.
-
-
-Impede a utilização do dinheiro para fins políticos, tais como: despesas públicas, guerras, formatação ideológica e controlo de opiniões.
-
-
-
-
-- O governo pode retirar os euros da sua conta bancária.
-- Pode levar a sua casa e o seu terreno.
-- Pode ficar com as suas acções.
-- Pode levar o vosso ouro.
-- Pode tirar-nos tudo.
-
-
-
-Mas o governo não pode ficar com os teus bitcoins, porque não pode confiscar o conteúdo da tua mente.
-
-
-
-É por isso que o Bitcoin assenta num pressuposto filosófico fundamental: liberdade significa ser dono de si próprio, dos frutos do seu trabalho e da sua vida privada.
-
-
-
-Neste sentido, é guiado por uma visão do mundo que é simultaneamente moral e política. Quando o Estado detém o monopólio do dinheiro, estamos num sistema estatista, seja ele de direita ou de esquerda. O projeto do Bitcoin é oferecer a todos um mercado monetário livre.
-
-
-
-Mas a Bitcoin não surgiu do nada. Baseia-se nos avanços da matemática, da física, da informática e da filosofia. O Satoshi Nakamoto, embora brilhante, baseou-se nas ideias de outros inovadores. Entre eles, os pioneiros do movimento [cypherpunk](https://planb.academy/resources/glossary/cypherpunks).
-
+Mas o Bitcoin não apareceu do nada. Ele repousa em avanços na matemática, na física, na ciência da computação e na filosofia. Satoshi Nakamoto, embora brilhante, construiu sobre ideias que já estavam no ar. Entre as mais importantes estavam as ideias do movimento [cypherpunk](https://planb.academy/resources/glossary/cypherpunks).
 
 
 ## Quem são os cypherpunks?
-
 
 <chapterId>dc18ba9a-c242-472a-a717-531a5f125737</chapterId>
 
 
 
-![video](https://www.youtube.com/watch?v=IjiyWVW_5Os)
 
+![Os Cypherpunks: pioneiros da liberdade digital](./assets/en/126.webp)
 
+Os cypherpunks são os pioneiros de um movimento que defende a liberdade humana na era digital. As raízes intelectuais do Bitcoin não podem ser entendidas sem eles.
 
-Este movimento nasceu no início dos anos 90, devido à preocupação com a liberdade humana face à vigilância governamental na era digital.
+### O contexto dos anos 1990
 
+![O surgimento do movimento cypherpunk na revolução digital dos anos 1990](./assets/en/127.webp)
 
+No início dos anos 1990, o contexto era distinto. Empresas e governos começavam a exercer controle crescente sobre tecnologias da informação e a Internet emergente. Esse período marcou o rápido desenvolvimento dessas tecnologias, mas também uma ansiedade crescente quanto à vigilância em massa e à violação sistemática da privacidade dos cidadãos.
 
-Estão a emergir num contexto em que as tecnologias da informação e da comunicação estão a desenvolver-se rapidamente, mas em que os governos e as empresas começam também a exercer um maior controlo sobre essas tecnologias. É um movimento que se cruza com pensadores libertários e anarquistas. É motivado por preocupações com a vigilância em massa e a violação da privacidade.
+Diante dessa ansiedade, pensadores libertários e anarquistas se reuniram para agir. Sua visão era clara: **tornar anonimato e liberdade financeira acessíveis a todos por meio de ferramentas criptográficas digitais**, escapando assim ao controle governamental. Eles se puseram a desenvolver tecnologias que permitissem aos cidadãos preservar sua privacidade e autonomia em suas atividades online cotidianas.
 
+#### A lista de e-mails e o manifesto
 
+![A visão cypherpunk: anonimato, liberdade e resistência criptográfica](./assets/en/128.webp)
 
-A ideia era tornar o anonimato e a liberdade financeira acessíveis a todos, graças a ferramentas criptográficas digitais. Desta forma, as autoridades governamentais não teriam qualquer controlo sobre as actividades em linha.
+Em 1992, Tim May e Eric Hughes lançaram a primeira lista de e-mails Cypherpunk. Essa plataforma rapidamente se tornou o centro nervoso do movimento, reunindo desenvolvedores, criptógrafos e defensores da liberdade digital. Foi nessa mesma lista que Satoshi Nakamoto compartilharia o [White Paper](https://planb.academy/resources/glossary/white-paper) do Bitcoin pela primeira vez em 2008.
 
+Em março de 1993, Eric Hughes publicou *A Cypherpunk's Manifesto*, um texto relativamente curto, mas fundador:
 
-
-A primeira lista de discussão Cypherpunk, da qual Satoshi era membro e onde partilhou pela primeira vez o livro branco Bitcoin, foi lançada em 1992 por Tim May e Eric Hughes. O seu objetivo era apoiar a criação de novo software para proteger a privacidade.
-
-
-
-O Manifesto Cypherpunk, escrito por Eric Hughes em 1993, resume a sua filosofia:
-
-
-
-> A privacidade é essencial para uma sociedade aberta na era eletrónica (...) Não podemos esperar que os governos, as empresas ou outras grandes organizações anónimas garantam a nossa privacidade (...) O meu principal objetivo para os Cypherpunks é fazer com que as pessoas defendam a sua privacidade, em vez de dependerem de outra pessoa para a fornecer.
+> Privacidade é essencial para uma sociedade aberta na era eletrônica. Não podemos esperar que governos, corporações ou outras grandes organizações garantam nossa privacidade.
 >
 
+> Eric Hughes, A Cypherpunk's Manifesto, 23 de março de 1993.
 
-> Eric Hughes - Cypherpunk Mailinglist, 23 de março de 1993.
+![Os fundadores cypherpunk e o manifesto de 1993](./assets/en/129.webp)
 
-E acrescenta:
+A motivação fundamental é clara: **confidencialidade é um elemento-chave da liberdade, e deve ser construída pelos próprios indivíduos**, não aguardada como presente de corporações ou governos.
 
+#### Filosofia: [criptografia](https://planb.academy/resources/glossary/cryptography) acima das instituições
 
+Os cypherpunks depositam sua confiança em sistemas criptográficos descentralizados, e não em instituições centralizadas como bancos ou governos. Este é um princípio que reaparece diretamente no design de Satoshi Nakamoto para o Bitcoin.
 
-> a confidencialidade numa sociedade aberta exige sistemas de transação anónimos. Até à data, o numerário tem sido o principal sistema deste tipo.
+Politicamente, procuram construir redes descentralizadas onde decisões são tomadas coletivamente, sem que qualquer entidade única possa impor sua vontade. **Toda centralização é percebida como fundada em coerção, e não em consentimento.** Isso ecoa a filosofia libertária segundo a qual o consentimento é a norma fundamental da justiça. Nada pode ser justo se é imposto por uma autoridade centralizada pela força.
 
-É por isso que a [criptografia](https://planb.academy/resources/glossary/cryptography) será usada como uma ferramenta de resistência contra todas as formas de controlo estatal e empresarial. Ela garante que cada parte de uma transação saiba apenas o que é estritamente necessário para essa transação.
+O manifesto também afirma que a confidencialidade em uma sociedade aberta requer sistemas de transação anônimos. Até agora, o dinheiro em espécie foi o principal sistema desse tipo. Mas, em uma sociedade digital em que o dinheiro em espécie está desaparecendo, **uma moeda digital com as mesmas propriedades de anonimato deve ser inventada.** E é precisamente isso que chegaria com o Bitcoin.
 
+#### "Cypherpunks write code"
 
+Os cypherpunks não se contentam com esperanças. Intervêm ativamente para criar espaços de liberdade e autonomia. Daí a fórmula que conclui o manifesto:
 
-Os Cypherpunks acreditam no poder da criptografia para criar espaços de liberdade e autonomia individual, permitindo que as pessoas comuniquem e interajam de forma segura e anónima.
+> Cypherpunks write code.
 
+Para Eric Hughes, o caminho para a liberdade passa pela construção ativa de sistemas anônimos que tornam divisões políticas arbitrárias irrelevantes. **O código se torna a ferramenta fundamental para transformar uma ideia abstrata de liberdade em realidade.** É por isso que Satoshi Nakamoto diria que escreveu todo o código do Bitcoin antes mesmo de escrever o white paper.
 
+### O legado: Bitcoin como realização cypherpunk
 
-Defendem um modelo em que a confiança é depositada em sistemas criptográficos descentralizados e não em instituições centralizadas, como bancos, empresas ou governos.
+![Legado cypherpunk e Bitcoin](./assets/en/130.webp)
 
+A partir de 2008, o Bitcoin tornou-se a primeira concretização bem-sucedida de uma moeda eletrônica incensurável e soberana. Ele oferece uma alternativa monetária descentralizada e pseudônima, difícil para autoridades controlarem. Seja adotado por ativistas de direita ou de esquerda, por defensores da liberdade ou da igualdade, ou simplesmente por poupadores sem rótulo político, **ele dá a cada indivíduo a possibilidade de se emancipar do sistema financeiro tradicional** e recuperar domínio sobre seu dinheiro e, portanto, sobre sua liberdade.
 
+Desse ponto de vista, sem reivindicar explicitamente pertencer a qualquer campo político, o Bitcoin carrega as sementes de uma revolução silenciosa e se junta ao topo do mostrador no diagrama de Nolan.
 
-#### O método cypherpunk
-
-
-
-> Os cypherpunks escrevem código
-
-proclama Éric Hughes, a concluir o seu manifesto.
-
-
-
-Para ele, o caminho a seguir reside na construção ativa de sistemas anónimos que tornem irrelevantes e desnecessárias as divisões políticas arbitrárias. O código baseia-se na aplicação da criptografia para transformar a ideia abstrata de liberdade numa nova realidade económica e social.
-
-
-
-Os Cypherpunks não encontram conforto em esperanças e desejos. Intervêm ativamente no curso dos acontecimentos e moldam o seu próprio destino.
-
-
-
-Politicamente, procuram construir redes descentralizadas onde as decisões são tomadas coletivamente e nenhuma entidade pode impor a sua vontade. Toda a centralização se baseia na coerção e não no consentimento, ou seja, trata os indivíduos como crianças incapazes de autonomia, que devem ser castigadas se começarem a decidir o seu próprio destino.
-
-
-
-Esta filosofia de liberdade e de construção ativa, herdada dos Cypherpunks, foi concretizada por Satoshi Nakamoto em 2008, com a invenção do Bitcoin. Ele foi o primeiro a pôr em prática a ideia de uma moeda eletrónica soberana e sem censura.
-
-
-
-![Cypherpunk Diagramme](./assets/fr/023.webp)
-
-
-
-A Bitcoin limita o poder do Estado ao oferecer uma alternativa monetária descentralizada, pseudónima e difícil de controlar. Quer seja adoptada por activistas de direita ou de esquerda, por defensores da liberdade ou da igualdade, ou simplesmente por aforradores sem rótulo político, dá aos indivíduos a oportunidade de se emanciparem do sistema financeiro tradicional e de recuperarem o controlo do seu dinheiro.
-
-
-
-Deste ponto de vista, sem reivindicar explicitamente a sua pertença a um campo político, o Bitcoin traz consigo as sementes de uma revolução silenciosa e junta-se ao topo do mostrador no diagrama de Nolan.
-
-
-
-![Politique Diagramme](./assets/fr/024.webp)
-
+![Bitcoin no diagrama político](./assets/en/131.webp)
 
 
 ## Quem deve decidir?
 
-
 <chapterId>cfc7688e-d647-4af1-880d-c70d3ae7d823</chapterId>
 
 
+Ao longo deste curso, tentei mostrar que a verdadeira divisão não é entre esquerda, direita e centro, todos os quais compartilham um postulado estatista. Em última instância, todas as famílias políticas clássicas compartilham uma desconfiança do livre mercado e uma inclinação ao intervencionismo estatal.
 
-Neste curso, tentei mostrar que a verdadeira divisão não é entre a esquerda, a direita ou o centro, que assumiram todos um postulado estatista. Em última análise, todas as famílias políticas clássicas partilham uma desconfiança em relação ao mercado livre e uma propensão para o intervencionismo estatal.
+Mas e aqueles que querem menos governo e menos centralização? Usuários de Bitcoin, por exemplo, que querem acabar com o monopólio da criação de dinheiro. Como os colocamos no espectro político?
 
+### A verdadeira divisão
 
+Na verdade, **a verdadeira divisão política reside em princípios filosóficos fundamentais**: liberdade ou coerção, consentimento voluntário ou compulsão, o indivíduo responsável ou o coletivo.
 
-Mas o que dizer daqueles que querem menos governo e menos centralização? Os utilizadores do Bitcoin, por exemplo, que querem acabar com o monopólio da criação de dinheiro. Como é que os colocamos neste espetro político?
+A maneira correta de pensar política é começar por princípios éticos, e não por rótulos. A pergunta política torna-se então: *você quer tomar as decisões importantes em sua vida, ou quer que outra pessoa as tome por você?*
 
+Em um nível mais geral, a pergunta filosófica é esta: *a organização social deve ser produto de um plano deliberado concebido e imposto pela classe política, ou resultado de uma evolução livre que emerge das interações voluntárias entre todos os atores da vida econômica e social?*
 
-Na verdade, a verdadeira divisão política reside em princípios filosóficos fundamentais: liberdade ou coerção, consentimento voluntário ou coerção, o indivíduo responsável ou o coletivo.
+#### Uma família política ignorada: os libertários
 
+Essa nova divisão política, baseada na oposição entre princípios, traz à luz uma família política muito real, mas frequentemente ignorada pelo público em geral: os libertários.
 
+Do ponto de vista libertário, **indivíduos têm tanto o direito quanto a responsabilidade de tomar suas próprias decisões.** Em contraste, famílias políticas convencionais, da esquerda à direita, acreditam que o governo deveria tomar algumas ou muitas das decisões importantes na vida de um indivíduo e na vida econômica em geral.
 
-A forma correta de pensar a política é partir de princípios éticos e não de rótulos.
+Mas por que alguns deveriam impor seu estilo de vida e visão de mundo aos outros?
 
+#### Liberdade como estrutura de coexistência
 
+Em um regime genuíno de liberdade, aqueles que aderem aos ideais da esquerda podem viver segundo seus princípios. São livres para abrir mão de suas posses, compartilhar os meios de produção que possuem ou doar seus salários a uma organização de sua escolha, que poderia redistribuir esses fundos aos mais desfavorecidos ou apoiar iniciativas culturais e negócios que promovem emprego.
 
-A partir daí, a questão política deixou de ser: *queres tomar as decisões importantes da tua vida, ou queres que alguém as tome por ti?
+Da mesma forma, aqueles que compartilham valores de direita têm o direito de viver segundo suas convicções: trabalhar duro, poupar, transmitir valores familiares e nacionais a seus filhos, evitar conteúdo contrário à sua moral ou escolher quem empregar. **Ninguém deve impor seu modo de vida aos outros.** É por meio da liberdade do mercado e do poder de escolha que nossos objetivos podem ser alcançados pacificamente.
 
+Em suma, a divergência fundamental entre tendências políticas está no papel do estado centralizado: socialistas e conservadores usam o estado para impor sua visão de sociedade, enquanto libertários defendem a descentralização, deixando indivíduos e comunidades privadas definirem e organizarem a sociedade segundo suas preferências e de acordo com direitos de propriedade.
 
+### E quanto ao Bitcoin?
 
-A um nível mais geral, a questão filosófica é a seguinte: *a organização social deve ser o produto de um plano deliberado, concebido e imposto pela classe política, ou o resultado de uma evolução livre que emerge de interações voluntárias entre todos os actores da vida económica e social?
+É por isso que o Bitcoin também é uma ruptura política. É uma revolta pacífica contra a politização do dinheiro e sua confiscação por uma pequena minoria. O Bitcoin não diz respeito a direita e esquerda. Pelo contrário, **é uma moeda de mercado oposta à moeda estatal.**
 
+Moeda estatal ou fiat é um sistema coercitivo e centralizado, fácil e barato de criar, e tem uma tendência infeliz a perder valor. Inversamente, dinheiro de mercado, ilustrado historicamente pelo ouro e atualmente pelo Bitcoin, é uma moeda saudável, difícil de produzir, que emerge voluntária e espontaneamente, e conserva seu valor no longo prazo.
 
+Assim, o Bitcoin, graças à sua oferta fixa e natureza descentralizada, **representa a forma mais saudável de moeda já inventada**, oferecendo uma alternativa potencial à expansão do poder estatal e ao financiamento ilimitado de guerras.
 
-**Uma família política ignorada: os libertários
-
-
-
-Esta nova fratura política, baseada na oposição entre princípios, traz à luz do dia uma família política muito real, mas frequentemente ignorada pelo grande público: os libertários.
-
-
-
-De um ponto de vista libertário, os indivíduos têm tanto o direito como a responsabilidade de tomar as suas próprias decisões. Em contraste, as famílias políticas convencionais, da esquerda à direita, acreditam que o governo deve tomar algumas ou muitas das decisões importantes na vida de um indivíduo e na vida económica em geral.
-
-
-
-Mas porque é que alguns devem impor o seu estilo de vida e a sua visão do mundo aos outros?
-
-
-Num verdadeiro regime de liberdade, aqueles que aderem aos ideais da esquerda podem viver de acordo com os seus princípios. São livres de renunciar aos seus bens, de partilhar os meios de produção que possuem ou de doar o seu salário a uma organização à sua escolha, que poderia redistribuir esses fundos pelos mais desfavorecidos ou apoiar iniciativas culturais e empresas que promovam o emprego.
+Finalmente, o Bitcoin não é um projeto político clássico no sentido de uma iniciativa estatal ou coercitiva. É uma tecnologia que permite aos indivíduos decidir por si mesmos, o que paradoxalmente tem consequências políticas de longo alcance ao limitar poderes centralizados e dominadores.
 
 
-
-Pelo mesmo token, neste regime de liberdade, aqueles que partilham os valores da direita têm o direito de viver de acordo com as suas convicções: trabalhar arduamente, poupar, transmitir os valores familiares e nacionais aos seus filhos, evitar conteúdos contrários à sua moral ou optar por não empregar este ou aquele tipo de trabalhador. Ninguém deve impor o seu modo de vida aos outros. É através da liberdade do mercado e do poder de escolha que os nossos objectivos podem ser alcançados pacificamente.
-
+![Citação de Leonard Read sobre liberdade e autoritarismo](./assets/en/132.webp)
 
 
-Em suma, a divergência fundamental entre as tendências políticas reside no papel do Estado centralizado: os socialistas e os conservadores utilizam o Estado para impor a sua visão da sociedade, enquanto os libertários defendem a descentralização, deixando que os indivíduos e as comunidades privadas definam e organizem a sociedade, de acordo com as suas preferências e em conformidade com os direitos de propriedade.
-
-
-
-**E quanto ao Bitcoin?
-
-
-
-É por isso que o Bitcoin é também uma rutura política. É uma revolta pacífica contra a politização do dinheiro e a sua confiscação por uma pequena minoria. O Bitcoin não é uma questão de direita e de esquerda. Pelo contrário, é uma moeda de mercado que se opõe ao dinheiro do Estado.
-
-
-
-A moeda estatal ou fiduciária é um sistema coercivo e centralizado que é fácil de criar, barato e tem uma infeliz tendência para perder valor.
-
-
-
-Pelo contrário, a moeda de mercado, ilustrada historicamente pelo ouro e atualmente pelo Bitcoin, é uma moeda saudável, difícil de produzir, que surge voluntária e espontaneamente e mantém o seu valor a longo prazo.
-
-
-
-Assim, o Bitcoin, graças à sua oferta fixa e à sua natureza descentralizada, representa a forma mais saudável de moeda alguma vez inventada, oferecendo uma alternativa potencial à expansão do poder estatal e ao financiamento ilimitado das guerras.
-
-
-
-Finalmente, o Bitcoin não é um projeto político clássico, no sentido de uma iniciativa estatal ou coerciva. É uma tecnologia que permite aos indivíduos decidirem por si próprios, o que paradoxalmente tem consequências políticas de grande alcance na limitação de poderes centralizados e dominadores.
-
-
-
-![Leonard Read Quote](./assets/fr/025.webp)
-
-
-
-# Secção final
-
+# Seção final
 
 
 <partId>d886a919-12b0-4e38-86de-7159b98b1864</partId>
 
 
-
-## Avaliar este curso
-
+## Avaliações & Notas
 
 
 <chapterId>f0b8398c-7c15-417e-83b0-42e7aab533dc</chapterId>
-
 
 
 <isCourseReview>true</isCourseReview>
@@ -1932,9 +1630,7 @@ Finalmente, o Bitcoin não é um projeto político clássico, no sentido de uma 
 ## Exame final
 
 
-
-<chapterId>230ddc56-ceb8-11f0-bf47-6f8dd2541da1</chapterId>
-
+<chapterId>f776853b-8303-47d9-8327-d925c594564d</chapterId>
 
 
 <isCourseExam>true</isCourseExam>
@@ -1942,8 +1638,6 @@ Finalmente, o Bitcoin não é um projeto político clássico, no sentido de uma 
 ## Conclusão
 
 
-
 <chapterId>1dfe6e4a-47d5-48e1-94d0-6ac29b31e161</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>

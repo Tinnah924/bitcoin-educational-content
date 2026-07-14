@@ -1,9 +1,9 @@
-question: Hva er, ifølge Eric Hughes' Cypherpunk Manifesto, det primære ansvaret for å forsvare personvernet i et åpent elektronisk samfunn?
-answer: Enkeltpersoner må aktivt forsvare sitt eget personvern i stedet for å stole på at myndigheter eller selskaper skal sørge for det
+question: "Hva identifiserer kurset som det egentlige politiske skillet, bortenfor det tradisjonelle venstre-høyre-sentrum-spekteret?"
+answer: "Skillet mellom grunnleggende filosofiske prinsipper: frihet eller tvang, frivillig samtykke eller påbud, det ansvarlige individet eller kollektivet"
 wrong_answers:
-  - Myndighetene bør etablere omfattende personvernregler for å beskytte innbyggerne mot bedriftsovervåking
-  - Selskaper må implementere frivillige personvernstandarder og selvregulere sin datainnsamlingspraksis
-  - Internasjonale organisasjoner bør opprette bindende avtaler som pålegger alle land å beskytte personvernet
-explanation: |
-  Eric Hughes uttalte eksplisitt i Cypherpunk-manifestet at "Vi kan ikke forvente at myndigheter, selskaper eller andre store anonyme organisasjoner skal garantere oss konfidensialitet...". Mitt hovedmål for Cypherpunks er å få folk til å forsvare konfidensialiteten sin, i stedet for å stole på at noen andre skal sørge for den
-  Denne filosofien legger vekt på individuelt ansvar og selvstendighet gjennom kryptografiske verktøy, og avviser avhengighet av eksterne institusjoner for personvern, noe som er grunnen til at cypherpunks utviklet desentraliserte kryptografiske systemer.
+  - "Skillet mellom rike og fattige nasjoner om kontroll over internasjonale handelsavtaler og globale finansinstitusjoner"
+  - "Skillet mellom urbane og rurale befolkninger om prioriteringer for offentlige utgifter og infrastrukturinvesteringer"
+  - "Skillet mellom progressive og tradisjonelle kulturer om sosiale normer, familieverdier og religiøs utdanning"
+explanation: >-
+  Kurset argumenterer for at det egentlige politiske skillet ikke ligger i de tradisjonelle merkelappene venstre, høyre og sentrum, men i grunnleggende filosofiske prinsipper: frihet eller tvang, frivillig samtykke eller påbud, det ansvarlige individet eller kollektivet. Den riktige måten å tenke om politikk på er å starte fra etiske prinsipper snarere enn merkelapper.
+reviewed: false

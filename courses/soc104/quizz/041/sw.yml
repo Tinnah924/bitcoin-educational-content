@@ -1,8 +1,9 @@
-question: Kulingana na uchambuzi wa Hayek, ni mbinu gani ya msingi inayotofautisha sera ya kiuchumi ya ujamaa na sera ya kiuchumi huria?
-answer: Ujenzi - imani kwamba serikali inapaswa kujenga na kuunda jamii kikamilifu badala ya kuruhusu utaratibu wa hiari
+question: "Usoshalisti hushughulikiaje uhuru kwa namna tofauti katika nyanja za kijamii na kiuchumi?"
+answer: "Usoshalisti hupendelea uhuru wenye nguvu katika nyanja ya kijamii lakini uhuru dhaifu katika nyanja ya kiuchumi"
 wrong_answers:
-  - Ugawaji Upya - mkazo katika ugawaji upya wa utajiri kupitia kodi zinazoendelea na programu za kijamii
-  - Ujumuishi - kipaumbele cha umiliki wa pamoja wa njia za uzalishaji kuliko haki za mali za mtu binafsi
-  - Uingiliaji kati - utaratibu wa serikali kuingilia kati moja kwa moja katika masoko ili kurekebisha mapungufu yanayoonekana
-explanation: |
-  Hayek anatofautisha haswa 'ujenzi' wa kijamaa na 'utaratibu wa hiari' wa kiliberali. Ujenzi unarejelea imani ya kijamaa kwamba serikali inapaswa kubuni na kujenga muundo wa jamii kwa makusudi, huku waliberali wakiamini jamii hujipanga kiasili. Ingawa ugawaji upya, ujumuiya, na uingiliaji kati kwa kweli ni sifa za kijamaa, ukosoaji maalum wa Hayek unazingatia tofauti hii ya msingi ya kifalsafa kuhusu kama utaratibu wa kijamii unapaswa kubuniwa kimakusudi na serikali au kutokea kikaboni kutokana na mwingiliano wa mtu binafsi.
+  - "Usoshalisti huzuia uhuru wote kwa usawa katika nyanja zote mbili, ya kijamii na ya kiuchumi"
+  - "Usoshalisti hupendelea uhuru imara wa kiuchumi lakini huzuia uhuru wa kijamii ili kudumisha utaratibu wa kijamii"
+  - "Usoshalisti hutoa uhuru usio na kikomo katika nyanja zote mbili na hutegemea ushirikiano wa hiari kudumisha uwiano"
+explanation: >-
+  Katika fikra za kisoshalisti, kuna mgawanyiko wa msingi kati ya uhuru wa kijamii na uhuru wa kiuchumi. Uhuru wa kijamii ni wenye nguvu, lakini uhuru wa kiuchumi ni dhaifu kutokana na msisitizo juu ya udhibiti wa dola, upangaji, na ugawaji upya wa utajiri. Jibu la tatu lisilo sahihi linaeleza fikra bora ya libertarian, ilhali la pili linaeleza muundo wa kihafidhina, ambao ni taswira ya kinyume ya usoshalisti.
+reviewed: false

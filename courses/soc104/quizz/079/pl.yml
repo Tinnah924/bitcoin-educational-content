@@ -1,8 +1,9 @@
-question: Według analizy Gustave'a Molinariego w "Les Soirées de la rue Saint Lazare" (ang. "Wieczory na ulicy Świętego Łazarza"), jakie fundamentalne podobieństwo istnieje między konserwatystami a socjalistami, które odróżnia ich od libertarian?
-answer: Zarówno konserwatyści, jak i socjaliści dążą do narzucenia swojej wizji społeczeństwa poprzez interwencję państwa, mimo że mają różne wizje
+question: "Czym libertariańska koncepcja wolności różni się od koncepcji centrowej?"
+answer: "Libertarianie traktują wolność jako bezwarunkowy aksjomat, podczas gdy centryści bronią wolności oportunistycznie, zależnie od kontekstu i efektywności"
 wrong_answers:
-  - Zarówno konserwatyści, jak i socjaliści postrzegają wolność jako absolutną zasadę, a nie praktyczny aspekt
-  - Zarówno konserwatyści, jak i socjaliści sprzeciwiają się prawom własności prywatnej i opowiadają się za kolektywną własnością zasobów
-  - Zarówno konserwatyści, jak i socjaliści popierają minimalną interwencję rządu i maksymalną autonomię jednostki
-explanation: |
-  Kluczowym spostrzeżeniem Molinariego było to, że pomimo różnic ideologicznych, konserwatyści i socjaliści mają wspólne podejście: obaj chcą wykorzystać władzę państwową do narzucenia swojej konkretnej wizji tego, jak społeczeństwo powinno być zorganizowane. Konserwatyści chcą zmusić ludzi do utrzymania tradycyjnych struktur, podczas gdy socjaliści chcą zmusić ludzi do nowych ustaleń społecznych. Libertarianie, reprezentowani przez postać "ekonomisty", sprzeciwiają się obu, ponieważ odrzucają stosowanie przymusu państwowego w celu narzucenia jakiejkolwiek wizji społecznej, preferując dobrowolne ustalenia i indywidualny wybór.
+  - "Libertarianie pozwalają państwu chronić wolność wybiórczo, podczas gdy centryści odrzucają jakiekolwiek zaangażowanie państwa w ochronę praw jednostki"
+  - "Libertarianie skupiają wolność wyłącznie na kwestiach gospodarczych, podczas gdy centryści stosują wolność szeroko w domenach społecznych i kulturowych"
+  - "Libertarianie i centryści podzielają ten sam pogląd na wolność, ale nie zgadzają się co do wielkości rządu potrzebnego do jej egzekwowania"
+explanation: >-
+  Libertarianie definiują wolność jako ogólną, bezwarunkową zasadę, która funkcjonuje jako aksjomat. Centryści natomiast bronią pewnych wolności w sposób oportunistyczny i kontekstualny, bez stosowania jakiejkolwiek ogólnej zasady. Podejście centrowe ujawnia instrumentalną koncepcję wolności, zawsze podporządkowaną pragmatycznym celom takim jak efektywność, co libertarianie fundamentalnie odrzucają.
+reviewed: false

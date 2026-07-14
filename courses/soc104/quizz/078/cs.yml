@@ -1,8 +1,9 @@
-question: Jaká zásadní podobnost existuje mezi konzervativci a socialisty navzdory jejich zdánlivým ideologickým rozdílům podle analýzy Gustava Molinariho v knize "Les Soirées de la rue Saint Lazare" (Večery v ulici sv. Lazara)?
-answer: Obě se snaží prosadit svou vizi společnosti prostřednictvím státních zásahů, přestože mají odlišné sociální cíle
+question: "Co má v konzervativní politické filozofii přednost před svobodou?"
+answer: "Řád a tradice, které musí být pevně nastoleny, než lze svobodu oceňovat"
 wrong_answers:
-  - Obě odmítají individuální vlastnická práva ve prospěch kolektivního vlastnictví spravovaného různými institucemi
-  - Oba považují svobodu za absolutní princip, který by nikdy neměl být omezován bez ohledu na společenské důsledky
-  - Oba jsou proti jakékoli formě státní regulace a zároveň podporují různé typy řešení soukromého trhu
-explanation: |
-  Molinariho klíčový poznatek spočíval v tom, že konzervativci a socialisté mají navzdory svým protichůdným sociálním vizím společný metodologický přístup: oba se spoléhají na státní moc, aby prosadili jimi preferovaný společenský řád. Konzervativci využívají stát k udržení tradičních struktur, zatímco socialisté k vytvoření nových rovnostářských struktur. Tím se liší od libertariánů, kteří se staví proti státem vnucovanému sociálnímu inženýrství bez ohledu na jeho ideologické směřování. Ostatní možnosti zkreslují skutečné postoje těchto ideologií k vlastnictví, svobodě a vládě.
+  - "Sociální spravedlnost a rovnost, které musí být zaručeny, než mohou být jednotlivci skutečně svobodní"
+  - "Ekonomická efektivita a pragmatické výsledky, které určují, kdy je svoboda vhodná"
+  - "Individuální vlastnická práva, která musí být chráněna dříve, než je přiznána jakákoli jiná svoboda"
+explanation: >-
+  Pro konzervativce mají řád a tradice přednost před svobodou. Tvrdí, že příliš mnoho svobody vytváří chaos a společenský nepořádek, takže svobodu lze oceňovat teprve tehdy, když je pevně nastolen řád. To kontrastuje se socialistickým pohledem, který upřednostňuje spravedlnost, nebo s centristickým zaměřením na efektivitu.
+reviewed: false

@@ -1,9 +1,9 @@
-question: Hayek'in analizine göre, sosyalist ekonomi politikasını liberal ekonomi politikasından ayıran temel yaklaşım hangisidir?
-answer: Konstrüktivizm - devletin kendiliğinden oluşan düzene izin vermek yerine toplumu aktif olarak inşa etmesi ve şekillendirmesi gerektiği inancı
+question: "Devlet tarafından finanse edilen sosyal yardım programları, yalnızca niyetlere güvenmenin tehlikesini göstererek nasıl ters etkiler üretebilir?"
+answer: "Bağımlılık yaratabilir, çalışma teşviklerini ortadan kaldırabilir ve para önce serveti üretenlerden alınmak zorunda olduğu için yağma anlamına gelebilir"
 wrong_answers:
-  - Yeniden dağıtımcılık - artan oranlı vergilendirme ve sosyal programlar yoluyla servetin yeniden dağıtımına odaklanma
-  - Kolektivizm - bireysel mülkiyet hakları yerine üretim araçlarının kolektif mülkiyetine öncelik verilmesi
-  - Müdahalecilik - algılanan başarısızlıkları düzeltmek için piyasalara doğrudan devlet müdahalesi uygulaması
-explanation: |
-  Hayek özellikle sosyalist 'inşacılığı' liberal 'kendiliğinden düzen' ile karşılaştırır Konstrüktivizm, sosyalistlerin devlete olan inancını ifade eder
-  liberaller toplumun kendi kendini doğal olarak düzenlediğine inanırken, Hayek devletin toplumun yapısını bilinçli olarak tasarlaması ve inşa etmesi gerektiğine inanmaktadır. Yeniden dağıtımcılık, kolektivizm ve müdahalecilik aslında sosyalist özellikler olsa da, Hayek'in özel eleştirisi, toplumsal düzenin devlet tarafından bilinçli olarak mı tasarlanması gerektiği yoksa bireysel etkileşimlerden organik olarak mı ortaya çıkacağı konusundaki bu temel felsefi farklılığa odaklanmaktadır.
+  - "Aşırı kişisel tasarrufu teşvik eder, tüketici harcamalarını azaltır ve daha geniş ekonomide deflasyona neden olurlar"
+  - "İşgücü maliyetlerini devlete kaydırarak ve rekabetçi ücret ihtiyacını azaltarak özel girişimi güçlendirirler"
+  - "Sınıf ayrımlarını o kadar bütünüyle ortadan kaldırırlar ki sosyal hareketlilik gereksiz hale gelir ve inovasyon durgunlaşır"
+explanation: >-
+  Friedman, cömert niyetlerin insan teşviklerine ilişkin titiz analizi ihmal ettiğinde zararlı sonuçlar doğurabileceği konusunda uyarır. Devlet tarafından finanse edilen yardım programları bağımlılık yaratma, çalışmak için hiçbir teşvik üretmeme ve fonların önce servet üreticilerinden alınmak zorunda olması nedeniyle bir tür yağma oluşturma riski taşır. Yoksulluğun azaltılması ve verimlilik gibi ölçülebilir sonuçlar, yüce niyetlerin önüne geçmelidir.
+reviewed: false

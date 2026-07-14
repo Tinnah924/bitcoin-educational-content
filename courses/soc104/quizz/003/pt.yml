@@ -1,12 +1,9 @@
-question: De acordo com o texto, qual é o principal problema do espetro político tradicional esquerda-direita?
-answer: Não deixa lugar para o pensamento liberal clássico, que não se enquadra nem no igualitarismo de esquerda nem no nacionalismo de direita
+question: "Que princípio orientador guiava os votos de Frederic Bastiat na Assembleia Nacional?"
+answer: "A promoção das liberdades individuais e econômicas e a redução da interferência governamental"
 wrong_answers:
-  - Simplifica demasiado a política ao ter apenas duas posições extremas, sem quaisquer opções moderadas ou centristas
-  - Parte incorretamente do princípio de que a esquerda é sempre reformista e a direita é sempre conservadora nos tempos modernos
-  - Não tem em conta o facto de a maioria das pessoas mudar frequentemente as suas posições políticas ao longo do tempo
-explanation: |
-  O texto afirma especificamente que "o problema do eixo esquerda-direita é que não deixa espaço para o pensamento liberal clássico, que não pode ser
-  que não pode ser confundido nem com o igualitarismo da esquerda nem com o nacionalismo da direita" Este facto é ilustrado por exemplos como Frédéric Bastiat,
-  que votava ora à esquerda, ora à direita, consoante a questão em causa, e o Bitcoin, que atrai apoiantes de vários quadrantes políticos
-  de vários quadrantes políticos. A tradição liberal clássica, que favorece o máximo de liberdades económicas e pessoais com uma intervenção mínima do Estado, simplesmente
-  não se enquadra no sistema tradicional de categorização esquerda-direita.
+  - "A defesa da autoridade real e a preservação das tradições monárquicas"
+  - "O avanço de políticas socialistas para redistribuir a riqueza de forma mais igualitária"
+  - "Uma estratégia centrista de compromisso entre as facções de esquerda e de direita"
+explanation: >-
+  Bastiat votava com base em um princípio fundamental: promover as liberdades individuais e econômicas enquanto reduzia a interferência governamental. Ele não era um oportunista centrista, nem um monarquista ou socialista. Ele votava com qualquer lado que propusesse medidas alinhadas à liberdade e ao governo limitado.
+reviewed: false

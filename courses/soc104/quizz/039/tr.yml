@@ -1,9 +1,9 @@
-question: Milton Friedman'ın bakış açısına göre, sosyal politikaları gerçek sonuçlarından ziyade belirtilen hedeflerine göre değerlendirmenin temel sorunu nedir?
-answer: İyi niyetli politikalar genellikle bağımlılık veya piyasa çarpıklıkları yaratmak gibi asıl amaçlarıyla çelişen istenmeyen sonuçlar doğurur
+question: "Milton Friedman siyasi politikaları yargılama konusunda hangi uyarıda bulundu?"
+answer: "Politikalar niyetlerine göre değil, sonuçlarına göre yargılanmalıdır"
 wrong_answers:
-  - Politikacılar gerçek gündemlerini halktan gizlemek ve hesap vermekten kaçınmak için gerçek niyetlerini kasıtlı olarak yanlış beyan ederler
-  - İyi niyetler doğası gereği kusurludur çünkü sosyal sorunların nesnel bilimsel analizinden ziyade kişisel önyargıları yansıtırlar
-  - Belirtilen hedefler genellikle sınırlı hükümet bütçeleri ve kaynakları dahilinde ulaşılamayacak kadar iddialı ve gerçekçi değildir
-explanation: |
-  Friedman'ın eleştirisi, hedeflerin samimiyetine veya uygulanabilirliğine değil, niyetler ile sonuçlar arasındaki uçuruma odaklanmaktadır. Friedman, tasarlanan politikaların
-  insani güdülerin ve ekonomik mekanizmaların yeterince anlaşılamaması nedeniyle genellikle geri teper. Sorun sahtekârlık, önyargı ya da bütçe kısıtlamaları değil, iyi niyetin iyi sonuçları garanti etmemesi. Bu nedenle, sistemlerin neyi başardıklarını iddia ettiklerinden ziyade gerçekte nasıl işlediklerini inceleyen yapısal tanımları savunmaktadır.
+  - "Politikalar, onları öneren siyasetçilerin ahlaki karakterine göre yargılanmalıdır"
+  - "Politikalar, genel seçmen kitlesi arasında ne kadar popüler olduklarına göre yargılanmalıdır"
+  - "Politikalar, ülkenin ilk anayasasıyla uyumlu olup olmadıklarına göre yargılanmalıdır"
+explanation: >-
+  Friedman, en büyük hatalardan birinin politikaları sonuçlarına göre değil niyetlerine göre yargılamak olduğunu yazmış; yoksullar için olduğu söylenen programların neredeyse her zaman sponsorlarının amaçladıklarının tersine etkiler ürettiğini belirtmiştir. Bu, Bastiat'nın iyi bir iktisatçının tüm nüfus üzerindeki hem kısa vadeli hem de uzun vadeli etkileri dikkate aldığı yönündeki öğretisini yankılar.
+reviewed: false

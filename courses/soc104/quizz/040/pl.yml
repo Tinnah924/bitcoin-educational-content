@@ -1,9 +1,9 @@
-question: Zgodnie z perspektywą Friedmana, jaki jest główny problem z ocenianiem polityk społecznych na podstawie ich deklarowanych intencji, a nie rzeczywistych rezultatów?
-answer: Polityka oparta na dobrych intencjach często powoduje niezamierzone konsekwencje, które są sprzeczne z jej pierwotnymi celami, takie jak tworzenie zależności lub zakłócenia rynku
+question: "Jak programy pomocy społecznej finansowane przez państwo mogą wywoływać efekty perwersyjne, ilustrując niebezpieczeństwo polegania wyłącznie na intencjach?"
+answer: "Mogą tworzyć zależność, usuwać bodźce do pracy i stanowić spoliację, ponieważ pieniądze muszą najpierw zostać zabrane tym, którzy wytworzyli bogactwo"
 wrong_answers:
-  - Intencje są zbyt trudne do obiektywnego zmierzenia w porównaniu z wynikami, co uniemożliwia badaczom i analitykom ocenę polityki
-  - Politycy celowo wykorzystują fałszywe intencje, aby wprowadzić wyborców w błąd, co sprawia, że konieczne jest skupienie się wyłącznie na wymiernych wskaźnikach ekonomicznych
-  - Intencje zmieniają się zbyt często podczas wdrażania polityki, podczas gdy wyniki pozostają stałe i zapewniają lepsze długoterminowe wytyczne
-explanation: |
-  Friedman argumentuje, że polityka motywowana szczodrymi intencjami może mieć nieprzewidziane lub szkodliwe konsekwencje, jeśli nie jest oparta na rygorystycznej analizie ludzkich zachowań
-  ludzkich zachowań i bodźców. W tekście wyraźnie wspomina, że programy oznaczone jako pomagające ubogim często mają skutki przeciwne do tych, których pragną ich sponsorzy, tworząc przewrotne efekty, takie jak zależność ekonomiczna. Ilustruje to, dlaczego definicje strukturalne koncentrujące się na obserwowalnych cechach i mierzalnych wynikach powinny mieć pierwszeństwo przed definicjami celowymi opartymi na deklarowanych motywacjach.
+  - "Zachęcają do nadmiernych oszczędności osobistych, zmniejszają wydatki konsumpcyjne i powodują deflację w szerszej gospodarce"
+  - "Wzmacniają prywatną przedsiębiorczość, przenosząc koszty pracy na rząd i zmniejszając potrzebę konkurencyjnych płac"
+  - "Eliminują rozróżnienia klasowe tak dokładnie, że mobilność społeczna staje się niepotrzebna, a innowacja zamiera"
+explanation: >-
+  Friedman ostrzega, że hojne intencje mogą wywoływać szkodliwe konsekwencje, gdy zaniedbują rygorystyczną analizę ludzkich bodźców. Programy pomocy finansowane przez państwo ryzykują tworzenie zależności, brak bodźców do pracy oraz stanowienie formy spoliacji, ponieważ środki muszą najpierw zostać zabrane wytwórcom bogactwa. Mierzalne rezultaty, takie jak redukcja ubóstwa i efektywność, muszą mieć pierwszeństwo przed szlachetnymi intencjami.
+reviewed: false

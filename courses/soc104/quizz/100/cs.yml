@@ -1,9 +1,9 @@
-question: Jaká je podle manifestu Cypherpunk Erica Hughese hlavní odpovědnost za ochranu soukromí v otevřené elektronické společnosti?
-answer: Jednotlivci musí aktivně bránit své soukromí a nespoléhat se na to, že jim ho poskytnou vlády nebo korporace
+question: "Čemu libertariáni věří ohledně schopnosti jednotlivců rozhodovat?"
+answer: "Jednotlivci mají právo i odpovědnost činit vlastní rozhodnutí o svém životě"
 wrong_answers:
-  - Vlády by měly zavést komplexní předpisy na ochranu soukromí, aby chránily občany před sledováním ze strany podniků
-  - Společnosti musí zavést dobrovolné standardy ochrany soukromí a samoregulaci svých postupů při shromažďování údajů
-  - Mezinárodní organizace by měly vytvořit závazné smlouvy, které nařídí ochranu soukromí ve všech zemích
-explanation: |
-  Eric Hughes v Manifestu Cypherpunk výslovně uvedl, že "nemůžeme očekávat, že nám vlády, korporace nebo jiné velké anonymní organizace zaručí důvěrnost... Mým hlavním cílem pro Cypherpunky je přimět lidi, aby si důvěrnost hájili, místo aby se spoléhali na to, že ji zajistí někdo jiný
-  Tato filozofie klade důraz na individuální odpovědnost a soběstačnost prostřednictvím kryptografických nástrojů a odmítá závislost na vnějších institucích v oblasti ochrany soukromí, což je důvod, proč cypherpunkeři vyvinuli decentralizované kryptografické systémy.
+  - "Jednotlivci by měli činit rozhodnutí pouze po konzultaci s volenými zástupci, kteří rozumějí politickým důsledkům"
+  - "Jednotlivci obecně nejsou schopni činit dobrá rozhodnutí a potřebují odborné vedení vládních institucí"
+  - "Jednotlivci by měli svobodně činit ekonomická rozhodnutí, ale ve všech sociálních a kulturních otázkách se podřídit státu"
+explanation: >-
+  Z libertariánského pohledu mají jednotlivci právo i odpovědnost činit vlastní rozhodnutí. To kontrastuje s konvenčními politickými rodinami od levice po pravici, které věří, že vláda by měla činit některá nebo mnohá důležitá rozhodnutí v životě jednotlivce a v ekonomickém životě obecně.
+reviewed: false

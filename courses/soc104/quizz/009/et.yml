@@ -1,9 +1,9 @@
-question: Millised kaks telge moodustavad Nolani diagrammi?
-answer: Majandusvabadus ja isikuvabadus
+question: "Milline sisemine pinge eksisteerib libertaaride seas Nolani diagrammil?"
+answer: "Mõned tahavad riigi täielikult kaotada (anarhokapitalistid), samas kui teised eelistavad minimaalset riiki, mis säilitab põhilised suveräänsed funktsioonid (minarhistid)"
 wrong_answers:
-  - Vasak-parempoolne ja autoritaarne-demokraatlik
-  - Konservatiiv-liberaalne ja riik-turg
-  - Individuaalne-kollektiivne ja traditsioonilis-progressiivne
-explanation: |
-  Nolani diagramm on üles ehitatud kahele erinevale teljele: majanduslik vabadus (võime teha majanduslikke valikuid ilma valitsuse sekkumiseta) ja isikuvabadus
-  (individuaalne vabadus isiklikes küsimustes). Selline kahemõõtmeline lähenemine võimaldab poliitiliste seisukohtade nüansirikkamat esitamist kui traditsiooniline vasak-parem telg. Teised valikud esindavad erinevaid poliitilisi kontseptsioone, kuid need ei ole Nolani konkreetses diagrammi kujunduses kasutatud teljed.
+  - "Mõned tahavad tugevat majandusregulatsiooni, samas kui teised eelistavad kõigi tööstusharude täielikku dereguleerimist"
+  - "Mõned toetavad demokraatlikke valimisi, samas kui teised eelistavad pärilikku valitsemissüsteemi"
+  - "Mõned pooldavad progressiivseid sotsiaalpoliitikaid, samas kui teised kaitsevad rangelt traditsioonilisi moraalseid väärtusi"
+explanation: >-
+  Libertaaride perekonnas on põhimõtteline lahkarvamus riigi rolli üle. Anarhokapitalistid tahavad asendada kõik riigi funktsioonid erateenustega, samas kui minarhistid aktsepteerivad minimaalset riiki, mis säilitab põhilised suveräänsed funktsioonid nagu kaitse ja kohtud. Mõlemad rühmad jagavad libertarismi tippu, kuid erinevad selles, kas üldse mingi riik peaks eksisteerima.
+reviewed: false

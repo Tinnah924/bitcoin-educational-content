@@ -1,9 +1,9 @@
-question: Mikä on Hannah Arendtin analyysin mukaan totalitaaristen koulutusjärjestelmien ensisijainen tavoite?
-answer: Tuhota ihmisten kyky muodostaa itsenäisiä vakaumuksia sen sijaan, että iskostettaisiin tiettyjä uskomuksia
+question: "Miksi libertaariseen kantaan huumeiden laillistamisesta liittyy ehto, että valtion roolia yhteiskunnassa on kavennettava?"
+answer: "Koska valtion haltuun ottama vapauttaminen korvaisi yksilöllisen vastuun valtion hallinnoimalla hoidolla, kun taas libertaarit haluavat kansalaisten kantavan valintojensa seuraukset yksityisten yhdistysten tuella"
 wrong_answers:
-  - Kansalaisia indoktrinoidaan hallinnon keskeisten ideologisten periaatteiden ja arvojen mukaisesti
-  - Luoda korkeasti koulutettua työvoimaa, joka kykenee edistämään osavaltion taloudellisia tavoitteita
-  - Kansallisen yhtenäisyyden edistäminen opettamalla kansalaisia asettamaan yhteiset edut yksilöllisten toiveiden edelle
-explanation: |
-  Hannah Arendt väitti, että totalitaarisen kasvatuksen tarkoituksena ei ole koskaan ollut vakaumuksen opettaminen, vaan sen tarkoituksena on tuhota kyky muodostaa itsenäisiä vakaumuksia.
-  Tämä erottaa totalitaariset järjestelmät pelkistä autoritaarisista järjestelmistä, jotka vain tyrkyttävät ideologiaansa. Poistamalla ihmisten kyvyn ajatella itsenäisesti totalitaariset järjestelmät tekevät kansalaisista kyvyttömiä itsenäiseen toimintaan, minkä Arendt näki itse politiikan negaationa.
+  - "Koska valtion kontrolloima laillistaminen tuottaisi liikaa verotuloja ja tekisi hallituksesta liian voimakkaan ja korruptoituneen"
+  - "Koska valtio asettaisi laatustandardeja, jotka nostaisivat hintoja ja loisivat mustat markkinat uudelleen"
+  - "Koska valtion huumesääntely rikkoisi kansainvälisiä kauppasopimuksia ja diplomaattisia suhteita"
+explanation: >-
+  Libertaarit tukevat huumeiden vapauttamista, mutta vaativat valtion roolin kaventamista, koska heidän tavoitteensa on palauttaa yksilöllinen vastuu, ei laajentaa valtion hallinnointia. Jos joku tulee riippuvaiseksi, hänen on kannettava vastuu sen sijaan, että pyytäisi valtiota tarjoamaan hoitoa. Ratkaisu riippuvuuteen löytyy yksityisestä aloitteellisuudesta: yksilöiden, perheiden ja hyväntekeväisyysyhdistysten vapaaehtoisesta tuesta. Valtion hallinnoima laillistaminen olisi ristiriidassa henkilökohtaisen vastuun perustavan libertaarisen periaatteen kanssa.
+reviewed: false

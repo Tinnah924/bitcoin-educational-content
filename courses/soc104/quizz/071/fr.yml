@@ -1,8 +1,9 @@
-question: Which political family would most likely support a policy combining universal healthcare access with private sector innovation and efficiency mechanisms?
-answer: Centristes, who favor mixed systems balancing public guarantees with private sector contributions
+question: "Pourquoi les libertariens s'opposent-ils à l'impôt ?"
+answer: "Parce qu'il s'agit d'une violation morale des droits de propriété, une forme de vol étatique qui saisit la propriété d'autrui sans consentement"
 wrong_answers:
-  - Socialistes, who prioritize universal access through exclusively public healthcare systems
-  - Libertariens, who advocate for complete privatization and individual choice in healthcare markets
-  - Conservateurs, who prefer private markets with minimal state intervention for the most vulnerable
-explanation: |
-  Centristes explicitly advocate for mixed healthcare systems that guarantee universal access through state involvement while incorporating private sector elements for innovation and efficiency. Socialistes reject private involvement, viewing healthcare as a fundamental right requiring public provision. Libertariens oppose government involvement entirely, preferring market-based solutions. Conservateurs favor predominantly private systems with minimal state roles, not balanced mixed approaches.
+  - "Parce que les impôts sont économiquement inefficaces et entraînent toujours des taux de chômage plus élevés"
+  - "Parce que l'impôt décourage l'investissement étranger et affaiblit la position concurrentielle d'un pays"
+  - "Parce que les systèmes fiscaux progressifs ciblent injustement les individus fortunés qui créent le plus d'emplois"
+explanation: >-
+  L'objection libertarienne à l'impôt est morale avant d'être économique. Les libertariens considèrent l'impôt comme une forme de vol étatique et un obstacle à la propriété privée, parce qu'il consiste à saisir la propriété d'autrui sans consentement. Même s'il peut exister des arguments économiques contre l'impôt, l'argument libertarien fondamental repose sur le principe qu'il viole les droits de propriété, et non sur des calculs d'efficacité ou de compétitivité.
+reviewed: false

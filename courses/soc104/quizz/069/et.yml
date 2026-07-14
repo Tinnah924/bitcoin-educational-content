@@ -1,8 +1,9 @@
-question: Milline poliitiline ideoloogia toetaks kõige tõenäolisemalt abieluinstitutsioonide täielikku erastamist, kõrvaldades igasuguse valitsuse sekkumise abielu tunnustamisse?
-answer: Libertaarid, kes pooldavad abielu eraldamist riigist ja abielu tunnustamisega tegelevad eraühendused
+question: "Milline korduv analüütiline raamistik kujundab sotsialistlikku seisukohta kõigis viies ühiskondlikus debatis (abielu, immigratsioon, tulirelvad, narkootikumid, suhkrurikkad joogid)?"
+answer: "Konfliktiraamistik domineerijate ja domineeritavate vahel, kus ühiskond on struktureeritud rõhumise kaudu ja riik peab sekkuma haavatava rühma kaitsmiseks"
 wrong_answers:
-  - Sotsiaaldemokraadid, kes soovivad laiendada riiklikult tunnustatud abielu, et see hõlmaks sotsiaalse õigluse huvides kõiki seksuaalseid orientatsioone
-  - Konservatiivid, kes soovivad, et riik säilitaks traditsioonilised abielu määratlused, et kaitsta tsivilisatsioonilisi institutsioone
-  - Keskerakondlased, kes toetavad erinevate abieluvormide riiklikku tunnustamist, säilitades samas sotsiaalse ühtekuuluvuse
-explanation: |
-  Libertaarlased teevad ainulaadse ettepaneku abielu täielikult erastada, väites, et riik ei tohiks sundida tunnustama ühtegi abielutüüpi. Nad pooldavad seda, et kirikud, sünagoogid, mošeed või ilmalikud organisatsioonid tegeleksid abieluga, nimetades seda "abielu ja riigi lahusolekuks". Sotsiaaldemokraadid soovivad võrdõiguslikkuse laiendatud riiklikku tunnustamist, konservatiivid soovivad traditsioonilise abielu riiklikku kaitset ja tsentristid toetavad kaasavat riiklikku tunnustamist, mis peegeldab ühiskondlikku mitmekesisust.
+  - "Utilitaristlik raamistik, mis keskendub üldise õnne ja majandusliku tootlikkuse maksimeerimisele suurima arvu kodanike jaoks"
+  - "Loomuõiguste raamistik, kus individuaalseid vabadusi tuleb kaitsta nii riigi kui ka korporatiivse sekkumise eest"
+  - "Traditsionalistlik raamistik, kus väljakujunenud sotsiaalseid institutsioone tuleb säilitada häirivate kaasaegsete muutuste vastu"
+explanation: >-
+  Sotsialistlikku seisukohta ühiskondlikes debattides kujundab järjekindlalt domineerijate ja domineeritavate konfliktiraamistik. Abielu puhul on see heteroseksuaalne enamus, kes rõhub homoseksuaalset vähemust. Immigratsiooni puhul on rahvuspõhised piirangud rõhumise vormid. Tulirelvade puhul peaks ainult riik omama jõudu haavatavate kaitsmiseks. Suhkrurikaste jookide puhul teenivad töösturid kasumit kõige vähem kaitstute haavatavuselt. See rõhuja/rõhutu prisma kordub paljudes valdkondades, sealhulgas soo, rassi ja isegi inimkonna ning looduse vahelise suhte puhul.
+reviewed: false

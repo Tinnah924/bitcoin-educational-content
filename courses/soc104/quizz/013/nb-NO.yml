@@ -1,9 +1,9 @@
-question: Hva betyr plasseringen på høyre side av den økonomiske aksen (mot 100)?
-answer: Preferanse for økonomisk frihet med mindre statlig inngripen, lavere skatter og frie markeder
+question: "Hvilke emblematiske skikkelser forbindes med maksimal økonomisk frihet i Nolan-diagrammet?"
+answer: "Margaret Thatcher, Ronald Reagan og Javier Milei"
 wrong_answers:
-  - Preferanse for sterk statlig inngripen med høye skatter og omfattende offentlige tjenester
-  - Fokus på personlige friheter som ytringsfrihet og individuelle livsstilsvalg
-  - Vektlegging av tradisjonelle verdier, sikkerhet og opprettholdelse av offentlig orden gjennom autoritet
-explanation: |
-  Den høyre siden av den økonomiske aksen representerer en preferanse for økonomisk frihet, som kjennetegnes av mindre statlig inngripen i økonomien, færre reguleringer,
-  lavere skatter og større frihet for bedrifter og enkeltpersoner til å produsere, utveksle og forbruke. Denne posisjonen vektlegger frie markeder, privat eiendom og konkurranse som drivkrefter for velstand. De andre alternativene beskriver den venstre siden av den økonomiske aksen (sterk statlig inngripen) eller den vertikale aksen, som handler om personlige/samfunnsmessige friheter snarere enn økonomisk politikk.
+  - "Franklin D. Roosevelt, Jean Jaures og Bernie Sanders"
+  - "Nelson Mandela, Simone Veil og Noam Chomsky"
+  - "Vladimir Putin, Xi Jinping og Joseph de Maistre"
+explanation: >-
+  Thatcher, Reagan og Milei nevnes som emblematiske skikkelser for maksimal økonomisk frihet, med preferanse for mindre statlig inngripen, færre reguleringer og lavere skatter. Roosevelt, Jaures og Sanders representerer den motsatte enden, som favoriserer statlig kontroll over økonomien. Mandela, Veil og Chomsky representerer maksimal personlig frihet. Putin, Xi Jinping og de Maistre representerer maksimal statlig kontroll over privatlivet.
+reviewed: false

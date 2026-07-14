@@ -1,9 +1,9 @@
-question: Qual è la differenza fondamentale tra libertari e liberisti per quanto riguarda l'organizzazione economica?
-answer: I libertari difendono la proprietà privata e il libero mercato, mentre i liberisti si oppongono al capitalismo e promuovono forme economiche collettive
+question: "Come vedono i libertariani il rapporto tra proprietà privata e libertà?"
+answer: "La proprietà privata è un diritto naturale che precede la legge e lo Stato, ed è il fondamento stesso della libertà"
 wrong_answers:
-  - I libertari sostengono l'intervento dello Stato nell'economia, mentre i liberisti sono favorevoli a una completa deregolamentazione economica
-  - I libertari sostengono la proprietà collettiva dei mezzi di produzione, mentre i liberisti difendono i diritti di proprietà individuali
-  - I libertari si oppongono a tutte le forme di commercio, mentre i liberisti sostengono i mercati capitalistici senza restrizioni
-explanation: |
-  Il testo stabilisce chiaramente che i libertari ritengono che la proprietà privata sia essenziale per la libertà individuale e sostengono la libertà contrattuale, mentre i liberti (anarchici) ritengono che la proprietà sia un furto e si oppongono al capitalismo
-  i libertaires (anarchici) ritengono che la proprietà sia un furto e si oppongono al capitalismo, favorendo organizzazioni economiche alternative come il mutualismo, il collettivismo o il comunismo libertario. Questo rappresenta il nucleo della divisione ideologica tra queste due filosofie politiche, spesso confuse a causa della terminologia simile.
+  - "La proprietà privata è una convenzione sociale creata dallo Stato che può essere revocata quando causa disuguaglianza"
+  - "La proprietà privata è utile per l'efficienza economica ma non ha alcun significato morale o filosofico intrinseco"
+  - "La proprietà privata dovrebbe esistere solo per i beni personali, non per i beni produttivi o la terra"
+explanation: >-
+  I libertariani difendono la proprietà privata come un diritto naturale che precede la legge e lo Stato. Sostengono che, se un individuo possiede il proprio corpo, possiede anche il proprio lavoro e i suoi frutti. La proprietà dei beni materiali è un'estensione della proprietà di sé. Questo contrasta nettamente con la visione libertaire secondo cui la proprietà è una convenzione sociale o una fonte di oppressione.
+reviewed: false
