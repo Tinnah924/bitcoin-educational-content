@@ -1,1761 +1,1337 @@
 ---
-name: Laissez-Faire ekonomisinin kökenleri
+name: Laissez-Faire Ekonomisinin Kökenleri
 goal: 18. yüzyıl liberal ekonomik düşüncesinin temellerini, laissez-faire doktrinine, önde gelen düşünürlerine ve kalıcı etkisine odaklanarak keşfedin.
 objectives:
-- Liberal ekonomik düşüncenin ardındaki temel kavramları ve 18. yüzyıl boyunca nasıl evrimleştiklerini sağlam bir şekilde anlamak
-- Düşünürlerin devlet müdahaleciliğine karşı geliştirdikleri argümanları anlamak
-- Laissez-faire düşüncesinin küresel politik ekonominin gelişimini şekillendirmedeki etkisini değerlendirmek
-- Liberal ekonomiyi uygularken teori ve pratik arasındaki gerilimi incelemek
+- Liberal ekonomik düşüncenin arkasındaki temel kavramları ve bunların 18. yüzyılda nasıl geliştiğini sağlam biçimde kavrayın
+- Düşünürlerin Devlet müdahaleciliğine karşı geliştirdikleri argümanları anlayın
+- Laissez-faire düşüncesinin küresel ekonomi politiğin gelişimini şekillendirmedeki etkisini değerlendirin
+- Liberal ekonomi politikalarının uygulanmasında teori ile pratik arasındaki gerilimi inceleyin
 ---
-# Özgürlüğün Ekonomik Tarihine Bir Yolculuk
+# Özgürlüğün Ekonomi Tarihine Bir Yolculuk
 
-Bu kurs, 18. yüzyıl Fransa'sında ekonomi biliminin doğuşunu laissez-faire perspektifinden keşfeder. Düşünürlerin, Devletin özel hakları koruması gerektiğini ancak düzenlemeler yoluyla piyasaları asla manipüle etmemesi gerektiğini savunarak merkantilizme nasıl meydan okuduklarını keşfedeceksiniz.
+Bu kurs, 18. yüzyıl Fransa'sında ekonomi biliminin doğuşunu laissez-faire merceğinden inceler. Düşünürlerin, Devletin özel hakları koruması gerektiğini, fakat piyasaları düzenlemeler yoluyla asla manipüle etmemesi gerektiğini savunarak merkantilizme nasıl meydan okuduklarını keşfedeceksiniz.
 
-Vizyoner reformcuların bu vizyonu serbest ticaret ve malların sınırsız dolaşımını talep edecek şekilde nasıl genişlettiklerini, modern kapitalizmin entelektüel temellerini nasıl attıklarını öğreneceksiniz. Bu öncü ekonomistleri inceleyerek, küresel politik ekonomiyi şekillendiren ve bugün politika tartışmalarını etkilemeye devam eden zamansız ilkeleri anlayacaksınız. Modern ekonomiyi inşa eden fikirlerde ustalaşmak için hemen katılın.
+Vizyoner reformcuların bu görüşü serbest ticaret ve malların kısıtsız dolaşımı talebine nasıl genişlettiğini, böylece modern kapitalizmin entelektüel temellerini nasıl attığını öğreneceksiniz. Bu öncü ekonomistleri inceleyerek, küresel ekonomi politiği şekillendiren ve bugün politika tartışmalarını etkilemeye devam eden zamansız ilkeleri anlayacaksınız. Modern ekonomiyi kuran fikirlerde ustalaşmak için şimdi katılın.
 +++
 # Giriş
-
 <partId>06d67531-19f1-4f8d-bf8f-77bbcc743672</partId>
 
-
 ## Kursa genel bakış
-
 <chapterId>202db3c6-0320-494d-8057-adc6f6563048</chapterId>
 
+### Hoş geldiniz
 
-HIS204'e hoş geldiniz!
+HIS 204'e hoş geldiniz! Institut Coppet'nin başkanı ve Fransız liberal geleneğinin önde gelen uzmanlarından biri olan **[Benoît Malbranque](https://planb.academy/professors/benoit-malbranque)** tarafından verilen bu kurs, *laissez-faire* kavramının 18. yüzyılda zengin bir entelektüel gelenek içinde gelişen Fransız kökenlerini inceler.
 
+Adam Smith [*Wealth of Nations*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289)'ı yayımlamadan çok önce, Fransız düşünürler ekonomik özgürlük, Devlet müdahalesine güvensizlik ve büyüme ile refahı destekleyen doğal düzene inanç üzerine kurulu bir ekonomi politik inşa ediyorlardı. Vauban ve Boisguilbert'den Turgot ve Condorcet'ye uzanan argümanlarını izleyerek modern dünyayı şekillendiren unutulmuş bir entelektüel mirası ortaya çıkaracaksınız.
 
-Bu ders, 18. yüzyılda zengin bir entelektüel gelenek aracılığıyla gelişen *laissez-faire* - "bırakınız yapsınlar" - kavramının Fransız kökenlerini keşfetmek için tasarlanmıştır. Erken dönem Fransız ekonomi düşünürlerinin düşüncelerinin izini sürerek, ekonomik özgürlük üzerine inşa edilmiş, Devlet müdahalesine güvensizlik ve büyüme ve refahı destekleyen doğal bir düzene olan inançla işaretlenmiş bir politik ekonominin temellerini ortaya çıkaracağız.
+### Ne öğreneceksiniz
 
+- **Laissez-faire'in ortaya çıkışını izleyin**: Louis XIV dönemindeki en erken öncülerinden Fizyokrat okulundaki tam ifadesine kadar.
+- **Merkantilizme ve mutlakiyete meydan okuyan kilit düşünürleri belirleyin**: Vauban, Boisguilbert, Cantillon, Quesnay, Turgot, Condillac ve diğerleri.
+- **Bu ekonomistlerin Devlet müdahaleciliğine karşı geliştirdiği argümanları anlayın**: vergilendirme eleştirilerinden serbest ticaret savunusuna kadar.
+- **Fizyokratik sistemi analiz edin** ve tarımın, ticaretin değil, ulusal servetin kaynağı olduğu yönündeki devrimci iddiasını inceleyin.
+- **Laissez-faire düşüncesinin kalıcı etkisini değerlendirin**: küresel ekonomi politik üzerindeki etkisini ve bugün ekonomi politikasını şekillendirmeye devam eden tartışmalardaki rolünü.
+- **Teori ile pratik arasındaki gerilimi tanıyın**: Turgot'nun reformları ve bunların devrim öncesi Fransa'daki başarısızlığı üzerinden.
 
-**Bölüm 2: Öncüler**
+### Müfredat
 
+**Bölüm 2: Öncüler.** 17. ve 18. yüzyılların dönümünde başlıyoruz; mutlak monarşinin şekillendirdiği ve kamusal işleri yönetmek için daha rasyonel bir yola yönelik ilk çağrıların yükseldiği bir dönemde. Vauban, Boisguilbert ve Cantillon figürleri üzerinden Devlet müdahaleciliğine yönelik erken eleştirileri ve daha sonra liberal ekonomi politik haline gelecek şeyin ilk taslağını keşfediyoruz.
 
-Bu bölümde, 17. ve 18. yüzyılların başında, mutlak monarşinin aşırı yönetimi ve kamu işlerinin daha rasyonel ve adil bir şekilde yönetilmesi için yapılan ilk çağrılarla şekillenen bir dönemden başlıyoruz. Vauban, Boisguilbert ve Cantillon gibi figürler aracılığıyla, devlet müdahaleciliğine yönelik ilk eleştirileri ve daha sonra liberal politik ekonomiye dönüşecek olan şeyin ilk ana hatlarını keşfediyoruz.
+**Bölüm 3: 18. Yüzyılın Başındaki Reformcular ve Düşünürler.** Bu bölüm, Fransız ekonomisini yeni ilkeler ışığında reforme etmeye çalışanlara odaklanır. Saint-Pierre Başrahibi, Marquis d'Argenson ve Gournay gibi düşünürler korporatist engellerin kaldırılması, ticaretin serbestleştirilmesi ve kalkınmanın motoru olarak rekabetin teşvik edilmesi çağrısında bulundular. Cesur önerileri Fizyokratik fikirlerin habercisi oldu.
 
+**Bölüm 4: Fizyokratik Okul.** Fransız ekonomik düşüncesinin en önemli anlarından birini inceliyoruz. Quesnay ve Dupont de Nemours'a odaklanarak Fizyokratların kökenlerini, doktrinsel temellerini ve başlıca başarılarını ele alıyoruz. Laissez-faire fikri burada, Devletin boyun eğmesi gereken doğal düzen kavramına dayanan tutarlı bir sisteme dönüşür.
 
-**Bölüm 3: 18. Yüzyıl Başlarında Reformcular ve Düşünürler**
+**Bölüm 5: Aydınlanma ve Ekonomi Politik.** Son olarak liberal ekonomik düşüncenin daha geniş Aydınlanma hareketi içinde nasıl yayıldığını görüyoruz. Voltaire, Turgot, Condillac ve Condorcet laissez-faire geleneğini genişleterek devrimci döneme ve ötesine uzanan bir köprü kurdular.
 
+Ekonomik liberalizmin Fransız köklerini yeniden keşfetmeye hazır mısınız? Hadi başlayalım!
 
-Bu bölüm, 18. yüzyılın ilk on yıllarında Fransız ekonomisini yeni ilkeler ışığında reforme etmeye çalışanlara odaklanmaktadır. Saint-Pierre Başrahibi, Marquis d'Argenson ve Gournay (takipçileriyle birlikte) gibi düşünürler korporatist engellerin kaldırılması, ticaretin serbestleştirilmesi ve kalkınmanın itici gücü olarak rekabetin teşvik edilmesi çağrısında bulundu. Genellikle cesur olan önerileri, büyük Fizyokratik fikirlerin habercisiydi.
+### Kurs yazarı hakkında
 
-
-**Bölüm 4: Fizyokratik Okul**
-
-
-Bu bölümde Fransız iktisadi düşüncesinin en önemli dönemlerinden biri olan Fizyokratik okul incelenmektedir. Quesnay ve Dupont de Nemours gibi kilit isimlere odaklanarak bu ekolün kökenlerini, doktriner temellerini ve başlıca başarılarını inceleyeceğiz. Laissez-faire fikri, bu okulda, Devletin herkes için refahı garanti altına almak için boyun eğmesi gereken doğal bir düzen fikrine dayanan tutarlı bir sistem haline gelir.
-
-
-**Bölüm 5: Aydınlanma ve Ekonomi Politik**
-
-
-Son olarak, liberal ekonomik düşüncenin daha geniş Aydınlanma hareketi içinde nasıl yayıldığını göreceğiz. Voltaire, Turgot, Condillac ve Condorcet gibi figürler laissez-faire geleneğini genişletmiş ve zenginleştirmiş, yazıları laissez-faire geleneğinin devrimci döneme ve ötesine geçmesi için bir köprü oluşturmuş ve liberal fikirler burada yeni bir yankı bulmuştur.
-
-
-Ekonomik liberalizmin Fransız köklerini yeniden keşfetmeye hazır mısınız? Hadi gidelim!
-
+**[Benoît Malbranque](https://planb.academy/professors/benoit-malbranque)**, Fransız ekonomi politik okulunu tanıtmaya adanmış bir dernek olan Institut Coppet'nin başkanıdır. [*Vincent de Gournay: The Political Economy of Laissez-faire*](https://planb.academy/resources/books/benoit-malbranque-vincent-de-gournay-leconomie-pol-23fb1bac-21d6-432f-a4f3-69a359e48358) (2016) dahil olmak üzere birçok kitabın yazarıdır ve Institut Coppet'nin yayın koleksiyonlarında Fransız ekonomistlerin yazılarını yeniden yayımlamıştır. Birincil kaynaklara dair derin bilgisi, onu bu entelektüel tarihte eşsiz bir rehber yapar.
 
 # Öncüler
 
-
 <partId>91565b10-6010-53cb-a2f4-9c2306c7ef8c</partId>
-
 
 ## Tarihsel Arka Plan
 
-
 <chapterId>6a5fd101-6dfd-5d77-96c7-9e1aa4a19758</chapterId>
 
+### 18. yüzyılın şafağında Fransa
 
-18'inci yüzyılın şafağında Fransa endişe verici bir durumdaydı. Kırsal nüfus hayatta kalmak için zar zor üretim yapıyordu ve ağır vergilendiriliyordu.
+18. yüzyılın şafağında Fransa kaygı verici bir durumdaydı. Kırsal nüfus hayatta kalmaya ancak yetecek kadar üretim yapıyor ve ağır biçimde vergilendiriliyordu.
 
-
-![image](assets/tr/001.webp)
-
-
-
-Katı loncalara hapsolmuş kentli zanaatkârlar yenilik yapmakta, hatta birbirlerini desteklemekte zorlandılar. Bu arada, diğer Avrupa ulusları kısa sürede Fransa'yı her alanda geride bırakarak ürünlerine rakip oldu. İngiltere ve Hollanda'nın ticari başarıları herkesin aklındaydı.
+![19. yüzyılda kırsal yaşam sahnesi, Louis-Léopold Boilly'ye atfedilir](assets/en/001.webp)
 
 
-Ancak çağın hastalığına nasıl bir çözüm bulabilirdik? Henüz bir ekonomi bilimi ve dolayısıyla uygulanacak özel bir ilaç yoktu. Ekonomi politikasının ilkeleri hala gelişigüzel uygulanıyor, kısıtlayıcı aşamalar ve daha liberal dönemler arasında gidip geliyordu. Elbette elimizde takip edebileceğimiz modeller, tarihi referanslar var. Bunların arasında, Henri IV'ün bakanı olan, tarımı savunan ve Fransa içinde daha fazla ticaret özgürlüğünü teşvik eden *Sully* de vardı.
+Katı loncalara hapsedilmiş kent zanaatkârları yenilik yapmakta, hatta birbirlerini desteklemekte zorlanıyordu. Bu arada diğer Avrupa ulusları kısa süre içinde Fransa'yı her alanda geride bıraktı ve ürünleriyle rekabette üstün geldi. İngiltere ve Hollanda'nın ticari başarıları herkesin aklındaydı.
 
+Peki dönemin hastalığına nasıl bir çözüm bulunabilirdi? Henüz ekonomi bilimi yoktu ve dolayısıyla uygulanacak özel bir ilaç da yoktu. Ekonomi politikasının ilkeleri hâlâ gelişigüzel uygulanıyor, kısıtlayıcı evreler ile daha liberal dönemler arasında gidip geliyordu. Elbette modellerimiz, izlenecek tarihsel referanslarımız vardı. Bunlar arasında Henri IV'ün bakanı *Sully* vardı; tarımı savunmuş ve Fransa içinde daha fazla ticaret özgürlüğünü desteklemişti.
 
-![image](assets/tr/002.webp)
+![Duc de Sully portresi, Duc de Sully'nin Anıları, Henri IV'ün Bakanı](assets/en/002.webp)
 
 
 
+Ama sonra Louis XIV'ün bakanı Colbert geldi; düzenleme ile özgürlük arasında gidip geldi, fakat sonunda düzenlemeyi dayattı. 17. yüzyılın en sonunda Colbert, Sully'nin önüne geçti: bakanlar artık onun mirasına başvuruyor ve onun ilkeleri olduğunu iddia ettikleri şeyleri uygulamaya çalışıyordu.
+
+![Jean-Baptiste Colbert, Louis XIV döneminde Maliye Genel Denetçisi](assets/en/003.webp)
+
+### Colbert'in dört ilkesi
+
+17. yüzyılın sonunda devlet adamlarının zihninde Colbert'in ilkeleri dörttü.
+
+(1) **Sanayi Düzenlenmeli ve Loncalar İçinde Bağlanmalıdır**. Bu düzenlemeler, örneğin çarşafların ve kumaşların nasıl yapılması gerektiğini, boyutlarını ve ağırlıklarını belirtir.
+Her sanayi türü için özel ciltlerde derlenmiş yüzlerce böyle kural vardı. Yine de Colbert'in takipçilerinin gözünde bu hâlâ yetersizdi: onlara göre sanayinin ayrıca korporasyonlar tarafından denetlenmesi gerekiyordu.
+
+![18. yüzyıl tüy ustası atölyesi](assets/en/004.webp)
+
+Bir mesleği icra etmek isteyen herkes, önce birkaç yıl çırak, sonra kalfa olarak çalışmak, ardından bir "şaheser" üreterek ve loncaya ciddi bir ödeme yaparak usta statüsüne ulaşmaya çalışmak zorundaydı. Bu nedenle her meslek içindeki rekabet sıkı biçimde sınırlıydı.
 
 
-Ancak daha sonra Louis XIV'ün bakanı Colbert geldi, düzenleme ve özgürlük arasında bocaladı, ancak nihayetinde düzenlemeyi zorladı. Colbert, 17. yüzyılın sonunda Sully'yi geride bıraktı: bakanlar artık onun mirasına başvuruyor ve onun özdeyişleri olduğunu iddia ettikleri şeyleri uygulamaya çalışıyorlardı.
+(2) **Ticaret Sıfır Toplamlı Bir Oyundur**. Ticaret söz konusu olduğunda Colbert'in öğrencileri, Antik Çağ'ın barbar halklarıyla aynı önyargıları paylaşıyordu. Louis XIV'ün bakanına göre ticaret "sürekli bir savaş"tır. Neden? Nedeni basittir: Colbert ve halefleri için bir ülkenin servetindeki her artış, başka bir ülkenin yoksullaşması anlamına geliyordu. Onların gözünde İngilizlerin ya da Hollandalıların zenginleşmesine izin verilemezdi; çünkü bu, Fransa'nın refahını çaldıkları anlamına gelirdi.
 
+![18. yüzyılda Vernet tarafından Bordeaux Limanı](assets/en/005.webp)
 
-![image](assets/tr/003.webp)
+Bu nedenle bu ülkelerin ürünleri vicdan azabı duymadan yasaklanmalı ya da ağır vergilendirilmeliydi; çünkü ticaret, düşmanlarımızın yıkımından başka bir şey isteyemeyeceğimiz bir savaştı.
 
-
-17'nci yüzyılın sonunda devlet adamlarının zihninde Colbert'in özdeyişleri dört taneydi.
-
-
-(1) **Sanayi Düzenlenmeli ve Loncalara Bağlanmalıdır**. Bu düzenlemeler, örneğin çarşaf ve bezlerin nasıl yapılması gerektiğini, boyutlarını ve ağırlıklarını belirler.
-
-Her bir endüstri türü için özel ciltler halinde derlenmiş bu türden yüzlerce kural vardı. Ancak Colbert'in takipçilerinin gözünde bunlar hala yetersizdi: onlara göre sanayinin de şirketler tarafından denetlenmesi gerekiyordu.
-
-
-![image](assets/tr/004.webp)
-
-
-Bir zanaatı icra etmek isteyen herkes önce birkaç yıl çırak, sonra kalfa olarak çalıştıktan sonra bir "şaheser" üreterek ve loncaya önemli bir meblağ ödeyerek usta statüsüne ulaşmaya çalışmak zorundaydı. Bu nedenle her zanaat içindeki rekabet son derece sınırlıydı.
-
-
-
-(2) **Ticaret Sıfır Toplamlı Bir Oyundur**. Ticaret söz konusu olduğunda, Colbert'in müritleri Antik Çağ'ın barbar insanlarıyla aynı önyargıları paylaşıyordu. Louis'nin bakanına göre ticaret "sürekli bir savaştır". Neden mi? Nedeni basit: Colbert ve halefleri için bir ülkenin zenginliğindeki her artış, diğerinin yoksullaşması anlamına geliyordu. Onlara göre, İngilizlerin ya da Hollandalıların zenginleşmesine izin verilemezdi, çünkü bu onların Fransa'nın refahını çaldığı anlamına gelirdi.
-
-
-![image](assets/tr/005.webp)
-
-
-Dolayısıyla bu ülkelerin ürünleri yasaklanmalı ya da ağır vergilere tabi tutulmalıdır; çünkü ticaret, düşmanlarımızın mahvolmasını dilemekten başka bir şey yapamayacağımız bir savaştır.
-
-
-> "Fransızlar ticaretlerini ancak Hollandalıları ezerek artırabilirler".
+> Fransızlar ticaretlerini ancak Hollandalıları ezerek artırabilir.
 > *Colbert*
 
-(3) **Devletin Parası Azaldığında, Daha Fazla Vergi Artırın**. Colbert ve müritleri vergi mükelleflerinin servetinin sınırlı bir kaynak olduğuna inanmaktan çok uzaktı. Onlara göre, yeterince vergi toplandığı sürece kamu harcamaları asla sorun teşkil etmezdi. Ve eğer halk isyan ederse, bu sadece bakanların bu işi kötü yapmasından kaynaklanıyordu, çünkü Colbert'in alaycı bir şekilde belirttiği gibi, "vergilendirme sanatı, kazları çok fazla bağırtmadan yolmaktan ibarettir".
+(3) **Devletin parası azaldığında, daha fazla vergi topla**. Colbert ve öğrencileri, vergi mükelleflerinin servetinin sınırlı bir kaynak olduğuna inanmaktan çok uzaktı. Onlara göre yeterince tahsil edildiği sürece kamu harcamaları asla bir sorun olamazdı. Halk isyan ederse, bunun tek nedeni bakanların işi kötü yönetmesiydi; zira Colbert'in alaycı biçimde belirttiği gibi, "vergilendirme sanatı, kazları çok fazla bağırtmadan yolmaktan ibarettir".
+
+![Devletin Robin Hood'u - vergiler ya da ölüm](assets/en/006.webp)
+
+(4) **Servet, her şeyden önce altın ve gümüştür**. Ekonomi biliminin doğuşundan önce birçok yazar, servetin doğasına ilişkin baskın bir dogmayı izledi; bu dogma daha sonra *merkantilizm* olarak bilinecekti. Colbert ve halefleri bu yolda devam etti. Kısacası merkantilistler, bir ulusun refahının gerçek işaretinin kıymetli metallerin, yani gümüş ve altının birikimi olduğuna inanıyordu.
+
+![Varyemez Amca](assets/en/007.webp)
 
 
-![image](assets/tr/006.webp)
-
-
-(4) **Zenginlik her şeyden önce altın ve gümüştür**. Ekonomi biliminin doğuşundan önce, birçok yazar servetin doğası hakkında *merkantilizm* olarak bilinen baskın bir dogmayı takip etti. Colbert ve halefleri bu yolda devam ettiler. Kısacası merkantilistler, bir ulusun refahının gerçek işaretinin değerli metaller, gümüş ve altın birikimi olduğuna inanıyorlardı.
-
-
-![image](assets/tr/007.webp)
-
-
-
-> "Sadece devlet içindeki para bolluğu onun büyüklüğü ve gücü için fark yaratır".
+> Devlet içindeki para bolluğu, onun büyüklüğü ve gücü arasındaki farkı yaratır.
 > *Colbert*
 
-Bu fikrin sonucu, ne pahasına olursa olsun yabancı altın ve gümüş getiren ihracatı desteklemek ve yurtdışına göndermekten kaçınmak için ithalatı asgari düzeyde sınırlamaktır.
+Bu fikrin sonucu, dışarıdan altın ve gümüş getiren ihracatı ne pahasına olursa olsun teşvik etmek ve bunların yurt dışına çıkmasını önlemek için ithalatı en aza indirmektir.
 
+### Ekonomi biliminin temelleri
 
-Bunlar, ülke 18. yüzyıla girerken Fransız hükümetine birkaç on yıl boyunca rehberlik eden dört ilkedir. Ancak, kısa süre sonra bu ilkelere derinden meydan okunacaktı. 1690 ve 1710 yılları arasında birçok yazar Fransa'nın içinde bulunduğu felaketten derinden etkilendi. Bunun nedenlerini araştırırken, Colbert'ten miras kalan özdeyişlerin suçlu olduğu sonucuna vardılar ve bunları yanlış argümanlar olarak gördüler. Bunu yaparken de ekonomi biliminin temellerini attılar.
-
+Fransa 18. yüzyıla girerken, Fransız hükümetine onlarca yıl boyunca rehberlik eden dört ilke bunlardı. Ancak kısa süre sonra kökten sorgulanacaklardı. 1690 ile 1710 arasında bazı yazarlar Fransa'nın feci durumundan derin biçimde etkilendi. Nedenlerini ararken, Colbert'ten miras kalan ilkelerin suçlu olduğu sonucuna vardılar ve bunları safsata niteliğinde argümanlardan başka bir şey olarak görmediler. Bunu yaparak ekonomi biliminin temellerini attılar.
 
 ## Vauban
 
-
 <chapterId>ee9c1e0e-96cc-5026-a5e2-963d68122786</chapterId>
 
+### Ekonomiste dönüşen mareşal
 
-Bugün, ülkemizdeki vergi baskısı artmaya ve ulusal ekonomik güçleri boğma tehdidi oluşturmaya devam ederken, değişimden yana sesler yükseliyor. Bilinçli olsun ya da olmasın, bu reform çağrıları genellikle 17. yüzyıldan bu yana ülkenin vergi sistemini kaotik, despotik ve aşırı olarak eleştiren Fransız ekonomistlerin çalışmalarını yansıtıyor.
+Bugün ülkemizde vergi baskısı artmaya devam ederken ve ulusal ekonomik güçleri boğmakla tehdit ederken, değişim lehine sesler yükseliyor. Bilinçli ya da bilinçsiz, bu reform çağrıları çoğu zaman 17. yüzyıldan beri ulusun vergi sistemini kaotik, despotik ve aşırı diye eleştiren Fransız ekonomistlerin çalışmalarını yankılar.
 
+Bu vergi reformcularının ilki, hem kronolojik olarak hem de liyakat bakımından, kalelerin ve hisarların ünlü kurucusu büyük mareşal Sébastien Le Prestre Vauban'dır.
 
-Bu vergi reformcularının ilki, kronolojik olarak ve liyakat açısından, ünlü kale ve hisar inşaatçısı büyük mareşal Sébastien Le Prestre Vauban'dır.
-
-
-![image](assets/tr/008.webp)
-
+![Vauban portresi, Vauban'ın Lille Hisarı](assets/en/008.webp)
 
 
 
+Ne yazık ki unutmuş olsak da Vauban bir askerî adamdan fazlasıydı; aynı zamanda bir ekonomistti. **Köylülerin kaderiyle ilgilendi ve cesur vergi reformları önerdi**: 1695'te (Projet de capitation - "Kelle Vergisi Projesi") ve 1707'de (Projet d'une Dime Royale - "Kraliyet Öşrü") çoğu mevcut vergiyi gelire orantılı bir vergiyle, zamanının ötesinde bir düz vergiyle değiştirmeyi teklif etti.
 
-Ne yazık ki unutmuş olsak da Vauban bir askerden daha fazlasıydı; o aynı zamanda bir ekonomistti. Köylülerin kaderiyle ilgilendi, 1695'te (Projet de capitation - "Kapitülasyon Projesi") ve 1707'de (Projet d'une Dime Royale - "Kraliyet Öşrü") cesur vergi reformları önerdi: mevcut vergilerin çoğunu gelirle orantılı bir vergiyle değiştirmek, zamanından önce düz bir vergi.
+![Vauban, “Kraliyet öşrü projesi”](assets/en/009.webp)
 
+Vauban bu fikirlere merak yoluyla ulaştı. Keskin bir gözlemciydi; toplumsal yaşamı ve ekonomik gerçekliği titiz, neredeyse bilimsel biçimde incelemeye çalışıyordu. Özellikle nüfus sayımları yoluyla sayma gereğinde ısrar etti.
 
-![image](assets/tr/009.webp)
+![Nüfus sayımı](assets/en/010.webp)
 
+### Fransız sefaletinin yıkıcı bir portresi
 
-Vauban bu fikirlere merakı sayesinde ulaşmıştır. Sosyal hayatı ve ekonomik gerçekliği titizlikle, neredeyse bilimsel olarak incelemeye çalışan keskin bir gözlemciydi. Özellikle nüfus sayımları yoluyla sayım yapılması gerektiği konusunda ısrarcıydı.
+İkinci büyük liyakati, kitlelerin katlandığı sefaleti dokunaklı ve dürüst biçimde tasvir etmesiydi. Şöyle yazdı: "Kendimizi aldatmayalım; krallığın kalbi harap olmuş durumda. Her şey acı çekiyor, her şey dayanıyor, her şey inliyor. Eyaletlerin kalbine bakıp incelemeniz yeter; bulacağınız şey, benim söylediğimden bile daha kötüdür". Abartıdan uzak olan Vauban'ın kasvetli gözlemleri, 18. yüzyıl başı yaşamının doğru bir yansımasıydı. Alexis de Tocqueville bu fikirlerin gayet farkındaydı ve daha sonra Vauban'ın *Kraliyet Öşrü* için "korkutucu" diyecekti; çünkü doğruydu.
 
+![Tocqueville, “Eski Rejim ve Devrim”, Üç zümre](assets/en/011.webp)
 
-![image](assets/tr/010.webp)
-
-
-İkinci büyük başarısı ise kitlelerin yaşadığı sefaleti dokunaklı ve dürüst bir şekilde anlatmasıydı. Şöyle yazmıştır: "Aldanmayalım; krallığın kalbi harap olmuştur. Her şey acı çekiyor, her şey katlanıyor, her şey inliyor. Sadece taşranın kalbine bakmanız ve incelemeniz yeterlidir, bulacağınız şey benim söylediklerimden daha da kötüdür". Vauban'ın kasvetli gözlemleri abartıdan uzak, 18. yüzyıl başlarındaki yaşamın doğru bir yansımasıydı. Alexis de Tocqueville bu fikirlerin farkındaydı ve daha sonra Vauban'ın *Royal Tithe* kitabını "korkutucu" olarak tanımlayacaktı, çünkü doğruydu.
-
-
-![image](assets/tr/011.webp)
+Vauban'ın bir ekonomist olarak diğer büyük liyakati, gözlemlediği ve betimlediği kötülüğü ortadan kaldırmayı ya da en azından şiddetini azaltmayı amaçlayan geniş kapsamlı bir vergi reformu önermesiydi. Bunu yapmakta haklıydı; Ancien Régime altında Fransız ekonomisi eşitsiz, istikrarsız ve anlaşılmaz vergilendirme yüzünden felce uğramıştı.
 
 
-Vauban'ın bir ekonomist olarak diğer büyük başarısı, gözlemlediği ve tanımladığı kötülükleri ortadan kaldırmayı ya da en azından yoğunluğunu azaltmayı amaçlayan geniş kapsamlı bir vergi reformu önermesiydi. Bunu yapmakta haklıydı; Eski Rejim altındaki Fransız ekonomisi, eşitsiz, istikrarsız ve okunaksız olan vergilendirme nedeniyle felç olmuştu.
-
-
-
-Çeşitli siyasi ve ekonomik yazılarında Vauban'ın genel amacı, "emekleriyle yukarıdakileri ayakta tutan ve destekleyen halkın alt kesiminin" acılarını dindirmekti.
+Vauban'ın çeşitli siyasi ve ekonomik yazılarındaki genel amacı, "emeğiyle üst tabakayı ayakta tutan ve destekleyen halkın alt kesimi" dediği grubun acılarını hafifletmekti.
 
 
 
 
 
+Köylülerin baskıcı ve caydırıcı vergilendirme altında ezildiğini anlamıştı; bu kavramı berrak bir öngörüyle ifade etti ve bugün bile bunu zamanımızda açıkça gözlemleyebiliriz:
 
+> Çiftçi, elindeki küçük toprağın kuruyup gitmesine izin verir; onu ancak isteksizce işler, çünkü uygun gübre ve işçilikle verebileceği ürünü verirse daha da ağır vergilendirileceğinden korkar.
 
-Baskıcı ve caydırıcı vergilendirmenin köylüleri ezdiğini anlamıştı ve bunu günümüzde hala mükemmel bir şekilde gözlemleyebileceğimiz bir açık görüşlülükle ifade etti:
+Vauban gerçeği gördü: Ancien Régime altındaki vergilendirme yalnızca irrasyonel değil, aynı zamanda acımasızca sertti. Aşmaya çalıştığı şey, dağılımı adaletsiz olan bu vergi sistemiydi.
 
+### Zamanının ötesinde düz vergi
 
-> "Çiftçi sahip olduğu küçük toprağın kurumasına izin veriyor, onu sadece gönülsüzce işliyor, çünkü uygun gübre ve ekimle üretebileceği kadar üretirse daha da ağır vergilendirileceğinden korkuyor".
+Önerdiği çözüm, tüm gelirler üzerinde düz ve orantılı bir vergi, vergi yükünün tüm toplumsal sınıflar arasında adil biçimde paylaşılmasına imkân verecekti. Kamu otoritesini bireysel hakları ve mülkiyeti korumak için gerekli gören bir Devlet teorisine dayanan Vauban'ın vergi reformu, tüm yurttaşların kazançlarıyla sıkı orantı içinde, örneğin gelirlerinin %10'u kadar katkıda bulunmasını talep ediyordu
 
-Vauban gerçeği gördü: Ancien Régime altında vergilendirme sadece mantıksız değil, aynı zamanda acımasızca katıydı. Üstesinden gelmeye çalıştığı şey, dağılımında adaletsiz olan bu vergi sistemiydi.
+Yaşamı boyunca basılan tek ekonomik eseri olan Kraliyet Öşrü'nde Vauban açıkça şunu belirtti:
 
+> Bir Devlette herkes hayatta kalmak için onun korumasına ihtiyaç duyduğundan, herkesin gelirine göre onun bakımı ve giderlerine katkıda bulunması adildir [...]. Ödeme gücü en yüksek olanları muaf tutmak ve yükü, ağırlığın altında çöken ödeme gücü en düşük olanların üzerine yıkmaktan daha adaletsiz bir şey yoktur; oysa bu yük herkes tarafından kendi gücüne göre orantılı biçimde taşınsa oldukça hafif olurdu. Bu nedenle vergiden her muafiyet düzeltilmesi gereken bir düzensizliktir.
 
-Önerdiği çözüm, tüm gelirler üzerinden alınacak düz ve orantılı bir vergi, vergi yükünün tüm sosyal sınıflar arasında adil bir şekilde paylaşılmasını sağlayacaktı. Kamu otoritesini bireysel hakları ve mülkiyeti korumak için gerekli gören bir Devlet teorisine dayanan Vauban'ın vergi reformu, tüm vatandaşların kazandıklarıyla doğru orantılı olarak, örneğin gelirlerinin %10'u oranında katkıda bulunmalarını talep ediyordu
-
-
-Vauban, yaşamı boyunca basılan tek ekonomik eseri olan The Royal Tithe'de açıkça belirtmiştir:
-
-
-> "Bir Devletteki herkes hayatta kalmak için onun korumasına ihtiyaç duyduğuna göre, herkesin gelirine göre onun bakımına ve masraflarına katkıda bulunması doğrudur [...]. Hiçbir şey, ödeme gücü en yüksek olanları muaf tutmaktan ve yükü, herkesin kendi gücüne göre orantılı olarak üstlenmesi halinde oldukça hafif kalacak olan bu yükün altında ezilen, ödeme gücü en düşük olanların üzerine yıkmaktan daha adaletsiz olamaz. Bu nedenle, vergiden her muafiyet düzeltilmesi gereken bir düzensizliktir."
-
-Ölümünden kısa bir süre önce Vauban'ın fikri 14. Louis'nin bakanları tarafından kabul edildi. Ancak Vauban, mevcut vergilerin tamamının ya da neredeyse tamamının yerine geçecek orantılı bir vergi talep etmişti. Bunun yerine, sık sık olduğu gibi, onun vergisi uygulandı, ancak diğerlerinin hepsi de muhafaza edildi.
-
+Ölümünden kısa süre önce Vauban'ın fikri Louis XIV'ün bakanları tarafından benimsendi. Ancak Vauban, orantılı bir verginin mevcut vergilerin tümünün ya da neredeyse tümünün yerine geçmesini istemişti. Bunun yerine, sıkça olduğu gibi, vergisi uygulandı ama diğerlerinin hepsi de korundu.
 
 ## Boisguilbert
 
-
 <chapterId>200149c6-b5fc-566e-ab0e-bafb1c3fed3c</chapterId>
 
+### Unutulmuş bir öncü
 
-Geçmişte yaşamış çok az Fransız ekonomist bugün anavatanlarında katkılarına denk bir tanınırlığa sahiptir ve Boisguilbert de bir istisna değildir.
+Geçmişin çok az Fransız ekonomisti bugün kendi ülkelerinde katkılarına denk bir tanınırlığa sahiptir; Boisguilbert de istisna değildir.
 
+![Pierre Lepesant de Boisguilbert](assets/en/012.webp)
 
-![image](assets/tr/012.webp)
+Kendi döneminin okurları tarafından takdir edilmeyen, eksantrik karakteri ve taşkın tutkusu nedeniyle iktidar çevrelerinden uzak kalan Boisguilbert, 18. yüzyılda çok az iz bıraktı. Yine de geçen yüzyılın başında çalışmalarının yavaş bir yeniden keşfi başladı.
 
-
-Zamanının okurları tarafından takdir edilmeyen, eksantrik doğası ve ezici tutkusu nedeniyle iktidar çevrelerinden uzak tutulan Boisguilbert, 18. yüzyılda çok az iz bıraktı. Yine de geçtiğimiz yüzyılın başında, eserleri yavaş yavaş yeniden keşfedilmeye başlandı.
-
-
-Ancak bu yeniden keşif, bir tür çıkmaz sokağa girdiğimizi gösteriyor. Boisguilbert'in gerçek değeri, onu çok sayıda teorinin öncüsü ve birçok düşünürün habercisi olarak sunarak kaybedilmiştir. Daha sonra Keynes tarafından savunulan eksik istihdam kavramını kavradığı, Say yasasını öngördüğü, Walras'ın genel denge teorisinin önünü açtığı ve hatta Marksistlerin sınıf analizinin habercisi olduğu söylenir. bir yorumcu nihayetinde "Boisguilbert kimin ya da neyin öncüsü olamaz?" diye sordu.
+Ancak bu yeniden keşif bir tür çıkmaza girdiğimizi gösteriyor. Boisguilbert'in gerçek liyakati, onu çok sayıda teorinin öncüsü ve birçok düşünürün habercisi olarak sunarak kaybedildi. Keynes'in daha sonra savunacağı eksik istihdam kavramını kavradığı, Say yasasını öngördüğü, Walras'ın genel denge teorisinin yolunu açtığı ve hatta Marksistlerin sınıf analizinin habercisi olduğu söylenir. Bir yorumcu sonunda, 'Boisguilbert neyin ya da kimin öncüsü olamazdı?' diye sormuştur.
 
 
+(Pierre Le Pesant de) Boisguilbert 1646'da Rouen'de doğdu. Paris'teki Port-Royal'de eğitim gören Boisguilbert, Rouen Korgeneralliği dahil çeşitli görevler üstlenmeden önce başarısız bir edebiyat kariyerine başladı. Fikirlerini savunmak için birkaç kitap yazdığı dönem buydu; bunlar arasında 1695 tarihli "Détail de la France" vardı ve ertesi yıl çok daha açık bir başlıkla yeniden yayımladı: [*Louis XIV Saltanatı Altında Harap Olan Fransa: Kim Tarafından ve Nasıl, Onu Eski Haline Getirmenin Araçlarıyla*](https://archive.org/details/bub_gb_0jUaWNbTJa8C/page/n23/mode/2up).
 
-(Pierre Le Pesant de) Boisguilbert 1646 yılında Rouen'da doğdu. Paris'te Port-Royal'de eğitim gören Boisguilbert, Rouen Korgeneralliği de dahil olmak üzere çeşitli görevler üstlenmeden önce başarısız bir edebiyat kariyerine başladı. Bu süre zarfında fikirlerini savunmak için aralarında 1695'te "Détail de la France "ın da bulunduğu birkaç kitap yazdı ve ertesi yıl çok daha açık bir başlıkla yeniden yayınladı: [*France Ruined under the Reign of Louis XIV, by Whom and How, with the Means to Restore It](https://archive.org/details/bub_gb_0jUaWNbTJa8C/page/n23/mode/2up)*.
-
-
-![image](assets/tr/013.webp)
+![Boisguilbert, “Louis XIV döneminde harap olmuş Fransa”, Port Royal des Champs haritası](assets/en/013.webp)
 
 
 
+Boisguilbert'in kitaplarının temeli budur: Fransız yoksulluğu ve nedenleri.
 
+17. yüzyılın sonunda Fransız halkının bu sefaletini Boisguilbert, Vauban gibi ayrıntılarıyla anlatır. Şöyle yazar:
 
-Boisguilbert'in kitaplarının temeli de budur: Fransız yoksulluğu ve nedenleri.
+> Herkesin görebildiği çorak ya da kötü işlenmiş topraklar, Fransa'nın cesedidir.
 
+Sökülmüş bağları, tarlalarını terk eden köylüleri ve yinelenen kıtlıkları anlattı. 
 
-Vauban gibi Boisguilbert de 18. yüzyılın sonunda Fransız halkının yaşadığı bu sefaleti ayrıntılı olarak anlatır. Şöyle yazıyor:
+### Fransız çöküşünün ikiz nedenleri
 
+Boisguilbert bu talihsizliğin iki ana nedenini bulur. Çünkü halk yoksulluk içinde yaşıyorsa, bunun nedeni gerekli olanı tüketmesinin engellenmesidir; tüketimin çöküşünün ise iki nedeni vardır.
 
-> "Herkes tarafından görülebilen çorak ya da kötü işlenmiş topraklar Fransa'nın cesedidir".
+Birincisi, keyfî vergilendirme yüzünden halk artık temel ihtiyaçları tüketebilecek durumda değildi. O dönemin kişisel vergisi olan taille, her birey için körlemesine hesaplanıyor, hiçbir neden olmadan yükselip düşüyordu. Çok sayıdaki ayrıcalık nedeniyle yük, kendilerini yıkıma uğramış bulan yoksul köylülerin üzerine düşüyordu. Bunu düzeltmek için Boisguilbert, Vauban'ın önerisine çok benzer biçimde tüm gelirler üzerinde orantılı bir vergi tavsiye etti.
 
-Sökülen üzüm bağlarını, tarlalarını terk eden köylüleri ve tekrar eden kıtlıkları anlattı.
+Fransa'nın sefaletinin ikinci nedeni, özellikle tarımsal ürünler olmak üzere malların serbest ticaretini çok fazla engelin önlemesiydi. Sınırda ve hatta ülke içinde, farklı bölgeler arasında, tüm ticareti felce uğratan gümrük vergileri vardı. Bu kısıtlamalar denge fiyatının oluşmasını engelledi ve piyasa fırsatlarını sınırladı. Sonuç olarak köylüler üretimlerinden geçim sağlayamadılar; çünkü kârlı biçimde satış yapamıyor ve getirisi olmayan tarım fiyatlarından zarar görüyorlardı. Bu kaygı bugün de son derece günceldir ve Boisguilbert'in teorisinin merkezinde yer alır. Ticaret kısıtlamaları konusunda Boisguilbert yolların açılmasını, başka bir deyişle serbest ticaretin kurulmasını savundu.
 
+![Gustave Caillebotte - "Yukarı Yol”](assets/en/014.webp)
 
-Boisguilbert bu talihsizliğin iki ana nedeni olduğunu düşünüyor. İnsanlar yoksulluk içinde yaşıyorlarsa, bunun nedeni gerekli olanı tüketmelerinin engellenmesidir ve tüketimin mahvolmasının iki nedeni vardır.
+### Laissez-faire için ilk çağrı
 
+Ve özgürlük gerçekten de onun nihai sonucudur. "Mesele eyleme geçmek değildir" der, "yalnızca doğaya karşı böylesine şiddetle yaptığımız gibi davranmayı bırakmaktır; doğa her zaman özgürlüğe ve yetkinliğe yönelir". Yorulmadan tekrarlar: "Doğanın kendi yolunu izlemesine izin verdiğimiz, yani ona özgürlüğünü verdiğimiz ve bu ticarete herkes için koruma sunmak ve şiddeti önlemek dışında kimse karışmadığı sürece" her şey yoluna girecektir.
 
-İlk olarak, keyfi vergilendirme nedeniyle halk artık temel ihtiyaç maddelerini tüketemiyordu. O dönemin kişisel vergisi olan taille, her birey için körü körüne hesaplanıyor, sebepsiz yere yükseliyor ya da düşüyordu. Çok sayıda ayrıcalık nedeniyle yük, kendilerini mahvolmuş bulan yoksul köylülerin üzerine kalıyordu. Bunu düzeltmek için Boisguilbert, Vauban'ın önerisine benzer şekilde, tüm gelirler üzerinden orantılı bir vergi alınmasını önerdi.
+Bu son pasaj esastır. **Boisguilbert, laissez-faire ekonomi politikasını açıkça talep eden ilk kişiydi**; bunu kendi inancı haline getirdi ve etrafında gerçek bir sistem kurdu. Ona göre şeylerin doğal bir düzeni vardır ve bu düzen zamansız kamu müdahaleleriyle bozulmamalı, yıkılmamalıdır. Ona göre Devlet ekonomik konularda eylemde bulunmamalı; bunun yerine şeylerin doğal biçimde eylemesine izin vermelidir. Aksi takdirde sefalet yaratır.
 
-
-Fransa'nın sefaletinin ikinci nedeni, malların, özellikle de tarımsal malların serbest ticaretini engelleyen çok sayıda engelin bulunmasıydı. Sınırlarda ve hatta ülke içinde, farklı bölgeler arasında tüm ticareti felç eden gümrük vergileri vardı. Bu kısıtlamalar bir denge fiyatının oluşmasını engelledi ve pazar fırsatlarını sınırladı. Sonuç olarak, köylüler üretimlerinden geçimlerini sağlayamadılar, çünkü karlı bir şekilde satış yapamadılar ve bugün hala son derece geçerli olan ve Boisguilbert'in teorisinin kalbinde yatan bir endişe olan düşük tarımsal fiyatlardan muzdarip oldular. Ticaret kısıtlamaları konusunda Boisguilbert yolların açılmasını, başka bir deyişle serbest ticaretin tesis edilmesini savunmuştur.
-
-
-![image](assets/tr/014.webp)
-
-
-Ve özgürlük gerçekten de onun nihai sonucudur. "Bu bir eylem meselesi değil" diyor, "sadece her zaman özgürlüğe ve mükemmelliğe doğru eğilim gösteren doğaya karşı şiddetle yaptığımız gibi davranmaktan vazgeçmektir". "Doğayı kendi akışına bıraktığımız, yani ona özgürlüğünü verdiğimiz ve hiç kimse bu ticarete, herkese koruma sağlamak ve şiddeti önlemek dışında müdahale etmediği sürece her şey yoluna girecektir" diye bıkıp usanmadan tekrarlıyor.
-
-
-Bu son pasaj çok önemlidir. Boisguilbert, laissez-faire ekonomi politikasını açıkça talep eden, bunu kendi inancı haline getiren ve bunun etrafında gerçek bir sistem inşa eden ilk kişidir. Ona göre, şeylerin doğal bir düzeni vardır ve bu düzen zamansız kamu müdahaleleriyle bozulmamalı, yok edilmemelidir. Ona göre Devlet, ekonomik konularda harekete geçmemeli, aksine işleri doğal akışına bırakmalıdır. Aksi takdirde sefalete neden olacaktır.
-
-
-Boisguilbert, kendi deyimiyle "*iyi ruhluları*", iyi niyetli ama büyük zarar verenleri bile eleştirdi. Halk için ucuz ekmek istiyorlardı, ancak fiyatları aşağı çekerek, bu marjlarla hayatta kalamayan çiftçileri mahvettiler. Bu çiftçiler daha sonra topraklarını terk ederek yoksulluğun derinliklerine gömüldüler. Hepimizin bildiği gibi, 'cehennem genellikle iyi niyetlerle döşenmiştir'.
-
+Boisguilbert ayrıca kendi deyimiyle "*iyi ruhları*", yani iyi niyetli olup büyük zarar verenleri bile eleştirdi. Halk için ucuz ekmek istiyorlardı; fakat fiyatları zorla aşağı çekerek, bu marjlarla ayakta kalamayan çiftçileri yıkıma uğratıyorlardı. Bu çiftçiler sonra topraklarını terk etti ve daha derin bir yoksulluğa sürüklendi. Hepimizin bildiği gibi, 'cehenneme giden yol çoğu zaman iyi niyet taşlarıyla döşelidir'.
 
 ## Cantillon
 
-
 <chapterId>bc206d41-6a64-5688-a489-40fcfa0e5397</chapterId>
 
+### Modern ekonomiyi kuran İrlandalı banker
 
-"Genel Olarak Ticaretin Doğası Üzerine Deneme "nin (yaklaşık 1730'da yazılmış, 1755'te yayınlanmıştır) yazarı Richard Cantillon, modern ekonomi biliminin öncülerinden biri olarak kabul edilir. Hatta iktisatçı Murray Rothbard, İktisadi Düşünce Tarihi adlı eserinde Cantillon'dan modern iktisadın kurucusu olarak bahsetmektedir.
+"Essay on the Nature of Trade in General"ın (yaklaşık 1730'da yazıldı, 1755'te yayımlandı) yazarı Richard Cantillon, modern ekonomi biliminin öncülerinden biri kabul edilir. Ekonomist Murray Rothbard, History of Economic Thought adlı eserinde Cantillon'dan modern ekonominin kurucusu olarak bile söz eder.
 
+![Murray Rothbard, “An Austrian perspective on the History of Economic Thought”](assets/en/015.webp)
 
-![image](assets/tr/015.webp)
+İrlanda'da doğan Richard Cantillon genç bir adamken Paris'e yerleşti ve Fransız vatandaşlığı aldı. Banker olarak çalıştı ve John Law döneminde bir servet kazandı.
 
+![Richard Cantillon, “Essay on the Nature of Commerce”, John Law](assets/en/016.webp)
 
-İrlanda'da doğan Richard Cantillon gençliğinde Paris'e yerleşti ve Fransız vatandaşlığına geçti. Banker olarak çalıştı ve John Law döneminde bir servet kazandı.
-
-
-![image](assets/tr/016.webp)
-
-
-Ekonomi teorisi üzerine çalışmaya da bu vesileyle başladı. Cantillon 1730 civarında Genel Olarak Ticaretin Doğası Üzerine Deneme'sini yazdı.
+Ekonomi teorisini incelemeye başlaması da bu vesileyle oldu. Yaklaşık 1730'da Cantillon Essay on the Nature of Commerce in General'ı kaleme aldı.
 
 
 
+Bu kitap, genel bir ekonomi teorisi yaratmaya yönelik ilk girişimlerden biri olarak görülebilir. Cantillon, "ekonominin genel yasaları" dediği şeyleri, yani şu ya da bu ülkenin özel olgularında değil, şeylerin doğasında bulunan yasaları belirlemeye özen gösterir. Bu yaklaşım devrimciydi.
+
+### Ekonomi bilimine beş katkı
+
+Cantillon'ın Essay'inin büyük liyakatlerini beş alanda özetleyebiliriz: servet teorisi, girişimci kavramı, değersiz para birimlerinin eleştirisi, "Cantillon Etkileri" ve son olarak özgürlüğün savunusu.
+
+İlk olarak, **emek ve doğaya dayalı servet teorisi**.
+Dönemin baskın merkantilist görüşünün aksine Cantillon, analizini servetin insanın yararlanmasına uygun ürünlerden oluştuğu kabulüne dayandırdı. Ona göre bu servet doğadan gelir ve insan emeğiyle üretilir. Servetin doğasına ilişkin fikirleri Beccaria ve Adam Smith üzerinde, Smith aracılığıyla da tüm İngiliz klasik düşünce okulu üzerinde güçlü bir etki yaptı.
+
+İkincisi, **merkezi ekonomik aktör olarak girişimci**.
+Bunu açıkça tanımlamamış olsa da Cantillon, girişimciyi ekonomik faaliyetin ana ve merkezi oyuncusu olarak gördü. Cantillon'a göre girişimciyi karakterize eden şey risk üstlenmesi ve belirsizlik içinde eylemde bulunmasıdır. Bu fikirler daha sonra Turgot ve daha da önemlisi Say tarafından genişletilecek; sonunda girişimcinin ekonomideki özel yeri, bu kez İngiliz okulunun iddialarının aksine, kabul edilecekti.
+
+Üçüncü nokta, **değersiz para biriminin tehlikeleri**.
+John Law deneyimine tepki olarak Cantillon, para biriminin gerçek değeri olmadığında ne olduğunu ya da ne olması gerektiğini açıklar.
+
+![Law'ın banka senedi](assets/en/017.webp)
+
+Kâğıt para gibi gerçek değeri olmayan bir para biriminin metalik bir para biriminin yerine geçirilmesinin iki ana sonucunu görür. İlk sonuç onun "halkın reddi" dediği şeydir; bu, değersiz paraya yönelik artan güvensizlik anlamına gelir. İkinci sonuç [enflasyon](https://planb.academy/resources/glossary/inflation)dur: parasal zayıflama malları daha pahalı hale getirir.
+
+Dördüncüsü, Cantillon **enflasyonun eşitsiz etkileri** analizinde çağdaşlarından daha ileri gitti. Law sisteminin çöküşünü gözlemleyen Cantillon, parasal enflasyonun herkesi eşit etkilemediğini fark etti. Aksine, bazılarını zenginleştirirken bazılarını yoksullaştırır. Enflasyonun yeniden dağıtıcı bir etkisi olduğu sonucuna vardı: yeni ihraç edilen parayı ilk alanlar artan satın alma gücünden yararlanırken, onu daha sonra alanlar enflasyon oranlarının yükselmesi nedeniyle yeni paranın ihraç edilmesinin sonucu olarak yoksullaşır.
+
+Beşincisi, merkantilist düşüncenin birkaç kalıntısına rağmen Cantillon'ın genel perspektifi **özel mülkiyeti savunusunda tamamen liberaldi**. Özel mülkiyeti uygarlığın temel direği olarak savundu; hiçbir toplumun toprağın ve emeğin ürünlerinin özel mülkiyeti olmadan işleyemeyeceğini ileri sürdü. İnsanlar arasındaki maddi eşitsizliği de doğal ve meşru gördü. Cantillon'a göre verimli ve cesur bir işçinin ya da olağanüstü yetenekli birinin, beceriksiz ya da tembel birinden daha fazla kazanmasında yanlış bir şey yoktur.  Son olarak Cantillon, fiyatların her zaman kamu otoritelerinin müdahalesi olmadan arz ve talep oyunu tarafından serbestçe belirlenmesi gerektiğine inanıyordu.
+
+### Cantillon Etkisi
+
+Essay'indeki bu beş büyük fikir arasında en önemlisi kuşkusuz bugün onun adını taşıyan fikirdir: **Cantillon Etkisi**.
+Enflasyonun etkileri hakkındaki bu teoriyle Cantillon, bize çok sayıda çağdaş sıkıntıya yanıtlar sunar. Orta sınıfı ve kırsal dünyayı yoksullaştırırken finans piyasası operatörlerini ve Devleti, onun kurumlarını ve görevlilerini zenginleştiren yakın dönem genişlemeci ve enflasyonist para politikalarının sonuçlarını anlamamıza yardımcı olur; çünkü bunlar yeni ihraç kaynağına, yani merkez bankalarına ve ticari bankalara ortak yakınlıkları sayesinde bundan yararlanır.
 
 
-Bu kitap, genel bir ekonomi teorisi oluşturmaya yönelik ilk girişimlerden biri olarak görülebilir. Cantillon, "ekonominin genel yasaları" olarak adlandırdığı, şu ya da bu ülkenin özel gerçeklerinde değil, eşyanın tabiatında olan yasaları tanımlamaya özen göstermiştir. Bu yaklaşım devrim niteliğindeydi.
-
-
-Cantillon'un Denemesi'nin büyük değerlerini beş alanda özetleyebiliriz: zenginlik teorisi, girişimci kavramı, değersiz para birimlerinin eleştirisi, "Cantillon Etkileri" ve son olarak özgürlüğün savunulması.
-
-
-İlk olarak, onun **zenginlik teorisi**.
-
-O dönemde hakim olan merkantilist görüşün aksine Cantillon, analizini zenginliğin insanın zevkine uygun ürünlerden oluştuğu kabulüne dayandırdı. Ona göre bu zenginlik doğadan gelir ve insan emeğiyle üretilir. Zenginliğin doğasına ilişkin fikirleri Beccaria ve Adam Smith'i ve Smith aracılığıyla tüm İngiliz klasik düşünce okulunu güçlü bir şekilde etkilemiştir.
-
-
-İkincisi, **girişimci**.
-
-Açıkça tanımlamamış olsa da Cantillon girişimciyi ekonomik faaliyetin ana ve merkezi oyuncusu olarak görmüştür. Cantillon'a göre girişimciyi karakterize eden şey risk alması ve belirsizlik içinde hareket etmesidir. Bu fikirler daha sonra Turgot ve daha da önemlisi Say tarafından genişletilerek, bu kez İngiliz ekolünün iddialarının aksine, girişimcinin ekonomideki özel yeri nihayet kabul edilecektir.
-
-
-Üçüncü nokta, **para birimi**.
-
-Cantillon, John Law deneyimine tepki olarak, paranın gerçek bir değeri olmadığında ne olacağını ya da olması gerektiğini açıklıyor.
-
-
-![image](assets/tr/017.webp)
-
-
-Kağıt para gibi gerçek değeri olmayan bir para biriminin metalik bir para birimiyle ikame edilmesinin iki ana sonucu olduğunu düşünüyor. İlk sonuç "halkın reddi" olarak adlandırdığı şeydir, yani değersiz paraya karşı artan bir güvensizlik. İkinci sonuç ise enflasyondur: parasal zayıflama malları daha pahalı hale getirir.
-
-
-Dördüncüsü, **enflasyon** analizinde Cantillon çağdaşlarından daha ileri gitmiştir. Law'un sisteminin çöküşünü gözlemleyen Cantillon, parasal enflasyonun herkesi eşit şekilde etkilemediğini fark etti. Tam tersine, bazılarını zenginleştirirken diğerlerini yoksullaştırır. Enflasyonun yeniden dağıtıcı bir etkisi olduğu sonucuna varmıştır: yeni çıkarılan parayı ilk alanlar artan satın alma gücünden faydalanırken, daha sonra alanlar enflasyon oranlarının yükselmesi nedeniyle çıkarılan yeni paranın bir sonucu olarak daha fakir hale gelirler.
-
-
-Beşinci olarak, merkantilist düşüncenin birkaç kalıntısına rağmen, Cantillon'un genel perspektifi **tamamen liberaldi** Özel mülkiyeti medeniyetin temel direği olarak savundu ve hiçbir toplumun toprağın ve emek ürünlerinin özel mülkiyeti olmadan işleyemeyeceğini savundu. Ayrıca insanlar arasındaki maddi eşitsizliği doğal ve meşru görüyordu. Cantillon'a göre, verimli ve cesur bir işçinin ya da olağanüstü yetenekli birinin beceriksiz ya da tembel birinden daha fazla kazanmasında yanlış bir şey yoktur.  Son olarak Cantillon, fiyatların her zaman kamu otoritelerinin müdahalesi olmaksızın, arz ve talep oyunuyla serbestçe belirlenmesi gerektiğine inanıyordu.
-
-
-Deneme'sindeki bu beş ana fikir arasında en önemlisi hiç şüphesiz şu anda onun adını taşıyan fikirdir: **Cantillon Etkisi**.
-
-Enflasyonun etkilerine ilişkin bu teorisiyle Cantillon bize bir dizi çağdaş soruna yanıt vermektedir. Yeni sorunun kaynağı olan merkez bankaları ve ticari bankalara olan ortak yakınlıkları nedeniyle finansal piyasa operatörlerini ve Devleti, kurumlarını ve yetkililerini zenginleştirirken orta sınıfı ve kırsal dünyayı yoksullaştıran son zamanlardaki genişlemeci ve enflasyonist para politikalarının sonuçlarını anlamamıza yardımcı oluyor.
-
-
-
-# Erken 18. Yüzyıl Reformcuları ve Düşünürleri
-
+# 18. Yüzyılın Başındaki Reformcular ve Düşünürler
 
 <partId>1f7b50d4-ce93-5db3-8396-43c1fa5419ff</partId>
 
-
 ## Saint-Pierre Başrahibi
-
 
 <chapterId>13478fe2-4c12-593c-a410-54c2cfb7ef7f</chapterId>
 
+### Savaş çağında üretken bir pasifist
 
-Saint-Pierre'li Abbot, 18. yüzyıl Fransız laissez-faire düşünürleri panteonuna dahil etmek üzere seçtiğimiz tüm yazarlar arasında şüphesiz en çok gözden kaçanıdır.
+18. yüzyıl Fransız laissez-faire düşünürlerinin panteonuna dahil etmeyi seçtiğimiz tüm yazarlar arasında Saint-Pierre Başrahibi kuşkusuz en çok gözden kaçırılanıdır.
 
+![Saint-Pierre Başrahibi](assets/en/018.webp)
 
-![image](assets/tr/018.webp)
+Adil olmak gerekirse, bu kısmen kendi hatasıdır. Çok yazdı, ama üslubu okuması zor ve tekrarlarla doludur. Jean-Jacques Rousseau bile eserini özetlemeye çalıştı: işe başladı, fakat kısa süre sonra bunun gücünü aştığını fark ederek görevi bıraktı. 19. yüzyılın ortasında Gustave de Molinari, onun hakkında kapsamlı bir eser yayımlayarak onu onurlandırdı; bu eserde Saint-Pierre Başrahibi'nin pasifist ve ekonomist yönüne saygı duruşunda bulundu. Fakat bu bile onu unutuluştan çıkarmaya yetmedi; bugün hâlâ orada kalmaktadır.
 
-
-Adil olmak gerekirse, bu kısmen kendi hatası. Çok şey yazdı, ancak üslubu okunması zor ve tekrarlarla dolu. Jean-Jacques Rousseau bile onun çalışmalarını özetlemeye çalıştı: bunu yapmaya başladı, ancak kısa süre sonra gücünün ötesinde olduğunu fark ettiği için görevi bıraktı. 19. yüzyılın ortalarında Gustave de Molinari, Saint-Pierre Başrahibi'nin barışçı ve ekonomist kişiliğine saygılarını sunduğu kapsamlı bir çalışma yayınlayarak onu onurlandırdı. Ancak bu onu unutulmaktan kurtarmaya yetmedi, zira bugün hala unutulmaya devam ediyor.
-
-
-![image](assets/tr/019.webp)
+![Gustave de Molinari portresi, Molinari'nin Saint-Pierre Başrahibi](assets/en/019.webp)
 
 
 
+Saint-Pierre Başrahibi ekonomi hakkında yazdı, ama genellikle ilgi görmesinin nedeni daha çok pasifist oluşudur. Emmanuel Kant'ın iyi bilinen projesinden önce gelen bir Sürekli Barış Projesi'nin yazarıdır.
 
+![Saint-Pierre Başrahibi, “Avrupa'da Barışı Yeniden Kurma Projesi”](assets/en/020.webp)
 
-Saint-Pierre Başrahibi ekonomi hakkında yazmıştır, ancak daha ziyade bir barış yanlısı olarak ilgi çekmektedir. Kendisi, Emmanuel Kant'ın meşhur projesinden önce kaleme alınmış olan Sürekli Barış Projesi'nin yazarıdır.
+Bu eserde savaşın yalnızca kaybedenler için değil, kazananlar ve hatta ticaretleri etkilendiği için savaşa katılmayanlar için de yıkıcı olduğunu savundu.
 
+Savaş belasıyla mücadele etmek için bir tür Avrupa Milletler Cemiyeti kurulmasını önerdi. Her ulusun sorunlarını çözmek için bir Avrupa konseyi oluşturulacaktı. Böylece uluslar silaha başvurmaktan kaçınmak için tahkime başvuracaktı. Bir ulus barışı benimseyecek kadar bilge davranmazsa ve diğer Avrupa uluslarını tehdit ederse, Avrupa milletler cemiyetinin karşılık verecek bir aracı olacaktı. Böyle olaylar karşısında, çeşitli ülkelerin sağlayacağı kuvvetlerle bir Avrupa ordusu kurulacaktı.
 
-![image](assets/tr/020.webp)
+### Louis XIV'ü eleştirmeye cesaret ettiği için ihraç edildi
 
+Saint-Pierre Başrahibi'nin yaşamında, Fransız laissez-faire hareketinin arkasındaki eleştirel zihniyeti kusursuz biçimde gösteren bir bölüm de vardır. 1695'te Académie Française'e katıldı, fakat 1718'de Louis XIV saltanatını eleştirmeye cesaret ettiği için ihraç edildi. Bu noktada, Güneş Kralı'nın saltanatının ihtişamının altında gizlenen sefaletlere karşı konuşmaya cesaret etmiş Vauban ve Boisguilbert gibi figürlerle aynı çizgide yer aldı.
 
-Bu çalışmasında, savaşın sadece kaybedenler için değil, kazananlar ve hatta ticaretleri etkilendiği için savaşa katılmayanlar için de yıkıcı olduğunu savunmuştur.
+![Louis XIV, Versailles, Aynalar Salonu](assets/en/021.webp)
 
-
-Savaş belasıyla mücadele etmek için bir tür Avrupa Milletler Cemiyeti kurulmasını önerdi. Her ulusun sorunlarını çözmek için bir Avrupa konseyi oluşturulacaktı. Böylece uluslar silaha başvurmaktan kaçınmak için hakemliğe başvuracaktı. Eğer bir ulus barışı benimseyecek kadar akıllıca davranmaz ve diğer Avrupa uluslarını tehdit ederse, Avrupa uluslar liginin buna karşılık verecek bir aracı olacaktı. Bu tür olaylarla karşılaşıldığında, çeşitli ülkeler tarafından sağlanan kuvvetlerle bir Avrupa ordusu oluşturulacaktı.
-
-
-Saint-Pierre Başrahibinin hayatında da Fransız laissez-faire hareketinin ardındaki eleştirel zihniyeti mükemmel bir şekilde gösteren bir bölüm vardır. Başrahip 1695 yılında Académie Française'e katılmış, ancak 1718 yılında 14. Louis dönemini eleştirmeye cüret ettiği için okuldan atılmıştır. Vauban ve Boisguilbert gibi, Güneş Kral'ın saltanatının ihtişamının altında gizlenen gizemlere karşı konuşmaya cesaret eden isimlerle aynı safta yer aldı.
-
-
-![image](assets/tr/021.webp)
-
-
-Saint-Pierre Başrahibi, lüks sarayı ve askeri fetih takıntısıyla Louis XIV'ün saltanatının erdemli bir kralın işareti olmadığını savundu. Louis'nin "**Büyük Louis**" unvanını hak ettiğini kabul etmeyi reddetti.
+Saint-Pierre Başrahibi, lüks sarayı ve askerî fetih takıntısıyla Louis XIV'ün saltanatının erdemli bir kralın işareti olmadığını savundu. Louis XIV'ün "**Büyük Louis**" unvanını hak ettiğini kabul etmeyi reddetti.
 
 
 
+"İnsanın komşularını ve kendi halkını aynı anda yıkıma uğratması büyüklük değildir" dedi. Bu tutum, kralı mümkün olan her edebî biçimde yüceltmekle uzun süredir meşgul olan Académie Française'i derinden rahatsız etti. Sonuç olarak onu ihraç etmek için neredeyse oybirliğiyle karar verdiler.
+
+![Fransız Akademisi](assets/en/022.webp)
+
+### Mübadele ve emek üzerine erken içgörüler
+
+Ekonomik düşünce bakımından, daha sonra Jeremy Bentham'ın yapacağı gibi, fayda ilkesini tutarlı biçimde uyguladı ve çoğu zaman sağlam içgörüler sundu. Adil olmak gerekirse, o dönemde kimsenin tamamen kurtulamadığı merkantilist fikirlerin etkisi altında hâlâ kalmıştı.
+
+Yine de Saint-Pierre Başrahibi ekonomi hakkında bazı doğru gözlemler yaptı. Sıklıkla bu fikirle anılan *Condillac*'tan bile önce, herhangi bir mübadelede iki tarafın da yarar sağladığını açıkça belirtti. Bu, 1733 tarihli ["Fransa Ticaretini İyileştirme Projesi"](https://www.institutcoppet.org/projet-pour-perfectionner-le-commerce-de-france/) adlı eserinde bulunabilir; burada şöyle yazdı:
+
+> Tüccarlar arasında bir satış yapıldığında, satıcı kazanır, alıcı da kazanır; çünkü iki tarafta da gerçek ya da algılanan bir yarar olmasaydı, ne satıcı şu ya da bu fiyattan satardı ne de alıcı kendi payına böyle bir fiyattan satın alırdı.
+
+![Ticaret ve finans reformları öneren, ticaret ve ekonomi politikası üzerine erken tartışmaları yansıtan 18. yüzyıl Fransız broşürü.](assets/en/023.webp)
+
+Vincent de Gournay'den önce emeğin değerini ve emeği cazip tutmanın önemini de vurguladı. "Her emek zordur" diye yazdı. "Ve bir insan çalışmasının kendisine hiçbir şey ya da yeterince şey kazandırmadığını gördüğünde aylaklaşır ve gereksiz çabaya zahmet etmez". Bu argüman daha sonra Marquis d'Argenson, Vincent de Gournay ve Fizyokratlar tarafından, ağır düzenlemeleri ve lonca sistemlerini eleştirirken yankılanacaktı. Bu tür kısıtlamaların işçilerin cesaretini kırdığını, gereksiz zorluklara yol açtığını ve sonunda bu koşullar altında aylaklığın üretken çabadan daha cazip görünmesine neden olduğunu savundular.
 
 
-"Aynı anda hem komşularını hem de halkını mahvetmek büyüklük değildir" dedi. Bu tutum, uzun süredir kralı mümkün olan her edebi formda yüceltmekle meşgul olan Académie Française'i derinden rahatsız etti. Sonuç olarak, neredeyse oybirliğiyle onu ihraç etme kararı aldılar.
-
-
-![image](assets/tr/022.webp)
-
-
-Ekonomik düşünce açısından, daha sonra Jeremy Bentham'ın yapacağı gibi, fayda ilkesini tutarlı bir şekilde uyguladı ve genellikle sağlam içgörüler sundu. Adil olmak gerekirse, hala o dönemde kimsenin tam olarak kurtulamadığı merkantilist fikirlerin etkisindeydi.
-
-
-Yine de Saint-Pierre Başrahibi ekonomi hakkında bazı doğru gözlemlerde bulunmuştur. Bu fikrin sahibi olarak gösterilen *Condillac'tan* önce bile, herhangi bir Exchange'te her iki tarafın da kazançlı çıkacağını açıkça belirtmiştir. Bunu 1733 tarihli ["Fransa'nın Ticaretini Geliştirme Projesi"](https://www.institutcoppet.org/projet-pour-perfectionner-le-commerce-de-france/) başlıklı yazısında görebilirsiniz:
-
-
-> "Tüccarlar arasında bir satış yapıldığında, satıcı da kazanır, alıcı da; çünkü her iki tarafın da gerçek ya da algılanan bir çıkarı olmasaydı, ne satıcı böyle bir fiyata satardı, ne de alıcı kendi adına böyle bir fiyata satın alırdı".
-
-![image](assets/tr/023.webp)
-
-
-Vincent de Gournay'den önce o da emeğin değerini ve onu çekici kılmanın önemini vurgulamıştır. "Tüm emekler zordur" diye yazmıştır. "Ve bir insan yaptığı işin kendisine hiçbir şey kazandırmadığını ya da az kazandırdığını gördüğünde, boşta kalır ve gereksiz çaba harcamakla uğraşmaz". Bu argüman daha sonra Marquis d'Argenson, Vincent de Gournay ve Fizyokratlar tarafından yinelenecek ve külfetli düzenlemeleri ve lonca sistemlerini eleştireceklerdi. Bu tür kısıtlamaların işçilerin cesaretini kırdığını, gereksiz zorluklara yol açtığını ve nihayetinde aylaklığın bu koşullar altında üretken çabadan daha cazip görünmesine neden olduğunu savundular.
-
-
-
-## Marki d'Argenson
-
+## Marquis d'Argenson
 
 <chapterId>e9960ab4-72ec-5afd-8e97-bf89c83b62bc</chapterId>
 
+### Adam Smith'in öncüsü
 
 Marquis d'Argenson, laissez-faire doktrininin unutulmuş bir kurucusudur.
 
+![Marquis d'Argenson, Laissez-faire, laissez-passer](assets/en/024.webp)
 
-![image](assets/tr/024.webp)
-
-
-Laissez-faire, laissez-passer doktrini üzerine bir kitabın yazarı olan August Oncken tarafından yeniden keşfedilmiş ve d'Argenson'un bu fikrin doğuşunda önemli bir rol oynadığı sonucuna varılmıştır.
+Laissez-faire, laissez-passer doktrini üzerine bir kitabın yazarı olan August Oncken tarafından yeniden keşfedildi; Oncken, d'Argenson'ın bu fikrin doğuşunda büyük bir rol oynadığı sonucuna vardı.
 
 
 
+René-Louis Voyer, Marquis d'Argenson, 1694'te doğdu. Siyasi kariyerine parlamento danışmanı olarak başladı, ardından Devlet Konseyi'nde görev yaptı.
+
+**Adam Smith'ten otuz yıl önce**, d'Argenson iş bölümünün ve uzmanlaşmanın faydalarını savunuyordu.
+
+![İğne üretimi, Diderot ve d'Alambert'in “Encyclopédie”si](assets/en/025.webp)
+
+Kendi gözünde farklı bölgelerin doğal tercihlerini değiştirmeye çalışan düzenlemeleri sert biçimde eleştirdi. Örneğin hükümetin, o dönemde yoksul bir şehir olan Tours'da kumaş ve kadife üretip bunların lüks mallarıyla ünlü müreffeh Cenova'da yapılanların kalitesine ulaşmasını istemesine şaşırıyordu. Şu sonuca vardı:
+
+> Her yerin kendi fabrikalarını seçmesine izin verilmelidir. Özgürlük! Özgürlük!
+
+### Kendiliğinden düzen ve görünmez el
+
+Smith'in merkezi ilkelerinden birini daha tanıdı: kişisel çıkar arayışından kendiliğinden düzen doğduğu fikrini. Marquis d'Argenson, insan enerjisini harekete geçiren şeyin doğrudan kişisel çıkar olduğuna inanıyordu. Kötü işçiliğin ve sahtekârlığın bir üreticinin itibarını yok edeceğini, çalışkanlık ve iyi niyetin ise refaha götüreceğini yazdı. Ona göre faydanın en iyi yargıcı bireyin kendisi, yani mal satın alan ve iyi bir alışveriş yapmayı önemseyen geniş kamuoyuydu. "Herkes kendi çıkarını hisseder" dedi, "herkes kendisi için kârlı olan önlemleri alır ve hakikati bu genel uzlaşmada keşfederiz."
 
 
-René-Louis Voyer, Marquis d'Argenson, 1694 yılında doğdu. Siyasi kariyerine parlamento danışmanı olarak başladı, ardından Devlet Konseyi'nde görev yaptı.
+Adam Smith'ten önce, kişisel çıkarın kendiliğinden doğal bir düzenin kurulması yoluyla genel çıkara götürdüğünü anlamıştı.
+
+![Adam Smith portresi](assets/en/026.webp)
+
+Toplumu, her böceğin içgüdüsünü izlediği bir arı kovanına benzetti. Tam olarak şöyle dedi: "Onların eylemlerinden küçük toplumun ihtiyaçları için büyük bir birikim doğdu; fakat bu, her bireyi liderlerinin görüşlerini izlemeye zorlayan emirler ya da generaller sayesinde gerçekleşmedi". Bu, Fransız ekonomik düşüncesinde Adam Smith'in ünlü "görünmez el" kavramına belki de en yakın ifadedir.
+
+Marquis d'Argenson kendi döneminin bakanlarının fikirlerine her zaman öfkeliydi. Sordukları tek soru şuydu: "Bunu şöyle mi düzenlemeliyiz, böyle mi? Ekonomiyi şuna mı yönlendirmeliyiz, buna mı?". D'Argenson ise buna şöyle yanıt verdi: "Önce bunların herhangi birini yönlendirmenin uygun olup olmadığını ya da şeylerin kendi başlarına işlemeye bırakılıp bırakılmaması gerektiğini sormamalı mıyız?"
 
 
-Adam Smith'ten otuz yıl önce, d'Argenson işbölümü ve uzmanlaşmanın faydalarını savunmaya başlamıştı bile.
+Doğrusunu söylemek gerekirse, insanların her türlü aşırı düzenlemenin ekonomi üzerindeki zararlı etkilerini anlamakta, daha doğrusu görmekte bu kadar zorlanmalarına şaşırıyordu. Ona göre yalnızca gözleri açmak yeterliydi. "Bugün pek çok şey makul biçimde işliyor" diye acı bir ifadeyle yazdı, "çünkü yasanın erişiminden kaçmayı başarmışlar".
+Bazen fikirlerinin ne kadar az anlaşıldığı karşısında umutsuzluğa kapılıyordu.
+
+![Marquis d'Argenson, “Günlük ve Anılar”](assets/en/027.webp)
+
+### Minimal Devlet savunusu
+
+Savunduğu ekonomi politikası ideali bu nedenle döneminin eğilimlerine aykırıydı. İdeali Devlet için esasen negatif bir rol tanımlıyordu. "Tüm ticaretin ihtiyaç duyduğu şey engellerin kaldırılmasıdır. Yalnızca iyi yargıçlar, tekellerin cezalandırılması, tüm yurttaşlar için eşit koruma, istikrarlı para birimleri ve yollar ile kanallar ister". Bu, Fransız ekonomi politik geleneğinin temellerinden biri haline gelecek olan minimal Devletin tanımıydı.
+
+Devletin ekonomik faaliyetteki rolüne ilişkin bu görüş, kendi döneminin ekonomistlerini ve sosyal düşünürlerini meşgul eden iki büyük sorunun incelenmesiyle doğal biçimde gösterildi: sanayinin düzenlenmesi ve buğday ticareti.
+
+Her şeyden önce sanayi üzerindeki düzenlemeler onun tüm öfkesini uyandırdı; çünkü bunlar bazıları için başkalarının zararına ayrıcalıklardı. "Fabrikalarımızın gerilemesinin gerçek nedeni" diye yazdı, "onlara verilen aşırı korumadır". Ve kendi döneminin devlet adamlarının dirigiste gayretini daha az canlı olmayan bir inanç cümlesiyle eleştirdi:
 
 
-![image](assets/tr/025.webp)
+> Sanayiyi kendi iradesine karşı yürütmek, onun yıkımını istemektir.
 
-
-Kendisine göre farklı bölgelerin doğal tercihlerini değiştirmeye çalışan düzenlemeleri şiddetle eleştirdi. Örneğin, hükümetin o dönemde fakir bir şehir olan Tours'da, lüks mallarıyla ünlü Cenova'da üretilen kumaş ve kadifelerin kalitesine uygun kumaş ve kadife üretilmesini istemesi onu şaşırtmıştı. Şu sonuca varmıştır:
-
-
-> "Her yerin kendi fabrikalarını seçmesine izin verilmelidir. Özgürlük! Özgürlük!"
-
-Ayrıca Smith'in temel ilkelerinden bir diğerini de kabul etti: kendiliğinden oluşan düzenin kişisel çıkar arayışından kaynaklandığı fikri. Marquis d'Argenson, insan enerjisini yönlendiren şeyin anlık kişisel çıkarlar olduğuna inanıyordu. Kötü işçilik ve sahtekarlığın bir üreticinin itibarını zedeleyeceğini, çalışkanlık ve iyi niyetin ise refaha yol açacağını yazmıştır. Ona göre faydayı en iyi değerlendiren, malları satın alan ve iyi bir anlaşma yapmayı önemseyen bireyler, yani halktı. "Herkes kendi çıkarını hisseder," dedi, "herkes kendisi için kârlı olan önlemleri alır ve bu genel mutabakat içinde gerçeği keşfederiz."
-
-
-
-Adam Smith'ten bile önce, kişisel çıkarların kendiliğinden oluşan doğal bir düzenin inşası yoluyla genel çıkara yol açtığını anlamıştı.
-
-
-![image](assets/tr/026.webp)
-
-
-Toplumu, her böceğin kendi içgüdüsünü takip ettiği bir arı kovanına benzeterek, "Onların eylemlerinden", diyordu, "küçük toplumun ihtiyaçları için büyük bir birikim ortaya çıktı; ancak bu, her bir bireyi liderlerinin görüşlerini takip etmeye zorlayan emirler veya generaller tarafından getirilmedi". Bu belki de Fransız ekonomik düşüncesinde Adam Smith'in ünlü "görünmez el" kavramına en yakın ifadedir.
-
-
-Marki d'Argenson, zamanının bakanlarının fikirlerine her zaman öfke duymuştur. Sordukları tek soru şuydu: "Şöyle mi düzenlemeliyiz, böyle mi? Ekonomiyi şuna mı yoksa buna mı yönlendirmeliyiz?" idi. Buna d'Argenson şöyle cevap verdi: "Öncelikle herhangi bir yönlendirme yapmanın uygun olup olmadığını ya da her şeyin kendi haline bırakılması gerekip gerekmediğini sormamız gerekmez mi?"
-
-
-
-Doğrusunu söylemek gerekirse, insanların her türlü aşırı düzenlemenin ekonomi üzerindeki zararlı etkilerini anlamayı ya da daha doğrusu görmeyi bu kadar Hard bulmalarına hayret ediyordu. Ona göre, kişinin sadece gözlerini açması yeterliydi. "Bugün pek çok şey oldukça iyi işliyor" diye yazıyordu acı bir şekilde, "çünkü yasaların erişiminden kaçmayı başardılar".
-
-Bazen, fikirlerinin bu kadar az anlaşılması karşısında umutsuzluğa kapılıyordu.
-
-
-![image](assets/tr/027.webp)
-
-
-Bu nedenle savunduğu ekonomi politikası ideali, zamanının eğilimlerine aykırıydı. Onun ideali, Devlet için esasen olumsuz bir rol tanımlıyordu. "Ticaretin ihtiyacı olan tek şey engellerin kaldırılmasıdır. Sadece iyi yargıçlar, tekellerin cezalandırılması, tüm vatandaşlar için eşit koruma, istikrarlı para birimleri, yollar ve kanallar ister". Bu, Fransız ekonomi politik geleneğinin temellerinden biri haline gelecek olan minimal bir Devlet tanımıydı.
-
-
-Devletin ekonomik faaliyetlerdeki rolüne ilişkin bu vizyon, doğal olarak, zamanının ekonomistlerini ve sosyal düşünürlerini heyecanlandıran iki önemli konunun incelenmesiyle ortaya çıkmıştır: sanayinin düzenlenmesi ve buğday ticareti.
-
-
-Her şeyden önce, sanayiye ilişkin düzenlemeler, bazılarına diğerlerinin aleyhine ayrıcalıklar sağladığı için tüm kızgınlığını uyandırdı. "Fabrikalarımızın gerilemesinin gerçek nedeni, onlara sağlanan aşırı korumadır" diye yazdı. Ve zamanının devlet adamlarının dirijist gayretlerine yönelik eleştirilerini daha az canlı olmayan bir inançla ifade etti:
-
-
-
-> Sektörü kendi iradesi dışında yönetmek, onun mahvolmasını istemektir.
-
-Geçimlik ticaret konusunda d'Argenson'un özgürlükten başka bir cevabı yoktu. Ona göre buğday kıtlığı tekelden ve hükümetin aldığı aşırı önlemlerden kaynaklanıyordu. Tek yapmamız gereken kendi haline bırakmaktı ve limanların açık olduğu bir ülkede asla buğday kıtlığı yaşanmazdı. Diğer tüm insanlar gibi kazancın cazibesine kapılan yabancılar bize ihtiyacımız olanı sağlayacak ve fazlalığımızı alıp götüreceklerdi. "Bırakın olsun" dedi, "her şey yoluna girecek".
-
+Geçim maddeleri ticareti konusunda d'Argenson'ın özgürlükten başka yanıtı yoktu. Ona göre buğday kıtlıkları tekelden ve hükümetin aldığı aşırı önlemlerden kaynaklanıyordu. Yapmamız gereken tek şey, işleri oluruna bırakmaktı; limanları açık bir ülkede asla buğday kıtlığı olmazdı. Tıpkı diğer tüm insanlar gibi kazanç arzusuyla çekilen yabancılar, bize ihtiyacımız olanı sağlayacak ve fazlamızı alıp götürecekti. "Bırakın olsun" dedi, "ve her şey iyi olacak".
 
 ## Vincent de Gournay
 
-
 <chapterId>e8ae40dc-7450-552f-9ddc-9e02936cf425</chapterId>
 
+### İktidar koridorlarında bir tüccar
 
-Vincent de Gournay, Fransa'da laissez-faire'in ilk temsilcilerinden ve kamu yönetimi ile entelektüel çevrelerdeki en eski savunucularından biriydi. Bu nedenle, iktisadi düşünce tarihinde genellikle hak ettiğinden çok daha fazla tanınmayı hak ediyor. Yakın tarihli bir kitabımda onun katkılarını vurgulamaya çalıştım.
+Vincent de Gournay, Fransa'da laissez-faire'in ilk temsilcilerinden biri ve kamu yönetimi ile entelektüel çevrelerdeki en erken savunucularındandı. Bu nedenle ekonomik düşünce tarihinde genellikle gördüğünden çok daha fazla tanınmayı hak eder. Yakın tarihli bir kitapta katkılarını vurgulamaya çalıştım.
 
+![Benoît Malbranque, “Vincent de Gournay”](assets/en/028.webp)
 
-![image](assets/tr/028.webp)
+Tüccar bir ailede doğan Gournay, kendisi de başarılı bir tüccar oldu ve Fransız idaresinde bir görev elde etmeden önce hatırı sayılır bir servet biriktirdi. Bureau of Commerce içinde **serbest emeğin ve serbest ticaretin ateşli bir savunucusuydu**.
 
+Döneminin önde gelen ekonomistleri bağlamına iyi yerleşmiş olsa da Gournay az yazdı ya da daha doğrusu az yayımladı. Esas olarak idari mektuplar ve notlar yazdı; bunlar ya yayımlanmadı ya da bazı düzenlemelerden sonra başka yazarlar tarafından yayımlandı.
 
-Tüccar bir ailenin çocuğu olarak dünyaya gelen Gournay, Fransız yönetiminde bir pozisyon elde etmeden önce hatırı sayılır bir servet biriktirerek başarılı bir tüccar oldu. Ticaret Bürosu'nda, serbest işgücü ve serbest ticaretin ateşli bir savunucusuydu.
+Elimizde olanlar şunları içerir:
 
+1. İngiliz ekonomist Josiah Child'ın bir kitabının çevirisi üzerine [notlar](https://archive.org/details/traitessurlecomm0000chil);
 
-Döneminin önde gelen iktisatçıları arasında iyi bir yere sahip olmasına rağmen, Gournay çok az yazmış, daha doğrusu çok az yayınlamıştır. Çoğunlukla idari mektuplar ve anılar yazmış, bunlar ya yayınlanmamış ya da bazı düzeltmelerden sonra başka yazarlar tarafından yayınlanmıştır.
+![Josiah Child'ın ticaret üzerine incelemesi, 26 Haziran 1715 tarihli metin, tüccar M. de Gourgan tarafından yazılmış, Compagnie des Indes hakkında resmî rapor](assets/en/029.webp)
 
-
-Elimizdekiler şunları içeriyor:
-
-
-1. [İngiliz iktisatçı Josiah Child'ın bir kitabının çevirisi üzerine](https://archive.org/details/traitessurlecomm0000chil);
-
-
-![image](assets/tr/029.webp)
-
-
-2. baskılı Kumaşların Yasaklanmasının Avantaj ve Dezavantajlarının İncelenmesinde yer alan "Gözlemler";
+2. Basılı Kumaşların Yasaklanmasının Avantajları ve Dezavantajlarının İncelenmesi'ne dahil edilen "Gözlemler";
 
 
 
-
-
-3. "Doğu Hindistan Şirketi Üzerine Gözlemler", Abbot Morellet tarafından Doğu Hindistan Şirketi'nin Mevcut Durumu Üzerine Hatırat'a eklenmiştir (1769);
-
+3. Saint-Pierre Başrahibi Morellet tarafından Doğu Hindistan Şirketi'nin Güncel Durumu Üzerine Notu'na (1769) eklenen "Doğu Hindistan Şirketi Üzerine Gözlemler";
 
 
 
+4. Ve her şeyden önce, Ticaret Müfettişi rolünden kalan çeşitli notlar.
 
-4. Ve hepsinden önemlisi, Ticaret Müsteşarı olarak görev yaptığı döneme ait çeşitli anılar.
+### Yabancı etki ve yapılandırıcı fikirler
 
-
-Bu yazılar açık bir yabancı etkiyi ve bazı önemli yapılandırıcı fikirlerin varlığını göstermektedir. Gournay'deki yabancı etki, İngiliz ve Hollandalıların üstünlüğünün kabul edilmesidir. Gournay, bu iki ulusun ekonomiyi Fransa'dan çok daha iyi anladığına ve Fransa'nın onları örnek alması gerektiğine inanıyordu. "Bu iki ülke en müreffeh ülkeler" diyordu, "ve bizden tamamen farklı bir sistem izliyorlar. Biz yabancı malların girişini yasaklıyor, ekonomik faaliyetleri acımasız düzenlemelerle sınırlandırıyoruz, onlar ise tam tersi bir yol izliyor. Eğer onlar daha iyi durumdaysa, bunun nedeni Fransa'nın hatalı ilkeler tarafından yönlendirilmesidir" dedi.
-
+Bu yazılar açık bir yabancı etkiyi ve bazı önemli yapılandırıcı fikirlerin varlığını gösterir. Gournay'de yabancı etki, İngiliz ve Hollanda üstünlüğünün kabulüdür. Gournay bu iki ulusun ekonomiyi Fransa'dan çok daha iyi anladığına ve Fransa'nın onların örneğini izlemesi gerektiğine inanıyordu. "Bu iki ulus en müreffeh olanlardır" dedi, "ve bizimkinden tamamen farklı bir sistem izlerler. Biz yabancı malların girişini yasaklıyor, ekonomik faaliyeti drakonik düzenlemeler içine hapsediyoruz; onlar ise tam tersini yapıyor. Daha iyi durumdaysalar" diye sonuca vardı Gournay, "bunun nedeni Fransa'nın hatalı ilkelerle yönlendirilmesidir".
 
 Reform önerileri birkaç kilit nokta etrafında toplanıyordu.
 
+İlk olarak emeğin korunması ve teşvik edilmesi gerektiğine inanıyordu. O dönemde Fransız işçileri suçlular gibi muamele görüyor, sürekli izleniyor ve binlerce düzenlemeden birine uymamış olma korkusu içinde tutuluyordu. Bu aşırı rahatsızlık insanları çalışmaktan caydırıyor, onları aylaklığa yöneltiyordu. Buna karşılık Gournay, "çalışma soyludur ve bir ulusu zenginleştirmenin tek yoludur" diye savunuyordu.
 
-İlk olarak, emeğin korunması ve teşvik edilmesi gerektiğine inanıyordu. O dönemde Fransız işçilere suçlu muamelesi yapılıyor, sürekli izleniyor ve binlerce yönetmelikten birine uymadıkları için korku içinde tutuluyorlardı. Bu aşırı sıkıntı insanları çalışmaktan caydırıyor, bunun yerine tembelliğe itiyordu. Oysa Gournay, "çalışmanın asil olduğunu ve bir ulusu zenginleştirmenin tek yolu olduğunu" savunuyordu.
+İkinci olarak, üreticileri sınırlayan kısıtlayıcı lonca sistemini eleştirdi. Bir mesleğe katılmak hem zaman alıcı hem de pahalıydı; her yeni işçi daha sonra loncasının tüzükleriyle belirlenen rutini titizlikle izlemek zorundaydı. Böyle bir sistem mükemmelliğe, yeniliğe ya da ilerlemeye yer bırakmıyordu.
 
+Üçüncü olarak, Fransa'da ticaret kısıtlayıcı yasalarla sınırlanmıştı. Gournay'e göre limanlar serbestçe rekabet edebilse ve tahıl ile basma kumaşlar gibi tüm malların kısıtlama olmaksızın ithal edilmesine izin verilse tüketiciler büyük yarar sağlardı. Kaçakçılığın gerçek kökenine dikkat çeken ilk kişilerden biriydi: kaçakçılık yalnızca yararlı ve faydalı bir ticaret yasaklandığı için vardı. Keskin bir gözlem daha ekledi: kaçakçılık, düzenlemeleri, loncaları ve müsadere edici vergileri olmayan "özgür" bir meslekti. Yine de birçok dürüst işçiyi yasa dışılığa iten şey Devletin ezici düzenlemesiydi.
 
-İkinci olarak, imalatçıları sınırlayan kısıtlayıcı lonca sistemini eleştirdi. Bir zanaata katılmak hem zaman alıcı hem de pahalıydı ve her yeni işçi loncasının tüzüğünde belirlenen rutini titizlikle takip etmek zorundaydı. Böyle bir sistem mükemmelliğe, yeniliğe ya da ilerlemeye yer bırakmıyordu.
+Son olarak Gournay, İngiltere ve Hollanda'da faiz oranlarının, Fransa'dan daha müreffeh olan bu ülkelerde daha düşük olduğunu kaydetti. Ekonomik faaliyetin orada başka yerlerdeki kadar elverişli koşullarla finanse edilebilmesi için Fransa'da da daha düşük faiz oranlarını savundu. Ancak Gournay zorlayıcı, yasama yoluyla yöntemler aramadı; bunun yerine Katolik Kilisesi tarafından hâlâ mahkûm edilen para borç vermenin yasallaştırılması gerektiğini vurguladı.
 
+### Turgot ve ötesi üzerinde kalıcı etki
 
-Üçüncüsü, Fransa'da ticaret kısıtlayıcı yasalarla sınırlandırılmıştı. Gournay'a göre, limanlar serbestçe rekabet edebilse ve tahıl ve basılı tuvaller gibi tüm malların kısıtlama olmaksızın ithal edilmesine izin verilse tüketiciler bundan büyük fayda sağlayacaktı. Kaçakçılığın gerçek kökenine ilk işaret edenlerden biriydi: kaçakçılık sadece faydalı ve yararlı bir ticaret yasaklandığı için vardı. Keskin bir gözlemini de eklemişti: kaçakçılık "özgür" bir meslekti, hiçbir düzenleme, lonca ve müsadere edici vergi yoktu. Yine de Devlet'in ezici düzenlemeleri pek çok dürüst işçiyi yasadışılığa sürükledi.
+Tüm bu noktalarda Gournay, 18. yüzyıl ortasının entelektüel tartışmalarında kilit bir rol oynadı. Ekonomik özgürlük savunusu Fizyokratlardan on yıl, Adam Smith'ten ise yirmi yıl önce geldi. Ancak en kalıcı etkisi Turgot üzerinde oldu. Gournay genç Turgot'yu kanatları altına aldı ve onu fikirleriyle eğitti.
 
+![Turgot portresi](assets/en/030.webp)
 
-Son olarak Gournay, Fransa'dan daha müreffeh ülkeler olan İngiltere ve Hollanda'da faiz oranlarının daha düşük olduğunu kaydetti. Fransa'da da faiz oranlarının düşürülmesini, böylece ekonomik faaliyetlerin diğer ülkelerdeki kadar avantajlı koşullarda finanse edilebilmesini savunmuştur. Ancak Gournay zorlayıcı, yasal yöntemler aramadı; daha ziyade, Katolik Kilisesi tarafından hala kınanan borç para vermenin yasallaştırılması gerektiğini vurguladı.
+Yıllar sonra, Louis XVI döneminde geleceğin bakanı olacak Turgot, arkadaşının ölümünden sonra onun onuruna bir Éloge (övgü) yazdı. Turgot, François Quesnay'in Fizyokrasisini hiçbir zaman tamamen benimsemediyse, bunun nedeni ilk ustası Vincent de Gournay'e yenilmez bir bağlılığı korumasıydı.
 
-
-Tüm bu noktalarda Gournay, 18. yüzyılın ortalarındaki entelektüel tartışmalarda kilit bir rol oynamıştır. Onun ekonomik özgürlüğü savunması Fizyokratlardan on yıl, Adam Smith'ten ise yirmi yıl öncesine dayanır. Ancak en kalıcı etkisi Turgot üzerinde olmuştur. Gournay genç Turgot'yu kanatları altına aldı ve onu fikirleriyle eğitti.
-
-
-![image](assets/tr/030.webp)
-
-
-Yıllar sonra, 16. Louis'nin müstakbel bakanı Turgot, arkadaşının ölümünden sonra onun onuruna bir Éloge (methiye) yazdı. Turgot, François Quesnay'in Fizyokrasisini hiçbir zaman tam olarak benimsemediyse, bunun nedeni ilk ustası Vincent de Gournay'e karşı yenilmez bir bağlılık duymasıydı.
-
-
-## The Gournay Circle
-
+## Gournay Çevresi
 
 <chapterId>b86ba6bd-8f3a-5d8f-b098-4d0413f00deb</chapterId>
 
+### Çevirmenler ve ekonomistler ağı
 
-Ekonomi biliminin ilk günleri söz konusu olduğunda, tarih ilk düşünce okulunu vurgulama eğilimindedir: François Quesnay ve öğrencilerinin önderliğindeki Fizyokratlar. Ancak, onların yükselişinden yaklaşık on yıl önce, ekonomist Vincent de Gournay'ın etrafında toplanan daha az resmi ama aynı derecede önemli bir grup daha vardı.
+Ekonomi biliminin ilk günleri söz konusu olduğunda, tarih genellikle ilk düşünce okulunu öne çıkarır: François Quesnay ve öğrencilerinin öncülük ettiği Fizyokratlar. Ancak onların yükselişinden yaklaşık on yıl önce, ekonomist Vincent de Gournay etrafında toplanmış, daha az resmî ama aynı derecede önemli başka bir grup vardı.
 
+![Vincent de Gournay çevresi](assets/en/031.webp)
 
-![image](assets/tr/031.webp)
+Önceki bölümde gördüğümüz gibi Gournay, İngiltere ve Hollanda gibi yabancı ulusların örneğinden büyülenmişti. Onların ekonomistlerine de (Josiah Child, Johan de Witt ve David Hume gibi figürlere) aynı ölçüde hayrandı.
 
+![David Hume portresi](assets/en/032.webp)
 
-Bir önceki bölümde gördüğümüz gibi, Gournay İngiltere ve Hollanda gibi yabancı ulusların örneklerinden etkilenmişti. Bu ülkelerin Josiah Child, Johan de Witt ve David Hume gibi iktisatçılarına da aynı derecede hayranlık duyuyordu.
+Bu hayranlık onu bu kişilerin ekonomik yazılarını çevirmeye ve çevirilerini yaptırmaya yöneltti.
 
+Kıdemli idaredeki konumunun Gournay'in o dönemde Fransa'da bilinen tüm ekonomi uzmanlarıyla temas kurmasını sağladığı ortaya çıktı. Böylece son derece yetenekli çevirmenlerden oluşan bir grup topladı. Child ve Culpeper'ın eserlerini bizzat çevirdi. Başrahip Le Blanc, David Hume'un Political Discourses'unu çevirdi. Véron de Forbonnais İspanyol ekonomist Geronymo de Uztariz'i çevirdi. Turgot, Josiah Tucker'ın yazıları üzerinde çalıştı ve Montesquieu'nün oğlu Joshua Gee'yi çevirdi.
 
-![image](assets/tr/032.webp)
+### Ekonomi yayıncılığında patlama
 
+Gournay çevresinin birkaç üyesinin işbirliği sayesinde birçok yazar kendi adlarıyla özgün eserler yayımlayabildi. Bu kitaplar, çevirilerle birlikte, dikkate değer bir başarı kazandı. Bazı önemli örnekler şunlardır:
 
-Bu hayranlık onu onların ekonomik yazılarını çevirmeye ve çevirilerini görevlendirmeye yöneltti.
+- Herbert'in [Tahılın Genel Polisiyesi](https://archive.org/details/essaisurlapolice00herb/page/n7/mode/2up) Üzerine Denemesi (4 yılda 6 baskı)
 
+![Abbé Gabriel-François Coyer, “La Noblesse commerçante”, genel tahıl politikası üzerine deneme (1755)](assets/en/033.webp)
 
-Üst düzey yönetimdeki pozisyonunun, Gournay'ın o dönemde Fransa'da bilinen tüm ekonomi uzmanlarıyla temas kurmasını sağladığı ortaya çıktı. Bu şekilde, son derece yetenekli bir çevirmen grubu oluşturdu. Child ve Culpeper'ın eserlerini bizzat kendisi çevirmiştir. Abbot Le Blanc, David Hume'un Politik Söylevler'ini çevirdi. Véron de Forbonnais İspanyol iktisatçı Geronymo de Uztariz'i çevirdi. Turgot, Josiah Tucker'ın yazıları üzerinde çalıştı ve Montesquieu'nun oğlu Joshua Gee'yi tercüme etti.
-
-
-Gournay'ın çevresindeki birçok üyenin işbirliği sayesinde, birçok yazar kendi adları altında özgün eserler yayınlayabildi. Bu kitaplar, çevirileriyle birlikte dikkate değer bir başarı elde etti. Bazı önemli örnekler şunlardır:
-
-
-
-- Herbert's Essay on the [General Police of Grain](https://archive.org/details/essaisurlapolice00herb/page/n7/mode/2up) (4 yılda 6 baskı)
-
-
-![image](assets/tr/033.webp)
+- Coyer'nin [Noblesse commerçante](https://archive.org/details/lanoblessecommer00coye/page/n3/mode/2up)'ı (2 yılda 5 baskı)
 
 
 
-- Coyer's [Noblesse commerçante](https://archive.org/details/lanoblessecommer00coye/page/n3/mode/2up) (2 yılda 5 baskı)
+- Plumard de Dangeul'ün [Fransa ve Büyük Britanya'nın Avantajları ve Dezavantajları Üzerine Notlar](https://archive.org/details/bim_eighteenth-century_remarks-on-the-advantage_plumard-de-dangeul-loui_1754)'ı (ilk yılında 3 baskı)
+- Cliquot-Blervache ve Gournay'in [Meslekler Üzerine Notu](https://www.amazon.com/Memoire-sur-corps-metiers-French/dp/1978196903) (1758'de 2 baskı)
+Grup ayrıca şu eserin yayımlanmasında kilit bir rol oynadı 
+- Richard Cantillon'ın [Essay on the Nature of Trade in General](https://archive.org/details/essayonnatureofc0000cant) adlı eseri.
 
+![Richard Cantillon, “Essay on the nature of commerce”](assets/en/034.webp)
 
+Yaklaşık 1730'da yazılan bu son kitap, yazarının ölümünden sonra el yazması olarak kalmıştı. Gournay, ekonomist dostlarının yardımıyla onu 1755'te yayımladı. Çevrenin bir üyesi olan Başrahip Morellet'ye göre Gournay, tanıdığı her ekonomiste bu kitabı tavsiye ediyordu.
 
+Gournay çevresinin entelektüel üretimi fikirler tarihi üzerinde büyük bir etki yaptı. Bu anlamda Fransa'da ekonomi biliminin kurucuları sayılabilirler. Ekonomi yayınlarının tarihini incelemiş olan INED'den Christine Théré, 1750 ile 1759 arasında ekonomi üzerine en az **349** eserin yayımlandığını, buna karşılık bir önceki on yılın tamamında (1740–1749) yalnızca **83** eser yayımlandığını buldu. 1750'lerdeki bu devrim büyük ölçüde Gournay çevresinden kaynaklanır.
 
+![Fransa'da ekonomi yayıncılığı üzerine çalışma, 1566-1789.](assets/en/035.webp)
 
+Gournay ve arkadaşları, Fransız halkı arasında ekonomik tartışmalara yönelik bir zevk yaymak için bunları romanlar aracılığıyla erişilebilir kılmaya çalıştı. Loncaları eleştiren *Meslekler Üzerine Not*'tan sonra Gournay ve Cliquot-Blervache, Gabriel-François Coyer'nin Chinki adlı kısa bir hiciv romanı yazmasına yardım etti: [Başka Uluslara Uygulanabilir Bir Koşinçin Hikâyesi](https://www.institutcoppet.org/wp-content/uploads/2013/06/Coyer-Chinki-Histoire-cochinchinoise.pdf).
 
-- Plumard de Dangeul's [Fransa ve Büyük Britanya'nın Avantaj ve Dezavantajları Üzerine Açıklamalar](https://archive.org/details/bim_eighteenth-century_remarks-on-the-advantage_plumard-de-dangeul-loui_1754) (ilk yılında 3 baskı)
-- Cliquot-Blervache ve Gournay's [Memoir on the Trades](https://www.amazon.com/Memoire-sur-corps-metiers-French/dp/1978196903) (1758'de 2 baskı)
+![Abbé Gabriel-François Coyer, “Chinki”](assets/en/036.webp)
 
-Grup ayrıca şu kitabın yayınlanmasında da önemli bir rol oynamıştır
+Hikâye, aşırı vergilendirme nedeniyle toprağını terk etmek zorunda kalan ve şehirde çocukları için zanaat işi bulmaya çalışan ana karakter Chinki'yi izler. Fakat kötüye kullanılan lonca düzenlemeleri nedeniyle tüm meslekler onlara kapalıdır; bu yüzden hikâye onun artan hayal kırıklığını mizahi tonlarla betimler.
 
+### Ekonomiyi moda haline getirmek
 
-- richard Cantillon [Genel Olarak Ticaretin Doğası Üzerine Deneme](https://archive.org/details/essayonnatureofc0000cant).
+Gournay çevresi bu nedenle yoğun bir yayın dalgasının kökeninde yer aldı. Bu büyük katkı ekonomik düşünce tarihçileri tarafından unutulmuş olsa da çağdaşları için çok açıktı. 1760'larda okullarını örgütleyen Fizyokratlar, daha sonra Gournay'in grubunu kendi doğrudan öncüleri olarak sunacaktı. 1767'de ekonomist Jacques Accarias de Serionne, anma yazısında bunu daha da açık ifade etti. Şöyle yazdı: "Hem filozof hem yurttaş olan az sayıda Fransız, birkaç yıl önce İngiliz yazarları taklit etmeye başladı. Önce modellerini çevirdiler ve kısa süre sonra birçok bakımdan onları aştılar. Yararlı konuları işlerken edebiyatın tüm çekiciliğini ve zenginliğini getirdiler; Devletin refahı için en gerekli bilimlere yönelik zevki ateşlediler ve yaydılar".
 
-
-![image](assets/tr/034.webp)
-
-
-Yaklaşık 1730'da yazılan bu son kitap, yazarın ölümünden sonra el yazması olarak kaldı. Gournay, iktisatçı arkadaşlarının yardımıyla kitabı 1755 yılında yayınladı. Çevrenin bir üyesi olan Başrahip Morellet'ye göre, Gournay bu kitabı tanıdığı tüm iktisatçılara tavsiye etmiştir.
-
-
-Gournay çevresinin entelektüel üretiminin fikirler tarihi üzerinde büyük bir etkisi olmuştur. Bu anlamda, Fransa'da ekonomi biliminin kurucuları olarak kabul edilebilirler. Ekonomik yayınların tarihini inceleyen INED'den Christine Théré, 1750 ile 1759 yılları arasında, önceki on yılın tamamında (1740-1749) sadece **83** eser yayınlanmışken, ekonomi üzerine en az **349** eser yayınlandığını tespit etmiştir. 1750'lerdeki bu devrim büyük ölçüde Gournay çevresinden kaynaklanmaktadır.
-
-
-![image](assets/tr/035.webp)
-
-
-Gournay ve arkadaşları, Fransız halkı arasında ekonomik tartışmaları sevdirmek için bunları romanlar aracılığıyla erişilebilir kılmaya çalıştılar. Loncaları eleştiren *Ticaret Üzerine Anı* kitabından sonra Gournay ve Cliquot-Blervache, Gabriel-François Coyer'in Chinki: [Diğer Milletlere Uygulanabilir Bir Çinçin Masalı](https://www.institutcoppet.org/wp-content/uploads/2013/06/Coyer-Chinki-Histoire-cochinchinoise.pdf) adlı kısa bir hiciv romanı yazmasına yardımcı oldular.
-
-
-![image](assets/tr/036.webp)
-
-
-Hikâye, aşırı vergiler nedeniyle topraklarını terk etmek zorunda kalan ve çocukları için şehirde zanaat işi bulmaya çalışan ana karakter Chinki'yi takip ediyor. Ancak kötü lonca düzenlemeleri nedeniyle tüm zanaatlar onlara kapalıdır, bu nedenle hikaye onun büyüyen hayal kırıklığını mizahi tonlarla tasvir eder.
-
-
-Dolayısıyla Gournay'in çevresi yoğun bir yayın dalgasının kaynağında yer alıyordu. Bu büyük katkı iktisadi düşünce tarihçileri tarafından unutulmuş olsa da, çağdaşları için çok açıktı. Okullarını 1760'larda örgütleyen Fizyokratlar, daha sonra Gournay'in grubunu doğrudan öncüleri olarak sunacaklardı. Ekonomist Jacques Accarias de Serionne 1767'de yazdığı övgü yazısında bunu daha da açık bir şekilde ifade etmiştir. Şöyle yazmıştı: "Hem filozof hem de vatandaş olan az sayıda Fransız, birkaç yıl önce İngiliz yazarları taklit etmeye başladı. Önce modellerini tercüme ettiler ve kısa sürede birçok açıdan onları aştılar. Edebiyatın tüm cazibesini ve zenginliğini faydalı konuların işlenmesine taşıdılar; Devletin refahı için en gerekli olan bilimlere yönelik zevki ateşlediler ve yaydılar".
-
-
-Gerçekten de 1750'lerde ekonomik meseleler moda haline gelmişti. Voltaire, 1750 civarında Fransızların tahıl ticaretinin özgürlüğünü tartışmak için romanları bıraktığını belirtmiştir. Bu eğilim, Gournay'ın ölümünden birkaç ay önce, 1758 tarihli bir sayısında yazan Mercure de France tarafından da not edildi: "Politik ekonomi şu anda moda olan bilim dalı. Tarım, nüfus, sanayi, ticaret ve finansla ilgili kitaplar, kısa bir süre öncesine kadar sadece yüzeysel olarak roman okuyan sayısız insanın eline geçmiş durumda". Gournay'e ve çevresindeki iktisatçıların çalışmalarına bundan daha iyi bir övgü olamazdı.
-
+Gerçekten de 1750'lerde ekonomik sorular moda haline geldi. Voltaire'in ünlü gözlemine göre, 1750 civarında Fransızlar tahıl ticaretinin özgürlüğünü tartışmak için romanları bıraktı. Bu eğilim Mercure de France tarafından da kaydedildi; 1758 tarihli bir sayıda, Gournay'in ölümünden birkaç ay önce şöyle yazıyordu: "Ekonomi politik artık modadaki bilimdir. Tarım, nüfus, sanayi, ticaret ve finansla ilgilenen kitaplar, kısa süre önce yalnızca romanları yüzeysel biçimde okuyan sayısız insanın elindedir". Gournay'e ve ekonomist çevresinin çalışmalarına bundan daha iyi bir saygı gösterisi güç bulunurdu.
 
 ## Mirabeau
 
-
 <chapterId>2d2f802b-e3b6-556f-9025-a1b1dc4409ca</chapterId>
 
+### Ünlü oğlun ardındaki baba
 
-Fransa, biri baba diğeri oğul olmak üzere Mirabeau adında iki ünlü adam tanımıştır, ancak gerçekten tarihe geçen oğul olmuştur. Devrimci bir tribün ve Fransız Devrimi olaylarının merkezi figürlerinden biri olarak ününü sürdürdü.
+Fransa, Mirabeau adında iki ünlü adam tanıdı: bir baba ve bir oğul; fakat tarihe asıl geçen oğuldu. Devrimci bir hatip ve Fransız Devrimi olaylarının merkezi figürlerinden biri olarak ününü korudu.
 
+![États-Généraux'da tartışma, Fransa, 1789](assets/en/037.webp)
 
-![image](assets/tr/037.webp)
+Yeteneği ve Fransız tarihindeki yeri sayesinde, François Quesnay okulunun bir ekonomisti ve direği olan, daha 1758'de okulun ilk üyesi olmuş babasını gölgede bıraktı.
 
+![Mirabeau portresi, Mirabeau, “L'ami des hommes”](assets/en/038.webp)
 
-Yeteneği ve Fransız tarihindeki yeri sayesinde, 1758'de François Quesnay okulunun ilk üyesi olan ekonomist babasını gölgede bıraktı.
+### L'Ami des Hommes: bir yayın sansasyonu
 
-
-![image](assets/tr/038.webp)
-
-
-Aslında Marquis de Mirabeau, Fizyokrasiyi benimsemesinden önce bile "İnsanlığın Dostu" adlı kitabı sayesinde büyük bir üne kavuşmuştu. Nüfus Üzerine İnceleme [FR: L'ami des hommes, ou, Traité de la population](https://archive.org/details/lamideshommesou00unkngoog). İlk baskısı 1756'da yapılmış olsa da, Quesnay ile tanışmasından bir yıl önce, 1757 civarında meşhur olmuştur.
-
+Marquis de Mirabeau, aslında Fizyokrasiyi benimsemesinden önce bile "The Friend of Mankind. Treatise on Population [FR: L'ami des hommes, ou, Traité de la population](https://archive.org/details/lamideshommesou00unkngoog) adlı kitap sayesinde çok büyük bir üne ulaşmıştı. İlk baskı 1756'da yayımlanmış olsa da, Quesnay ile tanışmasından bir yıl önce, 1757 civarında ünlendi.
 
 
 
+1757 ile 1760 arasında 20'den fazla baskı yapıldı; bu da onu muhtemelen tarihteki en başarılı ekonomi kitabı yapar. Bazı okurlar, keskin akıl yürütmesi nedeniyle kitabın Montesquieu tarafından yazıldığını bile düşündü. Kral Louis XVI'nın babası Dauphin, onu ezberlediğini bile iddia etti. Bir süre boyunca Versailles'da herkesin okuduğu kitap buydu.
 
-1757 ve 1760 yılları arasında 20'den fazla baskısı yapılan kitap, muhtemelen tarihteki en başarılı ekonomi kitabıdır. Hatta bazı okuyucular keskin muhakemesi nedeniyle kitabın Montesquieu tarafından yazıldığını düşünmüşlerdir. Kral 16. Louis'nin babası Dauphin bile kitabı ezberlediğini iddia etmiştir. Bir dönem Versailles'da herkesin okuduğu kitaptı.
+Bugün artık okunmayan bir kitaptır, fakat hâlâ birçok kişi ona atıf yapar. Edmond Roussel 19. yüzyılda bile şöyle demiştir:
 
+> L'Ami des Hommes herkesin hakkında konuştuğu ama neredeyse kimsenin bilmediği kitaplardan biridir. Her kuşakta cesur bir yurttaş onu okumalıdır; böylece diğer herkes okumak zorunda kalmaz.
 
-Bugün artık okunmayan bir kitap, ancak pek çok kişi hala ona atıfta bulunuyor. 19. yüzyılda bile, Edmond Roussel:
+Mirabeau, ekonomist olarak kariyerinin başında Richard Cantillon'dan ilham aldı. Cantillon'ın Essay on the Nature of Commerce in General adlı eserinin bir el yazmasına 15 yıl boyunca sahip olmuş ve onu sabırla analiz edip yorumlamıştı.
 
+![Richard Cantillon, “Essay on the nature of commerce”](assets/en/039.webp)
 
-> L'Ami des Hommes herkesin bahsettiği ama pek kimsenin bilmediği kitaplardan biri. Her nesilde cesur bir vatandaş onu okumalı; böylece herkes okumak zorunda kalmamalı.
-
-Mirabeau, ekonomist olarak kariyerinin başlangıcında Richard Cantillon'dan ilham almıştır. Cantillon'un Genel Olarak Ticaretin Doğası Üzerine Deneme adlı eserinin el yazmasına 15 yıl boyunca sahip olmuş ve sabırla bu eseri incelemiş ve yorumlamıştır.
-
-
-![image](assets/tr/039.webp)
-
-
-L'Ami des Hommes başlangıçta Cantillon'un Deneme'si üzerine basit bir yorum olarak tasarlanmıştı. Ancak Mirabeau biraz eklektik bir zihne sahip olduğundan, yani açıkçası biraz deli olduğundan, orijinal planından hızla saptı. Kitap basitçe bildiği tüm ekonomik sorunları tartışıyor ve zaman zaman Cantillon'dan uzaklaşıyor. Tuhaf planı ve her bölümdeki sapmalarıyla okuması zor bir kitaptır. Mirabeau'nun kendisi de bunun bir kaos olduğunu ve üslubunun apokaliptik olduğunu itiraf etmiştir.
+L'Ami des Hommes başlangıçta Cantillon'ın Essay'i üzerine basit bir yorum olarak tasarlanmıştı. Fakat Mirabeau'nun biraz eklektik, açık konuşmak gerekirse biraz da çılgın bir zihni olduğu için, özgün planından hızla uzaklaştı. Kitap, Cantillon'dan ara sıra uzaklaşarak bildiği tüm ekonomik soruları ele alır. Garip planı ve her bölümdeki sapmalarıyla okunması zor bir kitaptır. Mirabeau'nun kendisi bunun bir kaos olduğunu ve üslubunun apokaliptik olduğunu kabul etti.
 
 
 
+Bu kaosa rağmen bazı fikirler not edilmeye değer:
 
+- Mirabeau, servetin doğasına ilişkin merkantilist önyargıyla mücadele eder.
+- Tarımı över ve terk edilmesini eleştirir.
+- Halkın, özellikle de köylülerin durumundan yakınır.
+- Son olarak ticaret özgürlüğünü ve ulusların barış içindeki kardeşliğini savunur.
 
-Yaşanan kaosa rağmen bazı fikirler kayda değerdir:
+![Marquis de Mirabeau'nun ekonomik ve sosyal doktrinleri](assets/en/040.webp)
 
+Mirabeau'nun görüşlerini liberal ya da anti-liberal diye etiketlemek zordur. Çoğu zaman farkına bile varmadan bir görüşten diğerine gidip geldi. Yine de liberal fikirler yazılarında sık sık baskındı. En ünlü cümlelerinden biri şuydu:
 
+> **Ekonomi politiğin gerçek ve tek ilkesi** her şeyi serbest bırakmaktır.
 
-- Mirabeau, zenginliğin doğasına ilişkin merkantilist önyargılarla savaşır.
-- Tarımı övüyor ve terk edilmesini eleştiriyor.
-- Halkın, özellikle de köylülerin durumundan şikâyet eder.
-- Son olarak, ticaret özgürlüğünü ve ulusların barış içinde kardeşliğini savunur.
+### Fizyokrasiye dönüş
 
+En büyük başarısını geride bırakan Mirabeau ilgi görmeye başladı. Ekonomiyle henüz ilgilenmeye başlamış olan François Quesnay, onu ekonomik fikirleri tartışmak için Versailles'daki asma katına davet etti.
 
-![image](assets/tr/040.webp)
+![François Quesnay](assets/en/041.webp)
 
+Şiddetli biçimde tartıştılar ve sonunda tartışmalarda normalde asla olmayan bir şey oldu: Mirabeau açıkça yanıldığını kabul etti. Quesnay'in fikirleriyle anlaştı ve onları yaymaya hazır olduğunu söyledi.
 
-Mirabeau'nun görüşlerini liberal ya da anti-liberal olarak etiketlemek Hard'tir. Sık sık, bazen farkında olmadan, bir görüş ile diğeri arasında gidip gelmiştir. Yine de liberal fikirler yazılarına sıklıkla hakim olmuştur. En ünlü satırlarından biri şöyleydi:
+Birlikte, düzenli olarak getirdikleri yeni üyelerle güçlenecek olan Fizyokratik okulun çekirdeğini oluşturdular. Mirabeau'nun dönüşünden kısa süre sonra Quesnay, vergilendirme konusundaki fikirlerini savunması için onu görevlendirdi. Bu, Mirabeau'nun birkaç günlüğüne Vincennes hapishanesine gönderilmesine ve ardından Bignon'a sürgün edilmesine yol açan ["Vergilendirme Teorisi"](https://archive.org/details/thoriedelimpot00mira) ile sonuçlandı.
 
+![Pierre Samuel Dupont de Nemours, Mirabeau, “Theory of taxation”](assets/en/042.webp)
 
-> Politik ekonominin gerçek ve tek ilkesi, her şeyin serbest bırakılmasıdır.
-
-En büyük başarısını geride bırakan Mirabeau'ya kur yapılmaya başlandı. Ekonomiye yeni ilgi duyan François Quesnay, onu Versailles'daki entresolüne davet etti.
-
-
-![image](assets/tr/041.webp)
-
-
-Hararetli bir şekilde tartıştılar ve sonunda, normalde tartışmalarda asla gerçekleşmeyen bir şey oldu: Mirabeau hatalı olduğunu açıkça kabul etti. Quesnay'in fikirlerine katıldı ve bunları yaymaya hazır olduğunu söyledi.
-
-
-Birlikte Fizyokrat okulun çekirdeğini oluşturdular ve getirdikleri düzenli elemanlarla güçlendiler. Mirabeau'nun din değiştirmesinden kısa bir süre sonra Quesnay, vergilendirme konusundaki fikirlerini savunması için onu görevlendirdi. Bu, Mirabeau'nun birkaç günlüğüne Vincennes hapishanesine gönderildiği ve ardından Bignon'a sürgün edildiği ["Vergilendirme Teorisi"](https://archive.org/details/thoriedelimpot00mira) ile sonuçlandı.
-
-
-![image](assets/tr/042.webp)
-
-
-Mirabeau, Quesnay'in okuluna yeni üyeler kazandırılmasında da önemli bir rol oynadı. Genç Dupont de Nemours'u bile ikna etti.
+Mirabeau, Quesnay okuluna yeni üyeler kazandırmada da çok önemli bir rol oynadı. Genç Dupont de Nemours'u bile ikna etti.
 
 
 
+Fizyokratların her salı toplandığı yer de Mirabeau'nun eviydi. Turgot ve Adam Smith gibi kişiliklerin bu toplantılara bir ya da birkaç kez katılmış olması muhtemeldir.
 
-
-Fizyokratlar da her Salı Mirabeau'nun evinde toplanıyordu. Turgot ve Adam Smith gibi şahsiyetlerin bu toplantılara bir ya da birkaç kez katıldığı görülmektedir.
-
-
-Mirabeau hayatı boyunca yorulmak bilmeyen bir yazar olarak kaldı. Quesnay'in doktrinini savunan çok sayıda ekonomik eser kaleme aldı. Ancak hayatının sonlarına doğru etkisi azaldı. Yazı stili o kadar kötüleşti ki, öz kardeşi ona mektup yazarak artık düzyazılarını anlayamadığını söyledi. Tamamen liberal hale gelen fikirleri, Mably ve hatta Rousseau gibi düşünürlerin sosyalist veya proto-komünist tepkileriyle çatıştı. Okuyucu ve yayıncı bulmakta zorlandı ve 1789'da, Bastille'in basılmasının arifesinde büyük ölçüde fark edilmeden öldü.
-
+Mirabeau yaşamı boyunca yorulmak bilmeyen bir yazar olarak kaldı. Quesnay'in doktrinini savunan çok sayıda ekonomik eser kaleme aldı. Ancak yaşamının sonlarına doğru etkisi azaldı. Yazı üslubu, kendi kardeşinin ona artık düzyazısını anlayamadığını yazdığı noktaya kadar bozuldu. Tamamen liberal hale gelmiş fikirleri, Mably ve hatta Rousseau gibi düşünürlerin sosyalist ya da proto-komünist tepkisiyle çatıştı. Okur ve yayıncı bulmakta zorlandı ve Bastille'in basılmasının arifesinde, 1789'da büyük ölçüde fark edilmeden öldü.
 
 ## Quesnay
 
-
 <chapterId>7a35f20b-5ea0-544d-b290-bcd9c6f7f11a</chapterId>
 
+### Ders kitabı karikatürünün ötesinde
 
-François Quesnay en ünlü Fransız ekonomistlerden biridir.
+François Quesnay **en ünlü Fransız ekonomistlerden biridir**.
 
+![François Quesnay'in ekonomik tablosu, François Quesnay](assets/en/043.webp)
 
-![image](assets/tr/043.webp)
-
-
-Adı, ekonomi ve ekonomik düşünce tarihiyle ilgili her ders kitabında geçer. Ekonomiyi şematik olarak göstermek için "Tableau Économique "i yarattığı, Fizyokratik okulun lideri olduğu, sadece toprağın üretken olduğuna inanmakla hata yaptığı ve son olarak Adam Smith'in gelip durumu düzelttiği belirtilir. Ders kitapları François Quesnay'i aşağı yukarı bu şekilde özetleme eğilimindedir.
-
+Adı ekonomi ve ekonomik düşünce tarihi üzerine her ders kitabında geçer. Ekonomiyi şematik olarak temsil etmek için "Tableau Économique"i yarattığı, Fizyokratik okulun lideri olduğu, yalnızca toprağın üretken olduğuna inanmakla yanıldığı ve nihayet Adam Smith'in gelip durumu düzelttiği belirtilir. Aşağı yukarı ders kitaplarının François Quesnay'i özetleme biçimi budur.
 
 
 
+Onu buna indirgemek üzücüdür; çünkü Quesnay aynı zamanda ekonomik özgürlüğün savunusunu bilimsel ilkelere dayandırmaya çalışan ilk ekonomistti. Döneminin en çok dinlenen ve etkili ekonomistlerinden biriydi. Dahası, Fizyokrasiyi kurdu; yalnızca doğanın servet ürettiği yönündeki basit fikirden çok daha zengin bir doktrindi ve bu kavram çoğu zaman yanlış temsil edilir.
 
-Quesnay aynı zamanda ekonomik özgürlüğün savunusunu bilimsel ilkelere dayandırmaya çalışan ilk iktisatçı olduğu için onu bu noktaya indirgemek utanç vericidir. Zamanının en çok dinlenen ve en etkili iktisatçılarından biriydi. Dahası, zenginliği yalnızca doğanın ürettiği şeklindeki basit fikirden çok daha zengin bir doktrin olan Fizyokrasi'yi kurmuştur ki bu kavram sıklıkla yanlış tanıtılmaktadır.
+Önümüzdeki üç bölümde Fizyokrasiyi daha ayrıntılı ele alacağız. Önce François Quesnay'in kendisine daha yakından bakalım.
 
+### Cerrahtan kraliyet hekimine
 
-Fizyokrasiyi önümüzdeki üç bölümde daha ayrıntılı olarak tartışacağız. İlk olarak, François Quesnay'in kendisine daha yakından bakalım.
+Quesnay, 1694'te Méré'de, ona okumayı öğretemeyen bir köylü ailesinde doğdu. Yerel bir kişi tarafından eğitildi ve sonunda Cerrahi Koleji'nde, ardından Tıp Fakültesi'nde okumaya devam etti. 24 yaşında Mantes'te cerrah oldu.
 
+1730'da, 36 yaşındayken, hatalı teorilere ve önyargılara dayandığına inandığı yaygın kan alma uygulamasına karşı çıkmasıyla ün kazandı. Ayrıca yalnızca cerrahların ameliyat yapabileceğini ve yalnızca doktorların ilaç yazabileceğini dikte eden lonca sistemine meydan okumaya cesaret etti. Bu durum çoğu zaman yoksulları iki kez ödeme yapmaya ve iki kişi getirmeye zorluyordu; Quesnay bunu isyan ettirici buldu.
 
-1694 yılında Méré'de, Quesnay'e okumayı öğretemeyen köylü bir ailenin çocuğu olarak dünyaya geldi. Yerel bir adam tarafından eğitildi ve sonunda Cerrahi Koleji'nde ve ardından Tıp Fakültesi'nde okumaya devam etti. 24 yaşında Mantes'da cerrah oldu.
+1740'ta Cerrahi Akademisi'nin sekreteri oldu. 1748'de, 54 yaşındayken, Madame de Pompadour'un kişisel hekimi oldu ve Versailles'a taşındı.
 
+![François Quesnay](assets/en/044.webp)
 
-1730'da, 36 yaşındayken, hatalı teorilere ve önyargılara dayandığına inandığı yaygın kan alma uygulamasına karşı çıkarak ün kazandı. Ayrıca, sadece cerrahların ameliyat yapabileceğini ve sadece doktorların ilaç yazabileceğini dikte eden loncalar sistemine meydan okumaya cesaret etti. Bu durum çoğu zaman yoksulları iki kez para ödemek ve iki kişi getirmek zorunda bırakıyordu ki Quesnay bu durumu iğrenç buluyordu.
+Madame de Pompadour'a çok yakındı. Quesnay, gözden düşeceği haberi duyurulduğunda, onun olmadan Versailles'da doktor olarak kalmak istemeyeceğini bile söylemişti:
+"Madame de Pompadour'a refahında bağlıydım; gözden düşüşünde de bağlı olacağım".
 
+Ardından birkaç tıp kitabı yayımladı: Treatise on Suppuration (1749), Treatise on Gangrene (1749) ve Treatise on Continuous Fevers (1753); bunların hepsi yaşamı boyunca birkaç kez yeniden basıldı. 
 
-1740 yılında Cerrahi Akademisi'nin sekreteri oldu. 1748 yılında, 54 yaşındayken Madame de Pompadour'un özel doktoru oldu ve Versailles'a taşındı.
+60 yaşında, dönemin moda ekonomik tartışmalarıyla tanıştırıldıktan sonra ekonomi hakkında yazmaya başladı. 1755'te *Encyclopédie* için "Farmers" ve "Grain" makalelerini yazdı.
 
+![Encyclopedia, Dupont de Nemours,, “Theory of taxation”](assets/en/045.webp)
 
-![image](assets/tr/044.webp)
-
-
-Madame de Pompadour'a çok yakındı. Hatta Quesnay, gözdesinin gözden düştüğü açıklandığında, onsuz Versailles'da doktor olarak kalmak istemeyeceğini söylemişti:
-
-"Madam de Pompadour'a refah içindeyken bağlıydım; rezil olduğunda da öyle olacağım".
-
-
-Daha sonra birkaç tıp kitabı yayınladı: Treatise on Suppuration (1749), Treatise on Gangrene (1749) ve Treatise on Continuous Fevers (1753), bunların hepsi yaşamı boyunca birkaç kez yeniden basıldı.
-
-
-60 yaşında, o dönemde moda olan ekonomik tartışmalarla tanıştıktan sonra ekonomi hakkında yazmaya başladı. 1755 yılında *Encyclopédie* için "Çiftçiler" ve "Tahıl" makalelerini yazdı.
-
-
-![image](assets/tr/045.webp)
-
-
-Bunlar 1757 yılında yayınlandı. Aynı yıl ünlü Mirabeau ile tanıştı ve onu kendi ekonomik fikirlerine ikna etmeyi başardı - Fizyokrasi'nin çekirdeği doğdu. Quesnay daha sonra kraliyet matbaasında basılan Tableau Économique'i yarattı ve söylendiğine göre kralın huzurunda Château de Versailles'da basıldı. Bu noktadan sonra, Versailles'daki dairesinde düzenli olarak ekonomistleri ve filozofları ağırladı ve burada özgürce tartışmalar yaptılar. Quesnay, Mirabeau'nun 1759'da yayınlanan Vergilendirme Teorisi'ne de katkıda bulunmuştur.
+Bunlar 1757'de yayımlandı. Aynı yıl ünlü Mirabeau ile tanıştı ve onu ekonomik fikirlerine döndürmeyi başardı: Fizyokrasinin çekirdeği doğdu. Quesnay sonra Tableau Économique'i yarattı; söylendiğine göre kralın bizzat huzurunda, Château de Versailles'da kraliyet matbaalarında basıldı. O andan itibaren Versailles'daki dairesinde düzenli olarak ekonomistleri ve filozofları ağırladı; burada özgürce tartışmalara katıldılar. Quesnay ayrıca Mirabeau'nun 1759'da yayımlanan Vergilendirme Teorisi'ne katkıda bulundu.
 
 
 
+Sansür kısa süre sonra devreye girdi. Mirabeau hapsedildi ve Quesnay azarlandı. Bundan sonra Quesnay açıkça yayımlayamayacağını ve fikirlerini yaymak için öğrencilere ihtiyaç duyacağını anladı.
 
+### Öğrenciler ve fikirlerin yayılması
 
-Sansür kısa sürede etkisini gösterdi. Mirabeau hapsedildi ve Quesnay azarlandı. Bundan sonra Quesnay açıkça yayın yapamayacağını ve fikirlerini yaymak için müritlere ihtiyaç duyacağını fark etti.
+Onları hızla buldu: Baudeau, Dupont de Nemours, Le Trosne, Mercier de la Rivière ve diğerleri. Quesnay'in düşüncesini yayacak ve popülerleştirecek kişiler bunlardı. Ancak öğrencilere ihtiyaç duyan Quesnay, grubunun mezhepçi yönünden tamamen memnun değildi. Mirabeau'ya yazdığı mektuplar buna tanıklık eder; ona şöyle der:
 
+> Kendiniz düşünün. Zavallı taslaklarımın sizi tembelleştirdiğini fark ettim. Şimdi düşünme sırası sizde. Siz de benim kadar biliyorsunuz.
 
-Onları çabucak buldu: Baudeau, Dupont de Nemours, Le Trosne, Mercier de la Rivière ve diğerleri. Bunlar Quesnay'in düşüncesini yayacak ve popülerleştirecek adamlardı. Bununla birlikte, müritlere ihtiyaç duyan Quesnay, grubunun mezhepçi yönünden tamamen memnun değildi. Mirabeau'ya yazdığı mektuplarda ona şöyle dediğine tanık olun:
+Yine de öğrencileri derin biçimde bağlıydı ve Quesnay'in popülerliğine büyük katkıda bulundu. Ölümünde Mirabeau onun için bir övgü konuşması yaptı ve "Babamızı kaybettik, çünkü ona her şeyi borçluyduk" dedi. Gerçekte ise Quesnay onlara her şeyi borçluydu; çünkü onlar olmasaydı Versailles'da takılı kalacak, baştan çıkaracak ya da kaygılandıracak çok şeyi olan düşüncesi pek az kişinin ilgisini çekecekti.
 
+İşbirlikçilerinin çalışmaları sayesinde fikirleri bir platform buldu: önce *Journal of Agriculture* ve *Ephémérides du Citoyen* gibi gazeteler aracılığıyla.
 
-> "Kendiniz düşünün. Benim sefil taslaklarımın sizi tembelleştirdiğini fark ettim. Şimdi düşünme sırası sizde. Siz de benim kadar biliyorsunuz."
+![“Physiocracy”, Quesnay'in makalelerinden derleme, 1768, “Ephémérides du Citoyen”, Fizyokratların resmî dergisi](assets/en/046.webp)
 
-Yine de öğrencileri ona derinden bağlıydı ve Quesnay'in popülaritesine büyük katkıda bulundular. Ölümü üzerine Mirabeau, "Babamızı kaybettik, çünkü her şeyimizi ona borçluyduk" diyerek methiyesini sundu. Gerçekte, her şeyini onlara borçlu olan Quesnay'di, çünkü onlar olmasaydı, düşüncelerinin baştan çıkaracak ya da endişelendirecek çok şey olmasına rağmen çok az kişiyi ilgilendirdiği Versailles'da sıkışıp kalacaktı.
-
-
-İşbirlikçilerinin çalışmaları sayesinde fikirleri bir platform buldu: ilk olarak *Journal of Agriculture* ve *Ephémérides du Citoyen* gibi gazeteler aracılığıyla.
-
-
-![image](assets/tr/046.webp)
-
-
-Daha sonra, sadece öğrencilerinin değil, Dupont de Nemours tarafından 1768 yılında yayınlanan *Fizyokrasi* başlıklı önemli bir antolojinin de yer aldığı kitaplar aracılığıyla.
+Sonra kitaplar aracılığıyla; yalnızca öğrencilerinin kitapları değil, Dupont de Nemours tarafından 1768'de yayımlanan ve *Physiocracy* başlığını taşıyan önemli bir antoloji de buna dahildi.
 
 
 
-
-
-Bu kitap Quesnay'in ana katkılarını bir araya getirmiştir. Fizyokratların liderinin ekonomik idealini ortaya koyuyordu: Yasanın herkese mülk edinme hakkı ve ticaret yapma özgürlüğü sağladığı bir tarımsal ekonomi modeli.
+Bu kitap Quesnay'in başlıca katkılarını bir araya getirdi. Fizyokratların liderinin ekonomik idealini ortaya koydu: yasanın herkese mülkiyet hakkını ve ticaret özgürlüğünü güvence altına aldığı bir tarım ekonomisi modeli.
 
 
 # Fizyokratik Okul
 
-
 <partId>27af82c1-ad82-5c3b-8ce9-c674b67bbf7c</partId>
-
 
 ## Fizyokratların Tarihi
 
-
 <chapterId>4236ff8b-b53a-59e7-92c0-f96f9afa1c00</chapterId>
 
+### Boisguilbert'den Quesnay'e
 
-Fizyokrasi Fransa'da ve hatta tüm Avrupa'da ancak on yıl boyunca moda oldu. Uzun bir gelişme döneminden sonra, 1760'ların ortalarında önem kazandı. Turgot 1776'da iktidara geldiğinde, hareket popülaritesini çoktan kaybetmişti ve bakan Quesnay'in okuluna verdiği desteği çoğunlukla gizli tuttu.
+**Fizyokrasi Fransa'da**, hatta Avrupa çapında, ancak yaklaşık on yıl boyunca moda oldu. Uzun bir gelişme döneminden sonra 1760'ların ortasında öne çıktı. Turgot 1776'da iktidara geldiğinde hareket popülerliğini çoktan yitirmişti ve bakan, Quesnay okuluna desteğini çoğunlukla gizli tuttu.
 
+Kökenleri 1750'lerde ekonomik fikirlerin evriminde yatar. Birkaç yazar, Boisguilbert ile daha sonra Fizyokrasi olarak bilinecek şey arasındaki boşluğu kapatmaya yardımcı oldu. Daha önce tartışıldığı gibi, Vincent de Gournay ve ekonomistler çevresi, Fransız okurları yabancı ekonomik düşünceyle tanıştıran ve onların ekonomiye duyduğu tutkuyu ateşlemeye yardım eden birçok yayının arkasındaydı. Fizyokrasinin temelleri, Boisguilbert'in "Détail de la France"ı ve Cantillon'ın ["Essay on the Nature of Trade in General"](https://archive.org/details/essaisurlanature0000cant)'ı gibi kitaplarda zaten mevcuttu.
 
-Kökenleri 1750'lerde ekonomik fikirlerin evrimine dayanmaktadır. Birkaç yazar Boisguilbert ile daha sonra Fizyokrasi olarak bilinecek olan düşünce arasında köprü kurulmasına yardımcı olmuştur. Daha önce de belirtildiği gibi, Vincent de Gournay ve çevresindeki iktisatçılar, Fransız okuyucuları yabancı iktisadi düşüncelerle tanıştıran ve onların iktisat tutkusunu ateşlemeye yardımcı olan pek çok yayının arkasındaydı. Fizyokrasinin temelleri Boisguilbert'in "Détail de la France" ve Cantillon'un ["Essay on the Nature of Trade in General"](https://archive.org/details/essaisurlanature0000cant) gibi kitaplarında zaten mevcuttu.
-
-
-![image](assets/tr/047.webp)
-
+![Boisguilbert, “Detail of France”, Cantillon, “Essay on the nature of commerce”](assets/en/047.webp)
 
 
 
+Laissez-faire kavramının Boisguilbert'den beri, özellikle Vincent de Gournay ve Marquis d'Argenson olmak üzere, birkaç savunucusu vardı.
 
-Laissez-faire kavramının Boisguilbert'ten bu yana başta Vincent de Gournay ve Marquis d'Argenson olmak üzere birçok savunucusu olmuştur.
+Geriye kalan şey, bu fikirler bütününü tutarlı ve eksiksiz bir doktrine dönüştürmekti; bunu ilk deneyen Marquis de Mirabeau oldu. Cantillon'ın Essay'inden ilham alarak ekonomik meseleler üzerine "L'Ami des Hommes" başlıklı kapsamlı bir inceleme yazmaya başladı; bu eser çok başarılı oldu.
 
+Böylece 1756'da Fizyokrasinin hikâyesi başlayabilirdi. O sırada cerrahlıktan Madame de Pompadour'un kişisel hekimliğine geçmiş olan François Quesnay, ekonomik fikirleri tartışmak için Mirabeau'yu Versailles'a davet etti.
 
-Geriye bu fikirler bütününü tutarlı ve eksiksiz bir doktrine dönüştürmek kalıyordu ve bunu ilk deneyen de Marquis de Mirabeau oldu. Cantillon'un Deneme'sinden esinlenerek, ekonomik konularda çok başarılı olan "L'Ami des Hommes" başlıklı kapsamlı bir inceleme yazmaya başladı.
+![Quesnay, Quesnay'in ekonomik tablosu, Mirabeau, “Theory of Taxation”](assets/en/048.webp)
 
-
-Böylece, 1756'da Fizyokrasi'nin hikayesi başlayabilirdi. O zamanlar Madame de Pompadour'un özel doktoru olan cerrah François Quesnay, Mirabeau'yu ekonomik fikirleri tartışmak üzere Versailles'a davet etti.
-
-
-![image](assets/tr/048.webp)
-
-
-Konuşmalarının sonunda Mirabeau, Quesnay'in fikirlerini kabul etti. O andan itibaren yazmaya başladılar: Quesnay, ekonomideki servet akışını göstermek için *Tableau économique* (1758)'i yarattı ve birlikte Vergilendirme Teorisi (1759)'ni yayınladılar.
+Konuşmalarının sonunda Mirabeau, Quesnay'in fikirleriyle aynı fikirde olduğunu kabul etti. O andan itibaren yazdılar: Quesnay, ekonomideki servet akışını göstermek için *Tableau économique*'i (1758) yarattı; birlikte de Vergilendirme Teorisi'ni (1759) yayımladılar.
 
 
 
 
 
 
+Çabaları sıcak karşılanmadı. Sarayda hâkim tepki ilgisizlikti. Kral, Quesnay'in teoriye eğilimini kabul etti ve ona sevgiyle "düşünürüm" dedi. Fakat bu iltifat dışında çalışmaları hiçbir sonuç elde etmedi. Aslında Vergilendirme Teorileri, eleştirdiği vergi yöneticilerini öyle gücendirdi ki Mirabeau'nun hapsedilmesini talep edip bunu sağladılar. Madame de Pompadour sonunda onu serbest bıraktırdı, fakat birkaç hafta boyunca Bignon'daki mülkünde sürgünde yaşamaya devam etti.
 
 
+![Markiz de Pompadour](assets/en/049.webp)
 
-Çabaları sıcak karşılanmadı. Sarayda hakim olan tepki kayıtsızlıktı. Kral, Quesnay'in teoriye olan eğilimini kabul etti ve ona sevgiyle "düşünürüm" dedi. Ancak bu iltifat dışında, çalışmaları herhangi bir sonuç vermedi. Aslında, Vergilendirme Teorisi eleştirdiği vergi idarecilerini o kadar rahatsız etti ki, Mirabeau'nun hapsedilmesini talep ettiler ve sağladılar. Madame de Pompadour sonunda onu serbest bıraktırdı, ancak birkaç hafta boyunca Bignon'daki malikanesinde sürgünde yaşamaya devam etti.
-
-
-
-![image](assets/tr/049.webp)
+1760'ların ilk yarısı böylece görece sessizlik içinde geçti. Versailles'daki konumu nedeniyle Quesnay yazmayı bırakmak ya da en azından kendi adıyla hiçbir şey yayımlamamak zorunda kaldı. Bir kez mahkûm edilmiş olan Mirabeau uyarılmıştı ve kralın gözdesinin onu sonsuza kadar koruyamayacağının gayet farkındaydı.
 
 
-Böylece 1760'ların ilk yarısı göreceli bir sessizlik içinde geçti. Versailles'daki konumu nedeniyle Quesnay yazmayı bırakmak ya da en azından kendi adıyla hiçbir şey yayınlamamak zorunda kaldı. Zaten bir kez mahkum edilmiş olan Mirabeau uyarılmıştı ve kralın gözdesinin onu sonsuza kadar koruyamayacağının farkındaydı.
+### Fizyokrasinin altın on yılı
 
+Bu kısa sessizlikten sonra iki ekonomist öğrenci toplamaya başladı: fikirlerini popülerleştirmenin tek yolu buydu. 1765'e gelindiğinde başarıları çarpıcıydı. Dupont de Nemours, Abeille, Mercier de la Rivière, Le Trosne ve Baudeau hızla saflarına katıldı. Bir okul oluşturdular: kendi dergileri *Les Éphémérides du Citoyen* vardı ve her salı Mirabeau'nun evinde bile toplanıyorlardı.
 
+![Fizyokratların resmî dergisi Ephémérides du Citoyen](assets/en/050.webp)
 
-Bu kısa sessizlikten sonra iki iktisatçı öğrenci toplamaya başladı: fikirlerini yaygınlaştırmanın tek yolu buydu. 1765 yılına gelindiğinde başarıları dikkat çekiciydi. Dupont de Nemours, Abeille, Mercier de la Rivière, Le Trosne ve Baudeau hızla onların saflarına katıldı. Bir okul oluşturdular: *Les Éphémérides du Citoyen* adında kendi dergileri vardı ve hatta her Salı Mirabeau'nun evinde toplanıyorlardı.
+1765 ile 1775 arasında birleşik Fizyokratlar grubu şöhretinin doruğundaydı. Edebiyat ve felsefe dünyasının gözü yalnızca onlardaydı; bu da fikirlerinin geniş ve hızlı biçimde yayılmasını sağladı. İnsanlar onlara "ekonomistler" ya da daha alaycı biçimde "ekonomistler mezhebi" diyordu. Ton ne olursa olsun, şöhretleri mutlaktı. 1774'te Metz'e yaptığı bir yolculuktan sonra M. de Vaublanc, anılarında şaşkınlığını yazdı: etrafındaki herkes ekonomiden söz ediyor ve Quesnay'in öğrencileri gibi akıl yürütüyordu. "Modaydı" diye kaydetti. "Herkes ekonomistti".
 
+### Gerileme ve kalıcı etki
 
-![image](assets/tr/050.webp)
+Ancak 1770'e gelindiğinde popülerlikleri azalmaya başladı. Grup ilk ayrılıklarını yaşadı ve eleştiriye dayanma yetenekleri zayıfladı. Eleştirmenler de çoktu: Condillac, Mably, Voltaire, Galiani, Linguet, Graslin ve hatta İskoçya'daki Adam Smith görüşlerine meydan okudu.
 
+![Aydınlanma ekonomistleri](assets/en/051.webp)
 
-1765 ve 1775 yılları arasında, birleşik Fizyokratlar grubu şöhretlerinin zirvesindeydi. Edebiyat ve felsefe dünyasının gözü sadece onların üzerindeydi ve fikirlerinin geniş çapta ve hızla yayılmasına izin verdiler. İnsanlar onlara "ekonomistler" ya da daha alaycı bir şekilde "ekonomistler mezhebi" diyordu. Hangi tonda olursa olsun, ünleri mutlaktı. M. de Vaublanc 1774'te Metz'e yaptığı bir geziden sonra anılarında şaşkınlığını anlatır: Etrafındaki herkes Quesnay'in müritleri gibi ekonomi konuşuyor ve akıl yürütüyordu. "Bu modaydı" diye not düşmüştü. "Herkes bir ekonomistti".
+Gazeteleri artık düzenli çıkmıyordu. Bu, hareketin en etkin döneminin sonunu işaret etti.
 
-
-Ancak 1770 yılına gelindiğinde popülerlikleri azalmaya başladı. Grup ilk firelerini yaşadı ve eleştirilere dayanma kabiliyetleri zayıfladı. Eleştirenler de çoktu: Condillac, Mably, Voltaire, Galiani, Linguet, Graslin ve hatta İskoçya'daki Adam Smith bile onların görüşlerine karşı çıktı.
-
-
-![image](assets/tr/051.webp)
-
-
-Gazeteleri artık düzenli olarak çıkmıyordu. Bu, hareketin en aktif döneminin sonu oldu.
-
-
-Fizyokrasi Devrim'e kadar etkisini sürdürecektir. İlk olarak Fransa'da, bir öğrenciden çok bir yol arkadaşı olan Turgot ve daha sonra hayatını ve çalışmalarını inceleyeceğimiz temsilcisi Dupont de Nemours aracılığıyla. Ama aynı zamanda fizyokratik doktrinin coşkuyla karşılandığı tüm Avrupa'da. Almanya'da Baden Margrave'i ve İtalya'da Toskana Leopold'u aracılığıyla fizyokratik teoriler özel mülkiyet ve özgürlük lehine ekonomik reformlara bile ilham verdi.
-
+Fizyokrasi Devrim'e kadar etkisini sürdürmeye devam edecekti. Fransa'da önce bir öğrenciden çok yol arkadaşı olan Turgot aracılığıyla, ayrıca yaşamını ve eserlerini daha sonra inceleyeceğimiz temsilcisi Dupont de Nemours aracılığıyla etkili oldu. Ama fizyokratik doktrinin coşkuyla karşılandığı Avrupa genelinde de etkisini gösterdi. Almanya'da Baden Markgrafı, İtalya'da ise Toscana Leopoldo aracılığıyla fizyokratik teoriler özel mülkiyet ve özgürlük lehine ekonomik reformlara bile ilham verdi.
 
 
 ## Fizyokratların doktrininin temelleri
 
-
 <chapterId>4dbe5436-0578-57c2-b054-03ed00aa091a</chapterId>
-
-"Doğaya göre yönetim" anlamına gelen Fizyokrasi terimi Dupont de Nemours tarafından icat edilmiş ve Quesnay'in 1768'de yayınlanan makalelerinin bir derlemesi olan *Fizyokrasi* için başlık olarak kullanılmıştır.
-
+Fizyokrasi terimi, "doğanın yönetimi" anlamına gelir; Dupont de Nemours tarafından türetilmiş ve Quesnay'in 1768'de yayımlanan makaleler derlemesi *Physiocracy*'nin başlığı olarak kullanılmıştır.
 
 
-![image](assets/tr/052.webp)
+![Physiocracy, Quesnay'in makalelerinden derleme, 1768](assets/en/052.webp)
+
+Bu karanlık bir ifadedir. Quesnay'in hiçbir öğrencisi bize gerçek anlamını vermemiştir. Bununla birlikte düşünce sistemleri karanlık olmaktan uzaktı. Aslında burada özetleyeceğimiz birkaç çok açık ilke etrafında inşa edilmişti.
 
 
-Bu anlaşılması güç bir ifadedir. Quesnay'in hiçbir öğrencisi bize bunun gerçek anlamını vermemiştir. Bununla birlikte, düşünce sistemleri anlaşılmaz olmaktan çok uzaktı. Aslında, burada ana hatlarıyla açıklayacağımız birkaç çok net ilke etrafında inşa edilmiştir.
+### Birinci ilke: yalnızca tarım üretkendir
 
 
+Bu ilk fikir tarihçilerin dikkatini çeken fikirdir. Bugün ders kitaplarında ya da ekonomi derslerinde Fizyokratlar böyle özetlenir. Safça yalnızca tarımın üretken olduğuna inandıkları söylenir. Bu temelde doktrinleri ilgisiz diye bir kenara atılır ve analiz hızla Adam Smith'e geçer.
 
-### Birinci ilke: sadece tarım üretkendir
-
-
-
-Tarihçilerin dikkatini çeken de bu ilk fikir olmuştur. Bugün ders kitaplarında ya da ekonomi derslerinde Fizyokratlar bu şekilde özetlenmektedir. Sadece tarımın üretken olduğuna safça inandıkları söylenir. Bu temelde, doktrinleri ilgisiz olarak reddedilir ve analiz hızla Adam Smith'e geçer.
+Ancak Fizyokratları tarıma orantısız önem verdikleri için eleştirmek adil değildir; çünkü 18. yüzyıl ortasında tarım nüfusun %90'ını istihdam ediyor ve Fransız ekonomisinin temelini oluşturuyordu.
 
 
-Ancak Fizyokratları tarıma orantısız önem vermekle eleştirmek haksızlık olur zira 18. yüzyılın ortalarında tarım, nüfusun %90'ını istihdam ediyor ve Fransız ekonomisinin temelini oluşturuyordu.
+![Jean-François Millet, “Köylüler”](assets/en/053.webp)
 
+Fizyokratların fikri aslında inceliklidir. Onlara göre üretim ile kazanç arasında fark vardır. Sanayici ve tüccar kâr elde edebilir, fakat yalnızca çiftçi gerçekten üretir; çünkü üretim, önceden var olan maddeye fayda eklemekten ziyade yararlı madde yaratılmasıdır.
 
+Sanayi ve zanaatları neden üretken olmayan saydıklarını da anlamaya çalışmalıyız. O dönemde bu meslekler, yeniliği, yatırımı ve ilerlemeyi yasaklayan lonca sistemi içinde kilitlenmişti.
 
-![image](assets/tr/053.webp)
+### İkinci ilke: demokrasi yerine yasal despotizm
 
+Bugün birine hakaret etmek için onun demokrat olmadığını söyleriz. Tarihçiler Fizyokratların tarımsal üretkenlik konusundaki katı görüşünü affederken, demokrasiye karşı çıkışlarını affetmezler; özellikle de Aydınlanma fikirlerinin doruğunda yaşadıkları için. 18. yüzyıl ortasından Devrim'in hemen öncesine kadar Fizyokratlar ilerlemenin düşmanları olarak görüldü.
 
-Fizyokratların fikri aslında inceliklidir. Onlara göre üretim ile kazanç arasında bir fark vardır. Sanayici ve tüccar kar elde edebilir, ancak yalnızca çiftçi gerçekten üretir, çünkü üretim önceden var olan malzemeye fayda eklemekten ziyade faydalı malzemenin yaratılmasıdır.
-
-
-Ayrıca sanayi ve zanaatları neden verimsiz bulup reddettiklerini de anlamaya çalışmalıyız. O dönemde bu zanaatlar, yenilik, yatırım ve ilerlemeyi yasaklayan lonca sistemi içinde kilitliydi.
-
-
-### İkinci ilke: Demokrasiden ziyade yasal despotizm
-
-
-Bugün birisini aşağılamak için onun demokrat olmadığını söylüyoruz. Tarihçiler Fizyokratların tarımsal verimlilik konusundaki katı görüşlerini affetseler de, özellikle Aydınlanma fikirlerinin zirvede olduğu dönemde yaşadıkları için demokrasiye karşı olmalarını affetmezler. Fizyokratlar 18. yüzyılın ortalarından Devrim'in hemen öncesine kadar ilerlemenin düşmanları olarak görülmüşlerdir.
-
-
-![image](assets/tr/054.webp)
-
+![Tocqueville, “Eski Rejim ve Devrim”](assets/en/054.webp)
 
 Tocqueville bu fikirde ısrar etti:
 
+> Fizyokratlar gerçekten de malların serbest ticaretine, ticaret ve sanayide laissez-faire ya da laissez-passer'e çok elverişli bakıyorlardı; fakat asıl siyasi özgürlüklere gelince, bunları dikkate almıyorlardı ve böyle fikirler akıllarından geçtiğinde bile başlangıçta reddediyorlardı.
 
-> Fizyokratlar gerçekten de serbest mal ticaretine, ticarette ve sanayide laissez-faire ya da laissez-passer'a çok sıcak bakıyorlardı; ancak siyasi özgürlüklere gelince, bunları düşünmediler ve bu tür fikirler akıllarından geçtiğinde bile, başlangıçta reddettiler.
+Ekonomide liberal olan Fizyokratlar, siyasi konularda liberal değildi. Quesnay *ilkeler*inde şöyle yazar: "Egemen otorite, toplumun tüm bireylerinden ve özel çıkarların tüm adaletsiz girişimlerinden tek ve üstün olsun." Ve aynı ilkenin devamında: "Hükümette denge ve denetim sistemi ölümcül bir kavramdır; yalnızca büyükler arasında ihtilafı ve küçüklerin ezilmesini gösterir".
 
-Ekonomide liberal olan Fizyokratlar bu nedenle siyasi konularda liberal değillerdi. Quesnay *maxims* adlı eserinde şöyle yazar: "Egemen otorite, toplumun tüm bireylerine ve özel çıkarların tüm haksız girişimlerine karşı tek ve üstün olsun." Ve daha sonra, aynı özdeyişte: "Hükümette denge ve denetleme sistemi ölümcül bir kavramdır ve yalnızca büyükler arasında uyumsuzluğu ve küçüklerin ezilmesini ortaya çıkarır".
+![Louis XVI](assets/en/055.webp)
 
-
-![image](assets/tr/055.webp)
-
-
-Tocqueville, Fizyokratların demokrasiyi, biçimlerini görür görmez reddettiklerini yerinde bir şekilde belirtmiştir. Fransız ekonomi politiğinin değişmezi haline gelecek olan demokrasiye şüpheyle yaklaşıyorlardı çünkü demokrasi mükemmel bir sistem olmaktan uzaktır: azınlıkların çoğunluk tarafından ezilmesine potansiyel olarak izin verir ve gasp, tiranlık ve yağma için bir araç haline gelebilir.
-
+Tocqueville, Fizyokratların demokrasiyi biçimlerini görür görmez reddettiğini yerinde biçimde kaydetti. Demokrasiden kuşkuluydular; bu, Fransız ekonomi politiğinde kalıcı hale gelecekti. Çünkü demokrasi kusursuz bir sistem olmaktan uzaktır: çoğunluğun azınlıklara baskı uygulamasına potansiyel olarak izin verir ve gasbın, tiranlığın ve yağmanın aracı haline gelebilir.
 
 ### Üçüncü ilke: özel mülkiyete mutlak saygı
 
+Fizyokratlar insanların emeklerinin sonuçlarına sahip olması ve bunları koruması gerektiğine inanıyordu. Onlara göre mülkiyet hakları bir toplumun en temel dayanağıydı. Devletin tek ana görevi olduğunu düşündüler: insanların mülkiyetini korumak. Dahası, ekonomik bakımdan Fizyokratlar mülkiyetin dokunulmazlığının çalışmayı ve çabayı teşvik ettiğini ve ekonomik ilerlemenin bir koşulu olduğunu ileri sürer.
 
-Fizyokratlar, insanların emeklerinin sonuçlarına sahip olmaları ve bunları ellerinde tutmaları gerektiğine inanıyordu. Onlara göre mülkiyet hakları bir toplumun temelini oluşturuyordu. Devletin tek bir ana görevi olduğunu düşünüyorlardı: insanların mülklerini korumak. Ayrıca, ekonomik açıdan bakıldığında, Fizyokratlar mülkiyetin dokunulmazlığının çalışmayı ve çabayı teşvik ettiğini ve ekonomik ilerlemenin bir koşulu olduğunu ileri sürmektedir.
+![Millet, “Angelus”](assets/en/056.webp)
 
+Quesnay bunu basitçe ifade etti:
 
-![image](assets/tr/056.webp)
-
-
-Quesnay basitçe ifade etti:
-
-
-> Toprağın ve taşınır servetin Ownership'sı meşru sahipleri olanlara güvence altına alınsın, çünkü mülkiyetin güvenliği ekonomik düzenin ve toplumun güvenliğinin temelidir; emeği ve servetin toprağın iyileştirilmesi ve işlenmesinin yanı sıra ticari ve sınai girişimlerde kullanılmasını teşvik eden şey kalıcı mülkiyetin kesinliğidir.
+> Toprağın ve taşınır servetin mülkiyeti, meşru sahiplerine güvence altına alınsın; çünkü mülkiyet güvenliği ekonomik düzenin ve toplum güvenliğinin temel dayanağıdır; toprağın iyileştirilmesi ve işlenmesinde, ayrıca ticari ve sınai girişimlerde emeği ve servetin kullanımını teşvik eden şey kalıcı sahiplik kesinliğidir.
 
 
-### Dördüncü ilke: mutlak ticaret özgürlüğü
+### Dördüncü ilke: ticaretin mutlak özgürlüğü
+
+Quesnay daha önce aktarılan *İlkeler*inde şöyle der:
+
+> Ticarette tam özgürlük olsun; çünkü ulus ve Devlet için hem iç hem dış ticaretin en güvenilir, kesin ve yararlı düzenlemesi, rekabetin tam özgürlüğünde yatar.
 
 
-Quesnay, daha önce atıfta bulunulan *Maksimalar* adlı eserinde şöyle demektedir:
+![18. yüzyılda Bordeaux limanı](assets/en/057.webp)
 
+Fizyokratlar, özellikle tahıl ticaretinde hükümet müdahalesinin yol açtığı zararı görmüşlerdi. Kabul etmek gerekir, derler, otorite ticareti bireyler kadar iyi yönetmeyi asla başaramayacaktır; çünkü her ihtiyaca yanıt vermesi ve talep ya da arzdaki her değişime tepki vermesi gerekir. Bütün bunlar, tasavvur edilebilecek en bilge hükümetin bile kapasitesinin çok ötesindedir. Bu nedenle şeyleri oluruna bırakmak ve akmalarına izin vermek gerekir.
 
-> Tam bir ticaret özgürlüğü olsun, çünkü hem iç hem de dış ticaretin ulus ve Devlet için en güvenilir, kesin ve faydalı şekilde düzenlenmesi tam bir rekabet özgürlüğünde yatmaktadır.
+Doğası gereği yararlı olan ticaret tamamen ve eksiksiz biçimde özgür olmalıdır. Üyelerinden biri olan Le Trosne, [*Tahıl Ticaretinin Özgürlüğü: Her Zaman Yararlı, Asla Zararlı Değil*](https://www.institutcoppet.org/liberte-commerce-grains-toujours-utile-jamais-nuisible/) başlıklı bir broşür bile yazdı.
 
+### Beşinci ilke: Tüm insanlar kardeştir
 
-![image](assets/tr/057.webp)
-
-
-Fizyokratlar, özellikle tahıl ticaretinde hükümet müdahalesinin yol açtığı zararı görmüşlerdi. Onlara göre, otoritenin ticareti asla bireyler kadar iyi yönetemeyeceğini kabul etmek gerekir, çünkü her ihtiyaca cevap vermesi ve talepteki ya da Supply'deki her değişikliğe tepki göstermesi gerekir. Tüm bunlar, akla gelebilecek en akıllı hükümetin bile kapasitesinin çok ötesindedir. Bu nedenle, işleri oluruna bırakmak ve akışına bırakmak gerekir.
-
-
-Doğası gereği faydalı olan ticaret tamamen ve kusursuz bir şekilde serbest olmalıdır. Hatta üyelerinden biri olan Le Trosne, [*Tahıl Ticaretinin Özgürlüğü: Her Zaman Yararlı, Asla Zararlı Değil*] başlıklı bir broşür bile yazmıştır (https://www.institutcoppet.org/liberte-commerce-grains-toujours-utile-jamais-nuisible/).
-
-
-### Beşinci ilke: Bütün insanlar kardeştir
-
-
-Köleliğin şiddetli karşıtları olan Fizyokratlar aynı zamanda büyük barışseverlerdi. mirabeau basitçe "Bizim dış politikamızın adı barıştır" demişti. Dupont de Nemours, 1790'da Kurucu Meclis'te, saldırgan savaşları yasaklayan bir yasa tasarısı önerdiğinde bu pasifist duruşunu sürdürdü.
-
+Köleliğin sert muhalifleri olan Fizyokratlar aynı zamanda büyük pasifistlerdi. "Dış politikamızın adı barıştır" dedi Mirabeau basitçe. 1790'da Kurucu Meclis'te Dupont de Nemours saldırı savaşlarını yasaklayan bir yasa tasarısı önerdiğinde bu pasifist tutumu sürdürdü.
 
 
 ## Fizyokratların başarıları ve etkileri
 
-
 <chapterId>5b911105-796a-5e2e-a501-c7a364fc758e</chapterId>
 
+### Ekonomiyi Fransa'da popülerleştirmek
 
-Fizyokratlara ayrılan üç bölümün ilkinde gördüğümüz gibi, Quesnay'in takipçileri yaklaşık on yıl boyunca Fransa'da çok popülerdi. Fikirlerine yönelik bu coşku hem kendi dönemlerinde şekillenmiş hem de yüzyılın sonuna kadar devam etmiştir. Burada, onların bazı başarılarına ve iktisadi düşünce alanında halefleri üzerinde yarattıkları etkiye bakacağız.
+Fizyokratlara ayrılmış üç bölümün ilkinde gördüğümüz gibi, Quesnay'in takipçileri yaklaşık on yıl boyunca Fransa'da gözdeydi. Fikirlerine yönelik bu coşku hem kendi dönemlerinde biçim aldı hem de yüzyılın sonuna kadar sürdü. Burada onların bazı başarılarına ve ekonomik düşünce alanında halefleri üzerinde kurdukları etkiye bakacağız.
 
+Gournay grubunun ardından en büyük başarıları ekonomik fikirleri popülerleştirmekti. Voltaire'in ünlü sözü iyi bilinir: 1750 civarında şiir ve romanlara doymuş ulus tahıl hakkında akıl yürütmeye başladı. Fizyokratlar bu harekete katıldı; tahıl ticaretinin özgürlüğü hakkında kelimenin tam anlamıyla yüzlerce makale, broşür ve kitap yayımladılar. Fizyokratların ekonomik tartışmalara verdiği güçlü ivme, 1760 ile 1775 arasında Fransa'da yayımlanan etkileyici sayıdaki ekonomik eser ve broşürde de açıkça görülür. Fransa'da ekonomik fikirlerin yayılışına ilişkin ek kanıt olarak, önceki bir derste aktarılan M. de Vaublanc'ın 1774'te Metz'de insanların ekonomiden başka hiçbir şey konuşmadığını söyleyen sözünü hatırlarız. "Modaydı" dedi. "Herkes ekonomistti".
 
-Gournay grubunun ardından en büyük başarıları ekonomik fikirleri popülerleştirmek oldu. Voltaire'in ünlü sözü çok iyi bilinir: 1750 civarında, şiir ve romana doyan ulus, tahıl hakkında akıl yürütmeye başladı. Fizyokratlar da bu hareketin içinde yer aldılar ve tahıl ticaretinin serbestliği hakkında yüzlerce makale, broşür ve kitap yayınladılar. Fizyokratların ekonomik tartışmalara verdiği güçlü ivme, 1760'tan 1775'e kadar Fransa'da yayınlanan etkileyici sayıdaki ekonomik eser ve broşürde de görülmektedir. Fransa'da ekonomik fikirlerin yayıldığının bir başka kanıtı olarak, daha önceki bir konuşmada atıfta bulunulan M. de Vaublanc'ın 1774'te Metz'de insanların ekonomiden başka bir şey konuşmadığını söylediği sözleri hatırlanabilir. "Bu bir modaydı" demişti. "Herkes bir ekonomistti".
+Fikirlerinin kitaplarda, broşürlerde ve *Les Éphémérides du Citoyen* adlı dergilerinde savunulması, Fransa'nın ekonomi politikasında hızla sonuçlar doğurdu. 1763'te bir ferman, Quesnay ve Mirabeau'nun güçlü biçimde talep ettiği tahıl ticareti özgürlüğünü tanıdı. Yetkililer birkaç kez, daha fazla çalışma özgürlüğünü güvence altına almak için ticaret loncalarını yöneten düzenlemeleri de gevşetti.
 
+### Yurtdışındaki etki
 
-Fikirlerini kitaplarda, broşürlerde ve *Les Éphémérides du Citoyen* adlı dergilerinde savunmaları, Fransa'nın ekonomi politikasında kısa sürede yankı buldu. 1763 yılında çıkarılan bir fermanla, Quesnay ve Mirabeau'nun şiddetle talep ettiği tahıl ticaretine serbestlik tanındı. Yetkililer ayrıca, daha fazla çalışma özgürlüğü sağlamak için ticaret loncalarını düzenleyen yönetmelikleri de çeşitli vesilelerle hafifletti.
+Yurtdışında başarı çok erken geldi. Almanya'da Baden Markgrafı fizyokratik fikirlerle ilgilendi ve Mirabeau ile Dupont de Nemours'la düzenli bir yazışma sürdürdü.
 
+![Charles Frederick, “Baden Büyük Dükü”](assets/en/058.webp)
 
-Yurtdışında başarı çok erken geldi. Almanya'da Baden Margrave'i fizyokratik fikirlere ilgi duydu ve Mirabeau ve Dupont de Nemours ile düzenli bir yazışma sürdürdü.
+İkna olmuş bir fizyokrat olan ekonomist Johann August Schlettwein'i bir vergi reformu uygulamak ve tahıl ticaretini serbestleştirmekle görevlendirdi. Nisan 1770'te küçük Dietlingen köyünde ilk deneme gerçekleşti. Köylüler önlemleri coşkuyla karşılamış görünüyordu, fakat görevli memurlar pek destekleyici değildi; bu da daha geniş uygulamayı geciktirdi.
 
+Rusya'da II. Catherine bir yasama reformu hazırlıyordu ve Diderot'dan kendisine yardım edecek parlak bir zihin göndermesini istedi.
 
-![image](assets/tr/058.webp)
+![Rusya'dan II. Catherine, Mercier de la Rivière, “Siyasi toplumların doğal ve temel düzeni”](assets/en/059.webp)
 
-
-İkna olmuş bir fizyokrat olan ekonomist Johann August Schlettwein'ı bir vergi reformu uygulamak ve tahıl ticaretini serbestleştirmekle görevlendirdi. Nisan 1770'te küçük bir köy olan Dietlingen'de ilk deneme yapıldı. Köylüler önlemleri coşkuyla karşılamış gibi görünüyordu, ancak sorumlu yetkililer pek destekleyici değildi ve bu da daha geniş çaplı uygulamayı geciktirdi.
-
-
-Rusya'da Catherine II bir yasama reformu hazırlıyordu ve Diderot'dan kendisine yardımcı olması için parlak bir beyin göndermesini istedi.
-
-
-![image](assets/tr/059.webp)
-
-
-1767'de yayınlanan [*Siyasi Toplumların Doğal ve Temel Düzeni*](https://archive.org/details/lordrenaturelete00mercuoft) adlı kitabı okuyunca etkilenen yazar, kitabın yazarı fizyokrat Mercier de la Rivière'i ona gönderdi.
+1767'de yayımlanan [*Siyasi Toplumların Doğal ve Temel Düzeni*](https://archive.org/details/lordrenaturelete00mercuoft)'ni okumasından etkilenen Diderot, onun yazarını, fizyokrat Mercier de la Rivière'i ona gönderdi.
 
 
 
 
+Fransa'dan kutlamalarla ayrılmış olmasına rağmen Saint Petersburg'daki karşılanışı soğuktu (iklim bir yana) ve İmparatoriçe ondan hayal kırıklığına uğradı.
+
+İsveç'te Gustav III ve İtalya'da Toscana Leopoldo döneminde de Fizyokratlar fikirlerini uygulamaya koymaya hazır takipçiler buldu.
+
+Fransa'da Fizyokratlar, Turgot'nun 1774'te Maliye Genel Denetçisi olarak atanmasıyla görkemli bir başarı elde etti.
+
+![Turgot portresi](assets/en/060.webp)
+
+Şöhretlerinin gerilediğinin farkında olan Turgot, kendisini hiçbir zaman Fizyokratların sadık bir öğrencisi olarak ya da bu arada gerçekten öyle olmasına rağmen bir ansiklopedist olarak sunmadı; çünkü ruhban sınıfı üyeleri onları küçümsüyordu. İktidara geldiğinde Turgot, Fizyokratik programın pratik uygulamasının başlangıcını oluşturan altı ünlü ferman yayımladı: ticaret özgürlüğü, emek özgürlüğü ve tekellerin sonu.
 
 
-Fransa'dan kutlamalarla ayrılmasına rağmen, Saint Petersburg'daki karşılanışı soğuktu (iklim bir yana) ve İmparatoriçe onu hayal kırıklığına uğrattı.
+![Kraliyet Fermanı](assets/en/061.webp)
+
+Fransız Devrimi zamanına gelindiğinde Fizyokratların daha az takipçisi vardı. Marquis de Mirabeau 13 Temmuz 1789'da öldü; bu oldukça sembolikti. Abeille yoluna devam etmişti, fakat Dupont de Nemours sadık kaldı. Meclis'e atanan Dupont de Nemours, Fizyokrasinin sesini taşıdı ve mülkiyet ile serbest ticaret lehine ekonomik reformlar çağrısında bulundu.
+
+![1789'da Versailles'da États-Généraux'nun toplantıya çağrılması](assets/en/062.webp)
+
+Assignat'lara karşı da, başarısız biçimde, mücadele etti. Bu başarısızlığa rağmen Fizyokratik düşünce entelektüel tartışmada çok canlı kaldı ve Devrim'in erken başarılarını etkiledi. Joseph Rambaud'nun söylediği gibi, Devrim'in özgürlükler lehine yaptığı her şey Fizyokratlar sayesindeydi.
+
+![Adam Smith, “Wealth of Nations”, Joseph Rambaud, “History of economic doctrines”](assets/en/063.webp)
 
 
-İsveç'te Gustav III ve İtalya'da Toskana'lı Leopold ile birlikte Fizyokratlar da fikirlerini uygulamaya koymaya hazır takipçiler buldular.
+### Fizyokratlar ve Adam Smith
 
-
-Fransa'da Fizyokratlar, Turgot'nun 1774 yılında Maliye Genel Kontrolörü olarak atanmasıyla olağanüstü bir başarı elde ettiler.
-
-
-![image](assets/tr/060.webp)
-
-
-Şöhretlerindeki düşüşün bilincinde olan Turgot, kendisini hiçbir zaman Fizyokratların sadık bir müridi olarak sunmadı, bu nedenle, bir ansiklopedist olmasına rağmen ve Ruhban Sınıfı üyeleri tarafından hor görüldükleri için. İktidara geldikten sonra Turgot, Fizyokrat programın pratik uygulamasının başlangıcını oluşturan altı ünlü ferman yayınladı: ticaret özgürlüğü, emek özgürlüğü ve tekellerin sona erdirilmesi.
-
-
-
-![image](assets/tr/061.webp)
-
-
-Fransız Devrimi sırasında Fizyokratların daha az takipçisi vardı. Mirabeau Markisi 13 Temmuz 1789'da ölmüştü ki bu oldukça önemli bir semboldü. Abeille yoluna devam etmişti ama Dupont de Nemours sadık kalmaya devam etti. Meclise atanan Dupont de Nemours, Fizyokrasinin sesini taşıdı ve Ownership mülkiyeti ve serbest ticaret lehine ekonomik reformlar yapılması çağrısında bulundu.
-
-
-![image](assets/tr/062.webp)
-
-
-Ayrıca assignatlara karşı da başarısız bir mücadele vermiştir. Bu başarısızlığa rağmen, Fizyokratik düşünce entelektüel tartışmalarda varlığını sürdürdü ve Devrimin ilk başarılarını etkiledi. Joseph Rambaud'nun dediği gibi, Devrim'in özgürlükler lehine yaptığı her şey Fizyokratlar sayesinde olmuştur.
-
-
-![image](assets/tr/063.webp)
+Fizyokratların **ekonomik düşünce tarihi üzerinde de büyük bir etkisi** oldu. Fransa'yı ziyaret eden ve onların birçoğuyla tanışan Adam Smith, çalışmalarından derinden etkilendi. [*The Wealth of Nations*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289)'ı Quesnay'e ithaf etmeyi bile düşündü.
 
 
 
-Fizyokratların ekonomik düşünce tarihi üzerinde de büyük bir etkisi olmuştur. Fransa'yı ziyaret eden ve birçoğuyla tanışan Adam Smith, onların çalışmalarından derinden etkilenmiştir. Hatta *Ulusların Zenginliği* adlı eserini Quesnay'e ithaf etmeyi bile düşünmüştür.
-
-
-
-
-
-Ne yazık ki Quesnay, Smith'in kitabı yayınlanmadan iki yıl önce öldü ve Smith ithafı kaldırdı. Smith, Quesnay'in sadece tarımın üretken olduğu fikrine katılmasa da, serbest piyasalara yönelik argümanlarının çoğunu benimsemiş ve kendi çalışmalarında ileriye taşımıştır.
-
+Ne yazık ki Quesnay, Smith'in kitabı yayımlanmadan iki yıl önce öldü ve Smith ithafı kaldırdı. Smith, yalnızca tarımın üretken olduğu fikirlerine katılmasa da serbest piyasalar lehindeki argümanlarının çoğunu benimsedi ve kendi çalışmasında ileri taşıdı.
 
 
 ## Dupont de Nemours
-
 
 <chapterId>6d585e0f-93b8-5b0a-a0a8-7f6e4a5bc68e</chapterId>
 
 
 
 
+### Tesadüfî karşılaşmadan Quesnay'in gözdesine
 
-Amerika Birleşik Devletleri'nde, kimya ve biyoloji alanında çok uluslu bir firma olan "E.I. du Pont de Nemours and Company" olarak da bilinen DuPont şirketine aşinayız.
-
-
-
-![image](assets/tr/064.webp)
+Amerika Birleşik Devletleri'nde DuPont şirketini, "E.I. du Pont de Nemours and Company" olarak da bilinen kimya ve biyoloji alanındaki çok uluslu firmayı tanırız.
 
 
-Bugün 35.000 milyar doların üzerinde satış gerçekleştirmekte ve dünya çapında yaklaşık 65.000 kişiyi istihdam etmektedir. Bu şirketin, Fizyokrat ekole mensup bir Fransız ekonomist olan Samuel-Pierre Dupont de Nemours'un kaderiyle yakından bağlantılı olduğu ortaya çıktı.
+![Dupont şirketi, Dupont de Nemours](assets/en/064.webp)
 
+Bugün 35 milyar doların üzerinde satışa sahiptir ve dünya çapında yaklaşık 65.000 kişiyi istihdam eder. Görünen o ki bu şirket, Fizyokratik okuldan bir Fransız ekonomist olan Samuel-Pierre Dupont de Nemours'un kaderiyle yakından bağlantılıdır.
 
 
 
 
-
-1739 yılında doğan Dupont de Nemours, 24 yaşındayken Fizyokratlara yaklaştı. O sıralarda hâlâ hayattaki yolunu bulmaya çalışıyordu. Bir gün Devletin Zenginliği başlıklı kısa bir broşürle karşılaştı. Bu broşürdeki ekonomik fikirleri saçma buldu ve 1763'te yayınlanan Reflections on the Wealth of the State (Devletin Zenginliği Üzerine Düşünceler) adlı eleştirel bir yanıt yazdı. Yazı iyi karşılandı ve okuyucular "Mirabeau'nun öğrencisi olmalısın!" gibi sözlerle yazıyı övdü İroniktir ki Dupont, Mirabeau'nun kim olduğunu bile bilmiyordu.
-
+1739'da doğan Dupont de Nemours, 24 yaşında Fizyokratlara yaklaştı. O sırada hayatta yolunu hâlâ arıyordu. Bir gün Devletin Serveti başlıklı kısa bir broşüre rastladı. Ekonomik fikirlerinin saçma olduğunu düşündü ve 1763'te yayımlanan Devletin Serveti Üzerine Düşünceler adlı eleştirel bir yanıt yazdı. Metin iyi karşılandı ve okurlar onu överek "Mirabeau'nun öğrencisi olmalısın!" gibi şeyler söylediler. İronik biçimde Dupont, Mirabeau'nun kim olduğunu bile bilmiyordu.
 
 
-![image](assets/tr/065.webp)
+![Marquis de Mirabeau, tarım, ticaret ve finans dergisi](assets/en/065.webp)
 
-
-Merak ederek Mirabeau'nun *Halkın Dostu* ve *Vergilendirme Teorisi* adlı eserlerini okumaya başladı. Mirabeau ve François Quesnay ile tanıştı ve onların okuluna katıldı.
-
-Dupont'a 1765 yılında, ekonomik düşünce alanında zamanının önde gelen süreli yayını olan *Journal de l'agriculture, du commerce et des finances* dergisinin editörlüğü teklif edildi.
+Merak edip Mirabeau'nun *Halkın Dostu* ve *Vergilendirme Teorisi* adlı eserlerini okumaya başladı. Mirabeau ve François Quesnay ile tanıştı, ardından onların okuluna katıldı.
+1765'te Dupont'a, ekonomik düşünce alanında döneminin önde gelen süreli yayını olan *Journal de l'agriculture, du commerce et des finances*'ın editörlüğü teklif edildi.
 
 
 
 
+Bunun iki nedeni vardı: Mirabeau ve Quesnay susmak zorundaydı ve Dupont onların yükselen yıldızı olarak görülüyordu.
 
+Fizyokratik okulun üyeleri, Dupont de Nemours'un hızla Quesnay'in gözdesi haline geldiği konusunda hemfikirdir. Quesnay bir kez, "Bu genç adama iyi bakın, biz öldüğümüzde konuşacak olan o olacak" dedi. Fizyokrat arkadaşlarından Abeille, Dupont'un gördüğü ilgiyi kıskanacak kadar ileri gitti ve Quesnay okulundan uzaklaştı.
 
-Bunun iki nedeni vardı: Mirabeau ve Quesnay sessiz kalmak zorundaydı ve Dupont onların yükselen yıldızı olarak görülüyordu.
+### Fizyokratik yayıncılığın mimarı
 
+Dupont de Nemours, Quesnay'e duyduğu yüksek saygıyı her zaman korudu.
 
-Fizyokrat okulun üyeleri Dupont de Nemours'un kısa sürede Quesnay'in gözdesi haline geldiği konusunda hemfikirdir. Quesnay bir keresinde "Bu genç adama iyi bakın, biz öldüğümüzde konuşacak olan o olacak" demişti. Hatta bir Fizyokrat olan Abeille, Dupont'un gördüğü ilgiyi kıskanmış ve Quesnay'in okulundan uzaklaşmıştır.
+![Quesnay, Journal des Physiocrates](assets/en/066.webp)
 
-
-Dupont de Nemours, Quesnay'e olan yüksek saygısını her zaman korumuştur.
-
-
-![image](assets/tr/066.webp)
-
-
-Daha sonra şöyle diyecekti: "Quesnay bana kollarını uzattığında henüz bir çocuktum, o beni bir adam yaptı." Onu dönemin edebiyat sahnesinde önemli bir ekonomist yapan Quesnay'di.
-
-Dupont, *Journal de l'agriculture, du commerce et des finances* dergisinden sonra Fizyokratların resmi yayın organı haline gelen *Les Éphémérides du Citoyen* dergisinin editörlüğüne getirildi.
+Daha sonra şöyle diyecekti: "Quesnay kollarını bana uzattığında ben henüz sadece bir çocuktum; beni bir erkek yaptı." Onu dönemin edebî sahnesinde büyük bir ekonomist yapan Quesnay'di.
+*Journal de l'agriculture, du commerce et des finances*'tan sonra Dupont, Fizyokratların resmî organı haline gelen *Les Éphémérides du Citoyen*'in editörü olarak atandı.
 
 
 
+Bu süreli derleme, onu Fizyokratların gerileme döneminde bile sonraki ciltlerin neredeyse tamamını bizzat yazarak destekleyen Dupont de Nemours sayesinde ekonomi teorisi için büyük bir merkez haline geldi. Üstelik "physiocracy" terimini, "doğanın yönetimi" anlamına gelen iki Yunanca kelimeden türeterek icat eden de Dupont de Nemours'du. Bu terimi Quesnay'in 1768'de yayımlanan makaleler derlemesine başlık olarak kullandı ve terim sonunda tarihte yerleşti. Fizyokratların kendi aralarında birbirlerine "ekonomistler" dedikleri ve Devrim sırasında hâlâ böyle anıldıkları bilinmektedir.
 
 
-Bu süreli yayın koleksiyonunu ekonomi teorisi için önemli bir merkez haline getirdi ve Fizyokratların düşüşü sırasında bile neredeyse tüm sonraki ciltleri bizzat yazarak destekledi. Dahası, "doğa yönetimi" anlamına gelen iki Yunanca kelimeden türetilen "fizyokrasi" terimini icat eden Dupont de Nemours'dur. Bu terimi Quesnay'in 1768'de yayınlanan makalelerinden oluşan bir derlemenin başlığında kullandı ve terim nihayetinde tarihe yerleşti. Fizyokratların kendi aralarında birbirlerini "ekonomistler" olarak adlandırdıkları ve Devrim sırasında da bu şekilde anıldıkları bilinmektedir.
+![Turgot, Physiocracy, Quesnay'in metinlerinden derleme](assets/en/067.webp)
 
+### İnanç dolu bir yaşam
 
-
-![image](assets/tr/067.webp)
-
-
-Turgot kısa bir süre Fransa'nın maliye bakanı olarak görev yaptığında, Dupont onun yakın danışmanı oldu ve Turgot diğerleriyle arasına mesafe koyduğu için ona ulaşabilen tek Fizyokrat oldu.
-
+Turgot kısa süreliğine Fransa'nın maliye bakanı olduğunda Dupont onun yakın danışmanı oldu; Turgot diğerlerinden uzak durduğu için ona erişimi olan tek Fizyokrat oydu.
 
 
 
+Devrim sırasında Nemours bailliage'ından seçildi ve Meclis'te, başka bir Monsieur Dupont'un da oturduğu yerde kendini buldu. Bu yüzden ona Dupont de Nemours denmeye başlandı; soylu olduğu için değil, yalnızca ikisini ayırt etmek için. Ad elbette kaldı.
 
-Devrim sırasında Nemours beylerbeyliğinden seçildi ve kendisini başka bir Mösyö Dupont'un da oturduğu Meclis'te buldu. O zaman Dupont de Nemours olarak adlandırıldı, soylu olduğu için değil, sadece ikisini ayırt etmek için. Bu isim elbette kaldı.
+Devrim sırasında, Ağustos 1792'de, kalabalığa karşı Tuileries Sarayı'nda Kralı savunmak için silaha sarıldı.
 
+![Joseph Schumpeter,” History of economic analysis”, Tuileries Sarayı'nın 1792'de ele geçirilmesi](assets/en/068.webp)
 
-Devrim sırasında, Ağustos 1792'de, Tuileries Sarayı'nda kalabalığa karşı Kralı savunmak için silahlandı.
-
-
-![image](assets/tr/068.webp)
-
-
-Kral ona dedi ki: "Mösyö Dupont, sizi her zaman ihtiyaç duyulan yerde buluyoruz!" Terörden mucizevi bir şekilde kurtulduktan sonra, mahkum edildi ve giyotini bekledi ancak Robespierre'in düşüşüyle kurtuldu, Napolyon tarafından sürgüne itildi ve oğullarından birinin babasının yardımıyla Dupont şirketini kurduğu Birleşik Devletler'de mutluluğu buldu.
+Kral ona şöyle dedi: "Monsieur Dupont, sizi her zaman ihtiyaç duyulan yerde buluyoruz!" Terörden mucizevi biçimde kaçtıktan, mahkûm edilip giyotini beklerken Robespierre'in düşüşüyle kurtulduktan sonra, Napoleon döneminde sürgüne itildi ve mutluluğu Amerika Birleşik Devletleri'nde buldu; burada oğullarından biri, babasının yardımıyla Dupont şirketini kurdu.
 
 
 
 
-
-
-Düzinelerce makale, broşür ve kitap yayınladığı bu hareketli hayatına rağmen, bugüne kadar nispeten az tanınmıştır. Belki de bunun nedeni, doktrinin modası geçtiğinde sadık bir Fizyokrat olarak kalmasıydı. Gerçekten de, Schumpeter'in yazdığı gibi, Dupont de Nemours "vazgeçmek için pek çok fırsatı olduğu bir kariyer boyunca" Fizyokrasi'ye sadık kalmıştır. O inançlı bir adamdı.
+Onlarca makale, broşür ve kitap yayımladığı bu olaylı yaşama rağmen bugün nispeten az tanınır. Belki de bunun nedeni, doktrin modası geçtiğinde bile sadık bir Fizyokrat olarak kalmasıydı. Gerçekten de Schumpeter'in yazdığı gibi Dupont de Nemours, "ondan vazgeçmek için pek çok fırsata sahip olduğu bir kariyer boyunca" Fizyokrasiye sadık kaldı. **O bir inanç adamıydı**.
 
 
 # Aydınlanma ve Ekonomi Politik
 
-
 <partId>d1c885ad-7cb1-5f81-816c-be312719d9f8</partId>
-
 
 ## Voltaire ve filozoflar
 
-
 <chapterId>16bcf7bf-dad4-5113-8c64-2800f04ff07b</chapterId>
 
+### Encyclopédie'de ekonomi
 
-Fransa'da 18. yüzyıl, ekonominin bir bilim olarak ortaya çıkışına ve ilk ekonomik düşünce okuluna tanıklık etmiştir: Fizyokrasi. Adam Smith bu dönemde ekonomi eğitimi almış ve Fransız ekonomistler dünya çapında lider olarak tanınmıştır. Ancak bu yüzyıl, ekonomiden çok felsefenin yüzyılı olarak hatırlanmaktadır. Fizyokratik hareket, amaçları bakımından Aydınlanma felsefesiyle aynı çizgide olsa da, filozofların -özellikle de Diderot ve Voltaire'in- tutumları yakından incelenmeyi hak etmektedir. Aydınlanma düşünürlerinin Fransa'da laissez-faire fikrinin yayılmasına önemli ölçüde katkıda bulunduklarını göreceğiz.
-
-
-
-![image](assets/tr/069.webp)
+Fransa'da 18. yüzyıl, ekonominin bir bilim olarak ve ilk ekonomik düşünce okulunun, yani Fizyokrasinin ortaya çıkışına tanık oldu. Adam Smith bu dönemde ekonomi eğitimi aldı ve Fransız ekonomistler dünya çapında liderler olarak tanındı. Ancak bu yüzyıl ekonomiden çok felsefe yüzyılı olarak hatırlanır. Fizyokratik hareket, amaçları bakımından Aydınlanma felsefesiyle aynı çizgide olsa da filozofların, özellikle Diderot ve Voltaire'in tutumları yakından incelenmeyi hak eder. Aydınlanma düşünürlerinin Fransa'da laissez-faire fikrinin yayılmasına önemli katkıda bulunduğunu göreceğiz.
 
 
-Aydınlanma felsefesinin en ünlü başarısı şüphesiz Diderot ve d'Alembert'in *Encyclopédie* adlı eseridir.
+![Adam Smith, Encyclopedia](assets/en/069.webp)
 
+Aydınlanma felsefesinin en ünlü başarısı hiç kuşkusuz Diderot ve d'Alembert'in *Encyclopédie*'sidir.
 
 
 
 
+Doğal olarak ekonomik makaleler ekonomistler tarafından yazıldı. İlk ciltler için Diderot, Forbonnais'ye başvurdu, ardından liberal ekonomistleri dahil etti: önce François Quesnay ("Grains", "Fermiers", "Hommes" gibi makaleler yazdı; sonuncusu yayımlanmadı), sonra Turgot ("Foires et marchés"i yazdı). Bu yazılar büyük önem taşır. Quesnay makalelerinde daha sonra Fizyokratik doktrin olacak şeyin temelini attı. *Tableau économique* ile birlikte bunlar onun en ünlü eserleri olarak kalır. O dönemde hâlâ genç olan Turgot, makalesinde piyasa örgütlenmesine devlet müdahalesini eleştirerek laissez-faire fikrini geliştirdi.
 
-Doğal olarak, ekonomik makaleler iktisatçılar tarafından yazılmıştır. İlk ciltler için Diderot Forbonnais'ye başvurmuş, daha sonra liberal iktisatçılardan yararlanmıştır: önce François Quesnay ("Grains", "Fermiers", "Hommes" gibi makaleler yazmıştır - sonuncusu yayınlanmamıştır), sonra Turgot ("Foires et marchés "i yazmıştır). Bu yazılar büyük önem taşımaktadır. Quesnay makalelerinde Fizyokratik doktrinin temellerini atmıştır. Bunlar *Tableau économique* ile birlikte onun en ünlü eserleri olarak kalmıştır. O dönemde henüz genç olan Turgot, makalesinde laissez-faire fikrini geliştirmiş ve piyasa organizasyonuna devlet müdahalesini eleştirmiştir.
+*Encyclopédie*'nin birçok başka makalesinde filozoflar, özellikle Diderot, özgürlük idealini her alanda savunur: din, siyaset ve ekonomi.
 
+![Denis Diderot](assets/en/070.webp)
 
-Diderot başta olmak üzere filozoflar, *Encyclopédie'nin* diğer birçok makalesinde din, siyaset ve ekonomi gibi her alanda özgürlük idealini savunurlar.
+Emek özgürlüğü, özellikle lonca sistemine karşıtlık içinde, Arts, Métier ve Communauté gibi çeşitli maddelerde yinelenen bir temaydı.
 
+### Diderot'nun özgürlükle karmaşık ilişkisi
 
-![image](assets/tr/070.webp)
-
-
-Çalışma özgürlüğü, özellikle lonca sistemine karşı olarak, Arts, Métier ve Communauté gibi çeşitli girişlerde yinelenen bir temaydı.
-
-
-Diderot'nun ekonomi teorisinde izlediği yol ilginçtir. Encyclopédie'de ekonomik özgürlüğün sadık bir savunucusuydu ve Turgot'nun kendisi için yazabileceği makalelerin ana hatlarını çizen bir mektubun da doğruladığı gibi, liberal iktisatçıların işbirliğini arayan kişiydi. Fizyokrasi'nin ilk yıllarında Quesnay'in okulunun hem destekçisi hem de teşvikçisiydi. 1769 ve 1770'te *Les Ephémérides du Citoyen* için yazdı ve Melchior Grimm gibi liberalizm karşıtı filozof arkadaşlarını dehşete düşürdü; ancak kısa süre sonra gruptan uzaklaştı. Başrahip Galiani'nin canlı zekâsından etkilenerek, Galiani İtalya'ya dönmek üzereyken tahıl ticareti üzerine yazdığı kitabın Fransızca olarak yayınlanmasına yardımcı oldu.
+Diderot'nun ekonomi teorisindeki yolu ilginçtir. Encyclopédie'de ekonomik özgürlüğün kararlı bir savunucusuydu ve Turgot'nun kendisi için yazabileceği makaleleri özetleyen bir mektubun da doğruladığı gibi liberal ekonomistlerin işbirliğini arayan kişiydi. Fizyokrasinin ilk yıllarında hem Quesnay okulunun destekçisi hem de tanıtıcısıydı. 1769 ve 1770'te, Melchior Grimm gibi anti-liberal filozof dostlarının büyük üzüntüsüne rağmen *Les Ephémérides du Citoyen* için yazdı; ancak kısa süre sonra gruptan uzaklaştı. Başrahip Galiani'nin canlı zekâsına kapılarak, Galiani tam İtalya'ya dönmek üzereyken onun tahıl ticareti üzerine kitabını Fransızca yayımlamasına yardım etti.
 
 
-
-![image](assets/tr/071.webp)
+![Galiani'nin buğday ticareti üzerine diyaloğu, Vatandaşın efemeridleri](assets/en/071.webp)
 
 
 
+Bu kitap, Fizyokratik fikirlere karşı yapılmış en sert saldırı haline gelecek ve harekete büyük bir darbe indirecekti. Daha sonra Diderot, *Galiani Savunması*'nda Fizyokratların yakın müttefiki Başrahip Morellet'ye karşı Galiani'yi savundu. Birkaç yıl sonra, Turgot'nun bakanlığı sırasında Diderot'nun, loncaların kaldırılmasıyla emek özgürlüğünün tesis edilmesini alkışladığı görüldü. Bu noktada, bir zanaatkârın oğlu olan Diderot, liberal ekonomistlerle aynı fikirdeydi ve emek özgürlüğünün Fransız sanayisini yirmi ya da otuz yıl içinde mahvedeceğini iddia eden Galiani'ye sert bir mektup yazdı. Sanayi Devrimi ışığında tarih tersini gösterir. Liberal ekonomistlerin tarafına geri dönen Diderot artık onların güvenini kazanamadı ve yalnız kaldı. 1774'te Dupont de Nemours'a gönderdiği mektup çok şey anlatır; orada şöyle yazar:
 
+> Bir zamanlar bana dostluğun vardı; artık yok, çünkü o kadar meşgulsün ki kimseyi sevmeye zamanın kalmadı.
 
-Bu kitap Fizyokrat fikirlere karşı şimdiye kadar yapılmış en şiddetli saldırı olacak ve harekete büyük bir darbe indirecektir. Daha sonra Diderot, *Galiani'nin Apolojisi* adlı eserinde Fizyokratların yakın müttefiki Abbot Morellet'ye karşı Galiani'yi savunmuştur. Birkaç yıl sonra, Turgot'nun bakanlığı sırasında, Diderot'nun loncaların kaldırılması yoluyla çalışma özgürlüğünün tesis edilmesini alkışladığı görüldü. Bu noktada, bir zanaatkârın oğlu olan Diderot kendini liberal iktisatçılarla aynı fikirde buldu ve çalışma özgürlüğünün Fransız sanayisini yirmi otuz yıl içinde mahvedeceğini iddia eden Galiani'ye sert bir mektup yazdı. Sanayi Devrimi'nin ışığında tarih bunun aksini göstermektedir. Liberal iktisatçıların safına dönen Diderot, artık onların güvenini kazanamamış ve yalnız kalmıştır. Dupont de Nemours'a 1774 yılında gönderdiği bir mektup çok anlamlı bir andır:
+![Voltaire](assets/en/072.webp)
 
+### Övgü ile hiciv arasında Voltaire
 
-> "Bir zamanlar benimle arkadaşlık ediyordun; artık etmiyorsun, çünkü o kadar meşgulsün ki artık kimseyi sevmeye vaktin yok".
+Voltaire de ekonomik görüşlerinde tutarlılık eksikliğiyle işaretlenen benzer bir yol izledi. Vincent de Gournay'e hayranlık duydu, ekonomistlerle (Dupont de Nemours ve Turgot dahil) yazıştı ve Fizyokratları, özellikle tarıma övgüleri nedeniyle, takdir etti. Onları *Ephémérides'in Yazarına Diatribe* adlı eserinde övdü. Ancak daha sonra tek arazi vergisi fikirlerini hiciv eseri *Kırk Éculuk Adam*'da eleştirdi; bu da önemli tartışmalara yol açtı. Son olarak, Diderot gibi, Turgot'nun bakanlığını kutladı; onu altın çağ diye adlandırdı ve emek özgürlüğü ile serbest ticaret konusundaki iki büyük kararnamesini övdü.
 
-![image](assets/tr/072.webp)
+![Voltaire, “L'homme aux quarante écus”](assets/en/073.webp)
 
-
-Voltaire de benzer bir yol izledi ve ekonomik görüşlerinde tutarlılıktan yoksundu. Vincent de Gournay'e hayranlık duymuş, ekonomistlerle (Dupont de Nemours ve Turgot dahil) yazışmış ve Fizyokratları -özellikle tarımı övdükleri için- takdir etmiştir. Ephémérides'in yazarına yazdığı bir *Diatribe'de* onları över. Bununla birlikte, daha sonra *Kırk Taçlı Adam* adlı hicivli eserinde onların tek bir toprak vergisi fikrini eleştirdi ve bu da önemli tartışmalara yol açtı. Son olarak, Diderot gibi, Turgot'nun bakanlığını kutladı, onu altın çağ olarak nitelendirdi ve çalışma özgürlüğü ve serbest ticaret konusundaki iki büyük kararnamesini övdü.
-
-
-![image](assets/tr/073.webp)
-
-
-Sonuç olarak, filozofların iktisadi düşünceyle ilişkisi karışıktır. Liberal ekonomik fikirlere yönelik övgü ve eleştirilerine rağmen, bu fikirlerin Aydınlanma'nın daha geniş entelektüel söylemine dahil edilmesinde rol oynamışlardır. Bu şekilde, kasıtlı olsun ya da olmasın, laissez-faire kavramının Devrim'e kadar ilerlemesine yardımcı olmuşlardır.
-
+Sonuç olarak filozofların ekonomik düşünceyle ilişkisi karışıktır. Liberal ekonomik fikirleri hem övmelerine hem eleştirmelerine rağmen bu fikirleri Aydınlanma'nın daha geniş entelektüel söylemine taşımakta rol oynadılar. Böylece, bilerek ya da bilmeyerek, laissez-faire kavramının Devrim'e kadar ilerlemesine yardımcı oldular.
 
 ## Turgot, Teorisyen
 
-
 <chapterId>a8cd8185-8351-556b-8011-3a0c313e8a9d</chapterId>
 
+### Büyük bir ekonomistin oluşumu
 
-Amerikalı iktisatçı Murray Rothbard, *İktisadi Düşünceler Tarihi* adlı eserinden ünlü bir pasajda Turgot'nun "dehası" olarak adlandırdığı şeyi övmüştür.
+Amerikalı ekonomist Murray Rothbard, *History of Economic Thought* adlı eserindeki ünlü bir pasajda Turgot'nun "parlaklığı" dediği şeyi över.
 
 
 
 
+onu Cantillon ile birlikte 18. yüzyılın en büyük ekonomisti olarak sunar.
 
+![Turgot, Montesquieu, “The Spirit of Laws”, Encyclopedia](assets/en/074.webp)
 
-cantillon ile birlikte 18. yüzyılın en büyük ekonomisti olarak takdim etmiştir.
+Turgot nasıl böyle bir öneme yükseldi? Bu, üç temel faktörün birleşimine dayanıyordu. **Birincisi, prestijli aile geçmişi**. Yüksek rütbeli devlet görevlerinde bulunan birçok kişinin yer aldığı uzun bir kraliyet yöneticileri soyundan geliyordu. **İkincisi, doğduğu altın çağ**. Montesquieu *L'Esprit des Lois*'yı yayımladığında Turgot 21 yaşındaydı; *Encyclopédie*'nin ilk cildi çıktığında ise 24.
 
 
-![image](assets/tr/074.webp)
 
 
-Turgot nasıl bu kadar öne çıktı? Üç temel faktörün bir araya gelmesiyle. **Birincisi**, prestijli aile geçmişi. Birçoğu üst düzey devlet görevlerinde bulunmuş uzun bir kraliyet idarecileri soyundan geliyordu. **İkincisi**, içinde doğup büyüdüğü altın çağ. Montesquieu *L'Esprit des Lois* kitabını yayınladığında Turgot 21, *Encyclopédie* kitabının ilk cildi çıktığında ise 24 yaşındaydı.
 
+Fizyokratların, Voltaire'in, Diderot'nun, d'Holbach'ın, Adam Smith'in, Condorcet'nin ve başkalarının çağdaşıydı. **Üçüncüsü, olağanüstü entelektüel erken gelişmişliği**. Sorbonne'da öğrenciyken, 22 yaşında kâğıt para üzerine bir mektup yazdı, dikkat çekici konuşmalar yaptı ve 24 yaşında yazılacak 52 eserlik bir liste oluşturdu.
 
 
+Gençliğine rağmen Turgot *Encyclopédie*'ye katkıda bulundu; "Etymology", "Existence", "Expansibility", "Fairs" ve "Foundations" gibi konularda makaleler yazdı. Yalnızca bir makalesi doğrudan ekonomiye temas ediyordu: fuarların ve pazarların kökenlerini ayrıntılandıran ve onları bozan ve felce uğratan artan devlet müdahalesini eleştiren "Fairs" makalesi.
 
 
+Bu ilk yıllarda Vincent de Gournay ona mentorluk etti; onu kanatları altına aldı ve onunla yakın bir dostluk kurdu. Gournay'in 1759'daki ölümünün ardından Turgot, laissez-faire doktrininin üstün bir özetini sunduğu bir övgü kaleme aldı. Özellikle şöyle yazdı:
 
+"Ticaretin Devleti ilgilendirebileceği her açıdan, kendi haline bırakılan bireysel çıkar, her zaman kusurlu olan ve zorunlu olarak belirsiz ve muğlak teoriyle yönlendirilen hükümet işlemlerinden daha emin biçimde genel iyiyi üretecektir".
 
 
-Fizyokratlar, Voltaire, Diderot, d'Holbach, Adam Smith, Condorcet ve diğerlerinin çağdaşıydı. **Üçüncüsü**, entelektüel önceliği. Sorbonne'da öğrenciyken, 22 yaşında kağıt para üzerine bir mektup yazmış, dikkat çekici konuşmalar yapmış ve 24 yaşında yazılacak 52 eserin listesini oluşturmuştur.
+![Turgot, “Gournay'e Övgü”, Turgot, “Servetin oluşumu ve dağılımı üzerine düşünceler”](assets/en/075.webp)
 
+### Liberal ekonominin özeti
 
+1767'de, bir intendant iken, [*Servetin Oluşumu ve Dağılımı Üzerine Düşünceler*](https://planb.academy/resources/books/turgot-oeuvres-completes-37fa0489-cabd-413c-9240-34d1663d0720) başlığı altında bir ekonomi özeti kaleme aldı.
 
-Turgot genç yaşına rağmen *Encyclopédie* dergisine katkıda bulunmuş, "Etimoloji", "Varoluş", "Genişletilebilirlik", "Fuarlar" ve "Temeller" gibi konularda makaleler yazmıştır. Sadece bir makalesi doğrudan ekonomiyle ilgiliydi: "Panayırlar" başlıklı makalesinde panayırların ve pazarların kökenlerini ayrıntılarıyla anlatıyor ve bunları sekteye uğratan ve felce uğratan artan devlet müdahalesini eleştiriyordu.
 
 
+İş bölümü, tüketici egemenliği, özel mülkiyet, sermayenin rolü; başlıca ekonomik temaların neredeyse tamamı ele alınır. En son tarihçi Anne-Claire Hoyng olmak üzere birçok tarihçi, Turgot'nun bu eseri ile Adam Smith'in dokuz yıl sonra yayımlanan [*The Wealth of Nations*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289) adlı eseri arasındaki benzerliklere dikkat çekmiştir.
 
-Bu ilk yıllarda, onu kanatları altına alan ve onunla yakın bir dostluk kuran Vincent de Gournay tarafından yönlendirildi. Gournay'ın 1759'da ölümü üzerine Turgot, laissez-faire doktrininin mükemmel bir özetini sunduğu bir methiye kaleme aldı. Özellikle şunları yazmıştır:
+![Turgot, “Tahıl ticaretinin özgürlüğü üzerine mektuplar”, Turgot ve Smith,, ”Tuhaf bir yakınlık”](assets/en/076.webp)
 
+Turgot, daha sonra Kral'a iletilen fakat yarısı bugün kaybolmuş olan Başrahip Terray'ye mektuplarında tahıl ticaretinin özgürlüğünü savundu. Şöyle yazdı:
 
-"Ticaretin Devleti ilgilendirdiği her açıdan, kendi haline bırakılan bireysel çıkarlar, her zaman kusurlu olan ve zorunlu olarak belirsiz ve belirsiz bir teori tarafından yönlendirilen hükümetin faaliyetlerinden her zaman daha kesin bir şekilde genel yararı üretecektir".
 
+> Efendim, acil olan bir şey varsa, bu tüm ticaretlerin en temel olanına yeni kısıtlamalar koymak değil, ne yazık ki kalmasına izin verilmiş olanları kaldırmaktır. 
+> Her türlü engelden tamamen arınmış, en tam ve en mutlak özgürlüğün gerekli olduğu bir zaman olmuşsa, bunu söylemeye cüret ederim ki o zaman şimdidir; ve tahıl ticareti üzerine bir düzenleme çıkarmayı düşünmek hiçbir zaman bu kadar uygunsuz olmamıştır.
 
 
-![image](assets/tr/075.webp)
 
 
-1767'de intendant iken *Reflections on the Formation and Distribution of Wealth* başlığı altında bir ekonomi özeti yazdı.
+1769'da Turgot, Başrahip Morellet'nin *Dictionnaire de Commerce*'i için Value and Money makalesini yazdı; fakat bu makale sonunda hiç yayımlanmadı. Galiani daha önce "insan her şeyin ortak ölçüsüdür" diye belirtmiş, Turgot'nun otuz yıl sonra bu makalede geliştireceği öznel analizi öngörmüştü; Turgot burada bu önermeyi genişletir ve kanıtlar.
 
+1770'te, Bentham'dan çok önce, Turgot faiz oranlarının ve tefeciliğin özgürlüğünü savunan bir muhtıra yazdı.
 
 
+![Turgot, “Mémoire sur les prêts d'argent”](assets/en/077.webp)
 
+"Ticarette paranın faizinin prenslerin yasalarıyla sabitlenmesi gerektiğine inanmak bir hatadır" der; "Bu, diğer tüm malların fiyatı gibi kendini düzenleyen geçerli bir fiyattır." Bu konumu savunurken Aristoteles'in ve Kilise Babalarının muhalefetini çürütür.
 
-İş bölümü, tüketici egemenliği, özel mülkiyet, sermayenin rolü, neredeyse tüm önemli ekonomik temalar ele alınmaktadır. Başta tarihçi Anne-Claire Hoyng olmak üzere pek çok tarihçi Turgot'nun bu eseri ile Adam Smith'in dokuz yıl sonra yayınlanan *The Wealth of Nations* adlı eseri arasındaki benzerliklere dikkat çekmiştir.
+### Merkezi planlamanın imkânsızlığı
 
+Turgot'nun laissez-faire doktrininin dikkat çekici bir özeti, 1773'te Başrahip Terray'ye demirlerin işaretlenmesi üzerine yazdığı unutulmuş bir mektupta bulunabilir:
 
-![image](assets/tr/076.webp)
 
+> Siyasetin yapması gereken şey, doğanın akışına ve ticaretin akışına boyun eğmektir; ticaretin akışı da doğanın kendisinin akışından daha az gerekli ve daha az karşı konulmaz değildir. Onu yönlendirmeye kalkışmamalıdır; çünkü onu bozmadan ve kendine zarar vermeden yönlendirebilmek için insan ihtiyaçlarının, çıkarlarının ve sanayisinin tüm değişimlerini izleyebilmek gerekir; bunları fiziksel olarak elde edilmesi imkânsız bir ayrıntı düzeyinde bilmek gerekir ve en becerikli, etkin ve titiz hükümet bile burada en azından yarı yarıya yanılma riskini her zaman taşır.
 
-Turgot, Abbot Terray'e yazdığı ve daha sonra Kral'a iletilen, ancak yarısı artık kayıp olan mektuplarda tahıl ticaretinin özgürlüğünü savundu. Şöyle yazmıştı:
+Burada laissez-faire doktrininin çok açık bir ifadesini ve Friedrich Hayek'in bilgi iddiası analizinin, yani bir Devletin ekonomik güçleri kontrol edebilmek için onları tam olarak kavramasının imkânsızlığına ilişkin analizinin habercisini buluyoruz.
 
 
 
-> Efendim, acil olan bir şey varsa, o da tüm ticaretlerin en önemlilerine yeni kısıtlamalar getirmek değil, ne yazık ki kalmasına izin verilenleri kaldırmaktır.
-> Her türlü engelden tamamen arındırılmış tam ve mutlak özgürlüğün gerekli olduğu bir zaman olduysa, bunun şimdi olduğunu ve tahıl ticaretine ilişkin bir yönetmelik çıkarmanın hiç bu kadar uygun olmadığını söylemeye cüret ediyorum.
 
-
-
-
-
-Turgot 1769'da Abbot Morellet'in *Dictionnaire de Commerce* dergisi için Değer ve Para makalesini yazdı, ancak bu makale hiçbir zaman yayınlanmadı. Galiani, Turgot'nun otuz yıl sonra bu makalede geliştireceği ve bu önermeyi genişletip kanıtladığı öznel analizi öngörerek, "insan her şeyin ortak ölçüsüdür" demişti.
-
-
-1770 yılında, Bentham'dan çok önce, Turgot faiz oranlarının ve tefeciliğin serbest bırakılmasını savunan bir memorandum yazmıştır.
-
-
-
-![image](assets/tr/077.webp)
-
-
-"Ticarette para faizinin prenslerin yasalarıyla sabitlenmesi gerektiğine inanmak bir hatadır", der, "Bu, diğer tüm mallarınki gibi kendi kendini düzenleyen cari bir fiyattır", Bu pozisyonu savunmak için Aristoteles ve Kilise Babalarının muhalefetini reddeder.
-
-
-Turgot'nun laissez-faire doktrininin dikkate değer bir özeti, demirlerin işaretlenmesi konusunda Abbot Terray'e yazdığı unutulmuş 1773 tarihli bir mektupta bulunabilir:
-
-
-
-> Siyasetin yapması gereken şey, doğanın gidişatına ve doğanın gidişatından daha az gerekli ve daha az karşı konulmaz olmayan ticaretin gidişatına, onu yönlendirmeye çalışmadan boyun eğmektir; çünkü onu bozmadan ve kendine zarar vermeden yönlendirmek için, insan ihtiyaçları, çıkarları ve endüstrisindeki tüm değişimleri takip edebilmek gerekir; bunları elde etmenin fiziksel olarak imkansız olduğu ve en yetenekli, aktif ve titiz hükümetin bile her zaman en azından yarı yarıya yanılma riskini alacağı bir ayrıntı düzeyinde bilmek gerekir.
-
-Burada laissez-faire doktrininin çok açık bir ifadesini ve Friedrich Hayek'in bilgi taklidi analizinin, yani bir Devletin ekonomik güçleri kontrol etmek için onları tam olarak kavramasının imkansızlığının bir habercisini buluyoruz.
-
-
-
-
-
-![image](assets/tr/078.webp)
-
+![Friedrich A. Hayek](assets/en/078.webp)
 
 ## Turgot, Reformcu
 
-
 <chapterId>9177429f-1679-51c4-bfd2-dd036d24a1cc</chapterId>
 
+### Limousin'in gönülsüz intendant'ı
 
-Bir önceki bölümde kısaca hatırladığımız gibi Turgot, Fransız kamu hizmetinin üst kademelerinde kendini göstermiş seçkin bir ailenin oğluydu.
-
-
-
-![image](assets/tr/079.webp)
+Önceki bölümde kısaca hatırladığımız gibi Turgot, Fransız kamu hizmetinin üst kademelerinde kendini göstermiş seçkin bir ailenin oğluydu.
 
 
-Babası Paris tüccarlarının provost'u, büyükbabası ise bir intendant'tı. Turgot ailesinin en küçüğü, eğitiminde başarılı olduktan sonra en azından aynı yüksekliğe ulaşmayı hedefledi. İlk olarak bir süre maître des requêtes olarak görev yaptı, yani intendants ile Versailles arasında irtibatı sağladı. Bu prestijli bir pozisyondu ve bunun için özel bir yaş muafiyeti alması gerekiyordu, ancak Turgot daha fazlasını arzuluyordu. Akıl hocası Gournay'ın ölümü onu daha yüksekleri hedeflemeye teşvik etti ve intendant olarak atanmayı talep etti.
+![Turgot](assets/en/079.webp)
+
+Babası Paris tüccarlarının prévôt'su, büyükbabası ise bir intendant'tı. Eğitiminde üstün başarı gösterdikten sonra Turgot ailesinin en küçüğü en az aynı yüksekliklere ulaşmayı hedefledi. Önce bir süre maître des requêtes olarak görev yaptı; bu, intendant'lar ile Versailles arasında bağlantı görevlisi olduğu anlamına geliyordu. Bu prestijli bir görevdi ve bunun için özel bir yaş muafiyeti alması gerekmişti; fakat Turgot daha fazlasını arzuluyordu. Mentoru Gournay'in ölümü onu daha yükseği hedeflemeye daha da teşvik etti ve intendant olarak atanmayı istedi.
 
 
-
-1759'da önce Grenoble valiliği için başvurdu, ancak reddedildi. Daha sonra kendisine Lyon'daki tüccarların provostluğu görevi teklif edildi, ancak o bunu reddetti. Brittany'nin idaresini talep etti, ancak bu da reddedildi. Nihayet 1761'de Limousin valiliği teklif edildi ve biraz da isteksizce kabul etti. Voltaire'e şöyle yazdı: "Bir intendant olma talihsizliğine sahibim", belki de şu anlama geliyordu: Limousin'de intendant olmak gibi bir talihsizliğim var.
-
+1759'da önce Grenoble intendantlığına başvurdu, fakat reddedildi. Ardından Lyon'da tüccarların prévôt'su görevi teklif edildi; bunu geri çevirdi. Brittany intendantlığını istedi, fakat bu da reddedildi. Sonunda 1761'de Limousin intendantlığı teklif edildi ve biraz isteksizce kabul etti. Voltaire'e şöyle yazdı: "İntendant olma talihsizliğine sahibim"; belki de şunu kastediyordu: Limousin'de intendant olma talihsizliğine sahibim.
 
 
-Limousin'de köylüler fakirdi ve özellikle barınma ve gıda konusunda güvencesiz koşullarda yaşıyorlardı. Genel eğitim seviyesi son derece düşüktü. Var olan birkaç yol da felaket durumdaydı.
+Limousin'de köylüler yoksuldu ve özellikle konut ile yiyecek bakımından güvencesiz koşullarda yaşıyordu. Genel eğitim düzeyi son derece düşüktü. Var olan az sayıdaki yol feci durumdaydı.
 
 
+![J.F. Millet, “Başak Toplayan Kadınlar”, 1857](assets/en/080.webp)
 
-![image](assets/tr/080.webp)
+Bölge çok yoksul olduğu için bakanların ilgisini çekmiyordu. Bu da Turgot'ya reformları deneme özgürlüğü verdi. Limousin'de üç büyük proje yürüttü:
 
+- **Taille'in yeniden dağıtılması**, kişisel vergi (Turgot, değerlendirmesine olabildiğince fazla nesnellik getirmeyi amaçladı).
+- **Corvée**, emekle ödenen bir vergi biçimi; köylüler yol yapımında çalışmaya zorlanıyordu. Bölgeyi gezerken Turgot yolların kötü durumunu hızla fark etti. Corvée'yi parasal bir vergiyle değiştirdi.
+- **Milislerin asker toplaması**, savaş zamanlarında seferber edilen köylü orduları.
 
-Bölge çok fakir olduğu için bakanların ilgisini çekmiyordu. Bu durum Turgot'ya reformları deneme özgürlüğü verdi. Limousin'de üç büyük proje yürüttü:
+![Milis kurası](assets/en/081.webp)
 
+Bu işlem kura çekerek yapılıyordu; kaçaklar yüzünden korku ve şiddete yol açıyordu. Turgot bu zorunlu celpleri ücretli gönüllülerle değiştirdi.
 
-
-- **Taille'ın** yeniden dağıtımı, kişisel vergi (Turgot bu verginin değerlendirilmesinde mümkün olduğunca objektiflik sağlamayı amaçlamıştır).
-- **Corvée**, köylülerin yol yapımında çalışmaya zorlandığı, emek karşılığı ödenen bir vergi biçimiydi. Turgot bölgeyi gezdikten sonra yolların kötü durumunu hemen fark etti. Corvée'yi parasal bir vergi ile değiştirdi.
-- **Milislerin** askere alınması, savaş zamanlarında seferber edilen köylü orduları.
-
-
-![image](assets/tr/081.webp)
-
-
-Bu, kaçaklar nedeniyle korku ve şiddete yol açan kura çekimiyle yapılıyordu; Turgot bu zorunlu vergileri ücretli gönüllülerle değiştirdi.
+Bu reformlar inkâr edilemez biçimde başarılı oldu ve Temmuz 1774'te Turgot bakan olarak atandı. Deneyim eksikliği nedeniyle Kral onu önce Donanma Bakanlığı'na yerleştirdi. Atama birçok kişiyi eğlendirdi. Turgot'nun kendisi "Donanma hakkında hiçbir şey bilmiyorum" diye kabul etti; Voltaire ise "Turgot'nun benden daha fazla denizci olduğunu sanmıyorum" diye belirtti.
 
 
-Bu reformlar inkar edilemez bir şekilde başarılı oldu ve Temmuz 1774'te Turgot bakan olarak atandı. Deneyimsizliği nedeniyle Kral onu önce Donanma Bakanlığı'na atadı. Bu atama pek çok kişiyi eğlendirdi. Turgot'nun kendisi "Donanma hakkında hiçbir şey bilmiyorum" itirafında bulunurken, Voltaire de "Turgot'nun benden daha iyi bir denizci olduğunu sanmıyorum" demiştir.
+### Fransa'yı reforme etmek için altı ferman
 
+Ancak yalnızca bir ay sonra Turgot Maliye Genel Denetçisi olarak atandı ve fiilen Fransa'nın ekonomi ve maliye bakanı oldu.
 
+Louis XVI'ya ilkelerini özetlediği mektubu biliyoruz: "İflas yok. Vergi artışı yok. Yeni borç yok". Bugün eleştirmenlerin anlamsız "katılık" diye etiketleyebileceği bu felsefe monarşiyi kurtarmayı amaçlıyordu.
 
-Ancak sadece bir ay sonra Turgot, Maliye Genel Kontrolörü olarak atanarak fiilen Fransa'nın ekonomi ve maliye bakanı oldu.
+![Nemours bailliage'ının şikâyet defteri, Edit du Roy](assets/en/082.webp)
 
-
-Louis'ye ilkelerini özetlediği mektubu biliyoruz: "İflas yok. Vergi artışı yok. Yeni borçlanma yok". Bugün eleştirmenlerin anlamsız bir "titizlik" olarak nitelendirebileceği bu felsefe monarşiyi kurtarmayı amaçlıyordu.
-
-
-![image](assets/tr/082.webp)
-
-
-Turgot, Fransız ekonomisinde reform yapmak için altı kraliyet fermanı hazırladı.
+Turgot Fransız ekonomisini reforme etmek için altı kraliyet fermanı hazırladı.
 
 
 
+Bir ekonomi uzmanına ülkesinin ekonomisini reforme etme özgürlüğünün verildiği ilk (ve neredeyse son) zamanlardan biriydi. Turgot'nun fermanlarından üçü öne çıkar: biri zorla çalışmayı (corvées) kaldırdı, diğeri ticaret loncalarını (korporasyonları) dağıttı ve üçüncüsü tahılda serbest ticareti tesis etti.
+
+### Altın çağın düşüşü
+
+Bakanlığa girer girmez Turgot ayrıcalıklı sınıfların direnişiyle karşılaşacağını biliyordu. Kral'a, "Sarayın büyük kısmı ve lütuf arayan herkes tarafından korkulacağım, hatta nefret edileceğim" dedi. Ayrıcalıklılar kısa süre içinde ona karşı birleşti ve Maliye Genel Denetçiliği görevinden alınmasına yol açtı. Turgot'nun reformlarını tamamen destekleyen Voltaire, yazışmalarında şöyle yazdı:
+
+> Ah! Ne korkunç haber duydum! Biz ne olacağız? Mahvoldum! Altın çağın doğuşuna ve ölümüne tanık olmuş olmanın ardından asla toparlanamayacağız! Bu yıldırım hem zihnime hem kalbime çarptı.
+
+![Voltaire, Louis XVI](assets/en/083.webp)
+
+O zamandan beri birçok kişi Fransa'nın reforme edilmesi imkânsız bir ülke olduğunu savundu. Turgot'nun başarısızlığı bunu doğruluyor gibiydi: Yarım yüzyıllık liberal ekonomik düşünce tarafından hazırlanmıştı; Aydınlanma filozoflarının desteğine sahipti; ve mutlak güce sahip Kralın kendisi onu destekliyordu.
 
 
-Bu, bir ekonomi uzmanına ülkesinin ekonomisinde reform yapma özgürlüğünün verildiği ilk ve son zamanlardan biriydi. Turgot'nun fermanlarından üçü öne çıkmaktadır: biri zorla çalıştırmayı (corvées) kaldırmış, diğeri ticaret loncalarını (korporasyonlar) feshetmiş ve üçüncüsü de serbest tahıl ticaretini tesis etmiştir.
-
-
-Turgot bakanlığa girdiğinde ayrıcalıklı sınıfların direnişiyle karşılaşacağını biliyordu. kral'a, "Sarayın çoğu ve iyilik arayan herkes benden korkacak, hatta nefret edecek" dedi. Ayrıcalıklılar kısa sürede ona karşı birleşti ve Maliye Genel Kontrolörlüğü görevinden alınmasını sağladı. Turgot'nun reformlarına tam destek veren Voltaire, yazışmalarında şunları yazmıştır
-
-
-> Ah! Ne korkunç haberler duydum! Bize ne olacak? Yıkıldım! Altın çağın doğuşuna ve ölümüne tanık olduktan sonra asla iyileşemeyeceğiz! Bu yıldırım hem aklımı hem de kalbimi vurdu.
-
-![image](assets/tr/083.webp)
-
-
-O zamandan beri pek çok kişi Fransa'nın reform yapılması imkansız bir ülke olduğunu savundu. Turgot'nun başarısızlığı bunu doğrular gibiydi: Yarım yüzyıllık liberal ekonomik düşünce tarafından hazırlanmıştı; Aydınlanma filozoflarının desteğine sahipti ve mutlak güce sahip Kral'ın kendisi de onu destekliyordu.
-
-
-
-
-Sonunda, parlamentolar ve ayrıcalıklı sınıflar kazandı. Kral'ın tek yapabildiği özel olarak ağıt yakmaktı: "Şimdi görüyorum ki sadece Mösyö Turgot ve ben halkı önemsiyoruz."
+Sonunda parlements ve ayrıcalıklı sınıflar kazandı. Kralın özel olarak yakınmaktan başka yapabileceği tek şey şuydu: "Artık görüyorum ki halkı yalnızca Monsieur Turgot ve ben önemsiyoruz."
 
 
 ## Condillac
 
-
 <chapterId>0ba8dbb5-dcd5-5981-bf85-6c185e0bf192</chapterId>
 
+### Montaigne'in safsatası ve sıfır toplam yanılgısı
 
-Tıpkı en belirgin pratik tezahürü olan merkantilizm gibi, Montaigne'in sofizminin de ortadan kalkması uzun zaman aldı.
+En açık pratik tezahürü merkantilizm olan Montaigne'in safsatasının ortadan kalkması uzun zaman aldı.
 
+![Michel de Montaigne, Étienne Bonnot de Condillac](assets/en/084.webp)
 
-![image](assets/tr/084.webp)
+Bu safsata, ticaret ve mübadelenin sıfır toplamlı oyunlar olduğu fikridir. Bir tarafın bir işlemde kazandığı her şey zorunlu olarak diğer tarafça kaybedilir. Savunucuları bunun hem bireyler arasında hem de uluslar arasında geçerli olduğunu ileri sürer.
 
-
-Bu safsata, ticaret ve Exchange'un sıfır toplamlı oyunlar olduğu fikridir. Bir işlemde bir taraf ne kazanırsa diğer taraf mutlaka onu kaybeder. Destekçileri bunun hem bireyler arasında hem de uluslar arasında geçerli olduğunu savunmaktadır.
-
-
-Condillaclı Abbot, bu yanlış fikrin kesin olarak ortadan kaldırılmasında önemli bir rol oynamıştır.
+Condillac Başrahibi **bu yanlış fikri kesin biçimde yıkmada büyük bir rol oynadı**.
 
 
 
+"Kesin biçimde" belki bir abartıdır; çünkü kamusal tartışmada bu safsata sık sık yeniden ortaya çıkar. Belki de Condillac'ın az bilinen bir ekonomist olarak kalmasının nedeni budur. Avusturyalı ekonomistler dışında pek az kişi onun mübadele teorisinin önemini anlamıştır; artık kimse onunla ilgilenmez.
 
+Ekonomik düşünce tarihçilerinin çoğu için 1776 yılı, ekonomi bilimini kuran [*The Wealth of Nations*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289)'ın yayımlanmasıyla işaretlenir. Adam Smith'ten önce Fransız ekonomi bilimini incelediğimiz, az önce tamamladığımız on beş ders, bu anlayışın hatasını kanıtlamaya yeter. Üstelik aynı yıl, 1776'da, belki de tarihçilerden Adam Smith'in kitabından daha fazla övgüyü hak eden başka bir kitap vardı: Condillac tarafından yazılmıştı ve basitçe [*Ticaret ve Hükümetin Karşılıklı İlişkileri Bakımından İncelenmesi*](https://planb.academy/resources/books/condillac-le-commerce-et-le-gouvernement-5e397405-e066-43bc-82df-1017c1fb63ae) adını taşıyordu.
 
-"Kesin olarak" belki de abartılı bir ifadedir, çünkü kamusal tartışmalarda bu safsata sık sık yeniden ortaya çıkmaktadır. Condillac'ın az bilinen bir iktisatçı olarak kalmasının nedeni belki de budur. Avusturyalı iktisatçılar dışında, onun Exchange teorisinin önemini anlayan çok az kişi var, artık kimse onunla ilgilenmiyor.
+![Condillac, Ticaret ve Hükümet](assets/en/085.webp)
 
+### Karşılıklı fayda olarak mübadele
 
-Çoğu iktisadi düşünce tarihçisi için 1776 yılı, iktisat biliminin temellerini atan *Ulusların Zenginliği* adlı eserin yayınlandığı tarih olarak kabul edilir. Adam Smith'ten önceki Fransız ekonomi bilimini incelediğimiz ve henüz tamamladığımız on beş ders, bu düşüncenin yanlışlığını kanıtlamak için yeterlidir. Aynı yıl, 1776'da, tarihçiler tarafından belki de Adam Smith'in kitabından daha fazla övgüyü hak eden bir başka kitap daha yayınlandı: Condillac tarafından yazılmıştı ve kısaca [*Ticaret ve Devletin Karşılıklı İlişkisi*] başlığını taşıyordu (https://archive.org/details/commercegovernme0000cond).
+Condillac'a göre, mübadelenin sıfır toplamlı bir oyun olduğu safsatası sürüyorsa, Fizyokratlar kısmen suçludur; çünkü mübadelenin eşitlik ilişkisi olduğunu savunurlar. Condillac'a göre bu yanlıştır: mübadele eşitsiz bir ilişkidir; kişi her zaman daha fazlasını elde etmek için daha azını verir.
 
+Fizyokratların fikirleri ile Condillac'ın fikirleri arasında daha mükemmel bir karşıtlık hayal edilemezdi. Fizyokrat ekonomist Le Trosne şöyle yazdı:
 
-![image](assets/tr/085.webp)
+> Mübadele doğası gereği bir eşitlik sözleşmesidir; eşit değer karşılığında eşit değerden yapılır.
 
+Condillac ise şöyle yazdı:
 
-Condillac'a göre, Exchange'in sıfır toplamlı bir oyun olarak görülmesi safsatası devam ediyorsa, bunun suçlusu kısmen Fizyokratlardır, çünkü Exchange'in bir eşitlik ilişkisi olduğunu savunmaktadırlar. Condillac'a göre bu yanlıştır: Exchange eşitsiz bir ilişkidir, kişi daha fazlasını elde etmek için her zaman daha azını verir.
+> Sözleşmenin her tarafı, daha büyük değerde bir şey elde etmek için her zaman daha düşük değerde bir şey verir.
 
-
-Fizyokratların fikirleri ile Condillac'ın fikirleri arasında bundan daha mükemmel bir karşıtlık düşünülemezdi. Fizyokrat iktisatçı Le Trosne şöyle yazmıştır:
-
-
-> Exchange doğası gereği eşit değer için eşit değerden oluşan bir Contract eşitliğidir.
-
-Condillac ise şöyle yazmıştı:
-
-
-> Contract'ün her bir tarafı, daha değerli bir şey elde etmek için her zaman daha az değerli bir şey verir.
-
-Bununla birlikte, karşıtlık büyük ölçüde kelimelerden ibarettir. Her ikisi de bir kitap karşılığında bir frank verildiğinde, kitabın bir frank değerinde olduğunu ya da kitabın fiyatının bir frank olduğunu kabul etmektedir.
+Ancak karşıtlık büyük ölçüde sözcüklerdedir. İkisi de bir frangı bir kitapla değiştirdiğimizde kitabın bir frank değerinde olduğu ya da kitabın fiyatının bir frank olduğu konusunda hemfikirdir.
 
 
 
+Fark, Condillac'ın şunu ileri sürmesinde yatar: Bir frangı kitapla değiştiriyorsak, bu bizim için kitabın değerinin bir franklık madeni paramızın değerinden daha yüksek olduğu anlamına gelir. Kitabı paraya tercih ederiz ve bu yüzden mübadeleyi yaparız.
 
+Condillac'ın teorisi Fizyokratların teorisiyle temelden çelişmez; fakat deyim yerindeyse aynı dili konuşmazlar. Le Trosne fiyattan söz ederken Condillac değerden söz eder; ve tersi.
 
-Aradaki fark Condillac'ın, kitap için bir frank Exchange verdiğimize göre, bunun bizim için kitabın değerinin bir franklık Coin'dan daha yüksek olduğu anlamına geldiğini iddia etmesinde yatmaktadır. Biz kitabı Coin'ya tercih ediyoruz ve bu yüzden Exchange yapıyoruz.
+Condillac'ın haklı olduğu nokta şudur: Mübadele edilen iki mal arasında fiyatlar eşitse, değerler eşit değildir; aksi halde hiçbir mübadele gerçekleşmezdi.
 
+### Ekonomiyi değiştiren üç önerme
 
-Condillac'ın teorisi Fizyokratlarınkiyle temelde çelişmez, ancak tabiri caizse aynı dili konuşmuyorlar. Le Trosne fiyattan bahsederken Condillac değerden bahseder ve bunun tam tersi de geçerlidir.
+Condillac'ın teorisini özetlemek için üç önerme sıralanabilir:
 
+Birinci önerme: malları faydaları için ararız. Bu açık görünür, fakat insanların faydalar edinmek için mübadele yaptığı, ekonomi biliminin merkezi bir ilkesidir; Jean-Baptiste Say de bu noktayı kusursuz biçimde geliştirmiştir.
 
-Condillac'ın haklı olduğu nokta, eğer fiyatlar değiş tokuş edilen iki mal arasında eşitse, değerlerin eşit olmayacağı, aksi takdirde Exchange'nin gerçekleşmeyeceğidir.
+![Jean-Baptiste Say](assets/en/086.webp)
 
+İkinci önerme: değer mübadelelerden önce gelir ve onları motive eder. Her kişinin mal ve hizmetler hakkında yaptığı öznel yargı, aynı mal ve hizmetlerin onlar için, sağladıkları görünen faydaya göre az ya da çok değere sahip olduğunu ima eder. Doğal olarak her birey diğerinden farklı yargıda bulunur ve değer kişiden kişiye değişir.
 
-Condillac'ın teorisini özetlemek gerekirse, üç önerme sıralanabilir:
+Son olarak üçüncü önerme: fiyat, mübadele sürecinin sonucudur. Ürünler benim onlara atfettiğim değer üzerinden mübadele edilmez; çünkü mübadele koşulları satıcının bu ürünlere atfettiği öznel değere de bağlıdır. Alıcı ile satıcı arasındaki ilişki ya da alıcının öznel takdiri ile satıcının öznel takdiri arasındaki ilişki, bir fiyat belirler.
 
+Condillac'ın bu fikirleri temeldir. Her mübadelenin neden her zaman karşılıklı olarak faydalı olduğunu anlamamızı sağlarlar.
 
-İlk önerme: malları faydaları için ararız. Bu çok açık gibi görünse de, insanların fayda elde etmek için Exchange yaptıkları, Jean-Baptiste Say'in de mükemmel bir şekilde geliştirdiği, ekonomi biliminin temel ilkelerinden biridir.
-
-
-![image](assets/tr/086.webp)
-
-
-İkinci önerme: değer, mübadeleleri önceden var eder ve motive eder. Her bireyin mal ve hizmetler hakkında yaptığı öznel yargı, aynı mal ve hizmetlerin kendileri için bir değere sahip olduğunu, sağladıkları faydaya göre az ya da çok değerli olduklarını ima eder. Doğal olarak, her birey bir diğerinden farklı şekilde yargıda bulunur ve değer kişiden kişiye değişir.
-
-
-Son olarak, üçüncü önerme: fiyat Exchange sürecinin bir sonucudur. Ürünler, benim onlara atfettiğim değerde Exchange yapmazlar çünkü Exchange'un koşulları satıcının bu ürünlere atfettiği öznel değere de bağlıdır. Alıcı ve satıcı arasındaki ya da alıcının öznel değeri ile satıcının öznel değeri arasındaki ilişki bir fiyat oluşturur.
-
-
-Condillac'ın bu fikirleri çok önemlidir. Her Exchange'nin neden her zaman karşılıklı fayda sağladığını anlamamızı sağlarlar.
-
-
-Bu nedenle serbest ticarete yönelik eleştirileri tamamen ortadan kaldırırlar, çünkü korumacılık sadece halkların karşılıklı olarak birbirlerinden faydalanmalarını engelleyen bir mekanizma olarak görünür. Laissez-faire aynı zamanda Condillac'ın çalışmasının sonucudur. Bırakın insanlar istediklerini yapsınlar, çünkü eğer kamu gücü özgürlüğü ve mülkiyeti korursa, insanlar her zaman birbirleriyle alışveriş yaparak birbirlerini zenginleştireceklerdir.
-
+Bu nedenle serbest ticarete yönelik eleştirileri tamamen yok ederler; çünkü korumacılık yalnızca nüfusların birbirlerine karşılıklı yarar sağlamasını engelleyen bir mekanizma olarak görünür. Laissez-faire de Condillac'ın çalışmasının sonucudur. Bırakın insanlar diledikleri gibi yapsın; çünkü kamusal güç özgürlüğü ve mülkiyeti korursa, insanlar birlikte mübadele ederek her zaman birbirlerini zenginleştirirler.
 
 ## Condorcet
 
-
 <chapterId>99e4aba6-da7f-5041-b02f-337158381515</chapterId>
 
+### Ekonomiye çekilen bir filozof
 
-Condorcet kuşkusuz Aydınlanma döneminin en ekonomik düşünen filozofudur.
-
-
-
-![image](assets/tr/087.webp)
+Condorcet kuşkusuz **Aydınlanma'nın ekonomiye en yatkın filozofudur**.
 
 
-Kariyerinin büyük bir bölümünde kendini ekonomi ile tamamen ilgisiz alanlara adadı ve haklı olarak yetenekleri en çok odaklandığı bilimlerde büyük ilerlemelere yol açtı. Ancak 1770 civarında, belki de diğer filozofların, özellikle Voltaire ve Diderot'nun boş zamanlarını bu konulara ayırma zahmetine girmemeleri ve Turgot ile arkadaş olması nedeniyle ekonomik sorunlara ilgi duymaya başladı.
+![Nicolas de Condorcet](assets/en/087.webp)
+
+Kariyerinin büyük bir bölümünde kendini ekonomiyle tamamen ilgisiz alanlara adadı; haklıydı da, çünkü yetenekleri en çok yoğunlaştığı bilimlerde büyük ilerleme sağladı. Fakat 1770 civarında ekonomik sorulara çekildi; belki de özellikle Voltaire ve Diderot gibi diğer filozoflar boş zamanlarını bunlara ayırmaya zahmet etmediği için, ayrıca Turgot ile dost olduğu için.
 
 
-
-Condorcet, başlangıçta politik ekonomi ile ilgisi olmayan alanlarda laissez-faire ve özgürlük fikirlerini yavaş yavaş benimsemiştir. **Bir İlahiyatçının Mektubu** adlı eserinde Katolik diniyle felsefi olarak alay etmiş ve inanmama özgürlüğü de dahil olmak üzere gerçek bir inanç özgürlüğü görme arzusunu dile getirmiştir. Condorcet, hoşgörü ve dini fanatizme karşı verdiği mücadelede, Chevalier de la Barre'ın rehabilitasyonu ve bir haçı kırdığı için idama mahkum edilen D'Etallonde'un yeniden yargılanması için mücadele etti.
-
+Condorcet, başlangıçta ekonomi politikle ilgisiz alanlarda olmak üzere, laissez-faire ve özgürlük fikirlerini yavaş yavaş benimsedi. *Bir İlahiyatçının Mektubu*'nda Katolik dini felsefi olarak alaya aldı ve inanmama özgürlüğü dahil gerçek inanç özgürlüğünü görme arzusunu dile getirdi. Hoşgörü için ve dinsel fanatizme karşı yürüttüğü mücadelede Condorcet, Chevalier de la Barre'ın itibarının iadesi ve bir haçı kırdığı için ölüme mahkûm edilmiş D'Etallonde'un yeniden yargılanması için savaştı.
 
 
-Böylece, arkadaşı Turgot Maliye Genel Kontrolörlüğüne yükseldiğinde özgürlüğü savunmaya hazırdı.
+Bu nedenle arkadaşı Turgot Maliye Genel Denetçisi konumuna yükseldiğinde özgürlüğü savunmaya hazırdı.
 
 
+![Anne Robert Jacques Turgot](assets/en/088.webp)
 
-![image](assets/tr/088.webp)
+### Turgot'nun reformlarının savunucusu
 
+Bundan sonra Condorcet'nin kariyeri, yeni bakanın liberal reformlarını yorulmadan destekleyerek ekonomik tartışmaya girmesiyle bir dönüş yaptı. Rekabetten ve ticaret özgürlüğünden yana olan Condorcet, corvées'nin (zorla çalışmanın), loncaların kaldırılması ve adil vergilendirme çağrısında da bulundu. Bu inançlarını fırsat doğdukça kamusal biçimde dile getirdi ve bunu açık bir coşkuyla yaptı; çok yazdı ve bir kez yazılarında şöyle ilan etti: "Ticaret özgürlüğünden yeniden söz etmeme izin verin; bu konuyla uğraşmaktan zevk alıyorum."
 
-O andan itibaren Condorcet'nin kariyeri, yeni bakanın liberal reformlarını yorulmadan destekleyerek ekonomik tartışmalara girmesiyle değişti. Rekabet ve ticaret özgürlüğünden yana olan Condorcet, corvées'in (zorla çalıştırma), loncaların ve adil vergilendirmenin kaldırılması çağrısında da bulundu. Bu görüşlerini fırsat buldukça kamuoyu önünde dile getirdi ve bunu bariz bir coşkuyla yaptı; kapsamlı bir şekilde yazdı ve bir keresinde yazılarında şöyle dedi: "Ticaret özgürlüğünden tekrar bahsetmeme izin verin; bu konuyla ilgilenmekten zevk alıyorum."
+1774 ile 1776 arasında, Turgot'nun bakanlığı sırasında Condorcet çok sayıda müdahalede bulundu; hepsi laissez-faire'e bağlılığıyla damgalanmıştı. Eserleri arasında serbest ticareti savunan *Picardylı Bir Çiftçiden Bay Necker'e Mektuplar*; serbest rekabeti savunan *Tekeller ve Tekelciler*; kaldırılmalarını isteyen *Corvées Üzerine Düşünceler*; ve yine serbest ticareti öven ve Necker'in aynı konudaki kitabını eleştiren *Tahıl Ticareti Üzerine Düşünceler* vardır.
 
+Condorcet, [*Tahıl Ticareti Üzerine Mektuplar*](https://archive.org/details/bub_gb_hg8jFw-y6bwC) adlı eserinde birkaç kilit noktayı ortaya koyar.
 
-1774 ve 1776 yılları arasında, Turgot'nun bakanlığı sırasında Condorcet, hepsi de laissez-faire'e Commitment ile damgasını vuran çok sayıda müdahalede bulundu. Eserleri arasında serbest ticareti savunan *Picardy'li Bir Çiftçiden Bay Necker'e Mektuplar*; serbest rekabeti savunan *Tekeller ve Tekelciler*; bunların kaldırılması çağrısında bulunan *Korvetler Üzerine Düşünceler* ve yine serbest ticareti öven ve Necker'in aynı konudaki kitabını eleştiren *Tahıl Ticareti Üzerine Düşünceler* bulunmaktadır.
+![Galiani, “Letters on the grain trade”](assets/en/089.webp)
 
-
-Condorcet, [*Tahıl Ticareti Üzerine Mektuplar*](https://archive.org/details/bub_gb_hg8jFw-y6bwC) adlı eserinde birkaç önemli noktaya değinmektedir.
-
-
-![image](assets/tr/089.webp)
-
-
-İlk olarak, o dönemdeki yüksek tahıl fiyatları serbest ticaretten değil, kötü hasattan kaynaklanıyordu ve Condorcet bunu açıkça ortaya koymaktadır. Ardından, popüler önyargılara rağmen laissez-faire'in neden sadece uygun değil, aynı zamanda tek uygun politika olduğunu açıklar. "Hükümetin tahıl ticaretine müdahale ettiğini görmeye o kadar alıştık ki, hiçbir şey yapmamak olağanüstü ve yeni bir şey gibi görünüyor" diyor. Daha sonra, "Neredeyse herkes, özellikle de kamu görevinde bulunanlar, hiçbir şeyin kendi kendine olmadığına ve hükümet her şeye müdahale etmezse her şeyin kaybedileceğine inanıyor" diye ekliyor. Condorcet böylece Fizyokratların ve Turgot'nun argümanlarını yeniden canlandırarak serbest ticaretin her türlü müdahaleciliğe karşı üstünlüğünü gösterir.
+Birincisi, o dönemdeki yüksek tahıl fiyatları serbest ticaretin sonucu değil, kötü hasatların sonucuydu; Condorcet bunu açıkça gösterir. Ardından popüler önyargıya rağmen laissez-faire'in neden yalnızca uygun değil, tek uygun politika olduğunu açıklar. Şöyle kaydeder: "Hükümetin tahıl ticaretine müdahale ettiğini görmeye o kadar alışkınız ki hiçbir şey yapmamak olağanüstü ve yeni bir şey gibi görünüyor". Daha sonra ekler: "Neredeyse herkes, özellikle kamu görevinde bulunanlar, hiçbir şeyin kendiliğinden gerçekleşmediğine ve hükümet her şeye müdahale etmezse her şeyin kaybolduğuna inanır". Böylece Condorcet, Fizyokratların ve Turgot'nun argümanlarını yeniden canlandırır; serbest ticaretin her tür müdahaleciliğe üstünlüğünü gösterir.
 
 
-
-Turgot'nun liberal ekonomik gündemini desteklemek cesur bir hareketti, çünkü Condorcet kısa sürede sansürle karşılaşacağını biliyordu. Nitekim bu oldu ve zorla çalıştırmanın kaldırılmasına ilişkin broşürü 1776'da imha edildi ve yasaklandı.
-
+Turgot'nun liberal ekonomik gündemini desteklemek cesur bir eylemdi; çünkü Condorcet kısa sürede sansürle karşılaşacağını biliyordu. Nitekim böyle oldu ve zorla çalışmanın kaldırılması üzerine broşürü 1776'da imha edilip yasaklandı.
 
 
-Turgot, Condorcet'nin fikirlerini sadık bir şekilde savunmasını takdir ederek onu Madeni Para Müfettişi olarak atadı. Condorcet, arkadaşı bakanlıktan ayrılır ayrılmaz istifa etti.
+Turgot, fikirlerini sadakatle savunmasını takdir ederek Condorcet'yi Darphane Müfettişi olarak atadı. Condorcet, arkadaşı bakanlıktan ayrılır ayrılmaz istifa etti.
+
+
+### Devrim öncesi Fransa'da reformun sınırları
+
+Tüm enerjisini Turgot'yu savunmaya adamış olsa da Condorcet, arkadaşının görev süresinin sonucu hakkında hiçbir yanılsamaya sahip değildi. Turgot'nun kendisi yaşamının sonlarında, bir mektupta yazdığı gibi, "ulusuma ve insanlığa çok kolay olduğuna inandığım bir iyiliği yapamamış olmanın" pişmanlığıyla yaşadığını kabul etti. Daha gerçekçi olan Condorcet, Turgot'nun karşılaşacağı birçok hasmı işaret etti: kralın gözdesi olanlar, parlements, ruhban sınıfı, soylular, loncalar ve benzerleri. Bu gruplar reform değil, dalkavukluk bekliyordu. Condorcet Turgot'ya, "Hiç de şarlatan değilsiniz ve Paris'te işlerin gidişine bakılırsa bu bir kusurdur" dedi. Tamamen haklıydı; çünkü 1776'da, gelişinden yalnızca iki yıl sonra, Turgot Maliye Genel Denetçiliği'nden ayrılmaya zorlanmıştı.
 
 
 
-Tüm enerjisini Turgot'yu savunmaya adamış olsa da Condorcet'nin arkadaşının görev süresinin sonucu hakkında hiçbir hayali yoktu. Turgot'nun kendisi de hayatının sonlarında, bir mektubunda yazdığı gibi, "ulusuma ve insanlığa çok kolay olduğuna inandığım bir iyilik yapamadığım için" pişmanlık içinde yaşadığını itiraf etti. Daha gerçekçi olan Condorcet, Turgot'nun karşılaşacağı pek çok düşmana dikkat çekti: kralın gözdeleri, parlamentolar, din adamları, soylular, loncalar ve diğerleri. Bu gruplar reform değil dalkavukluk bekliyordu. Condorcet, Turgot'ya "Hiçbir şekilde bir şarlatan değilsiniz ve Paris'te işlerin nasıl yürüdüğü göz önüne alındığında bu bir kusur" dedi. Tamamen haklıydı, çünkü 1776'da, gelişinden ancak iki yıl sonra, Turgot Kontrolör-Generalliği bırakmak zorunda kalmıştı bile.
-
-
-
-
-## Devrim döneminde liberal sağduyu
-
+## Devrim sırasında liberal sağduyu
 
 <chapterId>95e9a90d-e37a-58ff-b1ac-928b42e76ecf</chapterId>
 
+### Bankacılık tekellerine karşı
 
-Dupont de Nemours, bir zamanlar kendisi hakkında şöyle diyen François Quesnay'in en genç öğrencisiydi: "Bu genç adama dikkat etmeliyiz, çünkü biz öldüğümüzde o konuşacak". Fransız Devrimi başladığında, Marquis de Mirabeau da dahil olmak üzere neredeyse tüm büyük Fizyokratlar çoktan ölmüştü; Mirabeau'nun kendisi de 13 Temmuz 1789'da vefat etmişti.
+Dupont de Nemours, François Quesnay'in en genç öğrencisiydi; Quesnay bir zamanlar onun hakkında şöyle demişti: "Bu genç adama iyi bakmalıyız, çünkü biz öldüğümüzde o konuşacak". Fransız Devrimi başladığında, Marquis de Mirabeau dahil neredeyse tüm büyük Fizyokratlar çoktan gitmişti; Mirabeau 13 Temmuz 1789'da ölmüştü.
+Dupont de Nemours, Nemours bailliage'ı için şikâyetler listesini yazdı.
 
-Dupont de Nemours, Nemours beylerbeyliği için şikayet listesini yazdı.
+![États-Généraux'nun Versailles'da toplanması, 5 Mayıs 1789, Champagney, “Şikâyetler Listesi”](assets/en/090.webp)
 
-
-![image](assets/tr/090.webp)
-
-
-Bu etkileyici belge, liberal ekonomistlerin ticari kısıtlamalara, tekellere ve mülkiyete yönelik saldırılara karşı tüm şikayetlerini içeriyordu. Dupont de Nemours da Ulusal Meclis'e seçildi.
+Bu ilgi çekici belge, liberal ekonomistlerin ticaret kısıtlamalarına, tekellere ve mülkiyete saldırılara karşı tüm şikâyetlerini içeriyordu. Dupont de Nemours da Ulusal Meclis'e seçildi.
 
 
+Devrim sırasında **liberal sağduyunun sesi** oldu; sonunda üstün gelecek olan popülizm ve müdahaleci demagoji dalgasına karşı sağlam durdu.
+
+Daha Kasım 1789'da, Caisse d'Escompte'a tekel verilmesinden (bu onu bir kamu bankasına, Banque de France'a dönüştürebilirdi) söz edilirken, Dupont de Nemours rekabeti savunmak için sesini yükseltti.
 
 
-Devrim sırasında liberal sağduyunun sesi olmuş, giderek artan popülizm ve müdahaleci demagoji dalgasına karşı sağlam durmuş ve nihayetinde galip gelmiştir.
+![Dupont de Nemours, “Ulusal Meclis'e Konuşma”, 1789](assets/en/091.webp)
+
+"Daha iyi olurdu" der, "bankacılık işini serbest ticaret yasalarına bırakmak". Ve ekler:
+
+> Bakanın Caisse d'Escompte'a bir ayrıcalık verilmesinden söz ederken ne kastettiğini anlamıyorum. Bu ayrıcalık münhasırlık içeriyorsa, onu reddetmelisiniz; çünkü buraya münhasır ayrıcalıkları yok etmek için geldiniz, yenilerini yaratmak için değil.
+
+Uyarılarına rağmen Meclis itirazlarını görmezden geldi ve merkez bankası ile bankacılık tekeli kurmaya doğru bir adım daha attı.
+1790'da Kurucu Meclis'te Dupont de Nemours, Fizyokrat dostlarının pasifist geleneğini izledi ve saldırı savaşlarını yasaklayan bir yasa önerdi. İlk madde şöyleydi: "Fransız Ulusu, başkalarının topraklarını ele geçirmek ya da herhangi bir Ulusun haklarını veya özgürlüğünü ihlal etmek için herhangi bir saldırı savaşına girişmesine izin vermeyecektir". 
+
+Bu öneri reddedildi.
+
+### Assignat'lara karşı savaş
+
+Aynı yıl, 1790'da, hükümet giderlerini karşılamak için yeni kâğıt para çıkarılması üzerine tartışmalar başladı.
+Dupont de Nemours buna kesin biçimde karşı çıktı ve [*Assignat'ların Ekmek Fiyatı Üzerindeki Etkileri*](https://archive.org/details/effetdesassignat00dupo) başlıklı bir broşür yayımladı. Başlık doğruydu; çünkü assignat çıkarılmasının kaçınılmaz olarak enflasyona, ekmek dahil emtia fiyatlarının artmasına yol açacağını açıklıyordu.
 
 
-Kasım 1789 gibi erken bir tarihte, Caisse d'Escompte'a (onu bir kamu bankası olan Fransa Bankası'na dönüştürebilecek) bir tekel verilmesinden söz edildiğinde, Dupont de Nemours rekabeti savundu.
+![Dupont de Nemours, “Assignat'ların Ekmek Fiyatı Üzerindeki Etkisi”](assets/en/092.webp)
+
+Broşürü "halkın bir dostu" olarak imzaladı. Metin büyük yankı uyandırdı; Meclis'e bunu kimin yazdığı soruldu. Dupont de Nemours ayağa kalktı ve bunun kendi eseri olduğunu kabul etti; assignat'lara karşı savaşmanın gerçekten halka hizmet etmek olduğu için "halkın dostu" unvanını kullanmaktan utanmadığını söyledi.
+Bir kez daha tavsiyesi görmezden gelindi ve assignat'lar çıkarıldı.
 
 
+![100'lük Assignat](assets/en/093.webp)
 
-![image](assets/tr/091.webp)
+Ardından gelen felaketi hepimiz biliyoruz: ekonomik yıkım ve halkın çektiği acı; birçok kişi assignat'lar değersiz hale gelip yakılmak zorunda kaldığında her şeyini kaybetti.
+### Dinleyeni olmayan bir peygamber
 
+Birkaç yıl sonra Meclis, para üretimi üzerinde tekel verilecek gerçek bir Banque de France kurma fikrine yöneldi.
 
-"Bankacılık işini serbest ticaret kanunlarına bırakmak daha iyi olur" diyor. Ve ekliyor:
-
-
-> "Bakanın Caisse d'Escompte'a bir ayrıcalık tanımaktan bahsederken ne demek istediğini anlamıyorum. Eğer bu imtiyaz ayrıcalık içeriyorsa, bunu reddetmelisiniz, çünkü siz buraya ayrıcalıklı imtiyazları yok etmeye geldiniz, yenilerini yaratmaya değil."
-
-Uyarılarına rağmen, Meclis onun itirazlarını görmezden geldi ve bir merkez bankası ve bankacılık tekeli kurma yolunda bir adım daha attı.
-
-1790'da Kurucu Meclis'te Dupont de Nemours, Fizyokrat arkadaşlarının pasifist geleneğini izledi ve saldırgan savaşları yasaklayan bir yasa önerdi. İlk madde şöyleydi: "Fransız Ulusu, başkalarının topraklarını ele geçirmek ya da herhangi bir Ulusun haklarını veya özgürlüğünü ihlal etmek için herhangi bir saldırı savaşına girmesine izin vermeyecektir".
+Kamu bankası fikrine hâlâ kesin biçimde karşı olan ve bunu tekelden başka bir şey olarak görmeyen Dupont de Nemours, Meclis'e assignat'ların felaket deneyimini hatırlattı. Onlara şöyle dedi:
 
 
-Bu teklif reddedilmiştir.
+> Kendinizi, Kurucu Meclis'teki meslektaşlarıma azap çektiren pişmanlıklara hazırlamayın. O zaman assignat'ların yalnızca ulusal malların ödenmesiyle sınırlanması ve dolaşım parası haline getirilmemesi yönündeki önerim reddedilmişti. Bugün şöyle diyorlar: 'Ah, keşke Dupont de Nemours'u dinleseydik!'
 
-
-Aynı yıl, 1790'da, hükümet harcamalarını karşılamak için yeni kağıt para çıkarılması tartışmaları başladı.
-
-Dupont de Nemours buna şiddetle karşı çıktı ve [*Ekmek Fiyatlarına Tahsisatların Etkileri*](https://archive.org/details/effetdesassignat00dupo) başlıklı bir broşür yayınladı. Başlık doğruydu, zira Dupont de Nemours assignat çıkarmanın kaçınılmaz olarak enflasyona, yani ekmek de dahil olmak üzere emtia fiyatlarında artışa yol açacağını açıklıyordu.
-
-
-
-![image](assets/tr/092.webp)
-
-
-Broşürü "halkın dostu" olarak imzaladı. Meclis'te bu yazıyı kimin yazdığı sorulunca yazı büyük bir heyecan yarattı. Bunun üzerine Dupont de Nemours ayağa kalkarak yazının kendisine ait olduğunu kabul etti ve "halkın dostu" unvanını kullanmaktan utanmadığını, çünkü atamacılara karşı mücadele etmenin gerçekten halka hizmet etmek olduğunu söyledi.
-
-Bir kez daha tavsiyesi dikkate alınmadı ve atamalar yapıldı.
-
-
-
-![image](assets/tr/093.webp)
-
-
-Bunu takip eden felaketi, ekonomik yıkımı ve insanların çektiği acıları hepimiz biliyoruz; birçoğu atamaların değersiz hale gelmesi ve yakılmak zorunda kalınmasıyla her şeyini kaybetti.
-
-Birkaç yıl sonra Meclis, para üretimi üzerinde tekel sahibi olacak gerçek bir Fransa Bankası kurulması fikrine yöneldi.
-
-
-Tekelden başka bir şey olarak görmediği için kamu bankası fikrine hala şiddetle karşı çıkan Dupont de Nemours, Meclis'e assignat'ların yaşadığı felaket deneyimini hatırlattı. Onlara şöyle dedi:
-
-
-
-> "Kurucu Meclis'teki meslektaşlarımı üzen pişmanlıklar gibi pişmanlıklara kendinizi hazırlamayın. O dönemde, assignatların sadece ulusal malların ödenmesiyle sınırlandırılması ve tedavüldeki bir para birimi haline getirilmemesi yönündeki önerim reddedilmişti. Bugün şöyle diyorlar: 'Ah, keşke Dupont de Nemours'u dinleseydik!"
-
-Ancak bir kez daha kimse onu dinlemedi.
-
+Ama bir kez daha kimse onu dinlemedi.
 
 ## Sonuç: Meşaleyi Devretmek
 
-
 <chapterId>ada8082f-db96-5e52-954f-719b47998153</chapterId>
 
+### Unutulmuş temeller
 
-18'inci yüzyıldaki Fransız ekonomik düşüncesi genellikle 19'uncu yüzyılın daha ünlü ekonomistleri tarafından gölgede bırakılır. Oysa söz konusu özgürlüğün savunulması olduğunda, her şey 18. yüzyılda başlar. Bu yüzyıl, zamanında devrim niteliğinde olan laissez-faire ilkesinin Boisguilbert'ten Dupont de Nemours'a kadar bir dizi düşünür tarafından ilk kez açıkça ifade edildiği yüzyıldır.
+18. yüzyıldaki Fransız ekonomik düşüncesi çoğu zaman 19. yüzyılın daha ünlü ekonomistlerinin gölgesinde kalır. Oysa özgürlüğün savunusu söz konusu olduğunda her şey gerçekten 18. yüzyılda başlar. Kendi döneminde çok devrimci olan laissez-faire ilkesinin Boisguilbert'den Dupont de Nemours'a kadar bir dizi düşünür tarafından ilk kez açıkça ifade edildiği yüzyıl budur.
+Elbette Jean-Baptiste Say, [Frédéric Bastiat](https://planb.academy/resources/books/bastiat-oeuvres-completes-765be39c-134a-4333-8b4b-e45a4fff7e73), [Gustave de Molinari](https://planb.academy/resources/books/molinari-oeuvres-completes-8a3dbdd8-2053-45bc-9203-dd3b7f3edfee) ve Yves Guyot gibi figürler Fransız ekonomik düşünce tarihinde kalıcı izler bıraktı. Fakat onları tek başına incelersek, esaslı bir şeyi kaçırırız. Bu 19. yüzyıl düşünürleri yoktan çıkmadı; Aydınlanma sırasında 18. yüzyıl öncüllerinin attığı temelleri miras aldılar ve onların üzerine inşa ettiler.
 
-Kuşkusuz Jean-Baptiste Say, Frédéric Bastiat, Gustave de Molinari ve Yves Guyot gibi isimler Fransız iktisadi düşünce tarihinde kalıcı izler bırakmıştır. Ancak onları tek başlarına incelediğimizde önemli bir şeyi gözden kaçırmış oluruz. Bu 19. yüzyıl düşünürleri birdenbire ortaya çıkmadılar; Aydınlanma döneminde 18. yüzyıldaki selefleri tarafından atılan temelleri miras aldılar ve üzerine inşa ettiler.
+### Modern ekonomiyi şekillendiren altı ilke
 
-
-Boisguilbert, hükümeti işin içine katarak her şeyi düzeltebileceklerine inanan iyi niyetli ruhların ekonomiyi kaçınılmaz olarak alt üst ettiğini ve bu nedenle işleri doğal akışına bırakmanın daha iyi olacağını ileri sürüyor.
-
-
-
-![image](assets/tr/094.webp)
+Boisguilbert, hükümeti işe katarak her şeyi düzeltebileceklerine inanan iyi niyetli ruhların kaçınılmaz olarak ekonomiyi altüst ettiğini ve bu yüzden şeylerin doğal düzeninin kendi yolunu izlemesine izin vermenin daha iyi olduğunu ileri sürer.
 
 
-Cantillon, paranın asla siyasi amaçlar için manipüle edilmemesi gerektiğinde ısrar etmiştir. Devletin parayı istediği gibi yönetmesine izin vermek, muazzam bir mali ve ekonomik düzensizliğin önünü açmak demektir.
+![Pierre Le Pesant de Boisguilbert, Cantillon, “Essay on the nature of commerce in general”, Josiah Child, “A treatise on trade”](assets/en/094.webp)
 
+Cantillon, paranın siyasal amaçlar için asla manipüle edilmemesi gerektiğinde ısrar etti. Devletin parayı dilediği gibi yönetmesine izin vermek, muazzam finansal ve ekonomik düzensizliğin yolunu açmaktır.
 
 
 
 
-
-Vincent de Gournay, emeğin aşırı düzenlenmesinin işçilerin ve zanaatkârların cesaretini kırdığını, onları tembelliğe ve hareketsizliğe ittiğini ileri sürer. Serbest rekabet sayesinde ekonomi büyüyebilir ve bir ulus refaha kavuşabilir.
-
+Vincent de Gournay, emeğin aşırı düzenlenmesinin işçilerin ve zanaatkârların çabasını kırdığını, onları tembelliğe ve hareketsizliğe ittiğini ileri sürer. Ekonominin büyümesi ve bir ulusun gelişmesi serbest rekabet sayesinde mümkündür.
 
 
 
 
-
-Marquis d'Argenson, hiçbir hükümetin her şeyi öngöremeyeceğini ve ölçemeyeceğini, dolayısıyla her bireyin kendi çıkarına güvenmesi gerektiğini ileri sürer.
-
+Marquis d'Argenson, hiçbir hükümetin her şeyi öngörüp ölçemeyeceğini ve bunun sonucunda her bireyin kendi çıkarına güvenmek gerektiğini ileri sürer.
 
 
-![image](assets/tr/095.webp)
+![Quesnay, Condillac, D'Argenson](assets/en/095.webp)
 
-
-Quesnay ve Fizyokratlar özel mülkiyetin insan toplumlarının temeli olduğunu ileri sürerler. Özel mülkiyet olmadan insan, emeğinin meyvelerinin tadını çıkaramayacağı ya da herhangi bir şey biriktiremeyeceği için çaba gösterme, çalışma motivasyonunu kaybeder.
+Quesnay ve Fizyokratlar, özel mülkiyetin insan toplumlarının temeli olduğunu ileri sürer. Özel mülkiyet olmadan insan çaba gösterme ve çalışma motivasyonunu kaybeder; çünkü emeğinin meyvelerinden yararlanamaz ya da hiçbir şey biriktiremez.
 
 
 
-
-
-Condillac, Exchange'nin her zaman karşılıklı yarar sağladığını ve bu nedenle istisnasız olarak her zaman özgür olması gerektiğini ileri sürer. Devletin yegane görevi özgürlüğü ve mülkiyeti korumak olmalıdır.
-
+Condillac, mübadelenin her zaman karşılıklı olarak faydalı olduğunu ve bu nedenle istisnasız her zaman serbest olması gerektiğini ileri sürer. Devletin tek görevi özgürlüğü ve mülkiyeti korumak olmalıdır.
 
 
 
+### Meşalenin 19. yüzyıla devri
 
-Tüm bu fikirler 19. yüzyılın ekonomistleri tarafından ele alınacaktı. Jean-Baptiste Say gibi bazıları bu fikirlere titiz bir *Politik Ekonomi Üzerine İnceleme* aracılığıyla bilimsel bir ifade kazandıracaktı. Diğerleri ise, tam tersine, Frédéric Bastiat'nın ustalıkla yapacağı gibi, masallar, romanlar ve eğlenceli kısa öyküler alanına girerek bu temel düsturları popülerleştirmeye çalışacaktı.
-
+Bu fikirlerin tümü 19. yüzyıl ekonomistleri tarafından devralınacaktı. Jean-Baptiste Say gibi bazıları, titiz bir *Ekonomi Politik İncelemesi* aracılığıyla bu fikirlere bilimsel bir ifade verecekti. Frédéric Bastiat'nın ustalıkla yapacağı gibi, başkaları ise tersine bu temel ilkeleri masallar, romanlar ve eğlenceli kısa hikâyeler alanına girerek popülerleştirmeye çalışacaktı.
 
 ## Biyografi
 
-
 <chapterId>17cf2865-e53c-5f3b-a5c2-a43560efaf01</chapterId>
 
-
-**SEÇİCİ KAYNAKÇA**
-
+**SEÇİCİ BİBLİYOGRAFYA**
 
 Aşağıda otuzdan fazla yazıdan oluşan bir seçki bulacaksınız:
 
+### Öncüler ve erken reformcular
 
 1. Pierre Clément, Histoire de Colbert et de son administration, Paris, 1874
-
-2. Vauban, Projet d'une dîme royale, 1707; yeniden basım Institut Coppet, 2014; Anne Blanchard, Vauban, Fayard, 1996
-
-3.	Boisguilbert, Détail de la France, 1695; Institut Coppet tarafından yeniden yayımlanmıştır, 2014
-
+2. Vauban, Projet d'une dîme royale, 1707; Institut Coppet yeniden basımı, 2014; Anne Blanchard, Vauban, Fayard, 1996
+3.	Boisguilbert, Détail de la France, 1695; Institut Coppet tarafından yeniden yayımlandı, 2014
 4. Félix Cadet, Pierre de Boisguilbert: ekonomistlerin öncüsü, Institut Coppet, 2014
-
 5. Pierre de Boisguilbert ou la naissance de l'économie politique, Paris, INED, 1966
-
-6. Richard Cantillon, Essai sur la nature du commerce en général, 1755; Institut Coppet tarafından yeniden basılmıştır, 2015
-
-7. Antoin Murphy, Richard Cantillon, bankacı ve ekonomist, Oxford, 1986
-
-8. Gustave de Molinari, L'Abbot of Saint-Pierre, Paris, 1859
-
+6. Richard Cantillon, Essai sur la nature du commerce en général, 1755; Institut Coppet tarafından yeniden basıldı, 2015
+7. Antoin Murphy, Richard Cantillon, banker and economist, Oxford, 1986
+8. Gustave de Molinari, Saint-Pierre Başrahibi, Paris, 1859
 9. Saint-Pierre Başrahibi, Abrégé du projet de paix perpétuelle, Rotterdam, 1729
-
 10. Saint-Pierre Başrahibi, "Projet pour perfectionner le commerce de la France", Les rêves d'un homme de bien içinde, Paris, 1775, s.199
-
 11. André Alem, Le marquis d'Argenson et l'économie politique au début du XVIIIe siècle, Institut Coppet, 2015
-
 12. Journal et mémoires du marquis d'Argenson, Rathery baskısı, 9 cilt, Paris, 1859-1867
-
-13. Benoît Malbranque, Vincent de Gournay: laissez-faire'in ekonomi politiği, Institut Coppet, 2016
-
+13. Benoît Malbranque, [Vincent de Gournay: laissez-faire'in ekonomi politiği](https://planb.academy/resources/books/benoit-malbranque-vincent-de-gournay-leconomie-pol-23fb1bac-21d6-432f-a4f3-69a359e48358), Institut Coppet, 2016
 14. Vincent de Gournay, Remarques sur la traduction de Josiah Child, L'Harmattan, 2008
-
 15. Christine Théré & Loïc Charles (eds.), Le cercle de Gournay, INED, 2005
-
-16. Antoin Murphy, "Le développement des idées économiques en France (1750-1756)", Revue d'histoire moderne et contemporaine, tome XXXIII, Ekim-Aralık 1986
+16. Antoin Murphy, "Le développement des idées économiques en France (1750-1756)", Revue d'histoire moderne et contemporaine, cilt XXXIII, Ekim-Aralık 1986
+### Fizyokratlar ve dünyaları
 
 17. Henri Ripert, Le marquis de Mirabeau: ses théories politiques et économiques, Paris, 1901
-
-18. Lucien Brocard, Les doctrines économiques et sociales du marquis de Mirabeau, L'Ami des Hommes içinde, Paris, 1902
-
+18. Lucien Brocard, Les doctrines économiques et sociales du marquis de Mirabeau in L'Ami des Hommes, Paris, 1902
 19. Humbert de Montlaur, Mirabeau, l'Ami des Hommes, Perrin, 1992
-
 20. Yves Guyot, François Quesnay et la Physiocratie, Institut Coppet, 2014
-
 21. François Quesnay, Œuvres économiques complètes et autres textes, 2 cilt, INED, 2005
-
 22. Georges Weulersse, Le mouvement physiocratique en France (de 1756 à 1770), 2 cilt, Paris, 1910
-
 23. Georges Weulersse, La Physiocratie à la fin du règne de Louis XV (1770-1774), P.U.F., 1959
-
 24. Georges Weulersse, La Physiocratie sous les ministères de Turgot et de Necker (1774-1781), P.U.F., 1950
-
 25. Georges Weulersse, La physiocratie à l'aube de la révolution (1781-1792), EHESS, 1985
-
 26. P. Jolly, Du Pont de Nemours, soldat de la liberté, Paris, P.U.F., 1956
+### Aydınlanma ekonomistleri
 
 27. Voltaire'in ekonomik yazıları, Institut Coppet, 2013
-
-28. Gustave Schelle (ed.), Œuvres de Turgot et documents le concernant, Paris, 1913-1924
-
+28. Gustave Schelle (ed.), [Œuvres de Turgot et documents le concernant](https://planb.academy/resources/books/turgot-oeuvres-completes-37fa0489-cabd-413c-9240-34d1663d0720), Paris, 1913-1924
 29. Benoît Malbranque, Le libéralisme à l'essai : Turgot intendant du Limousin (1761-1774), Institut Coppet, 2015
-
 30. Pierre Foncin, Essai sur le ministère de Turgot, Paris, 1877
-
 31. Auguste Lebeau, Condillac économiste, Paris, 1903
-
-32. Condillac, Le commerce et le gouvernement considérés relativement l'un avec l'autre, 1776
-
+32. Condillac, [Le commerce et le gouvernement considérés relativement l'un avec l'autre](https://planb.academy/resources/books/condillac-le-commerce-et-le-gouvernement-5e397405-e066-43bc-82df-1017c1fb63ae), 1776
 33. Condorcet, Mélanges d'économie politique, Eugène Daire (ed.), Mélanges d'économie politique içinde, Paris, 1847
-
 34. P. Jolly, Du Pont de Nemours, soldat de la liberté, Paris, P.U.F., 1956
-
-35. Eli Heckscher, Merkantilizm, 2 cilt. Londra: Allen and Unwin. 1935
-
+35. Eli Heckscher, Mercantilism, 2 cilt. London: Allen and Unwin. 1935
 
 # Son bölüm
 
-
 <partId>385bffab-aea1-5bcd-9569-62b3f30665b7</partId>
 
-
-## Yorumlar & Derecelendirmeler
-
+## İncelemeler ve Puanlar
 
 <chapterId>a1e689d9-abd0-5dcb-ba56-a8d355d0a84f</chapterId>
-
 <isCourseReview>true</isCourseReview>
 
 ## Final Sınavı
 
-
 <chapterId>bdb7fd98-33e7-11f0-9fe6-b785c859ffc5</chapterId>
-
 <isCourseExam>true</isCourseExam>
 
 ## Sonuç
 
-
 <chapterId>3b366ff6-03c8-5f6a-b4c0-ba8186e65d7e</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>

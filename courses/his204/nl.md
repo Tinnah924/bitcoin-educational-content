@@ -1,1761 +1,1338 @@
 ---
-name: De oorsprong van Laissez-Faire economie
-goal: Verken de fundamenten van het liberale economische denken uit de 18e eeuw, met nadruk op de laissez-faire-doctrine, de belangrijkste denkers en de blijvende invloed.
+name: De oorsprong van de laissez-faire-economie
+goal: Verken de grondslagen van het 18e-eeuwse liberale economische denken, met de nadruk op de leer van laissez-faire, haar belangrijkste denkers en blijvende invloed.
 objectives:
-- Een solide begrip krijgen van de kernconcepten achter liberaal economisch denken en hoe deze zich ontwikkelden tijdens de 18e eeuw
-- De argumenten begrijpen die denkers ontwikkelden tegen staatsinterventionisme
-- De impact van laissez-faire-denken op de vormgeving van de ontwikkeling van de mondiale politieke economie evalueren
-- De spanning tussen theorie en praktijk bij de implementatie van liberale economie onderzoeken
+- Verwerf een grondig begrip van de kernconcepten van het liberale economische denken en hoe deze zich in de 18e eeuw ontwikkelden
+- Begrijp de argumenten die denkers ontwikkelden tegen staatsinterventionisme
+- Beoordeel de invloed van het laissez-faire-denken op de ontwikkeling van de wereldwijde politieke economie
+- Onderzoek de spanning tussen theorie en praktijk bij de uitvoering van liberaal economisch beleid
 ---
-# Een reis door de economische geschiedenis van vrijheid
+# Een reis door de economische geschiedenis van de vrijheid
 
-Deze cursus verkent de geboorte van de economische wetenschap in het 18e-eeuwse Frankrijk door de lens van laissez-faire. Je ontdekt hoe denkers het mercantilisme uitdaagden door te betogen dat de staat particuliere rechten moest beschermen, maar nooit markten mocht manipuleren door middel van regelgeving.
+Deze cursus verkent de geboorte van de economische wetenschap in het 18e-eeuwse Frankrijk door de lens van laissez-faire. Je ontdekt hoe denkers het mercantilisme uitdaagden door te stellen dat de Staat particuliere rechten moest beschermen, maar nooit markten mocht manipuleren via regelgeving.
 
-Je leert hoe visionaire hervormers deze visie uitbreidden om vrije handel en onbeperkte circulatie van goederen te eisen, waarmee ze de intellectuele fundamenten van het moderne kapitalisme legden. Door deze baanbrekende economen te bestuderen, begrijp je de tijdloze principes die de mondiale politieke economie hebben gevormd en vandaag de dag nog steeds beleidsdebatten beïnvloeden. Meld je nu aan om de ideeën te beheersen die de moderne economie hebben opgebouwd.
+Je leert hoe visionaire hervormers deze visie uitbreidden om vrijhandel en ongehinderd verkeer van goederen te eisen, waarmee ze de intellectuele grondslagen van het moderne kapitalisme legden. Door deze baanbrekende economen te bestuderen, begrijp je de tijdloze principes die de wereldwijde politieke economie vormden en die het beleidsdebat vandaag nog steeds beïnvloeden. Doe nu mee om de ideeën te beheersen die de moderne economie hebben gebouwd.
 +++
 # Inleiding
-
 <partId>06d67531-19f1-4f8d-bf8f-77bbcc743672</partId>
 
-
-## Cursusoverzicht
-
+## Overzicht van de cursus
 <chapterId>202db3c6-0320-494d-8057-adc6f6563048</chapterId>
 
+### Welkom
 
-Welkom bij HIS204!
+Welkom bij HIS 204! Deze cursus, gegeven door **[Benoît Malbranque](https://planb.academy/professors/benoit-malbranque)**, voorzitter van het Institut Coppet en een van de vooraanstaande specialisten in de Franse liberale traditie, verkent de Franse oorsprong van het begrip *laissez-faire* zoals het zich in de 18e eeuw ontwikkelde binnen een rijke intellectuele traditie.
 
+Lang voordat Adam Smith [*The Wealth of Nations*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289) publiceerde, bouwden Franse denkers al aan een politieke economie gebaseerd op economische vrijheid, wantrouwen jegens staatsinmenging en een geloof in een natuurlijke orde die groei en welvaart bevordert. Door hun argumenten te volgen, van Vauban en Boisguilbert tot Turgot en Condorcet, ontdek je een vergeten intellectuele erfenis die de moderne wereld heeft gevormd.
 
-Deze cursus is ontworpen om de Franse oorsprong van het concept van *laissez-faire* - "laat het gebeuren"- te verkennen, zoals het zich in de 18e eeuw ontwikkelde via een rijke intellectuele traditie. Door de gedachten van vroege Franse economische denkers te volgen, ontdekken we de fundamenten van een politieke economie die is gebouwd op economische vrijheid, gekenmerkt door een wantrouwen jegens staatsinmenging en een geloof in een natuurlijke orde die groei en welvaart bevordert.
+### Wat je leert
 
+- **Volg de opkomst van laissez-faire** van de eerste voorlopers onder Lodewijk XIV tot de volledige uitwerking ervan in de fysiocratische school.
+- **Identificeer de belangrijkste denkers** die het mercantilisme en het absolutisme uitdaagden: Vauban, Boisguilbert, Cantillon, Quesnay, Turgot, Condillac en anderen.
+- **Begrijp de argumenten tegen staatsinterventionisme** die deze economen ontwikkelden, van kritiek op belastingen tot de verdediging van vrijhandel.
+- **Analyseer het fysiocratische stelsel** en de revolutionaire stelling dat landbouw, en niet handel, de bron van nationale rijkdom is.
+- **Beoordeel de blijvende invloed van het laissez-faire-denken** op de wereldwijde politieke economie en op de debatten die het economisch beleid vandaag nog steeds vormen.
+- **Herken de spanning tussen theorie en praktijk** via het verhaal van Turgots hervormingen en hun mislukking in het prerevolutionaire Frankrijk.
 
-**Deel 2: De Voorlopers**
+### Curriculum
 
+**Sectie 2: De voorlopers.** We beginnen aan het begin van de 17e en 18e eeuw, een tijd gekenmerkt door absolute monarchie en de eerste roep om een rationelere manier van bestuur. Via Vauban, Boisguilbert en Cantillon ontdekken we vroege kritiek op staatsinterventionisme en de eerste contouren van wat later liberale politieke economie zou worden.
 
-In dit deel beginnen we bij de eeuwwisseling van de 17e en 18e eeuw, een tijd die gekenmerkt werd door de buitensporige heerschappij van de absolute monarchie en de eerste roep om een rationelere en eerlijkere manier om de publieke zaak te besturen. Via de figuren Vauban, Boisguilbert en Cantillon ontdekken we vroege kritiek op staatsinterventionisme en een eerste schets van wat later de liberale politieke economie zou worden.
+**Sectie 3: Hervormers en denkers van de vroege 18e eeuw.** Deze sectie richt zich op degenen die probeerden de Franse economie te hervormen in het licht van nieuwe principes. Denkers zoals de abt van Saint-Pierre, de markies d'Argenson en Gournay riepen op tot het afbreken van corporatistische belemmeringen, het liberaliseren van de handel en het aanmoedigen van concurrentie als motor van ontwikkeling. Hun stoutmoedige voorstellen kondigden de fysiocratische ideeën aan.
 
+**Sectie 4: De fysiocratische school.** We verkennen een van de belangrijkste momenten in het Franse economische denken. We onderzoeken de oorsprong, de leerstellige grondslagen en de belangrijkste verwezenlijkingen van de fysiocraten, met de nadruk op Quesnay en Dupont de Nemours. Het idee van laissez-faire wordt hier een samenhangend stelsel, geworteld in het begrip van een natuurlijke orde waaraan de Staat zich moet onderwerpen.
 
-**Deel 3: Hervormers en denkers uit het begin van de 18e eeuw**
+**Sectie 5: De Verlichting en de politieke economie.** Ten slotte zien we hoe het liberale economische denken zich verspreidde binnen de bredere Verlichtingsbeweging. Voltaire, Turgot, Condillac en Condorcet breidden de laissez-faire-traditie uit en bouwden zo een brug naar het revolutionaire tijdperk en verder.
 
+Klaar om de Franse wortels van het economisch liberalisme te herontdekken? Laten we beginnen!
 
-Dit deel richt zich op degenen die in de eerste decennia van de 18e eeuw probeerden de Franse economie te hervormen in het licht van nieuwe principes. Denkers als de abt van Saint-Pierre, de markies d'Argenson en Gournay (samen met zijn volgelingen) riepen op tot het ontmantelen van corporatistische obstakels, het liberaliseren van de handel en het aanmoedigen van concurrentie als motor van ontwikkeling. Hun vaak gewaagde voorstellen waren een voorbode van de grote ideeën van de Fysiocraten.
+### Over de auteur van de cursus
 
+**[Benoît Malbranque](https://planb.academy/professors/benoit-malbranque)** is voorzitter van het Institut Coppet, een vereniging die zich inzet voor het bevorderen van de Franse school van de politieke economie. Hij is auteur van verschillende boeken, waaronder [*Vincent de Gournay: The Political Economy of Laissez-faire*](https://planb.academy/resources/books/benoit-malbranque-vincent-de-gournay-leconomie-pol-23fb1bac-21d6-432f-a4f3-69a359e48358) (2016), en hij heeft de geschriften van Franse economen opnieuw uitgegeven in de publicatiereeksen van het Institut Coppet. Zijn diepgaande kennis van de primaire bronnen maakt hem een unieke gids doorheen deze intellectuele geschiedenis.
 
-**Deel 4: De Fysiocratische School**
-
-
-In dit hoofdstuk wordt een van de belangrijkste momenten in het Franse economische denken onderzocht: de school van de fysiocraten. We onderzoeken de oorsprong, de doctrinaire fundamenten en de belangrijkste resultaten, waarbij we ons richten op sleutelfiguren als Quesnay en Dupont de Nemours. Het idee van laissez-faire wordt in deze school een samenhangend systeem, geworteld in het idee van een natuurlijke orde waaraan de staat zich moet onderwerpen om welvaart voor iedereen te garanderen.
-
-
-**Deel 5: De Verlichting en politieke economie**
-
-
-Tot slot zullen we zien hoe het liberale economische denken zich verspreidde binnen de bredere Verlichtingsbeweging. Figuren als Voltaire, Turgot, Condillac en Condorcet breidden de laissez-faire traditie uit en verrijkten deze. Hun geschriften vormden een brug voor de laissez-faire traditie naar de revolutionaire periode en daarna, waar liberale ideeën een nieuwe weerklank vonden.
-
-
-Klaar om de Franse wortels van het economisch liberalisme te herontdekken? Laten we gaan!
-
-
-# De Voorlopers
-
+# De voorlopers
 
 <partId>91565b10-6010-53cb-a2f4-9c2306c7ef8c</partId>
 
-
 ## Historische achtergrond
-
 
 <chapterId>6a5fd101-6dfd-5d77-96c7-9e1aa4a19758</chapterId>
 
+### Frankrijk bij het aanbreken van de 18e eeuw
 
-Aan het begin van de 18e eeuw verkeerde Frankrijk in een zorgwekkende toestand. De plattelandsbevolking produceerde nauwelijks genoeg om te overleven en werd zwaar belast.
+Bij het aanbreken van de 18e eeuw verkeerde Frankrijk in een zorgwekkende toestand. De plattelandsbevolking produceerde nauwelijks genoeg om te overleven en werd zwaar belast.
 
-
-![image](assets/nl/001.webp)
-
-
-
-Stedelijke ambachtslieden, opgesloten in starre gilden, hadden moeite om te innoveren of zelfs om elkaar te ondersteunen. Ondertussen overtroffen andere Europese naties Frankrijk al snel op alle fronten en overklasten ze de Franse producten. Iedereen dacht aan de commerciële successen van Engeland en Holland.
+![Tafereel van het plattelandsleven in de 19e eeuw, toegeschreven aan Louis-Léopold Boilly](assets/en/001.webp)
 
 
-Maar hoe konden we een oplossing vinden voor de ziekte van die tijd? Er was nog geen economische wetenschap en dus ook geen speciaal medicijn om toe te passen. De principes van het economisch beleid werden nog steeds lukraak toegepast, wisselend tussen restrictieve fasen en meer liberale periodes. Zeker, we hebben modellen, historische referenties om te volgen. Onder hen was *Sully*, de minister van Henri IV, die pleitte voor landbouw en een grotere vrijheid van handel binnen Frankrijk bevorderde.
+Stedelijke ambachtslieden, opgesloten in rigide gilden, hadden moeite om te innoveren of elkaar zelfs maar te ondersteunen. Ondertussen haalden andere Europese naties Frankrijk op alle fronten in en verdrongen ze de Franse producten. De commerciële successen van Engeland en Holland waren op ieders lippen.
 
+Maar hoe konden we een oplossing vinden voor de kwaal van die tijd? Er bestond nog geen economische wetenschap, en dus ook geen speciaal geneesmiddel om toe te passen. De beginselen van het economisch beleid werden nog willekeurig toegepast, wisselend tussen restrictieve fasen en meer liberale periodes. Zeker, we hadden voorbeelden, historische referenties om te volgen. Daaronder *Sully*, minister van Hendrik IV, die de landbouw voorstond en meer vrijheid van handel binnen Frankrijk bevorderde.
 
-![image](assets/nl/002.webp)
+![Portret van de hertog van Sully, Memoires van de hertog van Sully, minister van Hendrik IV](assets/en/002.webp)
 
 
 
+Maar toen kwam Colbert, minister van Lodewijk XIV, die weifelde tussen regulering en vrijheid, maar uiteindelijk regulering doordrukte. Aan het einde van de 17e eeuw haalde Colbert Sully in: ministers beriepen zich nu op zijn erfenis en probeerden toe te passen wat zij als zijn maximes beschouwden.
+
+![Jean-Baptiste Colbert, controleur-generaal van Financiën onder Lodewijk XIV](assets/en/003.webp)
+
+### Colberts vier maximes
+
+In het denken van de staatslieden aan het einde van de 17e eeuw waren er vier maximes van Colbert.
+
+(1) **De nijverheid moet gereguleerd en gebonden zijn binnen gilden.** Deze regelgeving bepaalde bijvoorbeeld hoe lakens en doeken gemaakt moesten worden, hun afmeting en gewicht.
+Er waren honderden van zulke regels, gebundeld in speciale delen voor elke tak van nijverheid. Toch was dit in de ogen van Colberts volgelingen nog onvoldoende: nijverheid moest, zo meenden zij, ook onder toezicht staan van corporaties.
+
+![Werkplaats van een verenmaker in de 18e eeuw](assets/en/004.webp)
+
+Wie een ambacht wilde uitoefenen, moest eerst enkele jaren als leerling dienen, dan als gezel, voordat hij mocht proberen de status van meester te behalen door een "meesterproef" te leveren en een aanzienlijk bedrag aan het gilde te betalen. De concurrentie binnen elk ambacht was dus streng beperkt.
 
 
-Maar toen kwam Colbert, de minister van Lodewijk XIV, die twijfelde tussen regulering en vrijheid, maar uiteindelijk toch de regulering afdwong. Helemaal aan het einde van de 17e eeuw haalde Colbert Sully in: ministers beriepen zich nu op zijn nalatenschap en probeerden wat zij beweerden zijn stelregels toe te passen.
+(2) **Handel is een nulsomspel.** Wat handel betreft, deelden Colberts volgelingen dezelfde vooroordelen als de barbaarse volkeren uit de oudheid. Volgens de minister van Lodewijk XIV was handel "een voortdurende oorlog". Waarom? De reden is eenvoudig: voor Colbert en zijn opvolgers betekende elke toename van rijkdom in het ene land verarming van een ander. In hun ogen mochten de Engelsen of de Nederlanders niet rijk worden, want dat zou betekenen dat zij de welvaart van Frankrijk stalen.
 
+![Haven van Bordeaux in de 18e eeuw door Vernet](assets/en/005.webp)
 
-![image](assets/nl/003.webp)
+De producten van deze landen moesten daarom zonder scrupules worden verboden of zwaar belast, want handel is een oorlog waarin we alleen de ondergang van onze vijanden kunnen wensen.
 
-
-In de hoofden van staatslieden aan het einde van de 17e eeuw waren de stelregels van Colbert er vier.
-
-
-(1) **De industrie moet worden gereguleerd en gebonden binnen gilden**. Deze regels geven bijvoorbeeld aan hoe lakens en doeken gemaakt moeten worden en hoe groot en zwaar ze moeten zijn.
-
-Er waren honderden van zulke regels, gebundeld in speciale delen voor elk type industrie. Maar in de ogen van Colberts volgelingen was dit nog steeds onvoldoende: de industrie, zo vonden zij, moest ook onder toezicht van bedrijven staan.
-
-
-![image](assets/nl/004.webp)
-
-
-Wie een vak wilde uitoefenen, moest eerst een aantal jaren als leerling doorbrengen, daarna als gezel, voordat hij de status van meester kon bereiken door een "meesterwerk" te produceren en een aanzienlijk bedrag aan het gilde te betalen. De concurrentie binnen elk vak was daarom strikt beperkt.
-
-
-
-(2) **Handel is een nulsomspel**. Als het op handel aankomt, deelden Colberts discipelen dezelfde vooroordelen als de barbaren uit de Oudheid. Volgens de minister van Louis XIV is handel "een eeuwigdurende oorlog". Waarom? De reden is simpel: voor Colbert en zijn opvolgers betekende elke toename in rijkdom voor het ene land de verarming van het andere. In hun ogen mochten de Engelsen of de Nederlanders niet rijk worden, want dat zou betekenen dat ze de welvaart van Frankrijk stalen.
-
-
-![image](assets/nl/005.webp)
-
-
-De producten van deze landen moesten daarom zonder scrupules worden verboden of zwaar worden belast, want handel is een oorlog waarin we alleen de ondergang van onze vijanden kunnen wensen.
-
-
-> "De Fransen kunnen hun handel alleen vergroten door de Nederlanders te verpletteren".
+> De Fransen kunnen hun handel alleen laten groeien door de Nederlanders te verpletteren.
 > *Colbert*
 
-(3) **Als de staat geld tekort komt, verhoog dan de belastingen**. Colbert en zijn discipelen geloofden helemaal niet dat de rijkdom van de belastingbetaler een beperkte bron was. In hun ogen konden overheidsuitgaven nooit een probleem zijn, zolang er maar genoeg werd geïnd. En als het volk in opstand kwam, was dat alleen maar omdat de ministers het slecht hadden aangepakt, want, zoals Colbert cynisch opmerkte, "de kunst van het belasting heffen bestaat erin de ganzen te plukken zonder ze te veel te laten schreeuwen".
+(3) **Wanneer de Staat geldgebrek heeft, hef meer belasting.** Colbert en zijn volgelingen geloofden allerminst dat de rijkdom van belastingbetalers een beperkte hulpbron was. Naar hun mening kon overheidsuitgave nooit een probleem zijn, zolang er maar genoeg werd geïnd. En als het volk in opstand kwam, was dat volgens hen enkel omdat de ministers het slecht hadden aangepakt, want, zoals Colbert cynisch opmerkte: "de kunst van het belasten bestaat erin de ganzen te plukken zonder ze te veel te laten schreeuwen".
+
+![Robin Hood van de Staat - belasting of de dood](assets/en/006.webp)
+
+(4) **Rijkdom is vooral goud en zilver.** Vóór de geboorte van de economische wetenschap volgden veel schrijvers één overheersend dogma over de aard van rijkdom, wat bekend zou worden als *mercantilisme*. Colbert en zijn opvolgers zetten dit pad voort. Kortom, de mercantilisten geloofden dat het ware teken van de welvaart van een natie de opeenhoping van edelmetalen, zilver en goud was.
+
+![Dagobert Duck](assets/en/007.webp)
 
 
-![image](assets/nl/006.webp)
-
-
-(4) **Welvaart is vooral goud en zilver**. Voor de geboorte van de economische wetenschap volgden veel schrijvers één dominant dogma over de aard van rijkdom, wat bekend werd als *mercantilisme*. Colbert en zijn opvolgers vervolgden dit pad. Kort gezegd geloofden mercantilisten dat het ware teken van de welvaart van een natie de accumulatie van edelmetalen, zilver en goud, was.
-
-
-![image](assets/nl/007.webp)
-
-
-
-> "Alleen de overvloed aan geld binnen de staat maakt het verschil voor zijn grootsheid en macht".
+> Alleen de overvloed aan geld binnen de staat maakt het verschil voor zijn grootheid en macht.
 > *Colbert*
 
-Het gevolg van dit idee is om koste wat het kost de export te bevorderen, wat buitenlands goud en zilver binnenbracht, en de import tot een minimum te beperken om te voorkomen dat het naar het buitenland werd gestuurd.
+Het gevolg van dit idee was dat export tegen elke prijs werd bevoordeeld, wat buitenlands goud en zilver binnenbracht, en dat invoer tot een minimum werd beperkt om te voorkomen dat het naar het buitenland zou verdwijnen.
 
+### De grondslagen van de economische wetenschap
 
-Dit zijn de vier principes waardoor de Franse regering zich decennialang liet leiden toen het land de 18e eeuw inging. Ze zouden echter al snel op de proef worden gesteld. Tussen 1690 en 1710 werden verschillende schrijvers diep getroffen door de rampzalige staat van Frankrijk. Op zoek naar de oorzaken concludeerden ze dat juist de stelregels die ze van Colbert hadden geërfd de schuldigen waren, die ze beschouwden als misleidende argumenten. Daarmee legden ze de basis voor de economische wetenschap.
-
+Dit waren de vier beginselen die de Franse regering enkele decennia lang leidden, terwijl het land de 18e eeuw binnentrad. Toch werden ze al snel grondig ter discussie gesteld. Tussen 1690 en 1710 waren verschillende schrijvers diep getroffen door de rampzalige toestand van Frankrijk. Op zoek naar de oorzaken concludeerden zij dat juist de van Colbert geërfde maximes de schuldigen waren, en zij zagen ze als niets meer dan drogredenen. Zo legden zij de grondslagen van de economische wetenschap.
 
 ## Vauban
 
-
 <chapterId>ee9c1e0e-96cc-5026-a5e2-963d68122786</chapterId>
 
+### De maarschalk die econoom werd
 
-Nu de belastingdruk in ons land blijft toenemen en de nationale economische krachten dreigt te verstikken, gaan er steeds meer stemmen op voor verandering. Bewust of onbewust, deze oproepen tot hervorming echoën vaak het werk van Franse economen die, sinds de 17e eeuw, het belastingsysteem van de natie hebben bekritiseerd als chaotisch, despotisch, buitensporig.
+Nu de belastingdruk in ons land blijft toenemen en dreigt de nationale economische krachten te verstikken, klinken er steeds meer stemmen die om verandering vragen. Bewust of onbewust echoën deze oproepen tot hervorming vaak het werk van Franse economen die, sinds de 17e eeuw, het belastingstelsel van de natie hebben bekritiseerd als chaotisch, despotisch en buitensporig.
 
+De eerste van deze belastinghervormers, chronologisch en naar verdienste, is de grote maarschalk Sébastien Le Prestre Vauban, beroemd bouwer van vestingen en citadellen.
 
-De eerste van deze belastinghervormers, chronologisch en qua verdienste, is de grote maarschalk Sébastien Le Prestre Vauban, beroemd bouwer van bolwerken en citadellen.
-
-
-![image](assets/nl/008.webp)
-
+![Portret van Vauban, citadel van Rijsel door Vauban](assets/en/008.webp)
 
 
 
+Hoewel we het jammer genoeg zijn vergeten, was Vauban meer dan een militair; hij was ook econoom. Hij interesseerde zich voor **het lot van de boeren en stelde gedurfde belastinghervormingen voor** in 1695 (Projet de capitation - "het Project voor een Hoofdelijke Belasting") en opnieuw in 1707 (Projet d'une Dime Royale - "de Koninklijke Tiende"): om de meeste bestaande belastingen te vervangen door een belasting evenredig aan het inkomen, een vlaktaks avant la lettre.
 
-Hoewel we het helaas vergeten zijn, was Vauban meer dan een militair; hij was ook een econoom. Hij interesseerde zich voor het lot van de boeren en stelde gedurfde belastinghervormingen voor in 1695 (Projet de capitation - "het project voor een capitulatie") en opnieuw in 1707 (Projet d'une Dime Royale - "de koninklijke tiende"): de meeste bestaande belastingen vervangen door een belasting die evenredig was met het inkomen, een vlaktaks voor zijn tijd.
+![Vauban, "Project voor een Koninklijke Tiende"](assets/en/009.webp)
 
+Vauban kwam tot deze ideeën door nieuwsgierigheid. Hij was een scherp waarnemer, die het maatschappelijke leven en de economische werkelijkheid met grote nauwgezetheid, bijna wetenschappelijk, probeerde te bestuderen. Hij drong vooral aan op de noodzaak om te tellen, via volkstellingen.
 
-![image](assets/nl/009.webp)
+![Volkstelling](assets/en/010.webp)
 
+### Een verpletterend portret van de Franse ellende
 
-Vauban kwam tot deze ideeën door nieuwsgierigheid. Hij was een scherp waarnemer en streefde ernaar om het sociale leven en de economische realiteit rigoureus, bijna wetenschappelijk, te bestuderen. Hij drong vooral aan op de noodzaak om te tellen, door middel van tellingen.
+Zijn tweede grote verdienste was zijn ontroerende en eerlijke beschrijving van de ellende waaronder de massa's leden. Hij schreef: "Laten we ons niet bedriegen; het hart van het koninkrijk is verwoest. Alles lijdt, alles verdraagt, alles kreunt. Je hoeft alleen maar te kijken en het hart van de provincies te onderzoeken om te zien dat de werkelijkheid nog erger is dan wat ik zeg". Verre van overdreven, waren Vaubans sombere waarnemingen een nauwkeurige weergave van het leven begin 18e eeuw. Alexis de Tocqueville kende deze ideeën goed en zou Vaubans *Koninklijke Tiende* later "angstaanjagend" noemen, omdat ze waar was.
 
+![Tocqueville, "Het Ancien Régime en de Revolutie", De drie standen](assets/en/011.webp)
 
-![image](assets/nl/010.webp)
-
-
-Zijn tweede grote verdienste was zijn ontroerende en eerlijke beschrijving van de ellende die de massa's moesten doorstaan. Hij schreef: "Laten we ons niet laten misleiden; het hart van het koninkrijk is verwoest. Alles lijdt, alles verdraagt, alles kreunt. Je hoeft alleen maar te kijken en het hart van de provincies te onderzoeken, wat je zult vinden is nog erger dan wat ik zeg". De sombere observaties van Vauban waren verre van overdreven en vormden een nauwkeurige weerspiegeling van het leven aan het begin van de 18e eeuw. Alexis de Tocqueville was zich terdege bewust van deze ideeën en zou Vaubans *Royal Tithe* later beschrijven als "beangstigend", omdat het waar was.
-
-
-![image](assets/nl/011.webp)
+Vaubans andere grote verdienste als econoom was het voorstellen van een verstrekkende belastinghervorming die erop gericht was het door hem waargenomen en beschreven kwaad uit te roeien, of althans de heftigheid ervan te verminderen. Terecht, want de Franse economie onder het Ancien Régime was verlamd door belastingen die ongelijk, onstabiel en onbegrijpelijk waren.
 
 
-Een andere grote verdienste van Vauban als econoom was dat hij een verregaande belastinghervorming voorstelde om het kwaad dat hij waarnam en beschreef uit te roeien of op zijn minst de intensiteit ervan te verminderen. Hij had gelijk; de Franse economie onder het Ancien Régime was verlamd door belastingen, die ongelijk, onstabiel en onleesbaar waren.
-
-
-
-In zijn verschillende politieke en economische geschriften was het Vaubans overkoepelende ambitie om het lijden te verlichten van wat hij noemde "het lagere deel van het volk, dat door zijn arbeid het hogere deel onderhoudt en ondersteunt".
+Doorheen zijn verschillende politieke en economische geschriften was Vaubans overkoepelende ambitie het leed te verlichten van wat hij "het lagere deel van het volk, dat door zijn arbeid het hogere onderhoudt en ondersteunt" noemde.
 
 
 
 
 
+Hij begreep dat verstikkende en ontmoedigende belastingen de boeren overweldigden, een idee dat hij met helderheid verwoordde, iets wat we in onze tijd nog steeds perfect kunnen waarnemen:
 
+> De boer laat het kleine stukje land dat hij heeft verwilderen, hij bewerkt het maar half, uit angst dat als het opbrengt wat het met behoorlijke bemesting en bewerking zou kunnen opbrengen, het nog zwaarder belast zou worden.
 
-Hij begreep dat onderdrukkende en ontmoedigende belastingen de boeren overweldigden, een concept dat hij met scherpzinnigheid uitdrukte, iets wat we in onze tijd nog steeds perfect kunnen observeren:
+Vauban zag de waarheid: belasting onder het Ancien Régime was niet alleen irrationeel, maar ook wreed streng. Het was dit onrechtvaardig verdeelde belastingstelsel dat hij wilde overwinnen.
 
+### Een vlaktaks avant la lettre
 
-> "De boer laat het weinige land dat hij heeft wegkwijnen en bewerkt het maar halfslachtig, uit angst dat het nog zwaarder belast zou worden als het zou produceren wat het zou kunnen produceren met de juiste mest en bewerking".
+Zijn voorgestelde oplossing, een vaste, evenredige belasting op alle inkomens, had de belastingdruk eerlijk kunnen verdelen over alle sociale klassen. Gebaseerd op een staatsleer die het openbaar gezag zag als noodzakelijk om individuele rechten en eigendom te beschermen, eiste Vaubans belastinghervorming dat alle burgers strikt evenredig aan hun inkomen bijdroegen, bijvoorbeeld 10% van hun inkomen.
 
-Vauban zag de waarheid: de belastingen onder het Ancien Régime waren niet alleen irrationeel maar ook wreed streng. Het was dit belastingsysteem, dat onrechtvaardig verdeeld was, dat hij probeerde te overwinnen.
+In De Koninklijke Tiende, het enige van zijn economische werken dat tijdens zijn leven werd gedrukt, verklaarde Vauban duidelijk:
 
+> Aangezien iedereen in een Staat diens bescherming nodig heeft om te overleven, is het slechts billijk dat allen naar rato van hun inkomen bijdragen aan het onderhoud en de uitgaven ervan [...]. Niets is onrechtvaardiger dan hen die het best kunnen betalen vrij te stellen en de last te verschuiven naar hen die het minst kunnen betalen en onder het gewicht bezwijken; een gewicht dat vrij licht zou zijn als het evenredig door allen naar hun eigen vermogen werd gedragen. Elke vrijstelling van belasting is daarom een wanorde die gecorrigeerd moet worden.
 
-De oplossing die hij voorstelde, een vlakke, proportionele belasting op alle inkomens, zou het mogelijk hebben gemaakt om de belastingdruk eerlijk te verdelen over alle sociale klassen. De belastinghervorming van Vauban, die gebaseerd was op een theorie van de staat waarin overheidsgezag noodzakelijk werd geacht om individuele rechten en eigendommen te beschermen, eiste dat alle burgers een bijdrage zouden leveren die strikt in verhouding stond tot wat ze verdienden, bijvoorbeeld 10% van hun inkomen..
-
-
-In De Koninklijke Tiend, het enige van zijn economische werken dat tijdens zijn leven werd gedrukt, stelde Vauban duidelijk:
-
-
-> "Aangezien iedereen in een staat zijn bescherming nodig heeft om te overleven, is het niet meer dan terecht dat iedereen, overeenkomstig zijn inkomen, bijdraagt aan het onderhoud en de uitgaven [...]. Niets is onrechtvaardiger dan degenen die het meest in staat zijn om te betalen vrij te stellen en de last af te wentelen op degenen die het minst in staat zijn, die bezwijken onder het gewicht; een gewicht dat heel licht zou zijn als het door iedereen naar evenredigheid werd gedragen, overeenkomstig hun eigen kracht. Daarom is elke vrijstelling van belasting een wanorde die gecorrigeerd moet worden."
-
-Kort voor zijn dood werd het idee van Vauban overgenomen door de ministers van Lodewijk XIV. Vauban had echter gevraagd om een proportionele belasting die alle, of bijna alle, bestaande belastingen zou vervangen. In plaats daarvan werd, zoals zo vaak gebeurt, zijn belasting ingevoerd, maar alle andere werden ook gehandhaafd.
-
+Kort voor zijn dood werd Vaubans idee door de ministers van Lodewijk XIV overgenomen. Vauban had echter gevraagd om een evenredige belasting die alle, of bijna alle, bestaande belastingen zou vervangen. In plaats daarvan werd, zoals zo vaak gebeurt, zijn belasting ingevoerd, maar bleven alle andere ook behouden.
 
 ## Boisguilbert
 
-
 <chapterId>200149c6-b5fc-566e-ab0e-bafb1c3fed3c</chapterId>
 
+### Een vergeten pionier
 
-Weinig Franse economen uit het verleden genieten vandaag de dag in hun thuisland erkenning die overeenkomt met hun bijdragen, en Boisguilbert is daarop geen uitzondering.
+Weinig Franse economen uit het verleden genieten vandaag in hun vaderland de erkenning die overeenstemt met hun bijdragen, en Boisguilbert is daarop geen uitzondering.
 
+![Pierre Lepesant de Boisguilbert](assets/en/012.webp)
 
-![image](assets/nl/012.webp)
+Ongewaardeerd door de lezers van zijn tijd en op afstand gehouden van machtskringen vanwege zijn excentrieke aard en overweldigende hartstocht, liet Boisguilbert weinig sporen na in de 18e eeuw. Toch is er sinds het begin van de vorige eeuw een langzame herontdekking van zijn werk aan de gang.
 
-
-Niet gewaardeerd door de lezers van zijn tijd, verwijderd van machtskringen vanwege zijn excentrieke aard en overweldigende passie, liet Boisguilbert weinig sporen na in de 18e eeuw. Toch is er aan het begin van de vorige eeuw een langzame herontdekking van zijn werk.
-
-
-Deze herontdekking laat echter zien dat we in een soort doodlopende straat terechtkomen. De ware verdienste van Boisguilbert is verloren gegaan door hem voor te stellen als de pionier van talloze theorieën en de voorloper van vele denkers. Hij zou het concept van latente werkloosheid hebben begrepen dat later door Keynes werd verdedigd, hij zou hebben geanticipeerd op de wet van Say, hij zou de weg hebben geëffend voor de algemene evenwichtstheorie van Walras en hij zou zelfs de voorbode zijn geweest van de klassenanalyse van de marxisten. "Van wie of wat zou Boisguilbert niet de voorloper kunnen zijn?" vroeg een commentator zich uiteindelijk af.
+Deze herontdekking laat echter zien dat we in een soort doodlopend spoor terechtkomen. Boisguilberts ware verdienste is verloren gegaan doordat hij wordt voorgesteld als de pionier van talloze theorieën en de voorloper van vele denkers. Men zegt dat hij het begrip onderbenutting doorgrondde dat later door Keynes werd verdedigd, de wet van Say voorafspiegelde, de weg baande voor Walras' algemene-evenwichtstheorie, en zelfs de klassenanalyse van de marxisten voorspelde. 'Waarvan zou Boisguilbert nu níet de voorloper kunnen zijn?' vroeg een commentator uiteindelijk.
 
 
+(Pierre Le Pesant de) Boisguilbert werd in 1646 in Rouen geboren. Opgeleid aan Port-Royal in Parijs, begon Boisguilbert een mislukte literaire carrière voordat hij verschillende functies bekleedde, waaronder die van luitenant-generaal van Rouen. Het was in die periode dat hij verschillende boeken schreef om zijn ideeën te verdedigen, waaronder "Détail de la France" in 1695, dat hij het jaar daarop opnieuw uitgaf onder een veel expliciete titel: [*France Ruined under the Reign of Louis XIV, by Whom and How, with the Means to Restore It*](https://archive.org/details/bub_gb_0jUaWNbTJa8C/page/n23/mode/2up).
 
-(Pierre Le Pesant de) Boisguilbert werd in 1646 geboren in Rouen. Opgeleid in Port-Royal in Parijs, begon Boisguilbert een onsuccesvolle literaire carrière voordat hij verschillende functies op zich nam, waaronder die van luitenant-generaal van Rouen. In deze periode schreef hij verschillende boeken om zijn ideeën te verdedigen, waaronder "Détail de la France" in 1695, dat hij het jaar daarop opnieuw publiceerde onder een veel explicietere titel: [*France Ruined under the Reign of Louis XIV, by Whom and How, with the Means to Restore It](https://archive.org/details/bub_gb_0jUaWNbTJa8C/page/n23/mode/2up)*.
-
-
-![image](assets/nl/013.webp)
+![Boisguilbert, "Frankrijk geruïneerd onder Lodewijk XIV", Kaart van Port Royal des Champs](assets/en/013.webp)
 
 
 
+En dit is de kern van Boisguilberts boeken: de Franse armoede en haar oorzaken.
 
+Deze ellende van het Franse volk aan het einde van de 17e eeuw beschrijft Boisguilbert, net als Vauban, tot in detail. Hij schrijft:
 
-En dit is de basis van de boeken van Boisguilbert: Franse armoede en haar oorzaken.
+> De onvruchtbare of slecht bewerkte gronden, voor iedereen zichtbaar, zijn het lijk van Frankrijk.
 
+Hij beschreef ontwortelde wijngaarden, boeren die hun akkers verlieten en terugkerende hongersnoden.
 
-Deze ellende van het Franse volk aan het einde van de 18e eeuw beschrijft Boisguilbert in detail, net als Vauban. Hij schrijft:
+### De tweeledige oorzaak van de Franse ondergang
 
+Boisguilbert vindt twee hoofdoorzaken voor dit ongeluk. Want als het volk in ontbering leeft, komt dat doordat het verhinderd wordt te consumeren wat noodzakelijk is, en de ondergang van de consumptie heeft twee oorzaken.
 
-> "De dorre of slecht gecultiveerde gronden, voor iedereen zichtbaar, zijn het lijk van Frankrijk".
+Ten eerste konden de mensen de basisbehoeften niet meer betalen door willekeurige belastingheffing. De taille, een persoonlijke belasting uit die tijd, werd voor elk individu blindelings vastgesteld, willekeurig stijgend of dalend. Door de talrijke privileges kwam de last op de arme boeren te liggen, die hierdoor geruïneerd raakten. Om dit te verhelpen, adviseerde Boisguilbert een evenredige belasting op alle inkomens, vergelijkbaar met het voorstel van Vauban.
 
-Hij beschreef ontwortelde wijngaarden, boeren die hun akkers achterlieten en terugkerende hongersnoden.
+De tweede reden voor de Franse ellende is dat te veel belemmeringen de vrije handel van goederen, vooral landbouwproducten, verhinderden. Er waren douanerechten aan de grenzen en zelfs binnen het land, tussen verschillende gewesten, wat alle handel verlamde. Deze beperkingen verhinderden het tot stand komen van een evenwichtsprijs en beperkten de marktkansen. Hierdoor konden boeren niet van hun productie leven, omdat ze niet winstgevend konden verkopen en te lijden hadden onder onrendabele landbouwprijzen, een probleem dat vandaag nog steeds zeer actueel is en dat de kern vormt van Boisguilberts theorie. Wat handelsbeperkingen betreft, pleitte Boisguilbert voor het ontruimen van de wegen, met andere woorden: het instellen van vrijhandel.
 
+![Gustave Caillebotte - "Weg naar boven"](assets/en/014.webp)
 
-Boisguilbert vindt twee hoofdoorzaken voor dit ongeluk. Want als de mensen in armoede leven, is dat omdat ze niet kunnen consumeren wat nodig is, en de ondergang van de consumptie heeft twee oorzaken.
+### De eerste oproep tot laissez-faire
 
+En vrijheid is inderdaad zijn uiteindelijke conclusie. "Het gaat er niet om te handelen", zegt hij, "maar simpelweg om te stoppen met zo heftig te handelen tegen de natuur, die altijd naar vrijheid en volmaaktheid streeft". Alles komt goed, herhaalt hij onvermoeibaar, "zolang we de natuur haar loop laten, dat wil zeggen haar vrijheid geven, en niemand zich met deze handel bemoeit, behalve om aan allen bescherming te bieden en geweld te voorkomen".
 
-Ten eerste konden de mensen het zich niet langer veroorloven om eerste levensbehoeften te consumeren door willekeurige belastingen. De taille, een persoonlijke belasting uit die tijd, werd blind berekend voor elk individu en steeg of daalde zonder reden. Door de vele privileges kwam de last terecht bij de arme boeren, die geruïneerd werden. Om dit te corrigeren adviseerde Boisguilbert een proportionele belasting op alle inkomens, ongeveer zoals Vauban had voorgesteld.
+Deze laatste passage is essentieel. **Boisguilbert was de eerste die duidelijk een laissez-faire-economisch beleid eiste**, er zijn credo van maakte en er een echt systeem omheen bouwde. Volgens hem bestaat er een natuurlijke orde der dingen, die niet mag worden verdorven of vernietigd door ontijdig overheidsingrijpen. De Staat mag, in zijn visie, niet ingrijpen in economische aangelegenheden, maar moet de dingen op natuurlijke wijze laten verlopen. Anders veroorzaakt hij ellende.
 
-
-De tweede reden voor de ellende in Frankrijk is dat te veel obstakels de vrije handel in goederen, vooral landbouwproducten, in de weg stonden. Er waren douanerechten aan de grenzen en zelfs binnen het land, tussen verschillende regio's, die alle handel verlamden. Deze beperkingen verhinderden de totstandkoming van een evenwichtsprijs en beperkten de marktmogelijkheden. Als gevolg hiervan konden boeren niet leven van hun productie, omdat ze niet winstgevend konden verkopen en te lijden hadden onder onrendabele landbouwprijzen, een zorg die vandaag de dag nog steeds zeer relevant is en die de kern vormt van de theorie van Boisguilbert. Wat handelsbeperkingen betreft, pleitte Boisguilbert voor het vrijmaken van de wegen, met andere woorden, voor het instellen van vrije handel.
-
-
-![image](assets/nl/014.webp)
-
-
-En vrijheid is inderdaad zijn eindconclusie. "Het is geen kwestie van handelen", zegt hij, "maar eenvoudigweg van ophouden te handelen zoals we zo gewelddadig doen tegen de natuur, die altijd neigt naar vrijheid en perfectie". Alles zal goed komen, herhaalt hij onvermoeibaar, "zolang we de natuur haar gang laten gaan, dat wil zeggen haar haar vrijheid geven, en dat niemand zich met deze handel bemoeit behalve om iedereen bescherming te bieden en geweld te voorkomen".
-
-
-Deze laatste passage is essentieel. Boisguilbert was de eerste die duidelijk een laissez-faire economisch beleid eiste, er zijn credo van maakte en er een echt systeem omheen bouwde. Volgens hem bestaat er een natuurlijke orde der dingen die niet mag worden verstoord of vernietigd door voortijdige overheidsinterventies. De staat moet volgens hem niet ingrijpen in economische zaken, maar de dingen hun natuurlijke gang laten gaan. Anders zal het ellende veroorzaken.
-
-
-Boisguilbert bekritiseerde zelfs de "*goede zielen*", zoals hij ze noemde, zij die het goed bedoelden maar grote schade aanrichtten. Ze wilden goedkoop brood voor de mensen, maar door de prijzen te drukken ruïneerden ze de boeren, die met zulke marges niet konden overleven. Deze boeren verlieten vervolgens hun land, waardoor ze nog dieper in de armoede wegzakten. Zoals we allemaal weten is 'de hel vaak geplaveid met goede bedoelingen'.
-
+Boisguilbert bekritiseerde zelfs de "*goede zielen*", zoals hij ze noemde, mensen die het goed bedoelden maar veel kwaad aanrichtten. Ze wilden goedkoop brood voor het volk, maar door de prijzen kunstmatig te verlagen, ruïneerden ze de boeren, die niet op zulke marges konden overleven. Deze boeren verlieten vervolgens hun land en vervielen dieper in armoede. Zoals we allemaal weten: 'de weg naar de hel is geplaveid met goede bedoelingen'.
 
 ## Cantillon
 
-
 <chapterId>bc206d41-6a64-5688-a489-40fcfa0e5397</chapterId>
 
+### De Ierse bankier die de moderne economie grondvestte
 
 Richard Cantillon, auteur van het "Essay on the Nature of Trade in General" (geschreven rond 1730, gepubliceerd in 1755), wordt beschouwd als een van de pioniers van de moderne economische wetenschap. In zijn History of Economic Thought noemt econoom Murray Rothbard Cantillon zelfs de grondlegger van de moderne economie.
 
+![Murray Rothbard, "An Austrian perspective on the History of Economic Thought"](assets/en/015.webp)
 
-![image](assets/nl/015.webp)
+Geboren in Ierland, vestigde Richard Cantillon zich als jonge man in Parijs en verwierf de Franse nationaliteit. Hij werkte als bankier en verwierf een fortuin tijdens het tijdperk van John Law.
 
+![Richard Cantillon, "Essay on the Nature of Commerce", John Law](assets/en/016.webp)
 
-Richard Cantillon werd geboren in Ierland, maar vestigde zich als jongeman in Parijs en kreeg de Franse nationaliteit. Hij werkte als bankier en verdiende een fortuin tijdens het John Law tijdperk.
-
-
-![image](assets/nl/016.webp)
-
-
-Het was ook bij deze gelegenheid dat hij zich begon te verdiepen in de economische theorie. Rond 1730 schreef Cantillon zijn Essay on the Nature of Commerce in General.
+Het was ook bij die gelegenheid dat hij economische theorie begon te bestuderen. Rond 1730 stelde Cantillon zijn Essay on the Nature of Commerce in General samen.
 
 
 
+Dit boek kan worden gezien als een van de eerste pogingen om een algemene economische theorie te ontwikkelen. Cantillon streeft ernaar wat hij "algemene wetten van de economie" noemt te identificeren, wetten die in de aard der dingen liggen en niet in de bijzondere feiten van dit of dat land. Deze benadering was revolutionair.
+
+### Vijf bijdragen aan de economische wetenschap
+
+We kunnen de grote verdiensten van Cantillons Essay samenvatten in vijf gebieden: de theorie van rijkdom, het begrip ondernemer, de kritiek op waardeloos geld, de "Cantillon-effecten" en ten slotte de verdediging van de vrijheid.
+
+Ten eerste zijn **theorie van rijkdom, gebaseerd op arbeid en natuur**.
+In tegenstelling tot de destijds overheersende mercantilistische opvatting baseerde Cantillon zijn analyse op de erkenning dat rijkdom gevormd wordt door de producten die eigen zijn aan het genot van de mens. Deze rijkdom, zo betoogde hij, komt voort uit de natuur en wordt voortgebracht door menselijke arbeid. Zijn ideeën over de aard van rijkdom hadden een sterke invloed op Beccaria en Adam Smith, en via Smith op de gehele Engelse klassieke school.
+
+Ten tweede, **de ondernemer als centrale economische actor**.
+Hoewel hij het niet duidelijk definieerde, beschouwde Cantillon de ondernemer als een belangrijke en centrale speler in de economische activiteit. Voor Cantillon kenmerkt de ondernemer zich doordat hij risico neemt en handelt onder onzekerheid. Deze ideeën werden later uitgebreid door Turgot en, nog belangrijker, door Say, om ten slotte de bijzondere plaats van de ondernemer in de economie te erkennen, dit keer in tegenstelling tot de stellingen van de Engelse school.
+
+Ten derde, **de gevaren van waardeloos geld**.
+Als reactie op de ervaring met John Law legt Cantillon uit wat er gebeurt of moet gebeuren wanneer geld geen reële waarde heeft.
+
+![Bankbiljet van Law](assets/en/017.webp)
+
+Hij ziet twee belangrijke gevolgen van het vervangen van geld zonder reële waarde, zoals papiergeld, door metalen geld. Het eerste gevolg is wat hij "publieke afwijzing" noemt, wat een groeiend wantrouwen jegens waardeloos geld betekent. Het tweede gevolg is [inflatie](https://planb.academy/resources/glossary/inflation): monetaire verzwakking maakt goederen duurder.
+
+Ten vierde ging Cantillon in zijn analyse van **de ongelijke effecten van inflatie** verder dan zijn tijdgenoten. Na de ineenstorting van het systeem van Law te hebben waargenomen, besefte Cantillon dat monetaire inflatie niet iedereen gelijk treft. Integendeel, ze verrijkt sommigen terwijl ze anderen verarmt. Hij concludeerde dat inflatie een herverdelend effect heeft: wie het nieuw uitgegeven geld als eerste ontvangt, profiteert van verhoogde koopkracht, terwijl wie het later ontvangt armer wordt als gevolg van de nieuwe geldschepping door de stijgende inflatie.
+
+Ten vijfde, ondanks enkele restanten van mercantilistisch denken, was Cantillons algemene perspectief **volledig liberaal in zijn verdediging van privé-eigendom**. Hij verdedigde privé-eigendom als een fundamentele pijler van de beschaving en betoogde dat geen enkele samenleving kan functioneren zonder particulier eigendom van grond en de producten van arbeid. Hij zag materiële ongelijkheid tussen mensen ook als natuurlijk en legitiem. Volgens Cantillon is er niets mis mee dat een efficiënte en moedige arbeider, of iemand met uitzonderlijk talent, meer verdient dan iemand die onbekwaam of lui is. Ten slotte geloofde Cantillon dat prijzen altijd vrij bepaald moesten worden, door het spel van vraag en aanbod, zonder tussenkomst van de overheid.
+
+### Het Cantillon-effect
+
+Van deze vijf grote ideeën in zijn Essay is de belangrijkste ongetwijfeld degene die nu zijn naam draagt: het **Cantillon-effect**.
+Met deze theorie over de effecten van inflatie geeft Cantillon ons antwoorden op een aantal hedendaagse kwalen. Ze helpt ons de gevolgen te begrijpen van het recente expansieve en inflatoire monetaire beleid, dat de middenklasse en het platteland heeft verarmd, terwijl het spelers op de financiële markten en de Staat, haar instanties en haar ambtenaren heeft verrijkt, vanwege hun gezamenlijke nabijheid tot de bron van de nieuwe uitgifte: centrale banken en commerciële banken.
 
 
-Dit boek kan worden gezien als een van de eerste pogingen om een algemene theorie van de economie te creëren. Cantillon is voorzichtig in het identificeren van wat hij "algemene wetten van de economie" noemt, wetten die in de aard der dingen liggen en niet in de specifieke feiten van dit of dat land. Deze benadering was revolutionair.
-
-
-We kunnen de grote verdiensten van Cantillons Essay in vijf gebieden samenvatten: de theorie van rijkdom, het begrip ondernemer, de kritiek op waardeloze valuta, de "Cantillon-effecten" en tot slot de verdediging van vrijheid.
-
-
-Ten eerste zijn **theorie van rijkdom**.
-
-In tegenstelling tot de mercantilistische opvatting die in die tijd dominant was, baseerde Cantillon zijn analyse op de erkenning dat rijkdom wordt gevormd door de producten die geschikt zijn voor het genot van de mens. Deze rijkdom, zo stelde hij, komt uit de natuur en wordt geproduceerd door menselijke arbeid. Zijn ideeën over de aard van rijkdom hadden een sterke invloed op Beccaria en Adam Smith, en via Smith op de hele Engelse klassieke denkschool.
-
-
-Ten tweede, **de ondernemer**.
-
-Hoewel hij het niet duidelijk definieerde, beschouwde Cantillon de ondernemer als een belangrijke en centrale speler in de economische activiteit. Voor Cantillon is het kenmerkend voor de ondernemer dat hij risico's neemt en in onzekerheid handelt. Deze ideeën zouden later worden uitgebreid door Turgot en, nog belangrijker, door Say, om uiteindelijk de speciale plaats van de ondernemer in de economie te erkennen, dit keer in tegenstelling tot de beweringen van de Engelse school.
-
-
-Derde punt, **valuta**.
-
-In reactie op de John Law ervaring legt Cantillon uit wat er gebeurt of moet gebeuren als geld geen echte waarde heeft.
-
-
-![image](assets/nl/017.webp)
-
-
-Hij ziet twee belangrijke gevolgen van het vervangen van een metalen valuta door een valuta zonder echte waarde, zoals papiergeld. Het eerste gevolg is wat hij "volksafwijzing" noemt, wat een groeiend wantrouwen tegen waardeloos geld betekent. Het tweede gevolg is [inflatie](https://planb.academy/resources/glossary/inflation): monetaire verzwakking maakt goederen duurder.
-
-
-Ten vierde ging Cantillon in zijn analyse van **inflatie** verder dan zijn tijdgenoten. Nadat hij de ineenstorting van het systeem van Law had gezien, realiseerde Cantillon zich dat monetaire inflatie niet iedereen in gelijke mate treft. Integendeel, sommigen worden er rijker van en anderen armer. Hij concludeerde dat inflatie een herverdelend effect heeft: degenen die het nieuw uitgegeven geld ontvangen profiteren eerst van de toegenomen koopkracht, terwijl degenen die het later ontvangen armer worden als gevolg van de uitgifte van het nieuwe geld door de stijging van de inflatiepercentages.
-
-
-Ten vijfde, ondanks een paar overblijfselen van het mercantilistische gedachtegoed, was Cantillons algemene perspectief **heel liberaal**. Hij verdedigde privébezit als een fundamentele pijler van de beschaving, met het argument dat geen enkele maatschappij kan functioneren zonder privé Ownership van land en de producten van arbeid. Hij zag materiële ongelijkheid tussen mensen ook als natuurlijk en legitiem. Volgens Cantillon is er niets mis met een efficiënte en moedige arbeider, of een uitzonderlijk begaafde arbeider die meer verdient dan iemand die incompetent of lui is.  Tot slot geloofde Cantillon dat prijzen altijd vrij bepaald moesten worden, door het spel van Supply en vraag, zonder tussenkomst van de overheid.
-
-
-Van deze vijf belangrijkste ideeën in zijn Essay is het belangrijkste ongetwijfeld het idee dat nu zijn naam draagt: het **Cantillon Effect**.
-
-Met deze theorie over de effecten van inflatie geeft Cantillon ons antwoorden op een aantal hedendaagse kwalen. Het helpt ons de gevolgen te begrijpen van het recente expansieve en inflatoire monetaire beleid, dat de middenklasse en het platteland heeft verarmd, terwijl het de spelers op de financiële markten en de staat, zijn agentschappen en ambtenaren heeft verrijkt, vanwege hun gezamenlijke nabijheid tot de bron van het nieuwe probleem: centrale banken en commerciële banken.
-
-
-
-# Hervormers en denkers uit het begin van de 18e eeuw
-
+# Hervormers en denkers van de vroege 18e eeuw
 
 <partId>1f7b50d4-ce93-5db3-8396-43c1fa5419ff</partId>
 
-
 ## De abt van Saint-Pierre
-
 
 <chapterId>13478fe2-4c12-593c-a410-54c2cfb7ef7f</chapterId>
 
+### Een productief pacifist in een tijdperk van oorlog
 
-Van alle auteurs die we hebben opgenomen in het pantheon van 18e-eeuwse Franse laissez-faire denkers, is Abt van Saint-Pierre ongetwijfeld de meest over het hoofd geziene.
+Van alle auteurs die we hebben gekozen voor het pantheon van 18e-eeuwse Franse laissez-faire-denkers, is de abt van Saint-Pierre ongetwijfeld de meest over het hoofd geziene.
 
+![De abt van Saint-Pierre](assets/en/018.webp)
 
-![image](assets/nl/018.webp)
+Om eerlijk te zijn, ligt dat deels aan hemzelf. Hij schreef veel, maar zijn stijl is moeilijk leesbaar en zit vol herhalingen. Zelfs Jean-Jacques Rousseau probeerde zijn werk samen te vatten: hij begon eraan, maar gaf de taak al snel op, omdat hij besefte dat het zijn krachten te boven ging. Halverwege de 19e eeuw eerde Gustave de Molinari hem door een uitgebreid werk over hem te publiceren, waarin hij hulde bracht aan de pacifist en econoom die de abt van Saint-Pierre was. Maar dit was niet genoeg om hem uit de vergetelheid te halen, waarin hij vandaag nog steeds verkeert.
 
-
-Om eerlijk te zijn, het is deels zijn eigen schuld. Hij heeft veel geschreven, maar zijn stijl is Hard om te lezen en zit vol herhalingen. Zelfs Jean-Jacques Rousseau probeerde zijn werk samen te vatten: hij begon eraan, maar gaf de taak al snel op, omdat hij zich realiseerde dat het zijn kracht te boven ging. Halverwege de 19e eeuw eerde Gustave de Molinari hem door een uitgebreid werk over hem te publiceren, waarin hij hulde bracht aan de pacifist en econoom die de abt van Saint-Pierre was. Maar dit was niet genoeg om hem uit de vergetelheid te halen, want tot op de dag van vandaag bevindt hij zich nog steeds in de vergetelheid.
-
-
-![image](assets/nl/019.webp)
+![Portret van Gustave de Molinari, De abt van Saint-Pierre door Molinari](assets/en/019.webp)
 
 
 
+De abt van Saint-Pierre schreef over economie, maar het is eerder als pacifist dat hij doorgaans interesse wekt. Hij is de auteur van een Project voor Eeuwige Vrede, dat het bekendere werk van Immanuel Kant voorafgaat.
 
+![De abt van Saint-Pierre, "Project om de vrede in Europa te herstellen"](assets/en/020.webp)
 
-De abt van Saint-Pierre schreef over economie, maar hij is meestal interessant als pacifist. Hij is de auteur van een Project voor Eeuwigdurende Vrede, dat dateert van voor het bekende project van Emmanuel Kant.
+In dit werk betoogde hij dat oorlog verwoestend is, niet alleen voor de verliezers, maar ook voor de winnaars, en zelfs voor degenen die er niet aan deelnemen, aangezien hun handel eronder lijdt.
 
+Om de gesel van de oorlog te bestrijden, beval hij de oprichting aan van een soort Europese Volkerenbond. Een Europese raad zou worden gevormd om de problemen van elke natie op te lossen. Naties zouden dus hun toevlucht nemen tot arbitrage, om te voorkomen dat ze naar de wapens grepen. Als een natie niet wijs genoeg was om vrede te omarmen, als ze de andere Europese naties bedreigde, zou de Europese volkerenbond over middelen beschikken om te reageren. Bij zulke gebeurtenissen zou een Europees leger worden gevormd, met troepen geleverd door de verschillende landen.
 
-![image](assets/nl/020.webp)
+### Verbannen voor het durven bekritiseren van Lodewijk XIV
 
+Er is ook een episode in het leven van de abt van Saint-Pierre die de kritische geesteshouding achter de Franse laissez-faire-beweging perfect illustreert. Hij trad in 1695 toe tot de Académie Française, maar werd in 1718 verbannen omdat hij het waagde het bewind van Lodewijk XIV te bekritiseren. Daarmee schaarde hij zich naast figuren als Vauban en Boisguilbert, die ook hadden durven spreken tegen de ellende die verborgen ging achter de pracht van het bewind van de Zonnekoning.
 
-In dit werk betoogde hij dat oorlog destructief is, niet alleen voor degenen die hem verliezen, maar ook voor de winnaars en zelfs voor degenen die er niet aan deelnemen, omdat hun handel wordt beïnvloed.
+![Lodewijk XIV, Versailles, Spiegelzaal](assets/en/021.webp)
 
-
-Om de gesel van de oorlog te bestrijden, adviseerde hij de oprichting van een soort Europese Volkenbond. Er zou een Europese raad worden gevormd om de problemen van elke natie op te lossen. Naties zouden dan hun toevlucht nemen tot arbitrage, om te voorkomen dat ze hun toevlucht zouden nemen tot wapens. Als een natie niet verstandig genoeg was om vrede te sluiten en de andere Europese naties bedreigde, zou de Europese Liga van Naties een middel hebben om te reageren. Bij dergelijke gebeurtenissen zou een Europees leger worden gevormd, met troepen die door de verschillende landen werden geleverd.
-
-
-Er is ook een episode in het leven van de abt van Saint-Pierre die perfect de kritische geest achter de Franse laissez-faire beweging illustreert. Hij werd lid van de Académie Française in 1695, maar werd in 1718 geroyeerd omdat hij kritiek durfde te uiten op het bewind van Lodewijk XIV. Daarmee sloot hij zich aan bij figuren als Vauban en Boisguilbert, die zich ook durfden uit te spreken tegen de myseries die schuilgingen onder de pracht en praal van het bewind van de Zonnekoning.
-
-
-![image](assets/nl/021.webp)
-
-
-De abt van Saint-Pierre stelde dat de regering van Louis XIV, met zijn luxueuze hof en obsessie voor militaire verovering, niet het kenmerk was van een deugdzame koning. Hij weigerde te accepteren dat Louis XIV de titel "**Louis de Grote**" verdiende.
+De abt van Saint-Pierre betoogde dat het bewind van Lodewijk XIV, met zijn weelderige hof en obsessie met militaire verovering, niet het kenmerk was van een deugdzame koning. Hij weigerde te aanvaarden dat Lodewijk XIV de titel "**Lodewijk de Grote**" verdiende.
 
 
 
+"Zijn buren en zijn eigen volk tegelijk ruïneren, is geen grootsheid", zei hij. Deze houding kwetste de Académie Française diep, die zich lang had beziggehouden met het verheerlijken van de koning in elke mogelijke literaire vorm. Als gevolg daarvan stemde men bijna unaniem voor zijn verbanning.
 
+![Académie Française](assets/en/022.webp)
 
-"Tegelijkertijd je buren en je volk ruïneren is geen grootheid", zei hij. Dit standpunt was zeer beledigend voor de Académie Française, die zich lange tijd had beziggehouden met het verheerlijken van de koning in elke mogelijke literaire vorm. Daarom stemden ze bijna unaniem om hem te royeren.
+### Vroege inzichten over ruil en arbeid
 
+Op economisch vlak paste hij consequent het nutsbeginsel toe, net zoals Jeremy Bentham later zou doen, en kwam hij vaak met gegronde inzichten. Om eerlijk te zijn, was hij nog beïnvloed door mercantilistische ideeën, die op dat moment nog niemand volledig had afgeschud.
 
-![image](assets/nl/022.webp)
+Toch deed de abt van Saint-Pierre enkele juiste waarnemingen over de economie. Nog vóór *Condillac*, aan wie het idee vaak wordt toegeschreven, stelde hij duidelijk dat bij elke ruil beide partijen winnen. Dit staat in zijn ["Project pour perfectionner le commerce de France"](https://www.institutcoppet.org/projet-pour-perfectionner-le-commerce-de-france/) uit 1733, waarin hij schreef:
 
+> Wanneer er een verkoop plaatsvindt tussen kooplieden, wint de verkoper, en wint ook de koper; want als er geen reëel of vermeend voordeel voor beide partijen zou zijn, zou noch de verkoper tegen die en die prijs verkopen, noch de koper tegen die prijs kopen.
 
-In termen van economisch denken paste hij consequent het principe van het nut toe, net zoals Jeremy Bentham later zou doen, en bood hij vaak goede inzichten. Om eerlijk te zijn werd hij nog steeds beïnvloed door mercantilistische ideeën, die niemand op dat moment volledig van zich had afgeschud.
+![18e-eeuws Frans pamflet dat hervormingen van handel en financiën voorstelt, een weerspiegeling van vroege debatten over handel en economisch beleid](assets/en/023.webp)
 
-
-Toch maakte de abt van Saint-Pierre enkele nauwkeurige observaties over de economie. Zelfs vóór *Condillac*, aan wie het idee vaak wordt toegeschreven, stelde hij duidelijk dat in elke Exchange beide partijen profiteren. Dit is terug te vinden in zijn ["Project ter verbetering van de Franse handel"] uit 1733 (https://www.institutcoppet.org/projet-pour-perfectionner-le-commerce-de-france/), waar hij schreef:
-
-
-> "Als er geen echt of vermeend voordeel was aan beide kanten, zou noch de verkoper verkopen tegen een dergelijke prijs, noch de koper van zijn kant kopen tegen een dergelijke prijs".
-
-![image](assets/nl/023.webp)
-
-
-Hij benadrukte ook, eerder dan Vincent de Gournay, de waarde van arbeid en het belang van het aantrekkelijk houden ervan. "Alle arbeid is moeilijk", schreef hij. "En als een man ziet dat zijn werk hem niets of niet genoeg oplevert, wordt hij lui en zal hij geen moeite doen voor onnodige inspanning". Ditzelfde argument zou later worden herhaald door de Markies d'Argenson, Vincent de Gournay en de Fysiocraten toen zij lastige regels en gildesystemen bekritiseerden. Ze stelden dat dergelijke beperkingen arbeiders ontmoedigden, nodeloze moeilijkheden veroorzaakten en uiteindelijk luiheid aantrekkelijker maakten dan productieve inspanning onder dergelijke omstandigheden.
-
+Hij benadrukte ook, nog vóór Vincent de Gournay dat deed, het belang van arbeid en van het aantrekkelijk houden ervan. "Alle arbeid is zwaar", schreef hij. "En wanneer een man ziet dat zijn werk hem niets, of te weinig, oplevert, wordt hij lui en bekommert hij zich niet meer om onnodige inspanning". Ditzelfde argument zou later worden herhaald door de markies d'Argenson, Vincent de Gournay en de fysiocraten, wanneer zij drukkende regelgeving en gildesystemen bekritiseerden. Zij betoogden dat dergelijke beperkingen arbeiders ontmoedigden, onnodige moeilijkheden veroorzaakten en er uiteindelijk voor zorgden dat luiheid aantrekkelijker leek dan productieve inspanning onder zulke omstandigheden.
 
 
 ## De markies d'Argenson
 
-
 <chapterId>e9960ab4-72ec-5afd-8e97-bf89c83b62bc</chapterId>
 
+### Een voorloper van Adam Smith
 
-De Markies d'Argenson is een vergeten grondlegger van de doctrine van laissez-faire.
+De markies d'Argenson is een vergeten grondlegger van de leer van het laissez-faire.
 
+![Markies d'Argenson, Laissez-faire, laissez-passer](assets/en/024.webp)
 
-![image](assets/nl/024.webp)
-
-
-Het werd herontdekt door August Oncken, auteur van een boek over de laissez-faire, laissez-passer doctrine, die concludeerde dat d'Argenson een belangrijke rol speelde in de geboorte van dit idee.
-
+Hij werd herontdekt door August Oncken, auteur van een boek over de laissez-faire-, laissez-passer-leer, die concludeerde dat d'Argenson een belangrijke rol speelde bij de geboorte van dit idee.
 
 
 
+René-Louis Voyer, markies d'Argenson, werd geboren in 1694. Hij begon zijn politieke loopbaan als parlementair adviseur en diende vervolgens in de Raad van State.
 
-René-Louis Voyer, markies d'Argenson, werd geboren in 1694. Hij begon zijn politieke carrière als parlementair adviseur en was daarna lid van de Raad van State.
+**Dertig jaar vóór Adam Smith** verdedigde d'Argenson al de voordelen van arbeidsdeling en specialisatie.
 
+![Speldenfabricage, "Encyclopédie" van Diderot en d'Alembert](assets/en/025.webp)
 
-Dertig jaar voor Adam Smith verdedigde d'Argenson al de voordelen van arbeidsdeling en specialisatie.
+Hij bekritiseerde scherp de regelgeving die, naar zijn mening, probeerde de natuurlijke voorkeuren van verschillende regio's te veranderen. Hij was bijvoorbeeld verbijsterd dat de regering stoffen en fluweel wilde produceren in Tours, destijds een arme stad, om de kwaliteit te evenaren van die uit het welvarende Genua, dat bekendstond om zijn luxegoederen. Hij concludeerde:
 
+> Elke plaats moet haar eigen fabrieken kunnen kiezen. Vrijheid! Vrijheid!
 
-![image](assets/nl/025.webp)
+### Spontane orde en de onzichtbare hand
 
-
-Hij had veel kritiek op regelgeving die, zoals hij het zag, de natuurlijke voorkeuren van verschillende regio's probeerde te veranderen. Hij was bijvoorbeeld verbijsterd dat de regering stoffen en fluweel wilde produceren in Tours, een arme stad in die tijd, om de kwaliteit te evenaren van de stoffen en fluweel uit het welvarende Genua, dat beroemd was om zijn luxegoederen. Hij concludeerde:
-
-
-> "Elke plaats moet zijn eigen fabrieken kunnen kiezen. Vrijheid! Vrijheid!"
-
-Hij herkende ook een ander centraal principe van Smith: het idee dat spontane orde voortkomt uit het nastreven van eigenbelang. De Markies d'Argenson geloofde dat direct persoonlijk belang de drijfveer was voor menselijke energie. Hij schreef dat slecht vakmanschap en fraude een fabrikant in diskrediet zouden brengen, terwijl ijver en goede bedoelingen tot welvaart zouden leiden. De beste beoordelaar van het nut, zo stelde hij, was het individu, het grote publiek, dat goederen koopt en het belangrijk vindt om een goede deal te sluiten. "Iedereen voelt zijn eigen belang," zei hij, "iedereen neemt de maatregelen die voor hem voordelig zijn, en het is in deze algemene overeenstemming dat we de waarheid ontdekken."
+Hij herkende ook een ander centraal beginsel van Smith: het idee dat spontane orde ontstaat uit het nastreven van eigenbelang. De markies d'Argenson geloofde dat onmiddellijk persoonlijk belang de menselijke energie aandreef. Hij schreef dat slecht vakmanschap en fraude een fabrikant zouden diskrediteren, terwijl vlijt en goede bedoelingen tot voorspoed zouden leiden. De beste rechter over nut, betoogde hij, was het individu, het brede publiek, dat goederen koopt en een goede deal wil sluiten. "Iedereen voelt zijn eigen belang," zei hij, "iedereen neemt de maatregelen die voor hem winstgevend zijn, en het is in deze algemene overeenstemming dat wij de waarheid ontdekken."
 
 
+Nog vóór Adam Smith begreep hij dat eigenbelang tot het algemeen belang leidt via de opbouw van een spontane natuurlijke orde.
 
-Zelfs vóór Adam Smith begreep hij dat eigenbelang leidt tot algemeen belang door de opbouw van een spontane natuurlijke orde.
+![Portret van Adam Smith](assets/en/026.webp)
 
+Hij vergeleek de samenleving met een bijenkorf waarin elk insect zijn instinct volgt: "Uit hun handelingen", zei hij precies, "ontstond een grote opeenhoping voor de behoeften van de kleine gemeenschap; maar dit werd niet teweeggebracht door bevelen, of door generaals die elk individu verplichtten de zienswijze van hun leider te volgen". Dit is misschien wel de dichtste uitdrukking in het Franse economische denken van Adam Smiths beroemde begrip "de onzichtbare hand".
 
-![image](assets/nl/026.webp)
-
-
-Hij vergeleek de maatschappij met een bijenkorf waarin elk insect zijn instinct volgt, "Uit hun acties", zei hij precies, "vloeide een grote accumulatie voort voor de behoeften van de kleine maatschappij; maar dit werd niet teweeggebracht door bevelen, of door generaals, die elk individu verplichtten om de opvattingen van hun leider te volgen". Dit is misschien wel de uitdrukking die in het Franse economische denken het dichtst in de buurt komt van Adam Smiths beroemde concept van de "onzichtbare hand".
-
-
-De markies d'Argenson was altijd woedend over de ideeën van de ministers van zijn tijd. De enige vraag die zij stelden was: "Moeten we dit of dat regelen? Moeten we de economie op dit of dat richten?". Waarop d'Argenson antwoordde: "Moeten we ons niet eerst afvragen of het wel gepast is om überhaupt iets te sturen, of dat we de dingen hun gang moeten laten gaan?"
+De markies d'Argenson was altijd verontwaardigd over de ideeën van de ministers van zijn tijd. De enige vraag die zij stelden, was: "Moeten we dit of dat reguleren? Moeten we de economie deze of gene richting op sturen?". Waarop d'Argenson antwoordde: "Moeten we niet eerst vragen of het wel gepast is om er iets van te sturen, of dat de dingen niet beter op zichzelf kunnen worden overgelaten?"
 
 
+Om eerlijk te zijn, was hij verbaasd dat mensen het zo moeilijk vonden om de schadelijke effecten van buitensporige regulering van allerlei aard op de economie te begrijpen, of liever te zien. Naar zijn mening volstond het simpelweg de ogen te openen. "Zoveel dingen functioneren tegenwoordig redelijk goed", schreef hij bitter, "simpelweg omdat ze erin geslaagd zijn aan de greep van de wet te ontsnappen".
+Soms wanhoopte hij over hoe weinig zijn ideeën begrepen werden.
 
-Eerlijk gezegd was hij verbaasd dat mensen het zo Hard vonden om de schadelijke effecten van allerlei soorten overregulering op de economie te begrijpen, of beter gezegd, in te zien. Volgens hem was het genoeg om gewoon de ogen te openen. "Zoveel dingen werken vandaag de dag redelijk goed", schreef hij bitter, "gewoon omdat ze erin geslaagd zijn om aan het bereik van de wet te ontsnappen".
+![Markies d'Argenson, "Journal en memoires"](assets/en/027.webp)
 
-Soms wanhoopte hij over hoe weinig zijn ideeën werden begrepen.
+### Het pleidooi voor een minimale Staat
 
+Het economisch beleidsideaal dat hij verdedigde, ging dus in tegen de tendensen van zijn tijd. Zijn ideaal omschreef een in wezen negatieve rol voor de Staat. "Alles wat de handel nodig heeft, is het wegnemen van belemmeringen. Ze vraagt slechts om goede rechters, bestraffing van monopolies, gelijke bescherming voor alle burgers, stabiele valuta's, en wegen en kanalen". Dit was de definitie van een minimale Staat, die een van de grondslagen van de Franse traditie in de politieke economie zou worden.
 
-![image](assets/nl/027.webp)
+Deze visie op de rol van de Staat in het economische leven werd op natuurlijke wijze geïllustreerd door de bestudering van twee grote kwesties die de economen en sociale denkers van zijn tijd bezighielden: de regulering van de nijverheid en de graanhandel.
 
-
-Het ideaal van economisch beleid dat hij verdedigde stond daarom haaks op de trends van zijn tijd. Zijn ideaal definieerde een hoofdzakelijk negatieve rol voor de staat. "Alles wat de handel nodig heeft is het verwijderen van obstakels. Het vraagt alleen om goede rechters, bestraffing van monopolies, gelijke bescherming voor alle burgers, stabiele valuta en wegen en kanalen". Dit was de definitie van een minimale staat, die een van de fundamenten zou worden van de Franse traditie in politieke economie.
-
-
-Deze visie op de rol van de staat in de economische activiteit werd natuurlijk geïllustreerd door de studie van twee belangrijke kwesties die de economen en sociale denkers van zijn tijd in beroering brachten: de regulering van de industrie en de tarwehandel.
-
-
-In de eerste plaats wekte de regelgeving voor de industrie al zijn wrevel, omdat het privileges waren voor sommigen ten koste van anderen. "De echte oorzaak van het verval van onze fabrieken", schreef hij, "is de buitensporige bescherming die ze krijgen". En met een niet minder levendig credo uitte hij zijn kritiek op de dirigistische ijver van de staatslieden van zijn tijd:
+De regulering van de nijverheid wekte om te beginnen al zijn wrevel op, omdat het privileges waren voor sommigen ten koste van anderen. "De ware oorzaak van de neergang van onze fabrieken", schreef hij, "is de overdreven bescherming die eraan wordt gegeven". En het was met een niet minder levendig credo dat hij zijn kritiek uitte op de dirigistische ijver van de staatslieden van zijn tijd:
 
 
+> De nijverheid tegen haar wil laten draaien, is haar ondergang willen.
 
-> De industrie tegen haar wil in leiden, is haar ondergang willen.
-
-Op de kwestie van de handel in levensmiddelen had d'Argenson geen ander antwoord dan vrijheid. Volgens hem kwamen de tekorten aan tarwe door het monopolie en de buitensporige voorzorgsmaatregelen van de overheid. Het enige wat we moesten doen, was het zijn gang laten gaan en er zou nooit een tarwetekort zijn in een land waar de havens open waren. Buitenlanders, net als alle andere mensen aangetrokken door de verleiding van winst, zouden ons voorzien van wat we nodig hadden en ons overschot weghalen. "Laat het zo zijn", zei hij, "en alles komt goed".
-
+Wat de handel in bestaansmiddelen betreft, had d'Argenson geen ander antwoord dan vrijheid. Volgens hem kwamen de graantekorten voort uit het monopolie en de overdreven voorzorgsmaatregelen van de regering. We hoefden alleen maar de dingen te laten begaan, en er zou nooit een graantekort zijn in een land met open havens. Buitenlanders, net als alle mensen aangetrokken door de lokroep van winst, zouden ons leveren wat we nodig hadden en ons overschot afnemen. "Laat het begaan", zei hij, "en alles komt goed".
 
 ## Vincent de Gournay
 
-
 <chapterId>e8ae40dc-7450-552f-9ddc-9e02936cf425</chapterId>
 
+### Een koopman in de gangen van de macht
 
-Vincent de Gournay was een van de eerste vertegenwoordigers van laissez-faire in Frankrijk en een van de eerste pleitbezorgers ervan in het openbaar bestuur en in intellectuele kringen. Daarom verdient hij veel meer erkenning in de geschiedenis van het economisch denken dan hij gewoonlijk krijgt. In een recent boek heb ik geprobeerd zijn bijdragen te belichten.
+Vincent de Gournay was een van de eerste vertegenwoordigers van laissez-faire in Frankrijk en een van de vroegste voorvechters ervan binnen het openbaar bestuur en de intellectuele kringen. Om die reden verdient hij veel meer erkenning in de geschiedenis van het economische denken dan hij gewoonlijk krijgt. Ik heb geprobeerd zijn bijdragen te belichten in een recent boek.
 
+![Benoît Malbranque, "Vincent de Gournay"](assets/en/028.webp)
 
-![image](assets/nl/028.webp)
+Geboren in een koopmansfamilie, werd Gournay zelf een succesvolle koopman en vergaarde hij aanzienlijke rijkdom voordat hij een positie in het Franse bestuur verkreeg. Binnen het Bureau van Handel was hij **een vurig pleitbezorger voor vrije arbeid en vrijhandel**.
 
+Hoewel hij goed ingebed was in de context van de toonaangevende economen van zijn tijd, schreef Gournay weinig of, beter gezegd, publiceerde hij weinig. Hij schreef vooral bestuurlijke brieven en memoires, ofwel ongepubliceerd, ofwel na enige redactie door andere auteurs uitgegeven.
 
-Gournay werd geboren in een koopmansfamilie en werd zelf een succesvol koopman. Hij vergaarde aanzienlijke rijkdom voordat hij een positie in de Franse regering veroverde. Binnen het Bureau of Commerce was hij een fervent voorstander van vrije arbeid en vrije handel.
+Wat we wel hebben, omvat:
 
+1. [De aantekeningen](https://archive.org/details/traitessurlecomm0000chil) bij een vertaling van een boek van de Engelse econoom Josiah Child;
 
-Hoewel hij goed was opgenomen in de context van de toonaangevende economen van zijn tijd, schreef Gournay weinig of, beter gezegd, publiceerde hij weinig. Hij schreef voornamelijk administratieve brieven en memoires, ongepubliceerd of na enige bewerking gepubliceerd door andere auteurs.
+![Verhandeling over de handel Josiah Child, tekst gedateerd 26 juni 1715, geschreven door M. de Gourgan, koopman, officieel verslag over de Compagnie des Indes](assets/en/029.webp)
 
-
-Wat we wel hebben is:
-
-
-1. [De opmerkingen](https://archive.org/details/traitessurlecomm0000chil) over een vertaling van een boek van de Engelse econoom Josiah Child;
-
-
-![image](assets/nl/029.webp)
-
-
-2. "Observations" included in the Examination of the Advantages and Disadvantages of the Prohibition of Printed Fabrics;
+2. "Observaties" opgenomen in het Onderzoek naar de voor- en nadelen van het verbod op bedrukte stoffen;
 
 
 
-
-
-3. "Observations on the East India Company", door Abt Morellet toegevoegd aan zijn Memoir on the Current State of the East India Company (1769);
-
+3. "Observaties over de Oost-Indische Compagnie", toegevoegd door abt Morellet aan zijn Memoire over de huidige staat van de Oost-Indische Compagnie (1769);
 
 
 
+4. En bovenal, verschillende memoires uit zijn functie als Intendant van Handel.
 
-4. En vooral, verschillende memoires uit zijn rol als Intendant van Commerce.
+### Buitenlandse invloed en structurerende ideeën
 
+Deze geschriften tonen een duidelijke buitenlandse invloed en de aanwezigheid van enkele belangrijke structurerende ideeën. De buitenlandse invloed bij Gournay is de erkenning van de Engelse en Nederlandse superioriteit. Gournay was ervan overtuigd dat deze twee naties de economie veel beter begrepen dan Frankrijk, en dat Frankrijk hun voorbeeld moest volgen. "Deze twee naties zijn de meest welvarende", zei hij, "en zij volgen een geheel ander stelsel dan wij. Wij verbieden de invoer van buitenlandse goederen, we sluiten economische activiteit op binnen draconische regelgeving, terwijl zij precies het tegenovergestelde doen. Als het beter met hen gaat", concludeerde Gournay, "dan is dat omdat Frankrijk zich laat leiden door gebrekkige beginselen".
 
-Deze geschriften laten een duidelijke buitenlandse invloed zien en de aanwezigheid van enkele belangrijke structurerende ideeën. De buitenlandse invloed in Gournay is de erkenning van de Engelse en Nederlandse superioriteit. Gournay was ervan overtuigd dat deze twee naties de economie veel beter begrepen dan Frankrijk en dat Frankrijk hun voorbeeld moest volgen. "Deze twee naties zijn het meest welvarend", zei hij, "en ze volgen een heel ander systeem dan wij. Wij verbieden de invoer van buitenlandse goederen, we beperken de economische activiteit binnen draconische regels, terwijl zij op de tegenovergestelde manier te werk gaan. Als zij het beter doen", concludeerde Gournay, "dan komt dat omdat Frankrijk zich laat leiden door verkeerde principes".
+Zijn hervormingsvoorstellen draaiden om verschillende kernpunten.
 
+Ten eerste geloofde hij dat arbeid beschermd en aangemoedigd moest worden. In die tijd werden Franse arbeiders als criminelen behandeld, voortdurend in de gaten gehouden en in angst gehouden dat ze zich niet aan een van de duizenden regels hadden gehouden. Deze overdreven irritatie ontmoedigde mensen om te werken en dreef hen juist naar ledigheid. Toch, betoogde Gournay, "is arbeid nobel en de enige manier om een natie te verrijken".
 
-Zijn hervormingsvoorstellen concentreerden zich op een aantal belangrijke punten.
+Ten tweede bekritiseerde hij het restrictieve gildesysteem dat fabrikanten beperkte. Deelnemen aan een ambacht was zowel tijdrovend als kostbaar, en elke nieuwe arbeider moest daarna nauwgezet de routine volgen die door de statuten van zijn gilde was vastgelegd. Zo'n systeem liet geen ruimte voor uitmuntendheid, innovatie of vooruitgang.
 
+Ten derde werd de handel in Frankrijk beperkt door restrictieve wetten. Naar de mening van Gournay zouden consumenten sterk profiteren als havens vrij zouden kunnen concurreren en alle goederen, zoals graan en bedrukte weefsels, zonder beperking ingevoerd zouden mogen worden. Hij was een van de eersten die wees op de ware oorsprong van smokkelhandel: die bestond enkel omdat een nuttige en voordelige handel verboden was. Hij voegde een scherpe observatie toe: smokkelhandel was een "vrij" beroep, zonder regelgeving, zonder gilden, zonder confiscatoire belastingen. Toch was het de overweldigende regelgeving van de Staat die vele eerlijke arbeiders de illegaliteit indreef.
 
-Ten eerste geloofde hij dat arbeid beschermd en aangemoedigd moest worden. In die tijd werden Franse arbeiders als criminelen behandeld, constant gecontroleerd en bang gehouden dat ze niet aan een van de duizenden regels voldeden. Deze buitensporige ergernis ontmoedigde mensen om te werken en duwde hen in de richting van luiheid. Maar, zo stelde Gournay, "werk is nobel en de enige manier om een natie te verrijken".
+Ten slotte merkte Gournay op dat de rentetarieven lager waren in Engeland en Nederland, landen die welvarender waren dan Frankrijk. Hij pleitte ook voor lagere rentetarieven in Frankrijk, zodat de economische bedrijvigheid daar onder even gunstige voorwaarden gefinancierd kon worden als elders. Gournay zocht echter geen dwingende, wetgevende methoden; hij benadrukte veeleer de noodzaak om geldlening te legaliseren, wat door de katholieke Kerk nog werd veroordeeld.
 
+### Blijvende invloed op Turgot en verder
 
-Ten tweede bekritiseerde hij het restrictieve gildesysteem dat fabrikanten aan banden legde. Deelnemen aan een vak was zowel tijdrovend als duur en elke nieuwe arbeider moest dan nauwgezet de routine volgen die was vastgelegd in de statuten van zijn gilde. Een dergelijk systeem liet geen ruimte voor uitmuntendheid, innovatie of vooruitgang.
+Op al deze punten speelde Gournay een sleutelrol in de intellectuele debatten van het midden van de 18e eeuw. Zijn verdediging van economische vrijheid ging de fysiocraten een decennium en Adam Smith twintig jaar vooraf. Maar zijn meest blijvende invloed was op Turgot. Gournay nam de jonge Turgot onder zijn hoede en vormde hem naar zijn ideeën.
 
+![Portret van Turgot](assets/en/030.webp)
 
-Ten derde werd de handel in Frankrijk beperkt door beperkende wetten. Volgens Gournay zouden consumenten er veel baat bij hebben als havens vrij konden concurreren en alle goederen, zoals graan en bedrukte doeken, onbeperkt geïmporteerd mochten worden. Hij was een van de eersten die wees op de ware oorsprong van smokkel: het bestond alleen omdat een nuttige en voordelige handel verboden was. Hij voegde er een scherpe observatie aan toe: smokkelen was een "vrij" beroep, zonder regels, zonder gilden, zonder confiscerende belastingen. Toch was het de overweldigende regulering door de staat die veel eerlijke arbeiders in de illegaliteit dreef.
+Jaren later schreef Turgot, een toekomstige minister onder Lodewijk XVI, na diens dood een Éloge (lofrede) ter ere van zijn vriend. En als Turgot de fysiocratie van François Quesnay nooit volledig omarmde, dan kwam dat doordat hij een onwrikbare gehechtheid bewaarde aan zijn eerste leermeester, Vincent de Gournay.
 
-
-Tot slot merkte Gournay op dat de rentetarieven lager waren in Engeland en Nederland, landen die welvarender waren dan Frankrijk. Hij pleitte voor lagere rentetarieven ook in Frankrijk, zodat economische activiteiten daar net zo voordelig gefinancierd konden worden als elders. Gournay streefde echter niet naar dwingende, wetgevende methoden; hij benadrukte eerder de noodzaak om het lenen van geld, dat nog steeds werd veroordeeld door de katholieke kerk, te legaliseren.
-
-
-Op al deze punten speelde Gournay een sleutelrol in de intellectuele debatten van het midden van de 18e eeuw. Zijn verdediging van economische vrijheid was een decennium eerder dan die van de Fysiocraten en twintig jaar eerder dan die van Adam Smith. Maar zijn meest blijvende invloed had hij op Turgot. Gournay nam de jonge Turgot onder zijn hoede en leidde hem op met zijn ideeën.
-
-
-![image](assets/nl/030.webp)
-
-
-Jaren later schreef Turgot, een toekomstige minister onder Lodewijk XVI, een Éloge (lofrede) ter ere van zijn vriend na diens dood. En als Turgot de Fysiocratie van François Quesnay nooit helemaal omarmde, dan was dat omdat hij een onoverwinnelijke gehechtheid behield aan zijn eerste meester, Vincent de Gournay.
-
-
-## De Gournay Cirkel
-
+## De kring van Gournay
 
 <chapterId>b86ba6bd-8f3a-5d8f-b098-4d0413f00deb</chapterId>
 
+### Een netwerk van vertalers en economen
 
-Als het gaat om de begindagen van de economische wetenschap, heeft de geschiedenis de neiging om een eerste denkschool te benadrukken: de Fysiocraten, geleid door François Quesnay en zijn discipelen. Bijna tien jaar voor hun opkomst was er echter een andere, minder formele maar even belangrijke groep rond de econoom Vincent de Gournay.
+Als het gaat om de vroege dagen van de economische wetenschap, belicht de geschiedenis meestal een eerste stroming: de fysiocraten, onder leiding van François Quesnay en zijn volgelingen. Bijna een decennium vóór hun opkomst bestond er echter al een andere, minder formele maar even belangrijke groep rond de econoom Vincent de Gournay.
 
+![De kring van Vincent de Gournay](assets/en/031.webp)
 
-![image](assets/nl/031.webp)
+Zoals we in het vorige deel zagen, was Gournay gefascineerd door het voorbeeld van buitenlandse naties zoals Engeland en Holland. Hij bewonderde hun economen (figuren zoals Josiah Child, Johan de Witt en David Hume) net zo zeer.
 
+![Portret van David Hume](assets/en/032.webp)
 
-Zoals we in het vorige deel zagen, was Gournay gefascineerd door het voorbeeld van buitenlandse naties als Engeland en Nederland. Hij bewonderde hun economen - figuren als Josiah Child, Johan de Witt en David Hume - net zo zeer.
+Deze bewondering bracht hem ertoe hun economische geschriften te vertalen, of vertalingen ervan te laten maken.
 
+Zijn positie in het hogere bestuur bleek Gournay in staat te stellen in contact te komen met alle economische specialisten die destijds in Frankrijk bekend waren. Zo verzamelde hij een groep uiterst bekwame vertalers om zich heen. Hij vertaalde persoonlijk de werken van Child en Culpeper. Abt Le Blanc vertaalde David Humes Political Discourses. Véron de Forbonnais vertaalde de Spaanse econoom Geronymo de Uztariz. Turgot werkte aan de geschriften van Josiah Tucker, en de zoon van Montesquieu vertaalde Joshua Gee.
 
-![image](assets/nl/032.webp)
+### Een explosie van economische publicaties
 
+Dankzij de samenwerking van verschillende leden van Gournays kring konden veel auteurs originele werken onder hun eigen naam publiceren. Deze boeken, samen met de vertalingen, behaalden opmerkelijk succes. Enkele opmerkelijke voorbeelden:
 
-Deze bewondering leidde ertoe dat hij hun economische geschriften vertaalde en er vertalingen van gaf.
+- Herberts Essay over de [Algemene politie van graan](https://archive.org/details/essaisurlapolice00herb/page/n7/mode/2up) (6 edities in 4 jaar)
 
+![Abt Gabriel-François Coyer, "La Noblesse commerçante", Essay over het algemene graanbeleid (1755)](assets/en/033.webp)
 
-Het bleek dat zijn positie in de hoge administratie Gournay in staat stelde om in contact te komen met alle economische specialisten die op dat moment in Frankrijk bekend waren. Op deze manier verzamelde hij een groep uiterst bekwame vertalers. Hij vertaalde persoonlijk de werken van Child en Culpeper. Abt Le Blanc vertaalde de Political Discourses van David Hume. Véron de Forbonnais vertaalde de Spaanse econoom Geronymo de Uztariz. Turgot werkte aan de geschriften van Josiah Tucker en Montesquieu's zoon vertaalde Joshua Gee.
-
-
-Dankzij de medewerking van verschillende leden van Gournay's kring konden veel auteurs originele werken publiceren onder hun eigen naam. Deze boeken bereikten, samen met de vertalingen, een opmerkelijk succes. Enkele opmerkelijke voorbeelden zijn:
-
-
-
-- Herbert's Essay on the [General Police of Grain](https://archive.org/details/essaisurlapolice00herb/page/n7/mode/2up) (6 edities in 4 jaar)
-
-
-![image](assets/nl/033.webp)
+- Coyers [Noblesse commerçante](https://archive.org/details/lanoblessecommer00coye/page/n3/mode/2up) (5 edities in 2 jaar)
 
 
 
-- Coyer's [Noblesse commerçante](https://archive.org/details/lanoblessecommer00coye/page/n3/mode/2up) (5 edities in 2 jaar)
+- Plumard de Dangeuls [Remarks on the Advantages and Disadvantages of France and Great Britain](https://archive.org/details/bim_eighteenth-century_remarks-on-the-advantage_plumard-de-dangeul-loui_1754) (3 edities in het eerste jaar)
+- Cliquot-Blervache en Gournays [Memoir on the Trades](https://www.amazon.com/Memoire-sur-corps-metiers-French/dp/1978196903) (2 edities in 1758)
+De groep speelde ook een cruciale rol bij de publicatie van
+- [Essay on the Nature of Trade in General](https://archive.org/details/essayonnatureofc0000cant) van Richard Cantillon.
 
+![Richard Cantillon, "Essay on the nature of commerce"](assets/en/034.webp)
 
+Dit laatste boek, rond 1730 geschreven, bleef na de dood van de auteur in manuscriptvorm. Gournay publiceerde het in 1755, met hulp van zijn economenvrienden. Volgens abt Morellet, een lid van de kring, beval Gournay het aan bij elke econoom die hij kende.
 
+De intellectuele output van de kring van Gournay had een grote impact op de geschiedenis van het denken. In die zin kunnen zij worden beschouwd als de grondleggers van de economische wetenschap in Frankrijk. Christine Théré van INED, die de geschiedenis van economische publicaties heeft bestudeerd, ontdekte dat tussen 1750 en 1759 niet minder dan **349** werken over economie werden gepubliceerd, tegenover slechts **83** in het volledige voorgaande decennium (1740-1749). Deze revolutie in de jaren 1750 is grotendeels te danken aan de kring van Gournay.
 
+![Studie over economische publicaties in Frankrijk, 1566-1789](assets/en/035.webp)
 
+Om een smaak voor economische discussies onder de Franse bevolking te verspreiden, werkten Gournay en zijn vrienden eraan deze toegankelijk te maken via romans. Na de *Memoir on the Trades*, dat de gilden bekritiseerde, hielpen Gournay en Cliquot-Blervache Gabriel-François Coyer bij het schrijven van een korte satirische novelle genaamd Chinki: [A Cochinchinese Tale Applicable to Other Nations](https://www.institutcoppet.org/wp-content/uploads/2013/06/Coyer-Chinki-Histoire-cochinchinoise.pdf).
 
-- Plumard de Dangeul's [Opmerkingen over de voor- en nadelen van Frankrijk en Groot-Brittannië](https://archive.org/details/bim_eighteenth-century_remarks-on-the-advantage_plumard-de-dangeul-loui_1754) (3 edities in het eerste jaar)
-- Cliquot-Blervache and Gournay's [Memoir sur les Trades](https://www.amazon.com/Memoire-sur-corps-metiers-French/dp/1978196903) (2 edities in 1758)
+![Abt Gabriel-François Coyer, "Chinki"](assets/en/036.webp)
 
-De groep speelde ook een centrale rol in de publicatie van
+Het verhaal volgt het hoofdpersonage, Chinki, die door buitensporige belastingen gedwongen wordt zijn land te verlaten en probeert ambachtelijk werk te vinden voor zijn kinderen in de stad. Maar alle ambachten blijven voor hen gesloten vanwege misbruikte gilderegelgeving, en zo schetst het verhaal zijn groeiende teleurstelling op humoristische toon.
 
+### Economie in de mode
 
-- [Essay on the Nature of Trade in General](https://archive.org/details/essayonnatureofc0000cant) door Richard Cantillon.
+De kring van Gournay stond dus aan de basis van een intense golf van publicaties. Hoewel deze belangrijke bijdrage door historici van het economische denken is vergeten, was ze bij tijdgenoten heel duidelijk. De fysiocraten, die zich in de jaren 1760 als school organiseerden, zouden Gournays groep later voorstellen als hun rechtstreekse voorlopers. In 1767 verwoordde de econoom Jacques Accarias de Serionne dit nog duidelijker in zijn eerbetoon. Hij schreef: "Een klein aantal Fransen, zowel filosofen als burgers, begonnen enkele jaren geleden de Engelse schrijvers na te volgen. Ze vertaalden eerst hun modellen en overtroffen hen al snel op vele vlakken. Ze brachten alle charme en rijkdom van de literatuur naar de behandeling van nuttige onderwerpen; ze wekten en verspreidden de smaak voor de wetenschappen die het meest essentieel waren voor de welvaart van de Staat".
 
-
-![image](assets/nl/034.webp)
-
-
-Dit laatste boek, geschreven rond 1730, bleef in manuscript na de dood van de auteur. Met de hulp van zijn economenvrienden publiceerde Gournay het in 1755. Volgens de abt Morellet, een lid van de kring, beval Gournay het aan bij elke econoom die hij kende.
-
-
-De intellectuele output van de Gournay-kring had een grote invloed op de geschiedenis van ideeën. In die zin kunnen ze worden beschouwd als de grondleggers van de economische wetenschap in Frankrijk. Christine Théré van INED, die de geschiedenis van economische publicaties heeft bestudeerd, ontdekte dat er tussen 1750 en 1759 niet minder dan **349** werken over economie werden gepubliceerd, vergeleken met slechts **83** in het hele voorgaande decennium (1740-1749). Deze revolutie in de jaren 1750 is grotendeels te danken aan de Gournay-kring.
-
-
-![image](assets/nl/035.webp)
-
-
-Om de smaak voor economische discussies onder de Franse bevolking te verspreiden, probeerden Gournay en zijn vrienden deze discussies toegankelijk te maken door middel van romans. Na de *Memoir sur les Trades*, waarin de gilden werden bekritiseerd, hielpen Gournay en Cliquot-Blervache Gabriel-François Coyer bij het schrijven van een korte satirische roman genaamd Chinki: [Een Cochinchinees verhaal dat van toepassing is op andere landen](https://www.institutcoppet.org/wp-content/uploads/2013/06/Coyer-Chinki-Histoire-cochinchinoise.pdf).
-
-
-![image](assets/nl/036.webp)
-
-
-Het verhaal volgt de hoofdpersoon, Chinki, die gedwongen wordt zijn land te verlaten vanwege buitensporige belastingen en in de stad ambachtelijk werk probeert te vinden voor zijn kinderen. Maar alle ambachten zijn voor hen gesloten vanwege onrechtmatige gilderegels, dus het verhaal portretteert zijn groeiende teleurstelling door middel van humoristische tonen.
-
-
-De kring van Gournay stond dus aan de wieg van een intense golf van publicaties. Hoewel deze belangrijke bijdrage is vergeten door historici van het economisch denken, was hij heel duidelijk voor tijdgenoten. De Fysiocraten, die hun school organiseerden in de jaren 1760, zouden later de groep van Gournay presenteren als hun directe voorlopers. In 1767 verwoordde de econoom Jacques Accarias de Serionne dit nog duidelijker in zijn eerbetoon. Hij schreef: "Een klein aantal Fransen, zowel filosofen als burgers, begon een paar jaar geleden Engelse schrijvers te imiteren. Ze vertaalden eerst hun modellen en overtroffen ze al snel in veel opzichten. Ze brachten alle charme en rijkdom van de literatuur naar de behandeling van nuttige onderwerpen; ze wakkerden de smaak aan voor de wetenschappen die het meest essentieel waren voor de welvaart van de staat en verspreidden deze".
-
-
-En inderdaad, in de jaren 1750 raakten economische kwesties in de mode. Voltaire merkte beroemd op dat de Fransen rond 1750 romans opgaven om de vrijheid van de graanhandel te bespreken. Deze trend werd ook opgemerkt door de Mercure de France, die in een uitgave uit 1758, een paar maanden voor de dood van Gournay, schreef: "Politieke economie is nu de wetenschap in de mode. Boeken over landbouw, bevolking, industrie, handel en financiën zijn nu in handen van talloze mensen die nog niet zo lang geleden slechts oppervlakkig romans lazen". Een beter eerbetoon aan Gournay en het werk van zijn kring van economen is nauwelijks denkbaar.
-
+En inderdaad, in de jaren 1750 werden economische kwesties in de mode. Voltaire merkte beroemd op dat de Fransen rond 1750 romans lieten voor wat ze waren om te discussiëren over de vrijheid van de graanhandel. Deze trend werd ook opgemerkt door de Mercure de France, die in een uitgave van 1758, enkele maanden voor Gournays dood, schreef: "De politieke economie is nu de wetenschap in de mode. Boeken over landbouw, bevolking, nijverheid, handel en financiën bevinden zich nu in de handen van talloze mensen die niet lang geleden alleen oppervlakkig romans lazen". Men zou Gournay en het werk van zijn kring van economen moeilijk beter kunnen eren.
 
 ## Mirabeau
 
-
 <chapterId>2d2f802b-e3b6-556f-9025-a1b1dc4409ca</chapterId>
 
+### De vader achter de beroemde zoon
 
-Frankrijk heeft twee beroemde mannen gekend met de naam Mirabeau, een vader en een zoon, maar het was de zoon die echt geschiedenis schreef. Als revolutionair tribuun en een van de centrale figuren in de gebeurtenissen van de Franse Revolutie bleef hij beroemd.
+Frankrijk heeft twee beroemde mannen met de naam Mirabeau gekend, een vader en een zoon, maar het was de zoon die werkelijk geschiedenis schreef. Als revolutionair tribuun en een van de centrale figuren in de gebeurtenissen van de Franse Revolutie bleef hij beroemd.
 
+![Debat bij de Staten-Generaal, Frankrijk, 1789](assets/en/037.webp)
 
-![image](assets/nl/037.webp)
+Door zijn talent en zijn plaats in de Franse geschiedenis overschaduwde hij zijn vader, een econoom en pijler van de school van François Quesnay, die al vanaf 1758 het eerste lid ervan was geweest.
 
+![Portret van Mirabeau, Mirabeau, "L'ami des hommes"](assets/en/038.webp)
 
-Door zijn talent en zijn plaats in de Franse geschiedenis overschaduwde hij zijn vader, een econoom en steunpilaar van de school van François Quesnay, die er al in 1758 het eerste lid van was.
+### L'Ami des Hommes: een publicatiesensatie
 
-
-![image](assets/nl/038.webp)
-
-
-De markies de Mirabeau had in feite al een immense faam verworven voordat hij de fysiocratie overnam, dankzij een boek getiteld "De vriend van de mensheid. Verhandeling over bevolking" (https://archive.org/details/lamideshommesou00unkngoog). Hoewel de eerste editie werd gepubliceerd in 1756, werd het beroemd rond 1757, een jaar voor zijn ontmoeting met Quesnay.
-
+De markies de Mirabeau had zelfs al enorme roem verworven vóór zijn bekering tot de fysiocratie, dankzij een boek getiteld "L'ami des hommes, ou, Traité de la population" ("De vriend van de mensheid. Verhandeling over de bevolking"). Hoewel de eerste editie in 1756 verscheen, werd het pas rond 1757 beroemd, een jaar voor zijn ontmoeting met Quesnay.
 
 
 
+Meer dan 20 edities werden gepubliceerd tussen 1757 en 1760, wat het waarschijnlijk het meest succesvolle economieboek in de geschiedenis maakt. Sommige lezers dachten zelfs dat het boek door Montesquieu was geschreven vanwege de scherpe redenering. De dauphin, de vader van koning Lodewijk XVI, beweerde het zelfs uit het hoofd te hebben geleerd. Een tijdlang was het het boek dat iedereen aan het hof van Versailles las.
 
-Er werden meer dan 20 edities gepubliceerd tussen 1757 en 1760, wat het waarschijnlijk het meest succesvolle economieboek in de geschiedenis maakt. Sommige lezers dachten zelfs dat het boek door Montesquieu was geschreven vanwege de scherpe redeneringen. De kroonprins, vader koning Lodewijk XVI, beweerde zelfs dat hij het uit zijn hoofd had geleerd. Een tijd lang was het het boek dat iedereen in Versailles las.
+Vandaag wordt het niet meer gelezen, maar velen verwijzen er nog steeds naar. Zelfs in de 19e eeuw zei Edmond Roussel:
 
+> L'Ami des Hommes is een van die boeken waar iedereen over praat, maar die bijna niemand kent. In elke generatie zou één moedige burger het moeten lezen; zodat niemand anders het hoeft te doen.
 
-Vandaag de dag is het een boek dat niet meer gelezen wordt, maar velen verwijzen er nog steeds naar. Zelfs in de 19e eeuw zei Edmond Roussel:
+Aan het begin van zijn carrière als econoom liet Mirabeau zich inspireren door Richard Cantillon. Hij had vijftien jaar lang een manuscript van Cantillons Essay on the Nature of Commerce in General in bezit gehad en het geduldig geanalyseerd en becommentarieerd.
 
+![Richard Cantillon, "Essay on the nature of commerce"](assets/en/039.webp)
 
-> L'Ami des Hommes is een van die boeken waar iedereen het over heeft, maar die bijna niemand kent. In elke generatie zou één dappere burger het moeten lezen, zodat iedereen dat niet hoeft te doen.
-
-Aan het begin van zijn carrière als econoom liet Mirabeau zich inspireren door Richard Cantillon. Hij bezat al 15 jaar een manuscript van Cantillons Essay on the Nature of Commerce in General en had het geduldig geanalyseerd en becommentarieerd.
-
-
-![image](assets/nl/039.webp)
-
-
-L'Ami des Hommes was oorspronkelijk bedoeld als een eenvoudig commentaar op Cantillons Essay. Maar omdat Mirabeau een ietwat eclectische geest had, die eerlijk gezegd een beetje gek was, week hij al snel af van zijn oorspronkelijke plan. Het boek bespreekt gewoon alle economische kwesties die hij kende, waarbij hij af en toe afstand neemt van Cantillon. Het is een moeilijk boek om te lezen, met een bizar plan en uitweidingen in elk hoofdstuk. Mirabeau gaf zelf toe dat het een chaos was en dat zijn stijl apocalyptisch was.
+L'Ami des Hommes was oorspronkelijk bedoeld als een eenvoudig commentaar op Cantillons Essay. Maar omdat Mirabeau een enigszins eclectische geest had, wat, ronduit gezegd, een beetje gestoord betekent, dwaalde hij al snel af van zijn oorspronkelijke plan. Het boek behandelt gewoonweg alle economische vraagstukken die hij kende, waarbij het soms afwijkt van Cantillon. Het is een moeilijk leesbaar boek, met een bizar plan en uitweidingen in elk hoofdstuk. Mirabeau gaf zelf toe dat het chaos was en dat zijn stijl apocalyptisch was.
 
 
 
+Ondanks de chaos die het is, zijn er enkele ideeën die het vermelden waard zijn:
 
+- Mirabeau bestrijdt het mercantilistische vooroordeel over de aard van rijkdom.
+- Hij prijst de landbouw en bekritiseert het verwaarlozen ervan.
+- Hij beklaagt zich over de toestand van het volk, vooral van de boeren.
+- Ten slotte verdedigt hij de vrijheid van handel en de broederschap van naties in vrede.
 
-Ondanks de chaos die het is, zijn sommige ideeën het vermelden waard:
+![Economische en sociale doctrines van de markies de Mirabeau](assets/en/040.webp)
 
+Het is moeilijk om Mirabeaus opvattingen als liberaal of antiliberaal te bestempelen. Hij dreef vaak heen en weer, soms zonder het zelf te beseffen, tussen de ene visie en de andere. Toch overheersten liberale ideeën vaak in zijn geschriften. Een van zijn beroemdste uitspraken was:
 
+> **Het ware en enige beginsel van de politieke economie** is alles vrij te laten.
 
-- Mirabeau bestrijdt de mercantilistische vooroordelen over de aard van rijkdom.
-- Hij prijst de landbouw en bekritiseert het opgeven ervan.
-- Hij klaagt over de toestand van de mensen, vooral de boeren.
-- Tot slot verdedigt hij de vrijheid van handel en de broederschap van naties in vrede.
+### Bekering tot de fysiocratie
 
+Met zijn grootste succes achter de rug, werd Mirabeau het hof gemaakt. François Quesnay, die net belangstelling had gekregen voor economie, nodigde hem uit voor zijn entresol in Versailles.
 
-![image](assets/nl/040.webp)
+![François Quesnay](assets/en/041.webp)
 
+Ze debatteerden hevig en uiteindelijk gebeurde er iets wat normaal gesproken nooit gebeurt in een debat: Mirabeau gaf ronduit toe dat hij ongelijk had gehad. Hij was het eens met Quesnays ideeën en zei dat hij bereid was ze te verspreiden.
 
-Het is Hard om Mirabeau's standpunten als liberaal of anti-liberaal te bestempelen. Hij zweefde vaak heen en weer, soms zonder het te beseffen, tussen de ene visie en de andere. Toch domineerden liberale ideeën vaak zijn schrijven. Een van zijn beroemdste zinnen was:
+Samen vormden zij de kern van wat de fysiocratische school zou worden, versterkt door de gestage aanwas van rekruten die zij aanbrachten. Kort na Mirabeaus bekering zette Quesnay hem in om zijn ideeën over belastingen te verdedigen. Dit leidde tot de ["Theorie van de belasting"](https://archive.org/details/thoriedelimpot00mira), waarvoor Mirabeau enkele dagen naar de gevangenis van Vincennes werd gestuurd en vervolgens naar Bignon werd verbannen.
 
+![Pierre Samuel Dupont de Nemours, Mirabeau, "Theorie van de belasting"](assets/en/042.webp)
 
-> Het ware en enige principe van de politieke economie is om alles vrij te laten.
-
-Met zijn grootste succes achter de rug werd Mirabeau het hof gemaakt. François Quesnay, die zich net voor economie had geïnteresseerd, nodigde hem uit voor zijn entresol in Versailles.
-
-
-![image](assets/nl/041.webp)
-
-
-Ze debatteerden heftig en uiteindelijk gebeurde er iets wat normaal gesproken nooit gebeurt in debatten: Mirabeau gaf ronduit toe dat hij fout zat. Hij was het eens met de ideeën van Quesnay en zei dat hij bereid was ze te verspreiden.
-
-
-Samen vormden ze de kern van wat de Fysiocratische school zou worden, versterkt door de regelmatige rekruten die ze binnenbrachten. Kort na Mirabeau's bekering vroeg Quesnay hem zijn ideeën over belastingen te verdedigen. Dit leidde tot de ["Theorie van de belastingheffing"](https://archive.org/details/thoriedelimpot00mira), waarvoor Mirabeau een paar dagen naar de gevangenis van Vincennes werd gestuurd en vervolgens naar Bignon werd verbannen.
-
-
-![image](assets/nl/042.webp)
-
-
-Mirabeau speelde ook een cruciale rol in het werven van nieuwe leden voor Quesnay's school. Hij overtuigde zelfs de jonge Dupont de Nemours.
+Mirabeau speelde ook een cruciale rol bij het rekruteren van nieuwe leden voor Quesnays school. Hij overtuigde zelfs de jonge Dupont de Nemours.
 
 
 
+Het was ook bij Mirabeau thuis dat de fysiocraten elke dinsdag bijeenkwamen. Persoonlijkheden zoals Turgot en Adam Smith lijken deze bijeenkomsten een of meermaals te hebben bijgewoond.
 
-
-Het was ook in het huis van Mirabeau dat de Fysiocraten elke dinsdag samenkwamen. Persoonlijkheden als Turgot en Adam Smith schijnen deze bijeenkomsten een of meerdere keren te hebben bijgewoond.
-
-
-Zijn hele leven lang bleef Mirabeau een onvermoeibare schrijver. Hij schreef talrijke economische werken waarin hij de doctrine van Quesnay verdedigde. Tegen het einde van zijn leven werd zijn invloed echter minder. Zijn schrijfstijl verslechterde zodanig dat zijn eigen broer hem schreef dat hij zijn proza niet langer kon begrijpen. Zijn ideeën, die volledig liberaal waren geworden, botsten met de socialistische of proto-communistische reactie van denkers als Mably en zelfs Rousseau. Hij had moeite om lezers en uitgevers te vinden en stierf grotendeels onopgemerkt in 1789, aan de vooravond van de bestorming van de Bastille.
-
+Zijn hele leven bleef Mirabeau een onvermoeibaar schrijver. Hij schreef talloze economische werken ter verdediging van Quesnays leer. Tegen het einde van zijn leven nam zijn invloed echter af. Zijn schrijfstijl verslechterde zodanig dat zijn eigen broer hem schreef dat hij zijn proza niet meer kon begrijpen. Zijn ideeën, die volledig liberaal waren geworden, botsten met de socialistische of protocommunistische reactie van denkers zoals Mably en zelfs Rousseau. Hij worstelde om lezers en uitgevers te vinden en stierf grotendeels onopgemerkt in 1789, aan de vooravond van de bestorming van de Bastille.
 
 ## Quesnay
 
-
 <chapterId>7a35f20b-5ea0-544d-b290-bcd9c6f7f11a</chapterId>
 
+### Voorbij het schoolboekcliché
 
-François Quesnay is een van de beroemdste Franse economen.
+François Quesnay is **een van de beroemdste Franse economen**.
 
+![Economische tabel van François Quesnay, François Quesnay](assets/en/043.webp)
 
-![image](assets/nl/043.webp)
-
-
-Zijn naam komt voor in elk leerboek over economie en de geschiedenis van het economisch denken. Er wordt gezegd dat hij de "Tableau Économique" bedacht om de economie schematisch weer te geven, dat hij de leider was van de fysiocratische school en dat hij zich vergiste in zijn overtuiging dat alleen land productief is, en dat Adam Smith uiteindelijk de zaken kwam rechtzetten. Dit is min of meer hoe leerboeken François Quesnay samenvatten.
-
+Zijn naam staat in elk leerboek over economie en de geschiedenis van het economische denken. Er wordt gesteld dat hij de "Tableau Économique" creëerde om de economie schematisch weer te geven, dat hij de leider van de fysiocratische school was, dat hij het mis had door te geloven dat alleen grond productief is, en ten slotte dat Adam Smith kwam om de zaken recht te zetten. Zo, min of meer, vatten schoolboeken François Quesnay doorgaans samen.
 
 
 
+Hem hiertoe herleiden is jammer, want Quesnay was ook de eerste econoom die probeerde de verdediging van economische vrijheid op wetenschappelijke beginselen te baseren. Hij was een van de meest gehoorde en invloedrijke economen van zijn tijd. Bovendien stichtte hij de fysiocratie, een veel rijkere leer dan het simplistische idee dat alleen de natuur rijkdom voortbrengt, een opvatting die vaak verkeerd wordt weergegeven.
 
-Het is jammer om hem daartoe te reduceren, want Quesnay was ook de eerste econoom die probeerde om de verdediging van economische vrijheid op wetenschappelijke principes te baseren. Hij was een van de meest beluisterde en invloedrijke economen van zijn tijd. Bovendien stichtte hij de Fysiocratie, een veel rijkere doctrine dan het simplistische idee dat alleen de natuur rijkdom produceert, een idee dat vaak verkeerd wordt voorgesteld.
+We bespreken de fysiocratie uitgebreider in de volgende drie hoofdstukken. Laten we eerst nader kijken naar François Quesnay zelf.
 
+### Van chirurgijn tot koninklijk lijfarts
 
-In de volgende drie hoofdstukken gaan we dieper in op de Fysiocratie. Laten we eerst eens wat dieper ingaan op François Quesnay zelf.
+Geboren in 1694 in Méré, in een boerenfamilie die Quesnay niet kon leren lezen. Hij werd opgeleid door een plaatselijke man en ging uiteindelijk studeren aan het College van Chirurgie en vervolgens de Faculteit Geneeskunde. Op 24-jarige leeftijd werd hij chirurgijn in Mantes.
 
+Hij verwierf bekendheid in 1730, op 36-jarige leeftijd, door zich te verzetten tegen de gangbare praktijk van het aderlaten, waarvan hij geloofde dat die op gebrekkige theorieën en vooroordelen berustte. Hij durfde ook het gildesysteem uit te dagen, dat bepaalde dat alleen chirurgijns operaties mochten uitvoeren en alleen artsen medicijnen mochten voorschrijven. Dit dwong de armen vaak tot dubbele betaling en het inschakelen van twee personen, een situatie die Quesnay verafschuwde.
 
-Geboren in 1694 in Méré in een boerenfamilie die Quesnay niet kon leren lezen. Hij werd opgeleid door een plaatselijke man en ging uiteindelijk studeren aan het College voor Chirurgie en vervolgens aan de Faculteit Geneeskunde. Op 24-jarige leeftijd werd hij chirurg in Mantes.
+In 1740 werd hij secretaris van de Academie voor Chirurgie. In 1748, op 54-jarige leeftijd, werd hij persoonlijk lijfarts van madame de Pompadour en verhuisde hij naar Versailles.
 
+![François Quesnay](assets/en/044.webp)
 
-Hij werd beroemd in 1730, op 36-jarige leeftijd, omdat hij zich verzette tegen de gebruikelijke praktijk van aderlating, die volgens hem gebaseerd was op onjuiste theorieën en vooroordelen. Hij durfde ook het gildesysteem aan te vechten, dat bepaalde dat alleen chirurgen operaties mochten uitvoeren en alleen artsen medicijnen mochten voorschrijven. Dit dwong de armen vaak om twee keer te betalen en twee mensen in te schakelen, een situatie die Quesnay weerzinwekkend vond.
+Hij stond zeer dicht bij madame de Pompadour. Quesnay zei zelfs, op het moment dat de val van de favoriete werd aangekondigd, dat hij geen arts in Versailles wilde blijven zonder haar:
+"Ik was gehecht aan madame de Pompadour in haar voorspoed; ik zal het ook zijn in haar ongenade".
 
+Vervolgens publiceerde hij verschillende medische boeken: Verhandeling over etterproductie (1749), Verhandeling over gangreen (1749), en Verhandeling over aanhoudende koortsen (1753), die alle meerdere malen werden herdrukt tijdens zijn leven.
 
-In 1740 werd hij secretaris van de Academie voor Heelkunde. In 1748, op 54-jarige leeftijd, werd hij de lijfarts van Madame de Pompadour en verhuisde hij naar Versailles.
+Op 60-jarige leeftijd, nadat hij was kennisgemaakt met de destijds modieuze economische debatten, begon hij over economie te schrijven. In 1755 schreef hij de artikelen "Boeren" en "Graan" voor de *Encyclopédie*.
 
+![Encyclopedie, Dupont de Nemours, "Theorie van de belasting"](assets/en/045.webp)
 
-![image](assets/nl/044.webp)
-
-
-Hij was erg close met Madame de Pompadour. Quesnay zei zelfs, toen de schande van de favoriet bekend werd gemaakt, dat hij zonder haar geen dokter in Versailles zou willen blijven:
-
-"Ik was gehecht aan Madame de Pompadour in haar voorspoed; dat zal ik ook zijn in haar schande".
-
-
-Daarna publiceerde hij verschillende medische boeken: Treatise on Suppuration (1749), Treatise on Gangrene (1749), en Treatise on Continuous Fevers (1753), die allemaal meerdere keren herdrukt werden tijdens zijn leven.
-
-
-Toen hij 60 jaar oud was, maakte hij kennis met de economische debatten die toen in de mode waren en begon hij over economie te schrijven. In 1755 schreef hij de artikelen "Boeren" en "Graan" voor de *Encyclopédie*.
-
-
-![image](assets/nl/045.webp)
-
-
-Ze werden gepubliceerd in 1757. Datzelfde jaar ontmoette hij de beroemde Mirabeau en slaagde erin hem te bekeren tot zijn economische ideeën - de kern van de Fysiocratie was geboren. Quesnay creëerde vervolgens de Tableau Économique, die op de koninklijke persen werd gedrukt, naar verluidt in aanwezigheid van de koning zelf in het kasteel van Versailles. Vanaf dat moment ontving hij regelmatig economen en filosofen in zijn appartement in Versailles, waar ze vrijuit discussieerden. Quesnay leverde ook een bijdrage aan Mirabeau's Theory of Taxation, gepubliceerd in 1759.
+Ze werden in 1757 gepubliceerd. Datzelfde jaar ontmoette hij de beroemde Mirabeau en wist hem tot zijn economische ideeën te bekeren: de kern van de fysiocratie was geboren. Quesnay creëerde vervolgens de Tableau Économique, die op de koninklijke persen werd gedrukt, naar verluidt in aanwezigheid van de koning zelf in het kasteel van Versailles. Vanaf dat moment ontving hij regelmatig economen en filosofen in zijn appartement in Versailles, waar men vrijelijk discussieerde. Quesnay droeg ook bij aan Mirabeaus Theorie van de belasting, gepubliceerd in 1759.
 
 
 
+Al snel sloeg de censuur toe. Mirabeau werd gevangengezet, en Quesnay kreeg een berisping. Daarna besefte Quesnay dat hij niet openlijk kon publiceren en volgelingen nodig zou hebben om zijn ideeën te verspreiden.
 
+### Volgelingen en de verspreiding van ideeën
 
-De censuur sloeg al snel toe. Mirabeau werd gevangen genomen en Quesnay werd berispt. Daarna realiseerde Quesnay zich dat hij niet openlijk kon publiceren en discipelen nodig had om zijn ideeën te verspreiden.
+Hij vond ze snel: Baudeau, Dupont de Nemours, Le Trosne, Mercier de la Rivière, en anderen. Dit waren de mannen die het denken van Quesnay zouden verspreiden en populariseren. Toch was Quesnay, die volgelingen nodig had, niet helemaal tevreden met het sektarische karakter van zijn groep. Getuige zijn brieven aan Mirabeau, waarin hij hem zegt:
 
+> Denk zelf na. Ik heb ingezien dat mijn armzalige ontwerpen jullie lui maken. Nu is het jullie beurt om te denken. Jullie weten evenveel als ik.
 
-Hij vond ze snel: Baudeau, Dupont de Nemours, Le Trosne, Mercier de la Rivière en anderen. Dit waren de mannen die het gedachtegoed van Quesnay zouden verspreiden en populariseren. Quesnay, die discipelen nodig had, was echter niet helemaal tevreden met het sektarische aspect van zijn groep. Getuige zijn brieven aan Mirabeau, waarin hij hem vertelt:
+Toch waren zijn volgelingen diep toegewijd en droegen zij sterk bij aan Quesnays populariteit. Bij zijn dood hield Mirabeau zijn lofrede en zei: "We hebben onze vader verloren, want we hebben hem alles te danken". In werkelijkheid was het Quesnay die hen alles te danken had, want zonder hen zou hij vastgeroest zijn gebleven in Versailles, waar zijn denken, hoewel het veel te verleiden of te verontrusten had, weinigen interesseerde.
 
+Dankzij het werk van zijn medewerkers vond zijn gedachtegoed een platform: eerst via kranten zoals het *Journal de l'agriculture* en de *Ephémérides du Citoyen*.
 
-> "Denk zelf na. Ik heb me gerealiseerd dat mijn ellendige ontwerpen jullie lui maken. Nu is het jullie beurt om na te denken. Jullie weten net zoveel als ik".
+![“Fysiocratie”, verzameling artikelen van Quesnay, 1768, "Ephémérides du Citoyen", officieel tijdschrift van de fysiocraten](assets/en/046.webp)
 
-Toch waren zijn discipelen zeer toegewijd en droegen ze in grote mate bij aan Quesnays populariteit. Na zijn dood hield Mirabeau een lofrede waarin hij zei: "We hebben onze vader verloren, want we waren hem alles verschuldigd". In werkelijkheid was het Quesnay die hen alles verschuldigd was, want zonder hen zou hij in Versailles zijn gebleven, waar zijn denken, hoewel het veel te verleiden of te verontrusten had, weinigen interesseerde.
-
-
-Dankzij het werk van zijn medewerkers vonden zijn ideeën een platform: eerst via kranten zoals het *Journal of Agriculture* en de *Ephémérides du Citoyen*.
-
-
-![image](assets/nl/046.webp)
-
-
-Vervolgens door boeken, niet alleen die van zijn discipelen, maar ook een belangrijke bloemlezing die in 1768 werd gepubliceerd door Dupont de Nemours, getiteld *Fysiocratie*.
+Vervolgens via boeken, niet alleen die van zijn volgelingen maar ook een belangrijke bloemlezing, gepubliceerd in 1768 door Dupont de Nemours, getiteld *Fysiocratie*.
 
 
 
-
-
-Dit boek verzamelde de belangrijkste bijdragen van Quesnay. Het beschrijft het economische ideaal van de leider van de Fysiocraten: een model van landbouweconomie waarin de wet iedereen het recht op eigendom en de vrijheid om handel te drijven garandeert.
-
+Dit boek verzamelde Quesnays belangrijkste bijdragen. Het schetste het economische ideaal van de leider van de fysiocraten: een model van agrarische economie waarin de wet iedereen het recht op eigendom en de vrijheid van handel garandeert.
 
 # De fysiocratische school
 
-
 <partId>27af82c1-ad82-5c3b-8ce9-c674b67bbf7c</partId>
-
 
 ## Geschiedenis van de fysiocraten
 
-
 <chapterId>4236ff8b-b53a-59e7-92c0-f96f9afa1c00</chapterId>
 
+### Van Boisguilbert tot Quesnay
 
-De fysiocratie kwam in Frankrijk, en zelfs in heel Europa, nauwelijks een decennium in de mode. Na een lange periode van ontwikkeling kreeg het een prominente plaats in het midden van de jaren 1760. Tegen de tijd dat Turgot in 1776 aan de macht kwam, had de beweging haar populariteit al verloren en de minister hield zijn steun voor de school van Quesnay meestal verborgen.
+**De fysiocratie kwam in Frankrijk in de mode**, en zelfs in heel Europa, gedurende amper een decennium. Na een lange periode van ontwikkeling won ze aan bekendheid halverwege de jaren 1760. Tegen de tijd dat Turgot in 1776 aan de macht kwam, had de beweging haar populariteit al verloren, en de minister hield zijn steun aan Quesnays school grotendeels verborgen.
 
+Haar oorsprong ligt in de ontwikkeling van het economische denken tijdens de jaren 1750. Verschillende auteurs hielpen de kloof te overbruggen tussen Boisguilbert en wat later bekend zou worden als de fysiocratie. Zoals eerder besproken, stonden Vincent de Gournay en zijn kring van economen achter veel publicaties die Franse lezers kennis lieten maken met buitenlands economisch denken en hun passie voor economie hielpen ontsteken. De grondslagen van de fysiocratie waren al aanwezig in boeken zoals "Détail de la France" van Boisguilbert en het ["Essay on the Nature of Trade in General"](https://archive.org/details/essaisurlanature0000cant) van Cantillon.
 
-De oorsprong ligt in de evolutie van economische ideeën in de jaren 1750. Verschillende auteurs hielpen de kloof te overbruggen tussen Boisguilbert en wat later bekend zou worden als de Fysiocratie. Zoals eerder besproken, zaten Vincent de Gournay en zijn kring van economen achter veel publicaties die Franse lezers kennis lieten maken met buitenlands economisch denken en hun passie voor economie hielpen aanwakkeren. De fundamenten van de Fysiocratie waren al aanwezig in boeken als "Détail de la France" van Boisguilbert en ["Essay sur la Nature du commerce en général"](https://archive.org/details/essaisurlanature0000cant) van Cantillon.
-
-
-![image](assets/nl/047.webp)
-
+![Boisguilbert, "Detail van Frankrijk", Cantillon, "Essay over de aard van de handel"](assets/en/047.webp)
 
 
 
+Het idee van laissez-faire had sinds Boisguilbert verschillende pleitbezorgers, vooral Vincent de Gournay en de markies d'Argenson.
 
-Het concept van laissez-faire had verschillende voorstanders sinds Boisguilbert, vooral Vincent de Gournay en de Markies d'Argenson.
+Wat restte, was dit geheel van ideeën om te vormen tot een samenhangende, complete leer, en de markies de Mirabeau was de eerste die dat probeerde. Geïnspireerd door Cantillons Essay begon hij een uitgebreide verhandeling over economische zaken te schrijven, getiteld "L'Ami des Hommes", die zeer succesvol was.
 
+Zo kon in 1756 het verhaal van de fysiocratie beginnen. François Quesnay, destijds een chirurgijn geworden persoonlijk lijfarts van madame de Pompadour, nodigde Mirabeau uit in Versailles om economische ideeën te bespreken.
 
-Wat overbleef was om deze verzameling ideeën om te zetten in een samenhangende, complete doctrine en de Markies de Mirabeau was de eerste die dat probeerde. Geïnspireerd door Cantillons Essay begon hij met het schrijven van een uitgebreide verhandeling over economische zaken getiteld "L'Ami des Hommes", die zeer succesvol was.
+![Quesnay, Quesnays economische tabel, Mirabeau, "Theorie van de belasting"](assets/en/048.webp)
 
-
-Zo kon in 1756 het verhaal van de Fysiocratie beginnen. François Quesnay, toen een chirurg die lijfarts werd van Madame de Pompadour, nodigde Mirabeau uit in Versailles om economische ideeën te bespreken.
-
-
-![image](assets/nl/048.webp)
-
-
-Aan het einde van hun gesprek was Mirabeau het eens met de ideeën van Quesnay. Vanaf dat moment schreven ze samen: Quesnay creëerde de *Tableau économique* (1758) om de stroom van rijkdom in de economie te illustreren en samen publiceerden ze de Theorie van Belastingheffing (1759).
+Aan het einde van hun gesprek was Mirabeau het eens met Quesnays ideeën. Vanaf dat moment schreven zij: Quesnay creëerde de *Tableau économique* (1758) om de stroom van rijkdom in de economie te illustreren, en samen publiceerden ze de Theorie van de belasting (1759).
 
 
 
 
 
 
+Hun inspanningen werden niet warm ontvangen. Aan het hof heerste vooral onverschilligheid. De koning erkende Quesnays neiging tot theorie en noemde hem liefkozend "mijn denker". Maar afgezien van dat compliment leverde hun werk geen enkel resultaat op. Sterker nog, hun Theorie van de belasting beledigde de belastingambtenaren die het bekritiseerde, zozeer dat zij Mirabeaus gevangenzetting eisten en verkregen. Madame de Pompadour kreeg hem uiteindelijk vrijgelaten, maar hij bleef nog enkele weken in ballingschap op zijn landgoed in Bignon.
 
 
+![Markiezin de Pompadour](assets/en/049.webp)
 
-Hun inspanningen werden niet warm onthaald. Aan het hof was de overheersende reactie onverschilligheid. De koning erkende Quesnay's voorliefde voor theorie en noemde hem liefkozend "mijn denker". Maar afgezien van dat compliment leverde hun werk niets op. In feite beledigde hun Theorie van de Belastingheffing de belastingadministrateurs die erin werden bekritiseerd, zo erg zelfs dat ze de gevangenisstraf van Mirabeau eisten en bewerkstelligden. Madame de Pompadour liet hem uiteindelijk vrij, maar hij bleef nog enkele weken in ballingschap leven op zijn landgoed in Bignon.
-
-
-
-![image](assets/nl/049.webp)
+De eerste helft van de jaren 1760 verliep dus in betrekkelijke stilte. Door zijn positie in Versailles werd Quesnay gedwongen te stoppen met schrijven, of in elk geval niets meer onder zijn eigen naam te publiceren. Mirabeau, al eens veroordeeld, was gewaarschuwd en zich er terdege van bewust dat de gunst van de koning hem niet voor altijd kon beschermen.
 
 
-De eerste helft van de jaren 1760 verliep dus in relatieve stilte. Door zijn positie in Versailles werd Quesnay gedwongen te stoppen met schrijven, of in ieder geval niets onder zijn eigen naam te publiceren. Mirabeau, al een keer veroordeeld, was gewaarschuwd en wist heel goed dat de favoriet van de koning hem niet voor altijd kon beschermen.
+### Het gouden decennium van de fysiocratie
 
+Na deze korte stilte begonnen de twee economen volgelingen te rekruteren: dit was de enige manier om hun ideeën te populariseren. Tegen 1765 waren hun successen opmerkelijk. Dupont de Nemours, Abeille, Mercier de la Rivière, Le Trosne en Baudeau sloten zich al snel bij hen aan. Zij vormden een school: ze hadden hun eigen tijdschrift, *Les Éphémérides du Citoyen*, en kwamen zelfs elke dinsdag bijeen bij Mirabeau thuis.
 
+![Ephémérides du Citoyen, officieel tijdschrift van de fysiocraten](assets/en/050.webp)
 
-Na deze korte stilte begonnen de twee economen discipelen te werven: dit was de enige manier om hun ideeën populair te maken. Tegen 1765 waren hun successen opvallend. Dupont de Nemours, Abeille, Mercier de la Rivière, Le Trosne en Baudeau sloten zich al snel bij hen aan. Ze vormden een school: ze hadden hun eigen tijdschrift, *Les Éphémérides du Citoyen*, en kwamen zelfs elke dinsdag bijeen bij Mirabeau thuis.
+Tussen 1765 en 1775 stond de verenigde groep fysiocraten op het toppunt van hun roem. De literaire en filosofische wereld had alleen oog voor hen, waardoor hun ideeën zich wijd en snel konden verspreiden. Mensen noemden hen "de economen", of, spottender, "de sekte van de economen". Ongeacht de toon was hun bekendheid absoluut. In 1774, na een reis naar Metz, schreef de heer de Vaublanc in zijn memoires over zijn verbazing: iedereen om hem heen sprak over economie en redeneerde zoals de volgelingen van Quesnay. "Het was mode", merkte hij op. "Iedereen was een econoom".
 
+### Verval en blijvende invloed
 
-![image](assets/nl/050.webp)
+Tegen 1770 begon hun populariteit echter te tanen. De groep kende haar eerste afvalligen, en haar weerstand tegen kritiek verzwakte. En de critici waren talrijk: Condillac, Mably, Voltaire, Galiani, Linguet, Graslin, en zelfs Adam Smith in Schotland betwistten hun opvattingen.
 
+![Verlichtingseconomen](assets/en/051.webp)
 
-Tussen 1765 en 1775 stond de verenigde groep Fysiocraten op het hoogtepunt van hun roem. De literaire en filosofische wereld had alleen oog voor hen, waardoor hun ideeën zich snel en wijd verspreidden. Mensen noemden hen "de economen", of, meer spottend, "de sekte van de economen". Ongeacht de toon, hun bekendheid was absoluut. In 1774, na een reis naar Metz, schreef M. de Vaublanc in zijn memoires over zijn verbazing: iedereen om hem heen sprak over economie en redeneerde als de discipelen van Quesnay. "Het was in de mode", merkte hij op. "Iedereen was een econoom".
+Hun krant verscheen niet meer regelmatig. Dit markeerde het einde van de meest actieve periode van de beweging.
 
-
-Tegen 1770 begon hun populariteit echter te tanen. De groep kreeg te maken met de eerste afvalligen en hun vermogen om kritiek te weerstaan verzwakte. En er waren veel critici: Condillac, Mably, Voltaire, Galiani, Linguet, Graslin en zelfs Adam Smith in Schotland stelden hun standpunten ter discussie.
-
-
-![image](assets/nl/051.webp)
-
-
-Hun krant verscheen niet meer regelmatig. Dit betekende het einde van de meest actieve periode van de beweging.
-
-
-De fysiocratie zou invloed blijven uitoefenen tot aan de Revolutie. In Frankrijk eerst door Turgot, meer een medereiziger dan een discipel, en door zijn vertegenwoordiger Dupont de Nemours, wiens leven en werk we later zullen bestuderen. Maar ook in heel Europa, waar de fysiocratische leer met enthousiasme werd ontvangen. In Duitsland, via de markgraaf van Baden, en in Italië, via Leopold van Toscane, inspireerden de fysiocratische theorieën zelfs economische hervormingen ten gunste van privébezit en vrijheid.
-
+De fysiocratie zou tot aan de Revolutie invloed blijven uitoefenen. In Frankrijk, eerst via Turgot, meer een medereiziger dan een volgeling, en ook via haar vertegenwoordiger Dupont de Nemours, wiens leven en werk we later zullen bestuderen. Maar ook in heel Europa, waar de fysiocratische leer met enthousiasme werd ontvangen. In Duitsland, via de markgraaf van Baden, en in Italië, via Leopold van Toscane, inspireerden fysiocratische theorieën zelfs economische hervormingen ten gunste van privé-eigendom en vrijheid.
 
 
 ## De grondslagen van de leer van de fysiocraten
 
-
 <chapterId>4dbe5436-0578-57c2-b054-03ed00aa091a</chapterId>
+De term fysiocratie, wat "bestuur door de natuur" betekent, werd bedacht door Dupont de Nemours en gebruikt als titel voor *Fysiocratie*, een verzameling artikelen van Quesnay, gepubliceerd in 1768.
 
-De term Physiocracy, wat "regering door de natuur" betekent, werd bedacht door Dupont de Nemours en gebruikt als titel voor *Physiocracy*, een verzameling artikelen van Quesnay gepubliceerd in 1768.
 
+![Fysiocratie, verzameling artikelen van Quesnay, 1768](assets/en/052.webp)
 
+Dit is een duistere uitdrukking. Geen enkele leerling van Quesnay heeft ons de ware betekenis ervan gegeven. Toch was hun gedachtestelsel verre van duister. In feite was het opgebouwd rond enkele zeer duidelijke beginselen, die we hier zullen schetsen.
 
-![image](assets/nl/052.webp)
 
+### Eerste beginsel: alleen landbouw is productief
 
-Dit is een obscure zin. Geen enkele student van Quesnay heeft ons de ware betekenis ervan gegeven. Toch was hun denksysteem verre van obscuur. In feite was het opgebouwd rond een paar zeer duidelijke principes, die we hier zullen schetsen.
 
+Dit eerste idee is degene die de aandacht van historici heeft getrokken. Vandaag, in leerboeken of economiecursussen, worden de fysiocraten zo samengevat. Zij worden geacht naïef te hebben geloofd dat alleen landbouw productief is. Op die basis wordt hun leer als irrelevant afgedaan, en gaat de analyse snel verder naar Adam Smith.
 
+Het is echter oneerlijk om de fysiocraten te bekritiseren omdat zij een onevenredig belang aan landbouw hechtten, aangezien landbouw halverwege de 18e eeuw 90% van de bevolking te werk stelde en de basis vormde van de Franse economie.
 
-### Eerste principe: alleen landbouw is productief
 
+![Jean-François Millet, "Boeren"](assets/en/053.webp)
 
+Het idee van de fysiocraten is eigenlijk subtiel. Volgens hen bestaat er een verschil tussen productie en winst. De industrieel en de koopman kunnen winst maken, maar alleen de boer produceert werkelijk, omdat productie het scheppen van nuttig materiaal is, in plaats van het toevoegen van nut aan reeds bestaand materiaal.
 
-Dit eerste idee heeft de aandacht getrokken van historici. Tegenwoordig worden de Fysiocraten zo samengevat in leerboeken of cursussen economie. Ze zouden naïef geloofd hebben dat alleen landbouw productief is. Op basis daarvan wordt hun doctrine afgedaan als irrelevant en gaat de analyse snel over op Adam Smith.
+We moeten ook proberen te begrijpen waarom zij nijverheid en ambacht als onproductief afwezen. In die tijd waren deze beroepen opgesloten binnen het gildesysteem, dat innovatie, investering en vooruitgang verbood.
 
+### Tweede beginsel: legaal despotisme in plaats van democratie
 
-Het is echter oneerlijk om de Fysiocraten te bekritiseren voor het onevenredige belang dat ze aan de landbouw hechtten, aangezien de landbouw in het midden van de 18e eeuw 90% van de bevolking tewerkstelde en de basis van de Franse economie vormde.
+Vandaag de dag zeggen we, om iemand te beledigen, dat hij geen democraat is. Terwijl historici de fysiocraten hun strikte visie op de landbouwproductiviteit vergeven, vergeven zij hun verzet tegen democratie niet, vooral omdat zij leefden op het hoogtepunt van de Verlichtingsideeën. Van het midden van de 18e eeuw tot vlak voor de Revolutie werden de fysiocraten gezien als vijanden van de vooruitgang.
 
+![Tocqueville, "Het Ancien Régime en de Revolutie"](assets/en/054.webp)
 
+Tocqueville drong op dit idee aan:
 
-![image](assets/nl/053.webp)
+> De fysiocraten waren inderdaad zeer voorstander van vrije handel van goederen, van laissez-faire of laissez-passer in handel en nijverheid; maar wat de politieke vrijheden zelf betreft, hielden zij daar geen rekening mee, en zelfs wanneer dergelijke ideeën door hun hoofd gingen, verwierpen zij die aanvankelijk.
 
+Liberaal in economische zaken, waren de fysiocraten dus niet liberaal in politieke zaken. Quesnay schrijft in zijn *maximes*: "Laat het soevereine gezag uniek zijn en superieur aan alle individuen van de samenleving en aan alle onrechtvaardige ondernemingen van particuliere belangen." En verderop, in dezelfde maxime: "Het stelsel van checks-and-balances in het bestuur is een fataal begrip, dat alleen onenigheid onder de groten en onderdrukking van de kleinen aan het licht brengt".
 
-Het idee van de fysiocraten is eigenlijk subtiel. Volgens hen is er een verschil tussen productie en winst. De industrieel en de handelaar kunnen winst maken, maar alleen de boer produceert echt, omdat productie het creëren van bruikbaar materiaal is, in plaats van het toevoegen van nut aan reeds bestaand materiaal.
+![Lodewijk XVI](assets/en/055.webp)
 
+Tocqueville merkte terecht op dat de fysiocraten democratie verwierpen zodra zij de vormen ervan zagen. Zij waren sceptisch over democratie, wat een constante zou worden in de Franse politieke economie, omdat democratie verre van een perfect systeem is: het maakt de onderdrukking van minderheden door de meerderheid potentieel mogelijk en het kan een instrument worden voor usurpatie, tirannie en beroving.
 
-We moeten ook proberen te begrijpen waarom ze industrie en ambachten als onproductief afwezen. In die tijd waren deze ambachten opgesloten in het gildesysteem, dat innovatie, investeringen en vooruitgang verbood.
+### Derde beginsel: absolute eerbied voor privé-eigendom
 
+De fysiocraten geloofden dat mensen de vruchten van hun arbeid moesten kunnen bezitten en behouden. In hun ogen waren eigendomsrechten de eigenlijke grondslag van een samenleving. Zij vonden dat de Staat één hoofdtaak had: het beschermen van het eigendom van mensen. Bovendien stelden de fysiocraten, vanuit economisch oogpunt, dat de onaantastbaarheid van eigendom werk en inspanning stimuleert en een voorwaarde is voor economische vooruitgang.
 
-### Tweede principe: juridisch despotisme in plaats van democratie
+![Millet, "Angelus"](assets/en/056.webp)
 
+Quesnay verwoordde het eenvoudig:
 
-Om iemand te beledigen, zeggen we tegenwoordig dat hij geen democraat is. Hoewel historici de strenge kijk van de Fysiocraten op landbouwproductiviteit vergeven, vergeven ze hun verzet tegen democratie niet, vooral omdat ze leefden tijdens het hoogtepunt van de ideeën van de Verlichting. Vanaf het midden van de 18e eeuw tot vlak voor de Revolutie werden de Fysiocraten gezien als vijanden van de vooruitgang.
+> Laat het eigendom van grond en roerende rijkdom verzekerd zijn voor degenen die de rechtmatige bezitters ervan zijn, want de zekerheid van eigendom is de essentiële grondslag van de economische orde en de veiligheid van de samenleving; het is de zekerheid van blijvend bezit die aanzet tot arbeid en tot het gebruik van rijkdom voor de verbetering en bewerking van het land, evenals voor commerciële en industriële ondernemingen.
 
 
-![image](assets/nl/054.webp)
+### Vierde beginsel: absolute vrijheid van handel
 
+In zijn eerder aangehaalde *Maximes* stelt Quesnay:
 
-Tocqueville hield vast aan dit idee:
+> Laat er volledige vrijheid van handel zijn, want de meest betrouwbare, nauwkeurige en gunstige regeling van zowel binnenlandse als buitenlandse handel voor de natie en de Staat ligt in volledige vrijheid van concurrentie.
 
 
-> De Fysiocraten waren inderdaad erg voor vrije handel in goederen, voor laissez-faire of laissez-passer in handel en industrie; maar politieke vrijheden in eigenlijke zin, daar dachten ze niet over na, en zelfs als zulke ideeën in hun hoofd opkwamen, verwierpen ze die in eerste instantie.
+![De haven van Bordeaux in de 18e eeuw](assets/en/057.webp)
 
-De Fysiocraten waren liberaal op economisch gebied en daarom niet liberaal op politiek gebied. Quesnay schrijft in zijn *maxims*: "Laat de soevereine autoriteit uniek en superieur zijn aan alle individuen van de samenleving en aan alle onrechtvaardige ondernemingen van particuliere belangen." En later, in dezelfde stelregel: "Het systeem van checks and balances in de regering is een fatale gedachte, die alleen maar tweedracht zaait onder de groten en onderdrukking van de kleinen".
+De fysiocraten hadden de schade gezien die overheidsinmenging veroorzaakte, vooral in de graanhandel. Men moet erkennen, zeggen zij, dat het gezag nooit in staat zal zijn de handel zo goed te beheren als individuen, omdat het op elke behoefte zou moeten reageren en op elke verandering in vraag of aanbod zou moeten inspelen. Dit alles gaat het vermogen van zelfs de wijste denkbare regering ver te boven. Daarom is het noodzakelijk de dingen te laten begaan en te laten stromen.
 
+Van nature heilzaam, moet de handel volledig en volmaakt vrij zijn. Een van hun leden, Le Trosne, schreef zelfs een pamflet getiteld [*The Freedom of the Grain Trade: Always Useful, Never Harmful*](https://www.institutcoppet.org/liberte-commerce-grains-toujours-utile-jamais-nuisible/).
 
-![image](assets/nl/055.webp)
+### Vijfde beginsel: alle mensen zijn broeders
 
+Als felle tegenstanders van slavernij waren de fysiocraten ook grote pacifisten. "Ons buitenlands beleid heet vrede", zei Mirabeau eenvoudigweg. In 1790 zette Dupont de Nemours bij de Grondwetgevende Vergadering deze pacifistische houding voort door een wetsvoorstel in te dienen dat aanvalsoorlogen zou verbieden.
 
-Tocqueville merkte treffend op dat de Fysiocraten de democratie verwierpen zodra ze de vormen ervan zagen. Ze stonden sceptisch tegenover democratie, die een constante zou worden in de Franse politieke economie, omdat democratie verre van een perfect systeem is: het kan de onderdrukking van minderheden door de meerderheid mogelijk maken en het kan een instrument worden voor usurpatie, tirannie en plundering.
 
-
-### Derde principe: absoluut respect voor privébezit
-
-
-De Fysiocraten geloofden dat mensen de resultaten van hun arbeid moesten bezitten en houden. In hun ogen waren eigendomsrechten de basis van een samenleving. Ze vonden dat de staat maar één hoofdtaak had: het beschermen van het eigendom van mensen. Bovendien beweerden de Fysiocraten vanuit een economisch standpunt dat de onschendbaarheid van eigendom werk en inspanning aanmoedigt en een voorwaarde is voor economische vooruitgang.
-
-
-![image](assets/nl/056.webp)
-
-
-Quesnay formuleerde het eenvoudig:
-
-
-> Laat de Ownership van land en roerende goederen verzekerd zijn aan degenen die hun rechtmatige bezitters zijn, want de zekerheid van eigendom is de essentiële basis van economische orde en de veiligheid van de samenleving; het is de zekerheid van permanent bezit die arbeid en het gebruik van rijkdom aanmoedigt in het verbeteren en cultiveren van het land, evenals in commerciële en industriële ondernemingen.
-
-
-### Vierde principe: absolute vrijheid van handel
-
-
-In zijn eerder geciteerde *Maxims* stelt Quesnay:
-
-
-> Laat er volledige vrijheid van handel zijn, want de meest betrouwbare, nauwkeurige en heilzame regulering van zowel binnenlandse als buitenlandse handel voor de natie en de staat ligt in volledige vrijheid van concurrentie.
-
-
-![image](assets/nl/057.webp)
-
-
-De Fysiocraten hadden de schade gezien die werd veroorzaakt door overheidsbemoeienis, vooral in de graanhandel. Men moet erkennen, zeiden ze, dat de overheid nooit in staat zal zijn om de handel zo goed te beheren als individuen dat doen, omdat het zou moeten reageren op elke behoefte en op elke verandering in vraag of Supply. Dit alles ligt ver buiten de mogelijkheden van zelfs de verstandigste overheid die men zich kan voorstellen. Dit alles ligt ver buiten de mogelijkheden van zelfs de verstandigste regering die men zich kan voorstellen. Daarom is het nodig om de dingen te laten zoals ze zijn en ze te laten stromen.
-
-
-Handel is van nature nuttig en moet volledig en perfect vrij zijn. Een van hun leden, Le Trosne, schreef zelfs een pamflet met de titel [*De vrijheid van de graanhandel: altijd nuttig, nooit schadelijk*](https://www.institutcoppet.org/liberte-commerce-grains-toujours-utile-jamais-nuisible/).
-
-
-### Vijfde principe: Alle mensen zijn broeders
-
-
-De Fysiocraten waren felle tegenstanders van slavernij, maar ook grote pacifisten. "Onze buitenlandse politiek heet vrede", zei Mirabeau eenvoudigweg. In 1790, tijdens de grondwetgevende vergadering, zette Dupont de Nemours dit pacifistische standpunt voort toen hij een wetsvoorstel indiende om offensieve oorlogen te verbieden.
-
-
-
-## Prestaties en invloeden van de fysiocraten
-
+## De verwezenlijkingen en invloeden van de fysiocraten
 
 <chapterId>5b911105-796a-5e2e-a501-c7a364fc758e</chapterId>
 
+### Economie populair maken in Frankrijk
 
-Zoals we in het eerste van de drie hoofdstukken over de Fysiocraten hebben gezien, waren de volgelingen van Quesnay ongeveer een decennium lang een rage in Frankrijk. Dit enthousiasme voor hun ideeën kreeg vorm in hun tijd en duurde voort tot het einde van de eeuw. Hier zullen we kijken naar enkele van hun prestaties en de invloed die ze uitoefenden op hun opvolgers op het gebied van economisch denken.
+Zoals we zagen in het eerste van de drie hoofdstukken gewijd aan de fysiocraten, waren Quesnays volgelingen ongeveer een decennium lang immens populair in Frankrijk. Dit enthousiasme voor hun ideeën kreeg vorm in hun eigen tijd en hield aan tot het einde van de eeuw. Hier bekijken we enkele van hun verwezenlijkingen en de invloed die zij uitoefenden op hun opvolgers op het gebied van het economische denken.
 
+Hun grootste prestatie, in het voetspoor van de kring van Gournay, was het populariseren van economische ideeën. Voltaires beroemde uitspraak is welbekend: rond 1750 begon de natie, verzadigd van poëzie en romans, na te denken over graan. De fysiocraten namen deel aan deze beweging en publiceerden letterlijk honderden artikelen, pamfletten en boeken over de vrijheid van de graanhandel. Het sterke elan dat de fysiocraten aan de economische discussies gaven, blijkt ook uit het indrukwekkende aantal economische werken en pamfletten dat tussen 1760 en 1775 in Frankrijk werd gepubliceerd. Als verder bewijs van de verspreiding van economische ideeën in Frankrijk herinneren we ons de opmerking van de heer de Vaublanc, aangehaald in een eerdere les, die in 1774 in Metz zei dat men het alleen nog over economie had. "Het was de mode", zei hij. "Iedereen was een econoom".
 
-Hun grootste prestatie, na de Gournay-groep, was het populariseren van economische ideeën. De beroemde uitspraak van Voltaire is welbekend: rond 1750 begon de natie, verzadigd van poëzie en romans, te redeneren over graan. De Fysiocraten namen deel aan deze beweging en publiceerden letterlijk honderden artikelen, pamfletten en boeken over de vrijheid van de graanhandel. De sterke impuls die de fysiocraten gaven aan economische discussies blijkt ook uit het indrukwekkende aantal economische werken en pamfletten dat tussen 1760 en 1775 in Frankrijk werd gepubliceerd. Nog een bewijs van de verspreiding van economische ideeën in Frankrijk is de opmerking van M. de Vaublanc, aangehaald in een eerdere lezing, die in 1774 in Metz zei dat mensen over niets anders dan economie spraken. "Het was de mode", zei hij. "Iedereen was econoom".
+De verdediging van hun ideeën, in boeken, pamfletten en in hun tijdschrift *Les Éphémérides du Citoyen*, had al snel gevolgen voor het economisch beleid van Frankrijk. In 1763 verleende een edict vrijheid van de graanhandel, waar Quesnay en Mirabeau sterk om hadden gevraagd. Bij verschillende gelegenheden verlichtten de autoriteiten ook de regelgeving voor handelsgilden om meer vrijheid van arbeid te waarborgen.
 
+### Invloed in het buitenland
 
-De verdediging van hun ideeën, in boeken, pamfletten en in hun tijdschrift *Les Éphémérides du Citoyen*, had al snel gevolgen voor het economische beleid van Frankrijk. In 1763 werd bij edict de graanhandel vrijgegeven, iets waar Quesnay en Mirabeau sterk op hadden aangedrongen. Bij verschillende gelegenheden versoepelden de autoriteiten ook de regels voor handelsgilden om een grotere vrijheid van werken te garanderen.
+In het buitenland kwam succes al vroeg. In Duitsland raakte de markgraaf van Baden geïnteresseerd in fysiocratische ideeën en onderhield hij regelmatig correspondentie met Mirabeau en Dupont de Nemours.
 
+![Karel Frederik, "groothertog van Baden"](assets/en/058.webp)
 
-In het buitenland kwam het succes al snel. In Duitsland interesseerde de markgraaf van Baden zich voor fysiocratische ideeën en onderhield hij een regelmatige correspondentie met Mirabeau en Dupont de Nemours.
+Hij belastte de econoom Johann August Schlettwein, een overtuigd fysiocraat, met het doorvoeren van een belastinghervorming en het liberaliseren van de graanhandel. In april 1770 vond een eerste proef plaats in het kleine dorp Dietlingen. De dorpelingen leken de maatregelen enthousiast te verwelkomen, maar de verantwoordelijke ambtenaren waren minder ondersteunend, wat de bredere invoering vertraagde.
 
+In Rusland bereidde Catharina II een wetgevende hervorming voor en vroeg zij Diderot haar een briljante geest te sturen om haar te helpen.
 
-![image](assets/nl/058.webp)
+![Catharina II van Rusland, Mercier de la Rivière, "De natuurlijke en essentiële orde van politieke samenlevingen"](assets/en/059.webp)
 
-
-Hij gaf de econoom Johann August Schlettwein, een overtuigd fysiocraat, de opdracht om een belastinghervorming door te voeren en de graanhandel te liberaliseren. In april 1770 vond een eerste proef plaats in het kleine dorpje Dietlingen. De dorpelingen leken de maatregelen enthousiast te hebben verwelkomd, maar de verantwoordelijke ambtenaren waren niet erg behulpzaam, waardoor de bredere implementatie vertraging opliep.
-
-
-In Rusland bereidde Catharina II een wetshervorming voor en vroeg Diderot haar een briljante geest te sturen om haar te helpen.
-
-
-![image](assets/nl/059.webp)
-
-
-Onder de indruk van [*The Natural and Essential Order of Political Societies*](https://archive.org/details/lordrenaturelete00mercuoft), gepubliceerd in 1767, stuurde hij haar de auteur, de fysiocraat Mercier de la Rivière.
+Onder de indruk van [*The Natural and Essential Order of Political Societies*](https://archive.org/details/lordrenaturelete00mercuoft), gepubliceerd in 1767, stuurde hij haar de auteur ervan, de fysiocraat Mercier de la Rivière.
 
 
 
 
+Hoewel hij Frankrijk als een gevierd man verliet, was zijn ontvangst in Sint-Petersburg koel (los van het klimaat), en de keizerin was teleurgesteld in hem.
+
+In Zweden, met Gustaaf III, en in Italië, met Leopold van Toscane, vonden de fysiocraten ook aanhangers die bereid waren hun ideeën in praktijk te brengen.
+
+In Frankrijk kenden de fysiocraten spectaculair succes met de benoeming van Turgot tot controleur-generaal van Financiën in 1774.
+
+![Portret van Turgot](assets/en/060.webp)
+
+Zich bewust van de tanende roem van de fysiocraten, presenteerde Turgot zich nooit als een trouwe volgeling van de fysiocraten, noch, wat dat betreft, als encyclopedist, hoewel hij dat wel was, en omdat zij verafschuwd werden door de leden van de geestelijkheid. Eenmaal aan de macht, vaardigde Turgot zes beroemde edicten uit die het begin vormden van een praktische toepassing van het fysiocratische programma: vrijheid van handel, vrijheid van arbeid en het einde van monopolies.
 
 
-Hoewel hij gevierd Frankrijk verliet, was zijn ontvangst in Sint-Petersburg koel (het klimaat terzijde) en de keizerin was teleurgesteld in hem.
+![Koninklijk edict](assets/en/061.webp)
+
+Tegen de tijd van de Franse Revolutie hadden de fysiocraten minder volgelingen. De markies de Mirabeau stierf op 13 juli 1789, vrij symbolisch. Abeille was verdergegaan, maar Dupont de Nemours bleef trouw. Benoemd bij de Vergadering, droeg Dupont de Nemours de stem van de fysiocratie uit en riep hij op tot economische hervormingen ten gunste van eigendomsrecht en vrijhandel.
+
+![Bijeenroeping van de Staten-Generaal in Versailles in 1789](assets/en/062.webp)
+
+Hij vocht ook, tevergeefs, tegen de assignaten. Ondanks deze mislukking bleef het fysiocratische denken zeer aanwezig in het intellectuele debat en beïnvloedde het de vroege verwezenlijkingen van de Revolutie. Zoals Joseph Rambaud zei: alles wat de Revolutie deed ten gunste van vrijheden, was te danken aan de fysiocraten.
+
+![Adam Smith, "Wealth of Nations", Joseph Rambaud, "Geschiedenis van de economische leerstellingen"](assets/en/063.webp)
 
 
-In Zweden, met Gustav III, en in Italië, met Leopold van Toscane, vonden de Fysiocraten ook volgelingen die bereid waren om hun ideeën in praktijk te brengen.
+### De fysiocraten en Adam Smith
 
-
-In Frankrijk boekten de Fysiocraten een spectaculair succes met de benoeming van Turgot als Controleur-Generaal van Financiën in 1774.
-
-
-![image](assets/nl/060.webp)
-
-
-Turgot was zich bewust van het afnemen van hun faam en presenteerde zich nooit als een trouwe discipel van de Fysiocraten, noch, wat dat betreft, als een encyclopedist, hoewel hij er een was en omdat ze werden veracht door de leden van de geestelijkheid. Eenmaal aan de macht vaardigde Turgot zes beroemde edicten uit die het begin waren van een praktische toepassing van het Physiocratische programma: vrijheid van handel, vrijheid van arbeid en het einde van monopolies.
-
-
-
-![image](assets/nl/061.webp)
-
-
-Tegen de tijd van de Franse Revolutie hadden de Fysiocraten minder aanhangers. De markies van Mirabeau stierf op 13 juli 1789 - een behoorlijk symbool. Abeille was verder gegaan, maar Dupont de Nemours bleef trouw. Dupont de Nemours werd benoemd tot lid van de Assemblee, hij droeg de stem van de Fysiocratie uit en riep op tot economische hervormingen ten gunste van eigendom Ownership en vrije handel.
-
-
-![image](assets/nl/062.webp)
-
-
-Hij vocht ook, zonder succes, tegen de assignaten. Ondanks deze mislukking bleef het fysiocratische gedachtegoed zeer aanwezig in het intellectuele debat en beïnvloedde het de vroege verwezenlijkingen van de Revolutie. Zoals Joseph Rambaud zei, was alles wat de Revolutie deed ten gunste van de vrijheden te danken aan de Fysiocraten.
-
-
-![image](assets/nl/063.webp)
+De fysiocraten hadden ook **een grote invloed op de geschiedenis van het economische denken**. Adam Smith, die Frankrijk bezocht en velen van hen ontmoette, werd diep beïnvloed door hun werk. Hij overwoog zelfs [*The Wealth of Nations*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289) aan Quesnay op te dragen.
 
 
 
-De Fysiocraten hadden ook een grote invloed op de geschiedenis van het economisch denken. Adam Smith, die Frankrijk bezocht en veel van hen ontmoette, werd diep beïnvloed door hun werk. Hij overwoog zelfs om *The Wealth of Nations* aan Quesnay op te dragen.
-
-
-
-
-
-Helaas stierf Quesnay twee jaar voordat Smiths boek werd gepubliceerd en Smith verwijderde de toewijding. Hoewel Smith het niet eens was met hun idee dat alleen landbouw productief was, omarmde hij veel van hun argumenten voor vrije markten en voerde deze door in zijn eigen werk.
-
+Helaas stierf Quesnay twee jaar voordat Smiths boek werd gepubliceerd, en Smith verwijderde de opdracht. Hoewel Smith het niet eens was met hun idee dat alleen landbouw productief was, omarmde hij veel van hun argumenten voor vrije markten en droeg hij deze verder in zijn eigen werk.
 
 
 ## Dupont de Nemours
-
 
 <chapterId>6d585e0f-93b8-5b0a-a0a8-7f6e4a5bc68e</chapterId>
 
 
 
 
+### Van toevallige ontmoeting tot Quesnays favoriet
 
 In de Verenigde Staten kennen we het bedrijf DuPont, ook bekend als "E.I. du Pont de Nemours and Company", een multinational op het gebied van chemie en biologie.
 
 
+![Onderneming Dupont, Dupont de Nemours](assets/en/064.webp)
 
-![image](assets/nl/064.webp)
-
-
-Vandaag de dag heeft het bedrijf een omzet van meer dan 35.000 miljard dollar en heeft het wereldwijd bijna 65.000 mensen in dienst. Het blijkt dat dit bedrijf nauw verbonden is met het lot van Samuel-Pierre Dupont de Nemours, een Franse econoom van de Physiocratische school.
+Vandaag heeft het bedrijf een omzet van meer dan 35 miljard dollar en telt het wereldwijd bijna 65.000 werknemers. Het blijkt dat dit bedrijf nauw verbonden is met het lot van Samuel-Pierre Dupont de Nemours, een Franse econoom van de fysiocratische school.
 
 
 
 
+Geboren in 1739, benaderde Dupont de Nemours de fysiocraten op zijn 24e. In die tijd zocht hij nog zijn weg in het leven. Op een dag stuitte hij op een kort pamflet getiteld The Wealth of the State. Hij vond de economische ideeën erin onzinnig en schreef een kritisch antwoord genaamd Reflections on the Wealth of the State, gepubliceerd in 1763. Het stuk werd goed ontvangen en lezers prezen het met opmerkingen als: "U moet wel een volgeling van Mirabeau zijn!" Ironisch genoeg wist Dupont niet eens wie Mirabeau was.
 
 
-Dupont de Nemours werd geboren in 1739 en kwam op 24-jarige leeftijd in contact met de fysiocraten. In die tijd was hij zijn weg in het leven nog aan het vinden. Op een dag kwam hij een kort pamflet tegen met de titel De Rijkdom van de Staat. Hij vond de economische ideeën onzin en schreef een kritisch antwoord met de titel Reflections on the Wealth of the State, gepubliceerd in 1763. Het stuk werd goed ontvangen en lezers prezen het met dingen als: "Je moet een leerling van Mirabeau zijn!" Ironisch genoeg wist Dupont niet eens wie Mirabeau was.
+![Markies de Mirabeau, Journal of agriculture, trade and finance](assets/en/065.webp)
 
-
-
-![image](assets/nl/065.webp)
-
-
-Nieuwsgierig begon hij het werk van Mirabeau te lezen, *Vriend van het Volk* en *Theorie van de Belastingheffing*. Hij ontmoette Mirabeau en François Quesnay en sloot zich aan bij hun school.
-
-In 1765 kreeg Dupont de functie van redacteur aangeboden van het *Journal de l'agriculture, du commerce et des finances*, het belangrijkste tijdschrift van die tijd op het gebied van economisch denken.
+Nieuwsgierig geworden, begon hij Mirabeaus werken te lezen, *Vriend van het volk* en *Theorie van de belasting*. Hij ontmoette Mirabeau en François Quesnay, en sloot zich vervolgens bij hun school aan.
+In 1765 werd Dupont de functie van hoofdredacteur van de *Journal de l'agriculture, du commerce et des finances* aangeboden, het toonaangevende tijdschrift van die tijd op het gebied van economisch denken.
 
 
 
 
+Hier waren twee redenen voor: Mirabeau en Quesnay moesten zwijgen, en Dupont werd gezien als hun rijzende ster.
 
+Leden van de fysiocratische school zijn het erover eens dat Dupont de Nemours al snel Quesnays favoriet werd. Quesnay zei ooit: "Zorg goed voor deze jongeman, hij zal degene zijn die spreekt wanneer wij dood zijn". Een medefysiocraat, Abeille, werd zelfs jaloers op de aandacht die Dupont kreeg en nam afstand van Quesnays school.
 
-Daar waren twee redenen voor: Mirabeau en Quesnay moesten zwijgen en Dupont werd gezien als hun rijzende ster.
+### De architect van de fysiocratische uitgeverij
 
+Dupont de Nemours behield altijd zijn grote achting voor Quesnay.
 
-Leden van de Physiocratische school zijn het erover eens dat Dupont de Nemours al snel de favoriet van Quesnay werd. Quesnay zei ooit: "Zorg goed voor deze jongeman, hij zal spreken als wij dood zijn". Een mede-fysiocraat, Abeille, werd zelfs jaloers op de aandacht die Dupont kreeg en distantieerde zich van Quesnay's school.
+![Quesnay, Journal des Physiocrates](assets/en/066.webp)
 
-
-Dupont de Nemours heeft altijd zijn grote waardering voor Quesnay behouden.
-
-
-![image](assets/nl/066.webp)
-
-
-Later zou hij zeggen: "Ik was nog maar een jongen toen Quesnay zijn armen naar me uitstrekte, hij maakte een man van me." Het was Quesnay die van hem een belangrijk econoom maakte in de literaire scène van die tijd.
-
-Na het *Journal de l'agriculture, du commerce et des finances* werd Dupont benoemd tot redacteur van *Les Éphémérides du Citoyen*, dat het officiële orgaan van de Fysiocraten werd.
+Hij zou later zeggen: "Ik was nog maar een jongen toen Quesnay zijn armen naar mij uitstrekte; hij maakte een man van me." Het was Quesnay die van hem een groot econoom maakte op het literaire toneel van die tijd.
+Na de *Journal de l'agriculture, du commerce et des finances* werd Dupont benoemd tot hoofdredacteur van *Les Éphémérides du Citoyen*, dat het officiële orgaan van de fysiocraten werd.
 
 
 
 
-
-Hij maakte deze periodieke verzameling tot een belangrijk centrum voor economische theorie en ondersteunde het zelfs tijdens de neergang van de Fysiocraten door bijna alle latere delen zelf te schrijven. Het was bovendien Dupont de Nemours die de term "fysiocratie" bedacht, afgeleid van twee Griekse woorden die "regering van de natuur" betekenen. Hij gebruikte deze term als titel voor een verzameling artikelen van Quesnay die in 1768 werd gepubliceerd, en de term raakte uiteindelijk ingeburgerd in de geschiedenis. Het is bekend dat de Fysiocraten elkaar onderling "economen" noemden en tijdens de Revolutie werden ze nog steeds zo genoemd.
-
+Hij maakte van dit periodiek een belangrijk centrum voor economische theorie, dat hij zelfs tijdens de neergang van de fysiocratie ondersteunde door bijna alle latere delen persoonlijk te schrijven. Het was overigens Dupont de Nemours die de term "fysiocratie" bedacht, afgeleid van twee Griekse woorden die "bestuur van de natuur" betekenen. Hij gebruikte deze term als titel voor een verzameling artikelen van Quesnay, gepubliceerd in 1768, en de term raakte uiteindelijk historisch gevestigd. Het is bekend dat de fysiocraten elkaar onderling "economen" noemden, en zij werden ook tijdens de Revolutie nog zo genoemd.
 
 
-![image](assets/nl/067.webp)
+![Turgot, Fysiocratie, verzameling teksten van Quesnay](assets/en/067.webp)
+
+### Een leven van overtuiging
+
+Toen Turgot kort dienstdeed als minister van Financiën van Frankrijk, werd Dupont zijn naaste adviseur, de enige fysiocraat met toegang tot hem, aangezien Turgot afstand hield van de anderen.
 
 
-Toen Turgot korte tijd minister van Financiën van Frankrijk was, werd Dupont zijn naaste adviseur. Hij was de enige fysiocraat die toegang tot hem had, omdat Turgot zich afzijdig hield van de anderen.
+
+Tijdens de Revolutie werd hij verkozen namens het baljuwschap van Nemours en bevond hij zich in de Vergadering, waar ook een andere meneer Dupont zetelde. Hij werd toen Dupont de Nemours genoemd, niet omdat hij van adel was, maar simpelweg om de twee van elkaar te onderscheiden. De naam bleef, uiteraard, behouden.
+
+Tijdens de Revolutie, in augustus 1792, greep hij naar de wapens om de koning te verdedigen in het paleis van de Tuilerieën tegen de menigte.
+
+![Joseph Schumpeter, "Geschiedenis van de economische analyse", Bestorming van het paleis van de Tuilerieën in 1792](assets/en/068.webp)
+
+De koning zei tegen hem: "Meneer Dupont, we vinden u altijd waar we u nodig hebben!" Nadat hij op wonderbaarlijke wijze aan de Terreur was ontsnapt, veroordeeld en wachtend op de guillotine maar gered door de val van Robespierre, werd hij onder Napoleon in ballingschap gedwongen en vond hij zijn geluk in de Verenigde Staten, waar een van zijn zonen, met de hulp van zijn vader, het bedrijf Dupont oprichtte.
 
 
 
 
 
-Ten tijde van de Revolutie werd hij gekozen uit het baljuwschap van Nemours en bevond hij zich in de Assemblée, waar ook een andere Monsieur Dupont zetelde. Hij werd toen Dupont de Nemours genoemd, niet omdat hij van adel was, maar gewoon om de twee van elkaar te onderscheiden. De naam bleef natuurlijk bestaan.
+Ondanks dit veelbewogen leven, waarin hij tientallen artikelen, brochures en boeken publiceerde, blijft hij tot op de dag van vandaag relatief onbekend. Misschien komt dit doordat hij een standvastig fysiocraat bleef toen de leer uit de mode was geraakt. Zoals Schumpeter schreef, bleef Dupont de Nemours trouw aan de fysiocratie "gedurende een carrière waarin hij vele gelegenheden had om ervan af te zien". **Hij was een man van overtuiging**.
 
-
-Tijdens de Revolutie, in augustus 1792, nam hij de wapens op om de Koning in het Tuileries Paleis te verdedigen tegen de menigte.
-
-
-![image](assets/nl/068.webp)
-
-
-De koning zei tegen hem: "Monsieur Dupont, we vinden u altijd waar we u nodig hebben!" Na op wonderbaarlijke wijze aan de Terreur te zijn ontsnapt, veroordeeld en in afwachting van de guillotine maar gered door de val van Robespierre, werd hij onder Napoleon in ballingschap gedreven en vond hij zijn geluk in de Verenigde Staten, waar een van zijn zonen met hulp van zijn vader het bedrijf Dupont oprichtte.
-
-
-
-
-
-
-Ondanks dit bewogen leven, waarin hij tientallen artikelen, brochures en boeken publiceerde, is hij tot op de dag van vandaag relatief weinig bekend. Misschien was dit omdat hij een overtuigd fysiocraat bleef toen de doctrine uit de mode was geraakt. Inderdaad, zoals Schumpeter schreef, bleef Dupont de Nemours trouw aan de Physiocratie "gedurende een carrière waarin hij vele gelegenheden had om deze af te zweren". Hij was een man van overtuiging.
-
-
-# De Verlichting en politieke economie
-
+# De Verlichting en de politieke economie
 
 <partId>d1c885ad-7cb1-5f81-816c-be312719d9f8</partId>
 
-
 ## Voltaire en de filosofen
-
 
 <chapterId>16bcf7bf-dad4-5113-8c64-2800f04ff07b</chapterId>
 
+### Economie in de Encyclopédie
 
-In de 18e eeuw ontstond in Frankrijk de economie als wetenschap en de eerste economische denkschool: Fysiocratie. Adam Smith volgde in deze periode een economische opleiding en Franse economen werden wereldwijd erkend als leiders. Deze eeuw wordt echter meer herinnerd als de eeuw van de filosofie dan van de economie. Hoewel de Physiocratische beweging zich in haar ambities aansloot bij de filosofie van de Verlichting, verdienen de houdingen van de filosofen - vooral Diderot en Voltaire - nader onderzoek. We zullen zien dat de denkers van de Verlichting een belangrijke bijdrage leverden aan de verspreiding van het idee van laissez-faire in Frankrijk.
-
-
-
-![image](assets/nl/069.webp)
+De 18e eeuw in Frankrijk zag de opkomst van de economie als wetenschap en de eerste school van economisch denken: de fysiocratie. Adam Smith deed zijn economische vorming in deze periode, en Franse economen golden wereldwijd als koplopers. Toch wordt deze eeuw eerder herinnerd als de eeuw van de filosofie dan van de economie. Terwijl de fysiocratische beweging in haar ambities aansloot bij de Verlichtingsfilosofie, verdient de houding van de filosofen, vooral Diderot en Voltaire, nadere aandacht. We zullen zien dat de Verlichtingsdenkers aanzienlijk hebben bijgedragen aan de verspreiding van het idee van laissez-faire in Frankrijk.
 
 
-De beroemdste prestatie van de Verlichtingsfilosofie is zonder twijfel de *Encyclopédie* van Diderot en d'Alembert.
+![Adam Smith, Encyclopedie](assets/en/069.webp)
 
+De beroemdste verwezenlijking van de Verlichtingsfilosofie is ongetwijfeld de *Encyclopédie* van Diderot en d'Alembert.
 
 
 
 
+Uiteraard werden de economische artikelen door economen geschreven. Voor de vroege delen wendde Diderot zich tot Forbonnais, en schakelde vervolgens liberale economen in: eerst François Quesnay (die artikelen bijdroeg zoals "Grains", "Fermiers", "Hommes", waarvan de laatste ongepubliceerd bleef), daarna Turgot (die "Foires et marchés" schreef). Deze geschriften zijn van groot belang. In zijn artikelen legde Quesnay de basis voor wat de fysiocratische leer zou worden. Samen met zijn *Tableau économique* blijven dit zijn beroemdste werken. Turgot, toen nog jong, ontwikkelde in zijn artikel het idee van laissez-faire, waarbij hij staatsinmenging in de marktordening bekritiseerde.
 
-Natuurlijk werden de economische artikelen geschreven door economen. Voor de eerste delen wendde Diderot zich tot Forbonnais, daarna deed hij een beroep op liberale economen: eerst François Quesnay (die artikelen bijdroeg als "Grains", "Fermiers", "Hommes" - de laatste niet gepubliceerd), daarna Turgot (die "Foires et marchés" schreef). Deze geschriften zijn van groot belang. In zijn artikelen legde Quesnay de basis voor wat de fysiocratische doctrine zou worden. Samen met zijn *Tableau économique* blijven dit zijn beroemdste werken. Turgot, die toen nog jong was, ontwikkelde het idee van laissez-faire in zijn artikel en bekritiseerde staatsinterventie in de marktorganisatie.
+In veel andere artikelen van de *Encyclopédie* verdedigden de filosofen, vooral Diderot, het ideaal van vrijheid op alle gebieden: religie, politiek en economie.
 
+![Denis Diderot](assets/en/070.webp)
 
-In veel andere artikelen van de *Encyclopédie* verdedigen filosofen, vooral Diderot, het ideaal van vrijheid op alle gebieden: religie, politiek en economie.
+Vrijheid van arbeid, met name in tegenstelling tot het gildesysteem, was een terugkerend thema in verschillende bijdragen zoals Arts, Métier en Communauté.
 
+### Diderots complexe verhouding met vrijheid
 
-![image](assets/nl/070.webp)
-
-
-Vrijheid van arbeid, vooral in tegenstelling tot het gildesysteem, was een terugkerend thema in verschillende items zoals Arts, Métier en Communauté.
-
-
-Diderots weg in de economische theorie is merkwaardig. In de Encyclopédie was hij een fervent voorstander van economische vrijheid en zocht hij samenwerking met liberale economen, zoals wordt bevestigd door een brief waarin de artikelen worden opgesomd die Turgot voor hem zou kunnen schrijven. In de beginjaren van de Fysiocratie was hij zowel een aanhanger als een promotor van de school van Quesnay. In 1769 en 1770 schreef hij voor *Les Ephémérides du Citoyen*, tot groot ongenoegen van zijn anti-liberale filosofenvrienden, zoals Melchior Grimm; hij nam echter al snel afstand van de groep. Verrukt door het levendige intellect van abt Galiani, hielp hij hem zijn boek over de graanhandel in het Frans te publiceren, net toen Galiani op het punt stond terug te keren naar Italië.
+Diderots pad in de economische theorie is een merkwaardig verhaal. In de Encyclopédie was hij een fervent voorvechter van economische vrijheid en degene die de samenwerking met liberale economen zocht, zoals blijkt uit een brief waarin hij de artikelen schetste die Turgot voor hem zou kunnen schrijven. In de vroege jaren van de fysiocratie was hij zowel voorstander als promotor van Quesnays school. In 1769 en 1770 schreef hij voor *Les Ephémérides du Citoyen*, tot grote consternatie van zijn antiliberale filosofenvrienden, zoals Melchior Grimm; toch nam hij al snel afstand van de groep. Geboeid door de levendige intellectuele geest van abt Galiani, hielp hij hem zijn boek over de graanhandel in het Frans te publiceren, net toen Galiani op het punt stond naar Italië terug te keren.
 
 
-
-![image](assets/nl/071.webp)
+![Dialoog over de graanhandel, van Galiani, Ephémérides du Citoyen](assets/en/071.webp)
 
 
 
+Dit boek zou de felste aanval ooit op de fysiocratische ideeën worden, waarmee de beweging een zware klap kreeg toegebracht. Later verdedigde Diderot Galiani tegen abt Morellet, een naaste bondgenoot van de fysiocraten, in zijn *Apologie voor Galiani*. Enkele jaren later, tijdens Turgots ministerschap, werd Diderot gezien terwijl hij applaudisseerde voor de invoering van vrijheid van arbeid door de afschaffing van de gilden. Op dat moment vond Diderot, een ambachtszoon, zich aan de kant van de liberale economen en schreef hij een scherpe brief aan Galiani, die beweerde dat vrijheid van arbeid de Franse nijverheid binnen twintig of dertig jaar zou ruïneren. In het licht van de Industriële Revolutie wijst de geschiedenis anders uit. Nu hij was teruggekeerd naar de kant van de liberale economen, genoot Diderot niet langer hun vertrouwen en bleef hij geïsoleerd. Een zeer veelzeggend moment is een brief die hij in 1774 aan Dupont de Nemours stuurde, waarin hij schrijft:
 
+> Je had ooit vriendschap voor mij; nu niet meer, want je hebt het zo druk dat je geen tijd meer hebt om van iemand te houden.
 
-Dit boek zou de felste aanval worden die ooit tegen de ideeën van de Fysiocraten was gericht en het zou de beweging een zware slag toebrengen. Later verdedigde Diderot Galiani tegen Abt Morellet, een nauwe bondgenoot van de Fysiocraten, in zijn *Apologie van Galiani*. Een paar jaar later, tijdens het ministerschap van Turgot, werd Diderot gezien terwijl hij de oprichting van de vrijheid van arbeid door de afschaffing van de gilden toejuichte. Diderot, zoon van een ambachtsman, was het toen eens met de liberale economen en schreef een vernietigende brief aan Galiani, die beweerde dat de vrijheid van arbeid de Franse industrie binnen twintig of dertig jaar zou ruïneren. In het licht van de Industriële Revolutie doet de geschiedenis anders vermoeden. Na zijn terugkeer aan de kant van de liberale economen genoot Diderot niet langer hun vertrouwen en bleef hij geïsoleerd. Een veelzeggend moment is een brief die hij in 1774 aan Dupont de Nemours stuurde, waarin hij schrijft:
+![Voltaire](assets/en/072.webp)
 
+### Voltaire tussen lof en satire
 
-> "Ooit had je vriendschap voor mij; nu niet meer, omdat je het zo druk hebt dat je geen tijd meer hebt om van iemand te houden".
+Voltaire volgde een vergelijkbaar pad, gekenmerkt door een gebrek aan consistentie in zijn economische opvattingen. Hij bewonderde Vincent de Gournay, correspondeerde met economen (waaronder Dupont de Nemours en Turgot) en waardeerde de fysiocraten, vooral vanwege hun lof voor de landbouw. Hij prees hen in een *Diatribe aan de auteur van de Ephémérides*. Later bekritiseerde hij echter hun idee van een enkele grondbelasting in zijn satirische werk *De man van veertig kronen*, wat ook aanzienlijke controverse veroorzaakte. Ten slotte, net als Diderot, prees hij Turgots ministerschap als een gouden eeuw en loofde hij zijn twee grote decreten over vrijheid van arbeid en vrijhandel.
 
-![image](assets/nl/072.webp)
+![Voltaire, "L'homme aux quarante écus"](assets/en/073.webp)
 
-
-Voltaire volgde een vergelijkbaar pad, gekenmerkt door een gebrek aan consistentie in zijn economische opvattingen. Hij bewonderde Vincent de Gournay, correspondeerde met economen (waaronder Dupont de Nemours en Turgot) en waardeerde de Fysiocraten-vooral vanwege hun lof voor de landbouw. Hij prees hen in een *Diatribe to the Author of the Ephémérides*. Later bekritiseerde hij echter hun idee van een enkele grondbelasting in zijn satirische werk *De man van veertig kronen*, dat ook voor veel controverse zorgde. Tot slot vierde hij, net als Diderot, het ministerschap van Turgot. Hij noemde het een gouden eeuw en prees zijn twee grote decreten over vrijheid van arbeid en vrije handel.
-
-
-![image](assets/nl/073.webp)
-
-
-Uiteindelijk is de relatie van de filosofen met het economische denken gemengd. Ondanks hun lof en kritiek op liberale economische ideeën, speelden ze een rol in het introduceren van deze ideeën in het bredere intellectuele discours van de Verlichting. Op deze manier hebben ze, al dan niet opzettelijk, het idee van laissez-faire tot aan de Revolutie vooruit geholpen.
-
+Uiteindelijk is de verhouding van de filosofen tot het economische denken gemengd. Ondanks hun lof en kritiek op liberale economische ideeën, speelden zij een rol bij het inbrengen van deze ideeën in het bredere intellectuele discours van de Verlichting. Zo hielpen zij, al dan niet bewust, het begrip laissez-faire vooruit tot aan de Revolutie.
 
 ## Turgot, de theoreticus
 
-
 <chapterId>a8cd8185-8351-556b-8011-3a0c313e8a9d</chapterId>
 
+### De vorming van een groot econoom
 
-In een beroemde passage uit zijn *History of Economic Thought* prees de Amerikaanse econoom Murray Rothbard wat hij de "genialiteit" van Turgot noemde.
+In een beroemde passage uit zijn *History of Economic Thought* prees de Amerikaanse econoom Murray Rothbard wat hij de "briljantie" van Turgot noemde.
 
 
 
 
+en stelde hem voor als de grootste econoom van de 18e eeuw, samen met Cantillon.
 
+![Turgot, Montesquieu, "L'Esprit des Lois", Encyclopedie](assets/en/074.webp)
 
-waarin hij wordt gepresenteerd als de grootste econoom van de 18e eeuw, samen met Cantillon.
+Hoe kwam Turgot tot zulk aanzien? Het kwam neer op een combinatie van drie belangrijke factoren. **Ten eerste zijn prestigieuze familieachtergrond**. Hij stamde uit een lange lijn van koninklijke ambtenaren, van wie velen hoge overheidsfuncties bekleedden. **Ten tweede, de gouden eeuw waarin hij geboren werd**. Turgot was 21 toen Montesquieu *L'Esprit des Lois* publiceerde, en 24 toen het eerste deel van de *Encyclopédie* verscheen.
 
 
-![image](assets/nl/074.webp)
 
 
-Hoe is Turgot zo prominent geworden? Het kwam neer op een combinatie van drie sleutelfactoren. **Ten eerste zijn prestigieuze familieachtergrond. Hij kwam uit een lange lijn van koninklijke bestuurders, van wie velen hoge regeringsposities bekleedden. **Ten tweede de gouden eeuw waarin hij geboren en opgegroeid was. Turgot was 21 toen Montesquieu *L'Esprit des Lois* publiceerde en 24 toen het eerste deel van de *Encyclopédie* verscheen.
 
+Hij was een tijdgenoot van de fysiocraten, Voltaire, Diderot, d'Holbach, Adam Smith, Condorcet en anderen. **Ten derde, zijn uitzonderlijke intellectuele vroegrijpheid**. Als student aan de Sorbonne schreef hij op 22-jarige leeftijd een brief over papiergeld, hield hij opmerkelijke toespraken, en stelde hij op zijn 24e een lijst van 52 te schrijven werken samen.
 
 
+Ondanks zijn jeugd droeg Turgot bij aan de *Encyclopédie* met artikelen over onderwerpen als "Etymologie", "Bestaan", "Uitbreidbaarheid", "Jaarmarkten" en "Fundamenten". Slechts één artikel raakte rechtstreeks aan economie: zijn bijdrage over "Jaarmarkten", die de oorsprong van jaarmarkten en markten uiteenzette en de groeiende staatsinmenging bekritiseerde die deze verstoorde en verlamde.
 
 
+Tijdens deze vroege jaren werd hij begeleid door Vincent de Gournay, die hem onder zijn hoede nam en een nauwe vriendschap met hem sloot. Na Gournays dood in 1759 schreef Turgot een lofrede waarin hij een prachtige samenvatting gaf van de leer van laissez-faire. Hij schreef opmerkelijk genoeg:
 
+"Vanuit elk perspectief waarin de handel de Staat kan aangaan, zal het individuele belang, aan zichzelf overgelaten, altijd zekerder het algemeen welzijn voortbrengen dan de handelingen van de overheid, die altijd gebrekkig zijn en noodzakelijkerwijs geleid worden door een vage en onzekere theorie".
 
 
-Hij was een tijdgenoot van de Fysiocraten, Voltaire, Diderot, d'Holbach, Adam Smith, Condorcet en anderen. **Derde**, zijn intellectuele vroegrijpheid. Als student aan de Sorbonne schreef hij op 22-jarige leeftijd een brief over papiergeld, hield hij opmerkelijke toespraken en stelde hij op 24-jarige leeftijd een lijst samen van 52 werken die hij nog moest schrijven.
+![Turgot, "Lofrede voor Gournay", Turgot, "Réflexions sur la formation et la distribution des richesses"](assets/en/075.webp)
 
+### Een compendium van liberale economie
 
+In 1767, als intendant, stelde hij een compendium van economie samen onder de titel [*Réflexions sur la formation et la distribution des richesses*](https://planb.academy/resources/books/turgot-oeuvres-completes-37fa0489-cabd-413c-9240-34d1663d0720) ("Overpeinzingen over de vorming en verdeling van rijkdom").
 
-Ondanks zijn jeugdige leeftijd leverde Turgot bijdragen aan de *Encyclopédie* en schreef artikelen over onderwerpen als "Etymologie", "Bestaan", "Expansibiliteit", "Beurzen" en "Fundamenten". Slechts één artikel ging direct over economie - zijn stuk over "Beurzen", waarin hij de oorsprong van beurzen en markten beschreef en kritiek uitte op de groeiende staatsbemoeienis die deze verstoorde en verlamde.
 
 
 
-Tijdens deze eerste jaren werd hij begeleid door Vincent de Gournay, die hem onder zijn hoede nam en een hechte vriendschap met hem sloot. Na Gournay's dood in 1759 schreef Turgot een lofrede waarin hij de doctrine van laissez-faire prachtig samenvatte. Hij schreef met name:
+Arbeidsdeling, consumentensoevereiniteit, privé-eigendom, de rol van kapitaal, vrijwel alle grote economische thema's komen aan bod. Veel historici, van wie historicus Anne-Claire Hoyng de meest recente is, hebben gewezen op de overeenkomsten tussen dit werk van Turgot en Adam Smiths [*The Wealth of Nations*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289), dat negen jaar later verscheen.
 
+![Turgot, "Lettres sur la liberté du commerce des grains", Turgot en Smith, "Een vreemde nabijheid"](assets/en/076.webp)
 
-"Vanuit elk perspectief waarin handel de staat aangaat, zal individueel belang dat aan zichzelf wordt overgelaten altijd zekerder het algemeen belang produceren dan de activiteiten van de overheid, die altijd gebrekkig zijn en noodzakelijkerwijs worden geleid door vage en onzekere theorieën".
+Turgot verdedigde de vrijheid van de graanhandel in brieven aan abt Terray, die later aan de koning werden doorgegeven, maar waarvan de helft nu verloren is. Hij schreef:
 
 
+> Mijnheer, als er iets dringend is, dan is het niet nieuwe beperkingen op te leggen aan de meest essentiële van alle handel, maar om díe weg te nemen die, jammer genoeg, zijn blijven bestaan.
+> Als er ooit een tijd is geweest waarin de volledigste, meest absolute vrijheid, geheel vrij van elke belemmering, noodzakelijk was, dan durf ik te zeggen dat het nu is, en dat het nooit minder gepast is geweest om een regeling voor de graanhandel te overwegen.
 
-![image](assets/nl/075.webp)
 
 
-In 1767, toen hij nog intendant was, schreef hij een overzicht van de economie onder de titel *Reflections on the Formation and Distribution of Wealth*.
 
+In 1769 schreef Turgot het artikel Waarde en geld voor abt Morellets *Dictionnaire de Commerce*, dat uiteindelijk nooit werd gepubliceerd. Galiani had al opgemerkt dat "de mens de gemeenschappelijke maatstaf van alle dingen is", waarmee hij de subjectieve analyse voorafspiegelde die Turgot dertig jaar later in dit artikel zou ontwikkelen en onderbouwen.
 
+In 1770, ruim vóór Bentham, schreef Turgot een memorandum ter verdediging van de vrijheid van rentetarieven en woeker.
 
 
+![Turgot, "Mémoire sur les prêts d'argent"](assets/en/077.webp)
 
-Arbeidsverdeling, consumentensoevereiniteit, privébezit, de rol van kapitaal, vrijwel alle belangrijke economische thema's komen aan bod. Veel historici, waarvan historica Anne-Claire Hoyng de meest recente is, hebben gewezen op de overeenkomsten tussen dit werk van Turgot en Adam Smiths *The Wealth of Nations*, dat negen jaar later werd gepubliceerd.
+"Het is een vergissing te geloven dat de rente op geld in de handel door de wetten van vorsten moet worden vastgesteld", zegt hij, "Het is een actuele prijs die zichzelf reguleert, zoals die van alle andere goederen". Ter verdediging van deze stelling weerlegt hij de bezwaren van Aristoteles en de kerkvaders.
 
+### De onmogelijkheid van centrale planning
 
-![image](assets/nl/076.webp)
+Een opmerkelijke samenvatting van Turgots laissez-faire-leer is te vinden in een vergeten brief uit 1773 aan abt Terray over het merken van ijzerwaren:
 
 
-Turgot verdedigde de vrijheid van de graanhandel in brieven aan abt Terray, die later aan de koning werden doorgegeven, maar waarvan de helft nu verloren is gegaan. Hij schreef:
+> Wat de politiek moet doen, is zich voegen naar de loop van de natuur en de loop van de handel, die niet minder noodzakelijk en niet minder onweerstaanbaar is dan de loop van de natuur zelf, zonder te proberen deze te sturen; want om haar te sturen zonder haar te verstoren en zonder zichzelf te schaden, zou men in staat moeten zijn alle veranderingen in menselijke behoeften, belangen en nijverheid te volgen; men zou ze in een mate van detail moeten kennen die fysiek onmogelijk te verkrijgen is, en waarin zelfs de meest bekwame, actieve en nauwgezette regering altijd het risico loopt zich te vergissen, en dat minstens voor de helft.
 
 
+Hier vinden we een zeer duidelijke uiteenzetting van de leer van laissez-faire, evenals een voorafspiegeling van Friedrich Hayeks analyse van de aanmatiging van kennis, dat wil zeggen de onmogelijkheid voor een Staat om economische krachten volledig te doorgronden om ze te beheersen.
 
-> Meneer, als er iets dringend is, dan is het niet om nieuwe beperkingen op te leggen aan de meest essentiële van alle beroepen, maar om de beperkingen op te heffen die helaas zijn blijven bestaan.
-> Als er ooit een tijd is geweest waarin de meest volledige, absolute vrijheid, volledig vrij van elke vorm van belemmering, nodig was, dan is het nu, durf ik te zeggen, en dat het nog nooit zo gepast is geweest om het uitvaardigen van een verordening op de graanhandel te overwegen.
 
 
 
-
-
-In 1769 schreef Turgot het artikel Waarde en geld voor Abbot Morellet's *Dictionnaire de Commerce*, dat uiteindelijk nooit werd gepubliceerd. Galiani had al opgemerkt dat "de mens de gemeenschappelijke maatstaf van alle dingen is", waarmee hij vooruitliep op de subjectieve analyse die Turgot dertig jaar later zou ontwikkelen in dit artikel, waarin hij deze stelling verder uitwerkt en bewijst.
-
-
-In 1770, ruim voor Bentham, schreef Turgot een memorandum waarin hij pleitte voor de vrijheid van rentetarieven en woekerrente.
-
-
-
-![image](assets/nl/077.webp)
-
-
-"Het is een vergissing om te geloven dat de rente op geld in de handel moet worden vastgesteld door de wetten van vorsten", zegt hij, "Het is een gangbare prijs die zichzelf reguleert, net als die van alle andere goederen", Ter verdediging van dit standpunt weerlegt hij de oppositie van Aristoteles en de kerkvaders.
-
-
-Een opmerkelijke samenvatting van Turgots laissez-faire doctrine is te vinden in een vergeten brief uit 1773 aan abt Terray over het markeren van ijzers:
-
-
-
-> Wat de politiek moet doen is toegeven aan de loop van de natuur en aan de loop van de handel, die niet minder noodzakelijk en niet minder onweerstaanbaar is dan de loop van de natuur zelf, zonder te proberen deze te sturen; want om deze te sturen zonder deze te verstoren en zonder zichzelf te schaden, zou men in staat moeten zijn om alle variaties in menselijke behoeften, belangen en industrie te volgen; men zou deze moeten kennen op een niveau van detail dat fysiek onmogelijk te verkrijgen is en waarbij zelfs de meest bekwame, actieve en nauwgezette regering altijd het risico loopt het mis te hebben, op zijn minst voor de helft.
-
-Hier vinden we een zeer duidelijke verklaring van de doctrine van laissez-faire, evenals een voorbode van Friedrich Hayek's analyse van de pretentie van kennis, dat wil zeggen, de onmogelijkheid voor een staat om economische krachten volledig te begrijpen om ze te beheersen.
-
-
-
-
-
-![image](assets/nl/078.webp)
-
+![Friedrich A. Hayek](assets/en/078.webp)
 
 ## Turgot, de hervormer
 
-
 <chapterId>9177429f-1679-51c4-bfd2-dd036d24a1cc</chapterId>
 
+### De weifelende intendant van Limousin
 
-Zoals we in het vorige hoofdstuk al kort vermeldden, was Turgot de zoon van een vooraanstaande familie die zich had onderscheiden in de hogere rangen van het Franse ambtenarenapparaat.
-
-
-
-![image](assets/nl/079.webp)
+Zoals we in het vorige hoofdstuk kort in herinnering brachten, was Turgot de zoon van een vooraanstaande familie die zich had onderscheiden in de hogere rangen van het Franse ambtenarenapparaat.
 
 
-Zijn vader was provoost van de kooplieden van Parijs en zijn grootvader intendant. Nadat hij had uitgeblonken in zijn studies, wilde de jongste telg van de familie Turgot minstens dezelfde hoogten bereiken. Hij diende eerst een tijdje als maître des requêtes, wat betekende dat hij de verbinding vormde tussen de intendanten en Versailles. Het was een prestigieuze positie, waarvoor hij een speciale leeftijdsvrijstelling moest krijgen, maar Turgot streefde naar meer. De dood van zijn mentor, Gournay, moedigde hem aan om hoger te mikken en hij vroeg een aanstelling als intendant aan.
+![Turgot](assets/en/079.webp)
+
+Zijn vader was proost van de kooplieden van Parijs geweest en zijn grootvader intendant. Na uit te blinken in zijn studies, wilde de jongste van de familie Turgot minstens diezelfde hoogte bereiken. Eerst diende hij enige tijd als maître des requêtes, wat betekende dat hij een schakel vormde tussen de intendanten en Versailles. Het was een prestigieuze positie, waarvoor hij een speciale leeftijdsvrijstelling moest verkrijgen, maar Turgot streefde naar meer. De dood van zijn mentor, Gournay, spoorde hem verder aan om hoger te mikken, en hij vroeg om een benoeming tot intendant.
 
 
-
-In 1759 vroeg hij eerst het intendaat van Grenoble aan, maar dat werd hem geweigerd. Vervolgens werd hem de post van provoost van de kooplieden in Lyon aangeboden, die hij afwees. Hij vroeg het intendaat van Bretagne aan, maar ook dat werd geweigerd. Uiteindelijk werd hem in 1761 het intendaat van Limousin aangeboden en hij accepteerde dit, enigszins met tegenzin. Hij schreef aan Voltaire: "Ik heb de pech intendant te zijn", wat misschien betekent: Ik heb de pech intendant te zijn in Limousin.
-
+In 1759 solliciteerde hij eerst naar het intendantschap van Grenoble, maar dat werd geweigerd. Vervolgens werd hem het ambt van proost van de kooplieden in Lyon aangeboden, dat hij afsloeg. Hij vroeg om het intendantschap van Bretagne, maar ook dat werd geweigerd. Ten slotte, in 1761, werd hem het intendantschap van Limousin aangeboden, dat hij, enigszins met tegenzin, aanvaardde. Hij schreef aan Voltaire: "Ik heb het ongeluk intendant te zijn", waarmee hij misschien bedoelde: ik heb het ongeluk intendant te zijn in Limousin.
 
 
-In Limousin waren de boeren arm en leefden ze in precaire omstandigheden, vooral wat betreft huisvesting en voedsel. Het algemene onderwijsniveau was extreem laag. De weinige wegen die er waren, verkeerden in een rampzalige staat.
+In Limousin waren de boeren arm en leefden zij in precaire omstandigheden, vooral wat huisvesting en voedsel betreft. Het algemene onderwijsniveau was uiterst laag. De weinige wegen die er waren, verkeerden in rampzalige staat.
 
 
+![J.F. Millet, "De arenleessters", 1857](assets/en/080.webp)
 
-![image](assets/nl/080.webp)
+Omdat de streek zo arm was, wekte ze geen belangstelling bij de ministers. Dit gaf Turgot de vrijheid om met hervormingen te experimenteren. In Limousin zette hij drie grote projecten voort:
 
+- **De herverdeling van de taille**, de persoonlijke belasting (Turgot streefde ernaar zoveel mogelijk objectiviteit in te brengen in de vaststelling ervan).
+- **De corvée**, een vorm van belasting betaald in arbeid, waarbij boeren gedwongen werden aan wegenbouw te werken. Bij zijn rondgang door de streek merkte Turgot al snel de slechte staat van de wegen op. Hij verving de corvée door een geldelijke belasting.
+- **De rekrutering van militielichtingen**, boerenlegers gemobiliseerd in tijden van oorlog.
 
-Omdat de regio zo arm was, was het niet interessant voor de ministers. Dit gaf Turgot de vrijheid om te experimenteren met hervormingen. In Limousin voerde hij drie grote projecten uit:
+![De loting voor de militie](assets/en/081.webp)
 
+Dit gebeurde via loting, wat leidde tot angst en geweld vanwege deserteurs; Turgot verving deze verplichte lichtingen door betaalde vrijwilligers.
 
-
-- De herverdeling van de **taille**, de persoonlijke belasting (Turgot streefde ernaar om zoveel mogelijk objectiviteit in zijn beoordeling te introduceren).
-- De **corvée**, een vorm van belasting betaald in arbeid, waarbij boeren werden gedwongen om te werken aan de aanleg van wegen. Tijdens een rondreis door de regio merkte Turgot al snel de slechte staat van de wegen op. Hij verving de corvée door een monetaire belasting.
-- Het rekruteren van **milities**, boerenlegers die in tijden van oorlog gemobiliseerd werden.
-
-
-![image](assets/nl/081.webp)
-
-
-Dit werd gedaan door loting, wat leidde tot angst en geweld vanwege weglopers; Turgot verving deze verplichte heffingen door betaalde vrijwilligers.
+Deze hervormingen waren onmiskenbaar succesvol, en in juli 1774 werd Turgot tot minister benoemd. Vanwege zijn gebrek aan ervaring plaatste de koning hem eerst bij het Ministerie van de Marine. De benoeming amuseerde velen. Turgot zelf gaf toe: "Ik weet niets van de Marine", en Voltaire merkte op: "Ik denk niet dat Turgot meer zeeman is dan ik".
 
 
-Deze hervormingen waren onmiskenbaar succesvol en in juli 1774 werd Turgot benoemd tot minister. Vanwege zijn gebrek aan ervaring plaatste de koning hem eerst op het ministerie van Marine. De benoeming amuseerde velen. Turgot gaf zelf toe: "Ik weet niets van de marine", en Voltaire merkte op: "Ik denk niet dat Turgot meer zeeman is dan ik".
+### Zes edicten om Frankrijk te hervormen
 
+Slechts een maand later werd Turgot echter benoemd tot controleur-generaal van Financiën, waarmee hij feitelijk de minister van economie en financiën van Frankrijk werd.
 
+We kennen de brief waarin hij zijn beginselen aan Lodewijk XVI uiteenzette: "Geen faillissement. Geen belastingverhogingen. Geen nieuwe leningen". Deze filosofie, die critici vandaag misschien zinloze "strengheid" zouden noemen, was bedoeld om de monarchie te redden.
 
-Slechts een maand later werd Turgot echter benoemd tot controleur-generaal van financiën, waarmee hij in feite de Franse minister van economie en financiën werd.
+![Grievenboek van de baljuwschap van Nemours, Edit du Roy](assets/en/082.webp)
 
-
-We kennen de brief waarin hij zijn principes uiteenzette voor Lodewijk XVI: "Geen faillissement. Geen belastingverhogingen. Geen nieuwe leningen". Deze filosofie, die critici vandaag de dag als zinloze "strengheid" zouden bestempelen, was bedoeld om de monarchie te redden.
-
-
-![image](assets/nl/082.webp)
-
-
-Turgot bereidde zes koninklijke edicten voor om de Franse economie te hervormen.
+Turgot stelde zes koninklijke edicten op om de Franse economie te hervormen.
 
 
 
+Het was de eerste (en een van de allerlaatste) keer dat een economisch deskundige de vrijheid kreeg om de economie van zijn land te hervormen. Drie van Turgots edicten springen eruit: één schafte de verplichte arbeid (corvées) af, een tweede ontbond de handelsgilden (corporaties), en het derde vestigde vrijhandel in graan.
+
+### De val van de gouden eeuw
+
+Bij zijn aantreden als minister wist Turgot dat hij op weerstand zou stuiten van de bevoorrechte klassen. "Ik zal gevreesd, zelfs gehaat worden door het merendeel van het hof en door allen die gunsten zoeken", zei hij tegen de koning. De bevoorrechten verenigden zich al snel tegen hem en brachten zijn ontslag als controleur-generaal van Financiën teweeg. Voltaire, die Turgots hervormingen volledig steunde, schreef in zijn correspondentie:
+
+> Ach! Wat een verschrikkelijk nieuws heb ik gehoord! Wat zal er van ons worden? Ik ben verwoest! We zullen nooit herstellen van het feit dat we getuige zijn geweest van de geboorte en de dood van de gouden eeuw! Deze donderslag heeft zowel mijn geest als mijn hart getroffen.
+
+![Voltaire, Lodewijk XVI](assets/en/083.webp)
+
+Sindsdien hebben velen beweerd dat Frankrijk een land is dat onmogelijk te hervormen valt. Turgots mislukking leek dit te bevestigen: hij was voorbereid door een halve eeuw liberaal economisch denken; hij had de steun van Verlichtingsfilosofen; en de koning zelf, met absolute macht, steunde hem.
 
 
-Het was de eerste - en een van de allerlaatste - keren dat een economisch expert de vrijheid kreeg om de economie van zijn land te hervormen. Drie edicten van Turgot springen eruit: één schafte dwangarbeid (corvées) af, een andere ontbond de handelsgilden (corporaties) en de derde stelde de vrije handel in graan in.
-
-
-Toen Turgot zijn ambt aanvaardde, wist hij dat hij op weerstand van de bevoorrechte klasse zou stuiten. "Ik zal gevreesd en zelfs gehaat worden door het grootste deel van het hof en door iedereen die gunsten zoekt", zei hij tegen de koning. De bevoorrechten verenigden zich al snel tegen hem en zorgden ervoor dat hij ontslagen werd als Controleur-generaal van Financiën. Voltaire, die de hervormingen van Turgot volledig steunde, schreef in zijn briefwisseling:
-
-
-> Wat een vreselijk nieuws heb ik gehoord! Wat zal er van ons worden? Ik ben er kapot van! We zullen nooit herstellen van de geboorte en dood van de gouden eeuw! Deze bliksemschicht heeft zowel mijn geest als mijn hart getroffen.
-
-![image](assets/nl/083.webp)
-
-
-Sindsdien hebben velen beweerd dat Frankrijk onmogelijk te hervormen is. De mislukking van Turgot leek dit te bevestigen: Hij was voorbereid door een halve eeuw liberaal economisch denken; hij had de steun van Verlichtingsfilosofen; en de koning zelf, met absolute macht, steunde hem.
-
-
-
-
-Uiteindelijk wonnen de parlementsleden en de bevoorrechte klasse. Het enige wat de koning kon doen was in zijn eentje klagen: "Ik zie nu dat alleen Monsieur Turgot en ik om het volk geven."
-
+Uiteindelijk wonnen de parlementen en de bevoorrechte klassen. Al wat de koning kon doen, was in stilte betreuren: "Ik zie nu dat alleen meneer Turgot en ik om het volk geven."
 
 ## Condillac
 
-
 <chapterId>0ba8dbb5-dcd5-5981-bf85-6c185e0bf192</chapterId>
 
+### Montaignes drogreden en de nulsomdwaling
 
-Net als het mercantilisme, dat de meest voor de hand liggende praktische manifestatie ervan is, duurde het lang voordat Montaigne's drogreden verdween.
+Net als het mercantilisme, de meest voor de hand liggende praktische uiting ervan, deed Montaignes drogreden er lang over om te verdwijnen.
 
+![Michel de Montaigne, Étienne Bonnot de Condillac](assets/en/084.webp)
 
-![image](assets/nl/084.webp)
+Die drogreden is het idee dat handel en ruil nulsomspelen zijn. Wat de ene partij bij een transactie wint, gaat noodzakelijkerwijs verloren voor de andere partij. Aanhangers ervan betogen dat dit zowel geldt tussen individuen als tussen naties.
 
-
-Die drogreden is het idee dat handel en Exchange een nulsomspel zijn. Wat de ene partij bij een transactie wint, gaat de andere partij ook verliezen. Voorstanders beweren dat dit zowel geldt tussen individuen als tussen naties.
-
-
-Abt van Condillac speelde een belangrijke rol in de definitieve ontmanteling van dit valse idee.
+Abt van Condillac speelde **een belangrijke rol bij het definitief ontmantelen van dit onjuiste idee**.
 
 
 
+"Definitief" is misschien een overdrijving, want in het publieke debat duikt deze drogreden regelmatig weer op. Dit is misschien ook de reden waarom Condillac een weinig bekende econoom blijft. Afgezien van Oostenrijkse economen hebben weinigen het belang van zijn ruiltheorie begrepen; niemand interesseert zich nog voor hem.
 
+Voor de meeste historici van het economisch denken wordt het jaar 1776 gekenmerkt door de publicatie van [*The Wealth of Nations*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289), dat de economische wetenschap grondvestte. De vijftien lessen die we zojuist hebben doorlopen, waarin we de Franse economische wetenschap vóór Adam Smith hebben bestudeerd, volstaan om de fout van deze opvatting aan te tonen. In datzelfde jaar 1776 verscheen bovendien nog een ander boek dat wellicht meer lof van historici verdient dan dat van Adam Smith: het werd geschreven door Condillac en draagt eenvoudigweg de titel [*Le commerce et le gouvernement considérés relativement l'un à l'autre*](https://planb.academy/resources/books/condillac-le-commerce-et-le-gouvernement-5e397405-e066-43bc-82df-1017c1fb63ae) ("Handel en bestuur, in hun onderlinge betrekking beschouwd").
 
-"Definitief" is misschien overdreven, want in het publieke debat duikt deze drogreden vaak weer op. Dit is misschien de reden waarom Condillac een weinig bekende econoom blijft. Afgezien van Oostenrijkse economen hebben weinigen het belang van zijn theorie van Exchange begrepen, niemand interesseert zich meer voor hem.
+![Condillac, Handel en bestuur](assets/en/085.webp)
 
+### Ruil als wederzijds voordeel
 
-Voor de meeste historici van het economisch denken wordt het jaar 1776 gemarkeerd door de publicatie van *The Wealth of Nations*, waarmee de economische wetenschap werd opgericht. De vijftien lessen die we zojuist hebben afgerond, waarin we de Franse economische wetenschap vóór Adam Smith hebben bestudeerd, volstaan om de onjuistheid van deze opvatting te bewijzen. In datzelfde jaar 1776 verschijnt er bovendien een ander boek dat misschien wel meer lof verdient van historici dan het boek van Adam Smith: het is geschreven door Condillac en is eenvoudig getiteld [*Commerce and Government Considered in Their Mutual Relationship*](https://archive.org/details/commercegovernme0000cond).
+Voor Condillac zijn, als de drogreden van ruil als nulsomspel blijft bestaan, de fysiocraten daar deels debet aan, omdat zij stellen dat ruil een verhouding van gelijkheid is. Volgens Condillac is dit onjuist: ruil is een ongelijke verhouding, waarbij men altijd minder geeft om meer te krijgen.
 
+Tussen de ideeën van de fysiocraten en die van Condillac kon men zich geen volmaaktere tegenstelling voorstellen. De fysiocratische econoom Le Trosne schreef:
 
-![image](assets/nl/085.webp)
+> Ruil is naar haar aard een contract van gelijkheid, gemaakt van gelijke waarde voor gelijke waarde.
 
+Condillac daarentegen schreef:
 
-Voor Condillac, als de drogreden van Exchange gezien als een zero-sum game blijft bestaan, zijn de Fysiocraten medeschuldig, omdat zij volhouden dat Exchange een relatie van gelijkheid is. Volgens Condillac is dit onjuist: Exchange is een ongelijke relatie, waarbij men altijd minder geeft om meer te krijgen.
+> Elke partij bij het contract geeft altijd iets van mindere waarde om iets van grotere waarde te verkrijgen.
 
-
-Tussen de ideeën van de Fysiocraten en die van Condillac is geen perfectere tegenstelling denkbaar. De fysiocratische econoom Le Trosne schreef:
-
-
-> Exchange is van nature een Contract van gelijkheid, gemaakt van gelijke waarde voor gelijke waarde.
-
-Condillac, aan de andere kant, schreef:
-
-
-> Elke partij bij de Contract geeft altijd iets van mindere waarde om iets van grotere waarde te verkrijgen.
-
-De tegenstelling is echter vooral een kwestie van woorden. Beiden zijn het erover eens dat wanneer men een frank inruilt voor een boek, het boek een frank waard is, of dat de prijs van het boek een frank is.
+De tegenstelling is echter grotendeels een kwestie van woorden. Beiden zijn het erover eens dat wanneer men een frank ruilt voor een boek, het boek een frank waard is, of de prijs van het boek een frank is.
 
 
 
+Het verschil zit hem in het feit dat Condillac stelt dat, omdat we een frank voor het boek ruilen, dit betekent dat voor ons de waarde van het boek hoger is dan die van onze frankmunt. We verkiezen het boek boven de munt, en daarom gaan we tot de ruil over.
 
+Condillacs theorie is niet fundamenteel tegenstrijdig met die van de fysiocraten, maar zij spreken bij wijze van spreken niet dezelfde taal. Le Trosne spreekt van prijs terwijl Condillac van waarde spreekt, en omgekeerd.
 
-Het verschil zit hem in het feit dat Condillac beweert dat, omdat we Exchange een frank voor het boek geven, dit betekent dat voor ons de waarde van het boek hoger is dan die van onze munt van één frank. Wij verkiezen het boek boven de munt en daarom maken we de Exchange.
+Waar Condillac gelijk heeft, is dat als de prijzen van de twee geruilde goederen gelijk zijn, de waarden dat niet zijn, want anders zou er geen ruil plaatsvinden.
 
-
-De theorie van Condillac is niet fundamenteel in tegenspraak met die van de Fysiocraten, maar ze spreken niet dezelfde taal, om het zo maar te zeggen. Le Trosne heeft het over prijs terwijl Condillac het over waarde heeft, en omgekeerd.
-
-
-Waar Condillac gelijk in heeft is dat als de prijzen gelijk zijn tussen de twee uitgewisselde goederen, de waarden niet gelijk zijn, anders zou er geen Exchange plaatsvinden.
-
+### Drie stellingen die de economie veranderden
 
 Om Condillacs theorie samen te vatten, kunnen drie stellingen worden opgesomd:
 
+Eerste stelling: we zoeken goederen om hun nut. Dit lijkt vanzelfsprekend, maar het is een centraal beginsel van de economische wetenschap dat mensen ruilen om nut te verwerven, een punt dat ook Jean-Baptiste Say voortreffelijk uitwerkte.
 
-Eerste stelling: we zoeken goederen vanwege hun nut. Dit lijkt voor de hand liggend, maar het is een centraal principe van de economische wetenschap dat mensen Exchange gebruiken om nut te verwerven, een punt dat Jean-Baptiste Say ook perfect heeft uitgewerkt.
+![Jean-Baptiste Say](assets/en/086.webp)
 
+Tweede stelling: waarde bestaat vooraf en drijft ruil aan. Het subjectieve oordeel dat iedereen over goederen en diensten velt, houdt in dat diezelfde goederen en diensten voor hem een waarde hebben, meer of minder naargelang het nut dat zij lijken te bieden. Vanzelfsprekend oordeelt elk individu anders dan een ander, en de waarde varieert van persoon tot persoon.
 
-![image](assets/nl/086.webp)
+Ten slotte, derde stelling: prijs is het gevolg van het ruilproces. Producten worden niet geruild tegen de waarde die ik eraan toeken, omdat de voorwaarden van de ruil ook afhangen van de subjectieve waarde die de verkoper aan die producten toekent. De verhouding tussen koper en verkoper, of tussen de subjectieve waardering van de koper en die van de verkoper, bepaalt een prijs.
 
+Deze ideeën van Condillac zijn fundamenteel. Ze stellen ons in staat te begrijpen waarom elke ruil altijd wederzijds voordelig is.
 
-Tweede stelling: waarde bestaat al en motiveert uitwisselingen. Het subjectieve oordeel dat elk individu velt over goederen en diensten impliceert dat diezelfde goederen en diensten een waarde voor hen hebben, die meer of minder waard is naargelang het nut dat ze lijken te verschaffen. Natuurlijk oordeelt elk individu anders dan een ander en verschilt de waarde van persoon tot persoon.
-
-
-Ten slotte, derde stelling: prijs is het gevolg van het Exchange proces. Producten Exchange niet tegen de waarde die ik eraan toeschrijf omdat de voorwaarden van Exchange ook afhangen van de subjectieve waarde die de verkoper aan die producten toeschrijft. De relatie tussen koper en verkoper, of tussen de subjectieve waardering van de koper en de subjectieve waardering van de verkoper, bepaalt een prijs.
-
-
-Deze ideeën van Condillac zijn fundamenteel. Ze stellen ons in staat te begrijpen waarom elke Exchange altijd wederzijds voordelig is.
-
-
-De kritiek op vrijhandel wordt hierdoor volledig tenietgedaan, omdat protectionisme slechts een mechanisme is dat verhindert dat bevolkingen van elkaar profiteren. Laissez-faire is ook de conclusie van het werk van Condillac. Laat mensen doen wat ze willen, want als de publieke macht vrijheid en eigendom beschermt, zullen mensen elkaar altijd verrijken door samen te ruilen.
-
+Zij ontkrachten daarmee volledig de kritiek op vrijhandel, aangezien protectionisme slechts verschijnt als een mechanisme dat verhindert dat bevolkingen elkaar wederzijds ten goede komen. Laissez-faire is ook de conclusie van Condillacs werk. Laat de mensen doen wat hen goeddunkt, want als de openbare macht vrijheid en eigendom beschermt, zullen mensen elkaar altijd verrijken door met elkaar te ruilen.
 
 ## Condorcet
 
-
 <chapterId>99e4aba6-da7f-5041-b02f-337158381515</chapterId>
 
+### Een filosoof aangetrokken tot economie
 
-Condorcet is ongetwijfeld de meest economisch ingestelde filosoof van de Verlichting.
-
-
-
-![image](assets/nl/087.webp)
+Condorcet is ongetwijfeld **de meest economisch ingestelde filosoof van de Verlichting**.
 
 
-Voor een groot deel van zijn carrière wijdde hij zich aan gebieden die niets met economie te maken hadden, en terecht, want zijn talenten leidden tot grote vooruitgang in de wetenschappen waar hij zich het meest op richtte. Maar rond 1770 voelde hij zich aangetrokken tot economische vraagstukken, misschien omdat andere filosofen, vooral Voltaire en Diderot, niet de moeite namen om hun vrije tijd hieraan te wijden, en ook omdat hij bevriend was geraakt met Turgot.
+![Nicolas de Condorcet](assets/en/087.webp)
+
+Een groot deel van zijn loopbaan wijdde hij aan terreinen die geheel losstonden van economie, en terecht, want zijn talenten leidden tot grote vooruitgang in de wetenschappen waarop hij zich het meest richtte. Maar rond 1770 voelde hij zich aangetrokken tot economische vraagstukken, misschien omdat andere filosofen, vooral Voltaire en Diderot, zich niet de moeite namen om er hun vrije tijd aan te wijden, en ook omdat hij bevriend was geraakt met Turgot.
 
 
-
-Condorcet omarmde geleidelijk ideeën van laissez-faire en vrijheid, aanvankelijk op gebieden die niets te maken hadden met politieke economie. In zijn "Brief van een theoloog" drijft hij de filosofische spot met de katholieke godsdienst en uit hij zijn wens voor echte vrijheid van geloof, inclusief de vrijheid om niet te geloven. In zijn kruistocht voor tolerantie en tegen religieus fanatisme streed Condorcet voor de rehabilitatie van Chevalier de la Barre en voor het nieuwe proces tegen D'Etallonde, die ter dood was veroordeeld voor het breken van een kruisbeeld.
-
+Condorcet omarmde geleidelijk ideeën van laissez-faire en vrijheid, aanvankelijk op terreinen die niets met de politieke economie te maken hadden. In zijn *Lettre d'un théologien*, bespotte hij filosofisch de katholieke godsdienst en uitte hij zijn wens naar oprechte geloofsvrijheid, met inbegrip van de vrijheid om niet te geloven. In zijn kruistocht voor verdraagzaamheid en tegen religieus fanatisme streed Condorcet voor de rehabilitatie van de chevalier de la Barre en voor het opnieuw berechten van D'Etallonde, die ter dood was veroordeeld wegens het breken van een kruisbeeld.
 
 
-Hij was dus voorbereid om de vrijheid te verdedigen toen zijn vriend Turgot de functie van controleur-generaal van financiën kreeg.
+Zo was hij voorbereid om de vrijheid te verdedigen toen zijn vriend Turgot de functie van controleur-generaal van Financiën bereikte.
 
 
+![Anne Robert Jacques Turgot](assets/en/088.webp)
 
-![image](assets/nl/088.webp)
+### Verdediger van Turgots hervormingen
 
+Vanaf dat moment sloeg Condorcets loopbaan een nieuwe weg in, toen hij zich in het economisch debat begaf en onvermoeibaar de liberale hervormingen van de nieuwe minister steunde. Condorcet, die concurrentie en vrijheid van handel bevoorrechtte, riep ook op tot afschaffing van de corvées (verplichte arbeid), de gilden en tot rechtvaardige belastingheffing. Hij uitte deze overtuigingen publiekelijk zodra de gelegenheid zich voordeed, en dat met duidelijk enthousiasme; hij schreef veelvuldig en verklaarde eens in zijn geschriften: "Sta mij toe opnieuw te spreken over de vrijheid van handel; ik geniet ervan dit onderwerp te behandelen."
 
-Vanaf dat moment nam Condorcets carrière een wending toen hij zich in het economische debat begaf en onvermoeibaar de liberale hervormingen van de nieuwe minister steunde. Condorcet was voorstander van concurrentie en vrijheid van handel en riep ook op tot de afschaffing van corvées (dwangarbeid), gilden en eerlijke belastingen. Hij sprak deze overtuigingen in het openbaar uit wanneer de gelegenheid zich voordeed, en deed dat met duidelijk enthousiasme; hij schreef veel en verklaarde eens in zijn geschriften: "Sta me toe om opnieuw te spreken over de vrijheid van handel; ik vind het leuk om me met dit onderwerp bezig te houden."
+Tussen 1774 en 1776, tijdens Turgots ministerschap, deed Condorcet talloze uitspraken, alle getekend door zijn toewijding aan laissez-faire. Zijn werken omvatten *Lettres d'un cultivateur de Picardie à M. Necker*, ter verdediging van vrijhandel; *Monopoles et monopoleurs*, ter verdediging van vrije concurrentie; *Réflexions sur les corvées*, met een oproep tot afschaffing ervan; en *Réflexions sur le commerce des blés*, dat opnieuw vrijhandel prijst en Neckers boek over hetzelfde onderwerp bekritiseert.
 
+In zijn [*Lettres sur le commerce des grains*](https://archive.org/details/bub_gb_hg8jFw-y6bwC) maakt Condorcet verscheidene belangrijke punten.
 
-Tussen 1774 en 1776, tijdens het ministerschap van Turgot, hield Condorcet talrijke interventies, allemaal gekenmerkt door zijn Commitment voor laissez-faire. Zijn werken omvatten onder andere *Brieven van een boer uit Picardië aan de heer Necker*, waarin hij de vrije handel verdedigt; *Monopolies en monopolisten*, waarin hij de vrije concurrentie bepleit; *Reflections on Corvées*, waarin hij oproept tot de afschaffing ervan; en *Reflections on the Grain Trade*, waarin hij opnieuw de vrije handel prijst en kritiek levert op het boek van Necker over hetzelfde onderwerp.
+![Galiani, "Lettres sur le commerce des grains"](assets/en/089.webp)
 
-
-In zijn [*Brieven over de graanhandel*](https://archive.org/details/bub_gb_hg8jFw-y6bwC) maakt Condorcet verschillende belangrijke punten.
-
-
-![image](assets/nl/089.webp)
-
-
-Ten eerste waren de hoge graanprijzen in die tijd niet het gevolg van vrije handel, maar van slechte oogsten, en Condorcet laat dit duidelijk zien. Vervolgens legt hij uit waarom laissez-faire niet alleen het juiste, maar zelfs het enige geschikte beleid is, ondanks populaire vooroordelen. Hij merkt op: "We zijn er zo aan gewend dat de overheid ingrijpt in de graanhandel dat niets doen iets buitengewoons en nieuws lijkt. Later voegt hij eraan toe: "Bijna iedereen, vooral zij die een openbaar ambt bekleden, geloven dat niets vanzelf gebeurt en dat alles verloren is als de overheid niet overal tussenkomt". Condorcet herleeft dus de argumenten van de Fysiocraten en Turgot en toont de superioriteit van vrije handel boven alle vormen van interventionisme.
+Ten eerste waren de hoge graanprijzen van die tijd niet het gevolg van vrijhandel, maar van slechte oogsten, en Condorcet toont dit duidelijk aan. Vervolgens legt hij uit waarom laissez-faire niet alleen passend, maar het enige geschikte beleid is, ondanks het volksvooroordeel. Hij merkt op: "We zijn zo gewend geraakt aan overheidsingrijpen in de graanhandel, dat niets doen buitengewoon en nieuw lijkt". Verderop voegt hij eraan toe: "Bijna iedereen, vooral degenen die een openbaar ambt bekleden, gelooft dat niets vanzelf gebeurt en dat alles verloren is als de overheid zich niet overal mee bemoeit". Condorcet doet zo de argumenten van de fysiocraten en Turgot herleven, en toont de superioriteit van vrijhandel aan boven alle vormen van interventionisme.
 
 
-
-Het promoten van de liberale economische agenda van Turgot was een moedige daad, want Condorcet wist dat hij snel met censuur te maken zou krijgen. Dit gebeurde inderdaad en zijn pamflet over de afschaffing van dwangarbeid werd in 1776 vernietigd en verboden.
-
+Turgots liberale economische agenda bevorderen was een moedige daad, want Condorcet wist dat hij snel met censuur te maken zou krijgen. Dit gebeurde inderdaad, en zijn pamflet over de afschaffing van verplichte arbeid werd in 1776 vernietigd en verboden.
 
 
-Turgot waardeerde Condorcets loyale verdediging van zijn ideeën en benoemde hem tot inspecteur van de muntslag. Condorcet nam ontslag zodra zijn vriend het ministerie verliet.
+Turgot, die Condorcets loyale verdediging van zijn ideeën waardeerde, benoemde hem tot inspecteur van de Munt. Condorcet nam ontslag zodra zijn vriend het ministerie verliet.
+
+
+### De grenzen van hervorming in het prerevolutionaire Frankrijk
+
+Hoewel hij al zijn energie besteedde aan het verdedigen van Turgot, koesterde Condorcet geen illusies over de afloop van het ministerschap van zijn vriend. Turgot zelf gaf later in zijn leven toe dat hij met spijt leefde, zoals hij in een brief schreef: "omdat ik mijn natie en de mensheid niet het goede heb kunnen doen dat ik zo gemakkelijk achtte". Condorcet, realistischer, wees op de vele tegenstanders die Turgot zou treffen: de gunstelingen van de koning, de parlementen, de geestelijkheid, de adel, de gilden, enzovoort. Deze groepen verwachtten vleierij, geen hervorming. Condorcet zei tegen Turgot: "U bent geenszins een charlatan, en dat is een tekortkoming, gezien hoe de zaken in Parijs staan". Hij had volkomen gelijk, want in 1776, amper twee jaar na zijn aantreden, werd Turgot al gedwongen het ambt van controleur-generaal te verlaten.
 
 
 
-Hoewel hij al zijn energie wijdde aan het verdedigen van Turgot, maakte Condorcet zich geen illusies over de uitkomst van de ambtstermijn van zijn vriend. Turgot zelf gaf laat in zijn leven toe dat hij met spijt leefde, zoals hij in een brief schreef, "omdat hij niet in staat was geweest mijn natie en de mensheid een goed te doen waarvan ik dacht dat het heel gemakkelijk zou zijn". Condorcet, realistischer, wees op de vele tegenstanders waarmee Turgot te maken zou krijgen: de favorieten van de koning, de parlementen, de geestelijkheid, de adel, de gilden, enzovoort. Deze groepen verwachtten vleierij, geen hervorming. Condorcet zei tegen Turgot: "U bent zeker geen charlatan, en dat is een tekortkoming, gezien de situatie in Parijs". Hij had volkomen gelijk, want in 1776, amper twee jaar na zijn aankomst, werd Turgot al gedwongen om het Controleur-Generaalschap te verlaten.
-
-
-
-
-## Liberaal gezond verstand onder de revolutie
-
+## Liberaal gezond verstand tijdens de Revolutie
 
 <chapterId>95e9a90d-e37a-58ff-b1ac-928b42e76ecf</chapterId>
 
+### Tegen bankmonopolies
 
-Dupont de Nemours was de jongste leerling van François Quesnay, die ooit over hem zei: "We moeten voor deze jongeman zorgen, want hij zal spreken als wij dood zijn". Toen de Franse Revolutie begon, waren bijna alle grote fysiocraten, waaronder de markies de Mirabeau, al verdwenen; Mirabeau zelf was op 13 juli 1789 overleden.
+Dupont de Nemours was de jongste volgeling van François Quesnay, die ooit over hem zei: "We moeten voor deze jongeman zorgen, want hij zal spreken wanneer wij dood zijn". Toen de Franse Revolutie begon, waren bijna alle grote fysiocraten, waaronder de markies de Mirabeau, al overleden; Mirabeau zelf was op 13 juli 1789 gestorven.
+Dupont de Nemours schreef de klachtenlijst voor het baljuwschap van Nemours.
 
-Dupont de Nemours schreef de lijst met grieven voor het baljuwschap van Nemours.
+![Bijeenroeping van de Staten-Generaal in Versailles, 5 mei 1789, Champagney, "Klachtenlijst"](assets/en/090.webp)
 
-
-![image](assets/nl/090.webp)
-
-
-Dit fascinerende document bevatte alle klachten van liberale economen tegen handelsbeperkingen, monopolies en aanvallen op eigendom. Dupont de Nemours werd ook gekozen in de Nationale Vergadering.
+Dit fascinerende document bevatte alle klachten van liberale economen tegen handelsbeperkingen, monopolies en aanvallen op eigendom. Dupont de Nemours werd ook verkozen tot lid van de Nationale Vergadering.
 
 
+Tijdens de Revolutie werd hij **de stem van het liberale gezonde verstand**, standvastig tegenover de groeiende golf van populisme en interventionistische demagogie, die uiteindelijk de overhand kreeg.
+
+Al in november 1789, toen er sprake was van het verlenen van een monopolie aan de Caisse d'Escompte (die zo een openbare bank kon worden, de Bank van Frankrijk), sprak Dupont de Nemours zich uit voor concurrentie.
 
 
-Tijdens de Revolutie werd hij de stem van het liberale gezond verstand, die stand hield tegen de groeiende stroom van populisme en interventionistische demagogie, die uiteindelijk de overhand kreeg.
+![Dupont de Nemours, "Speech to the National Assembly", 1789](assets/en/091.webp)
 
+"Het zou beter zijn", zegt hij, "om het bankbedrijf over te laten aan de wetten van de vrije handel". En hij voegt eraan toe:
 
-Al in november 1789, toen er sprake was van het verlenen van een monopolie aan de Caisse d'Escompte (waardoor deze in een openbare bank - de Bank van Frankrijk - zou kunnen veranderen), verdedigde Dupont de Nemours de concurrentie.
+> Ik begrijp niet wat de minister bedoelde toen hij sprak over het verlenen van een privilege aan de Caisse d'Escompte. Als dit privilege exclusiviteit inhoudt, moet u het verwerpen, want u bent hier gekomen om exclusieve privileges af te schaffen, niet om nieuwe te scheppen.
 
-
-
-![image](assets/nl/091.webp)
-
-
-"Het zou beter zijn", zegt hij, "om het bankwezen over te laten aan de wetten van de vrije handel". En hij voegt eraan toe:
-
-
-> "Ik begrijp niet wat de minister bedoelde toen hij sprak over het verlenen van een privilege aan de Caisse d'Escompte. Als dit privilege exclusiviteit inhoudt, moet u het verwerpen, want u bent hier gekomen om exclusieve privileges te vernietigen, niet om nieuwe te creëren."
-
-Ondanks zijn waarschuwingen negeerde de Assemblee zijn bezwaren en zette een nieuwe stap in de richting van de oprichting van een centrale bank en een bankmonopolie.
-
-In 1790, tijdens de grondwetgevende vergadering, volgde Dupont de Nemours de pacifistische traditie van zijn fysiocratische vrienden en stelde een wet voor die offensieve oorlogen verbood. Het eerste artikel luidde: "De Franse natie zal zich niet toestaan een offensieve oorlog te voeren om het grondgebied van anderen in beslag te nemen of inbreuk te maken op de rechten of vrijheid van een natie".
-
+Ondanks zijn waarschuwingen negeerde de Vergadering zijn bezwaren en zette zij nog een stap richting de vestiging van een centrale bank en een bankmonopolie.
+In 1790 volgde Dupont de Nemours bij de Grondwetgevende Vergadering de pacifistische traditie van zijn fysiocratische vrienden en stelde hij een wet voor die aanvalsoorlogen zou verbieden. Het eerste artikel luidde: "De Franse Natie zal zichzelf niet toestaan enige aanvalsoorlog te voeren om het grondgebied van anderen in te nemen of de rechten of vrijheid van enige Natie te schenden".
 
 Dit voorstel werd verworpen.
 
+### De strijd tegen de assignaten
 
-Datzelfde jaar, 1790, begonnen de discussies over de uitgifte van nieuw papiergeld om de overheidsuitgaven te dekken.
-
-Dupont de Nemours was hier fel op tegen en publiceerde een pamflet met de titel [*Effecten van assignaten op de prijs van brood*](https://archive.org/details/effetdesassignat00dupo). De titel was correct, want hij legde uit dat het uitgeven van assignats onvermijdelijk zou leiden tot inflatie, een stijging van de prijzen van grondstoffen, waaronder brood.
-
-
-
-![image](assets/nl/092.webp)
+Datzelfde jaar, 1790, begonnen de debatten over de uitgifte van nieuw papiergeld om de overheidsuitgaven te dekken.
+Dupont de Nemours verzette zich hier krachtig tegen en publiceerde een pamflet getiteld [*Effets des assignats sur le prix du pain*](https://archive.org/details/effetdesassignat00dupo) ("De gevolgen van de assignaten voor de broodprijs"). De titel bleek juist, want hij legde uit dat de uitgifte van assignaten onvermijdelijk tot inflatie zou leiden, tot een stijging van de prijzen van goederen, waaronder brood.
 
 
-Hij ondertekende het pamflet als "een vriend van het volk". Het stuk veroorzaakte nogal wat opschudding, want de Assemblee werd gevraagd wie het had geschreven. Dupont de Nemours stond toen op en gaf toe dat het zijn werk was. Hij zei dat hij zich niet schaamde om de titel "vriend van het volk" te gebruiken, omdat de strijd tegen de assignaten echt een dienst aan het volk was.
+![Dupont de Nemours, "Effet des assignats sur le prix du pain"](assets/en/092.webp)
 
-Opnieuw werd zijn advies genegeerd en werden de assignaten uitgegeven.
-
-
-
-![image](assets/nl/093.webp)
+Hij ondertekende het pamflet als "een vriend van het volk". Het stuk veroorzaakte behoorlijk wat ophef, want de Vergadering vroeg zich af wie het had geschreven. Dupont de Nemours stond toen op en gaf toe dat het zijn werk was, en zei dat hij zich niet schaamde voor de titel "vriend van het volk", omdat de strijd tegen de assignaten werkelijk het volk diende.
+Opnieuw werd zijn advies genegeerd, en de assignaten werden uitgegeven.
 
 
-We kennen allemaal de ramp die volgde, de economische ondergang en het lijden van de mensen, van wie velen alles verloren toen de assignaten waardeloos werden en verbrand moesten worden.
+![Assignaat van 100](assets/en/093.webp)
 
-Een paar jaar later richtte de Assemblee zich op het idee om een echte Bank van Frankrijk op te richten, een bank die het monopolie zou krijgen op de productie van geld.
+We kennen allemaal de ramp die volgde, de economische ondergang en het lijden van het volk, van wie velen alles verloren toen de assignaten waardeloos werden en verbrand moesten worden.
+### Een profeet zonder toehoorders
 
+Enkele jaren later richtte de Vergadering haar aandacht op het idee om een echte Bank van Frankrijk op te richten, die een monopolie zou krijgen op de geldproductie.
 
-Dupont de Nemours, die nog steeds fel gekant was tegen het idee van een openbare bank omdat hij het niets anders vond dan een monopolie, herinnerde de Vergadering aan de rampzalige ervaring van de assignaten. Hij vertelde hen:
-
-
-
-> "Bereid je niet voor op spijtbetuigingen zoals die mijn collega's in de Grondwetgevende Vergadering hebben gekweld. Mijn voorstel om de assignats te beperken tot de betaling van nationale goederen en er geen circulatiemunt van te maken, werd destijds verworpen. Vandaag zeggen ze: 'Hadden we maar naar Dupont de Nemours geluisterd!
-
-Maar weer luisterde er niemand naar hem.
+Dupont de Nemours, nog steeds fel gekant tegen het idee van een openbare bank, die hij als niets meer dan een monopolie beschouwde, herinnerde de Vergadering aan de rampzalige ervaring met de assignaten. Hij zei tegen hen:
 
 
-## Conclusie: De fakkel doorgeven
+> Bereid u niet voor op spijt zoals die welke mijn collega's in de Grondwetgevende Vergadering kwelde. Destijds werd mijn voorstel om de assignaten te beperken tot betaling voor nationale goederen en ze niet tot circulerende munt te maken, verworpen. Vandaag zeggen ze: 'Ach, hadden we maar naar Dupont de Nemours geluisterd!'
 
+Maar opnieuw luisterde niemand naar hem.
+
+## Conclusie: de fakkel doorgeven
 
 <chapterId>ada8082f-db96-5e52-954f-719b47998153</chapterId>
 
+### De vergeten grondslagen
 
-Het Franse economische denken in de 18e eeuw wordt vaak overschaduwd door de bekendere economen uit de 19e eeuw. Maar als het gaat om de verdediging van vrijheid, is het de 18e eeuw waar alles echt begint. Dit is de eeuw waarin het principe van laissez-faire, zo revolutionair in zijn tijd, voor het eerst duidelijk werd verwoord door een aantal denkers, van Boisguilbert tot Dupont de Nemours.
+Het Franse economische denken van de 18e eeuw wordt vaak overschaduwd door de beroemdere economen van de 19e eeuw. Toch begint, waar het gaat om de verdediging van vrijheid, alles werkelijk in de 18e eeuw. Dit is de eeuw waarin het beginsel van laissez-faire, in zijn tijd zo revolutionair, voor het eerst duidelijk werd verwoord door een reeks denkers, van Boisguilbert tot Dupont de Nemours.
+Zeker, figuren zoals Jean-Baptiste Say, [Frédéric Bastiat](https://planb.academy/resources/books/bastiat-oeuvres-completes-765be39c-134a-4333-8b4b-e45a4fff7e73), [Gustave de Molinari](https://planb.academy/resources/books/molinari-oeuvres-completes-8a3dbdd8-2053-45bc-9203-dd3b7f3edfee), en Yves Guyot lieten een blijvend spoor na in de geschiedenis van het Franse economische denken. Maar als we hen geïsoleerd bestuderen, missen we iets wezenlijks. Deze 19e-eeuwse denkers ontstonden niet uit het niets; zij erfden en bouwden voort op de grondslagen die hun 18e-eeuwse voorgangers tijdens de Verlichting hadden gelegd.
 
-Zeker, figuren als Jean-Baptiste Say, Frédéric Bastiat, Gustave de Molinari en Yves Guyot hebben een blijvend stempel gedrukt op de geschiedenis van het Franse economische denken. Maar als we ze geïsoleerd bestuderen, missen we iets essentieels. Deze 19e-eeuwse denkers kwamen niet uit het niets; ze erfden en bouwden voort op de fundamenten die hun 18e-eeuwse voorgangers tijdens de Verlichting hadden gelegd.
+### Zes beginselen die de moderne economie vormden
 
-
-Boisguilbert beweert dat goedbedoelende zielen die denken dat ze alles kunnen oplossen door de overheid erbij te betrekken de economie onvermijdelijk op zijn kop zetten en dat het daarom beter is om de natuurlijke gang van zaken zijn gang te laten gaan.
-
-
-
-![image](assets/nl/094.webp)
+Boisguilbert stelt dat goedbedoelende zielen, die menen alles te kunnen oplossen door de overheid erbij te betrekken, de economie onvermijdelijk op zijn kop zetten, en dat het daarom beter is de natuurlijke orde der dingen haar loop te laten.
 
 
-Cantillon stond erop dat geld nooit voor politieke doeleinden gemanipuleerd mocht worden. Door de staat toe te staan geld naar eigen goeddunken te beheren, wordt de weg vrijgemaakt voor enorme financiële en economische wanorde.
+![Pierre Le Pesant de Boisguilbert, Cantillon, "Essay on the nature of commerce in general", Josiah Child, "A treatise on trade"](assets/en/094.webp)
 
+Cantillon hield vol dat geld nooit voor politieke doeleinden mag worden gemanipuleerd. De Staat toestaan geld naar believen te beheren, is de weg vrijmaken voor immense financiële en economische wanorde.
 
 
 
 
-
-Vincent de Gournay beweert dat overmatige regulering van arbeid de inspanningen van arbeiders en ambachtslieden ontmoedigt en hen in de richting van luiheid en inactiviteit drijft. Het is dankzij vrije concurrentie dat de economie kan groeien en een natie kan bloeien.
-
+Vincent de Gournay stelt dat buitensporige regulering van arbeid de inspanningen van arbeiders en ambachtslieden ontmoedigt, hen naar luiheid en inactiviteit drijft. Het is dankzij vrije concurrentie dat de economie kan groeien en een natie kan gedijen.
 
 
 
 
-
-De Markies d'Argenson beweert dat geen enkele regering in staat is om alles te voorzien en te meten en dat men daarom moet vertrouwen op het eigenbelang van elk individu.
-
+De markies d'Argenson stelt dat geen enkele regering in staat is alles te voorzien en te meten, en dat men zich bijgevolg moet verlaten op het eigenbelang van elk individu.
 
 
-![image](assets/nl/095.webp)
+![Quesnay, Condillac, D'Argenson](assets/en/095.webp)
 
-
-Quesnay en de Fysiocraten beweren dat privébezit het fundament is van menselijke samenlevingen. Zonder privébezit verliest de mens de motivatie om zich in te spannen, om te werken, omdat hij niet kan genieten van de vruchten van zijn arbeid en niets kan vergaren.
+Quesnay en de fysiocraten stellen dat privé-eigendom de grondslag van menselijke samenlevingen is. Zonder privé-eigendom verliest de mens de motivatie om zich in te spannen, om te werken, aangezien hij niet van de vruchten van zijn arbeid kan genieten of iets kan opbouwen.
 
 
 
-
-
-Condillac beweert dat Exchange altijd wederzijds voordelig is en daarom, zonder uitzondering, altijd vrij moet zijn. De enige missie van de staat moet het beschermen van vrijheid en eigendom zijn.
-
+Condillac stelt dat ruil altijd wederzijds voordelig is en daarom, zonder uitzondering, altijd vrij moet zijn. De enige taak van de Staat moet zijn vrijheid en eigendom te beschermen.
 
 
 
+### De fakkel doorgeven aan de 19e eeuw
 
-Al deze ideeën zouden worden overgenomen door de economen van de 19e eeuw. Sommigen, zoals Jean-Baptiste Say, zouden deze ideeën een wetenschappelijke uitdrukking geven door middel van een rigoureuze *Treatise on Political Economy*. Anderen daarentegen probeerden deze fundamentele stelregels populair te maken door zich te wagen aan verhalen, romans en grappige korte verhalen, zoals Frédéric Bastiat zo handig zou doen.
-
+Al deze ideeën zouden worden overgenomen door de economen van de 19e eeuw. Sommigen, zoals Jean-Baptiste Say, gaven deze ideeën een wetenschappelijke uitdrukking via een rigoureus *Traité d'économie politique*. Anderen probeerden juist deze fundamentele leerstellingen te populariseren door zich te wagen aan vertellingen, romans en vermakelijke korte verhalen, zoals Frédéric Bastiat zo bekwaam deed.
 
 ## Biografie
 
-
 <chapterId>17cf2865-e53c-5f3b-a5c2-a43560efaf01</chapterId>
-
 
 **SELECTIEVE BIBLIOGRAFIE**
 
+Hieronder vindt u een selectie van meer dan dertig geschriften:
 
-Hieronder vind je een selectie van meer dan dertig geschriften:
+### De voorlopers en vroege hervormers
 
-
-1. Pierre Clément, Histoire de Colbert et de son administration, Parijs, 1874
-
+1. Pierre Clément, Histoire de Colbert et de son administration, Paris, 1874
 2. Vauban, Projet d'une dîme royale, 1707; herdruk Institut Coppet, 2014; Anne Blanchard, Vauban, Fayard, 1996
-
-3.	Boisguilbert, Détail de la France, 1695; heruitgegeven door Institut Coppet, 2014
-
-4. Félix Cadet, Pierre de Boisguilbert: voorloper van de economen, Institut Coppet, 2014
-
-5. Pierre de Boisguilbert ou la naissance de l'économie politique, Parijs, INED, 1966
-
+3.	Boisguilbert, Détail de la France, 1695; opnieuw uitgegeven door Institut Coppet, 2014
+4. Félix Cadet, Pierre de Boisguilbert: precursor of the economists, Institut Coppet, 2014
+5. Pierre de Boisguilbert ou la naissance de l'économie politique, Paris, INED, 1966
 6. Richard Cantillon, Essai sur la nature du commerce en général, 1755; herdrukt door Institut Coppet, 2015
-
-7. Antoin Murphy, Richard Cantillon, bankier en econoom, Oxford, 1986
-
-8. Gustave de Molinari, De abt van Saint-Pierre, Parijs, 1859
-
-9. Abt van Saint-Pierre, Abrégé du projet de paix perpétuelle, Rotterdam, 1729
-
-10. Abt van Saint-Pierre, "Projet pour perfectionner le commerce de la France", in Les rêves d'un homme de bien, Parijs, 1775, p.199
-
+7. Antoin Murphy, Richard Cantillon, banker and economist, Oxford, 1986
+8. Gustave de Molinari, L'Abbé de Saint-Pierre, Paris, 1859
+9. Abbé de Saint-Pierre, Abrégé du projet de paix perpétuelle, Rotterdam, 1729
+10. Abbé de Saint-Pierre, "Projet pour perfectionner le commerce de la France", in Les rêves d'un homme de bien, Paris, 1775, p.199
 11. André Alem, Le marquis d'Argenson et l'économie politique au début du XVIIIe siècle, Institut Coppet, 2015
-
-12. Journal et mémoires du marquis d'Argenson, editie Rathery, 9 delen, Parijs, 1859-1867
-
-13. Benoît Malbranque, Vincent de Gournay: de politieke economie van laissez-faire, Institut Coppet, 2016
-
+12. Journal et mémoires du marquis d'Argenson, Rathery edition, 9 vols, Paris, 1859-1867
+13. Benoît Malbranque, [Vincent de Gournay: the political economy of laissez-faire](https://planb.academy/resources/books/benoit-malbranque-vincent-de-gournay-leconomie-pol-23fb1bac-21d6-432f-a4f3-69a359e48358), Institut Coppet, 2016
 14. Vincent de Gournay, Remarques sur la traduction de Josiah Child, L'Harmattan, 2008
-
 15. Christine Théré & Loïc Charles (eds.), Le cercle de Gournay, INED, 2005
+16. Antoin Murphy, "Le développement des idées économiques en France (1750-1756)", Revue d'histoire moderne et contemporaine, tome XXXIII, October-December 1986
+### De fysiocraten en hun wereld
 
-16. Antoin Murphy, "Le développement des idées économiques en France (1750-1756)", Revue d'histoire moderne et contemporaine, tome XXXIII, oktober-december 1986
-
-17. Henri Ripert, Le marquis de Mirabeau: ses théories politiques et économiques, Parijs, 1901
-
-18. Lucien Brocard, Les doctrines économiques et sociales du marquis de Mirabeau in L'Ami des Hommes, Parijs, 1902
-
+17. Henri Ripert, Le marquis de Mirabeau: ses théories politiques et économiques, Paris, 1901
+18. Lucien Brocard, Les doctrines économiques et sociales du marquis de Mirabeau in L'Ami des Hommes, Paris, 1902
 19. Humbert de Montlaur, Mirabeau, l'Ami des Hommes, Perrin, 1992
-
-20. Yves Guyot, François Quesnay en de fysiocratie, Institut Coppet, 2014
-
-21. François Quesnay, Œuvres économiques complètes et autres textes, 2 delen, INED, 2005
-
-22. Georges Weulersse, Le mouvement physiocratique en France (de 1756 à 1770), 2 delen, Parijs, 1910
-
+20. Yves Guyot, François Quesnay et la Physiocratie, Institut Coppet, 2014
+21. François Quesnay, Œuvres économiques complètes et autres textes, 2 vols, INED, 2005
+22. Georges Weulersse, Le mouvement physiocratique en France (de 1756 à 1770), 2 vols, Paris, 1910
 23. Georges Weulersse, La Physiocratie à la fin du règne de Louis XV (1770-1774), P.U.F., 1959
-
 24. Georges Weulersse, La Physiocratie sous les ministères de Turgot et de Necker (1774-1781), P.U.F., 1950
-
 25. Georges Weulersse, La physiocratie à l'aube de la révolution (1781-1792), EHESS, 1985
+26. P. Jolly, Du Pont de Nemours, soldat de la liberté, Paris, P.U.F., 1956
+### De verlichtingseconomen
 
-26. P. Jolly, Du Pont de Nemours, soldat de la liberté, Parijs, P.U.F., 1956
-
-27. De economische geschriften van Voltaire, Institut Coppet, 2013
-
-28. Gustave Schelle (ed.), Œuvres de Turgot et documents le concernant, Parijs, 1913-1924
-
+27. Voltaire's economic writings, Institut Coppet, 2013
+28. Gustave Schelle (ed.), [Œuvres de Turgot et documents le concernant](https://planb.academy/resources/books/turgot-oeuvres-completes-37fa0489-cabd-413c-9240-34d1663d0720), Paris, 1913-1924
 29. Benoît Malbranque, Le libéralisme à l'essai : Turgot intendant du Limousin (1761-1774), Institut Coppet, 2015
+30. Pierre Foncin, Essai sur le ministère de Turgot, Paris, 1877
+31. Auguste Lebeau, Condillac économiste, Paris, 1903
+32. Condillac, [Le commerce et le gouvernement considérés relativement l'un avec l'autre](https://planb.academy/resources/books/condillac-le-commerce-et-le-gouvernement-5e397405-e066-43bc-82df-1017c1fb63ae), 1776
+33. Condorcet, Mélanges d'économie politique, in Eugène Daire (ed.), Mélanges d'économie politique, Paris, 1847
+34. P. Jolly, Du Pont de Nemours, soldat de la liberté, Paris, P.U.F., 1956
+35. Eli Heckscher, Mercantilism, 2 vols. London: Allen and Unwin. 1935
 
-30. Pierre Foncin, Essai sur le ministère de Turgot, Parijs, 1877
-
-31. Auguste Lebeau, Condillac économiste, Parijs, 1903
-
-32. Condillac, Le commerce et le gouvernement considérés relativement l'un avec l'autre, 1776
-
-33. Condorcet, Mélanges d'économie politique, in Eugène Daire (red.), Mélanges d'économie politique, Parijs, 1847
-
-34. P. Jolly, Du Pont de Nemours, soldat de la liberté, Parijs, P.U.F., 1956
-
-35. Eli Heckscher, Mercantilisme, 2 delen. Londen: Allen and Unwin. 1935
-
-
-# Laatste deel
-
+# Slotgedeelte
 
 <partId>385bffab-aea1-5bcd-9569-62b3f30665b7</partId>
 
-
-## Beoordelingen
-
+## Beoordelingen & waarderingen
 
 <chapterId>a1e689d9-abd0-5dcb-ba56-a8d355d0a84f</chapterId>
-
 <isCourseReview>true</isCourseReview>
 
 ## Eindexamen
 
-
 <chapterId>bdb7fd98-33e7-11f0-9fe6-b785c859ffc5</chapterId>
-
 <isCourseExam>true</isCourseExam>
 
 ## Conclusie
 
-
 <chapterId>3b366ff6-03c8-5f6a-b4c0-ba8186e65d7e</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>

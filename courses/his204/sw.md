@@ -1,1762 +1,1334 @@
 ---
-name: Asili ya uchumi wa Laissez-Faire
-goal: Chunguza misingi ya mawazo ya kiuchumi wa kiliberali wa karne ya 18, ukizingatia mafundisho ya laissez-faire, wafikiri wake wakuu, na ushawishi wake endelevu.
+name: Asili ya Uchumi wa Laissez-Faire
+goal: Chunguza misingi ya mawazo ya kiuchumi ya kiliberali ya karne ya 18, kwa kuzingatia fundisho la laissez-faire, wanafikra wake wakuu, na ushawishi wake wa kudumu.
 objectives:
-- Kupata uelewa thabiti wa dhana muhimu za fikra za kiuchumi za ukombozi na jinsi zilivyobadilika wakati wa karne ya 18
-- Kuelewa hoja ambazo wafikiri walitengeneza dhidi ya uingiliaji wa Serikali
-- Kutathmini athari za fikra za laissez-faire katika kuunda maendeleo ya uchumi wa kisiasa wa kimataifa
-- Kuchunguza mvutano kati ya nadharia na vitendo katika utekelezaji wa uchumi wa ukombozi
+- Pata uelewa thabiti wa dhana kuu zilizo nyuma ya mawazo ya kiuchumi ya kiliberali na jinsi zilivyoendelea katika karne ya 18
+- Elewa hoja ambazo wanafikra walijenga dhidi ya uingiliaji kati wa Serikali
+- Tathmini athari za mawazo ya laissez-faire katika kuunda maendeleo ya uchumi wa kisiasa wa kimataifa
+- Chunguza mvutano kati ya nadharia na vitendo katika kutekeleza sera za kiuchumi za kiliberali
 ---
 # Safari katika Historia ya Kiuchumi ya Uhuru
 
-Kozi hii inachunguza kuzaliwa kwa sayansi ya uchumi katika Ufaransa wa karne ya 18 kupitia lenzi ya laissez-faire. Utagundua jinsi wafikiri walivyopinga merkantilismu kwa kuhoja kwamba Serikali inapaswa kulinda haki za kibinafsi, lakini kamwe isipaswi kudhibiti masoko kupitia kanuni.
+Kozi hii inachunguza kuzaliwa kwa sayansi ya uchumi katika Ufaransa ya karne ya 18 kupitia mtazamo wa laissez-faire. Utagundua jinsi wanafikra walivyopinga mercantilism kwa kusema kwamba Serikali inapaswa kulinda haki binafsi, lakini isiyadhibiti kamwe masoko kwa kanuni.
 
-Utajifunza jinsi wamageuzi wenye maono walivyopanua dira hii kudai biashara huru na mzunguko usio na vikwazo wa bidhaa, wakiweka misingi ya kiakili ya ubepari wa kisasa. Kwa kusoma juu ya wanauchumi hawa wa kipainia, utaelewa kanuni zisizo na wakati zilizoshape uchumi wa kisiasa wa kimataifa na zinaendelea kuathiri mijadala ya sera leo. Jiunge sasa ili kujua mawazo ambayo yalijenga uchumi wa kisasa.
+Utajifunza jinsi wanamageuzi wenye maono walivyopanua mtazamo huu kudai biashara huria na mzunguko usiozuiwa wa bidhaa, wakiweka misingi ya kifikra ya ubepari wa kisasa. Kwa kusoma wanauchumi hawa waanzilishi, utaelewa kanuni zisizopitwa na wakati zilizounda uchumi wa kisiasa wa kimataifa na zinazoendelea kuathiri mijadala ya sera leo. Jiunge sasa ili kuyamudu mawazo yaliyojenga uchumi wa kisasa.
 +++
 # Utangulizi
-
 <partId>06d67531-19f1-4f8d-bf8f-77bbcc743672</partId>
 
-
 ## Muhtasari wa kozi
-
 <chapterId>202db3c6-0320-494d-8057-adc6f6563048</chapterId>
 
+### Karibu
 
-Karibu kwa HIS204!
+Karibu HIS 204! Kozi hii, inayofundishwa na **[Benoît Malbranque](https://planb.academy/professors/benoit-malbranque)**, rais wa Institut Coppet na mmoja wa wataalamu wakuu wa mapokeo ya kiliberali ya Ufaransa, inachunguza asili za Kifaransa za dhana ya *laissez-faire* kama ilivyoendelea katika karne ya 18 kupitia mapokeo tajiri ya kifikra.
 
+Muda mrefu kabla Adam Smith hajachapisha [*Utajiri wa Mataifa*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289), wanafikra wa Kifaransa walikuwa wanajenga uchumi wa kisiasa uliotegemea uhuru wa kiuchumi, kutoamini uingiliaji wa Serikali, na imani katika utaratibu wa asili unaochochea ukuaji na ustawi. Kwa kufuatilia hoja zao kutoka Vauban na Boisguilbert hadi Turgot na Condorcet, utafunua urithi wa kifikra uliosahaulika uliounda dunia ya kisasa.
 
-Kozi hii imeundwa kuchunguza chimbuko la Kifaransa la dhana ya *laissez-faire*—"itendeke"—kama ilivyoendelezwa katika karne ya 18 kupitia mapokeo mengi ya kiakili. Kwa kufuatilia mawazo ya wanafikra wa kiuchumi wa Ufaransa wa mapema, tutafichua misingi ya uchumi wa kisiasa unaojengwa kwa misingi ya uhuru wa kiuchumi, unaoangaziwa na kutoaminiana kwa kuingiliwa na serikali na imani katika utaratibu wa asili unaopendelea ukuaji na ustawi.
+### Utakachojifunza
 
+- **Fuatilia kuibuka kwa laissez-faire** kutoka watangulizi wake wa mwanzo chini ya Louis XIV hadi maelezo yake kamili katika shule ya Fiziokrasia.
+- **Tambua wanafikra wakuu** waliopinga mercantilism na utawala wa kifalme usio na mipaka: Vauban, Boisguilbert, Cantillon, Quesnay, Turgot, Condillac, na wengine.
+- **Elewa hoja dhidi ya uingiliaji kati wa Serikali** ambazo wanauchumi hawa waliendeleza, kutoka ukosoaji wa kodi hadi utetezi wa biashara huria.
+- **Chambua mfumo wa Fiziokrasia** na dai lake la kimapinduzi kwamba kilimo, si biashara, ndicho chanzo cha utajiri wa taifa.
+- **Tathmini athari ya kudumu ya mawazo ya laissez-faire** kwa uchumi wa kisiasa wa kimataifa na kwa mijadala inayoendelea kuunda sera za kiuchumi leo.
+- **Tambua mvutano kati ya nadharia na vitendo** kupitia hadithi ya mageuzi ya Turgot na kushindwa kwake katika Ufaransa kabla ya mapinduzi.
 
-**Sehemu ya 2: Watangulizi**
+### Mtaala
 
+**Sehemu ya 2: Watangulizi.** Tunaanza mwishoni mwa karne ya 17 na mwanzoni mwa karne ya 18, wakati ulioundwa na ufalme wa mamlaka kamili na miito ya kwanza ya njia yenye busara zaidi ya kusimamia mambo ya umma. Kupitia wahusika Vauban, Boisguilbert, na Cantillon, tunagundua ukosoaji wa mapema wa uingiliaji kati wa Serikali na muhtasari wa kwanza wa kile ambacho baadaye kingekuwa uchumi wa kisiasa wa kiliberali.
 
-Katika sehemu hii tunaanza mwanzoni mwa karne ya 17 na 18, kipindi kilichochochewa na utawala wa kupita kiasi wa kifalme, na mara ya kwanza kuibuka kwa wito wa njia ya busara zaidi na ya haki ya kusimamia mambo ya umma. Kupitia mawazo ya Vauban, Boisguilbert, na Cantillon, tunashuhudia ukosoaji wa mapema wa uingiliaji wa serikali na misingi ya mwanzo ya kile ambacho baadaye kingejulikana kama uchumi huria wa kisiasa.
+**Sehemu ya 3: Wanamageuzi na Wanafikra wa Mwanzoni mwa Karne ya 18.** Sehemu hii inalenga wale waliojaribu kurekebisha uchumi wa Ufaransa kwa mwanga wa kanuni mpya. Wanafikra kama Abbot wa Saint-Pierre, Marquis d'Argenson, na Gournay walitaka kuvunja vikwazo vya mashirika ya kitaaluma, kuifanya biashara iwe huria, na kuhimiza ushindani kama kichocheo cha maendeleo. Mapendekezo yao jasiri yalitangulia mawazo ya Kifiziokrasia.
 
+**Sehemu ya 4: Shule ya Fiziokrasia.** Tunachunguza mojawapo ya nyakati muhimu zaidi katika mawazo ya kiuchumi ya Ufaransa. Tunachunguza asili, misingi ya kimafundisho, na mafanikio makuu ya Wanafiziokrati, tukizingatia Quesnay na Dupont de Nemours. Wazo la laissez-faire linakuwa mfumo thabiti hapa, uliokita katika dhana ya utaratibu wa asili ambao Serikali lazima ijisalimishe kwake.
 
-**Sehemu ya 3: Wanamageuzi na Wanafikra wa Mapema Karne ya 18**
+**Sehemu ya 5: Mwangaza na Uchumi wa Kisiasa.** Hatimaye, tunaona jinsi fikra za kiuchumi za kiliberali zilivyoenea ndani ya vuguvugu pana la Mwangaza. Voltaire, Turgot, Condillac, na Condorcet walipanua mapokeo ya laissez-faire, wakitengeneza daraja kuelekea kipindi cha mapinduzi na zaidi.
 
+Uko tayari kugundua upya mizizi ya Kifaransa ya uliberali wa kiuchumi? Twende!
 
-Sehemu hii inalenga wale ambao, katika miongo ya kwanza ya karne ya 18, walijaribu kurekebisha uchumi wa Ufaransa kwa kuzingatia kanuni mpya. Wanafikra kama Abate wa Saint-Pierre, Marquis d'Argenson, na Gournay (pamoja na wafuasi wao) walitoa wito wa kuvunjwa kwa vikwazo vya ushirika, kuendeleza biashara huria, na kuhimiza ushindani kama kichocheo cha maendeleo. Mapendekezo yao ya mara kwa mara ya ujasiri yalidhihirisha misingi mikuu ya mawazo ya Kifiziokrasia.
+### Kuhusu mwandishi wa kozi
 
-
-**Sehemu ya 4: Shule ya Fizikia**
-
-
-Sehemu hii inachunguza wakati mmoja muhimu zaidi katika fikra ya kiuchumi ya Kifaransa: shule ya Fizikia. Tutachunguza asili yake, misingi ya mafundisho na mafanikio makuu, tukizingatia watu muhimu kama vile Quesnay na Dupont de Nemours. Wazo la laissez-faire linakuwa mfumo thabiti katika shule hii, unaokita mizizi katika wazo la utaratibu wa asili ambao Serikali inapaswa kujisalimisha ili kuhakikisha ufanisi kwa wote.
-
-
-**Sehemu ya 5: Mwangaza na Uchumi wa Kisiasa**
-
-
-Hatimaye, tutaona jinsi fikra huria za kiuchumi zilivyoenea ndani ya vuguvugu pana la Kutaalamika. Takwimu kama vile Voltaire, Turgot, Condillac, na Condorcet zilipanua na kuimarisha utamaduni wa laissez-faire, maandishi yao yaliunda daraja la mila ya laissez-faire kuvuka hadi kipindi cha mapinduzi na zaidi, ambapo mawazo ya huria yalipata mwangwi mpya.
-
-
-Je, uko tayari kugundua upya mizizi ya Ufaransa ya uliberali wa kiuchumi? Twende!
-
+**[Benoît Malbranque](https://planb.academy/professors/benoit-malbranque)** ni rais wa Institut Coppet, chama kinachojitolea kukuza shule ya Kifaransa ya uchumi wa kisiasa. Yeye ni mwandishi wa vitabu kadhaa, ikiwemo [*Vincent de Gournay: Uchumi wa Kisiasa wa Laissez-faire*](https://planb.academy/resources/books/benoit-malbranque-vincent-de-gournay-leconomie-pol-23fb1bac-21d6-432f-a4f3-69a359e48358) (2016), na amechapisha tena maandishi ya wanauchumi wa Kifaransa katika makusanyo ya uchapishaji ya Institut Coppet. Ujuzi wake wa kina wa vyanzo vya msingi humfanya kuwa mwongozo wa kipekee kupitia historia hii ya kifikra.
 
 # Watangulizi
 
-
 <partId>91565b10-6010-53cb-a2f4-9c2306c7ef8c</partId>
 
-
-## Usuli wa Kihistoria
-
+## Usuli wa kihistoria
 
 <chapterId>6a5fd101-6dfd-5d77-96c7-9e1aa4a19758</chapterId>
 
+### Ufaransa mwanzoni mwa karne ya 18
 
-Mwanzoni mwa karne ya 18, Ufaransa ilikuwa katika hali ya wasiwasi. Idadi ya watu wa vijijini walikuwa wakizalisha kiasi cha kutosha kuishi na walitozwa ushuru mkubwa.
+Mwanzoni mwa karne ya 18, Ufaransa ilikuwa katika hali ya kutia wasiwasi. Watu wa vijijini walikuwa wanazalisha kidogo tu cha kuwawezesha kuishi na walitozwa kodi nzito.
 
-
-![image](assets/sw/001.webp)
-
-
-
-Wasanii wa mijini, waliokwama katika mashirika magumu, walihangaika kubuni au hata kusaidiana. Wakati huohuo, mataifa mengine ya Ulaya yaliipita Ufaransa haraka katika nyanja zote, na kushinda bidhaa zake. Mafanikio ya kibiashara ya Uingereza na Uholanzi yalikuwa akilini mwa kila mtu.
+![Mandhari ya maisha ya vijijini katika karne ya 19, inayohusishwa na Louis-Léopold Boilly](assets/en/001.webp)
 
 
-Lakini tungewezaje kupata suluhisho la ugonjwa wa enzi hiyo? Kulikuwa, bado, hakuna sayansi ya uchumi na kwa hiyo hakuna dawa maalum ya kuomba. Kanuni za sera ya uchumi bado zilitumika bila mpangilio, zikibadilika kati ya awamu zenye vikwazo na vipindi huria zaidi. Hakika, tuna mifano, marejeleo ya kihistoria ya kufuata. Miongoni mwao alikuwa *Sully*, waziri wa Henri IV, ambaye alitetea kilimo na kukuza uhuru mkubwa wa biashara ndani ya Ufaransa.
+Mafundi wa mijini, wakiwa wamefungwa ndani ya magildi magumu, walihangaika kubuni au hata kusaidiana. Wakati huo huo, mataifa mengine ya Ulaya punde yalizidi Ufaransa katika kila upande, yakishinda bidhaa zake sokoni. Mafanikio ya kibiashara ya Uingereza na Uholanzi yalikuwa akilini mwa kila mtu.
 
+Lakini tungewezaje kupata suluhu ya ugonjwa wa enzi hiyo? Bado hakukuwa na sayansi ya uchumi na kwa hiyo hakukuwa na dawa maalum ya kutumia. Kanuni za sera ya kiuchumi bado zilitumiwa ovyo, zikibadilika kati ya awamu za vizuizi na vipindi vilivyo huru zaidi. Hakika, tuna mifano, marejeo ya kihistoria ya kufuata. Miongoni mwao alikuwa *Sully*, waziri wa Henri IV, aliyetetea kilimo na kukuza uhuru zaidi wa biashara ndani ya Ufaransa.
 
-![image](assets/sw/002.webp)
+![Picha ya Duc de Sully, Kumbukumbu za Duc de Sully, Waziri wa Henri IV](assets/en/002.webp)
 
 
 
+Lakini kisha akaja Colbert, waziri wa Louis XIV, ambaye aliyumba kati ya udhibiti na uhuru, lakini hatimaye akatekeleza udhibiti. Mwishoni kabisa mwa karne ya 17, Colbert alimzidi Sully: mawaziri sasa walitaja urithi wake na kujaribu kutumia kile walichodai kuwa kanuni zake.
+
+![Jean-Baptiste Colbert, Mdhibiti Mkuu wa Fedha chini ya Louis XIV](assets/en/003.webp)
+
+### Kanuni nne za Colbert
+
+Katika mawazo ya watawala mwishoni mwa karne ya 17, kanuni za Colbert zilikuwa nne.
+
+(1) **Viwanda Lazima Vidhibitiwe na Kufungwa Ndani ya Magildi**. Kanuni hizi hubainisha, kwa mfano, jinsi mashuka na vitambaa vinavyopaswa kutengenezwa, ukubwa na uzito wake.
+Kulikuwa na mamia ya sheria kama hizo, zilizokusanywa katika juzuu maalum kwa kila aina ya viwanda. Hata hivyo, machoni mwa wafuasi wa Colbert, hili bado halikutosha: waliamini viwanda pia vilihitaji kusimamiwa na mashirika.
+
+![Warsha ya mtengenezaji manyoya ya karne ya 18](assets/en/004.webp)
+
+Yeyote aliyetaka kufanya kazi ya ufundi alipaswa kwanza kutumia miaka kadhaa kama mwanafunzi, kisha kama mfanyakazi aliyehitimu, kabla ya kujaribu kufikia hadhi ya fundi mkuu kwa kuzalisha "kazi kuu" na kulipa kiasi kikubwa kwa gild. Kwa hiyo ushindani ndani ya kila kazi ulizuiwa vikali.
 
 
-Lakini kisha akaja Colbert, waziri wa Louis XIV, ambaye aliyumba kati ya kanuni na uhuru, lakini hatimaye akatekeleza udhibiti. Mwishoni kabisa mwa karne ya 17, Colbert alimshinda Sully: mawaziri sasa walitumia urithi wake na kujaribu kutumia kile walichodai kuwa kanuni zake.
+(2) **Biashara Ni Mchezo wa Jumla Sifuri**. Kuhusu biashara, wanafunzi wa Colbert walishiriki chuki zilezile kama watu wa kishenzi wa Kale. Kulingana na waziri wa Louis XIV, biashara ni "vita vya kudumu". Kwa nini? Sababu ni rahisi: kwa Colbert na warithi wake, ongezeko lolote la utajiri wa nchi moja lilimaanisha kufukarika kwa nyingine. Kwa mtazamo wao, Waingereza au Waholanzi hawakupaswa kuruhusiwa kutajirika, kwa sababu hilo lingemaanisha wanaiba ustawi wa Ufaransa.
 
+![Bandari ya Bordeaux katika karne ya 18 na Vernet](assets/en/005.webp)
 
-![image](assets/sw/003.webp)
+Kwa hiyo bidhaa za nchi hizi zilipaswa kupigwa marufuku au kutozwa kodi nzito, bila kusita, kwa sababu biashara ni vita ambavyo tunaweza tu kuwatakia maadui wetu maangamizi.
 
-
-Katika mawazo ya viongozi wa serikali mwishoni mwa karne ya 17, kanuni za Colbert zilikuwa nne.
-
-
-(1) **Sekta Lazima Idhibitiwe na Kufungwa Ndani ya Mashirika**. Kanuni hizi zinataja, kwa mfano, jinsi karatasi na nguo zinapaswa kufanywa, ukubwa wao na uzito.
-
-Kulikuwa na mamia ya sheria kama hizo, zilizokusanywa kwa idadi maalum kwa kila aina ya tasnia. Walakini, machoni pa wafuasi wa Colbert, hii bado haitoshi: tasnia, waliamini, pia ilihitaji kusimamiwa na mashirika.
-
-
-![image](assets/sw/004.webp)
-
-
-Yeyote anayetaka kufanya biashara ilimbidi kwanza atumie miaka kadhaa kama mwanafunzi, kisha kama msafiri, kabla ya kujaribu kufikia hadhi ya bwana kwa kutoa masterpiece na kulipa kiasi kikubwa kwa chama. Kwa hivyo, ushindani ndani ya kila biashara ulikuwa mdogo sana.
-
-
-
-(2) **Biashara Ni Mchezo Usio na Kiasi**. Linapokuja suala la biashara, wanafunzi wa Colbert walishiriki chuki sawa na watu wasomi wa Antiquity. Kulingana na waziri wa Louis XIV, biashara ni "vita vya kudumu". Kwa nini? Sababu ni rahisi: kwa Colbert na warithi wake, ongezeko lolote la utajiri kwa nchi moja lilimaanisha umaskini wa nchi nyingine. Kwa maoni yao, Waingereza au Waholanzi hawakuweza kuruhusiwa kuwa matajiri, kwa sababu hiyo ingemaanisha kuwa walikuwa wakiiba ustawi wa Ufaransa.
-
-
-![image](assets/sw/005.webp)
-
-
-Bidhaa za nchi hizi, kwa hivyo, zilipaswa kupigwa marufuku au kutozwa ushuru mwingi, bila mashaka, kwa sababu biashara ni vita ambayo tunaweza tu kutamani maangamizi ya maadui zetu.
-
-
-> "Wafaransa wanaweza tu kuongeza biashara yao kwa kuwakandamiza Waholanzi".
+> Wafaransa wanaweza kuongeza biashara yao tu kwa kuwakandamiza Waholanzi.
 > *Colbert*
 
-(3) **Nchi inapokosa pesa, Pandisha Kodi Zaidi**. Colbert na wanafunzi wake walikuwa mbali na kuamini kwamba mali ya walipa-kodi ilikuwa rasilimali ndogo. Kwa maoni yao, matumizi ya umma hayawezi kamwe kuwa shida, mradi wa kutosha kukusanywa. Na kama watu waliasi, ilikuwa ni kwa sababu tu mawaziri walikuwa wameifanya vibaya, kwani, kama Colbert alivyosema kwa kejeli, "sanaa ya kutoza ushuru ni kung'oa bukini bila kuwafanya wapige kelele sana".
+(3) **Wakati Serikali haina pesa, Ongeza Kodi Zaidi**. Colbert na wanafunzi wake hawakuamini hata kidogo kwamba utajiri wa walipa kodi ulikuwa rasilimali yenye kikomo. Kwao, matumizi ya umma hayangeweza kuwa tatizo, mradi tu kiasi cha kutosha kilikusanywa. Na ikiwa watu waliwaasi, ilikuwa tu kwa sababu mawaziri walikuwa wamefanya vibaya, kwa kuwa, kama Colbert alivyosema kwa kejeli, "sanaa ya kutoza kodi ni kung'oa manyoya bukini bila kuwafanya wapige kelele sana".
+
+![Robin hood wa Serikali - kodi au kifo](assets/en/006.webp)
+
+(4) **Utajiri ni, zaidi ya yote, dhahabu na fedha**. Kabla ya kuzaliwa kwa sayansi ya uchumi, waandishi wengi walifuata dogma moja kuu kuhusu asili ya utajiri, iliyokuja kujulikana kama *mercantilism*. Colbert na warithi wake waliendelea katika njia hii. Kwa kifupi, mercantilists waliamini kwamba ishara halisi ya ustawi wa taifa ilikuwa mkusanyiko wa madini ya thamani, fedha na dhahabu.
+
+![Uncle Scrooge](assets/en/007.webp)
 
 
-![image](assets/sw/006.webp)
-
-
-(4) **Utajiri ni zaidi ya yote, dhahabu na fedha**. Kabla ya kuzaliwa kwa sayansi ya uchumi, waandishi wengi walifuata fundisho moja kuu kuhusu asili ya utajiri, ambalo lilikuja kujulikana kama *mercantilism*. Colbert na waandamizi wake waliendelea na njia hii. Kwa ufupi, wanabiashara waliamini kwamba ishara ya kweli ya ustawi wa taifa ni mkusanyiko wa madini ya thamani, fedha na dhahabu.
-
-
-![image](assets/sw/007.webp)
-
-
-
-> "Ni wingi wa pesa tu ndani ya jimbo ndio huleta tofauti kwa ukuu na uwezo wake".
+> Wingi wa pesa ndani ya dola pekee ndio unaoleta tofauti katika ukuu na nguvu yake.
 > *Colbert*
 
-Matokeo ya wazo hili ni kupendelea mauzo ya nje kwa gharama zote, ambayo ilileta dhahabu na fedha za kigeni, na kupunguza uagizaji wa bidhaa kwa kiwango cha chini, ili kuepuka kupeleka nje ya nchi.
+Matokeo ya wazo hili ni kupendelea mauzo ya nje kwa gharama zote, yaliyoletea dhahabu na fedha za kigeni, na kupunguza uagizaji hadi kiwango cha chini, ili kuepuka kuyatuma nje ya nchi.
 
+### Misingi ya sayansi ya uchumi
 
-Hizi ndizo kanuni nne zilizoongoza serikali ya Ufaransa kwa miongo kadhaa, nchi ilipoingia karne ya 18. Walakini, hivi karibuni ziligongana na upinzani mkali. Kati ya 1690 na 1710, waandishi kadhaa waliguswa sana na hali ya kusikitisha ya Ufaransa. Katika kutafuta sababu zake, walihitimisha kwamba kanuni hizohizo zilizorithiwa kutoka kwa Colbert ndizo zilipaswa kulaumiwa, wakiziona kama hoja zisizo sahihi. Kwa kufanya hivyo, waliweka misingi ya sayansi ya uchumi.
-
+Hizi ndizo kanuni nne zilizoongoza serikali ya Ufaransa kwa miongo kadhaa, nchi ilipoingia karne ya 18. Hata hivyo, punde zilikuwa zitapingwa kwa kina. Kati ya 1690 na 1710, waandishi kadhaa waliguswa sana na hali mbaya ya Ufaransa. Katika kutafuta sababu zake, walihitimisha kwamba kanuni zenyewe zilizorithiwa kutoka kwa Colbert ndizo za kulaumiwa, wakiziona kuwa hoja potofu tu. Kwa kufanya hivyo, waliweka misingi ya sayansi ya uchumi.
 
 ## Vauban
 
-
 <chapterId>ee9c1e0e-96cc-5026-a5e2-963d68122786</chapterId>
 
+### Jemadari aliyekuwa mwanauchumi
 
-Leo, shinikizo la ushuru katika nchi yetu linavyoendelea kuongezeka, na kutishia kudhoofisha nguvu za uchumi wa kitaifa, sauti zinaongezeka kuunga mkono mabadiliko. Iwe kwa kujua au la, wito huu wa mageuzi mara nyingi unafanana na kazi ya wanauchumi wa Ufaransa ambao, tangu karne ya 17, wamekosoa mfumo wa ushuru wa taifa kama wa machafuko, dhalimu, na kupita kiasi.
+Leo, kadiri shinikizo la kodi katika nchi yetu linavyoendelea kukua, likitishia kuzisonga nguvu za kiuchumi za taifa, sauti zinaongezeka zikidai mabadiliko. Kwa kujua au bila kujua, miito hii ya mageuzi mara nyingi inarudia kazi ya wanauchumi wa Kifaransa ambao, tangu karne ya 17, wamekosoa mfumo wa kodi wa taifa kama wenye fujo, wa kidikteta, na uliopitiliza.
 
+Wa kwanza kati ya wanamageuzi hawa wa kodi, kwa mpangilio wa wakati na kwa ustahili, ni jemadari mkuu Sébastien Le Prestre Vauban, mjenzi maarufu wa ngome na makasri ya kijeshi.
 
-Wa kwanza wa warekebishaji hawa wa kodi, kwa kufuatana na kulingana na sifa, ni marshal mkuu Sébastien Le Prestre Vauban, mjenzi maarufu wa ngome na ngome.
-
-
-![image](assets/sw/008.webp)
-
+![Picha ya Vauban, Ngome ya Lille na Vauban](assets/en/008.webp)
 
 
 
+Ingawa tumesahau kwa huzuni, Vauban alikuwa zaidi ya mwanajeshi; alikuwa pia mwanauchumi. Alivutiwa na **hatima ya wakulima na alipendekeza mageuzi jasiri ya kodi** mwaka 1695 (Projet de capitation - "Mradi wa Kodi ya Kichwa") na tena mwaka 1707 (Projet d'une Dime Royale - "Zaka ya Kifalme"): kubadilisha kodi nyingi zilizokuwepo kwa kodi inayolingana na mapato, kodi tambarare kabla ya wakati wake.
 
-Ingawa tumesahau kwa huzuni, Vauban alikuwa zaidi ya mwanajeshi; pia alikuwa mchumi. Akiwa na wasiwasi kuhusu hatima ya wakulima, alipendekeza mageuzi ya kodi yenye ujasiri mwaka wa 1695 (Projet de capitation — "Mradi wa Capitation") na tena mwaka wa 1707 (Projet d'une Dîme Royale — "Zaka ya Kifalme"): kuchukua nafasi ya kodi nyingi zilizopo na kodi sawia kwa wakati wake, kodi ya gorofa kabla ya muda.
+![Vauban, “Mradi wa zaka ya kifalme”](assets/en/009.webp)
 
+Vauban alifikia mawazo haya kupitia udadisi. Alikuwa mtazamaji makini, akijitahidi kusoma maisha ya kijamii na uhalisia wa kiuchumi kwa umakini, karibu kisayansi. Alisisitiza hasa haja ya kuhesabu, kupitia sensa.
 
-![image](assets/sw/009.webp)
+![Sensa ya watu](assets/en/010.webp)
 
+### Picha yenye kuangamiza ya taabu ya Ufaransa
 
-Vauban alifikia mawazo haya kwa udadisi. Alikuwa mtazamaji mwenye bidii, akijitahidi kusoma maisha ya kijamii na ukweli wa kiuchumi kwa ukali, karibu kisayansi. Alisisitiza hasa hitaji la kuhesabu, kupitia sensa.
+Sifa yake kubwa ya pili ilikuwa maelezo yake yenye kugusa moyo na uaminifu kuhusu taabu iliyovumiliwa na umma. Aliandika: "Tusidanganywe; moyo wa ufalme umeharibika. Kila kitu kinateseka, kila kitu kinavumilia, kila kitu kinaugua. Unahitaji tu kuangalia na kuchunguza moyo wa majimbo, utakachokipata ni kibaya zaidi kuliko ninachosema". Mbali na kutia chumvi, uchunguzi wa huzuni wa Vauban ulikuwa taswira sahihi ya maisha ya mapema karne ya 18. Alexis de Tocqueville alikuwa akiyafahamu vizuri mawazo haya, na baadaye angeeleza *Zaka ya Kifalme* ya Vauban kama "ya kutisha", kwa sababu ilikuwa kweli.
 
+![Tocqueville, “Utawala wa Kale na Mapinduzi”, Matabaka matatu](assets/en/011.webp)
 
-![image](assets/sw/010.webp)
-
-
-Sifa yake kuu ya pili ilikuwa maelezo yake ya kusisimua na ya uaminifu kuhusu taabu iliyovumiliwa na watu wengi. Aliandika: "Tusidanganyike; moyo wa ufalme umeharibika. Kila kitu kinateseka, kila kitu kinavumilia, kila kitu kinaugua. Inabidi tu kutazama na kuchunguza moyo wa majimbo, kile utakachopata ni mbaya zaidi kuliko kile ninachosema." Mbali na kutia chumvi, maoni yenye kuhuzunisha ya Vauban yalikuwa onyesho sahihi la maisha ya mapema ya karne ya 18. Alexis de Tocqueville alijua vyema mawazo haya, na baadaye angeelezea Zaka ya Kifalme ya Vauban kama "ya kutisha," kwa sababu ilikuwa kweli.
-
-
-![image](assets/sw/011.webp)
+Sifa nyingine kubwa ya Vauban kama mwanauchumi ilikuwa kupendekeza mageuzi makubwa ya kodi yaliyolenga kung'oa, au angalau kupunguza ukubwa wa uovu aliouona na kuueleza. Alikuwa sahihi kufanya hivyo; uchumi wa Ufaransa chini ya Ancien Régime ulikuwa umepoozwa na kodi, ambazo hazikuwa sawa, hazikuwa thabiti, na hazikueleweka.
 
 
-Sifa nyingine kubwa ya Vauban kama mwanauchumi ilikuwa inapendekeza mageuzi makubwa ya kodi yenye lengo la kutokomeza, au angalau kupunguza ukubwa wa uovu alioona na kueleza. Alikuwa sahihi kufanya hivyo; uchumi wa Ufaransa chini ya Utawala wa Kale ulilemazwa na ushuru, ambao haukuwa sawa, usio thabiti na usiosomeka.
-
-
-
-Katika maandishi yake mbalimbali ya kisiasa na kiuchumi, nia kuu ya Vauban ilikuwa kuondoa mateso ya kile alichokiita "sehemu ya chini ya watu, ambao, kwa kazi zao, wanategemeza na kuunga mkono walio juu".
+Katika maandishi yake mbalimbali ya kisiasa na kiuchumi, nia kuu ya Vauban ilikuwa kupunguza mateso ya kile alichokiita "sehemu ya chini ya watu, ambao, kwa kazi yao, hudumisha na kuunga mkono walio juu".
 
 
 
 
 
+Alielewa kwamba kodi kandamizi na zinazokatisha tamaa zilikuwa zinawalemea wakulima, dhana aliyoieleza kwa kuona wazi, jambo ambalo bado tunaweza kuliona kikamilifu katika wakati wetu:
 
+> Mkulima huacha ardhi ndogo aliyonayo inyauke, akiifanyia kazi kwa kusuasua tu, kwa hofu kwamba ikiwa ingezalisha kile ingeweza kwa mbolea na kilimo sahihi, ingetozwa kodi kubwa zaidi.
 
-Alielewa kwamba ushuru wa kikandamizaji na wa kukata tamaa ulikuwa wakulima wengi sana, dhana ambayo alielezea kwa kuona wazi, jambo ambalo bado tunaweza kuona kikamilifu katika wakati wetu:
+Vauban aliona ukweli: kodi chini ya Ancien Régime hazikuwa tu zisizo na mantiki bali pia kali kikatili. Ni mfumo huu wa kodi, usio wa haki katika mgawanyo wake, ambao alitaka kuushinda.
 
+### Kodi tambarare kabla ya wakati wake
 
-> "Mkulima anaacha shamba dogo alilonalo kunyauka, na kulifanyia kazi nusu nusu tu, kwa kuhofia kwamba kama lingezalisha liwezalo kwa samadi na kulima zinazofaa, lingetozwa ushuru mkubwa zaidi".
+Suluhisho alilopendekeza, kodi tambarare na ya uwiano kwa mapato yote, lingekuwa limeruhusu mzigo wa kodi kugawanywa kwa haki kati ya madaraja yote ya kijamii. Likiwa limejengwa juu ya nadharia ya Serikali iliyoona mamlaka ya umma kuwa muhimu kulinda haki za mtu binafsi na mali, mageuzi ya kodi ya Vauban yalidai wananchi wote wachangie kwa uwiano mkali na kile wanachopata, kwa mfano, 10% ya mapato yao
 
-Vauban aliona ukweli: ushuru chini ya Utawala wa Kale haukuwa wa kijinga tu bali pia ukali wa kikatili. Ilikuwa ni mfumo huu wa ushuru, usio wa haki katika usambazaji wake, ambao alijaribu kuushinda.
+Katika Zaka ya Kifalme, kazi pekee kati ya kazi zake za kiuchumi iliyochapishwa wakati wa uhai wake, Vauban alisema wazi:
 
+> Kwa kuwa kila mtu katika Dola anahitaji ulinzi wake ili kuishi, ni haki tu kwamba wote wachangie, kulingana na mapato yao, katika matengenezo na gharama zake [...]. Hakuna lisilo la haki zaidi kuliko kuwasamehe wale walio na uwezo mkubwa zaidi wa kulipa, na kuhamishia mzigo kwa wale wenye uwezo mdogo zaidi, wanaoporomoka chini ya uzito huo; uzito ambao ungekuwa mwepesi kabisa ikiwa ungebebwa kwa uwiano na wote kulingana na nguvu zao wenyewe. Kwa hiyo, kila msamaha wa kodi ni fujo inayopaswa kusahihishwa.
 
-Suluhisho alilopendekeza, ushuru wa gorofa unaolingana na mapato yote, ungeruhusu mzigo wa kodi kugawanywa kwa usawa kati ya tabaka zote za kijamii. Kwa kuzingatia nadharia ya Serikali iliyochukulia mamlaka ya umma kuwa muhimu kwa kulinda haki na mali ya mtu binafsi, mageuzi ya kodi ya Vauban yalitaka raia wote wachangie kwa uwiano kamili wa kile wanachopata, kwa mfano 10% ya mapato yao.
-
-
-Katika Zaka ya Kifalme, kitabu pekee cha kazi zake za kiuchumi kilichochapishwa katika maisha yake, Vauban alisema waziwazi:
-
-
-> "Kwa kuwa kila mtu katika Jimbo anahitaji ulinzi wake ili aendelee kuishi, ni sawa tu kwamba wote wachangie, kulingana na mapato yao, kwa utunzaji na gharama zake [...]. Hakuna jambo lisilo la haki zaidi kuliko kuwaachilia wale ambao wana uwezo mkubwa wa kulipa, na kuhamisha mzigo kwa wale wasio na uwezo mdogo, ambao huanguka chini ya uzito; uzito ambao ungekuwa mwepesi sana ikiwa unachukuliwa kwa uwiano na wote kulingana na nguvu zao za kodi."
-
-Muda mfupi kabla ya kifo chake, wazo la Vauban lilikubaliwa na mawaziri wa Louis XIV. Hata hivyo, Vauban alikuwa amependekeza ushuru wa uwiano kuchukua nafasi ya kodi zote zilizopo au karibu zote. Badala yake, kama inavyotokea mara nyingi, ushuru wake ulitekelezwa lakini zingine zote ziliendelea kuwepo.
-
+Muda mfupi kabla ya kifo chake, wazo la Vauban lilikubaliwa na mawaziri wa Louis XIV. Hata hivyo, Vauban alikuwa ametaka kodi ya uwiano ibadilishe kodi zote, au karibu zote, zilizokuwepo. Badala yake, kama inavyotokea mara nyingi, kodi yake ilitekelezwa, lakini nyingine zote zikaachwa pia.
 
 ## Boisguilbert
 
-
 <chapterId>200149c6-b5fc-566e-ab0e-bafb1c3fed3c</chapterId>
 
+### Mwanzilishi aliyesahaulika
 
-Wanauchumi wachache wa Ufaransa wa kale wanatambuliwa katika nchi yao kwa namna inayolingana na michango yao, na Boisguilbert pia alikuwa mmoja wao.
+Wanauchumi wachache wa Kifaransa wa zamani wanaotambuliwa leo nyumbani kwao kwa kiwango kinacholingana na michango yao, na Boisguilbert si tofauti.
 
+![Pierre Lepesant de Boisguilbert](assets/en/012.webp)
 
-![image](assets/sw/012.webp)
+Hakuthaminiwa na wasomaji wa wakati wake, alitengwa na duru za mamlaka kwa sababu ya tabia yake isiyo ya kawaida na shauku iliyomlemea, Boisguilbert aliacha alama ndogo katika karne ya 18. Hata hivyo, mwanzoni mwa karne iliyopita, kazi yake imeanza kugunduliwa tena polepole.
 
-
-Bila kuthaminiwa na wasomaji wa wakati wake, alijitenga na miduara ya nguvu kwa sababu ya asili yake ya asili na shauku kubwa, Boisguilbert aliacha alama ndogo kwenye karne ya 18. Hata hivyo, mwanzoni mwa karne iliyopita, kumekuwa na ugunduzi wa polepole wa kazi yake.
-
-
-Walakini, ugunduzi huu unaonyesha kuwa tunaingia katika aina ya mwisho mbaya. Ubora wa kweli wa Boisguilbert umepotea kwa kumtambulisha kama mwanzilishi wa nadharia nyingi na mtangulizi wa wanafikra wengi. Inasemekana alielewa dhana ya ukosefu wa ajira iliyotetewa baadaye na Keynes, alitarajia sheria ya Say, akafungua njia kwa nadharia ya jumla ya usawa ya Walras, na hata kutangulia uchanganuzi wa tabaka la Umaksi. 'Nani au nini inaweza Boisguilbert kuwa mtangulizi wa?' mtoa maoni mmoja hatimaye aliuliza.
+Hata hivyo, ugunduzi huu mpya unaonyesha kwamba tunaingia katika aina fulani ya njia panda isiyo na mwisho. Sifa ya kweli ya Boisguilbert imepotea kwa kumwasilisha kama mwanzilishi wa nadharia nyingi na mtangulizi wa wanafikra wengi. Inasemekana alielewa dhana ya ukosefu wa ajira wa chini baadaye iliyotetewa na Keynes, alitangulia sheria ya Say, alifungua njia kwa nadharia ya usawa wa jumla ya Walras, na hata alitabiri uchambuzi wa kitabaka wa Wamarx. 'Boisguilbert angeweza kushindwa kuwa mtangulizi wa nani au nini?' mchambuzi mmoja aliuliza hatimaye.
 
 
+(Pierre Le Pesant de) Boisguilbert alizaliwa Rouen mwaka 1646. Alisomeshwa Port-Royal huko Paris, Boisguilbert alianza kazi ya fasihi iliyoshindwa kabla ya kuchukua majukumu mbalimbali, ikiwemo la Luteni-Jenerali wa Rouen. Ni wakati huu ndipo alipoandika vitabu kadhaa kutetea mawazo yake, miongoni mwao "Détail de la France" mwaka 1695, ambacho alikichapisha tena mwaka uliofuata chini ya kichwa kilicho wazi zaidi: [*Ufaransa Iliyoharibiwa chini ya Utawala wa Louis XIV, na Nani na Jinsi Gani, pamoja na Njia za Kuirejesha*](https://archive.org/details/bub_gb_0jUaWNbTJa8C/page/n23/mode/2up).
 
-(Pierre Le Pesant de) Boisguilbert alizaliwa huko Rouen mwaka wa 1646. Akiwa na elimu katika Port-Royal huko Paris, Boisguilbert alianza kazi ya fasihi isiyo na mafanikio kabla ya kuchukua majukumu mbalimbali, kutia ndani ya Luteni Jenerali wa Rouen. Ilikuwa wakati huu ambapo aliandika vitabu kadhaa vya kutetea mawazo yake, miongoni mwao "Détail de la France" mwaka wa 1695, ambayo alichapisha tena mwaka uliofuata chini ya kichwa cha wazi zaidi: [*Ufaransa Iliharibiwa chini ya Utawala wa Louis XIV, Nani na Jinsi, na Njia za Kurejesha. Ni](https://archive.org/details/bub_gb_0jUaWNbTJa8C/page/n23/mode/2up)*.
-
-
-![image](assets/sw/013.webp)
+![Boisguilbert, “Ufaransa iliyoharibiwa chini ya Louis XIV”, Ramani ya Port Royal des Champs](assets/en/013.webp)
 
 
 
+Na huu ndio msingi wa vitabu vya Boisguilbert: umasikini wa Ufaransa na sababu zake.
 
+Taabu hii ya watu wa Ufaransa mwishoni mwa karne ya 17, Boisguilbert aliieleza kwa kina, kama Vauban alivyofanya. Anaandika:
 
-Na huu ndio msingi wa vitabu vya Boisguilbert: La Pauvreté de la France na Les Causes de la Pauvreté.
+> Ardhi tasa au zinazolimwa vibaya, zinazoonekana kwa wote, ni maiti ya Ufaransa.
 
+Alieleza mashamba ya mizabibu yaliyong'olewa, wakulima walioacha mashamba, na njaa za mara kwa mara. 
 
-Mateso haya ya Wafaransa mwishoni mwa karne ya 18, Boisguilbert anaeleza kwa kina, kama alivyofanya Vauban. Anaandika:
+### Sababu pacha za kuanguka kwa Ufaransa
 
+Boisguilbert anapata sababu kuu mbili za bahati mbaya hii. Kwa maana ikiwa watu wanaishi katika ufukara, ni kwa sababu wanazuiwa kutumia kile kinachohitajika, na kuanguka kwa matumizi kuna sababu mbili.
 
-> "Ardhi tasa au isiyolimwa vizuri, inayoonekana kwa wote, ni maiti ya Ufaransa".
+Kwanza, watu hawakuweza tena kumudu kutumia mahitaji ya msingi kutokana na kodi za kiholela. Taille, kodi ya binafsi ya wakati huo, ilihesabiwa kwa upofu kwa kila mtu, ikipanda au kushuka bila sababu. Kwa sababu ya marupurupu mengi, mzigo uliwaangukia wakulima maskini, ambao walijikuta wameharibika. Ili kurekebisha hili, Boisguilbert alipendekeza kodi ya uwiano kwa mapato yote, kama pendekezo la Vauban.
 
-Alifafanua mashamba ya mizabibu yaliyong'olewa, wakulima walioacha mashamba, na njaa inayotokea mara kwa mara.
+Sababu ya pili ya taabu ya Ufaransa ni kwamba vikwazo vingi vilizuia biashara huria ya bidhaa, hasa za kilimo. Kulikuwa na ushuru wa forodha mipakani na hata ndani ya nchi, kati ya maeneo tofauti, jambo lililopooza biashara yote. Vizuizi hivi vilizuia kuanzishwa kwa bei ya usawa na kupunguza fursa za soko. Matokeo yake, wakulima hawakuweza kuishi kutokana na uzalishaji wao, kwa sababu hawakuweza kuuza kwa faida na waliteseka kwa bei za kilimo zisizolipa, wasiwasi ambao bado ni muhimu sana leo na uko kiini cha nadharia ya Boisguilbert. Kuhusu vikwazo vya biashara, Boisguilbert alitetea kufungua barabara, kwa maneno mengine, kuanzisha biashara huria.
 
+![Gustave Caillebotte - "Njia ya Kupanda”](assets/en/014.webp)
 
-Boisguilbert hupata sababu kuu mbili za bahati mbaya hii. Kwani ikiwa watu wanaishi kwa ufukara, ni kwa sababu wamezuiliwa kula kile kinachohitajika, na uharibifu wa ulaji una sababu mbili.
+### Wito wa kwanza wa laissez-faire
 
+Na uhuru kwa kweli ndio hitimisho lake la mwisho. "Si suala la kutenda", anasema, "bali ni la kuacha kutenda kama tunavyofanya kwa ukatili dhidi ya maumbile, ambayo daima huelekea uhuru na ukamilifu". Kila kitu kitakuwa vizuri, anarudia bila kuchoka, "mradi tu tuyaache maumbile yafuate mkondo wake, yaani, kuyapa uhuru wake, na kwamba hakuna mtu anayeingilia biashara hii isipokuwa kutoa ulinzi kwa wote na kuzuia vurugu".
 
-Kwanza, wananchi hawakuweza kumudu tena mahitaji ya msingi kutokana na kutozwa ushuru holela. Taille, ushuru wa kibinafsi wa wakati huo, ulihesabiwa kwa upofu kwa kila mtu, kupanda au kushuka bila sababu. Kwa sababu ya mapendeleo mengi, mzigo ulianguka kwa wakulima maskini, ambao walijikuta wameharibiwa. Ili kusahihisha hili, Boisguilbert alipendekeza ushuru wa uwiano kwa mapato yote, kama vile pendekezo la Vauban.
+Kifungu hiki cha mwisho ni muhimu. **Boisguilbert alikuwa wa kwanza kudai wazi sera ya kiuchumi ya laissez-faire**, kuifanya kuwa imani yake, na kujenga mfumo halisi kuizunguka. Kulingana naye, kuna utaratibu wa asili wa mambo, na haupaswi kupotoshwa, wala kuharibiwa, na uingiliaji wa umma usiofaa. Kwa mtazamo wake, Serikali haipaswi kutenda katika masuala ya kiuchumi, bali, iyaache mambo yatende kwa asili. Vinginevyo, itasababisha taabu.
 
-
-Sababu ya pili ya masaibu ya Ufaransa ni kwamba vikwazo vingi vilizuia biashara huria ya bidhaa, hasa za kilimo. Kulikuwa na ushuru wa forodha kwenye mipaka na hata ndani ya nchi, kati ya mikoa tofauti, ambayo ililemaza biashara zote. Vizuizi hivi vilizuia kuanzishwa kwa bei ya usawa na fursa za soko. Kwa hiyo, wakulima hawakuweza kujikimu kutokana na uzalishaji wao, kwa sababu hawakuweza kuuza kwa faida na walikabiliwa na bei ya kilimo isiyolipwa — wasiwasi ambao unabakia muhimu sana leo na upo katikati ya nadharia ya Boisguilbert. Kuhusu suala la vikwazo vya kibiashara, Boisguilbert alitetea kusafisha barabara, kwa maneno mengine, kuanzisha biashara huria.
-
-
-![image](assets/sw/014.webp)
-
-
-Na uhuru ndio hitimisho lake la mwisho. "Si suala la kuigiza," anasema, "lakini ni kuacha tu kutenda kwa jeuri dhidi ya asili, ambayo daima huelekea kwenye uhuru na ukamilifu." Kila kitu kitakuwa sawa, anarudia tena bila kuchoka, "ilimradi tuache asili ichukue mkondo wake, yaani tuipe uhuru wake, na kwamba hakuna mtu aingilie biashara hii isipokuwa kutoa ulinzi kwa wote na kuzuia vurugu."
-
-
-Kifungu hiki cha mwisho ni muhimu. Boisguilbert alikuwa wa kwanza kudai waziwazi sera ya kiuchumi ya laissez-faire, kuifanya imani yake, na kujenga mfumo halisi karibu nayo. Kulingana na yeye, kuna mpangilio wa asili wa mambo, na haupaswi kupotoshwa au kuharibiwa na uingiliaji wa umma kwa wakati. Serikali, kwa maoni yake, haipaswi kuchukua hatua katika masuala ya kiuchumi, bali iache mambo yatendeke kwa kawaida. Vinginevyo, itasababisha unyogovu.
-
-
-Boisguilbert hata alikosoa "good souls", kama alivyowaita, wale walio na nia nzuri lakini walifanya madhara makubwa. Walitaka mkate wa bei nafuu kwa ajili ya watu, lakini kwa kupunguza bei, waliwaangamiza wakulima, ambao hawakuweza kuishi kwenye pembezoni kama hizo. Wakulima hawa kisha waliacha mashamba yao, na kutumbukia zaidi katika umaskini. Kama tunavyojua, 'kuzimu mara nyingi huwekwa lami kwa nia njema'.
-
+Boisguilbert hata aliwakosoa "*roho njema*", kama alivyowaita, wale waliomaanisha mema lakini walifanya madhara makubwa. Walitaka mkate wa bei nafuu kwa watu, lakini kwa kulazimisha bei zishuke, waliwaharibu wakulima, ambao hawangeweza kuishi kwa mipaka hiyo. Wakulima hawa kisha waliacha ardhi zao, wakizama zaidi katika umasikini. Kama sisi sote tunavyojua, 'mara nyingi jehanamu hupambwa kwa nia njema'.
 
 ## Cantillon
 
-
 <chapterId>bc206d41-6a64-5688-a489-40fcfa0e5397</chapterId>
 
+### Mwanabenki wa Kiayalandi aliyeanzisha uchumi wa kisasa
 
-Mwandishi wa Essai sur la Nature du Commerce en Général (iliyoandikwa karibu 1730, iliyochapishwa mnamo 1755), Richard Cantillon anachukuliwa kuwa mmoja wa waanzilishi wa sayansi ya kisasa ya uchumi. Katika History of Economic Thought, mwanauchumi Murray Rothbard hata anarejelea Cantillon kama mwanzilishi wa uchumi wa kisasa.
+Mwandishi wa "Insha kuhusu Asili ya Biashara kwa Jumla" (iliyoandikwa karibu 1730, kuchapishwa 1755), Richard Cantillon anachukuliwa kuwa mmoja wa waanzilishi wa sayansi ya uchumi ya kisasa. Katika Historia ya Mawazo ya Kiuchumi yake, mwanauchumi Murray Rothbard hata humtaja Cantillon kama mwanzilishi wa uchumi wa kisasa.
 
+![Murray Rothbard, “Mtazamo wa Kiaustria kuhusu Historia ya Mawazo ya Kiuchumi”](assets/en/015.webp)
 
-![image](assets/sw/015.webp)
+Alizaliwa Ireland, Richard Cantillon alihamia Paris akiwa kijana na akapata uraia wa Ufaransa. Alifanya kazi kama mwanabenki na akapata utajiri wakati wa enzi ya John Law.
 
+![Richard Cantillon, “Insha kuhusu Asili ya Biashara”, John Law](assets/en/016.webp)
 
-Mzaliwa wa Ireland, Richard Cantillon alikaa Paris akiwa kijana na akapata utaifa wa Ufaransa. Alifanya kazi kama benki na akapata utajiri wakati wa John Law.
-
-
-![image](assets/sw/016.webp)
-
-
-Ilikuwa pia katika hafla hii kwamba alianza kusoma nadharia ya uchumi. Karibu 1730, Cantillon alitunga Insha yake juu ya Hali ya Biashara kwa Ujumla.
+Ni pia katika tukio hili ndipo alianza kusoma nadharia ya uchumi. Karibu 1730, Cantillon alitunga Insha kuhusu Asili ya Biashara kwa Jumla.
 
 
 
+Kitabu hiki kinaweza kuonekana kama mojawapo ya majaribio ya kwanza ya kuunda nadharia ya jumla ya uchumi. Cantillon ni makini kutambua kile anachokiita "sheria za jumla za uchumi", zile zilizo katika asili ya mambo, na si katika ukweli maalum wa nchi hii au ile. Mbinu hii ilikuwa ya kimapinduzi.
+
+### Michango mitano kwa sayansi ya uchumi
+
+Tunaweza kufupisha sifa kubwa za Insha ya Cantillon katika maeneo matano: nadharia ya utajiri, dhana ya mjasiriamali, ukosoaji wa sarafu zisizo na thamani, "Athari za Cantillon", na hatimaye utetezi wa uhuru.
+
+Kwanza, **nadharia yake ya utajiri inayotegemea kazi na maumbile**.
+Tofauti na mtazamo wa mercantilist uliotawala wakati huo, Cantillon aliweka uchambuzi wake juu ya utambuzi kwamba utajiri huundwa na bidhaa zinazofaa kwa starehe ya mwanadamu. Utajiri huu, alibisha, hutoka kwa maumbile na huzalishwa kupitia kazi ya binadamu. Mawazo yake kuhusu asili ya utajiri yalikuwa na ushawishi mkubwa kwa Beccaria na Adam Smith, na, kupitia Smith, kwa shule nzima ya mawazo ya Kiingereza ya kiklasiki.
+
+Pili, **mjasiriamali kama mhusika mkuu wa kiuchumi**.
+Ingawa hakulifafanua wazi, Cantillon alimwona mjasiriamali kama mchezaji mkuu na wa kati katika shughuli za kiuchumi. Kwa Cantillon, kinachomtambulisha mjasiriamali ni kwamba anachukua hatari na kutenda katika hali ya kutokuwa na uhakika. Mawazo haya baadaye yangepanuliwa na Turgot na, muhimu zaidi, na Say, ili hatimaye kutambua nafasi maalum ya mjasiriamali katika uchumi, kinyume wakati huu na madai ya shule ya Kiingereza.
+
+Hoja ya tatu, **hatari za sarafu isiyo na thamani**.
+Kwa kujibu uzoefu wa John Law, Cantillon anaeleza kinachotokea au kinachopaswa kutokea wakati sarafu haina thamani halisi.
+
+![Hati ya benki ya Law](assets/en/017.webp)
+
+Anaona matokeo makuu mawili ya kubadilisha sarafu ya metali kwa sarafu isiyo na thamani halisi kama pesa za karatasi. Matokeo ya kwanza ni kile anachokiita "kukataliwa na umma", yaani kutokuaminiana kunakoongezeka kwa pesa zisizo na thamani. Matokeo ya pili ni [mfumuko wa bei](https://planb.academy/resources/glossary/inflation): kudhoofika kwa fedha hufanya bidhaa kuwa ghali zaidi.
+
+Nne, katika uchambuzi wake wa **athari zisizo sawa za mfumuko wa bei**, Cantillon alienda mbali zaidi kuliko watu wa wakati wake. Baada ya kuona kuanguka kwa mfumo wa Law, Cantillon alitambua kwamba mfumuko wa pesa hauathiri kila mtu kwa usawa. Kinyume chake, huwatajirisha baadhi huku ukiwafukarisha wengine. Alihitimisha kwamba mfumuko wa bei una athari ya ugawaji upya: wale wanaopokea pesa mpya zilizotolewa kwanza hunufaika na ongezeko la nguvu ya ununuzi, wakati wale wanaozipokea baadaye huwa maskini zaidi kutokana na pesa mpya kutolewa kwa sababu ya kupanda kwa viwango vya mfumuko wa bei.
+
+Tano, licha ya mabaki machache ya mawazo ya mercantilist, mtazamo wa jumla wa Cantillon ulikuwa **wa kiliberali kikamilifu katika utetezi wake wa mali binafsi**. Alitetea mali binafsi kama nguzo ya msingi ya ustaarabu, akibisha kwamba hakuna jamii inayoweza kufanya kazi bila umiliki binafsi wa ardhi na bidhaa za kazi. Pia aliona kutokulingana kwa mali kati ya watu kuwa kwa asili na halali. Kulingana na Cantillon, hakuna ubaya kwa mfanyakazi mwenye ufanisi na jasiri, au aliyejaliwa kipekee kupata zaidi kuliko mtu asiye na uwezo au mvivu.  Hatimaye, Cantillon aliamini kwamba bei zinapaswa kuamuliwa kwa uhuru kila wakati, kwa mchezo wa ugavi na mahitaji, bila uingiliaji wa mamlaka za umma.
+
+### Athari ya Cantillon
+
+Miongoni mwa mawazo haya matano makubwa katika Insha yake, muhimu zaidi bila shaka ni lile ambalo sasa lina jina lake: **Athari ya Cantillon**.
+Kwa nadharia hii kuhusu athari za mfumuko wa bei, Cantillon anatupatia majibu kwa magonjwa kadhaa ya kisasa. Inatusaidia kuelewa matokeo ya sera za fedha za hivi karibuni za upanuzi na mfumuko wa bei, ambazo zimefukarisha tabaka la kati na ulimwengu wa vijijini, huku zikiwatajirisha waendeshaji wa masoko ya fedha na Serikali, mashirika yake na maafisa wake, kwa sababu ya ukaribu wao wa pamoja na chanzo cha utoaji mpya: benki kuu na benki za kibiashara.
 
 
-Kitabu hiki kinaweza kuonekana kama moja ya majaribio ya kwanza ya kuunda nadharia ya jumla ya uchumi. Cantillon alihakikisha kutambua kile alichokiita "general laws of economics" (sheria za jumla za uchumi), zile ambazo ziko katika asili ya mambo, na sio katika ukweli fulani wa nchi hii au ile. Mbinu hii ilikuwa ya mapinduzi.
-
-
-Tunaweza kufupisha sifa kuu za Insha ya Cantillon katika maeneo matano: nadharia ya utajiri, dhana ya mjasiriamali, uhakiki wa sarafu isiyo na thamani, "Athari za Cantillon", na hatimaye utetezi wa uhuru.
-
-
-Kwanza, **nadharia yake ya utajiri**.
-
-Tofauti na mtazamo wa wanabiashara uliokuwa ukitawala wakati huo, Cantillon aliegemeza uchanganuzi wake juu ya utambuzi kwamba utajiri hutengenezwa na bidhaa zinazofaa kwa matumizi ya binadamu. Utajiri huu, alidai, unatokana na maumbile na hutolewa kupitia kazi ya mwanadamu. Mawazo yake kuhusu asili ya utajiri yalikuwa na ushawishi mkubwa kwa Beccaria na Adam Smith, na, kupitia Smith, kwa shule nzima ya classical ya Kiingereza ya mawazo.
-
-
-Pili, **mjasiriamali**.
-
-Ingawa hakufafanua kwa uwazi, Cantillon alimtazama mjasiriamali kama mhusika mkuu katika shughuli za kiuchumi. Kwa Cantillon, kile kinachoonyesha mjasiriamali ni kwamba anajihatarisha na anafanya bila uhakika. Mawazo haya baadaye yangepanuliwa na Turgot na, muhimu zaidi, na Sema, hatimaye kutambua nafasi maalum ya mjasiriamali katika uchumi, kinyume na wakati huu na madai ya shule ya Kiingereza.
-
-
-Pointi ya tatu, **fedha**.
-
-Kwa kuguswa na uzoefu wa John Law, Cantillon anaelezea kile kinachotokea au lazima kifanyike wakati fedha haina thamani halisi.
-
-
-![image](assets/sw/017.webp)
-
-
-Anaona matokeo mawili kuu ya kubadilisha sarafu isiyo na thamani halisi kama pesa ya karatasi kwa chuma. Matokeo ya kwanza ni kile anachokiita "popular discredit", ambayo ina maana ya kuongezeka kwa kutoamini pesa zisizo na thamani. Matokeo ya pili ni [mfumuko wa bei](https://planb.academy/resources/glossary/inflation): kudhoofika kwa fedha hufanya bidhaa kuwa ghali zaidi.
-
-
-Nne, katika uchanganuzi wake wa mfumuko wa bei, Cantillon alikwenda mbali zaidi kuliko watu wa zama zake. Baada ya kuona kuporomoka kwa mfumo wa Law, Cantillon aligundua kuwa mfumuko wa bei wa fedha hauathiri kila mtu kwa usawa. Kinyume chake, inawatajirisha wengine huku ikiwafukarisha wengine. Alihitimisha kuwa mfumuko wa bei una athari ya ugawaji upya: wale wanaopokea pesa mpya zilizotolewa kwanza wanafaidika na kuongezeka kwa uwezo wa kununua, wakati wale wanaopokea baadaye wanakuwa maskini zaidi kutokana na fedha mpya zinazotolewa kutokana na kupanda kwa viwango vya mfumuko wa bei.
-
-
-Tano, licha ya mabaki machache ya mawazo ya wanabiashara, mtazamo wa jumla wa Cantillon ulikuwa uliberali kabisa. Alitetea mali ya kibinafsi kama nguzo ya msingi ya ustaarabu, akisema kwamba hakuna jamii inayoweza kufanya kazi bila ownership ya kibinafsi ya ardhi na bidhaa za kazi. Pia aliona ukosefu wa usawa wa nyenzo kati ya watu kama asili na halali. Kulingana na Cantillon, hakuna chochote kibaya kwa mfanyakazi hodari na jasiri, au mwenye kipawa cha kipekee kupata zaidi ya mtu asiye na uwezo au mvivu. Hatimaye, Cantillon aliamini kuwa bei zinapaswa kuamuliwa kila wakati kwa uhuru, na mchezo wa supply na mahitaji, bila kuingilia kati na mamlaka ya umma.
-
-
-Miongoni mwa mawazo haya makuu matano katika Insha yake, la muhimu zaidi bila shaka ni lile ambalo sasa linaitwa jina lake: **Athari ya Cantillon**.
-
-Kwa nadharia hii kuhusu athari za mfumuko wa bei, Cantillon hutupatia majibu kwa idadi ya matatizo ya kisasa. Inatusaidia kuelewa matokeo ya sera za hivi karibuni za upanuzi na mfumuko wa bei, ambazo zimewafanya tabaka la kati na ulimwengu wa vijijini kufukarika, huku zikiwatajirisha waendeshaji wa soko la fedha na Serikali, mashirika yake na maafisa wake, kutokana na ukaribu wao wa pamoja na chanzo cha utoaji mpya: benki kuu na benki za biashara.
-
-
-
-# Wanamageuzi na Wanafikra wa Mapema Karne ya 18
-
+# Wanamageuzi na Wanafikra wa Mwanzoni mwa Karne ya 18
 
 <partId>1f7b50d4-ce93-5db3-8396-43c1fa5419ff</partId>
 
-
-## Abbé de Saint-Pierre
-
+## Abbot wa Saint-Pierre
 
 <chapterId>13478fe2-4c12-593c-a410-54c2cfb7ef7f</chapterId>
 
+### Mpinga vita mwenye maandishi mengi katika enzi ya vita
 
-Kati ya waandishi wote ambao tumechagua kuwajumuisha katika kundi kubwa la wanafikra wa Kifaransa wa karne ya 18, Abate wa Saint-Pierre bila shaka ndiye aliyepuuzwa zaidi.
+Kati ya waandishi wote tuliowachagua kuwajumuisha katika kundi la wanafikra wa Kifaransa wa laissez-faire wa karne ya 18, Abbot wa Saint-Pierre bila shaka ndiye anayepuuzwa zaidi.
 
+![Abbot wa Saint-Pierre](assets/en/018.webp)
 
-![image](assets/sw/018.webp)
+Kwa haki, kwa sehemu ni kosa lake mwenyewe. Aliandika sana, lakini mtindo wake ni mgumu kusoma na umejaa marudio. Hata Jean-Jacques Rousseau alijaribu kufupisha kazi yake: alianza kufanya hivyo, lakini punde aliacha kazi hiyo, alipogundua kwamba ilikuwa nje ya uwezo wake. Katikati ya karne ya 19, Gustave de Molinari alimheshimu kwa kuchapisha kazi pana kumhusu, ambamo alitoa heshima kwa mpinga vita na mwanauchumi aliyekuwa Abbot wa Saint-Pierre. Lakini hii haikutosha kumtoa katika usahaulifu, kwani bado anaendelea kubaki humo leo.
 
-
-Ili kuwa wa haki, kwa sehemu ilikuwa kosa lake mwenyewe. Aliandika mengi sana, lakini mtindo wake ulikuwa Hard kusoma na umejaa marudio. Hata Jean-Jacques Rousseau alijaribu kufupisha kazi yake: alianza kufanya hivyo, lakini hivi karibuni akaiacha, kwani aligundua kuwa ilikuwa zaidi ya nguvu zake. Katikati ya karne ya 19, Gustave de Molinari alimheshimu kwa kuchapisha kazi ya kina juu yake, ambapo alilipa ushuru kwa pacifist na mwanauchumi ambaye Abbé de Saint-Pierre alikuwa. Lakini hii haikutosha kumtoa kwenye usahaulifu, kwani bado yuko ndani yake hadi leo.
-
-
-![image](assets/sw/019.webp)
+![Picha ya Gustave de Molinari, Abbot wa Saint-Pierre na Molinari](assets/en/019.webp)
 
 
 
+Abbot wa Saint-Pierre aliandika kuhusu uchumi, lakini kwa kawaida huvutia zaidi kama mpinga vita. Yeye ni mwandishi wa Mradi wa Amani ya Kudumu, uliotangulia ule unaojulikana sana wa Emmanuel Kant.
 
+![Abbot wa Saint-Pierre, “Mradi wa Kurejesha Amani Ulaya”](assets/en/020.webp)
 
-Abbé de Saint-Pierre aliandika juu ya uchumi, lakini kama mtu wa kutuliza amani ambaye kwa kawaida huvutia. Yeye ndiye mwandishi wa Projet de paix perpétuelle (Mradi wa Amani ya Kudumu), ambao ulitangulia ule unaojulikana sana wa Emmanuel Kant.
+Katika kazi hii, alibisha kwamba vita ni vya uharibifu, si tu kwa wale wanaoshindwa, bali pia kwa washindi, na hata kwa wale wasioshiriki, kwa kuwa biashara yao huathirika.
 
+Ili kupambana na janga la vita, alipendekeza kuundwa kwa aina ya Umoja wa Mataifa ya Ulaya. Baraza la Ulaya lingeundwa kutatua matatizo ya kila taifa. Kwa hiyo mataifa yangetumia usuluhishi, ili kuepuka kutumia silaha. Ikiwa taifa halingekuwa na busara ya kukubali amani, ikiwa lingetishia mataifa mengine ya Ulaya, umoja wa mataifa wa Ulaya ungekuwa na njia ya kujibu. Kukabili matukio kama hayo, jeshi la Ulaya lingeundwa, likiwa na vikosi vinavyotolewa na nchi mbalimbali.
 
-![image](assets/sw/020.webp)
+### Alifukuzwa kwa kuthubutu kumkosoa Louis XIV
 
+Pia kuna tukio katika maisha ya Abbot wa Saint-Pierre linaloonyesha kikamilifu mtazamo mkosoaji uliokuwa nyuma ya vuguvugu la Kifaransa la laissez-faire. Alijiunga na Académie Française mwaka 1695, lakini alifukuzwa mwaka 1718 kwa kuthubutu kuukosoa utawala wa Louis XIV. Katika hilo, alijiweka pamoja na watu kama Vauban na Boisguilbert, ambao pia walithubutu kusema dhidi ya taabu zilizofichwa chini ya fahari ya utawala wa Mfalme Jua.
 
-Katika kazi hii, alisisitiza kuwa vita ni uharibifu, si tu kwa wale wanaoipoteza, bali pia kwa washindi, na hata kwa wale wasiokuwa sehemu ya vita, kwa kuwa biashara zao pia huathiriwa.
+![Louis XIV, Versailles, Ukumbi wa Vioo](assets/en/021.webp)
 
-
-Ili kukabiliana na janga la vita, alipendekeza kuundwa kwa aina ya Ligi ya Mataifa ya Ulaya. Baraza la Ulaya lingeundwa kutatua matatizo ya kila taifa. Kwa hiyo mataifa yangetumia usuluhishi, ili kuepuka kutumia silaha. Ikiwa taifa halingekuwa na hekima ya kutosha kukumbatia amani, ikiwa lingetishia mataifa mengine ya Ulaya, ligi ya mataifa ya Ulaya ingekuwa na njia ya kujibu. Kukabiliana na matukio kama hayo, jeshi la Ulaya lingeundwa, likiwa na vikosi vilivyotolewa na nchi mbalimbali.
-
-
-Pia kuna kipindi katika maisha ya Abbé de Saint-Pierre ambacho kinaonyesha kikamilifu mawazo muhimu nyuma ya harakati ya Kifaransa ya laissez-faire. Alijiunga na Academy Française mwaka 1695, lakini alifukuzwa mwaka 1718 kwa kuthubutu kukosoa utawala wa Louis XIV. Katika hilo, alilingana na watu kama Vauban na Boisguilbert, ambao pia walikuwa wamethubutu kusema dhidi ya mafumbo yaliyofichwa chini ya utukufu wa utawala wa Mfalme wa Jua.
-
-
-![image](assets/sw/021.webp)
-
-
-Abbé de Saint-Pierre alidai kwamba utawala wa Louis XIV, pamoja na mahakama yake ya kifahari na tamaa ya ushindi wa kijeshi, haukuwa alama ya mfalme mwema. Alikataa kukubali kwamba Louis XIV alistahili jina **Louis le Grand**.
+Abbot wa Saint-Pierre alibisha kwamba utawala wa Louis XIV, pamoja na mahakama yake ya anasa na tamaa yake ya ushindi wa kijeshi, haukuwa alama ya mfalme mwema. Alikataa kukubali kwamba Louis XIV alistahili cheo "**Louis Mkuu**".
 
 
 
+"Kuwaharibu majirani zako na watu wako kwa wakati mmoja si ukuu", alisema. Msimamo huu uliudhi sana Académie Française, ambayo kwa muda mrefu ilikuwa imejishughulisha na kumtukuza mfalme katika kila namna ya fasihi iwezekanayo. Matokeo yake, walipiga kura karibu kwa kauli moja kumfukuza.
 
+![Chuo cha Kifaransa](assets/en/022.webp)
 
-"Kuharibu majirani na watu kwa wakati mmoja sio ukuu," alisema. Msimamo huu ulikasirisha sana Chuo cha Ufaransa, ambacho kilikuwa kimejishughulisha kwa muda mrefu na kumtukuza mfalme katika kila namna ya fasihi iwezekanavyo. Matokeo yake, walipiga kura karibu kwa kauli moja kumfukuza.
+### Mawazo ya mapema kuhusu ubadilishanaji na kazi
 
+Kwa upande wa mawazo ya kiuchumi, alitumia kwa uthabiti kanuni ya manufaa, kama Jeremy Bentham angefanya baadaye, na mara nyingi alitoa maarifa mazuri. Kwa haki, bado aliathiriwa na mawazo ya mercantilist, ambayo hakuna mtu alikuwa ameyaacha kikamilifu wakati huo.
 
-![image](assets/sw/022.webp)
+Hata hivyo, Abbot wa Saint-Pierre alitoa uchunguzi sahihi kuhusu uchumi. Hata kabla ya *Condillac*, ambaye mara nyingi hupewa sifa ya wazo hili, alisema wazi kwamba katika ubadilishanaji wowote, pande zote mbili hunufaika. Hili linaweza kupatikana katika ["Mradi wa Kuboresha Biashara ya Ufaransa"](https://www.institutcoppet.org/projet-pour-perfectionner-le-commerce-de-france/) yake ya 1733, ambapo aliandika:
 
+> Wakati mauzo yanafanyika kati ya wafanyabiashara, muuzaji hupata, na mnunuzi pia; kwa maana kama kusingekuwa na manufaa fulani ya kweli au yanayodhaniwa kwa pande zote mbili, muuzaji hangeuza kwa bei fulani, wala mnunuzi, kwa upande wake, hangenunua kwa bei fulani.
 
-Kwa upande wa fikra za kiuchumi, mara kwa mara alitumia kanuni ya matumizi, kama vile Jeremy Bentham angefanya baadaye, na mara nyingi alitoa maarifa mazuri. Ili kuwa wa haki, bado aliathiriwa na mawazo ya mercanantilist, ambayo hakuna mtu aliyemwaga kikamilifu wakati huo.
+![Kijitabu cha Kifaransa cha karne ya 18 kinachopendekeza mageuzi ya biashara na fedha, kikionyesha mijadala ya mapema kuhusu biashara na sera ya kiuchumi.](assets/en/023.webp)
 
-
-Bado, Abbé de Saint-Pierre alifanya uchambuzi sahihi kuhusu uchumi. Hata kabla ya **Condillac**, ambaye mara nyingi anatajwa kuwa na wazo hilo, alisema kwa uwazi kwamba katika Exchange yoyote, pande zote mbili hunufaika.l. Hii inaweza kupatikana katika 1733 ["Mradi wa Kuboresha Biashara ya Ufaransa"](https://www.institutcoppet.org/projet-pour-perfectionner-le-commerce-de-france/), ambapo aliandika:
-
-
-> "Mauzo yanapofanywa kati ya wafanyabiashara, muuzaji hunufaika, na mnunuzi pia hunufaika; kwa kuwa kama kusingekuwa na faida ya kweli au inayoonekana kwa pande zote mbili, muuzaji hangekubali kuuza kwa bei hiyo, wala mnunuzi hangekubali kununua kwa bei hiyo".
-
-![image](assets/sw/023.webp)
-
-
-Pia alisisitiza, kabla ya Vincent de Gournay kufanya, thamani ya kazi na umuhimu wa kuifanya kuvutia. "Kazi zote ni ngumu", aliandika. "Na wakati mtu anaona kwamba kazi yake haimlipi chochote, au haitoshi, anakuwa mvivu na hatajisumbua na juhudi zisizo za lazima". Hoja hii hii baadaye ingesisitizwa na akina Marquis d'Argenson, Vincent de Gournay, na Wanafiziokrati walipokuwa wakikosoa kanuni mizito na mifumo ya chama. Walisema kwamba vizuizi hivyo viliwakatisha tamaa wafanyakazi, vilisababisha ugumu usiohitajika, na hatimaye kufanya uvivu uonekane kuwa wa kuvutia zaidi kuliko jitihada zenye matokeo chini ya hali kama hizo.
-
+Pia alisisitiza, kabla Vincent de Gournay hajafanya hivyo, thamani ya kazi na umuhimu wa kuifanya ivutie. "Kazi yote ni ngumu", aliandika. "Na mtu anapoona kwamba kazi yake haimlipi chochote, au haitoshi, huwa mzembe na hatajisumbua kwa juhudi zisizo za lazima". Hoja hii hii baadaye ingerudiwa na Marquis d'Argenson, Vincent de Gournay, na Wanafiziokrati walipokosoa kanuni nzito na mifumo ya magildi. Walibisha kwamba vizuizi hivyo vilikatisha tamaa wafanyakazi, vilisababisha ugumu usiohitajika, na hatimaye vilifanya uvivu uonekane kuvutia zaidi kuliko juhudi yenye tija chini ya hali kama hizo.
 
 
 ## Marquis d'Argenson
 
-
 <chapterId>e9960ab4-72ec-5afd-8e97-bf89c83b62bc</chapterId>
 
+### Mtangulizi wa Adam Smith
 
 Marquis d'Argenson ni mwanzilishi aliyesahaulika wa fundisho la laissez-faire.
 
+![Marquis d'Argenson, Laissez-faire, laissez-passer](assets/en/024.webp)
 
-![image](assets/sw/024.webp)
-
-
-Iligunduliwa tena na August Oncken, mwandishi wa kitabu juu ya mafundisho ya laissez-faire, laissez-passer, alihitimisha kwamba d'Argenson alichukua jukumu kubwa katika kuzaliwa kwa wazo hili.
+Aligunduliwa upya na August Oncken, mwandishi wa kitabu kuhusu fundisho la laissez-faire, laissez-passer, aliyehitimisha kwamba d'Argenson alichukua nafasi kubwa katika kuzaliwa kwa wazo hili.
 
 
 
+René-Louis Voyer, Marquis d'Argenson, alizaliwa mwaka 1694. Alianza kazi yake ya kisiasa kama mshauri wa bunge, kisha akahudumu katika Baraza la Serikali.
+
+**Miaka thelathini kabla ya Adam Smith**, d'Argenson alikuwa tayari anatetea faida za mgawanyo wa kazi na utaalamu.
+
+![Utengenezaji wa pini, “Encyclopédie” ya Diderot na d'Alambert](assets/en/025.webp)
+
+Alikosoa vikali kanuni ambazo, kama alivyoziona, zilijaribu kubadilisha mapendeleo ya asili ya maeneo tofauti. Kwa mfano, alishangaa kwamba serikali ilitaka kuzalisha vitambaa na velvet huko Tours, mji maskini wakati huo, ili kufikia ubora wa vile vilivyotengenezwa Genoa yenye ustawi, iliyokuwa maarufu kwa bidhaa zake za anasa. Alihitimisha:
+
+> Kila mahali lazima paruhusiwe kuchagua viwanda vyake. Uhuru! Uhuru!
+
+### Utaratibu wa hiari na mkono usioonekana
+
+Pia alitambua kanuni nyingine kuu ya Smith: wazo kwamba utaratibu wa hiari huibuka kutokana na ufuatiliaji wa maslahi binafsi. Marquis d'Argenson aliamini kwamba maslahi ya kibinafsi ya haraka ndiyo yaliyosukuma nguvu za binadamu. Aliandika kwamba kazi duni na udanganyifu vingemharibia mtengenezaji sifa, ilhali bidii na nia njema vingesababisha ustawi. Mwamuzi bora wa manufaa, alibisha, alikuwa mtu binafsi, umma kwa ujumla, ambao hununua bidhaa na kujali kupata dili nzuri. "Kila mtu huhisi maslahi yake mwenyewe," alisema, "kila mtu huchukua hatua zinazomletea faida, na ni katika makubaliano haya ya jumla ndipo tunagundua ukweli."
 
 
-René-Louis Voyer, Marquis d'Argenson, alizaliwa mwaka wa 1694. Alianza kazi yake ya kisiasa kama mshauri wa bunge, kisha akahudumu katika Baraza la Nchi.
+Hata kabla ya Adam Smith, alielewa kwamba maslahi binafsi huongoza kwenye maslahi ya jumla kupitia ujenzi wa utaratibu wa asili wa hiari.
+
+![Picha ya Adam Smith](assets/en/026.webp)
+
+Aliilinganisha jamii na mzinga wa nyuki ambamo kila mdudu hufuata silika yake, "Kutokana na matendo yao", alisema kwa usahihi, "kulitokana mkusanyiko mkubwa kwa mahitaji ya jamii ndogo; lakini haya hayakuletwa na amri, au na majenerali, waliomlazimisha kila mmoja kufuata maoni ya kiongozi wao". Huenda hii ndiyo kauli iliyo karibu zaidi katika mawazo ya kiuchumi ya Kifaransa na dhana maarufu ya Adam Smith ya "mkono usioonekana".
+
+Marquis d'Argenson daima alikasirishwa na mawazo ya mawaziri wa wakati wake. Swali pekee walilouliza lilikuwa, "Je, tudhibiti kwa njia hii au ile? Je, tuelekeze uchumi upande huu au ule?" Ambalo d'Argenson alijibu: "Je, hatupaswi kwanza kuuliza kama inafaa kuelekeza chochote kati ya hayo kabisa, au kama mambo yanapaswa kuachwa yajifanyie kazi yenyewe?"
 
 
-Miaka thelathini kabla ya Adam Smith, d'Argenson alikuwa tayari akitetea faida za mgawanyo wa kazi na utaalamu.
+Kwa kusema kweli, alishangaa kwamba watu waliona vigumu sana kuelewa, au tuseme, kuona, athari hatari za udhibiti uliopitiliza wa kila aina kwa uchumi. Kwa mtazamo wake, ilitosha tu kufungua macho. "Mambo mengi sana yanafanya kazi vizuri kiasi leo", aliandika kwa uchungu, "kwa sababu tu yamefanikiwa kukwepa mkono wa sheria".
+Wakati mwingine, alikata tamaa kwa jinsi mawazo yake yalivyoeleweka kidogo.
+
+![Marquis d'Argenson, “Shajara na Kumbukumbu”](assets/en/027.webp)
+
+### Hoja ya Serikali ndogo
+
+Mfano wa sera ya kiuchumi alioutetea kwa hiyo ulikuwa kinyume na mienendo ya wakati wake. Mfano wake ulifafanua jukumu hasi kimsingi kwa Serikali. "Kile biashara inachohitaji ni kuondolewa kwa vikwazo. Inaomba tu majaji wazuri, adhabu ya ukiritimba, ulinzi sawa kwa wananchi wote, sarafu thabiti, na barabara na mifereji". Hii ilikuwa tafsiri ya Serikali ndogo, ambayo ingekuwa moja ya misingi ya mapokeo ya Kifaransa katika uchumi wa kisiasa.
+
+Maono haya ya jukumu la Serikali katika shughuli za kiuchumi yalionyeshwa kiasili na utafiti wa masuala mawili makubwa yaliyowachochea wanauchumi na wanafikra wa kijamii wa wakati wake: udhibiti wa viwanda na biashara ya ngano.
+
+Kanuni kuhusu viwanda, kwanza kabisa, zilichochea chuki yake yote, kwa sababu zilikuwa marupurupu kwa baadhi kwa gharama ya wengine. "Sababu halisi ya kushuka kwa viwanda vyetu", aliandika, "ni ulinzi uliopitiliza unaotolewa kwao". Na kwa imani isiyo pungufu kwa nguvu aliukosoa ari ya dirigiste ya watawala wa wakati wake:
 
 
-![image](assets/sw/025.webp)
+> Kuendesha viwanda kinyume na mapenzi yake ni kutaka maangamizi yake.
 
-
-Alishutumu vikali kanuni ambazo, kama alivyoona, zilijaribu kubadilisha upendeleo wa asili wa mikoa tofauti. Kwa mfano, alishangaa kwamba serikali ilitaka kutengeneza vitambaa na velvet katika Tours, jiji maskini wakati huo, ili kupatana na ubora wa zile zilizotengenezwa katika Genoa yenye ufanisi, ambayo ilikuwa maarufu kwa bidhaa zake za kifahari. Alihitimisha:
-
-
-> "Kila sehemu lazima iruhusiwe kuchagua viwanda vyake. Uhuru! Uhuru!"
-
-Pia alitambua kanuni nyingine kuu za Smith: wazo kwamba utaratibu wa hiari hutokana na kutafuta maslahi binafsi. Marquis d'Argenson waliamini kwamba maslahi ya kibinafsi ya mara moja ndiyo yaliendesha nishati ya binadamu. Aliandika kwamba ufundi duni na ulaghai ungedhoofisha mtengenezaji, wakati bidii na nia nzuri ingesababisha ustawi. Jaji bora wa matumizi, alisema, alikuwa mtu binafsi, umma kwa ujumla, ambao hununua bidhaa na kujali juu ya kufanya biashara nzuri. "Kila mtu anahisi nia yake mwenyewe," alisema, "kila mtu huchukua hatua ambazo zina faida kwake, na ni katika makubaliano haya ya jumla ndipo tunagundua ukweli."
-
-
-
-Hata kabla ya Adam Smith, alielewa kuwa ubinafsi husababisha maslahi ya jumla kupitia ujenzi wa utaratibu wa asili wa hiari.
-
-
-![image](assets/sw/026.webp)
-
-
- Alilinganisha jamii na mzinga wa nyuki ambapo kila mdudu hufuata silika yake, "kutokana na matendo yao", alisema kwa usahihi, "ilisababisha mkusanyiko mkubwa wa mahitaji ya jamii ndogo; lakini hii haikuletwa na amri, au na majenerali, ambao walimlazimu kila mtu kufuata maoni ya kiongozi wao". Labda hii ndiyo usemi wa karibu zaidi katika fikra za kiuchumi za Ufaransa kwa dhana maarufu ya Adam Smith ya "invisible hand".
-
-
-Marquis d'Argenson mara zote alikasirishwa na mawazo ya wahudumu wa wakati wake. Swali pekee walilouliza lilikuwa, "Je, tudhibiti kwa njia hii au ile? Je, tuelekeze uchumi kuelekea hili au lile?". Ambayo d'Argenson alijibu: "Je, hatupaswi kwanza kuuliza kama inafaa kuelekeza lolote kati ya hayo kabisa, au kama mambo yanapaswa kuachwa yafanye kazi yenyewe?"
-
-
-
-Kusema ukweli, alishangaa kwamba watu waliona hivyo ngumu kuelewa, au tuseme, kuona, madhara ya udhibiti wa kupindukia wa kila aina kwenye uchumi. Kwa maoni yake, ilitosha tu kufungua macho ya mtu. "Mambo mengi sana yanafanya kazi vizuri leo", aliandika kwa uchungu, "kwa sababu tu wameweza kuepuka kufikiwa na sheria".
-
-Wakati fulani, alikata tamaa kwa jinsi mawazo yake yalivyoeleweka kidogo.
-
-
-![image](assets/sw/027.webp)
-
-
-Ubora wa sera ya kiuchumi ambayo aliitetea ilikuwa kinyume na mwelekeo wa wakati wake. Ubora wake ulifafanua jukumu hasi kwa serikali. "Mahitaji yote ya kibiashara ni kuondolewa kwa vikwazo. Inauliza tu waamuzi wazuri, adhabu ya ukiritimba, ulinzi sawa kwa raia wote, sarafu thabiti, na barabara na mifereji". Hii ilikuwa ni ufafanuzi kwa Jimbo ndogo, ambayo itakuwa moja ya misingi ya utamaduni wa Kifaransa katika uchumi wa kisiasa.
-
-
-Maono haya ya dhima ya Serikali katika shughuli za kiuchumi kwa kawaida yalionyeshwa na uchunguzi wa masuala makuu mawili yaliyowachochea wachumi na wanafikra wa kijamii wa wakati wake: udhibiti wa viwanda na biashara ya ngano.
-
-
-Kanuni za tasnia, kwanza kabisa, ziliamsha chuki yake yote, kwa sababu zilikuwa mapendeleo kwa wengine kwa gharama ya wengine. "Sababu halisi ya kudorora kwa viwanda vyetu", aliandika, "ni ulinzi wa kupindukia unaotolewa kwao". Na ilikuwa kwa imani hai kidogo kwamba alionyesha ukosoaji wake wa bidii ya dirigiste ya wakuu wa wakati wake:
-
-
-
-> Kuendesha sekta hiyo kinyume na matakwa yake ni kutaka uharibifu wake.
-
-Kuhusu suala la biashara ya kujikimu, d'Argenson hakuwa na jibu lingine zaidi ya uhuru. Kulingana naye, uhaba wa ngano ulitokana na ukiritimba na tahadhari nyingi zilizochukuliwa na serikali. Tulichohitaji kufanya ni kuiruhusu, na hakutakuwa na upungufu wa ngano katika nchi ambayo bandari zilikuwa wazi. Wageni, wakivutwa kama watu wengine wote kwa mvuto wa faida, wangetupatia kile tunachohitaji na kuchukua ziada yetu. "Na iwe," alisema, "na yote yatakuwa sawa".
-
+Kuhusu suala la biashara ya mahitaji ya msingi, d'Argenson hakuwa na jibu jingine ila uhuru. Kulingana naye, uhaba wa ngano ulitokana na ukiritimba na tahadhari zilizopitiliza zilizochukuliwa na serikali. Tulichopaswa kufanya ni kuiacha iwe, na hakungekuwa kamwe na uhaba wa ngano katika nchi ambayo bandari ziko wazi. Wageni, wakivutiwa kama watu wengine wote na mvuto wa faida, wangetupatia tunachohitaji na kuchukua ziada yetu. "Iache iwe", alisema, "na yote yatakuwa sawa".
 
 ## Vincent de Gournay
 
-
 <chapterId>e8ae40dc-7450-552f-9ddc-9e02936cf425</chapterId>
 
+### Mfanyabiashara katika korido za mamlaka
 
-Vincent de Gournay alikuwa mmoja wa wawakilishi wa kwanza wa laissez-faire nchini Ufaransa, na mmoja wa watetezi wake wa mwanzo katika utawala wa umma na duru za wasomi. Kwa sababu hiyo, anastahili kutambuliwa zaidi katika historia ya fikra za kiuchumi kuliko kawaida anazopokea. Nimejaribu kuangazia michango yake katika kitabu cha hivi majuzi.
+Vincent de Gournay alikuwa mmoja wa wawakilishi wa kwanza wa laissez-faire nchini Ufaransa, na mmoja wa watetezi wake wa mapema katika utawala wa umma na duru za kifikra. Kwa sababu hiyo, anastahili kutambuliwa zaidi sana katika historia ya mawazo ya kiuchumi kuliko anavyopokea kwa kawaida. Nimejaribu kuonyesha michango yake katika kitabu cha hivi karibuni.
 
+![Benoît Malbranque, “Vincent de Gournay”](assets/en/028.webp)
 
-![image](assets/sw/028.webp)
+Akiwa amezaliwa katika familia ya wafanyabiashara, Gournay mwenyewe alikua mfanyabiashara aliyefanikiwa, akikusanya utajiri mkubwa kabla ya kupata nafasi katika utawala wa Ufaransa. Ndani ya Ofisi ya Biashara, alikuwa **mtetezi mwenye ari wa kazi huria na biashara huria**.
 
+Ingawa alikuwa ameunganishwa vizuri katika muktadha wa wanauchumi wakuu wa wakati wake, Gournay aliandika kidogo au, tuseme, alichapisha kidogo. Aliandika hasa barua za kiutawala na kumbukumbu, ama ambazo hazikuchapishwa au zilichapishwa na waandishi wengine baada ya uhariri fulani.
 
-Alizaliwa katika familia ya wafanyabiashara, Gournay alikua mfanyabiashara aliyefanikiwa mwenyewe, akikusanya mali nyingi kabla ya kupata nafasi katika utawala wa Ufaransa. Ndani ya Ofisi ya Biashara, alikuwa mtetezi mkubwa wa kazi huria na biashara huria.
+Tulicho nacho kinajumuisha:
 
+1. [Maoni](https://archive.org/details/traitessurlecomm0000chil) juu ya tafsiri ya kitabu cha mwanauchumi wa Kiingereza Josiah Child;
 
-Ingawa aliingizwa vyema katika muktadha wa wachumi wakuu wa wakati wake, Gournay aliandika kidogo au, badala yake, alichapisha kidogo. Aliandika hasa barua za utawala na kumbukumbu, ambazo hazijachapishwa au kuchapishwa na waandishi wengine baada ya uhariri fulani.
+![Risala kuhusu biashara ya Josiah Child, Maandishi ya tarehe 26 Juni 1715, yaliyoandikwa na M. de Gourgan, mfanyabiashara, Ripoti rasmi kuhusu Compagnie des Indes](assets/en/029.webp)
 
-
-Tuliyo nayo ni pamoja na:
-
-
-1. [Maelezo](https://archive.org/details/traitessurlecomm0000chil) kuhusu tafsiri ya kitabu cha mwanauchumi wa Kiingereza Josiah Child;
-
-
-![image](assets/sw/029.webp)
-
-
-2. "Uchunguzi" uliojumuishwa katika Uchunguzi wa Faida na Hasara za Marufuku ya Vitambaa vilivyochapishwa;
+2. "Maoni" yaliyojumuishwa katika Uchunguzi wa Faida na Hasara za Marufuku ya Vitambaa Vilivyochapishwa;
 
 
 
-
-
-3. "Maoni kuhusu Kampuni ya India Mashariki", iliyoambatanishwa na Abbot Morellet kwenye Kumbukumbu yake kuhusu Jimbo la Sasa la Kampuni ya India Mashariki (1769);
-
+3. "Maoni kuhusu Kampuni ya East India", yaliyoongezwa na Abbot Morellet kwenye Kumbukumbu kuhusu Hali ya Sasa ya Kampuni ya East India yake (1769);
 
 
 
+4. Na zaidi ya yote, kumbukumbu mbalimbali kutoka jukumu lake kama Intendant wa Biashara.
 
-4. Na zaidi ya yote, kumbukumbu mbalimbali kutoka kwa jukumu lake kama Mfanyabiashara.
+### Ushawishi wa nje na mawazo ya kimuundo
 
+Maandishi haya yanaonyesha ushawishi wazi wa nje na uwepo wa mawazo makubwa ya kimuundo. Ushawishi wa nje, kwa Gournay, ni utambuzi wa ubora wa Kiingereza na Kiholanzi. Gournay alikuwa na hakika kwamba mataifa haya mawili yalielewa uchumi vizuri zaidi kuliko Ufaransa, na kwamba Ufaransa lazima ifuate mfano wao. "Mataifa haya mawili ndiyo yenye ustawi zaidi", alisema, "na yanafuata mfumo tofauti kabisa na wetu. Sisi tunakataza kuingia kwa bidhaa za kigeni, tunafungia shughuli za kiuchumi ndani ya kanuni kali, wakati wao wanafanya kinyume. Ikiwa wanafanya vizuri zaidi", Gournay alihitimisha, "ni kwa sababu Ufaransa inaongozwa na kanuni mbovu".
 
-Maandishi haya yanaonyesha ushawishi wa wazi wa kigeni na uwepo wa mawazo makuu ya muundo. Ushawishi wa kigeni, huko Gournay, ni utambuzi wa ubora wa Kiingereza na Uholanzi. Gournay alikuwa na hakika kwamba mataifa haya mawili yanaelewa uchumi bora zaidi kuliko Ufaransa, na kwamba Ufaransa lazima ifuate mfano wao. "Mataifa haya mawili ndiyo yaliyostawi zaidi", alisema, "na yanafuata mfumo tofauti kabisa na sisi. Tunakataza kuingia kwa bidhaa za kigeni, tunaweka shughuli za kiuchumi ndani ya kanuni za kibabe, huku zikiendelea kinyume. Ikiwa zinafanya vizuri zaidi", Gournay alihitimisha, "ni kwa sababu Ufaransa inaongozwa na kanuni mbovu".
+Mapendekezo yake ya mageuzi yalijikita katika hoja kadhaa kuu.
 
+Kwanza, aliamini kazi ilihitaji kulindwa na kuhimizwa. Wakati huo, wafanyakazi wa Kifaransa walitendewa kama wahalifu, wakifuatiliwa daima, na kuwekwa katika hofu ya kutokuwa wametii mojawapo ya maelfu ya kanuni. Usumbufu huu uliopitiliza uliwakatisha watu tamaa kufanya kazi, ukiwasukuma badala yake kuelekea uvivu. Hata hivyo, Gournay alibisha, "kazi ni adhimu na ndiyo njia pekee ya kutajirisha taifa".
 
-Mapendekezo yake ya mageuzi yalizingatia mambo kadhaa muhimu.
+Pili, alikosoa mfumo wenye vizuizi wa magildi uliowafungia watengenezaji. Kushiriki katika biashara kulichukua muda mwingi na gharama kubwa, na kila mfanyakazi mpya kisha alipaswa kufuata kwa uangalifu utaratibu uliowekwa na katiba za gild yake. Mfumo kama huo haukuacha nafasi kwa ubora, ubunifu, au maendeleo.
 
+Tatu, biashara nchini Ufaransa ilizuiwa na sheria zenye vizuizi. Kwa mtazamo wa Gournay, watumiaji wangenufaika sana ikiwa bandari zingeshindana kwa uhuru na bidhaa zote, kama nafaka na vitambaa vilivyochapishwa, zingeruhusiwa kuingizwa bila kizuizi. Alikuwa mmoja wa wa kwanza kuonyesha asili ya kweli ya magendo: yalikuwepo tu kwa sababu biashara yenye manufaa na yenye faida ilikatazwa. Aliongeza uchunguzi mkali: magendo yalikuwa taaluma "huru", bila kanuni, bila magildi, bila kodi za kupora. Hata hivyo, udhibiti mzito wa Serikali ndio uliowasukuma wafanyakazi wengi waaminifu kuingia katika uharamu.
 
-Kwanza, aliamini kwamba kazi ilihitaji kulindwa na kutiwa moyo. Wakati huo, wafanyikazi wa Ufaransa walichukuliwa kama wahalifu, wakifuatiliwa kila wakati, na waliwekwa kwa hofu ya kutofuata moja ya maelfu ya kanuni. Kero hii ya kupita kiasi iliwakatisha tamaa watu kufanya kazi, na kuwasukuma kuelekea uvivu. Hata hivyo, Gournay alisema, "kazi ni nzuri na ndiyo njia pekee ya kutajirisha taifa".
+Hatimaye, Gournay alibainisha kwamba viwango vya riba vilikuwa chini Uingereza na Uholanzi, nchi zilizo na ustawi zaidi kuliko Ufaransa. Alitetea viwango vya chini vya riba nchini Ufaransa pia, ili shughuli za kiuchumi ziweze kufadhiliwa huko kwa masharti yenye faida kama kwingineko. Hata hivyo, Gournay hakutafuta mbinu za kulazimisha za kisheria; badala yake, alisisitiza haja ya kuhalalisha ukopeshaji pesa, ambao bado ulikuwa unalaaniwa na Kanisa Katoliki.
 
+### Ushawishi wa kudumu kwa Turgot na zaidi
 
-Pili, alikosoa mfumo wa vizuizi wa mashirika ambayo yaliwafunga wazalishaji. Kushiriki katika biashara kulikuwa kwa muda na kwa gharama kubwa, na kila mfanyakazi mpya alilazimika kufuata kwa uangalifu utaratibu uliowekwa na sheria za chama chake. Mfumo kama huo haukuacha nafasi kwa ubora, uvumbuzi, au maendeleo.
+Katika hoja hizi zote, Gournay alichukua nafasi muhimu katika mijadala ya kifikra ya katikati ya karne ya 18. Utetezi wake wa uhuru wa kiuchumi ulitangulia Wanafiziokrati kwa muongo mmoja na Adam Smith kwa miaka ishirini. Lakini ushawishi wake wa kudumu zaidi ulikuwa kwa Turgot. Gournay alimchukua Turgot kijana chini ya uangalizi wake na kumfundisha kwa mawazo yake.
 
+![Picha ya Turgot](assets/en/030.webp)
 
-Tatu, biashara nchini Ufaransa iliwekewa mipaka na sheria zenye vikwazo. Kwa maoni ya Gournay, watumiaji wangefaidika pakubwa ikiwa bandari zingeweza kushindana kwa uhuru na bidhaa zote, kama vile nafaka na turubai zilizochapishwa, zingeruhusiwa kuagizwa nje bila vikwazo. Alikuwa mmoja wa wa kwanza kutaja asili ya kweli ya magendo: ilikuwepo tu kwa sababu biashara ya manufaa na muhimu ilikuwa imepigwa marufuku. Aliongeza uchunguzi mkali: magendo ilikuwa taaluma "free", huru, isiyo na kanuni, hakuna vyama, hakuna ushuru wa kutaifisha. Hata hivyo ilikuwa ni kanuni kubwa ya Serikali ambayo iliwafanya wafanyakazi wengi waaminifu kuingia katika uharamu.
+Miaka baadaye, Turgot, waziri wa baadaye chini ya Louis XVI, aliandika Éloge (sifa ya marehemu) kwa heshima ya rafiki yake baada ya kifo chake. Na ikiwa Turgot hakuwahi kukumbatia kikamilifu Fiziokrasia ya François Quesnay, ilikuwa kwa sababu alihifadhi mshikamano usioshindika na mwalimu wake wa kwanza, Vincent de Gournay.
 
-
-Hatimaye, Gournay alibainisha kuwa viwango vya riba vilikuwa chini katika Uingereza na Uholanzi, nchi zilizostawi zaidi kuliko Ufaransa. Alitetea viwango vya chini vya riba nchini Ufaransa pia, ili shughuli za kiuchumi ziweze kufadhiliwa huko kwa masharti ya faida kama mahali pengine. Gournay, hata hivyo, hakutafuta mbinu za kulazimisha, za kutunga sheria; badala yake, alikazia uhitaji wa kuhalalisha kukopesha pesa, jambo ambalo bado lilishutumiwa na Kanisa Katoliki.
-
-
-Kwa nukta hizi zote, Gournay alichukua jukumu muhimu katika mijadala ya kiakili ya katikati ya karne ya 18. Utetezi wake wa uhuru wa kiuchumi ulitangulia Physiocrats kwa muongo mmoja na Adam Smith kwa miaka ishirini. Lakini ushawishi wake wa kudumu ulikuwa kwa Turgot. Gournay alimchukua Turgot mchanga chini ya mrengo wake na kumfundisha kwa maoni yake.
-
-
-![image](assets/sw/030.webp)
-
-
-Miaka kadhaa baadaye, Turgot, waziri wa baadaye chini ya Louis XVI, aliandika Éloge (eulogy) kwa heshima ya rafiki yake baada ya kifo chake. Na kama Turgot hakukubali kabisa Fizikia ya François Quesnay, ni kwa sababu alihifadhi uhusiano usioshindwa na bwana wake wa kwanza, Vincent de Gournay.
-
-
-## Mzunguko wa Gournay
-
+## Duru ya Gournay
 
 <chapterId>b86ba6bd-8f3a-5d8f-b098-4d0413f00deb</chapterId>
 
+### Mtandao wa watafsiri na wanauchumi
 
-Inapofikia siku za mwanzo za sayansi ya uchumi, historia huelekea kuangazia shule ya kwanza ya fikra: Wanafizikia, wakiongozwa na François Quesnay na wanafunzi wake. Hata hivyo, karibu muongo mmoja kabla ya kupanda kwao, kulikuwa na kundi lingine, lisilo rasmi lakini muhimu sawa lililojikita karibu na mwanauchumi Vincent de Gournay.
+Inapokuja kwa siku za mwanzo za sayansi ya uchumi, historia huelekea kuangazia shule ya kwanza ya mawazo: Wanafiziokrati, wakiongozwa na François Quesnay na wanafunzi wake. Hata hivyo, karibu muongo mmoja kabla ya kuibuka kwao, kulikuwa na kundi lingine, lisilo rasmi sana lakini muhimu vivyo hivyo, lililozunguka mwanauchumi Vincent de Gournay.
 
+![Duru ya Vincent de Gournay](assets/en/031.webp)
 
-![image](assets/sw/031.webp)
+Kama tulivyoona katika sehemu iliyotangulia, Gournay alivutiwa na mfano wa mataifa ya nje kama Uingereza na Uholanzi. Aliwaheshimu wanauchumi wao (watu kama Josiah Child, Johan de Witt, na David Hume) vivyo hivyo.
 
+![Picha ya David Hume](assets/en/032.webp)
 
-Kama tulivyoona katika sehemu iliyotangulia, Gournay alivutiwa na mfano wa mataifa ya kigeni kama vile Uingereza na Uholanzi. Alivutiwa na wanauchumi wao—takwimu kama vile Josiah Child, Johan de Witt, na David Hume—hata hivyo.
+Heshima hii ilimpeleka kutafsiri, na kuwapa wengine kazi ya kutafsiri, maandishi yao ya kiuchumi.
 
+Ilitokea kwamba nafasi yake katika utawala wa juu ilimwezesha Gournay kukutana na wataalamu wote wa uchumi waliokuwa wakijulikana Ufaransa wakati huo. Kwa njia hii, alikusanya kundi la watafsiri wenye uwezo mkubwa sana. Yeye binafsi alitafsiri kazi za Child na Culpeper. Abbot Le Blanc alitafsiri Hotuba za Kisiasa za David Hume. Véron de Forbonnais alitafsiri mwanauchumi Mhispania Geronymo de Uztariz. Turgot alifanya kazi juu ya maandishi ya Josiah Tucker, na mwana wa Montesquieu alitafsiri Joshua Gee.
 
-![image](assets/sw/032.webp)
+### Mlipuko wa uchapishaji wa kiuchumi
 
+Kutokana na ushirikiano wa wanachama kadhaa wa duru ya Gournay, waandishi wengi waliweza kuchapisha kazi asilia kwa majina yao wenyewe. Vitabu hivi, pamoja na tafsiri, vilipata mafanikio ya ajabu. Baadhi ya mifano mashuhuri ni:
 
-Kustaajabishwa huku kulimpelekea kutafsiri, na kugawa tafsiri za maandishi yao ya kiuchumi.
+- Insha ya Herbert kuhusu [Polisi Mkuu wa Nafaka](https://archive.org/details/essaisurlapolice00herb/page/n7/mode/2up) (matoleo 6 katika miaka 4)
 
+![Abbé Gabriel-François Coyer, “La Noblesse commerçante”, Insha juu ya sera ya jumla ya nafaka (1755)](assets/en/033.webp)
 
-Ilibainika kuwa nafasi yake katika utawala mkuu ilimruhusu Gournay kuwasiliana na wataalamu wote wa uchumi waliojulikana nchini Ufaransa wakati huo. Kwa njia hii, alikusanya kikundi cha watafsiri wenye uwezo sana. Yeye binafsi alitafsiri kazi za Mtoto na Culpeper. Abate Le Blanc alitafsiri Mijadala ya Kisiasa ya David Hume. Véron de Forbonnais alitafsiri mwanauchumi wa Uhispania Geronymo de Uztariz. Turgot alifanyia kazi maandishi ya Josiah Tucker, na mtoto wa Montesquieu alitafsiri Joshua Gee.
-
-
-Shukrani kwa ushirikiano wa wanachama kadhaa wa mduara wa Gournay, waandishi wengi waliweza kuchapisha kazi asili chini ya majina yao wenyewe. Vitabu hivi, pamoja,
-
-
-
-- Insha ya Herbert kuhusu [General Police of Grain](https://archive.org/details/essaisurlapolice00herb/page/n7/mode/2up) (matoleo 6 katika miaka 4)
-
-
-![image](assets/sw/033.webp)
+- [Noblesse commerçante](https://archive.org/details/lanoblessecommer00coye/page/n3/mode/2up) ya Coyer (matoleo 5 katika miaka 2)
 
 
 
-- Coyer [Noblesse commerçante](https://archive.org/details/lanoblessecommer00coye/page/n3/mode/2up) (matoleo 5 ndani ya miaka 2)
+- [Maoni kuhusu Faida na Hasara za Ufaransa na Uingereza](https://archive.org/details/bim_eighteenth-century_remarks-on-the-advantage_plumard-de-dangeul-loui_1754) ya Plumard de Dangeul (matoleo 3 katika mwaka wake wa kwanza)
+- [Kumbukumbu kuhusu Mashirika ya Kazi](https://www.amazon.com/Memoire-sur-corps-metiers-French/dp/1978196903) ya Cliquot-Blervache na Gournay (matoleo 2 mwaka 1758)
+Kundi hilo pia lilichukua nafasi muhimu katika uchapishaji wa 
+- [Insha kuhusu Asili ya Biashara kwa Jumla](https://archive.org/details/essayonnatureofc0000cant) ya Richard Cantillon.
 
+![Richard Cantillon, “Insha kuhusu asili ya biashara”](assets/en/034.webp)
 
+Kitabu hiki cha mwisho, kilichoandikwa karibu 1730, kilibaki katika mswada baada ya kifo cha mwandishi. Gournay, kwa msaada wa marafiki zake wanauchumi, alikichapisha mwaka 1755. Kulingana na Abbot Morellet, mwanachama wa duru hiyo, Gournay alikipendekeza kwa kila mwanauchumi aliyemjua.
 
+Uzalishaji wa kifikra wa duru ya Gournay ulikuwa na athari kubwa kwa historia ya mawazo. Kwa maana hii, wanaweza kuchukuliwa kuwa waanzilishi wa sayansi ya uchumi nchini Ufaransa. Christine Théré wa INED, aliyesoma historia ya machapisho ya kiuchumi, aligundua kwamba kati ya 1750 na 1759, si chini ya kazi **349** kuhusu uchumi zilichapishwa, ikilinganishwa na **83** tu katika muongo mzima uliotangulia (1740–1749). Mapinduzi haya ya miaka ya 1750 yanatokana kwa kiasi kikubwa na duru ya Gournay.
 
+![Utafiti kuhusu uchapishaji wa kiuchumi nchini Ufaransa, 1566-1789.](assets/en/035.webp)
 
+Ili kueneza hamu ya mijadala ya kiuchumi miongoni mwa watu wa Ufaransa, Gournay na marafiki zake walifanya kazi kuifanya ipatikane kupitia riwaya. Baada ya *Kumbukumbu kuhusu Mashirika ya Kazi*, iliyokosoa magildi, Gournay na Cliquot-Blervache walimsaidia Gabriel-François Coyer kuandika riwaya fupi ya kejeli iitwayo Chinki: [Hadithi ya Cochinchina Inayoweza Kutumika kwa Mataifa Mengine](https://www.institutcoppet.org/wp-content/uploads/2013/06/Coyer-Chinki-Histoire-cochinchinoise.pdf).
 
-- Plumard de Dangeul [Maelezo kuhusu Manufaa na Hasara za Ufaransa na Uingereza](https://archive.org/details/bim_eightenth-century_remarks-on-the-advantage_plumard-de-dangeul-loui_1754) (matoleo 3 katika mwaka wake wa kwanza)
-- Cliquot-Blervache na Gournay's [Memoir on the Trades](https://www.amazon.com/Memoire-sur-corps-metiers-French/dp/1978196903) (matoleo 2 mnamo 1758)
+![Abbé Gabriel-François Coyer, “Chinki”](assets/en/036.webp)
 
-Kikundi pia kilikuwa na jukumu muhimu katika uchapishaji wa
+Hadithi inamfuata mhusika mkuu, Chinki, anayelazimika kuondoka katika ardhi yake kwa sababu ya kodi zilizopitiliza na kujaribu kuwatafutia watoto wake kazi za ufundi mjini. Lakini kazi zote zimefungwa kwao kwa sababu ya kanuni za magildi zenye unyanyasaji, kwa hiyo hadithi inaonyesha kukata tamaa kwake kunakoongezeka kupitia sauti ya ucheshi.
 
+### Kuufanya uchumi uwe wa mtindo
 
-- [Insha kuhusu Hali ya Biashara kwa Ujumla](https://archive.org/details/essayonnatureofc0000cant) na Richard Cantillon.
+Kwa hiyo duru ya Gournay ilikuwa chanzo cha wimbi kubwa la machapisho. Ingawa mchango huu mkubwa umesahauliwa na wanahistoria wa mawazo ya kiuchumi, ulikuwa wazi sana kwa watu wa wakati huo. Wanafiziokrati, walioandaa shule yao katika miaka ya 1760, baadaye wangewasilisha kundi la Gournay kama watangulizi wao wa moja kwa moja. Mwaka 1767, mwanauchumi Jacques Accarias de Serionne alieleza hili kwa uwazi zaidi katika heshima yake. Aliandika: "Idadi ndogo ya Wafaransa, wanafalsafa na raia, walianza miaka michache iliyopita kuwaiga waandishi wa Kiingereza. Kwanza walitafsiri mifano yao na punde wakawazidi kwa mambo mengi. Walileta haiba na utajiri wote wa fasihi katika kushughulikia masomo yenye manufaa; waliamsha na kueneza ladha ya sayansi ambazo zilikuwa muhimu zaidi kwa ustawi wa Serikali".
 
-
-![image](assets/sw/034.webp)
-
-
-Kitabu hiki cha mwisho, kilichoandikwa karibu 1730, kilibaki katika maandishi baada ya kifo cha mwandishi. Gournay, kwa msaada wa marafiki zake wachumi, aliichapisha mnamo 1755. Kulingana na Abbot Morellet, mshiriki wa duara, Gournay aliipendekeza kwa kila mwanauchumi aliyemjua.
-
-
-Matokeo ya kiakili ya duara la Gournay yalikuwa na athari kubwa katika historia ya mawazo. Kwa maana hii, wanaweza kuchukuliwa kuwa waanzilishi wa sayansi ya uchumi nchini Ufaransa. Christine Théré, wa INED, ambaye amechunguza historia ya machapisho ya kiuchumi, aligundua kuwa kati ya 1750 na 1759, kazi zisizopungua 349 kuhusu uchumi zilichapishwa, ikilinganishwa na 83 pekee katika muongo mzima uliopita (1740-1749). Mapinduzi haya ya miaka ya 1750 yalitokana kwa kiasi kikubwa na mduara wa Gournay.
-
-
-![image](assets/sw/035.webp)
-
-
-Ili kueneza ladha ya mijadala ya kiuchumi miongoni mwa Wafaransa, Gournay na marafiki zake walifanya kazi ili kuwafanya wapatikane kupitia riwaya. Baada ya *Memoir on the Trades*, ambayo ilikosoa vyama, Gournay na Cliquot-Blervache walimsaidia Gabriel-François Coyer kuandika riwaya fupi ya kejeli iitwayo Chinki: [Hadithi ya Cochinchinese Inayotumika kwa Nyingine. Mataifa](https://www.institutcoppet.org/wp-content/uploads/2013/06/Coyer-Chinki-Histoire-cochinchinoise.pdf).
-
-
-![image](assets/sw/036.webp)
-
-
-Hadithi hiyo inamfuata mhusika mkuu, Chinki, ambaye analazimika kuacha ardhi yake kwa sababu ya ushuru mwingi na anajaribu kutafuta kazi ya ufundi kwa watoto wake jijini. Lakini biashara zote zimefungwa kwao kwa sababu ya kanuni za matusi za chama, kwa hivyo hadithi inaonyesha tamaa yake inayokua kupitia sauti za ucheshi.
-
-
-Kwa hivyo, mzunguko wa Gournay ulikuwa chanzo cha wimbi kubwa la machapisho. Ingawa mchango huu mkubwa umesahauliwa na wanahistoria wa mawazo ya kiuchumi, ilikuwa wazi sana kwa watu wa wakati huo. Wanafiziokrati, ambao walipanga shule yao katika miaka ya 1760, baadaye wangewasilisha kikundi cha Gournay kama watangulizi wao wa moja kwa moja. Mnamo 1767, mwanauchumi Jacques Accarias de Serionne alielezea hii kwa uwazi zaidi katika ushuru wake. Aliandika: "Idadi ndogo ya Wafaransa, wanafalsafa na wananchi, walianza miaka michache iliyopita kuiga waandishi wa Kiingereza. Walitafsiri kwanza mifano yao na hivi karibuni wakawazidi kwa mambo mengi. Walileta charm yote na utajiri wa fasihi kwa matibabu ya masomo muhimu; walichochea na kueneza ladha ya sayansi ambayo ilikuwa muhimu zaidi kwa ustawi wa Serikali ".
-
-
-Na kwa kweli, katika miaka ya 1750, maswali ya kiuchumi yakawa ya mtindo. Voltaire alisema kwa umaarufu kwamba karibu 1750, Wafaransa waliacha riwaya kujadili uhuru wa biashara ya nafaka. Mwelekeo huu pia ulibainishwa na gazeti la Mercure de France, ambalo liliandika katika toleo la 1758, miezi michache kabla ya kifo cha Gournay: "Uchumi wa kisiasa sasa ni sayansi ya mtindo. Vitabu vinavyohusu kilimo, idadi ya watu, viwanda, biashara, na fedha sasa viko mikononi mwa watu wengi ambao, si muda mrefu uliopita, walisoma tu riwaya juu juu ". Mtu hangeweza kulipa kodi bora zaidi kwa Gournay na kazi ya mzunguko wake wa wachumi.
-
+Na kweli, katika miaka ya 1750, maswali ya kiuchumi yakawa ya mtindo. Voltaire alisema kwa umaarufu kwamba karibu 1750, Wafaransa waliacha riwaya ili kujadili uhuru wa biashara ya nafaka. Mwelekeo huu pia ulibainishwa na Mercure de France, iliyoandika katika toleo la 1758, miezi michache kabla ya kifo cha Gournay: "Uchumi wa kisiasa sasa ndio sayansi ya mtindo. Vitabu vinavyohusu kilimo, idadi ya watu, viwanda, biashara, na fedha sasa vimo mikononi mwa watu wengi sana ambao, muda si mrefu uliopita, walisoma riwaya kijuujuu tu". Ni vigumu kutoa heshima bora zaidi kwa Gournay na kazi ya duru yake ya wanauchumi.
 
 ## Mirabeau
 
-
 <chapterId>2d2f802b-e3b6-556f-9025-a1b1dc4409ca</chapterId>
 
+### Baba nyuma ya mwana maarufu
 
-Ufaransa inawajua watu wawili mashuhuri wanaoitwa Mirabeau, baba na mtoto wa kiume, lakini ni mtoto wa kiume aliyeweka historia kweli. Mkuu wa jeshi la mapinduzi na mmoja wa watu wakuu katika hafla ya Mapinduzi ya Ufaransa, alibaki maarufu.
+Ufaransa imewajua wanaume wawili maarufu walioitwa Mirabeau, baba na mwana, lakini ni mwana ndiye aliyeingia kweli katika historia. Msemaji wa kimapinduzi na mmoja wa wahusika wa kati katika matukio ya Mapinduzi ya Ufaransa, aliendelea kuwa maarufu.
 
+![Mjadala katika Mkutano wa Madaraja, Ufaransa, 1789](assets/en/037.webp)
 
-![image](assets/sw/037.webp)
+Kupitia kipaji chake na nafasi yake katika historia ya Ufaransa, alimfunika baba yake, mwanauchumi na nguzo ya shule ya François Quesnay, ambaye alikuwa mwanachama wake wa kwanza mapema mwaka 1758.
 
+![Picha ya Mirabeau, Mirabeau, “L'ami des hommes”](assets/en/038.webp)
 
-Kupitia talanta yake na nafasi yake katika historia ya Ufaransa, alimfunika baba yake, mwanauchumi na nguzo ya shule ya François Quesnay, ambaye alikuwa mshiriki wake wa kwanza mapema kama 1758.
+### L'Ami des Hommes: mafanikio makubwa ya uchapishaji
 
-
-![image](assets/sw/038.webp)
-
-
-Marquis de Mirabeau, kwa kweli, tayari ilikuwa imepata umaarufu mkubwa hata kabla ya kupitishwa kwa Fiziokrasia kutokana na kitabu kiitwacho "Rafiki wa Watu. Treatise on Population [FR: L'ami des hommes, ou, Traité de la population](https://archive.org/details/00 Evenunk the first published) 1756, ikawa maarufu karibu 1757, mwaka mmoja kabla ya mkutano wake na Quesnay.
-
+Marquis de Mirabeau alikuwa, kwa kweli, tayari amepata umaarufu mkubwa hata kabla ya kukubali kwake Fiziokrasia kutokana na kitabu kilichoitwa "Rafiki wa Wanadamu. Risala kuhusu Idadi ya Watu [FR: L'ami des hommes, ou, Traité de la population](https://archive.org/details/lamideshommesou00unkngoog). Ingawa toleo la kwanza lilichapishwa mwaka 1756, kilijulikana karibu 1757, mwaka mmoja kabla ya kukutana kwake na Quesnay.
 
 
 
+Zaidi ya matoleo 20 yalichapishwa kati ya 1757 na 1760, jambo linalokifanya huenda kiwe kitabu cha uchumi kilichofanikiwa zaidi katika historia. Baadhi ya wasomaji hata walifikiri kitabu hicho kilikuwa kimeandikwa na Montesquieu kwa sababu ya hoja zake kali. Dauphin, baba wa Mfalme Louis XVI, hata alidai kuwa amekikariri. Kwa muda, kilikuwa kitabu ambacho kila mtu Versailles alikuwa akisoma.
 
-Zaidi ya matoleo 20 yalichapishwa kati ya 1757 na 1760, jambo ambalo pengine linafanya kuwa kitabu cha uchumi kilichofanikiwa zaidi katika historia. Wasomaji wengine hata walidhani kuwa kitabu hicho kiliandikwa na Montesquieu kwa sababu ya hoja zake kali. Dauphin, baba yake Mfalme Louis XVI, hata alidai kuwa aliikariri. Kwa muda fulani, kilikuwa kitabu ambacho kila mtu huko Versailles alikuwa akisoma.
+Leo ni kitabu ambacho hakisomwi tena, lakini wengi bado hukitaja. Hata kufikia karne ya 19, Edmond Roussel alisema:
 
+> L'Ami des Hommes ni mojawapo ya vitabu ambavyo kila mtu huzungumzia, ambavyo karibu hakuna mtu anayevijua. Katika kila kizazi, raia mmoja jasiri anapaswa kukisoma; ili wengine wote wasilazimike.
 
-Leo ni kitabu ambacho hakijasomwa tena, lakini wengi bado wanarejelea. Hata kufikia karne ya 19, Edmond Roussel alisema:
+Mwanzoni mwa kazi yake kama mwanauchumi, Mirabeau alipata msukumo kutoka kwa Richard Cantillon. Alikuwa amemiliki mswada wa Insha kuhusu Asili ya Biashara kwa Jumla ya Cantillon kwa miaka 15 na alikuwa ameuchambua na kuutolea maoni kwa subira.
 
+![Richard Cantillon, “Insha kuhusu asili ya biashara”](assets/en/039.webp)
 
-> L'Ami des Hommes ni mojawapo ya vitabu ambavyo kila mtu huzungumzia, ambavyo ni vigumu mtu yeyote kuvijua. Katika kila kizazi, raia mmoja jasiri anapaswa kuisoma; ili kila mtu asilazimike.
-
-Mwanzoni mwa kazi yake kama mwanauchumi, Mirabeau alichochewa na Richard Cantillon. Alikuwa anamiliki muswada wa Insha ya Cantillon kuhusu Hali ya Biashara kwa Ujumla kwa miaka 15 na alikuwa ameichambua na kutoa maoni yake kwa subira.
-
-
-![image](assets/sw/039.webp)
-
-
-L'Ami des Hommes awali ilitungwa kama ufafanuzi rahisi juu ya Insha ya Cantillon. Lakini kwa kuwa Mirabeau alikuwa na akili isiyoeleweka, ambayo ni kusema, kusema ukweli, wazimu kidogo, alipotea haraka kutoka kwa mpango wake wa asili. Kitabu kinajadili tu maswali yote ya kiuchumi aliyojua, mara kwa mara akiondoka Cantillon. Ni kitabu kigumu kusoma, chenye mpango wa ajabu na utengano katika kila sura. Mirabeau mwenyewe alikiri kwamba ilikuwa machafuko na kwamba mtindo wake ulikuwa wa apocalyptic.
+L'Ami des Hommes awali ilikusudiwa kuwa maoni rahisi kuhusu Insha ya Cantillon. Lakini kwa kuwa Mirabeau alikuwa na akili iliyochanganya mambo mengi, yaani, kusema wazi, iliyokuwa na wazimu kidogo, alipotoka haraka kutoka mpango wake wa awali. Kitabu kinajadili tu maswali yote ya kiuchumi aliyoyajua, mara kwa mara kikiondoka kwa Cantillon. Ni kitabu kigumu kusoma, chenye mpango wa ajabu na mihadhara ya pembeni katika kila sura. Mirabeau mwenyewe alikiri kwamba kilikuwa vurugu na kwamba mtindo wake ulikuwa wa kiapokaliptiki.
 
 
 
+Licha ya vurugu iliyomo, baadhi ya mawazo yanastahili kubainishwa:
 
+- Mirabeau anapambana na chuki ya mercantilist kuhusu asili ya utajiri.
+- Anakisifu kilimo na kukosoa kuachwa kwake.
+- Analalamika kuhusu hali ya watu, hasa wakulima.
+- Hatimaye, anatetea uhuru wa biashara na udugu wa mataifa katika amani.
 
-Licha ya machafuko ambayo ni, maoni kadhaa yanafaa kuzingatia:
+![Mafundisho ya kiuchumi na kijamii ya Marquis de Mirabeau](assets/en/040.webp)
 
+Ni vigumu kuweka lebo mawazo ya Mirabeau kama ya kiliberali au ya kupinga uliberali. Mara nyingi alirudi nyuma na mbele, wakati mwingine bila kutambua, kati ya maono moja na jingine. Hata hivyo, mawazo ya kiliberali mara nyingi yalitawala maandishi yake. Mojawapo ya mistari yake maarufu zaidi ilikuwa:
 
+> **Kanuni ya kweli na ya pekee ya uchumi wa kisiasa** ni kuacha kila kitu kiwe huru.
 
-- Mirabeau inapigana na ubaguzi wa wafanyabiashara juu ya asili ya utajiri.
-- Anasifu kilimo na kukosoa kutelekezwa kwake.
-- Analalamikia hali ya wananchi hasa wakulima.
-- Hatimaye, anatetea uhuru wa biashara na udugu wa mataifa kwa amani.
+### Kugeuka kuwa Mfiziokrati
 
+Akiwa na mafanikio yake makubwa nyuma yake, Mirabeau alitafutwa. François Quesnay, ambaye alikuwa tu ameanza kuvutiwa na uchumi, alimwalika kwenye entresol yake huko Versailles.
 
-![image](assets/sw/040.webp)
+![François Quesnay](assets/en/041.webp)
 
+Walijadiliana kwa hasira na hatimaye, jambo ambalo kwa kawaida halitokei katika mijadala, likatokea: Mirabeau alikiri wazi kwamba alikuwa amekosea. Alikubaliana na mawazo ya Quesnay na akasema alikuwa tayari kuyaeneza.
 
-Ni ngumu kutaja maoni ya Mirabeau kama ya huria au ya kupinga huria. Mara nyingi alirudi na kurudi, wakati mwingine bila kujua, kati ya maono moja na mengine. Bado, mawazo huria mara nyingi yalitawala maandishi yake. Moja ya mistari yake maarufu ilikuwa:
+Pamoja, waliunda kiini cha kile ambacho kingekuwa shule ya Fiziokrasia, ikiimarishwa na waajiriwa wa mara kwa mara waliowaleta. Muda mfupi baada ya mabadiliko ya Mirabeau, Quesnay alimwandikisha kutetea mawazo yake kuhusu kodi. Hili lilisababisha ["Nadharia ya Kodi"](https://archive.org/details/thoriedelimpot00mira), ambalo lilimpeleka Mirabeau gerezani Vincennes kwa siku chache na kisha akafukuzwa Bignon.
 
+![Pierre Samuel Dupont de Nemours, Mirabeau, “Nadharia ya kodi”](assets/en/042.webp)
 
-> Kanuni ya kweli na pekee ya uchumi wa kisiasa ni kuacha kila kitu kiwe huru.
-
-Kwa mafanikio yake makubwa nyuma yake, Mirabeau alichumbiwa. François Quesnay, ambaye alikuwa ametoka tu kupendezwa na uchumi, alimwalika kwenye ukumbi wake huko Versailles.
-
-
-![image](assets/sw/041.webp)
-
-
-Walijadili kwa hasira na hatimaye, jambo ambalo kwa kawaida halitokei katika mijadala, likatokea: Mirabeau alikiri kabisa kwamba alikuwa amekosea. Alikubaliana na mawazo ya Quesnay na akasema yuko tayari kuyaeneza.
-
-
-Kwa pamoja, waliunda msingi wa kile ambacho kingekuwa shule ya Fizikia, ikiimarishwa na waandikishaji wa kawaida waliowaleta. Muda mfupi baada ya uongofu wa Mirabeau, Quesnay alimuorodhesha kutetea mawazo yake juu ya kodi. Hii ilisababisha ["Nadharia ya Ushuru"](https://archive.org/details/thoriedelimpot00mira), ambayo Mirabeau alipelekwa kwa siku chache kwenye gereza la Vincennes na kisha kuhamishwa hadi Bignon.
-
-
-![image](assets/sw/042.webp)
-
-
-Mirabeau pia ilichukua jukumu muhimu katika kuajiri washiriki wapya kwa shule ya Quesnay. Hata alimshawishi kijana Dupont de Nemours.
+Mirabeau pia alichukua nafasi muhimu katika kuajiri wanachama wapya kwa shule ya Quesnay. Hata alimshawishi Dupont de Nemours kijana.
 
 
 
+Ilikuwa pia nyumbani kwa Mirabeau kwamba Wanafiziokrati walikutana kila Jumanne. Watu kama Turgot na Adam Smith wanaonekana kuhudhuria mikutano hii mara moja au mara kadhaa.
 
-
-Pia ilikuwa nyumbani kwa Mirabeau ambapo Wanafizikia walikutana kila Jumanne. Watu kama vile Turgot na Adam Smith wanaonekana kuhudhuria mikutano hii mara moja au mara kadhaa.
-
-
-Katika maisha yake yote, Mirabeau alibaki kuwa mwandishi asiyechoka. Aliandika kazi nyingi za kiuchumi zilizotetea fundisho la Quesnay. Hata hivyo, kuelekea mwisho wa maisha yake, ushawishi wake ulipungua. Mtindo wake wa uandishi ulidorora kiasi kwamba kaka yake mwenyewe alimwandikia akisema hangeweza tena kuelewa nathari yake. Mawazo yake, baada ya kuwa huru kabisa, yaligongana na majibu ya kijamaa au proto-kikomunisti ya wanafikra kama Mably na hata Rousseau. Alijitahidi kupata wasomaji na wachapishaji, na alikufa bila kutambuliwa mnamo 1789, usiku wa kuamkia dhoruba ya Bastille.
-
+Katika maisha yake yote, Mirabeau alibaki mwandishi asiyechoka. Aliandika kazi nyingi za kiuchumi akitetea fundisho la Quesnay. Hata hivyo, kuelekea mwisho wa maisha yake, ushawishi wake ulipungua. Mtindo wake wa kuandika ulidorora kiasi kwamba ndugu yake mwenyewe alimwandikia akisema hawezi tena kuelewa nathari yake. Mawazo yake, yakiwa yamekuwa ya kiliberali kikamilifu, yaligongana na mwitikio wa kijamaa au wa awali wa kikomunisti wa wanafikra kama Mably na hata Rousseau. Alihangaika kupata wasomaji na wachapishaji, na alikufa bila kutambuliwa sana mwaka 1789, usiku wa kuamkia kuvamiwa kwa Bastille.
 
 ## Quesnay
 
-
 <chapterId>7a35f20b-5ea0-544d-b290-bcd9c6f7f11a</chapterId>
 
+### Zaidi ya kikatuni cha vitabu vya kiada
 
-François Quesnay ni mmoja wa wachumi maarufu wa Ufaransa.
+François Quesnay ni **mmoja wa wanauchumi maarufu zaidi wa Kifaransa**.
 
+![Chati ya kiuchumi ya François Quesnay, François Quesnay](assets/en/043.webp)
 
-![image](assets/sw/043.webp)
-
-
-Jina lake linaonekana katika kila kitabu kuhusu uchumi na historia ya mawazo ya kiuchumi. Inaelezwa kuwa aliunda "Tableau Économique" ili kuwakilisha uchumi kimkakati, kwamba alikuwa kiongozi wa shule ya Physiocratic, na kwamba alikosea kwa kuamini kuwa ardhi pekee ndiyo yenye tija, na hatimaye, Adam Smith alikuja kuweka rekodi hiyo. Hivi, zaidi au kidogo, ndivyo vitabu vya kiada vinavyoelekea kufupisha François Quesnay.
-
+Jina lake huonekana katika kila kitabu cha kiada cha uchumi na historia ya mawazo ya kiuchumi. Inasemwa kwamba aliunda "Tableau Économique" kuwakilisha uchumi kwa mchoro, kwamba alikuwa kiongozi wa shule ya Fiziokrasia, na kwamba alikosea kwa kuamini kwamba ardhi pekee ndiyo yenye tija, na hatimaye, kwamba Adam Smith alikuja kuweka mambo sawa. Hivi, zaidi au kidogo, ndivyo vitabu vya kiada huelekea kumfupisha François Quesnay.
 
 
 
+Kumpunguza hadi hapo ni aibu, kwa sababu Quesnay pia alikuwa mwanauchumi wa kwanza kujaribu kuweka utetezi wa uhuru wa kiuchumi juu ya kanuni za kisayansi. Alikuwa mmoja wa wanauchumi waliosikilizwa na wenye ushawishi mkubwa zaidi wa wakati wake. Zaidi ya hayo, alianzisha Fiziokrasia, fundisho tajiri zaidi kuliko wazo rahisi kwamba maumbile pekee huzalisha utajiri, dhana ambayo mara nyingi huwasilishwa vibaya.
 
-Kumpunguza hadi hii ni aibu, kwa sababu Quesnay pia alikuwa mwanauchumi wa kwanza kujaribu kuweka utetezi wa uhuru wa kiuchumi kwa kanuni za kisayansi. Alikuwa mmoja wa wachumi waliosikilizwa sana na mashuhuri wa wakati wake. Zaidi ya hayo, alianzisha Physiocracy, fundisho tajiri zaidi kuliko wazo rahisi kwamba asili pekee huzalisha mali, dhana ambayo mara nyingi inapotoshwa.
+Tutajadili Fiziokrasia kwa kina zaidi katika sura tatu zinazofuata. Kwanza, tumwangalie kwa karibu François Quesnay mwenyewe.
 
+### Kutoka mpasuaji hadi daktari wa kifalme
 
-Tutajadili Fiziokrasia kwa undani zaidi katika sura tatu zinazofuata. Kwanza, hebu tumtazame kwa makini François Quesnay mwenyewe.
+Alizaliwa mwaka 1694 huko Méré katika familia ya wakulima ambayo haikuweza kumfundisha Quesnay kusoma. Alifundishwa na mtu wa eneo hilo na hatimaye akaenda kusoma katika Chuo cha Upasuaji na kisha Kitivo cha Tiba. Akiwa na umri wa miaka 24, akawa mpasuaji huko Mantes.
 
+Alipata umaarufu mwaka 1730, akiwa na umri wa miaka 36, kwa kupinga desturi ya kawaida ya kutoa damu, ambayo aliamini ilikuwa imetegemea nadharia na chuki potofu. Pia alithubutu kupinga mfumo wa magildi, uliodai kwamba wapasuaji pekee ndio wangeweza kufanya upasuaji na madaktari pekee ndio wangeweza kuagiza dawa. Hili mara nyingi liliwalazimisha maskini kulipa mara mbili na kuleta watu wawili, hali ambayo Quesnay aliiona kuwa ya kuchukiza.
 
-Alizaliwa mwaka 1694 huko Méré, katika familia maskini ambayo haingeweza kumfundisha kusoma, François Quesnay alifundishwa na mtu wa kijiji na hatimaye akaendelea kusomea katika Chuo cha Upasuaji na baadaye katika Kitivo cha Tiba. Akiwa na umri wa miaka 24, aliteuliwa kuwa daktari wa upasuaji mjini Mantes.
+Mwaka 1740, akawa katibu wa Chuo cha Upasuaji. Mwaka 1748, akiwa na umri wa miaka 54, akawa daktari binafsi wa Madame de Pompadour na akahamia Versailles.
 
+![François Quesnay](assets/en/044.webp)
 
-Alipata umaarufu mwaka wa 1730, akiwa na umri wa miaka 36, ​​kwa kupinga zoea la kawaida la umwagaji damu, ambalo aliamini lilitokana na nadharia potofu na ubaguzi. Pia alithubutu kupinga mfumo wa vyama, ambao uliamuru kwamba ni madaktari wa upasuaji tu ndio wanaweza kufanya upasuaji na ni madaktari pekee wanaoweza kuagiza dawa. Hii mara nyingi iliwalazimu maskini kulipa mara mbili na kuleta watu wawili, hali ambayo Quesnay alipata kuwa ya kukera.
+Alikuwa karibu sana na Madame de Pompadour. Quesnay hata alisema, wakati ambapo kuanguka kwa kipenzi huyo kulitangazwa, kwamba hangependa kubaki daktari Versailles bila yeye:
+"Nilikuwa nimefungamana na Madame de Pompadour katika ustawi wake; nitakuwa hivyo katika aibu yake".
 
+Kisha akachapisha vitabu kadhaa vya tiba: Risala kuhusu Usaha (1749), Risala kuhusu Gangrene (1749), na Risala kuhusu Homa Zinazoendelea (1753), vyote vilivyochapishwa tena mara kadhaa wakati wa uhai wake. 
 
-Mnamo 1740, alikua katibu wa Chuo cha Upasuaji. Mnamo 1748, akiwa na umri wa miaka 54, alikua daktari wa kibinafsi wa Madame de Pompadour na akahamia Versailles.
+Akiwa na umri wa miaka 60, akiwa ametambulishwa kwa mijadala ya kiuchumi iliyokuwa ya mtindo wakati huo, alianza kuandika kuhusu uchumi. Mwaka 1755, aliandika makala "Wakulima" na "Nafaka" kwa ajili ya *Encyclopédie*.
 
+![Encyclopedia, Dupont de Nemours,, “Nadharia ya kodi”](assets/en/045.webp)
 
-![image](assets/sw/044.webp)
-
-
-Alikuwa karibu sana na Madame de Pompadour. Quesnay hata alisema, wakati aibu ya mpendwa ilitangazwa, kwamba hatataka kubaki daktari huko Versailles bila yeye:
-
-"Niliunganishwa na Madame de Pompadour katika ustawi wake; nitakuwa katika fedheha yake."
-
-
-Kisha akachapisha vitabu kadhaa vya matibabu: Treatise on Suppuration (1749), Treatise on Gangrene (1749), na Treatise on Continuous Fevers (1753), ambavyo vyote vilichapishwa tena mara kadhaa wakati wa uhai wake.
-
-
-Katika umri wa miaka 60, baada ya kuanzishwa kwa mijadala ya kiuchumi wakati huo, alianza kuandika kuhusu uchumi. Mnamo 1755, aliandika makala "Wakulima" na "Nafaka" kwa *Encyclopédie*.
-
-
-![image](assets/sw/045.webp)
-
-
-Zilichapishwa mwaka 1757. Mwaka huohuo, Quesnay alikutana na Mirabeau maarufu na akamshawishi kujiunga na mawazo yake ya kiuchumi—tukio lililoashiria kuzaliwa rasmi kwa Physiocracy. Baadaye, Quesnay alitunga Tableau Économique, kazi iliyochapishwa kwenye matbaa za kifalme na hata kuwasilishwa mbele ya mfalme mwenyewe katika Château de Versailles. Kuanzia hapo, mara kwa mara aliwakaribisha wanauchumi na wanafalsafa nyumbani kwake huko Versailles, ambapo walijadili kwa uhuru mawazo ya kiuchumi. Pia alichangia katika Nadharia ya Ushuru ya Mirabeau, iliyochapishwa mwaka 1759.
+Zilichapishwa mwaka 1757. Mwaka huo huo, alikutana na Mirabeau maarufu na akaweza kumgeuza kwa mawazo yake ya kiuchumi: kiini cha Fiziokrasia kilizaliwa. Kisha Quesnay akaunda Tableau Économique, iliyochapishwa kwenye mitambo ya uchapishaji ya kifalme, ikisemekana mbele ya mfalme mwenyewe katika Château de Versailles. Kuanzia wakati huo, aliwakaribisha mara kwa mara wanauchumi na wanafalsafa katika nyumba yake ya Versailles, ambako walijadiliana kwa uhuru. Quesnay pia alichangia Nadharia ya Kodi ya Mirabeau, iliyochapishwa mwaka 1759.
 
 
 
+Udhibiti wa machapisho punde uliwakumba. Mirabeau alifungwa gerezani, na Quesnay alikemewa. Baada ya hapo, Quesnay aligundua kwamba hangeweza kuchapisha waziwazi na angehitaji wanafunzi kueneza mawazo yake.
 
+### Wanafunzi na kuenea kwa mawazo
 
-Udhibiti ulianza hivi karibuni. Mirabeau alifungwa, na Quesnay akakaripiwa. Baada ya hapo, Quesnay aligundua kuwa hangeweza kuchapisha kwa uwazi na angehitaji wanafunzi kueneza mawazo yake.
+Aliwapata haraka: Baudeau, Dupont de Nemours, Le Trosne, Mercier de la Rivière, na wengine. Hawa ndio wanaume ambao wangeeneza na kuyafanya mawazo ya Quesnay yajulikane. Hata hivyo, Quesnay, aliyewahitaji wanafunzi, hakuridhika kabisa na upande wa kimadhehebu wa kundi lake. Shuhudia barua zake kwa Mirabeau, ambamo anamwambia:
 
+> Fikirini wenyewe. Nimetambua kwamba rasimu zangu duni zinawafanya kuwa wavivu. Sasa ni zamu yenu kufikiri. Mnajua mengi kama mimi.
 
-Alizipata haraka: Baudeau, Dupont de Nemours, Le Trosne, Mercier de la Rivière, na wengine. Hawa ndio watu ambao wangeeneza na kueneza mawazo ya Quesnay. Hata hivyo, Quesnay, ambaye alihitaji wanafunzi, hakuridhika kabisa na kipengele cha kimadhehebu cha kundi lake. Shuhudia barua zake kwa Mirabeau, ambamo anamwambia:
+Bado, wanafunzi wake walikuwa waaminifu sana na walichangia sana umaarufu wa Quesnay. Baada ya kifo chake, Mirabeau alitoa sifa yake ya marehemu, akisema, "Tumempoteza baba yetu, kwa maana tulimdai kila kitu". Kwa kweli, ni Quesnay aliyewadai kila kitu, kwa kuwa bila wao, angekuwa amekwama Versailles, ambako fikra zake, ingawa zilikuwa na mengi ya kuvutia au kuwatia wasiwasi watu, ziliwavutia wachache.
 
+Shukrani kwa kazi ya washirika wake, mawazo yake yalipata jukwaa: kwanza kupitia magazeti kama *Jarida la Kilimo* na *Ephémérides du Citoyen*.
 
-> "Fikirieni wenyewe. Nimegundua kwamba rasimu zangu za huzuni zinawafanya mvivu. Sasa ni zamu yenu ya kufikiri. Mnajua kama mimi".
+![“Fiziokrasia”, mkusanyo wa makala za Quesnay, 1768, “Ephémérides du Citoyen”, jarida rasmi la Wanafiziokrati](assets/en/046.webp)
 
-Hata hivyo, wanafunzi wake walijitoa sana na walichangia sana umaarufu wa Quesnay. Baada ya kifo chake, Mirabeau alitoa sifa yake, akisema, "Tumempoteza baba yetu, kwa sababu tunadaiwa kila kitu". Kwa kweli, alikuwa Quesnay ambaye alikuwa na deni lao kila kitu, kwa kuwa bila wao, angebakia kukwama huko Versailles, ambapo mawazo yake, ingawa yalikuwa na mengi ya kuwashawishi au wasiwasi, wachache walipendezwa.
-
-
-Shukrani kwa kazi ya washirika wake, mawazo yake yalipata jukwaa: kwanza kupitia magazeti kama vile *Journal of Agriculture* na *Ephémérides du Citoyen*.
-
-
-![image](assets/sw/046.webp)
-
-
-Kisha kupitia vitabu, si vya wanafunzi wake tu bali pia anthology muhimu iliyochapishwa mwaka wa 1768 na Dupont de Nemours, iliyoitwa *Physiocracy*.
+Kisha kupitia vitabu, si vile vya wanafunzi wake tu bali pia antolojia muhimu iliyochapishwa mwaka 1768 na Dupont de Nemours, yenye kichwa *Physiocracy*.
 
 
 
+Kitabu hiki kilikusanya michango mikuu ya Quesnay. Kilieleza mfano bora wa kiuchumi wa kiongozi wa Wanafiziokrati: mtindo wa uchumi wa kilimo ambapo sheria inamhakikishia kila mtu haki ya kumiliki mali na uhuru wa kufanya biashara.
 
-
-Kitabu hiki kilikusanya michango kuu ya Quesnay. Iliweka hali bora ya kiuchumi ya kiongozi wa Physiocrats: kielelezo cha uchumi wa kilimo ambapo sheria inamhakikishia kila mtu haki ya kumiliki mali na uhuru wa kufanya biashara.
-
-
-# Shule ya Fizikia
-
+# Shule ya Fiziokrasia
 
 <partId>27af82c1-ad82-5c3b-8ce9-c674b67bbf7c</partId>
 
-
-## Historia ya Wanafizikia
-
+## Historia ya Wanafiziokrati
 
 <chapterId>4236ff8b-b53a-59e7-92c0-f96f9afa1c00</chapterId>
 
+### Kutoka Boisguilbert hadi Quesnay
 
-Fiziokrasia ikawa ya mtindo nchini Ufaransa, na hata kote Ulaya, kwa muongo mmoja tu. Baada ya muda mrefu wa maendeleo, ilipata umaarufu katikati ya miaka ya 1760. Kufikia wakati Turgot alipoingia mamlakani mwaka wa 1776, vuguvugu hilo lilikuwa tayari limepoteza umaarufu wake, na waziri huyo aliendelea kuunga mkono shule ya Quesnay kwa siri.
+**Fiziokrasia ikawa ya mtindo nchini Ufaransa**, na hata kote Ulaya, kwa takriban muongo mmoja tu. Baada ya kipindi kirefu cha maendeleo, ilipata umaarufu katikati ya miaka ya 1760. Kufikia wakati Turgot alipoingia madarakani mwaka 1776, vuguvugu hilo tayari lilikuwa limepoteza umaarufu wake, na waziri huyo aliuficha zaidi msaada wake kwa shule ya Quesnay.
 
+Asili zake zimo katika mageuzi ya mawazo ya kiuchumi wakati wa miaka ya 1750. Waandishi kadhaa walisaidia kuziba pengo kati ya Boisguilbert na kile ambacho baadaye kingejulikana kama Fiziokrasia. Kama ilivyojadiliwa hapo awali, Vincent de Gournay na duru yake ya wanauchumi walikuwa nyuma ya machapisho mengi yaliyowatambulisha wasomaji wa Kifaransa kwa mawazo ya kiuchumi ya kigeni na kusaidia kuwasha shauku yao kwa uchumi. Misingi ya Fiziokrasia tayari ilikuwepo katika vitabu kama "Détail de la France" ya Boisguilbert na ["Insha kuhusu Asili ya Biashara kwa Jumla"](https://archive.org/details/essaisurlanature0000cant) ya Cantillon.
 
-Asili yake iko katika mageuzi ya mawazo ya kiuchumi wakati wa miaka ya 1750. Waandishi kadhaa walisaidia kuziba pengo kati ya Boisguilbert na kile ambacho kingejulikana baadaye kama Physiocracy. Kama ilivyojadiliwa hapo awali, Vincent de Gournay na mduara wake wa wanauchumi walikuwa nyuma ya machapisho mengi ambayo yaliwaletea wasomaji wa Kifaransa mawazo ya kiuchumi ya kigeni na kusaidia kuwasha shauku yao ya uchumi. Misingi ya Fizikia tayari ilipatikana katika vitabu kama vile "Détail de la France" cha Boisguilbert na ["Insha kuhusu Hali ya Biashara kwa Ujumla"](https://archive.org/details/essaisurlanature0000cant) cha Cantillon.
-
-
-![image](assets/sw/047.webp)
-
+![Boisguilbert, “Maelezo ya Ufaransa”, Cantillon, “Insha kuhusu asili ya biashara”](assets/en/047.webp)
 
 
 
+Dhana ya laissez-faire ilikuwa na watetezi kadhaa tangu Boisguilbert, hasa Vincent de Gournay na Marquis d'Argenson.
 
-Wazo la laissez-faire lilikuwa na watetezi kadhaa tangu Boisguilbert, haswa Vincent de Gournay na Marquis d'Argenson.
+Kilichobaki ni kugeuza mkusanyiko huu wa mawazo kuwa fundisho thabiti na kamili, na Marquis de Mirabeau alikuwa wa kwanza kujaribu. Akiwa amehamasishwa na Insha ya Cantillon, alianza kuandika risala pana kuhusu masuala ya kiuchumi yenye kichwa "L'Ami des Hommes", ambayo ilifanikiwa sana.
 
+Hivyo, mwaka 1756, hadithi ya Fiziokrasia ingeweza kuanza. François Quesnay, wakati huo mpasuaji aliyegeuka kuwa daktari binafsi wa Madame de Pompadour, alimwalika Mirabeau Versailles kujadili mawazo ya kiuchumi.
 
-Kilichobaki ni kugeuza mwili huu wa mawazo kuwa fundisho thabiti, kamili, na Marquis de Mirabeau ilikuwa ya kwanza kujaribu. Akiongozwa na Insha ya Cantillon, alianza kuandika andiko la kina kuhusu masuala ya kiuchumi lililopewa jina la "L'Ami des Hommes", ambalo lilifanikiwa sana.
+![Quesnay, chati ya kiuchumi ya Quesnay, Mirabeau, “Nadharia ya Kodi”](assets/en/048.webp)
 
-
-Kwa hivyo, mnamo 1756, hadithi ya Fizikia inaweza kuanza. François Quesnay, kisha daktari wa upasuaji alimgeukia daktari wa kibinafsi Madame de Pompadour, alimwalika Mirabeau Versailles kujadili mawazo ya kiuchumi.
-
-
-![image](assets/sw/048.webp)
-
-
-Kufikia mwisho wa mazungumzo yao, Mirabeau alikubaliana na mawazo ya Quesnay. Kuanzia hapo na kuendelea, waliandika: Quesnay aliunda *Tableau économique* (1758) ili kuonyesha mtiririko wa mali katika uchumi, na kwa pamoja wakachapisha Nadharia ya Ushuru (1759).
+Mwisho wa mazungumzo yao, Mirabeau alikubaliana na mawazo ya Quesnay. Kuanzia hapo, waliandika: Quesnay aliunda *Tableau économique* (1758) kuonyesha mtiririko wa utajiri katika uchumi, na kwa pamoja walichapisha Nadharia ya Kodi (1759).
 
 
 
 
 
 
+Juhudi zao hazikukaribishwa kwa joto. Mahakamani, mwitikio uliotawala ulikuwa kutojali. Mfalme alitambua mwelekeo wa Quesnay wa nadharia na kwa mapenzi alimwita "mwanafikra wangu". Lakini mbali na pongezi hilo, kazi yao haikupata matokeo yoyote. Kwa kweli, Nadharia yao ya Kodi iliwaudhi wasimamizi wa kodi waliowakosoa, kiasi kwamba walidai na kufanikiwa kupata kifungo cha Mirabeau. Madame de Pompadour hatimaye alimfanya aachiliwe, lakini aliendelea kuishi uhamishoni katika shamba lake la Bignon kwa wiki chache.
 
 
+![Marquess de Pompadour](assets/en/049.webp)
+
+Nusu ya kwanza ya miaka ya 1760 kwa hiyo ilipita katika ukimya wa kadiri. Kwa sababu ya nafasi yake Versailles, Quesnay alilazimika kuacha kuandika, au angalau kutochapisha chochote kwa jina lake mwenyewe. Mirabeau, aliyekuwa tayari amehukumiwa mara moja, alionywa na alijua vizuri kwamba kipenzi cha mfalme hakingeweza kumlinda milele.
 
 
-Juhudi zao hazikukaribishwa kwa uchangamfu. Katika mahakama, majibu yaliyokuwepo yalikuwa kutojali. Mfalme alikubali mwelekeo wa Quesnay wa nadharia na kwa upendo akamwita "mtazamo wangu". Lakini mbali na pongezi hizo, kazi yao haikupata matokeo yoyote. Kwa hakika, Nadharia yao ya Ushuru iliwaudhi wasimamizi wa kodi iliowakosoa, kiasi kwamba walidai na kupata kifungo cha Mirabeau. Madame de Pompadour hatimaye aliachiliwa, lakini aliendelea kuishi uhamishoni katika mali yake huko Bignon kwa wiki chache.
+### Muongo wa dhahabu wa Fiziokrasia
+
+Baada ya ukimya huu mfupi, wanauchumi hao wawili walianza kuajiri wanafunzi: hii ilikuwa njia pekee ya kuyafanya mawazo yao yajulikane. Kufikia 1765, mafanikio yao yalikuwa ya kuvutia. Dupont de Nemours, Abeille, Mercier de la Rivière, Le Trosne, na Baudeau walijiunga haraka na safu zao. Waliunda shule: walikuwa na jarida lao wenyewe, *Les Éphémérides du Citoyen*, na hata walikutana kila Jumanne nyumbani kwa Mirabeau.
+
+![Ephémérides du Citoyen, jarida rasmi la Wanafiziokrati](assets/en/050.webp)
+
+Kati ya 1765 na 1775, kundi lililoungana la Wanafiziokrati lilikuwa katika kilele cha umaarufu wake. Ulimwengu wa fasihi na falsafa uliwaangalia wao tu, na kuruhusu mawazo yao kuenea kwa upana na haraka. Watu waliwaita "wanauchumi", au, kwa dhihaka zaidi, "dhehebu la wanauchumi". Bila kujali sauti, umaarufu wao ulikuwa kamili. Mwaka 1774, baada ya safari kwenda Metz, M. de Vaublanc aliandika mshangao wake katika kumbukumbu zake: kila mtu karibu naye alikuwa akizungumzia uchumi na kujenga hoja kama wanafunzi wa Quesnay. "Ilikuwa mtindo", alibainisha. "Kila mtu alikuwa mwanauchumi".
+
+### Kushuka na ushawishi wa kudumu
+
+Hata hivyo, kufikia 1770, umaarufu wao ulianza kupungua. Kundi lilipata waasi wake wa kwanza, na uwezo wao wa kustahimili ukosoaji ukadhoofika. Na wakosoaji walikuwa wengi, Condillac, Mably, Voltaire, Galiani, Linguet, Graslin, na hata Adam Smith huko Scotland, wote walipinga mitazamo yao.
+
+![Wanauchumi wa Mwangaza](assets/en/051.webp)
+
+Gazeti lao halikuonekana tena kwa kawaida. Hili liliashiria mwisho wa kipindi amilifu zaidi cha vuguvugu hilo.
+
+Fiziokrasia ingeendelea kuwa na ushawishi hadi Mapinduzi. Nchini Ufaransa, kwanza kupitia Turgot, zaidi kama msafiri mwenza kuliko mwanafunzi, pamoja na kupitia mwakilishi wake Dupont de Nemours, ambaye maisha na kazi zake tutajifunza baadaye. Lakini pia kote Ulaya, ambako fundisho la kifiziokrasia lilipokelewa kwa shauku. Ujerumani, kupitia Margrave wa Baden, na Italia, kupitia Leopold wa Tuscany, nadharia za kifiziokrasia hata zilihamasisha mageuzi ya kiuchumi yaliyopendelea mali binafsi na uhuru.
 
 
-
-![image](assets/sw/049.webp)
-
-
-Katika nusu ya kwanza ya miaka ya 1760, kulikuwa na ukimya wa jumla. Quesnay, kwa nafasi yake nyeti huko Versailles, alilazimika kuacha kuandika au kuchapisha chochote kwa jina lake mwenyewe. Wakati huohuo, Mirabeau, ambaye tayari alikuwa amehukumiwa mara moja, alionekana mwangalifu zaidi baada ya kuonywa, akijua vyema kwamba hata mpenzi wa mfalme asingeweza kumlinda daima.
-
-
-
-Baada ya kimya hiki kifupi, wanauchumi hao wawili walianza kuajiri wanafunzi: hii ndiyo ilikuwa njia pekee ya kueneza mawazo yao. Kufikia 1765, mafanikio yao yalikuwa ya kushangaza. Dupont de Nemours, Abeille, Mercier de la Rivière, Le Trosne, na Baudeau walijiunga upesi. Waliunda shule: walikuwa na jarida lao, *Les Éphémérides du Citoyen*, na hata walikutana kila Jumanne nyumbani kwa Mirabeau.
-
-
-![image](assets/sw/050.webp)
-
-
-Kati ya 1765 na 1775, Physiocrats walifikia kilele cha umaarufu wao. Wakati huo, ulimwengu wa fasihi na falsafa uliwashughulikia kwa makini, jambo lililoruhusu mawazo yao kuenea kwa upana na kasi. Waliitwa kwa heshima “wachumi”, au kwa kejeli “dhehebu la wachumi”. Licha ya mtazamo huo, sifa yao ilikuwa kubwa mno. Mnamo 1774, baada ya ziara ya Metz, M. de Vaublanc alieleza mshangao wake katika kumbukumbu zake: kila mtu karibu naye alikuwa akizungumzia uchumi na kubishana kana kwamba ni wanafunzi wa Quesnay. “Ilikuwa ya mtindo,” aliandika, “kila mtu alikuwa mchumi.”
-
-
-Walakini, kufikia 1770, umaarufu wao ulianza kupungua. Kikundi kilipata kasoro zake za kwanza, na uwezo wao wa kustahimili ukosoaji ukadhoofika. Na wakosoaji walikuwa wengi, Condillac, Mbly, Voltaire, Galiani, Linguet, Graslin, na hata Adam Smith katika Scotland, wote walipinga maoni yao.
-
-
-![image](assets/sw/051.webp)
-
-
-Gazeti lao halikuonekana tena mara kwa mara. Hii iliashiria mwisho wa kipindi cha harakati zaidi.
-
-
-Fiziokrasia ingeendelea kuwa na ushawishi kupitia Mapinduzi. Huko Ufaransa, kwanza kupitia Turgot, zaidi ya msafiri mwenzake kuliko mfuasi, na pia kupitia mwakilishi wake Dupont de Nemours, ambaye maisha na kazi zake tutajifunza baadaye. Lakini pia kote Ulaya, ambapo fundisho la physiocratic lilipokelewa kwa shauku. Huko Ujerumani, kupitia Margrave ya Baden, na huko Italia, kupitia Leopold wa Tuscany, nadharia za kifizikia hata zilichochea mageuzi ya kiuchumi yaliyopendelea mali ya kibinafsi na uhuru.
-
-
-
-## Misingi ya mafundisho ya Physiocrats
-
+## Misingi ya fundisho la Wanafiziokrati
 
 <chapterId>4dbe5436-0578-57c2-b054-03ed00aa091a</chapterId>
-
-Neno Physiocracy, lenye maana ya “serikali kwa asili”, lilibuniwa na Dupont de Nemours na kisha likatumiwa kama kichwa cha *Physiocracy*, mkusanyiko wa maandiko ya Quesnay uliochapishwa mwaka 1768.
-
+Neno Physiocracy, linalomaanisha "serikali kwa maumbile", lilibuniwa na Dupont de Nemours na kutumiwa kama kichwa cha *Physiocracy*, mkusanyo wa makala za Quesnay zilizochapishwa mwaka 1768.
 
 
-![image](assets/sw/052.webp)
+![Fiziokrasia, mkusanyo wa makala za Quesnay, 1768](assets/en/052.webp)
 
-
-Huu ni msemo usioeleweka, na hakuna mwanafunzi yeyote wa Quesnay aliyewahi kutoa maana yake halisi. Hata hivyo, mfumo wao wa mawazo haukuwa wa kificho. Kinyume chake, uliundwa juu ya kanuni chache zilizo wazi kabisa, ambazo tutazieleza hapa.
-
+Hii ni kauli isiyoeleweka. Hakuna mwanafunzi wa Quesnay aliyetupatia maana yake ya kweli. Hata hivyo, mfumo wao wa mawazo haukuwa fiche hata kidogo. Kwa kweli, ulijengwa kuzunguka kanuni chache zilizo wazi sana, ambazo tutazieleza hapa.
 
 
 ### Kanuni ya kwanza: kilimo pekee ndicho chenye tija
 
 
+Wazo hili la kwanza ndilo lililovutia umakini wa wanahistoria. Leo, katika vitabu vya kiada au kozi za uchumi, hivi ndivyo Wanafiziokrati wanavyofupishwa. Inasemekana waliamini kwa ujinga kwamba kilimo pekee ndicho chenye tija. Kwa msingi huo, fundisho lao hutupiliwa mbali kama lisilo na maana, na uchambuzi huhamia haraka kwa Adam Smith.
 
-Wazo hili la kwanza ndilo ambalo limevutia umakini wa wanahistoria. Leo, katika vitabu vya kiada au kozi za uchumi, hivi ndivyo Fizikia inavyofupishwa. Inasemekana kuwa waliamini kwa ujinga kuwa kilimo pekee ndicho chenye tija. Kwa msingi huo, fundisho lao linatupiliwa mbali kama lisilofaa, na uchanganuzi unahamia haraka kwa Adam Smith.
-
-
-Walakini, si sahihi kuwalaumu Wanafiziokrati kwa kusisitiza mno juu ya kilimo, kwa kuwa katikati ya karne ya 18, kilimo kiliajiri takriban 90% ya watu na kilikuwa msingi wa uchumi wa Ufaransa.
+Hata hivyo, si haki kuwakosoa Wanafiziokrati kwa kukipa kilimo umuhimu usio na uwiano, kwa kuwa katikati ya karne ya 18, kilimo kiliajiri 90% ya watu na kiliunda msingi wa uchumi wa Ufaransa.
 
 
+![Jean-François Millet, “Wakulima”](assets/en/053.webp)
 
-![image](assets/sw/053.webp)
+Wazo la Wanafiziokrati kwa kweli ni nyeti. Kulingana nao, kuna tofauti kati ya uzalishaji na faida. Mwenye kiwanda na mfanyabiashara wanaweza kupata faida, lakini ni mkulima pekee anayezalisha kweli, kwa sababu uzalishaji ni uundaji wa nyenzo yenye manufaa, badala ya kuongeza matumizi kwa nyenzo iliyokuwepo tayari.
 
+Tunapaswa pia kujaribu kuelewa kwa nini walikataa viwanda na ufundi kama visivyo na tija. Wakati huo, kazi hizi zilikuwa zimefungwa ndani ya mfumo wa magildi, uliopiga marufuku ubunifu, uwekezaji, na maendeleo.
 
-Wazo la Wanafiziokrati kwa kweli ni la hila. Kulingana na wao, kuna tofauti kati ya uzalishaji na faida. Mfanyabiashara wa viwanda na mfanyabiashara wanaweza kupata faida, lakini ni mkulima pekee ndiye anayezalisha, kwa sababu uzalishaji ni uundaji wa nyenzo muhimu, badala ya kuongeza matumizi kwa nyenzo zilizopo.
+### Kanuni ya pili: udikteta wa kisheria badala ya demokrasia
 
+Leo, kumtukana mtu, tunasema yeye si mwanademokrasia. Ingawa wanahistoria huwasamehe Wanafiziokrati kwa mtazamo wao mkali juu ya tija ya kilimo, hawawasamehi upinzani wao kwa demokrasia, hasa kwa kuwa waliishi wakati wa kilele cha mawazo ya Mwangaza. Kuanzia katikati ya karne ya 18 hadi kabla tu ya Mapinduzi, Wanafiziokrati walionekana kama maadui wa maendeleo.
 
-Tunapaswa pia kujaribu kuelewa kwa nini walikataa tasnia na ufundi kama zisizo na tija. Wakati huo, biashara hizi zilikuwa zimefungwa ndani ya mfumo wa chama, ambao ulipiga marufuku uvumbuzi, uwekezaji, na maendeleo.
+![Tocqueville, “Utawala wa Kale na Mapinduzi”](assets/en/054.webp)
 
+Tocqueville alisisitiza wazo hili:
 
-### Kanuni ya pili: udhalimu wa kisheria badala ya demokrasia
+> Wanafiziokrati kwa kweli walipendelea sana biashara huria ya bidhaa, laissez-faire au laissez-passer katika biashara na viwanda; lakini kuhusu uhuru halisi wa kisiasa, hawakuuzingatia, na hata mawazo kama hayo yalipotokea akilini mwao, awali waliyakataa.
 
+Wakiwa waliberali katika uchumi, Wanafiziokrati kwa hiyo hawakuwa waliberali katika masuala ya kisiasa. Quesnay anaandika katika *maxims* zake: "Acha mamlaka ya mtawala iwe moja na iliyo juu kuliko watu wote wa jamii na juu ya biashara zote zisizo za haki za maslahi binafsi." Na baadaye, katika kanuni hiyo hiyo: "Mfumo wa mizani na vidhibiti katika serikali ni wazo hatari, ambalo linaonyesha tu mifarakano miongoni mwa wakuu na ukandamizaji wa wadogo".
 
-Leo kumtukana mtu tunasema sio demokrasia. Ingawa wanahistoria wanawasamehe Wanafiziokrati mtazamo wao mkali juu ya uzalishaji wa kilimo, hawasamehe upinzani wao kwa demokrasia, hasa kwa vile waliishi wakati wa kilele cha mawazo ya Kutaalamika. Kuanzia katikati ya karne ya 18 hadi kabla ya Mapinduzi, Wanafiziokrati walionekana kuwa maadui wa maendeleo.
+![Louis XVI](assets/en/055.webp)
 
+Tocqueville alibainisha kwa ustadi kwamba Wanafiziokrati waliikataa demokrasia mara tu walipoona miundo yake. Walikuwa na mashaka na demokrasia, ambayo ingekuwa jambo la kudumu katika uchumi wa kisiasa wa Kifaransa, kwa sababu demokrasia iko mbali na kuwa mfumo kamili: inaweza kuruhusu ukandamizaji wa wachache na wengi, na inaweza kuwa chombo cha kunyakua mamlaka, udhalimu, na uporaji.
 
-![image](assets/sw/054.webp)
+### Kanuni ya tatu: heshima kamili kwa mali binafsi
 
+Wanafiziokrati waliamini kwamba watu walihitaji kumiliki na kuhifadhi matokeo ya kazi yao. Kwa mtazamo wao, haki za mali zilikuwa msingi wenyewe wa jamii. Walidhani Serikali ilikuwa na kazi moja kuu: kulinda mali ya watu. Zaidi ya hayo, kwa mtazamo wa kiuchumi, Wanafiziokrati wanadai kwamba kutoguswa kwa mali kunahimiza kazi na juhudi na ni sharti la maendeleo ya kiuchumi.
 
-Tocqueville alisisitiza juu ya wazo hili:
+![Millet, “Angelus”](assets/en/056.webp)
 
+Quesnay aliweka kwa urahisi:
 
-> Wanafiziokrati walipendelea sana biashara huria ya bidhaa, kwa laissez-faire au laissez-passers katika biashara na viwanda; lakini kuhusu uhuru wa kisiasa unafaa, hawakuuzingatia, na hata mawazo kama hayo yalipotokea akilini mwao, waliyakataa mwanzoni.
-
-Waliberali katika uchumi, Wanafiziokrati kwa hivyo hawakuwa huru katika masuala ya kisiasa. Quesnay aliandika katika kanuni zake: "Mamlaka kuu na iwe ya kipekee na bora kuliko watu wote wa jamii na kwa mashirika yote yasiyo ya haki ya masilahi ya kibinafsi." Na baadaye, katika usemi huohuo: "Mfumo wa kuangalia na kusawazisha katika serikali ni dhana mbaya, inayodhihirisha tu ugomvi kati ya wakubwa na ukandamizaji wa wadogo".
-
-
-![image](assets/sw/055.webp)
-
-
-Tocqueville alibainisha vyema kwamba Wanafiziokrati walikataa demokrasia mara tu walipoona aina zake. Walikuwa na shaka juu ya demokrasia, ambayo ingekuwa ya kudumu katika uchumi wa kisiasa wa Ufaransa, kwa sababu demokrasia iko mbali na mfumo kamili: inaweza kuruhusu ukandamizaji wa walio wachache na wengi, na inaweza kuwa chombo cha unyang'anyi, udhalimu, na uporaji.
-
-
-### Kanuni ya tatu: heshima kamili kwa mali ya kibinafsi
-
-
-Wanafiziokrasia waliamini kwamba watu walihitaji kumiliki na kuweka matokeo ya kazi zao. Kwa maoni yao, haki ya kumiliki mali ilikuwa msingi wa jamii. Walifikiri Serikali ilikuwa na kazi moja kuu: kulinda mali za watu. Zaidi ya hayo, kwa mtazamo wa kiuchumi, Wanafiziokrati wanadai kwamba kutokiukwa kwa mali kunahimiza kazi na juhudi na ni sharti la maendeleo ya kiuchumi.
-
-
-![image](assets/sw/056.webp)
-
-
-Quesnay aliiweka kwa urahisi:
-
-
-> Wacha Ownership ya ardhi na mali inayohamishika ihakikishwe kwa wale ambao ni wamiliki wao halali, kwani usalama wa mali ndio msingi muhimu wa utulivu wa kiuchumi na usalama wa jamii; ni uhakika wa umiliki wa kudumu unaohimiza nguvu kazi na matumizi ya mali katika kuboresha na kulima ardhi, na pia katika biashara na viwanda.
+> Acha umiliki wa ardhi na utajiri unaohamishika uhakikishwe kwa wale walio wamiliki wake halali, kwa kuwa usalama wa mali ndio msingi muhimu wa utaratibu wa kiuchumi na usalama wa jamii; ni uhakika wa umiliki wa kudumu unaohimiza kazi na matumizi ya utajiri katika kuboresha na kulima ardhi, pamoja na katika biashara na viwanda.
 
 
 ### Kanuni ya nne: uhuru kamili wa biashara
 
+Katika *Maxims* zake zilizotajwa hapo awali, Quesnay anasema:
 
-Katika *Maxims* yake iliyotajwa hapo awali, Quesnay anasema:
-
-
-> Hebu kuwe na uhuru kamili wa biashara, kwa kuwa udhibiti unaotegemeka zaidi, sahihi, na wenye manufaa wa biashara ya ndani na nje kwa taifa na Serikali upo katika uhuru kamili wa ushindani.
+> Acha kuwe na uhuru kamili wa biashara, kwa kuwa udhibiti wa kuaminika zaidi, sahihi zaidi, na wenye manufaa zaidi wa biashara ya ndani na ya nje kwa taifa na Serikali uko katika uhuru kamili wa ushindani.
 
 
-![image](assets/sw/057.webp)
+![Bandari ya Bordeaux katika karne ya 18](assets/en/057.webp)
+
+Wanafiziokrati walikuwa wameona uharibifu uliosababishwa na uingiliaji wa serikali, hasa katika biashara ya nafaka. Lazima tukubali, wanasema, kwamba mamlaka haitaweza kamwe kusimamia biashara vizuri kama watu binafsi wanavyofanya, kwa sababu ingehitaji kujibu kila hitaji na kuguswa na kila mabadiliko ya mahitaji au ugavi. Yote haya yako mbali sana na uwezo hata wa serikali yenye hekima zaidi inayoweza kufikiriwa. Kwa hiyo, ni lazima kuyaacha mambo yawe na yatiririke.
+
+Kwa asili yake yenye manufaa, biashara lazima iwe huru kabisa na kikamilifu. Mmoja wa wanachama wao, Le Trosne, hata aliandika kijitabu chenye kichwa [*Uhuru wa Biashara ya Nafaka: Daima Una Manufaa, Kamwe Hauna Madhara*](https://www.institutcoppet.org/liberte-commerce-grains-toujours-utile-jamais-nuisible/).
+
+### Kanuni ya tano: Watu wote ni ndugu
+
+Wapinzani wakali wa utumwa, Wanafiziokrati pia walikuwa wapenda amani wakubwa. "Sera yetu ya nje inaitwa amani", Mirabeau alisema kwa urahisi. Mwaka 1790, katika Bunge Maalum la Katiba, Dupont de Nemours aliendeleza msimamo huu wa kupenda amani alipowasilisha mswada wa kupiga marufuku vita vya kushambulia.
 
 
-Wanafiziokrati walikuwa wameona uharibifu uliosababishwa na kuingiliwa na serikali, haswa katika biashara ya nafaka. Ni lazima mtu akubali, wanasema, kwamba mamlaka haitaweza kamwe kusimamia biashara kama vile watu binafsi wanavyofanya, kwa sababu ingehitaji kujibu kila hitaji na kuguswa na kila mabadiliko ya mahitaji au Supply. Yote haya ni zaidi ya uwezo wa hata serikali yenye busara ambayo mtu anaweza kufikiria. Kwa hiyo, ni muhimu kuruhusu mambo kuwa na kuwaacha mtiririko.
-
-
-Kwa manufaa kwa asili, biashara lazima iwe huru kabisa na kikamilifu. Mmoja wa wanachama wao, Le Trosne, hata aliandika kijitabu kiitwacho [*The Freedom of the Grain Trade: Always Useful, Never Harmful*](https://www.institutcoppet.org/liberte-commerce-grains-toujours-utile-jamais-nuisible/).
-
-
-### Kanuni ya tano: Wanaume wote ni ndugu
-
-
-Wapinzani wakali wa utumwa, Wanafiziokrati pia walikuwa wapenda ustaarabu wakubwa. "Sera yetu ya nje inaitwa amani," Mirabeau alisema kwa urahisi. Mnamo 1790, katika Bunge la Katiba, Dupont de Nemours aliendeleza msimamo huu wa kupinga vita alipopendekeza mswada wa kupiga marufuku vita vya kukera.
-
-
-
-## Mafanikio na athari za Wanafizikia
-
+## Mafanikio na ushawishi wa Wanafiziokrati
 
 <chapterId>5b911105-796a-5e2e-a501-c7a364fc758e</chapterId>
 
+### Kueneza uchumi nchini Ufaransa
 
-Kama tulivyoona katika sura ya kwanza kati ya sura tatu zilizotolewa kwa Wanafiziokrati, wafuasi wa Quesnay walikuwa na hasira sana nchini Ufaransa kwa takriban muongo mmoja.Hofu hii ya mawazo yao ilichukua sura katika wakati wao na iliendelea hadi mwisho wa karne. Hapa, tutaangalia baadhi ya mafanikio yao na ushawishi walioutoa kwa warithi wao katika uwanja wa fikra za kiuchumi.
+Kama tulivyoona katika sura ya kwanza kati ya tatu zilizotolewa kwa Wanafiziokrati, wafuasi wa Quesnay walikuwa maarufu sana nchini Ufaransa kwa takriban muongo mmoja. Shauku hii kwa mawazo yao ilijitokeza katika wakati wao na iliendelea hadi mwisho wa karne. Hapa, tutaangalia baadhi ya mafanikio yao na ushawishi waliokuwa nao kwa warithi wao katika uwanja wa mawazo ya kiuchumi.
 
+Mafanikio yao makubwa, kufuatia kundi la Gournay, yalikuwa kufanya mawazo ya kiuchumi yajulikane. Kauli maarufu ya Voltaire inajulikana sana: karibu 1750, taifa, likiwa limeshiba mashairi na riwaya, lilianza kuhoji kuhusu nafaka. Wanafiziokrati walishiriki katika vuguvugu hili, wakichapisha kihalisi mamia ya makala, vijitabu, na vitabu kuhusu uhuru wa biashara ya nafaka. Msukumo mkubwa uliotolewa na Wanafiziokrati kwa mijadala ya kiuchumi pia unaonekana katika idadi ya kuvutia ya kazi za kiuchumi na vijitabu vilivyochapishwa nchini Ufaransa kutoka 1760 hadi 1775. Kama ushahidi zaidi wa kuenea kwa mawazo ya kiuchumi nchini Ufaransa, mtu anakumbuka maoni ya M. de Vaublanc, yaliyotajwa katika mhadhara uliopita, aliyesema huko Metz mwaka 1774 kwamba watu hawakuzungumza chochote ila uchumi. "Ulikuwa mtindo", alisema. "Kila mtu alikuwa mwanauchumi".
 
-Mafanikio yao makubwa zaidi, kufuatia kikundi cha Gournay, ilikuwa kueneza mawazo ya kiuchumi. Msemo maarufu wa Voltaire unajulikana sana: karibu 1750, taifa, lililoshiba mashairi na riwaya, lilianza kujadiliana juu ya nafaka. Wanafiziokrati walishiriki katika harakati hii, wakichapisha kihalisi mamia ya makala, vijitabu, na vitabu kuhusu uhuru wa biashara ya nafaka. Msukumo mkubwa uliotolewa na Wanafiziokrati kwa majadiliano ya kiuchumi pia unaonekana katika idadi ya kuvutia ya kazi za kiuchumi na vipeperushi vilivyochapishwa nchini Ufaransa kutoka 1760 hadi 1775. Kama ushahidi zaidi wa kuenea kwa mawazo ya kiuchumi nchini Ufaransa, mtu anakumbuka maneno ya M. de Vaublanc, yaliyotajwa katika hotuba ya awali, ambaye alisema huko Metz katika 174 kwamba watu hawakuzungumza chochote kuhusu kiuchumi. "Ilikuwa mtindo," alisema. "Kila mtu alikuwa mchumi".
+Utetezi wa mawazo yao, katika vitabu, vijitabu, na katika jarida lao *Les Éphémérides du Citoyen*, haraka ulikuwa na athari katika sera ya kiuchumi ya Ufaransa. Mwaka 1763, amri ilitoa uhuru wa biashara ya nafaka, ambao Quesnay na Mirabeau walikuwa wamedai kwa nguvu. Mara kadhaa, mamlaka pia zililegeza kanuni zinazosimamia magildi ya biashara ili kuhakikisha uhuru zaidi wa kufanya kazi.
 
+### Ushawishi nje ya nchi
 
-Utetezi wa mawazo yao, katika vitabu, vijitabu, na katika jarida lao *Les Éphémérides du Citoyen*, ulipata matokeo haraka katika sera ya uchumi ya Ufaransa. Mnamo 1763, amri ilitoa uhuru wa biashara ya nafaka, ambayo Quesnay na Mirabeau walikuwa wamedai sana. Mara kadhaa, mamlaka pia ilirahisisha kanuni zinazosimamia vyama vya biashara ili kuhakikisha uhuru zaidi wa kufanya kazi.
+Nje ya nchi, mafanikio yalikuja mapema sana. Ujerumani, Margrave wa Baden alivutiwa na mawazo ya kifiziokrasia na aliendeleza mawasiliano ya mara kwa mara na Mirabeau na Dupont de Nemours.
 
+![Charles Frederick, “Mtawala Mkuu wa Baden”](assets/en/058.webp)
 
-Nje ya nchi, mafanikio yalikuja mapema sana. Huko Ujerumani, Margrave wa Baden walipendezwa na mawazo ya fizikia na kudumisha mawasiliano ya mara kwa mara na Mirabeau na Dupont de Nemours.
+Alimpa mwanauchumi Johann August Schlettwein, Mfiziokrati mwenye imani, kazi ya kutekeleza mageuzi ya kodi na kuifanya biashara ya nafaka iwe huria. Aprili 1770, jaribio la kwanza lilifanyika katika kijiji kidogo cha Dietlingen. Wanakijiji walionekana kuyakaribisha kwa shauku mageuzi hayo, lakini maafisa waliokuwa wakisimamia hawakuwa na msaada mkubwa, jambo lililochelewesha utekelezaji mpana.
 
+Nchini Urusi, Catherine II alikuwa akiandaa mageuzi ya kisheria na alimwomba Diderot amtumie akili bora kumsaidia.
 
-![image](assets/sw/058.webp)
+![Catherine II wa Urusi, Mercier de la Rivière, “Utaratibu wa asili na muhimu wa jamii za kisiasa”](assets/en/059.webp)
 
-
-Alimpa kazi mwanauchumi Johann August Schlettwein, mwanafiziokrasia aliyeshawishika, kutekeleza mageuzi ya kodi na kuikomboa biashara ya nafaka. Mnamo Aprili 1770, kesi ya kwanza ilifanyika katika kijiji kidogo cha Dietlingen. Wanakijiji walionekana kukaribisha hatua hizo kwa shauku, lakini viongozi waliohusika hawakuunga mkono sana, jambo ambalo lilichelewesha utekelezaji mpana.
-
-
-Huko Urusi, Catherine II alikuwa akitayarisha mageuzi ya sheria na akamwomba Diderot amtumie akili nzuri kumsaidia.
-
-
-![image](assets/sw/059.webp)
-
-
-Akiwa amevutiwa na usomaji wa [*Mpangilio wa Asili na Muhimu wa Jumuiya za Kisiasa*](https://archive.org/details/lordrenaturelete00mercuoft), iliyochapishwa mwaka wa 1767, alimtumia mwandishi wake, mwanafizikia Mercier de la Rivière.
+Akiwa amevutiwa na usomaji wa [*Utaratibu wa Asili na Muhimu wa Jamii za Kisiasa*](https://archive.org/details/lordrenaturelete00mercuoft), kilichochapishwa mwaka 1767, alimtumia mwandishi wake, Mfiziokrati Mercier de la Rivière.
 
 
 
 
+Ingawa aliondoka Ufaransa akiwa amesherehekewa, mapokezi yake Saint Petersburg yalikuwa baridi (ukiachilia hali ya hewa), na Malkia huyo alivunjika moyo naye.
+
+Nchini Sweden, chini ya Gustav III, na Italia, chini ya Leopold wa Tuscany, Wanafiziokrati pia walipata wafuasi walio tayari kuweka mawazo yao katika vitendo.
+
+Nchini Ufaransa, Wanafiziokrati walifurahia mafanikio makubwa kwa uteuzi wa Turgot kuwa Mdhibiti Mkuu wa Fedha mwaka 1774.
+
+![Picha ya Turgot](assets/en/060.webp)
+
+Akiwa anajua kupungua kwa umaarufu wao, Turgot hakuwahi kujitambulisha kama mwanafunzi mwaminifu wa Wanafiziokrati, wala, kwa jambo hilo, kama encyclopedist, ingawa alikuwa mmoja wao, na kwa kuwa walidharauliwa na wanachama wa Makasisi. Mara tu alipoingia madarakani, Turgot alitoa amri sita maarufu zilizounda mwanzo wa matumizi ya vitendo ya mpango wa Kifiziokrasia: uhuru wa biashara, uhuru wa kazi, na mwisho wa ukiritimba.
 
 
-Ingawa aliondoka Ufaransa akisherehekea, mapokezi yake huko Saint Petersburg yalikuwa ya baridi (kando ya hali ya hewa), na Empress alikatishwa tamaa naye.
+![Amri ya Kifalme](assets/en/061.webp)
+
+Kufikia wakati wa Mapinduzi ya Ufaransa, Wanafiziokrati walikuwa na wafuasi wachache zaidi. Marquis wa Mirabeau alikufa Julai 13, 1789, ishara kabisa. Abeille alikuwa ameendelea, lakini Dupont de Nemours alibaki mwaminifu. Akiwa ameteuliwa kwenye Bunge, Dupont de Nemours alibeba sauti ya Fiziokrasia na kutaka mageuzi ya kiuchumi yanayopendelea umiliki wa mali na biashara huria.
+
+![Kuitwa kwa Mkutano wa Madaraja huko Versailles mwaka 1789](assets/en/062.webp)
+
+Pia alipambana, bila mafanikio, dhidi ya assignats. Licha ya kushindwa huku, mawazo ya Kifiziokrasia yalibaki hai sana katika mjadala wa kifikra na yaliathiri mafanikio ya mwanzo ya Mapinduzi. Kama Joseph Rambaud alivyosema, kila kitu ambacho Mapinduzi yalifanya kwa ajili ya uhuru kilitokana na Wanafiziokrati.
+
+![Adam Smith, “Utajiri wa Mataifa”, Joseph Rambaud, “Historia ya mafundisho ya kiuchumi”](assets/en/063.webp)
 
 
-Huko Uswidi, wakiwa na Gustav III, na huko Italia, na Leopold wa Tuscany, Wanafizikia pia walipata wafuasi tayari kutekeleza mawazo yao katika vitendo.
+### Wanafiziokrati na Adam Smith
 
-
-Huko Ufaransa, Wanafiziokrati walifurahia mafanikio ya ajabu kwa kuteuliwa kwa Turgot kama Mdhibiti Mkuu wa Fedha mnamo 1774.
-
-
-![image](assets/sw/060.webp)
-
-
-Akijua kushuka kwa umaarufu wao, Turgot hakuwahi kujionyesha kama mfuasi mwaminifu wa Fiziokrasia, wala, kwa jambo hilo, kama mwandishi wa vitabu, ingawa alikuwa mmoja, na kwa kuwa walidharauliwa na washiriki wa Makasisi. Akiwa madarakani, Turgot alitoa maagizo sita maarufu ambayo yalijumuisha mwanzo wa matumizi ya vitendo ya mpango wa Fiziokrasia: uhuru wa biashara, uhuru wa kazi, na mwisho wa ukiritimba.
-
-
-
-![image](assets/sw/061.webp)
-
-
-Kufikia wakati wa Mapinduzi ya Ufaransa, Wanafiziokrati walikuwa na wafuasi wachache. Marquis wa Mirabeau alikufa mnamo Julai 13, 1789 - ishara kabisa. Abeille alikuwa ameendelea, lakini Dupont de Nemours alibaki mwaminifu. Akiwa ameteuliwa kwa Bunge hilo, Dupont de Nemours alibeba sauti ya Fiziokrasia na akatoa wito wa mageuzi ya kiuchumi kwa ajili ya mali Ownership na biashara huria.
-
-
-![image](assets/sw/062.webp)
-
-
-Pia alipigana, bila mafanikio, dhidi ya waliokabidhiwa. Licha ya kushindwa huku, mawazo ya Kifiziokrasia yaliendelea kuwepo sana katika mjadala wa kiakili na kuathiri mafanikio ya awali ya Mapinduzi. Kama Joseph Rambaud alivyosema, kila kitu Mapinduzi yalichofanya kwa ajili ya uhuru kilitokana na Wanafiziokrasia.
-
-
-![image](assets/sw/063.webp)
+Wanafiziokrati pia walikuwa na **ushawishi mkubwa kwa historia ya mawazo ya kiuchumi**. Adam Smith, aliyefika Ufaransa na kukutana na wengi wao, aliathiriwa sana na kazi yao. Hata alifikiria kukitoa [*Utajiri wa Mataifa*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289) kwa Quesnay.
 
 
 
-Wanafiziokrati pia walikuwa na ushawishi mkubwa katika historia ya fikra za kiuchumi. Adam Smith, ambaye alitembelea Ufaransa na kukutana na wengi wao, aliathiriwa sana na kazi yao. Alifikiria hata kuweka wakfu Utajiri wa Mataifa kwa Quesnay.
-
-
-
-
-
-Kwa kusikitisha, Quesnay alikufa miaka miwili kabla ya kitabu cha Smith kuchapishwa, na Smith akaondoa wakfu. Ingawa Smith hakukubaliana na wazo lao kwamba kilimo pekee ndicho chenye tija, alikumbatia hoja zao nyingi za soko huria na kuzipeleka mbele katika kazi yake mwenyewe.
-
+Kwa huzuni, Quesnay alikufa miaka miwili kabla ya kitabu cha Smith kuchapishwa, na Smith akaondoa wakfu huo. Ingawa Smith hakukubaliana na wazo lao kwamba kilimo pekee ndicho chenye tija, alikumbatia hoja zao nyingi kuhusu masoko huria na kuziendeleza katika kazi yake mwenyewe.
 
 
 ## Dupont de Nemours
-
 
 <chapterId>6d585e0f-93b8-5b0a-a0a8-7f6e4a5bc68e</chapterId>
 
 
 
 
+### Kutoka mkutano wa bahati hadi kipenzi cha Quesnay
 
-Nchini Marekani, tunaifahamu kampuni ya DuPont, inayojulikana pia kama "E.I. du Pont de Nemours and Company", kampuni ya kimataifa katika uwanja wa kemia na biolojia.
-
-
-
-![image](assets/sw/064.webp)
+Nchini Marekani, tunaifahamu kampuni ya DuPont, pia inayojulikana kama "E.I. du Pont de Nemours and Company", kampuni ya kimataifa katika uwanja wa kemia na biolojia.
 
 
-Leo, ina mauzo ya zaidi ya $35,000 bilioni na inaajiri karibu watu 65,000 duniani kote. Inabadilika kuwa kampuni hii inahusishwa kwa karibu na hatima ya Samuel-Pierre Dupont de Nemours, mwanauchumi wa Kifaransa wa shule ya Physiocratic.
+![Kampuni ya Dupont, Dupont de Nemours](assets/en/064.webp)
 
+Leo, ina mauzo ya zaidi ya dola bilioni 35 na inaajiri karibu watu 65,000 duniani kote. Inatokea kwamba kampuni hii imeunganishwa kwa karibu na hatima ya Samuel-Pierre Dupont de Nemours, mwanauchumi wa Kifaransa wa shule ya Fiziokrasia.
 
 
 
 
-
-Alizaliwa mwaka wa 1739, Dupont de Nemours alikaribia Wanafiziokrati akiwa na umri wa miaka 24. Wakati huo bado alikuwa anatafuta njia yake maishani. Siku moja alikutana na kijitabu kifupi kilichoitwa Utajiri wa Jimbo. Baada ya kukisoma, aligundua kuwa mawazo yake ya kiuchumi yalikuwa ya upuuzi na akaandika jibu muhimu liitwalo Reflections on the Wealth of the State, lililochapishwa mwaka wa 1763. Kipande hiki kilipokelewa vyema, na wasomaji wakakipongeza kwa maneno kama, “Lazima uwe mfuasi wa Mirabeau!” Cha kushangaza, Dupont hakujua hata Mirabeau alikuwa nani.
-
+Alizaliwa mwaka 1739, Dupont de Nemours aliwakaribia Wanafiziokrati akiwa na umri wa miaka 24. Wakati huo, bado alikuwa anatafuta njia yake maishani. Siku moja, alikutana na kijitabu kifupi chenye kichwa Utajiri wa Serikali. Aliona mawazo yake ya kiuchumi kuwa upuuzi na akaandika jibu la kukosoa lililoitwa Tafakari kuhusu Utajiri wa Serikali, lililochapishwa mwaka 1763. Andiko hilo lilipokelewa vizuri, na wasomaji walilisifia, wakisema mambo kama, "Lazima uwe mwanafunzi wa Mirabeau!" Kwa kejeli, Dupont hata hakujua Mirabeau alikuwa nani.
 
 
-![image](assets/sw/065.webp)
+![Marquis de Mirabeau, Jarida la kilimo, biashara na fedha](assets/en/065.webp)
 
-
-Kwa kutaka kujua, alianza kusoma kazi za Mirabeau, L’Ami des hommes na Théorie de l’impôt. Hatimaye alikutana na Mirabeau na François Quesnay, kisha akajiunga na shule yao.
-
-Mnamo 1765, Dupont alipewa nafasi ya mhariri wa *Journal de l'agriculture, du commerce et des finances*, jarida lililoongoza la wakati wake katika uwanja wa fikra za kiuchumi.
+Akiwa na udadisi, alianza kusoma kazi ya Mirabeau, *Rafiki wa Watu* na *Nadharia ya Kodi*. Alikutana na Mirabeau na François Quesnay, kisha akajiunga na shule yao.
+Mwaka 1765, Dupont alipewa nafasi ya mhariri wa *Journal de l'agriculture, du commerce et des finances*, jarida kuu la wakati wake katika uwanja wa mawazo ya kiuchumi.
 
 
 
 
+Kulikuwa na sababu mbili za hili: Mirabeau na Quesnay walipaswa kubaki kimya, na Dupont alionekana kama nyota yao inayochipuka.
 
+Wanachama wa shule ya Fiziokrasia wanakubaliana kwamba Dupont de Nemours haraka alikua kipenzi cha Quesnay. Quesnay aliwahi kusema, "Mtunzeni kijana huyu, ndiye atakayezungumza tutakapokuwa tumekufa". Mfiziokrati mwenzake, Abeille, hata aliona wivu kwa uangalizi alioupata Dupont na akajitenga na shule ya Quesnay.
 
-Kulikuwa na sababu mbili za hii: Mirabeau na Quesnay walilazimika kukaa kimya, na Dupont alionekana kama nyota yao inayoibuka.
+### Mbunifu wa uchapishaji wa Kifiziokrasia
 
+Dupont de Nemours daima alidumisha heshima yake kubwa kwa Quesnay.
 
-Washiriki wa shule ya Physiocracy wanakubali kwamba Dupont de Nemours akawa kipenzi cha Quesnay haraka. Quesnay aliwahi kusema: "Prenez soin de ce jeune homme, c’est lui qui nous dira morts." Mwanafiziokrat mwenzake mmoja, Abeille, hata alionea wivu heshima na usikivu aliopokea Dupont na hatimaye akajitenga na shule ya Quesnay.
+![Quesnay, Journal des Physiocrates](assets/en/066.webp)
 
-
-Dupont de Nemours daima alidumisha heshima yake ya juu kwa Quesnay.
-
-
-![image](assets/sw/066.webp)
-
-
-Baadaye angesema, "Nilikuwa mvulana tu wakati Quesnay alinyoosha mikono yake kwangu - alinifanya mtu." Alikuwa Quesnay ambaye alimfanya kuwa mchumi mkuu kwenye eneo la fasihi la wakati huo.
-
-Baada ya *Journal de l'agriculture, du commerce et des finances*, Dupont aliteuliwa kuwa mhariri wa *Les Éphémérides du Citoyen*, ambalo lilikuja kuwa chombo rasmi cha Physiocrats.
+Baadaye angesema, "Nilikuwa mvulana tu wakati Quesnay alinyoosha mikono yake kwangu; alinifanya kuwa mwanamume." Ni Quesnay aliyemfanya kuwa mwanauchumi mkubwa katika jukwaa la fasihi la wakati huo.
+Baada ya *Journal de l'agriculture, du commerce et des finances*, Dupont aliteuliwa kuwa mhariri wa *Les Éphémérides du Citoyen*, ambacho kilikuwa chombo rasmi cha Wanafiziokrati.
 
 
 
+Alifanya mkusanyo huu wa mara kwa mara kuwa kituo kikubwa cha nadharia ya kiuchumi, akiutegemeza hata wakati wa kushuka kwa Wanafiziokrati kwa kuandika binafsi karibu juzuu zote za baadaye. Zaidi ya hayo, ni Dupont de Nemours aliyebuni neno "physiocracy", lililotokana na maneno mawili ya Kigiriki yanayomaanisha "serikali ya maumbile". Alitumia neno hili kuweka kichwa cha mkusanyo wa makala za Quesnay uliochapishwa mwaka 1768, na neno hilo hatimaye likajiimarisha katika historia. Inajulikana kwamba miongoni mwao, Wanafiziokrati waliitana "wanauchumi", na bado walitajwa hivyo wakati wa Mapinduzi.
 
 
-Alifanya mkusanyiko huu wa mara kwa mara kuwa kituo kikuu cha nadharia ya kiuchumi, akiunga mkono hata katika kipindi cha kupungua kwa Physiocrats kwa kuandika kibinafsi karibu juzuu zote za baadaye. Ni Dupont de Nemours, zaidi ya hayo, ndiye aliyeanzisha neno Physiocracy, linalotokana na maneno mawili ya Kigiriki yenye maana ya "serikali ya asili". Alitumia neno hili kutaja mkusanyiko wa maandiko ya Quesnay yaliyotolewa mnamo 1768, na neno hilo hatimaye likajikita katika historia. Inajulikana kuwa miongoni mwao, Wanafiziokrati waliitana économistes, na bado walijulikana hivyo hata wakati wa Mapinduzi.
+![Turgot, Physiocracy, mkusanyo wa maandishi ya Quesnay](assets/en/067.webp)
 
+### Maisha ya imani thabiti
 
-
-![image](assets/sw/067.webp)
-
-
-Turgot alipohudumu kwa muda mfupi kama waziri wa fedha wa Ufaransa, Dupont alikua mshauri wake wa karibu, Mwanafizikia pekee aliyeweza kumfikia, kwani Turgot alijiweka mbali na wengine.
-
+Turgot alipohudumu kwa muda mfupi kama waziri wa fedha wa Ufaransa, Dupont akawa mshauri wake wa karibu, Mfiziokrati pekee aliyekuwa na ufikiaji kwake, kwani Turgot alijiweka mbali na wengine.
 
 
 
+Wakati wa Mapinduzi, alichaguliwa kutoka bailiwick ya Nemours na akajikuta Bungeni, ambako Monsieur Dupont mwingine pia alikuwa ameketi. Kisha akaitwa Dupont de Nemours, si kwa sababu alikuwa mtukufu, bali tu kuwatofautisha hao wawili. Jina hilo, bila shaka, lilibaki.
 
-Wakati wa Mapinduzi, alichaguliwa kutoka kwa bailiwick ya Nemours na akajikuta kwenye Bunge, ambapo Monsieur Dupont mwingine pia alikuwa ameketi. Wakati huo aliitwa Dupont de Nemours, si kwa sababu alikuwa mtukufu, lakini kwa kutofautisha tu wawili hao. Jina, bila shaka, lilibaki.
+Wakati wa Mapinduzi, Agosti 1792, alichukua silaha kumlinda Mfalme katika Kasri la Tuileries dhidi ya umati.
 
+![Joseph Schumpeter,” Historia ya uchambuzi wa kiuchumi”, Kutekwa kwa Kasri la Tuileries mwaka 1792](assets/en/068.webp)
 
-Wakati wa Mapinduzi, mnamo Agosti 1792, alichukua silaha kumtetea Mfalme kwenye Jumba la Tuileries dhidi ya umati.
-
-
-![image](assets/sw/068.webp)
-
-
-Mfalme akamwambia: "Monsieur Dupont, tunakupata kila wakati unapohitajika!" Baada ya kutoroka kimuujiza Ugaidi, alihukumiwa na kungojea kupigwa risasi lakini akaokolewa na anguko la Robespierre, alisukumizwa uhamishoni chini ya Napoleon na kupata furaha huko Merika, ambapo mmoja wa wanawe alianzisha, kwa usaidizi wa baba yake, kampuni ya Dupont.
+Mfalme alimwambia: "Monsieur Dupont, daima tunakupata pale unapohitajika!" Baada ya kunusurika kimiujiza kutoka Terror, akiwa amehukumiwa na kusubiri guillotine lakini akaokolewa na kuanguka kwa Robespierre, alisukumwa uhamishoni chini ya Napoleon na akapata furaha Marekani, ambako mmoja wa wanawe alianzisha, kwa msaada wa baba yake, kampuni ya Dupont.
 
 
 
 
-
-
-Licha ya maisha haya yenye matukio mengi, ambapo alichapisha kadhaa ya makala, vipeperushi, na vitabu, bado hajulikani kwa kiasi fulani hadi leo. Labda hii ilikuwa kwa sababu alibaki kuwa Mwanafiziokrati shupavu wakati fundisho hilo lilipotoka katika mtindo. Hakika, kama Schumpeter aliandika, Dupont de Nemours alibaki mwaminifu kwa Fizikia "katika kazi yake yote ambayo alipata fursa nyingi za kuiacha". Alikuwa mtu wa kujiamini.
-
+Licha ya maisha haya yaliyojaa matukio, ambapo alichapisha makala, brosha, na vitabu vingi, bado anajulikana kidogo hadi leo. Labda hii ni kwa sababu alibaki Mfiziokrati thabiti wakati fundisho hilo lilikuwa limetoka katika mtindo. Kwa kweli, kama Schumpeter alivyoandika, Dupont de Nemours alibaki mwaminifu kwa Fiziokrasia "katika kazi yake yote, ambamo alikuwa na fursa nyingi za kuikataa". **Alikuwa mtu wa imani thabiti**.
 
 # Mwangaza na Uchumi wa Kisiasa
 
-
 <partId>d1c885ad-7cb1-5f81-816c-be312719d9f8</partId>
-
 
 ## Voltaire na wanafalsafa
 
-
 <chapterId>16bcf7bf-dad4-5113-8c64-2800f04ff07b</chapterId>
 
+### Uchumi katika Encyclopédie
 
-Karne ya 18 huko Ufaransa iliona kuibuka kwa uchumi kama sayansi na shule ya kwanza ya mawazo ya kiuchumi: Physiocracy. Adam Smith alipata mafunzo ya uchumi katika kipindi hiki, na wanauchumi wa Ufaransa walitambuliwa ulimwenguni kote kama viongozi. Walakini, karne hii inakumbukwa zaidi kama karne ya falsafa kuliko ya uchumi. Ingawa vuguvugu la Kifiziokrasia lililingana, katika matamanio yake, na falsafa ya Kutaalamika, mitazamo ya wanafalsafa—hasa Diderot na Voltaire—inastahili uchunguzi wa karibu. Tutaona kwamba wanafikra za Kutaalamika walichangia kwa kiasi kikubwa kueneza wazo la laissez-faire nchini Ufaransa.
-
-
-
-![image](assets/sw/069.webp)
+Karne ya 18 nchini Ufaransa iliona kuibuka kwa uchumi kama sayansi na shule ya kwanza ya mawazo ya kiuchumi: Fiziokrasia. Adam Smith alijifunza uchumi katika kipindi hiki, na wanauchumi wa Kifaransa walitambuliwa duniani kote kama viongozi. Hata hivyo, karne hii inakumbukwa zaidi kama karne ya falsafa kuliko ya uchumi. Ingawa vuguvugu la Kifiziokrasia liliendana, katika matarajio yake, na falsafa ya Mwangaza, mitazamo ya philosophes, hasa Diderot na Voltaire, inastahili kuchunguzwa kwa makini. Tutaona kwamba wanafikra wa Mwangaza walichangia kwa kiasi kikubwa kueneza wazo la laissez-faire nchini Ufaransa.
 
 
-Mafanikio maarufu zaidi ya falsafa ya Kutaalamika bila shaka ni *Encyclopédie* ya Diderot na d'Alembert.
+![Adam Smith, Encyclopedia](assets/en/069.webp)
 
+Mafanikio maarufu zaidi ya falsafa ya Mwangaza bila shaka ni *Encyclopédie* ya Diderot na d'Alembert.
 
 
 
 
+Kwa kawaida, makala za kiuchumi ziliandikwa na wanauchumi. Kwa juzuu za mwanzo, Diderot alimgeukia Forbonnais, kisha akawaandikisha wanauchumi wa kiliberali: kwanza François Quesnay (aliyechangia makala kama "Grains", "Fermiers", "Hommes", ya mwisho ikiwa haikuchapishwa), kisha Turgot (aliyeandika "Foires et marchés"). Maandishi haya ni muhimu sana. Katika makala zake, Quesnay aliweka msingi wa kile ambacho kingekuwa fundisho la Kifiziokrasia. Pamoja na *Tableau économique* yake, haya yanabaki kuwa kazi zake maarufu zaidi. Turgot, akiwa bado kijana wakati huo, aliendeleza wazo la laissez-faire katika makala yake, akikosoa uingiliaji wa serikali katika upangaji wa soko.
 
-Kwa kawaida, makala za kiuchumi ziliandikwa na wachumi wenyewe. Katika juzuu za mwanzo za Encyclopédie, Diderot alimgeukia Forbonnais, na baadaye akawashirikisha wanauchumi huria: kwanza François Quesnay (aliyechangia makala kama “Grains”, “Fermiers”, na “Hommes”—ya mwisho ikiwa haikuwahi kuchapishwa), kisha Anne Robert Jacques Turgot (aliyeandika “Foires et marchés”). Maandishi haya yalikuwa na umuhimu mkubwa katika historia ya mawazo ya kiuchumi. Katika makala zake, Quesnay aliweka msingi wa itikadi ya Fiziokrasia, ambayo baadaye iliimarishwa na Tableau économique yake—kazi ambayo imebaki kuwa mojawapo ya mashuhuri zaidi. Turgot, akiwa bado kijana wakati huo, alitambulisha wazo la laissez-faire katika maandiko yake, akipinga kwa uwazi uingiliaji wa serikali katika uendeshaji wa soko.
+Katika makala nyingine nyingi za *Encyclopédie*, philosophes, hasa Diderot, wanatetea mfano bora wa uhuru katika maeneo yote: dini, siasa, na uchumi.
 
+![Denis Diderot](assets/en/070.webp)
 
-Katika makala nyingine nyingi za *Encyclopédie*, falsafa, hasa Diderot, hutetea hali bora ya uhuru katika maeneo yote: dini, siasa, na uchumi.
+Uhuru wa kazi, hasa katika kupinga mfumo wa magildi, ulikuwa mada inayojirudia katika maingizo mbalimbali kama Arts, Métier, na Communauté.
 
+### Uhusiano mgumu wa Diderot na uhuru
 
-![image](assets/sw/070.webp)
-
-
-Uhuru wa kazi, hasa katika upinzani dhidi ya mfumo wa chama, ulikuwa mada inayojirudia katika maingizo mbalimbali kama vile Sanaa, Métier, na Communauté.
-
-
-Njia ya Diderot katika nadharia ya kiuchumi ni ya kushangaza. Katika Encyclopédie, alikuwa mtetezi shupavu wa uhuru wa kiuchumi na ndiye aliyetafuta ushirikiano wa wanauchumi huria, kama ilivyothibitishwa na barua iliyoeleza makala ambazo Turgot angeweza kumwandikia. Katika miaka ya mwanzo ya Fiziokrasia, alikuwa mfuasi na mkuzaji wa shule ya Quesnay. Mnamo 1769 na 1770, aliandika kwa ajili ya *Les Ephémérides du Citoyen*, kwa mfadhaiko mkubwa wa marafiki zake wapinga-liberal, kama vile Melchior Grimm; hata hivyo, upesi alijitenga na kundi hilo. Akiwa amevutiwa na akili mahiri ya Abate Galiani, alimsaidia kuchapisha kitabu chake kuhusu biashara ya nafaka katika Kifaransa, wakati tu Galiani alipokuwa karibu kurudi Italia.
+Njia ya Diderot katika nadharia ya uchumi ni ya ajabu. Katika Encyclopédie, alikuwa mtetezi thabiti wa uhuru wa kiuchumi na ndiye aliyetafuta ushirikiano wa wanauchumi wa kiliberali, kama inavyothibitishwa na barua inayoeleza makala ambazo Turgot angeweza kumwandikia. Katika miaka ya mwanzo ya Fiziokrasia, alikuwa msaidizi na mkuzaji wa shule ya Quesnay. Mwaka 1769 na 1770, aliandika kwa ajili ya *Les Ephémérides du Citoyen*, kwa masikitiko makubwa ya marafiki zake wanafalsafa waliopinga uliberali, kama Melchior Grimm; hata hivyo, punde alijitenga na kundi hilo. Akiwa amevutiwa na akili changamfu ya Abbot Galiani, alimsaidia kuchapisha kitabu chake kuhusu biashara ya nafaka kwa Kifaransa, wakati Galiani alikuwa karibu kurudi Italia.
 
 
-
-![image](assets/sw/071.webp)
+![Mazungumzo kuhusu biashara ya ngano, na Galiani, Ephemerides za raia](assets/en/071.webp)
 
 
 
+Kitabu hiki kingekuwa shambulio kali zaidi kuwahi kufanywa dhidi ya mawazo ya Kifiziokrasia, kikilitia pigo kubwa vuguvugu hilo. Baadaye, Diderot alimtetea Galiani dhidi ya Abbot Morellet, mshirika wa karibu wa Wanafiziokrati, katika *Utetezi wa Galiani* yake. Miaka michache baadaye, wakati wa uwaziri wa Turgot, Diderot alionekana akishangilia kuanzishwa kwa uhuru wa kazi kupitia kufutwa kwa magildi. Katika hatua hii, Diderot, mwana wa fundi, alijikuta akikubaliana na wanauchumi wa kiliberali na akaandika barua kali kwa Galiani, aliyedai kwamba uhuru wa kazi ungeharibu viwanda vya Ufaransa ndani ya miaka ishirini au thelathini. Kwa mwanga wa Mapinduzi ya Viwanda, historia inapendekeza vinginevyo. Akiwa amerudi upande wa wanauchumi wa kiliberali, Diderot hakufurahia tena uaminifu wao na alibaki mpweke. Wakati mmoja unaoonyesha hili sana ni barua aliyomtumia Dupont de Nemours mwaka 1774, ambapo anaandika:
 
+> Ulikuwa na urafiki kwangu hapo awali; sasa huna tena, kwa sababu una shughuli nyingi sana kiasi kwamba huna tena muda wa kumpenda yeyote.
 
-Kitabu hiki kingekuwa shambulio kali zaidi kuwahi kufanywa dhidi ya mawazo ya Kifiziokrasia, na kutoa pigo kubwa kwa harakati. Baadaye, Diderot alimtetea Galiani dhidi ya Abbot Morellet, mshirika wa karibu wa Physiocrats, katika Apologie de l’abbé Galiani yake. Miaka michache baadaye, wakati wa huduma ya Turgot, Diderot alionekana akipongeza kuanzishwa kwa uhuru wa kazi kupitia kukomesha vyama. Katika hatua hii, Diderot, mtoto wa fundi, alijikuta akikubaliana na wanauchumi wa huria na aliandika barua kali kwa Galiani, ambaye alidai kwamba uhuru wa kufanya kazi ungeharibu tasnia ya Ufaransa ndani ya miaka ishirini au thelathini. Kwa kuzingatia Mapinduzi ya Viwanda, historia inapendekeza vinginevyo. Baada ya kurudi upande wa wanauchumi huria, Diderot hakufurahia tena imani yao na alibaki peke yake. Wakati mzuri sana ni barua aliyotuma kwa Dupont de Nemours mnamo 1774, ambapo anaandika:
+![Voltaire](assets/en/072.webp)
 
+### Voltaire kati ya sifa na kejeli
 
-> "Wakati mmoja ulikuwa na urafiki kwa ajili yangu; sasa huna tena, kwa sababu una shughuli nyingi kwamba huna tena muda wa kumpenda mtu yeyote".
+Voltaire alifuata njia inayofanana, iliyoashiriwa na ukosefu wa uthabiti katika mitazamo yake ya kiuchumi. Alimheshimu Vincent de Gournay, aliwasiliana na wanauchumi (ikiwemo Dupont de Nemours na Turgot), na aliwathamini Wanafiziokrati-hasa kwa sifa yao kwa kilimo. Aliwasifu katika *Diatribe kwa Mwandishi wa Ephémérides*. Hata hivyo, baadaye alikosoa wazo lao la kodi moja ya ardhi katika kazi yake ya kejeli *Mtu wa Ecu Arobaini*, ambayo pia ilizua utata mkubwa. Hatimaye, kama Diderot, alisherehekea uwaziri wa Turgot, akiuita enzi ya dhahabu na kusifu amri zake mbili kuu kuhusu uhuru wa kazi na biashara huria.
 
-![image](assets/sw/072.webp)
+![Voltaire, “L'homme aux quarante écus”](assets/en/073.webp)
 
+Mwishowe, uhusiano wa philosophes na mawazo ya kiuchumi ni mchanganyiko. Licha ya sifa na ukosoaji wao kwa mawazo ya kiuchumi ya kiliberali, walichukua nafasi katika kuyaingiza mawazo haya katika mjadala mpana wa kifikra wa Mwangaza. Kwa njia hii, kwa kukusudia au bila kukusudia, walisaidia kuendeleza dhana ya laissez-faire hadi Mapinduzi.
 
-Voltaire alifuata njia kama hiyo, iliyoonyeshwa na ukosefu wa msimamo katika maoni yake ya kiuchumi. Alivutiwa na Vincent de Gournay, aliyeandikiana na wanauchumi (ikiwa ni pamoja na Dupont de Nemours na Turgot), na aliwashukuru Wanafizikia—hasa kwa sifa zao za kilimo. Aliwasifu katika Diatribe au Auteur des Ephémérides. Hata hivyo, baadaye alikosoa wazo lao la kutozwa ushuru mmoja wa ardhi katika kazi yake ya kejeli L'Homme aux quarante écus, ambayo pia ilizua utata mkubwa. Hatimaye, kama Diderot, alisherehekea huduma ya Turgot, akiiita enzi ya dhahabu na kusifu amri zake kuu mbili juu ya uhuru wa kazi na biashara huria.
-
-
-![image](assets/sw/073.webp)
-
-
-Hatimaye, uhusiano wa falsafa na mawazo ya kiuchumi ni mchanganyiko. Licha ya sifa zao na uhakiki wa mawazo ya uchumi huria, walishiriki katika kuleta mawazo haya katika mazungumzo mapana ya kiakili ya Mwangaza. Kwa njia hii, iwe kwa makusudi au la, walisaidia kuendeleza dhana ya laissez-faire hadi kwenye Mapinduzi.
-
-
-## Turgot, Theorist
-
+## Turgot, Mwananadharia
 
 <chapterId>a8cd8185-8351-556b-8011-3a0c313e8a9d</chapterId>
 
+### Kutengenezwa kwa mwanauchumi mkuu
 
-Katika kifungu maarufu cha Historia ya Mawazo ya Kiuchumi, mwanauchumi wa Marekani Murray Rothbard alisifu kile alichokiita "genius" cha Turgot.
+Katika kifungu maarufu kutoka Historia ya Mawazo ya Kiuchumi yake, mwanauchumi wa Marekani Murray Rothbard alisifu kile alichokiita "uangavu" wa Turgot.
 
 
 
 
+akimwasilisha kama mwanauchumi mkuu zaidi wa karne ya 18, pamoja na Cantillon.
 
+![Turgot, Montesquieu, “Roho ya Sheria”, Encyclopedia](assets/en/074.webp)
 
-akimwakilisha kama mwanauchumi mkubwa zaidi wa karne ya 18, pamoja na Cantillon.
+Turgot alipandaje hadi umaarufu huo? Ilitokana na mchanganyiko wa mambo matatu muhimu. **Kwanza, asili yake ya familia yenye hadhi**. Alitoka katika ukoo mrefu wa wasimamizi wa kifalme, wengi wao wakiwa na nafasi za juu serikalini. **Pili, enzi ya dhahabu ambayo alizaliwa ndani yake**. Turgot alikuwa na miaka 21 wakati Montesquieu alipochapisha *L'Esprit des Lois*, na 24 wakati juzuu ya kwanza ya *Encyclopédie* ilipotokea.
 
 
-![image](assets/sw/074.webp)
 
 
-Turgot alipataje umaarufu kama huo? Ilitokana na mchanganyiko wa mambo matatu muhimu. Kwanza, asili yake ya kifahari ya kifamilia. Alitoka katika mlolongo mrefu wa wasimamizi wa kifalme, ambao wengi wao walishikilia nyadhifa za juu serikalini. Pili, enzi ya dhahabu ambayo alizaliwa na kukulia. Turgot alikuwa na umri wa miaka 21 wakati Montesquieu alipochapisha L'Esprit des Lois, na miaka 24 wakati juzuu ya kwanza ya Encyclopédie ilipotokea.
 
+Alikuwa wa wakati mmoja na Wanafiziokrati, Voltaire, Diderot, d'Holbach, Adam Smith, Condorcet, na wengine. **Tatu, ukomavu wake wa kiakili wa kipekee**. Akiwa mwanafunzi Sorbonne, aliandika barua kuhusu pesa za karatasi akiwa na umri wa miaka 22, alitoa hotuba za ajabu, na akiwa na miaka 24 aliandaa orodha ya kazi 52 za kuandika.
 
 
+Licha ya ujana wake, Turgot alichangia *Encyclopédie*, akiandika makala kuhusu mada kama "Etymology", "Existence", "Expansibility", "Fairs", na "Foundations". Makala moja tu iligusa moja kwa moja uchumi: andiko lake kuhusu "Fairs", lililoeleza asili ya maonyesho ya biashara na masoko na kukosoa kuongezeka kwa uingiliaji wa serikali uliovuruga na kuyapooza.
 
 
+Katika miaka hii ya mwanzo, aliongozwa na Vincent de Gournay, aliyemchukua chini ya uangalizi wake na kuunda urafiki wa karibu naye. Baada ya kifo cha Gournay mwaka 1759, Turgot alitunga sifa ya marehemu ambamo alitoa muhtasari bora wa fundisho la laissez-faire. Aliandika hasa:
 
+"Kutoka kila mtazamo ambao biashara inaweza kuhusisha Serikali, maslahi binafsi yakiachwa yenyewe daima yatazalisha kwa uhakika zaidi manufaa ya jumla kuliko shughuli za serikali, ambazo daima zina kasoro na lazima ziongozwe na nadharia isiyo wazi na isiyo na uhakika".
 
 
-Alikuwa wakati mmoja wa Fisiokrati, Voltaire, Diderot, d'Holbach, Adam Smith, Condorcet, na wengine. **Tatu**, uwezo wake wa kiakili. Akiwa mwanafunzi katika Sorbonne, aliandika barua kwenye pesa za karatasi akiwa na umri wa miaka 22, akatoa hotuba zenye kutokeza, na akiwa na umri wa miaka 24 akatunga orodha ya kazi 52 za ​​kuandika.
+![Turgot, “Sifa kwa Gournay”, Turgot, “Tafakari juu ya kuundwa na mgawanyo wa utajiri”](assets/en/075.webp)
 
+### Muhtasari wa uchumi wa kiliberali
 
+Mwaka 1767, akiwa intendant, alitunga muhtasari wa uchumi chini ya kichwa cha [*Tafakari juu ya Kuundwa na Mgawanyo wa Utajiri*](https://planb.academy/resources/books/turgot-oeuvres-completes-37fa0489-cabd-413c-9240-34d1663d0720).
 
-Licha ya ujana wake, Turgot alichangia katika *Encyclopédie*, akiandika makala kuhusu mada kama vile "Etymology", "Existence", "Expansibility", "Fairs", na "Foundations". Kifungu kimoja tu kiligusia moja kwa moja kuhusu uchumi—kipande chake cha “Fairs”, ambacho kilieleza kwa kina chimbuko la maonyesho na masoko na kukosoa uingiliaji wa hali ya juu unaozidi kuwavuruga na kuwalemaza.
 
 
+Mgawanyo wa kazi, mamlaka ya mtumiaji, mali binafsi, jukumu la mtaji, karibu mada zote kuu za kiuchumi zinashughulikiwa. Wanahistoria wengi, wa hivi karibuni zaidi akiwa mwanahistoria Anne-Claire Hoyng, wameonyesha kufanana kati ya kazi hii ya Turgot na [*Utajiri wa Mataifa*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289) ya Adam Smith, iliyochapishwa miaka tisa baadaye.
 
-Katika miaka hii ya mapema, alifundishwa na Vincent de Gournay, ambaye alimchukua chini ya mrengo wake na kuunda urafiki wa karibu naye. Baada ya kifo cha Gournay mnamo 1759, Turgot alitunga wimbo wa kusifu ambapo alitoa muhtasari wa ajabu wa fundisho la laissez-faire. Aliandika haswa:
+![Turgot, “Barua kuhusu uhuru wa biashara ya nafaka”, Turgot na Smith,, ”Ukaribu wa ajabu”](assets/en/076.webp)
 
+Turgot alitetea uhuru wa biashara ya nafaka katika barua kwa Abbot Terray, zilizowasilishwa baadaye kwa Mfalme, lakini nusu yake sasa zimepotea. Aliandika:
 
-"Kutokana na kila mtazamo ambao biashara inaweza kuihusu Serikali, maslahi ya mtu binafsi yaliyoachiwa yenyewe yatazalisha manufaa ya jumla kila mara kuliko shughuli za serikali, ambazo daima zina kasoro na kuongozwa na nadharia isiyoeleweka na isiyo na uhakika".
 
+> Bwana, ikiwa kuna jambo la dharura, si kuweka vizuizi vipya kwenye biashara muhimu zaidi kuliko zote, bali kuondoa vile ambavyo, kwa bahati mbaya, vimeruhusiwa kubaki. 
+> Ikiwa kumewahi kuwa na wakati ambapo uhuru kamili kabisa, huru kikamilifu kutoka aina yoyote ya kikwazo, ulihitajika, nathubutu kusema ni sasa, na kwamba haijawahi kuwa isiyofaa zaidi kufikiria kutoa kanuni kuhusu biashara ya nafaka.
 
 
-![image](assets/sw/075.webp)
 
 
-Mnamo 1767, akiwa bado mhudumu, aliandika mkusanyiko wa kiuchumi chini ya jina la **Réflexions sur la formation et la distribution des richesses**.
+Mwaka 1769, Turgot aliandika makala Thamani na Pesa kwa ajili ya *Dictionnaire de Commerce* ya Abbot Morellet, ambayo hatimaye haikuchapishwa. Galiani alikuwa tayari amebainisha kwamba "mwanadamu ni kipimo cha kawaida cha vitu vyote", akitangulia uchambuzi wa kidhamira ambao Turgot angeendeleza miaka thelathini baadaye katika makala hii, ambamo anapanua na kuthibitisha pendekezo hili.
 
+Mwaka 1770, kabla sana ya Bentham, Turgot aliandika memorandum akitetea uhuru wa viwango vya riba na riba ya juu.
 
 
+![Turgot, “Mémoire sur les prêts d'argent”](assets/en/077.webp)
 
+"Ni kosa kuamini kwamba riba ya pesa katika biashara inapaswa kuwekwa na sheria za wakuu", anasema, "Ni bei ya sasa inayojipanga yenyewe, kama ile ya bidhaa nyingine zote", Katika kutetea msimamo huu, anakataa upinzani wa Aristotle na Mababa wa Kanisa.
 
-Mgawanyiko wa wafanyikazi, uhuru wa watumiaji, mali ya kibinafsi, jukumu la mtaji, karibu mada zote kuu za kiuchumi zinashughulikiwa. Wanahistoria wengi, mwanahistoria wa hivi majuzi Anne-Claire Hoyng, wamedokeza ufanano kati ya kazi hii ya *The Wealth of Nations* ya Turgot na Adam Smith, iliyochapishwa miaka tisa baadaye.
+### Kutowezekana kwa upangaji mkuu
 
+Muhtasari wa ajabu wa fundisho la laissez-faire la Turgot unaweza kupatikana katika barua iliyosahaulika ya 1773 kwa Abbot Terray kuhusu kuweka alama kwenye vyuma:
 
-![image](assets/sw/076.webp)
 
+> Kile ambacho siasa lazima zifanye ni kujisalimisha kwa mkondo wa maumbile na kwa mkondo wa biashara, ambao si mdogo kwa lazima na si mdogo kwa kutoshindika kuliko mkondo wa maumbile yenyewe, bila kujaribu kuuongoza; kwa maana kuuongoza bila kuuvuruga na bila kujidhuru, mtu angehitaji kuwa na uwezo wa kufuata mabadiliko yote katika mahitaji ya binadamu, maslahi, na viwanda; angehitaji kuyajua kwa kiwango cha kina ambacho haiwezekani kimwili kukipata, na ambacho hata serikali yenye ustadi zaidi, amilifu zaidi, na makini zaidi daima itahatarisha kukosea, angalau kwa nusu.
 
-Turgot alitetea uhuru wa biashara ya nafaka kwa barua kwa Abbot Terray, baadaye aliwasiliana na Mfalme, lakini nusu yao sasa wamepotea. Aliandika:
+Hapa tunapata tamko wazi sana la fundisho la laissez-faire, pamoja na utangulizi wa uchambuzi wa Friedrich Hayek kuhusu kujifanya kuwa na maarifa, yaani, kutowezekana kwa Serikali kuelewa kikamilifu nguvu za kiuchumi ili kuzidhibiti.
 
 
 
-> Mheshimiwa, ikiwa kuna jambo la dharura, sio kuweka vikwazo vipya kwa muhimu zaidi ya biashara zote, lakini kuondoa wale ambao, kwa bahati mbaya, wameruhusiwa kubaki.
-> Iwapo kumewahi kuwa na wakati ambapo uhuru kamili zaidi, kamili kabisa, usio na kikwazo cha aina yoyote, ulikuwa wa lazima, nathubutu kusema ni sasa, na hiyo haijawahi kuwa mwafaka kufikiria kutoa kanuni juu ya biashara ya nafaka.
 
+![Friedrich A. Hayek](assets/en/078.webp)
 
-
-
-
-Mnamo 1769, Turgot aliandika makala ya Valeur et Monnaie kwa ajili ya Dictionnaire de Commerce ya Abbot Morellet, ambayo hatimaye haikuchapishwa. Galiani alikuwa tayari ametamka kwamba "mtu ndiye kipimo cha kawaida cha vitu vyote," akitabiri uchambuzi wa kisubjektifu ambao Turgot angeendeleza miaka thelathini baadaye katika makala hii, ambapo alipanua na kuthibitisha pendekezo hili.
-
-
-Mnamo 1770, kabla ya Bentham, Turgot aliandika hati ya kutetea uhuru wa viwango vya riba na riba.
-
-
-
-![image](assets/sw/077.webp)
-
-
-"Ni makosa kuamini kwamba riba ya pesa katika biashara inapaswa kuwekwa na sheria za wakuu", anasema, "Ni bei ya sasa ambayo inajidhibiti yenyewe, kama ile ya bidhaa zingine zote", Katika kutetea msimamo huu, anakanusha upinzani wa Aristotle na Mababa wa Kanisa.
-
-
-Muhtasari wa ajabu wa fundisho la Turgot la laissez-faire unaweza kupatikana katika barua iliyosahaulika ya 1773 kwa Abbot Terray juu ya kuweka alama kwa chuma:
-
-
-
-> Kile ambacho siasa lazima ifanye ni kujitoa kwenye mkondo wa asili na kwa njia ya biashara, ambayo si ya lazima na isiyozuilika kidogo kuliko mwendo wa maumbile yenyewe, bila kujaribu kuielekeza; kwa kuielekeza bila kuivuruga na bila kujidhuru, mtu angehitaji kuwa na uwezo wa kufuata tofauti zote za mahitaji ya binadamu, maslahi, na viwanda; mtu angehitaji kuzijua katika kiwango cha undani ambacho hakiwezekani kupatikana, na ambamo hata serikali iliyo na ustadi zaidi, hai na makini daima itahatarisha kukosea, angalau kwa nusu.
-
-Hapa tunapata maelezo ya wazi kabisa ya fundisho la laissez-faire, pamoja na kielelezo cha uchambuzi wa Friedrich Hayek wa kujifanya kuwa na ujuzi—yaani, kutowezekana kwa Serikali kushika kikamilifu nguvu za kiuchumi ili kuzidhibiti.
-
-
-
-
-
-![image](assets/sw/078.webp)
-
-
-## Turgot, Mwanamatengenezo
-
+## Turgot, Mwanamageuzi
 
 <chapterId>9177429f-1679-51c4-bfd2-dd036d24a1cc</chapterId>
 
+### Intendant mwenye kusita wa Limousin
 
-Kama tulivyokumbuka kwa ufupi katika sura iliyotangulia, Turgot alikuwa mwana wa familia mashuhuri ambayo ilikuwa imejitofautisha katika vyeo vya juu vya utumishi wa umma wa Ufaransa.
-
-
-
-![image](assets/sw/079.webp)
+Kama tulivyokumbuka kwa ufupi katika sura iliyotangulia, Turgot alikuwa mwana wa familia mashuhuri iliyojitofautisha katika ngazi za juu za utumishi wa kiraia wa Ufaransa.
 
 
-Baba yake alikuwa mchochezi wa wafanyabiashara wa Paris na babu yake mhudumu. Baada ya kufaulu katika masomo yake, mdogo wa familia ya Turgot alilenga kufikia angalau urefu huo huo. Kwanza alihudumu kwa muda kama maître des requêtes, kumaanisha kuwa alikuwa kiunganishi kati ya wahudumu na Versailles. Ilikuwa nafasi ya kifahari, ambayo ilimbidi kupata msamaha maalum wa umri, lakini Turgot alitamani zaidi. Kifo cha mshauri wake, Gournay, kilimtia moyo zaidi kuelekeza nguvu zake, na akaomba uteuzi kama mhudumu.
+![Turgot](assets/en/079.webp)
+
+Baba yake alikuwa provost wa wafanyabiashara wa Paris na babu yake alikuwa intendant. Baada ya kufaulu katika masomo yake, mdogo zaidi wa familia ya Turgot alilenga kufikia angalau vimo hivyo. Kwanza alihudumu kwa muda kama maître des requêtes, yaani alikuwa kiungo kati ya intendants na Versailles. Ilikuwa nafasi ya hadhi, ambayo ilimlazimu kupata msamaha maalum wa umri, lakini Turgot alitamani zaidi. Kifo cha mlezi wake, Gournay, kilimhimiza zaidi kulenga juu zaidi, na akaomba kuteuliwa kuwa intendant.
 
 
-
-Mnamo 1759, aliomba kwa mara ya kwanza kuhudhuria Grenoble, lakini ilikataliwa. Kisha alipewa wadhifa wa provost wa wafanyabiashara huko Lyon, ambao alikataa. Aliomba kuhudhuria kwa Brittany, lakini hilo pia lilikataliwa. Mwishowe, mnamo 1761, alipewa nafasi ya kuwa Limousin na, kwa kusita, akakubali. Alimwandikia Voltaire: "Nina bahati mbaya ya kuwa mhudumu", labda akimaanisha: Nina bahati mbaya ya kuwa mhudumu huko Limousin.
-
+Mwaka 1759, aliomba kwanza intendancy ya Grenoble, lakini ilikataliwa. Kisha akapewa nafasi ya provost wa wafanyabiashara huko Lyon, ambayo aliikataa. Aliomba intendancy ya Brittany, lakini nayo ilikataliwa. Hatimaye, mwaka 1761, alipewa intendancy ya Limousin na, kwa kusita kidogo, akakubali. Alimwandikia Voltaire: "Nina bahati mbaya ya kuwa intendant", labda akimaanisha: nina bahati mbaya ya kuwa intendant huko Limousin.
 
 
-Huko Limousin, wakulima walikuwa maskini na waliishi katika mazingira hatarishi, haswa kuhusu makazi na chakula. Kiwango cha elimu kwa ujumla kilikuwa cha chini sana. Barabara chache zilizokuwepo zilikuwa katika hali mbaya.
+Huko Limousin, wakulima walikuwa maskini na waliishi katika hali tete, hasa kuhusu makazi na chakula. Kiwango cha jumla cha elimu kilikuwa cha chini sana. Barabara chache zilizokuwepo zilikuwa katika hali mbaya sana.
 
 
+![J.F. Millet, “Waokotaji Masazo”, 1857](assets/en/080.webp)
 
-![image](assets/sw/080.webp)
+Kwa sababu eneo hilo lilikuwa maskini sana, halikuwavutia mawaziri. Hili lilimpa Turgot uhuru wa kujaribu mageuzi. Huko Limousin, alifuata miradi mikuu mitatu:
 
+- **Ugawaji upya wa taille**, kodi ya binafsi (Turgot alilenga kuleta usahihi kadiri iwezekanavyo katika tathmini yake).
+- **Corvée**, aina ya kodi inayolipwa kwa kazi, ambapo wakulima walilazimishwa kufanya kazi katika ujenzi wa barabara. Alipotembelea eneo hilo, Turgot aligundua haraka hali mbaya ya barabara. Aliibadilisha corvée kwa kodi ya fedha.
+- **Uandikishaji wa wanamgambo**, majeshi ya wakulima yaliyohamasishwa wakati wa vita.
 
-Kwa sababu eneo hilo lilikuwa maskini sana, halikuwa na manufaa kwa mawaziri. Hii ilimpa Turgot uhuru wa kujaribu mageuzi. Huko Limousin, alifuata miradi mitatu mikubwa:
+![Bahati nasibu ya wanamgambo](assets/en/081.webp)
 
+Hili lilifanywa kwa kupiga kura ya bahati nasibu, jambo lililosababisha hofu na vurugu kwa sababu ya wakimbizi; Turgot alibadilisha ushuru huu wa lazima kwa wajitolea wanaolipwa.
 
-
-- **Ugawaji upya wa taille**, ushuru wa kibinafsi (Turgot ililenga kutambulisha usawa mwingi iwezekanavyo katika tathmini yake).
-- **The corvée**, aina ya kodi inayolipwa katika kazi, ambapo wakulima walilazimishwa kufanya kazi ya ujenzi wa barabara. Alipotembelea eneo hilo, Turgot aliona haraka hali mbaya ya barabara. Alibadilisha corvée na ushuru wa pesa.
-- **Kuajiriwa kwa wanamgambo**, majeshi ya wakulima yalihamasishwa wakati wa vita.
-
-
-![image](assets/sw/081.webp)
-
-
-Hii ilifanyika kwa kura, ambayo ilisababisha hofu na vurugu kwa sababu ya kukimbia; Turgot alibadilisha kazi hizi za lazima na watu wa kujitolea waliolipwa.
+Mageuzi haya yalifanikiwa bila ubishi, na Julai 1774, Turgot aliteuliwa kuwa waziri. Kwa sababu ya ukosefu wake wa uzoefu, Mfalme kwanza alimweka katika Wizara ya Jeshi la Wanamaji. Uteuzi huo uliwafurahisha wengi. Turgot mwenyewe alikiri, "Sijui chochote kuhusu Jeshi la Wanamaji", na Voltaire alisema, "Sidhani Turgot ni baharia zaidi yangu".
 
 
-Marekebisho haya yalifanikiwa bila shaka, na mnamo Julai 1774, Turgot aliteuliwa kuwa waziri. Kwa sababu ya ukosefu wake wa uzoefu, Mfalme alimweka kwanza katika Wizara ya Jeshi la Wanamaji. Uteuzi huo uliwafurahisha wengi. Turgot mwenyewe alikiri, "Sijui chochote kuhusu Jeshi la Wanamaji", na Voltaire alisema, "Sidhani kama Turgot ni baharia zaidi kuliko mimi".
+### Amri sita za kurekebisha Ufaransa
 
+Mwezi mmoja tu baadaye, hata hivyo, Turgot aliteuliwa kuwa Mdhibiti Mkuu wa Fedha, kwa vitendo akawa waziri wa uchumi na fedha wa Ufaransa.
 
+Tunajua barua ambayo aliieleza kanuni zake kwa Louis XVI: "Hakuna kufilisika. Hakuna ongezeko la kodi. Hakuna mikopo mipya". Falsafa hii, ambayo wakosoaji leo wanaweza kuiita "ukali" usio na maana, ilikusudiwa kuuokoa ufalme.
 
-Mwezi mmoja tu baadaye, hata hivyo, Turgot aliteuliwa kuwa Mdhibiti Mkuu wa Fedha, na kuwa waziri wa uchumi na fedha wa Ufaransa.
+![Kitabu cha malalamiko cha baillage ya Nemours, Edit du Roy](assets/en/082.webp)
 
-
-Tunajua barua ambayo alielezea kanuni zake kwa Louis XVI: "Hakuna kufilisika. Hakuna ongezeko la kodi. Hakuna mikopo mpya". Falsafa hii, ambayo wakosoaji leo wanaweza kuiita "ukali" usio na maana, ilikusudiwa kuokoa ufalme.
-
-
-![image](assets/sw/082.webp)
-
-
-Turgot alitayarisha amri sita za kifalme ili kurekebisha uchumi wa Ufaransa.
+Turgot aliandaa amri sita za kifalme kurekebisha uchumi wa Ufaransa.
 
 
 
+Ilikuwa mara ya kwanza (na mojawapo ya mara za mwisho kabisa) ambapo mtaalamu wa uchumi alipewa uhuru wa kurekebisha uchumi wa nchi yake. Amri tatu za Turgot zinajitokeza: moja ilifuta kazi ya lazima (corvées), nyingine ilivunja magildi ya biashara (corporations), na ya tatu ilianzisha biashara huria ya nafaka.
+
+### Kuanguka kwa enzi ya dhahabu
+
+Alipoingia wizarani, Turgot alijua angekabili upinzani kutoka madaraja yenye marupurupu. "Nitaogopwa, hata kuchukiwa, na wengi wa mahakama na wote wanaotafuta upendeleo", alimwambia Mfalme. Wenye marupurupu punde waliungana dhidi yake na wakasababisha kuondolewa kwake katika ofisi ya Mdhibiti Mkuu wa Fedha. Voltaire, aliyeyaunga mkono kikamilifu mageuzi ya Turgot, aliandika katika mawasiliano yake:
+
+> Ah! Ni habari mbaya gani nimesikia! Itakuwaje kwetu? Nimevunjika moyo! Hatutapona kamwe baada ya kushuhudia kuzaliwa na kufa kwa enzi ya dhahabu! Radi hii imenipiga akili na moyo.
+
+![Voltaire, Louis XVI](assets/en/083.webp)
+
+Tangu wakati huo, wengi wamebisha kwamba Ufaransa ni nchi isiyowezekana kurekebishwa. Kushindwa kwa Turgot kulionekana kuthibitisha hilo: Alikuwa ameandaliwa na nusu karne ya mawazo ya kiuchumi ya kiliberali; alikuwa na uungwaji mkono wa wanafalsafa wa Mwangaza; na Mfalme mwenyewe, mwenye mamlaka kamili, alimwunga mkono.
 
 
-Ilikuwa mara ya kwanza—na moja ya nyakati za mwisho sana—mtaalamu wa masuala ya uchumi alipewa uhuru wa kurekebisha uchumi wa nchi yake. Maagizo matatu ya Turgot yanaonekana wazi: moja ilikomesha kazi ya kulazimishwa (corvées), nyingine ilivunja vyama vya biashara (mashirika), na ya tatu ilianzisha biashara huria ya nafaka.
-
-
-Alipoingia kwenye huduma, Turgot alijua angekabiliwa na upinzani kutoka kwa tabaka za upendeleo. "Nitaogopwa, hata kuchukiwa, na wengi wa mahakama na wote wanaotafuta upendeleo," alimwambia Mfalme. Wenye mapendeleo waliungana dhidi yake hivi karibuni na kusababisha kutimuliwa kwake kutoka kwa wadhifa wa Mdhibiti Mkuu wa Fedha. Voltaire, ambaye aliunga mkono kikamilifu mageuzi ya Turgot, aliandika katika barua yake kwamba "wakati wa kupanda kwenye mti wa uhuru, lazima tukumbatie hatari za kuanguka:
-
-
-> Ah! Ni habari mbaya kama nini nimesikia! Je, itakuwaje kwetu? Nimechanganyikiwa! Hatutapona kutokana na kushuhudia kuzaliwa na kufa kwa enzi ya dhahabu! Radi hii imepiga akili yangu na moyo wangu.
-
-![image](assets/sw/083.webp)
-
-
-Tangu wakati huo, wengi wamedai kuwa Ufaransa ni nchi isiyowezekana kufanya mageuzi. Kushindwa kwa Turgot kulionekana kulithibitisha hilo: Alikuwa ametayarishwa na nusu karne ya mawazo huria ya kiuchumi; aliungwa mkono na wanafalsafa wa Kutaalamika; na Mfalme mwenyewe, kwa uwezo kamili, alimuunga mkono.
-
-
-
-
-Mwishowe, mabunge na madarasa ya upendeleo yalishinda. Yote ambayo Mfalme angeweza kufanya ni kuomboleza kwa faragha: "Naona sasa kwamba ni Monsieur Turgot tu na mimi tunajali watu."
-
+Mwishowe, parlements na madaraja yenye marupurupu yalishinda. Kila alichoweza kufanya Mfalme ni kuomboleza faraghani: "Sasa naona kwamba Monsieur Turgot na mimi pekee ndio tunawajali watu."
 
 ## Condillac
 
-
 <chapterId>0ba8dbb5-dcd5-5981-bf85-6c185e0bf192</chapterId>
 
+### Sofisti ya Montaigne na kosa la jumla sifuri
 
-Kama tu Exchange, ambayo ni udhihirisho wake wa moja kwa moja wa vitendo, sophism ya Montaigne ilichukua muda mrefu kutoweka.
+Kama mercantilism, ambayo ni udhihirisho wake wa vitendo ulio wazi zaidi, sofisti ya Montaigne ilichukua muda mrefu kutoweka.
 
+![Michel de Montaigne, Étienne Bonnot de Condillac](assets/en/084.webp)
 
-![image](assets/sw/084.webp)
+Sofisti hiyo ni wazo kwamba biashara na ubadilishanaji ni michezo ya jumla sifuri. Chochote ambacho upande mmoja hupata katika muamala lazima kipotezwe na upande mwingine. Wafuasi wake hubisha kwamba hili ni kweli kati ya watu binafsi na pia kati ya mataifa.
 
-
-Sophism hiyo ni wazo kwamba biashara na Exchange ni michezo ya sifuri. Chochote ambacho chama kimoja kitapata katika shughuli ni lazima kipotezwe na upande mwingine. Wafuasi wake wanahoji kwamba hii inashikilia ukweli kati ya watu binafsi na kati ya mataifa.
-
-
-Abate wa Condillac alicheza jukumu kubwa katika kufuta wazo hili potofu.
+Abbot wa Condillac alichukua **nafasi kubwa katika kulivunja kabisa wazo hili la uongo**.
 
 
 
+"Kabisa" labda ni kutia chumvi, kwa sababu katika mjadala wa umma, sofisti hii hujitokeza mara kwa mara. Hii labda ndiyo sababu, zaidi ya hayo, Condillac anabaki kuwa mwanauchumi asiyejulikana sana. Mbali na wanauchumi wa Austria, wachache wameelewa umuhimu wa nadharia yake ya ubadilishanaji, hakuna anayemjali tena.
 
+Kwa wanahistoria wengi wa mawazo ya kiuchumi, mwaka 1776 unaashiriwa na kuchapishwa kwa [*Utajiri wa Mataifa*](https://planb.academy/resources/books/the-wealth-of-nations-c3e78eda-cc44-4cae-8460-f962148aa289), ambacho kilianzisha sayansi ya uchumi. Masomo kumi na tano tuliyokamilisha hivi punde, ambamo tumesoma sayansi ya kiuchumi ya Kifaransa kabla ya Adam Smith, yanatosha kuthibitisha kosa la dhana hii. Katika mwaka huo huo 1776, zaidi ya hayo, kitabu kingine huenda kinastahili sifa zaidi kutoka kwa wanahistoria kuliko kitabu cha Adam Smith: kiliandikwa na Condillac na kinaitwa kwa urahisi [*Biashara na Serikali Zikizingatiwa katika Uhusiano Wao wa Pamoja*](https://planb.academy/resources/books/condillac-le-commerce-et-le-gouvernement-5e397405-e066-43bc-82df-1017c1fb63ae).
 
-"Kwa hakika" labda ni kutia chumvi, kwa sababu katika mjadala wa umma, sophism hii hutokea tena mara kwa mara. Hii labda ndiyo sababu, zaidi ya hayo, Condillac anabaki kuwa mwanauchumi asiyejulikana sana. Mbali na wanauchumi wa Austria, wachache wameelewa umuhimu wa nadharia yake ya Exchange, hakuna mtu anayevutiwa naye tena.
+![Condillac, Biashara na Serikali](assets/en/085.webp)
 
+### Ubadilishanaji kama manufaa ya pande zote
 
-Kwa wanahistoria wengi wa fikra za kiuchumi, mwaka wa 1776 unaadhimishwa na uchapishaji wa *The Wealth of Nations*, ambao ulianzisha sayansi ya uchumi. Masomo kumi na tano ambayo tumemaliza, ambayo tumesoma sayansi ya uchumi ya Kifaransa kabla ya Adam Smith, yanatosha kuthibitisha makosa ya dhana hii. Katika mwaka huo huo wa 1776, zaidi ya hayo, kitabu kingine pengine kinastahili sifa zaidi kutoka kwa wanahistoria kuliko kitabu cha Adam Smith: kiliandikwa na Condillac na kinaitwa tu [*Biashara na Serikali Inazingatiwa katika Uhusiano Wao wa Kuheshimiana*](https://archive.org/details/commercegovernme0000cond).
+Kwa Condillac, ikiwa sofisti ya kuona ubadilishanaji kama mchezo wa jumla sifuri inaendelea, Wanafiziokrati kwa sehemu wanalaumiwa, kwa sababu wanashikilia kwamba ubadilishanaji ni uhusiano wa usawa. Kulingana na Condillac, hili si kweli: ubadilishanaji ni uhusiano usio sawa, ambapo mtu daima hutoa kidogo ili kupata zaidi.
 
+Kati ya mawazo ya Wanafiziokrati na yale ya Condillac, mtu hangeweza kuota upinzani mkamilifu zaidi. Mwanauchumi Mfiziokrati Le Trosne aliandika:
 
-![image](assets/sw/085.webp)
+> Ubadilishanaji kwa asili yake ni mkataba wa usawa, unaofanywa kwa thamani sawa kwa thamani sawa.
 
+Condillac, kwa upande mwingine, aliandika:
 
-Kwa Condillac, kama sophism ya Exchange inayoonekana kama mchezo wa sifuri itaendelea, Physiocrats wanalaumiwa kwa sehemu, kwa sababu wanashikilia kwamba Exchange ni uhusiano wa usawa. Kwa mtazamo wa Condillac, hii si kweli: Exchange ni uhusiano usio wa usawa, ambapo kila mara mtu hutoa kidogo ili kupata zaidi.
+> Kila upande wa mkataba daima hutoa kitu chenye thamani ndogo ili kupata kitu chenye thamani kubwa.
 
-
-Kati ya mawazo ya Physiocrats na yale ya Condillac, mtu hawezi kuota juu ya upinzani kamili zaidi. Mwanauchumi wa Physiocrat Le Trosne aliandika:
-
-
-> Exchange kwa asili yake ni Contract ya usawa, iliyoundwa kwa thamani sawa dhidi ya thamani sawa.
-
-Condillac, kwa upande wake, aliandika:
-
-
-> Kila chama kwa Contract daima hutoa kitu cha thamani ndogo ili kupata kitu cha thamani zaidi.
-
-Hata hivyo, upinzani kwa kiasi kikubwa ni moja ya maneno. Wote wawili wanakubali kwamba mtu anapobadilisha faranga kwa kitabu, kitabu kina thamani ya faranga, au bei ya kitabu ni faranga.
+Hata hivyo, upinzani huo kwa kiasi kikubwa ni wa maneno. Wote wanakubaliana kwamba mtu anapobadilisha franc moja kwa kitabu, kitabu kina thamani ya franc moja, au bei ya kitabu ni franc moja.
 
 
 
+Tofauti iko katika ukweli kwamba Condillac anadai kwamba kwa kuwa tunabadilisha franc kwa kitabu, maana yake kwetu thamani ya kitabu ni kubwa kuliko ile ya sarafu yetu ya franc moja. Tunapendelea kitabu kuliko sarafu, na ndiyo sababu tunafanya ubadilishanaji.
 
+Nadharia ya Condillac si kinyume kimsingi na ile ya Wanafiziokrati, lakini hawazungumzi lugha ileile, kwa kusema hivyo. Le Trosne anazungumzia bei ilhali Condillac anazungumzia thamani, na kinyume chake.
 
-Tofauti iko katika ukweli kwamba Condillac anadai kwamba kwa vile tunabadili franc kwa kitabu, ina maana kwamba kwetu sisi, thamani ya kitabu ni kubwa kuliko ile ya sarafu yetu ya franc moja. Tunapendelea kitabu kuliko sarafu, na ndiyo sababu tunafanya Exchange.
+Ambapo Condillac yuko sahihi ni kwamba ikiwa bei ni sawa kati ya bidhaa mbili zinazobadilishwa, thamani si sawa, vinginevyo, hakuna ubadilishanaji ungetokea.
 
+### Mapendekezo matatu yaliyobadilisha uchumi
 
-Nadharia ya Condillac kimsingi haipingani na ile ya Wanafiziokrati, lakini hawazungumzi lugha moja, kwa kusema. Le Trosne inazungumza juu ya bei wakati Condillac inazungumza juu ya thamani, na kinyume chake.
+Ili kufupisha nadharia ya Condillac, mapendekezo matatu yanaweza kuorodheshwa:
 
+Pendekezo la kwanza: tunatafuta bidhaa kwa manufaa yake. Hili linaonekana dhahiri, lakini ni kanuni kuu ya sayansi ya uchumi kwamba watu hubadilishana ili kupata manufaa, hoja ambayo Jean-Baptiste Say pia aliendeleza kikamilifu.
 
-Ambapo Condillac ni sahihi ni kwamba ikiwa bei ni sawa kati ya bidhaa mbili zilizobadilishwa, maadili si sawa, vinginevyo, hakuna Exchange ingefanyika.
+![Jean-Baptiste Say](assets/en/086.webp)
 
+Pendekezo la pili: thamani hutangulia na huchochea ubadilishanaji. Hukumu ya kidhamira ambayo kila mtu hufanya kuhusu bidhaa na huduma ina maana kwamba bidhaa na huduma hizo zina thamani kwake, ya juu au chini kulingana na manufaa zinayoonekana kutoa. Kwa kawaida, kila mtu huhukumu tofauti na mwingine, na thamani hutofautiana kutoka mtu mmoja hadi mwingine.
 
-Kwa muhtasari wa nadharia ya Condillac, mapendekezo matatu yanaweza kuorodheshwa:
+Hatimaye, pendekezo la tatu: bei ni matokeo ya mchakato wa ubadilishanaji. Bidhaa hazibadilishwi kwa thamani ninayozipa kwa sababu masharti ya ubadilishanaji pia yanategemea thamani ya kidhamira ambayo muuzaji huzipa bidhaa hizo. Uhusiano kati ya mnunuzi na muuzaji, au kati ya tathmini ya kidhamira ya mnunuzi na tathmini ya kidhamira ya muuzaji, huanzisha bei.
 
+Mawazo haya ya Condillac ni ya msingi. Yanaturuhusu kuelewa kwa nini kila ubadilishanaji daima una manufaa kwa pande zote.
 
-Pendekezo la kwanza: tunatafuta bidhaa kwa matumizi yao. Hili linaonekana dhahiri, lakini ni kanuni kuu ya sayansi ya uchumi ambayo wanaume Exchange wanaweza kupata huduma, jambo ambalo Jean-Baptiste Say pia aliliendeleza kikamilifu.
-
-
-![image](assets/sw/086.webp)
-
-
-Pendekezo la pili: thamani ipo kabla na ndiyo motisha ya kubadilishana. Hukumu ya kibinafsi ambayo kila mtu hufanya juu ya bidhaa na huduma inamaanisha kuwa bidhaa na huduma hizi zina thamani kwake, thamani kubwa au ndogo kulingana na matumizi anayoyaona. Kwa kawaida, kila mtu anahukumu kwa njia tofauti na mwingine, na thamani hutofautiana kutoka mtu hadi mtu.
-
-
-Hatimaye, pendekezo la tatu: bei ni matokeo ya mchakato wa kubadilishana. Bidhaa haziwezi kubadilishana kwa thamani ninayozihusisha nazo peke yake kwa sababu masharti ya kubadilishana pia hutegemea thamani ya kibinafsi ambayo muuzaji anahusisha na bidhaa hizo. Uhusiano kati ya mnunuzi na muuzaji, yaani kati ya uthamini wa kibinafsi wa mnunuzi na ule wa muuzaji, huanzisha bei.
-
-
-Mawazo haya ya Condillac ni ya msingi. Zinaturuhusu kuelewa kwa nini kila kubadilishana huwa na manufaa kwa pande zote.
-
-
-Kwa hiyo zinaharibu kabisa ukosoaji wa biashara huria, kwani ulinzi unaonekana tu kama njia inayozuia idadi ya watu kufaidiana. Laissez-faire pia ni hitimisho la kazi ya Condillac. Watu wafanye wapendavyo, kwani ikiwa nguvu ya umma italinda uhuru na mali, watu daima watatajirishana kwa kubadilishana pamoja.
-
+Kwa hiyo yanaharibu kabisa ukosoaji wa biashara huria, kwa kuwa protectionism inaonekana tu kama utaratibu unaozuia watu kunufaishana. Laissez-faire pia ni hitimisho la kazi ya Condillac. Waacheni watu wafanye wapendavyo, kwa maana ikiwa mamlaka ya umma inalinda uhuru na mali, watu daima watajitajirisha wao kwa wao kwa kubadilishana pamoja.
 
 ## Condorcet
 
-
 <chapterId>99e4aba6-da7f-5041-b02f-337158381515</chapterId>
 
+### Mwanafalsafa aliyevutwa na uchumi
 
-Condorcet bila shaka ndiye mwanafalsafa mwenye nia ya kiuchumi zaidi wa Ufahamu.
-
-
-
-![image](assets/sw/087.webp)
+Condorcet bila shaka ni **mwanafalsafa mwenye mawazo ya kiuchumi zaidi wa Mwangaza**.
 
 
-Kwa sehemu kubwa ya kazi yake, alijitolea katika nyanja ambazo hazihusiani kabisa na uchumi, na ni sawa, kwani talanta yake ilisababisha maendeleo makubwa katika sayansi ambayo alizingatia zaidi. Lakini karibu 1770, alihisi kuvutiwa na maswali ya kiuchumi, labda kwa sababu wanafalsafa wengine, haswa Voltaire na Diderot, hawakujisumbua kujitolea kwao, na pia kwa sababu alikuwa amefanya urafiki na Turgot.
+![Nicolas de Condorcet](assets/en/087.webp)
+
+Kwa sehemu kubwa ya kazi yake, alijitolea kwa nyanja zisizohusiana kabisa na uchumi, na kwa haki, kwa kuwa vipaji vyake vilisababisha maendeleo makubwa katika sayansi alizozingatia zaidi. Lakini karibu 1770, alivutiwa na maswali ya kiuchumi, labda kwa sababu wanafalsafa wengine, hasa Voltaire na Diderot, hawakujisumbua kujitolea muda wao wa ziada kwa maswali hayo, na pia kwa sababu alikuwa amefanya urafiki na Turgot.
 
 
-
-Condorcet hatua kwa hatua alikubali mawazo ya laissez-faire na uhuru, awali katika maeneo yasiyohusiana na uchumi wa kisiasa. Katika Lettre d’un théologien yake, kifalsafa aliikejeli dini ya Kikatoliki na kueleza nia yake ya kuona uhuru wa kweli wa imani, ukiwemo uhuru wa kutokuamini. Katika vita vyake vya kuvumiliana na dhidi ya ushupavu wa kidini, Condorcet alipigania ukarabati wa Chevalier de la Barre na kuhukumiwa upya kwa D'Etallonde, ambaye alikuwa amehukumiwa kifo kwa kuvunja msalaba.
-
+Condorcet polepole alikumbatia mawazo ya laissez-faire na uhuru, mwanzoni katika maeneo yasiyohusiana na uchumi wa kisiasa. Katika *Barua ya Mwanateolojia* yake, aliidharau kifalsafa dini ya Katoliki na kueleza tamaa yake ya kuona uhuru halisi wa imani, ikiwemo uhuru wa kutoamini. Katika vita yake ya kuvumiliana na dhidi ya ushabiki wa kidini, Condorcet alipigania ukarabati wa Chevalier de la Barre na kusikilizwa upya kwa kesi ya D'Etallonde, aliyekuwa amehukumiwa kifo kwa kuvunja msalaba.
 
 
-Kwa hivyo alikuwa tayari kutetea uhuru wakati rafiki yake Turgot alipopanda hadi nafasi ya Mdhibiti Mkuu wa Fedha.
+Kwa hiyo alikuwa amejiandaa kutetea uhuru wakati rafiki yake Turgot alipopanda hadi nafasi ya Mdhibiti Mkuu wa Fedha.
 
 
+![Anne Robert Jacques Turgot](assets/en/088.webp)
 
-![image](assets/sw/088.webp)
+### Bingwa wa mageuzi ya Turgot
 
+Kuanzia hapo, kazi ya Condorcet iligeuka alipoingia katika mjadala wa kiuchumi, akiunga mkono bila kuchoka mageuzi ya kiliberali ya waziri mpya. Akiupendelea ushindani na uhuru wa biashara, Condorcet pia alitaka kufutwa kwa corvées (kazi ya lazima), magildi, na kodi za haki. Alitoa imani hizi hadharani kila fursa ilipotokea, akifanya hivyo kwa shauku iliyo wazi; aliandika kwa wingi na mara moja akatangaza katika maandishi yake: "Niruhusu nizungumze tena kuhusu uhuru wa biashara; ninafurahia kushughulika na mada hii."
 
-Kuanzia wakati huo, kazi ya Condorcet ilichukua zamu alipoingia kwenye mjadala wa kiuchumi, akiunga mkono bila kuchoka mageuzi ya kiliberali ya waziri mpya. Akipendelea ushindani na uhuru wa biashara, Condorcet pia alitoa wito wa kukomeshwa kwa corvées (kazi ya kulazimishwa), mashirika, na kutozwa kodi kwa haki. Alionyesha imani hizi hadharani kila nafasi ilipotokea, akifanya hivyo kwa shauku ya wazi; aliandika kwa upana na mara moja alitangaza katika maandishi yake: "Niruhusu niongee tena juu ya uhuru wa biashara; nafurahiya kujihusisha na somo hili."
+Kati ya 1774 na 1776, wakati wa uwaziri wa Turgot, Condorcet alifanya mijadala mingi, yote ikiwa imebainishwa na kujitolea kwake kwa laissez-faire. Kazi zake zinajumuisha *Barua kutoka kwa Mkulima wa Picardy kwa Bw. Necker*, akitetea biashara huria; *Ukiritimba na Wakiritimba*, akitetea ushindani huria; *Tafakari kuhusu Corvées*, akitaka kufutwa kwake; na *Tafakari kuhusu Biashara ya Nafaka*, inayosifu tena biashara huria na kukosoa kitabu cha Necker kuhusu mada hiyo hiyo.
 
+Katika [*Barua kuhusu Biashara ya Nafaka*](https://archive.org/details/bub_gb_hg8jFw-y6bwC) zake, Condorcet anatoa hoja kadhaa kuu.
 
-Kati ya 1774 na 1776, wakati wa huduma ya Turgot, Condorcet alifanya hatua nyingi, zote zikiwa na kujitolea kwake hadi laissez-faire. Kazi zake ni pamoja na *Barua kutoka kwa Mkulima wa Picardy kwenda kwa Bwana Necker*, zinazotetea biashara huria; *Ukiritimba na Ukiritimba*, kutetea ushindani huru; *Tafakari juu ya Corvées*, inayotaka kufutwa kwao; na *Reflections on the Grain Trade*, ambayo inasifu tena biashara huria na kukosoa kitabu cha Necker kuhusu mada hiyo hiyo.
+![Galiani, “Barua kuhusu biashara ya nafaka”](assets/en/089.webp)
 
-
-Katika [*Letters on the Grain Trade*](https://archive.org/details/bub_gb_hg8jFw-y6bwC), Condorcet anabainisha mambo kadhaa muhimu.
-
-
-![image](assets/sw/089.webp)
-
-
-Kwanza, bei ya juu ya nafaka wakati huo haikuwa matokeo ya biashara huria, bali ya mavuno duni, na Condorcet inadhihirisha hili kwa uwazi. Kisha anaelezea kwa nini laissez-faire sio tu inafaa lakini sera pekee inayofaa, licha ya chuki ya wengi. Anabainisha, "Tumezoea kuona serikali ikiingilia kati biashara ya nafaka hivi kwamba kutofanya lolote kunaonekana kuwa jambo la ajabu na jipya". Baadaye, anaongeza, "Karibu kila mtu, haswa wale walio na ofisi ya umma, wanaamini kuwa hakuna kinachotokea kivyake na kwamba kila kitu kinapotea ikiwa serikali haitaingilia kati kila kitu". Condorcet hivyo hufufua hoja za Physiocrats na Turgot, kuonyesha ubora wa biashara huria juu ya aina zote za kuingilia kati.
+Kwanza, bei kubwa za nafaka wakati huo hazikutokana na biashara huria, bali na mavuno mabaya, na Condorcet anaonyesha hili wazi. Kisha anaeleza kwa nini laissez-faire si tu inafaa bali ndiyo sera pekee inayofaa, licha ya chuki za umma. Anabainisha, "Tumezoea sana kuona serikali ikiingilia biashara ya nafaka kiasi kwamba kutofanya chochote huonekana kama kitu cha ajabu na kipya". Baadaye, anaongeza, "Karibu kila mtu, hasa wale walio katika ofisi za umma, wanaamini kwamba hakuna kinachotokea chenyewe na kwamba kila kitu hupotea ikiwa serikali haiingilii kila kitu". Hivyo Condorcet anafufua hoja za Wanafiziokrati na Turgot, akionyesha ubora wa biashara huria juu ya aina zote za uingiliaji kati.
 
 
-
-Kukuza ajenda ya uchumi huria ya Turgot ilikuwa kitendo cha ujasiri, kwani Condorcet alijua angekabiliwa na udhibiti haraka. Kwa kweli, hii ilitokea na kitabu chake juu ya kukomesha kazi ya kulazimishwa kiliharibiwa na kupigwa marufuku mnamo 1776.
-
+Kukuza ajenda ya kiuchumi ya kiliberali ya Turgot ilikuwa tendo la ujasiri, kwa kuwa Condorcet alijua angekabili udhibiti wa machapisho haraka. Kwa kweli, hili lilitokea na kijitabu chake kuhusu kufutwa kwa kazi ya lazima kiliharibiwa na kupigwa marufuku mwaka 1776.
 
 
-Turgot, akithamini utetezi wa uaminifu wa Condorcet wa mawazo yake, alimteua kuwa Mkaguzi wa Fedha. Condorcet alijiuzulu mara tu rafiki yake alipoacha huduma.
+Turgot, akithamini utetezi mwaminifu wa Condorcet kwa mawazo yake, alimteua kuwa Mkaguzi wa Sarafu. Condorcet alijiuzulu mara tu rafiki yake alipoondoka wizarani.
+
+
+### Mipaka ya mageuzi katika Ufaransa kabla ya mapinduzi
+
+Ingawa alitumia nguvu zake zote kumtetea Turgot, Condorcet hakuwa na udanganyifu kuhusu matokeo ya kipindi cha rafiki yake madarakani. Turgot mwenyewe alikiri mwishoni mwa maisha kwamba aliishi na majuto, kama alivyoandika katika barua, "kwa kutoweza kufanya kwa taifa langu na ubinadamu mema niliyoyaamini kuwa rahisi sana". Condorcet, akiwa wa uhalisia zaidi, alionyesha wapinzani wengi ambao Turgot angekabiliana nao: vipenzi vya mfalme, parliaments, makasisi, watu wa tabaka la juu, magildi, na kadhalika. Makundi haya yalitarajia kubembelezwa, si mageuzi. Condorcet alimwambia Turgot, "Wewe si charlatan hata kidogo, na hiyo ni kasoro, kutokana na jinsi mambo yalivyo Paris". Alikuwa sahihi kabisa, kwa kuwa mwaka 1776, miaka miwili tu baada ya kuwasili kwake, Turgot tayari alilazimishwa kuondoka katika Controller-Generalship.
 
 
 
-Ingawa alitumia nguvu zake zote kumtetea Turgot, Condorcet hakuwa na udanganyifu wowote kuhusu matokeo ya umiliki wa rafiki yake. Turgot mwenyewe alikiri marehemu maishani kwamba aliishi kwa majuto, kama alivyoandika katika barua, "kwa kutoweza kulifanyia taifa langu na ubinadamu jambo jema nililoliamini kwa urahisi sana". Condorcet, kwa uhalisia zaidi, alionyesha maadui wengi ambao Turgot angekabiliana nao: vipendwa vya mfalme, mabunge, makasisi, wakuu, vyama, na kadhalika. Makundi haya yalitarajia kubembeleza, sio mageuzi. Condorcet alimwambia Turgot, "Wewe si mlaghai hata kidogo, na hiyo ni dosari, kutokana na jinsi mambo yalivyo huko Paris". Alikuwa sahihi kabisa, kwani mnamo 1776, miaka miwili tu baada ya kuwasili kwake, Turgot alilazimika kuacha Utawala Mkuu.
-
-
-
-
-## Akili ya huria chini ya Mapinduzi
-
+## Busara ya kawaida ya kiliberali chini ya Mapinduzi
 
 <chapterId>95e9a90d-e37a-58ff-b1ac-928b42e76ecf</chapterId>
 
+### Dhidi ya ukiritimba wa benki
 
-Dupont de Nemours alikuwa mwanafunzi mdogo zaidi wa François Quesnay, ambaye mara moja alisema juu yake: "Lazima tumtunze kijana huyu, kwa maana atazungumza tukiwa tumeaga". Mapinduzi ya Ufaransa yalipoanza, karibu Wanafiziokrati wote wakuu, kutia ndani Marquis de Mirabeau, walikuwa tayari wameondoka; Mirabeau mwenyewe alikuwa amefariki Julai 13, 1789.
+Dupont de Nemours alikuwa mwanafunzi mdogo zaidi wa François Quesnay, ambaye aliwahi kusema kumhusu: "Lazima tumtunzie kijana huyu, kwa maana atasema tutakapokuwa tumekufa". Mapinduzi ya Ufaransa yalipoanza, karibu Wanafiziokrati wakubwa wote, ikiwemo Marquis de Mirabeau, walikuwa tayari wameondoka; Mirabeau mwenyewe alikuwa amefariki Julai 13, 1789.
+Dupont de Nemours aliandika orodha ya malalamiko kwa bailiwick ya Nemours.
 
-Dupont de Nemours aliandika orodha ya malalamishi kwa bailiwick ya Nemours.
+![Kuitwa kwa Mkutano wa Madaraja huko Versailles, Mei 5, 1789, Champagney, “Orodha ya Malalamiko”](assets/en/090.webp)
 
-
-![image](assets/sw/090.webp)
-
-
-Hati hii ya kuvutia ilikuwa na malalamiko yote kutoka kwa wanauchumi huria dhidi ya vikwazo vya biashara, ukiritimba, na mashambulizi dhidi ya mali. Dupont de Nemours pia alichaguliwa katika Bunge la Kitaifa.
+Hati hii ya kuvutia ilikuwa na malalamiko yote ya wanauchumi wa kiliberali dhidi ya vizuizi vya biashara, ukiritimba, na mashambulizi dhidi ya mali. Dupont de Nemours pia alichaguliwa katika Bunge la Kitaifa.
 
 
+Wakati wa Mapinduzi, akawa **sauti ya busara ya kawaida ya kiliberali**, akisimama imara dhidi ya wimbi linalokua la populism na demagogia ya uingiliaji kati, ambayo hatimaye ilishinda.
+
+Mapema Novemba 1789, kulipokuwa na mazungumzo ya kutoa ukiritimba kwa Caisse d'Escompte (ambayo ingeweza kuigeuza kuwa benki ya umma, Benki ya Ufaransa), Dupont de Nemours alizungumza kutetea ushindani.
 
 
-Wakati wa Mapinduzi, alikua sauti ya akili ya kiliberali, akisimama kidete dhidi ya wimbi linalokua la ushabiki na uingiliaji kati wa demokrasia, ambao hatimaye ulishinda.
+![Dupont de Nemours, “Hotuba kwa Bunge la Kitaifa”, 1789](assets/en/091.webp)
 
+"Ingekuwa bora", anasema, "kuacha biashara ya benki kwa sheria za biashara huria". Na anaongeza:
 
-Mapema mnamo Novemba 1789, wakati kulikuwa na mazungumzo ya kutoa ukiritimba kwa Caisse d'Escompte (ambayo inaweza kuigeuza kuwa benki ya umma - Benki ya Ufaransa), Dupont de Nemours alizungumza kwa utetezi wa ushindani.
+> Sielewi waziri alimaanisha nini alipozungumza kuhusu kutoa upendeleo kwa Caisse d'Escompte. Ikiwa upendeleo huu unajumuisha upekee, lazima muukatae, kwa maana mmekuja hapa kuharibu marupurupu ya pekee, si kuunda mapya.
 
-
-
-![image](assets/sw/091.webp)
-
-
-"Ingekuwa bora," anasema, "kuacha biashara ya benki kwa sheria za biashara huria". Na anaongeza:
-
-
-> "Sielewi waziri alimaanisha nini alipozungumzia kutoa upendeleo kwa Caisse d'Escompte. Ikiwa fursa hii inajumuisha upendeleo, lazima uikatae, kwani umekuja hapa kuharibu marupurupu ya kipekee, sio kuunda mpya."
-
-Licha ya maonyo yake, Bunge lilipuuza pingamizi lake na kuchukua hatua nyingine ya kuanzisha benki kuu na ukiritimba wa benki.
-
-Mnamo 1790, katika Bunge la Katiba, Dupont de Nemours alifuata mila ya pacifist ya marafiki zake wa Physiocrat na kupendekeza sheria inayokataza vita vya kukera. Kifungu cha kwanza kilisomeka: "Taifa la Ufaransa halitajiruhusu kujiingiza katika vita vyovyote vya kukera ili kuteka eneo la wengine au kukiuka haki au uhuru wa Taifa lolote".
-
+Licha ya maonyo yake, Bunge lilipuuza pingamizi zake na kuchukua hatua nyingine kuelekea kuanzisha benki kuu na ukiritimba wa benki.
+Mwaka 1790, katika Bunge la Katiba, Dupont de Nemours alifuata mapokeo ya kupenda amani ya marafiki zake Wanafiziokrati na kupendekeza sheria inayokataza vita vya kushambulia. Ibara ya kwanza ilisomeka: "Taifa la Ufaransa halitajiruhusu kushiriki katika vita vyovyote vya kushambulia ili kutwaa eneo la wengine au kukiuka haki au uhuru wa Taifa lolote". 
 
 Pendekezo hili lilikataliwa.
 
+### Vita dhidi ya assignats
 
-Mwaka huohuo, 1790, mijadala ilianza kuhusu kutoa sarafu mpya ya karatasi ili kulipia gharama za serikali.
-
-Dupont de Nemours alipinga hili kwa uthabiti na akachapisha kijitabu chenye kichwa [*Athari za Wakabidhiwa kwa Bei ya Mkate*](https://archive.org/details/effetdesassignat00dupo). Kichwa kilikuwa sahihi, kwani alieleza kuwa kutoa mgawo bila shaka kutasababisha mfumuko wa bei, kupanda kwa bei za bidhaa, ikiwa ni pamoja na mkate.
-
-
-
-![image](assets/sw/092.webp)
+Mwaka huo huo, 1790, mijadala ilianza kuhusu kutoa sarafu mpya ya karatasi kulipia gharama za serikali.
+Dupont de Nemours alipinga hili kwa uthabiti na akachapisha kijitabu chenye kichwa [*Athari za Assignats kwa Bei ya Mkate*](https://archive.org/details/effetdesassignat00dupo). Kichwa kilikuwa sahihi, kwa kuwa alieleza kwamba kutoa assignats kungeongoza bila kuepukika kwenye mfumuko wa bei, ongezeko la bei za bidhaa, ikiwemo mkate.
 
 
-Alitia saini kijitabu hicho kama “rafiki wa watu.” Kipande hicho kilizua tafrani, Bunge lilipoulizwa ni nani aliyeiandika. Dupont de Nemours kisha akasimama na kukiri kuwa ni kazi yake, akisema haoni haya kutumia cheo cha “rafiki wa watu” kwa sababu kupigana dhidi ya migawo hiyo ni kweli kuwatumikia watu.
+![Dupont de Nemours, “Athari ya Assignats kwa Bei ya Mkate”](assets/en/092.webp)
 
-Kwa mara nyingine tena, ushauri wake ulipuuzwa, na migawo ikatolewa.
-
-
-
-![image](assets/sw/093.webp)
+Alisaini kijitabu hicho kama "rafiki wa watu". Andiko hilo lilizua msukosuko mkubwa, kwani Bunge liliulizwa ni nani aliyeliandika. Dupont de Nemours kisha alisimama na kukiri kuwa ilikuwa kazi yake, akisema hakuwa na aibu kutumia cheo "rafiki wa watu" kwa sababu kupambana dhidi ya assignats kulikuwa kweli kuwahudumia watu.
+Kwa mara nyingine, ushauri wake ulipuuzwa, na assignats zikatolewa.
 
 
-Sote tunajua maafa yaliyofuata—uharibifu wa kiuchumi na mateso waliyovumilia watu, ambapo wengi walipoteza kila kitu wakati assignat zilipopoteza thamani na kulazimika kuchomwa moto.
+![Assignat ya 100](assets/en/093.webp)
 
-Miaka michache baadaye, Bunge lilielekeza mawazo yake kwa wazo la kuunda Benki halisi ya Ufaransa, ambayo ingepewa ukiritimba wa uzalishaji wa pesa.
+Sisi sote tunajua maafa yaliyofuata, uharibifu wa kiuchumi na mateso yaliyovumiliwa na watu, wengi wao wakipoteza kila kitu wakati assignats zilipokosa thamani na kulazimika kuchomwa.
+### Nabii bila wasikilizaji
+
+Miaka michache baadaye, Bunge lilielekeza mawazo yake kwenye wazo la kuunda Benki ya Ufaransa halisi, ambayo ingepewa ukiritimba juu ya uzalishaji wa pesa.
+
+Dupont de Nemours, bado akiwa amepinga kwa uthabiti wazo la benki ya umma, akiliona kama ukiritimba tu, alilikumbusha Bunge uzoefu mbaya wa assignats. Aliwaambia:
 
 
-Dupont de Nemours, ambaye bado anapinga kwa uthabiti wazo la benki ya umma, akiona kuwa si chochote zaidi ya ukiritimba, alikumbusha Bunge juu ya uzoefu mbaya wa wagawaji. Akawaambia:
+> Msijiandalie majuto kama yale yaliyowatesa wenzangu katika Bunge la Katiba. Wakati huo, pendekezo langu la kupunguza assignats ziwe tu malipo ya bidhaa za taifa na zisifanywe kuwa sarafu inayozunguka lilikataliwa. Leo, wanasema: 'Ah, laiti tungemsikiliza Dupont de Nemours!'
 
-
-
-> "Msijiandae kwa majuto kama yale yaliyowatesa wenzangu katika Bunge la Katiba. Wakati huo, pendekezo langu la kuweka mipaka ya kazi kwa malipo ya bidhaa za kitaifa tu na sio kuzifanya kuwa sarafu ya mzunguko lilikataliwa. Leo wanasema: "Ah, laiti tungemsikiliza Dupont de Nemours!"
-
-Lakini kwa mara nyingine tena, hakuna mtu aliyemsikiliza.
-
+Lakini tena, hakuna aliyemsikiliza.
 
 ## Hitimisho: Kupitisha Mwenge
 
-
 <chapterId>ada8082f-db96-5e52-954f-719b47998153</chapterId>
 
+### Misingi iliyosahaulika
 
-Mawazo ya kiuchumi ya Ufaransa katika karne ya 18 mara nyingi hufunikwa na yale ya wachumi maarufu zaidi wa karne ya 19. Hata hivyo, linapokuja suala la kutetea uhuru, ni katika karne ya 18 ndipo kila kitu kilianza kwa kweli. Hii ilikuwa karne ambayo kanuni ya laissez-faire, ambayo wakati huo ilikuwa ya kimapinduzi sana, ilionyeshwa wazi kwa mara ya kwanza na idadi ya wanafikra, kuanzia Boisguilbert hadi Dupont de Nemours.
+Mawazo ya kiuchumi ya Kifaransa katika karne ya 18 mara nyingi hufunikwa na wanauchumi maarufu zaidi wa karne ya 19. Hata hivyo, linapokuja suala la utetezi wa uhuru, ni katika karne ya 18 ndipo kila kitu huanza kweli. Hii ndiyo karne ambayo kanuni ya laissez-faire, iliyokuwa ya kimapinduzi sana wakati wake, ilielezwa kwa uwazi kwa mara ya kwanza na wanafikra kadhaa, kutoka Boisguilbert hadi Dupont de Nemours.
+Hakika, watu kama Jean-Baptiste Say, [Frédéric Bastiat](https://planb.academy/resources/books/bastiat-oeuvres-completes-765be39c-134a-4333-8b4b-e45a4fff7e73), [Gustave de Molinari](https://planb.academy/resources/books/molinari-oeuvres-completes-8a3dbdd8-2053-45bc-9203-dd3b7f3edfee), na Yves Guyot waliacha alama ya kudumu katika historia ya mawazo ya kiuchumi ya Kifaransa. Lakini tukiwachunguza kwa kujitenga, tunakosa kitu muhimu. Wanafikra hawa wa karne ya 19 hawakutokea popote; walirithi na kujenga juu ya misingi iliyowekwa na watangulizi wao wa karne ya 18 wakati wa Mwangaza.
 
-Hakika, watu kama Jean-Baptiste Say, Frédéric Bastiat, Gustave de Molinari, na Yves Guyot waliacha alama ya kudumu katika historia ya fikra za kiuchumi za Ufaransa. Lakini tukizisoma peke yao, tunakosa kitu muhimu. Wanafikra hawa wa karne ya 19 hawakutokea ghafla; walirithi na wakajenga juu ya misingi iliyowekwa na watangulizi wao wa karne ya 18 katika enzi ya Nuru.
+### Kanuni sita zilizounda uchumi wa kisasa
 
-
-Boisguilbert anadai kwamba nafsi zenye nia njema zinazoamini kwamba zinaweza kurekebisha kila kitu kwa kuhusisha serikali bila shaka kupindua uchumi, na kwa hiyo ni bora kuacha utaratibu wa asili wa mambo kuchukua mkondo wake.
-
-
-
-![image](assets/sw/094.webp)
+Boisguilbert anasisitiza kwamba roho zenye nia njema zinazoamini zinaweza kurekebisha kila kitu kwa kuihusisha serikali bila kuepukika hugeuza uchumi juu chini, na kwamba kwa hiyo ni bora kuacha utaratibu wa asili wa mambo ufuate mkondo wake.
 
 
-Cantillon alisisitiza kuwa pesa hazipaswi kuchezewa kwa malengo ya kisiasa. Kuruhusu Serikali kusimamia pesa inavyopenda ni kuweka njia ya matatizo makubwa ya kifedha na kiuchumi.
+![Pierre Le Pesant de Boisguilbert, Cantillon, “Insha kuhusu asili ya biashara kwa jumla”, Josiah Child, “Risala kuhusu biashara”](assets/en/094.webp)
 
+Cantillon alisisitiza kwamba pesa hazipaswi kamwe kuchezewa kwa malengo ya kisiasa. Kuruhusu Serikali isimamie pesa inavyotaka ni kufungua njia kwa machafuko makubwa ya kifedha na kiuchumi.
 
 
 
 
-
-Vincent de Gournay anadai kwamba udhibiti wa kupita kiasi wa kazi hukatisha tamaa juhudi za wafanyikazi na mafundi, na kuwasukuma kuelekea uvivu na kutofanya kazi. Ni kutokana na ushindani wa bure kwamba uchumi unaweza kukua na taifa linaweza kustawi.
-
+Vincent de Gournay anasisitiza kwamba udhibiti uliopitiliza wa kazi hukatisha tamaa juhudi za wafanyakazi na mafundi, ukiwasukuma kuelekea uvivu na kutotenda. Ni kwa sababu ya ushindani huria ndipo uchumi unaweza kukua na taifa kustawi.
 
 
 
 
-
-Gazeti la Marquis d'Argenson linadai kwamba hakuna serikali yenye uwezo wa kuona na kupima kila kitu, na kwamba kwa sababu hiyo, mtu lazima ategemee masilahi ya kila mtu binafsi.
-
+Marquis d'Argenson anasisitiza kwamba hakuna serikali yenye uwezo wa kutabiri na kupima kila kitu, na kwamba kwa hiyo, lazima mtu ategemee maslahi binafsi ya kila mtu.
 
 
-![image](assets/sw/095.webp)
+![Quesnay, Condillac, D'Argenson](assets/en/095.webp)
 
-
-Quesnay na Physiocrats wanadai kuwa mali ya kibinafsi ndio msingi wa jamii za wanadamu. Bila mali ya kibinafsi, mwanadamu hupoteza motisha ya kufanya juhudi, kufanya kazi, kwani hawezi kufurahia matunda ya kazi yake au kukusanya chochote.
+Quesnay na Wanafiziokrati wanasisitiza kwamba mali binafsi ni msingi wa jamii za binadamu. Bila mali binafsi, mwanadamu hupoteza motisha ya kufanya juhudi, kufanya kazi, kwa kuwa hawezi kufurahia matunda ya kazi yake au kukusanya chochote.
 
 
 
-
-
-Condillac anadai kuwa Exchange daima ni ya manufaa kwa pande zote na kwa hiyo inapaswa, bila ubaguzi, kuwa huru kila wakati. Dhamira pekee ya Serikali lazima iwe kulinda uhuru na mali.
-
+Condillac anasisitiza kwamba ubadilishanaji daima una manufaa kwa pande zote na kwa hiyo, bila ubaguzi, unapaswa kuwa huru daima. Dhamira pekee ya Serikali lazima iwe kulinda uhuru na mali.
 
 
 
+### Kupitisha mwenge kwa karne ya 19
 
-Mawazo haya yote yalikumbatiwa na wachumi wa karne ya 19. Baadhi, kama Jean-Baptiste Say, waliweza kuyapa mawazo haya usemi wa kisayansi kupitia Treatise on Political Economy wake thabiti. Wengine, kinyume chake, walitafuta kueneza kanuni hizi za kimsingi kwa kujitosa katika uwanja wa hadithi, riwaya, na hadithi fupi za kuvutia, kama Frédéric Bastiat alivyofanya kwa ustadi.
-
+Mawazo haya yote yangepokelewa na wanauchumi wa karne ya 19. Baadhi, kama Jean-Baptiste Say, wangeyapa mawazo haya maelezo ya kisayansi kupitia *Risala kuhusu Uchumi wa Kisiasa* yenye ukali. Wengine, kinyume chake, wangetafuta kueneza kanuni hizi za msingi kwa kuingia katika ulimwengu wa visa, riwaya, na hadithi fupi za kufurahisha, kama Frédéric Bastiat angefanya kwa ustadi.
 
 ## Wasifu
 
-
 <chapterId>17cf2865-e53c-5f3b-a5c2-a43560efaf01</chapterId>
 
+**BIBLIOGRAFIA TEULE**
 
-**BIBLIOGRAFI TEULE**
+Hapa chini, utapata uteuzi wa zaidi ya maandishi thelathini:
 
-
-Hapa chini, utapata uteuzi wa maandishi zaidi ya thelathini:
-
+### Watangulizi na wanamageuzi wa mapema
 
 1. Pierre Clément, Histoire de Colbert et de son administration, Paris, 1874
-
-2. Vauban, Projet d'une dîme royale, 1707; kuchapisha upya Taasisi ya Coppet, 2014; Anne Blanchard, Vauban, Fayard, 1996
-
-3. Boisguilbert, Détail de la France, 1695; iliyochapishwa tena na Institut Coppet, 2014
-
+2. Vauban, Projet d'une dîme royale, 1707; chapisho jipya Institut Coppet, 2014; Anne Blanchard, Vauban, Fayard, 1996
+3.	Boisguilbert, Détail de la France, 1695; ilichapishwa tena na Institut Coppet, 2014
 4. Félix Cadet, Pierre de Boisguilbert: mtangulizi wa wanauchumi, Institut Coppet, 2014
-
 5. Pierre de Boisguilbert ou la naissance de l'économie politique, Paris, INED, 1966
-
-6. Richard Cantillon, Essai sur la nature du commerce en général, 1755; iliyochapishwa tena na Institut Coppet, 2015
-
+6. Richard Cantillon, Essai sur la nature du commerce en général, 1755; ilichapishwa tena na Institut Coppet, 2015
 7. Antoin Murphy, Richard Cantillon, mwanabenki na mwanauchumi, Oxford, 1986
-
-8. Gustave de Molinari, L'Abbot wa Saint-Pierre, Paris, 1859
-
-9. Abate wa Saint-Pierre, Abrégé du projet de paix perpétuelle, Rotterdam, 1729
-
-10. Abate wa Saint-Pierre, "Projet pour perfectionner le commerce de la France", katika Les rêves d'un homme de bien, Paris, 1775, p.199
-
+8. Gustave de Molinari, L'Abbot of Saint-Pierre, Paris, 1859
+9. Abbot of Saint-Pierre, Abrégé du projet de paix perpétuelle, Rotterdam, 1729
+10. Abbot of Saint-Pierre, "Projet pour perfectionner le commerce de la France", in Les rêves d'un homme de bien, Paris, 1775, p.199
 11. André Alem, Le marquis d'Argenson et l'économie politique au début du XVIIIe siècle, Institut Coppet, 2015
-
-12. Journal et mémoires du marquis d'Argenson, toleo la Rathery, vols 9, Paris, 1859-1867
-
-13. Benoît Malbranque, Vincent de Gournay: uchumi wa kisiasa wa laissez-faire, Institut Coppet, 2016
-
+12. Journal et mémoires du marquis d'Argenson, toleo la Rathery, 9 vols, Paris, 1859-1867
+13. Benoît Malbranque, [Vincent de Gournay: uchumi wa kisiasa wa laissez-faire](https://planb.academy/resources/books/benoit-malbranque-vincent-de-gournay-leconomie-pol-23fb1bac-21d6-432f-a4f3-69a359e48358), Institut Coppet, 2016
 14. Vincent de Gournay, Remarques sur la traduction de Josiah Child, L'Harmattan, 2008
+15. Christine Théré & Loïc Charles (eds.), Le cercle de Gournay, INED, 2005
+16. Antoin Murphy, "Le développement des idées économiques en France (1750-1756)", Revue d'histoire moderne et contemporaine, tome XXXIII, October-December 1986
+### Wanafiziokrati na ulimwengu wao
 
-15. Christine Théré na Loïc Charles (wahariri), Le cercle de Gournay, INED, 2005
-
-16. Antoin Murphy, "Le développement des idées économiques en France (1750-1756)", Revue d'histoire moderne et contemporaine, tome XXXIII, Oktoba-Desemba 1986
-
-17. Henri Ripert, Le marquis de Mirabeau: ses theories politiques et économiques, Paris, 1901
-
-18. Lucien Brocard, Les doctrines économiques et sociales du marquis de Mirabeau huko L'Ami des Hommes, Paris, 1902
-
+17. Henri Ripert, Le marquis de Mirabeau: ses théories politiques et économiques, Paris, 1901
+18. Lucien Brocard, Les doctrines économiques et sociales du marquis de Mirabeau in L'Ami des Hommes, Paris, 1902
 19. Humbert de Montlaur, Mirabeau, l'Ami des Hommes, Perrin, 1992
-
 20. Yves Guyot, François Quesnay et la Physiocratie, Institut Coppet, 2014
-
 21. François Quesnay, Œuvres économiques complètes et autres textes, 2 vols, INED, 2005
-
 22. Georges Weulersse, Le mouvement physiocratique en France (de 1756 à 1770), 2 vols, Paris, 1910
-
 23. Georges Weulersse, La Physiocratie à la fin du règne de Louis XV (1770-1774), P.U.F., 1959
-
 24. Georges Weulersse, La Physiocratie sous les ministères de Turgot et de Necker (1774-1781), P.U.F., 1950
-
 25. Georges Weulersse, La physiocratie à l'aube de la révolution (1781-1792), EHESS, 1985
-
 26. P. Jolly, Du Pont de Nemours, soldat de la liberté, Paris, P.U.F., 1956
+### Wanauchumi wa Mwangaza
 
 27. Maandishi ya kiuchumi ya Voltaire, Institut Coppet, 2013
-
-28. Gustave Schelle (mh.), Œuvres de Turgot na hati le concernant, Paris, 1913-1924
-
+28. Gustave Schelle (ed.), [Œuvres de Turgot et documents le concernant](https://planb.academy/resources/books/turgot-oeuvres-completes-37fa0489-cabd-413c-9240-34d1663d0720), Paris, 1913-1924
 29. Benoît Malbranque, Le libéralisme à l'essai : Turgot intendant du Limousin (1761-1774), Institut Coppet, 2015
-
 30. Pierre Foncin, Essai sur le ministère de Turgot, Paris, 1877
-
 31. Auguste Lebeau, Condillac économiste, Paris, 1903
-
-32. Condillac, Le commerce et le gouvernement considérés relativement l'un avec l'autre, 1776
-
-33. Condorcet, Mélanges d'économie politique, huko Eugène Daire (ed.), Mélanges d'économie politique, Paris, 1847
-
+32. Condillac, [Le commerce et le gouvernement considérés relativement l'un avec l'autre](https://planb.academy/resources/books/condillac-le-commerce-et-le-gouvernement-5e397405-e066-43bc-82df-1017c1fb63ae), 1776
+33. Condorcet, Mélanges d'économie politique, in Eugène Daire (ed.), Mélanges d'économie politique, Paris, 1847
 34. P. Jolly, Du Pont de Nemours, soldat de la liberté, Paris, P.U.F., 1956
-
-35. Eli Heckscher, Mercantilism, 2 vols. London: Allen na Unwin. 1935
-
+35. Eli Heckscher, Mercantilism, 2 vols. London: Allen and Unwin. 1935
 
 # Sehemu ya mwisho
 
-
 <partId>385bffab-aea1-5bcd-9569-62b3f30665b7</partId>
 
-
-## Ukaguzi na Ukadiriaji
-
+## Mapitio na Ukadiriaji
 
 <chapterId>a1e689d9-abd0-5dcb-ba56-a8d355d0a84f</chapterId>
-
 <isCourseReview>true</isCourseReview>
 
 ## Mtihani wa Mwisho
 
-
 <chapterId>bdb7fd98-33e7-11f0-9fe6-b785c859ffc5</chapterId>
-
 <isCourseExam>true</isCourseExam>
 
 ## Hitimisho
 
-
 <chapterId>3b366ff6-03c8-5f6a-b4c0-ba8186e65d7e</chapterId>
-
 
 <isCourseConclusion>true</isCourseConclusion>
