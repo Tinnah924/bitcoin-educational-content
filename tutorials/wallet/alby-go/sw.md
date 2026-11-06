@@ -17,7 +17,7 @@ description: Mwongozo wa programu ya simu ya Alby Go
 
 
 - [Alby Hub](https://albyhub.com/) **(inapendekezwa)**
-- **Mwavuli**, **Start9**, **RaspiBlitz** (kupitia **Alby Hub**)
+- **Umbrel**, **Start9**, **RaspiBlitz** (kupitia **Alby Hub**)
 - **Sarafu** *(haijajaribiwa)*
 - **Ya kwanza** *(haijajaribiwa)*
 - **Minibits** *(haijajaribiwa)*
@@ -43,7 +43,7 @@ Inapatikana kwenye majukwaa makubwa:
 ## 🔌 Unganisha Wallet
 
 
-Alby Go inaunganisha kwenye kifundo chako kinachotumia umeme au Wallet kwa kutumia siri ya NWC (Nostr Wallet Connect). Unaweza kuunganisha wallet moja au zaidi ili kubadilisha kati kwa urahisi.
+Alby Go inaunganisha kwenye kifundo chako kinachotumia lightning au Wallet kwa kutumia siri ya NWC (Nostr Wallet Connect). Unaweza kuunganisha wallet moja au zaidi ili kubadilisha kati kwa urahisi.
 
 Hatua:
 
@@ -114,7 +114,7 @@ Hakuna uvimbe. Hakuna fujo. Umeme-haraka.
 ## 🛠️ Vipengele vya Ziada
 
 
-- 🗺️ Ramani ya BTC (orodha pana ya wafanyabiashara wanaokubali malipo ya Bitcoin)
+- 🗺️ BTC map (orodha pana ya wafanyabiashara wanaokubali malipo ya Bitcoin)
 - 🌗 Hali ya giza na nyepesi
 - 💱 Ingizo maalum la sarafu na kikokotoo
 - 🧾 Historia ya muamala
