@@ -9,7 +9,7 @@ description: Kiendelezi cha kivinjari cha Bitcoin na Lightning Network
 
 
 
-Kufanya malipo kuwa rahisi zaidi kwa kutumia bitcoin ni changamoto inayokabili makampuni mengi katika sekta hii. Alby inajitokeza kutoka kwa umati kwa kiendelezi chake cha Alby wallet kwa vivinjari. Kiendelezi hiki kinalenga kuweka mfumo unaobadilika ambao hugundua anwani kiotomatiki na hukuruhusu kufanya malipo ya bitcoin bila msuguano. Katika mafunzo haya, tunagundua kiendelezi cha Alby na kujaribu jinsi kinavyorahisisha malipo kutoka kwa kivinjari.
+Kufanya malipo kuwa rahisi zaidi kwa kutumia bitcoin ni changamoto inayokabili makampuni mengi katika sekta hii. Alby inajitokeza kutoka kwa umati kwa kiendelezi chake cha Alby wallet kwa vivinjari. Kiendelezi hiki kinalenga kuweka mfumo unaobadilika ambao hugundua address kiotomatiki na hukuruhusu kufanya malipo ya bitcoin bila msuguano. Katika mafunzo haya, tunagundua kiendelezi cha Alby na kujaribu jinsi kinavyorahisisha malipo kutoka kwa kivinjari.
 
 
 
